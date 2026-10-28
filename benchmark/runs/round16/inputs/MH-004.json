@@ -1,0 +1,20 @@
+{
+ "uid": "MH-004",
+ "tradition": "meihua",
+ "subject": {
+  "name_or_desc": "占例所涉人/物（見 context）"
+ },
+ "context": {
+  "question": "今日動靜如何",
+  "asked_at": "原文未記干支日時（以問語字數起卦）",
+  "setting": "有客問邵雍：今日動靜如何；以此六字占之",
+  "attachments": {
+   "casting_method": "梅花易數（先天數/後天端法，詳見 method_detail）",
+   "method_detail": "字占：上卦「今日動」三字聲數（今平聲一、日入聲四、動去聲三）共八數得坤；下卦「靜如何」（靜去聲三、如平聲一、何平聲一）共五數得巽；總十三數除六餘一為初爻動",
+   "hexagram": "地風升，初爻動，變地天泰；互見震、兌"
+  }
+ },
+ "provenance": {
+  "book": "《梅花易數》"
+ }
+}
