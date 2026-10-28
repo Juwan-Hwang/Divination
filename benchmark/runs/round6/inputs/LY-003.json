@@ -1,0 +1,28 @@
+{
+ "uid": "LY-003",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）"
+ },
+ "context": {
+  "question": "占子病",
+  "asked_at": "酉月丙辰日",
+  "setting": "為人占子女之病",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "地風升（靜卦）；子孫午火伏於世爻妻財丑土之下",
+   "moving_lines": "無動爻（靜卦），用神伏藏",
+   "chart_lines_top_to_bottom": [
+    "官鬼酉金⚋",
+    "父母亥水⚋",
+    "妻財丑土⚋世",
+    "官鬼酉金⚊",
+    "父母亥水⚊",
+    "妻財丑土⚋應"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》"
+ }
+}
