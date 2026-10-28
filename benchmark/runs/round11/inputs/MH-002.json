@@ -1,0 +1,20 @@
+{
+ "uid": "MH-002",
+ "tradition": "meihua",
+ "subject": {
+  "name_or_desc": "占例所涉人/物（見 context）"
+ },
+ "context": {
+  "question": "牡丹占：花盛如此，亦有數乎",
+  "asked_at": "巳年三月十六日卯時",
+  "setting": "巳年三月十六日卯時，邵雍與客往司馬公家觀牡丹，花開甚盛，客問花亦有數乎，先生曰因問而可占",
+  "attachments": {
+   "casting_method": "梅花易數（先天數/後天端法，詳見 method_detail）",
+   "method_detail": "年月日時起卦：巳年六數＋三月三數＋十六日十六數＝二十五，除八餘一為乾作上卦；加卯時四數總二十九，除八餘五為巽作下卦；總數除六得五爻動",
+   "hexagram": "天風姤，五爻動，變火風鼎；互見重乾"
+  }
+ },
+ "provenance": {
+  "book": "《梅花易數》"
+ }
+}
