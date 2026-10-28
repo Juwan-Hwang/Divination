@@ -1,0 +1,24 @@
+{
+ "uid": "BZ-011",
+ "tradition": "bazi",
+ "subject": {
+  "name_or_desc": "未具名命主（原注未具名）",
+  "birth": {
+   "date": "原注未记生年，仅存四柱与大运",
+   "time": "庚午时（据时柱）",
+   "place": "未记"
+  },
+  "gender": "未明示"
+ },
+ "context": {
+  "question": "断此命造（一生格局、吉凶与运程）",
+  "asked_at": "清",
+  "setting": "与 ren-012 仅辰/丑一字之差的对造，任氏对断",
+  "attachments": {
+   "pillars": "癸未 丁巳 甲午 庚午；大运：丙辰 乙卯 甲寅 癸丑 壬子 辛亥"
+  }
+ },
+ "provenance": {
+  "book": "《滴天髓阐微》任铁樵注"
+ }
+}

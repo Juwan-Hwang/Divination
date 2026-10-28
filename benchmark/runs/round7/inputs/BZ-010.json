@@ -1,0 +1,24 @@
+{
+ "uid": "BZ-010",
+ "tradition": "bazi",
+ "subject": {
+  "name_or_desc": "未具名命主（原注未具名）",
+  "birth": {
+   "date": "原注未记生年，仅存四柱与大运",
+   "time": "丙戌时（据时柱）",
+   "place": "未记"
+  },
+  "gender": "未明示（仕宦造）"
+ },
+ "context": {
+  "question": "断此命造（一生格局、吉凶与运程）",
+  "asked_at": "清",
+  "setting": "命主未具名，中运入部办事",
+  "attachments": {
+   "pillars": "丁未 壬子 庚戌 丙戌；大运：辛亥 庚戌 己酉 戊申 丁未 丙午"
+  }
+ },
+ "provenance": {
+  "book": "《滴天髓阐微》任铁樵注"
+ }
+}
