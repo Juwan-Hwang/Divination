@@ -1,0 +1,20 @@
+{
+ "uid": "MH-008",
+ "tradition": "meihua",
+ "subject": {
+  "name_or_desc": "占例所涉人/物（見 context）"
+ },
+ "context": {
+  "question": "牛哀鳴占",
+  "asked_at": "癸卯日午時",
+  "setting": "癸卯日午時，有牛鳴于坎方，聲極悲，因占之",
+  "attachments": {
+   "casting_method": "梅花易數（先天數/後天端法，詳見 method_detail）",
+   "method_detail": "後天占：牛屬坤為上卦，坎方為下卦；坎六坤八加午時七數共二十一，除六餘三為動爻；引六三爻辭「師或輿屍，凶」",
+   "hexagram": "地水師，三爻動，變地風升；互見坤、震"
+  }
+ },
+ "provenance": {
+  "book": "《梅花易數》"
+ }
+}
