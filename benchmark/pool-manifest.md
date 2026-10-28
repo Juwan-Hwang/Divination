@@ -251,3 +251,16 @@ dev/test ≈ 69.4% / 30.6%。direction 分布（全池）：positive 77、negati
 - **处置**：BZ-101 alias → BZ-021。已删除 masters-dataset/splits.json 中 BZ-101 条目，并删除 masters-dataset/data/test_inputs.jsonl 与 masters-dataset/holdout/test_gold.jsonl 中 BZ-101 行；dev 侧 BZ-021 记录不动。
 - **总数变更**：pool 总数 134 → **133**；dev **93 不变**；test 41 → **40**。
 - **两条内容差异说明**：两条为同一案例的不同节录，断语节录详略不同——modern 版（BZ-101）上下文更全（其 context 字段长度大于 BZ-021 版，provenance 页码标注口径亦不同，BZ-021 版标为「应运篇（蒋介石造）」）。合并后**金标以 dev 的 BZ-021 为准合并计分**，BZ-101 不再作为独立案例单独计分。
+
+## Round 3 候选池启用追加（2026-10-29，数据角）
+
+- 依据：Round 3 预注册（benchmark/iterations.md 末节）与 Round 2 候选池登记。冻结的原 133 例划分一例未动；本节为追加记录，原有记录行未删改。封存动作详见 benchmark/runs/round3/test-seal-log-addendum.md。
+- **总数变更**：统一池 133 → **135**；dev 93 → **94**；test 40 → **41**。
+- 分项变更：chinese-natal 来源 +1（bazi，入 dev）；western 来源 +1（nativity，入 test 封存）。
+
+| uid | source_id | 分卷 | tradition | master | split |
+|---|---|---|---|---|---|
+| wei-023 | wei-023 | chinese-natal | bazi | 韦千里 | dev |
+| lilly-nativity-1616-merchant | lilly-nativity-1616-merchant | western | nativity | William Lilly | test |
+
+- 计分口径注记：wei-023 常规计分（源条目标 disputed，月柱经视觉补核订正，统一记录保留标注）；lilly-nativity-1616-merchant 应验项不计分（outcome 为 book_internal_only、只作断法示范），Round 3 仍不跑 test。
