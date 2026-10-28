@@ -1,0 +1,20 @@
+{
+ "uid": "MH-006",
+ "tradition": "meihua",
+ "subject": {
+  "name_or_desc": "占例所涉人/物（見 context）"
+ },
+ "context": {
+  "question": "老人有憂色占",
+  "asked_at": "己丑日卯時",
+  "setting": "己丑日卯時，邵雍途行，遇老人往巽方、面有憂色，問之曰無，怪而占之",
+  "attachments": {
+   "casting_method": "梅花易數（先天數/後天端法，詳見 method_detail）",
+   "method_detail": "後天端法占：老人屬乾為上卦，巽方為下卦；乾一巽五之數加卯時四數總十數，除六餘四為動爻；引九四爻辭「包無魚，起凶」",
+   "hexagram": "天風姤，四爻動，變巽為風"
+  }
+ },
+ "provenance": {
+  "book": "《梅花易數》"
+ }
+}

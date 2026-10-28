@@ -1,0 +1,28 @@
+{
+ "uid": "BZ-105",
+ "tradition": "bazi",
+ "subject": {
+  "name_or_desc": "某部军官（姓名未公开）",
+  "basic_info": "男，四柱：壬寅 庚戌 丙子 甲午",
+  "gender": "男"
+ },
+ "context": {
+  "question": "断此命造（一生格局、吉凶与运程）",
+  "asked_at": "1985年",
+  "setting": "1985年该军官向邵伟华求测运程；邵先就其柱中断其过去两个年份的经历以验盘。注意：此例属「测过去」的回溯验证，非未来预测",
+  "attachments": {
+   "pillars": [
+    "壬寅",
+    "庚戌",
+    "丙子",
+    "甲午"
+   ],
+   "day_master": "丙火",
+   "case_type": "retrodiction",
+   "source": "邵伟华《四柱预测学》疾病之例·例一，Scribd影印本 https://www.scribd.com/document/744311793/"
+  }
+ },
+ "provenance": {
+  "book": "《四柱预测学》"
+ }
+}
