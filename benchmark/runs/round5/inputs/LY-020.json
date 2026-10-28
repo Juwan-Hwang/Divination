@@ -1,0 +1,28 @@
+{
+ "uid": "LY-020",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）"
+ },
+ "context": {
+  "question": "占財",
+  "asked_at": "巳月丙申日",
+  "setting": "問求財",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "火水未濟之火風鼎",
+   "moving_lines": "三爻兄弟午火ㄨ（世）動",
+   "chart_lines_top_to_bottom": [
+    "兄弟巳火⚊應　兄弟巳火⚊",
+    "子孫未土⚋　　子孫未土⚋",
+    "妻財酉金⚊　　妻財酉金⚊",
+    "兄弟午火ㄨ世　妻財酉金⚊",
+    "子孫辰土⚊　　官鬼亥水⚊",
+    "父母寅木⚋　　子孫丑土⚋"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》"
+ }
+}
