@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite it as below. (Working title — pending confirmation by the dataset owner; not yet publicly released.)"
+title: "MastersDivination Benchmark"
+version: "0.1.0"
+date-released: "2026-10-29"
+authors:
+  - name: "MastersDivination Benchmark Working Group"
+abstract: >-
+  A method-agnostic benchmark of historical master divination cases.
+  Each case provides the subject and the situation known at the time,
+  plus the recorded predictions of recognized masters (any tradition)
+  and the recorded outcome. Systems are scored only on agreement with
+  the masters' results: conclusion direction, key specific assertions,
+  and outcome alignment. The benchmark measures agreement with master
+  readings; it does not claim to measure supernatural accuracy.
+keywords:
+  - divination
+  - benchmark
+  - I Ching
+  - history of astrology
+  - evaluation
+license: "Mixed — per-record license_status and redistributable fields govern reuse"

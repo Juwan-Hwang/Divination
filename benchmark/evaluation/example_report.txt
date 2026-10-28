@@ -1,0 +1,19 @@
+MastersDivination Benchmark — Evaluation Report
+gold=masters-dataset/data/dev.jsonl  pred=benchmark/evaluation/example_predictions.jsonl
+cases=4  answered=4  missing=[]
+方向一致率 direction accuracy: 3/4 = 0.750
+关键断语对齐 assertion alignment (judged 4): 0.750
+应验对齐 outcome alignment (judged 4): 0.625
+通过率 pass (total>=4, judged only): 3/4 = 0.750
+跨体系收敛 cross-system convergence: 1 例
+-- per case --
+LY-01 [六爻纳甲 / 野鹤老人（《增删卜易》）] direction=OK assertion=2 outcome=2 pass=True convergent=False
+LY-02 [六爻纳甲 / 野鹤老人（《增删卜易》）] direction=OK assertion=2 outcome=1 pass=True convergent=False
+MH-01 [梅花易数 / 邵雍（托名，《梅花易数》）] direction=OK assertion=2 outcome=2 pass=True convergent=True
+MH-02 [梅花易数 / 邵雍（托名，《梅花易数》）] direction=MISS assertion=0 outcome=0 pass=False convergent=False
+-- by tradition (mean case score, direction=1pt + judged halves) --
+六爻纳甲: 1.875 (n=2)
+梅花易数: 1.000 (n=2)
+-- by master --
+邵雍（托名，《梅花易数》）: 1.000 (n=2)
+野鹤老人（《增删卜易》）: 1.875 (n=2)
