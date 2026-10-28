@@ -1,0 +1,20 @@
+{
+ "uid": "MH-007",
+ "tradition": "meihua",
+ "subject": {
+  "name_or_desc": "占例所涉人/物（見 context）"
+ },
+ "context": {
+  "question": "少年有喜色占",
+  "asked_at": "壬申日午時",
+  "setting": "壬申日午時，有少年從離方來，喜形於色，問有何喜，曰無，逐占之",
+  "attachments": {
+   "casting_method": "梅花易數（先天數/後天端法，詳見 method_detail）",
+   "method_detail": "後天端法占：少年屬艮為上卦，離方為下卦；艮七離三加午時七數總十七，除六餘五為動爻；引六五爻辭「賁於丘園，束帛戔戔，吝，終吉」",
+   "hexagram": "山火賁，五爻動，變風火家人；互見震、坎"
+  }
+ },
+ "provenance": {
+  "book": "《梅花易數》"
+ }
+}
