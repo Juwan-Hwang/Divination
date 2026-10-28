@@ -1,0 +1,653 @@
+{
+ "AS-003": {
+  "direction_score": 2.0,
+  "assertions_score": 1.5,
+  "outcome_score": 1.0,
+  "total": 4.5,
+  "pass": true
+ },
+ "AS-004": {
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 6.0,
+  "pass": true
+ },
+ "AS-005": {
+  "direction_score": 2.0,
+  "assertions_score": 1.0,
+  "outcome_score": 1.0,
+  "total": 4.0,
+  "pass": true
+ },
+ "AS-006": {
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 6.0,
+  "pass": true
+ },
+ "AS-007": {
+  "direction_score": 2.0,
+  "assertions_score": 1.0,
+  "outcome_score": 1.5,
+  "total": 4.5,
+  "pass": true
+ },
+ "AS-008": {
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 6.0,
+  "pass": true
+ },
+ "AS-009": {
+  "direction_score": 2,
+  "assertions_score": 2,
+  "outcome_score": 2,
+  "total": 6,
+  "pass": true
+ },
+ "AS-012": {
+  "direction_score": 2.0,
+  "assertions_score": 1.0,
+  "outcome_score": 1.5,
+  "total": 4.5,
+  "pass": true
+ },
+ "AS-013": {
+  "direction_score": 1.0,
+  "assertions_score": 2.0,
+  "outcome_score": 1.0,
+  "total": 4.0,
+  "pass": true
+ },
+ "AS-015": {
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 6.0,
+  "pass": true
+ },
+ "AS-301": {
+  "direction_score": 2.0,
+  "assertions_score": 1.0,
+  "outcome_score": 1.5,
+  "total": 4.5,
+  "pass": true
+ },
+ "AS-302": {
+  "direction_score": 0.0,
+  "assertions_score": 1.0,
+  "outcome_score": 2.0,
+  "total": 3.0,
+  "pass": false
+ },
+ "AS-306": {
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 6.0,
+  "pass": true
+ },
+ "AS-307": {
+  "direction_score": 0.0,
+  "assertions_score": 0.0,
+  "outcome_score": 2.0,
+  "total": 2.0,
+  "pass": false
+ },
+ "BZ-001": {
+  "direction_score": 1.0,
+  "assertions_score": 1.0,
+  "outcome_score": 1.0,
+  "total": 3.0,
+  "pass": false
+ },
+ "BZ-003": {
+  "direction_score": 2.0,
+  "assertions_score": 1.5,
+  "outcome_score": 1.0,
+  "total": 4.5,
+  "pass": true
+ },
+ "BZ-006": {
+  "direction_score": 1.0,
+  "assertions_score": 1.0,
+  "outcome_score": 0.0,
+  "total": 2.0,
+  "pass": false
+ },
+ "BZ-007": {
+  "direction_score": 1.0,
+  "assertions_score": 1.0,
+  "outcome_score": 1.0,
+  "total": 3.0,
+  "pass": false
+ },
+ "BZ-009": {
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 6.0,
+  "pass": true
+ },
+ "BZ-010": {
+  "direction_score": 1.0,
+  "assertions_score": 1.0,
+  "outcome_score": 0.5,
+  "total": 2.5,
+  "pass": false
+ },
+ "BZ-011": {
+  "direction_score": 0.0,
+  "assertions_score": 1.0,
+  "outcome_score": 0.0,
+  "total": 1.0,
+  "pass": false
+ },
+ "BZ-012": {
+  "direction_score": 2,
+  "assertions_score": 2,
+  "outcome_score": 2,
+  "total": 6,
+  "pass": true
+ },
+ "BZ-015": {
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 1.5,
+  "total": 5.5,
+  "pass": true
+ },
+ "BZ-016": {
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 6.0,
+  "pass": true
+ },
+ "BZ-018": {
+  "direction_score": 0.0,
+  "assertions_score": 0.0,
+  "outcome_score": 0.0,
+  "total": 0.0,
+  "pass": false
+ },
+ "BZ-019": {
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 6.0,
+  "pass": true
+ },
+ "BZ-021": {
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 6.0,
+  "pass": true
+ },
+ "BZ-022": {
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 6.0,
+  "pass": true
+ },
+ "BZ-023": {
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 6.0,
+  "pass": true
+ },
+ "BZ-024": {
+  "direction_score": 2.0,
+  "assertions_score": 1.0,
+  "outcome_score": 1.0,
+  "total": 4.0,
+  "pass": true
+ },
+ "BZ-026": {
+  "direction_score": 1.0,
+  "assertions_score": 2.0,
+  "outcome_score": 1.0,
+  "total": 4.0,
+  "pass": true
+ },
+ "BZ-027": {
+  "direction_score": 1.0,
+  "assertions_score": 1.0,
+  "outcome_score": 1.0,
+  "total": 3.0,
+  "pass": false
+ },
+ "BZ-028": {
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 6.0,
+  "pass": true
+ },
+ "BZ-029": {
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 1.0,
+  "total": 5.0,
+  "pass": true
+ },
+ "BZ-030": {
+  "direction_score": 2.0,
+  "assertions_score": 1.5,
+  "outcome_score": 2.0,
+  "total": 5.5,
+  "pass": true
+ },
+ "BZ-031": {
+  "direction_score": 2.0,
+  "assertions_score": 1.5,
+  "outcome_score": 2.0,
+  "total": 5.5,
+  "pass": true
+ },
+ "BZ-032": {
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 6.0,
+  "pass": true
+ },
+ "BZ-033": {
+  "direction_score": 1.0,
+  "assertions_score": 1.0,
+  "outcome_score": 1.0,
+  "total": 3.0,
+  "pass": false
+ },
+ "BZ-034": {
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 6.0,
+  "pass": true
+ },
+ "BZ-038": {
+  "direction_score": 1.5,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 5.5,
+  "pass": true
+ },
+ "BZ-039": {
+  "direction_score": 2,
+  "assertions_score": 2,
+  "outcome_score": 2,
+  "total": 6,
+  "pass": true
+ },
+ "BZ-040": {
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 1.5,
+  "total": 5.5,
+  "pass": true
+ },
+ "BZ-042": {
+  "direction_score": 1.0,
+  "assertions_score": 1.0,
+  "outcome_score": 1.0,
+  "total": 3.0,
+  "pass": false
+ },
+ "BZ-102": {
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 6.0,
+  "pass": true
+ },
+ "BZ-103": {
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 6.0,
+  "pass": true
+ },
+ "BZ-104": {
+  "direction_score": 2.0,
+  "assertions_score": 1.0,
+  "outcome_score": 1.0,
+  "total": 4.0,
+  "pass": true
+ },
+ "BZ-105": {
+  "direction_score": 1.0,
+  "assertions_score": 1.0,
+  "outcome_score": 1.0,
+  "total": 3.0,
+  "pass": false
+ },
+ "BZ-301": {
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 0.0,
+  "total": 4.0,
+  "pass": true
+ },
+ "BZ-302": {
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 6.0,
+  "pass": true
+ },
+ "BZ-303": {
+  "direction_score": 2.0,
+  "assertions_score": 1.0,
+  "outcome_score": 1.0,
+  "total": 4.0,
+  "pass": true
+ },
+ "BZ-304": {
+  "direction_score": 0,
+  "assertions_score": 1,
+  "outcome_score": 2,
+  "total": 3,
+  "pass": false
+ },
+ "LY-001": {
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 6.0,
+  "pass": true
+ },
+ "LY-003": {
+  "direction_score": 0.0,
+  "assertions_score": 0.0,
+  "outcome_score": 0.0,
+  "total": 0.0,
+  "pass": false
+ },
+ "LY-004": {
+  "direction_score": 1.0,
+  "assertions_score": 1.0,
+  "outcome_score": 1.0,
+  "total": 3.0,
+  "pass": false
+ },
+ "LY-005": {
+  "direction_score": 2.0,
+  "assertions_score": 1.0,
+  "outcome_score": 1.0,
+  "total": 4.0,
+  "pass": true
+ },
+ "LY-006": {
+  "direction_score": 0.0,
+  "assertions_score": 0.0,
+  "outcome_score": 0.0,
+  "total": 0.0,
+  "pass": false
+ },
+ "LY-007": {
+  "direction_score": 2,
+  "assertions_score": 2,
+  "outcome_score": 2,
+  "total": 6,
+  "pass": true
+ },
+ "LY-009": {
+  "direction_score": 2.0,
+  "assertions_score": 1.0,
+  "outcome_score": 1.0,
+  "total": 4.0,
+  "pass": true
+ },
+ "LY-01": {
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 6.0,
+  "pass": true
+ },
+ "LY-010": {
+  "direction_score": 2.0,
+  "assertions_score": 1.0,
+  "outcome_score": 1.5,
+  "total": 4.5,
+  "pass": true
+ },
+ "LY-012": {
+  "direction_score": 2.0,
+  "assertions_score": 1.0,
+  "outcome_score": 1.0,
+  "total": 4.0,
+  "pass": true
+ },
+ "LY-013": {
+  "direction_score": 0.0,
+  "assertions_score": 0.0,
+  "outcome_score": 0.0,
+  "total": 0.0,
+  "pass": false
+ },
+ "LY-015": {
+  "direction_score": 0.0,
+  "assertions_score": 0.0,
+  "outcome_score": 0.0,
+  "total": 0.0,
+  "pass": false
+ },
+ "LY-016": {
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 6.0,
+  "pass": true
+ },
+ "LY-018": {
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 6.0,
+  "pass": true
+ },
+ "LY-020": {
+  "direction_score": 0.0,
+  "assertions_score": 0.0,
+  "outcome_score": 0.0,
+  "total": 0.0,
+  "pass": false
+ },
+ "LY-023": {
+  "direction_score": 1.0,
+  "assertions_score": 1.0,
+  "outcome_score": 1.0,
+  "total": 3.0,
+  "pass": false
+ },
+ "LY-024": {
+  "direction_score": 2.0,
+  "assertions_score": 1.5,
+  "outcome_score": 1.0,
+  "total": 4.5,
+  "pass": true
+ },
+ "LY-026": {
+  "direction_score": 2.0,
+  "assertions_score": 1.0,
+  "outcome_score": 1.0,
+  "total": 4.0,
+  "pass": true
+ },
+ "LY-027": {
+  "direction_score": 2,
+  "assertions_score": 2,
+  "outcome_score": 1,
+  "total": 5,
+  "pass": true
+ },
+ "LY-028": {
+  "direction_score": 1.0,
+  "assertions_score": 1.0,
+  "outcome_score": 1.0,
+  "total": 3.0,
+  "pass": false
+ },
+ "LY-029": {
+  "direction_score": 2.0,
+  "assertions_score": 1.0,
+  "outcome_score": 1.0,
+  "total": 4.0,
+  "pass": true
+ },
+ "LY-030": {
+  "direction_score": 1.0,
+  "assertions_score": 1.0,
+  "outcome_score": 1.0,
+  "total": 3.0,
+  "pass": false
+ },
+ "LY-031": {
+  "direction_score": 1,
+  "assertions_score": 1,
+  "outcome_score": 1,
+  "total": 3,
+  "pass": false
+ },
+ "LY-032": {
+  "direction_score": 0.0,
+  "assertions_score": 0.0,
+  "outcome_score": 0.0,
+  "total": 0.0,
+  "pass": false
+ },
+ "LY-033": {
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 6.0,
+  "pass": true
+ },
+ "LY-035": {
+  "direction_score": 2.0,
+  "assertions_score": 1.0,
+  "outcome_score": 1.0,
+  "total": 4.0,
+  "pass": true
+ },
+ "LY-036": {
+  "direction_score": 2.0,
+  "assertions_score": 1.0,
+  "outcome_score": 1.0,
+  "total": 4.0,
+  "pass": true
+ },
+ "LY-101": {
+  "direction_score": 2,
+  "assertions_score": 1,
+  "outcome_score": 0,
+  "total": 3,
+  "pass": false
+ },
+ "LY-102": {
+  "direction_score": 2.0,
+  "assertions_score": 1.5,
+  "outcome_score": 2.0,
+  "total": 5.5,
+  "pass": true
+ },
+ "LY-104": {
+  "direction_score": 0.0,
+  "assertions_score": 0.5,
+  "outcome_score": 0.0,
+  "total": 0.5,
+  "pass": false
+ },
+ "MH-001": {
+  "direction_score": 1.5,
+  "assertions_score": 1.5,
+  "outcome_score": 1.5,
+  "total": 4.5,
+  "pass": true
+ },
+ "MH-002": {
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 6.0,
+  "pass": true
+ },
+ "MH-004": {
+  "direction_score": 1.0,
+  "assertions_score": 0.0,
+  "outcome_score": 0.0,
+  "total": 1.0,
+  "pass": false
+ },
+ "MH-006": {
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 6.0,
+  "pass": true
+ },
+ "MH-007": {
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 6.0,
+  "pass": true
+ },
+ "MH-008": {
+  "direction_score": 2.0,
+  "assertions_score": 1.0,
+  "outcome_score": 1.0,
+  "total": 4.0,
+  "pass": true
+ },
+ "MH-009": {
+  "direction_score": 1.0,
+  "assertions_score": 0.5,
+  "outcome_score": 1.0,
+  "total": 2.5,
+  "pass": false
+ },
+ "ZW-002": {
+  "direction_score": 2,
+  "assertions_score": 2,
+  "outcome_score": 2,
+  "total": 6,
+  "pass": true
+ },
+ "ZW-003": {
+  "direction_score": 2,
+  "assertions_score": 1,
+  "outcome_score": 2,
+  "total": 5,
+  "pass": true
+ },
+ "ZY-001": {
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 6.0,
+  "pass": true
+ },
+ "ZY-002": {
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 6.0,
+  "pass": true
+ },
+ "ZY-004": {
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 6.0,
+  "pass": true
+ }
+}

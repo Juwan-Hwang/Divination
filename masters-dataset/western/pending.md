@@ -2,23 +2,25 @@
 
 以下条目均已定位出处，但未能核到足够干净的原文或关键数据缺失，**不进验证集**，后续处理时按注明路径补核。绝不以二手转述冒充大师原断。
 
-## Lilly《Christian Astrology》相关
+## 已解决（2026-10-29，多模态视觉读图）
 
-1. **商人本命盘（Book III 完整推断例）**
-   - 已知：命主为商人，生于 1616 年 9 月 19 日（“A Merchant Born … the 19 of September Anno 1616”）；Lilly 在 Book III 末尾给出逐宫断语及 1646–1650 年的推运/推限逐年判断（原书 pp.500+）。
-   - 缺口：出生时刻只印在盘图（speculum）内，1647 扫描 OCR 不可读；逐年判断在书出版时尚未应验，书内无 outcome。
-   - 补核路径：查 1659 年第二版扫描的 OCR 质量，或对照 Internet Archive 同馆藏 2022 Edition 的文本层逐字核对出生时刻；若仍无应验记录，此例只能作「断法示范」而非验证例，需在条目中明标。
+1. **商人本命盘（Book III 完整推断例）——已入集 `lilly-nativity-1616-merchant`**
+   - 解决方式：Internet Archive 1647 初版扫描 BookReader 页图（leaf 533＝印刷 p.500 盘图；leaf 542＝p.511 Speculum）视觉转录。盘图中心题字逐字读出：「A Merchant borne 1616 / ♃ 19 Septemb / 2ʰ.24.30 P.M / Lat. 53」，即 1616 年 9 月 19 日（星期四）下午 2:24:30、纬度 53°；盘面关键位置（Asc 摩羯 6°37′、MC 天蝎 14°39′、月亮双子 1°44′、土星金牛 9°02′）与 Speculum 及正文互证。1852 合卷本正文亦载同一日期时刻（至分）。
+   - 口径：正文自称此为 estimative time（估计时刻），后经 Accidents（已发生事件）校准；条目已注明。书内无应验结局，answers 的 outcome 标 `book_internal_only`，只作断法示范例、不作应验验证。转录标注 transcription:"visual"，日期/时刻 confidence: high。
 
-2. **Reading 役年份出入（已收例 lilly-horary-1643-reading 的遗留问题）**
-   - 1647 OCR 作 “The Town was delivered … the 27th of April, 1644”，但史实上雷丁围城投降在 1643 年 4 月。疑为原书误植或 OCR 误读（3/4 形近）。
-   - 补核路径：看 1647 原版扫描图像该页，或 1659 版同段文字，确认年份字形后回改 inputs 的 moment 字段。
+2. **Reading 役年份出入——已定案，已回改 `lilly-horary-1643-reading`**
+   - 解决方式：1647 初版扫描该页（leaf 435＝印刷 p.402）视觉读图并放大复核：原书印作 “The Towne was delivered for the Parliaments use the 27th of April, 1644.”，两个年份数字字形均为「4」，transcription:"visual"，confidence: high。
+   - 结论：**1644 是 Lilly 原书自身的误植，不是 OCR 误读**；史实上雷丁投降为 1643 年 4 月 27 日。条目 id 按事件年保留 1643，moment/notes 已注明书印 1644。
+
+4. **第 1 例（absent-son）问卜日期——已定案，已回改 `lilly-horary-1638-absent-son`**
+   - 解决方式：盘图（leaf 185＝印刷 p.152）视觉转录题头逐字：「Anno: Dom: 1638 die ♃ / 19°: Iuly: / 23: h: 45: P.M / 2: Question.」，定案为 1638 年 7 月 19 日星期四，日期 confidence: high（盘面 Asc 天秤 25°23′、木星在一宫与正文 p.155 互证；正文载指示星 7 月 25 日下午 2 时成三分相）。
+   - 遗留小项：题头时刻 token 含未解的「23」（疑纬度分），精确时刻 confidence: medium，未写成定论，条目内已并记 verbatim 字形与存疑说明。
+
+## Lilly《Christian Astrology》相关（仍待办）
 
 3. **丈夫在海外例（lilly-horary-husband-at-sea）的丈夫归期**
    - 已收部分：丈夫无恙、妻子死亡时间窗，均有原文与应验。
    - 缺口：该章对其丈夫「where, when return」的具体断语在 OCR 中段残缺，未能逐字核出，故未写入 master_predictions；补核路径同上（对照 1852 本 Chap. 对应节或更清晰的扫描）。
-
-4. **第 1 例（absent-son）问卜日期**
-   - 1647 盘图题头 OCR 残缺（“Anno Dom. 1638 … July …”），1852 本作母子二人指示星于 7 月 25 日成三分相。已按「1638 年 7 月、相位于 25 日成相」记录并注明；若需精确到日/时，需查原版盘图图像。
 
 5. **Book II 其余已断图例（约 36 幅历史盘中的其余部分）**
    - Houlding 版称全书含 36 幅历史盘；本轮优先抽了结局明确、断语完整的 15 例。其余如 Chap. LXXX “If Presbytery shall stand”（出版时未有结局）、若干疾病 decumbiture 例（断语散在规则中）未收。
