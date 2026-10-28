@@ -1,0 +1,28 @@
+{
+ "uid": "LY-013",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）"
+ },
+ "context": {
+  "question": "占夫病（妻占夫，夫命癸亥）",
+  "asked_at": "申月戊辰日",
+  "setting": "妻為病夫占，夫本命癸亥",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "天火同人之離為火（卦名原文未直書，據所附裝卦推得）",
+   "moving_lines": "五爻妻財申金○動",
+   "chart_lines_top_to_bottom": [
+    "子孫戌土⚊應　兄弟巳火⚊",
+    "妻財申金○　　子孫未土⚋",
+    "兄弟午火⚊　　妻財酉金⚊",
+    "官鬼亥水⚊世　官鬼亥水⚊",
+    "子孫丑土⚋　　子孫丑土⚋",
+    "父母卯木⚊　　父母卯木⚊"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》"
+ }
+}
