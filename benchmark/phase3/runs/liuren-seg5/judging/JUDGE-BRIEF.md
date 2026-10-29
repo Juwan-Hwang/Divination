@@ -4,7 +4,7 @@
 `benchmark/phase3/runs/calib-r17/JUDGE-PROMPT.txt`——逐字执行，不得改写、不得增删规则。
 
 ## 你的包
-你评**全部两包**：`benchmark/phase3/runs/liuren-seg5/judging/packetA.json`（9 条）与 `packetB.json`（8 条），合起来是我方全部 17 例断语（匿名）。包内 prediction 结构化字段为 null 属既定形态——**断语正文经主持映射回读**：用 `benchmark/phase3/runs/liuren-seg5/judging/host-mapping.json`（anon_id → case_id）定位案例，再读 `benchmark/phase3/runs/liuren-seg5/predictions/<case_id>.json` 的 prediction_text 作为被评断语；包内 outcome_record 即该例结局。大师侧分数由主持以既有基线配对，不归你评。
+你评**全部两包**：`benchmark/phase3/runs/liuren-seg5/judging/packetA.json`（9 条）与 `packetB.json`（8 条），合起来是我方全部 17 例断语（匿名）。包内 prediction 结构化字段为 null 属既定形态——**断语正文经主持映射回读**：用 `benchmark/phase3/runs/liuren-seg5/judging/host-mapping.json`（anon_id → case_id）定位案例，再读 `benchmark/phase3/runs/liuren-seg5/predictions-frozen/<case_id>.json` 的 prediction_text 作为被评断语；包内 outcome_record 即该例结局。大师侧分数由主持以既有基线配对，不归你评。
 
 ## 评分口径（冻结提示细则）
 - 三项各 0–2 分、0.5 步进：direction（方向）、claims（具体断言命中）、timing（应期）。total＝三项和（满分 6），pass＝total ≥ 4。
