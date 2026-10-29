@@ -1,0 +1,14 @@
+{
+ "case_id": "ZY-003",
+ "system": "zhouyi",
+ "direction": "negative",
+ "prediction_text": "穆姜不得出东宫，终困死于幽所。随卦辞虽言元亨利贞无咎，然元亨利贞为君之四德，穆姜自审无此四德（元无仁始、亨无嘉会、利无义和、贞无干固），辞之吉不属于她；貌从辞吉而实应其凶，必速出之占史断为妄，她不会被放出，将老死东宫。",
+ "timing": "无出期（年档终局：余生困于东宫以终）",
+ "confidence": 0.85,
+ "basis": "左传襄公九年艮之随：所据随辞元亨利贞无咎，按通则(d)爻辞取象核对须合受占者之德与事实优先序——穆姜谋乱事败被迁为事实，无四德则吉辞不应于她，自断为准。非六爻，trigger三项false。",
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false
+ }
+}
