@@ -764,3 +764,6 @@ dev5 零改动基线轮完成（方法＝R14 版，逐字未动）：全集（n=
 - 盲测/评审提示逐字冻结（runs/calib-r17/JUDGE-PROMPT.txt、BLIND-PROMPT.txt）；盲测只读 inputs7 与 method，作断不拘体系（口径纠正登记）；trigger 沿 R19 口径（六爻四布尔含 dir_flipped，非六爻全 false）。
 - 评分口径：冻结量表双评审＋分歧仲裁（claims＋timing 差 ≥2 或 pass 不一致进仲裁）；配对基线＝master-baseline-dev7.json（dev6 段沿用＋holdout6 段验收定稿＋dev-add 63 例新建，建构记录存 data/dev7-baseline-build/）。
 - 报告口径：全集/低污染配对差为主，另按来源层级分层（古典六爻存量、expansion6-new、legacy）与体系分项；n<5 分项标注样本不足。本轮零改动，不设回滚判据；结果为 R22 干预立轮的诊断输入（靶点：方向逐例裁决质量＋断语具体断言命中；已证伪层不得换名重立）。
+
+## 2026-10-29 Phase 3 Round 21（dev7 零改动基线）
+- dev7（334 例）基线点：我方 3.540 vs 大师 4.585，配对差 −1.046（98/21/215）。high 段 +0.970 反超、expansion6-new 段 +1.551、legacy 段 −0.207；差距集中于古典六爻低污染段（−1.770，n=224）。残损输入假设弱（残损 −1.893 vs 完整 −1.706）。详见 runs/round21/REPORT.md。评审首派禁令事故已隔离存证并重派，不影响定稿。
