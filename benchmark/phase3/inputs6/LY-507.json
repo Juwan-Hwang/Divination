@@ -1,0 +1,33 @@
+{
+ "id": "LY-507",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占終身財福",
+  "asked_at": "酉月辛未日",
+  "setting": "占終身財福有無",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "山雷頤（靜卦）",
+   "moving_lines": "無動爻（靜卦）",
+   "chart_lines_top_to_bottom": [
+    "兄弟寅木⚊",
+    "父母子水⚋",
+    "妻財戌土⚋世",
+    "妻財辰土⚋",
+    "兄弟寅木⚋",
+    "父母子水⚊應"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文庫本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之三·終身財福章第三十七"
+ },
+ "language": "zh-Hant"
+}

@@ -1,0 +1,32 @@
+{
+ "id": "LY-008",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）"
+ },
+ "context": {
+  "question": "占病",
+  "asked_at": "申月辛卯日",
+  "setting": "此公因抱危症占病",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "澤天夬之雷天大壯",
+   "moving_lines": "五爻子孫酉金○（世）動",
+   "chart_lines_top_to_bottom": [
+    "兄弟未土⚋　　兄弟戌土⚋",
+    "子孫酉金○世　子孫申金⚋",
+    "妻財亥水⚊　　父母午火⚊",
+    "兄弟辰土⚊　　兄弟辰土⚊",
+    "官鬼寅木⚊應　官鬼寅木⚊",
+    "妻財子水⚊　　妻財子水⚊"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之二·進神退神章第二十九"
+ },
+ "language": "zh-Hant",
+ "split": "test"
+}

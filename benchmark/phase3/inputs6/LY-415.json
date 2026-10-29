@@ -1,0 +1,33 @@
+{
+ "id": "LY-415",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占已定重罪可蒙赦免否",
+  "asked_at": "未月戊辰日",
+  "setting": "占已定重罪之人可否蒙赦免",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "山風蠱之山澤損（卦名原文未直書，據裝卦推得）",
+   "moving_lines": "三爻官鬼酉金○動、初爻妻財丑土ㄨ動",
+   "chart_lines_top_to_bottom": [
+    "兄弟寅木⚊應　兄弟寅木⚊",
+    "父母子水⚋　　父母子水⚋",
+    "妻財戌土⚋　　妻財戌土⚋",
+    "官鬼酉金○世　妻財丑土⚋",
+    "父母亥水⚊　　兄弟卯木⚊",
+    "妻財丑土ㄨ　　子孫巳火⚊"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文庫本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之二·隨鬼入墓章第三十"
+ },
+ "language": "zh-Hant"
+}

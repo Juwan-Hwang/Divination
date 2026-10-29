@@ -1,0 +1,33 @@
+{
+ "id": "LY-439",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占本日陰晴",
+  "asked_at": "午月丁亥日",
+  "setting": "占本日陰晴",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "天山遁之天地否（原文作逐之否，逐為遁之形訛）",
+   "moving_lines": "三爻兄弟申金○動",
+   "chart_lines_top_to_bottom": [
+    "父母戌土⚊　　父母戌土⚊",
+    "兄弟申金⚊應　兄弟申金⚊",
+    "官鬼午火⚊　　官鬼午火⚊",
+    "兄弟申金○　　妻財卯木⚋",
+    "官鬼午火⚋世　官鬼巳火⚋",
+    "父母辰土⚋　　父母未土⚋"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文庫本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之二·天時章第三十五"
+ },
+ "language": "zh-Hant"
+}

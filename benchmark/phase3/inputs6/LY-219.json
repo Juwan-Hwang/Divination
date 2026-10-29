@@ -1,0 +1,33 @@
+{
+ "id": "LY-219",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占父壽",
+  "asked_at": "巳月乙酉日",
+  "setting": "問父親壽元",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "巽為風之天風姤",
+   "moving_lines": "四爻妻財未土ㄨ動",
+   "chart_lines_top_to_bottom": [
+    "兄弟卯木⚊世　妻財戌土⚊",
+    "子孫巳火⚊　　官鬼申金⚊",
+    "妻財未土ㄨ　　子孫午火⚊",
+    "官鬼酉金⚊應　官鬼酉金⚊",
+    "父母亥水⚊　　父母亥水⚊",
+    "妻財丑土⚋　　妻財丑土⚋"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之三·父母壽元章第四十一"
+ },
+ "language": "zh-Hant"
+}

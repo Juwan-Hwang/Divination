@@ -1,0 +1,33 @@
+{
+ "id": "LY-203",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占財福",
+  "asked_at": "午月丙子日",
+  "setting": "其人目不識丁、農生度日，問財福",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "地火明夷之雷火豐",
+   "moving_lines": "四爻官鬼丑土ㄨ動",
+   "chart_lines_top_to_bottom": [
+    "父母酉金⚋　　官鬼戌土⚋",
+    "兄弟亥水⚋　　父母申金⚋",
+    "官鬼丑土ㄨ世　妻財午火⚊",
+    "兄弟亥水⚊　　兄弟亥水⚊",
+    "官鬼丑土⚋　　官鬼丑土⚋",
+    "子孫卯木⚊應　子孫卯木⚊"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之三·終身財福章第三十七"
+ },
+ "language": "zh-Hant"
+}

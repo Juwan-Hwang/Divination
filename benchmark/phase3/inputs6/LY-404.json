@@ -1,0 +1,33 @@
+{
+ "id": "LY-404",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占功名始得出仕否",
+  "asked_at": "未月丁卯日",
+  "setting": "占功名，問何時始得出仕",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "天火同人之澤火革",
+   "moving_lines": "上爻子孫戌土○動",
+   "chart_lines_top_to_bottom": [
+    "子孫戌土○應　子孫未土⚋",
+    "妻財申金⚊　　妻財酉金⚊",
+    "兄弟午火⚊　　官鬼亥水⚊",
+    "官鬼亥水⚊世　官鬼亥水⚊",
+    "子孫丑土⚋　　子孫丑土⚋",
+    "父母卯木⚊　　父母卯木⚊"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文庫本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之二·進神退神章第二十九"
+ },
+ "language": "zh-Hant"
+}

@@ -1,0 +1,25 @@
+{
+ "id": "AS-001",
+ "subject": {
+  "name_or_desc": "A woman, at Lilly's house in the country"
+ },
+ "context": {
+  "question": "Is my son with his master, or at my own house?",
+  "asked_at": "Question figure discussed as of July 1638 (figure heading in the 1647 printing is partly illegible in OCR: 'Anno Dom. 1638 ... July'); Lilly computed from the ephemeris that the significators of mother and son perfected a trine on 25 July at 2 p.m.",
+  "setting": "Her son was away from home; she did not know where he was staying",
+  "attachments": {
+   "ascendant": "25° Libra",
+   "asc_ruler": "Venus (lady of the ascendant, significator of the querent/mother)",
+   "key_positions": "Jupiter, lord of the 5th (the son's significator), placed in the Ascendant (east angle); Moon in 27° Pisces applying to a sextile of Saturn, lord of the 4th (the mother's dwelling); Mars lord of the 6th in Sagittarius; the absent party also described by Jupiter in the Ascendant and Venus in the 9th",
+   "note": "Positions as stated in Lilly's prose judgment; the full figure is printed as Fig. 3 in the 1852 edition and in Book II of the 1647 original."
+  }
+ },
+ "provenance": {
+  "book": "William Lilly, Christian Astrology (1647), Book II",
+  "edition": "1647 first edition (Internet Archive scan OCR); wording cross-checked against the 1852 Zadkiel edition where noted",
+  "url": "https://archive.org/details/christian-astrology-1647",
+  "page": "Book II, the example figure resolving four queries (1st: if a party might be found at home; 4th: if one absent be dead or alive) — 1647 pp.190ff in modern reprint pagination; Fig. 3 in the 1852 Zadkiel edition"
+ },
+ "language": "en",
+ "split": "test"
+}

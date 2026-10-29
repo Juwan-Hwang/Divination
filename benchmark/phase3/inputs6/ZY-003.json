@@ -1,0 +1,23 @@
+{
+ "id": "ZY-003",
+ "subject": {
+  "name_or_desc": "穆姜遷東宮後能否得出"
+ },
+ "context": {
+  "question": "穆姜遷東宮後能否得出",
+  "asked_at": "魯襄公九年（前564年）追記其始遷東宮時之筮",
+  "setting": "穆姜（魯宣公夫人）與叔孫僑如謀亂事敗，被遷於東宮軟禁；始往而筮之，問能否速出。占史斷「必速出」，穆姜自斷相反——本例金標以穆姜自斷為準，史官之斷同錄於 predictions 第二條供對照",
+  "attachments": {
+   "casting_method": "蓍筮（《周易》筮占，左傳所載一爻變例）",
+   "casting": "遇《艮》之八，是謂《艮》之《隨》（艮變隨；「八」為筮數，動爻原傳未明言）；所據為隨卦辭「元亨利貞，無咎」"
+  }
+ },
+ "provenance": {
+  "book": "《左傳》",
+  "edition": "通行本（核對經維基文庫系統外之公開全文與學術轉引，見 SOURCES.md）",
+  "url": "https://zh.wikisource.org/wiki/春秋左氏傳",
+  "page": "襄公九年"
+ },
+ "language": "zh-Hant",
+ "split": "test"
+}

@@ -1,0 +1,33 @@
+{
+ "id": "LY-231",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占在任平安否（流年）",
+  "asked_at": "寅月壬午日",
+  "setting": "在任者占流年平安，自憂世爻變鬼",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "山雷頤之火雷噬嗑",
+   "moving_lines": "四爻妻財戌土ㄨ動",
+   "chart_lines_top_to_bottom": [
+    "兄弟寅木⚊　　子孫巳火⚊",
+    "父母子水⚋　　妻財未土⚋",
+    "妻財戌土ㄨ世　官鬼酉金⚊",
+    "妻財辰土⚋　　妻財辰土⚋",
+    "兄弟寅木⚋　　兄弟寅木⚋",
+    "父母子水⚊應　父母子水⚊"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之三·在任吉凶章第五十七"
+ },
+ "language": "zh-Hant"
+}

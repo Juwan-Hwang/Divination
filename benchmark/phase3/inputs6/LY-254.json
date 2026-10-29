@@ -1,0 +1,33 @@
+{
+ "id": "LY-254",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "因楊梅瘡占醫好否（此醫可用否）",
+  "asked_at": "申月癸卯日",
+  "setting": "患楊梅瘡，問某醫可用否",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "天澤履之天地否",
+   "moving_lines": "二爻官鬼卯木○動、初爻父母巳火○動",
+   "chart_lines_top_to_bottom": [
+    "兄弟戌土⚊　　兄弟戌土⚊",
+    "子孫申金⚊世　子孫申金⚊",
+    "父母午火⚊　　父母午火⚊",
+    "兄弟丑土⚋　　官鬼卯木⚋",
+    "官鬼卯木○應　父母巳火⚋",
+    "父母巳火○　　兄弟未土⚋"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之四·醫卜往治章第一百零四"
+ },
+ "language": "zh-Hant"
+}

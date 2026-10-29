@@ -1,0 +1,33 @@
+{
+ "id": "LY-441",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占本日陰晴",
+  "asked_at": "辰月己卯日",
+  "setting": "占本日陰晴",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "水雷屯之地澤臨",
+   "moving_lines": "五爻官鬼戌土○動、二爻子孫寅木ㄨ動",
+   "chart_lines_top_to_bottom": [
+    "兄弟子水⚋　　父母酉金⚋",
+    "官鬼戌土○應　兄弟亥水⚋",
+    "父母申金⚋　　官鬼丑土⚋",
+    "官鬼辰土⚋　　官鬼丑土⚋",
+    "子孫寅木ㄨ世　子孫卯木⚊",
+    "兄弟子水⚊　　妻財巳火⚊"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文庫本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之二·天時章第三十五"
+ },
+ "language": "zh-Hant"
+}

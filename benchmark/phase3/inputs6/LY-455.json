@@ -1,0 +1,33 @@
+{
+ "id": "LY-455",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占歲考",
+  "asked_at": "申月乙巳日",
+  "setting": "占歲考等第",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "澤風大過之火風鼎",
+   "moving_lines": "上爻妻財未土ㄨ動、五爻官鬼酉金○動",
+   "chart_lines_top_to_bottom": [
+    "妻財未土ㄨ　　子孫巳火⚊",
+    "官鬼酉金○　　妻財未土⚋",
+    "父母亥水⚊世　官鬼酉金⚊",
+    "官鬼酉金⚊　　官鬼酉金⚊",
+    "父母亥水⚊　　父母亥水⚊",
+    "妻財丑土⚋應　妻財丑土⚋"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文庫本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之三·歲科考章第五十"
+ },
+ "language": "zh-Hant"
+}
