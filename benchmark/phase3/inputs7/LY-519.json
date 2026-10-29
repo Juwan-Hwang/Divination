@@ -1,0 +1,33 @@
+{
+ "id": "LY-519",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占因避誤軍糧已被劫",
+  "asked_at": "未月戊申日",
+  "setting": "因躲避耽誤軍糧、軍糧已被劫，占功名能否保全",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "雷火豐之火山旅",
+   "moving_lines": "上爻官鬼戌土ㄨ動、初爻子孫卯木○動",
+   "chart_lines_top_to_bottom": [
+    "官鬼戌土ㄨ　　妻財巳火⚊",
+    "父母申金⚋世　官鬼未土⚋",
+    "妻財午火⚊　　父母酉金⚊",
+    "兄弟亥水⚊　　父母申金⚊",
+    "官鬼丑土⚋應　妻財午火⚋",
+    "子孫卯木○　　官鬼辰土⚋"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文庫本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之三·面聖上書章第六十二"
+ },
+ "language": "zh-Hant"
+}

@@ -1,0 +1,35 @@
+{
+ "id": "LY-036",
+ "system": "liuyao",
+ "master": "王洪緒（輯錄，含師楊廣含傳授及自占驗）",
+ "era": "清康熙四十八年（1709）成書",
+ "subject": {
+  "name_or_desc": "求測者/所占之人（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占升選",
+  "asked_at": "本月（據應驗「果於本月」，月名原文未記）",
+  "setting": "問升選（升任）吉凶",
+  "attachments": {
+   "casting_method": "六爻納甲（以錢代蓍）",
+   "hexagram": "地澤臨之風澤中孚（坤宮，空亡申酉）",
+   "yongshen": "世爻卯木、官星為用",
+   "chart_note": "在線本裝卦表為雙欄排版經 OCR 轉錄後行序錯亂，逐爻裝卦未能可靠還原；本條只錄可由卦名、卦宮、空亡與斷語互證的資訊，逐爻表不錄。"
+  }
+ },
+ "provenance": {
+  "book": "《卜筮正宗》",
+  "edition": "華夏大易學社（cnddy.com）在线全本（據通行本錄入，裝卦表 OCR 有錯亂，見 SOURCES 說明）",
+  "url": "https://www.cnddy.com/1759.html",
+  "page": "卷十三、十四·十八問答附占驗·第五問（反吟）"
+ },
+ "license_status": "public-domain",
+ "redistributable": true,
+ "language": "zh-Hant",
+ "notes": {
+  "tags": [],
+  "comment": "《卜筮正宗》凡例自述：卷十三、十四十八問「皆吾師所授及余所占驗」，故各例占者或為王洪緒、或為其師楊廣含，逐例不可分，歸屬以「王洪緒（輯錄，含師授占驗）」記。本書康熙四十八年（1709）成書。",
+  "cross_ref": null
+ }
+}

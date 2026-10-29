@@ -1,0 +1,54 @@
+{
+ "id": "BZ-027",
+ "source_id": "wei-007",
+ "subject": {
+  "name_or_desc": "荀慧生",
+  "birth": {
+   "date": "清光绪二十五年（1899年），原书仅存四柱",
+   "time": "乙卯时（据时柱）",
+   "place": "未记（史载江苏武进）"
+  },
+  "gender": "男"
+ },
+ "context": {
+  "question": "断此命造（一生格局、吉凶与运程）",
+  "asked_at": "1963年《呱呱集》",
+  "setting": "命主荀慧生，京剧四大名旦之一",
+  "attachments": {
+   "pillars": "己亥 丙子 戊寅 乙卯"
+  }
+ },
+ "master_predictions": [
+  {
+   "master": "韦千里",
+   "tradition": "bazi",
+   "date": "1963年《呱呱集》",
+   "statement_excerpt": "「水旺土囚，幸有丙火透出，冻土回温。更妙乙木正官，得禄旺于寅卯，乃木火生生不息，其贵气即在于此耳，卓然成为一家。病在酉金，不善理财，一度退休务农，毫无所获。」",
+   "source": "《呱呱集》韦千里·上集四大名旦 https://www.luckclub.cn/pdf/bazi/017.pdf",
+   "direction": "positive",
+   "key_assertions": [
+    "戊土生子月水旺土囚，丙火透干回温为救",
+    "乙木正官得禄于寅卯，木火相生不息为贵气所在",
+    "自成一家之格（旦角宗派）",
+    "病在酉金（财路/理财），断不善理财、退休务农无获"
+   ]
+  }
+ ],
+ "outcome": {
+  "description": "史实：荀慧生创荀派，为四大名旦之一；确曾一度息影务农而无所获（原书已自注此节为既验之事）；1972年卒",
+  "verified_by": "公开史实"
+ },
+ "provenance": {
+  "book": "《呱呱集》韦千里",
+  "edition": "",
+  "url": "https://www.luckclub.cn/pdf/bazi/017.pdf",
+  "page": "上集·名人命造「四大名旦」"
+ },
+ "license_status": "copyrighted_author_died_1988_short_excerpt_only",
+ "redistributable": false,
+ "language": "zh-Hant",
+ "notes": {
+  "tags": [],
+  "comment": ""
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "id": "BZ-023",
+ "source_id": "wei-003",
+ "subject": {
+  "name_or_desc": "张学良",
+  "birth": {
+   "date": "清光绪二十七年（1901年），原书仅存四柱",
+   "time": "庚子时（据时柱）",
+   "place": "辽宁义县（史载）"
+  },
+  "gender": "男"
+ },
+ "context": {
+  "question": "断此命造（一生格局、吉凶与运程）",
+  "asked_at": "民国/1963年《呱呱集》追评",
+  "setting": "命主张学良，张作霖之子，东北军少帅",
+  "attachments": {
+   "pillars": "辛丑 癸巳 壬子 庚子"
+  }
+ },
+ "master_predictions": [
+  {
+   "master": "韦千里",
+   "tradition": "bazi",
+   "date": "民国/1963年《呱呱集》追评",
+   "statement_excerpt": "「财杀藏于月提，阳刃见于日时，干头庚辛壬癸，金水联珠，文武兼资，统领师干……寅运甲戌年，海外归来，重握兵符，丙子年三犯劫刃，西安事败，陷于不复之地矣。按张氏父子之命造，均有过人之处，但论气概，子逊于父，远矣哉！」",
+   "source": "《呱呱集》韦千里·上集名人命造 https://www.luckclub.cn/pdf/bazi/017.pdf",
+   "direction": "mixed",
+   "key_assertions": [
+    "壬水日元生巳月，财杀藏于月提",
+    "日时子子阳刃并见，刃杀过旺",
+    "天干庚辛壬癸金水联珠，文武兼资",
+    "丙子年（1936）三犯劫刃为其败运应期"
+   ]
+  }
+ ],
+ "outcome": {
+  "description": "史实：张学良1934年（甲戌年）归国重掌兵权；1936年12月（丙子年）西安事变后被长期软禁，政治上「陷于不复之地」与韦断相合；2001年卒于夏威夷，享寿百岁（寿元非韦断重点）",
+  "verified_by": "公开史实"
+ },
+ "provenance": {
+  "book": "《呱呱集》韦千里",
+  "edition": "",
+  "url": "https://www.luckclub.cn/pdf/bazi/017.pdf",
+  "page": "上集·名人命造「张氏父子」"
+ },
+ "license_status": "copyrighted_author_died_1988_short_excerpt_only",
+ "redistributable": false,
+ "language": "zh-Hant",
+ "notes": {
+  "tags": [],
+  "comment": ""
+ }
+}

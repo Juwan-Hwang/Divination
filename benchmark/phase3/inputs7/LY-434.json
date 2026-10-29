@@ -1,0 +1,33 @@
+{
+ "id": "LY-434",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占流年（實問援例成否）",
+  "asked_at": "未月癸亥日",
+  "setting": "其人已往軍前援例，托言占流年，實問援例成否",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "艮為山（靜卦）",
+   "moving_lines": "無動爻（靜卦）",
+   "chart_lines_top_to_bottom": [
+    "官鬼寅木⚊世",
+    "妻財子水⚋",
+    "兄弟戌土⚋",
+    "子孫申金⚊應",
+    "父母午火⚋",
+    "兄弟辰土⚋"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文庫本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之二·增刪黃金策千金賦章第三十四（章界據通行本體例判定，同上）"
+ },
+ "language": "zh-Hant"
+}

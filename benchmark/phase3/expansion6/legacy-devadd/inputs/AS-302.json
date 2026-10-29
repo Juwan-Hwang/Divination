@@ -1,0 +1,47 @@
+{
+ "id": "AS-302",
+ "source_id": "P06",
+ "subject": {
+  "name_or_desc": "新冠疫苗前景",
+  "basic_info": "COVID-19疫苗研发，2020年10月时多款疫苗处三期试验阶段"
+ },
+ "context": {
+  "question": "公开预测：未来六个月新冠疫情走向（含疫苗前景）",
+  "asked_at": "2020-10-19",
+  "setting": "2020年10月Adams接受英国《镜报》访问谈未来六个月疫情走向"
+ },
+ "master_predictions": [
+  {
+   "master": "Jessica Adams",
+   "tradition": "astrology",
+   "date": "2020-10-19",
+   "statement_excerpt": "不应期待疫苗（there will be no vaccine），人们只能学会与病毒共存（节录英译，据镜报报道）",
+   "source": "英国《镜报》2020-10-19报道，经 mediclife 等转载 https://mediclife.net/news/british-astrologer-who-predicted-coronavirus/173316",
+   "direction": "negative",
+   "key_assertions": [
+    "不应期待疫苗（不会有疫苗）",
+    "人们只能学会与病毒共存"
+   ]
+  }
+ ],
+ "outcome": {
+  "description": "辉瑞/BioNTech疫苗2020年12月2日获英国批准、12月8日开始接种，其后全球接种逾百亿剂次；病毒后来确实转为地方性流行，「共存」部分成真，但「没有疫苗」的字面预测在发表后六周即被证伪",
+  "verified_by": "英国MHRA 2020年12月2日批准记录为公开事实"
+ },
+ "provenance": {
+  "book": "英国《镜报》2020-10-19报道，经 mediclife 等转载 https://mediclife.net/news/british-astrologer-who-predicted-coronavirus/173316",
+  "edition": "",
+  "url": "https://mediclife.net/news/british-astrologer-who-predicted-coronavirus/173316",
+  "page": "2020-10-19"
+ },
+ "license_status": "copyrighted: metadata + short excerpt + source pointer only",
+ "redistributable": false,
+ "language": "zh-Hant",
+ "notes": {
+  "tags": [
+   "modern_prediction",
+   "cross_system"
+  ],
+  "comment": "Adams事后将说法修正为「没有能终结大流行的单一疫苗」，属事后重新诠释；按原文判定miss。与P05同人同对象，一hit(partial)一miss，正好用于校准「选择性记忆」偏差；原卷 tradition：西洋占星；原卷 outcome_verdict：miss"
+ }
+}

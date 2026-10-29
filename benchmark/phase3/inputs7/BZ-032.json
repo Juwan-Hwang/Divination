@@ -1,0 +1,54 @@
+{
+ "id": "BZ-032",
+ "source_id": "wei-012",
+ "subject": {
+  "name_or_desc": "阎锡山",
+  "birth": {
+   "date": "清光绪九年（1883年），寒露节前一日生（原书注）",
+   "time": "丁亥时（据时柱）",
+   "place": "山西五台（史载）"
+  },
+  "gender": "男"
+ },
+ "context": {
+  "question": "断此命造（一生格局、吉凶与运程）",
+  "asked_at": "1963年《呱呱集》追评（命主1960年已逝）",
+  "setting": "命主阎锡山，自民初起掌握山西军政数十年",
+  "attachments": {
+   "pillars": "癸未 辛酉 乙酉 丁亥"
+  }
+ },
+ "master_predictions": [
+  {
+   "master": "韦千里",
+   "tradition": "bazi",
+   "date": "1963年《呱呱集》追评（命主1960年已逝）",
+   "statement_excerpt": "「经云：『乙木生居酉，富贵坎离宫』。又云：『乙木秋生贵元武』。夫生于寒露节前一日，年时癸丁透出，即所谓坎离宫也。良以水为元武，癸水之透，滋木泄金，一仁可化，毕世丰盈。」（并记其1960年5月23日病逝台北、屹立数十年事）",
+   "source": "《呱呱集》韦千里·上集名人命造 https://www.luckclub.cn/pdf/bazi/017.pdf",
+   "direction": "positive",
+   "key_assertions": [
+    "乙木日元生酉月，酉酉金旺，乙木处逆境",
+    "年干癸水、时干丁火并透，水（坎/元武）火（离）相济成坎离宫",
+    "癸水滋木泄金，一仁（癸印）化众杀",
+    "断其逆境屹立、毕世丰盈"
+   ]
+  }
+ ],
+ "outcome": {
+  "description": "史实：阎锡山自1911年至1949年统治山西38年，历经北洋、抗战、国共内战而屹立，为民国地方实力派之最久者；1960年5月23日病逝台北——卒日与韦书所记相合",
+  "verified_by": "公开史实"
+ },
+ "provenance": {
+  "book": "《呱呱集》韦千里",
+  "edition": "",
+  "url": "https://www.luckclub.cn/pdf/bazi/017.pdf",
+  "page": "上集·名人命造「阎锡山」"
+ },
+ "license_status": "copyrighted_author_died_1988_short_excerpt_only",
+ "redistributable": false,
+ "language": "zh-Hant",
+ "notes": {
+  "tags": [],
+  "comment": ""
+ }
+}

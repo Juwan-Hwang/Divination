@@ -1,0 +1,33 @@
+{
+ "id": "LY-421",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占官運",
+  "asked_at": "未月庚寅日",
+  "setting": "占官運（仕途前程）",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "澤火革之水火既濟（卦名原文未直書，據裝卦推得）",
+   "moving_lines": "四爻兄弟亥水○動",
+   "chart_lines_top_to_bottom": [
+    "官鬼未土⚋　　兄弟子水⚋",
+    "父母酉金⚊　　官鬼戌土⚊",
+    "兄弟亥水○世　父母申金⚋",
+    "兄弟亥水⚊　　兄弟亥水⚊",
+    "官鬼丑土⚋　　官鬼丑土⚋",
+    "子孫卯木⚊應　子孫卯木⚊"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文庫本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之二·增刪黃金策千金賦章第三十四（章界據通行本體例判定，維基文庫本此段未標章名）"
+ },
+ "language": "zh-Hant"
+}
