@@ -1,0 +1,133 @@
+[
+ {
+  "case": "LY-002",
+  "prediction": {
+   "direction": "positive",
+   "assertions": [
+    "父亲会归家，此行人可回、非一去不返",
+    "父亲归期落在本月内较晚一档的日子，不在占后数日内即到"
+   ],
+   "timing": "日档（单位：日）：戊子日后逢戌日归（本辰月内戌日，唯一主坐标），依据为六爻月破之用神逢值填实之应期路径",
+   "summary": "父必归，归期在戌日。"
+  },
+  "outcome_record": "果於卯日得信，乙未日到家",
+  "anon_id": "Q3-035",
+  "judgeA": {
+   "anon_id": "Q3-035",
+   "direction": 2,
+   "claims": 1,
+   "timing": 1,
+   "total": 4,
+   "pass": true,
+   "gap_note": "父归得证但戌日坐标偏至乙未日到家"
+  },
+  "judgeB": {
+   "anon_id": "Q3-035",
+   "direction": 2,
+   "claims": 1,
+   "timing": 0,
+   "total": 3,
+   "pass": false,
+   "gap_note": "父归无误，惟乙未日到家而非戌日且先于卯日得信"
+  }
+ },
+ {
+  "case": "LY-004",
+  "prediction": {
+   "direction": "negative",
+   "assertions": [
+    "所占之父病危而不救，最终病逝，不能痊愈",
+    "一家四度占卜得不同卦而断同归凶：病势不是暂时危象，而是终局之危",
+    "应验对象逐名对回：病者是占问者之父本人，四卦所断之死象都落在父亲身上，不落在占问的本人、次子、长子或夫人身上"
+   ],
+   "timing": "日档：卯月丙辰日后逢亥日为终局应期（父母爻所化亥水值日、回头克应之日）",
+   "summary": "父病不救，终至病逝"
+  },
+  "outcome_record": "目下果愈（壽姓醫者治之）；果絕於亥月（冬季）",
+  "anon_id": "Q3-037",
+  "judgeA": {
+   "anon_id": "Q3-037",
+   "direction": 2,
+   "claims": 1,
+   "timing": 1,
+   "total": 4,
+   "pass": true,
+   "gap_note": "终局病逝得证但目下曾被治愈，亥日应期滑至亥月"
+  },
+  "judgeB": {
+   "anon_id": "Q3-037",
+   "direction": 1,
+   "claims": 1,
+   "timing": 1,
+   "total": 3,
+   "pass": false,
+   "gap_note": "终局亥月死合亥字，但先被医愈、日档降为月档"
+  }
+ },
+ {
+  "case": "LY-029",
+  "prediction": {
+   "direction": "negative",
+   "assertions": [
+    "占者自病不愈，病势加重，终局凶险至不治/身故一档，不是轻病速愈",
+    "医药无力回天：子孙（医药）伏藏受飞克，不出而生不到世爻用神",
+    "病应在本月冲破之势上转剧，用神世爻亥水月破又临绝地（巳为水绝），生气被月建正面冲绝"
+   ],
+   "timing": "月档：亥月（世爻亥水月破填实之月为终局应期）",
+   "summary": "自占病凶：世爻月破临绝、医药伏而不出，病不治。"
+  },
+  "outcome_record": "果卒於卯日（應卯日者，沖去原神、忌神共來克害）",
+  "anon_id": "Q3-039",
+  "judgeA": {
+   "anon_id": "Q3-039",
+   "direction": 2,
+   "claims": 1,
+   "timing": 0,
+   "total": 3,
+   "pass": false,
+   "gap_note": "身故得证但亥月终局应期与卯日卒全不合"
+  },
+  "judgeB": {
+   "anon_id": "Q3-039",
+   "direction": 2,
+   "claims": 2,
+   "timing": 0,
+   "total": 4,
+   "pass": true,
+   "gap_note": "病死合，惟卯日而非亥月终局"
+  }
+ },
+ {
+  "case": "AS-305",
+  "prediction": {
+   "direction": "positive",
+   "assertions": [
+    "唐纳德·特朗普赢得2024年美国总统选举，选举人票过270当选第47任总统",
+    "特朗普拿下多数关键摇摆州（至少宾夕法尼亚、乔治亚、北卡、亚利桑那、威斯康星中的四州以上），而非仅靠少数州险胜",
+    "卡马拉·哈里斯落败，民主党同时在参议院失去多数，选后结果在11月6日前后即明朗、无长期计票争议翻转"
+   ],
+   "timing": "日档（单位：日）：2024年11月5日投票、11月6日前后结果明朗，依据为问题本身以选举日为尺度属日级定位情形",
+   "summary": "特朗普胜选：赢得选举人团多数与多数摇摆州，哈里斯落败。"
+  },
+  "outcome_record": "特朗普获胜且优势明确（312对226选举人票，并赢得普选票），并非「极小差距」惜败格局",
+  "anon_id": "Q3-048",
+  "judgeA": {
+   "anon_id": "Q3-048",
+   "direction": 2,
+   "claims": 1,
+   "timing": 1,
+   "total": 4,
+   "pass": true,
+   "gap_note": "胜选得证但摇摆州与参院断语未见结局记录；结局无时点可核（中性记 1）"
+  },
+  "judgeB": {
+   "anon_id": "Q3-048",
+   "direction": 2,
+   "claims": 2,
+   "timing": 2,
+   "total": 6,
+   "pass": true,
+   "gap_note": "无"
+  }
+ }
+]
