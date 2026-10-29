@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-007",
+ "prediction_text": "方向：Waller一方获胜，Hopton败北。Waller由上升、月亮、木星、金星主之：月亮擢升偕木星，太阳（其资财/助军主）在第10宫居擢升正度19°白羊，主其军势与声势俱盛；Hopton主星土星入落、焦伤（sub radiis）、游荡无相位，且第9宫（其援军）只有火星与南交点、无现成供给，主孤军无援。当日（1644年3月29日，Cheriton交战日）即分胜负。",
+ "basis": "双方主星尊贵与角宫位置对比悬殊：一方擢升角宫，一方入落焦伤无相；按Lilly战争卜卦以主星强弱定胜负。",
+ "confidence": 0.9,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

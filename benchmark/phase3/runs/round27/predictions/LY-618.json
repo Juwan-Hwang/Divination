@@ -1,0 +1,20 @@
+{
+ "case_id": "LY-618",
+ "prediction_text": "终局positive（就生死言）：子在世平安，未见夭亡之象；但归期迟滞、久不归之局未解。用神子孙酉金持世、临酉月月建旺相，得乙未日土生，静而有气；克子之火（父母巳火）静而酉月休囚、官鬼卯木逢酉月冲为月破，俱不能害子；静卦无动主行人未动身、仍滞留在外。具体断语：生死应于出外之子本人——人活着；归否另面：世静、卦静，近无归信。应期双层（行人对表：远应月、静者逢冲逢值）：窗口为酉月后数月，窗口内主坐标为卯月——卯冲酉、冲动子孙之月为行人动身/消息之期（远行取月档、先不落日）。置信中高（0.72，限生死方向；归期置信低）。",
+ "basis": "输入残损：原书只记月日与卦象、未给六神与旬空，六神不作主断、旬空按日干支推定；用神子孙酉金持世（候选唯一，静卦）。动化方向：无动爻。反转扫查三类俱无，初判维持。四路：本气＋（临月建旺得日生）／元忌仇0（父巳官卯俱静且破囚、原神土兄静生）／动化0／世应：应官卯月破记旁参不计；合参以本气定在世向，归期以静卦无动定迟滞，两面分开写、终局按所问生死单判positive。应期三步：月档远行（久出）；冲动卯、填实酉、逢值酉，取冲动卯月（静者逢冲而动），逢值酉只主在世之证与归期终局不合舍。对象复述（行人类）：归否/生死主语逐条对回出外之子本人。对象对齐三行同一。",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "静卦无动化、无伏神、无取用争议"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

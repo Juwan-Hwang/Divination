@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-005",
+ "prediction_text": "方向：船未沉，仍然活着（safe），不在海底。上升巨蟹为船体，虽土星在白羊第11宫刑上升近，但上升主月亮在金牛擢升居11宫，趋拱第7宫太阳、水星且近木星，主船体得救、有人相助。所在：仍在西班牙海岸一带海面/港湾。应期：月亮拱相只差数分即成，日档计消息极快，数日内（至多旬内）即有确讯传回。",
+ "basis": "月亮擢升+趋拱日水近木星为存活强证，压过土星刑上升的惊险象；保险人拒保属事实背景，不作盘面依据。1644年12月问。",
+ "confidence": 0.8,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

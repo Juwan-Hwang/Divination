@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-537",
+ "prediction_text": "方向：吉、子將歸。占子以子孫為用神，子孫酉金居四爻即世爻，子在世位主其人與家相繫、無外失之象；三爻兄弟丑土發動化子孫酉金，變爻再出用神酉金主歸信已動；初爻父母巳火（行人舟車消息）發動化兄弟丑土主在途。應期日檔（行人類近事）：窗口六日內，主座標酉日（用神逢值、且三爻化出酉金同支合流）；逢沖卯日一路舍棄，理由：卯木官爻臨空（空寅卯）沖力無據。應驗對象復述：歸者為其子本人。置信中。",
+ "basis": "輸入殘損：未記月日、逐爻表未錄；由火澤睽（艮宮世四應一、空寅卯）之火風鼎重構，動爻一、三。應期三步＋合流D掃查：沖實卯（空不取）、填實無、逢值酉且有化出同支第二機制合流，對決合流項取酉。對立面：世靜可主未動身——裁定：三爻動化用神同支為已動之據，只以酉日為歸點。",
+ "confidence": 0.48,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "歸期由用神逢值與化出同支合流定，動化未翻方向；用神現卦（變爻同親只作合流），無伏神；取用無爭議。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

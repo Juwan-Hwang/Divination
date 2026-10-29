@@ -1,0 +1,19 @@
+{
+ "case_id": "OC-021",
+ "prediction_text": "方向：武贵崛起、统兵据地为一方之主，而晚运败落收场。乙木生酉月七杀，辛杀透月贴克，乙坐卯禄有根、丙火伤官透时制杀，戊财午戌又生杀助势，伤官制杀而身有禄根，主以武力军功起家，格局至军阀首领/督军级，雄踞一省。然卯酉冲，禄与杀两相冲战，根基终有被冲破之时：行金水运杀印/杀旺冲禄，或运年再冲卯禄之段，兵败势倒、部属离散。高峰在青壮至中年得地得兵之运段；晚年趋于败落、退居寓公而终，不复东山再起。应期尺度：运档/年档，先定冲禄败段，不落单日。",
+ "basis": "四柱戊午辛酉乙卯丙戌：酉月辛杀、乙坐卯禄、丙伤官制杀成武贵；卯酉冲为原局之病，冲禄运为败落触发。输入残损：仅给四柱、无出生年月日时与完整大运干支/起运岁数，故应期只定运档/年档尺度，不臆报精确流年；格局与终局按四柱月令、透干、根气定。",
+ "confidence": 0.64,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "八字"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

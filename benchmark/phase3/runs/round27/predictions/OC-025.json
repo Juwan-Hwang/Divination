@@ -1,0 +1,19 @@
+{
+ "case_id": "OC-025",
+ "prediction_text": "方向：预言应验——椅底所书之事届期必验。邵雍预书某年月日此椅将被坐破，至所书之日，果有人坐而椅破，日期与坐破之事两项皆对上，无差。故断：此预书为真应验，不是落空；应验方式为日常坐用中椅子被坐坏，应在所书当日。应期：以预书所定之日为唯一坐标（输入未给具体日期数字，不臆补）。",
+ "basis": "输入仅给预书事境、无卦象与所书日期原文；据占题所问『是否应验』与邵雍预书成例之主线断届期坐破应验。输入残损：所书年月日未给，故只断应验与方式、不报日期，置信下调。",
+ "confidence": 0.45,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "梅花易数"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

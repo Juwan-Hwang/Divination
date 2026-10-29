@@ -1,0 +1,20 @@
+{
+ "case_id": "LY-611",
+ "prediction_text": "终局negative：弟被讼凶，难脱罪责。用神兄弟酉金五爻发动，午月金死、本气休囚，仅得未日土生；讼神官鬼午火临午月月建在三爻发动克酉，官旺用衰、克力悬殊；兄弟酉金动化申金为化退，金退而仍死于月，退势无救；救神子孙亥水静而午月囚、受未土克，不能克官解围。具体断语：败应落于弟本人，官讼一方（官午）占尽上风，罚责难免。应期双层：窗口为午月内，窗口内主坐标为午日——官鬼逢值、克用定局之日。置信中（0.68）。",
+ "basis": "输入残损：原书只记月日与卦象、未给六神与旬空，六神不作主断、旬空按日干支推定；用神兄弟酉金（候选唯一，动爻）。动化方向：酉金→申金化退、官午火→酉金（官化出用神之亲而本爻火克金、非生扶）；方向定性凶向。化退权重合判（合流E）：用神休囚、得日生一扶而化退不叠空墓绝，权重中，本应只断退减；再合路1×路2官旺动克无救，终局落败。反转条件：源绝/化进链均不成立。四路：本气−／元忌仇−（官临月旺动克、子孙静囚受克）／动化−／世应不计（代占）；合参败向。应期三步：日档近讼；冲实酉、填实申、逢值午，取逢值午日（败应），余路与败局不合舍。门类对表：讼事对表无此门类，明写无表。对象对齐：所问弟／用神兄酉／应验同一人。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "动化化退只加重退势、未改变以官旺克用定败的主断"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

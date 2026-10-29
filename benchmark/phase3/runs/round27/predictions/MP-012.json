@@ -1,0 +1,20 @@
+{
+  "case_id": "MP-012",
+  "prediction_text": "方向：三組候選人中最有機會當選下屆正副總統者為賴清德、蕭美琴（民進黨賴蕭配）。侯趙配居次、柯吳配第三。賴蕭配的勝出方式為三腳督下以約四成得票、領先第二名數個百分點以上取勝，非驚險險勝亦非壓倒性大勝。應期定點：2024年1月13日投票日揭曉（日檔，問題即問該次大選當選組合）。",
+  "basis": "輸入殘損：僅有出生年與占題背景，無完整出生年月日時、出生地，無法依庫內規矩排四柱全盤，故八字只作年命（年柱生肖/納音層級）粗判，主斷以占題給定事實（民調、時程、局勢）依事實優先序收束，置信相應調降，不臆補盤面。占題事實與MP-011同日同局：藍白合破局、三腳督確立、在野票源分裂，賴蕭配兼有執政延續與副手外交資歷的完整隊形，占題給定的組合結構本身即指向賴蕭居首。占題註明當日占測含塔羅及文王聖卦，本斷方法自決以事實情勢為主、年命粗判為輔（輸入無牌面/卦面可復核，不臆造他人占測結果）。",
+  "confidence": 0.7,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": ""
+  },
+  "systems_used": [
+    "八字（年命粗判）",
+    "占題事實情勢研判"
+  ],
+  "sources_used": [
+    "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+    "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-bazi-ziwei.md"
+  ]
+}

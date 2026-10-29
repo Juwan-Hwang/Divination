@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-504",
+ "prediction_text": "方向：目下不升（负向）。功名升迁以官鬼为用神：官鬼亥水居三爻应位发动，卯月休（木泄水）、戊戌日土克之，官休囚受日克；动而化子孙辰土，辰土克亥水为回头克，且化出子孙正是克官之神，官动化退路被克断，升迁之机发动即遭压制。父母卯木居初爻临月建旺、戌日合之，文书虽旺而合住，只主资历/文书在而不能推动本次升迁；世爻兄弟巳火临旬空（戊戌日空辰巳）发动化子孙戌土，世动而空、化泄，主本人奔走无实果。具体断语：此次目下升迁不成，空忙一场，须待官星得气之时再议。应期（月档，升迁以月计）：窗口卯月本轮无望，主坐标亥月——官鬼逢值复旺之月，方为下一次可议之期。",
+ "basis": "表面方向：官鬼发动易误读为官动则升。推翻路径：四路合参＋动化裁决——官本气－、化子孙回头克使动化定性为负，反转/推翻出自合参一路，合规。动化方向：亥水→辰土回头克且无解（辰得戌日临值、月生土，无冲合克去）；反转条件核：化回头克无生扶一项成立。父母卯旺被日合住列量级，不作主线。四路：本气－／元忌仇－（子孙化出克官、原神财酉静而月死）／动化－／世应计（应即官已并入，不重复计）；合参负向。输入无残损。",
+ "confidence": 0.64,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "初看官鬼发动似主升，经合参以官休囚受克且化子孙回头克翻为不升，故changed_main"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "LR2-019",
+ "prediction_text": "终局负向：奉命勤王此行凶多吉少、难成功。中传太阴乘丑而丑旬空，守御/中途一线空陷折腰，军行中辍受挫；末传巳火官鬼乘天空临旺，交锋时敌势压干，损兵而退，不作全胜凯旋。应期月档：窗口占时四月至五月，主坐标四月（巳月，末传巳火逢值、鬼旺交锋）。",
+ "basis": "六壬兵斗门。日干辛金，初传酉金兄弟乘朱雀（军令文书），中传丑土父母乘太阴（暗昧）且子丑旬空，中传空折腰，兵斗中传为守御阵地，空则守虚中辍；末传巳火官鬼乘天空，四月火旺克辛金，鬼旺压干，天空主敌势亦有虚张，故断受挫损兵而非全军覆没。三传酉-丑-巳，进茹连进却中空、末克干。课式重审先迷。应期月档：逢值巳月与鬼旺终局自洽，舍出空（丑填实为备选中途坐标，与末传交锋主线不合）与冲合（无合处成期据）。盘面不全：游都贼符、年命、天盘全图未给，敌方方向与兵数不臆补，细断降档。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "大六壬"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuren.md"
+ ]
+}

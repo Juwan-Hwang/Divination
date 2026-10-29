@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-009",
+ "prediction_text": "方向：狗能找回。狗主星（第6宫主）落西方星座、南区偏西，同上升同三方性（仍在伦敦），且趋拱第6宫头，主狗未出城、往城西偏南方向寻。月亮在风象星座且在日光之下主踪迹隐伏、需细寻。应期：太阳下周一趋向与上升主土星成相，日档计下周一前后（数日内）得消息或找回。",
+ "basis": "6宫主方位（西/南偏西）、同三方性主仍在本城、趋拱6宫头主可复得。输入多处字形OCR残损，方位与细节置信下调。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

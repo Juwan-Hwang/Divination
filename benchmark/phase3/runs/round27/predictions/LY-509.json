@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-509",
+ "prediction_text": "方向：可靠子孙之业成家，财福中平渐成（正向）。问作何事成家：子孙辰土居二爻，丑月土旺，得气而生四爻妻财酉金——福神旺而生财，是全卦财路所在，主以技艺营生、经营服务、凭本事出产之业（子孙主技艺、营谋、食禄之源）求财可成；妻财酉金得丑月辰日土生（日生财），财有生扶而静待世取。世爻兄弟午火居三爻，丑月死、辰日泄，世弱而兄不劫财，主本人不宜合伙借贷、不宜文书坐业。父母寅木初爻动化兄弟巳火，文书之业动而化兄耗，主靠功名文书成家之路耗散无功，须避开。具体断语：弃文书/合伙之路，专营子孙所主的技艺经营之业，可渐成家计，中平之富。应期（年档，成家以年计）：窗口青壮至中年，主坐标酉年——妻财逢值之年为成家立业落实之期。",
+ "basis": "取象以子孙生财链为据（辰土生酉金，五行复核无误）。动化方向：寅木→巳火，木生火为化兄弟，主父母之业化耗，归类负向旁线；反转条件不涉主线。世午火休囚为量级压制（故断中平渐成、不拔高，依据在此）。四路（以财为用）：本气0偏＋（财得日月土生）／元忌仇＋（子孙旺动？子孙静而旺、生财链成，兄弱不劫）／动化0／世应不计；合参正向中平。对象对齐：所问本人成家之路—用神财酉/原神子孙辰—应验对象本人，同一。输入无残损。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

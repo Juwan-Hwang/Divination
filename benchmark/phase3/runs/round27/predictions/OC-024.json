@@ -1,0 +1,19 @@
+{
+ "case_id": "OC-024",
+ "prediction_text": "方向：葬事有着落、无资之困可解——亡者家中藏有金子，掘得即足营葬。易者遗书预托来访者主其身后事，其家虽称无资，但藏金之象成立：金藏于屋内枕下/窖藏之处（击鼠枕窖之象），经来访者点破、掘取，得金一藏，价值足办丧葬而有余。故断：不必外求借贷，葬资自其家旧藏中出，丧事得成、亡者得安葬。应期：即时/日内事，来访当日点破、当日掘得，不拖月。",
+ "basis": "输入无卦象盘面，仅给事境与出处题名『击鼠枕窖金』所载象意；据事实优先序：遗书预言+家贫无资+藏金题名三者合参，断藏金出而葬成。输入残损（无卦、无年月日），置信下调，不臆报金数。",
+ "confidence": 0.42,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "梅花易数"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

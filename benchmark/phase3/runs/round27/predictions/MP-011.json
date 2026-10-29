@@ -1,0 +1,20 @@
+{
+  "case_id": "MP-011",
+  "prediction_text": "方向：三組勝算排序為賴清德（賴蕭配）第一、侯友宜（侯趙配）第二、柯文哲（柯吳配）第三，賴清德當選。得票層級：賴以約四成得票居首，侯約三成三，柯約二成六，三方差距皆為可辨量級而非纏鬥至驗票級別。應期定點：2024年1月13日投票日揭曉（日檔，問題即問該次大選三組排序）。",
+  "basis": "輸入殘損：僅有出生年與占題背景，無完整出生年月日時、出生地，無法依庫內規矩排四柱全盤，故八字只作年命（年柱生肖/納音層級）粗判，主斷以占題給定事實（民調、時程、局勢）依事實優先序收束，置信相應調降，不臆補盤面。占題事實：2023-11-27藍白合已於11月23日破局、三腳督確立——在野分裂為本題最大結構事實：侯、柯分食同一票源，賴以執政黨完整基本盤在三方格局中只需約四成即可勝出，此為排序主據；距投票47天，整合既已破局，無重新合併的程序空間。年命粗判無反證，不另立盤斷。",
+  "confidence": 0.7,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": ""
+  },
+  "systems_used": [
+    "八字（年命粗判）",
+    "占題事實情勢研判"
+  ],
+  "sources_used": [
+    "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+    "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-bazi-ziwei.md"
+  ]
+}

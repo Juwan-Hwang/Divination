@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-457",
+ "prediction_text": "方向：可得利但利薄（正向偏弱）。往楚买豆以妻财为用神：妻财亥水居五爻应位，午月死绝之气为其病，然临戊子日日建，财临日建有当日之气，静卦财现而得值，不作无财断；子孙酉金为财源，午月死、静而不动，生财之力弱，主货源/转手之利不厚；兄弟丑土两现旺静临月（午月土相），主同行竞争与本钱占用，劫财之险在量不在向。具体断语：此行能成交易、有小利可图，但利润薄，不宜重本压货。应期（日档偏月内）：窗口子日起本月内，主坐标亥日——妻财逢值之日交易落实、利见分晓。",
+ "basis": "静卦无动爻，财亥候选唯一。财月死临日：按日月同功，临日建记有气（假空假弱类），四路本气记0偏＋；原神子孙休囚不动记－量级；兄弟旺静为忌静不发动，只压利厚薄。世官鬼卯木得子日水生，世有气能任事。动化方向：无动爻，无化出；反转条件无从成立。四路：本气0／元忌仇－（源弱兄旺静）／动化0／世应计（应即财、生世？亥水生卯木世，应生世为＋佐证）；合参为迟弱之成，故正向偏弱、置信下调。输入无残损。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "财爻月死与临日建两信号对冲、源弱兄旺，方向经合参才定为薄利，故记disputed"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

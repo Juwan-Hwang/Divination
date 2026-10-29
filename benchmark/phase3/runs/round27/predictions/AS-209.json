@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-209",
+ "prediction_text": "方向：两问分断，终局合成——(1)负面：国王不能自爱尔兰取得足以伤害议会的有效兵力，援军之议虽有声势而落不到实处；(2)参半偏负：王后自北方进军声势有余而后劲衰落，与国王会合虽能实现但迟延且会合后亦不能使王军转盛。断语：国王以月亮为征象，月在巨蟹本宫、居第十宫、增光，除迟缓外无凶，主其人根基尚在、行动迟；第十一宫（援助宫）主太阳在第七宫擢升、趋第十一宫头却尚差约6度未成精确相位且正冲上升（议会），主爱尔兰援助被高估、临门不成精确助力，反成与议会的正面冲突点。王后征象星土星正换座入白羊（其fall），主其军势由盛转弱、进军后段失据。应期：以月为尺度，月亮距与土星成三合尚差3–4度，会合主坐标取3–4个月量级，窗口为占问后一季之内；爱尔兰兵力在此窗内不形成决定性援军。",
+ "basis": "卜卦占星：王以月亮（本宫、10宫、增光）断根基与迟缓；援助以11宫主太阳擢升但未partile且冲上升断有声势无实援；王后以土星换座入fall断后劲衰落；月-土三合余3–4度取会合应期（月尺度）。输入仅散文关键位置、无全盘与确切占时，已降置信。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "OC-020",
+ "prediction_text": "方向：贵至极品、人臣之巅，然任重身弱，终在任上中年而逝，不主长寿善终。癸水生丑月七杀，己杀透年、双丑杀库，丁火财透生杀，杀势极重；幸双卯食神透藏制杀，食神制杀格成，主以文才德望驾驭重局，贵至国民政府主席级（一国元首/政府首脑级），格局上限足级不降。但局中全无金印护身，癸水仅靠丑中癸根，身弱杀重之病始终在：行火土运财杀更旺、或金水运虽扶身却冲卯食神（酉冲卯破制杀之神）之年，制杀链断、病发。最危在五十岁前后，终局为位高任上病逝/骤逝，官声善而寿不永。应期尺度：年档，先定五十前后危段再论年，不落单日。",
+ "basis": "四柱己卯丁丑癸丑乙卯：丑月杀重、双卯食神制杀成格故贵极；无印、身弱为病，冲卯破食或财杀旺运为翻转触发，断任上中年终。输入残损：仅给四柱、无出生年月日时与完整大运干支/起运岁数，故应期只定运档/年档尺度，不臆报精确流年；格局与终局按四柱月令、透干、根气定。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "八字"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

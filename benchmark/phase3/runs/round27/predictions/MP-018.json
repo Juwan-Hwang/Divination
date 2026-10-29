@@ -1,0 +1,21 @@
+{
+ "case_id": "MP-018",
+ "prediction_text": "断：曾俊华不能当选2017年香港行政长官。方向为落选，得票居第二。应期为日档：2017年3月26日投票日揭晓。虽民望为候选人中最高，但民望不等于选委会票源，终局败落。置信中高。",
+ "basis": "年命参时势：曾俊华1951辛卯年生，2017丁酉流年酉金冲其年支卯木，年命逢冲、根气被冲，主临门受挫；事实层：传媒与时势皆指对手获北京支持、选情占优，曾被视为陪跑。冲年命与票源结构两路同指落选。输入仅有出生日期无时辰，八字只能用年月日作年命参断，故降置信、不细断其个人一生。",
+ "confidence": 0.78,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "八字",
+  "梅花易数"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

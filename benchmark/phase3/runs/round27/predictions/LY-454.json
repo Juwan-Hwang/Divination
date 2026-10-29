@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-454",
+ "prediction_text": "方向：可取、名次较好（正向）。道考以父母为文章用神、官鬼为名位：父母申金居五爻持世发动，申月（亥月金相）得戌日土生，动而化酉金为化进神，文章得力、名位渐进之象；父母临世又化进，主本次考试发挥与评卷俱顺。具体断语：能入取列，等第在中上，不至落第；官鬼戌、丑两现皆静而属土（名位之神不显动），故不直断榜首，只断中上。应期（日档，发案以日计）：窗口戌日起至发案，主坐标酉日——父母化进之神逢值之日发案见分晓。门类对表（功名发案）：动者逢值逢合，取化神酉逢值，与三步逢值一路合流。",
+ "basis": "用神父母申金候选唯一（变爻酉仍同亲、属化进）。动化方向：申金→酉金化进，方向定性吉向，静态世应只调量级；反转条件：化进无化绝化墓、无源绝，不反转。子孙卯木静居初爻克官为量级压制（故不拔高至榜首，降格依据在此）。四路：本气＋／元忌仇0／动化＋／世应不计；合参正向。输入无残损。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

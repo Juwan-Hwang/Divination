@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-302",
+ "prediction_text": "方向：正面（对疫苗）而疫情本身参半——未来六个月内疫苗取得决定性突破并开始接种，但疫情不会在六个月内结束。断语：2020年11–12月即有多款疫苗三期有效数据公布、首批紧急批准与接种启动（主坐标取11月下旬至12月）；2020年末至2021年初冬季疫情仍有一波高峰、变异株消息引发反复；至2021年3–4月（六个月窗末）接种扩围使局势明显转好、生活局部解封，但病毒长期共存而非清零。应期单位为月，窗口为2020年10月起六个月，主坐标为2020年11–12月的疫苗公布与开打。",
+ "basis": "输入残损：仅有提问时间（2020-10-19）、背景（三期试验进行中）与来源，无星盘/星位/原文，无法按盘复核，只能依世界占星行运通则与当时事实（试验进度）作断，已降置信、不臆补其原文措辞。方法为西洋占星。",
+ "confidence": 0.45,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-205",
+ "prediction_text": "方向：病人将死、此疾不治。第8宫主（部分）亲临上升刑克上升为最重死证，太阳（时光）与第6宫主土星在固定星座成正冲，月亮近南交点（Cauda）且在上升受克，第6宫及其主俱固定土象忧郁之疾，主病入骨、药石无功。病为固定忧郁性重疾（沉滞、黑胆汁类）。应期：月档内见终局，先定月不直落日；1645年7月16日起问，终局在此后一月量级内。",
+ "basis": "死证叠加：8主临升+日冲6主+月偕交点受克，三证同向，按Lilly病占死生规则足级断不治。上升星座字形OCR损坏未据，已注明。",
+ "confidence": 0.85,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

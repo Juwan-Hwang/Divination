@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-541",
+ "prediction_text": "方向：吉、往前處脫貨有利。風天小畜之乾為天，用神妻財兩現：應位四爻妻財未土發動化子孫午火，午火生未土、回頭生正財，且化子孫為生財之源、主買主/銷路自來；三爻妻財辰土靜守為存貨。世爻父母子水居初爻，行人自身與應財之間有辰土相隔只主路程一阻。應期日檔偏月內近事：窗口十日內，主座標未日（正財逢值、回頭生應利）；午日化神逢值一路舍棄，理由：午為化神生身之期、次於未財自值。置信中。",
+ "basis": "輸入殘損：未記月日、逐爻表未錄；由風天小畜（巽宮世一應四、空寅卯）之乾為天重構，唯一動爻四爻應財。動化方向核對：午火→未土為生，回頭生成立。財兩現取動者為主（兩現捨靜用動）、辰財落選記為存貨旁參。反方：小畜畜止可主貨滯——裁定：卦名象意不敵用神動化回頭生之硬信號，只調量級為利不甚厚。",
+ "confidence": 0.46,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "用神應財動化回頭生改定終局（由靜財無據轉為有利）；用神現卦無伏神；兩現取動有通例無爭議。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

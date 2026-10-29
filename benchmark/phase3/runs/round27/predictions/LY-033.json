@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-033",
+ "prediction_text": "终局单一方向：自占近病可愈（positive）。近段病仍缠绵，远段原神得续、立春后转愈。应期双层：月档（近病而应期涉节令换月），窗口为占时至正月立春后一月内，主坐标为正月亥日——世爻亥水逢值之日见愈。等级：可愈而非速愈，近段之迟由原神待时压量级。",
+ "basis": "对象对齐：所问对象=占者本人，用神=世爻亥水，应验对象=本人，同一；病占主语复述均为本人。动化方向：同人之旅动爻不可核记存疑；方向定性：本例问答主题为原神（输入 provenance 页题），原神为生世亥水之金，原神存续按有根判别：主题与立春/正月应期互证源未绝（路2＋），世水虽临午未空旬（同人离宫空亡午未与世亥无涉，世不空），合参为有救向。反转条件：源绝子链不成立（无化退化绝无根之据）。反方读法为旅卦主客居不安病难安，已裁定原神链优先于卦名静态象。门类应期查疾病门：无冲空实空之点，按逢值取亥、尺度从输入所涉立春正月定月档。输入残损：月日未明记、逐爻未录，病位无据不妄断，降置信。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "初判可愈维持；原神续生一路作主据（后备生源路）；定性无争议"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

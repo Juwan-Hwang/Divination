@@ -1,0 +1,19 @@
+{
+ "case_id": "OC-014",
+ "prediction_text": "方向：仕途贵显、官印相生而得财政实权。壬水生卯月伤官，月透己土正官、年时庚辛印星生身，伤官有印化、官印相生，格成而有救，主入仕途且掌财赋之职，贵至省级厅长级（财政厅长一类实权司局之上、省级要员），非仅虚衔。一生高峰在中年行金水印比运段，身得助、官印流通之时；忌木旺伤官见官与火旺财生官压身之运，彼运主口舌阻滞、职位起伏。晚运趋平，守成安稳，不主暴败。子女宫时坐丑土官库，子息得力而晚景有靠。应期尺度：年档/运档，先定运段再论升迁，不落单日。",
+ "basis": "四柱庚辰己卯壬寅辛丑：卯月伤官、己官透月、庚辛印透生壬、辰丑土为官气有库；据子平真诠伤官佩印/官印相生与等级校准，强度足级断省级实权。输入残损：仅给四柱、无出生年月日时与完整大运干支/起运岁数，故应期只定运档/年档尺度，不臆报精确流年；格局与终局按四柱月令、透干、根气定。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "八字"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

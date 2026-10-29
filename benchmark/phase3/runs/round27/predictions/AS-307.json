@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-307",
+ "prediction_text": "方向：特朗普胜——受访选举占星师群体所指的2024年赢家终局落于特朗普，哈里斯不胜。断语：特朗普以选举人团多数（约300票量级）取胜、横扫或大部拿下七个摇摆州，哈里斯得票集中于沿海蓝州；结果在投票夜至次日凌晨明朗，不出现选举人团平局或众议院决定。应期单位为日：2024年11月5日投票、11月6日凌晨（美东）定局。",
+ "basis": "输入残损严重：仅有采访时间（2024-10）、场合与来源，无任何受访者星盘、星位、人数与各自原文表态，无法复核群体分布，只能就终局赢家独立作方向性作断，已大幅降置信、不臆补各占星师原话。方法为西洋占星。",
+ "confidence": 0.44,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

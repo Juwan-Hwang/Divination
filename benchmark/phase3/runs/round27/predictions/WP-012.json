@@ -1,0 +1,19 @@
+{
+ "case_id": "WP-012",
+ "prediction_text": "方向：拜登赢得选举并最终入主白宫，但国家陷入分裂动荡。断语分三层：① 胜选者为 Joe Biden；② 就任过程不顺——特朗普拒绝顺畅认输、邮寄选票争议与结果合法性之争使交接拖延对峙，但最终仍是拜登于2021年1月就任；③ 后续为全国性撕裂：抗议与不信任蔓延、国家认同层面的'散架'式分裂成为本届大选的主要遗产。应期：选举定点2020年11月3日（日档）；就任主坐标为2021年1月20日（月档内的定点）；分裂余波贯穿2021年全年（年档）。置信：中。",
+ "basis": "占题自带三段纵深，按两段/三段式分别落断：胜选层从民调与盘面主向取拜登；就任层从'败者可能不接受结果'的给定事实与争议结构取拖延对峙而终局不改；后果层取集体分裂——此问的核心凶象不在谁胜，而在国家整体的离心。输入未附具体盘面/牌面，置信为中。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western-astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

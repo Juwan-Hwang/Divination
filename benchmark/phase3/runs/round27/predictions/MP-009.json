@@ -1,0 +1,20 @@
+{
+  "case_id": "MP-009",
+  "prediction_text": "方向（雙負）：韓國瑜2020總統選情敗象已定，將落敗；其高雄市長職位亦不穩固，選後將面臨罷免並被罷免下台。具體斷語：①總統選舉2020年1月落敗，差距為兩位數百分點量級；②市長職位在2020年年內遭罷免投票通過而去職（應期以年/月為單位：先定2020年，罷免成案與投票在該年年中前後）。兩問皆負面，無一保住。",
+  "basis": "輸入殘損：僅有出生年與占題背景，無完整出生年月日時、出生地，無法依庫內規矩排四柱全盤，故八字只作年命（年柱生肖/納音層級）粗判，主斷以占題給定事實（民調、時程、局勢）依事實優先序收束，置信相應調降，不臆補盤面。占題事實：2019-10-02卜卦時點距大選100天，綠黨民調蔡50.9%、韓32.6%，韓自8月大幅下滑——18個百分點差距在100天內無翻盤路徑；高雄罷免連署已在進行第一階段，程序一旦啟動且其總統選情崩跌，罷免動能只增不減，兩條事實線同指雙負。年命粗判：2020庚子子酉破其丁酉年命，輔證該年職位不保。",
+  "confidence": 0.72,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": ""
+  },
+  "systems_used": [
+    "八字（年命粗判）",
+    "占題事實情勢研判"
+  ],
+  "sources_used": [
+    "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+    "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-bazi-ziwei.md"
+  ]
+}

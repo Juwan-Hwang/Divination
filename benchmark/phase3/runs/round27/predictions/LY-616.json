@@ -1,0 +1,20 @@
+{
+ "case_id": "LY-616",
+ "prediction_text": "终局positive：两村争田水，我方（世方）占上风、对方落败，但撕打激烈、双方有损伤。用神世爻兄弟巳火临丁巳日值、卯月相，本气旺；应爻官鬼亥水卯月休囚、逢巳日冲为日破，应方无力；卦中五爻发动、多动主乱战：妻财酉金（田水之利）动化丑土子孙回头生金，利终归金方流通，父母卯木动化未土、官亥动化卯木皆泄应方之气。具体断语：胜负落于世方一村，田水之利不归应方；过程动而多伤，不作无损全胜断。应期双层：窗口为本月内，窗口内主坐标为巳日——世爻逢值、应爻逢冲破之日为胜负见分晓之期（争讼对表无此门类、按三步取点）。置信中（0.62）。",
+ "basis": "输入残损：原书只记月日与卦象、未给六神与旬空，六神不作主断、旬空按日干支推定；用神世爻巳火（争讼世应分指双方，路4适用）。动化方向：兄巳→财酉（世化财、趋利）、财酉→丑土回头生财、官亥→卯木泄应、父卯→未土；方向定性：世旺应破为吉向（我方）。反转条件：无全成立反转链。四路：本气＋（世临日旺）／元忌仇0（多动互见、子孙未土静制官）／动化＋／世应−本应记应克世，然应亥日破无力、按世应门规则应克不成立记0偏＋佐证；合参成向。应期三步：日档近事撕打；冲破亥、填实丑、逢值巳，取逢值巳日。门类对表：争讼对表无此门类，明写无表。对象对齐：所问世方村／用神世巳／应验落世方，应方败象单独写明不并入终局。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "多爻动化同向佐证世胜，未改变主用定性，无伏神与取用争议"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

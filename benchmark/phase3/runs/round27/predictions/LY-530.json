@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-530",
+ "prediction_text": "方向：凶、家宅人口不盡平安。水天需之乾為天，世爻子孫申金居四爻本為人口福神，卻發動化父母午火，午火克申金、回頭克福神；上爻妻財子水臨空（空子丑）發動化兄弟戌土，戌土克子水亦回頭克。具體斷語：近段人口有病傷驚擾、一人先應（世爻所主之身），宅中財水空動主耗費；遠段觸發為四爻動化午火，火值之期事急。應期日檔：窗口本旬內，主座標午日（世化午火逢值、回頭克應事）。終局單判為不安。置信中低。",
+ "basis": "輸入殘損：未記月日、逐爻表未錄；由水天需（坤宮遊魂、世四應一、空子丑）與變乾為天按納甲重構，動爻四、六。世持子孫動化回頭克為主線（動化方向核對：午火→申金為克，非生）。對立面：子孫持世本主平安，反方無硬信號勝過回頭克，初判凶向守住。無月日，旺衰只據動化與空亡，降置信。",
+ "confidence": 0.4,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "世爻子孫動化回頭克翻轉持福之初象，終局由動化定；用神現卦，無伏神；取用無爭議。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

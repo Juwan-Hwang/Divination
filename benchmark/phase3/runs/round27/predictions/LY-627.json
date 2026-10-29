@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-627",
+ "prediction_text": "方向：正向（父近病可愈、生机回复）。本卦地雷复，一阳来复主生机返、病有回头之象，近病得复卦为愈之正象；变火雷噬嗑主病需借医药咬除病根、治之则通。具体断语：父亲近病可愈，病情向回转，借医药调治后痊愈，非沉疴不治之局。应期双层：近病定日档，窗口为七日内（复卦七日来复之期），主坐标取第七日（来复之日，病愈见分晓）。病位无逐爻依据，不妄断。近段病尚在身、远段来复而愈，两段以复之七日为界，终局合成单一正向。",
+ "basis": "所问对象：父（近病，主语复述对回：患病之父本人，非占问者本人）；用神：父母，但逐爻装卦表因在线本OCR行序错乱未能可靠还原——输入残损照实注明：chart_lines为空、无月日干支，只据卦名地雷复变噬嗑、坤宫、空亡辰巳作卦级判断。候选枚举与旺衰诸序无从执行，降置信。动化方向：无逐爻记录，存疑；反转条件：未齐备。四路无从逐项定符，方向据复卦来复之象与近病尺度定正向。对立面裁决：反方以噬嗑带刑伤之象举凶，无爻位硬信号，且噬嗑于病为治病除根之象不作凶据，初判守住。病占原神（子孙为医药）存续无爻位证据不断，只以变卦噬嗑主须借医药落具体断语。应期取复卦辞七日来复为唯一可据之期，三路候选因无盘面支位无从列，照实注明。disputed=true：盘面残损存疑。",
+ "confidence": 0.45,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "月日干支与逐爻装卦表缺失/不可靠还原，仅据本变卦卦象定方向与应期，存疑已降置信"
+ },
+ "systems_used": [
+  "六爻"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-011",
+ "prediction_text": "方向：这桩婚事能重新促成、最终可成。男方主星土星（7宫主）虽偕火星居南角固定土象主其僵硬难动，但木星擢升趋六合土星并将其光传递给上升主太阳，且传递途中无禁制、无截断、无挫败，相位于6月27日成正；金星与月亮、太阳与金星之间互容为辅。应期：男方宜6月19日近午先动，6月27日前后相位成正、婚议落实；月亮空亡转冲太阳主女方途中一度反悔/情绪反复，不改终局。",
+ "basis": "Jupiter集光传递（translation/collection）为Lilly婚事成局强证且无prohibition；其余衰象只压过程。",
+ "confidence": 0.75,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+  "case_id": "MP-010",
+  "prediction_text": "方向：2024年總統大選最有當選之相者為賴清德（民進黨）。郭台銘若參選不能當選：其參選之路先卡在政黨提名/連署整合關口，即便獨立參選到底也只能居於陪跑位置，且大概率在投票前退選或邊緣化。排序傾向：賴清德居首，國民黨人選（侯友宜）居次，柯文哲第三，郭台銘最末。應期以年/月為單位：人選於2023年年中陸續底定，勝負於2024年1月投票月揭曉（月檔，先定2024年、再定1月）。",
+  "basis": "輸入殘損：僅有出生年與占題背景，無完整出生年月日時、出生地，無法依庫內規矩排四柱全盤，故八字只作年命（年柱生肖/納音層級）粗判，主斷以占題給定事實（民調、時程、局勢）依事實優先序收束，置信相應調降，不臆補盤面。占題事實：2023-01-05各黨人選未定，但民進黨由時任副總統賴清德接班的隊形最完整、執政黨基本盤最大；郭台銘2019年已有一輪初選後退出的前例，且無政黨組織與基本盤支撐，獨立參選的連署與整合門檻為其硬傷——此二項為主據。年命粗判：郭1950庚寅生，2024甲辰年已74歲，年命層面無登頂新運之據，僅輔證。",
+  "confidence": 0.58,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": ""
+  },
+  "systems_used": [
+    "八字（年命粗判）",
+    "占題事實情勢研判"
+  ],
+  "sources_used": [
+    "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+    "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-bazi-ziwei.md"
+  ]
+}

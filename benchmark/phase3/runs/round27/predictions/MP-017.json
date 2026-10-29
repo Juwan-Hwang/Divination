@@ -1,0 +1,20 @@
+{
+ "case_id": "MP-017",
+ "prediction_text": "断：女性出任下届香港行政长官。方向明确为女而非男。应期为月档下之日点：2017年3月26日选举委员会投票日定，女性候选人当选。置信中高。",
+ "basis": "事实优先序：梁振英已宣布不连任后，男性备选者虽已辞职备选，但政务司司长林郑月娥由不参选改口『重新考虑』，在特首选举制度下此为有权势支持者入局的强信号，象意与时势同指女性得位。输入无任何候选人完整生辰与起占数据，只能以梅花外应/时势取象定性别方向，故不另断姓名细节，置信据事实信号强度给中高。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "梅花易数"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

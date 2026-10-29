@@ -1,0 +1,20 @@
+{
+  "case_id": "MP-006",
+  "prediction_text": "方向：韓國瑜2020年（63歲）運勢為先盛後衰之年，總統之路不成，將於2020年1月大選落敗，且選後政治聲勢續受衝擊（市長職位亦不穩固、面臨罷免壓力）。具體時程：2019年秋冬支持度續跌，2020年1月投票大敗；敗選後半年內高雄市政反彈聲浪成形。應期以年/月為單位（年檔：問其2020全年運勢與總統之路，先定2020年，再定1月敗選之月）。",
+  "basis": "輸入殘損：僅有出生年與占題背景，無完整出生年月日時、出生地，無法依庫內規矩排四柱全盤，故八字只作年命（年柱生肖/納音層級）粗判，主斷以占題給定事實（民調、時程、局勢）依事實優先序收束，置信相應調降，不臆補盤面。占題事實：2019-09-27時點韓已獲提名約兩個月、民調自8月起呈下滑趨勢——下滑已是進行中的事實而非推測，趨勢延續至投票日為主斷依據。年命粗判：1957丁酉生，2020庚子年子酉相破，年命層面亦不支持其在該年登頂，僅作輔證不作主據。",
+  "confidence": 0.66,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": ""
+  },
+  "systems_used": [
+    "八字（年命粗判）",
+    "占題事實情勢研判"
+  ],
+  "sources_used": [
+    "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+    "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-bazi-ziwei.md"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "MH-003",
+ "prediction_text": "方向：定物（所借为斧头）。天风姤四爻动变巽为风，互重乾：闻声占，一声乾为上、五声巽为下，动在上卦乾金为用、巽木为体；乾金为刚锐金属、巽木为木柄与入，金属加木柄的砍伐之器，象定斧头。具体断语：扣门者所借的是斧头一把——铁刃木柄、用来劈砍柴木，当夜借去即用。应期双层：即时事定日档，窗口为当夜之内，主坐标取扣门当下酉时这一刻（借物即时应，无待后日）。断语落项：物品（斧头一把）、数量（一把）、时点（当夜酉时）俱备。",
+ "basis": "梅花闻声起卦（输入自带）：天风姤四动变巽为风，互见重乾。体用：乾金为用克巽木体，本问非吉凶而为定物，体用只定物类范围：金刃在上、木在下，金木相合之器为刃具带木柄者。明理校正（卷一借物占明训）：同类刃具中，锄为农作宽刃、斧为劈砍，冬夕拥炉时节、扣门急借，主劈柴取暖之用，情理取斧不取锄。互重乾叠金加强金属分量。爻辞不引（核不出与定物直接相合之辞，改走体用一路，照实注明）。应验对象：所借之物本身，非借者之人。梅花自检表：断语落物品/数量/时点三项。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "梅花易数"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

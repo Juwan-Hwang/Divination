@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-531",
+ "prediction_text": "方向：吉、僕將歸。占僕以妻財亥水為用神（輸入明記），財亥居四爻靜而不空，立於卦身中位，主其人無恙、在途可返；三爻兄弟辰土、六爻兄弟未土（未臨空午未）發動為途中有同伴/行李牽絆之遲，非不歸之象。應期日檔（行人類近事）：窗口五日內，主座標巳日——亥水靜爻逢巳沖則動、沖起即歸；逢值亥日一路舍棄，理由：用神靜而得沖起之路在先，值日只主其人在位不主動身。置信中低。",
+ "basis": "輸入殘損：未記月日、逐爻表未錄；由澤天夬（坤宮、世五應二、空午未）之天澤履重構，動爻三、六皆兄弟。用神亥水現卦靜爻，應期三步：定尺度日（問何日歸）；三路：沖實巳、填實無空不取、逢值亥；取沖實一路定窗選點。對立面：兄弟兩動可主阻歸——裁定：兄動不克亥財本身，只調遲滯量級，不翻歸向。應驗對象復述：歸者為僕人本人。",
+ "confidence": 0.42,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "動爻皆兄弟、未動用神，主斷不由變卦改向；用神現卦，無伏神；取用明記無爭議。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

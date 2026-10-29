@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-103",
+ "prediction_text": "终局单一方向：当晚雨会停（positive，停雨向）。近段傍晚雨势渐收，远段当晚音乐会时段雨止。应期双层：日档（当日天气，时级），窗口为丙辰日傍晚至当晚，主坐标为申时后雨止、酉时已晴定分（时坐标以申酉金生水收束、风象散雨取申）。只断当晚停，不断次日天气。",
+ "basis": "对象对齐：所问对象=当晚北京雨势，用神按天时看父母为雨、子孙为晴，应验对象=当晚天气，同一。盘面仅给本变卦名与午月丙辰日。动化方向：旅之姤，按两卦爻象比对多爻之变，变卦姤为天风、风行于上主吹散阴雨；方向定性：旅小亨、雨在旅途之象为过雨，姤风象主散，合参停雨。反方读法为辰日水库、午月雨势可续，已裁定变卦风散之动向优先于日支静态水象，只压近段量级为傍晚仍有残雨。应期按天时近事取时级，风散取申时后。输入残损：无逐爻、父母子孙爻位不可核，降置信。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "初判停雨维持；未用后备；逐爻缺失致停雨时点存疑"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+  "case_id": "MP-007",
+  "prediction_text": "方向：韓國瑜2019年運勢為高開低走：上半年人氣與聲勢達頂，將被推舉投入總統初選並出線；下半年聲勢回落、爭議漸增，年底已非其高點。政治前景：能取得國民黨總統提名（問鼎之路走得通），但2020年1月大選落敗、不得總統之位（登頂之路走不通）。應期以月為單位：聲勢頂點在2019年年中初選前後，轉弱在2019年秋冬（月檔，本題問2019全年運勢與前景）。",
+  "basis": "輸入殘損：僅有出生年與占題背景，無完整出生年月日時、出生地，無法依庫內規矩排四柱全盤，故八字只作年命（年柱生肖/納音層級）粗判，主斷以占題給定事實（民調、時程、局勢）依事實優先序收束，置信相應調降，不臆補盤面。占題事實：2019-02-20韓就任約兩個月、人氣正盛、未表態參選——人氣頂部區間與黨內人選真空同指其年中出線；帶職參選的結構性爭議為下半年回落的可推依據。年命粗判：丁酉生人2019己亥年為聲勢外放之年，與占題人氣事實同向；2020庚子子酉破，不利登頂，輔證遠段。",
+  "confidence": 0.6,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": ""
+  },
+  "systems_used": [
+    "八字（年命粗判）",
+    "占題事實情勢研判"
+  ],
+  "sources_used": [
+    "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+    "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-bazi-ziwei.md"
+  ]
+}

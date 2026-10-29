@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-540",
+ "prediction_text": "方向：凶、隨官上任不利。水地比之水風井，歸魂卦，用神官鬼卯木即世爻居三爻，發動化子孫酉金，酉金克卯木、回頭克官位且子孫為剝官之神；二爻父母巳火（任命文書）發動化妻財亥水，亥水克巳火亦回頭克，文書與官位雙雙化克。具體斷語：此行或不成行、或到任不久即去職退回，不宜隨往。應期月檔：窗口三月內，主座標酉月（世化酉金逢值、回頭克應事）。置信中。",
+ "basis": "輸入殘損：未記月日、逐爻表未錄；由水地比（坤宮歸魂世三應六、空戌亥）之水風井重構，動爻二、三。動化方向逐對核對：酉金→卯木為克、亥水→巳火為克，雙回頭克成立。反方：比卦親附、應財生世可主得助——裁定：靜態生克只調量級，不敵兩動爻回頭克之定性。",
+ "confidence": 0.48,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "世官與父母雙動化回頭克改定終局；用神現卦無伏神；取用無爭議。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

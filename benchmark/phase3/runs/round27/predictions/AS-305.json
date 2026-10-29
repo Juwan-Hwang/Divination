@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-305",
+ "prediction_text": "方向：特朗普以窄幅胜出——2024年美国总统选举特朗普赢得选举人团、哈里斯落败。断语：盘面势均力敌之象落实为选举人票接近（特朗普约290–320票区间，主坐标约312票），决胜在宾夕法尼亚等少数摇摆州的个位数百分点差距；哈里斯在全国普选票上可与特朗普相持甚至略前，但不能转化为选举人票多数。女性首任总统此次不成。应期单位为日：2024年11月5日投票夜至次日凌晨分出胜负，个别州计票拖至其后数日亦不改终局。",
+ "basis": "输入残损：仅有选前发布时间、两候选人背景与发帖者自承盘面极难判断之述，无其星盘、星位与原文结论，无法按盘复核；依选举占星通则在均势盘中取挑战者动能与在位方受压的方向作断，已降置信、不臆补原文。方法为西洋占星。",
+ "confidence": 0.46,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

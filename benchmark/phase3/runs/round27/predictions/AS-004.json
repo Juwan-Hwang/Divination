@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-004",
+ "prediction_text": "方向：传闻不实——国王并未攻下剑桥。四角皆变动主事无根、传闻无实；月亮陷于不喜之宫位衰弱；问者一方上升主擢升有力，对方（国王，第7宫主）入落且受克。故消息为假，剑桥未失。应期：日档，数日内即证伪、无需久等。",
+ "basis": "Lilly谣言章规则：角宫变动+月亮衰陷主谣言虚假；双方主星尊贵对比（我方擢升/敌方入落受克）同向。",
+ "confidence": 0.85,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "WP-003",
+ "prediction_text": "方向：奥巴马连任。断语：Barack Obama 击败 Mitt Romney 赢得第二任期；选情虽呈竞争之势，但最终胜方明确。水星逆行自选举日始，主计票与信息层面的小混乱、延迟或争议插曲，不足以翻转胜负。应期（日档）：窗口为2012年11月6日选举日，主坐标为11月6日当日开票定局。置信：中高。",
+ "basis": "行星周期与行运骨架下现任者格局未破、挑战者无压倒性引动；水星逆行按古典法主文书/通讯迟滞，只调量级（计票插曲）不翻方向（承动化定性优先的精神：静态扰动不压主向）。事实面民调仅为竞争而非 Romney 领先。输入未附候选人本命盘，置信下调。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western-astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

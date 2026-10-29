@@ -1,0 +1,19 @@
+{
+ "case_id": "WP-011",
+ "prediction_text": "方向：特朗普连任（本断所据的一家吠陀读法）。断语：Donald Trump 将击败 Joe Biden 连任总统——其吠陀盘中木星坐第二宫并照第十宫、太阳居第十宫，事业宫得木星之照与太阳之坐，在位与权柄之象强固，按此读法足以压过挑战者。应期（日档）：窗口为2020年11月3日选举日，主坐标为11月3日。置信：中（单一盘面片段支撑，与同刊他家读法相左，分歧如实并存）。",
+ "basis": "本例给定盘面专属特朗普：木星在第二宫照第十宫、太阳在第十宫——古典尊贵与宫位法中十宫得吉星照临且太阳居事业宫主权位稳固，故此家读法断连任。输入只给此一片段且同文另有异读，属分歧未决之局，置信压至中档，不以片段拔高。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "vedic-astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "BZ-303",
+ "prediction_text": "方向：负面转弱——至2024年香港经济与楼市不走持续上行，地运转换期楼价自高位回落、经济低迷调整，苏民峰式地运断若主八运旺势延续至2024则不成立；断语落点为：2016年访问时楼价虽在上行通道，其后至2024年楼市进入明显下行与成交萎缩段，经济同步承压，此为地运交接（八运转九运前后）的衰退调整而非旺运尾升。应期尺度为年档：转弱窗口在2020年代初至2024年，主坐标2024年（所问截止年）楼市低位。置信说明：本库风水条明定只作文化背景、不出风水断语（八字紫微篇附则），本题无任何盘面与四柱输入，故此断为按所问事件方向作答并明写方法限度，不以风水理气规则冒充依据。",
+ "basis": "basis：输入仅存问题与2016年背景、无盘面；kb-snapshot八字篇附则定风水只作文化背景不出风水断语，故basis明写限度，断语只给事件方向与年档窗口，不引理气规则为据。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "风水（按库内限度仅作方向断）"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

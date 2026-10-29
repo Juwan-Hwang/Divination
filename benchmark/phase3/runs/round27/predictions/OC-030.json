@@ -1,0 +1,19 @@
+{
+ "case_id": "OC-030",
+ "prediction_text": "方向：两问皆可——淮扬巡按差可复设、吏书缺可照旧。课得重审铸印，铸印为印绶成形之吉格，太常乘初传巳主印绶迁拜，钦差占得铸印主复任巡按之象，主已废之巡按差经重审而复设得行、差遣落到实处；三传巳戌卯、六合乘戌主合旧制，太阴乘末卯主旧缺暗中照旧保留，吏书之缺不废、照旧有人。应期：月档（仕宦差遣定月档）——窗口春季二三月内，窗口内主坐标取三月（戌/巳印绶逢值成形之月）为复差定局最可能之月；舍巳逢值日路（差设属月档不压成日），舍卯冲路（卯为末传照旧之象、冲之反主变，不取）。",
+ "basis": "课式重审铸印、三传巳（太常）戌（六合）卯（太阴）、月将亥；按六壬仕宦/钦差门铸印格主复任巡按、太常印绶取用。输入残损：无四课天盘全图、旬空与年命未给，只据课式三传天将作断，缺路已注。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "大六壬"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuren.md"
+ ]
+}

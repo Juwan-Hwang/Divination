@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-013",
+ "prediction_text": "方向：窃贼是与水路/仓廪相关之人，货物多半追不回全数，至多追回一部分或得其下落。贼星取唯一在角宫游荡的木星，居第7宫头天蝎（水象）；货物主星水星居双鱼（水象）、福点居巨蟹（水象），三象皆湿，主货在近水、潮湿之地（河边仓廪/船边）。水星虽落陷但居己界，月亮（福点主）趋六合水星、水星又拱福点，主尚有追索线索与部分复得之机；然水星落陷主全数复原无望。应期：月档，数周内见下落分晓。问日1637年2月10日（旧历）。",
+ "basis": "角宫唯一peregrine行星取贼星为Lilly盗案通则；三水象定场所；水星落陷压复得等级为部分。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "WP-013",
+ "prediction_text": "方向：工党大胜。断语：Keir Starmer 率工党赢得2024年7月4日英国大选、入主唐宁街，Rishi Sunak 的保守党政府下台，且为大幅度换届（工党取得压倒性多数），非险胜。应期（日档）：窗口与主坐标同为2024年7月4日选举日。置信：高。",
+ "basis": "事实层与盘面同向：民调约20个百分点的持续领先、首相提前离席D-Day纪念活动自伤其势；选举落在巨蟹座太阳期，巨蟹主家园与民生安全，正合以民生/归属议题换政府的集体情绪。多路同指一处，按等级校准足级给出大胜。输入未附国家盘细节，但事实强度足以支撑高置信。",
+ "confidence": 0.85,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western-astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

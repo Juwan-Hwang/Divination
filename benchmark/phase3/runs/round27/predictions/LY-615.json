@@ -1,0 +1,20 @@
+{
+ "case_id": "LY-615",
+ "prediction_text": "终局negative：此次出门不成，被合绊而止。用神世爻官鬼丑土申月相、发动本欲行，却与日辰子水成子丑六合——世动逢日合住，合住则行不得（六合章本旨）；世动化妻财午火虽回头生世，只主行资/行意尚在，不解合绊之闸；应爻子孙卯木发动化官辰土，出行之乐/伴反转牵连。具体断语：阻应于出行者本人，行期被人事牵绊拖住，本次成行无望，须待冲开子丑之合另议。应期双层（出行对表：合住者取冲开之日为闸门坐标）：窗口为本旬内，窗口内主坐标为未日——未冲丑、冲开合绊之日为脱绊之期（非成行之期）。置信中低（0.58）。",
+ "basis": "输入残损：原书只记月日与卦象、未给六神与旬空，六神不作主断、旬空按日干支推定；用神世爻丑土（自占出门看世）。闸门状态：世与日辰六合合住，闸门释放规则优先于对表取点。动化方向：丑土→午火回头生世、卯木→辰土；方向定性：回头生为吉向但只及行资量级，合住闸门未开不翻行否。反转条件：无全成立信号。四路：本气＋（月相）／元忌仇0（兄亥静、父酉空静）／动化＋（只调量级）／世应：应子孙动记旁参；合参以合住闸门定不行向。应期三步：日档近行；冲开未、填实丑、逢值丑，取冲开未日（闸门释放路优先），余路闸门未开舍。门类对表：出行次选合住取冲开之日，与闸门规则同向。对象对齐：所问出行者本人／用神世丑／应验同一。输入题头另涉嫁女、原问只作占出门，按原问断、嫁女不并断。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "世化回头生未改变合住不行的主断，无伏神、无取用争议"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-535",
+ "prediction_text": "方向：凶、慮大計（考核）不利。火山旅之地火明夷，官鬼不上卦：變爻無官、日月未錄無從分流，取本宮首卦離為火三爻伏神官鬼亥水，伏於三爻妻財申金之下，飛來生伏、伏神有出之機但本體終藏而不顯，主功名無著落；世爻子孫辰土居初爻發動，子孫專克官鬼，世動克伏官，考核之忌正在自身。具體斷語：大計考語不佳、有降調/處分之憂，非僅遲延。應期月檔：窗口考核期內，主座標亥月（伏官逢值欲出而受世子孫克制應事）。置信中低。",
+ "basis": "輸入殘損：未記月日、逐爻表未錄；由火山旅（離宮世一應四、空子丑）之地火明夷重構，動爻一、四、六。用神不上卦走伏神待出五步：伏官亥水、飛申金生伏（判據1飛生、2飛不空破部分成立），待出資格中檔；但世子孫動克官為定性主線。reserve_used即此伏官。反方：飛生伏主官可出——裁定：出而受克，只主曾有機會，不翻不利終局。",
+ "confidence": 0.42,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "世爻子孫發動克伏官改定終局；官鬼伏藏啟用伏神為主用；取用按飛伏次序無爭議。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

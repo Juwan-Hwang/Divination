@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-207",
+ "prediction_text": "方向：负面终局——Laud不会老死狱中或获释，将死于暴力处决。断语：其主星土星失势（fall）、久逆行且落第十二宫（囚禁宫），主长期囚困且无力自救；月亮离土星而趋合近第八宫（死亡宫）宫头的太阳，太阳在火象星座又趋冲火星，火星居风象人形星座——死因为公开的利器斩首类处决，刑及头颈，而非病死、毒死或绞死。应期：以月为尺度（战时囚犯命运），窗口为占问后数月内、月亮离火星尚余约7度为最强的时间标记，主坐标取约7个时间单位（月）量级内行刑，不拖至数年之后。",
+ "basis": "卜卦占星古典法（整宫）：以第九宫头作教会人士之上升、土星为其主星，土星fall+逆行+12宫三重弱象定囚困无救；月亮趋太阳近8宫头定死亡趋近；太阳冲火星、火星居人形风象定利器/斩首类暴力死。输入仅为Lilly散文所列关键位置、无完整盘面与上升度数，已据此降置信，不臆补未给位置。对立面读法（自然病死）无硬信号：无主星得救、无吉星接纳死亡宫主，故不取。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-211",
+ "prediction_text": "方向：正面——失马可寻回。断语：马以第十二宫主为征象星，其星逆行且正趋合求测者第二宫（财物宫）之主，逆行主返回、趋合财物宫主主马回到主人财物范围之内；月亮在第二宫、又有两颗逆行星近第二宫宫头，多重返回证象叠加。寻向：第十二宫星座及其主星所在星座众证皆主西——马在Henley以西方向、往西寻可得。应期：以日为尺度（近失之物），窗口为数日内，逆行星趋合完成之时即寻回主坐标，取约数日之内、不出本旬；第七宫受损只主曾有他人牵涉/险被带走，不翻可回之终局。",
+ "basis": "卜卦占星失物法：12宫主（大牲畜）逆行趋合2宫主为失物归主经典证；月在2宫+两逆行近2宫头加重返回；方向以12宫座与宫主座众证取西。输入仅散文关键位置、无全盘与占时，已降置信。对立面（被盗不回）仅7宫受损一条，不敌三重返回证，不取。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

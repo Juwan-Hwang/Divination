@@ -1,0 +1,20 @@
+{
+ "case_id": "LY-613",
+ "prediction_text": "终局negative：妹临产凶险，主迟产难产、子不易出。取妹身为兄弟酉金持世：午月金死、本气休囚，官鬼巳火两见、午月火旺静克酉金，母体受克而静卦无动无解；主产育的子孙不上卦而伏藏，伏神申金（乾宫首卦同位推得、输入未标注伏神，此项存疑）临申位受午月火克、飞神压伏未开，子象迟迟不现。具体断语：险应于妹本人之产程，子迟出、须防难产；不妄断母子死绝（静卦无动、决策序死绝三类不全）。应期双层（产期对表：伏藏者取出现之日）：窗口为本旬内，窗口内主坐标为申日——子孙申金伏神出现之日为产程见分晓之期。置信低（0.52）。",
+ "basis": "输入残损：原书只记月日与卦象、未给六神与旬空，六神不作主断、旬空按日干支推定；输入残损较重：伏神未标注，子孙伏位按本宫（乾宫）首卦同位推得、标注存疑并降置信；六神未给。所问对象妹／用神兄酉持世（妹身）＋子孙伏申（产育）／应验对象分开写：母体险归妹、迟产归子，不合并。动化方向：静卦无动化。反转扫查：伏神引拨四项——伏申月克休囚（项1不成立）、飞神状态输入不全（项2未核清）、无动爻生伏冲飞（项3、4不成立），只部分成立以下，不翻转。四路：本气−（兄死于月）／元忌仇−（官火旺静克、原神土父静生力薄）／动化0／世应不计；合参凶向。应期三步：日档临产；冲飞/出现申、填实申、逢值申同指申，取出现申日（产期对表伏藏出现）。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": true,
+  "reason": "子孙不上卦取伏神作储备用神；伏位由宫推得、输入未标注故取用存疑"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

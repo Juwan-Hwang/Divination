@@ -1,0 +1,19 @@
+{
+ "case_id": "OC-018",
+ "prediction_text": "方向：先以文业声名显达、终有暴亡之险，不主安享晚年。庚金生子月伤官，丙火七杀透月、己印辛劫在局，伤官旺而文思锋锐，杀印/伤官驾杀之势使之以报业文名崛起，地位至报界巨头、舆论领袖级。但庚金子月身弱泄重，寅巳财杀之根俱在，行至火土财杀旺运，杀重逼弱身而印化不及，主因言论事业招强敌、遭暗算兵刀之祸。险年落在中年向晚年过渡之火杀运段（约五十余岁前后为最危关口），主突发暴力横祸而非久病善终；此前金水土运则名位步步高升。应期尺度：年档，先定危运再定险年，不落单日。",
+ "basis": "四柱己卯丙子庚寅辛巳：子月伤官旺、丙杀透、身弱、寅巳财杀有根；据病字与等级/终局核对，杀逼弱身为原局之病，火杀运为翻转触发，故断显达而暴亡，不作善终高寿。输入残损：仅给四柱、无出生年月日时与完整大运干支/起运岁数，故应期只定运档/年档尺度，不臆报精确流年；格局与终局按四柱月令、透干、根气定。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "八字"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

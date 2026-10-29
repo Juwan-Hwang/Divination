@@ -1,0 +1,19 @@
+{
+ "case_id": "OC-028",
+ "prediction_text": "方向：入觐考选得官、考选得中而授京职。三传辛卯玄武、丙戌朱雀、癸巳白虎，重审课先迷后利、斫轮课主为官者得位施展；戌为印绶乘朱雀主文书诏命得下，卯为日干己土之官星居初传发用，主官位临身。所授之官断为京朝文职（科道/部属郎官一类清要之职），非外任州县、亦非武职；等第中上、得实授而非虚衔。应期：月档（仕宦迁转定月档）——窗口考选后数月内，窗口内主坐标取巳月（末传巳逢值、朱雀文书应）为授官最可能之月；舍卯逢值一路（卯只主官象临身、榜选未毕不作授期），舍戌合一路（戌主印命已在传中，不待合齐）。",
+ "basis": "课式重审斫轮、三传卯戌巳、朱雀乘戌印、月将寅、甲申旬午未空而官印不空；按六壬仕宦门官鬼父母取用与斫轮格义。输入残损：无四课天盘全图与年命，只据课式三传天将作断，官职只定到京朝文职类、不臆报具体部院名。",
+ "confidence": 0.57,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "大六壬"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuren.md"
+ ]
+}

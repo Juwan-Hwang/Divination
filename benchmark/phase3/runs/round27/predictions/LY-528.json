@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-528",
+ "prediction_text": "方向：偏吉、此地可用，但形势非全美。澤山咸靜卦，世爻兄弟申金臨庚申日、得丑月土生，世旺有力；應爻父母未土雖月破，卻生世金，地氣歸人。具體斷語：下艮為山、來龍有止有靠，上兌為澤、穴前明堂開而有水口之缺；父母兩現，一辰在初爻為基址、一未在上應而破，主穴頭/明堂一處破缺、水口不全收。應期以月檔論：丑月內定形可用，待未月父母填實月破之時再驗其缺處補正。置信分層：方向中置信，形勢細節低置信。",
+ "basis": "盤面完整（輸入逐爻俱全）：丑月庚申日，甲寅旬空子丑，卦中無空爻。兌宮金，世三爻申金臨日月生、應六爻未土月破生世。父母為墳地本體兩現，辰靜未破；子孫亥水得申日生為後人福神。反方：未土月破可主地破——裁定：月破之父生旺世，只壓等級為有缺，不翻可用方向。門類應期對表無墳地形勢門類，明寫對表無此門類，按月檔填實取未月。輸入無殘損。",
+ "confidence": 0.42,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "靜卦無動化，主用父母現於卦面，無伏神啟用，取用無爭議。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

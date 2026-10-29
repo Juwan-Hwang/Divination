@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-533",
+ "prediction_text": "方向：凶、房價索不得（不如期不如數）。坎為水之坤為地，用神妻財午火居三爻應位臨空亡（空午未）而靜——財在對方之位而空，主對方虛言無錢、價款落空；二爻官鬼辰土動化妻財巳火、五爻官鬼戌土動化兄弟亥水，官動生變出巳財只主衙門/中人處有一筆小數周旋，非應位正財。應期日檔：窗口本旬，主座標午日（應財出空填實）才有討價動靜，午日前索討無功，終局仍判索不得全數。置信中低。",
+ "basis": "輸入殘損：未記月日、逐爻表未錄；由坎為水（坎宮世六應三、空午未）之坤為地重構，動爻二、五皆官鬼。用神應財空靜，按空亡根氣判讀：無月日生扶可據、無原神專生，原路徑只留填實應期不作吉權。對立面：官化巳財可主得財——裁定：巳財在二爻非應位正財，只調量級為或得小數，不翻索不得之向。",
+ "confidence": 0.38,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "終局由應位用神空靜定，動爻未改主向；用神現卦，無伏神；取用無爭議。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

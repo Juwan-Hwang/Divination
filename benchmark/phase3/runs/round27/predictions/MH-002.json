@@ -1,0 +1,19 @@
+{
+ "case_id": "MH-002",
+ "prediction_text": "方向：负向（花盛极而损、次日遭折毁）。天风姤五爻动变火风鼎，互重乾：动在上卦，上乾金为用、下巽木为体，金克木用克体；体巽木即牡丹花木本身，乾为马、为刚健冲撞之物。具体断语：次日午时，盛开的牡丹将被马践踏折毁（刚物自外来克伤花木），花事由极盛骤损，非人力可护。应期双层：即时事定日档，窗口为次日一日内，主坐标取次日午时（火旺之时、乾马行至之候）。断语落项：物品（牡丹）、时点（次日午时）、致损对象（马）俱备。",
+ "basis": "梅花年月日时起卦（输入自带）：天风姤五动变鼎。体用：动在上卦，乾为用、巽为体，用金克体木凶；互重乾叠刚，乾象为马、为健行，克体之物以马象最合事实（花在园中、通衢往来之物）。变鼎下巽仍木、上离火，花木受克后入火象主焚损枯折，只调量级。爻辞核对：姤九五以杞包瓜、含章有陨自天，陨落之象与折毁同向，不作吉读翻转。事实优先：占时花开甚盛，盛极受克合明理。应验对象核对：应验落在牡丹花本身（非人对象），不回收到观花之人。量级守恒：花事小事只断花损。梅花自检表：具体断语落物品与时点，另有致损之马象，共三路取象（体用/互乾/变卦）已足。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "梅花易数"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

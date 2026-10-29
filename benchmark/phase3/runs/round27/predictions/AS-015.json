@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-015",
+ "prediction_text": "方向：丈夫在海上仍然活着，且将平安归来。丈夫主星太阳居其hayz且完全不受克伤，主其人安全无恙、无沉船丧生之象。须分清对象：盘中火星土星趋凶相所定的10月8日之危，按Lilly原断语境落在妻子自身（其6宫主土星逆行、久病缠绵），不是丈夫的死期。丈夫归期：以月档论，数月内归（凶相定时在10月8日，归讯应在此前后之月窗内落实）。",
+ "basis": "丈夫主星无克为存活决定证词；（f）应验对象复核：10月之危承受对象为妻子本人，不得回收到丈夫身上。输入位置多处OCR残损，归期只到月档。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "WP-009",
+ "prediction_text": "方向：印度不能夺冠。断语：印度队虽为夺冠热门、阵容强（Kohli 任队长、Dhoni 在阵），将打入淘汰赛阶段（半决赛量级），但最终与冠军无缘、止步于决赛之前，本届世界杯冠军另属他队。应期（日档，赛期定点）：窗口为2019年5月30日至7月14日赛期，主坐标为7月上旬半决赛段出局、7月14日决赛日印度不在场。置信：中。",
+ "basis": "队长 Kohli（1988年生）的占星周期不支持在本届赛期登顶：热门地位属事实层强势，但按以队长命盘周期定球队上限的占法（Greenstone Lobo 一系的队长本命定格法），其周期高点不在2019年仲夏的决赛窗口，故断强而不冠、止步四强量级。输入未附队长完整出生时刻与盘面，置信降为中。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western-astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

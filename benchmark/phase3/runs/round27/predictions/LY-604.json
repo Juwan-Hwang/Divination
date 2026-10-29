@@ -1,0 +1,20 @@
+{
+ "case_id": "LY-604",
+ "prediction_text": "终局positive：兄已判重罪而能得救，免于极刑/重罪得减。用神兄弟丑土受卯月、卯日木双克，本气极衰，几无生理；但丑土发动化出父母午火，午火生丑土为回头生，克处得生、绝处逢援。具体断语：救应落于兄本人，来自长辈/文书赦减一路（动化父母），非当场无事，先关押受罪而后得减。应期双层：窗口为卯月至午月，窗口内主坐标为午月——化神午火逢值、回头生力足之月为得救定局之期（终局类先定年/月档、不径直落日）。置信中（0.68）。",
+ "basis": "输入残损：原书只记月日与卦象、未给六神与旬空，六神不作主断、旬空按日干支推定；用神兄弟（动爻丑土为主用，三爻辰土静兄旁参）。动化方向：丑土→午火，火生土回头生；方向定性吉向，静态官寅旺克兄只调量级（罪重）。反转条件：无化退化绝，源（原神火）正化出得生，不反转。四路：本气−（月日双克）／元忌仇＋（原神午火化出动生、忌神官寅静）／动化＋／世应不计（代占看用神）；合参为衰而得救、迟成向。应期三步：月档终局类；冲实丑、填实午、逢值午，取逢值午月（化神值、与救局自洽），冲实/填实无点舍。门类对表：讼事/已定重罪对表无此门类，明写无表、按三步取点。对象对齐：所问兄／用神兄丑／应验同一人。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "兄动化父母午火回头生，初判衰绝被动化翻为得救"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

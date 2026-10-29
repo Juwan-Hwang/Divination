@@ -1,0 +1,19 @@
+{
+ "case_id": "OC-027",
+ "prediction_text": "方向：此行不得意——北上凶多吉少，无功而阻，身有险而母在家尚安。课名无禄、无路，已主禄路俱断、此行无得位之路；三传癸酉六合、戊辰太阴、亥青龙而亥落甲子旬空，末传空亡主行程落空、终无结果，中传辰又为墓气，主到京亦被困滞，难得实任实惠。北方兵紧之时远行，酉金、辰墓与空末交见，主途中/到后有惊险阻隔、进退失据，不主荣归。老母（甲子年命）一线：末传亥为空而非母命受死绝之克，无母亡之据，断母在家安守、惟忧劳牵挂，无性命大碍。应期：月档——窗口冬月至岁首，窗口内主坐标取冬月（十一月）行程见阻为应点；舍填实日路（亥填实只主消息落空之确认、非成事之期），舍逢冲路（无合待冲之局）。",
+ "basis": "课式无禄无路、三传酉辰亥而亥旬空乘青龙、月将丑；按六壬出行/仕宦门以末传空与无禄无路定落空，母安否以母年命未见死绝克据作安断。输入残损：无四课天盘全图，只据已给课式三传空亡作断。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "大六壬"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuren.md"
+ ]
+}

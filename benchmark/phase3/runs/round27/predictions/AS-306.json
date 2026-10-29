@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-306",
+ "prediction_text": "方向：民主党候选人先换人、终局特朗普胜——2024年大选走向为：拜登中途退选、哈里斯接棒成为民主党候选人，但最终由特朗普赢得大选重返白宫。断语：2024年6月辩论后拜登退选压力成真，换人发生在夏季（主坐标取7月、窗口6月末至8月民主党大会前），哈里斯仓促接棒得一时声势高点却守不住摇摆州；11月5日特朗普以选举人团约300票以上获胜。应期单位为月（换人）与日（选举日2024-11-05）分述：换人窗为2024年7月，胜负落点为选举日当夜至次日。",
+ "basis": "输入残损：仅有视频发布时间（2024-06-02）、当时背景（拜登状态受质疑、退选未发生）与来源，无星盘/星位/原文，无法按吠陀盘复核；依吠陀占星对在位者不利行运与候选人更替之通则方向独立作断，已降置信、不臆补原文细节。方法为吠陀占星。",
+ "confidence": 0.47,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "vedic-astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

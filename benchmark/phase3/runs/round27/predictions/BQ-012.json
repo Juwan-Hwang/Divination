@@ -1,0 +1,19 @@
+{
+ "case_id": "BQ-012",
+ "prediction_text": "方向（单一终局）：负面（就所问『倭寇来犯否』）——倭寇不来，无犯境之事。断语：噬嗑卦官鬼酉金居四爻衰而安静，鬼为寇象，衰静无力又不动，无兴兵犯境之势；丙子日水泄金气，鬼更衰。占地本境可安，乡民勿须惊扰迁移。应期（日档，近事尺度；对表无此门类）：窗口为本旬内，主坐标取占日丙子日——当下断不来，其后数日鬼仍无动象。置信分层：方向中置信（据摘录信号），全盘细节不可考。",
+ "basis": "输入残损：只记卦名噬嗑与『鬼爻衰静』，无月建、无动爻全盘。装卦复核：噬嗑巽宫木，官鬼酉金四爻；鬼衰静即用神（寇象）无气无动，按决策序旺衰先行：鬼无力则寇无力。反方无硬信号可据（无鬼动、无日月扶鬼之据）。终局反转扫查三类俱无，初判维持。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "六爻"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

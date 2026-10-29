@@ -1,0 +1,19 @@
+{
+ "case_id": "MH-006",
+ "prediction_text": "方向：负向（老人有跌伤之凶）。天风姤四爻动变巽为风：后天端法，老人属乾为上卦、巽方为下卦，动在上卦乾金为用、巽木为体，金克木用克体；巽为股、为入，所引九四爻辞包无鱼、起凶，辞义主凶与体用克向同向。具体断语：这位老人五日后将跌倒，伤及股腿（巽主股），伤势为筋骨跌伤需将养，无性命之忧但行动受累。应期双层：近事定日档，窗口为五日之内，主坐标取第五日（端法总数十、动爻四应外，以五日为跌伤应期数字）。断语落项：人物（老人本人）、部位（股腿）、时点（五日后）俱备。",
+ "basis": "梅花后天端法（输入自带）：天风姤四动变巽。体用：乾为用克巽体木凶。爻辞取象核对：九四包无鱼起凶，自带断辞为凶，先核辞义主凶再落断，与体用同向，不翻转。外应事实：老人面有忧色、往巽方行，忧色为先兆、巽方定体卦，事实与象合。应验对象核对：断语承受对象与应验对象同为老人本人（乾象即老人），不转断其家人。量级守恒：日常行路之事只断跌伤，不放大为生死。梅花自检表：断语落人物/部位/时点三项；变巽为风主行走间事，过程象合行路跌伤。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "梅花易数"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

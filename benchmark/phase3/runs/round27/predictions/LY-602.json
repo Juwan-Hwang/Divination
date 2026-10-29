@@ -1,0 +1,20 @@
+{
+ "case_id": "LY-602",
+ "prediction_text": "终局negative：此番求财不得财，空耗而回。妻财卯木临旬空又逢酉月冲为月破，虽得亥日生扶只是假空待实之象；忌神兄弟酉金临月建发动克财、化申金仍为金克木，劫夺在先。具体断语：财落于兄弟同辈/合伙分夺之处，求测者本人得不到实财，至多见财过手。应期双层：窗口为酉月内（月破未填、兄旺克财之期），窗口内主坐标为卯日——卯木填实之日正是破耗见分晓、财仍被冲克之日；出酉月另议，不在本占成财之列。置信中（0.62）。",
+ "basis": "输入残损：原书只记月日与卦象、未给六神与旬空，六神不作主断、旬空按日干支推定；用神妻财卯木（现卦二爻为主用，变爻寅木财保留应验位）。动化方向：兄酉金动化申金仍克财卯木，官巳火动化寅木财而寅空；方向定性：忌神旺动克用为凶向。反转条件：源绝三征不齐、化进待冲链不全（化出寅财空破无力），不翻转。四路：本气−（空破、秋木死而得日生）／元忌仇−（兄旺动克、原神子亥临日静而生财只作通关旁助）／动化−／世应不计（自占求财、世非用神）；合参方向败。应期三步：日档近事求财；冲实卯、填实卯、逢值卯三路同指卯而与败局自洽（填实见破耗），取填实一路。门类对表：求财门首选财入墓、次选世动逢合，本盘无此点，明写对表首选无点、按三步取点。对象对齐：所问对象求测者本人／用神财卯／应验对象同一（财不得于本人）。终局反转扫查三类均部分成立以下，不反向断终局。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": true,
+  "reason": "主用卯木空破、变爻寅木财同空，两财候选并列送判故取用存疑；寅财保留应验位，未以伏神定主"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

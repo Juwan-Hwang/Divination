@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-451",
+ "prediction_text": "方向：不吉（负向）。妇人梦亡夫召唤且已随去，以官鬼为亡夫/祟、世爻为本人：世爻兄弟亥水居三爻发动，化官鬼辰土回头克，世动而化鬼土克身，主此梦为凶兆，本人近段防病灾、精神受惊扰之事，非寻常无谓之梦。具体应验对象为占梦妇人本人，不是其家人。等级只断到有病灾之险，不直断死（世临亥日有根，未合终局三类条件）。应期（日档，梦兆近应）：窗口为亥日起旬内，主坐标辰日——世化辰土逢值、回头克落实之日，前后防病防灾。近段防病、远段无独立触发另报，一段终局、远段无据不报。",
+ "basis": "所问对象妇人本人—用神世爻亥水兼看官鬼—应验对象同一为本人。世亥临日建有气（假破不破），但动化辰土：辰土→亥水为克，回头克成立且辰在午月得火生而旺。官鬼戌土五爻动化亥水（化向世爻之亲），祟近身之象。子孙卯木静而得亥日生，只能缓不能解。动化方向：世化回头克为凶向；反转条件：无回头生、无解克之神，反转（向凶）条件中化回头克无解一项成立。四路：本气＋（临日）／元忌仇－（鬼动、化克）／动化－／世应不计；合参以动化与鬼链压量级定负向。输入无残损。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "世临日建旺与世化回头克两硬信号对冲，定性冲突经裁决取化回头克主终局，故记disputed"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-204",
+ "prediction_text": "方向：病在胸胃（breast/stomach）一带，为固定、缠绵之疾，难速愈，但非立死之断——治之以时日、痊愈迟缓且易反复。第6宫有入落行星居之主病位衰败，上升主刚离土星之刑而土星当时在巨蟹（主胸胃）定病位，月亮在第4宫偕土星，四角皆固定主病程固定拖长。分两段：近段病势沉重、调治无速效；远段以月档计，数月调养后可渐缓向愈，然固定之象主难断根。",
+ "basis": "Scorpio上升；Saturn in Cancer定胸胃病位为Lilly病占取象；四角固定定病程长度与等级（迟缓而非不治，降格依据为固定+入落，只压速度不压至死）。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

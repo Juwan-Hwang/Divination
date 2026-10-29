@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-104",
+ "prediction_text": "终局单一方向：病情实有且偏重（negative）——非小恙，病在腹内下腹区缠绵成蛊之象，需认真医治，短期难愈；不作不治断。应期双层：月档，窗口为辰月至巳月一月余，主坐标为巳月——病势见定分/转治之期；近段辰月内反复。等级：中重级、缠绵可治。",
+ "basis": "对象对齐：所问对象=女占者本人，用神=世爻，应验对象=本人，同一；病占主语复述均为本人。盘面仅给本变卦名与辰月戊寅日旬空申酉。动化方向：蛊之蒙，按两卦比对下卦一爻之变（三爻阳变阴），蛊主积滞腐生、蒙主未明，病为积滞未明之实病；方向定性：寅日木旺、辰月土临，世爻状态无逐爻可核，凭蛊象与变蒙定病实而未明。病位复核：爻位路变爻在三爻主腰腹/下腹内脏，五行路与六神路因逐爻未给缺环，只落到腹内下腹区、不细断脏器，并明写依据不足。反转条件无全成立者。输入残损：无逐爻装卦，世爻六亲旺衰不可核，降置信至低档。",
+ "confidence": 0.4,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "初判病重维持；未用后备；逐爻全缺致旺衰与病位存疑"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

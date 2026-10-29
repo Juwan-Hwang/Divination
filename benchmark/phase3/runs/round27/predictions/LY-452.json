@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-452",
+ "prediction_text": "方向：往北（子孙子水之方）不吉（负向）；宜往土旺之方避之（正向取舍）。众议北行取子孙水为福，但子孙子水居初爻静，巳月死、丙戌日土克之，休囚无气又无动爻生扶，福神无力，北行无福反险，不可从众议。世爻父母戌土临日建、得巳月火生，旺相有气，世所临戌土之方（西北土方/就近高燥土处）为可用之向，往土方避乱可保平安。应期（日档，兵乱避身须即时）：窗口戌日起三日内，主坐标戌日当日——世临日建，宜即日动身往土方，不宜迟延北行。",
+ "basis": "趋避以世爻与子孙为纲：世戌旺相得月生临日为＋；子孙子水月死日克静而无扶为－，北向候选被否决标记（休囚无气＋被日克）淘汰。兄弟申金五爻动化未土回头生，只主途中同辈牵连耗费，不改方向取舍。对象对齐：所问通乡避乱者—用神世戌/子孙子—应验对象为避乱者本人一行。动化方向：申金化未土回头生，与主线无关涉；反转条件未齐备。对表：趋避门类原文只有个案应时、无通法，按对表无此门类处理，以世/子孙旺衰定方、临日定即日应期。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "方位多候选（北水方众议 vs 世临戌土方）经旺衰对质后否决北向，故记disputed"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+  "case_id": "MH-009",
+  "prediction_text": "方向（凶，落於雞本身）：悲鳴之雞將遭宰殺烹食、見血而死，非占者家人之災。具體斷語：①應驗對象為鳴叫之雞本身（對象項）——巽為雞即用卦，悲愴之聲即雞自哀；②其死法為被人執而烹宰、見血（物品/事象項）——互卦離火主烹、兌主毀折口刃，爻辭『血去』血象在辭中明見；③應期（數字/時點項）：窗口三日內，主坐標次日午時前後，離火值午、用受體克而互火逼體，應在火旺之午。爻辭『無咎』只調量級（速死、無牽連他禍），不翻轉烹殺定性。",
+  "basis": "體用：四爻動在上卦，上巽為用、下乾為體；體乾金克用巽木為體克用，人制雞之象。互離、兌：離火烹飪、兌毀折。變乾為天：用巽化乾金，金克木到底，雞無生路。爻辭核對：小畜六四『有孚，血去惕出，無咎』自帶血象與無咎——依量級守恆條，畜類存亡見血象時以烹殺方向定性，吉語只調量級，不軟化為平安。事實優先：占題明言雞鳴聲極悲愴，外應即雞自哀，對象定位復核：承受對象與應驗對象同為此雞，不回收到人。自檢：三條斷語分落對象、事象、時點，合密度要求。",
+  "confidence": 0.62,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": ""
+  },
+  "systems_used": [
+    "梅花易數"
+  ],
+  "sources_used": [
+    "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+    "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+  ]
+}

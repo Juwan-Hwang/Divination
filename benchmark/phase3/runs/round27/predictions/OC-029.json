@@ -1,0 +1,19 @@
+{
+ "case_id": "OC-029",
+ "prediction_text": "方向（一课多事逐事分断）：①子求官——在此地求官难成，宜携子回山东本省取功名，干神归支、传将逆行主归乡得路；②母寿——其母年近九十而寿止八十九，过不了九十之关，本年内即为寿限之期，须预备身后；③家乡方所——山东将有兵动、攻城陷邑之变，家居者须防；④失盗——家中有失盗之虞，所盗为其子之物，且课传回环，贼去而复来，须连防二次；⑤客至——顷刻即有客至门。三传乙未白虎、癸卯六合、己亥天后成曲直回环之局，白虎乘初主兵与惊，六合中传主归合求官之路在乡，天后末传主母事阴私。应期逐事：客至即时（当日）、失盗在目今且三日后防复来（日档）、兵动在冬月（月档）、母寿在本年内（年档）、子功名回乡后于本省榜期得遂（月档，主坐标取回乡后最近榜期之月）。",
+ "basis": "课式涉害曲直回环、三传未卯亥、月将丑甲午旬辰巳空；按六壬一课多问通例逐事分门（仕宦/父母寿/兵斗/失盗/行人客至各从其门），回环格用于失盗贼复来一事、不移作他事吉断。输入残损：无四课天盘全图，客至一事成例取象无注文，只断顷刻有客、不臆指客姓。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "大六壬"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuren.md"
+ ]
+}

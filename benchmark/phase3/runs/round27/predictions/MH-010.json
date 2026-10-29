@@ -1,0 +1,19 @@
+{
+  "case_id": "MH-010",
+  "prediction_text": "方向（凶中帶救，有驚無大咎）：主近日有墜落折傷之事。具體斷語：①墜傷對象為行路/樹下經過之人或此樹本身再有枯枝墜折（對象項）——無風枯枝自墜於兌方即墜折之兆先現於物、再應於近處之人事；②程度為傷折受驚而性命無礙（事象項）——睽九四辭『厲無咎』，厲而可免，變艮土生體為止傷得救；③應期（數字/時點項）：窗口五日內，主坐標第三日，互坎主險在過程、變艮主止，應在數日內一墜而止、不連發。占者本人宜避高處與枯樹之下。",
+  "basis": "體用：四爻動在上卦，上離為用、下兌為體；用離火克體兌金為用克體，主凶受制。互坎、離：坎險在過程、離火續克。變山澤損：上離化艮，艮土生體兌金，結果有救且主止；變卦名『損』即折損之象與墜枝事實相合。爻辭核對：睽九四『睽孤，遇元夫，交孚，厲無咎』自帶厲與無咎，斷語方向（有厲）與量級（無大咎）皆從辭義，不翻轉。事實優先：戊子日辰時無風而枯枝自墜，墜折是占題核心事實，取象只在此範圍內；旺衰：辰月土旺，變艮土得令生體，救力可信。自檢：三條斷語分落對象、程度、時點。",
+  "confidence": 0.52,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": ""
+  },
+  "systems_used": [
+    "梅花易數"
+  ],
+  "sources_used": [
+    "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+    "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+  ]
+}

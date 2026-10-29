@@ -1,0 +1,19 @@
+{
+ "case_id": "OC-009",
+ "prediction_text": "断（残损降格）：仅据占题事实可断——仕途贵显至外交首脑量级，一生以使节与内阁任使为业、国际声名高，行运大势平顺、晚年退居著述安泰；财富中上、婚姻与子女等细项无盘可据，不断。应期尺度本应为运/年档，因四柱缺失不落具体运年。置信低。",
+ "basis": "输入残损照实注明：本例四柱字段原文仅写『原书应运篇下论造（四柱以原书为准，转录本个别字待校）』，未给出任何干支——无日主、无月令、无大运，八字排盘与格局/旺衰/特格扫描全部无从执行。按规矩不臆补四柱、不以命主世俗名声反推盘面；上断只据context给定事实（顶尖外交官、历任驻外使节与内阁职务）作事实层表述，凡涉命理机制之细断一律留空。本例实际未完成命理作断，置信据此降至低档。",
+ "confidence": 0.35,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "八字"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

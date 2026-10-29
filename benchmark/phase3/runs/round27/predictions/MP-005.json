@@ -1,0 +1,20 @@
+{
+  "case_id": "MP-005",
+  "prediction_text": "方向：韓國瑜勝出機會低，最終落敗，蔡英文連任。近段（2019年7月初選落幕時）聲勢雖在高點，但此高點即為其選情頂部；遠段自2019年8月起支持度轉跌、市政與參選雙線爭議累積，年底與蔡的差距拉大到難以追趕。應期：以月為單位，轉跌點在2019年8月前後，勝負於2020年1月投票月定局（月檔，問勝出機會與選情走勢，先定年、再定月）。",
+  "basis": "輸入殘損：僅有出生年與占題背景，無完整出生年月日時、出生地，無法依庫內規矩排四柱全盤，故八字只作年命（年柱生肖/納音層級）粗判，主斷以占題給定事實（民調、時程、局勢）依事實優先序收束，置信相應調降，不臆補盤面。占題事實：受訪日為初選剛落幕、韓聲勢高點——高點本身即占題給定事實，但初選熱度不等於大選支持度，其帶職參選的正當性爭議在占題時點已可預見為遠段拖累。兩段式分段核對：近段方向（聲勢強）只據初選事實，遠段方向（轉跌落敗）據帶職參選爭議與對手整合完成的局勢推演，兩段方向相反，翻轉觸發為『初選熱度消退後治理記錄與參選正當性成為選戰主軸』此一可指認的議程切換，非無據外推。",
+  "confidence": 0.62,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": ""
+  },
+  "systems_used": [
+    "八字（年命粗判）",
+    "占題事實情勢研判"
+  ],
+  "sources_used": [
+    "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+    "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-bazi-ziwei.md"
+  ]
+}

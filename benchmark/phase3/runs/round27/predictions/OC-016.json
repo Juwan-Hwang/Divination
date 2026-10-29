@@ -1,0 +1,19 @@
+{
+ "case_id": "OC-016",
+ "prediction_text": "方向：不以官贵显、以技艺文名立身的一生。庚金生卯月正财，财旺、亥子伤食旺而泄秀，双辛劫透帮身、辰土印库藏根，身弱而食伤生财之势成，主聪明泄秀、靠专门技艺与著述谋生求名——最合命理占卜一类以口才著述立业之路。格局量级区间：下限衣食丰足的职业名家、上限全国性声名的命学名家，不至封疆官贵（财旺无官印显赫之据）。高峰在中年行土金印比运、著述成名之段；木火运财官逼弱金，主奔波耗财、名利交困。晚年行金土运趋稳，以著述师业终老，晚景安平、寿不短。子女时坐辰库，子息平常有靠。应期尺度：运档/年档。",
+ "basis": "四柱辛亥辛卯庚子庚辰：卯月财旺、亥子食伤泄秀、劫帮、印藏辰；食伤生财而官不显，据格局上限规则断技艺名家而非官贵。输入残损：仅给四柱、无出生年月日时与完整大运干支/起运岁数，故应期只定运档/年档尺度，不臆报精确流年；格局与终局按四柱月令、透干、根气定。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "八字"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

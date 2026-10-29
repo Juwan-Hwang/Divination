@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-620",
+ "prediction_text": "方向：负向（长辈功名难成、无显达之望）。本卦巽为风（木）变乾为天（金），变卦金克本卦木，卦变相克主所谋受制；代卜长辈功名，以官鬼为用，卦变克体之势下官位难就。具体断语：这位长辈此次/此期功名不成、不升显位，最多维持原职原状。应期双层：尺度按功名定月档，窗口为卯月起半年内，主坐标取酉月（金旺克木之月，变卦乾金逢值，克制落实之期）。输入残损：原书未列逐爻装卦表，月日与卦名以外无爻位证据，应期与等级均降格，只定方向不定细节。",
+ "basis": "所问对象：长辈（代卜）；用神：官鬼（功名），但逐爻表缺失，无法指认具体爻位——输入残损照实注明：chart_lines为空、宫位与空亡原文未记，故用神四源枚举第①②④源无从枚举，只据本变卦五行生克（巽木变乾金、金克木）作卦级判断。动化方向：无逐爻动化可核，记存疑；反转条件：无从核，记未齐备。四路：路1本气−（卦体木受变金克）／路2无从定符记0／路3 0（无动化记录）／路4不计。合参仅据卦变克制定负向并大幅降置信。对立面裁决：反方以乾卦辞元亨可举吉读，但无爻位硬信号支撑，且卦变生克为本章（卦变生克墓绝章）正题，取克制读法，定性存争议故disputed=true。终局反转扫查：三类信号均无盘面证据，初判维持。",
+ "confidence": 0.35,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "逐爻装卦表缺失，用神爻位与动化无从核定，卦级生克读法与乾卦辞吉读之间定性存疑，已降置信"
+ },
+ "systems_used": [
+  "六爻"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

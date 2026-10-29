@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-206",
+ "prediction_text": "方向：她嫁不成所慕之人。问者主星水星逆行且焦伤（日光之下）主其势弱、进退失据；所慕者主星擢升居高、近六合金星且其人自立高价、又与他人有牵缠，主其心不在此婚且条件苛刻。双方主星仅成半六合（semi-sextile），在Lilly体系不构成成事相位；月亮虽离木星之刑、携光拱水星，只利问者自身消息往来，不足以把双方主星接成婚相。应期：无成婚应期；月档内（数月）此议自冷、不了了之。",
+ "basis": "主星无有效成事相位+问者主星逆行焦伤+对方擢升自高，三项合断不成；月亮传光只到问者一端，未接通对方，故不取为成事。盘面信号有分歧，置信下调，1646年问。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

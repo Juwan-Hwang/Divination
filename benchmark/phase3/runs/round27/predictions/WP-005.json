@@ -1,0 +1,19 @@
+{
+ "case_id": "WP-005",
+ "prediction_text": "方向：特朗普胜。断语：Donald Trump 将击败 Hillary Clinton 赢得2016年大选。组内这位占星师早在17人角逐提名时即独排众议押特朗普获共和党提名，其对特朗普盘面的强势读法一以贯之、延续到大选终局，民调落后不改其断。应期（日档）：窗口为2016年11月8日选举日，主坐标为11月8日爆冷定局。置信：中。",
+ "basis": "与同场共识例分开作断：本例的区分性事实是该占星师在提名战17人时已选中特朗普——说明其盘面读法中特朗普的胜选结构（强势本命与行运引动）自始成立，按其一贯读法终局仍指特朗普，民调属事实层噪声不压盘面主向。输入未附盘面原文，置信为中。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western-astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-536",
+ "prediction_text": "方向：吉（終局單判）、父病可救而遲愈。子占父病以父母亥水為用神（輸入明記），父母兩現（二爻陽、五爻陰）皆臨空亡（空戌亥），近段主父病昏沉危殆、藥力未到；然三爻官鬼酉金（病爻）發動化子孫午火，午火克酉金、病爻化福神又回頭受克，病勢有解；子孫午火即醫藥福神動出。遠段觸發即此三爻動化，應期日檔：窗口本旬內，主座標亥日（用神出空填實、與官化子孫之救同到而轉安）。應驗對象復述：病者為父親本人，非占者。置信中低。",
+ "basis": "輸入殘損：未記月日、逐爻表未錄；由地風升（震宮世四應一、空戌亥）之地水師重構，唯一動爻三爻。用神兩現皆空，按空亡根氣判讀：空只記應期；官鬼動化子孫回頭克（午火→酉金為克）為翻轉硬信號，按终局反轉判據：病爻動、化福、回頭克三項同見才許翻危為救。對立面（兩空主不治）已對質：空無月日旺衰佐證死局三類條件不齊，不許直斷死。",
+ "confidence": 0.42,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "官鬼動化子孫回頭克翻轉兩空之危象定終局；用神現卦無伏神；父母兩現皆空、主用取捨經裁決故 disputed=true。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

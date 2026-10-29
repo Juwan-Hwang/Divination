@@ -1,0 +1,19 @@
+{
+ "case_id": "BZ-304",
+ "prediction_text": "方向：先急升、后受控而拖长——庚子年新加坡新冠疫情在2020年春季快速上升、迫使政府实施阻断管制，其后年内受控回落但不速清零，疫情以反复拖长至年末为终局形态，不断失控崩溃、亦不断数月内全清。断语分两段：近段（2020年3—6月）病例急升、外劳宿舍群聚为重灾、阻断措施在4月前后落地；远段（2020年下半年）本地传播压低、逐步解封，病毒转为长期管理。应期尺度为月档：先定年（2020庚子）再定月——急升与阻断主坐标在4月，远段受控主坐标在下半年。置信说明：本题无盘面输入（仅存发问时点与背景），按疫情类事件两段式作方向断并明写依据限度。",
+ "basis": "basis：输入无四柱无盘面，无法排盘；按SKILL作断通则(i)两段式对疫情进程分近远两段、通则(k)月档先年后月作答，方法限度已在断语明写。systems按输入tradition之外以事件占方向断记八字篇所统之年运尺度，不臆造盘面。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "八字"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

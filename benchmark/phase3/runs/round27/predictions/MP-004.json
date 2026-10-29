@@ -1,0 +1,20 @@
+{
+  "case_id": "MP-004",
+  "prediction_text": "方向：蔡英文當選連任，韓國瑜落敗。勝負在投票前兩個月已基本底定，韓難以在剩餘選戰中翻盤；最終蔡以明顯差距（得票率領先兩位數百分點量級）勝出。應期定點：2020年1月11日投票日揭曉（日檔，問題即問該次大選當選人）。",
+  "basis": "輸入殘損：僅有出生年與占題背景，無完整出生年月日時、出生地，無法依庫內規矩排四柱全盤，故八字只作年命（年柱生肖/納音層級）粗判，主斷以占題給定事實（民調、時程、局勢）依事實優先序收束，置信相應調降，不臆補盤面。占題事實：2019-11-09受訪時點，距投票約兩個月，多項民調一致顯示韓支持度持續落後蔡且差距未收斂——多源民調同向落後兩個月，按事實優先序即為勝負主據，餘下選戰只有辯論與造勢等常規變量，不足以逆轉兩位數量級的支持度差。年命粗判無推翻此事實方向之據。",
+  "confidence": 0.74,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": ""
+  },
+  "systems_used": [
+    "八字（年命粗判）",
+    "占題事實情勢研判"
+  ],
+  "sources_used": [
+    "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+    "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-bazi-ziwei.md"
+  ]
+}

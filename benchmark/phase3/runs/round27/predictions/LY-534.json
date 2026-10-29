@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-534",
+ "prediction_text": "方向：凶、具題不成（題本受阻難准）。風澤中孚之山澤損，用神父母為題本文書：五爻父母巳火發動化妻財子水，子水克巳火、回頭克文書；初爻父母巳火應位靜守，無月日可知生扶。官鬼卯木兩現（二、六爻）木生父母本可主上位有意，然正文之父既化回頭克，題入必被駁抑或壓下。應期月檔：窗口一月內，主座標子月（化出子水逢值、回頭克應事之期），此前題本無准信。置信中。",
+ "basis": "輸入殘損：未記月日、逐爻表未錄；由風澤中孚（艮宮遊魂世四應一、空戌亥，卦中無戌亥爻）之山澤損重構，唯一動爻五爻父母。動化方向核對：子水→巳火為克，回頭克成立。用神動化回頭克按裁決表定性優先於官生父之靜態量級，反方（官鬼生父主准）只調量級不翻向。",
+ "confidence": 0.48,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "用神父母動化回頭克改定終局；用神現卦，無伏神；取用無爭議。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

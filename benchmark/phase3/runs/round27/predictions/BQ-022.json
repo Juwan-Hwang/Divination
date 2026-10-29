@@ -1,0 +1,19 @@
+{
+ "case_id": "BQ-022",
+ "prediction_text": "方向（单一终局）：负面——所种棉花不顺，收成受损。断语：无妄之讼，子孙午火持世为棉作用神，应爻子水父母冲克世爻——父母为雨水，雨水冲克作物本身，主涝雨伤棉、铃桃受渍，长势被雨势压住；世无动爻生扶之据（残盘只记应冲世一项），按已给信号足级断为受损，不作丰收想。应期（月档，农时尺度；对表无神作门类）：窗口为本季内，主坐标取子月（父母子水逢值、雨害再应之月）；近月内逢子日雨势亦应。置信分层：方向中置信，受损程度低置信（无月建、无全盘）。",
+ "basis": "输入残损最重一类：无月建、无全盘，仅应冲世一信号。世应生克为辅助线、不得代替用神主线——此处子孙持世即用神在世，应爻父母冲克世即雨克用神本身，故可据以定方向，但因旺衰（月建）缺失，只断受损、不定量级细节。反方无硬信号。对象对齐：应验对象为注家自种棉花本身（非人对象），不回收到注家人事。",
+ "confidence": 0.48,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "六爻"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

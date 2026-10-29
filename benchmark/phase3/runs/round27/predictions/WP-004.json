@@ -1,0 +1,19 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "方向：克林顿胜（会议专家组共识向）。断语：Hillary Clinton 将击败 Donald Trump 赢得2016年大选——专家组以民调领先与盘面常规读法归于克林顿，特朗普的爆冷之路不被采信。应期（日档）：窗口为2016年11月8日选举日，主坐标为11月8日。置信：中（此为面板共识读法，盘面细节未附，保留爆冷余地）。",
+ "basis": "本例为会议专家组集体作断：给定事实为多数民调利好克林顿、无任何候选人盘面配置附于输入，按占星面板的常规收敛读法方向归克林顿。输入残损：未附双方本命盘与行运数据，无法逐项回扣星体×宫位×尊贵，故置信降至中档并明言爆冷余地。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western-astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

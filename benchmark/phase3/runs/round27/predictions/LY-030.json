@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-030",
+ "prediction_text": "终局单一方向：开店不利（negative）——不宜开，开则明夷受伤、财源受阻而难成。近段筹备即多阻，远段无财旺动生世之据，不作先阻后成断。应期双层：月档（营生开立进程），窗口为占后三月内，主坐标为酉月——世爻所临酉支逢值之月见定局（或被迫止开/见亏）。等级：不成而有耗，不至倾家级。",
+ "basis": "对象对齐：所问对象=占者开店之事，用神以世爻为主、求财兼看妻财，应验对象=占者本人之店业，同一。动化方向：艮为山之明夷，艮止而变明夷主伤，动爻逐爻不可核记存疑；方向定性：艮宫世爻官鬼持世主辛劳压力而非财源，财爻无旺动生世之据（路1/路2均不＋），合参不利。反方读法为世临酉得令主世旺可成，已裁定世旺只主本人有力、财源无据仍不成店业之利，量级上只免大亏。反转条件无全成立者。门类应期：对表无开店门类，明写无此门类，按逢值取世临支酉月。输入残损：月日未明记、逐爻未录且世爻支与临酉表述互有抵牾，故降置信并记 disputed。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "初判不利维持；未用后备；世爻地支表述抵牾致取象存疑"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

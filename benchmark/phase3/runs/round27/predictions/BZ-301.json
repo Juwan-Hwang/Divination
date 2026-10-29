@@ -1,0 +1,19 @@
+{
+ "case_id": "BZ-301",
+ "prediction_text": "方向：否定灭亡断——中国国民党在2022年不灭亡、不进入灭亡阶段；其走向为在野/地方层面仍保有实力、经历选举胜负起伏的存续衰弱，而非组织消亡。断语：2022年（民国111年）该党仍为台湾主要政党、保有县市执政与立法席次，至多断中央层面竞争受挫或地方选举后格局重整，不断组织灭亡；若以灭亡阶段言之，此断不成立。应期尺度为年档：坐标即2022年本身，先定年、不细化月日。置信受限：本题无党之成立时刻四柱、无任何盘面输入（输入仅存公开预言之问与2011年时点背景），无法按八字排盘作断，只能按所问事件的存续量级作方向断并明写依据不足——组织存续类终局断语须有盘面方能足级，此处按输入事实（当时为执政党、无存亡危机）与存续惯性定存续方向。",
+ "basis": "basis：输入残损严重——无出生/成立时刻、无四柱、无盘面，八字排盘五步无从执行，特格扫描、运断主线、峰值核对均无据不报，已在断语明写。sources仅SKILL与八字篇之限度条（风水/组织占断无盘面不臆补）。systems取八字为输入所标tradition，实际作断为事件存续方向断。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "八字"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

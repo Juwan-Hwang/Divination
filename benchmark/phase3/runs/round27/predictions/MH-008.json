@@ -1,0 +1,19 @@
+{
+ "case_id": "MH-008",
+ "prediction_text": "方向：负向（牛将被宰杀、哀鸣应此）。地水师三爻动变地风升：后天占，牛属坤为上卦、坎方为下卦，动在下卦坎水为用、上坤土为体，土克水体克用本为次吉，但所引师六三爻辞师或舆尸、凶，辞主凶，又坎为血卦、水主血象，血杀之象指向牛身——按量级守恒反向条：畜类存亡之问见血象杀象，定性权重优先于表面生克，定牛遭烹杀。具体断语：此牛五日后将被屠宰烹食，其鸣声悲哀正应将死之兆，应验对象是牛本身，不是牛主人家。应期双层：近事定日档，窗口为五日之内，主坐标取第五日。断语落项：对象（牛）、时点（五日后）俱备。",
+ "basis": "梅花后天占（输入自带）：地水师三动变地风升，互坤震。体用：坤土体克坎水用，单看生克为次吉，但本问为畜类存亡，触发量级守恒反向条与爻辞核对：师六三师或舆尸凶，辞义主凶且舆尸为载尸之象；坎为血卦主血，血象+凶辞+哀鸣外应三路同指牛身遭杀，爻辞吉语/生克次吉只调量级（定为宰杀而非病死他处），不翻转定性。事实优先：牛鸣声极悲为占时实情，悲鸣与将杀之兆合，不以象压事实。应验对象定位核对（通则f）：外应之畜物本身即应验对象，断牛不回收到主人家遭丧。梅花自检表：断语落对象与时点，宰杀为事件级具体断语。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "梅花易数"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

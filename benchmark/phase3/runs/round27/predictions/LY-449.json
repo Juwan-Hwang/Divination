@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-449",
+ "prediction_text": "方向：转晴（正向）。天时以子孙为晴神、父母为雨神：两重官鬼巳火发动化出子孙亥水，鬼化子孙主阴沉之气化为晴神；父母未土两现皆临旬空（庚寅日空午未）且静，雨神空静无力，雨势无源。妻财卯木动化酉金回头克，只主晴前云气反复一阵，不改转晴终局。具体断语：先有一阵阴云/短暂反复，随后放晴。应期（日档，所问何日晴、近事以日为尺度）：窗口为寅日起数日内，主坐标亥日——子孙亥水逢值之日，晴象落实；寅亥合住须待亥水得值出合。置信中平。",
+ "basis": "用神取舍：晴神子孙仅见于变爻（官鬼巳动化亥），按变爻优先取为晴主线；父母未土空静为雨弱之据。动化方向：巳火→亥水，化出子孙克本爻官鬼，主阴转晴。反方：父母两现、财卯动可读作仍有雨云——但父母空静、财动化回头克，硬信号不足以翻转。对表：天时门类不在门类应期对表内，明写对表无此门类，按应期三步冲实/填实/逢值取亥逢值。动化方向：官鬼化子孙为吉向定性；反转条件：源绝/化绝未齐备，不反转。四路：本气0／元忌仇＋（子孙化出制鬼）／动化＋／世应不计；合参方向晴。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": true,
+  "reason": "晴神子孙只在变爻、雨神父母空静，两读并存经对质后取鬼化子孙一线；reserve_used指变爻候选被取作主线"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

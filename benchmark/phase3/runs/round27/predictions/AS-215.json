@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-215",
+ "prediction_text": "方向：负面——Essex此次西征以失败与损军损誉告终，得不到成功与荣誉。断语：水瓶上升，上升主土星游弱且居fall、落第二宫（军资宫），主统帅本人无力且军资/给养受损；龙尾在上升主凶厄临身；月亮在detriment、先离土星三合而趋刑火星，火星为其第二与第九宫主，主钱粮、助手与行军路途皆受刑伤；福点被第七宫主水星（敌方征象）支配，主战场利益落入敌手。具体事象：西征军队将遭围困式重挫、辎重与步兵大部损失，统帅本人可脱身（不阵亡）但须以屈辱方式撤离（如乘船走海路），回师后声望大跌、职位荣光不再。应期：以月为尺度，出征后数月内（本年秋前）即见败局落定，主坐标取月趋刑火星所指的本季交锋期。",
+ "basis": "事件盘（event figure）古典读法：上升主fall+落2宫、龙尾临上升、月detriment趋刑2/9宫主火星、福点归敌方宫主支配，五路凶证同向，无一路吉证可对冲，故足级断败而非小挫。输入仅散文关键位置、无完整盘面，已降置信。对立面（险胜）无硬信号可据。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

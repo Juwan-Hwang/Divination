@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-529",
+ "prediction_text": "方向：凶、此墳地不宜葬。山地剝靜卦，剝落之象臨墳地；父母為墳體兩現，初爻父母未土臨空亡（空午未）、四爻父母戌土靜而無援，墳體一空一孤；世爻子孫子水居五爻，後人福神與墳體土相克受制。具體斷語：山附於地而上爻妻財寅木獨陽，地氣剝蝕、來脈已斷，葬之主後人凋零、家業漸剝。應期以月檔論：應在未月父母填實空亡之時見其地氣空陷之驗，本月內不宜下葬。置信：方向中低置信，細節低置信。",
+ "basis": "輸入殘損：原文未明記月日，逐爻表原書OCR錯亂未錄；逐爻由卦名山地剝＋乾宮＋空亡午未按納甲通例重構（世五爻子孫子水、應二爻官鬼巳火），旺衰無月日可據已降置信。剝卦靜卦，父母兩現未空戌靜，取戌為主用、未保留應驗位（空不徑舍）。反方：世持子孫可主福——裁定：子水受兩土墳體克制且剝象主落，不翻凶向。",
+ "confidence": 0.38,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "靜卦無動化；父母兩現一空一靜，取用經兩現裁決故 disputed=true；未啟用伏神。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

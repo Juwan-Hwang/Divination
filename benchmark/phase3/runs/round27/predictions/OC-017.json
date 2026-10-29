@@ -1,0 +1,19 @@
+{
+ "case_id": "OC-017",
+ "prediction_text": "方向：富大于贵、巨商大贾之命。丁火生酉月偏财，己土食神透月、食伤满局（丑辰戌皆土）生酉金财，食神生财格成且财源深厚，主经商致巨富，量级至地方首富/丝业巨头级，非小康小富。丁火虽弱，甲木正印透时生身、戌辰藏丁根，财不压死日主，能驾大财。官星壬水合丁，只主与官场有牵连得名衔，不改商途本质。高峰在中年行木火印比运、身能任财之段，财富登顶；金水大盛之运财多身弱，主大进大出与守财之难。晚景仍富而趋守成，破耗主因财多招忌与子息分产，不至败落无依。应期尺度：运档/年档。",
+ "basis": "四柱壬戌己酉丁丑甲辰：酉月财旺、己食透、土重生金财、甲印生丁且丁有戌辰藏根；食神生财成格足级断巨富，依等级校准不降为小富。输入残损：仅给四柱、无出生年月日时与完整大运干支/起运岁数，故应期只定运档/年档尺度，不臆报精确流年；格局与终局按四柱月令、透干、根气定。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "八字"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

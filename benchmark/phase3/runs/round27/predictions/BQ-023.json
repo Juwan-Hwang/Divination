@@ -1,0 +1,19 @@
+{
+ "case_id": "BQ-023",
+ "prediction_text": "方向（单一终局）：负面——租田种麦之事落空，此田种不成。断语：姤之乾，世爻父母丑土发动，父母为田契田主之象，持世而动化空——契约之神动而化空，主租约谈而无成、田主之许落空，所谋之田最终不得耕种（或名义租得而实权不归、种权旁落）。占者勿先下种备本，免空耗工本。应期（月档，租约进程尺度；对表无神作门类）：窗口为半年内，主坐标取子月（化神子水填实之月，归属见分晓、落空定局）。置信分层：方向中置信，应期低置信（原文未记月日，旬空无从复核，只从摘录『化空』二字）。",
+ "basis": "输入残损：无月日、无全盘，化空之旬属无从核验，只按摘录定性。决策序第5步：世上父母动，先定动向——父母化子孙（丑土化子水，土…化神为子孙水），动而化空按『动不为空』先论其动、空转应期：契象已动而终化空，定性为谋而落空。反方无硬信号。对象对齐：应验对象为租田契约与该田种权，非占者本人安危。",
+ "confidence": 0.48,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "六爻"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

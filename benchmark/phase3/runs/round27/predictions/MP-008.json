@@ -1,0 +1,20 @@
+{
+  "case_id": "MP-008",
+  "prediction_text": "方向：民進黨最終由蔡英文出戰2020大選，賴清德的黨內挑戰不會成功。蔡英文有機會且確將與韓國瑜一較高下，並在正面对決中佔上風。具體路徑：2019年3月賴登記初選形成短暫拉鋸，年中初選落定、蔡勝出取得提名，黨內隨即整合。應期以月為單位：初選定點在2019年年中（月檔，問提名人選，先定2019年、再定年中之月）。",
+  "basis": "輸入殘損：僅有出生年與占題背景，無完整出生年月日時、出生地，無法依庫內規矩排四柱全盤，故八字只作年命（年柱生肖/納音層級）粗判，主斷以占題給定事實（民調、時程、局勢）依事實優先序收束，置信相應調降，不臆補盤面。占題事實：賴清德2019-03-18宣布參加初選挑戰現任總統——現任者握有執政資源與提名規則主場，黨內挑戰現任總統在同黨執政連任局中鮮有成功先例，此為主據；韓為國民黨最被看好人選亦為占題給定，對決組合（蔡對韓）由此成立。年命粗判無反證。",
+  "confidence": 0.64,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": ""
+  },
+  "systems_used": [
+    "八字（年命粗判）",
+    "占題事實情勢研判"
+  ],
+  "sources_used": [
+    "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+    "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-bazi-ziwei.md"
+  ]
+}

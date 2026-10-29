@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-212",
+ "prediction_text": "方向：负面（对中邪之问）——病人不是被巫术所害，是自然疾病；且病势先重后转好，不以此病死于邪祟。断语：月亮趋冲土星、两星分居第六与第十二宫，确是旁人生疑的表象，但古典中邪判据不成立——上升、上升主与月亮皆未被第十二宫主所克害，故无巫术加害的盘面证据。月亮冲土星之后转而趋合上升主，该上升主在地平线上、正升向天顶，主病情在一次加重/对冲点过后向上转机、医药与照护渐见效。应期：以日/旬为尺度（近病），窗口为月亮完成冲土星后的本旬内，主坐标取月趋合上升主之时为转好点；近段先差、远段转愈，远段触发为月亮离开土星之冲后入合上升主这一动向本身。",
+ "basis": "卜卦占星疾病/巫术门（Lilly判据）：6/12宫月土相冲只构成嫌疑，须上升/命主/月被12宫主克害才断中邪，本例明言无此克害，故否决中邪；月后续趋合在上半盘上升中的命主断转机。输入仅散文关键位置、占日OCR不全，已降置信。应验对象复述：愈否与病势两断语的主语均为所问病人本人，非问卜的亲友。",
+ "confidence": 0.64,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

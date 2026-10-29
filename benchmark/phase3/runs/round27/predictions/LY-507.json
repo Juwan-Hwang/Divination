@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-507",
+ "prediction_text": "方向：终身有财福，中等之格（正向中平）。终身财福以妻财为用神、子孙为财源：妻财两现——四爻戌土持世，居三爻辰土；财持世主一生财不离身。世财戌土临旬空（辛未日空戌亥），酉月土泄于金为相后之气，得未日土扶，空而有扶为有根之空，主财须待时而实、非无财。子孙金不上卦而临酉月旺（月建为子孙之亲），财源在月有气，源不绝。兄弟寅木两现，酉月死绝、无力劫财。压制项（降格依据）：世财空亡、辰戌相冲，主财来财去有起伏，故只断中等财福、足衣足食可成家，不直断大富。应期（年档，终身以年计）：窗口中年一段，主坐标辰年——辰冲戌空则实（对表终身财福：世空取冲空实空之年），为财福落实转旺之年。",
+ "basis": "财候选两现：世戌（空）与辰，空破不径舍，世戌临世优先为主用神，辰留应验位（冲实一路）。用神空亡根气：戌得未日扶、财源子孙临月旺，根气第2项类（源在月）成立，空只记应期。动化方向：静卦无动化；反转条件无。四路：本气0偏＋／元忌仇＋（源临月、兄死绝）／动化0／世应不计（世即财并入路1）；合参中平正向。对表（终身财福）首选机制世空冲空实空之年在候选内，取辰冲戌一路定主坐标。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "财两现中落选之辰土保留为冲实应验位候选并最终取为应期主坐标，故reserve_used"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

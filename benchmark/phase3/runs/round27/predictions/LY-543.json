@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-543",
+ "prediction_text": "方向：吉中有急、一家可避脫，但須即刻離宅。天雷无妄之雷天大壯，世爻子孫午火居四爻，福神持世主一家性命有解；應爻父母子水居初爻臨空（空子丑），原宅父母空陷、不可留戀守屋。官鬼申金（兵鋒）居五爻發動，其位在申、主兵自申方/西南一帶來。具體斷語：避向取世爻子孫午火之方——正南方向投親暫避，避開申酉西方兵路；二、三、五、六爻多動主事急人亂。應期日檔：窗口即日一日內，主座標午日/午時一線（世福逢值）前必須動身，遲則官鬼申日應兵到。置信低（方位細節尤低）。",
+ "basis": "輸入殘損：未記月日、逐爻表未錄；由天雷无妄（巽宮世四應一、空子丑）之雷天大壯重構，動爻二、三、五、六（乾震納支相同、化出同支）。主線：世持子孫、應父母空、官鬼五爻動。方位以爻支取象（午南、申西南）屬象數推測層，已在置信中降級。對立面：多動無妄可主災自天降——裁定：世福臨位不空，多動只定急迫量級，不翻可避之向。",
+ "confidence": 0.34,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "終局由世持子孫與應父母空定，多動未翻方向；用神以世/子孫現卦，無伏神；取用無爭議。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

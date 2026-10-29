@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-002",
+ "prediction_text": "方向：会致富，能自立、不靠婚姻致富，且财富能持续。得财之途在自身营生/商贸与贵人行业地位：2宫主兼福点主火星入上升近角宿Spica，木星擢升居10宫近天顶，10宫主月亮趋合上升主金星（近Regulus）。应期：月亮距合金星6°27'，以年档计约6年上下财富成形；2宫头与福点俱固定星座，故富后守得住、非昙花一现。",
+ "basis": "火星（2宫主+福点主）角宫有力、木星擢升角宫主富贵；固定星座主持续。等级与格局强度同级：足级断富而持久。",
+ "confidence": 0.85,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

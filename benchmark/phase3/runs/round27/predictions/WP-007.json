@@ -1,0 +1,21 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "方向：特朗普胜，胜负手在克林顿的诚信崩塌。断语：Donald Trump 赢得2016年大选；决定因素不是政策而是 Hillary Clinton 的邮件争议与克林顿基金会丑闻在选战末段持续发酵、摧毁其可信度，摇摆选民因此倒戈。应期（日档）：窗口为2016年11月8日选举日，主坐标为11月8日；丑闻发酵的关键段落在选前最后数周。置信：中。",
+ "basis": "本例原占为塔罗占断：输入未附所抽牌面（残损，无牌名与正逆位记录），不臆补牌面；按 Waite 体系的关系/丑闻叙事读法与给定事实收束——占题自带的两项公开争议（邮件、基金会）即为牌阵所指的决定变量，断语落到事件级：丑闻压过民调领先。无牌面可回引原文条目，置信降为中。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western-tarot",
+  "western-astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-tarot.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

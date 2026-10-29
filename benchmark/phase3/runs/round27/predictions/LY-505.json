@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-505",
+ "prediction_text": "方向：能复职，但迟（正向偏迟）。三占合断以官鬼为复职用神：初占渐卦官鬼卯木临应、卯月旺；再占晋卦官鬼巳火两现、卯月相；三占恒之大过，官鬼申金居五爻发动化酉金为化进神，辛丑日土生金，官动而化进，三卦官星皆现而有气、终卦归于化进，主复职之望成立。压制项：三占世爻官鬼酉金与动官并见、兄弟未土等牵连，主程序拖延、须经一番周折，非即时复位。具体断语：复职可成，时间偏迟，约在官星逢值之月见文书落定。应期（月档，复职以月计、先定月不落日）：窗口卯月之后数月内，主坐标酉月——三占官化进之神酉金逢值之月。",
+ "basis": "输入残损注明：三卦排盘在输入中拼接为18行连排、初占与再占的动爻未单独标注（原文只给三占五爻官申动），故初、再两占只按静卦/官星旺衰参断，权重低于三占，已降置信。动化方向：申金→酉金化进，吉向定性；反转条件：无化绝化墓、源绝不齐，不反转。对象对齐：所问府尊复职—用神官鬼—应验对象府尊本人，同一。对表无复职门类，按应期三步逢值取酉月。反方：三占屡占本身示事未定、兄动牵连——只压迟速量级。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "三占信号参差且输入排盘拼接残损，取舍以三占官化进为主线，故记disputed"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

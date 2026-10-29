@@ -1,0 +1,20 @@
+{
+ "case_id": "LY-609",
+ "prediction_text": "终局positive：谒贵得见，但须候时、见时有回克之阻，事不全顺。用神官鬼酉金持世、临酉月月建旺相，世旺主动求见，其力可恃；世动化子孙午火回头克世官，午火酉月死、得寅日生扶，克力有限，只压量级作迟见/见而事滞，不翻得见方向。贵人一线父母子水得酉月金生、静而有气。具体断语：见得到贵人本人，所求之事见后仍有子孙午火一路的驳阻，不可断全成。应期双层（谒贵对表：官星持世者候其得力之期）：窗口为本旬内，窗口内主坐标为酉日——世官逢值之日为得见主坐标。置信中低（0.55）。",
+ "basis": "输入残损：原书只记月日与卦象、未给六神与旬空，六神不作主断、旬空按日干支推定；用神官鬼酉金持世（谒贵以官为贵、兼看父母）。动化方向：酉金→午火，火克金回头克；方向核对：化神午火休死、回头克量级有限。方向定性：世官临月旺为本气吉向，化回头克只调量级。反转条件：化退/化绝无生扶一路不成立（世旺临月），不反转。四路：本气＋（临月建）／元忌仇0（子孙午为忌而休死、父母子水原神静有气）／动化−（只调量级）／世应：应兄寅临日、与世官金木相战记0；合参成向偏迟。应期三步：日档近事求见；冲实酉、填实酉、逢值酉同指酉，取逢值酉日；化神午日为备选只入reasoning（回克应点、与得见终局不合舍）。对象对齐：所问求见者本人／用神官酉世／应验同一。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "谒贵用神官鬼与父母两说并存、以官持世为主故disputed"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "OC-023",
+ "prediction_text": "方向（射覆）：钟下所覆为一件圆形器物、已破损不完好。火风鼎变雷风恒：鼎本烹器之象，互乾兑——乾为圆为金、兑为毁折缺口，主物形圆而有缺；体巽木受乾兑金克、又被离火泄，物已受损。故断：所覆者为圆形的金属或陶质器皿类（如镜、碗、钱器之属），带缺口/裂纹，非完好之物；久置之物（变恒主久）。完好与否一问明确答：不完好、已破。",
+ "basis": "卦象输入仅给鼎变恒、无动爻与起卦时刻，据鼎象、互乾兑（圆、金、毁折）与体用金克木推物象；输入残损：无起卦法与动爻记录，故物类只定到圆形金陶器皿级、置信下调，不臆指某一具体名物。",
+ "confidence": 0.38,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "梅花易数"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

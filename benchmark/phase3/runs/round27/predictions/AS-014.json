@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-014",
+ "prediction_text": "方向：窃贼不是所疑的两名女仆/相关者，而是一名年轻男子（水星型人物，如书吏、信使、年轻男仆之属）。取贼星规则：火星（上升主）与土星虽被疑，然各居己界与面、有尊贵，按例不取为贼；水星居角宫、无本质尊贵、与土星成紧密合相并刑火星，故取水星为贼，其合土星刑火星（皆男星）及月亮居男象星座定贼为男性。钱财复得：盘面无月亮/2宫主向上升主的成事相位给出，断难以追回、大半已散。应期：无成事应期；日档内盘问对质可定人。",
+ "basis": "Lilly盗案取贼星须避有界/面尊贵者，取无尊贵之角宫水星；性别由所合所刑行星与月亮星座性别合断。输入未给2宫细节，复得判断置信下调。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

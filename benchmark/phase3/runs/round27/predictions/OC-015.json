@@ -1,0 +1,19 @@
+{
+ "case_id": "OC-015",
+ "prediction_text": "方向：贵极人臣以上、君主之命，一生尊荣居顶。甲木生巳月食神，月透辛金正官，年时甲比帮身，子水印星坐时、辰丑藏官财，食神生财、财生官、印护身，官印格局完整，主继大位、统御一方，为一国之君级而非普通仕宦。行运以金水官印运最尊、水印护身之段最稳；火土过旺财杀逼身之段主国事艰难与自身病扰，其一生重大关口在中晚年之交、逢大战式外局动荡而位不坠。寿终居位、善终宫中，晚年以印运收束，尊荣至终。应期尺度：年档/运档，只定继位与关口之运段，不落单日。",
+ "basis": "四柱乙丑辛巳甲辰甲子：辛官透月、子印、食神生财财生官、比肩帮身；官印相生足级，按等级校准断君主级上限。命主身份设定为英国君主，与格相合。输入残损：仅给四柱、无出生年月日时与完整大运干支/起运岁数，故应期只定运档/年档尺度，不臆报精确流年；格局与终局按四柱月令、透干、根气定。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "八字"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

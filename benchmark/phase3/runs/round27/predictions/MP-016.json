@@ -1,0 +1,21 @@
+{
+ "case_id": "MP-016",
+ "prediction_text": "断：特朗普胜出、重返白宫。方向为共和党候选人赢，非哈里斯。应期为日档：2024年11月5日投票日当夜至次日凌晨见分晓，选举人票过270门槛，关键摇摆州多数倒向特朗普，胜幅不大但足以定局。置信中等。",
+ "basis": "字占参年命：问字『相』左木右目，木立目上、象已成形而可望，非虚位；特朗普1946丙戌年生，2024甲辰年甲木杀印之气透出，与其强势竞选、旧主重临之象合。事实优先：选前胶着，故只断胜出不断大胜。输入残损：无起卦时辰、无数字、无完整生辰（仅生年），字占只能定方向，故降置信。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "梅花易数",
+  "八字"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

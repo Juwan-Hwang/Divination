@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-213",
+ "prediction_text": "方向：正面（对追索方）——逃犯可被寻回/捉回。断语：逃犯以第十二宫头射手座及其主木星（在狮子座）为征象，方向众证一致向东——第十二宫星座、木星所在星座、天象四分域与月亮所在星座全主东，人往东去了，往东追。月亮近上升、刚离木星三合而趋冲太阳，两星皆在角宫，主其行踪很快被照见、藏不住；木星在第八宫、木星与水星有相位，主其人因财物/消息或同行文书之事露出行迹。应期：以日为尺度（刚越狱的追索），窗口为数日内，主坐标取月亮趋成与太阳之冲的时点前后，人于东向不远处被发现带回，不成长期逃亡。",
+ "basis": "卜卦占星行人/逃犯法：12宫头与宫主木星定其人，四路方向证一致取东；月近上升、离木星三合趋冲太阳且皆角宫断行踪曝光、速获；木水相位断消息露迹。输入仅散文关键位置、无全盘，已降置信。对立面（远逃不获）无硬信号：无征象星远离角宫入 cadent 深藏之述，不取。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

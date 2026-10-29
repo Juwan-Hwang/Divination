@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-008",
+ "prediction_text": "方向：Essex能攻下Reading，但以围困迫降得城、非强攻立破，过程有迟滞。Essex主星火星（天蝎上升主）与月亮互容，月亮近Regulus居10宫主其声势；城主/守将主星土星（第4宫主）入落主守方衰弱，国王主星太阳居7宫固定星座主对方僵持。月亮空亡主事迟、须等月亮趋六合火星才成。应期：月档内、4月下旬城降（围城收束期）。",
+ "basis": "火星-月亮接纳+守将主星入落主可下；月亮空亡降速度等级、改取迫降路径，不翻转方向。输入年份OCR有1643/1644歧异，已在basis注明，置信因此下调。",
+ "confidence": 0.75,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

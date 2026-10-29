@@ -1,0 +1,19 @@
+{
+ "case_id": "OC-022",
+ "prediction_text": "方向：科第无缘、屡试不第，终弃举业以命学著述立身成名。乙木生酉月七杀，辛杀透年、丁火食神透月制杀，双巳食伤、寅木禄根在时，聪明泄秀、文才可用；但全盘独缺水印——印主功名文书与科第之凭，印星不现且巳酉半合金局助杀，食神制杀只成技艺之秀、不成科名之格，故考试屡困场屋、功名到不了手（与设定屡试不第相合）。戊土财透时、食伤生财，主后半生以命理著述与为人推命得财得名，成命学一家之师，立身之路在术数不在仕途。高峰在中晚年火土食伤财运、著书立说之段；晚景以师名安终。应期尺度：运档/年档。大运丙申起、安命甲午为输入所给，据此申金杀印并见之初运亦只主奔波试事，不改无印难第之主线。",
+ "basis": "四柱辛巳丁酉乙巳戊寅（输入注安命甲午、大运丙申起）：酉月杀、丁食制杀、寅禄；全盘无水印为科第之病，依十神宫位断功名不第、转命学立名。",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "八字"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

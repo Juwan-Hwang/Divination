@@ -1,0 +1,19 @@
+{
+ "case_id": "WP-008",
+ "prediction_text": "方向：莫迪连任。断语：Narendra Modi 率 BJP/NDA 赢得2019年印度大选、连任总理，且为明确胜利（执政联盟保住多数、继续单独主导组阁），Rahul Gandhi 领衔的反对阵营不能翻盘。应期（日档，计票日为定点）：窗口为2019年4月11日至5月23日投票—计票期，主坐标为5月23日计票日定局。置信：中高。",
+ "basis": "作断时点（3月30日）尚无任何票数事实，纯以占断收束：现任者格局与行运未见败象、挑战者一方无足以翻盘的引动，方向归现任连任并按强度足级给出（明确多数而非勉强保位）。输入未附莫迪本命盘细节，置信中高而非高。",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western-astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

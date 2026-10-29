@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-629",
+ "prediction_text": "方向：正向偏吉（坟地风水可用、地气有应）。本卦泽山咸，兑宫，静卦无变，咸主感应、山泽通气，坟得咸象主山与泽气相感、地气流通润泽，非枯绝冲破之地。具体断语：此坟地风水偏吉可用，葬后于后人有感应庇荫之象，等级只定到中上可用，不拔高为大发之名穴（无逐爻父母/世爻证据支撑高等级）。应期双层：风水长效定年档，窗口为占问后子、丑年之内（空亡子丑填实之年为应验位），主坐标取丑年（丑填实且土主坟山落实之年）。输入残损：无月日、无逐爻，等级与应期均降格处理。",
+ "basis": "所问对象：坟地（非人对象，应验对象即坟地本身与其葬者之家，不回收到占问者本人身上另断灾福）；用神：坟地风水以父母/世爻为纲须逐爻而表缺——输入残损照实注明：chart_lines为空、无月日干支，诸序无从执行，只据卦名泽山咸、兑宫、空亡子丑、静卦无动作卦级判断。动化方向：静卦无；反转条件：不成立。四路无从定符，方向据咸卦感通之象定正向，等级按通则(b)因无格局证据不升格。对立面裁决：反方无爻位硬信号可据。disputed=true：盘面残损存疑。",
+ "confidence": 0.36,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "月日干支与逐爻装卦表缺失/不可靠还原，仅据卦象与空亡定方向，存疑已降置信"
+ },
+ "systems_used": [
+  "六爻"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

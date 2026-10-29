@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-01",
+ "prediction_text": "方向：文书可得、能领到，非空候。具体断语：父母伏神得飞神卯木来生、伏神巳/午火一系在卯月得木生而相，属飞生伏、伏有气之待出格，文书藏而待拨，逢值冲拨即出。应期双层：窗口为辰日起数日至旬内（日尺度，候文书为近事）；窗口内主坐标取午日，父母火逢值填实之日得领。",
+ "basis": "所问对象：候文书者本人；用神：父母（文书），现卦六爻无父母，现卦候选为空；变爻无（静卦）；日月卯木、辰土皆非火亲，不合日月为用之闸；故入伏神，飞神官鬼卯木生伏神火，飞生伏为有用，卯月木生火、伏神相而有气。原神官木即飞神兼生伏，忌神财水亥子两现但静而不动、子水在卯月休囚，克伏之力有限。对象对齐：应验落候文书者本人，与所问同一。扫查：伏神引拨部分成立（伏有气、飞生伏），未全立，不据此夸大，只按待出定档。输入完整，无残损。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "用神父母不上卦，日月卯木辰土皆非父母火亲，转本宫伏神取用，无两现争议"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

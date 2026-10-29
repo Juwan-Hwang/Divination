@@ -1,0 +1,19 @@
+{
+ "case_id": "OC-026",
+ "prediction_text": "方向：今年功名可成、榜上有名。三传乙未青龙、己亥螣蛇、癸卯玄武成亥卯未曲直木局，木为己土日干之官鬼，官星成局而旺于正月，又涉害课主历艰深后见机，初传未乘青龙主喜庆得位之象，主二人此行所问之功名今年得遂，至少主事人得中、名次中上，非双双落第。应期：月档（仕宦/考试榜期定月档）——窗口本年春至秋榜期，窗口内主坐标取秋榜放榜之月（八月）为最可能应点；舍冲实一路因官星不空、无待出空之据，舍逢值日路因榜期属月档不压成日坐标。",
+ "basis": "课式涉害、曲直；三传亥卯未木局为日干官鬼、青龙乘初传；月将丑、甲午旬辰巳空而官星不空。按六壬仕宦功名门官鬼/青龙取用与第七节应期月档。输入残损：无四课全列与天盘全图、年命未给，只据课式三传天将空亡作断，年命路无据已舍。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "大六壬"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuren.md"
+ ]
+}

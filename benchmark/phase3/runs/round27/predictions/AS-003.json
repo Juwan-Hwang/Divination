@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-003",
+ "prediction_text": "方向：能买成Master B.的房子，能与卖家成交，钱也能赶在期限前凑齐，但过程有拖延与周折。卖家主星太阳居第7宫得接纳，7宫主兼11宫主（希望）同一， Venus趋拱第4宫主土星（房屋），月亮以刑相传光（长升宫刑）促成交易。应期：以月档论，数月内（其自有资金六个月才可调用的期限内）成交付款；水星（2宫主）逆行主钱到手迟、需催促腾挪。",
+ "basis": "太阳卖家受接纳、Venus-Saturn拱相连买方意愿与房屋、月亮传光；Mercury逆行只压速度与钱款调度，不翻转成局。1634年3月31日起问。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

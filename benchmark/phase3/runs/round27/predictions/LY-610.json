@@ -1,0 +1,20 @@
+{
+ "case_id": "LY-610",
+ "prediction_text": "终局negative：官之升迁不成。用神官鬼寅木持世临寅月月建，本气虽旺，却逢丙申日申金冲世——世旺有气判暗动而非日破，冲动反主位动不安；忌神子孙申金临日建在三爻发动克官，申金旺动且化辰土回头生金，克官之力续而不断；原神妻财子水静而休囚，初爻兄弟辰土动化子水虽化出原神，辰土旬空、子水无力，救应薄弱。具体断语：升迁败于子孙忌神当权冲克，落于占者本人，到申月忌神再值时定局落空。应期双层：窗口为寅月至申月，窗口内主坐标为申月——忌神申金逢值、冲世官之月为不成定局之期（升迁取月档）。置信中低（0.58）。",
+ "basis": "输入残损：原书只记月日与卦象、未给六神与旬空，六神不作主断、旬空按日干支推定；用神官鬼寅木持世（候选唯一）。日冲静爻裁决：寅临月建有气，日申冲判暗动、不判日破。动化方向：子申金→辰土回头生忌、兄辰土→子水化出原神而空弱；方向定性：忌动化回头生为凶向。反转条件：原神化出而空囚、源续不足，源绝子链亦未全（兄动续源），只降格不另翻。四路：本气＋（临月建）／元忌仇−（子孙临日旺动克官、化回头生）／动化−／世应不计（自占世即用神已并路1）；合参＋×−为受阻未定，再以忌神临日化生、无解法日冲去申金，终局落败向。应期三步：月档升迁；冲实申、填实辰、逢值申，取逢值申月（败应之支），填实辰为空原神应点与终局不合舍。门类对表：功名发案对表以父母为用、本题问升迁官星，不套用，明写对表无此门类。对象对齐三行同一。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "世官日冲暗动与日破定性经裁决取暗动，定性曾存争点故disputed"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

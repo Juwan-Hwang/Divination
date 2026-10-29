@@ -1,0 +1,19 @@
+{
+ "case_id": "WP-002",
+ "prediction_text": "方向：奥巴马胜。断语：Barack Obama 先赢得民主党提名、再于大选中击败 John McCain 当选总统，成为变革一方压倒建制一方的结果，胜幅明确而非险胜。应期（日档，选举为单日事件）：窗口为2008年11月4日选举日，主坐标为11月4日土天冲成相当日，结果于当日揭晓。置信：中高。",
+ "basis": "土星—天王星对冲自选举日开启、上次同相为45年前：对冲轴为旧秩序（土星/McCain 与党内建制）对变革（天王星/Obama 的 change 诉求），天王星一端得势则主突变与换人。事实面：Obama 当时已领先党内初选。输入未附两人本命盘细节，置信据此下调。",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western-astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

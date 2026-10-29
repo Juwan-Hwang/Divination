@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-538",
+ "prediction_text": "方向：凶、防劾難防、參劾將成。水風井之風澤中孚（按標準宮位井屬震宮，輸入所記兌宮與納甲宮位不合，已按震宮木重構並降置信），用神官鬼兩現：三爻官鬼酉金發動化妻財丑土，丑土生酉金、回頭生，劾之官勢得生而實；四爻官鬼申金靜臨其側。世爻妻財戌土居五爻臨空（空戌亥），自身虛避無力招架。具體斷語：新撫軍參劾非空穴來風，將有彈章及身、輕則處分。應期月檔：窗口兩月內，主座標酉月（動官逢值、回頭生應事）。置信低。",
+ "basis": "輸入殘損重：未記月日、逐爻表未錄，且宮名與標準八宮不合（水風井屬震宮五世、世五應二），逐爻以震宮重構。動化方向核對：丑土→酉金為生，回頭生成立。對立面：世空可主避過——裁定：空之世無根氣證據（無月日），不敵官動回頭生之定性，只調量級不斷無事。",
+ "confidence": 0.34,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "官鬼動化回頭生改定終局；用神現卦無伏神；輸入宮名矛盾且官鬼兩現需裁決故 disputed=true。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-502",
+ "prediction_text": "方向：自陈有利、得脱祸（正向）。自陈申辩以官鬼为受理/罪责之神、子孙为解忧之神：子孙午火居四爻发动，卯月火相、辛巳日火扶，旺动克官鬼申、酉，压责之神被制；午火动化妻财丑土，丑土生酉金——化神回头不克世，反有转圜。又世爻官鬼酉金临旬空（辛巳日空申酉）、卯月死、巳火克之，世虽弱但所临之官为空而受克，主罪责落空、申辩得伸。具体断语：自陈后不致获罪受罚，可望开释/无事，过程有惊无险。应期（日档）：窗口巳日起至酉日，主坐标午日——子孙午火逢值、克官见效之日，事见分晓。",
+ "basis": "反方硬信号：世酉空、休囚、受日克，单看似自陈凶险。裁决：子孙旺动克官为动爻主线，权重高于世之静态空弱；世临之官本身空死受克，罪责无根。动化方向：午火→丑土，丑土生世官酉为回生之链，不作回头克；反转条件：源绝/化绝未齐备。官鬼两现（申静、酉世空）取世酉为主、申为旁参，申逢巳合住而绊，亦主责方受绊。四路：本气－（世弱）／元忌仇＋（子孙旺动制官）／动化0偏＋／世应不计；合参属衰而得救之局，定迟成正向并降置信。输入无残损。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "初看世空受克似凶，经子孙旺动克官之动爻主线翻正；两读对冲故disputed"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

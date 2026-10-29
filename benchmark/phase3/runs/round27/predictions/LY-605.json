@@ -1,0 +1,20 @@
+{
+ "case_id": "LY-605",
+ "prediction_text": "终局negative：父官事已拟重罪，不得救，重罪坐实。用神父母未土两现皆动、受卯月寅日木旺双克，本气休囚受克；忌神妻财卯木临月建发动克父，动化亥水又回头生木，忌神愈旺；初爻父母未土动化卯木妻财为回头克、六爻父母化戌土仍受克，无一处生扶得力。具体断语：祸落于父本人，文书/官事（父母、官鬼巳火持世）俱无转圜，赦减无望。应期双层：窗口为卯月内，窗口内主坐标为卯日——忌神卯木逢值、月日木旺克父之日为罪定之期。置信中高（0.72）。",
+ "basis": "输入残损：原书只记月日与卦象、未给六神与旬空，六神不作主断、旬空按日干支推定；用神父母未土两现（初、六爻皆动，并列送判、无全胜者）。动化方向：财卯→亥水回头生忌、父未→卯木回头克、父未→戌土同类受克；方向定性凶向。反转条件：原神火官巳静而不动、无回头生续源，化进待冲/伏神引拨均不成立，不翻转。四路：本气−／元忌仇−（财旺动克、原神静、子孙亥静反生忌）／动化−／世应不计（代占）；合参败向。应期三步：月档终局类、窗内取日坐标卯；冲实未、填实未、逢值卯，取逢值卯（败应之支、与终局自洽），余路与败局方向不合舍。门类对表：重罪类对表无此门类，明写无表。对象对齐：所问父／用神父未／应验同一人。断重罪而不断死：决策序第7步死绝三类未全（父得戌土同类、巳火原神尚在），只断重罪难免、不升级死断。",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "父母两现皆动、比较项无全胜者，取用存疑并列送判"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-508",
+ "prediction_text": "方向：终身财福薄、聚不住财（负向）。原有家业因赌致贫者占终身：妻财亥水居五爻，申月相、壬子日水扶，财本身有气；子孙酉金应爻申月旺，生财有源——财与源俱不弱。但世爻兄弟辰土居三爻发动，土克亥水直克妻财，又化兄弟丑土，兄弟持世而动、化出仍为兄弟，主一生劫财之神踞世不去：财一到手即被同辈/赌性/耗夺夺去，正合已往因赌致贫之实，且卦无制兄之官（官鬼寅木临旬空而静、又被申月冲），制劫无力。具体断语：终身不是无财路，而是得而复失、守不住，赌习不除则晚景仍贫；若戒赌，财源本在，可存小康之半，此为条件语不改主终局。应期（年档）：窗口中年至晚年，主坐标辰年——兄弟逢值之年防大破耗，为终身最须警惕之破财关口。",
+ "basis": "事实优先序：占者因赌致贫为给定事实，兄弟持世动克财之象与事实正合，取此象为主线。动化方向：辰土→丑土同亲相化，兄弟之势延续非化泄；反转条件：官鬼寅空静不能制兄，解法无力，不反转。四路：本气＋（财有气）／元忌仇－（兄动克财、无制）／动化－（世化兄）／世应不计；合参属有气而忌旺动克用无救，终局按劫夺定负向（不直断终身绝财，财源在故降格为聚不住）。对表终身财福无劫财年条，按逢值取兄值辰年为破耗坐标。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

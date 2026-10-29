@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-539",
+ "prediction_text": "方向：吉、雨將止而近。火風鼎之火澤睽，天時占以父母為雨、子孫為晴日：父母不上卦，伏於本宮首卦離為火初爻父母卯木、伏在初爻子孫丑土之下，雨神伏藏主雨勢已收；子孫兩現（初爻丑土發動化兄弟巳火、五爻未土應位），三爻妻財酉金發動化子孫丑土，晴神再出於變爻。應期日檔：窗口兩日內，主座標丑日（動變子孫丑土逢值、晴象合流）；未日一路舍棄，理由：未爻靜而無動化合流。置信中低。",
+ "basis": "輸入殘損：未記月日、空亡頁面未錄、逐爻表未錄；由火風鼎（離宮世二應五）之火澤睽重構，動爻一、三。父母伏藏只作雨勢已收之參斷（reserve），主線為子孫現卦且變爻再出子孫。應期三步：逢值丑、未兩候選，丑有動化合流勝出。無空亡記錄，涉空判別不啟用，已降置信。",
+ "confidence": 0.4,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "終局由子孫現卦與變爻再出定，動化未翻方向；父母伏藏啟用作參斷故 reserve_used=true；取用無爭議。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-208",
+ "prediction_text": "方向：负面（对Rupert）／正面（对Essex）——荣誉归Essex，Rupert不能worst Essex。断语：Rupert以第十宫及其主太阳为征象星，太阳游弱（peregrine）且detriment、居固定星座，主其人虽固执进取却无尊贵无根基；Essex之征象星金星与土星互容，又由金星支配Rupert的太阳，且金星对第十宫宫头成吉相、月亮对第十宫成左相——胜负与名声的支配权在Essex一方。Rupert此役得不到决定性荣誉，反损兵折名，后续在战争中渐失势、不能压倒Essex；其本人不即死于此段战争，结局是军事与声望上的失败而非阵亡。应期：以月为尺度，Edgehill后数月内的后续交锋即见Essex一方占上风，主坐标在本季（三月内）量级。",
+ "basis": "卜卦占星：贵人以10宫/太阳为征象，太阳peregrine+detriment为无力；对方金星与土星reception且dispose太阳、金星吉相10宫头，主对方掌控与得誉。月亮sinister aspect至10宫头不助Rupert。输入仅散文关键位置、无全盘，已降置信。对立面（Rupert以勇武得誉）只有其贵族身份与固定星座的坚持，无尊贵/接纳硬信号支持，不取。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

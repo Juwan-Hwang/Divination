@@ -1,0 +1,19 @@
+{
+ "case_id": "BZ-302",
+ "prediction_text": "方向：凶，命书末句应验——缪斌终局因一位吴姓之人牵连而获罪身败，富贵不能终身保全，结局落到因人受累、罪名加身一层，程度重至性命之虞。断语：其少年中年富贵（输入明其少年得志、位至省民政厅长）为前段，终局段翻凶，翻转触发即末句所指吴姓人物之牵连——或因与吴姓者共事、受其案株连而下狱论罪；应期尺度为年档：应在抗战前后其政治立场受清算之年段（壮年后段至晚年之前），不细报年月。置信下调：本题无四柱输入（输入仅存批命轶事与末句四字），无法排盘核格局运程，只能就末句所指事件级信号作方向断——受累对象明确为吴姓之人、承受对象为缪斌本人，两者已按指代复核对齐。",
+ "basis": "basis：输入残损——无四柱、无出生时刻，八字排盘与运断程序无据不报，已在断语明写；断语只据输入自带的末句信号与前段富贵事实作终局方向断，不臆补盘面、年份与吴姓者全名。",
+ "confidence": 0.48,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "八字"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

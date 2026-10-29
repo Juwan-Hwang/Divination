@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-034",
+ "prediction_text": "终局单一方向：婶病不利偏凶（negative）——病势难回，乙丑日为危重应点。近段即沉，远段三合之局未生用神本体反成牵绊，不作转愈断。应期双层：日档（近病），窗口为占日起至乙丑日所在旬内，主坐标为乙丑日——丑为旬空之支、填实之日应危。等级：重危级；未直断必死于该日，因逐爻残损缺终局条件核验，只断危应于该日。",
+ "basis": "对象对齐：所问对象=婶母，用神=父母卯木，应验对象=婶母，同一；病占主语复述均为婶母。动化方向：离之明夷动爻不可核记存疑；本例主题为三合成局（输入 provenance 页题），三合所成之局五行与用神卯木生克无逐爻可核，按合局牵绊、明夷主伤合参偏凶。方向定性：卯木在离火宫多泄于火、明夷变卦主暗伤（路1偏－），原神水无现据（路2 0），合参凶向。反转条件三类均不全，不翻转。门类应期查疾病门：用神不空，旬空子丑为占时空亡，丑填实一路与输入所记应期支乙丑互证，取填实为主坐标。输入残损：月日未明记、逐爻未录、三合局构成爻不可核，病位无据不妄断，降置信。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "初判凶维持；未用后备；三合局构成不可核致量级存疑"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

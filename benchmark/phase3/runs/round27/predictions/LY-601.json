@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-601",
+ "prediction_text": "方向：吉（終局單判）、父近病可愈。辰月戊申日，父母為用神兩現：上爻父母戌土即世爻、逢辰月沖為月破；三爻父母辰土即應爻、臨月建而旺——取臨月之辰土為主用，戌土世父保留應驗位，主病體本根在月建旺位不絕。原神官鬼午火居四爻發動化父母未土，火生土、原神動而生用且化出用神同親，生扶鏈完整；忌神妻財寅木居二爻臨空（甲辰旬空寅卯），木克土之忌空而無力。近段：世父月破主目下病勢沉重；遠段觸發為四爻原神動生用，轉安。應期日檔（近病）：窗口本旬內，主座標未日（原神化出父母未土逢值、生扶應事而愈）；戌日沖實月破一路舍棄，理由：戌為月破之世父、只主病體動見，不主愈。應驗對象復述：病者為父親本人。置信中高。",
+ "basis": "盤面完整（輸入逐爻與月日俱全），重構與輸入裝卦逐爻吻合（乾宮世六應三、動四爻）。用神候選枚舉：現卦父母兩現（戌月破、辰臨月）、變爻父母未、寅財忌神空；按兩現裁決取辰為主、戌留應驗位（空破不徑舍通例）。原神午火動生土、忌神寅木真空無救克之路（空而月辰土旺壓木、日申金克木）。病占原神有根判別：原神動而有氣、生用不斷，源未絕。反方：世父月破主危——裁定成立為近段量級，不齊死局三類條件，不翻終局。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "原神官鬼動化父母生用翻轉世父月破之危象定終局；用神現卦無伏神；父母兩現取捨經裁決故 disputed=true。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

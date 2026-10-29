@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-010",
+ "prediction_text": "方向：逃仆往西（南区偏西）而去，且将返回/被找回，不会久逃在外。仆人主星水星居西方星座南区定其去向；水星与上升主急趋成拱且出角宫，主双方将再相接、仆人回头。月亮出走时在西方星座且仍在同星座，主去向未远变。应期：日档，拱相成相前的数日内即归或被带回。",
+ "basis": "Mercury为仆特主（月亮为仆通主而兼他用），西向定位；主星间趋拱主重逢。输入未给具体问日，应期只到日档数日量级。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

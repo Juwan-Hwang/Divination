@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-210",
+ "prediction_text": "方向：正面——求职者能得此官职/擢升。断语：月亮居第十宫（官职宫）并趋三合土星，土星在上升有擢升之尊贵，与求职者征象星金星互容（土星容金星、金星亦容土星），主经一位有分量的年长/体制内人物正式荐举或批准而得职，路径正规、非靠私下钻营。但第十一宫主太阳（其所谓朋友）在第七宫冲上升且偕龙尾，此太阳人朋友不可靠、表面帮忙实则阻挡或事后生怨，求职者勿倚此人。应期：以月为尺度，月亮趋三合土星的进程主事在占问后数月内落定，窗口为本季内，主坐标取月趋合精确前后、约以旬月计的中段时点；得职为终局，朋友之害只压过程不翻终局。",
+ "basis": "卜卦占星：求职以上升+金星为求测者、10宫为官职；月在10宫趋三合有擢升之土星且与金星互容，为古典得职强证；11宫主太阳冲上升偕Node尾断假朋友，只作量级/过程障碍。月先离水星之刑主先有文书口舌阻滞后成。输入仅散文关键位置、无全盘，已降置信。对立面（不得职）无硬信号：无10宫主受克、无月亮空亡之述，故守初判。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

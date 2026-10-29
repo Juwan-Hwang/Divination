@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-303",
+ "prediction_text": "方向：负面（对三战爆发之断）——2024年内及其所标榜的2024年夏季日期不会爆发第三次世界大战。断语：2024年6–8月虽有俄乌、巴以战事升级与紧张言论、个别高风险事件，但冲突仍被控制在区域战争层级，不出现多国全面参战、北约与俄/中直接大战或核武器使用；至2024年末与2025年，三战仍不爆发，最多是区域战争延续与代理冲突升温。应期单位为月/年：窗口为2024年6月起至2025年末，主坐标取其预言最集中的2024年6–8月——该窗过去即证其日期断落空。",
+ "basis": "输入残损严重：仅有提问时间（2024-06）、对象与来源，无星盘、星位、其所报具体日期原文，无法复核其推算，只能依世界占星通则对全面大战须见多重凶合引动全球轴线的尺度作否定性作断，已大幅降置信、不臆补其具体日期。方法为西洋占星（mundane）。",
+ "confidence": 0.42,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

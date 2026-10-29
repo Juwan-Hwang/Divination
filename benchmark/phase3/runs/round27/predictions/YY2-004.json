@@ -1,0 +1,19 @@
+{
+ "case_id": "YY2-004",
+ "prediction_text": "终局方向（低置信）：寿气尚壮、非近限（positive，年档），仅据变卦卦象。本卦名原书缺字、爻线与动爻全缺，无法装卦、无法取用神，寿限具体年份一概不报；应期只能记年档观察窗（占时丙申月后数年），主坐标存疑不臆定。输入残损（basis注明）：本例残损重于一般缺项——本卦名缺字、chart_lines 与 moving_lines 均为 null，只余变卦『坤宫雷天大壮（四世）』与占时干支，本断仅以大壮阳刚方盛之象作最低限度方向判断，置信下调至0.22。",
+ "basis": "残损说明：inputs8 中 hexagram 记『（本卦名原书缺字）之 坤宫：雷天大壮（四世）』，chart_lines_top_to_bottom=null、moving_lines=null。本卦既不可知，本变之间的动爻、世应（大壮四世只知变卦世位在四爻而不知本卦用神）、六亲分布全部无从核对。用神候选枚举、旺衰、动化裁决、四路合参、寿元对表、应期三步一概无从执行，明写无从执行、不臆补。可核者仅：变卦大壮（震下乾上）主阳气壮盛、四阳方长，卦象层与『衰绝近限』相反，故方向暂偏寿气尚壮；占时丙寅年丙申月丁巳日丙午时，甲寅旬空子丑，亦无盘可配。对象对齐：所问=占者本人之寿，应验对象=本人，占题层面同一，盘面无从复核。反方与限制：残损至此，方向本身亦仅卦象一据，若后续补得原书页图象，应整例重断，本断不作寿限证据。",
+ "confidence": 0.22,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "disputed=true：输入严重残损——本卦名缺字、爻线动爻全缺，用神与动化定性无从成立，存疑并降置信至0.22。changed_main=false、reserve_used=false。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

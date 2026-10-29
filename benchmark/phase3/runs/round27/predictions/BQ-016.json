@@ -1,0 +1,19 @@
+{
+ "case_id": "BQ-016",
+ "prediction_text": "方向（单一终局）：负面——其年有倭乱，且祸不轻。断语：困之大过，六三午火官鬼独动，寅月火相、官鬼得月气而动，寇乱之象成；鬼化酉金兄弟，化神带刑克世，主乱势由外寇蔓延为兵连祸结、本地军民受掠受害，并防内应劫掠（兄弟主劫夺同类相残）。乱不止一处一时，本年内反复。应期（年档，年时尺度，先年后月；对表无此门类）：窗口为本年春夏，主坐标取午月（午火官鬼逢值逢旺之月，乱势最炽）。置信分层：方向中高置信，蔓延细节中置信。",
+ "basis": "装卦复核：困兑宫金，六三午火官鬼动化酉金，动化方向核对：酉金→世初寅木妻财为克（金克木）、午火鬼本身克宫金为官鬼正象。官鬼旺动为寇乱主信号；化兄弟克世为祸及自身之第二信号，同向加重，不构成反方。反方无硬信号（子孙制鬼不现）。终局反转扫查三类俱无，初判维持。应期尺度按通则（k）年档，逢值取午月。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "六爻"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

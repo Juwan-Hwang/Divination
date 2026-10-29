@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-012",
+ "prediction_text": "方向：求不到所望的教区圣职（parsonage）。七项否定证词齐全：土星受克居上升败问，9宫主木星与上升主、月亮皆无相位，上升主与月亮均不在9宫，无传光、无集光、无互容；月亮离拱趋冲3宫主水星，金星居7宫冲上升。无任何成事通道。应期：无应期可报——事不成，不设成事时间窗。",
+ "basis": "Lilly本人列举的七项负证词构成卜卦否定范式：主星无相+无接纳+无传光集光即不成。",
+ "confidence": 0.9,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

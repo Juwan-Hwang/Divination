@@ -1,0 +1,20 @@
+{
+  "case_id": "MP-001",
+  "prediction_text": "方向：蔡英文勝選連任，韓國瑜落敗。票數差距：蔡以明顯優勢勝出，得票率領先約十七至十九個百分點、票數差距約二百五十萬至二百七十萬票量級（蔡約八百萬票上下、韓約五百五十萬票上下）。立委席次：民進黨單獨過半（約六十席上下），國民黨居次（約三十八席上下），民眾黨等小黨分得個位數至五席上下。應期定點：結果於2020年1月11日投票日當晚揭曉（日檔，本題即問該次大選結果，問題本身以投票日為尺度）。",
+  "basis": "輸入殘損：僅有出生年與占題背景，無完整出生年月日時、出生地，無法依庫內規矩排四柱全盤，故八字只作年命（年柱生肖/納音層級）粗判，主斷以占題給定事實（民調、時程、局勢）依事實優先序收束，置信相應調降，不臆補盤面。占題事實：2019-12-29辯論後選戰剩兩週，三腳督中宋楚瑜分票有限；韓國瑜自2019年8月後民調持續下滑、蔡英文支持度穩定領先（與MP批內同局勢諸例占題互證），兩週內無足以翻盤的結構性變量。年命粗判：韓1957丁酉、蔡1956丙申，2020庚子年對韓無扶起其下滑之勢的年命依據。以上只定方向與量級區間，票數為區間估計非精算。",
+  "confidence": 0.72,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": ""
+  },
+  "systems_used": [
+    "八字（年命粗判）",
+    "占題事實情勢研判"
+  ],
+  "sources_used": [
+    "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+    "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-bazi-ziwei.md"
+  ]
+}

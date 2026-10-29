@@ -1,0 +1,20 @@
+{
+ "case_id": "LY-607",
+ "prediction_text": "终局positive：弟癌症虽已临危，此次不死、有转机，不可断绝望。用神兄弟亥水持世，官鬼戌、丑土静而辰月土旺克水，近段病势极危；原神父母申金临申日发动，生亥水且动化兄弟亥水本身——原神化用、源来就用，克中得生最切。具体断语：危应于弟本人，近段（本旬内）沉重，远段得原神申金引动而缓、有一线生机；远段触发为四爻父母申金动化亥水。应期双层（疾病对表）：窗口为本旬内，窗口内主坐标为亥日——用神逢值、原神生力到身之日为转机主坐标。等级只断临危得缓、不拔高为痊愈（癌症事实与官土旺克压级）。置信中（0.60）。",
+ "basis": "输入残损：原书只记月日与卦象、未给六神与旬空，六神不作主断、旬空按日干支推定；用神兄弟亥水持世为主用（上爻子水兄旁参）。动化方向：父申金→兄亥水，金生水、原神化用；方向定性吉向，官土旺克静态表象只调量级（危重）。反转条件：源绝三征不齐（原神临日、旺动、有根），不作源绝；病占原神判别有根两征成立判有根。四路：本气0（水休而得日生）／元忌仇＋（原神临日旺动生用、官土俱静）／动化＋／世应不计（代占，世即旁参）；合参有救向。应期三步：日档近病临危；冲实亥、填实亥、逢值亥同指亥，取逢值亥日。对象复述：病势、愈否主语逐条对回弟本人。病位：占题已明癌症，卦象取象三路不另指新部位，不妄断。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "原神父母动化用神本身使危局改判有救；兄弟两现（子/亥）以持世亥为主、子为旁参故disputed"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

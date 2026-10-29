@@ -1,0 +1,21 @@
+{
+ "case_id": "BQ-001",
+ "prediction_text": "方向：负面——其父寿数以日计、此番气尽复苏只是暂苏回光，不成长寿，短期内再绝而终。断语：父卧疾三年久病元气已竭，昨日气尽复苏合回光之象；得《兑》之《履》，兑为口、为言，主口中之气与言语将绝，上爻动而变《乾》，乾为天、为父，父象归天；问在三月十三日庚辛之期、金象受本宫火克，口气受克难续。具体应期：单位为日，窗口为占日起十日之内，主坐标取火日（丁日一类火旺之日）前后、约第七日量级为再危而终之期，不出本月。承受对象与应验对象同为求卜者之父本人。",
+ "basis": "筮占/周易文本占为主参卦象：兑之履仅上动、变乾，兑口象+上爻终位动+乾父象三路同主父之口气将终；久病三年与昨日气尽复苏为占题事实，按事实优先序取回光读法而非初愈读法。输入残损：原文无六爻全盘、无年、无确切干支日全貌，chart_complete=false，只能据本变卦与断语自述卦象作断，已降置信、不臆补爻位六亲全盘。非六爻纳甲全盘占，故trigger三项全false。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "筮占"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/chinese-yijing.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

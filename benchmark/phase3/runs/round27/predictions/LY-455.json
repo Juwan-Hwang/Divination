@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-455",
+ "prediction_text": "方向：等第佳、可列优等（正向）。岁考以官鬼为功名等第、父母为文章：官鬼酉金临申月旺相，五爻发动化未土，未土生酉金为回头生，官旺而动、化神回头生扶，等第向上之象确立；父母亥水持世，申月得金生而相，文章有根。具体断语：名次居前列、得优等评级。压制项：上爻妻财未土动化子孙巳火，子孙临巳日发动之势克官，只压量级——故断优等前列而不直断第一。应期（日档）：窗口申月内发案期，主坐标酉日——官鬼逢值之日见等第。门类对表（功名发案）：动者逢值逢合，取酉逢值。",
+ "basis": "官鬼两现（五爻动、三爻静），按两现取动爻酉为主用神。动化方向：酉金→未土，未土生酉金为化回头生，吉向定性优先；反转条件：源绝三征不齐、化非退绝墓，不反转。反方硬信号：财未动化子孙巳火临日克官——经裁决，巳火克酉之力受官临月旺所制，只调量级不断方向。世亥逢巳日冲：世在申月相而有气，判暗动不判日破，不入凶断。四路：本气＋／元忌仇0（子孙化出克官与官化回头生相抵）／动化＋／世应不计；合参正向。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "初看财化子孙临日克官似主等第受压，经动化裁决以官旺化回头生翻正为主终局；两硬信号对冲故disputed"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

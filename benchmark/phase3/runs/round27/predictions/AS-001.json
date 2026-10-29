@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-001",
+ "prediction_text": "方向：儿子不在师傅处，而在母亲自己家里。儿子主星木星（第5宫主）正落在上升点（东角），即回到母亲住所一侧；月亮在双鱼27°趋向六合第4宫主土星（母亲宅舍），亦指人在宅中。应期：母子主星三星于7月25日下午2时成相，届时消息/相见落实，即1638年7月25日前后数日内确认。",
+ "basis": "上升25°天秤，金星为母；木星为第5宫主即儿子，入上升角宫为最强定位证词；月亮趋六合4宫主土星指向宅舍。按Lilly古典卜卦整宫与尊贵/角宫规则。",
+ "confidence": 0.85,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round27/kb-snapshot/references/calibration.md"
+ ]
+}

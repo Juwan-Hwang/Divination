@@ -1,0 +1,20 @@
+{
+  "case_id": "MP-002",
+  "prediction_text": "方向：蔡英文連任成功，民進黨贏下2020大選。路徑為先低後高：2019年初仍在低谷與黨內挑戰期，年中經黨內初選整合後支持度回升，下半年拉開與國民黨候選人的差距，年底已成勝勢。應期：2020年1月投票定勝負（年/月檔，本題問連任前景，先定2020年、再定1月投票月）。敗因不在蔡：國民黨候選人自身爭議與流失中間選票為主因。",
+  "basis": "輸入殘損：僅有出生年與占題背景，無完整出生年月日時、出生地，無法依庫內規矩排四柱全盤，故八字只作年命（年柱生肖/納音層級）粗判，主斷以占題給定事實（民調、時程、局勢）依事實優先序收束，置信相應調降，不臆補盤面。占題事實：2019年1月蔡剛經地方選舉大敗、民調低谷、黨內換人未定——此為近段低點而非終局；連任者握有執政議程與提名主場，黨內挑戰按例多以整合收場。兩段式：近段（2019上半年）弱勢與整合拉鋸，遠段（2019下半年至2020年1月）回升勝出，遠段觸發為黨內初選落定、對手人選爭議擴大兩項占題可推之局勢節點。年命粗判不構成反對連任的硬據，故不以降格收尾。",
+  "confidence": 0.6,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": ""
+  },
+  "systems_used": [
+    "八字（年命粗判）",
+    "占題事實情勢研判"
+  ],
+  "sources_used": [
+    "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/SKILL.md",
+    "/home/hatch/workspace/divination/benchmark/phase3/runs/round27/kb-snapshot/references/chinese-bazi-ziwei.md"
+  ]
+}
