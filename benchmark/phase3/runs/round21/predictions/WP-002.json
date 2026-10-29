@@ -1,0 +1,13 @@
+{
+ "case_id": "WP-002",
+ "prediction_text": "Barack Obama will win the 2008 US presidential election. Direction: positive for Obama over John McCain, a change-of-era victory rather than a continuity result. Specifics: the Saturn-Uranus opposition exact on Election Day reads as the old order (Saturn, the older establishment candidate) being displaced by the Uranian insurgent/newcomer; Obama first secures the Democratic nomination against Clinton, then wins the general election. Timing: month scale — window is the general-election culmination, main coordinate 4 November 2008, Election Day itself. Confidence layers: winner high, margin not specified (no charts supplied).",
+ "basis": "Western astrology per method (classical骨架, Saturn-Uranus opposition as supplied in the setting): input supplies no birth charts/times for any candidate, a残损项 — no natal houses or dignities are fabricated, judgment rests on the supplied mundane configuration plus the stated nomination standings. Non-liuyao, trigger all false.",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "dir_flipped": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "方向：Donald Trump 赢得 2016 年总统选举，Hillary Clinton 落败。决定胜负者：不是政策而是 Clinton 自身的丑闻阴影——电邮争议与克林顿基金会争议在选战末段持续发酵、侵蚀其可信度，成为压垮其民调领先的关键变量；Trump 以『揭弊者／局外人』姿态收割不满票。具体断语：Clinton 的领先守不住，败因可直接指回其诚信争议；结果在 2016 年 11 月 8 日投票日揭晓。应期：单位日档，主坐标 2016-11-08，窗口为 2016 年 8 月抽牌后至投票日的竞选末段，丑闻发酵贯穿此窗。",
+ "basis": "塔罗叙事占断（Waite 体系为据，输入未附实际抽牌牌面，无法逐张回扣 Waite 牌义，此为输入残损，已降置信）＋通则(e)事实优先：输入明列 Clinton 电邮争议与基金会争议已是公开争议、且占题专问『what will decide it』，故决定因子锁定其诚信丑闻而非他项；民调领先属可蚀之领先。来源页题名线索亦指向 Trump 胜（见输入 provenance 链接题名）。应期按(a)(k)日档：单日选举终局。非六爻，trigger 全 false。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "dir_flipped": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "case_id": "MP-004",
+ "prediction_text": "方向：蔡英文当选连任。2020年1月投票，蔡英文击败韩国瑜连任总统，得票差距为明确领先而非险胜（时间窗：2020年1月11日投票日定局）。",
+ "basis": "非六爻独立判读：问时（2019-11-09）多项民调显示韩国瑜持续落后蔡英文，选战倒数两月趋势已定，依问时形势断蔡英文胜。输入无命盘/卦象数据，据形势作断并降置信。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "dir_flipped": false,
+  "reason": ""
+ }
+}

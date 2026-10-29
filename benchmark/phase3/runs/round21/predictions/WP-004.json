@@ -1,0 +1,13 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "Donald Trump will win the 2016 US presidential election, upsetting the poll-favoured Hillary Clinton. Direction: negative for Clinton despite most polls favouring her — the panel-style mundane judgment overrides the polling consensus. Specifics: a narrow, Electoral-College-driven upset rather than a popular-vote landslide; the result surprises the polling establishment on election night itself. Timing: month scale — window is election week, main coordinate 8 November 2016. Confidence layers: winner medium (no charts supplied), upset character medium-high.",
+ "basis": "Western astrology/mundane forecasting context: input supplies no birth data or charts for either candidate, a残损项 — no houses, dignities or transits are fabricated; judgment rests on the supplied setting (ISAR election-forecasting panel context, polls-vs-panel divergence pattern) and事实优先序 that the question is the panel's forecast, not the polls'. Non-liuyao, trigger all false.",
+ "confidence": 0.56,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "dir_flipped": false,
+  "reason": ""
+ }
+}

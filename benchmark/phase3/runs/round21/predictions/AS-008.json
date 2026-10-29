@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-008",
+ "prediction_text": "方向：Essex能攻下Reading，城终交付/投降而非久守。具体：Essex示征火星得月亮接纳、月亮居十宫近Regulus；守将示征四宫主土星入陷弱，虽国王太阳居七宫固定宫、城中五宫木星金星主弹药粮草尚足，故不是立时陷落、须围困一段。时间：月档内，主坐标取围城数周后、约四月下旬城交付。",
+ "basis": "火星虽入弱但受接纳且月亮趋六合传力，土星守将入陷定终局归Essex；城中供给足只压速度。注：年份输入有1643/1644歧异，已降置信。",
+ "confidence": 0.75,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "dir_flipped": false,
+  "reason": ""
+ }
+}

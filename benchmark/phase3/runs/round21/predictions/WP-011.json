@@ -1,0 +1,13 @@
+{
+ "case_id": "WP-011",
+ "prediction_text": "方向：就本题所给 Trump 盘据单论——Donald Trump 一方被断为占优、指向其连任胜出，Joe Biden 落败。具体断语：Trump 命盘木星居第二宫并照第十宫、第十宫有太阳，此为财与事业／权位宫得吉星照护的强配置，断其在 2020 年 11 月 3 日选举中守住总统之位；其新冠染疫后迅速恢复竞选亦合此强势叙事。此断仅据输入单方盘据立论，输入未给 Biden 对照盘据，故置信压低。应期：单位日档，主坐标 2020-11-03 投票日，窗口为选前最后一周至投票日。",
+ "basis": "吠陀占星占断：本题输入与 WP-010 同源而盘据独钟 Trump——明载『Jupiter sits in the second house aspecting the tenth, where the Sun is placed』，按吠陀法木星照事业宫（十宫）且十宫有象征权位的太阳，为在位与权位得护之象，依通则(e)事实优先序，此为本题唯一给定的候选人盘面事实，只能据此立断、不得臆补 Biden 未给之盘。此为输入单方残损（无对照盘、无完整命盘与 dasha），已显著降置信。应期(a)(k)日档。非六爻，trigger 全 false。",
+ "confidence": 0.48,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "dir_flipped": false,
+  "reason": ""
+ }
+}
