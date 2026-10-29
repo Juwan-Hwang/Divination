@@ -1,0 +1,25 @@
+[
+ {
+  "anon_id": "P3-45218a6f",
+  "case_id": "AS-204",
+  "judgeA": {
+   "anon_id": "P3-45218a6f",
+   "direction": 2,
+   "claims": 2,
+   "timing": 1,
+   "total": 5,
+   "pass": true,
+   "reason": "病在胸胃、缠绵难愈合，症状原书称全真且后卒；应期未落具体日，结局时点与长程断语大体相合"
+  },
+  "judgeB": {
+   "anon_id": "P3-45218a6f",
+   "direction": 0.5,
+   "claims": 1.5,
+   "timing": 0,
+   "total": 2.0,
+   "pass": false,
+   "reason": "断病在胸胃缠绵难根治，结局症状经当面核对全如所判而病人8月14日身故，症象合而终局向死非慢性拖延；预测断语本身无应期"
+  },
+  "abs_diff": 3.0
+ }
+]
