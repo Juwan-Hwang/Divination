@@ -1,0 +1,14 @@
+{
+ "case_id": "AS-005",
+ "prediction_text": "方向：船未沉，尚存活（在世），且消息很快就到。上升巨蟹主船体，上升主月亮在金牛擢升、落11宫，趋三合7宫的太阳与水星且只差数分即成相、又近木星——船之表征极强而吉；土星刑上升主船曾遇险/有损伤，南交点在9宫主长航有惊，但不足以断沉。具体断语：船在海外（赴西班牙海岸贸易，现仍应在该海岸一带），人船俱在，将有确讯。应期以日为单位，窗口为近数日，主坐标为极近之时（月亮三合水星只差数分，水星主消息，故讯息旦夕可至）。",
+ "direction_claim": "positive_ship_alive_not_sunk_news_coming_soon",
+ "timing_claim": "window_within_days_main_coordinate_very_soon_moon_trine_mercury_wanting_but_minutes_of_arc",
+ "confidence": 0.82,
+ "basis": "卜卦问船安危：船主星月亮擢升且与消息之星水星将成三合为存活与得讯的决定性证词；土星刑上升与南交9宫只主险损/惊扰，按等级校准不足以翻转为沉没。两段：近段在险、远段存活得讯，终局按通则单判为存活。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md",
+  "kb-snapshot/references/calibration.md",
+  "inputs8/AS-005.json"
+ ]
+}

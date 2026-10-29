@@ -1,0 +1,14 @@
+{
+ "case_id": "AS-206",
+ "prediction_text": "方向：她嫁不成所想的那个人。问者表征水星逆行且伏于日光之下——自身势弱、心意亦有反复退缩；所问男子表征擢升得地、又近六合金星，主其人自视甚高且另有女子牵连（与『他另与人纠缠』的占题事实相合）。双方表征之间只有半六合（非古典正相位），无趋合、无接纳，婚配不成之基本结构已立。月亮离木星之刑、以三合把光带给上升主水星，只是问者这边得些安慰/消息，不构成与男方表征的连接。具体断语：此婚议不成，终将搁散，男方意不在她。应期：无双方成相，无日期可定，事以不成收束。",
+ "direction_claim": "negative_she_will_not_marry_the_man_desired",
+ "timing_claim": "no_perfecting_aspect_between_significators_no_date_match_falls_off",
+ "confidence": 0.78,
+ "basis": "卜卦7宫婚姻：成婚须双方表征正相趋合或传光接纳，本盘只有半六合且男方近金星主另有所属，按Lilly规则断不成；月亮传光只达问者一方表征，不许误作双方连接。问者水星逆行伏光为其势弱之据，与占题事实（男方另有纠缠）逐项对回。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md",
+  "kb-snapshot/references/calibration.md",
+  "inputs8/AS-206.json"
+ ]
+}

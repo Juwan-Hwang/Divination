@@ -1,0 +1,13 @@
+{
+ "case_id": "WP-012",
+ "prediction_text": "方向：Biden赢得选举并最终入主、Trump不认输而国家深陷分裂。胜负与就任分开断：Biden在选票上胜出并经争议程序后实际就任总统；Trump拒绝承认败选、指控邮寄投票舞弊，引发诉讼与支持者骚动，美国由此进入深度撕裂、近于『国家散架』的对立期（体制不解体，但团结崩坏）。应期分段：2020年11月3日选举定胜负，就任落点在2021年1月20日就职日，分裂余波贯穿其后。置信：中低（输入未给任何一方盘面）。",
+ "direction_claim": "Biden wins and ultimately takes the presidency after a disputed count; Trump refuses to concede and the country falls into deep division/unrest",
+ "timing_claim": "Election decided 3 November 2020; taking office at inauguration 20 January 2021; division/unrest follows thereafter",
+ "confidence": 0.5,
+ "basis": "只据占题事实作三段断：民调领先者Biden取胜负段；输入明示邮寄投票争议与败方可能不认结果，直接构成『赢者与就任之间隔一层争议、其后国家分裂』的事实约束（通则e/i：有时间纵深者分段断，近段选举、远段就任与后果各给结论）。输入无盘面，置信中低。",
+ "sources_used": [
+  "benchmark/phase3/runs/round24/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round24/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/inputs8/WP-012.json"
+ ]
+}

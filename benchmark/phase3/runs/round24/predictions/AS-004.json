@@ -1,0 +1,14 @@
+{
+ "case_id": "AS-004",
+ "prediction_text": "方向：传闻不实，国王并未攻下剑桥。四角皆变动宫、月亮陷于其不喜之宫且 cadent（传闻类问的标准凶象：消息无根、易变易散）；上升主（问者/议会一方）擢升得力，而7宫主（国王一方）入弱且受克、太阳临上升——王方势衰，无攻城得手之象。具体断语：此报为虚报/误传，剑桥未陷于王军。应期以日为单位言之只能定到近数日真相即明，盘面无成相度数可定确日，不臆报日期。",
+ "direction_claim": "negative_report_false_king_has_not_taken_cambridge",
+ "timing_claim": "no_exact_degree_in_figure_falsity_shown_in_near_days_no_precise_day_claimed",
+ "confidence": 0.85,
+ "basis": "卜卦传闻真伪章法：变动角+月亮cadent无喜主谣言不实；1宫主擢升对7宫主入弱受克主王方未得手。输入残损：未给确切日期与成相度数，应期只能给日级窗口、无法定主坐标日，已降置信于应期部分。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md",
+  "kb-snapshot/references/calibration.md",
+  "inputs8/AS-004.json"
+ ]
+}

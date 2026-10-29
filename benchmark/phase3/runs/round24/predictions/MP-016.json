@@ -1,0 +1,13 @@
+{
+ "case_id": "MP-016",
+ "prediction_text": "方向：特朗普胜出、重返白宫。问时为2024年10月29日、甲辰年，以『相』字问卜：『相』左木右目，木在甲辰年得令而目有所睹、象主位已在望，且字中『目』下无绊，不作落败之象；对手哈里斯声势虽盛、民调胶着，只属竞选过程之争，最终选举人票由特朗普过半胜出，摇摆州多归共和党。应期为日档：本题问投票结果、问题本身以日为尺度，定于2024年11月5日投票、11月6日前后结果明朗之窗，主坐标为11月5日开票夜。",
+ "direction_claim": "positive",
+ "timing_claim": "2024年11月5日投票日开票夜见分晓",
+ "confidence": 0.62,
+ "basis": "测字/字占自决（梅花字占类推）：以『相』字形义与甲辰年令取象，合通则(e)事实优先——选情胶着只定过程紧凑、不改终局方向；通则(k)本题应验跨度定为日档，理由为问单次投票结果。输入残损：未给起字笔画全数、未给卦盘，仅有问字与问时，故降置信，不臆补卦象。",
+ "sources_used": [
+  "benchmark/phase3/runs/round24/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round24/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round24/kb-snapshot/references/calibration.md"
+ ]
+}

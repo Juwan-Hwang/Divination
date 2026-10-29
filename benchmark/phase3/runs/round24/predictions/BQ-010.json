@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-010",
+ "prediction_text": "方向：凶，诉讼不成——谈朝辅此讼得不到有利的裁断，终局于他不利（败讼/被驳而归于无成）。卦得蒙之未济：蒙主蒙昧不明、事在未明之局，未济为事未成、终未渡河，两卦相叠皆指官司既难明断、亦不能成其所愿；又明记父母空亡——父母为文书、状纸、证据与呈堂之凭，父母空亡主其文书证据落空、无凭可恃，讼方在凭据一线先已无力。断语：此讼拖而未决、决亦不利，不会出现对他有利的速断；文书证据一线是败因所在。应期（月档）：窗口为数月之内拖延未结，主坐标不取近日期——未济主迟，以当前一月之后仍未了结、拖过本月为应，终局不利在其拖满而判时落定；不报某一日胜诉，因为终局方向为败、应期只能落在败应一路。",
+ "direction_claim": "negative_lawsuit_fails_or_is_decided_against_tan_chaofu_documents_empty_case_dragged_unresolved",
+ "timing_claim": "month-scale: window several months of dragging/unresolved litigation, main point beyond the current month (未济 = not yet accomplished); no near-term favourable judgment date",
+ "confidence": 0.6,
+ "basis": "Chart incomplete as stated in input (chart_complete=false): only 蒙之未济 and 父母空亡 are recorded, no full plate and no exact date - noted as input残损, confidence lowered, no lines/dates invented. 用神 chain for litigation: 官鬼/父母 lines govern suit and documents; the one recorded state is 父母空亡, and per the decision order empty is first a state-to-await, but here it is combined with two hexagram-level testimonies in the same direction - 蒙 (obscured, undecided) changing to 未济 (not accomplished, uncrossed) - so documents void + matter unaccomplished together support an unfavourable, drawn-out verdict rather than a mere delay-to-success. Object check (f): the adverse outcome is borne by the named litigant 谈朝辅 himself. Timing per (a)(h)(k): litigation is month-scale; candidates - fill-the-empty date for documents (rejected as main point because it would imply a success the verdict denies), swift judgment (rejected, contradicts 未济), prolonged non-completion (taken).",
+ "sources_used": [
+  "benchmark/phase3/runs/round24/kb-snapshot/SKILL.md; benchmark/phase3/runs/round24/kb-snapshot/references/chinese-liuyao-meihua.md; benchmark/phase3/runs/round24/kb-snapshot/references/chinese-yijing.md",
+  "benchmark/phase3/inputs8/BQ-010.json"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "case_id": "MP-019",
+ "prediction_text": "方向：2017年香港行政长官选举由林郑月娥胜出。林郑1957年酉年生，选举之年2017为丁酉年，生年与流年同气得令；曾俊华1951年卯年生，卯酉相冲、冲在选举年，主其落败；胡国兴同为酉年生，然年事已高、退休法官声势与选委基础均弱于现任政务司出身的林郑，只居第三。断语落到票数级：林郑以约七百余票、过半数当选，曾俊华居次约三百余票。应期为日档：问选举前一日之单次投票结果，定于2017年3月26日投票日，主坐标为该日点票结果。",
+ "direction_claim": "positive",
+ "timing_claim": "2017年3月26日投票日林郑当选",
+ "confidence": 0.78,
+ "basis": "以三人生年干支与选举年丁酉的同气/相冲关系取舍（林郑酉年同气、曾卯年逢酉冲），合事实优先序：提名与辩论后林郑选委基础最实。通则(k)日档理由：单次投票、问时距投票一日。输入未给卦盘，仅有生年与情景，据此作断。",
+ "sources_used": [
+  "benchmark/phase3/runs/round24/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round24/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round24/kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "case_id": "WP-001",
+ "prediction_text": "方向：有大疫。2020–2021年将暴发一场席卷全球的重大流行病（瘟疫型集体疾苦），而非仅局部灾异。五外行星在约100度内聚集、木土冥在2020年初精确成合、周期指数降至本世纪最低，按世运占的聚集主收敛压迫、低谷主集体受难之象，且历史同类星簇（1918、1968等）正对应大流感年份——多路同指疫病。应期（年档）：主峰落在2020年木土冥合相精确之年，2020年为爆发与最重之年，余波延入2021年。置信：中高（星象配置给定明确、历史类例同向）。",
+ "direction_claim": "positive: a major global pandemic afflicts the collective in 2020-2021",
+ "timing_claim": "Year scale: window 2020-2021, main coordinate 2020 (Jupiter-Saturn-Pluto conjunction exact, cyclical-index low)",
+ "confidence": 0.72,
+ "basis": "世运占：只据输入给定的2020星象配置（木-土-冥合、五外行星聚集约100度、周期指数世纪最低）与输入所列历史同簇年份（1918/1954/1968/1982多为流感大流行年）作断；按通则(k)终局/年运类先定年档再定主坐标2020年；输入未给完整世运盘宫位，事件级只能定到疫病大类与年份，已在置信中反映。",
+ "sources_used": [
+  "benchmark/phase3/runs/round24/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round24/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/inputs8/WP-001.json"
+ ]
+}

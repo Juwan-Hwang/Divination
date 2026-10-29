@@ -1,0 +1,14 @@
+{
+ "case_id": "AS-013",
+ "prediction_text": "方向：失物（鱼货）去向可查、至少能找回一部分，贼也可指认。贼之表征取唯一在角宫流离的木星，落7宫宫头、天蝎（水象）——贼为与水上运输/仓储有关之人一类（木星型人物，经手货物交卸者之象）。货物表征水星落双鱼（水象）、福点落巨蟹（水象）：货仍在近水、潮湿之处，即驳船卸货/仓库一带水边，未远去。水星虽失势落陷但居其界，月亮（福点主）趋六合水星、水星又三合福点，主有找回之路。具体断语：沿水边仓库方向追查，可获回部分或全部鱼货。应期以日为单位，窗口数日，主坐标取月亮六合水星成相之近时（输入无度数，只定日级）。",
+ "direction_claim": "positive_goods_identifiable_thief_and_at_least_partly_recoverable_near_water",
+ "timing_claim": "window_within_days_moon_applying_sextile_to_mercury_significator_of_goods_no_exact_day_stated",
+ "confidence": 0.72,
+ "basis": "卜卦失窃：按Lilly取象法以角宫流离之星为贼表征，三处水象同指货物在近水处；货物表征与福点三合、月亮趋合货物表征为可恢复证词；水星落陷只压低找回成色/完整度，降格依据在此。应期无度数，已降置信。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md",
+  "kb-snapshot/references/calibration.md",
+  "inputs8/AS-013.json"
+ ]
+}

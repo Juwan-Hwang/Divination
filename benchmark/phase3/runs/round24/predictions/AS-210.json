@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-210",
+ "prediction_text": "方向：可得，能到手所求的官职/位置，但得之迟、且不靠他所倚仗的那位朋友。月亮居第十宫（官职宫）而趋拱土星，土星在上升有擢升之贵、与求测者主星金星互容（土星容金星、金星亦容土星），主有权贵/长者型人物真心接纳，职位与求测者之间有成约之路。反面只有一条：第十一宫主星太阳（其所托的太阳型朋友）在第七宫对冲上升、又带龙尾，主那位假朋友无力或有害、靠他反而生阻；月亮先离水星之刑，主先有文书/口舌上的小阻滞。断语：最终得职，路径是经那位土星型权贵而非太阳型朋友，先滞后成。应期（月档偏周）：窗口为问后数周至数月，主坐标以月亮成拱土星完成之时为应，约在问后一个月上下见定音。",
+ "direction_claim": "positive_obtains_the_office_but_through_saturnine_patron_not_the_pretended_solar_friend_and_after_delay",
+ "timing_claim": "month-scale: window weeks to a few months, main point about one month, when the Moon completes her trine to Saturn in the 10th",
+ "confidence": 0.72,
+ "basis": "Office = 10th house; Moon placed in 10th applying to trine of Saturn is the classic application for obtaining preferment. Saturn exalted in Ascendant, in mutual reception with Venus (querent) both ways = powerful patron accepts querent. Counter-testimony confined to the friend: Sun lord of 11th in 7th in opposition to Ascendant with Dragon's Tail = pretended friend harms/ fails, so success not through him. Moon separating from square Mercury = initial paperwork/talk difficulty passed. Strength of main testimony outweighs the friend testimony, hence positive with delay, grade not raised beyond obtaining the place itself.",
+ "sources_used": [
+  "benchmark/phase3/runs/round24/kb-snapshot/SKILL.md; benchmark/phase3/runs/round24/kb-snapshot/references/western-astro-numerology-runes.md (Lilly classical horary rules); benchmark/phase3/runs/round24/kb-snapshot/references/calibration.md",
+  "benchmark/phase3/inputs8/AS-210.json"
+ ]
+}

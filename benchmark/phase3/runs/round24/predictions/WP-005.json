@@ -1,0 +1,13 @@
+{
+ "case_id": "WP-005",
+ "prediction_text": "方向：Donald Trump胜。本例所指为团体中那位早在17人混战时便独排众议挑中Trump夺共和党提名的占者——其识人之眼已在提名战被验证，同一判断链推到大选，结论不随民调转：Trump击败Clinton、入主白宫。应期（日档）：2016年11月8日选举日定，胜负出人意表。置信：中。",
+ "direction_claim": "Trump wins the 2016 US presidential election (the individual panel astrologer's call)",
+ "timing_claim": "Day scale: decided on election day, 8 November 2016",
+ "confidence": 0.55,
+ "basis": "与WP-004同题不同人：本例输入特意标出该占者此前在17人提名战中独中Trump，其判断链的应验记录构成其本次作断的权重依据（事实优先序）；民调利Clinton属氛围而非其盘断，故方向取Trump。输入未附其盘面原文，置信中档。",
+ "sources_used": [
+  "benchmark/phase3/runs/round24/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round24/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/inputs8/WP-005.json"
+ ]
+}

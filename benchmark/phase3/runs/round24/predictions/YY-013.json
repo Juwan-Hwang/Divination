@@ -1,0 +1,13 @@
+{
+ "case_id": "YY-013",
+ "prediction_text": "方向：可得财（positive）。妻财亥水持应发动、原神子孙酉金临日发动生财，求财有实得，主得一笔可计之财；惟财动化巳火空绝，得财量级打折、到手有迟滞或先许后缩，非大额横财。应期双层：窗口为数日内，主坐标亥日（财逢值填实而定）。",
+ "direction_claim": "positive",
+ "timing_claim": "窗口数日内，主坐标亥日（日档）",
+ "confidence": 0.62,
+ "basis": "用神妻财五爻亥水：卯月休、得丁酉日金生，有气而动，动不为空。原神子孙上爻酉金临日旺动生财，忌神兄弟丑土月死静弱不劫。动化方向：财亥水→巳火，巳为辰巳旬空且为水绝，化空绝只压量级与到时（合流E/裁决表：化神无扶不翻旺动得生之局）；子孙酉金→卯木官鬼，化神被本爻克。反转条件：源绝三征不齐、化退化绝无生扶一路不全，不反转。门类对表求财：首选财入墓之点不在近窗候选内，递补逢值一路取亥日；冲实（巳日出空）与填实一路同指近窗，舍巳日因其为化绝之支与终局得财方向不洽。对象对齐：所问求财—用神妻财亥水—应验落占问者得财。",
+ "sources_used": [
+  "benchmark/phase3/runs/round24/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round24/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/inputs8/YY-013.json"
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "case_id": "AS-012",
+ "prediction_text": "方向：得不到这个教区职位（parsonage）。负面证词齐全：土星受损落上升『败坏此问』；9宫主木星（职位表征）与上升主、与月亮皆无相位，双方表征之间无传光、无聚光、无接纳；上升主与月亮都不在9宫。月亮离三合而趋对冲3宫主水星、7宫金星对冲上升，主有对手/阻言在前。具体断语：此番谋求落空，纵强行推进也无果。应期：无任何成相可定日期——事不成即无应期，不臆报时点。",
+ "direction_claim": "negative_will_not_obtain_the_parsonage",
+ "timing_claim": "no_perfection_no_date_suit_fails_in_this_application",
+ "confidence": 0.9,
+ "basis": "卜卦9宫职位：Lilly自列七项否定证词（无相位、无接纳、无传光聚光、表征不在所问宫、土星损上升）全部指向不成，按古典规则单判为不成。终局事件型单判：negative。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md",
+  "kb-snapshot/references/calibration.md",
+  "inputs8/AS-012.json"
+ ]
+}

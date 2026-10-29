@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-211",
+ "prediction_text": "方向：可找回，马并未永失。马之主星（第十二宫主星）逆行而急趋合求测者第二宫（财物宫）主星，逆行主返回，趋合财物宫主主物归其主；月亮居第二宫、二个逆行星近第二宫头，同主失物回入主人财物之位。第七宫受 affliction 只主曾有窃/牵涉者之象，不改可复得的终局。方位：第十二宫星座与其主星所在星座诸证俱指西——马往西边去了、亦当向正西方向寻/等消息。应期（日档）：失马为近事、盘面以逆行趋合的近距相位主速应，窗口为数日之内，主坐标在问后数日之内即有归还/寻获消息，以西向寻得为实。",
+ "direction_claim": "positive_horse_recoverable_went_west_and_returns_to_owner",
+ "timing_claim": "day-scale: window within a few days, main point within days of the question, recovery from the west (retrograde significator hastening to conjunction of lord of 2nd)",
+ "confidence": 0.74,
+ "basis": "Horse significator lord of 12th retrograde hastening to conjunction of lord of querent's 2nd (substance) = the lost animal returns into owner's possession; retrogradation in lost-object horary signifies return. Moon locally in 2nd and two retrogrades near 2nd cusp repeat the return testimony. Direction by plurality of testimonies: sign of 12th and sign of its lord both west = full west. Afflicted 7th noted but does not override the return conjunction. Object check (f): recovery and direction both refer to the horse itself, not the owner.",
+ "sources_used": [
+  "benchmark/phase3/runs/round24/kb-snapshot/SKILL.md; benchmark/phase3/runs/round24/kb-snapshot/references/western-astro-numerology-runes.md (Lilly classical horary rules); benchmark/phase3/runs/round24/kb-snapshot/references/calibration.md",
+  "benchmark/phase3/inputs8/AS-211.json"
+ ]
+}

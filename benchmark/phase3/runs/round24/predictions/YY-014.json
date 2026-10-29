@@ -1,0 +1,13 @@
+{
+ "case_id": "YY-014",
+ "prediction_text": "方向：可得财而迟、得之不厚（positive）。妻财辰土持世、旺相逢日冲暗动，财已在手边、事在动中；另一财未土临应旬空、原神子孙午火伏藏逢空，得财须待、量级偏薄，中途有文书/手续一层牵连（父母亥水动）。应期双层：窗口旬内，主坐标酉日（世财辰土逢合，世动逢合而应）。",
+ "direction_claim": "positive",
+ "timing_claim": "窗口旬内，主坐标酉日（日档）",
+ "confidence": 0.58,
+ "basis": "用神两现：世财辰土巳月相、日戌冲而有气判暗动；应财未土巳月相而甲申旬空午未、未空，保留应验位不作主用。原神子孙午火伏四爻亥水下，巳月火旺而旬空，飞神亥水囚而克伏，源伏空故迟薄。忌神兄弟寅木休静无力。父母亥水动化申金回头生、化退有生扶不作凶。动化方向：亥水→申金回头生（金生水）；方向定性为源续。反转条件：不齐备，不反转。门类对表求财：首选财入墓点不合窗，次选世动逢合取酉合辰为主坐标；逢值辰日舍为窗界、填实未日舍因未财非主用。对象对齐：求财—主用世财辰土—应验落占问者本人得财。",
+ "sources_used": [
+  "benchmark/phase3/runs/round24/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round24/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/inputs8/YY-014.json"
+ ]
+}

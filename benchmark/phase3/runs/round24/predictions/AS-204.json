@@ -1,0 +1,14 @@
+{
+ "case_id": "AS-204",
+ "prediction_text": "方向：病在胸腹（乳房与胃部一带），病性缠绵，一时难愈。上升天蝎、四角皆固定宫主病程固定迁延；6宫有入弱之星坐守为病之表征，上升主近时刚离土星顺刑，土星当时在巨蟹——巨蟹主胸与胃，故病位定在胸胃；月亮在4宫与土星同处，主病势沉滞、转归迟缓。具体断语：此病为胸胃部位的沉滞性疾患（痰饮/郁滞一类象），可拖延成慢性，短期内无痊愈之象，重在久治。应期以月为单位：固定宫主以月计程，不报确日，数月内难言根治。",
+ "direction_claim": "negative_disease_of_breast_and_stomach_chronic_not_readily_curable",
+ "timing_claim": "fixed_signs_month_scale_no_quick_recovery_no_exact_date_in_input",
+ "confidence": 0.65,
+ "basis": "卜卦疾病（decumbiture式）：病位取象链为土星在巨蟹→胸胃，承受对象与应验对象同为病者本人，已逐条对回。固定角与月亮合土星压低治愈等级，降格依据在此；上升主已离土星刑只主最紧的一段已过，不足以翻转为可速愈。输入未给日期与度数，应期只能定月档。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md",
+  "kb-snapshot/references/calibration.md",
+  "inputs8/AS-204.json"
+ ]
+}

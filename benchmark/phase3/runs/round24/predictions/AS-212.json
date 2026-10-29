@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-212",
+ "prediction_text": "方向：不是巫蛊/附邪作祟，病人并非被下蛊。虽月亮趋冲土星、二星分居第六与第十二宫，表面上凑出可疑巫术的象，但定案规则不在此：上升宫、上升主星与月亮三者皆未受第十二宫主星侵害——无第十二宫主星 afflict 上升系，即无巫术成立的证据，医师投药无效只是病未对症/病势本身缠绵，不得据此定巫。且月亮冲土星之后转而趋合上升主星，该主星在地平线上、向中天上升，主病人随后转机、病情向上向好。断语：按自然疾病治之，病人可望好转/脱离此厄，不死于此病程的近段；远段转归亦由月合上升主星的向上之势主渐愈，无盘面触发另报远段凶变，故一段终局：非巫、且向愈。应期（日档偏周）：窗口为问后数日至数周，主坐标以月亮越过冲土星、成合上升主星之时为转机点，约在问后一周上下见明显好转。",
+ "direction_claim": "negative_not_bewitched_natural_illness_patient_improves_and_recovers",
+ "timing_claim": "day-to-week scale: window days to a few weeks, main point about a week, when the Moon passes her opposition of Saturn and applies to the lord of the Ascendant",
+ "confidence": 0.76,
+ "basis": "Direction_claim is negative on the question as asked ('if bewitched?'): answer is No. Lilly's deciding rule: witchcraft requires affliction of Ascendant, its lord or Moon by lord of 12th; input states none of the three is so afflicted, despite Moon-Saturn opposition across 6th/12th raising mere suspicion. Recovery testimony: Moon after Saturn opposition applies to lord of Ascendant, who is above earth ascending towards meridian = patient rises/improves. Object check (f) repeated per person: every statement refers to the patient himself. Two-segment check (i): near worsening under ineffective physic, far segment triggered by Moon's application to Asc lord pointing upward, hence improvement, not a fabricated reversal.",
+ "sources_used": [
+  "benchmark/phase3/runs/round24/kb-snapshot/SKILL.md; benchmark/phase3/runs/round24/kb-snapshot/references/western-astro-numerology-runes.md (Lilly classical horary rules); benchmark/phase3/runs/round24/kb-snapshot/references/calibration.md",
+  "benchmark/phase3/inputs8/AS-212.json"
+ ]
+}

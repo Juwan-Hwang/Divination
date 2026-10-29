@@ -1,0 +1,14 @@
+{
+ "case_id": "AS-002",
+ "prediction_text": "方向：会富，可凭自己立业、不靠婚姻致富，且财富能持续。财之表征火星（2宫主兼福点主）落上升近室女座明星、金星（上升主）近轩辕十四、木星擢升居角宫近天顶、月亮（10宫主）离火星/水星而趋合上升主金星——财富由本人营生与职业进取得来，得贵人/地位之助。持续与否：福点与2宫宫头皆固定宫，富而能守、持续。具体断语：自营得财、非因婚姻；应期以年为单位，窗口约6至7年，主坐标约6.5年（月亮距合金星尚差6°27′）。",
+ "direction_claim": "positive_will_be_rich_by_own_industry_and_wealth_continues",
+ "timing_claim": "window_about_6_to_7_years_main_coordinate_about_6.5_years_moon_conjunction_venus_wanting_6deg27",
+ "confidence": 0.8,
+ "basis": "卜卦2宫问财：2宫主兼福点主在1宫=财就身、凭己力；木星擢升角宫主显达之助；固定宫主持续。应期尺度：致富属年档，先定年：月亮趋合上升主所差6°27′按年计约6.5年。输入未给确切日期，成富年份以该度数推，不另臆定。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md",
+  "kb-snapshot/references/calibration.md",
+  "inputs8/AS-002.json"
+ ]
+}

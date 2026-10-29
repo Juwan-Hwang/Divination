@@ -1,0 +1,14 @@
+{
+ "case_id": "AS-205",
+ "prediction_text": "方向：病人将不治身亡。此盘凶证叠出：上升被一颗兼为8宫主之星以本體坐犯；6宫星座固定且受克，6宫主落固定、土性、忧郁之座；时间之光太阳与6宫主土星在固定宫成正对冲；月亮近龙尾（Cauda）且在上升受克——生机之表征（上升、月亮、太阳）无一不受重克，且克源正是病宫与死宫之主。具体断语：病为固定土性的沉郁痼疾，终局为死亡，非药石可回。应期以月为单位收束（固定宫主久暂以月计）：凶终在当前病程内、数周至一两个月的量级成定局，输入未给成相度数，不报确日。",
+ "direction_claim": "negative_sick_man_will_die",
+ "timing_claim": "month_scale_fixed_signs_no_exact_day_degree_not_stated_in_input",
+ "confidence": 0.88,
+ "basis": "卜卦问生死：Lilly死证清单（8宫主犯上升、6宫主对冲太阳、月亮近交点尾受克、病宫固定受克）多条齐备且互证，按古典规则单判negative。应验对象为病人本人，已对回。无度数信息，应期只定月档、置信扣于应期不扣于方向。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md",
+  "kb-snapshot/references/calibration.md",
+  "inputs8/AS-205.json"
+ ]
+}

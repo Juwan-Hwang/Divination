@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-209",
+ "prediction_text": "方向分两问合断，终局偏不利於王室的大举成功：(1) 爱尔兰援军之事：国王主星月亮在巨蟹居第十宫、居其本宫、增光，除行迟外无大伤，主国王本人有意且有能力图谋援军；第十一宫（援助宫）主星太阳擢升居第七宫、正对议会上升，主确有外援趋向议会之敌方而来——但太阳距第十一宫头尚差六度未成精确相位，主援军谋而未即至、至亦迟缓而不成决定性之害，议会不会因此被重创。(2) 王后北来之事：王后主星土星正换座、将入白羊落陷，主王后进军初有声势、后势转弱，不算昌盛；月亮距拱土星仅三四度，主国王与王后将在三四个月内相会。应期（月档）：窗口为问后三至六个月，主坐标取三至四个月——月亮成拱土星之三四度定会合之期；爱尔兰援军的六度之差同为迟滞注脚，不另作主坐标。",
+ "direction_claim": "negative_no_decisive_royal_success_irish_aid_delayed_and_ineffectual_queen_meets_king_in_3_to_4_months_but_in_falling_condition",
+ "timing_claim": "month-scale: window 3-6 months, main point 3-4 months for the King meeting the Queen (Moon wanting 3-4 degrees of trine of Saturn); Irish aid delayed at 6 degrees short of partile",
+ "confidence": 0.62,
+ "basis": "King: Moon in Cancer in 10th in own house increasing in light = King himself strong in intent. Aid: Sun lord of 11th exalted in 7th opposing Ascendant (Parliament) shows aid directed against Parliament, but wanting 6 degrees of the 11th cusp/partile = aid not presently perfected, delayed and not decisively harmful. Queen: Saturn significatrix removing into Aries her fall = advance loses strength/prosperity; Moon 3-4 degrees from trine Saturn = meeting within 3-4 time units, read at month scale for an army movement. Single overall direction given as negative for a decisive royal success, per event-question single-verdict discipline adapted to horary: aid delayed, Queen meets King but in falling condition.",
+ "sources_used": [
+  "benchmark/phase3/runs/round24/kb-snapshot/SKILL.md; benchmark/phase3/runs/round24/kb-snapshot/references/western-astro-numerology-runes.md (Lilly classical horary rules); benchmark/phase3/runs/round24/kb-snapshot/references/calibration.md",
+  "benchmark/phase3/inputs8/AS-209.json"
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "case_id": "AS-015",
+ "prediction_text": "方向：丈夫还活着，且处境无恙。丈夫表征太阳居其 hayz、全然无受克无损伤——这是卜卦问远人存亡中最强的存活证词，故断其人平安在外，终有归讯/归期可望。但就所给盘面信息，归期无成相度数可推，不臆报返家日期。附带同盘之断：问者本人病势沉重，6宫主土星逆行主其病反复迁延，火星与土星趋成凶相位指向她本人于次一周期（10月8日）有性命之危——此危在妻不在夫。应期：夫之归期不定（无据）；妻之危期以月为尺度定在当年10月8日前后，此日期见输入asked_at注、系Lilly自盘面所定时点。",
+ "direction_claim": "positive_husband_alive_and_safe_return_expected_but_no_return_date_in_figure_as_given",
+ "timing_claim": "husband_return_timing_not_stated_in_input_wifes_own_fatal_crisis_timed_to_8_October_following",
+ "confidence": 0.62,
+ "basis": "卜卦问夫存亡：夫表征太阳得hayz且free from all affliction→存活单判positive。输入残损：太阳的宫位/星座与成相度数OCR讹缺，夫之所在方位与归期无据可推，已在断语明写并降置信；妻之死期为输入文本明载的Lilly定时点，作为次级断语单列、不与夫之终局混同。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md",
+  "kb-snapshot/references/calibration.md",
+  "inputs8/AS-015.json"
+ ]
+}

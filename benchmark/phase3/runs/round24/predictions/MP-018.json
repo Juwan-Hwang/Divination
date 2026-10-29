@@ -1,0 +1,13 @@
+{
+ "case_id": "MP-018",
+ "prediction_text": "方向：曾俊华不能当选2017年香港行政长官，落败。曾氏1951年生、民望为三人中最高，属得人心而不得位：传媒已指林郑月娥获北京支持、选情占优，选举由1,194人选举委员会决定而非普选民望，民望高不能兑换为选委票过半。断语落到事件级：曾俊华得票居第二、败于林郑月娥，只能以高民望陪跑收场。应期为月档：2017年3月26日投票日落败定局，主坐标为该日。",
+ "direction_claim": "negative",
+ "timing_claim": "2017年3月26日投票日落败",
+ "confidence": 0.74,
+ "basis": "事实优先序(e)：占题已给『林郑获北京支持、选情占优、曾被视为陪跑』与选举制度为选委会投票两项硬事实，取象从此收束，民望只作量级不作方向。输入残损：《睇相王》相面原文与面部细节未给，无相可据，故只据情景作断并在basis注明，不臆补相格。",
+ "sources_used": [
+  "benchmark/phase3/runs/round24/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round24/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round24/kb-snapshot/references/calibration.md"
+ ]
+}

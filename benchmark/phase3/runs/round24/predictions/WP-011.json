@@ -1,0 +1,13 @@
+{
+ "case_id": "WP-011",
+ "prediction_text": "方向：Donald Trump连任胜（本例占者一人的盘断方向）。其据为Trump吠陀盘中木星坐第二宫、相照第十宫所坐太阳——木星照官位之日，主在任者官星得吉照、权位得续，故断Trump击败Biden、连任成功；其新冠初愈复出竞选亦被读作势未衰。应期（日档）：2020年11月3日选举日定。置信：中低（同题他路占者有异断，且此据为单一相位链）。",
+ "direction_claim": "Trump wins re-election in 2020 (this astrologer's Vedic reading)",
+ "timing_claim": "Day scale: decided on election day, 3 November 2020",
+ "confidence": 0.5,
+ "basis": "本例只复述该占者自己的判断链：输入给定的唯一盘据是Trump盘木星在二宫照十宫太阳，按其读法主官位得续，故方向取Trump连任；不以他路占者或民调改其断（本题对标的是该占者本人的断）。单一相位据、无完整盘面，置信中低。",
+ "sources_used": [
+  "benchmark/phase3/runs/round24/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round24/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/inputs8/WP-011.json"
+ ]
+}

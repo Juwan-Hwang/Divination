@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-303",
+ "prediction_text": "方向：第三次世界大战不会在2024年爆发，所传的具体爆发日期不会应验。2024年虽有俄乌、巴以两场战争持续、地缘紧张与核威胁言论不断，但占象与局势皆只支持区域战争延续与危机升级管控，不支持多国全面卷入的全球性世界大战在今年内点燃；逐个被宣称的2024年爆发日（以6月前后所传日期为代表）都将平静或仅以局部事件过去，不成三战之实。应期（年档）：窗口为2024全年，主坐标即2024年内——全年走完而无三战爆发，即为本断的应验点；不另报某月某日为爆发日，报爆发日正是本断所否定的内容。",
+ "direction_claim": "negative_no_world_war_3_in_2024_claimed_outbreak_dates_do_not_materialise",
+ "timing_claim": "year-scale: window calendar 2024, main point the whole of 2024 passing without a world war; no specific 2024 outbreak date is affirmed",
+ "confidence": 0.72,
+ "basis": "Input残损注明: input gives only subject, the June 2024 asking context with two regional wars in progress, and no chart positions or named outbreak date in the body; the provenance line indicates dated WW3 claims were being published in June 2024. Judgment: continuation/escalation-management of regional wars does not meet the threshold for a global multi-power world war, and date-specific WW3 claims of this type have no supporting mundane configuration exact in 2024 that is not already accounted for by the existing regional wars. Confidence lowered for the missing exact claimed date in the input body; direction is on the question as asked (WW3 outbreak timing in 2024).",
+ "sources_used": [
+  "benchmark/phase3/runs/round24/kb-snapshot/SKILL.md; benchmark/phase3/runs/round24/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/inputs8/AS-303.json"
+ ]
+}

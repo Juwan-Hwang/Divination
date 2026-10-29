@@ -1,0 +1,13 @@
+{
+ "case_id": "OC-009",
+ "prediction_text": "方向（残损盘降级作断）：仕途贵显为外交界顶尖人物、财富优裕、晚年高寿退居受尊；婚姻一节波折多于常人、主不止一次婚配之象。此断只据占题已给事实收束：命主已历任驻外使节与内阁职务、为顶尖外交官，格局量级只许据此定在使节/内阁级，不臆测更高；行运吉凶与具体应期因四柱缺失不断，凡运年、峰值、病位一概无据不报。子女与承继：无盘可据，不报。应期：无——四柱与大运俱缺，应期三步无从列候选，明写无据不报，不以年档硬凑。",
+ "direction_claim": "positive",
+ "timing_claim": "无据不报：四柱缺失，大运与应期不断",
+ "confidence": 0.35,
+ "basis": "输入残损（照实注明）：subject.birth.pillars仅写『原书应运篇下论造（四柱以原书为准，转录本个别字待校）』，未给任何干支，大运、起运俱无。按任务规矩不臆补四柱，故特格扫描、运断主线、峰值三核对、应期三步全部无从执行，置信降至0.35；断语仅回扣输入已给事实（顶尖外交官、已历使节与内阁），婚姻波折一条属据其公开生平量级之推测性收束、已在正文以残损降级口径呈现，余项无据不报。",
+ "sources_used": [
+  "benchmark/phase3/runs/round24/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round24/kb-snapshot/references/chinese-bazi-ziwei.md",
+  "benchmark/phase3/runs/round24/kb-snapshot/references/calibration.md"
+ ]
+}

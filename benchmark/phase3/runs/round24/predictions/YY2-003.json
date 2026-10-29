@@ -1,0 +1,13 @@
+{
+ "case_id": "YY2-003",
+ "prediction_text": "方向：暂断寿有养、非骤终之象（positive，低置信）。仅据本卦山雷颐（主养）之变地雷复（主返、复生）卦名取象，自占寿命主颐养得复、寿程未见骤绝之象；逐爻、六亲、动爻全部缺失，无法装卦验用神旺衰与寿限，具体终年不断。应期：年档，具体年支无盘面依据，不妄定主坐标。",
+ "direction_claim": "positive",
+ "timing_claim": "年档（具体年支无盘面依据，不妄定）",
+ "confidence": 0.35,
+ "basis": "输入残损照实注明：inputs8 该例 chart_lines_top_to_bottom 为 null、moving_lines 为 null，仅有卦名『山雷颐之 地雷复』与年月日时（庚寅年庚辰月丁卯日甲辰时，旬空戌亥）。无逐爻六亲、无世应、无动爻明文，不臆补装卦、不推用神旺衰/原神忌神/应期三路。仅按卦名象意低置信作方向暂断并降置信至0.35；寿元年档先年后月之序下，年支无据故 timing 不落具体年。sources 仅用输入与 kb 通则（k）年档条。对象：自占者本人。",
+ "sources_used": [
+  "benchmark/phase3/runs/round24/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round24/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/inputs8/YY2-003.json"
+ ]
+}

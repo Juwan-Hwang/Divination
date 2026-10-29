@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-306",
+ "prediction_text": "方向：民主党候选人将发生更替、特朗普最终胜出加冕。断语分两段：近段——时任总统拜登不会以候选人身份走到投票日，他将在2024年夏季（民主党大会之前）退出竞选，副总统哈里斯接替成为民主党候选人；远段——更替虽一度提振民主党声势，终局仍由唐纳德·特朗普赢得2024年11月大选当选总统，哈里斯落败。应期（月档）：窗口为2024年6月至11月，主坐标分段落定——更替应在2024年7月前后（大会前），胜负应在2024年11月5日；以终局计，主坐标取11月5日特朗普胜选。",
+ "direction_claim": "positive_biden_withdraws_and_harris_replaces_him_but_trump_wins_2024_us_election",
+ "timing_claim": "month-scale: window Jun-Nov 2024, main point 5 Nov 2024 (Trump wins); intermediate point Jul 2024 for Biden's withdrawal and Harris replacing him",
+ "confidence": 0.6,
+ "basis": "Asked 2024-06-02 when Biden was still the presumptive nominee but his age/condition were already publicly questioned (fact given in input). Two-segment judgment (i)(j): near segment - the incumbent's candidacy does not survive to the convention, replacement by his vice-president Harris is the only viable substitution path; far segment - the replacement lifts but does not overturn the challenger, Trump is the final winner. Input残损注明: no chart positions supplied in the input, so no Vedic chart details are invented and confidence is moderate. Direction positive is scoped to Trump as the subject of the eventual crowning in the question's framing (election outcome), with Harris's nomination stated explicitly in the text.",
+ "sources_used": [
+  "benchmark/phase3/runs/round24/kb-snapshot/SKILL.md; benchmark/phase3/runs/round24/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/inputs8/AS-306.json"
+ ]
+}

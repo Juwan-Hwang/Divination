@@ -1,0 +1,13 @@
+{
+ "case_id": "MP-017",
+ "prediction_text": "方向：下届香港行政长官由女性出任，即女性胜出、非男性。问时2016年12月梁振英已宣布不连任，政务司司长林郑月娥由不参选改口重新考虑，此一转口即为女性候选人入局之兆；曾俊华虽辞职备选、属男性声势先行，终不及已改口之女性人选得势。应期为月档：定于2017年3月26日选举委员会投票日产生结果，主坐标为该投票日，女性人选当选为第四任后之新任特首人选（2017年7月1日就任）。",
+ "direction_claim": "positive",
+ "timing_claim": "2017年3月26日选举日定，女性当选",
+ "confidence": 0.66,
+ "basis": "按问时情景与占题事实自决作断（通则(e)事实优先序：以林郑改口重新考虑这一已发生事实为取象约束，不以先行辞职备选之男性声势压事实）；通则(k)应验跨度定为月档、选举日为定点。输入残损：未给任何卦盘/相面记录，仅有问时背景，故降置信。",
+ "sources_used": [
+  "benchmark/phase3/runs/round24/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round24/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round24/kb-snapshot/references/calibration.md"
+ ]
+}

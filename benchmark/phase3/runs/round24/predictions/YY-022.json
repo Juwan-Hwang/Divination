@@ -1,0 +1,13 @@
+{
+ "case_id": "YY-022",
+ "prediction_text": "方向：讼以和息收场、对占问者不凶（positive，和息而非胜诉）。官鬼讼爻动而化子孙回头克，讼势被解神化去；世应同为父母未土、同空同休，双方皆无力久争，主调停和解、无败诉牢狱之终局。应期双层：窗口旬内，主坐标亥日（冲官鬼巳火之解法日，讼散和息落点）。",
+ "direction_claim": "positive",
+ "timing_claim": "窗口旬内，主坐标亥日（日档）",
+ "confidence": 0.57,
+ "basis": "讼占以官鬼为讼、世为己应为对方。官鬼五爻巳火动：酉月火囚、戊子日水克，动化方向巳火→子水回头克（水克火），且化出子孙为解神，官讼受克化散。世父母未土与应父母未土同支：酉月休、子日泄、甲申旬空午未而未空，双方同空休，主两造皆弱、宜和。妻财卯木三爻动死而化申金回头克兼化绝（木绝申），财路亦断，不支持久讼耗财。六神/世应只调量级。应期：讼事门类对表无此门类（已核，讼诸章只有成败断法），按三步原序：解法一路亥冲巳为主坐标，化神逢值子日舍为窗界，填实未日舍因主应期在讼散非世填实。对象对齐：所问讼者—官鬼巳火/世未土—应验落占问者以和息脱讼。注：direction 的 positive 专指和息脱身向，非判占问者胜诉。",
+ "sources_used": [
+  "benchmark/phase3/runs/round24/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round24/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/inputs8/YY-022.json"
+ ]
+}

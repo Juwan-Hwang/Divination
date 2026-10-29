@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-208",
+ "prediction_text": "方向：对鲁珀特亲王不利，对埃塞克斯有利。亲王不得荣誉于此战，其主星太阳失位、落陷于固定星座且无尊贵（peregrine and in detriment），主勇而无成、声名受损；埃塞克斯之主星金星与土星互容，且金星支配亲王的主星，又以顺相位临第十宫头，主埃塞克斯得势、能制亲王。月亮以凶相位临第十宫，更伤亲王的荣誉宫。断语：亲王此后在内战中不会压倒埃塞克斯、不会赢得决定性的荣光，反而渐走下坡、锋芒受挫；埃塞克斯一方占上风。近段（数月内战局）亲王仍有骑兵冲锋之勇，但无战略之胜；远段其声望与地位持续下滑，终局不显赫。应期（月档）：以当前战役季数月为窗口，主坐标在接下来的数月会战期内见其受挫。",
+ "direction_claim": "negative_rupert_gets_no_honour_and_is_worsted_essex_has_the_advantage",
+ "timing_claim": "month-scale: window the coming campaign months after Edgehill (about Nov-Dec 1642 onward), main point within the next few months of fighting",
+ "confidence": 0.75,
+ "basis": "Rupert signified by 10th and its lord Sun peregrine in detriment in fixed sign = no dignity, no lasting honour. Essex signified by Venus, lady of opposite house, in reception with Saturn and disposing of the Sun, with dexter aspect to 10th cusp = Essex holds power over Rupert's significator. Moon sinister aspect to 10th cusp afflicts Rupert's honour. Two-segment check: near bravado does not convert to far honour; no trigger in the positions for a reversal in Rupert's favour.",
+ "sources_used": [
+  "benchmark/phase3/runs/round24/kb-snapshot/SKILL.md; benchmark/phase3/runs/round24/kb-snapshot/references/western-astro-numerology-runes.md (Lilly classical horary rules); benchmark/phase3/runs/round24/kb-snapshot/references/calibration.md",
+  "benchmark/phase3/inputs8/AS-208.json"
+ ]
+}

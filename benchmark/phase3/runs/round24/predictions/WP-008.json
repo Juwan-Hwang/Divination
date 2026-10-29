@@ -1,0 +1,13 @@
+{
+ "case_id": "WP-008",
+ "prediction_text": "方向：Narendra Modi胜、连任总理。2019年印度人民院选举由Modi领导的BJP/NDA获胜、赢得执政权，反对党Congress联盟未能翻盘，且胜势不弱（执政联盟保住多数）。应期（日档）：计票日2019年5月23日见分晓。置信：中高。",
+ "direction_claim": "Modi / BJP-NDA wins the 2019 Lok Sabha election and Modi serves a second term",
+ "timing_claim": "Day scale: decided on counting day, 23 May 2019",
+ "confidence": 0.68,
+ "basis": "只据占题事实与在任格局：在任总理求连任、选前评估一边倒利在任一方，输入未给候选人本命盘原文，按事实优先序与在任守位之势同向取Modi连任；等级只断到保住执政多数，不拔高具体席位数字。",
+ "sources_used": [
+  "benchmark/phase3/runs/round24/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round24/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/inputs8/WP-008.json"
+ ]
+}

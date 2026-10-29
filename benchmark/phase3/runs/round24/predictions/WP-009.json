@@ -1,0 +1,13 @@
+{
+ "case_id": "WP-009",
+ "prediction_text": "方向：印度不会夺冠。2019年板球世界杯，Kohli领军、被列为夺冠热门的印度队最终与冠军无缘——行程止于淘汰赛阶段（半决赛一线），奖杯归他人。热门之名与盘面结果相反，属盛名之下败象。应期（日档）：赛事末段见分晓，2019年7月14日决赛日印度不在夺冠位置（其出局在此前的半决赛阶段落定）。置信：中高。",
+ "direction_claim": "negative: India does NOT win the 2019 Cricket World Cup (falls in the knockout/semi-final stage)",
+ "timing_claim": "Day scale: settled in the knockout stage before the final on 14 July 2019",
+ "confidence": 0.68,
+ "basis": "只据输入：印度被捧为firm favourite而占问即为能否夺冠——按等级校准，盛名不等于盘成，断语按不足以登顶落负向，事件级落到半决赛/淘汰赛出局；输入未给队长完整本命盘细节，置信中高而非高。",
+ "sources_used": [
+  "benchmark/phase3/runs/round24/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round24/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/inputs8/WP-009.json"
+ ]
+}

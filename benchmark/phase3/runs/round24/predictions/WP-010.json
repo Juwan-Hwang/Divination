@@ -1,0 +1,13 @@
+{
+ "case_id": "WP-010",
+ "prediction_text": "方向：Joe Biden胜。2020年美国总统选举由民主党Biden击败在任的Trump、当选总统。本例所据为以Biden天蝎上升（吠陀计）立盘的一路判断：其盘势主 challenger 上位、在任者被换。应期（日档）：2020年11月3日选举日定胜负。置信：中（同场占者意见分歧，输入已明示）。",
+ "direction_claim": "Biden wins the 2020 US presidential election (the Vedic reading based on Biden's Scorpio Ascendant)",
+ "timing_claim": "Day scale: decided on election day, 3 November 2020",
+ "confidence": 0.58,
+ "basis": "本例与WP-011同题不同占者：输入特意标明本路所用为Biden天蝎上升的吠陀盘口径，该路盘断指向挑战者胜；且占题事实民调利Biden同向。输入已明示三位占者互相分歧，故置信只给中档。",
+ "sources_used": [
+  "benchmark/phase3/runs/round24/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round24/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/inputs8/WP-010.json"
+ ]
+}

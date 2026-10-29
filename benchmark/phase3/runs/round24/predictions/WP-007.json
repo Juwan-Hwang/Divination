@@ -1,0 +1,13 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "方向：Donald Trump胜。决定选举的不是民调声势，而是Clinton一方的丑闻面持续发酵——电邮争议与Clinton基金会争议在选战末段成为压垮其选情的关键变量，Trump借此逆转胜出、当选总统。应期（日档）：2016年11月8日选举日定，末段丑闻效应在选举日前最后阶段显形。置信：中低（见basis残损说明）。",
+ "direction_claim": "Trump wins the 2016 election, decided by Clinton's email/Foundation scandals",
+ "timing_claim": "Day scale: decided on election day, 8 November 2016, scandal effect peaking in the final stretch",
+ "confidence": 0.5,
+ "basis": "输入残损：本题为塔罗占，但输入未给所抽牌面（无牌名/牌阵/正逆位），按纪律不臆补牌面、不伪造原始结果；方向只能据占题已给定事实（Clinton电邮与基金会争议已公开、且为本案咨询的焦点）与该占的决胜变量取象落断，故置信降至中低，并在prediction中只断方向与决胜机制、不引任何具体牌义。",
+ "sources_used": [
+  "benchmark/phase3/runs/round24/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round24/kb-snapshot/references/western-tarot.md",
+  "benchmark/phase3/inputs8/WP-007.json"
+ ]
+}

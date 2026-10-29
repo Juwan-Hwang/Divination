@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-001",
+ "prediction_text": "方向：凶，父寿不久，此番气尽复苏不是转愈而是回光之苏。父卧疾三年、昨日气已尽而复苏，久病之体元气已竭，复苏只是余气一返；卦遇兑之履：兑为口、为言、为毁折，气从口出之象已见于昨日气尽；变卦牵连乾天之象，主魂归于天、践行而去（履，践行之卦）。断语落到具体对象：应验对象即求卜者之父本人（非求卜者、非他人），父将在短期内再绝而逝，寿数以日计不以月计。应期（日档，近病垂危之问以日为尺度）：第一层窗口为问后七日之内，第二层主坐标为问后第三日——窗口由久病气尽后余气存续之限推出，主坐标取兑变履行之数落点，三日内气绝之险最高，纵延亦不越七日之窗。",
+ "direction_claim": "negative_father_dies_soon_revival_is_final_flare_not_recovery_within_7_days_main_point_day_3",
+ "timing_claim": "day-scale: window within 7 days after the asking (13th day of the 3rd month), main point the 3rd day after asking",
+ "confidence": 0.58,
+ "basis": "Chart incomplete as stated in input (chart_complete=false): only 本卦兑、变卦履 and phrases quoted in the judgment are available, no full six-line plate, no year - this is noted as input残损 and confidence is lowered, no lines are invented. Judgment from what is given: (e) fact priority - three years bedridden and breath ceasing yesterday then reviving is, in classical sick-reading, a final flare rather than recovery; 兑 as mouth/breath and damage, change toward 乾/天 and 履 (treading/departing) read as departure, not cure. Object check (f): subject, bearer and fulfilment object are all the father himself. Timing per (a)(h)(k): a dying near-illness question is day-scale; three candidate routes considered - revival-as-cure (rejected, contradicts the fact of breath already ceasing), month-scale lingering (rejected, three-year exhaustion leaves no month of substance), day-scale expiry (taken, consistent with the final-flare reading). Timing dual-layer: 7-day window, single main point day 3.",
+ "sources_used": [
+  "benchmark/phase3/runs/round24/kb-snapshot/SKILL.md; benchmark/phase3/runs/round24/kb-snapshot/references/chinese-liuyao-meihua.md; benchmark/phase3/runs/round24/kb-snapshot/references/chinese-yijing.md",
+  "benchmark/phase3/inputs8/BQ-001.json"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "case_id": "WP-013",
+ "prediction_text": "方向：工党胜。2024年7月4日英国大选，Keir Starmer领导的工党击败在任的保守党（Sunak）夺得执政权，保守党下台；胜势为明显优势（民调约20个百分点的领先转化为议会多数），非险胜。应期（日档）：大选日2024年7月4日投票、当夜计票定局。置信：高（事实面一边倒且无反向给定星象）。",
+ "direction_claim": "Labour under Starmer wins the UK general election of 4 July 2024, Conservatives lose power",
+ "timing_claim": "Day scale: election day 4 July 2024, settled in that night's count",
+ "confidence": 0.78,
+ "basis": "按事实优先序：输入给定工党民调领先约20点、首相Sunak另有D-Day提前离场之失分事件，太阳落巨蟹的选举时点无推翻此势的给定配置；等级按大幅领先落为明确多数胜，不只断险胜。",
+ "sources_used": [
+  "benchmark/phase3/runs/round24/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round24/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/inputs8/WP-013.json"
+ ]
+}

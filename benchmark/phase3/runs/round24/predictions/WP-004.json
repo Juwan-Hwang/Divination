@@ -1,0 +1,13 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "方向：Hillary Clinton胜（会议占测团体的合断方向）。2016年选举由民主党Clinton胜出、成为总统。占题事实一边倒：多数民调领先、团体合断场合的共识亦归于领先一方，按事实优先序取民调与在场共识同指的Clinton。应期（日档）：2016年11月8日选举日定。置信：中（团体合断易受民调氛围牵引，故不给高置信）。",
+ "direction_claim": "Clinton wins the 2016 US presidential election (panel consensus call)",
+ "timing_claim": "Day scale: decided on election day, 8 November 2016",
+ "confidence": 0.55,
+ "basis": "本例问的是Costa Mesa国际占星会议选举预测团体的合断：输入给定事实为民调普遍利Clinton、团体场合共识同向，按通则(e)事实优先序取Clinton；输入未给两候选人盘面原文，无独立盘据可推翻共识，置信只给中档。",
+ "sources_used": [
+  "benchmark/phase3/runs/round24/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round24/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/inputs8/WP-004.json"
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "case_id": "AS-001",
+ "prediction_text": "方向：儿子不在其师傅处，而在母亲自己家里。五宫主木星（子之表征）落上升点（母亲/问者之位、东角），主客表征成三合且将于7月25日14时成相——儿子就在母亲居处这一边，母亲将在此时点前后得见/得确信。具体断语：子现于母宅，不在师傅处；应期以日为单位，窗口至7月25日，主坐标为7月25日14时（三合完善之时）。",
+ "direction_claim": "son_at_mothers_own_house_not_with_master",
+ "timing_claim": "window_by_25_July_main_coordinate_25_July_14:00_trine_perfection",
+ "confidence": 0.85,
+ "basis": "卜卦占星整宫古典法：5宫主木星为子之表征，落1宫角宫即子与问者同处/在母宅；月亮（母宅4宫主土星之六合）辅证居所指向。应期尺度：近事寻人定为日档，依问中给出的三合完善时刻25日14时为窗口内主坐标。两段式：此问为单点定位，无近远两段，不适用两段式。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md",
+  "kb-snapshot/references/calibration.md",
+  "inputs8/AS-001.json"
+ ]
+}

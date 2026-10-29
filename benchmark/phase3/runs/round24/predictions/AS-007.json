@@ -1,0 +1,14 @@
+{
+ "case_id": "AS-007",
+ "prediction_text": "方向：沃勒（Waller）胜，霍普顿（Hopton）败。沃勒方表征上升、月亮、木星、金星皆强：月亮擢升与木星同，太阳（沃勒方资财/助军之主）落10宫且正在其擢升度数19°白羊，月亮快速增光；霍普顿表征土星（7宫主）在日光之下、入弱、无相位、流离无援，9宫只有火星与南交点主其无后援接济。具体断语：当日交战以沃勒方得胜、霍普顿方受挫败退收场。应期以日为单位，主坐标即交战当日1644年3月29日（起盘当日）。",
+ "direction_claim": "positive_waller_overcomes_hopton",
+ "timing_claim": "window_day_of_engagement_main_coordinate_29_March_1644_the_day_of_battle",
+ "confidence": 0.9,
+ "basis": "卜卦战争胜负：双方表征强弱对比悬殊——1方月亮擢升合木星、太阳擢升居10宫，对7方土星入弱伏光无相无援，按古典强弱与尊贵定胜负。应期尺度：临战当日问，日档，盘面即当日盘。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md",
+  "kb-snapshot/references/calibration.md",
+  "inputs8/AS-007.json"
+ ]
+}

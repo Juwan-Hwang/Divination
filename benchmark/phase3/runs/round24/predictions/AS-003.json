@@ -1,0 +1,14 @@
+{
+ "case_id": "AS-003",
+ "prediction_text": "方向：买得成，卖方可以成交，钱也能赶在付款期限前筹到。卖方表征太阳落7宫受金星（擢升、近7宫宫头）接纳，7宫主即11宫主（问者所望），金星趋三合4宫主土星（房屋之主，土星除逆行/陷宫外无大伤），月亮以刑相传光（长升宫刑，费力而通）。具体断语：交易经一番周折/谈判后成，卖价有望较最初开价530镑有所让减；钱的筹措有迟滞（2宫主水星逆行，与自述六个月才能收回款项相合）但不误付款。应期以月为单位，窗口为付款到期前的数月，主坐标约在六个月内（款项可收回之期）。",
+ "direction_claim": "positive_purchase_effected_and_money_procured_in_time",
+ "timing_claim": "window_within_months_before_payment_falls_due_main_coordinate_within_about_six_months_money_recall_period",
+ "confidence": 0.78,
+ "basis": "卜卦买房：7宫卖方与11宫希望同主、4宫主土星受金星三合且本质不弱主房屋可得；水星逆行只主钱迟不主不成，故降格依据仅为迟滞与周折，不降终局。应期尺度：交易筹款属月档；输入未给成相度数，主坐标依问中六个月收款期定，属推测性时间窗，已计入置信。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md",
+  "kb-snapshot/references/calibration.md",
+  "inputs8/AS-003.json"
+ ]
+}

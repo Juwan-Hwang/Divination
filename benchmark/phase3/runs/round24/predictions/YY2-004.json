@@ -1,0 +1,13 @@
+{
+ "case_id": "YY2-004",
+ "prediction_text": "方向：暂断体壮、近无终象（positive，低置信）。仅据变卦雷天大壮（坤宫四世，壮盛之象）取象，自占寿主精力尚壮、寿程近段未见终期；本卦名原书缺字、逐爻与动爻全缺，无法验世爻/用神旺衰，具体终年不断。应期：年档，具体年支无盘面依据，不妄定主坐标。",
+ "direction_claim": "positive",
+ "timing_claim": "年档（具体年支无盘面依据，不妄定）",
+ "confidence": 0.32,
+ "basis": "输入残损照实注明：inputs8 该例 hexagram 本卦名原书缺字（仅记『之 坤宫：雷天大壮（四世）』）、chart_lines_top_to_bottom 为 null、moving_lines 为 null，仅有年月日时（丙寅年丙申月丁巳日丙午时，旬空子丑）。无本卦、无逐爻六亲、无世应动爻，不臆补装卦、不推旺衰与应期三路。仅按变卦名象意低置信暂断并降置信至0.32；寿元年档下年支无据，timing 不落具体年。对象：自占者本人。",
+ "sources_used": [
+  "benchmark/phase3/runs/round24/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round24/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/inputs8/YY2-004.json"
+ ]
+}

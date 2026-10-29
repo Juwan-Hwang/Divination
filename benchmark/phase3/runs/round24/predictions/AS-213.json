@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-213",
+ "prediction_text": "方向：逃犯往东去了，且可被追回/再获，不会长期逍遥。囚犯以第十二宫头射手与其主星木星（居狮子）为征，第十二宫星座、木星所在星座、天盘象限与月亮所在星座四证一致俱指东方，无一异辞，方位断为正东/东向。复得之据：月亮近上升、离拱木星而趋冲在角宫的太阳，主逃犯行踪将被照见、暴露于光天化日之下而被拿获；木星与水星有相位，主有消息/文书线索可循。木星居第八宫只主其处境危险、躲藏于凶险之地，不改可获的终局。应期（日档）：逃亡为即时近事，窗口为问后数日之内，主坐标在月亮成冲太阳之时，约问后数日内被发现、被拿获之信落定，寻向正东。",
+ "direction_claim": "positive_prisoner_went_east_and_will_be_discovered_and_retaken",
+ "timing_claim": "day-scale: window within a few days, main point within days when the Moon completes her opposition to the Sun, capture/discovery to the east",
+ "confidence": 0.68,
+ "basis": "Direction: sign of 12th, sign of Jupiter (prisoner's significator), quarter of heaven and Moon's sign unanimously eastward = east, the strongest possible direction testimony. Recoverability: Moon near Ascendant separating from trine Jupiter applying to opposition of Sun with both in angles = fugitive brought to light/discovered; Jupiter-Mercury aspect = news/information leads. Jupiter in 8th treated as danger to the prisoner, not as negation of capture. Question's recoverable-or-not is answered positive (he will be recovered/retaken).",
+ "sources_used": [
+  "benchmark/phase3/runs/round24/kb-snapshot/SKILL.md; benchmark/phase3/runs/round24/kb-snapshot/references/western-astro-numerology-runes.md (Lilly classical horary rules); benchmark/phase3/runs/round24/kb-snapshot/references/calibration.md",
+  "benchmark/phase3/inputs8/AS-213.json"
+ ]
+}

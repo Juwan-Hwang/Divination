@@ -1,0 +1,14 @@
+{
+ "case_id": "AS-014",
+ "prediction_text": "方向：偷钱的不是问者所疑的那两名女子/仆妇，而是水星所表的一个男子。火星（所疑之一）居其界与面、土星（所疑之另一方）亦居其界与面，按Lilly规则皆被排除为贼表征；水星落角宫、无本质尊贵、与土星成正合且刑火星，被取为贼之表征——水星性属阳、又与土星火星两阳星相连、月亮在阳性星座趋合火星，合断贼为男性，年少/精瘦灵巧、与文书跑腿或近身侍奉有关联之人。找回与否：月亮趋合上升主火星为失物回向失主之象，主钱可追回至少一部分；但水星合土星受刑，追回不会完整顺利。具体断语：贼为一名水星型男子，钱可部分追回。应期以日为单位，窗口数日，输入无成相度数，不定确日。",
+ "direction_claim": "thief_is_a_mercury_man_not_the_suspected_women_money_at_least_partly_recoverable",
+ "timing_claim": "no_degree_stated_window_within_days_moon_applying_to_mars_lord_of_ascendant",
+ "confidence": 0.6,
+ "basis": "卜卦失窃定贼：以尊贵排除法（居界/面者不取）逐一排除火星、土星表征，再取无尊贵而角宫的水星——此为Lilly本例的取象路径；月亮趋合上升主为回收证词，水星受土星合与火星刑压低回收成色。输入未给月亮成相度数，找回终局证据较贼身份为弱，置信据此定为0.6。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md",
+  "kb-snapshot/references/calibration.md",
+  "inputs8/AS-014.json"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "case_id": "YY-006",
+ "prediction_text": "方向分三问合断，终局单一取正向有归、有复位：①旋归——英宗必归，不死于北。乾为天之巽为风，两卦皆六冲，主行程动荡、去而速返之势不定，但官鬼午火发动化未土（化进、午未合）主动而向归，子孙子水初爻发动，主北地拘束终被冲动。②归期（年档，朝廷远期事，先定年再定月）：窗口为庚午年（1450年）内，主坐标庚午年秋——午年冲初爻子水之动、官鬼午逢值之年，约被掳一年后旋归京师。③归后处境——不立即复位：归后以太上皇之名居南宫、幽禁深宫、无实权，受制于景泰朝数年（两动爻皆化父母土，父母主宫室文书，化土入丑未之库，正是归入宫禁被收藏之象；六冲变六冲，归而不得安位）。④复辟——终能复位：初爻子水化父母丑土，丑为其归宿之支，待丑支填实之年冲开合绊、复登大位，主坐标丁丑年（1457年）复辟成功，再主朝政。置信：中低（输入残损，见basis）。",
+ "direction_claim": "positive: Yingzong returns (c.1450), lives confined as retired emperor, and eventually regains the throne (1457)",
+ "timing_claim": "Year scale: return window within Gengwu year 1450, main coordinate autumn 1450; restoration main coordinate Dingchou year 1457",
+ "confidence": 0.5,
+ "basis": "输入残损：原书只记年月日与卦象，但本输入仅给正统己巳年、未给占时月建与日辰干支，旬空/月建旺衰无从核，动化与六亲链可据而已，故置信降至0.5并在应期上只取年档。用神取官鬼午火（君位之爻）代英宗本人：午火动化未土，午→未为化进，按动化方向核对：未土由午火所生（火生土，泄官而化父母），午未六合主动逢合、归程有合绊待冲。动化方向：官鬼午化进而逢合，子孙子化丑为回头克（土克水）主拘束受伤，均化父母主归入宫室。反转条件：无月日，源绝/化绝诸征无从齐备核验，记未齐备，不以之翻终局。六冲之六冲只定动荡速变之势、不定承受对象；承受对象逐条复述：旋归/幽禁/复辟三断的主语均为英宗本人，与官鬼用神指代链同一。父母丑未为墓库之土，归后居宫禁为收藏象；复辟取子化丑、丑逢值之年（丁丑）为填实应期，冲实（午冲子）一路定庚午归年，逢值（午值）同年同向取之，化神填实（未）一路尺度不合舍之。",
+ "sources_used": [
+  "benchmark/phase3/runs/round24/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round24/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/inputs8/YY-006.json"
+ ]
+}
