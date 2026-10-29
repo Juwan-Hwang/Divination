@@ -32,3 +32,7 @@
 ## 5. 版本谱系（不变）
 
 第一版 final-skill（已收官）；第二版 final-skill-v2（2.0.0）未达标、未打包；holdout11 封存待开。本小结落盘时 HEAD 见标签 phase3-round31。
+
+## 6. 定稿后补遗（2026-10-30 追加）
+
+R31 定稿后迟到两件盲测隔离自报（B11 点名 LY-322／LY-331 两例曾闪见旧轮盲测 basis 片段；B15 为间接暴露）。主持核算结论：平台 (c) 判读稳健（整例剔除仍不立）、(a) 与六壬主判据及 holdout11 不受影响，R31 定稿维持。全文见 runs/round31/ADDENDUM-isolation-disclosures.md；下一任派单须随单附 trigger 定义原文、禁盲测席全仓 grep 查定义（R32 清单增补此条）。
