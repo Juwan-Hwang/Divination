@@ -1,0 +1,17 @@
+{
+ "case_id": "AS-013",
+ "prediction_text": "鱼货能寻回至少大部，货尚在他处近水潮湿之地、未被远运。贼以木星定：木星为盘中唯一游移（peregrine）而落角宫之星、在7宫头天蝎（湿润星座），主贼为与仓栈/驳运相关、为问者所知一方的木星型人物；货物主星水星在双鱼（湿润星座）、福点在巨蟹（湿润），三湿相聚，主货在近水低湿处（河边仓内一类）。水星虽失陷却居其界，又得月亮（福点主）六合、与福点三合，主财有得回之路。",
+ "direction_claim": "favorable (goods largely recoverable, near water; thief a Jupiter-signified person)",
+ "timing_claim": "Day-scale following days: Moon applying by sextile to Mercury (significator of the goods) supports early recovery moves; exact degrees are not given, so no single day is claimed as main coordinate.",
+ "basis": "失窃占取贼法：唯一 peregrine 而在角宫者木星在7宫头为贼主星，天蝎湿润定其涉水/仓栈环境；货物水星、福点分居双鱼、巨蟹两湿润座，象货在近水潮处；水星失陷但在己界、被月亮六合趋合且三合福点，为可回之救应；7宫主火星正离天蝎（其本座）只作贼已离位之旁证。依据 western-astro 篇古典失窃指代与通则(f)：应验对象为鱼货本身。",
+ "confidence": 0.65,
+ "systems_used": [
+  "horary_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md"
+ ]
+}

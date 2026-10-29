@@ -1,0 +1,15 @@
+{
+ "case_id": "LY-533",
+ "prediction_text": "方向 unfavorable：索討房價難成、錢難到手。坎為水之坤為地，二爻、五爻動：本卦坎主險陷重重，索討先已陷於往復；變坤為地，水入土中而被土克收，財象沉埋不露，主對方順受拖延、價款被壓被吞。斷語：此索討短期內要不到全價，縱有回應亦是拖字訣，須防最終不了了之或大打折扣。設定自注『占此應彼』，應驗對象以房價款項本身為承受對象，不轉斷他人災吉（通則f）。",
+ "direction_claim": "unfavorable",
+ "timing_claim": "月檔：窗口三月內，主座標財象填實之土月（辰戌丑未月）亦只主拖延結算而非全得；無明確得財日期可報，明寫無得期。",
+ "basis": "輸入殘損：逐爻裝卦表OCR錯亂未錄、原文未明記月日，旺衰無月日可權衡；僅據卦名本變推得動爻爻位與卦象、用神類別作斷，置信已降，不臆補逐爻六親與干支。 坎/坤逐位比對得二、五爻動；求財以妻財為用神（用神章），本變水入土受克之象主財沉；坎險在前、坤順拖在後，方向同主難索。月日缺失，旺衰不臆斷，置信下調。",
+ "confidence": 0.44,
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

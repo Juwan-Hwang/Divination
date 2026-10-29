@@ -1,0 +1,17 @@
+{
+ "case_id": "AS-004",
+ "prediction_text": "传闻不实：国王并未攻下 Cambridge。上升主（问者一方／议会一方）擢升而强；7宫主（国王一方）正入弱（fall）且受克，主王军一方势衰、无此战果；诸角皆变动、月亮 cadent 且落其不喜之座，主消息飘忽无根、很快被证伪。",
+ "direction_claim": "unfavorable (the report is false; Cambridge not taken)",
+ "timing_claim": "No date coordinate derivable from the positions given; the falsehood belongs to the immediate currency of the report (days-scale news), not a dated future event.",
+ "basis": "Lilly 谣言占法：四角变动主事不实/易变；土星污10宫头、火星污7宫头为主星受损；月亮 cadent 且落不喜之座，主传闻无力；上升主擢升（议会方强）对7宫主入 fall 受克（王方弱），两方强弱与『王已取剑桥』相反，故断传闻假。依据 western-astro 篇古典尊贵与相位、SKILL.md 卜卦自决。",
+ "confidence": 0.78,
+ "systems_used": [
+  "horary_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md"
+ ]
+}

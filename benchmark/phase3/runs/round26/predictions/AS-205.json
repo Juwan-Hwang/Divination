@@ -1,0 +1,17 @@
+{
+ "case_id": "AS-205",
+ "prediction_text": "病人难活，此病为终局之凶。上升被身居盘中、且兼为8宫主之星严重所污；6宫座固定受克、6宫主落固定土象忧郁座，主病沉痼；太阳（时间之光）与6宫主土星在固定座成完好对冲，主生气与病星正面对决而病星得势；月亮近龙尾（Cauda）且受克落上升，主气血败坏。病性为土性固定之痼疾（壅塞忧郁类），危期已在眼前，应以日—周尺度计凶终，不待久拖。",
+ "direction_claim": "unfavorable (the sick will die of this disease)",
+ "timing_claim": "Day-to-week scale: the Sun-Saturn opposition is already perfect in fixed signs, marking the crisis as present/imminent rather than months away; no single day is named, as exact degrees are not given.",
+ "basis": "生死占凶象叠全：上升受8宫主临身所污、6宫固定受克且其主落固定土座、太阳完好对冲土星（6宫主）于固定座、月亮近 Cauda 受克在上升——四路同指凶终，无一救应（无吉星接纳/趋合上升主）。依据 western-astro 篇古典尊贵受克与 Lilly 疾病占法、通则(j)逐项独立指认后合成单一终局。输入上升星座字形 OCR 残损、未据以作断，已降置信。",
+ "confidence": 0.82,
+ "systems_used": [
+  "horary_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md"
+ ]
+}

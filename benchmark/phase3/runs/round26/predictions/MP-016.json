@@ -1,0 +1,17 @@
+{
+ "case_id": "MP-016",
+ "prediction_text": "特朗普胜出、哈里斯落败。2024年11月5日投票、次日凌晨至数日内计票指向特朗普过门槛，当选第47任总统；胜势不在民调声量而在关键州与选举人票最终过半。置信中低：输入只有特朗普生年与『相』字一字问卜，无完整生辰、无卦象，残损已降置信。",
+ "direction_claim": "favorable_to_trump_trump_wins",
+ "timing_claim": "事件型日档：窗口为2024年11月5日投票日至其后数日计票确认，主坐标为2024年11月5-6日选举结果明朗之时",
+ "basis": "按SKILL自决表：具体一事成败用即时决断法，『相』字问卜从梅花/字象一路参断——『相』木目相生、主目见木、视野与名位之象偏向年长男性候选人一方；跨体系以生年参校：特朗普1946丙戌火土成势，2024甲辰年甲木杀星透而戌辰相冲、冲动其竞逐之位，属被激而起、争而得位之象，强于守成。事实优先序(e)：占时选情胶着、民调互领先，故不以民调定胜负，只以字象与年势收敛处落断。输入残损：无日时柱、无对方生辰、无原始卦象，basis只能到生年与字象层级，故降置信。",
+ "confidence": 0.55,
+ "systems_used": [
+  "meihua",
+  "bazi"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/chinese-bazi-ziwei.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "case_id": "LY-504",
+ "prediction_text": "方向：不升（unfavorable）。断语：官鬼亥水为功名用神，卯月休囚、戌日土克，本已无气，又发动化子孙辰土回头克——子孙为剥官之神，化出回头克官，主升迁被驳、功名落空；世爻兄弟巳火上爻动化子孙戌土泄气，自身亦无得官之力；父母卯木虽临月旺居初爻静而不动，文书无发动之助。断目下不能升迁。应期：窗口本月内见分晓，主坐标辰日。",
+ "direction_claim": "unfavorable",
+ "timing_claim": "应期跨度月档（功名升迁终局类先定月档）：窗口卯月内定局，主坐标辰日——官鬼化出子孙辰土填实、回头克落实之期（月档内取点）",
+ "basis": "功名以官鬼为用神：官亥水两现取动爻（两现裁决：取动舍静）；旺衰月休囚＋日克为无气；动化判别：亥水化辰土异五行、辰土克亥水为回头克，克神辰土得戌日拱扶有力、无冲制解法，回头克无解三项同具定凶向；子孙化出克官合千金赋子孙剥官之象。动化方向：回头克成立；反转条件：不成立。",
+ "confidence": 0.7,
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

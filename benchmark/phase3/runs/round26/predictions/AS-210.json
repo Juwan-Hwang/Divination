@@ -1,0 +1,17 @@
+{
+ "case_id": "AS-210",
+ "prediction_text": "有利，能得所求之职/擢升：求职者终将取得该官职或 preferment，但得之路径靠一位土星式的人物（年长、持重、有权柄者）的接纳与提携，且有迟滞，不是靠他所倚仗的那位太阳式『朋友』——那位朋友临南交点、与上升相冲，实为假友，会暗中妨碍或失信，不可恃。近段先有文书/言语上的小阻（月离水星之刑），远段月亮入第十宫趋合土星三合而事成。应期以月为单位，月土三合完善之时为成事主坐标。",
+ "direction_claim": "favorable",
+ "timing_claim": "月档：窗口为问后数月内，主坐标为月亮与土星三合完善所指之月量级；无确切度数可推日档，故不报单日",
+ "basis": "卜卦占星：上升与金星为求测者，第十宫为官职；月亮恰居第十宫（事已临官位）且趋三合土星，土星在上升擢升、与金星互容接纳（土星受金星、金星受土星）——有权柄者真心接纳，成事主线成立。第十一宫主太阳（所托之友）在第七宫冲上升且同南交点，主该友不可恃、反成阻力，故断成事不经此友。月亮先离水星之刑，只主前段小口舌阻滞，不翻终局。输入仅散文位置、无度数全盘，降置信。",
+ "confidence": 0.7,
+ "systems_used": [
+  "horary_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md"
+ ]
+}

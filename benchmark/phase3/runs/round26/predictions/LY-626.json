@@ -1,0 +1,15 @@
+{
+ "case_id": "LY-626",
+ "prediction_text": "不利：子病勢重、吉少凶多。澤風大過卦象棟橈過甚，主病勢已逾常度、負荷過重；本卦屬震宮木，空亡午未，而大過卦中子孫一線（午火）正落旬空——子病用神子孫空亡，藥力/生機待實難即濟，近段病勢沉重。終局單判不利：此病難望速愈、有加重之虞。輸入殘損嚴重：原書未記月日、逐爻裝卦表未能可靠還原（輸入文明示），旺衰日月、動爻原神俱不可核，故置信低、應期不定，只斷病勢層級、不妄斷病位（病位無卦象依據）。近段沉重；遠段無動變盤面可指認觸發，一段終局，遠段無據不報。",
+ "direction_claim": "unfavorable",
+ "timing_claim": "無應期定點：月日與逐爻俱缺，應期三路無支點可列，明寫無應期；不以空亡午未臆報出空日期。",
+ "basis": "六爻病占：用神子孫。據輸入可核者僅卦名大過、震宮、空亡午未三項，chart_lines空且輸入文明示月日未記、裝卦不可靠還原——殘損照實註明、不臆補。卦象大過主過甚沉重（象意層級）；子孫午火落空亡範圍為可由卦宮納支與空亡互證之弱據，空在病占只定待實之期、愈否仍須旺衰——旺衰無月日不可判，故只降格斷病勢重、終局取不利而置信低。病位取象復核：依據鏈缺環，只許斷病勢，明寫病位不妄斷。對象復述：主斷語主語為『子（患病之子）』，對回所問子病，非占者本人。終局反轉掃查盤面不足、不翻轉。依據：kb 病占、空亡節與精通檢查表殘損口徑，SKILL.md 通則(c)(f)(i)(l)。",
+ "confidence": 0.35,
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "case_id": "BZ-302",
+ "prediction_text": "批命落点：少年中年富贵得意（占题已给其显贵事实，与命书前段相合），终局则凶——『受累于吴』为末句主断：一生最后因与『吴』相关之人/势力（姓吴之人或吴方牵连）受累招祸，官位与性命之终局因此人此事而败，前段富贵不能覆盖末段之凶，属先贵后败、晚节与终局受牵连者累。前贵是事实层、末凶是终局层，两段分判，终局方向取凶。",
+ "direction_claim": "unfavorable",
+ "timing_claim": "年档/运档：终局应在中晚年得势之后，具体年份无四柱无从推定，明写无据不报年份；主坐标只定在『显贵之后受吴累』之终局段。",
+ "basis": "输入残损严重：无缪斌四柱、无命书全文，仅有轶事转述与末句四字，无法排盘验格局大运，basis据实注明并降置信。断语中『受累于吴』四字为输入context明载之命书末句（非金标文件，系占题给定事实），按通则(e)事实优先与(f)对象复核：承受对象为缪斌本人、牵累来源为吴相关人/势，不转断他人。依据SKILL.md通则(e)(f)(i)两段式（近段贵、远段凶，远段触发即末句所指吴累）。",
+ "confidence": 0.35,
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

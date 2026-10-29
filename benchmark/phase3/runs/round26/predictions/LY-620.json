@@ -1,0 +1,15 @@
+{
+ "case_id": "LY-620",
+ "prediction_text": "不利：長輩此次功名不成、難得進展。巽為風變乾為天，變卦乾金克本卦巽木，卦氣由巽入轉受金克，功名之途受抑；官星一線（巽卦官鬼酉金）在卯月金囚死、又逢辛巳日火克，官爻月日俱傷而無生扶，謀官求名無力。終局單判不利：此番功名落空或僅有虛名聲勢（乾象）而無實授。輸入殘損：原文未列逐爻裝卦表、未記宮與空亡，世應、動爻與用神確位無法核實，故降置信，應期不強定。",
+ "direction_claim": "unfavorable",
+ "timing_claim": "無可靠應期定點：逐爻與動爻缺失，應期三路（沖實/填實/逢值）無盤面支點可取，明寫無應期；僅以月/年檔觀望，不報具體日期。",
+ "basis": "六爻：所問功名取官鬼（兼父母文書）為用。原文僅記卯月辛巳日與卦名巽變乾，chart_lines為空、宮與空亡未記——輸入殘損照實註明，不臆補裝卦。僅據可核者作斷：卦變乾金克巽木（卦變生克），官鬼酉金在卯月休囚死、巳日火克，無日月生扶，按旺衰綱（月建日辰為綱）官星無氣。終局反轉掃查無可核判據（盤面不全），不翻轉。對象對齊：所問對象=長輩（代卜），用神官鬼指向其功名，應驗對象=該長輩，同一。門類應期對表：功名發案條須父母爻狀態五分對位，盤面缺爻無法對位，明寫無法查表。依據：kb 六爻旺衰、卦變生克墓絕節，SKILL.md 通則(b)(l)與殘損降置信口徑。",
+ "confidence": 0.35,
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

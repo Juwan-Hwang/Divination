@@ -1,0 +1,17 @@
+{
+ "case_id": "AS-305",
+ "prediction_text": "特朗普险胜：盘面势均力敌的判断成立，但最终天平倒向唐纳德·特朗普——他以关键摇摆州的窄幅优势拿下选举人票多数，卡玛拉·哈里斯普选票可接近甚至占优亦不足以翻盘。选举夜计票胶着、部分州迟迟不能宣布，但胜负归属仍是特朗普，不出现哈里斯后来居上的反转。",
+ "direction_claim": "favorable",
+ "timing_claim": "月档：窗口为2024年11月，主坐标为投票日（11月5日）后数日内胜负落定；依据为单次选举事件尺度",
+ "basis": "同AS-304类独立作断：输入自述原作者亦承认盘面势均力敌、极难判断，本例无任何盘面数据可复核（残损），故按事实优先序取舍——执政阵营包袱与摇摆州结构压过叙事声量，险胜归特朗普，并保留『差距小、计票胶着』的量级表述，不拔高为大胜。方向favorable指明确胜方为特朗普。置信中低。",
+ "confidence": 0.53,
+ "systems_used": [
+  "western_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md"
+ ]
+}

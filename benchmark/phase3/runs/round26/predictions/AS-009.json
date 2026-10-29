@@ -1,0 +1,17 @@
+{
+ "case_id": "AS-009",
+ "prediction_text": "狗能找回，仍在伦敦城内，应往城的西南偏西一带（western sign、southern quarter verging west 所指方位）去寻。狗主星与上升同三合性（同属本城气）且趋合三合6宫头，主狗未出城、将有着落；太阳于下个星期一趋合上升主土星之向相位，主寻获应期在下周一前后。",
+ "direction_claim": "favorable (dog recoverable, within the city, west-southwest)",
+ "timing_claim": "Day-scale: recovery indicated by the following Monday, when the Sun perfects its dexter aspect to Saturn, lord of the Ascendant (main coordinate).",
+ "basis": "失物/小畜占：6宫及其主主小犬；狗主星落西方星座、南象限偏西，定搜寻方位为城之西南偏西；狗主星与上升同 triplicity，主仍在伦敦本城；其趋合三合6宫头为得回之象；月亮落风象在日光下、与日同在8宫，只主一时难见/藏匿，不翻得回主断；太阳下周一与上升主成相作应期。依据 western-astro 篇宫位指代与趋合规则、通则(f)应验对象为狗本身不对回主人。",
+ "confidence": 0.7,
+ "systems_used": [
+  "horary_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md"
+ ]
+}

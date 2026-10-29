@@ -1,0 +1,15 @@
+{
+ "case_id": "LY-543",
+ "prediction_text": "方向 unfavorable（就『出走遠避』而言）：兵到之時，一家不宜倉皇遠走。天雷无妄之雷天大壯，二、三、五、六爻動，動爻四見主局勢紛亂多變；无妄卦義首戒妄動——无妄之災多由自亂其行而招，變大壯雖主壯行有力，卻是四陽躁進之象，亂中舉家遠行正犯壯之觸藩。斷語落象：宜就近覓堅固可恃之處暫避、守靜待兵過，不宜攜家遠遁於途；遠行途中之險大於就近隱避之險。此為趨避取向占，方向就遠避一途單判 unfavorable，近避守靜為斷語中的取捨路徑。",
+ "direction_claim": "unfavorable",
+ "timing_claim": "日檔：窗口兵到前後數日內，主座標即兵鋒到達之當日以就近隱避為應，不報遠行日期。",
+ "basis": "輸入殘損：逐爻裝卦表OCR錯亂未錄、原文未明記月日，旺衰無月日可權衡；僅據卦名本變推得動爻爻位與卦象、用神類別作斷，置信已降，不臆補逐爻六親與干支。 无妄/大壯逐位比對得二、三、五、六爻動；趨避門類對表無成文應期取法（chinese-liuyao-meihua.md門類應期對表明載趨避章只有個案應時、無通法），故應期只定日檔窗口、不套他門類條文；定性據无妄戒妄動之辭義（通則d辭義核對：无妄主不可妄行）與四動紛亂之勢。",
+ "confidence": 0.4,
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

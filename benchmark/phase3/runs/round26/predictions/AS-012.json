@@ -1,0 +1,17 @@
+{
+ "case_id": "AS-012",
+ "prediction_text": "求不到这份 parsonage（教职俸禄），此求无成。七重否定俱全：土星受损落上升污损此问；9宫主木星（教职主星）与上升主、月亮皆无相位；上升主与月亮皆不在9宫；主星间无传递光、无收集光、无互容；月亮离三合而趋冲水星（3宫主），主有第三方言辞之阻；金星在7宫冲上升，主有公开对头阻挠。应按无成收束，不必再强求。",
+ "direction_claim": "unfavorable (benefice not obtained)",
+ "timing_claim": "No timing coordinate: no applying aspect between the significators exists from which a date could be taken; the denial is the final judgment for this suit.",
+ "basis": "仕宦/9宫占：以输入所列 Lilly 七项否定逐一核对——无相位、无入宫、无传光集光、无互容为不成之全套证据；月亮趋冲3宫主与金星在7宫冲上升只加重阻挠方指认，不另立应期。依据 western-astro 篇（成事须主星趋合/接纳/传光，俱无则不成）与通则(b)无据不拔高。",
+ "confidence": 0.85,
+ "systems_used": [
+  "horary_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "case_id": "WP-013",
+ "prediction_text": "Labour under Keir Starmer wins the UK general election of 4 July 2024, defeating Rishi Sunak's Conservatives. The roughly twenty-point Labour poll lead converts into a clear Labour victory and Starmer becomes Prime Minister; the election falling in Cancer (the sign of home/nation) with Sunak damaged by the D-Day memorial early-departure episode confirms the governing party's fall.",
+ "direction_claim": "favorable (for Labour / Starmer)",
+ "timing_claim": "Election day 4 July 2024, the fixed coordinate in the question.",
+ "basis": "Mundane election judgment: a sustained ~20-point lead (fact in setting) is far beyond any margin a chart signature in the supplied material could overturn; the incumbent PM carries a fresh reputational affliction (leaving the D-Day service early) in the immediate pre-election period, and a Cancer-period election foregrounds the national-home mood against the incumbent government. Direction: decisive change of government to Labour.",
+ "confidence": 0.78,
+ "systems_used": [
+  "western_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

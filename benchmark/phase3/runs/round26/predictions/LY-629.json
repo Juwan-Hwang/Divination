@@ -1,0 +1,15 @@
+{
+ "case_id": "LY-629",
+ "prediction_text": "有利（偏吉而力弱）：此墳地風水以吉論，葬之無大礙。澤山咸山澤通氣、感應和合，艮山得兌澤潤下，山水相得為墳地可用之象；靜卦無動主地氣安穩不變。空亡子丑所空者為子孫/妻財一線，於墳地主用父母/世爻非正空，不傷主體。終局單判有利：地可用、後人感應和順，惟吉力只到安穩層級，不拔高為大發之吉地（無旺衰盤面為據）。輸入殘損：未記月日、逐爻未錄，父母爻旺衰與世應確位不可核，置信低、應期（風水非事件應期）不適用。",
+ "direction_claim": "favorable",
+ "timing_claim": "無應期：墳地風水為格局吉凶之問、非事件型應期之問，且月日逐爻缺失，明寫不適用應期定點、無應期。",
+ "basis": "六爻墳地：用神父母（地/塋）兼世爻。輸入僅記咸卦靜卦、兌宮、空子丑，chart_lines空、月日未記——殘損照實註明。據可核者：咸卦感應和合、艮兌山澤通氣之象（象意層級），靜卦主安穩；空亡子丑不空父母未土一線，主體不落空。等級校準（通則b）：無旺衰生扶盤據，吉只給安穩一級、不升格。終局反轉掃查無盤面判據、不翻轉。對象對齊：應驗對象為墳地本身及其葬者之家，非占者本人身體之斷，已分開。依據：kb 用神與卦象節、精通檢查表，SKILL.md 通則(b)(e)(l)。",
+ "confidence": 0.35,
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

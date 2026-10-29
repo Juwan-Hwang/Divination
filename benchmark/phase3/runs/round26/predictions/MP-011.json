@@ -1,0 +1,15 @@
+{
+ "case_id": "MP-011",
+ "prediction_text": "三组胜算排序为：赖清德/萧美琴第一（当选）、侯友宜/赵少康第二、柯文哲/吴欣盈第三。蓝白合破局、三脚督确立后，赖以相对多数稳定领先，侯柯分食在野票而互压，无一方能在47天内翻盘整合。应期：2024年1月13日投票定局。",
+ "direction_claim": "favorable",
+ "timing_claim": "应期单位为日（选举事件）：主坐标为2024年1月13日投票日",
+ "basis": "输入残损：只有出生年、无出生月日时与出生地，按八字篇『必需输入』不能排全四柱与大运，只取年柱与流年作弱据，主断以通则(e)事实优先序用占题给定的选情/民调事实收束，故置信下调。方向以题中第一主体（或标题主体）为承受对象计。方向以第一主体赖清德计（favorable=赖居首当选）。事实依据全在占题：11月23日蓝白合破局、三组登记完成、在野分裂为既定结构；三人均无完整生辰输入，不作八字全盘，年柱弱据不参与排序，排序只由选情结构定。",
+ "confidence": 0.7,
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

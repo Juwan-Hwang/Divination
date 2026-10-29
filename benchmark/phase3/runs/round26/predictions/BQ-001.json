@@ -1,0 +1,17 @@
+{
+ "case_id": "BQ-001",
+ "prediction_text": "不利，父寿将尽：卧疾三年、昨日气尽复苏是回光返照式的一时苏醒，不是转愈。父亲将在极短时间内再次气绝而逝，寿数以日计，不以月计——主坐标落在本次庚辛日周期内、数日之内（同日或紧随数日）离世，家人应作临终准备，不宜再抱病愈之望。近段苏醒能言（兑为口、为言），远段变乾为天、气归于天，言尽而气绝。应验对象复述：寿数断语主语为所问之父本人，非求卜者。",
+ "direction_claim": "unfavorable",
+ "timing_claim": "日档：窗口为占后数日内，主坐标为本次庚辛日本周期内气绝之日（同日量级优先）；依据为病人气尽复苏的近病/临终尺度与庚辛日本宫之日坐标，回溯/临终类只细化到日不虚报时辰",
+ "basis": "筮占/周易文本占为主、参六爻象：遇兑之履，兑为口、为言、为呼吸之门，父昨日气尽复苏正应兑口一开之象，只主暂能出气发声；兑变为乾（原文自述兑变为乾、变履），乾为天，气自口出而归天，主生气外泄无根；原文又自述今日庚辛本宫火，火克兑金（庚辛金），本宫受克、病体无生扶。卦盘残损：原文无六爻全盘、无动爻爻位与月日全据（chart_complete=false），只能据本卦兑、变卦履/乾与断语自述卦象作断，已在basis注明并降置信，不臆补全盘。病占对象复述已核：主语为父本人。",
+ "confidence": 0.55,
+ "systems_used": [
+  "yijing"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-yijing.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md"
+ ]
+}

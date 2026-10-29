@@ -1,0 +1,17 @@
+{
+ "case_id": "AS-213",
+ "prediction_text": "对追捕方有利、逃犯不利：逃犯向东而去（四项方向证据一致向东），且将被重新抓回/收监，不会长期逍遥。其行踪会被显露——月亮近上升、又离木星三合而趋冲太阳且双方居角宫，主其人藏不住、被照见发现；木星（逃犯）居第八宫亦主其处境凶险、自由短暂。应期以日为单位，事发后数日内即有消息/被获，月日冲相完善之时为主坐标。",
+ "direction_claim": "favorable",
+ "timing_claim": "日档（近事追逃）：窗口为逃后数日内，主坐标为月亮与太阳冲相完善所指之日量级；依据为角宫与月近上升所主之速应",
+ "basis": "卜卦占星行人/逃犯法：逃犯以第十二宫头射手及其主木星（在狮子）为significator；第十二宫星座、木星所在星座、天区与月亮所在星座四证一致向东，故断东向。木星居第八宫（凶宫）、月亮近上升、离木星三合后趋冲太阳且在角宫——行踪显露、被发现之象强于成功远遁之象；木星与水星有相位，主消息/言语泄露其所在。综合断可复获。方向自述favorable指对所问『可否找回逃犯』有利。输入仅散文位置，降置信。",
+ "confidence": 0.64,
+ "systems_used": [
+  "horary_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md"
+ ]
+}

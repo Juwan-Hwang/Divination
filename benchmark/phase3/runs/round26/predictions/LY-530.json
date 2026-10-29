@@ -1,0 +1,15 @@
+{
+ "case_id": "LY-530",
+ "prediction_text": "方向 favorable：家宅人口平安。水天需之乾為天，四爻、六爻動：需主飲食安居、待時而安，本象即家宅有養無驚；變乾純陽剛健，宅氣由需待轉為健行流通，無坎險久陷之象（本卦坎在上體，動後上體成乾，險象被改）。斷語：人口平安無大災病之兆，惟需卦本義戒急進，宅中行事守常待時則安。此問單點平安與否、無近遠兩段，不適用兩段式。",
+ "direction_claim": "favorable",
+ "timing_claim": "無應期：平安與否為狀態占，無事件應期；不臆造日期。",
+ "basis": "輸入殘損：逐爻裝卦表OCR錯亂未錄、原文未明記月日，旺衰無月日可權衡；僅據卦名本變推得動爻爻位與卦象、用神類別作斷，置信已降，不臆補逐爻六親與干支。 由需（下乾上坎）與乾為天逐位比對得四、六爻動；需象主安居飲食、變乾去上體之坎險，依卦象與動化方向定吉（chinese-liuyao-meihua.md動化方向核對：只就本變結構論，不臆指逐爻六親）。",
+ "confidence": 0.44,
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

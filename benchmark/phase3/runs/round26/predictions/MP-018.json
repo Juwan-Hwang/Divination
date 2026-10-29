@@ -1,0 +1,17 @@
+{
+ "case_id": "MP-018",
+ "prediction_text": "曾俊华不能当选。民望最高但选委会票不足，2017年3月26日投票落败，由获北京支持的林郑月娥当选；曾得票为次席、明显落后，非险败。置信中上：无完整四柱（仅知1951年生、4月21日），以事实层与生年参断并降置信。",
+ "direction_claim": "unfavorable",
+ "timing_claim": "事件型日档：窗口为2017年1-3月参选至投票期，主坐标为2017年3月26日投票日落败定局",
+ "basis": "事实优先序(e)居首：本题为1194人选举委员会小圈子选举，传媒已指对手获中央支持、选情占优，民望在小圈子内不转化为票源——此事实直接压住曾方。生年参校：曾1951辛卯，2017丁酉流年酉卯相冲，冲其年根，属根动而位不稳、争位受冲之象，与落败自洽；八字篇格局须回扣十神宫位，然输入无月日时全柱，不臆补四柱，只以生年冲象为辅证。两路（事实票源、流年冲年根）同指不利，故断不能当选。",
+ "confidence": 0.68,
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/chinese-bazi-ziwei.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md"
+ ]
+}

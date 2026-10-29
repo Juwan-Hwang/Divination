@@ -1,0 +1,17 @@
+{
+ "case_id": "AS-209",
+ "prediction_text": "混合而偏不成于国王大计：(1) 爱尔兰援军一事，国王能谈成/调来某种援助或达成停战式安排，确有外援向其靠拢之象，但这援助与议会正面相冲、招致更大敌对，且力量迟到、不足以害倒议会，不能扭转战局——有援而无实效。(2) 王后一事较成：王后将自北南进、与国王会合，会合能实现；但其主星土星换座入白羊陷落，主会合之后其军队与声势转衰、行程有惊险损耗，不是全程昌盛。会合应期以月为单位，月亮距与土星三合尚差三四度，主坐标约三至四个月量级。",
+ "direction_claim": "mixed",
+ "timing_claim": "月档：两问共用一图；王后会合窗口为问后数月内，主坐标约三至四个月量级（月亮距土星三合约三四度）；爱尔兰援军同为月档迟到之援，无日档坐标",
+ "basis": "卜卦占星一图两问：国王以月亮为significator，月在巨蟹入庙、居第十宫、增光，除迟缓外无大凶——国王本人根基未坏，故能有所谋取；第十一宫（援助）主太阳在第七宫擢升、趋第十一宫头但尚差六度且正冲上升（议会）——援助存在且强，却迟六度、且以冲议会的方式到来，主援成而招敌、效用受限。王后以土星（第十宫起第七宫即第四宫之主）为significatrix，土星正换座入白羊陷落——行程后段转衰；月亮距土星三合约三四度给出会合之期，会合可成而后势衰。输入仅散文位置，降置信。",
+ "confidence": 0.62,
+ "systems_used": [
+  "horary_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md"
+ ]
+}

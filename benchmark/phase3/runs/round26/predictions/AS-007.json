@@ -1,0 +1,17 @@
+{
+ "case_id": "AS-007",
+ "prediction_text": "Waller 一方获胜，Hopton 败。Waller 方：月亮擢升合木星，其2宫／助力主太阳在10宫且正居擢升度数19°白羊，主其军得力得势；Hopton 主星土星为7宫主，落陷（fall）、在日光下（sub radiis）、游移无相位，主其无援无力；9宫只有火星与南交点，主 Hopton 后援未备。胜负就在交战当日（1644年3月29日）分晓。",
+ "direction_claim": "favorable (to Waller; Hopton overcome)",
+ "timing_claim": "Day-scale, same day: the figure was erected for the day of engagement, 29 March 1644; the Moon swift and increasing, 11° from Venus, supports decision that day.",
+ "basis": "卜卦战争占：上升、月亮、木星、金星归 Waller，土星（7宫主）归 Hopton；逐星对决——月亮擢升合木星、太阳居10宫擢升正度，皆强；土星 fall、sub radiis、peregrine、无任何相位，四重弱象；9宫（对方后援位）仅火星与南交点，主 Hopton 无供给。依据 western-astro 篇尊贵计分与 SKILL.md 通则(b)等级与强度同级，故断明确获胜而非小胜。",
+ "confidence": 0.85,
+ "systems_used": [
+  "horary_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md"
+ ]
+}

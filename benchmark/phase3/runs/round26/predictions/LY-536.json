@@ -1,0 +1,15 @@
+{
+ "case_id": "LY-536",
+ "prediction_text": "方向 unfavorable：子占父病，病難速愈、主沉重。地風升之地水師，僅三爻動；用神父母亥水（題給）。升本有漸進之象，然變師下體成坎水，師主眾聚興動、坎主險陷，病占變出坎險在內卦，主病勢由漸轉沉、纏綿難拔；三爻獨動而用神亥水之動靜旺衰盤面不可考，無原神生扶之明據可援。應驗對象復述（通則f病占專條）：承受對象為父，應驗對象同為父（父母亥水），同一性成立；子孫藥神之斷不轉落父身。斷語：父病短期內不見輕減，防入險之候，終局單判 unfavorable（通則l）；惟用神狀態殘損，不斷不治、不斷死。",
+ "direction_claim": "unfavorable",
+ "timing_claim": "月檔（通則k近病終局不落日）：窗口一月內，主座標亥水用神逢值之月內水旺之期為病勢定性之點；愈期無據不報，明寫無愈期。",
+ "basis": "輸入殘損：逐爻裝卦表OCR錯亂未錄、原文未明記月日，旺衰無月日可權衡；僅據卦名本變推得動爻爻位與卦象、用神類別作斷，置信已降，不臆補逐爻六親與干支。 題給用神父母亥水；升/師逐位比對得三爻獨動，變卦下體成坎（險）。病占原神存續與用神旺衰因逐爻、月日俱缺無從驗（chinese-liuyao-meihua.md病占諸節），故只據本變險象定方向並守決策序第7步：三類終局條件不齊，不直斷死。",
+ "confidence": 0.4,
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

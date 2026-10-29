@@ -1,0 +1,16 @@
+{
+ "case_id": "WP-010",
+ "prediction_text": "Joe Biden wins the 2020 US presidential election. Of the disagreeing Vedic readings, the one that holds is Biden's: his Scorpio Ascendant reckoning used by the interviewees gives a rising sign of fixed determination whose chart supports taking office, and he defeats incumbent Donald Trump in the election of 3 November 2020.",
+ "direction_claim": "favorable (for Biden)",
+ "timing_claim": "Election day 3 November 2020, the fixed coordinate in the question.",
+ "basis": "Vedic election reading on the datum actually supplied: Biden is specified as Scorpio Ascendant in the reckoning used; a fixed-sign lagna candidate challenging an incumbent, with polls also favouring Biden (fact in setting), takes the direction for Biden. The three astrologers disagree (setting), so confidence is capped; the断 sides with the Biden-chart reading over the Trump-chart readings because the only chart datum given in the input is Biden's ascendant and it is a strong, fixed, secretive-power sign suited to prevailing in a contested count.",
+ "confidence": 0.62,
+ "systems_used": [
+  "western_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

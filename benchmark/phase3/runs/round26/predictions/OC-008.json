@@ -1,0 +1,17 @@
+{
+ "case_id": "OC-008",
+ "prediction_text": "行运权位成就足级：乙木身弱杀旺有印化，主军政之路，位至省主席级与使节要职，是由武而文、由内而外的显宦命。中年丙寅丁卯木火运身得根、食伤制杀为一生高峰；晚年运转平和，退居海外安享高寿，寿近九十，晚景不败。",
+ "direction_claim": "favorable",
+ "timing_claim": "命造年档：高峰在丙寅、丁卯运段（约中年四十至六十岁，身根得地、制杀建功之期），晚年戊辰己巳运平吉收束",
+ "basis": "八字篇：戊子辛酉乙未己卯，乙日酉月辛杀透，杀旺攻身；子正印透年化杀、卯未半合木局为日主之根，杀印相生破而有救。特格未命中（有根有印）。主线：病在辛金杀旺，救在子印与卯未木根，用神取水木。峰值三核对：丙寅丁卯运木火——运支寅卯为日主得地通根、运干丙丁食伤制杀呼应，否决三条（合绊用神/冲用神根/透忌通根）未命中，定峰值；早年壬戌癸亥印运只主资历积累。终局戊辰己巳财火运独立判定平吉、与贵显定性对表。病字辛金，病位主肺肝筋；破耗之因在财星己土生杀之年因军政耗费，非私财大破。",
+ "confidence": 0.65,
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/chinese-bazi-ziwei.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md"
+ ]
+}

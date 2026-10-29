@@ -1,0 +1,15 @@
+{
+ "case_id": "LY-210",
+ "prediction_text": "寿元有利，主长寿、中晚年仍有根气，不主短夭。世爻兄弟未土在辰月土旺相，虽乙卯日木克世，克不伤旺土之根；五爻父母巳火动来生世未土，长辈、医药之生扶入世。世动化子孙酉金，酉金在辰月得土生为相，化出福神而非化鬼、化绝，福神有气主晚年有福、寿基不绝。近段日克主一时体弱多病扰，远段触发为世化子孙酉金指向酉年需防泄气与冲卯之关，但不足以推翻世旺得生之终局。应期尺度为年档：主坐标取酉年为晚年关口年，须养防，不作卒年断。",
+ "direction_claim": "favorable",
+ "timing_claim": "年档（寿元问，先年不落日月）；窗口为终身，晚年关口主坐标为酉年（世化子孙酉金值年），无日月级应期",
+ "basis": "自占寿看世爻兼子孙福神。世兄弟未土辰月旺相；日卯木克为日克不伤旺根（决策序1-2步）。父母巳火动生世（火生土），动化兄弟未土为本爻所生之泄化，不克世。世未动化子孙酉金：土生金泄而化福，酉金辰月相、有根，非化空化绝（甲寅旬空子丑，酉不空）。按通则(i)(j)：近段日克主病扰、远段化酉为触发只作关口提示，逐段核对后终局仍从世旺得生。依据references/chinese-liuyao-meihua.md决策序、化进退复核。",
+ "confidence": 0.6,
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

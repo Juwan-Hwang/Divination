@@ -1,0 +1,17 @@
+{
+ "case_id": "AS-302",
+ "prediction_text": "偏有利但曲折：未来六个月内新冠疫苗前景是真突破而非空谈——多款疫苗将报告高有效率结果、获紧急授权并开始接种，时间落在问后一至两个月内（2020年11至12月量级）先见决定性消息，随后数月逐步铺开；但供应、分配与变异株/接种速度使疫情不会在六个月内结束，冬季先有一波加重，至六个月末（2021年春季）是『疫苗已成、疫情未清』的局面，死亡与感染高峰与希望消息交错出现。",
+ "direction_claim": "favorable",
+ "timing_claim": "月档：窗口为2020年10月后六个月，主坐标为问后一至二个月内（2020年11-12月量级）的疫苗有效性/授权消息之月；依据为问题自设六个月尺度",
+ "basis": "西洋占星行运读法按问题尺度定月档：问时三期试验多款并进，盘面输入未提供（残损：无星盘、无行运数据），只能据『多候选并进+冬季呼吸道病加重』的事实约束与土木换座水瓶（科学、集体接种技术落地）之象独立作断：技术突破成立、群体层面收尾未成，故方向定向疫苗前景favorable、疫情整体仍严峻，两者分开写明。无盘面依据链可回扣，置信低，不臆补星历度数。",
+ "confidence": 0.5,
+ "systems_used": [
+  "western_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md"
+ ]
+}

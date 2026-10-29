@@ -1,0 +1,15 @@
+{
+ "case_id": "LY-513",
+ "prediction_text": "unfavorable：終身無實授功名。業已援例只得虛銜/例監之名，官鬼與父母俱不上卦，世爻子孫辰土持世克官，官星無現無憑，難以入仕得缺。終局單判為無功名。",
+ "direction_claim": "unfavorable",
+ "timing_claim": "年檔（終身尺度）；無功名終局，無應期主座標；援例之名已在問前，不另報得官之期。",
+ "basis": "火山旅靜卦，離宮火。對象：所問=求測者終身功名，用神=官鬼（水），應驗對象=本人，同一。用神不上卦：卦中無水爻，父母木亦不上卦；變爻無（靜卦），日月巳月乙卯日，日月支巳卯非官之水親，故入伏神路，伏官在巳月水囚死、無氣。世子孫辰土巳月相持世，土待克水官，子孫持世克官。旺衰：官伏囚死無生扶，飛伏無出路可據。四路：本氣-／元忌仇-／動化0／世應不計；合參敗向。動化方向：無動爻；反轉條件：伏神引撥四項不全（伏無氣、飛開與引撥未同具），不翻轉。六爻篇用神章、飛伏有用六無用五、通則(l)。輸入無性別等不影響官取用。",
+ "confidence": 0.66,
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "case_id": "LY-454",
+ "prediction_text": "方向：吉（favorable），道考可得较好名次。断语：世爻父母申金为文书名次之神，发动化父母酉金，同五行相邻申化酉为化进神，主名次前进、等第向上；父母虽亥月泄气休囚，幸得戌日土生扶，动而化进不以休囚废进（进退章：得日月生扶者化进仍进），断可入选且名次靠前，非落榜之象。应期：窗口旬内，主坐标酉日（化神填实值日）。",
+ "direction_claim": "favorable",
+ "timing_claim": "应期跨度日档（考试等第以放榜/值日为日尺度近事）：窗口旬内，主坐标酉日——父母化进之酉金填实值日",
+ "basis": "考试以父母为用神（兼看官鬼）：父母申金世动，化进判别同五行相邻前进成立；化进证据链：化神酉金得戌日生扶有力、不空不破，进势成立，应期转填实（合流E项化空资格附则同理）；官鬼两现戌丑皆土静而不克父母，无忌神发动克用。动化方向：化进成立；反转条件：不成立。门类应期对表：考试类首选化神填实，候选内有点，取酉日。",
+ "confidence": 0.68,
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

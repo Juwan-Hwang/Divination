@@ -1,0 +1,17 @@
+{
+ "case_id": "AS-011",
+ "prediction_text": "这门亲事能重新撮成、终可成婚。先有一段难处：月亮离男方主星后空亡、再趋冲女方主星太阳，主起初梗阻与悔意；但木星擢升趋合六合男方主星土星（7宫主）、并把土星之光传递给女方主星太阳，途中无 prohibition／abscission／frustration 截断，主有贵人居中传递而事成。男方须先行动：6月19日近午先一步示意；成就主坐标在6月27日（相关相位成相之日）。",
+ "direction_claim": "favorable (match revived and effected)",
+ "timing_claim": "Day-scale within June: first move 19 June near noon (as framed in the input); perfection/main coordinate 27 June, when the transferring aspect perfects.",
+ "basis": "婚姻占：太阳（上升主）＝女方，土星（7宫主）＝男方，土星在南角合火星落固定土象而显，主男方迟重且有火星之梗；月亮空亡趋冲太阳为近段阻滞；决定性一路是木星擢升六合土星并 transfer 光至太阳、无截断地成相（输入载6月27日成相），属收集/传递光之成事结构；金星与月亮、太阳与金星间互容为旁助。依据 western-astro 篇 translation of light 与接纳规则、通则(i)(j)远段翻转须有触发——此处触发即木星传递成相。",
+ "confidence": 0.72,
+ "systems_used": [
+  "horary_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md"
+ ]
+}

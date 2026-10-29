@@ -1,0 +1,16 @@
+{
+ "case_id": "WP-005",
+ "prediction_text": "Donald Trump wins the 2016 US presidential election. The astrologer who alone picked Trump out of 17 Republicans to take the nomination — reading Trump's chart as the rising, winning figure of the whole cycle — follows the same chart through to the general election: Trump defeats Hillary Clinton on 8 November 2016 despite the polls favouring Clinton.",
+ "direction_claim": "favorable (for Trump)",
+ "timing_claim": "Election day 8 November 2016, the fixed coordinate in the question.",
+ "basis": "Within-cycle consistency of the chart reading: the one panel astrologer identified in the setting had already, against the field, picked Trump as Republican nominee when 17 contested it — that reading rests on Trump's natal strength for this cycle, not on polls; the same basis extended to the general election gives Trump the presidency. Polls (Clinton ahead) are treated as the weaker signal against the chart-based pick that already proved out at the nomination stage.",
+ "confidence": 0.62,
+ "systems_used": [
+  "western_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

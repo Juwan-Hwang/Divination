@@ -1,0 +1,17 @@
+{
+ "case_id": "OC-024",
+ "prediction_text": "葬事有着落：易者生前自有藏金备身后——金藏于其栖身之处（枕下/窖藏之属），数额足敷一场葬事之用；来访者依遗书指点掘得此金，易者即以此金成葬，无须其家再向外告贷。断语落项：物品＝所藏之金（对象项）；数量＝足敷一葬（数量感项）；时点＝当日得金成葬（应期数字/时点项）。应验对象核对：藏金与葬资同指易者身后一事，承受与应验为同一对象。",
+ "direction_claim": "favorable",
+ "timing_claim": "日档：葬资在来访当日即有着落——窗口为访至之当日，主坐标为当日掘得藏金、即日成葬；依据为占题『其家正苦于无资』属即时近事、问题本身以日为尺度。预书所定更细时点输入未给，不报。",
+ "basis": "输入残损先行注明：本例输入未给任何卦象、课式或起卦数据，只有占题事实与出处著录——按纪律没起卦不说卦，本断不起新卦、不虚构盘面，只据占题内可据之据作断并大幅降置信。其一，事实优先序：setting明言易者遗书预言来访秀士可托身后事——易者既能预作安排，其身后无资之困必已自备解法，解法只在其自藏之资，不在外人施舍。其二，出处著录本身即占题所给：provenance题名『击鼠枕窖金』——『窖金』二字为输入原文所载，指地下窖藏之金，本断据此定藏金之所在为窖藏/枕下栖身近处，不另虚构他处。其三，梅花明理一关：托葬之托付与藏金之自备互为表里，情理上链条完整（预言来访—指点藏金—以金成葬），无一环须外求。体系标注：本例归梅花易数序文成例，然无卦可走体用，本断实为据占题事实与著录的明理推断，systems_used记meihua仅表其成例归属，置信0.35即因此残损而降。所用之法：梅花明理，托名文本著录存疑照实标注。",
+ "confidence": 0.35,
+ "systems_used": [
+  "meihua"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-yijing.md"
+ ]
+}

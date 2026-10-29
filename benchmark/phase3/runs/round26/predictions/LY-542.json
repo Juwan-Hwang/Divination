@@ -1,0 +1,15 @@
+{
+ "case_id": "LY-542",
+ "prediction_text": "方向 unfavorable：此墳地慎用——重價買得、地師稱美，卦象卻不相應。巽為風之地風升，五爻、六爻動：本卦雙巽純風，風主散、主入而無止，墳地最重藏風聚氣，純風之象正犯氣散不聚；上體動而變坤成升，只是外形地勢之升，內體仍巽風不改，風散之病未除。斷語：此地美在形而病在氣，葬之恐後人丁財漸散，不因其價重、師言美而改斷；若已買，宜另審水口收束再定，不宜遽葬。",
+ "direction_claim": "unfavorable",
+ "timing_claim": "無應期：墳地吉凶占非事件型占斷，不設應期；風散之應以年月漸顯，不落日月座標。",
+ "basis": "輸入殘損：逐爻裝卦表OCR錯亂未錄、原文未明記月日，旺衰無月日可權衡；僅據卦名本變推得動爻爻位與卦象、用神類別作斷，置信已降，不臆補逐爻六親與干支。 巽/升逐位比對得五、六爻動，上體巽變坤、下體巽不變；墳地以父母為地之用神類別（用神章），本例定性只據卦象：純巽主風散與墳地藏聚之需正相反（通則e事實優先：題給『地師稱美、重價已買』為人言事實，不壓卦象定性，兩者分列寫明）。",
+ "confidence": 0.43,
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

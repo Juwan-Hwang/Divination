@@ -1,0 +1,15 @@
+{
+ "case_id": "LY-205",
+ "prediction_text": "终身财福不利大富，只主平常小康、自给有余而聚财有限。妻财卯木现卦却在巳月休囚、无子孙原神发动来生，财源不续；官鬼午火动而逢空化父母丑土，名利与财亦不相济。世爻父母丑土临日、得月火生而旺，身能守成，故不至贫窘，但财级只到小康，不到丰厚。应期尺度为年档：终身之问不落日月，以财星卯木得值、得生之年为相对较好的进财年份，主坐标取卯年，其余年份多守成。",
+ "direction_claim": "mixed",
+ "timing_claim": "年档（终身问，先年不落日月）；窗口为终身，窗口内相对进财主坐标为卯木值年之卯年，无日月级应期",
+ "basis": "用神妻财卯木：巳月休囚，日丑土不生反被木克耗，无动爻生扶；原神子孙不上卦、亦无动子来生财，财无源。世父母丑土临己丑日、巳月火生土而旺，主本人能守。动爻仅官鬼午火，甲申旬午未空，动不为空但化父母丑土，不生财。按SKILL.md等级校准(b)：用神休囚无源，财级降至小康，降格依据即财休囚+原神不现。查门类应期对表：终身财福非对表事件门类，明写对表无此门类，按年档表达。依据kb-snapshot/SKILL.md选法表（终身格局类以六爻用神旺衰参断）与references/chinese-liuyao-meihua.md用神章、空墓伏决策序。",
+ "confidence": 0.62,
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

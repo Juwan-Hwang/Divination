@@ -1,0 +1,15 @@
+{
+ "case_id": "LY-206",
+ "prediction_text": "终身财福有利，可得财福，等级中上、可至殷实，但非暴发巨富。妻财虽不上卦，变爻有妻财巳火，按变爻优先不取伏神；巳火在卯月得木生为相，日未土只泄不克。原神子孙卯木临月建旺、居应爻，生财之源旺而有力。惟世爻兄弟亥水动而化官鬼未土回头克，中年有一段劫财、争耗或因事破费，财来财去一次，其后仍可复聚。应期尺度为年档：主坐标取巳火财星值年之巳年为进财高点，亥水兄弟发动之亥年为破耗需防之年。",
+ "direction_claim": "favorable",
+ "timing_claim": "年档（终身问，先年不落日月）；窗口为终身，进财主坐标为巳年，破耗警戒年为亥年，无日月级应期",
+ "basis": "用神取变爻妻财巳火（用神章：变爻有用神不取伏神）；巳火卯月相、未日泄。原神子孙卯木临卯月建旺，生巳火，源旺。世兄弟亥水动，亥化未土回头克（土克水），兄动主劫耗，化回头克使劫势有终。官鬼未土上爻动化子孙卯木回头克（木克土），官化福、回头克，不碍财主线。按等级校准(b)：财相源旺，足级给殷实；兄动回头克只压量级不翻方向。依据references/chinese-liuyao-meihua.md用神章、化进退与动化复核（回头生克有力判定）。",
+ "confidence": 0.66,
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

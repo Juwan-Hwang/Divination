@@ -1,0 +1,15 @@
+{
+ "case_id": "LY-528",
+ "prediction_text": "方向 favorable：此墳地形勢可用、主吉。澤山咸靜卦，艮山在下、兌澤在上，山澤通氣、環抱有情；世爻兄弟申金臨日建庚申、又得丑月未土應爻父母相生，求測者與此地氣機相感相應。父母兩現（辰、未）為墳地之主象，未土居應生世，地勢根基得力；二爻官鬼午火靜而在丑月休囚，不為大害。斷語落象：來龍有艮山之止聚、明堂有兌澤之水聚，屬可葬之吉地，惟午火官爻靜伏內卦，水口道路之細節盤面未及細分，不另妄斷。此為形勢吉凶占、非事件成敗占，無應期。",
+ "direction_claim": "favorable",
+ "timing_claim": "無應期：形勢吉凶占非事件型占斷，不設窗口與主座標；靜卦以現勢論吉凶。",
+ "basis": "完整盤面：咸靜卦，世申金（日建臨身、月丑土生扶）旺相；應父母未土生世，用神父母得力；官鬼午火靜、丑月休囚無力。依SKILL自決表墳地形勢以六爻斷，父母為地、世應生克為輔線（chinese-liuyao-meihua.md用神章）。通則(b)等級與用神強度同級：世旺應生，故足級斷吉，不無據降格。",
+ "confidence": 0.6,
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

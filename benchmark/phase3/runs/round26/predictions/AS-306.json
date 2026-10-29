@@ -1,0 +1,18 @@
+{
+ "case_id": "AS-306",
+ "prediction_text": "走向有两段：先换人、后特朗普胜。第一段，民主党候选人将不是拜登打到底——拜登因年龄与状态问题在夏季退选，由副总统哈里斯接棒成为候选人（候选人更替确实发生）；第二段，更替只带来短暂声势回升，不改终局，唐纳德·特朗普最终胜选、被『加冕』重返白宫。近段（6月）拜登仍在位参选，远段（夏季）换人触发点在年中辩论/压力累积之后，终局在11月落定。",
+ "direction_claim": "favorable",
+ "timing_claim": "年档分段：窗口为2024年6月至11月，主坐标为2024年夏季（年中）候选人更替之月，终局坐标为2024年11月投票月；先定年再定月，不报单日",
+ "basis": "吠陀/西洋占星混用独立作断：输入残损（无拜登、特朗普出生盘与行运、无视频原文），事实约束为问时（2024-06-02）拜登年龄与状态已受广泛质疑、退选未发生——年长在位者行运受压、任期中途换将是此结构最显著的事件级读法； challenger 一方终局得势。故分两段断：更替发生于夏季、终局特朗普胜。方向favorable指对『特朗普最终胜选』这一终局。置信中低，不臆造退选具体日期。",
+ "confidence": 0.56,
+ "systems_used": [
+  "vedic_astrology",
+  "western_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md"
+ ]
+}

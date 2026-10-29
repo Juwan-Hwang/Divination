@@ -1,0 +1,17 @@
+{
+ "case_id": "OC-003",
+ "prediction_text": "一生名利双成而以商成名：庚金身弱官旺，靠印星与中年金土运扶身担官，成上海商界领袖、社会名位等同显宦，大富而有名望。早年火木运辛苦起家，中年得根之运为高峰；晚年仍能守成、寿至七十余，晚景因时局漂泊而稍逊，非贫败而终。",
+ "direction_claim": "favorable",
+ "timing_claim": "命造年档：高峰在辛丑、庚子金土运段（约中年，身得禄印之地、商名最盛），早年乙巳甲辰木火运为起家劳碌段，晚年己亥运平收",
+ "basis": "八字篇：丁卯丙午庚午己卯，庚日午月火旺官杀成势，日主无金根身弱，己正印透时为救应；特格从官杀未命中（有己印生身、自立之路未断），走常规身弱喜土金。主线：官旺主名位压力、财卯生官主以商致名，印护身为成败关键。峰值三核对：辛丑庚子运金为日主通根、土生金，运干支呼应印比喜用，否决未命中，定峰值；早运木火克身泄气为劳碌低段。终局己亥水运食伤泄秀、亥卯半合财，只作平收不翻贵亦不骤败。病字为午火炎盛克金，病位主肺与心血燥热；破耗之因在火旺之年因名位应酬与时局耗财。",
+ "confidence": 0.64,
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/chinese-bazi-ziwei.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md"
+ ]
+}

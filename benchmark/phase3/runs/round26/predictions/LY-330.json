@@ -1,0 +1,15 @@
+{
+ "case_id": "LY-330",
+ "prediction_text": "往外买卖可得利而利不厚：兑为泽变震为雷，二、五爻动，变震木气与妻财卯木同气，财有归着之象，终局断得利、小得为主。",
+ "direction_claim": "favorable",
+ "timing_claim": "应期跨度定为日档（往买卖行程尺度）：窗口为此行旬内，主坐标取妻财卯木逢值之卯日（相对支日，财临震木之值象）；冲实一路卯不临申酉空、无候选，舍弃。",
+ "basis": "兑为泽之震为雷（兑宫，空亡申酉）：卦体差位为二、五爻动。妻财卯木为用神（输入明载）。本宫兑金本克木财，然变卦震为木、财卯与变卦同气得地，按动化方向核对：终局以变卦所成之势为据，财由受制转得地，故小利可得；等级按小得落断，压制依据为本宫金克财之原制未全消。输入残损：逐爻装卦表因双栏OCR错乱未录、原文未明记月日，无月建日辰可核，用神旺衰与日月生克无法按决策序1-2步完整验证，故置信显著降低，不臆补逐爻纳支与六神。",
+ "confidence": 0.37,
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

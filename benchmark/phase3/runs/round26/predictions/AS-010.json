@@ -1,0 +1,17 @@
+{
+ "case_id": "AS-010",
+ "prediction_text": "逃仆往西、偏南一带（西方星座、南象限）去了，且会回来／被寻回，不必久等。仆主星水星与上升主正趋成三合且出角宫，主双方将再接上、其人自归或有信而回；月亮（仆之共主星）逃时与今同在西方星座，主其去向未远离西方一带；月亮在2宫居其本座、太阳在2宫与11宫星成完好相位，主主人一方不失、事有转机。应期为日档：三合趋成在即，数日内有消息或人回。",
+ "direction_claim": "favorable (fugitive gone west/south-west; will return or be recovered soon)",
+ "timing_claim": "Day-scale: the servant's significator and the lord of the Ascendant are hastening to a trine out of angles, read as return/news within a few days; no exact day given in the positions.",
+ "basis": "行人类卜卦：水星为此盘仆人专主星、月亮为仆共主星；两者皆西方星座定去向向西，水星兼南象限定偏南；水星与上升主趋合三合且自角宫发出，为重逢/归回之相；月亮在2宫居本座主根基未失。依据 western-astro 篇行人指代与趋合应期、通则(i)近段去向与远段归回分判后合成单一终局（归回）。",
+ "confidence": 0.68,
+ "systems_used": [
+  "horary_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md"
+ ]
+}

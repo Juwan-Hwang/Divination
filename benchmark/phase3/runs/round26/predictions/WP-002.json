@@ -1,0 +1,16 @@
+{
+ "case_id": "WP-002",
+ "prediction_text": "Barack Obama wins the 2008 US presidential election. Saturn in opposition to Uranus beginning on Election Day — a configuration not seen for 45 years — is the signature of the old order being overturned: the establishment/Republican candidate McCain loses, and the candidate of change, Obama, who is already leading the Democratic race, takes the presidency on 4 November 2008.",
+ "direction_claim": "favorable (for Obama / the change candidate; unfavorable for McCain)",
+ "timing_claim": "Election day 4 November 2008 is the fixed coordinate given in the question; no separate timing推算 needed — timing_claim is the election date itself.",
+ "basis": "Mundane/election astrology: Saturn (incumbency, establishment, the older candidate) opposed by Uranus (rupture, change, the insurgent) on election day favours the challenger over the status quo; Obama is the change candidate and already leads his nomination race, McCain is the establishment figure. Direction follows the Saturn-Uranus opposition, not the polls alone.",
+ "confidence": 0.72,
+ "systems_used": [
+  "western_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

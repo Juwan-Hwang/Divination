@@ -1,0 +1,17 @@
+{
+ "case_id": "AS-003",
+ "prediction_text": "买得成：能与卖家成交，并能及时筹得购房款，尽管钱款先有一段迟滞。卖家（太阳）在7宫得金星擢升接纳，7宫主兼11宫主（其希望）主交易可成；金星趋合三合土星（4宫主＝所买房屋），主契约落到房屋上。2宫主水星逆行主自家钱一时调不回（约半年之阻），但只是迟延、非破局，款项将在付款期限内到位。",
+ "direction_claim": "favorable (purchase effected and money procured in time, after delay)",
+ "timing_claim": "Month-scale: completion within the roughly six-month money window named in the setting; no exact day is derivable from the positions given, so no day coordinate is claimed.",
+ "basis": "太阳＝卖家落7宫并被擢升之金星接纳，主卖家可谈；7宫主同为11宫主，连其希望；金星趋合三合土星（4宫主＝房屋）为成交落点；月亮以四分（长上升宫之困难相位）传光，主过程有费力迟滞；水星（问者2宫主）逆行正应钱半年调不回，属迟延而非不成；土星除逆行与 cadency 外无大凶。输入未给三合精确度数，故只定月档、不报日。依据 western-astro 篇古典接纳/趋合规则与通则(k)月档不径落日。",
+ "confidence": 0.68,
+ "systems_used": [
+  "horary_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md"
+ ]
+}

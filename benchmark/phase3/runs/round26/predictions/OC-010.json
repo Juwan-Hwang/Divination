@@ -1,0 +1,17 @@
+{
+ "case_id": "OC-010",
+ "prediction_text": "一生际遇大起大落、终局不利：壬水身弱、火财三重压身，帝位是虚名而非实福——退位后先困居、再被外力推为傀儡之君、中年有系狱之厄，晚年始以平民身份安度余年，寿约六十。名位等级虚高、实际自主全无，断语按身弱不任财官落下限侧。",
+ "direction_claim": "unfavorable",
+ "timing_claim": "命造年档：先定运——壬辰癸巳运为困居与傀儡段，甲午乙未运为战犯改造段（中年厄段），丙申运金印得地始平安定居（约六十岁前后），终局在本运内",
+ "basis": "八字篇：丙午庚寅壬午丙午，壬日寅月，三午一丙财火成势，壬水无一水根、庚印透而坐寅绝，身弱财极旺；特格从财四判据：日主无根合①，庚印虚浮被火围克、自立之路弱近②，财成势合③，然庚印仍透干为逆势之破、从财不真，定假从/不从，走身弱不任财。主线：病在火财太旺、救在庚印亦弱，等级区间上限为虚衔名位、下限为平民终老，落点取下限侧（压低依据：财旺攻身无根无救）。运验：水运稍稳、火木运财杀交攻为厄段，丙申运申金印根到、运支为印得地，终局始安——此为顺主线之安非翻贵。病字为午火，病位主心血、肾水枯竭之疾（水火不济）；破耗之因在财旺招祸、因名位而受制于人。子女宫时午财旺，承继单薄平常。",
+ "confidence": 0.68,
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/chinese-bazi-ziwei.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md"
+ ]
+}

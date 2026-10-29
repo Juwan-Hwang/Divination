@@ -1,0 +1,17 @@
+{
+ "case_id": "OC-009",
+ "prediction_text": "仕途贵显可持续、晚景安荣的长寿显宦命：以外交立身，历使节内阁而声名不坠，财富足以安享晚年，婚姻有多次结合之象。然本例输入残损——原书四柱转录缺失（只注『以原书为准、个别字待校』），无法排盘核十神，以上只据占题已给事实（顶尖外交官、已历使节内阁）作低置信倾向断，不臆补四柱；若四柱补全须重断。",
+ "direction_claim": "favorable",
+ "timing_claim": "命造年档：无四柱故不应期定点到运年——只定年档尺度：一生高峰在中年使节内阁期，晚年为长寿安荣段；应期三步因盘面缺失无候选可列，明写无据不报具体运年",
+ "basis": "八字篇：输入残损照实注明——subject.birth.pillars明言转录待校、无干支可排，八字篇必需输入（四柱）缺失，按SKILL资料处理规矩不臆补。basis仅有事实层：命主已为顶尖外交官且历任使节内阁，此事实层支持『贵显可持续』的倾向，但格局、用神、大运、峰值三核对、子女病位破耗四项结局清单均无盘可核，全部明写无据不报，故置信降至0.38。此为本批唯一盘面残缺例。",
+ "confidence": 0.38,
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/chinese-bazi-ziwei.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md"
+ ]
+}

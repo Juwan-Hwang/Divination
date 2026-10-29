@@ -1,0 +1,15 @@
+{
+ "case_id": "LR-001",
+ "prediction_text": "蒋介石有惊无险、生还无虞：西安事变中蒋虽被扣押受惊、性命一度悬于一线，终局为获释平安脱险、返回南京，死难不成立。近段（被扣期间）凶险与谈判僵持，远段以释放归来收束，应期在事变当月内、以日计——自12月12日扣押起约两周内见释放动向，圣诞前后（12月25日前后）为脱险主坐标。此断置信低：输入未给任何六壬课盘（无课式、四课、三传、天将），无法按六壬门法验盘，只能据占题作低置信方向断并据实注明残损。",
+ "direction_claim": "favorable",
+ "timing_claim": "日档（近事生死安危，问题本身以日为尺度）：窗口为1936年12月内，主坐标12月25日前后获释脱险。",
+ "basis": "输入残损极重：无课式、三传、四课、空亡等一切盘面数据，守chinese-liuren.md第八节盘面不全规矩——不臆补天盘与三传，主断只作方向层、细断降档，置信降至0.30。systems_used记liuren系占题来源体系，实际未成盘验算。依据SKILL.md通则(k)日档理由（近事安危以日为尺度）与(i)近段被扣凶险/远段获释两段。",
+ "confidence": 0.3,
+ "systems_used": [
+  "liuren"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuren.md"
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "case_id": "LY-222",
+ "prediction_text": "子嗣还有希望，后可再得子，不主绝嗣。用神子孙酉金居上爻，在申月金旺相有气，辛卯日卯木冲酉金——静爻旺相逢日冲按暗动裁决判暗动而非日破，子孙有气暗动，主子嗣之机已动。妻财亥水五爻在申月得金生为相、卯日木泄中带亥卯半合意，妻位能生养配合；世爻妻财子水居初得申月金生，父母之体有根。官鬼寅木二爻在申月受冲克衰弱，不能克伤子孙成局。惟子孙居上爻位远、又逢日冲，曾失散之子的冲散之象已应在前，再得子须待酉金值年值月之机。应期为年档：主坐标取酉年，子孙值年暗动转明、再子应在酉年。",
+ "direction_claim": "favorable",
+ "timing_claim": "年档（子嗣问，先年后月）；窗口为数年内，主坐标为酉年（子孙酉金值年），无日级应期",
+ "basis": "用神子孙酉金申月旺相；日冲静爻裁决：有气（月旺相）判暗动，按动爻计（references/chinese-liuyao-meihua.md日冲静爻暗动/日破裁决第2项）。妻财亥水申月相，世财子水得月生。官鬼寅木申月被冲克衰，不克子孙。静卦无忌动。等级：子居上爻位远，只给可再得一子之级，不拔高。依据同篇用神章、日冲裁决、决策序。",
+ "confidence": 0.61,
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

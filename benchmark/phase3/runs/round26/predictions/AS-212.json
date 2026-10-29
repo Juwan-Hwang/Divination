@@ -1,0 +1,17 @@
+{
+ "case_id": "AS-212",
+ "prediction_text": "就所问『是否被巫术所害』断：不是巫术——否定巫蛊致病。病人是自然之病、药石一度无效而加重，属病情本身与治疗未对症，不是第十二宫（巫术/暗害）加害上升之象。后续偏向好转：月亮越过与土星之冲后，转而入向上升主星，该主星在地平线上、向天顶上升，主病势过了最重一关后渐有起色、医治终能见效，不以巫术论治。近段仍重（月土冲未过），远段转缓。应期以日/周计，月亮完成对土星之冲并入向上升主之时为转折主坐标。",
+ "direction_claim": "favorable",
+ "timing_claim": "日档（近病进程）：窗口为问后数日至数周，主坐标为月亮越过土星冲相、转入向上升主星之时；依据为月亮行进次序，问题尺度为近病",
+ "basis": "卜卦占星病占巫蛊辨：月亮趋冲土星且两星分居第六/第十二宫，确曾构成疑巫之象（这正是家属起疑之由）；但决定性否证在于上升、上升主与月亮均未被第十二宫主所克害——巫蛊致病须第十二宫主 afflict 上升系，此链不成立，故断非巫术。月亮冲土星之后入向上升主、而上升主在地平线之上向中天上升，主病情转折向愈。承受/应验对象复述：愈否与病势断语主语均为所问病人本人，非问者或其亲属。输入仅散文位置、日期OCR残缺，降置信。",
+ "confidence": 0.66,
+ "systems_used": [
+  "horary_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md"
+ ]
+}

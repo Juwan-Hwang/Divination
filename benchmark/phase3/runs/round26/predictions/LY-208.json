@@ -1,0 +1,15 @@
+{
+ "case_id": "LY-208",
+ "prediction_text": "终身有功名，可入仕得职，等级中等、稳守一官之福，不主骤贵高升。官鬼酉金持世，在戌月得土生为相，又得戊辰日土生扶，官星旺相有根有救，静而有力。父母子水虽为文书却在戌月休囚、受辰日土克，文凭任命之路较迟滞，故官可得而进程慢、位阶不高。子孙不上卦，克官之忌不现，官星不受福神之克。应期尺度为年档：主坐标取酉金官星值年之酉年为得职高点，其前以土生金之戌、丑年为酝酿期。",
+ "direction_claim": "favorable",
+ "timing_claim": "年档（终身功名问，先年不落日月）；窗口为终身，得职主坐标为酉年，无日月级应期",
+ "basis": "用神官鬼酉金持世：戌月土生金为相，辰日土生金，旺衰第一权重得月日双生。静卦无动爻乱局。父母子水戌月休囚且辰土克水，文书迟滞，只压等级与进程（等级校准(b)写明压制依据），不翻官旺方向。子孙不现，无克官忌神。依据references/chinese-liuyao-meihua.md用神章、旺衰纲领与决策序第1-2步（先验旺衰、日月生扶）。",
+ "confidence": 0.64,
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

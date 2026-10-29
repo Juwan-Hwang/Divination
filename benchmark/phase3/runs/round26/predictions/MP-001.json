@@ -1,0 +1,15 @@
+{
+ "case_id": "MP-001",
+ "prediction_text": "蔡英文胜选连任，韩国瑜落败（对主体韩国瑜为不利）。票数差距大：蔡以二百余万票级距胜出（约250万票上下量级），非接近战。立委：民进党维持过半多数（约六十席量级），国民党居次（约四十席以下量级），韩国瑜声势不足以带动立委翻盘。应期即2020年1月11日投票开票定局。",
+ "direction_claim": "unfavorable",
+ "timing_claim": "应期单位为日（选举事件本身以日为尺度）：主坐标为2020年1月11日投票日，无更宽窗口",
+ "basis": "输入残损：只有出生年、无出生月日时与出生地，按八字篇『必需输入』不能排全四柱与大运，只取年柱与流年作弱据，主断以通则(e)事实优先序用占题给定的选情/民调事实收束，故置信下调。方向以题中第一主体（或标题主体）为承受对象计。事实依据：2019-12-29辩论后选战只剩两周、韩声势已转弱而蔡居执政与民调优势，终局差距与席次按此强度足级给出（通则b）。",
+ "confidence": 0.72,
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

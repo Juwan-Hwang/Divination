@@ -1,0 +1,15 @@
+{
+ "case_id": "LY-457",
+ "prediction_text": "方向：可得小利（favorable），利薄而非厚利。断语：地泽临静卦，应爻妻财亥水为所买之豆与利，亥水午月休囚本气弱，幸得戊子日水帮扶、且应财生世爻官鬼卯木，财来就我，主往楚买豆可成且有薄利；卦中兄弟丑土两现静伏克财之机，世官持卦非纯财卦，故利不大、防同行分利压价，不宜重仓。应期：窗口以亥、子水旺之日为交割得利之期，主坐标亥日。",
+ "direction_claim": "favorable",
+ "timing_claim": "应期跨度日档偏月窗（行商得利以货财交割为近事，先日档）：窗口至亥、子日，主坐标亥日——妻财亥水值日之期",
+ "basis": "求财以妻财为用神：财亥水现卦居应，候选唯一；旺衰：午月休囚（第一权重偏弱），得日辰子水比助为有根之弱，不作无财断（等级校准b：按强度足级给小利，降格依据写明——月休囚＋兄弟两现）；静卦无动爻生克，世应生克为辅线：应财生世主得利；临卦静而世应相生，无反吟伏吟。无动爻，动化方向与反转条件两行记：无动化，不适用。",
+ "confidence": 0.55,
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "case_id": "WP-012",
+ "prediction_text": "Joe Biden wins the 2020 election AND actually takes the presidency — but only through a bitterly disputed aftermath: Biden wins the vote of 3 November 2020, Trump refuses to accept the result amid the mail-in voting disputes, the country goes through a period of contested legitimacy, unrest and institutional strain verging on falling apart, and Biden is nonetheless the one inaugurated as president. The loser not conceding is the central post-election fact.",
+ "direction_claim": "mixed (Biden wins and takes office, but with a damaging disputed aftermath for the country)",
+ "timing_claim": "Election 3 Nov 2020; disputed aftermath window: Nov 2020 through the Jan 2021 inauguration, main coordinate the inauguration — Biden takes office in January 2021 after the dispute period.",
+ "basis": "Election + aftermath reading on the facts supplied: Biden leads in most polls on the eve (fact) → wins the vote; the campaign's mail-in disputes and explicit warnings that the loser may not accept the result (facts in setting) are the盤面-equivalent signature for the second half of the question — the transfer is contested, with national division/unrest, but a refusal to concede is not a reversal of who takes office. Two-stage check (i): near段 = Biden wins the count; far段 (trigger: the pre-announced non-acceptance dispute) = contested transition, Biden inaugurated.",
+ "confidence": 0.68,
+ "systems_used": [
+  "western_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

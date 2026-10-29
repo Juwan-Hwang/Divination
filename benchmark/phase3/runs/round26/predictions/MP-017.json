@@ -1,0 +1,17 @@
+{
+ "case_id": "MP-017",
+ "prediction_text": "女性出任下届香港行政长官。2017年3月26日选举委员会投票，女性候选人（时已改口考虑参选的林郑月娥一路）得票过半当选，男性候选人不入。置信中：输入无盘面、无候选人完整生辰，残损已降置信。",
+ "direction_claim": "favorable_to_female_candidate_female_wins",
+ "timing_claim": "事件型月/日档：窗口为2017年3月选举月，主坐标为2017年3月26日选举委员会投票日",
+ "basis": "SKILL自决表具体一事成败以即时/事件法自决，不因来源限定。事实优先序(e)为纲：1194人小圈子选举、现任已宣布不连任、女性政务司司长刚改口重新考虑参选且为体制内最顺位之人，男性财政司长虽已辞职备选但小圈子票源不在民望；象与事实收敛于女方。无卦象盘面可据，只能定到性别与当选人阵营层级，依通则(c)(g)落到具体对象（女性候选人）与应期数字（3月26日），并降置信。",
+ "confidence": 0.58,
+ "systems_used": [
+  "meihua",
+  "bazi"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/chinese-bazi-ziwei.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "case_id": "MP-010",
+ "prediction_text": "2024最有当选之相者为民进党赖清德；郭台铭若参选不能当选：郭以独立/在野整合者姿态参选之路波折（连署与整合皆不顺），终局或退选或落选，不登总统位。在野分裂之下，执政党候选人占结构优势。应期以月为尺度：2024年1月投票定局，郭之去留在此前数月先见分晓。",
+ "direction_claim": "unfavorable",
+ "timing_claim": "应期单位为月：窗口为2023年至2024年1月，主坐标为2024年1月投票月",
+ "basis": "输入残损：只有出生年、无出生月日时与出生地，按八字篇『必需输入』不能排全四柱与大运，只取年柱与流年作弱据，主断以通则(e)事实优先序用占题给定的选情/民调事实收束，故置信下调。方向以题中第一主体（或标题主体）为承受对象计。方向以郭台铭计（unfavorable=郭不能当选）。输入残损同前：郭1950庚寅年生、无月日时，不排全盘。事实依据：郭2019年初选后退出的前科、在野多强并立、执政党候选人相对整合，按此结构定排序与郭之终局。",
+ "confidence": 0.62,
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "case_id": "BZ-301",
+ "prediction_text": "公开预测落点：国民党在2022年进入衰亡/灭亡阶段——失去原有执政优势与气势、组织与选势步入明显衰落期。断语只落到『阶段性衰亡、由盛转衰』，不落到政党于该年法律解散、实体消灭。此为依据不足下的低置信断：输入未给任何可排之盘（无建党时刻四柱、无起运、无卦盘），无法按八字流程排盘验算，只能据占题尺度（2011年执政高点问2022年走向）作方向性判断。",
+ "direction_claim": "unfavorable",
+ "timing_claim": "年档：主坐标2022年（民国111年），窗口为2021-2023年交衰之期；无盘面故不细化到月日。",
+ "basis": "输入残损严重：benchmark输入仅有对象与问题、无四柱/盘面/起卦数据，basis据实注明并降置信至0.30，不臆补党庆时刻排盘。所用仅SKILL.md作断通则(k)年档尺度与(b)等级校准（衰亡阶段而非实体消灭，降格依据即无盘面证据支持极端等级）。systems_used按输入tradition记bazi，实际未成盘。",
+ "confidence": 0.3,
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

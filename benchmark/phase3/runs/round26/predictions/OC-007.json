@@ -1,0 +1,17 @@
+{
+ "case_id": "OC-007",
+ "prediction_text": "性情清高狂放、一生潦倒早终：甲木身弱杀重无印，恃比肩之气恃才傲物，成文人狂士之名而无功名实职，父荫难承、财来财散，中年即因贫病交迫而逝，寿仅四十上下。此造以年庚推人：名大于命、才高于福，结局为不利，断不可作贵命读。",
+ "direction_claim": "unfavorable",
+ "timing_claim": "命造年档：终局在四十岁前后之年段（约1930年前后辛未年一带为关口），高峰只在青年丁亥运文名最显之段，非权位之峰",
+ "basis": "八字篇：庚寅甲申甲申甲戌，甲日申月庚杀透年，两申杀旺攻身，日主仅寅中甲根与三甲比肩虚扶，印水全缺——杀重无印化，特格从杀未命中（寅中有根、比肩成群抗杀，从不真）。主线：杀旺为病、印缺为救应无着，格局破而无救，等级区间下限为清贫名士、上限不过文名虚衔，断语落区间下限侧（压低依据：杀攻身且无印化、比肩夺财）。运验：顺行丁亥运亥水印星暂到、文名起；其后戊子己丑财运耗身、财生杀旺，逆主线低谷，终局段与落拓定性对表不翻贵。病字为申金杀旺，病位主肺肝筋骨与郁结之疾；破耗之因在比肩夺财、恃才散财与无职无禄。子女承继弱、时戌中丁伤官主后嗣单薄。",
+ "confidence": 0.67,
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/chinese-bazi-ziwei.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md"
+ ]
+}

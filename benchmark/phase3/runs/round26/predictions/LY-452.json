@@ -1,0 +1,15 @@
+{
+ "case_id": "LY-452",
+ "prediction_text": "方向：众议往北为不吉（unfavorable），不可从北。断语：子孙子水居初爻，巳月临绝、日戌土克之，福神衰绝无力，北方水位正是子孙衰绝之方，往北无福荫反受其困；五爻兄弟申金发动化父母未土回头生，动神有力，其位在西、化神在西南，宜往西或西南方避之，世爻父母戌土临日旺相，随此方向自保无大害。应期：宜即日动身，窗口申、未日，主坐标申日。",
+ "direction_claim": "unfavorable",
+ "timing_claim": "应期跨度日档（避乱即时决断，日尺度）：动身窗口以申、未日为宜，主坐标申日——动爻兄弟申金值日之期",
+ "basis": "避乱以子孙为福神定方（用神章＋趋避门类）：子孙子水月绝日克、休囚无气，北向（子水）断不宜，此为（e）事实优先——占题明言众议往北，故主断语即对北向作答；动爻申金化未土同属土生金为回头生（异五行按生克定类），动神得巳月生、化神得戌日扶，有力，取其方位西/西南为吉向；世戌土临日旺相，本人根气足。动化方向：回头生成立；反转条件：不成立。",
+ "confidence": 0.62,
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

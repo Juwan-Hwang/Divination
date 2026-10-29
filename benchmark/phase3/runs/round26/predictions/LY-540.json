@@ -1,0 +1,15 @@
+{
+ "case_id": "LY-540",
+ "prediction_text": "方向 favorable：隨官上任主吉、安穩得位。水地比之水風井，二爻、三爻動：比主親附得眾、隨從得所，井主養民安居、井井有條，兩象皆主隨任安順、到任有職有食。斷語：此行上任順利，所隨之官與己相得，任上安穩無大風波；比象戒遲，赴任不宜拖延過久，及早成行更應比之吉。",
+ "direction_claim": "favorable",
+ "timing_claim": "月檔：窗口兩月內成行安頓，主座標比象逢值之月內到任期；具體干支盤面殘損無據不臆報。",
+ "basis": "輸入殘損：逐爻裝卦表OCR錯亂未錄、原文未明記月日，旺衰無月日可權衡；僅據卦名本變推得動爻爻位與卦象、用神類別作斷，置信已降，不臆補逐爻六親與干支。 比/井逐位比對得二、三爻動；仕宦隨任以官鬼為用神類別、世應親附為輔線（用神章），本變比井同主親附安養，無一象主凶，故定吉；逐爻旺衰不可考，置信中下。",
+ "confidence": 0.45,
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "case_id": "LY-628",
+ "prediction_text": "有利：訟事可解、於我不為大凶，宜和解收場。地天泰天地交泰、通泰和順，靜卦無動主事態不激化；泰卦世應和合之象，於訴訟主雙方可通、可議和，官非不至纏結成重案。空亡戌亥只主對方/文書一線（亥或為應財）暫虛待實，不礙和解大局。終局單判有利：此訟以和解/得理了結為主，不主敗訴重罰。輸入殘損：未記月日、逐爻未錄，世應官鬼確位與旺衰不可核，置信低、應期不定。注：訟占等級只斷到可解/不敗層級，不拔高為必勝大勝（通則b無據不升格）。",
+ "direction_claim": "favorable",
+ "timing_claim": "無應期定點：月日與逐爻缺失，應期三路無支點，明寫無應期；靜卦和解之期不臆報。",
+ "basis": "六爻訟事：用神官鬼兼世應對勘。輸入僅記泰卦靜卦（changed_name為null）、坤宮、空戌亥，chart_lines空、月日未記——殘損照實註明。據可核者：泰卦交泰和合象、靜卦無動化沖克，訟事門以和解為吉路（分類占斷訟門大意）；無動爻克世之據，不作敗斷。終局反轉掃查無盤面判據、不翻轉。對象對齊：所問=占者本人訟事，世應驗於本人與對方，和解斷語主語為占者一造，已指明。門類應期對表：kb明載訟事諸章只有成敗斷法、無應期取法成文，查表結論『對表無此門類』，故不給應期。等級校準：無旺衰據，不升格必勝。依據：kb 門類應期對表訟事註、靜卦與世應節，SKILL.md 通則(b)(l)。",
+ "confidence": 0.38,
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

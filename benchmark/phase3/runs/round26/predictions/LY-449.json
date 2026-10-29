@@ -1,0 +1,15 @@
+{
+ "case_id": "LY-449",
+ "prediction_text": "方向：终晴（favorable），但非即日放晴。断语：眼下父母未土持世旺相、雨象未散，妻财卯木、官鬼巳火俱动主风云翻覆，尚有一二日阴雨反复；子孙亥水为晴神，虽不上本卦而见于变卦四、五爻，待亥日值子孙、冲去官鬼巳火，云开天晴。应期：窗口三至六日，主坐标亥日（日档，子孙值日＋冲克神之路）。",
+ "direction_claim": "favorable",
+ "timing_claim": "应期跨度日档（问何日晴属近事日尺度）：窗口三至六日，主坐标亥日——子孙亥水值日且亥冲动爻官鬼巳火（冲去克晴之云气）",
+ "basis": "天时取子孙为晴神、父母为雨象（chinese-liuyao-meihua.md 用神章，天时门类）：父母未土辰月旺相持世主雨势未竭；子孙亥水变爻现，按用神章变爻优先于伏神取用；动化方向核对：财卯木化酉金回头克、官巳火化亥水回头克，动神皆受制，雨势渐衰；应期三步定日档，列冲实/值日/冲克神三路，D项解法日（亥冲巳）与子孙值日同点，取亥日为主坐标，余路舍因尺度与同点合并。动化方向：成立（动化受克只调量级）；反转条件：不成立（子孙未旺相发动，不翻转雨象初判，只定迟晴）。",
+ "confidence": 0.6,
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

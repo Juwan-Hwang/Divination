@@ -1,0 +1,15 @@
+{
+  "case_id": "YY2-004",
+  "prediction_text": "方向 favorable（极弱倾向，置信低）：自占寿。输入残损最重：本卦名原书缺字、moving_lines 与 chart_lines 均为 null，只有变卦坤宫雷天大壮可据。大壮四阳在下、阳气方盛之象，仅就变卦象意弱主其人元气尚盛、非衰绝之局；除此之外用神、世应、旺衰、动化全部无从核对，寿之等级、终期一概不报。此断几乎只是象级提示，不作正式寿限判断使用。应期：无据不报主坐标。",
+  "direction_claim": "favorable",
+  "timing_claim": "无应期可定：寿元年档，但本卦名缺字、装卦全缺，应期三步无从执行，主坐标无据不报。",
+  "basis": "输入残损（basis 照实注明）：hexagram 字段本卦名缺字（原文即'（本卦名原书缺字）之 坤宫：雷天大壮'），moving_lines=null、chart_lines=null。占时丙寅年丙申月丁巳日丙午时可知而无用。仅据变卦大壮之象作弱倾向，SKILL.md 通则(k)年档与'没排盘不说盘'纪律下，本断明确标注为象级弱断；references/chinese-liuyao-meihua.md 用神/旺衰/应期诸程序全部无从执行、不臆补。置信据此大幅下调至0.30。",
+  "confidence": 0.3,
+  "systems_used": [
+    "liuyao"
+  ],
+  "sources_used": [
+    "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+    "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+  ]
+}

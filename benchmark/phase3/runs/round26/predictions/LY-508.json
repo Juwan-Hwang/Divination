@@ -1,0 +1,15 @@
+{
+ "case_id": "LY-508",
+ "prediction_text": "方向：终身财福薄、得而复失（unfavorable）。断语：兄弟辰土持世发动，兄弟为劫财之神，世持兄而动主一生财来财去、易因赌博同辈耗尽家财——与占者因赌致贫之实情正合（事实优先）；妻财亥水虽得申月生、日子水帮扶本有财源，奈世兄辰土动克亥财，财源被劫；兄动化丑土同五行相邻后退为化退神，劫势虽退而世仍兄持，终身只能薄财度日、难复家业，戒赌方可保残财。应期：终身档无定点，土旺之年防再破。",
+ "direction_claim": "unfavorable",
+ "timing_claim": "应期：终身格局占无具体应期（命造式表达）；时间坐标为终身档，破财之应在兄弟辰丑土旺之年与赌事再起之时，仅作格局注脚",
+ "basis": "终身财福以妻财为用、兄弟为忌神：世兄动克应位? 克卦中妻财亥水，动化方向核对逐对：辰土→亥水为克，成立；化退判别：辰化丑同五行相邻后退为化退，合流E项——忌神化退权重中，退的是劫势而非财之根，终局仍按兄持世动克财定 unfavorable；财亥水得月生日帮为有根，故事非全无财、断得而复失而非赤贫（等级校准）。动化方向：化退成立；反转条件：不成立。",
+ "confidence": 0.65,
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

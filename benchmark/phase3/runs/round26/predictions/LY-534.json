@@ -1,0 +1,15 @@
+{
+ "case_id": "LY-534",
+ "prediction_text": "方向 unfavorable：具題可上，但所題之事難得全准、主見損。風澤中孚之山澤損，僅五爻動：中孚本主誠信上達，變損則事體被減損一層——題本遞得上去，結果卻是駁減、打折或只准其半。斷語：此題不成全功，防批回刪減、改易或留中損耗；若問可否具題，答可具而不可望全如所請。終局按損後之實效單判 unfavorable（通則l），不以中孚本吉含糊收束。",
+ "direction_claim": "unfavorable",
+ "timing_claim": "月檔：窗口兩月內，主座標變卦損象應期即五爻動而逢值之期，盤面殘損不臆指具體干支日期，只定月檔窗口。",
+ "basis": "輸入殘損：逐爻裝卦表OCR錯亂未錄、原文未明記月日，旺衰無月日可權衡；僅據卦名本變推得動爻爻位與卦象、用神類別作斷，置信已降，不臆補逐爻六親與干支。 中孚/損逐位比對得五爻獨動；動化方向核對：本中孚變損，化出之象對所問主減損，依動化定性優先於本卦靜態吉象（chinese-liuyao-meihua.md動化定性裁決與通則j逐段核對）。父母文書、官鬼為本門用神類別，逐爻不可考故只就動化定終局。",
+ "confidence": 0.42,
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "case_id": "LY-215",
+ "prediction_text": "本流年不利，主破财耗损、奔波多扰，防因财生官非口舌，宜守不宜进。世爻妻财辰土在寅月被木克为死，又逢丁卯日木重克，世财月日并克。兄弟寅木二爻动化卯木化进神，进神临日月旺，劫财之势最盛，主同辈、合伙或竞争夺财。子孙巳火五爻动化妻财未土，虽有化财一线，财未土随即四爻动化官鬼酉金泄气转官，财化为官非之累，求财反招事。父母子水初爻静而受克，文书庇护无力。全年以寅卯木旺之时破耗最重。应期为年档：主坐标取本年卯月前后（日月木旺克财之段）为破耗高点，全年守成。",
+ "direction_claim": "unfavorable",
+ "timing_claim": "年档（流年问，本年为窗）；窗口为本流年内，破耗主坐标为卯月段，无日级应期",
+ "basis": "流年看世：世妻财辰土寅月死、卯日克，月日并克。兄弟寅木动化卯化进神（同五行相邻），旺动劫财。子孙巳火化妻财未土（火生土），未土动化官鬼酉金（土生金泄），财转官累。按通则(j)逐段核对：近段兄进克财为凶，远段财化官仍凶，无反向触发可翻。依据references/chinese-liuyao-meihua.md进退判别式、动化方向核对、决策序综合定终局。",
+ "confidence": 0.72,
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

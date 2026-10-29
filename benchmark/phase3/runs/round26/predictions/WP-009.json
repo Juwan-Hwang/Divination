@@ -1,0 +1,16 @@
+{
+ "case_id": "WP-009",
+ "prediction_text": "India will NOT win the 2019 Cricket World Cup. Despite being firm favourites in the ten-team round-robin, India fall short in the knockout stage — a semi-final exit is the specific断: they do not lift the trophy on 14 July 2019; the captain Virat Kohli (born 1988) and the squad's chart does not carry a World Cup-winning signature for this tournament.",
+ "direction_claim": "unfavorable (India do not win)",
+ "timing_claim": "Tournament window 30 May-14 July 2019 as given; main coordinate: the knockout stage in July 2019, before the 14 July final, where India's run ends (semi-final).",
+ "basis": "Sports astrology as practised by the book-launch astrologer in the setting: team/captain natal signatures (Kohli born 1988, Dhoni in squad) are read against the tournament period; a favourite's strong league chart without a title signature in the knockout window reads as falling short at the semi-final stage rather than winning. Favourite status (fact in setting) is not itself a winning signature — fact-priority keeps断 at 'strong but not champions'.",
+ "confidence": 0.66,
+ "systems_used": [
+  "western_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

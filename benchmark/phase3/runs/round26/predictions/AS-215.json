@@ -1,0 +1,17 @@
+{
+ "case_id": "AS-215",
+ "prediction_text": "大不利，此次西征将以惨败与失荣收场：埃塞克斯伯爵此行无功、无荣，军队将遭重大折损——资财/后勤与援友皆失，部众或被困降散，他本人虽不死于此役，却只能狼狈脱身（如由海道逃回），声望与军权大损，这确是他最后一次远征。近段出师即带败象（南交点居上升、上升主陷落），远段月亮趋刑火星（其第二、九宫主：资财、援军、行旅）主败局在行军与补给/援军环节爆开。应期以月为单位，出师后数月内、当年夏末秋初败局落定。",
+ "direction_claim": "unfavorable",
+ "timing_claim": "月档：窗口为1644年出师后数月内，主坐标为当年夏末至秋初败局落定之月；依据为事件图的问题尺度（一次远征）与月亮趋刑火星的行进",
+ "basis": "事件图卜卦占星：上升水瓶，南交点（Dragon's Tail）居上升先损其势；上升主土星游移且在第二宫陷落——主帅无力、资财宫受损；月亮在陷落之座，离土星三合后趋刑火星，火星为其第二宫（资财）与第九宫（行旅、援友）之主——败在钱粮、援军与行程；福点被第七宫主水星（敌方significator）处置，利归敌方。多证同指惨败失荣、人存而军亡。输入仅散文位置、无全盘度数，降置信。",
+ "confidence": 0.74,
+ "systems_used": [
+  "horary_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md"
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "case_id": "LY-455",
+ "prediction_text": "方向：吉（favorable），岁考可得中等偏上等第。断语：官鬼酉金临申月旺相发动，为功名等第之主神，旺动有力，主考列上等之象；父母亥水为世、为文书，得申月金生本有气，被巳日冲而有气判暗动，文书亦动而有应；惟官鬼动化妻财未土泄气、世爻逢日冲，量级稍降，断中上等第而非榜首。应期：窗口旬内，主坐标酉日（官鬼值日）。",
+ "direction_claim": "favorable",
+ "timing_claim": "应期跨度日档（岁考等第近事日尺度）：窗口旬内，主坐标酉日——官鬼酉金值日当令之期",
+ "basis": "岁科考以官鬼、父母合看：官酉金临月建旺动为第一权重（决策序1-2步）；日冲静爻裁决：父母亥水得月生有气，巳日冲之判暗动非日破，生克按动计；官化未土异五行属泄，化神未土得巳日生扶，只调量级不翻方向（动化定性裁决：动化方向定性优先、泄只降等）；财未土上爻动化子孙巳火回头生与本题无直接克用关系。动化方向：官动化泄成立；反转条件：不成立。",
+ "confidence": 0.6,
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "case_id": "MP-012",
+ "prediction_text": "三组中最有机会当选下届正副总统的是赖清德/萧美琴一组：塔罗与文王圣卦两路同占亦应指向同一组（多法收敛），赖萧以相对多数胜出，侯赵次之、柯吴居末。应期：2024年1月13日投票定局。",
+ "direction_claim": "favorable",
+ "timing_claim": "应期单位为日（选举事件）：主坐标为2024年1月13日投票日",
+ "basis": "输入残损：只有出生年、无出生月日时与出生地，按八字篇『必需输入』不能排全四柱与大运，只取年柱与流年作弱据，主断以通则(e)事实优先序用占题给定的选情/民调事实收束，故置信下调。方向以题中第一主体（或标题主体）为承受对象计。方向以主体赖清德/萧美琴计。本例占题自带占测方式（塔罗及文王圣卦）而输入未给牌面/卦面，属输入残损：无原始盘面不得虚构牌卦，只按SKILL自决表以选情结构（蓝白破局、三脚督、在野分票）收束，结论与同日MP-011同向，记为跨例收敛而非盘面收敛，置信据此下调。",
+ "confidence": 0.66,
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

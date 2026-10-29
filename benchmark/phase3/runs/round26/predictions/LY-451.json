@@ -1,0 +1,15 @@
+{
+ "case_id": "LY-451",
+ "prediction_text": "方向：不吉（unfavorable）。断语：妇人梦故夫招呼随去本为凶兆，卦中世爻兄弟亥水发动化官鬼辰土回头克世，主自身有灾厄牵连，近旬内防病患或意外之惊；五爻官鬼戌土动化亥水泄气、初爻子孙卯木得日生为解神，故凶而不至绝境，及时趋避、勿独行远行可减其咎。应期：窗口旬内，主坐标辰日（日档，化鬼值日回头克应期）。",
+ "direction_claim": "unfavorable",
+ "timing_claim": "应期跨度日档（梦占趋避问近祸，日尺度）：窗口旬内，主坐标辰日——世化出官鬼辰土值日、回头克落实之期",
+ "basis": "趋避占以世爻为本人（用神对象定位复核）：世亥水午月休囚、幸临日建有根，非真空无气；动化判别：亥水化辰土异五行，为回头克（非进退），克神辰土得午月生扶有力、暂无冲制，定回头克成立但世临日有自救，只压近段不直断绝症死绝（决策序第7步三类条件未全具）；子孙卯木为解神静而得亥日生，作减咎依据。动化方向：回头克成立；反转条件：不成立。",
+ "confidence": 0.55,
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

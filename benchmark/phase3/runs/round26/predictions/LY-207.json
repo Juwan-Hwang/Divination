@@ -1,0 +1,15 @@
+{
+ "case_id": "LY-207",
+ "prediction_text": "终身功名还有，不因病退而终绝，后仍可复起得职、再进一阶。世爻即官鬼丑土，在辰月土旺，日未土冲动世官为冲动有力之象；官动化妻财午火，午火生丑土为回头生，化神午火不空（甲午旬空辰巳）、又得未日合助，回头生有力。父母酉金虽静而得辰月土生，文书、任命一线不绝。故断病退后仍有功名，等级以复任原阶或小进为度，不断高位显爵。应期尺度为年档：主坐标取午火化神值年之午年，复起应在午年前后。",
+ "direction_claim": "favorable",
+ "timing_claim": "年档（终身功名问，先年后月）；窗口为病退后终身，复起主坐标为午年，无日级应期",
+ "basis": "用神官鬼两现：世爻官鬼丑土动爻优先定主（用神候选枚举：动爻胜静爻）。丑土辰月旺，未日冲动。动化妻财午火：火生土回头生，化神不空、得日合，按动化复核回头生有力两项（动爻有气、化爻有生扶）成立。父母酉金得月土生，主文书不绝。按终局反转扫查无三类反转全成立，不翻初判。依据references/chinese-liuyao-meihua.md用神章、动化方向核对、回头生克有力判式。",
+ "confidence": 0.68,
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

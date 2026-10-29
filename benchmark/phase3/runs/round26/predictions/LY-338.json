@@ -1,0 +1,15 @@
+{
+ "case_id": "LY-338",
+ "prediction_text": "一冬生意可获利而利属小得：山火贲变风火家人，五爻动而变家人，家人主内实守成，贲之虚饰转入实利，终局断一冬有小利可得。",
+ "direction_claim": "favorable",
+ "timing_claim": "应期跨度定为月档（一冬生意以季为尺度、落月档）：窗口为该冬三月内，主坐标取变家人成卦后首月为相对主坐标（无占月换算绝对月份）；世爻卯木官鬼逢值一路逐爻未全录，只作辅助，舍弃理由为双层只许一主坐标。",
+ "basis": "山火贲之风火家人（艮宫，空亡辰巳）：卦体差位为五爻动（上艮变巽）。用神世爻卯木官鬼（生意以世为用，输入明载，承受对象为占者自身经营）。贲主文饰虚浮，变家人主治内务实，由饰转实为获利方向；等级只给小得，压制依据为世为官鬼而非妻财临位、财象不直接。输入残损：逐爻装卦表因双栏OCR错乱未录、原文未明记月日，无月建日辰可核，用神旺衰与日月生克无法按决策序1-2步完整验证，故置信显著降低，不臆补逐爻纳支与六神。",
+ "confidence": 0.38,
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

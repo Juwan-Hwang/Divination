@@ -1,0 +1,15 @@
+{
+ "case_id": "LY-212",
+ "prediction_text": "索债不得，且切勿渡江厮闹：此行讨债无功，强闹必成争斗是非、反伤自身。妻财两现皆土，在卯月被木克为死、又被丙寅日木重克，月日并克财而无动爻生救，财衰无力。二爻兄弟寅木临日月旺而动，化卯木为化进神（寅化卯、同五行相邻前进），进神又临月建，兄弟劫财之势愈进，主对方强横、债被劫夺，且兄弟旺动正是厮打争闹之象。子孙巳火静而不动，不能生衰财。故终局单判：债讨不到，闹则成非，宜避。应期为月档：本卯月内即是兄旺财死之窗，主坐标卯月，不另给得财之期。",
+ "direction_claim": "unfavorable",
+ "timing_claim": "月档（近事索债，尺度为月）；窗口为本卯月内，主坐标为卯月当月，无得财应期",
+ "basis": "用神妻财未土、辰土（世）两现皆静：卯月木克土死、寅日木克，月日并克无救（决策序第7步终局条件中用神休囚无气+日月克泄无救成立）。忌象兄弟寅木动化卯木化进神（进退判别式：同五行相邻前进），临月建与日建，劫财兼争闹。原神子孙巳火静不生财。世财辰土同受克。按SKILL.md(l)事件型终局单判为unfavorable，不以mixed收束。依据references/chinese-liuyao-meihua.md用神候选枚举、进退判别式、趋避类以用神衰旺定去就。",
+ "confidence": 0.78,
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

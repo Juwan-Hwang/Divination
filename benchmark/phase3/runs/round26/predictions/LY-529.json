@@ -1,0 +1,15 @@
+{
+ "case_id": "LY-529",
+ "prediction_text": "方向 unfavorable：此墳地主凶、不宜用。山地剝（卦名無之卦，按靜卦論）五陰剝一陽，剝落侵蝕之象用於墳地，正主地氣剝散、土崩石露、根基不固；艮山附於坤地而下體全坤無收束，藏風聚氣俱無從談起。空亡午未所涉官父之位盤面不可復原，不據以翻案。斷語：此地縱形勢外觀尚可，內氣已剝，葬之不利後人安穩，宜另擇。",
+ "direction_claim": "unfavorable",
+ "timing_claim": "無應期：墳地吉凶占非事件型占斷，不設應期窗口；剝象主漸蝕，其應以年月累積，不落日座標。",
+ "basis": "輸入殘損：逐爻裝卦表OCR錯亂未錄、原文未明記月日，旺衰無月日可權衡；僅據卦名本變推得動爻爻位與卦象、用神類別作斷，置信已降，不臆補逐爻六親與干支。 剝卦卦象本身主剝落（chinese-yijing.md卦象與liuyao用神章：象意與所問墳地藏聚之需正相反）；靜卦無動爻可救，父母用神之逐爻狀態不可考，故只就卦象定方向、降置信。",
+ "confidence": 0.48,
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

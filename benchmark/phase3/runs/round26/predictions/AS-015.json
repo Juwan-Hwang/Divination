@@ -1,0 +1,17 @@
+{
+ "case_id": "AS-015",
+ "prediction_text": "丈夫在海上平安、活着，无受害之象，日后当能归来。丈夫主星太阳居其 hayz 且全然不受任何克伤（输入明载 free from all affliction），为在外者安然的最强证据；故不必以凶断其生死。附带须分清对象：盘中火星、土星将成凶相、指向的是问者妇人自身的病厄（下个10月8日一带为其危期），那是她本人的事，不可错落到丈夫身上——丈夫一路只断平安可归，归期日期则盘面摘录未给足，不妄报。",
+ "direction_claim": "favorable (husband alive and safe at sea; return expected)",
+ "timing_claim": "No return-date coordinate is derivable from the excerpted positions; the only dated marker given (8 October following, from the Mars-Saturn ill aspect) belongs to the wife's own fate, not the husband's return, and is not used as his timing.",
+ "basis": "对象定位复核（通则(f)）先行：本题问丈夫，丈夫主星太阳 hayz 中且全不受克，主其活着平安——此为唯一与所问对象同一的主断语；火星土星趋成凶相连同妇人6宫主土星逆行，所指为妇人自身沉疴与危期，承受对象是她本人，依(f)不得回收到丈夫身上。输入未给丈夫归期成相度数，故 timing 明写无据不报。依据 western-astro 篇尊贵/受克判读与 SKILL.md 通则(f)。输入盘面有 OCR 残损（部分度数 garbled），故置信下调。",
+ "confidence": 0.6,
+ "systems_used": [
+  "horary_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md"
+ ]
+}

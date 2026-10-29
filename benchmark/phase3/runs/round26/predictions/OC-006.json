@@ -1,0 +1,17 @@
+{
+ "case_id": "OC-006",
+ "prediction_text": "当前受挫后不能复起：1935年正在甲寅运，寅申相冲冲动食神根与企业根基，危机不是小波折——企业系统收缩、本人权位财势自此下行，往后无回到丙辰高峰的运；远段在甲寅运内健康与事业同衰，有在本运段内终局之危，寿约六十余。近段凶、远段续凶，一段终局方向为不利。",
+ "direction_claim": "unfavorable",
+ "timing_claim": "命造年档（问事业往后走势）：窗口以甲寅大运段为限（约1932-1942年段），主坐标为该运前半段危机深化、本运内见终局，不复起",
+ "basis": "八字篇：癸酉庚申戊午甲寅，戊日申月，庚申酉食伤金旺生癸财，食伤生财成链主实业大富（原局上限为实业巨头级，已验于前运丙辰火土扶身担财之峰）；1935问时甲寅运：作用表——运干甲七杀→病字申金食神根：寅申冲，食神根被冲去；→用神午火印：寅午半合暂扶而不解冲；双向对决左栏（复起）只有印得半合一证，右栏（续衰）有冲根、杀攻身两证直指病字用神，右栏胜，定逆主线。通则(i)(j)：近段危机、远段无翻转触发（无运冲去甲杀或填实申根），故不虚构先凶后吉，远段延续首段方向。病字为申金根被冲，病位主筋骨肺肠外伤冲之疾；破耗之因即企业根基被冲、杀来夺势连带耗财。",
+ "confidence": 0.66,
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/chinese-bazi-ziwei.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md"
+ ]
+}

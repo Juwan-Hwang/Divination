@@ -1,0 +1,17 @@
+{
+ "case_id": "OC-001",
+ "prediction_text": "一生先盛后衰：戊土身旺、财杀并见，中年统兵主政一方、位至军政首领级，为一生高峰；晚年运转木水之地而土气被疏、兼逢时局倾覆，权位尽失、退居平民，晚景清贫守节而终，寿约六十余。近段贵显足级，远段无据翻贵，按定性落拓收束。",
+ "direction_claim": "mixed",
+ "timing_claim": "命造年档：先定运再定年段——高峰在壬申、癸酉金水运段（约中年四十至六十岁间，食伤生财、财旺得用），衰落在其后甲戌、乙亥运段，晚年以退隐终",
+ "basis": "八字篇：甲戌戊辰戊申壬子，戊日辰月土旺身强，特格扫描从格未命中（日主有辰戌根、非无根）、专旺未命中（财杀并见相战）、寒燥极未命中，走常规调候格局旺衰合参。主线：身旺喜壬水财与甲木杀疏土，申子会水财势成、杀轻无根，故贵在统兵而非文治、财杀须运助。峰值三核对：壬申癸酉运财得地通根、运干呼应喜用且否决三条未命中，定为峰值；甲戌乙亥运木疏土、水木耗泄且时局外应同衰，终局两运独立判定为逆主线衰运，与破后落拓定性对表一致。病字为旺土壅滞，病位主脾胃/筋骨壅塞类；破耗之因在晚运财杀交攻、权位被时局夺去。",
+ "confidence": 0.66,
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/chinese-bazi-ziwei.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md"
+ ]
+}

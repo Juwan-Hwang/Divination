@@ -1,0 +1,17 @@
+{
+ "case_id": "OC-005",
+ "prediction_text": "一生清贵高显：乙木极旺、食神透秀，主学问文章与法律之名，位至法院最高层级与外交荣衔，名重于权。早年木火运即显才名，中年金运官星得地为权位高峰；晚年安享高寿，寿八十余，以学者法家之名终。婚姻子女平顺，无大破之运。",
+ "direction_claim": "favorable",
+ "timing_claim": "命造年档：高峰在辛酉、庚申金运段（约中年后段，官星得禄、法位最显），壬戌运为过渡吉段，晚年己未运平吉收束",
+ "basis": "八字篇：己亥丁卯乙未己卯，乙日卯月，两卯一亥未合木，身旺成势；丁食神透月主秀气文章，己偏财两透主名利有份；官金不入局为限，贵在法学清贵而非政权。特格专旺木势：同类成势但丁火泄秀、己财耗身，他行有力相战，专旺四判据未全具，未命中，走常规身旺喜火金。峰值三核对：辛酉庚申运官星通根得地、能成法位之贵，运干呼应喜用金，否决三条未命中，定峰值；早运水木助旺只显才名不主权。病字为木旺无金斫，病位主肝胆筋目郁滞；破耗之因轻，主因财透分心学术之外务，无破财大厄。",
+ "confidence": 0.65,
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/chinese-bazi-ziwei.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md"
+ ]
+}

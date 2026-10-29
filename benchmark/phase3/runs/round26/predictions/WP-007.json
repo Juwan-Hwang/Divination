@@ -1,0 +1,16 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Donald Trump wins the 2016 US presidential election, and what decides it is Clinton's scandal burden: the tarot reading on the election points to Clinton being fatally damaged by the email controversy / Clinton Foundation revelations — a late, damaging disclosure around Clinton decides a race she otherwise led, and Trump takes the presidency on 8 November 2016.",
+ "direction_claim": "favorable (for Trump)",
+ "timing_claim": "Election day 8 November 2016; the deciding disclosure falls in the final stretch of the campaign (autumn 2016, chiefly late October) before that date.",
+ "basis": "Tarot (Waite tradition) used for a relationship/event narrative per self-decision table (关系与心理叙事→塔罗): cards drawn on the election (per setting, a Union Square reader drew on it in Aug 2016) read against the already-public factual frame — Clinton's email controversy and Foundation questions are the named vulnerabilities in the setting (fact-priority rule (e): take the象 that fits given facts). Reading: Clinton's side carries the tower-like scandal card weight; Trump's side carries the winning outcome. Deciding factor named concretely: the email scandal, not general momentum.",
+ "confidence": 0.6,
+ "systems_used": [
+  "tarot"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/western-tarot.md"
+ ]
+}

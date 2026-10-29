@@ -1,0 +1,17 @@
+{
+ "case_id": "AS-001",
+ "prediction_text": "不利其在主人（master）处，儿子在母亲自己的家宅处／将回到母亲身边。母亲与儿子两主星将于1638年7月25日下午2时成三合（trine），届时母子相见或确切消息到手。主坐标：7月25日14时；窗口：7月下旬数日内。",
+ "direction_claim": "favorable (son at mother's own house, not with his master)",
+ "timing_claim": "Day-scale: significators perfect a trine on 25 July 1638 at 2 p.m. (main coordinate, stated in the input); window the days around 25 July.",
+ "basis": "卜卦占星（整宫、古典尊贵）：木星为5宫主＝儿子主星，落上升（问卦者一方／母亲所在一侧），主儿子趋向母亲而非留在主人处；月亮在双鱼27°趋合六合土星（4宫主＝母亲家宅），把儿子事连回其家宅；输入明载母亲主星金星与儿子主星木星于7月25日14时成三合，为相见／得讯之应期。依据 kb-snapshot SKILL.md 自决表（具体一事成败/所在→古典卜卦）与 western-astro 篇古典规则（主星×宫位×尊贵×相位）。",
+ "confidence": 0.72,
+ "systems_used": [
+  "horary_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md"
+ ]
+}

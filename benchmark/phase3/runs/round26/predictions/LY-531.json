@@ -1,0 +1,15 @@
+{
+ "case_id": "LY-531",
+ "prediction_text": "方向 favorable：僕人會回。澤天夬之天澤履，三爻、六爻動；用神妻財亥水（題給）。夬主決行、履主踐行在途，兩象皆主其人已在動、在路上，非滯留不歸之象；變履為行人之履，歸意成立。應期（通則a/h/k）：本題行人近事定日檔；三路候選——逢值（亥水用神逢亥日）、逢沖（沖實之路盤面無空亡可據，不成立）、填實（無空破待填，不成立）；取逢值一路，舍沖實、填實因盤面無空墓閘門。窗口：十日內；主座標：亥日。用神逐爻動靜因殘損不可考，故日期只定到逢值之支、不細化時辰。",
+ "direction_claim": "favorable",
+ "timing_claim": "日檔：窗口十日內，主座標亥日（用神妻財亥水逢值）；沖實、填實兩路無據已舍，理由見basis。",
+ "basis": "輸入殘損：逐爻裝卦表OCR錯亂未錄、原文未明記月日，旺衰無月日可權衡；僅據卦名本變推得動爻爻位與卦象、用神類別作斷，置信已降，不臆補逐爻六親與干支。 題給用神妻財亥水；夬/履逐位比對得三、六爻動。行人門類應期對表（chinese-liuyao-meihua.md行人章）：歸期按用神狀態對位取點，本例用神動靜不可考，只取逢值一路並明寫其餘兩路無據；夬決履行之象同主在途將歸。",
+ "confidence": 0.42,
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

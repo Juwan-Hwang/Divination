@@ -1,0 +1,15 @@
+{
+ "case_id": "MH-003",
+ "prediction_text": "所借之物為斧頭（金屬斧刃配木柄之斧），借物者即在門外、當下即揭曉。聞聲占：一聲乾金為上、五聲巽木為下得天風姤四爻動，金木相合之器，候選同為金頭木柄之斧與鋤；以明理校正：冬夕擁爐、夜間扣門急借，取暖劈柴之用合情理者為斧，鋤為白日田間之具、冬夜無此用，故棄鋤取斧。此問為辨物之問、非吉凶之問，方向作中性辨識斷。斷語密度：物品=斧頭一項寫實，人物=門外鄰人，時點=當下即時。",
+ "direction_claim": "mixed",
+ "timing_claim": "無應期：借物辨識為即時揭曉之問，時點即當下扣門之時，明寫不適用應期窗口/主座標。",
+ "basis": "梅花聞聲起卦（kb聞聲起卦節，例MH-03）：乾上巽下天風姤四動，動在上卦上為用金、下巽木為體，金就木成器之象定物類範圍（金刃木柄）。明理一關（kb『推數又須明理』、斧鋤之辨）：兩候選同象，以占題事實校正——冬夕、擁爐、夜扣門三項事實俱指劈柴取暖之斧，鋤與事實不合棄之（通則e事實優先序）。爻辭四爻包無魚辭與辨物無涉，不引作斷、註明。對象核對：應驗對象為所借器物本身（非人對象），與所問『借何物』同一。自檢表：落物品、人物、時點具體項。direction_claim按辨物問作mixed/中性自述，與prediction_text一致（非吉凶向）。依據：kb梅花篇聞聲起卦、明理與事實優先序，SKILL.md通則(e)(f)(g)。",
+ "confidence": 0.65,
+ "systems_used": [
+  "meihua"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

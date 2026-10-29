@@ -1,0 +1,15 @@
+{
+ "case_id": "LY-535",
+ "prediction_text": "方向 unfavorable：慮大計主凶，考核一關難安然度過。火山旅之地火明夷，初爻、四爻、六爻動：旅主羈旅不安、其位不固，明夷主明者見傷、晦暗受抑，兩象疊加正應大計考覈中被黜落、被指摘之憂。斷語：此番大計防有降黜、處分或名位受傷之實，非虛驚；動爻三見主事態多點觸發，非一處小疵。終局單判 unfavorable（通則l）。",
+ "direction_claim": "unfavorable",
+ "timing_claim": "月/年檔（通則k：仕途考核終局類先年後月、不落日）：窗口一年內，主座標明夷象逢值之年內考覈定期，具體月份盤面殘損無據不臆報。",
+ "basis": "輸入殘損：逐爻裝卦表OCR錯亂未錄、原文未明記月日，旺衰無月日可權衡；僅據卦名本變推得動爻爻位與卦象、用神類別作斷，置信已降，不臆補逐爻六親與干支。 旅/明夷逐位比對得初、四、六爻動；旅之不安與明夷之見傷同向主凶，功名以官鬼為用神類別（用神章），本變無一象主升擢，故方向定凶；逐爻與月日缺失，等級只斷難過關、不細斷黜級。",
+ "confidence": 0.47,
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

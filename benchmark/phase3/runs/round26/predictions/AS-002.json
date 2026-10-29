@@ -1,0 +1,17 @@
+{
+ "case_id": "AS-002",
+ "prediction_text": "能富，且靠自身营生自立、不靠婚姻致富。致富之路由自身勤业与本业进身：2宫主兼福点主火星落上升近 Spica，主自力营求得财；木星擢升且近天顶角宫、月亮为10宫主趋合金星，主事业／地位带来财富。财富能持续（2宫头与福点皆固定宫）。应期为年档：月亮趋合金星尚差6°27′，约6–7年内财势成形并累进。",
+ "direction_claim": "favorable (will be rich, by himself, and wealth continues)",
+ "timing_claim": "Year-scale: Moon wants 6°27' of her conjunction with Venus, taken as about 6-7 years to full attainment; fixed signs extend continuance thereafter.",
+ "basis": "金星为上升主近 Regulus（显贵之星）；火星为2宫主兼福点主、落上升近 Spica，主财由自身行动得来而非婚姻；木星擢升于巨蟹、角宫近 culminating，主事业地位提携；月亮（10宫主）离火星、水星之相而趋合金星，尚差6°27′，作年档应期；2宫头与福点俱固定，主财富持续。依据 western-astro 篇尊贵与宫主飞布、SKILL.md 通则(a)(k)应期须先定年档。",
+ "confidence": 0.8,
+ "systems_used": [
+  "horary_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "case_id": "AS-211",
+ "prediction_text": "有利，可找回：马并未远失/被人长期占有，将回到主人手中（失物回到其资财之位）。马所去方向为正西——诸证（第十二宫星座、其主星所在星座）一致指向西方，往西寻/西边传回消息。找回方式偏向马自行走回附近、或在西边被人寻获送回，而非主人长途追索。应期以日/周为单位，失马主星逆行趋合主人第二宫主星，合相完善即回，窗口在数日至数周内。",
+ "direction_claim": "favorable",
+ "timing_claim": "日档（近事寻物）：窗口为问后数日至数周，主坐标为第十二宫主星逆行与第二宫主星合相完善之时；依据为逆行主趋合与月居第二宫的日级近事尺度",
+ "basis": "卜卦占星失物法：第十二宫主（大牲畜/马之significator）逆行——逆行主返回，且正趋合求测者第二宫（资财）之主，即马回到主人资财之中；月亮居第二宫、二宫头附近又有两颗逆行星，同主返回/复得。方向取象：第十二宫星座与其主所在星座等多重证据一致偏西，故断西向。第七宫受克只主曾有窃/占之疑，不压复得主线。输入仅散文位置，降置信。",
+ "confidence": 0.72,
+ "systems_used": [
+  "horary_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md"
+ ]
+}

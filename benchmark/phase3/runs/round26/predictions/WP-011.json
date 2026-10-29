@@ -1,0 +1,16 @@
+{
+ "case_id": "WP-011",
+ "prediction_text": "Donald Trump is re-elected and wins the 2020 US presidential election. In Trump's Vedic chart Jupiter sits in the second house aspecting the tenth house, where the Sun is placed — Jupiter's aspect onto a Sun-occupied tenth (house of power/office) is a rajayoga-type support for retaining the seat of authority, and on this chart reading Trump keeps the presidency in the election of 3 November 2020, his recent COVID illness and recovery notwithstanding.",
+ "direction_claim": "favorable (for Trump)",
+ "timing_claim": "Election day 3 November 2020, the fixed coordinate in the question.",
+ "basis": "Vedic chart reading strictly on the datum supplied for this case: Jupiter in the 2nd aspecting the 10th, Sun placed in the 10th — the graha governing expansion/blessing aspects the house of office which already holds the Sun (authority, the king significator); that is a retention-of-power configuration for an incumbent. Trump's COVID infection/recovery is a transient health affliction already passed by election time (fact in setting) and does not break the 10th-house signature.",
+ "confidence": 0.6,
+ "systems_used": [
+  "western_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

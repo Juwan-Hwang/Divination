@@ -1,0 +1,17 @@
+{
+ "case_id": "BQ-010",
+ "prediction_text": "不利，诉讼不成/难胜：谈朝辅此讼打不赢——官司的关键文书证据落空（父母空亡），呈堂之据无力、官方文书不为其用，案件本身又由蒙之未济，主始则蒙昧不明、终则未济不成，诉讼将以不了了之、拖延无果或败诉收场，不会得到胜诉判决。近段尚在纠缠呈证，远段无成局之象，不宜再投入扩大诉讼。应期上只给月档窗口：文书出空填实之前无胜望，整体以数月内无果而终为终局，不钉死单日。",
+ "direction_claim": "unfavorable",
+ "timing_claim": "月档：窗口为占后数月内，主坐标为父母空亡出空填实所指之月量级——该期只主文书重新被提及，不主胜诉，终局仍为不成；无确切占日（原文未记日），不报日档",
+ "basis": "六爻纳甲残盘作断：诉讼以官鬼为官司/官府、父母为状纸文书证据、世应分双方；本例原文只记蒙之未济与父母空亡（chart_complete=false，无全盘、无确切日期），据此可断者有二——父母空亡主文书证据空而无力、状据不实或呈而不验，正犯诉讼取胜之要害；本卦蒙主事理未明、变卦未济主事终不成，两卦同向主不成。按决策序，空亡不径直等同全盘皆败，但父母恰为讼之命脉且变卦未济同向，故终局按通则(l)单判为unfavorable，不用mixed。残盘所限：旺衰、日月、世应、动爻皆无从核，已降置信，不臆补全盘。",
+ "confidence": 0.55,
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-yijing.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md"
+ ]
+}

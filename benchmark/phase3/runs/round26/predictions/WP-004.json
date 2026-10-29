@@ -1,0 +1,16 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "Hillary Clinton wins the 2016 US presidential election. The conference-panel judgment follows the prevailing indications: Clinton, leading in most polls and the establishment candidate, defeats Donald Trump in the election of 8 November 2016 and becomes president.",
+ "direction_claim": "favorable (for Clinton)",
+ "timing_claim": "Election day 8 November 2016, the fixed coordinate in the question.",
+ "basis": "Mundane election judgment as a conference panel would render it in Oct 2016: no affliction signature strong enough in the supplied material to overturn the consistent polling lead and establishment position of Clinton; panel majority reads the election for the front-runner. Basis is limited to the supplied setting (no candidate birth charts given), hence confidence is only moderate.",
+ "confidence": 0.55,
+ "systems_used": [
+  "western_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

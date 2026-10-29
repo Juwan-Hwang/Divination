@@ -1,0 +1,16 @@
+{
+ "case_id": "WP-003",
+ "prediction_text": "Barack Obama is re-elected and wins the 2012 US presidential election, defeating Mitt Romney. The race is competitive and the count/procedure is messy — Mercury turning retrograde on election day (6 November 2012) signifies delays, recount-type confusion and disputed communications around the result — but the incumbent retains the presidency; the final outcome does not reverse.",
+ "direction_claim": "favorable (for Obama, the incumbent)",
+ "timing_claim": "Election day 6 November 2012 is the fixed coordinate; Mercury retrograde beginning that day governs the immediate counting period (days after 6 Nov), not a change of winner.",
+ "basis": "Election astrology: an incumbent with a competitive but survivable chart retains office; Mercury retrograde on election day is a classic signature of procedural confusion/delayed or contested counting, which affects the process, not the identity of the winner. Panel-consensus style judgment: Obama victory with a messy count.",
+ "confidence": 0.7,
+ "systems_used": [
+  "western_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

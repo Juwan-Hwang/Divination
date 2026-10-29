@@ -1,0 +1,17 @@
+{
+ "case_id": "OC-004",
+ "prediction_text": "仕途贵显在中上层级而非极品：乙木旺、印与食伤并秀，主文名、外交才具，历任使节与内阁职务，是以才学口才立身的外交家命。官星不入原局，故权位有顶、进退反复，不能久居最高实权；晚年运平、退居著述清名，寿约七十余，晚景安而不显。",
+ "direction_claim": "mixed",
+ "timing_claim": "命造年档：高峰在庚子、戊戌运段（约中年，官星透运与财星得地之期，外交与阁职最盛），晚年丙申乙未运平收，无翻贵",
+ "basis": "八字篇：丁丑癸卯乙巳丙子，乙日卯月得令身旺，癸子印星双见，丁丙食伤透，木火通明主文才；官金全缺为格局之限——等级上限规则：上限只至使节阁僚之贵，不许断极品实权，区间下限为清贵文职、上限为内阁级外交要职，断语落区间内。特格未命中。运验：阴男逆行，庚辛运官星补入原局之缺、顺主线成峰候选，戊戌财得地亦吉；终局两运火金交杂独立判定为平，与中上贵显定性对表。病字为子水寒印与巳火相战，病位主心肾不交、眼目血分；破耗之因在官缺之运因进退失据而耗名耗财，非大破。",
+ "confidence": 0.62,
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/chinese-bazi-ziwei.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md"
+ ]
+}

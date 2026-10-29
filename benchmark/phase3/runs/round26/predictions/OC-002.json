@@ -1,0 +1,17 @@
+{
+ "case_id": "OC-002",
+ "prediction_text": "一生贵显足级：庚金得禄、财印相随，出身与仕途俱得力，位至财政金融最高层级、富贵并至，为近现代财政首脑之命。中年火土官印运为高峰，主掌财权；晚年运转金水，贵势渐退、退居海外平静终老，寿高。子女承继有据，晚景不败。",
+ "direction_claim": "favorable",
+ "timing_claim": "命造年档：高峰在丁丑、戊寅官印财运段（约青年末至中年，主政财部之期），其后己卯庚辰运守成，辛巳壬午后段渐退",
+ "basis": "八字篇：甲午乙亥庚申己卯，庚日亥月，金寒水冷，坐申禄日主有根；特格未命中（有申根、有己印生扶）。主线：调候先行，午火年支为寒局之暖、为贵点；乙正财合庚、甲偏财透年，财旺；己正印护身，财印不战，格局成而用神火土得救应。运断主线验：阳男顺行，丁丑戊寅火土运助调候与官印、顺主线定峰值（峰值三核对：用神火土在运支得地、运干呼应、否决三条未命中）；晚运金水寒气再增只作渐退、不作骤败，与贵显定性对表。病字为亥水寒湿，病位主肺肾寒湿、筋骨；破耗因不在财（财为用），耗在晚运寒盛退位。",
+ "confidence": 0.68,
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/chinese-bazi-ziwei.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md"
+ ]
+}

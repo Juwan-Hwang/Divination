@@ -1,0 +1,17 @@
+{
+ "case_id": "AS-008",
+ "prediction_text": "Essex 能取 Reading，但不是强攻破城，而是围困后城方交城／议降。Essex 主星火星（天蝎上升主）虽落陷，却与月亮互容（reception），月亮近 Regulus 在10宫趋合火星，主其得助终成；守方：4宫主土星（守将）落陷主守将弱，国王主星太阳在7宫固定宫主对方僵持一阵；城内粮弹由木星、金星在5宫所示尚有存量，故须围至将尽才交城。应期在围城的4月内、月底交城（主坐标：4月27日前后交城）。",
+ "direction_claim": "favorable (Essex takes Reading, by surrender/composition rather than storm)",
+ "timing_claim": "Month-scale within April: delivery of the town in late April, main coordinate about 27 April as framed in the input's siege setting; no earlier storm date is supported.",
+ "basis": "火星为上升主＝Essex，fall 为弱象，但与月亮互容且月亮居10宫近 Regulus 趋合之，主弱中有救、终成；该趋合以长上升宫论等同四分，主过程费力、非速取；土星为4宫主＝守将且 fall，主守方先衰；太阳（王方）在7宫固定宫主僵持；木星金星在5宫主城中资储尚存，故断围困议降而非强攻。依据 western-astro 篇接纳救应与尊贵规则。",
+ "confidence": 0.76,
+ "systems_used": [
+  "horary_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md"
+ ]
+}

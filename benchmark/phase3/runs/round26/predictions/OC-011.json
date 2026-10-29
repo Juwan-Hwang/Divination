@@ -1,0 +1,17 @@
+{
+ "case_id": "OC-011",
+ "prediction_text": "性情敏感多情、一生结局凶而早：己土得月令、食伤双透主演艺天分与早成名，然财星双亥冲巳、官星乙木无根，感情婚姻为一生祸根，名成之后舆论与情事交迫，有二十余岁自毁之危，寿短，不作长寿断。名高而福薄，结局不利。",
+ "direction_claim": "unfavorable",
+ "timing_claim": "命造年档：终局在二十余岁年段、己卯大运内（约1925-1935年段，卯亥合动财官、情事引爆之期），成名高峰只在庚辰己卯前段的影坛声名，非福寿之峰",
+ "basis": "八字篇：庚戌辛巳己亥乙亥，己日巳月身旺，庚辛食伤透干泄秀主表演天分、早年成名；两亥正财冲巳火用神根、乙七杀时透无根坐亥，女命官星（夫星）虚浮且食伤旺克官——婚姻感情为病。特格未命中。主线：病字为亥水冲巳与乙杀无根，救应无力，格局以秀成名、以情破局。运验：逆行己卯运卯与亥半合、乙杀得卯根而情事坐实，亥卯引动原局财杀冲战，逆主线定低谷终局，与早夭定性对表。病位：巳亥水火冲，病主心肾、情志郁结之疾；破耗之因在情事与名声反噬。子女星食伤旺而时柱杀坐财，承继无据不断有无，只断情缘为祸首。",
+ "confidence": 0.66,
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/chinese-bazi-ziwei.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md"
+ ]
+}

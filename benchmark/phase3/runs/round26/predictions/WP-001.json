@@ -1,0 +1,16 @@
+{
+ "case_id": "WP-001",
+ "prediction_text": "Unfavorable: a major collective affliction — a pandemic — does strike in 2020-2021. The Jupiter-Saturn-Pluto conjunction at the century's lowest cyclical index, with five outer planets compressed within ~100 degrees, is a mass-affliction signature of the same type as the 1918 cluster: a widespread infectious disease spreads across countries, causes very large numbers of deaths, disrupts collective life and economies, and peaks around the exact conjunction in early 2020, remaining the defining affliction through 2020 into 2021.",
+ "direction_claim": "unfavorable",
+ "timing_claim": "Window: calendar years 2020-2021 as asked; main coordinate: early 2020, at/just after the exact Jupiter-Saturn-Pluto conjunction, with the affliction extending through 2021. Timing basis: mundane conjunction exactness, year scale (k/h: year档 for collective/远期 question).",
+ "basis": "Mundane astrology per kb: outer-planet clustering and cyclical-index low = collective crisis signature; setting itself notes comparable clusters coincided with 1918, 1954, 1968, 1982 affliction years; Pluto (mass death/transformation) joined to Saturn (restriction) and Jupiter (spread/scale) in conjunction reads as epidemic spread plus restriction of collective life. No birth chart is supplied, so no natal-house claims are made;断语 rests only on the given configuration.",
+ "confidence": 0.78,
+ "systems_used": [
+  "western_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

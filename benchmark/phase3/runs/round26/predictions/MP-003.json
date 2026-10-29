@@ -1,0 +1,15 @@
+{
+ "case_id": "MP-003",
+ "prediction_text": "韩国瑜会参选2020年总统：2019年内将表态参选，并经国民党初选/征召程序成为候选人，不会安于只做满高雄市长。『韩流』声势与其个人进取之势在2019年中达峰，参选动作落在2019年上半年至年中。应期以月为尺度：2019年年中前后定局。",
+ "direction_claim": "favorable",
+ "timing_claim": "应期单位为月：窗口为2019年上半年至年中，主坐标为2019年年中（初选定时点）",
+ "basis": "输入残损：只有出生年、无出生月日时与出生地，按八字篇『必需输入』不能排全四柱与大运，只取年柱与流年作弱据，主断以通则(e)事实优先序用占题给定的选情/民调事实收束，故置信下调。方向以题中第一主体（或标题主体）为承受对象计。此处favorable指『会参选』这一所问事件成立，非指其当选。事实依据：就任仅两周外界已直攻大位之议、声势正盛且国民党内无更强人选，参选几为顺势之举；韩1957丁酉年生，年柱层面无可据之阻（弱据）。",
+ "confidence": 0.68,
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

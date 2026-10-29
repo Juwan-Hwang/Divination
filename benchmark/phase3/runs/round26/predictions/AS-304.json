@@ -1,0 +1,17 @@
+{
+ "case_id": "AS-304",
+ "prediction_text": "特朗普胜选：2024年美国总统选举由共和党候选人唐纳德·特朗普赢得，击败卡玛拉·哈里斯，取得超过270张选举人票并重返白宫；选情虽胶着、个别摇摆州差距小，但关键摇摆州整体倒向特朗普，哈里斯不会成为首位女总统。结果在投票日后数日内即明朗，不出现长期未决。",
+ "direction_claim": "favorable",
+ "timing_claim": "月档：窗口为2024年11月投票前后，主坐标为2024年11月5日投票日所在周内结果明朗；依据为选举日这一事件尺度，先定月不细推计票小时",
+ "basis": "独立作断：输入残损（无两候选人出生盘、无选举日星盘、无行运数据），只能按事实约束作断——问时民调接近、 incumbency 一方（民主党执政）承受通胀与边境等执政包袱，挑战者一方动员与摇摆州结构占优；按占星自决亦取『在位阵营星象受压、 challenger 得势』一向。故断特朗普胜。方向自述favorable指对所问『谁胜』给出明确胜方（特朗普）一义。无盘面可回扣，置信中低，不臆造选举人票具体数字为断语核心（只断过270门槛）。",
+ "confidence": 0.55,
+ "systems_used": [
+  "western_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md"
+ ]
+}

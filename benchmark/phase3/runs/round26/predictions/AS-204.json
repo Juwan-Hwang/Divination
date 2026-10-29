@@ -1,0 +1,17 @@
+{
+ "case_id": "AS-204",
+ "prediction_text": "病在胸腹（乳房与胃脘一带），是土星性的寒湿/忧郁质、固定难移之疾，可治性差、病程长。6宫受落陷之星所污、上升主刚离土星右四分而土星当时在巨蟹（主胸与胃），定病位胸腹；月亮在4宫与土星同处、四角皆固定，主病已成形而固定，非旦夕可解。近段病势沉重难动，远段亦无速愈之象，只能定为缠绵难愈之症，不作速死断、亦不作可速愈断。",
+ "direction_claim": "unfavorable (fixed, lingering disease of breast/stomach; not readily curable)",
+ "timing_claim": "Month-scale and longer: all angles fixed fixes the duration scale at months, with no applying benefic aspect given from which a recovery month could be named.",
+ "basis": "疾病占：6宫被 fall 之星所污定病重；上升主离土星四分、土星在巨蟹，按星座主身体部位定胸/胃；月亮4宫合土星主沉滞于内；四角固定按 Lilly 法主病固定难移、疗程长。无任何吉星趋合上升主之救应可据以断速愈，故按通则(b)以强度同级落『难愈』而不拔高为速死。依据 western-astro 篇古典疾病指代与通则(i)近远两段俱查（远段无转愈触发，明言无据）。",
+ "confidence": 0.62,
+ "systems_used": [
+  "horary_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md"
+ ]
+}

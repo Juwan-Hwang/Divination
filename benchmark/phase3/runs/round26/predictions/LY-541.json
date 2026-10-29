@@ -1,0 +1,15 @@
+{
+ "case_id": "LY-541",
+ "prediction_text": "方向 favorable：往前處脫貨有利，但利遲而薄、先蓄後脫。風天小畜之乾為天，僅四爻動：小畜主蓄積未暢、貨一時未能盡脫，獨動一爻而上體巽變乾，本變終歸純乾剛健流通，貨終有出路、價終可成。斷語：此行脫貨可成、終局得利，惟過程有小畜之遲滯，防先壓價後成交、利不在首筆而在後段；終局單判 favorable（通則l），量級按小畜校準為小至中利，不作大利斷（通則b：變象強度未及大利之格，不無據升格）。",
+ "direction_claim": "favorable",
+ "timing_claim": "月檔：窗口一月內，主座標四爻動而逢值、貨脫成之期；具體干支盤面殘損無據不臆報，只定月檔。",
+ "basis": "輸入殘損：逐爻裝卦表OCR錯亂未錄、原文未明記月日，旺衰無月日可權衡；僅據卦名本變推得動爻爻位與卦象、用神類別作斷，置信已降，不臆補逐爻六親與干支。 小畜/乾逐位比對得四爻獨動；求財以妻財為用神（用神章），逐爻財位不可考，只就動化定性：小畜之蓄為量級壓制依據、變乾之通為終局方向依據，依通則(b)(j)分開寫明。",
+ "confidence": 0.44,
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "case_id": "MP-004",
+ "prediction_text": "蔡英文当选连任，韩国瑜落败。2019年11月时韩民调已持续落后，剩约两个月无足够翻盘变量（无重大对手失误级触发），差距在投票日只会定格为明确落败而非险胜。应期：2020年1月投票日定局。",
+ "direction_claim": "favorable",
+ "timing_claim": "应期单位为日（选举事件）：主坐标为2020年1月11日投票日",
+ "basis": "输入残损：只有出生年、无出生月日时与出生地，按八字篇『必需输入』不能排全四柱与大运，只取年柱与流年作弱据，主断以通则(e)事实优先序用占题给定的选情/民调事实收束，故置信下调。方向以题中第一主体（或标题主体）为承受对象计。方向以第一主体蔡英文计（favorable=蔡胜）。事实依据全在占题：多项民调韩持续落后蔡，距投票约两个月，按通则(e)以此事实收束，不凭年柱弱据翻转民调方向。",
+ "confidence": 0.78,
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

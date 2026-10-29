@@ -1,0 +1,17 @@
+{
+ "case_id": "OC-013",
+ "prediction_text": "一生以技艺成大名、中年最盛、晚年受时局冲击：辛金旺、官杀火炼金成器，主梨园宗师级声名与弟子满门之承继；中年辛巳壬午运杀印火候到位为高峰。晚年乙酉运比劫重重、酉酉自刑，又逢动荡时局，名高招忌、晚景凄凉受困，寿约八十而终。事业 favorable、晚年 unfavorable，整体 mixed。",
+ "direction_claim": "mixed",
+ "timing_claim": "命造年档（八岁起运）：高峰辛巳、壬午运段（约38-58岁，1933-1953年段，艺业宗师地位确立），晚年乙酉运（约78岁后）为受困终局段",
+ "basis": "八字篇：甲午丁丑辛酉甲午，辛日丑月坐酉禄，身旺有根；丁七杀透月、两午杀根，甲正财两透生杀，杀财相生而身能担，主以技艺纪律成名（火炼辛金成器之象）；特格专旺金：丑酉半合金但丁午火旺相战，判据③未具，未命中，走常规身旺喜火木。主线：病在金寒（丑酉寒金无火则顽），丁午火为药为用。峰值三核对：辛巳运巳火杀得地、辛金运干同身，壬午运午火用神得禄，两运呼应火用且否决未命中，辛巳先到定峰值、壬午次峰；终局乙酉运独立判定：乙财透而酉比冲动、酉酉自刑引动坐支，逆定性翻转触发为运支酉自刑冲坐下禄根且时局外应同凶，写明终局逆定性依据后才断晚景受困。病字寒金与火战，病位主肺与筋骨、血分；破耗之因在晚运比劫夺财、因名望招耗。时午杀星主弟子/子女以技艺承继者众。",
+ "confidence": 0.65,
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/chinese-bazi-ziwei.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md"
+ ]
+}

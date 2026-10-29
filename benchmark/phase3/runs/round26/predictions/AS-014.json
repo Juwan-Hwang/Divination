@@ -1,0 +1,17 @@
+{
+ "case_id": "AS-014",
+ "prediction_text": "偷钱者不是所疑的两名女仆，而是水星所示的一名年轻男子（仆役/学徒一类、手脚轻捷的少年型人物）。火星（疑似女仆）与土星（另一所疑者）虽被指认，却各居自己的界与面（term/face），按 Lilly 法有此 dignities 者不取为贼，故排除；水星落角宫、毫无本质尊贵、合土星而四分火星，为贼主星；月亮落阳性星座趋合火星、诸星多阳性，同指作案者为男性。钱追回则难：水星合土星、四分火星，贼星受重克又无财回问者之相位，故断赃款大半不得回。",
+ "direction_claim": "unfavorable (thief a young man, not the suspected women; money largely not recovered)",
+ "timing_claim": "No timing coordinate derivable: no applying aspect carrying the money back to the querent is given in the positions.",
+ "basis": "失窃占：Lilly 明规居 term/face 者不作贼星——火星、土星正以此被排除（输入明载）；水星角宫无尊贵、合土星四分火星为唯一合格贼星，水星主少年/仆役型人物；月亮阳性座、水星与阳性星合相四分，性别取男。追赃一路无问者主星与财星的趋合/接纳，故断难回。依据 western-astro 篇古典规则与输入所载 Lilly 本人取舍法。",
+ "confidence": 0.66,
+ "systems_used": [
+  "horary_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md"
+ ]
+}

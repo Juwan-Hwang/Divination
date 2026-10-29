@@ -1,0 +1,15 @@
+{
+ "case_id": "LY-502",
+ "prediction_text": "方向：自陈可解、无大咎（favorable）。断语：世爻官鬼酉金卯月冲破，本主申辩处境不利、上位不喜；幸四爻子孙午火发动，子孙为解忧脱罪之福神，午火得巳日生扶有力，动克官鬼主辩白得力、责难被子孙化去；子孙化妻财丑土泄气，效力稍减，故断可脱大咎、或有小处分财耗，不至重罪。应期：窗口旬内，主坐标午日（子孙值日）。",
+ "direction_claim": "favorable",
+ "timing_claim": "应期跨度日档（自陈近事日尺度）：窗口旬内，主坐标午日——子孙午火值日、克官解难落实之期",
+ "basis": "自陈以官鬼为责难、子孙为解神合看：世酉金月破先走决策序——世得巳日? 日火克金无生扶，月破为真破象，近段不利成立；子孙午火动克官为解法链（复核解法意识：子孙动即解难之神），动化方向核对：午火化丑土异五行为泄、非回头克，化神丑土卯月休囚，解力打折只调量级；终局按（l）单判取子孙解后之favorable，月破只压近段过程。动化方向：子孙动化泄成立；反转条件：部分成立（子孙解难）但未全翻，只支撑脱咎不支撑全吉，故置信降。",
+ "confidence": 0.57,
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

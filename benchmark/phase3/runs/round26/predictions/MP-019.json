@@ -1,0 +1,17 @@
+{
+ "case_id": "MP-019",
+ "prediction_text": "林郑月娥当选2017年香港行政长官。2017年3月26日选委会投票，林郑得票居首过半，曾俊华次之、胡国兴最末；花落女性候选人。置信中上：仅有三人生年，以生年支与流年支作用参断。",
+ "direction_claim": "favorable_to_lam_cheng_yuet_ngor_lam_wins",
+ "timing_claim": "事件型日档：窗口为2017年3月25日写作时至26日投票，主坐标为2017年3月26日投票日",
+ "basis": "三人生年支对决（八字年柱参断）：林郑1957丁酉、胡国兴1946丙戌同为酉/戌一组，曾俊华1951辛卯；2017为丁酉年——林郑年支酉逢流年酉值位、得岁君同气扶身，为三人中唯一与当年值位同气者；曾卯逢酉冲，年根被当年冲动，主争位受冲落败；胡戌逢酉为酉戌相害，气泄于害、无值位之助。值位>相害>被冲，次序落为林郑胜、曾次、胡末。事实优先序(e)辅证：林郑获体制支持、小圈子票源占优，与年支值位同向收敛。",
+ "confidence": 0.72,
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/chinese-bazi-ziwei.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md"
+ ]
+}

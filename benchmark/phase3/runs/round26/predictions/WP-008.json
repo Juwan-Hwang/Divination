@@ -1,0 +1,16 @@
+{
+ "case_id": "WP-008",
+ "prediction_text": "Narendra Modi and the BJP/NDA win the 2019 Lok Sabha elections: Modi returns as Prime Minister for a second term, and wins decisively — a clear majority-scale victory rather than a narrow or losing result — when votes are counted on 23 May 2019.",
+ "direction_claim": "favorable (for Modi / BJP-NDA)",
+ "timing_claim": "Counting day 23 May 2019 is the fixed coordinate; voting 11 Apr-19 May 2019 is the window given in the question.",
+ "basis": "Election judgment: the incumbent Modi seeks a second term with no affliction/change signature supplied in the setting strong enough to displace him; the clairvoyant consensus reported at the time of asking (30 Mar 2019, before any votes) ran in Modi's favour, and the chart-of-the-moment reading concurs — continuity of the strong incumbent. No candidate birth data supplied, so the断 rests on incumbency + absence of a rupture signature, confidence moderate-high.",
+ "confidence": 0.7,
+ "systems_used": [
+  "western_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

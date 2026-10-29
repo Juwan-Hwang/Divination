@@ -1,0 +1,17 @@
+{
+ "case_id": "OC-012",
+ "prediction_text": "成名在少年、后半生以婚姻为困：丁火身弱土重，庚午运火助身时以泳技成全国冠军、声名最盛；其后辛未壬申癸酉金水财官运身弱不任，名声渐退、婚姻多次波折且易受权势人物牵缠，晚年甲戌运木印透出始稍安。先 favorable 后 unfavorable，整体 mixed，晚景平而不显，寿中上。",
+ "direction_claim": "mixed",
+ "timing_claim": "命造年档（五岁起运，运序输入已给）：高峰庚午运（约15-25岁，1933-1943年段，泳坛成名），低谷壬申癸酉运（约35-55岁，婚姻与名声困段），甲戌运晚年平收",
+ "basis": "八字篇：己未戊辰丁未戊申，丁日辰月，戊己土食伤三重泄身，丁火无木印、无火根（未中丁为余气），身弱土重埋火；特格从儿：食伤成势合②，然丁在未有余气根、生扶未全断，从儿不真，走身弱喜木火。主线：病在土重泄身，救在木印火比。逐运验（运序与起运输入已给）：己巳庚午火运扶身顺主线，庚午定峰值（运支午为丁火禄地、运干庚财被火炼，否决未命中）；辛未运土金续泄转平；壬申癸酉官杀财旺攻弱身，逆主线低谷，主婚姻受制；甲戌印透稍安。交运带单独看：庚午转辛未为名退之交、壬申交运为婚姻困局之始。病字辰未湿燥土，病位主脾胃与血气郁滞；破耗之因在财官运因婚姻名声连带耗损。",
+ "confidence": 0.64,
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/chinese-bazi-ziwei.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round26/kb-snapshot/references/calibration.md"
+ ]
+}

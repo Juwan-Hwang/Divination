@@ -1,0 +1,17 @@
+{
+ "case_id": "OC-025",
+ "prediction_text": "预书应验：到了预先写定的年月日，那把椅子果然被人坐破——预言的时间与事件两项皆验，不是偶合性的沾边。断语落项：物品＝自家之椅一把（对象项）；事件＝届期被坐破（时点项，系于预书所定之日）；数量＝椅一、破一（数量项）。",
+ "direction_claim": "favorable",
+ "timing_claim": "无具体日期可报：预书所定的年月日输入未给，按纪律不臆造日期；只断届预书所定之期事必应验——应期坐标即『预书所书之年月日』本身，窗口与主坐标同为该日。此问为单点验证事项，无近远两段，不适用两段式。",
+ "basis": "输入残损先行注明：本例未给卦象、起卦数与预书的具体年月日文字，无盘面可走体用生克，按纪律不虚构卦象、不臆造日期，只据占题所给作断并降置信。其一，事实优先序与占题语境：setting明言『届期验之』的验证结构——预书先行、届期对验，所问正是此验证是否成立。其二，出处著录为输入原文所给：provenance题名『置椅坐破』，事目本身即以坐破为题，本断据占题自带的事目与验证语境定应验，不引外部结局文件。其三，明理一关：预书小事（椅破）而敢预定年月日，正是此类成例的验证形态——小事、定期、亲验三件俱备，无含糊空间，故断两项（时与事）皆验而非只验其一。对象定位复核：应验对象为椅子本身这一非人器物，不回收到坐椅之人或其家身上——断的是椅破，不是人祸。体系标注：归梅花序文成例而无卦可走，systems_used记meihua仅表归属，置信0.40因残损而降。所用之法：梅花明理，托名文本著录存疑照实标注。",
+ "confidence": 0.4,
+ "systems_used": [
+  "meihua"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-yijing.md"
+ ]
+}

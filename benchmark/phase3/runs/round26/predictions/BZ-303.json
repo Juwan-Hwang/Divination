@@ -1,0 +1,15 @@
+{
+ "case_id": "BZ-303",
+ "prediction_text": "香港地运落点：八运（2004-2023）艮土当旺，楼市在2016年后仍有一段高位运行，但运末气衰——2019-2020年前后见顶回落之象渐显，至2023-2024年交入九运为明确转折：楼价与经济地运由旺转弱、高位回落，2024年已处衰运之初而非旺运之续。两段分判：近段（2016至约2019）高位偏强，远段（2020至2024）转弱下跌，终局以弱收。",
+ "direction_claim": "mixed",
+ "timing_claim": "年档：转折窗口2020-2024年，主坐标2024年交九运之年；近段高点在2019年前后。不细化到月。",
+ "basis": "输入残损：无具体盘面/坐向数据，仅有地运占题，按风水理气三元九运通例（八运艮土2004-2023、九运离火2024起）作运气层判断，basis据实注明：kb-snapshot/references/chinese-bazi-ziwei.md附节明言本库只作文化背景、不出精细风水断语，故只给九运交替的年档方向、不给坐向吉凶，置信下调。依据SKILL.md通则(i)两段式与(k)年档。",
+ "confidence": 0.38,
+ "systems_used": [
+  "fengshui"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round26/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round26/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}
