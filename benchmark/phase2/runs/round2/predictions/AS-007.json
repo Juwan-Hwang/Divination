@@ -1,0 +1,13 @@
+{
+ "id": "AS-007",
+ "direction": "positive",
+ "assertions": [
+  "Waller 一方获胜，Hopton 一方被击败退（对象：两军胜负）",
+  "Hopton 后援/供给不继：九宫只有 Mars 与南交点，无现成补给可用（对象：Hopton 军需）",
+  "胜负在交战当日即见分晓，不是拖延的僵局（对象：会战结果）"
+ ],
+ "timing": "日档唯一坐标：1644年3月29日交战当日决出胜负",
+ "summary": "Waller 战胜 Hopton。",
+ "method": "Lilly horary 战争占：上升与月亮、Jupiter、Venus 主 Waller，七宫主 Saturn 主 Hopton，整宫制古典法",
+ "reasoning": "Waller 侧：Moon 在其擢升位且与 Jupiter 同在，主事星得尊贵；Sun（Waller 财力/助军之主）在第十宫且正居其擢升度数 19°Aries，助军居高得力；Moon 行速快、光增，距 Venus 11°向成象。Hopton 侧：Saturn 落陷、peregrine、sub radiis、无任何相位，又以刑相临七宫尖，弱而孤绝；九宫无补给之星。两边强弱悬殊且无翻转信号，单判 Waller 胜。事实对回：盘面信号全部出自题面 key_positions，未用题外结局。"
+}
