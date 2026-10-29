@@ -1,0 +1,32 @@
+{
+  "id": "NM-012",
+  "tradition": "tarot",
+  "subject": {
+    "name_or_desc": "第96届奥斯卡金像奖（2024-03-10）最佳女主角奖归属",
+    "gender": "不适用"
+  },
+  "context": {
+    "question": "第96届奥斯卡最佳女主角奖将归谁？",
+    "asked_at": "2024-01-25（提名公布后、颁奖礼2024-03-10之前）",
+    "setting": "第96届奥斯卡定于2024-03-10举行；最佳女主角提名名单：Annette Bening（《Nyad》）、Lily Gladstone（《花月杀手》）、Sandra Hüller（《坠落的审判》）、Carey Mulligan（《音乐大师》）、Emma Stone（《可怜的东西》）。",
+    "attachments": {}
+  },
+  "provenance": {
+    "carrier_type": "具名职业预测者于结果揭晓前公开发表（载体与时间戳证据见同批 cases.jsonl 对应条目；题面不载标题与链接以防断语泄漏）",
+    "published_at": "2024-01-25"
+  },
+  "language": "en",
+  "license_status": "internal-research-only",
+  "redistributable": false,
+  "outcome_grade": "A",
+  "contamination": "high",
+  "holdout_eligible": false,
+  "notes": {
+    "tags": [
+      "奥斯卡",
+      "电影奖项"
+    ],
+    "leak_check": "已逐例自检：题面仅含对象背景与预测时点情境，不含大师断语、不含结局及结局派生信息；出处标题/链接已中性化剔除。",
+    "cross_ref": "NM-002, NM-010"
+  }
+}

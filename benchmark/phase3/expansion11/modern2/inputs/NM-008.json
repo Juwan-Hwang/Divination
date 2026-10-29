@@ -1,0 +1,33 @@
+{
+  "id": "NM-008",
+  "tradition": "vedic-astrology",
+  "subject": {
+    "name_or_desc": "2024年印度超级联赛（IPL）总决赛：加尔各答骑士（KKR）对海得拉巴日出（SRH）",
+    "gender": "不适用"
+  },
+  "context": {
+    "question": "2024年IPL总决赛谁将夺冠？",
+    "asked_at": "2024-05-23（决赛定于2024-05-26，金奈）",
+    "setting": "IPL 2024 总决赛由 KKR 对阵 SRH，2024-05-26于金奈举行。",
+    "attachments": {}
+  },
+  "provenance": {
+    "carrier_type": "具名职业预测者于结果揭晓前公开发表（载体与时间戳证据见同批 cases.jsonl 对应条目；题面不载标题与链接以防断语泄漏）",
+    "published_at": "2024-05-23"
+  },
+  "language": "en",
+  "license_status": "internal-research-only",
+  "redistributable": false,
+  "outcome_grade": "A",
+  "contamination": "medium",
+  "holdout_eligible": false,
+  "notes": {
+    "tags": [
+      "板球",
+      "联赛决赛",
+      "冠军预测"
+    ],
+    "leak_check": "已逐例自检：题面仅含对象背景与预测时点情境，不含大师断语、不含结局及结局派生信息；出处标题/链接已中性化剔除。",
+    "cross_ref": ""
+  }
+}

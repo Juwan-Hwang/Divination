@@ -1,0 +1,33 @@
+{
+  "id": "NM-011",
+  "tradition": "vedic-astrology",
+  "subject": {
+    "name_or_desc": "2023年板球世界杯（印度主办）冠军归属",
+    "gender": "不适用"
+  },
+  "context": {
+    "question": "2023年板球世界杯冠军归谁？",
+    "asked_at": "2023-10月（赛事2023-10-05开赛，决赛2023-11-19）",
+    "setting": "2023年板球世界杯在印度举行；印度队队长 Rohit Sharma 生于1987年。预测者 Greenstone Lobo 长期主张1987年出生的一代队长运势论。",
+    "attachments": {}
+  },
+  "provenance": {
+    "carrier_type": "具名职业预测者于结果揭晓前公开发表（载体与时间戳证据见同批 cases.jsonl 对应条目；题面不载标题与链接以防断语泄漏）",
+    "published_at": "2023-10月"
+  },
+  "language": "en",
+  "license_status": "internal-research-only",
+  "redistributable": false,
+  "outcome_grade": "A",
+  "contamination": "high",
+  "holdout_eligible": false,
+  "notes": {
+    "tags": [
+      "板球",
+      "世界杯",
+      "冠军预测"
+    ],
+    "leak_check": "已逐例自检：题面仅含对象背景与预测时点情境，不含大师断语、不含结局及结局派生信息；出处标题/链接已中性化剔除。",
+    "cross_ref": "NM-009, WP-009"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "NM-007",
+  "tradition": "vedic-astrology",
+  "subject": {
+    "name_or_desc": "2015年斯里兰卡总统选举（现任总统 Mahinda Rajapaksa）",
+    "gender": "男"
+  },
+  "context": {
+    "question": "2015年斯里兰卡总统选举，现任总统 Rajapaksa 能否连任？",
+    "asked_at": "2015-01-06（选举定于2015-01-08）",
+    "setting": "Rajapaksa 提前近两年举行选举、寻求第三任期；反对派共同候选人为其前卫生部长 Maithripala Sirisena。预测者 Sumanadasa Abeygunawardena 为 Rajapaksa 的私人占星师。",
+    "attachments": {}
+  },
+  "provenance": {
+    "carrier_type": "具名职业预测者于结果揭晓前公开发表（载体与时间戳证据见同批 cases.jsonl 对应条目；题面不载标题与链接以防断语泄漏）",
+    "published_at": "2014-12-30 / 2015-01-06"
+  },
+  "language": "en",
+  "license_status": "internal-research-only",
+  "redistributable": false,
+  "outcome_grade": "A",
+  "contamination": "medium",
+  "holdout_eligible": false,
+  "notes": {
+    "tags": [
+      "总统选举",
+      "连任预测",
+      "爆冷"
+    ],
+    "leak_check": "已逐例自检：题面仅含对象背景与预测时点情境，不含大师断语、不含结局及结局派生信息；出处标题/链接已中性化剔除。",
+    "cross_ref": ""
+  }
+}

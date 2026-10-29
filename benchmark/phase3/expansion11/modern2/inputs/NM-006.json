@@ -1,0 +1,32 @@
+{
+  "id": "NM-006",
+  "tradition": "western-astrology",
+  "subject": {
+    "name_or_desc": "2019年芝加哥市长选举（候选人 Bill Daley）",
+    "gender": "男"
+  },
+  "context": {
+    "question": "2019年芝加哥市长选举谁能胜出？",
+    "asked_at": "2019-02-20（首轮投票2019-02-26）",
+    "setting": "芝加哥市长选举首轮2019-02-26举行，14名候选人参选；无人过半数则前两名进入2019-04-02决选。Bill Daley 为候选人之一，前市长 Richard M. Daley 之子、曾任白宫幕僚长。",
+    "attachments": {}
+  },
+  "provenance": {
+    "carrier_type": "具名职业预测者于结果揭晓前公开发表（载体与时间戳证据见同批 cases.jsonl 对应条目；题面不载标题与链接以防断语泄漏）",
+    "published_at": "2019-02-20"
+  },
+  "language": "en",
+  "license_status": "internal-research-only",
+  "redistributable": false,
+  "outcome_grade": "A",
+  "contamination": "medium",
+  "holdout_eligible": false,
+  "notes": {
+    "tags": [
+      "美国地方选举",
+      "市长选举"
+    ],
+    "leak_check": "已逐例自检：题面仅含对象背景与预测时点情境，不含大师断语、不含结局及结局派生信息；出处标题/链接已中性化剔除。",
+    "cross_ref": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "NM-001",
+  "tradition": "mundane-astrology",
+  "subject": {
+    "name_or_desc": "第56届欧洲歌唱大赛（2011，杜塞尔多夫）冠军归属",
+    "gender": "不适用"
+  },
+  "context": {
+    "question": "2011年欧洲歌唱大赛冠军将归哪个国家？",
+    "asked_at": "2010-10-16（预测于 Skyscript 论坛首发时点；作者页面自记日期2010-12-15，末次增补2011-04-22；决赛2011-05-14）",
+    "setting": "第56届欧洲歌唱大赛定于2011-05-14在德国杜塞尔多夫举行，43国参赛；预测首发时多数国家尚未选定参赛曲目。",
+    "attachments": {}
+  },
+  "provenance": {
+    "carrier_type": "具名职业预测者于结果揭晓前公开发表（载体与时间戳证据见同批 cases.jsonl 对应条目；题面不载标题与链接以防断语泄漏）",
+    "published_at": "2010-10-16（增补至2011-04-22）"
+  },
+  "language": "en",
+  "license_status": "internal-research-only",
+  "redistributable": false,
+  "outcome_grade": "A",
+  "contamination": "low",
+  "holdout_eligible": true,
+  "notes": {
+    "tags": [
+      "欧洲歌唱大赛",
+      "娱乐赛事",
+      "冠军预测"
+    ],
+    "leak_check": "已逐例自检：题面仅含对象背景与预测时点情境，不含大师断语、不含结局及结局派生信息；出处标题/链接已中性化剔除。",
+    "cross_ref": ""
+  }
+}

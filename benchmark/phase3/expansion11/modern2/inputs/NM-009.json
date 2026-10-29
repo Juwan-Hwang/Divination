@@ -1,0 +1,33 @@
+{
+  "id": "NM-009",
+  "tradition": "vedic-astrology",
+  "subject": {
+    "name_or_desc": "2017–18灰烬杯系列赛（澳大利亚主场对英格兰，五场测试赛）",
+    "gender": "不适用"
+  },
+  "context": {
+    "question": "2017–18灰烬杯系列赛结果如何？",
+    "asked_at": "2017-11-22（首场测试赛2017-11-23开赛）",
+    "setting": "英格兰为灰烬杯卫冕方；澳大利亚队长 Steve Smith 首次以队长身份出战灰烬杯；新秀 Cameron Bancroft 入选澳大利亚阵容。预测者 Greenstone Lobo 为印度体育占星师，本断首发于其 Sportskeeda 专栏，CricTracker 于赛前一日转载报道。",
+    "attachments": {}
+  },
+  "provenance": {
+    "carrier_type": "具名职业预测者于结果揭晓前公开发表（载体与时间戳证据见同批 cases.jsonl 对应条目；题面不载标题与链接以防断语泄漏）",
+    "published_at": "2017-11-22"
+  },
+  "language": "en",
+  "license_status": "internal-research-only",
+  "redistributable": false,
+  "outcome_grade": "A",
+  "contamination": "medium",
+  "holdout_eligible": false,
+  "notes": {
+    "tags": [
+      "板球",
+      "灰烬杯",
+      "系列赛预测"
+    ],
+    "leak_check": "已逐例自检：题面仅含对象背景与预测时点情境，不含大师断语、不含结局及结局派生信息；出处标题/链接已中性化剔除。",
+    "cross_ref": "WP-009"
+  }
+}

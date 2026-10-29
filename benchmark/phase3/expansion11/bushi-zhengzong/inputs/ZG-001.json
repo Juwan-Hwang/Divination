@@ -1,0 +1,53 @@
+{
+  "id": "ZG-001",
+  "tradition": "liuyao",
+  "subject": {
+    "name_or_desc": "欲劾奏权奸者（未具名，自占）",
+    "gender": null
+  },
+  "context": {
+    "question": "占劾奏他人（欲劾奏权奸，恐反遭其害，问吉凶及有害于我否）",
+    "asked_at": "巳年巳月丁卯日",
+    "setting": "清初占验实录（王洪绪辑录其师杨广含传授及自占验，《卜筮正宗》卷十三、十四十八问答附占验，问答体附断语与应验）",
+    "attachments": {
+      "casting_method": "liuyao",
+      "hexagram": "离宫：火山旅（一世）",
+      "moving_lines": "六爻安静",
+      "chart_lines_top_to_bottom": [
+        "兄弟巳火",
+        "子孙未土",
+        "妻财酉金 应",
+        "妻财申金",
+        "兄弟午火",
+        "子孙辰土 世"
+      ]
+    }
+  },
+  "provenance": {
+    "book": "卜筮正宗",
+    "edition": "华龄出版社《四库存目纳甲汇刊（二）》校正全本（（清）王洪绪撰，郑同校；用户经学校图书馆提供之扫描本）",
+    "license_note": "用户经学校图书馆提供，2026-10-29，内部研究使用（redistributable=false）",
+    "page": "卷十四·第十二问（四生墓绝）附占验例090，书页233（PDF页248–249）"
+  },
+  "language": "zh-Hant",
+  "license_status": "internal-research-only",
+  "redistributable": false,
+  "outcome_grade": "A",
+  "grade_note": "断验分离成立：断语（权势衰、本人无害）在前、原书另以果句载应验在后（结局内容见 outcome 字段），结局为可核事实。待主持终裁：expansion2 在线本轮曾以结局文义残缺弃收（在线本该果句第三字作「淮」，致义不可通）；校正全本 260dpi 复核该字作「准」，文义已通，故本批按 A 建档并如实登记此分歧",
+  "contamination": "low",
+  "contamination_reason": "清初民间/官场占例，求测者与所占之人皆未具名，结局为冷门局部事实，无著名人物与事件，无从常识先验得知",
+  "month_day_complete": true,
+  "chart_complete": true,
+  "completeness_basis": "原书装卦表直载逐爻六亲、地支、世应（书页233，260dpi 复核）：旅卦安静，四爻妻财酉金旁注「冲」（丁卯日冲）。按：本书旅卦下卦地支作申金、午火、辰土（例090 与例123 两见一致），与通行纳甲艮下作子水、寅木、辰土不合，系该本装法/排印之异，逐爻照原书直录，天干本书未印、未臆补；六亲按离宫五行与原书标注一致",
+  "holdout_eligible": true,
+  "notes": {
+    "tags": [
+      "官非",
+      "劾奏",
+      "第十二问",
+      "四生墓绝"
+    ],
+    "comment": "原书例090。三键去重（被劾奏之权奸与占者皆未具名／巳年巳月丁卯日／占劾奏他人）对全池 783 例索引无命中（池内无劾奏题、无丁卯日同题例）",
+    "cross_ref": ""
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "ZG-002",
+  "tradition": "liuyao",
+  "subject": {
+    "name_or_desc": "因误军粮被参者（未具名，自占）",
+    "gender": null
+  },
+  "context": {
+    "question": "占因误军粮被参（问参劾吉凶）",
+    "asked_at": "未月戊申日",
+    "setting": "清初占验实录（王洪绪辑录其师杨广含传授及自占验，《卜筮正宗》卷十三、十四十八问答附占验，问答体附断语与应验）",
+    "attachments": {
+      "casting_method": "liuyao",
+      "hexagram": "坎宫：雷火丰（五世） 之 火山旅",
+      "moving_lines": "初爻子孙己卯木动，化官鬼丙辰土；上爻官鬼庚戌土动，化妻财己巳火",
+      "chart_lines_top_to_bottom": [
+        "官鬼庚戌土",
+        "父母庚申金 世",
+        "妻财庚午火",
+        "兄弟己亥水",
+        "官鬼己丑土 应",
+        "子孙己卯木"
+      ]
+    }
+  },
+  "provenance": {
+    "book": "卜筮正宗",
+    "edition": "华龄出版社《四库存目纳甲汇刊（二）》校正全本（（清）王洪绪撰，郑同校；用户经学校图书馆提供之扫描本）",
+    "license_note": "用户经学校图书馆提供，2026-10-29，内部研究使用（redistributable=false）",
+    "page": "卷十四·第十二问（四生墓绝）附占验例091，书页234（PDF页249）"
+  },
+  "language": "zh-Hant",
+  "license_status": "internal-research-only",
+  "redistributable": false,
+  "outcome_grade": "A",
+  "grade_note": "断语（可保无虞）在前；结局由原书以叙事语「岂知」在断后另载（结局内容见 outcome 字段），为可核事实，与断语可分离。待主持终裁：expansion2 在线本轮曾以「结局无时点且弱」弃收；本批任务 A 级口径不以应期时点为要件，故按 A 建档并如实登记此分歧",
+  "contamination": "low",
+  "contamination_reason": "清初民间/官场占例，求测者与所占之人皆未具名，结局为冷门局部事实，无著名人物与事件，无从常识先验得知",
+  "month_day_complete": true,
+  "chart_complete": true,
+  "completeness_basis": "原书装卦表直载（书页234，260dpi 复核）：上爻官鬼戌土×动化巳、初爻子孙卯木○动化辰，与例首「得丰之旅卦」爻象差及断语「动出戌土」「卯木子孙动」三项互证一致；逐爻天干按通行纳甲（坎宫丰：内离己、外震庚）配定，六亲地支世应与原书全合。六亲全现，无伏神",
+  "holdout_eligible": true,
+  "notes": {
+    "tags": [
+      "官非",
+      "被参",
+      "第十二问",
+      "四生墓绝"
+    ],
+    "comment": "原书例091。三键去重（因误军粮被参者／未月戊申日／占因误军粮被参）对全池 783 例索引无命中（池内无军粮题）",
+    "cross_ref": ""
+  }
+}

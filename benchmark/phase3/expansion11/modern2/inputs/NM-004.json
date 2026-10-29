@@ -1,0 +1,32 @@
+{
+  "id": "NM-004",
+  "tradition": "vedic-astrology",
+  "subject": {
+    "name_or_desc": "2023年特伦甘纳邦议会选举（国大党席次）",
+    "gender": "不适用"
+  },
+  "context": {
+    "question": "2023年特伦甘纳邦议会选举结果如何？",
+    "asked_at": "2023-12-01（投票已于2023-11-30结束，计票定于2023-12-03）",
+    "setting": "特伦甘纳邦议会共119席，多数线60席；现任首席部长 K. Chandrashekar Rao 领导的 BRS 寻求连任，国大党为主要挑战者。",
+    "attachments": {}
+  },
+  "provenance": {
+    "carrier_type": "具名职业预测者于结果揭晓前公开发表（载体与时间戳证据见同批 cases.jsonl 对应条目；题面不载标题与链接以防断语泄漏）",
+    "published_at": "2023-12-01（报道刊出；断语为选前所发）"
+  },
+  "language": "en",
+  "license_status": "internal-research-only",
+  "redistributable": false,
+  "outcome_grade": "A",
+  "contamination": "medium",
+  "holdout_eligible": false,
+  "notes": {
+    "tags": [
+      "印度邦选举",
+      "席次预测"
+    ],
+    "leak_check": "已逐例自检：题面仅含对象背景与预测时点情境，不含大师断语、不含结局及结局派生信息；出处标题/链接已中性化剔除。",
+    "cross_ref": "NM-003, NM-005"
+  }
+}

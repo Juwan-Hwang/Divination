@@ -1,0 +1,33 @@
+{
+  "id": "NM-002",
+  "tradition": "tarot",
+  "subject": {
+    "name_or_desc": "《I'm a Celebrity…Get Me Out of Here!》2024系列（第24季）决赛名次",
+    "gender": "不适用"
+  },
+  "context": {
+    "question": "《I'm a Celebrity…Get Me Out of Here!》2024系列冠军与亚军是谁？",
+    "asked_at": "2024-12-06（决赛定于2024-12-08）",
+    "setting": "决赛三强为 Danny Jones、Coleen Rooney、Richard Coles；Danny Jones 自节目开播起即为博彩公司赔率热门。",
+    "attachments": {}
+  },
+  "provenance": {
+    "carrier_type": "具名职业预测者于结果揭晓前公开发表（载体与时间戳证据见同批 cases.jsonl 对应条目；题面不载标题与链接以防断语泄漏）",
+    "published_at": "2024-12-06"
+  },
+  "language": "en",
+  "license_status": "internal-research-only",
+  "redistributable": false,
+  "outcome_grade": "A",
+  "contamination": "medium",
+  "holdout_eligible": false,
+  "notes": {
+    "tags": [
+      "真人秀",
+      "娱乐赛事",
+      "名次预测"
+    ],
+    "leak_check": "已逐例自检：题面仅含对象背景与预测时点情境，不含大师断语、不含结局及结局派生信息；出处标题/链接已中性化剔除。",
+    "cross_ref": "NM-010, NM-012"
+  }
+}
