@@ -1,0 +1,33 @@
+{
+ "id": "LY-438",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占防漲水沖去麥子（兼問陰晴）",
+  "asked_at": "午月甲申日",
+  "setting": "友人憂漲水沖去麥子，執卦來問；時昨日丙戌",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "天火同人之澤火革（卦名原文未直書，據裝卦推得）",
+   "moving_lines": "上爻子孫戌土○動",
+   "chart_lines_top_to_bottom": [
+    "子孫戌土○應　子孫未土⚋",
+    "妻財申金⚊　　妻財酉金⚊",
+    "兄弟午火⚊　　官鬼亥水⚊",
+    "官鬼亥水⚊世　官鬼亥水⚊",
+    "子孫丑土⚋　　子孫丑土⚋",
+    "父母卯木⚊　　父母卯木⚊"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文庫本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之二·獨發章第三十一"
+ },
+ "language": "zh-Hant"
+}

@@ -1,0 +1,33 @@
+{
+ "id": "LY-422",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占年運",
+  "asked_at": "未月戊辰日",
+  "setting": "卯年占年運（終身運限）",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "地雷復之地山謙（卦名原文未直書，據裝卦推得）",
+   "moving_lines": "三爻兄弟辰土ㄨ動、初爻妻財子水○動",
+   "chart_lines_top_to_bottom": [
+    "子孫酉金⚋　　子孫酉金⚋",
+    "妻財亥水⚋　　妻財亥水⚋",
+    "兄弟丑土⚋應　兄弟丑土⚋",
+    "兄弟辰土ㄨ　　子孫申金⚊",
+    "官鬼寅木⚋　　父母午火⚋",
+    "妻財子水○世　兄弟辰土⚋"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文庫本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之二·增刪黃金策千金賦章第三十四（章界據通行本體例判定，同上）"
+ },
+ "language": "zh-Hant"
+}

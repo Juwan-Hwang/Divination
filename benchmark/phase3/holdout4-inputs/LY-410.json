@@ -1,0 +1,33 @@
+{
+ "id": "LY-410",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占兄何日歸來",
+  "asked_at": "辰月己未日",
+  "setting": "占兄歸期",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "天澤履之兌為澤",
+   "moving_lines": "上爻兄弟戌土○動",
+   "chart_lines_top_to_bottom": [
+    "兄弟戌土○　　兄弟未土⚋",
+    "子孫申金⚊世　子孫酉金⚊",
+    "父母午火⚊　　妻財亥水⚊",
+    "兄弟丑土⚋　　兄弟丑土⚋",
+    "官鬼卯木⚊應　官鬼卯木⚊",
+    "父母巳火⚊　　父母巳火⚊"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文庫本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之二·進神退神章第二十九"
+ },
+ "language": "zh-Hant"
+}

@@ -1,0 +1,33 @@
+{
+ "id": "LY-447",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占何日晴",
+  "asked_at": "午月乙卯日",
+  "setting": "占何日晴",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "火地晉之雷澤歸妹",
+   "moving_lines": "上爻官鬼巳火○動、二爻官鬼巳火ㄨ動、初爻父母未土ㄨ動",
+   "chart_lines_top_to_bottom": [
+    "官鬼巳火○　　父母戌土⚋",
+    "父母未土⚋　　兄弟申金⚋",
+    "兄弟酉金⚊世　官鬼午火⚊",
+    "妻財卯木⚋　　父母丑土⚋",
+    "官鬼巳火ㄨ　　妻財卯木⚊",
+    "父母未土ㄨ應　官鬼巳火⚊"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文庫本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之二·天時章第三十五"
+ },
+ "language": "zh-Hant"
+}

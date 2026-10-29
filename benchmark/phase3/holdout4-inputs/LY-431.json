@@ -1,0 +1,33 @@
+{
+ "id": "LY-431",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占主人目下災悔否（家人代占防害）",
+  "asked_at": "卯月戊戌日",
+  "setting": "現任官府命家人代占主人目下有無災悔",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "水地比之澤山咸",
+   "moving_lines": "四爻子孫申金ㄨ動、三爻官鬼卯木ㄨ動",
+   "chart_lines_top_to_bottom": [
+    "妻財子水⚋應　兄弟未土⚋",
+    "兄弟戌土⚊　　子孫酉金⚊",
+    "子孫申金ㄨ　　妻財亥水⚊",
+    "官鬼卯木ㄨ世　子孫申金⚊",
+    "父母巳火⚋　　父母午火⚋",
+    "兄弟未土⚋　　兄弟辰土⚋"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文庫本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之二·增刪黃金策千金賦章第三十四（章界據通行本體例判定，同上）"
+ },
+ "language": "zh-Hant"
+}

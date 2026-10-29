@@ -1,0 +1,24 @@
+Phase 3 expansion2 inputs 泄漏自查記錄（數據角，2026-10-29）
+
+範圍：expansion2 新增 84 例的 phase3 單文件 inputs（dev-add 59 例在 benchmark/phase3/inputs/，
+holdout4 25 例在 benchmark/phase3/holdout4-inputs/）。
+
+方法：
+1. 結構斷言：84 個文件頂層鍵均恰為 {id, tradition, subject, context, provenance, language}，
+   無任何答案字段（無 master_predictions / outcome / verdict 等）。
+2. 詞彙掃描：對 subject+context 全文掃描結局性措辭（果於/果于/果次/果本/果死/果中/果取/
+   果得/果應/應驗/結局/結果/卒於/死於/後果/病故/壽終/全愈/革職/登科/成婚/復成 等 28 個模式）。
+3. 逐例人眼複核 setting 與 asked_at：setting 只許問卜時已知之事；asked_at 只許占時，
+   不得含應驗時點（第一輪 LY-301/311 前科口徑）。
+
+結果：掃描命中 3 處，全部判定不屬泄漏：
+- LY-323 question「占己悔婚可復成否」與 setting「自占悔婚之後可否復成」——「復成」是問題本身用語。
+- LY-402 setting「占自陳（向上申辯）之後果」——「後果」指所問之事（自陳的後果），非應驗內容。
+其餘 81 例零命中。
+
+多占合斷例的時序說明：LY-401、LY-416、LY-417（女病）、LY-430（掣籤）、LY-432（兩念）、
+LY-445（何日雨三占）、LY-339（尋父兩卦）的 setting 含「再占」字樣，屬第二占的問卜情境本身
+（第二占發生在第一占之後），與第一輪多占合斷例（LY-214/224/227）口徑一致；各例的最終結局
+只在 answers/gold 側。
+
+結論：84 例 inputs 面無大師斷語與結局泄漏。

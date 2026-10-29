@@ -1,0 +1,33 @@
+{
+ "id": "LY-419",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "母占子何日脫厄",
+  "asked_at": "亥月丙午日",
+  "setting": "母占子何日脫厄",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "雷地豫之雷澤歸妹",
+   "moving_lines": "二爻子孫巳火ㄨ動、初爻妻財未土ㄨ動",
+   "chart_lines_top_to_bottom": [
+    "妻財戌土⚋　　妻財戌土⚋",
+    "官鬼申金⚋　　官鬼申金⚋",
+    "子孫午火⚊應　子孫午火⚊",
+    "兄弟卯木⚋　　妻財丑土⚋",
+    "子孫巳火ㄨ　　兄弟卯木⚊",
+    "妻財未土ㄨ世　子孫巳火⚊"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文庫本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之二·兩現章第三十二"
+ },
+ "language": "zh-Hant"
+}

@@ -1,0 +1,33 @@
+{
+ "id": "LY-409",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占出行（出）",
+  "asked_at": "申月乙卯日",
+  "setting": "占出行可否、何時成行",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "水雷屯之水澤節",
+   "moving_lines": "二爻子孫寅木ㄨ動",
+   "chart_lines_top_to_bottom": [
+    "兄弟子水⚋　　兄弟子水⚋",
+    "官鬼戌土⚊應　官鬼戌土⚊",
+    "父母申金⚋　　父母申金⚋",
+    "官鬼辰土⚋　　官鬼丑土⚋",
+    "子孫寅木ㄨ世　子孫卯木⚊",
+    "兄弟子水⚊　　妻財巳火⚊"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文庫本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之二·進神退神章第二十九"
+ },
+ "language": "zh-Hant"
+}

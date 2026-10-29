@@ -1,0 +1,33 @@
+{
+ "id": "LY-435",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占何時得財（閒問古窖）",
+  "asked_at": "未月丙辰日",
+  "setting": "其人閒問家中常見白影、必有古窖，何時得財；其小女方出花（痘疹）",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "澤山咸之澤風大過",
+   "moving_lines": "二爻官鬼午火ㄨ動",
+   "chart_lines_top_to_bottom": [
+    "父母未土⚋應　父母未土⚋",
+    "兄弟酉金⚊　　兄弟酉金⚊",
+    "子孫亥水⚊　　子孫亥水⚊",
+    "兄弟申金⚊世　兄弟酉金⚊",
+    "官鬼午火ㄨ　　子孫亥水⚊",
+    "父母辰土⚋　　父母丑土⚋"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文庫本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之二·增刪黃金策千金賦章第三十四（章界據通行本體例判定，同上）"
+ },
+ "language": "zh-Hant"
+}
