@@ -1,0 +1,27 @@
+{
+ "id": "BQ-008",
+ "tradition": "六爻",
+ "subject": {
+  "name_or_desc": "注家本人",
+  "gender": null
+ },
+ "context": {
+  "question": "卜供膳（供膳差事/职事能成否）",
+  "asked_at": "原文未记月日",
+  "setting": "卜供膳（供膳差事/职事能成否）",
+  "attachments": {
+   "casting_method": "六爻纳甲（原书只记月日与卦象，未记起卦工具）",
+   "hexagram": "临 之 兑",
+   "chart_excerpt": "原文：「得临之兑卦，应临财爻生世……其化入败爻」",
+   "chart_complete": false,
+   "completeness_basis": "原文记本卦临、变卦兑、应临财生世、化入败爻，无全盘、无日期"
+  }
+ },
+ "provenance": {
+  "book": "《卜筮全书》",
+  "edition": "华龄出版社2016年《四库存目纳甲汇刊（六）·校正全本卜筮全书》（（明）姚际隆撰，郑同校；ISBN 978-7-5169-0728-3）扫描PDF，用户经学校图书馆提供",
+  "page": "印刷页149（PDF第166页）（卷八·总断千金赋）",
+  "claimed_source": "书中注家自述亲历/所验之占（千金赋注文第一人称及实占记录，无另引出处）"
+ },
+ "language": "zh-Hans"
+}
