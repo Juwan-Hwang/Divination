@@ -1,0 +1,59 @@
+[
+ {
+  "anon_id": "NB-005",
+  "master_statements": "William Lilly（horary）：The person of the Prince would be in no very great danger and 'we should not destroy his person'; but 'he should gain no honour by this War', should at last fall into the hatred and malice of many, and 'in the end should depart without either honour, love or friendship, but should not be killed'; 'Rupert should never prevaile against the valiant Essex'; and it should come to pass 'he should end at our disposing, and that we should at last have him in our own custody'.",
+  "outcome_record": "Mixed, and recorded with Lilly's own correction: 'I positively affirmed, Rupert should never prevaile against the valiant Essex, &c., nor did he'; of the custody judgment, 'an errour in part I confess it was, yet... it was very neer truth, for in 1646 he was besieged in Oxford, and after surrender thereof... he was then at the mercy of the Parliament, and in their mercy: but they... let him depart... and so he escaped.'",
+  "judgeA": {
+   "direction": 2,
+   "claims": 1,
+   "timing": 1,
+   "total": 4,
+   "notes": "鲁珀特不死、不胜埃塞克斯、无荣而去大体证实，但归我方 custody 一断自认部分出错；无时点可核（中性记 1）"
+  },
+  "judgeB": {
+   "direction": 1,
+   "claims": 1,
+   "timing": 1,
+   "total": 3,
+   "notes": "鲁珀特未胜埃塞克斯且未被杀大体合，然断言终入我方 custody 与实际获释逃脱有出入；无具体应期，无时点可核（中性记 1）。"
+  }
+ },
+ {
+  "anon_id": "NB-023",
+  "master_statements": "野鶴老人（liuyao）：予曰﹕不獨此人﹐還有附從者。彼曰﹕何法處之﹖予曰﹕彼實無實迹﹐如何處之﹖但未月乃木之墓﹐七月乃木之絕﹐此兩月乃露之月也。公宜出外﹐自能免禍﹐",
+  "outcome_record": "未去之婦而曰﹕彼二人原欲害主而逃﹐今因外出﹐不能相害﹐此非避凶之徵耶﹖",
+  "judgeA": {
+   "direction": 2,
+   "claims": 1,
+   "timing": 1,
+   "total": 4,
+   "notes": "二人欲害与外出免祸证实，但未七月露形一节结局未明示；无时点可核（中性记 1）"
+  },
+  "judgeB": {
+   "direction": 1,
+   "claims": 1,
+   "timing": 1,
+   "total": 3,
+   "notes": "结局仅以反问言二人欲害、外出免害，从者与避祸仅部分得实；未、七月露之说结局无时点可核（中性记 1）。"
+  }
+ },
+ {
+  "anon_id": "NB-056",
+  "master_statements": "王洪緒（輯錄，含師楊廣含傳授及自占驗）（liuyao）：斷曰：「凡占尸首以鬼爻為用神，今寅木鬼爻旬空，而亥水乃得令之水暗動合之。明明尸首在於大水之中矣。但寅木旬空被合，須待出旬逄沖，庚申可見。」",
+  "outcome_record": "後至庚申日不見，直至丑月甲子旬內，壬申日尸首浮起得見",
+  "judgeA": {
+   "direction": 2,
+   "claims": 1,
+   "timing": 1,
+   "total": 4,
+   "notes": "尸首在大水一断证实，但断庚申可见、实际迟至丑月壬申才浮见，仅申日部分对齐"
+  },
+  "judgeB": {
+   "direction": 2,
+   "claims": 1,
+   "timing": 0,
+   "total": 3,
+   "notes": "断尸首在大水中，果浮起得见合水位；然断庚申可见而庚申不见、迟至丑月壬申始见，应期不对齐。"
+  }
+ }
+]

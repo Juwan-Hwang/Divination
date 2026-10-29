@@ -1,0 +1,33 @@
+{
+ "id": "LY-251",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占子近病",
+  "asked_at": "申月庚寅日",
+  "setting": "問子近病；官鬼酉金動而變子孫午火，本為夭折之兆，幸子孫值旬空",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "雷風恆之雷水解",
+   "moving_lines": "三爻官鬼酉金○動",
+   "chart_lines_top_to_bottom": [
+    "妻財戌土⚋應　妻財戌土⚋",
+    "官鬼申金⚋　　官鬼申金⚋",
+    "子孫午火⚊　　子孫午火⚊",
+    "官鬼酉金○世　子孫午火⚋",
+    "父母亥水⚊　　妻財辰土⚊",
+    "妻財丑土⚋　　兄弟寅木⚋"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之四·疾病章第九十九"
+ },
+ "language": "zh-Hant"
+}

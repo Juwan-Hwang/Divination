@@ -1,0 +1,33 @@
+{
+ "id": "LY-216",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占僕人為禍否",
+  "asked_at": "未月丙子日",
+  "setting": "此公知僕役變心、意欲處治而尚無實迹，故占之；野鶴斷另有附從者，勸其出外自能免禍",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "雷水解之震為雷",
+   "moving_lines": "二爻妻財辰土○動、初爻兄弟寅木ㄨ動",
+   "chart_lines_top_to_bottom": [
+    "妻財戌土⚋　　妻財戌土⚋",
+    "官鬼申金⚋應　官鬼申金⚋",
+    "子孫午火⚊　　子孫午火⚊",
+    "子孫午火⚋　　妻財辰土⚋",
+    "妻財辰土○世　兄弟寅木⚋",
+    "兄弟寅木ㄨ　　父母子水⚊"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之三·趨避章第四十"
+ },
+ "language": "zh-Hant"
+}

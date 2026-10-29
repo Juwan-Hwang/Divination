@@ -1,0 +1,33 @@
+{
+ "id": "LY-235",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占借貸",
+  "asked_at": "未月丁卯日",
+  "setting": "問借貸能否得財；兄爻持世、卦中無財，唯卯日即是財星、應爻未土旺而生世",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "火地晉（靜卦）",
+   "moving_lines": "無動爻（靜卦）",
+   "chart_lines_top_to_bottom": [
+    "官鬼巳火⚊",
+    "父母未土⚋",
+    "兄弟酉金⚊世",
+    "妻財卯木⚋",
+    "官鬼巳火⚋",
+    "父母未土⚋應"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之三·求財章第六十八"
+ },
+ "language": "zh-Hant"
+}

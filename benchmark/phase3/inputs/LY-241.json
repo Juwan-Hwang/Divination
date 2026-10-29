@@ -1,0 +1,33 @@
+{
+ "id": "LY-241",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占鵪鶉（鬥鵪鶉勝負）",
+  "asked_at": "巳月戊申日",
+  "setting": "以鵪鶉相鬥占勝負；子孫持世臨日辰，父爻動而化亥水制之，唯亥水月破",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "風山漸之巽為風",
+   "moving_lines": "二爻父母午火ㄨ動",
+   "chart_lines_top_to_bottom": [
+    "官鬼卯木⚊應　官鬼卯木⚊",
+    "父母巳火⚊　　父母巳火⚊",
+    "兄弟未土⚋　　兄弟未土⚋",
+    "子孫申金⚊世　子孫酉金⚊",
+    "父母午火ㄨ　　妻財亥水⚊",
+    "兄弟辰土⚋　　兄弟丑土⚋"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之四·博戲章第八十"
+ },
+ "language": "zh-Hant"
+}

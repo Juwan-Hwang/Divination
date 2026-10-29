@@ -1,0 +1,33 @@
+{
+ "id": "LY-222",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占子嗣",
+  "asked_at": "申月辛卯日",
+  "setting": "求測者三十七歲有子、已十八，因亂失散，至今無所出，問子嗣；野鶴斷失散之子將歸",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "地雷復（靜卦）",
+   "moving_lines": "無動爻（靜卦）",
+   "chart_lines_top_to_bottom": [
+    "子孫酉金⚋",
+    "妻財亥水⚋",
+    "兄弟丑土⚋應",
+    "兄弟辰土⚋",
+    "官鬼寅木⚋",
+    "妻財子水⚊世"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之三·子嗣章第四十四"
+ },
+ "language": "zh-Hant"
+}

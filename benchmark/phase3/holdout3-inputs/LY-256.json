@@ -1,0 +1,33 @@
+{
+ "id": "LY-256",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占地（此地可用否）",
+  "asked_at": "寅月戊午日",
+  "setting": "占墳地可用否；世爻戌土春休囚，化出午火子孫回頭生世，日月世爻成三合",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "山雷頤之天雷無妄",
+   "moving_lines": "五爻父母子水ㄨ動、四爻妻財戌土ㄨ動",
+   "chart_lines_top_to_bottom": [
+    "兄弟寅木⚊　　妻財戌土⚊",
+    "父母子水ㄨ　　官鬼申金⚊",
+    "妻財戌土ㄨ世　子孫午火⚊",
+    "妻財辰土⚋　　妻財辰土⚋",
+    "兄弟寅木⚋　　兄弟寅木⚋",
+    "父母子水⚊應　父母子水⚊"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之四·尋地章第一百十九"
+ },
+ "language": "zh-Hant"
+}

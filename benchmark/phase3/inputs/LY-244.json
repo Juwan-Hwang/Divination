@@ -1,0 +1,33 @@
+{
+ "id": "LY-244",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占夫妻不和將來如何",
+  "asked_at": "巳月己亥日",
+  "setting": "女占夫、夫妻不和，問將來如何；子孫持世為克夫之象，應爻為夫而逢子丑作合",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "水天需之澤風大過",
+   "moving_lines": "四爻子孫申金ㄨ動、初爻妻財子水○動",
+   "chart_lines_top_to_bottom": [
+    "妻財子水⚋　　兄弟未土⚋",
+    "兄弟戌土⚊　　子孫酉金⚊",
+    "子孫申金ㄨ世　妻財亥水⚊",
+    "兄弟辰土⚊　　子孫酉金⚊",
+    "官鬼寅木⚊　　妻財亥水⚊",
+    "妻財子水○應　兄弟丑土⚋"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之四·婚姻章第八十二"
+ },
+ "language": "zh-Hant"
+}

@@ -1,0 +1,33 @@
+{
+ "id": "LY-228",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占得差否",
+  "asked_at": "申月戊寅日",
+  "setting": "問能否得差；子孫持世且世爻旬空，初斷不得",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "澤天夬（靜卦）",
+   "moving_lines": "無動爻（靜卦）",
+   "chart_lines_top_to_bottom": [
+    "兄弟未土⚋",
+    "子孫酉金⚊世",
+    "妻財亥水⚊",
+    "兄弟辰土⚊",
+    "官鬼寅木⚊應",
+    "妻財子水⚊"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之三·鄉試章第五十五（升選候補附）"
+ },
+ "language": "zh-Hant"
+}

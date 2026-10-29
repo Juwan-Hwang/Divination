@@ -1,0 +1,33 @@
+{
+ "id": "LY-257",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占地（此地可用否）",
+  "asked_at": "卯月戊子日",
+  "setting": "占墳地可用否；世臨月建日辰生本為吉，唯外卦反吟、世與子孫俱受沖克，野鶴斷不宜用，地主已買成仍葬之",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "巽為風之地風升",
+   "moving_lines": "上爻兄弟卯木○動、五爻子孫巳火○動",
+   "chart_lines_top_to_bottom": [
+    "兄弟卯木○世　官鬼酉金⚋",
+    "子孫巳火○　　父母亥水⚋",
+    "妻財未土⚋　　妻財丑土⚋",
+    "官鬼酉金⚊應　官鬼酉金⚊",
+    "父母亥水⚊　　父母亥水⚊",
+    "妻財丑土⚋　　妻財丑土⚋"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之四·尋地章第一百十九"
+ },
+ "language": "zh-Hant"
+}

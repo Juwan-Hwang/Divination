@@ -1,0 +1,33 @@
+{
+ "id": "LY-258",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占穴（點穴）",
+  "asked_at": "未月乙巳日",
+  "setting": "此地屢掘逢石無處導穴，央野鶴到冢下點穴；世在四爻斷穴在中段、午火持世斷枯焦紅花處，設灑錢禱告之法驗之",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "雷天大壯（靜卦）",
+   "moving_lines": "無動爻（靜卦）",
+   "chart_lines_top_to_bottom": [
+    "兄弟戌土⚋",
+    "子孫申金⚋",
+    "父母午火⚊世",
+    "兄弟辰土⚊",
+    "官鬼寅木⚊",
+    "妻財子水⚊應"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之四·點穴章第一百二十四"
+ },
+ "language": "zh-Hant"
+}

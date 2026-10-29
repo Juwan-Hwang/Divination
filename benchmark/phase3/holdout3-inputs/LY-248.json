@@ -1,0 +1,33 @@
+{
+ "id": "LY-248",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占伯何日來",
+  "asked_at": "未月戊戌日",
+  "setting": "問伯父何日來；父母為用神而克世，初斷七月必到",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "水雷屯之澤雷隨",
+   "moving_lines": "四爻父母申金ㄨ動",
+   "chart_lines_top_to_bottom": [
+    "兄弟子水⚋　　官鬼未土⚋",
+    "官鬼戌土⚊應　父母酉金⚊",
+    "父母申金ㄨ　　兄弟亥水⚊",
+    "官鬼辰土⚋　　官鬼辰土⚋",
+    "子孫寅木⚋世　子孫寅木⚋",
+    "兄弟子水⚊　　兄弟子水⚊"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之四·行人章第九十四"
+ },
+ "language": "zh-Hant"
+}

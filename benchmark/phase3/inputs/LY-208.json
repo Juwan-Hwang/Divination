@@ -1,0 +1,33 @@
+{
+ "id": "LY-208",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占終身功名有無",
+  "asked_at": "戌月戊辰日",
+  "setting": "問終身功名有無；日月作財生世，白虎臨金官持世，野鶴斷入武途可以立功",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "山風蠱（靜卦）",
+   "moving_lines": "無動爻（靜卦）",
+   "chart_lines_top_to_bottom": [
+    "兄弟寅木⚊應",
+    "父母子水⚋",
+    "妻財戌土⚋",
+    "官鬼酉金⚊世",
+    "父母亥水⚊",
+    "妻財丑土⚋"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之三·終身功名有無章第三十八"
+ },
+ "language": "zh-Hant"
+}
