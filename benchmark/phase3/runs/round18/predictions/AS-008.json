@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-008",
+ "prediction_text": "倾向判断：Essex 将攻下 Reading（positive，终局单一方向）。具体断语：守方主将／守城一方根基已弱（Saturn 为四宫主、居其陷），城池（四宫 Aquarius 及其主）守不住围攻；Essex 本人（Mars 为升点 Scorpio 之主、即问方主将的 significator）虽居其 fall，却总体受护持且与 Moon 互容，兵势能推进。城的结局以交出／ surrender（交付）落幕的象强于长期固守——镇内军需与给养（五宫 Jupiter、Venus 所示 ammunition/provision）不足以支撑久守。应期（horary 日／周档，依据 Moon 正在 apply 至 Mars 的 sextile、在长升星座须按 square 之力读，相位完成即事定）：窗口为围城后数周内，主坐标为四月下旬相位成、城防崩解之时点，城在此窗内易手。本盘按 Lilly 古典卜卦：整宫、四宫主城、升主为攻方主将。",
+ "basis": "题面 prose 给定的盘面要点为唯一依据：Mars（Scorpio 升主，Essex significator）well fortified except in his fall 且与 Moon reception（Mars 在 Moon 之宫、Moon 在 Mars 的 terms/face 且近 Regulus、在第十宫）；Moon void of course 后 apply sextile Mars（长升星座等值 square）；Sun（国王 significator）在第七宫固定星座；四宫 Aquarius 为城、Saturn 四宫主 in his fall 主守将弱；Jupiter 五宫主与 Venus 在五宫主城中军需给养。攻方主得接纳、守方主陷落，故取攻方胜、城交付。题面未给完整星盘逐宫度数，只能据 prose 要点作断，置信据此下调。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
