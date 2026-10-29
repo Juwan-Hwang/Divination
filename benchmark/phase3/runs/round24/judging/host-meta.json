@@ -1,0 +1,1650 @@
+{
+ "AS-001": {
+  "tradition": "horary",
+  "contamination": "low"
+ },
+ "AS-002": {
+  "tradition": "horary",
+  "contamination": "low"
+ },
+ "AS-003": {
+  "tradition": "horary",
+  "contamination": "low"
+ },
+ "AS-004": {
+  "tradition": "horary",
+  "contamination": "high"
+ },
+ "AS-005": {
+  "tradition": "horary",
+  "contamination": "low"
+ },
+ "AS-007": {
+  "tradition": "horary",
+  "contamination": "high"
+ },
+ "AS-008": {
+  "tradition": "horary",
+  "contamination": "high"
+ },
+ "AS-009": {
+  "tradition": "horary",
+  "contamination": "low"
+ },
+ "AS-010": {
+  "tradition": "horary",
+  "contamination": "low"
+ },
+ "AS-011": {
+  "tradition": "horary",
+  "contamination": "low"
+ },
+ "AS-012": {
+  "tradition": "horary",
+  "contamination": "low"
+ },
+ "AS-013": {
+  "tradition": "horary",
+  "contamination": "low"
+ },
+ "AS-014": {
+  "tradition": "horary",
+  "contamination": "low"
+ },
+ "AS-015": {
+  "tradition": "horary",
+  "contamination": "low"
+ },
+ "AS-204": {
+  "tradition": "horary",
+  "contamination": "low"
+ },
+ "AS-205": {
+  "tradition": "horary",
+  "contamination": "low"
+ },
+ "AS-206": {
+  "tradition": "horary",
+  "contamination": "low"
+ },
+ "AS-207": {
+  "tradition": "horary",
+  "contamination": "high"
+ },
+ "AS-208": {
+  "tradition": "horary",
+  "contamination": "high"
+ },
+ "AS-209": {
+  "tradition": "horary",
+  "contamination": "high"
+ },
+ "AS-210": {
+  "tradition": "horary",
+  "contamination": "low"
+ },
+ "AS-211": {
+  "tradition": "horary",
+  "contamination": "low"
+ },
+ "AS-212": {
+  "tradition": "horary",
+  "contamination": "low"
+ },
+ "AS-213": {
+  "tradition": "horary",
+  "contamination": "low"
+ },
+ "AS-215": {
+  "tradition": "horary",
+  "contamination": "high"
+ },
+ "AS-301": {
+  "tradition": "astrology",
+  "contamination": "high"
+ },
+ "AS-302": {
+  "tradition": "astrology",
+  "contamination": "high"
+ },
+ "AS-303": {
+  "tradition": "vedic-astrology",
+  "contamination": "high"
+ },
+ "AS-304": {
+  "tradition": "vedic-astrology",
+  "contamination": "high"
+ },
+ "AS-305": {
+  "tradition": "astrology",
+  "contamination": "high"
+ },
+ "AS-306": {
+  "tradition": "vedic-astrology",
+  "contamination": "high"
+ },
+ "AS-307": {
+  "tradition": "astrology",
+  "contamination": "high"
+ },
+ "BQ-001": {
+  "tradition": "liuyao",
+  "contamination": "high"
+ },
+ "BQ-010": {
+  "tradition": "六爻",
+  "contamination": "low"
+ },
+ "BQ-011": {
+  "tradition": "六爻",
+  "contamination": "low"
+ },
+ "BQ-012": {
+  "tradition": "六爻",
+  "contamination": "low"
+ },
+ "BQ-013": {
+  "tradition": "六爻",
+  "contamination": "low"
+ },
+ "BQ-014": {
+  "tradition": "六爻",
+  "contamination": "low"
+ },
+ "BQ-015": {
+  "tradition": "六爻",
+  "contamination": "low"
+ },
+ "BQ-016": {
+  "tradition": "六爻",
+  "contamination": "low"
+ },
+ "BQ-017": {
+  "tradition": "六爻",
+  "contamination": "low"
+ },
+ "BQ-018": {
+  "tradition": "六爻",
+  "contamination": "low"
+ },
+ "BQ-019": {
+  "tradition": "六爻",
+  "contamination": "low"
+ },
+ "BQ-020": {
+  "tradition": "六爻",
+  "contamination": "low"
+ },
+ "BQ-021": {
+  "tradition": "六爻",
+  "contamination": "low"
+ },
+ "BQ-022": {
+  "tradition": "六爻",
+  "contamination": "low"
+ },
+ "BQ-023": {
+  "tradition": "六爻",
+  "contamination": "low"
+ },
+ "BQ-024": {
+  "tradition": "六爻",
+  "contamination": "low"
+ },
+ "BQ-025": {
+  "tradition": "六爻",
+  "contamination": "low"
+ },
+ "BZ-016": {
+  "tradition": "bazi",
+  "contamination": "high"
+ },
+ "BZ-019": {
+  "tradition": "bazi",
+  "contamination": "high"
+ },
+ "BZ-020": {
+  "tradition": "bazi",
+  "contamination": "high"
+ },
+ "BZ-021": {
+  "tradition": "bazi",
+  "contamination": "high"
+ },
+ "BZ-022": {
+  "tradition": "bazi",
+  "contamination": "high"
+ },
+ "BZ-023": {
+  "tradition": "bazi",
+  "contamination": "high"
+ },
+ "BZ-024": {
+  "tradition": "bazi",
+  "contamination": "high"
+ },
+ "BZ-025": {
+  "tradition": "bazi",
+  "contamination": "high"
+ },
+ "BZ-026": {
+  "tradition": "bazi",
+  "contamination": "high"
+ },
+ "BZ-027": {
+  "tradition": "bazi",
+  "contamination": "high"
+ },
+ "BZ-028": {
+  "tradition": "bazi",
+  "contamination": "high"
+ },
+ "BZ-029": {
+  "tradition": "bazi",
+  "contamination": "high"
+ },
+ "BZ-030": {
+  "tradition": "bazi",
+  "contamination": "high"
+ },
+ "BZ-031": {
+  "tradition": "bazi",
+  "contamination": "high"
+ },
+ "BZ-032": {
+  "tradition": "bazi",
+  "contamination": "high"
+ },
+ "BZ-033": {
+  "tradition": "bazi",
+  "contamination": "high"
+ },
+ "BZ-034": {
+  "tradition": "bazi",
+  "contamination": "high"
+ },
+ "BZ-035": {
+  "tradition": "bazi",
+  "contamination": "high"
+ },
+ "BZ-036": {
+  "tradition": "bazi",
+  "contamination": "high"
+ },
+ "BZ-037": {
+  "tradition": "bazi",
+  "contamination": "high"
+ },
+ "BZ-038": {
+  "tradition": "bazi",
+  "contamination": "high"
+ },
+ "BZ-039": {
+  "tradition": "bazi",
+  "contamination": "high"
+ },
+ "BZ-040": {
+  "tradition": "bazi",
+  "contamination": "high"
+ },
+ "BZ-041": {
+  "tradition": "bazi",
+  "contamination": "high"
+ },
+ "BZ-042": {
+  "tradition": "bazi",
+  "contamination": "high"
+ },
+ "BZ-104": {
+  "tradition": "bazi",
+  "contamination": "low"
+ },
+ "BZ-105": {
+  "tradition": "bazi",
+  "contamination": "low"
+ },
+ "BZ-301": {
+  "tradition": "bazi",
+  "contamination": "high"
+ },
+ "BZ-302": {
+  "tradition": "bazi",
+  "contamination": "high"
+ },
+ "BZ-303": {
+  "tradition": "fengshui",
+  "contamination": "high"
+ },
+ "BZ-304": {
+  "tradition": "fengshui",
+  "contamination": "high"
+ },
+ "LR-001": {
+  "tradition": "liuren",
+  "contamination": "high"
+ },
+ "LR2-013": {
+  "tradition": "liuren",
+  "contamination": "low"
+ },
+ "LR2-014": {
+  "tradition": "liuren",
+  "contamination": "low"
+ },
+ "LR2-015": {
+  "tradition": "liuren",
+  "contamination": "low"
+ },
+ "LR2-016": {
+  "tradition": "liuren",
+  "contamination": "low"
+ },
+ "LR2-017": {
+  "tradition": "liuren",
+  "contamination": "low"
+ },
+ "LR2-018": {
+  "tradition": "liuren",
+  "contamination": "low"
+ },
+ "LR2-019": {
+  "tradition": "liuren",
+  "contamination": "low"
+ },
+ "LR2-020": {
+  "tradition": "liuren",
+  "contamination": "low"
+ },
+ "LR2-021": {
+  "tradition": "liuren",
+  "contamination": "low"
+ },
+ "LR2-022": {
+  "tradition": "liuren",
+  "contamination": "low"
+ },
+ "LR2-023": {
+  "tradition": "liuren",
+  "contamination": "low"
+ },
+ "LR2-024": {
+  "tradition": "liuren",
+  "contamination": "low"
+ },
+ "LY-001": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-002": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-003": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-004": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-005": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-006": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-007": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-008": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-009": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-01": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-010": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-011": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-012": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-013": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-014": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-015": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-016": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-017": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-018": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-019": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-021": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-022": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-023": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-024": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-025": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-026": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-027": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-028": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-029": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-030": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-031": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-032": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-033": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-034": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-035": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-036": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-102": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-103": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-104": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-105": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-202": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-203": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-204": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-205": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-206": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-207": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-208": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-210": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-211": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-212": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-215": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-216": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-217": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-218": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-219": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-220": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-221": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-222": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-227": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-228": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-230": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-231": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-232": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-234": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-235": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-237": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-240": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-241": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-242": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-243": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-244": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-245": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-246": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-249": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-250": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-251": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-252": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-253": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-254": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-255": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-259": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-301": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-304": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-305": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-306": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-307": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-309": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-311": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-312": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-314": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-315": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-318": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-319": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-320": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-322": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-323": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-324": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-325": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-328": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-329": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-330": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-331": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-332": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-333": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-335": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-336": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-338": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-339": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-340": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-342": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-344": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-402": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-403": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-404": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-405": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-406": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-407": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-408": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-411": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-413": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-415": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-416": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-417": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-418": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-421": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-423": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-424": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-425": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-426": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-427": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-428": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-429": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-430": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-432": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-433": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-434": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-436": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-437": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-439": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-440": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-441": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-442": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-443": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-445": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-446": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-449": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-451": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-452": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-454": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-455": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-457": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-458": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-501": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-502": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-503": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-504": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-505": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-506": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-507": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-508": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-509": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-510": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-511": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-512": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-513": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-514": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-515": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-516": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-517": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-518": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-519": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-520": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-521": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-522": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-523": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-524": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-525": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-526": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-527": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-528": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-529": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-530": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-531": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-532": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-533": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-534": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-535": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-536": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-537": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-538": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-539": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-540": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-541": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-542": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-543": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-601": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-602": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-603": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-604": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-605": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-606": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-607": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-608": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-609": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-610": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-611": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-612": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-613": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-614": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-615": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-616": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-617": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-618": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-619": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-620": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-621": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-622": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-623": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-624": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-625": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-626": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-627": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-628": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "LY-629": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "MH-001": {
+  "tradition": "meihua",
+  "contamination": "low"
+ },
+ "MH-002": {
+  "tradition": "meihua",
+  "contamination": "low"
+ },
+ "MH-003": {
+  "tradition": "meihua",
+  "contamination": "low"
+ },
+ "MH-006": {
+  "tradition": "meihua",
+  "contamination": "low"
+ },
+ "MH-007": {
+  "tradition": "meihua",
+  "contamination": "low"
+ },
+ "MH-008": {
+  "tradition": "meihua",
+  "contamination": "low"
+ },
+ "MH-009": {
+  "tradition": "meihua",
+  "contamination": "low"
+ },
+ "MH-010": {
+  "tradition": "meihua",
+  "contamination": "low"
+ },
+ "MP-001": {
+  "tradition": "面相/紫微斗數",
+  "contamination": "high"
+ },
+ "MP-002": {
+  "tradition": "八字",
+  "contamination": "high"
+ },
+ "MP-003": {
+  "tradition": "八字",
+  "contamination": "high"
+ },
+ "MP-004": {
+  "tradition": "面相（体相/法令纹）",
+  "contamination": "high"
+ },
+ "MP-005": {
+  "tradition": "通灵/观相",
+  "contamination": "high"
+ },
+ "MP-006": {
+  "tradition": "紫微斗数",
+  "contamination": "high"
+ },
+ "MP-007": {
+  "tradition": "紫微斗数/风水",
+  "contamination": "high"
+ },
+ "MP-008": {
+  "tradition": "鸟卦",
+  "contamination": "high"
+ },
+ "MP-009": {
+  "tradition": "鸟卦（签诗）",
+  "contamination": "high"
+ },
+ "MP-010": {
+  "tradition": "面相（体相/法令纹）",
+  "contamination": "high"
+ },
+ "MP-011": {
+  "tradition": "风水/面相",
+  "contamination": "high"
+ },
+ "MP-012": {
+  "tradition": "塔罗/文王圣卦（易经）",
+  "contamination": "high"
+ },
+ "MP-013": {
+  "tradition": "八字",
+  "contamination": "high"
+ },
+ "MP-014": {
+  "tradition": "风水/八字",
+  "contamination": "high"
+ },
+ "MP-015": {
+  "tradition": "风水/八字（五行）",
+  "contamination": "high"
+ },
+ "MP-016": {
+  "tradition": "测字/姓名学",
+  "contamination": "high"
+ },
+ "MP-017": {
+  "tradition": "风水/紫微斗数",
+  "contamination": "high"
+ },
+ "MP-018": {
+  "tradition": "铁版神数/八字/紫微斗数",
+  "contamination": "high"
+ },
+ "MP-019": {
+  "tradition": "八字",
+  "contamination": "high"
+ },
+ "OC-001": {
+  "tradition": "八字",
+  "contamination": "high"
+ },
+ "OC-002": {
+  "tradition": "八字",
+  "contamination": "high"
+ },
+ "OC-003": {
+  "tradition": "八字",
+  "contamination": "high"
+ },
+ "OC-004": {
+  "tradition": "八字",
+  "contamination": "high"
+ },
+ "OC-005": {
+  "tradition": "八字",
+  "contamination": "high"
+ },
+ "OC-006": {
+  "tradition": "八字",
+  "contamination": "high"
+ },
+ "OC-007": {
+  "tradition": "八字",
+  "contamination": "high"
+ },
+ "OC-008": {
+  "tradition": "八字",
+  "contamination": "high"
+ },
+ "OC-009": {
+  "tradition": "八字",
+  "contamination": "high"
+ },
+ "OC-010": {
+  "tradition": "八字",
+  "contamination": "high"
+ },
+ "OC-011": {
+  "tradition": "八字",
+  "contamination": "high"
+ },
+ "OC-012": {
+  "tradition": "八字",
+  "contamination": "high"
+ },
+ "OC-013": {
+  "tradition": "八字",
+  "contamination": "high"
+ },
+ "OC-014": {
+  "tradition": "八字",
+  "contamination": "low"
+ },
+ "OC-015": {
+  "tradition": "八字",
+  "contamination": "high"
+ },
+ "OC-016": {
+  "tradition": "八字",
+  "contamination": "low"
+ },
+ "OC-017": {
+  "tradition": "八字",
+  "contamination": "low"
+ },
+ "OC-018": {
+  "tradition": "八字",
+  "contamination": "high"
+ },
+ "OC-019": {
+  "tradition": "八字",
+  "contamination": "high"
+ },
+ "OC-020": {
+  "tradition": "八字",
+  "contamination": "high"
+ },
+ "OC-021": {
+  "tradition": "八字",
+  "contamination": "high"
+ },
+ "OC-022": {
+  "tradition": "八字",
+  "contamination": "low"
+ },
+ "OC-023": {
+  "tradition": "梅花",
+  "contamination": "low"
+ },
+ "OC-024": {
+  "tradition": "梅花",
+  "contamination": "high"
+ },
+ "OC-025": {
+  "tradition": "梅花",
+  "contamination": "high"
+ },
+ "OC-026": {
+  "tradition": "六壬",
+  "contamination": "low"
+ },
+ "OC-027": {
+  "tradition": "六壬",
+  "contamination": "low"
+ },
+ "OC-028": {
+  "tradition": "六壬",
+  "contamination": "low"
+ },
+ "OC-029": {
+  "tradition": "六壬",
+  "contamination": "low"
+ },
+ "OC-030": {
+  "tradition": "六壬",
+  "contamination": "low"
+ },
+ "WP-001": {
+  "tradition": "mundane-astrology",
+  "contamination": "high"
+ },
+ "WP-002": {
+  "tradition": "mundane-astrology",
+  "contamination": "high"
+ },
+ "WP-003": {
+  "tradition": "mundane-astrology",
+  "contamination": "high"
+ },
+ "WP-004": {
+  "tradition": "vedic-astrology",
+  "contamination": "high"
+ },
+ "WP-005": {
+  "tradition": "vedic-astrology",
+  "contamination": "high"
+ },
+ "WP-006": {
+  "tradition": "mundane-astrology",
+  "contamination": "high"
+ },
+ "WP-007": {
+  "tradition": "tarot",
+  "contamination": "high"
+ },
+ "WP-008": {
+  "tradition": "vedic-astrology",
+  "contamination": "high"
+ },
+ "WP-009": {
+  "tradition": "vedic-astrology",
+  "contamination": "high"
+ },
+ "WP-010": {
+  "tradition": "vedic-astrology",
+  "contamination": "high"
+ },
+ "WP-011": {
+  "tradition": "vedic-astrology",
+  "contamination": "high"
+ },
+ "WP-012": {
+  "tradition": "mundane-astrology",
+  "contamination": "high"
+ },
+ "WP-013": {
+  "tradition": "mundane-astrology",
+  "contamination": "high"
+ },
+ "YY-006": {
+  "tradition": "liuyao",
+  "contamination": "high"
+ },
+ "YY-010": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "YY-011": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "YY-012": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "YY-013": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "YY-014": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "YY-015": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "YY-016": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "YY-017": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "YY-018": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "YY-019": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "YY-020": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "YY-021": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "YY-022": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "YY-023": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "YY-024": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "YY2-001": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "YY2-002": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "YY2-003": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "YY2-004": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "YY2-005": {
+  "tradition": "liuyao",
+  "contamination": "low"
+ },
+ "ZY-001": {
+  "tradition": "yijing",
+  "contamination": "high"
+ },
+ "ZY-002": {
+  "tradition": "yijing",
+  "contamination": "high"
+ },
+ "ZY-003": {
+  "tradition": "yijing",
+  "contamination": "high"
+ },
+ "ZY-004": {
+  "tradition": "yijing",
+  "contamination": "high"
+ }
+}
