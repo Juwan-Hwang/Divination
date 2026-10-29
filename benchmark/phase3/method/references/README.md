@@ -13,7 +13,8 @@
 ## 体系地图（何时用哪种占法——算者自决表）
 | 问题类型 | 首选 | 备选/混用 | 本地文档 |
 |---|---|---|---|
-| 具体一事吉凶成败、应期 | 六爻纳甲 | 大六壬（细节） | chinese-liuyao-meihua.md |
+| 具体一事吉凶成败、应期 | 六爻纳甲 | 梅花（即时参断） | chinese-liuyao-meihua.md |
+| 一事细节推演/来龙去脉、多人多事牵连；行人、失物、官讼类细断 | 大六壬 | 六爻（成败方向互参） | chinese-liuren.md |
 | 即时决断、临场方向 | 梅花易数 | 周易文本占 | chinese-liuyao-meihua.md |
 | 无具体事、求方向与自省 | 周易文本占 | 塔罗三张牌 | chinese-yijing.md |
 | 一生格局、运势周期 | 八字 | 紫微（互参） | chinese-bazi-ziwei.md |
@@ -40,6 +41,7 @@
 ## 目录
 - `chinese-yijing.md` 周易（64 卦总表、铜钱/蓍草、朱熹读辞规则）
 - `chinese-liuyao-meihua.md` 六爻纳甲与梅花易数
+- `chinese-liuren.md` 大六壬（起课与九宗取传、课格、十二天将、类神总表、分类占断、应期推法、盘面不全作断规矩）
 - `chinese-bazi-ziwei.md` 八字、紫微，附奇门/六壬/风水定位
 - `western-tarot.md` 塔罗（78 牌总表、Waite 位序凯尔特十字）
 - `western-astro-numerology-runes.md` 占星、数字命理、卢恩，附地占/水晶占/书占背景

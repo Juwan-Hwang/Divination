@@ -12,6 +12,8 @@
 | 《渊海子平》 | sources/chinese/yuanhai-ziping-wikisource.txt | 维基文库 | PD / B | 八字源流 |
 | 《梅花易数》卷一至三 | sources/chinese/meihua-yishu-wikisource.txt | 维基文库 | PD / B（托名存疑） | 梅花基准+成例源 |
 | 《三命通会》12 卷 | sources/chinese/sanming-tonghui/ | GitHub 镜像（四库本） | 原文 PD、转录 CC BY-SA 4.0 / B | 八字通例 |
+| 《大六壬指南》（陈公献） | **未落盘**（在线核读：维基文库分卷子页，2026-10-29 逐卷核对） | 维基文库 | PD / B | 六壬基准：卷一心印赋注/卷二指掌赋注/卷三会纂指南/卷四占验指南，断法章节 references/chinese-liuren.md 出处 |
+| 《六壬大全》（四库本） | **未落盘**（在线核读：维基文库，2026-10-29） | 维基文库 | PD / B | 六壬参校：卷一入手法九宗、课目、课经、十二将释 |
 | Waite《Pictorial Key》1911 | sources/western/waite-pictorial-key-sacredtexts.txt | Sacred-Texts | PD-US / B | 塔罗唯一对标底本 |
 | Waite 文本 de Laurence 1918 影印本 | sources/western/waite-illustrated-key-delaurence1918-gutenberg43548.txt | Gutenberg #43548 | PD-US | 版本对照（按影印本著录） |
 | Legge 译《I Ching》1882 | sources/western/iching-legge-sacredtexts.txt | Sacred-Texts | PD / B | 英译对读 |
@@ -51,6 +53,7 @@ stars/forks 为 2026-10-29 gh api 实测；HEAD 为本地克隆短哈希。
 - astro.com 在线排盘、jadealmanac 约定对照页：仅作交叉核对参照（在线，未下载）。
 
 ## 类型 5｜现代权威整理本与教程
+- `references/chinese-liuren.md` 大六壬断法章节（2026-10-29 补建）：据《大六壬指南》卷一至卷四与《六壬大全》卷一/课目/课经在线核读整理——起课与九宗取传、课格、十二天将、类神总表、分类占断十二门、应期推法，末附盘面不全作断规矩（本库衔接项）与精通检查表。
 - Adler 易学书目与朱熹研究（已下，类型 3）。
 - bookofchanges.academy《梅花易数》转录+托名考证（D，在线参照，未下载——维基文库本已覆盖原文）。
 - iztro 官方文档（随类型 2 仓库）：紫微安星现代标准整理（D）。

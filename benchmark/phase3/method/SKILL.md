@@ -16,13 +16,13 @@ status: validated-final
 
 ## 资料与工具索引（按来源类型组织；包内正文用相对路径，外部资产见 VALIDATION.md 清单）
 本包根目录即方法正本所在：规则正文在 `references/`、工具脚本在 `tools/`；原典全文、开源代码仓、数据集与评测基础设施为外部资产（不在本包内），原位置清单见 `VALIDATION.md`「外部资产清单」。
-- 类型1 原典全文（外部资产，见 `VALIDATION.md` 外部资产清单第 1 项）：中文原典（周易、增删卜易、渊海子平、梅花易数、三命通会，著录 SOURCES.md）、西洋原典（Waite 1911 本、Legge 易经、诗体埃达、符文诗、Tetrabiblos、Lilly、Cheiro）；ctext 只在线读、**禁止抓取**。
+- 类型1 原典全文（外部资产，见 `VALIDATION.md` 外部资产清单第 1 项）：中文原典（周易、增删卜易、渊海子平、梅花易数、三命通会，著录 SOURCES.md；大六壬指南、六壬大全为在线核读、未落盘，著录见 `references/MANIFEST.md` 类型 1）、西洋原典（Waite 1911 本、Legge 易经、诗体埃达、符文诗、Tetrabiblos、Lilly、Cheiro）；ctext 只在线读、**禁止抓取**。
 - 类型2 开源代码（外部资产，见 `VALIDATION.md` 外部资产清单第 2 项）：lunar-python、sxtwl_cpp、iztro、swisseph（AGPL/商业双许可）、pyswisseph、lifekline 两版（无许可证、只研究）。
 - 类型3 学术（外部资产，见 `VALIDATION.md` 外部资产清单第 3 项）：5 篇 OA 论文，著录 SOURCES.md。
 - 类型4 参照源：Swiss Ephemeris 数据（随 swisseph 仓）、寿星天文历、6tail lunar 数据层。
 - 类型5 现代整理：`references/lifekline-method.md`、各篇知识库文末的流派节。
 - 类型6 数据集（外部资产，见 `VALIDATION.md` 外部资产清单第 6 项）：本地机器可读 JSON（hexagrams-64.json、tarot-78.json、runes-24.json、ganzhi-jieqi.json）、tarot-json（MIT）、tarot-api、godcong-yi（MIT）；**大师验证集**（统一 Schema 见其 SCHEMA.md：subject + master_predictions[] 为核心；dev=校准开放、test=留出封存于 holdout/，划分见 splits.json；分卷 chinese-natal/、western/、modern-masters/ 为收集层候选池）。
-- 知识库正文：`references/README.md`（总则与自决表）、`references/chinese-yijing.md`、`references/chinese-liuyao-meihua.md`、`references/chinese-bazi-ziwei.md`、`references/western-tarot.md`、`references/western-astro-numerology-runes.md`、`references/calibration.md`（对标基准+实测+分歧默认表）、`references/MANIFEST.md`（总清单+失败清单+暂不采用清单）。
+- 知识库正文：`references/README.md`（总则与自决表）、`references/chinese-yijing.md`、`references/chinese-liuyao-meihua.md`、`references/chinese-liuren.md`、`references/chinese-bazi-ziwei.md`、`references/western-tarot.md`、`references/western-astro-numerology-runes.md`、`references/calibration.md`（对标基准+实测+分歧默认表）、`references/MANIFEST.md`（总清单+失败清单+暂不采用清单）。
 - 随机工具（必须用，随机源只许 secrets）：`tools/cast_iching.py`（铜钱起卦）、`tools/draw_tarot.py`（抽 1/3/10）、`tools/draw_runes.py`（抽 1/3，仅符名学习与仪式复现）。
 - 评测：协议正本 `references/PROTOCOL.md`；评测脚本、种子题卡（input/answer 分离）与迭代记录为外部资产（见 `VALIDATION.md` 外部资产清单第 7 项）。
 
@@ -34,6 +34,7 @@ status: validated-final
 ## 选法与约定：算者自决（默认表，不向用户列选项）
 按问题与对象自决，可混用多法互参：
 - 具体一事成败/应期 → 六爻纳甲；即时决断 → 梅花；方向与自省 → 周易文本占；一生格局/周期 → 八字（紫微互参）；择时择向 → 奇门；关系与心理叙事 → 塔罗；出生图式/行运 → 西洋占星。
+- 具体一事的**细节推演/来龙去脉、多人多事牵连** → 大六壬；与六爻互参口径：同一事两法同占时，成败方向以两盘收敛处为准，细节（何人、何方、何时、经何过程）以六壬三传天将链补六爻之略；两盘方向冲突时如实呈现分歧并写明取舍，不许只取一盘压另一盘。行人、失物、官讼、兵斗类细断以六壬为首选。
 - 八字默认：立春换年、节气换月、23 时换日、出生地明确时用真太阳时（夏令时先回调）。紫微默认：《全书》系四化（庚/壬化科分歧从全书）。凯尔特十字默认 Waite 原文位序。起卦默认铜钱概率（蓍草仪轨须用户明示且声明改口径）。占星本命默认 Placidus、古典问题默认整宫。完整默认表与理由见 `references/calibration.md` 第三节。
 - 输出时只在末尾用**一句话**交代所用之法（如「本盘按子平正统：立春换年、真太阳时校正」），不列选项、不解释分歧全貌（用户追问时再展开）。
 - 多法指向同一结论：明确告诉求测者「几条路都指到同一处」以增强置信；指向冲突：如实呈现分歧，并说明自己最终取舍与理由——取舍是算者的责任。
@@ -41,6 +42,7 @@ status: validated-final
 ## 各占法流程（细节查对应知识库篇，含精通检查表）
 - **周易文本占**：`tools/cast_iching.py "原问"` 起卦 → 按动爻数走朱熹读辞规则（0 动卦辞、1 动爻辞、2 动两爻以上为主、3 动两卦辞参读、4 动变卦不变爻以下为主、5 动变卦唯一不变爻、6 动变卦卦辞）→ 逐字引原文再落断。
 - **六爻纳甲**：同上得卦 → 装卦五步（定宫、纳支、世应、六亲、按日干安六神）→ 选用神（财/官/父/子/兄按所问）→ 旺衰（月建日辰为纲）→ 动爻与原神忌神链 → 成败与应期（应期按（a）（h）六爻双层表达落定（窗口＋窗口内主坐标），事件型终局按通则（l）单判，病占／行人类收束前过（f）应验对象复述）；**门类应期查表校准（六爻应期，机制级）**：应期三步与合流 D 项四路扫查生成候选后、定窗口内主坐标前，按本题问事门类查 `references/chinese-liuyao-meihua.md`「门类应期对表」校准——对表首选机制在候选集内有点时，主坐标优先取该点，首选无点才递补对表次选机制；对表取法与闸门状态（空／墓／破／合住）的释放规则冲突时，闸门释放规则优先、对表次之，即先等闸门开释之支、再在开释后的候选内按对表取点，不许以对表跳过尚未开释的闸门状态；查表取舍须在断语依据中写明（查了何门类、首选机制为何、取中或未取中及其理由）；本题门类不在对表内者，明写「对表无此门类」，按三步＋D 原序定主坐标，不许类推套用他门类条文；查表校准后、定主坐标前，首选与次选候选属于不同尺度、或同尺度相距超过一个单位步进者，须按 `references/chinese-liuyao-meihua.md`「应期对决（双候选比较裁决，六爻）」执行双候选对决取点（两候选同尺度且相距 ≤1 个单位步进者不对决、按原序取点，对决不预设尺度、不授予任何机制排他权）；下终局断语前须过知识库篇「终局反转信号扫查——完整判据链门槛」（三类信号判据全部成立才许翻转初判终局，部分成立只许降格/留余地、禁止反向断终局），疾病类涉病位者另过「病位取象复核」依据链。装卦后拿 benchmark 古例排盘口径自检；**开源装卦库是空白，不许拿来路不明的在线排盘结果直接用**。
+- **大六壬**：起课/复核盘面（月将加时、干寄宫、四课定位、贵人昼夜起例与顺逆、九宗取传，见 `references/chinese-liuren.md` 第一、二节）→ 取类神（按所问门类定类神：日干为己、日支为对方/宅、年命为本人根基，第五节）→ 读三传生克链与天将乘传（第四节）并核课格主向（第三节）→ 走分类占断对应门（第六节：行人/失物走失/贼盗/官讼/疾病/婚姻/求财/出行/仕宦功名含考试/孕产/兵斗/章奏钦差）→ 应期走第七节六壬三路（逢值/逢冲合/出空填实），合通则（a）（h）（k）以窗口＋窗口内主坐标双层表达落定。盘面不全（只有课式名、三传含天将、干支占时与空亡，无天盘全图与四课全列）时守第八节：只据干支、三传链、天将乘传、课格名、空亡落处作断，不臆补天盘全图、四课细节、神煞全表与未给的年命；作断后过第九节精通检查表。
 - **梅花**：时间/数字/物象/声音起卦（公式见知识库篇，后天起卦动爻须加时数）→ 定体用 → 生克五诀+旺衰+外应 → 断语须过「明理」一关（推数又须明理），并过作断通则「（d）爻辞取象核对」「（e）事实优先序」「（f）应验对象定位复核」「（g）具体断语密度」四关（引辞先核辞义、收束逐项对回占题事实、逐条核对承受对象与应验对象同一、主断语落到人物/物品/数量/应期数字至少一项，细则见知识库篇梅花篇同名诸节与本节（g））。
 - **八字**：历算只许用 lunar-python/sxtwl（先交叉核对四柱一致才解读）→ 调候先行、格局定体、旺衰定量合参 → 大运流年引动断应期。**禁止** lifekline 式做法：不许让模型直编逐年分数、不许用「强造波动」类提示词（见 references/lifekline-method.md）。
 - **紫微**：iztro 排盘（农历换算注明）→ 命宫手算公式复核 → 三合为体、四化为用；四化版本在盘后一句话注明全书系。
