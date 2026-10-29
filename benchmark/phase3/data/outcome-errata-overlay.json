@@ -1,0 +1,16 @@
+{
+  "_comment": "原件不改、未来建包必须先叠加本层。outcome_record 勘误覆盖层（2026-10-30）：roster 原件（phase2/data/roster.jsonl、phase3/data/roster3.jsonl、phase3/roster4..9-additions.jsonl）一律不修改；未来任何轮次经 build_packets.py 或同类工具建包时，必须先以本层同 id 条目覆盖 roster 的 outcome_record，再行封包。本层只保留事实事件本身（发生了什么、何时、何数），已剥离一切对大师断语的评语与元评论。依据：benchmark/phase3/data/ERRATA-outcome-records-2026-10-30.md。",
+  "MP-001": "蔡英文以817万票大胜韩国瑜552万票，差距约265万票连任；立委选举民进党单独取得61席过半，国民党38席。",
+  "MP-003": "韩国瑜2019年4月表态参选、7月赢得国民党初选成为总统候选人，2020年1月败选",
+  "MP-006": "韩国瑜2020年败选，同年6月6日再被罢免高雄市长职务",
+  "MP-009": "韩国瑜2020-01-11败选；2020-06-06罢免投票同意939,090票通过，韩国瑜被罢免高雄市长",
+  "MP-010": "国民党2023-05-17征召侯友宜而非郭台铭；郭台铭独立参选连署后于2023-11-24宣布退选，未成为候选人；2024-01-13赖清德当选总统",
+  "MP-011": "开票结果赖清德5,586,019票第一、侯友宜4,671,021票第二、柯文哲3,690,466票第三",
+  "MP-013": "柯文哲2018年以3,254票险胜连任；2024年总统大选得票第三落选；2024年8-9月因京华城案遭羈押禁见",
+  "MP-014": "特朗普在2020-11-03大选中败于拜登（选举人票232比306），未能连任；其病情于10月5日出院、其后康复",
+  "MP-015": "拜登因辩论表现与选情压力于2024-07-21宣布退选，未能竞选连任；特朗普于2024-11-05胜选当选第47任总统",
+  "MP-016": "特朗普当选第47任总统，选举人票312张",
+  "WP-004": "Donald Trump won the 2016 election in the Electoral College (304 pledged electoral votes) despite losing the popular vote, and became president.",
+  "WP-005": "Donald Trump won the 2016 election in the Electoral College and became president.",
+  "WP-011": "Donald Trump lost the 2020 election to Joe Biden and left office on 20 January 2021."
+}
