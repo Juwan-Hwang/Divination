@@ -1,0 +1,33 @@
+{
+ "id": "LY-250",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占夫在外還往他省去否（兼問何日到）",
+  "asked_at": "亥月甲子日",
+  "setting": "妻占夫在外，問是否還往他省去、兼問何日到",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "雷天大壯之澤風大過",
+   "moving_lines": "五爻子孫申金ㄨ動、初爻妻財子水○動",
+   "chart_lines_top_to_bottom": [
+    "兄弟戌土⚋　　兄弟未土⚋",
+    "子孫申金ㄨ　　子孫酉金⚊",
+    "父母午火⚊世　妻財亥水⚊",
+    "兄弟辰土⚊　　子孫酉金⚊",
+    "官鬼寅木⚊　　妻財亥水⚊",
+    "妻財子水○應　兄弟丑土⚋"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之四·行人章第九十四"
+ },
+ "language": "zh-Hant"
+}

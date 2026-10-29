@@ -1,0 +1,28 @@
+{
+ "uid": "LY-005",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）"
+ },
+ "context": {
+  "question": "占鄉試",
+  "asked_at": "申月癸卯日",
+  "setting": "問鄉試能否中試",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "雷風恆之澤風大過",
+   "moving_lines": "五爻官鬼申金ㄨ動",
+   "chart_lines_top_to_bottom": [
+    "妻財戌土⚋應　妻財未土⚋",
+    "官鬼申金ㄨ　　官鬼酉金⚊",
+    "子孫午火⚊　　父母亥水⚊",
+    "官鬼酉金⚊世　官鬼酉金⚊",
+    "父母亥水⚊　　父母亥水⚊",
+    "妻財丑土⚋　　妻財丑土⚋"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》"
+ }
+}

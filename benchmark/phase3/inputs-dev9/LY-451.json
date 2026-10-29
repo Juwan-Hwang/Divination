@@ -1,0 +1,33 @@
+{
+ "id": "LY-451",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占夢（前夫叫去已隨去）",
+  "asked_at": "午月丁亥日",
+  "setting": "婦人夢見已故前夫叫她、已隨去，占此夢吉凶",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "水火既濟之地雷復（卦名原文未直書，據裝卦推得）",
+   "moving_lines": "五爻官鬼戌土○動、三爻兄弟亥水○動",
+   "chart_lines_top_to_bottom": [
+    "兄弟子水⚋應　父母酉金⚋",
+    "官鬼戌土○　　兄弟亥水⚋",
+    "父母申金⚋　　官鬼丑土⚋",
+    "兄弟亥水○世　官鬼辰土⚋",
+    "官鬼丑土⚋　　子孫寅木⚋",
+    "子孫卯木⚊　　兄弟子水⚊"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文庫本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之三·趨避章第四十"
+ },
+ "language": "zh-Hant"
+}

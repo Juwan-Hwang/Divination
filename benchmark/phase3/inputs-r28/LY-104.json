@@ -1,0 +1,54 @@
+{
+  "uid": "LY-104",
+  "tradition": "liuyao",
+  "subject": {
+    "name_or_desc": "女占者本人（姓名未公开）",
+    "basic_info": "女，自占疾病",
+    "gender": "女"
+  },
+  "context": {
+    "question": "自测病情",
+    "asked_at": "辰月戊寅日（年份不详）",
+    "setting": "辰月戊寅日（旬空申酉）自测病情，尚未确诊",
+    "attachments": {
+      "ben_gua": "山风蛊",
+      "bian_gua": "山水蒙",
+      "date_ganzhi": "辰月戊寅日",
+      "source": "王虎应《六爻预测疾病新探》第249页，经《六爻卦例一百例》汇编转录 https://www.scribd.com/document/831576273/",
+      "chart_lines_top_to_bottom": [
+        "兄弟寅木⚊应　兄弟寅木⚊",
+        "父母子水⚋　父母子水⚋",
+        "妻财戌土⚋　妻财戌土⚋",
+        "官鬼酉金○世　子孙午火⚋",
+        "父母亥水⚊　妻财辰土⚊",
+        "妻财丑土⚋　兄弟寅木⚋"
+      ],
+      "moving_lines": "三爻官鬼酉金○（世）动",
+      "hidden_lines": "五爻父母子水下伏子孙巳火"
+    }
+  },
+  "provenance": {
+    "book": "《六爻预测疾病新探》"
+  },
+  "notes": {
+    "completion_grade": {
+      "source_locator": "原书《六爻预测疾病新探》本地无藏；据 inputs8 已载本变卦名（山风蛊之山水蒙）与日期（辰月戊寅日）",
+      "fields": {
+        "chart_lines_top_to_bottom": {
+          "grade": "推算复原",
+          "basis": "原书本地无藏、未能直载；据 inputs8 已载本卦山风蛊、变卦山水蒙，由标准纳甲（定宫巽宫、纳甲、世应、六亲配五行）确定性推得全盘。动爻由本变卦爻象差定为三爻独动——R24/R25 两轮自装互异即因无此约束，今以爻象差为准。"
+        },
+        "moving_lines": {
+          "grade": "推算复原",
+          "basis": "同上：本变卦爻象差仅三爻（下卦巽变坎，仅三爻阴阳变），故三爻官鬼酉金独动。"
+        },
+        "hidden_lines": {
+          "grade": "推算复原",
+          "basis": "本卦六亲缺子孙不现；按伏神规则取本宫首卦（巽宫首卦）同位之爻伏于本卦同位爻下，标准规则确定性推得。原书装卦表未印伏神栏。"
+        }
+      },
+      "completed_by": "phase3 inputs9 C轨数据角补录（2026-10-30）",
+      "scope_note": "仅补 attachments 盘面事实字段；题面文字与既有字段一字未改。"
+    }
+  }
+}

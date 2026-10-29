@@ -1,0 +1,33 @@
+{
+ "id": "LY-237",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占出行謁見貴人",
+  "asked_at": "申月丁卯日",
+  "setting": "出行謁見貴人，問能否得見",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "天火同人（靜卦）",
+   "moving_lines": "無動爻（靜卦）",
+   "chart_lines_top_to_bottom": [
+    "子孫戌土⚊應",
+    "妻財申金⚊",
+    "兄弟午火⚊",
+    "官鬼亥水⚊世",
+    "子孫丑土⚋",
+    "父母卯木⚊"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之四·謁貴求財章第六十九"
+ },
+ "language": "zh-Hant"
+}

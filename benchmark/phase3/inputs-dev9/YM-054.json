@@ -1,0 +1,33 @@
+{
+  "id": "YM-054",
+  "tradition": "liuyao",
+  "subject": {
+    "name_or_desc": "占者之次女（痘）",
+    "gender": null
+  },
+  "context": {
+    "question": "占次女痘（次女痘吉凶）",
+    "asked_at": "卯建甲寅旬丙辰日",
+    "setting": "程良玉《易冒》卷六·疾病章第五十五所举占例",
+    "attachments": {
+      "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+      "hexagram": "坎宫：泽火革 之 兑宫：泽山咸",
+      "moving_lines": "初爻子孙己卯木动（应），化官鬼丙辰土",
+      "chart_lines_top_to_bottom": [
+        "官鬼丁未土",
+        "父母丁酉金",
+        "兄弟丁亥水 世",
+        "兄弟己亥水",
+        "官鬼己丑土",
+        "子孙己卯木 应（动）"
+      ]
+    }
+  },
+  "provenance": {
+    "book": "《易冒》（清）程良玉撰",
+    "edition": "华龄出版社2016年《四库存目纳甲汇刊（五）·校正全本易冒》（（清）程良玉撰，郑同校；ISBN 978-7-5169-0727-6）扫描PDF，用户经学校图书馆提供",
+    "license_note": "内部研究使用",
+    "page": "卷六·疾病章第五十五，书页108（PDF第124页）"
+  },
+  "language": "zh-Hant"
+}

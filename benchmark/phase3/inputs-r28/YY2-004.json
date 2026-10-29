@@ -1,0 +1,48 @@
+{
+  "id": "YY2-004",
+  "tradition": "liuyao",
+  "subject": {
+    "name_or_desc": "自占者（卜自己寿）",
+    "gender": "unknown"
+  },
+  "context": {
+    "question": "卜自己寿（寿数长短与终期）",
+    "asked_at": "丙寅年丙申月丁巳日丙午时",
+    "setting": "《易隐》身命占·占断寿数「寿数经验断例」第四例；原书系作者经验验例（占者姓名不载）",
+    "attachments": {
+      "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日时与卦象）",
+      "hexagram": "（本卦名原书缺字）之 坤宫：雷天大壮（四世）",
+      "moving_lines": null,
+      "chart_lines_top_to_bottom": null,
+      "空亡": "子丑"
+    }
+  },
+  "provenance": {
+    "book": "《易隐》（清）曹九锡撰",
+    "edition": "华龄出版社2016年《四库存目纳甲汇刊（四）·校正全本易隐》（（清）曹九锡撰，郑同校；ISBN 978-7-5169-0726-9）扫描PDF，用户经学校图书馆提供，2026-10-29",
+    "license_note": "内部研究使用",
+    "page": "《易隐》身命占第一·占断寿数「寿数经验断例」，书页72（PDF页84）"
+  },
+  "language": "zh-Hant",
+  "notes": {
+    "completion_grade": {
+      "source_locator": "《易隐》校正全本（四库存目纳甲汇刊4）书页72（PDF页84）寿数经验断例第四例正文",
+      "fields": {
+        "空亡": {
+          "grade": "推算复原",
+          "basis": "由题面已载日干支丁巳按旬空规则推得子丑；原书未另标。"
+        },
+        "chart_lines_top_to_bottom": {
+          "grade": "不可补",
+          "basis": "本卦名原书版面即缺字（「得□之大壮」），本卦不明则本宫、世应、六亲、动爻皆无从定，变卦大壮一侧六亲亦系于本宫五行，不能单独成盘。已查：校正全本易隐书页72原文；《六爻古籍合集》（含易隐）身命占段抽查页1292–1312，未见该断例异文可补缺字；expansion7/yiyin2/BUILD-REPORT 亦记「校正全本版面即缺字留空、非扫描缺损」。保持 null。"
+        },
+        "moving_lines": {
+          "grade": "不可补",
+          "basis": "同 chart_lines_top_to_bottom：本卦不明，动爻无从定。保持 null。"
+        }
+      },
+      "completed_by": "phase3 inputs9 C轨数据角补录（2026-10-30）",
+      "scope_note": "仅补 attachments 盘面事实字段；题面文字与既有字段一字未改。"
+    }
+  }
+}

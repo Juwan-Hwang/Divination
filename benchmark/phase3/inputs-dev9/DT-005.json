@@ -1,0 +1,32 @@
+{
+  "id": "DT-005",
+  "tradition": "liuyao",
+  "subject": {
+    "name_or_desc": "他人之子（患病者，未具名）",
+    "gender": null
+  },
+  "context": {
+    "question": "人有子病，占子病吉凶",
+    "asked_at": "冬甲戌日（年不详，明万历刊本原例）",
+    "setting": "一日，人有子病，冬甲戌日占卦。",
+    "attachments": {
+      "casting_method": "六爻纳甲（铜钱摇卦）",
+      "hexagram": "泽水困",
+      "moving_lines": "五爻兄弟丁酉金独发",
+      "chart_lines_top_to_bottom": [
+        "父母丁未土",
+        "兄弟丁酉金（动）",
+        "子孙丁亥水 应",
+        "官鬼戊午火",
+        "父母戊辰土",
+        "妻财戊寅木 世"
+      ],
+      "hidden_spirit": null
+    }
+  },
+  "provenance": {
+    "book": "《断易天机》",
+    "edition": "《断易天机》明万历丁酉（1597）刊本扫描PDF（370页，用户经学校图书馆提供，2026-10-29）；图解本《图解易经六十四卦：断易天机》（汤梓顺、韩铭生注译，辽宁大学出版社1993）EPUB仅作定位与文本层辅助，例文以明刊本为准",
+    "page": "卷二·经验卦例第九例，明刊本PDF第64页"
+  }
+}
