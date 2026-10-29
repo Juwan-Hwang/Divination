@@ -3,3 +3,10 @@ __pycache__/
 tools/repos/
 tools/datasets/
 sources/chinese/sanming-tonghui/
+incoming/**/*.pdf
+incoming/*.pdf
+incoming/**/*.epub
+incoming/**/*.7z
+incoming/**/*.zip
+incoming/**/*.djvu
+incoming/**/*.mobi
