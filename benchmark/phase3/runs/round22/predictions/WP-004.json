@@ -1,0 +1,13 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "Prediction: Donald Trump wins the 2016 United States presidential election in an upset — the astrologers' panel consensus and the polls favouring Hillary Clinton are both overturned. Trump loses or only narrowly trails in the national popular vote but carries the Electoral College past 270, by flipping the industrial swing states (Pennsylvania, Michigan, Wisconsin) that the polls miss. Timing is fixed by the question's own scale: the result is decided on election night, 8 November 2016, with the electoral (not popular-vote) count as the deciding variable. This is a two-stage call: near stage, Clinton leads every public measure into the final week; far stage, the late break of undecided and hidden voters in the swing states reverses the outcome — the final direction is a single call for Trump, not a split verdict.",
+ "basis": "Method chosen by reader: Western election-astrology framing read against polling-structure risk (no candidate birth charts supplied in the input, so no natal data is fabricated — limit noted). Basis: the question's setting flags the exact failure mode — near-unanimous expert/poll consensus in a binary contest is itself the fragility; the deciding unit is state-level electoral votes, not national vote share, so a popular-vote loss with an electoral win is the specific upset shape predicted. Timing: scale fixed at day level by the dated election (8 Nov 2016); no wider window is claimed. Confidence is held at upset level (a genuine call against consensus, not a safe one). Non-liuyao: trigger all false.",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "dir_flipped": false,
+  "reason": ""
+ }
+}

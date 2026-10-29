@@ -1,0 +1,13 @@
+{
+ "case_id": "WP-002",
+ "prediction_text": "Prediction: Barack Obama wins the 2008 United States presidential election. The Saturn–Uranus opposition exact on Election Day (4 November 2008) is the classic signature of old order versus insurgent change: it favours the change candidate over the establishment Saturnian figure, John McCain. Obama first secures the Democratic nomination (the May question's near-term stage), then wins the general election with a comfortable Electoral College margin (300+ electoral votes, roughly the 360 range), becoming the first African-American president. Timing is fixed by the question's own scale: nomination by the late-August convention, victory on 4 November 2008. Confidence is moderately high; the popular vote is closer than the electoral margin.",
+ "basis": "Method chosen by reader: Western astrology transit symbolism plus election structure (no birth data supplied in the input, so no natal charts are fabricated — this limit is noted and confidence is held below the bazi cases). Basis: input setting itself supplies the Saturn–Uranus opposition beginning on Election Day, last seen 45 years earlier (a change-cycle signature); Uranus-ruled disruption maps to the insurgent, Saturn to the incumbent-party elder. Timing three-step analogue: scale fixed at day level by the dated election; candidates were transit-trigger, structural (incumbent-party fatigue), and polling-momentum routes — the transit and structural routes converge on Obama, the nomination-stage uncertainty route is discarded once the general-election direction is set. Non-liuyao: trigger all false.",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "dir_flipped": false,
+  "reason": ""
+ }
+}
