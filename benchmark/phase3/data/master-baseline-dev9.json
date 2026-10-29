@@ -1,0 +1,2381 @@
+{
+ "AS-001": {
+  "src": "phase2-round1",
+  "total": 6.0
+ },
+ "AS-002": {
+  "src": "phase2-round1",
+  "total": 5.0
+ },
+ "AS-003": {
+  "src": "phase2-round1",
+  "total": 6.0
+ },
+ "AS-004": {
+  "src": "dev7-baseline-build",
+  "total": 3.25
+ },
+ "AS-005": {
+  "src": "phase2-round1",
+  "total": 5.0
+ },
+ "AS-007": {
+  "src": "phase2-round1",
+  "total": 5.0
+ },
+ "AS-008": {
+  "src": "phase2-round1",
+  "total": 5.0
+ },
+ "AS-009": {
+  "src": "phase2-round1",
+  "total": 6.0
+ },
+ "AS-010": {
+  "src": "dev7-baseline-build",
+  "total": 5.0
+ },
+ "AS-011": {
+  "src": "phase2-round1",
+  "total": 6.0
+ },
+ "AS-012": {
+  "src": "phase2-round1",
+  "total": 4.5
+ },
+ "AS-013": {
+  "src": "phase2-round1",
+  "total": 5.0
+ },
+ "AS-014": {
+  "src": "dev7-baseline-build",
+  "total": 6.0
+ },
+ "AS-015": {
+  "src": "dev7-baseline-build",
+  "total": 5.25
+ },
+ "AS-204": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 1.0,
+  "total": 5.0
+ },
+ "AS-205": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "AS-206": {
+  "claims": 1.5,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 1.0,
+  "total": 4.5
+ },
+ "AS-207": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 1.0,
+  "total": 5.0
+ },
+ "AS-208": {
+  "claims": 1,
+  "direction": 2,
+  "src": "arbitration",
+  "timing": 1,
+  "total": 4.0
+ },
+ "AS-209": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "AS-210": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 1.0,
+  "total": 5.0
+ },
+ "AS-211": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 1.0,
+  "total": 5.0
+ },
+ "AS-212": {
+  "claims": 1.0,
+  "direction": 1.0,
+  "src": "meanAB",
+  "timing": 1.0,
+  "total": 3.0
+ },
+ "AS-213": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "AS-215": {
+  "claims": 1.5,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 1.0,
+  "total": 4.5
+ },
+ "AS-301": {
+  "src": "phase2-round1",
+  "total": 4.0
+ },
+ "AS-302": {
+  "src": "dev7-baseline-build",
+  "total": 1.0
+ },
+ "AS-303": {
+  "src": "phase2-round1",
+  "total": 0.0
+ },
+ "AS-304": {
+  "src": "dev7-baseline-build",
+  "total": 0.0
+ },
+ "AS-305": {
+  "src": "phase2-round1",
+  "total": 1.0
+ },
+ "AS-306": {
+  "src": "phase2-round1",
+  "total": 5.0
+ },
+ "AS-307": {
+  "src": "phase2-round1",
+  "total": 1.0
+ },
+ "BQ-001": {
+  "src": "dev8-baseline-build",
+  "total": 6.0
+ },
+ "BQ-010": {
+  "src": "dev8-baseline-build",
+  "total": 4.0
+ },
+ "BQ-011": {
+  "src": "dev8-baseline-build",
+  "total": 4.0
+ },
+ "BQ-012": {
+  "src": "dev8-baseline-build",
+  "total": 4.0
+ },
+ "BQ-013": {
+  "src": "dev8-baseline-build",
+  "total": 4.0
+ },
+ "BQ-014": {
+  "src": "dev8-baseline-build",
+  "total": 6.0
+ },
+ "BQ-015": {
+  "src": "dev8-baseline-build",
+  "total": 6.0
+ },
+ "BQ-016": {
+  "src": "dev8-baseline-build",
+  "total": 6.0
+ },
+ "BQ-017": {
+  "src": "dev8-baseline-build",
+  "total": 4.0
+ },
+ "BQ-018": {
+  "src": "dev8-baseline-build",
+  "total": 4.0
+ },
+ "BQ-019": {
+  "src": "dev8-baseline-build",
+  "total": 4.0
+ },
+ "BQ-020": {
+  "src": "dev8-baseline-build",
+  "total": 4.0
+ },
+ "BQ-021": {
+  "src": "dev8-baseline-build",
+  "total": 6.0
+ },
+ "BQ-022": {
+  "src": "dev8-baseline-build",
+  "total": 6.0
+ },
+ "BQ-023": {
+  "src": "dev8-baseline-build",
+  "total": 6.0
+ },
+ "BQ-024": {
+  "src": "dev8-baseline-build",
+  "total": 4.0
+ },
+ "BQ-025": {
+  "src": "dev8-baseline-build",
+  "total": 5.25
+ },
+ "BZ-016": {
+  "src": "dev7-baseline-build",
+  "total": 3.5
+ },
+ "BZ-019": {
+  "src": "dev7-baseline-build",
+  "total": 2.5
+ },
+ "BZ-020": {
+  "src": "phase2-round1",
+  "total": 5.5
+ },
+ "BZ-021": {
+  "src": "dev7-baseline-build",
+  "total": 4.5
+ },
+ "BZ-022": {
+  "src": "phase2-round1",
+  "total": 6.0
+ },
+ "BZ-023": {
+  "src": "dev7-baseline-build",
+  "total": 5.5
+ },
+ "BZ-024": {
+  "src": "phase2-round1",
+  "total": 6.0
+ },
+ "BZ-025": {
+  "src": "phase2-round1",
+  "total": 5.0
+ },
+ "BZ-026": {
+  "src": "phase2-round1",
+  "total": 5.0
+ },
+ "BZ-027": {
+  "src": "dev7-baseline-build",
+  "total": 3.5
+ },
+ "BZ-028": {
+  "src": "phase2-round1",
+  "total": 5.0
+ },
+ "BZ-029": {
+  "src": "phase2-round1",
+  "total": 4.0
+ },
+ "BZ-030": {
+  "src": "phase2-round1",
+  "total": 4.0
+ },
+ "BZ-031": {
+  "src": "phase2-round1",
+  "total": 4.5
+ },
+ "BZ-032": {
+  "src": "dev7-baseline-build",
+  "total": 3.5
+ },
+ "BZ-033": {
+  "src": "phase2-round1",
+  "total": 6.0
+ },
+ "BZ-034": {
+  "src": "phase2-round1",
+  "total": 6.0
+ },
+ "BZ-035": {
+  "src": "phase2-round1",
+  "total": 5.0
+ },
+ "BZ-036": {
+  "src": "phase2-round1",
+  "total": 4.0
+ },
+ "BZ-037": {
+  "src": "dev7-baseline-build",
+  "total": 3.5
+ },
+ "BZ-038": {
+  "src": "dev7-baseline-build",
+  "total": 4.5
+ },
+ "BZ-039": {
+  "src": "phase2-round1",
+  "total": 4.5
+ },
+ "BZ-040": {
+  "src": "phase2-round1",
+  "total": 5.0
+ },
+ "BZ-041": {
+  "src": "phase2-round1",
+  "total": 3.0
+ },
+ "BZ-042": {
+  "src": "phase2-round1",
+  "total": 4.0
+ },
+ "BZ-104": {
+  "src": "phase2-round1",
+  "total": 6.0
+ },
+ "BZ-105": {
+  "src": "phase2-round1",
+  "total": 6.0
+ },
+ "BZ-301": {
+  "src": "phase2-round1",
+  "total": 0.0
+ },
+ "BZ-302": {
+  "src": "phase2-round1",
+  "total": 5.0
+ },
+ "BZ-303": {
+  "src": "phase2-round1",
+  "total": 3.0
+ },
+ "BZ-304": {
+  "src": "phase2-round1",
+  "total": 0.0
+ },
+ "LR-001": {
+  "src": "phase2-round1",
+  "total": 5.0
+ },
+ "LR2-013": {
+  "src": "dev8-baseline-build",
+  "total": 6.0
+ },
+ "LR2-014": {
+  "src": "dev8-baseline-build",
+  "total": 5.5
+ },
+ "LR2-015": {
+  "src": "dev8-baseline-build",
+  "total": 6.0
+ },
+ "LR2-016": {
+  "src": "dev8-baseline-build",
+  "total": 5.0
+ },
+ "LR2-017": {
+  "src": "dev8-baseline-build",
+  "total": 6.0
+ },
+ "LR2-018": {
+  "src": "dev8-baseline-build",
+  "total": 5.0
+ },
+ "LR2-019": {
+  "src": "dev8-baseline-build",
+  "total": 5.75
+ },
+ "LR2-020": {
+  "src": "dev8-baseline-build",
+  "total": 3.5
+ },
+ "LR2-021": {
+  "src": "dev8-baseline-build",
+  "total": 5.75
+ },
+ "LR2-022": {
+  "src": "dev8-baseline-build",
+  "total": 6.0
+ },
+ "LR2-023": {
+  "src": "dev8-baseline-build",
+  "total": 6.0
+ },
+ "LR2-024": {
+  "src": "dev8-baseline-build",
+  "total": 5.5
+ },
+ "LY-001": {
+  "src": "dev7-baseline-build",
+  "total": 6.0
+ },
+ "LY-002": {
+  "src": "phase2-round1",
+  "total": 6.0
+ },
+ "LY-003": {
+  "src": "phase2-round1",
+  "total": 6.0
+ },
+ "LY-004": {
+  "src": "phase2-round1",
+  "total": 6.0
+ },
+ "LY-005": {
+  "src": "phase2-round1",
+  "total": 6.0
+ },
+ "LY-006": {
+  "src": "phase2-round1",
+  "total": 6.0
+ },
+ "LY-007": {
+  "src": "phase2-round1",
+  "total": 6.0
+ },
+ "LY-008": {
+  "src": "phase2-round1",
+  "total": 5.5
+ },
+ "LY-009": {
+  "src": "phase2-round1",
+  "total": 6.0
+ },
+ "LY-01": {
+  "src": "phase2-round1",
+  "total": 6.0
+ },
+ "LY-010": {
+  "src": "dev7-baseline-build-arb",
+  "total": 3.5
+ },
+ "LY-011": {
+  "src": "dev7-baseline-build",
+  "total": 3.25
+ },
+ "LY-012": {
+  "src": "phase2-round1",
+  "total": 5.5
+ },
+ "LY-013": {
+  "src": "phase2-round1",
+  "total": 6.0
+ },
+ "LY-014": {
+  "src": "dev7-baseline-build",
+  "total": 6.0
+ },
+ "LY-015": {
+  "src": "phase2-round1",
+  "total": 6.0
+ },
+ "LY-016": {
+  "src": "dev7-baseline-build",
+  "total": 6.0
+ },
+ "LY-017": {
+  "src": "phase2-round1",
+  "total": 6.0
+ },
+ "LY-018": {
+  "src": "phase2-round1",
+  "total": 5.0
+ },
+ "LY-019": {
+  "src": "phase2-round1",
+  "total": 4.5
+ },
+ "LY-021": {
+  "src": "phase2-round1",
+  "total": 6.0
+ },
+ "LY-022": {
+  "src": "phase2-round1",
+  "total": 6.0
+ },
+ "LY-023": {
+  "src": "phase2-round1",
+  "total": 5.0
+ },
+ "LY-024": {
+  "src": "dev7-baseline-build",
+  "total": 5.0
+ },
+ "LY-025": {
+  "src": "dev7-baseline-build",
+  "total": 5.75
+ },
+ "LY-026": {
+  "src": "phase2-round1",
+  "total": 6.0
+ },
+ "LY-027": {
+  "src": "phase2-round1",
+  "total": 5.5
+ },
+ "LY-028": {
+  "src": "phase2-round1",
+  "total": 6.0
+ },
+ "LY-029": {
+  "src": "phase2-round1",
+  "total": 4.0
+ },
+ "LY-030": {
+  "src": "phase2-round1",
+  "total": 4.5
+ },
+ "LY-031": {
+  "src": "dev7-baseline-build",
+  "total": 4.0
+ },
+ "LY-032": {
+  "src": "phase2-round1",
+  "total": 6.0
+ },
+ "LY-033": {
+  "src": "dev7-baseline-build",
+  "total": 5.25
+ },
+ "LY-034": {
+  "src": "phase2-round1",
+  "total": 6.0
+ },
+ "LY-035": {
+  "src": "phase2-round1",
+  "total": 6.0
+ },
+ "LY-036": {
+  "src": "dev7-baseline-build",
+  "total": 4.0
+ },
+ "LY-102": {
+  "src": "phase2-round1",
+  "total": 5.0
+ },
+ "LY-103": {
+  "src": "dev7-baseline-build",
+  "total": 5.25
+ },
+ "LY-104": {
+  "src": "phase2-round1",
+  "total": 4.0
+ },
+ "LY-105": {
+  "src": "dev7-baseline-build",
+  "total": 3.0
+ },
+ "LY-202": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-203": {
+  "claims": 0.0,
+  "direction": 0.0,
+  "src": "meanAB",
+  "timing": 1.0,
+  "total": 1.0
+ },
+ "LY-204": {
+  "claims": 1.5,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 1.0,
+  "total": 4.5
+ },
+ "LY-205": {
+  "claims": 1.0,
+  "direction": 1.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 4.0
+ },
+ "LY-206": {
+  "claims": 1.5,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 1.5,
+  "total": 5.0
+ },
+ "LY-207": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-208": {
+  "claims": 1.5,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 1.0,
+  "total": 4.5
+ },
+ "LY-210": {
+  "claims": 1.0,
+  "direction": 1.0,
+  "src": "meanAB",
+  "timing": 0.5,
+  "total": 2.5
+ },
+ "LY-211": {
+  "claims": 1.5,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 5.5
+ },
+ "LY-212": {
+  "claims": 1.5,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 5.5
+ },
+ "LY-215": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-216": {
+  "claims": 1,
+  "direction": 2,
+  "src": "arbitration",
+  "timing": 1,
+  "total": 4.0
+ },
+ "LY-217": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 1.0,
+  "total": 5.0
+ },
+ "LY-218": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-219": {
+  "claims": 1.5,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 1.0,
+  "total": 4.5
+ },
+ "LY-220": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 1.0,
+  "total": 5.0
+ },
+ "LY-221": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 1.0,
+  "total": 5.0
+ },
+ "LY-222": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 1.5,
+  "total": 5.5
+ },
+ "LY-227": {
+  "claims": 1.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 1.0,
+  "total": 4.0
+ },
+ "LY-228": {
+  "claims": 0.5,
+  "direction": 0.0,
+  "src": "meanAB",
+  "timing": 1.0,
+  "total": 1.5
+ },
+ "LY-230": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-231": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-232": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-234": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-235": {
+  "claims": 1.5,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 5.5
+ },
+ "LY-237": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-240": {
+  "claims": 1.5,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 5.5
+ },
+ "LY-241": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-242": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-243": {
+  "claims": 1.0,
+  "direction": 1.0,
+  "src": "meanAB",
+  "timing": 1.0,
+  "total": 3.0
+ },
+ "LY-244": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 1.0,
+  "total": 5.0
+ },
+ "LY-245": {
+  "claims": 0.5,
+  "direction": 0.5,
+  "src": "meanAB",
+  "timing": 1.0,
+  "total": 2.0
+ },
+ "LY-246": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 1.0,
+  "total": 5.0
+ },
+ "LY-249": {
+  "claims": 1.5,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 5.5
+ },
+ "LY-250": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-251": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-252": {
+  "claims": 1.5,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 5.5
+ },
+ "LY-253": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-254": {
+  "claims": 1.5,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 5.5
+ },
+ "LY-255": {
+  "claims": 1.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 1.0,
+  "total": 4.0
+ },
+ "LY-259": {
+  "claims": 1.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 1.0,
+  "total": 4.0
+ },
+ "LY-301": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-304": {
+  "claims": 1.5,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 1.0,
+  "total": 4.5
+ },
+ "LY-305": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-306": {
+  "claims": 1,
+  "direction": 2,
+  "src": "arbitration",
+  "timing": 0,
+  "total": 3.0
+ },
+ "LY-307": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-309": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-311": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 1.0,
+  "total": 5.0
+ },
+ "LY-312": {
+  "claims": 1.5,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 1.0,
+  "total": 4.5
+ },
+ "LY-314": {
+  "claims": 1.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 1.0,
+  "total": 4.0
+ },
+ "LY-315": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-318": {
+  "claims": 1.5,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 5.5
+ },
+ "LY-319": {
+  "claims": 1.5,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 5.5
+ },
+ "LY-320": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-322": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-323": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-324": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-325": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-328": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 0.0,
+  "total": 4.0
+ },
+ "LY-329": {
+  "claims": 1.5,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 1.0,
+  "total": 4.5
+ },
+ "LY-330": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 0.0,
+  "total": 4.0
+ },
+ "LY-331": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 0.0,
+  "total": 4.0
+ },
+ "LY-332": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 0.0,
+  "total": 4.0
+ },
+ "LY-333": {
+  "claims": 0.75,
+  "direction": 1.0,
+  "src": "meanAB",
+  "timing": 0.0,
+  "total": 1.75
+ },
+ "LY-335": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-336": {
+  "claims": 1.5,
+  "direction": 2,
+  "src": "arbitration",
+  "timing": 1,
+  "total": 4.5
+ },
+ "LY-338": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-339": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-340": {
+  "claims": 1.75,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 5.75
+ },
+ "LY-342": {
+  "claims": 1.5,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 1.25,
+  "total": 4.75
+ },
+ "LY-344": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-402": {
+  "claims": 1.5,
+  "direction": 2,
+  "src": "arbitration",
+  "timing": 0,
+  "total": 3.5
+ },
+ "LY-403": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-404": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-405": {
+  "claims": 1.75,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 1.5,
+  "total": 5.25
+ },
+ "LY-406": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-407": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-408": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-411": {
+  "claims": 1.25,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 0.0,
+  "total": 3.25
+ },
+ "LY-413": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-415": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 1.75,
+  "total": 5.75
+ },
+ "LY-416": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-417": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-418": {
+  "claims": 2,
+  "direction": 2,
+  "src": "arbitration",
+  "timing": 0,
+  "total": 4
+ },
+ "LY-421": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-423": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-424": {
+  "claims": 1.25,
+  "direction": 1.5,
+  "src": "meanAB",
+  "timing": 0.0,
+  "total": 2.75
+ },
+ "LY-425": {
+  "claims": 2,
+  "direction": 2,
+  "src": "arbitration",
+  "timing": 0,
+  "total": 4
+ },
+ "LY-426": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-427": {
+  "claims": 2,
+  "direction": 2,
+  "src": "arbitration",
+  "timing": 0,
+  "total": 4
+ },
+ "LY-428": {
+  "claims": 0.75,
+  "direction": 0.5,
+  "src": "meanAB",
+  "timing": 0.0,
+  "total": 1.25
+ },
+ "LY-429": {
+  "claims": 1.0,
+  "direction": 1.25,
+  "src": "meanAB",
+  "timing": 0.0,
+  "total": 2.25
+ },
+ "LY-430": {
+  "claims": 1.5,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 1.25,
+  "total": 4.75
+ },
+ "LY-432": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-433": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-434": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-436": {
+  "claims": 1.75,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 5.75
+ },
+ "LY-437": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-439": {
+  "claims": 2,
+  "direction": 2,
+  "src": "arbitration",
+  "timing": 0,
+  "total": 4
+ },
+ "LY-440": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-441": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 1.5,
+  "total": 5.5
+ },
+ "LY-442": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-443": {
+  "claims": 2,
+  "direction": 2,
+  "src": "arbitration",
+  "timing": 0,
+  "total": 4
+ },
+ "LY-445": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-446": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-449": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-451": {
+  "claims": 1.75,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 2.0,
+  "total": 5.75
+ },
+ "LY-452": {
+  "claims": 1.5,
+  "direction": 1.75,
+  "src": "meanAB",
+  "timing": 0.0,
+  "total": 3.25
+ },
+ "LY-454": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 0.0,
+  "total": 4.0
+ },
+ "LY-455": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 0.0,
+  "total": 4.0
+ },
+ "LY-457": {
+  "claims": 1.25,
+  "direction": 2.0,
+  "src": "meanAB",
+  "timing": 0.0,
+  "total": 3.25
+ },
+ "LY-458": {
+  "claims": 2,
+  "direction": 2,
+  "src": "arbitration",
+  "timing": 0,
+  "total": 4
+ },
+ "LY-501": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-502": {
+  "claims": 1.5,
+  "direction": 2.0,
+  "timing": 2.0,
+  "total": 5.5
+ },
+ "LY-503": {
+  "src": "expansion3-baseline",
+  "total": 6
+ },
+ "LY-504": {
+  "claims": 1.5,
+  "direction": 2,
+  "timing": 1,
+  "total": 4.5
+ },
+ "LY-505": {
+  "claims": 1.5,
+  "direction": 2,
+  "timing": 0,
+  "total": 3.5
+ },
+ "LY-506": {
+  "claims": 1.5,
+  "direction": 2.0,
+  "timing": 2.0,
+  "total": 5.5
+ },
+ "LY-507": {
+  "claims": 1.5,
+  "direction": 2.0,
+  "timing": 0.0,
+  "total": 3.5
+ },
+ "LY-508": {
+  "claims": 1.25,
+  "direction": 1.75,
+  "timing": 0.0,
+  "total": 3.0
+ },
+ "LY-509": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "timing": 0.0,
+  "total": 4.0
+ },
+ "LY-510": {
+  "claims": 1.5,
+  "direction": 2.0,
+  "timing": 0.0,
+  "total": 3.5
+ },
+ "LY-511": {
+  "claims": 1.5,
+  "direction": 2,
+  "timing": 0,
+  "total": 3.5
+ },
+ "LY-512": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "timing": 0.0,
+  "total": 4.0
+ },
+ "LY-513": {
+  "src": "expansion3-baseline",
+  "total": 2
+ },
+ "LY-514": {
+  "claims": 1.5,
+  "direction": 2,
+  "timing": 0,
+  "total": 3.5
+ },
+ "LY-515": {
+  "claims": 1.75,
+  "direction": 2.0,
+  "timing": 1.0,
+  "total": 4.75
+ },
+ "LY-516": {
+  "claims": 2,
+  "direction": 2,
+  "timing": 0,
+  "total": 4
+ },
+ "LY-517": {
+  "claims": 2,
+  "direction": 2,
+  "timing": 0,
+  "total": 4
+ },
+ "LY-518": {
+  "claims": 0.75,
+  "direction": 0.75,
+  "timing": 0.0,
+  "total": 1.5
+ },
+ "LY-519": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "timing": 0.0,
+  "total": 4.0
+ },
+ "LY-520": {
+  "claims": 2,
+  "direction": 2,
+  "timing": 0,
+  "total": 4
+ },
+ "LY-521": {
+  "claims": 1.5,
+  "direction": 2.0,
+  "timing": 0.0,
+  "total": 3.5
+ },
+ "LY-522": {
+  "claims": 2,
+  "direction": 2,
+  "timing": 0,
+  "total": 4
+ },
+ "LY-523": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "timing": 2.0,
+  "total": 6.0
+ },
+ "LY-524": {
+  "claims": 1.0,
+  "direction": 1.75,
+  "timing": 0.0,
+  "total": 2.75
+ },
+ "LY-525": {
+  "src": "expansion3-baseline",
+  "total": 6
+ },
+ "LY-526": {
+  "claims": 1.5,
+  "direction": 2.0,
+  "timing": 1.0,
+  "total": 4.5
+ },
+ "LY-527": {
+  "claims": 1.75,
+  "direction": 2.0,
+  "timing": 2.0,
+  "total": 5.75
+ },
+ "LY-528": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "timing": 0.0,
+  "total": 4.0
+ },
+ "LY-529": {
+  "src": "expansion3-baseline",
+  "total": 4
+ },
+ "LY-530": {
+  "src": "expansion3-baseline",
+  "total": 4
+ },
+ "LY-531": {
+  "src": "expansion3-baseline",
+  "total": 4
+ },
+ "LY-532": {
+  "src": "expansion3-baseline",
+  "total": 5
+ },
+ "LY-533": {
+  "src": "expansion3-baseline",
+  "total": 4
+ },
+ "LY-534": {
+  "src": "expansion3-baseline",
+  "total": 4
+ },
+ "LY-535": {
+  "src": "expansion3-baseline",
+  "total": 4
+ },
+ "LY-536": {
+  "src": "expansion3-baseline",
+  "total": 2
+ },
+ "LY-537": {
+  "src": "expansion3-baseline",
+  "total": 3.5
+ },
+ "LY-538": {
+  "src": "expansion3-baseline",
+  "total": 4
+ },
+ "LY-539": {
+  "src": "expansion3-baseline",
+  "total": 6
+ },
+ "LY-540": {
+  "src": "expansion3-baseline",
+  "total": 4
+ },
+ "LY-541": {
+  "src": "expansion3-baseline",
+  "total": 4
+ },
+ "LY-542": {
+  "src": "expansion3-baseline",
+  "total": 4
+ },
+ "LY-543": {
+  "src": "expansion3-baseline",
+  "total": 3.5
+ },
+ "LY-601": {
+  "src": "holdout6-acceptance",
+  "total": 5.5
+ },
+ "LY-602": {
+  "src": "holdout6-acceptance",
+  "total": 5.75
+ },
+ "LY-603": {
+  "src": "holdout6-acceptance",
+  "total": 3.25
+ },
+ "LY-604": {
+  "src": "holdout6-acceptance",
+  "total": 3.0
+ },
+ "LY-605": {
+  "src": "holdout6-acceptance",
+  "total": 2.25
+ },
+ "LY-606": {
+  "src": "holdout6-acceptance",
+  "total": 3.5
+ },
+ "LY-607": {
+  "src": "holdout6-acceptance",
+  "total": 3.5
+ },
+ "LY-608": {
+  "src": "holdout6-acceptance",
+  "total": 6.0
+ },
+ "LY-609": {
+  "src": "holdout6-acceptance",
+  "total": 5.75
+ },
+ "LY-610": {
+  "src": "holdout6-acceptance",
+  "total": 5.75
+ },
+ "LY-611": {
+  "src": "holdout6-acceptance",
+  "total": 4.0
+ },
+ "LY-612": {
+  "src": "holdout6-acceptance",
+  "total": 3.5
+ },
+ "LY-613": {
+  "src": "holdout6-acceptance",
+  "total": 5.25
+ },
+ "LY-614": {
+  "src": "holdout6-acceptance",
+  "total": 0.5
+ },
+ "LY-615": {
+  "src": "holdout6-acceptance",
+  "total": 3.5
+ },
+ "LY-616": {
+  "src": "holdout6-acceptance",
+  "total": 3.5
+ },
+ "LY-617": {
+  "src": "holdout6-acceptance",
+  "total": 4.0
+ },
+ "LY-618": {
+  "src": "holdout6-acceptance",
+  "total": 3.5
+ },
+ "LY-619": {
+  "src": "holdout6-acceptance",
+  "total": 5.0
+ },
+ "LY-620": {
+  "claims": 1.5,
+  "direction": 2,
+  "timing": 0,
+  "total": 3.5
+ },
+ "LY-621": {
+  "claims": 1.5,
+  "direction": 2.0,
+  "timing": 0.75,
+  "total": 4.25
+ },
+ "LY-622": {
+  "src": "holdout6-acceptance",
+  "total": 5.0
+ },
+ "LY-623": {
+  "src": "holdout6-acceptance",
+  "total": 3.5
+ },
+ "LY-624": {
+  "src": "holdout6-acceptance",
+  "total": 3.5
+ },
+ "LY-625": {
+  "src": "holdout6-acceptance",
+  "total": 4.5
+ },
+ "LY-626": {
+  "claims": 1.5,
+  "direction": 2.0,
+  "timing": 2.0,
+  "total": 5.5
+ },
+ "LY-627": {
+  "claims": 1.75,
+  "direction": 2.0,
+  "timing": 2.0,
+  "total": 5.75
+ },
+ "LY-628": {
+  "claims": 1.5,
+  "direction": 2.0,
+  "timing": 1.0,
+  "total": 4.5
+ },
+ "LY-629": {
+  "claims": 2.0,
+  "direction": 2.0,
+  "timing": 0.0,
+  "total": 4.0
+ },
+ "MH-001": {
+  "src": "dev7-baseline-build",
+  "total": 5.5
+ },
+ "MH-002": {
+  "src": "phase2-round1",
+  "total": 6.0
+ },
+ "MH-003": {
+  "src": "dev7-baseline-build",
+  "total": 4.0
+ },
+ "MH-006": {
+  "src": "phase2-round1",
+  "total": 6.0
+ },
+ "MH-007": {
+  "src": "phase2-round1",
+  "total": 6.0
+ },
+ "MH-008": {
+  "src": "phase2-round1",
+  "total": 6.0
+ },
+ "MH-009": {
+  "src": "phase2-round1",
+  "total": 6.0
+ },
+ "MH-010": {
+  "src": "phase2-round1",
+  "total": 6.0
+ },
+ "MP-001": {
+  "src": "holdout8-acceptance",
+  "total": 1.0
+ },
+ "MP-002": {
+  "src": "holdout8-acceptance",
+  "total": 1.0
+ },
+ "MP-003": {
+  "src": "dev7-baseline-build",
+  "total": 0.0
+ },
+ "MP-004": {
+  "src": "dev7-baseline-build",
+  "total": 5.75
+ },
+ "MP-005": {
+  "src": "holdout8-acceptance",
+  "total": 0.75
+ },
+ "MP-006": {
+  "src": "dev7-baseline-build",
+  "total": 0.0
+ },
+ "MP-007": {
+  "src": "dev7-baseline-build",
+  "total": 3.0
+ },
+ "MP-008": {
+  "src": "dev7-baseline-build",
+  "total": 0.5
+ },
+ "MP-009": {
+  "src": "holdout8-acceptance",
+  "total": 5.5
+ },
+ "MP-010": {
+  "src": "dev7-baseline-build",
+  "total": 1.0
+ },
+ "MP-011": {
+  "src": "dev7-baseline-build",
+  "total": 4.5
+ },
+ "MP-012": {
+  "src": "holdout8-acceptance",
+  "total": 4.75
+ },
+ "MP-013": {
+  "src": "holdout8-acceptance",
+  "total": 5.0
+ },
+ "MP-014": {
+  "src": "holdout8-acceptance",
+  "total": 4.0
+ },
+ "MP-015": {
+  "src": "dev7-baseline-build",
+  "total": 0.0
+ },
+ "MP-016": {
+  "src": "dev7-baseline-build",
+  "total": 4.5
+ },
+ "MP-017": {
+  "src": "dev7-baseline-build",
+  "total": 5.0
+ },
+ "MP-018": {
+  "src": "dev7-baseline-build",
+  "total": 0.5
+ },
+ "MP-019": {
+  "src": "dev7-baseline-build",
+  "total": 4.5
+ },
+ "OC-001": {
+  "src": "dev7-baseline-build",
+  "total": 5.0
+ },
+ "OC-002": {
+  "src": "dev7-baseline-build",
+  "total": 4.25
+ },
+ "OC-003": {
+  "src": "holdout8-acceptance",
+  "total": 3.5
+ },
+ "OC-004": {
+  "src": "dev7-baseline-build",
+  "total": 5.25
+ },
+ "OC-005": {
+  "src": "dev7-baseline-build-arb",
+  "total": 4.5
+ },
+ "OC-006": {
+  "src": "holdout8-acceptance",
+  "total": 1.25
+ },
+ "OC-007": {
+  "src": "dev7-baseline-build",
+  "total": 5.5
+ },
+ "OC-008": {
+  "src": "dev7-baseline-build",
+  "total": 4.25
+ },
+ "OC-009": {
+  "src": "dev7-baseline-build",
+  "total": 4.0
+ },
+ "OC-010": {
+  "src": "holdout8-acceptance",
+  "total": 3.5
+ },
+ "OC-011": {
+  "src": "dev7-baseline-build",
+  "total": 5.25
+ },
+ "OC-012": {
+  "src": "holdout8-acceptance",
+  "total": 5.0
+ },
+ "OC-013": {
+  "src": "dev7-baseline-build-arb",
+  "total": 4.5
+ },
+ "OC-014": {
+  "src": "holdout8-acceptance",
+  "total": 4.5
+ },
+ "OC-015": {
+  "src": "dev7-baseline-build",
+  "total": 4.0
+ },
+ "OC-016": {
+  "src": "holdout8-acceptance",
+  "total": 4.0
+ },
+ "OC-017": {
+  "src": "holdout8-acceptance",
+  "total": 3.5
+ },
+ "OC-018": {
+  "src": "holdout8-acceptance",
+  "total": 4.0
+ },
+ "OC-019": {
+  "src": "dev7-baseline-build",
+  "total": 5.75
+ },
+ "OC-020": {
+  "src": "dev7-baseline-build",
+  "total": 6.0
+ },
+ "OC-021": {
+  "src": "holdout8-acceptance",
+  "total": 4.0
+ },
+ "OC-022": {
+  "src": "holdout8-acceptance",
+  "total": 2.25
+ },
+ "OC-023": {
+  "src": "holdout8-acceptance",
+  "total": 4.0
+ },
+ "OC-024": {
+  "src": "dev7-baseline-build",
+  "total": 4.0
+ },
+ "OC-025": {
+  "src": "holdout8-acceptance",
+  "total": 6.0
+ },
+ "OC-026": {
+  "src": "holdout8-acceptance",
+  "total": 6.0
+ },
+ "OC-027": {
+  "src": "holdout8-acceptance",
+  "total": 4.75
+ },
+ "OC-028": {
+  "src": "holdout8-acceptance",
+  "total": 3.0
+ },
+ "OC-029": {
+  "src": "holdout8-acceptance",
+  "total": 5.25
+ },
+ "OC-030": {
+  "src": "holdout8-acceptance",
+  "total": 5.5
+ },
+ "WP-001": {
+  "src": "holdout8-acceptance",
+  "total": 5.5
+ },
+ "WP-002": {
+  "src": "dev7-baseline-build",
+  "total": 5.25
+ },
+ "WP-003": {
+  "src": "holdout8-acceptance",
+  "total": 5.5
+ },
+ "WP-004": {
+  "src": "dev7-baseline-build",
+  "total": 0.5
+ },
+ "WP-005": {
+  "src": "dev7-baseline-build",
+  "total": 0.5
+ },
+ "WP-006": {
+  "src": "holdout8-acceptance",
+  "total": 5.0
+ },
+ "WP-007": {
+  "src": "dev7-baseline-build",
+  "total": 5.5
+ },
+ "WP-008": {
+  "src": "holdout8-acceptance",
+  "total": 5.0
+ },
+ "WP-009": {
+  "src": "dev7-baseline-build",
+  "total": 4.75
+ },
+ "WP-010": {
+  "src": "dev7-baseline-build",
+  "total": 4.5
+ },
+ "WP-011": {
+  "src": "dev7-baseline-build",
+  "total": 0.5
+ },
+ "WP-012": {
+  "src": "dev7-baseline-build",
+  "total": 0.5
+ },
+ "WP-013": {
+  "src": "dev7-baseline-build",
+  "total": 5.25
+ },
+ "YY-006": {
+  "src": "dev8-baseline-build",
+  "total": 6.0
+ },
+ "YY-010": {
+  "src": "dev8-baseline-build",
+  "total": 6.0
+ },
+ "YY-011": {
+  "src": "dev8-baseline-build",
+  "total": 5.5
+ },
+ "YY-012": {
+  "src": "dev8-baseline-build",
+  "total": 4.75
+ },
+ "YY-013": {
+  "src": "dev8-baseline-build",
+  "total": 6.0
+ },
+ "YY-014": {
+  "src": "dev8-baseline-build",
+  "total": 4.0
+ },
+ "YY-015": {
+  "src": "dev8-baseline-build",
+  "total": 6.0
+ },
+ "YY-016": {
+  "src": "dev8-baseline-build",
+  "total": 6.0
+ },
+ "YY-017": {
+  "src": "dev8-baseline-build",
+  "total": 6.0
+ },
+ "YY-018": {
+  "src": "dev8-baseline-build",
+  "total": 4.25
+ },
+ "YY-019": {
+  "src": "dev8-baseline-build",
+  "total": 4.75
+ },
+ "YY-020": {
+  "src": "dev8-baseline-build",
+  "total": 6.0
+ },
+ "YY-021": {
+  "src": "dev8-baseline-build",
+  "total": 6.0
+ },
+ "YY-022": {
+  "src": "dev8-baseline-build",
+  "total": 3.5
+ },
+ "YY-023": {
+  "src": "dev8-baseline-build",
+  "total": 3.5
+ },
+ "YY-024": {
+  "src": "dev8-baseline-build",
+  "total": 4.5
+ },
+ "YY2-001": {
+  "src": "dev8-baseline-build",
+  "total": 6.0
+ },
+ "YY2-002": {
+  "src": "dev8-baseline-build",
+  "total": 6.0
+ },
+ "YY2-003": {
+  "src": "dev8-baseline-build",
+  "total": 6.0
+ },
+ "YY2-004": {
+  "src": "dev8-baseline-build",
+  "total": 6.0
+ },
+ "YY2-005": {
+  "src": "dev8-baseline-build",
+  "total": 5.5
+ },
+ "ZY-001": {
+  "src": "dev7-baseline-build",
+  "total": 4.5
+ },
+ "ZY-002": {
+  "src": "phase2-round1",
+  "total": 5.0
+ },
+ "ZY-003": {
+  "src": "phase2-round1",
+  "total": 5.0
+ },
+ "ZY-004": {
+  "src": "phase2-round1",
+  "total": 5.0
+ },
+ "DT-001": {
+  "src": "dev9-baseline-build",
+  "total": 4.0
+ },
+ "DT-002": {
+  "src": "dev9-baseline-build",
+  "total": 4.0
+ },
+ "DT-003": {
+  "src": "dev9-baseline-build",
+  "total": 4.0
+ },
+ "DT-004": {
+  "src": "dev9-baseline-build",
+  "total": 4.0
+ },
+ "DT-005": {
+  "src": "dev9-baseline-build",
+  "total": 4.0
+ },
+ "DT-006": {
+  "src": "dev9-baseline-build",
+  "total": 4.0
+ },
+ "DT-007": {
+  "src": "dev9-baseline-build",
+  "total": 6.0
+ },
+ "LR3-002": {
+  "src": "dev9-baseline-build",
+  "total": 4.5
+ },
+ "LR3-004": {
+  "src": "dev9-baseline-build",
+  "total": 3.25
+ },
+ "LR3-006": {
+  "src": "dev9-baseline-build",
+  "total": 4.75
+ },
+ "LR3-008": {
+  "src": "dev9-baseline-build",
+  "total": 5.0
+ },
+ "LR3-010": {
+  "src": "dev9-baseline-build",
+  "total": 3.0
+ },
+ "LR3-101": {
+  "src": "dev9-baseline-build",
+  "total": 5.0
+ },
+ "LR3-104": {
+  "src": "dev9-baseline-build",
+  "total": 4.0
+ },
+ "LR3-107": {
+  "src": "dev9-baseline-build",
+  "total": 4.0
+ },
+ "LR3-110": {
+  "src": "dev9-baseline-build",
+  "total": 4.75
+ },
+ "LR3-112": {
+  "src": "dev9-baseline-build",
+  "total": 2.25
+ },
+ "LR3-114": {
+  "src": "dev9-baseline-build",
+  "total": 4.0
+ },
+ "LR3-116": {
+  "src": "dev9-baseline-build",
+  "total": 4.0
+ },
+ "YM-002": {
+  "src": "dev9-baseline-build",
+  "total": 3.0
+ },
+ "YM-003": {
+  "src": "dev9-baseline-build",
+  "total": 3.5
+ },
+ "YM-004": {
+  "src": "dev9-baseline-build",
+  "total": 3.0
+ },
+ "YM-005": {
+  "src": "dev9-baseline-build",
+  "total": 6.0
+ },
+ "YM-007": {
+  "src": "dev9-baseline-build",
+  "total": 6.0
+ },
+ "YM-008": {
+  "src": "dev9-baseline-build",
+  "total": 6.0
+ },
+ "YM-009": {
+  "src": "dev9-baseline-build",
+  "total": 6.0
+ },
+ "YM-010": {
+  "src": "dev9-baseline-build",
+  "total": 5.75
+ },
+ "YM-012": {
+  "src": "dev9-baseline-build",
+  "total": 3.5
+ },
+ "YM-013": {
+  "src": "dev9-baseline-build",
+  "total": 3.0
+ },
+ "YM-014": {
+  "src": "dev9-baseline-build",
+  "total": 4.5
+ },
+ "YM-015": {
+  "src": "dev9-baseline-build",
+  "total": 6.0
+ },
+ "YM-017": {
+  "src": "dev9-baseline-build",
+  "total": 6.0
+ },
+ "YM-018": {
+  "src": "dev9-baseline-build",
+  "total": 6.0
+ },
+ "YM-019": {
+  "src": "dev9-baseline-build",
+  "total": 4.0
+ },
+ "YM-020": {
+  "src": "dev9-baseline-build",
+  "total": 4.0
+ },
+ "YM-022": {
+  "src": "dev9-baseline-build",
+  "total": 4.0
+ },
+ "YM-023": {
+  "src": "dev9-baseline-build",
+  "total": 6.0
+ },
+ "YM-024": {
+  "src": "dev9-baseline-build",
+  "total": 6.0
+ },
+ "YM-025": {
+  "src": "dev9-baseline-build",
+  "total": 6.0
+ },
+ "YM-027": {
+  "src": "dev9-baseline-build",
+  "total": 5.5
+ },
+ "YM-028": {
+  "src": "dev9-baseline-build",
+  "total": 6.0
+ },
+ "YM-029": {
+  "src": "dev9-baseline-build",
+  "total": 6.0
+ },
+ "YM-030": {
+  "src": "dev9-baseline-build",
+  "total": 6.0
+ },
+ "YM-032": {
+  "src": "dev9-baseline-build",
+  "total": 4.5
+ },
+ "YM-033": {
+  "src": "dev9-baseline-build",
+  "total": 4.0
+ },
+ "YM-034": {
+  "src": "dev9-baseline-build",
+  "total": 6.0
+ },
+ "YM-035": {
+  "src": "dev9-baseline-build",
+  "total": 6.0
+ },
+ "YM-037": {
+  "src": "dev9-baseline-build",
+  "total": 4.0
+ },
+ "YM-038": {
+  "src": "dev9-baseline-build",
+  "total": 4.0
+ },
+ "YM-039": {
+  "src": "dev9-baseline-build",
+  "total": 6.0
+ },
+ "YM-040": {
+  "src": "dev9-baseline-build",
+  "total": 4.5
+ },
+ "YM-042": {
+  "src": "dev9-baseline-build",
+  "total": 6.0
+ },
+ "YM-043": {
+  "src": "dev9-baseline-build",
+  "total": 4.5
+ },
+ "YM-044": {
+  "src": "dev9-baseline-build",
+  "total": 4.0
+ },
+ "YM-045": {
+  "src": "dev9-baseline-build",
+  "total": 6.0
+ },
+ "YM-047": {
+  "src": "dev9-baseline-build",
+  "total": 6.0
+ },
+ "YM-048": {
+  "src": "dev9-baseline-build",
+  "total": 6.0
+ },
+ "YM-049": {
+  "src": "dev9-baseline-build",
+  "total": 6.0
+ },
+ "YM-050": {
+  "src": "dev9-baseline-build",
+  "total": 6.0
+ },
+ "YM-052": {
+  "src": "dev9-baseline-build",
+  "total": 6.0
+ },
+ "YM-053": {
+  "src": "dev9-baseline-build",
+  "total": 6.0
+ },
+ "YM-054": {
+  "src": "dev9-baseline-build",
+  "total": 4.5
+ },
+ "YM-055": {
+  "src": "dev9-baseline-build",
+  "total": 6.0
+ },
+ "YM-057": {
+  "src": "dev9-baseline-build",
+  "total": 6.0
+ },
+ "YM-058": {
+  "src": "dev9-baseline-build",
+  "total": 4.5
+ },
+ "YM-059": {
+  "src": "dev9-baseline-build",
+  "total": 4.5
+ },
+ "YM-060": {
+  "src": "dev9-baseline-build",
+  "total": 4.5
+ },
+ "YM-062": {
+  "src": "dev9-baseline-build",
+  "total": 6.0
+ },
+ "YM-063": {
+  "src": "dev9-baseline-build",
+  "total": 5.0
+ },
+ "YM-064": {
+  "src": "dev9-baseline-build",
+  "total": 6.0
+ },
+ "YM-065": {
+  "src": "dev9-baseline-build",
+  "total": 6.0
+ },
+ "YM-067": {
+  "src": "dev9-baseline-build",
+  "total": 6.0
+ },
+ "YM-068": {
+  "src": "dev9-baseline-build",
+  "total": 2.0
+ },
+ "YM-069": {
+  "src": "dev9-baseline-build",
+  "total": 3.25
+ },
+ "YM-070": {
+  "src": "dev9-baseline-build",
+  "total": 4.5
+ }
+}
