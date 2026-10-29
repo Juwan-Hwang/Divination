@@ -757,3 +757,10 @@ dev5 零改动基线轮完成（方法＝R14 版，逐字未动）：全集（n=
 - holdout8 封存 28 例（全新 A 级：low 10 全取＋high 按来源分层补 18；金标 SHA-256 6db901c2…，seal-log 已建），盲测面不入 inputs7。
 - dev7＝334 例：dev6 248＋holdout6 已用 23＋expansion6 dev-add 34＋legacy dev-add 29（Phase 1/2 已开封、从未进 Phase 3 池的双轴 A 级旧例，层级登记为 legacy，不冒充全新）。splits7.json、roster7-additions.jsonl（86 行含 holdout6 补录）、inputs7/（334 份，split 字段统一剥离）已生成，build_packets.py 已补 roster7 路径。
 - 下一步：dev-add 63 例（34 新＋29 legacy）大师基线新建（冻结量表、混编匿名、双评审＋仲裁），并入 master-baseline-dev7.json（dev6 基线 4.826 段沿用）；随后 R21 预注册（零改动基线轮，方法＝R19 版，dev7 全量）。
+
+### Phase 3 R21 预注册（2026-10-29，dev7 零改动基线轮）
+
+- 样本：dev7 全量 334 例（splits7.json 冻结；构成见 expansion6 建池登记）。方法＝R19 版逐字冻结（快照 runs/round21/kb-snapshot，与现行 method diff 为零已核）；本轮为 dev7 同法基线点，兼测新池（跨体系混合、含现代时间戳预测 34 例与 legacy 29 例）上的方法成色。
+- 盲测/评审提示逐字冻结（runs/calib-r17/JUDGE-PROMPT.txt、BLIND-PROMPT.txt）；盲测只读 inputs7 与 method，作断不拘体系（口径纠正登记）；trigger 沿 R19 口径（六爻四布尔含 dir_flipped，非六爻全 false）。
+- 评分口径：冻结量表双评审＋分歧仲裁（claims＋timing 差 ≥2 或 pass 不一致进仲裁）；配对基线＝master-baseline-dev7.json（dev6 段沿用＋holdout6 段验收定稿＋dev-add 63 例新建，建构记录存 data/dev7-baseline-build/）。
+- 报告口径：全集/低污染配对差为主，另按来源层级分层（古典六爻存量、expansion6-new、legacy）与体系分项；n<5 分项标注样本不足。本轮零改动，不设回滚判据；结果为 R22 干预立轮的诊断输入（靶点：方向逐例裁决质量＋断语具体断言命中；已证伪层不得换名重立）。
