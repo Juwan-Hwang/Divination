@@ -1,0 +1,33 @@
+{
+  "id": "YM-037",
+  "tradition": "liuyao",
+  "subject": {
+    "name_or_desc": "占者之子（痘）",
+    "gender": null
+  },
+  "context": {
+    "question": "占子痘（子痘吉凶）",
+    "asked_at": "未建甲辰旬甲辰日",
+    "setting": "程良玉《易冒》卷六·痘疹章第五十四所举占例",
+    "attachments": {
+      "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+      "hexagram": "坎宫：水雷屯 之 坎宫：泽火革",
+      "moving_lines": "三爻官鬼庚辰土动，化兄弟己亥水；四爻父母戊申金动，化兄弟丁亥水",
+      "chart_lines_top_to_bottom": [
+        "兄弟戊子水",
+        "官鬼戊戌土 应",
+        "父母戊申金（动）",
+        "官鬼庚辰土（动）",
+        "子孙庚寅木 世",
+        "兄弟庚子水"
+      ]
+    }
+  },
+  "provenance": {
+    "book": "《易冒》（清）程良玉撰",
+    "edition": "华龄出版社2016年《四库存目纳甲汇刊（五）·校正全本易冒》（（清）程良玉撰，郑同校；ISBN 978-7-5169-0727-6）扫描PDF，用户经学校图书馆提供",
+    "license_note": "内部研究使用",
+    "page": "卷六·痘疹章第五十四，书页101（PDF第117页）"
+  },
+  "language": "zh-Hant"
+}
