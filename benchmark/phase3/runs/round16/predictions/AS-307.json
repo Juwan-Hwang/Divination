@@ -1,0 +1,14 @@
+{
+ "case_id": "AS-307",
+ "system": "astrology",
+ "direction": "positive",
+ "prediction_text": "公开占星表态多数指向哈里斯（Kamala Harris）胜出、当选2024年美国总统，特朗普落败；选举结果接近但由哈里斯一方取得选举人票优势。",
+ "timing": "2024年11月选举日开票后定局（年/月档：2024年11月）",
+ "confidence": 0.55,
+ "basis": "2024年10月HuffPost选举占星师专题语境下职业占星师公开表态的多数倾向；以本命/行运与选举日星象综合之通例作断。非六爻，trigger三项false。",
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false
+ }
+}

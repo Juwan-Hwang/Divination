@@ -1,0 +1,14 @@
+{
+ "case_id": "AS-212",
+ "system": "horary",
+ "direction": "negative",
+ "prediction_text": "不是被巫术所害：病是自然之病、药不对症而日重，并非巫祟作祟。依据：上升及其主星、月亮皆未受第十二宫主星刑克，巫宫之嫌只来自月亮将冲土星且二星分居六、十二宫的表象；月亮过冲土星后转而顺合上升主星，且上升主星在地平线上、向中天上升，主病人一方渐得主导，不作巫治、仍从医药调治为是。",
+ "timing": "无应期主坐标：本题只问是否被巫，属是非判定、无事件应期；病势转归不在所问。",
+ "confidence": 0.78,
+ "basis": "Lilly horary 巫祟判定：以 Asc、Asc lord、Moon 是否被 lord of 12th afflict 为主证；本盘三者皆未受十二宫主刑克，Moon-Saturn 对冲在六/十二宫仅为疑似象，不足定巫；Moon 后续 apply 至 Asc lord 为反证。非六爻例，trigger 三项记 false。",
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false
+ }
+}

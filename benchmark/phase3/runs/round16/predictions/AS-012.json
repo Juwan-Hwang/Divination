@@ -1,0 +1,14 @@
+{
+ "case_id": "AS-012",
+ "system": "horary",
+ "direction": "negative",
+ "prediction_text": "不能取得所求教职（parsonage／benefice）：求者不得此职，强行谋求亦无成，应按 Lilly 所劝罢手。土星受困于上升宫损毁全问；九宫主木星（教职之主星）与上升主、月亮皆无相位，求者方与教职方亦无接纳、传光、汇光，月亮离三合而趋冲水星（三宫主），七宫金星冲上升——七项负证同指一处：无路通达、无人传引，此职不归求者。",
+ "timing": "无应期：终局不成，不定得职之期",
+ "confidence": 0.88,
+ "basis": "Lilly 本人列举七项负证（输入 key_positions）：Saturn impedited in Asc；Jupiter L9 与 L Asc、Moon 无相位；L Asc 与 Moon 皆不在九宫；无 translation／collection／reception；Moon separating trine applying opposition Mercury L3；Venus in 7th opposing Asc。古典卜卦占星以主星无相位无接纳断不成。",
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false
+ }
+}

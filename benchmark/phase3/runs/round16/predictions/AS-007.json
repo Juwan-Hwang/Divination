@@ -1,0 +1,14 @@
+{
+ "case_id": "AS-007",
+ "system": "horary-astrology",
+ "direction": "positive",
+ "prediction_text": "Waller一方應勝、Hopton一方應敗。Waller以Ascendant、Moon、Jupiter、Venus為主星，Moon在其擢升之位且與Jupiter同在、勢強而速；其財助之主Sun居第十宮且正居其擢升度數（白羊19°），主援軍與聲勢俱在位。Hopton之主星Saturn為第七宮主，卻落陷、無定位、被日光掩（sub radiis）、不與任何行星成相，又刑第七宮尖，主其人孤弱無援；第九宮只有Mars與South Node，主Hopton一方無現成補給。故當日交鋒，Waller克服Hopton，Hopton敗退且乏援。",
+ "timing": "日檔：應期即圖所立之交鋒當日（1644年3月29日），勝負當日分曉，不延至他月。",
+ "confidence": 0.9,
+ "basis": "Lilly卜卦占星整宮法： querent一方以一宮及其主、Moon、Jupiter、Venus為徵星，對方以七宮主Saturn為徵星；逐項回扣題面key_positions——Moon擢升合Jupiter、Sun居十宮擢升度、Saturn落陷peregrine無相位且sub radiis、九宮無補給星，強弱對比一面倒，方向與等級同級足斷Waller勝。",
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false
+ }
+}

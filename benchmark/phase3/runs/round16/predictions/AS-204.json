@@ -1,0 +1,14 @@
+{
+ "case_id": "AS-204",
+ "system": "horary astrology (Lilly, Christian Astrology)",
+ "direction": "negative",
+ "prediction_text": "病在胸胃：天蝎上升，命主星新近与土星成四分相，土星在巨蟹（主胸与胃），月亮在第四宫与土星同处，第六宫有陷落之星受困。四角皆固定宫，主病势固定、病程缠绵。此为土星性寒湿浊气壅滞胸胃之疾，胸胃部位受病、壅塞不通，非一时急症，而是根深难拔之旧疾；可治而难速愈，须长期调治，短期内不得轻断痊愈。",
+ "timing": "年档（固定宫主久）：无近期速愈之期，愈期以年计、转机须待命主星与月亮脱离土星凶相之后，月档内先定转折月，不径落某日",
+ "confidence": 0.6,
+ "basis": "Lilly卜卦占星病占法：上升天蝎、命主星与土星四分、土星居巨蟹定病位为胸胃、六宫陷落星主病、月亮在四宫合土星、四角固定主病久固定。承受对象与应验对象同一：病人本人之胸胃。非六爻例，trigger三项记false。",
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false
+ }
+}

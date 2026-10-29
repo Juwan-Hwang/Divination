@@ -1,0 +1,14 @@
+{
+ "case_id": "AS-011",
+ "system": "horary astrology",
+ "direction": "positive",
+ "prediction_text": "婚事可復合、可成。男方代表星土星高踞南中天與火星合於固定土象，志堅而位高；木星在擢升位以六合傳遞土星之德與太陽（女方主星），中途無禁止、截斷或挫敗，金星與月亮、太陽與金星互容，月亮又在擢升位處置土星。女方先前拒絕造成的僵局可解，宜由男方先主動重提，婚約有望重訂而無損名節。",
+ "timing": "月檔：以六月內為窗，男方宜於6月19日近午先行重提，木土六合成相於6月27日為主座標、婚事定局之期",
+ "confidence": 0.78,
+ "basis": "Lilly卜卦占星七宮婚占：命主星太陽（女）與七宮主土星（男）本身無直接成相，靠木星傳光（translation of light）接通且無prohibition/frustration，傳光成相之日即應期；互容多重、月亮處置土星於其擢升，皆主男方誠意與地位足以成事。非六爻例，trigger三項記false。",
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false
+ }
+}

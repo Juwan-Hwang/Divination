@@ -1,0 +1,14 @@
+{
+ "case_id": "AS-009",
+ "system": "horary",
+ "direction": "positive",
+ "prediction_text": "狗可找回。往城之西偏南一方寻——犬星在西方星座、南四分而偏西，且与本城同三合、向六宫尖作三合，主犬仍在本城范围内、未远走；月亮在风象星座而伏日光下，主一时藏匿不见、被人收留或蔽处。寻者（土星临升）与犬事有成相之应，终得回。",
+ "timing": "窗口至下周一内，主坐标周一（日与升主土星成顺相之日）寻回或得确讯",
+ "confidence": 0.62,
+ "basis": "Lilly卜卦：问者以升宫及其主土星为征，六宫及其主为犬；犬星西方象限、与升同三合指本城内，三合六宫尖主可回；月伏光主暂匿。非六爻，trigger三项false。",
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false
+ }
+}
