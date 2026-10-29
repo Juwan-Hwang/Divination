@@ -1,0 +1,1302 @@
+{
+ "BQ-001": {
+  "flags": [],
+  "status": "no_chart"
+ },
+ "LY-001": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-002": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-003": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-004": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-005": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-006": {
+  "flags": [
+   {
+    "rule": "R6",
+    "severity": "hard",
+    "detail": "moving_lines 动位 [1, 4, 5] 与卦面动位 [1, 4, 5, 6] 不一致"
+   }
+  ],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-007": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-008": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-009": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-01": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-010": {
+  "flags": [
+   {
+    "rule": "R6",
+    "severity": "hard",
+    "detail": "moving_lines 动位 [1, 5] 与卦面动位 [1, 6] 不一致"
+   }
+  ],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-011": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-012": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-013": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-014": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-015": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-016": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-017": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-018": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-019": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-021": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-022": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-023": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-024": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-025": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-026": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-027": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-028": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-029": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-030": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-031": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-032": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-033": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-034": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-035": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-036": {
+  "flags": [],
+  "status": "no_chart"
+ },
+ "LY-102": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-103": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-104": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-105": {
+  "flags": [
+   {
+    "rule": "R7",
+    "severity": "hard",
+    "detail": "空亡所书 卯寅，壬戌日推得 丑子"
+   }
+  ],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-202": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-203": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-204": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-205": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-206": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-207": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-208": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-210": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-211": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-212": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-215": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-216": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-217": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-218": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-219": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-220": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-221": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-222": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-227": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-228": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-230": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-231": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-232": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-234": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-235": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-237": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-240": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-241": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-242": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-243": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-244": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-245": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-246": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-249": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-250": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-251": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-252": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-253": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-254": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-255": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-259": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-301": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-304": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-305": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-306": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-307": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-309": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-311": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-312": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-314": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-315": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-318": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-319": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-320": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-322": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-323": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-324": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-325": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-328": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-329": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-330": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-331": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-332": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-333": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-335": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-336": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-338": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-339": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-340": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-342": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-344": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-402": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-403": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-404": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-405": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-406": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-407": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-408": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-411": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-413": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-415": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-416": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-417": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-418": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-421": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-423": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-424": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-425": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-426": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-427": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-428": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-429": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-430": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-432": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-433": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-434": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-436": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-437": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-439": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-440": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-441": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-442": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-443": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-445": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-446": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-449": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-451": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-452": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-454": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-455": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-457": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-458": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-501": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-502": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-503": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-504": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-505": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-506": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-507": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-508": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-509": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-510": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-511": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-512": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-513": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-514": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-515": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-516": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-517": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-518": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-519": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-520": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-521": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-522": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-523": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-524": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-525": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-526": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-527": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-528": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-529": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-530": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-531": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-532": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-533": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-534": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-535": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-536": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-537": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-538": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-539": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-540": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-541": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-542": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-543": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "LY-601": {
+  "flags": [],
+  "status": "no_chart"
+ },
+ "LY-602": {
+  "flags": [],
+  "status": "no_chart"
+ },
+ "LY-603": {
+  "flags": [],
+  "status": "no_chart"
+ },
+ "LY-604": {
+  "flags": [],
+  "status": "no_chart"
+ },
+ "LY-605": {
+  "flags": [],
+  "status": "no_chart"
+ },
+ "LY-606": {
+  "flags": [],
+  "status": "no_chart"
+ },
+ "LY-607": {
+  "flags": [],
+  "status": "no_chart"
+ },
+ "LY-608": {
+  "flags": [],
+  "status": "no_chart"
+ },
+ "LY-609": {
+  "flags": [],
+  "status": "no_chart"
+ },
+ "LY-610": {
+  "flags": [],
+  "status": "no_chart"
+ },
+ "LY-611": {
+  "flags": [],
+  "status": "no_chart"
+ },
+ "LY-612": {
+  "flags": [],
+  "status": "no_chart"
+ },
+ "LY-613": {
+  "flags": [],
+  "status": "no_chart"
+ },
+ "LY-614": {
+  "flags": [],
+  "status": "no_chart"
+ },
+ "LY-615": {
+  "flags": [],
+  "status": "no_chart"
+ },
+ "LY-616": {
+  "flags": [],
+  "status": "no_chart"
+ },
+ "LY-617": {
+  "flags": [],
+  "status": "no_chart"
+ },
+ "LY-618": {
+  "flags": [],
+  "status": "no_chart"
+ },
+ "LY-619": {
+  "flags": [],
+  "status": "no_chart"
+ },
+ "LY-620": {
+  "flags": [],
+  "status": "no_chart"
+ },
+ "LY-621": {
+  "flags": [],
+  "status": "no_chart"
+ },
+ "LY-622": {
+  "flags": [],
+  "status": "no_chart"
+ },
+ "LY-623": {
+  "flags": [],
+  "status": "no_chart"
+ },
+ "LY-624": {
+  "flags": [],
+  "status": "no_chart"
+ },
+ "LY-625": {
+  "flags": [],
+  "status": "no_chart"
+ },
+ "LY-626": {
+  "flags": [],
+  "status": "no_chart"
+ },
+ "LY-627": {
+  "flags": [],
+  "status": "no_chart"
+ },
+ "LY-628": {
+  "flags": [],
+  "status": "no_chart"
+ },
+ "LY-629": {
+  "flags": [],
+  "status": "no_chart"
+ },
+ "YY-006": {
+  "flags": [],
+  "status": "ok",
+  "format": "B"
+ },
+ "YY-010": {
+  "flags": [],
+  "status": "ok",
+  "format": "B"
+ },
+ "YY-011": {
+  "flags": [],
+  "status": "ok",
+  "format": "B"
+ },
+ "YY-012": {
+  "flags": [],
+  "status": "ok",
+  "format": "B"
+ },
+ "YY-013": {
+  "flags": [],
+  "status": "ok",
+  "format": "B"
+ },
+ "YY-014": {
+  "flags": [],
+  "status": "ok",
+  "format": "B"
+ },
+ "YY-015": {
+  "flags": [],
+  "status": "ok",
+  "format": "B"
+ },
+ "YY-016": {
+  "flags": [],
+  "status": "ok",
+  "format": "B"
+ },
+ "YY-017": {
+  "flags": [],
+  "status": "ok",
+  "format": "B"
+ },
+ "YY-018": {
+  "flags": [],
+  "status": "ok",
+  "format": "B"
+ },
+ "YY-019": {
+  "flags": [],
+  "status": "ok",
+  "format": "B"
+ },
+ "YY-020": {
+  "flags": [],
+  "status": "ok",
+  "format": "B"
+ },
+ "YY-021": {
+  "flags": [],
+  "status": "ok",
+  "format": "B"
+ },
+ "YY-022": {
+  "flags": [],
+  "status": "ok",
+  "format": "B"
+ },
+ "YY-023": {
+  "flags": [],
+  "status": "ok",
+  "format": "B",
+  "uncertain_marks": true
+ },
+ "YY-024": {
+  "flags": [],
+  "status": "ok",
+  "format": "B"
+ },
+ "YY2-001": {
+  "flags": [
+   {
+    "rule": "R2/R3",
+    "severity": "hard",
+    "detail": "1爻 所书 子孫戊寅木，推得 妻財丁巳火"
+   },
+   {
+    "rule": "R2/R3",
+    "severity": "hard",
+    "detail": "2爻 所书 官鬼戊辰土，推得 子孫丁卯木"
+   },
+   {
+    "rule": "R2/R3",
+    "severity": "hard",
+    "detail": "3爻 所书 父母戊申金，推得 官鬼丁丑土"
+   },
+   {
+    "rule": "R2/R3",
+    "severity": "hard",
+    "detail": "4爻 所书 妻財丁巳火，推得 父母戊申金"
+   },
+   {
+    "rule": "R2/R3",
+    "severity": "hard",
+    "detail": "5爻 所书 父母丁酉金，推得 官鬼戊戌土"
+   },
+   {
+    "rule": "R2/R3",
+    "severity": "hard",
+    "detail": "6爻 所书 官鬼丁丑土，推得 兄弟戊子水"
+   }
+  ],
+  "status": "ok",
+  "format": "B"
+ },
+ "YY2-002": {
+  "flags": [
+   {
+    "rule": "R2/R3",
+    "severity": "hard",
+    "detail": "1爻 所书 官鬼乙未土，推得 子孫戊寅木"
+   },
+   {
+    "rule": "R2/R3",
+    "severity": "hard",
+    "detail": "2爻 所书 妻財乙巳火，推得 官鬼戊辰土"
+   },
+   {
+    "rule": "R2/R3",
+    "severity": "hard",
+    "detail": "3爻 所书 子孫乙卯木，推得 妻財戊午火"
+   },
+   {
+    "rule": "R2/R3",
+    "severity": "hard",
+    "detail": "4爻 所书 兄弟戊子水，推得 官鬼癸丑土"
+   },
+   {
+    "rule": "R2/R3",
+    "severity": "hard",
+    "detail": "5爻 所书 官鬼戊戌土，推得 兄弟癸亥水"
+   },
+   {
+    "rule": "R2/R3",
+    "severity": "hard",
+    "detail": "6爻 所书 妻財戊午火，推得 父母癸酉金"
+   }
+  ],
+  "status": "ok",
+  "format": "B"
+ },
+ "YY2-003": {
+  "flags": [],
+  "status": "ok",
+  "format": "A"
+ },
+ "YY2-004": {
+  "flags": [],
+  "status": "no_chart"
+ },
+ "YY2-005": {
+  "flags": [
+   {
+    "rule": "R1",
+    "severity": "hard",
+    "detail": "动爻 [] 推得变卦与文本变卦名不符"
+   },
+   {
+    "rule": "R2/R3",
+    "severity": "hard",
+    "detail": "4爻 所书 妻財乙未土，推得 妻財癸丑土"
+   },
+   {
+    "rule": "R2/R3",
+    "severity": "hard",
+    "detail": "5爻 所书 子孫乙巳火，推得 父母癸亥水"
+   },
+   {
+    "rule": "R2/R3",
+    "severity": "hard",
+    "detail": "6爻 所书 兄弟乙卯木，推得 官鬼癸酉金"
+   }
+  ],
+  "status": "ok",
+  "format": "B"
+ }
+}
