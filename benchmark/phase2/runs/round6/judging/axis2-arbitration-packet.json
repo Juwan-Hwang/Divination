@@ -1,0 +1,205 @@
+[
+ {
+  "anon_id": "Q6-012",
+  "prediction": {
+   "direction": "positive",
+   "assertions": [
+    "小舟可以过关，不遭盘查阻滞：四爻子孙申金发动，子孙为福神、专克官鬼，盘查之力被福神克制",
+    "所恐之官自化退路：世爻官鬼卯木发动化子孙申金，关卡盘查之象化作平安福神，查验之势自行消解",
+    "过关在当日：世官得子日生扶而动，动而化福，主当日行程内即通过，不拖延至次日",
+    "纵有查验亦是例行一问即放：应爻妻财子水临日辰，舟中所载/所行之事见于日辰之下，无隐匿被搜出之象"
+   ],
+   "timing": "窗口：戊子日当日一日内（过关问本身以日为尺度，日档成立：占近事且问题以当日过关为限）；窗口内主坐标：申时（子孙申金逢值、克官放行之时）",
+   "summary": "过关无阻，当日申时前后顺利通过。"
+  },
+  "outcome_record": "果於卯日過關，並無阻滯",
+  "judgeA": {
+   "anon_id": "Q6-012",
+   "direction": 2,
+   "claims": 2,
+   "timing": 0,
+   "total": 4,
+   "pass": true,
+   "gap_note": "过关无阻证实，但卯日远出当日窗、申时未对齐"
+  },
+  "judgeB": {
+   "anon_id": "Q6-012",
+   "direction": 2,
+   "claims": 1,
+   "timing": 0,
+   "total": 3,
+   "pass": false,
+   "gap_note": "当日申时断偏，实际卯日方过关"
+  },
+  "rubric": "轴二量表：direction/claims/timing 各0-2分，total=三项和，pass=total>=4。timing 双层口径：窗口包含实际应时点且主坐标对齐记2；窗口包含但主坐标偏记1；窗口与主坐标均不含记0；无时点可核记1。"
+ },
+ {
+  "anon_id": "Q6-018",
+  "prediction": {
+   "direction": "positive",
+   "assertions": [
+    "Lilly能与卖主Master B.成交：这笔房屋买卖谈得成，最终由他购得所居Strand一带房屋",
+    "购房款能及时筹到：虽自有资金六个月内不能收回，他仍能在付款期限前借得/筹得款项完成付款",
+    "交易有迟滞与费力之处（Lilly第二宫主水星逆行），但迟滞只压过程不翻转成交终局",
+    "成交价可谈：卖主初索530镑并非不可动，卖主一方有相就之意（太阳居第七宫受金星擢升接纳）"
+   ],
+   "timing": "窗口：1634年3月31日问起六个月内（月档，购房筹款以月为尺度；窗口以问中卖方款期与己钱六个月可收回之界为限）；窗口内主坐标：第二个月内订约成交、款随约到位",
+   "summary": "房屋买得成，款能及时借筹到位，过程费力而终局为成。"
+  },
+  "outcome_record": "Confirmed in detail in the text: the bargain was struck on 25 April following (the day Venus and the Sun came to their aspect); on 17 May he paid the £530 and his conveyance was sealed — 'six weeks and some days from the time of the Question'; a friend lent him £500 twelve days after (when Mercury turned direct). Lilly adds he did himself injury in money by the bargain but never repented it.",
+  "judgeA": {
+   "anon_id": "Q6-018",
+   "direction": 2,
+   "claims": 2,
+   "timing": 2,
+   "total": 6,
+   "pass": true,
+   "gap_note": "无"
+  },
+  "judgeB": {
+   "anon_id": "Q6-018",
+   "direction": 2,
+   "claims": 1,
+   "timing": 1,
+   "total": 4,
+   "pass": true,
+   "gap_note": "成交价仍为530镑未谈低，主坐标第二月订约偏"
+  },
+  "rubric": "轴二量表：direction/claims/timing 各0-2分，total=三项和，pass=total>=4。timing 双层口径：窗口包含实际应时点且主坐标对齐记2；窗口包含但主坐标偏记1；窗口与主坐标均不含记0；无时点可核记1。"
+ },
+ {
+  "anon_id": "Q6-022",
+  "prediction": {
+   "direction": "positive",
+   "assertions": [
+    "升迁可成：世爻即官鬼巳火临乙巳日辰，官职之象落实在占者本人身上，得位之据成立",
+    "任命文书有动象：上爻父母未土发动，得日辰巳火生扶，文书/任命在动中，非空谈",
+    "阻力在同辈竞争：应爻兄弟酉金临酉月旺，主同侪竞争与耗费，但兄弟不克官鬼，不能阻断升迁本身",
+    "子孙亥水静而受父母动爻克制，克官之福神被制，去官之患被压住"
+   ],
+   "timing": "窗口：酉月内至戌月这一月窗（升迁问以月为尺度，父母动而化戌、官临日，皆指向近月内见分晓）；窗口内主坐标：戌日（父母未土化出戌土逢值填实之日）",
+   "summary": "升迁可成，任命在近月内落定，主应戌日。"
+  },
+  "outcome_record": "果升於卯月",
+  "judgeA": {
+   "anon_id": "Q6-022",
+   "direction": 2,
+   "claims": 2,
+   "timing": 0,
+   "total": 4,
+   "pass": true,
+   "gap_note": "升迁证实，但卯月远出酉戌月窗、戌日未对齐"
+  },
+  "judgeB": {
+   "anon_id": "Q6-022",
+   "direction": 2,
+   "claims": 1,
+   "timing": 0,
+   "total": 3,
+   "pass": false,
+   "gap_note": "升于卯月，远出酉戌月窗且主坐标戌日不合"
+  },
+  "rubric": "轴二量表：direction/claims/timing 各0-2分，total=三项和，pass=total>=4。timing 双层口径：窗口包含实际应时点且主坐标对齐记2；窗口包含但主坐标偏记1；窗口与主坐标均不含记0；无时点可核记1。"
+ },
+ {
+  "anon_id": "Q6-060",
+  "prediction": {
+   "direction": "positive",
+   "assertions": [
+    "被窃的鱼货（财物）能够找回／得回，至少主体可 recover，不是全数永失",
+    "财物现藏在潮湿近水之处（水边、沟洼、船坞仓库一类的湿地低处），不在干燥高处",
+    "窃贼是与运送／仓储环节相关的人（船夫、仓看守或经手搬运之人一类），并非远方陌生盗匪集团",
+    "贼象由木星定：一个身分不算卑贱、在角宫得势的人，经手货物的人嫌疑最大"
+   ],
+   "timing": "窗口：月档——自报失日起一个月内的追查期为窗（失窃近事、寻回以周月计）；窗口内主坐标：报失后第一周内、月亮与水星成相所主之时点前后查得下落",
+   "summary": "鱼货可找回，藏在近水潮湿处，窃者是经手运送仓储环节的人。"
+  },
+  "outcome_record": "Confirmed in the text: Lilly took out a warrant, kept it private until Sunday 18th, searched only that one house, and 'found part of my fish in water, part eaten, part not consumed; all confessed' — including seven Portugal onions the thief's wife had unknowingly made into pottage.",
+  "judgeA": {
+   "anon_id": "Q6-060",
+   "direction": 1,
+   "claims": 1,
+   "timing": 1,
+   "total": 3,
+   "pass": false,
+   "gap_note": "仅部分鱼在水处寻回、余已食，主体全回与贼身分未全证；时点无可核（中性记 1）"
+  },
+  "judgeB": {
+   "anon_id": "Q6-060",
+   "direction": 2,
+   "claims": 1,
+   "timing": 1,
+   "total": 4,
+   "pass": true,
+   "gap_note": "仅寻回部分且窃者身份未明载，查得在18日非首周"
+  },
+  "rubric": "轴二量表：direction/claims/timing 各0-2分，total=三项和，pass=total>=4。timing 双层口径：窗口包含实际应时点且主坐标对齐记2；窗口包含但主坐标偏记1；窗口与主坐标均不含记0；无时点可核记1。"
+ },
+ {
+  "anon_id": "Q6-061",
+  "prediction": {
+   "direction": "positive",
+   "assertions": [
+    "父亲会归家，归期近，不是不归或远年方归",
+    "父亲归至之日为戌日：自占日戊子日起算，约十日后的戊戌日父亲到家",
+    "父亲本人平安归来，所断归期主语为父亲本人，不是他人捎信或他人代归"
+   ],
+   "timing": "窗口：占日起十二日内（一旬余的日窗，日档）；窗口内主坐标：戊戌日（戌日，占后约第十日）",
+   "summary": "父必归，归期在戌日——占后约十日的戊戌日到家。"
+  },
+  "outcome_record": "果於卯日得信，乙未日到家",
+  "judgeA": {
+   "anon_id": "Q6-061",
+   "direction": 2,
+   "claims": 1,
+   "timing": 0,
+   "total": 3,
+   "pass": false,
+   "gap_note": "父归证实，但乙未日到家远出十二日窗、戊戌主坐标偏"
+  },
+  "judgeB": {
+   "anon_id": "Q6-061",
+   "direction": 2,
+   "claims": 1,
+   "timing": 1,
+   "total": 4,
+   "pass": true,
+   "gap_note": "到家为乙未日非戊戌日，且先于卯日得信"
+  },
+  "rubric": "轴二量表：direction/claims/timing 各0-2分，total=三项和，pass=total>=4。timing 双层口径：窗口包含实际应时点且主坐标对齐记2；窗口包含但主坐标偏记1；窗口与主坐标均不含记0；无时点可核记1。"
+ },
+ {
+  "anon_id": "Q6-068",
+  "prediction": {
+   "direction": "negative",
+   "assertions": [
+    "香港楼价在2016年后先续升至2018年前后的历史高位，其后见顶回落，到2024年较峰值跌幅达三至四成量级，是明确的下行而非继续大升",
+    "2019-2020年为香港经济的转折期：社会事件与疫情叠加，经济转入衰退、失业上升、零售旅游重挫",
+    "2023-2024年交运（八运转九运）前后香港楼市与经济处于低谷调整期：楼价连年下跌、成交低迷，不出现重返2018年峰值的繁荣",
+    "至2024年香港整体地运判为由盛转衰、未见底大升：经济与楼市均为收缩调整格局"
+   ],
+   "timing": "窗口：2016年至2024年（年档，至2024年的地运判断）；窗口内主坐标：2023-2024年八运向九运交接之际，为楼价与经济低谷最明显之点；转折点另在2019-2020年（见断语进程）",
+   "summary": "香港地运至2024年由盛转衰：楼价2018年前后见顶后大跌三四成，2024年仍在低谷调整。"
+  },
+  "outcome_record": "香港住宅楼价自2021年高位至2024-2025年低谷累计下跌约四成，2024年后经济与楼市持续低迷，与「好运到2024」方向大致相符；「北区转旺」与2021年施政报告提出北部都会区战略在叙事上呼应，但属政策规划而非市场自发结果",
+  "judgeA": {
+   "anon_id": "Q6-068",
+   "direction": 1,
+   "claims": 1,
+   "timing": 1,
+   "total": 3,
+   "pass": false,
+   "gap_note": "跌幅四成与低迷合，但峰值实为2021而非2018见顶，低谷延至2024后"
+  },
+  "judgeB": {
+   "anon_id": "Q6-068",
+   "direction": 2,
+   "claims": 1,
+   "timing": 2,
+   "total": 5,
+   "pass": true,
+   "gap_note": "楼价峰值实在2021年非2018年前后"
+  },
+  "rubric": "轴二量表：direction/claims/timing 各0-2分，total=三项和，pass=total>=4。timing 双层口径：窗口包含实际应时点且主坐标对齐记2；窗口包含但主坐标偏记1；窗口与主坐标均不含记0；无时点可核记1。"
+ }
+]
