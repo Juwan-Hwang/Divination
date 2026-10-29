@@ -10,4 +10,6 @@
 | ditian-sui-wikisource.txt（2,559 B） | 《滴天髓》传京图著、刘基注（作者未决） | 维基文库同法 | PD | **仅目录/首篇**，全文未取得（见 MANIFEST 失败清单） |
 | sanming-tonghui/（git 仓，7.7 MB） | 《三命通会》明·万民英，四库全书本 12 卷 markdown | GitHub mikkokotila/Sanming-Tongshui（仓内 SOURCE_MANIFEST.json 自证来源） | 原文 PD；维基文库转录与本仓转换 CC BY-SA 4.0（仓内 LICENSE.md） | 12 卷全 |
 
+2026-10-29 学校图书馆到货的 WANTED 古籍 20 个文件（内部研究使用、redistributable=false、绝不进将来公开导出，二进制存 incoming/wanted-books/Book/ 原地）另行汇总登记，见 [sources/wanted-books-2026-10-29.md](../wanted-books-2026-10-29.md)。
+
 ctext.org 只作在线阅读（站方明令禁止批量抓取、对爬虫返回污染数据）：《周易》在线读 https://ctext.org/book-of-changes/xi-ci-shang —— 本目录**未**从 ctext 抓取任何文件。
