@@ -1,0 +1,13 @@
+{
+ "case_id": "WP-001",
+ "prediction_text": "Direction: Yes — a major collective affliction falls in 2020–2021, and it is an epidemic/pandemic disease event (the affliction occurs; outlook negative for the world). Specific claims: with the five outer planets gathered within about 100 degrees, the Jupiter–Saturn–Pluto conjunction exact in early 2020, and the cyclical index at its lowest reading of the 21st century, the configuration matches past clusters that coincided with 1918, 1954, 1968 and 1982 — periods of widespread epidemic illness. The prediction is therefore a worldwide pandemic-scale outbreak emerging around the 2020 conjunction, dominating the 2020–2021 period, with mass illness as the central collective affliction — not primarily a war or a financial crash. Timing: year-scale — onset/window opening with the early-2020 conjunction, the affliction spanning 2020–2021.",
+ "direction_claim": "positive_affliction_occurs: a pandemic-scale epidemic afflicts the world in 2020-2021",
+ "timing_claim": "Year scale: onset around the early-2020 Jupiter-Saturn-Pluto conjunction, spanning 2020-2021",
+ "confidence": 0.78,
+ "basis": "Mundane astrology per kb: outer-planet clustering and the cyclical index (sum of angular separations) at a century low is the classic Barbault-style signal for a collective crisis trough; the input itself lists comparable past clusters coinciding with epidemic years (1918 above all). Among affliction types, the historical analogues attached to these clusters are predominantly pandemics, so the specific claim is fixed to epidemic disease rather than left as generic crisis. Scale-matching (rule k analogue): a once-a-century configuration is matched to a once-a-century-scale event, not a minor seasonal outbreak.",
+ "sources_used": [
+  "kb-snapshot/SKILL.md 作断通则(c)(k)",
+  "references/western-astro-numerology-runes.md mundane/classical framework",
+  "input: WP-001 configuration Jupiter-Saturn-Pluto conjunction early 2020, cyclical index 21st-century low, past clusters 1918/1954/1968/1982"
+ ]
+}

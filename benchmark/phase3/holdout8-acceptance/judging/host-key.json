@@ -1,0 +1,282 @@
+{
+ "H8-001": {
+  "case_id": "MP-001",
+  "source": "ours",
+  "contamination": "high"
+ },
+ "H8-002": {
+  "case_id": "OC-026",
+  "source": "ours",
+  "contamination": "low"
+ },
+ "H8-003": {
+  "case_id": "MP-001",
+  "source": "master",
+  "contamination": "high"
+ },
+ "H8-004": {
+  "case_id": "OC-027",
+  "source": "master",
+  "contamination": "low"
+ },
+ "H8-005": {
+  "case_id": "OC-016",
+  "source": "master",
+  "contamination": "low"
+ },
+ "H8-006": {
+  "case_id": "WP-001",
+  "source": "ours",
+  "contamination": "high"
+ },
+ "H8-007": {
+  "case_id": "OC-016",
+  "source": "ours",
+  "contamination": "low"
+ },
+ "H8-008": {
+  "case_id": "MP-014",
+  "source": "master",
+  "contamination": "high"
+ },
+ "H8-009": {
+  "case_id": "WP-008",
+  "source": "ours",
+  "contamination": "high"
+ },
+ "H8-010": {
+  "case_id": "OC-021",
+  "source": "ours",
+  "contamination": "high"
+ },
+ "H8-011": {
+  "case_id": "WP-003",
+  "source": "master",
+  "contamination": "high"
+ },
+ "H8-012": {
+  "case_id": "MP-005",
+  "source": "ours",
+  "contamination": "high"
+ },
+ "H8-013": {
+  "case_id": "MP-009",
+  "source": "master",
+  "contamination": "high"
+ },
+ "H8-014": {
+  "case_id": "OC-029",
+  "source": "master",
+  "contamination": "low"
+ },
+ "H8-015": {
+  "case_id": "OC-021",
+  "source": "master",
+  "contamination": "high"
+ },
+ "H8-016": {
+  "case_id": "WP-001",
+  "source": "master",
+  "contamination": "high"
+ },
+ "H8-017": {
+  "case_id": "OC-026",
+  "source": "master",
+  "contamination": "low"
+ },
+ "H8-018": {
+  "case_id": "OC-028",
+  "source": "ours",
+  "contamination": "low"
+ },
+ "H8-019": {
+  "case_id": "OC-010",
+  "source": "master",
+  "contamination": "high"
+ },
+ "H8-020": {
+  "case_id": "MP-002",
+  "source": "master",
+  "contamination": "high"
+ },
+ "H8-021": {
+  "case_id": "OC-012",
+  "source": "master",
+  "contamination": "high"
+ },
+ "H8-022": {
+  "case_id": "WP-008",
+  "source": "master",
+  "contamination": "high"
+ },
+ "H8-023": {
+  "case_id": "OC-022",
+  "source": "master",
+  "contamination": "low"
+ },
+ "H8-024": {
+  "case_id": "OC-017",
+  "source": "ours",
+  "contamination": "low"
+ },
+ "H8-025": {
+  "case_id": "MP-014",
+  "source": "ours",
+  "contamination": "high"
+ },
+ "H8-026": {
+  "case_id": "OC-025",
+  "source": "master",
+  "contamination": "high"
+ },
+ "H8-027": {
+  "case_id": "OC-025",
+  "source": "ours",
+  "contamination": "high"
+ },
+ "H8-028": {
+  "case_id": "OC-023",
+  "source": "master",
+  "contamination": "low"
+ },
+ "H8-029": {
+  "case_id": "OC-012",
+  "source": "ours",
+  "contamination": "high"
+ },
+ "H8-030": {
+  "case_id": "MP-013",
+  "source": "ours",
+  "contamination": "high"
+ },
+ "H8-031": {
+  "case_id": "MP-002",
+  "source": "ours",
+  "contamination": "high"
+ },
+ "H8-032": {
+  "case_id": "OC-003",
+  "source": "master",
+  "contamination": "high"
+ },
+ "H8-033": {
+  "case_id": "MP-009",
+  "source": "ours",
+  "contamination": "high"
+ },
+ "H8-034": {
+  "case_id": "OC-014",
+  "source": "master",
+  "contamination": "low"
+ },
+ "H8-035": {
+  "case_id": "WP-006",
+  "source": "ours",
+  "contamination": "high"
+ },
+ "H8-036": {
+  "case_id": "MP-012",
+  "source": "ours",
+  "contamination": "high"
+ },
+ "H8-037": {
+  "case_id": "OC-022",
+  "source": "ours",
+  "contamination": "low"
+ },
+ "H8-038": {
+  "case_id": "WP-006",
+  "source": "master",
+  "contamination": "high"
+ },
+ "H8-039": {
+  "case_id": "OC-030",
+  "source": "master",
+  "contamination": "low"
+ },
+ "H8-040": {
+  "case_id": "MP-012",
+  "source": "master",
+  "contamination": "high"
+ },
+ "H8-041": {
+  "case_id": "OC-006",
+  "source": "ours",
+  "contamination": "high"
+ },
+ "H8-042": {
+  "case_id": "OC-006",
+  "source": "master",
+  "contamination": "high"
+ },
+ "H8-043": {
+  "case_id": "MP-005",
+  "source": "master",
+  "contamination": "high"
+ },
+ "H8-044": {
+  "case_id": "OC-017",
+  "source": "master",
+  "contamination": "low"
+ },
+ "H8-045": {
+  "case_id": "OC-029",
+  "source": "ours",
+  "contamination": "low"
+ },
+ "H8-046": {
+  "case_id": "WP-003",
+  "source": "ours",
+  "contamination": "high"
+ },
+ "H8-047": {
+  "case_id": "OC-028",
+  "source": "master",
+  "contamination": "low"
+ },
+ "H8-048": {
+  "case_id": "OC-030",
+  "source": "ours",
+  "contamination": "low"
+ },
+ "H8-049": {
+  "case_id": "MP-013",
+  "source": "master",
+  "contamination": "high"
+ },
+ "H8-050": {
+  "case_id": "OC-010",
+  "source": "ours",
+  "contamination": "high"
+ },
+ "H8-051": {
+  "case_id": "OC-018",
+  "source": "master",
+  "contamination": "high"
+ },
+ "H8-052": {
+  "case_id": "OC-014",
+  "source": "ours",
+  "contamination": "low"
+ },
+ "H8-053": {
+  "case_id": "OC-027",
+  "source": "ours",
+  "contamination": "low"
+ },
+ "H8-054": {
+  "case_id": "OC-003",
+  "source": "ours",
+  "contamination": "high"
+ },
+ "H8-055": {
+  "case_id": "OC-018",
+  "source": "ours",
+  "contamination": "high"
+ },
+ "H8-056": {
+  "case_id": "OC-023",
+  "source": "ours",
+  "contamination": "low"
+ }
+}

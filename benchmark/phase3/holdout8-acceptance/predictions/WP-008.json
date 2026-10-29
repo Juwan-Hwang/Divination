@@ -1,0 +1,13 @@
+{
+ "case_id": "WP-008",
+ "prediction_text": "Direction: Narendra Modi wins — the BJP/NDA returns to power and Modi takes a second term as Prime Minister (positive for Modi). Specific claims: the clairvoyant/astrological consensus reported on 30 March 2019, before any votes were cast, puts the odds in Modi's favour against the Rahul Gandhi-led Congress opposition; the result is an NDA majority government rather than a hung outcome or an opposition victory — Modi's personal mandate is renewed, at least as strong as a working majority, with the BJP as the dominant party of the winning alliance. Timing: voting 11 April–19 May 2019 is process only; the decision point and confirmation fall on counting day, 23 May 2019, when the Modi/NDA victory is established.",
+ "direction_claim": "positive_modi: Modi and BJP/NDA win, Modi serves a second term",
+ "timing_claim": "Counting day 23 May 2019 confirms the result, after voting 11 April-19 May 2019",
+ "confidence": 0.7,
+ "basis": "Master-source signal: the input's reported clairvoyant consensus (ANI, 30 March 2019) explicitly favours the incumbent Modi; incumbency plus a pre-vote unanimous-style practitioner consensus is taken as the direction. No contrary chart or polling fact is supplied in the input that would overturn it (fact-priority check passed). Level calibration: the claim is set at renewed majority/second term — the level the source consensus supports — without inflating to a specific seat count, which no supplied evidence fixes.",
+ "sources_used": [
+  "kb-snapshot/SKILL.md 作断通则(b)(e)",
+  "references/western-astro-numerology-runes.md mundane framework",
+  "input: WP-008 incumbent Modi (BJP/NDA) vs Rahul Gandhi opposition, assessment 30 March 2019, counting 23 May 2019"
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "MP-005",
+ "prediction_text": "方向：韩国瑜胜出机会低、最终落败（negative）。具体断语：2019年7月初选胜出之声势即为其顶点，此后只跌不涨——带职参选与高雄市政缺席将持续侵蚀支持，至2020年1月投票时以两成以上差距败于蔡英文，且败幅不小、非惜败。应期：转折在2019年下半年，转势成定局于2019年年底，终局2020年1月投票月（年档定年、月档定月）。",
+ "direction_claim": "negative-韩国瑜声势见顶回落，2020落败",
+ "timing_claim": "2020年1月投票月落败，下半年转势",
+ "confidence": 0.66,
+ "basis": "事实优先序：初选高点含党内整合未完成与对手未定之虚势；其市长任期未满即转战总统，正当性与市政缺席为结构性拖累，随时间放大而非消退。明理：高点问卜、势已在峰，峰后为衰。等级按结构拖累足级断明显落败。应期按通则k以年/月档表达，不落单日。",
+ "sources_used": [
+  "benchmark/phase3/runs/round23/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round23/kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "case_id": "WP-003",
+ "prediction_text": "Direction: Barack Obama wins — the incumbent is re-elected (positive for Obama). Specific claims: the astrologers' panel assessment of the two candidates' charts favours the incumbent for the 6 November 2012 election; challenger Mitt Romney does not take the presidency. The Mercury retrograde beginning on election day itself points to confusion, recount-style noise or delayed clarity around the count, but it does not reverse the outcome — the final result stands as an Obama victory and second term. Timing: decided at the election of 6 November 2012, with any counting confusion confined to the days immediately around that date (Mercury retrograde station), not changing the winner.",
+ "direction_claim": "positive_obama: Obama is re-elected, Romney loses",
+ "timing_claim": "Election day 6 November 2012; result stands despite Mercury-retrograde counting confusion around that date",
+ "confidence": 0.7,
+ "basis": "Incumbency plus panel-chart comparison as given in the input provenance (Astrology News Service panel, May 2012, New Orleans) is the master-source signal used here; the only counter-signal supplied is Mercury retrograde starting on election day, which in electional/mundane practice signifies confusion and revisiting of counts, not by itself a change of winner — it is therefore assigned to process noise, not direction. No polling fact in the input overturns the chart-based call (fact-priority: the race is described only as competitive).",
+ "sources_used": [
+  "kb-snapshot/SKILL.md 作断通则(e)",
+  "references/western-astro-numerology-runes.md classical/mundane framework",
+  "input: WP-003 incumbent Obama vs Romney, election 6 Nov 2012, Mercury retrograde begins that day"
+ ]
+}
