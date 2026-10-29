@@ -1,0 +1,410 @@
+[
+ {
+  "anon_id": "P3-1250e197",
+  "prediction": {
+   "direction": "negative",
+   "assertions": null,
+   "timing": "应期不详：盘中征星之间无任何可成事的入相相位，无得任之期可推，所见只有月亮入相对冲所主的奔走落空",
+   "summary": null
+  },
+  "outcome_record": "Confirmed in the text: the parson 'being covetous would proceed further... and when he thought to have the matter absolutely on his side, behold, a scurvy Letter, revealing some manifest truths concerning a Female, dashed the good Man's hopes' — he never discovered which neighbour had affronted him.",
+  "judgeA": {
+   "direction": 2,
+   "claims": 1.5,
+   "timing": 0,
+   "total": 3.5
+  },
+  "judgeB": {
+   "direction": 2,
+   "claims": 2,
+   "timing": 0,
+   "total": 4
+  },
+  "judgeA_reason": "方向断不得教职与希望被打碎合；断语不得职、奔走落空命中、阻拦细节部分合；断语无应期",
+  "judgeB_reason": "方向不得职合，claims强行推进仍被信件断望命中，timing断语无应期"
+ },
+ {
+  "anon_id": "P3-3c4a8fb1",
+  "prediction": {
+   "direction": "positive",
+   "assertions": null,
+   "timing": "早年得位在庚申大运（杀印相生得地之运段）；晚段再起在癸丑大运。应期按应期三步定尺度为运/年档：运年触发路取庚申、癸丑印杀链到位之运，合冲路卯酉冲杀只作量级调整不取为高峰，值年路因起运岁数不详舍细年点，只定运段。",
+   "summary": null
+  },
+  "outcome_record": "史实：许世英1925-1926年任北洋政府国务总理（阁揆），其后历任要职、清廉自牧、福寿绵长（1964年卒，年71）——木运居阁揆与韦氏正断相合；本例为格局定性分歧的黄金样本（从杀 vs 身弱用印）",
+  "judgeA": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "judgeB": {
+   "direction": 2,
+   "claims": 1,
+   "timing": 0,
+   "total": 3
+  },
+  "judgeA_reason": "方向全合：断仕途高位、结局任国务总理阁揆；断语杀印成贵与位至阁揆中、运段细节未载；结局无可核时点对应运段。",
+  "judgeB_reason": "方向高位与任国务总理合；断语阁揆量级中而运段细节未获证；庚申癸丑高峰与史载时点无从对应且木运居揆之说相左"
+ },
+ {
+  "anon_id": "P3-11e87c8c",
+  "prediction": {
+   "direction": "mixed",
+   "assertions": null,
+   "timing": "险期在甲寅、乙卯两步大运（官杀克弱身、卯酉冲之运段），转安高峰在丁巳大运。应期按应期三步定尺度为运/年档：合冲引动路取乙卯运卯冲酉为险期主坐标，运年触发路取丁巳运火印到位为转安点，值年路因出生年份未给，公历年份应期不详，只定运段。",
+   "summary": null
+  },
+  "outcome_record": "1991年元月邵再回老家，老友夫妇告知：其子1990年先患肝炎住院，后又骑摩托车撞伤，病灾、伤灾均应验（书内自述，求测方口头反馈，无第三方记录）",
+  "judgeA": {
+   "direction": 1,
+   "claims": 1,
+   "timing": 1,
+   "total": 3
+  },
+  "judgeB": {
+   "direction": 2,
+   "claims": 1.5,
+   "timing": 1,
+   "total": 4.5
+  },
+  "judgeA_reason": "方向mixed仅险段合、转安未见于结局；断语病灾伤灾命中、病位子女等未验；应期1990年无法与乙卯运段坐标核对",
+  "judgeB_reason": "方向先凶格局合，claims肝炎与撞伤病伤灾命中而转安未载，timing1990年与运段无历法对照可核故部分合"
+ },
+ {
+  "anon_id": "P3-f29558cf",
+  "prediction": {
+   "direction": "mixed",
+   "assertions": null,
+   "timing": "险期在辛亥、壬子两步大运（杀旺、子午冲禄之运段），高峰在甲寅大运。应期按应期三步定尺度为运/年档：合冲引动路取壬子运子冲午为险期主坐标，运年触发路取甲寅运印星到位为高峰点；出生年份未给，流年公历应期不详，只定运段。本例为回溯验证性质，断语按运段对位早年经历。",
+   "summary": null
+  },
+  "outcome_record": "求测者当场证实1972年患目疾几近失明、1982年患病住院（书内自述）。按：此为回溯断验（retrodiction），断的是已发生且求测者本人知晓之事，盲测价值低于C04类前瞻断语，使用时须分开统计",
+  "judgeA": {
+   "direction": 1,
+   "claims": 1,
+   "timing": 1,
+   "total": 3
+  },
+  "judgeB": {
+   "direction": 1.5,
+   "claims": 1.5,
+   "timing": 1,
+   "total": 4.0
+  },
+  "judgeA_reason": "方向部分合：mixed断早年险后成、结局仅证实早年伤病一线、高峰无载；断语部分中：伤病之厄经当场证实合、病位心血压与目疾住院不尽合；应期：结局无可核时点，公历年份无从对位运段",
+  "judgeB_reason": "方向大体合：断早年险运多伤病，结局当场证实1972目疾、1982住院；伤病断语中、高峰段未获核；回溯年份与险运段对应"
+ },
+ {
+  "anon_id": "P3-a3b536b7",
+  "prediction": {
+   "direction": "positive",
+   "assertions": null,
+   "timing": "窗口为八运余下之期2016—2023年，主坐标为2023年末至2024年交九运之转折点：此前楼价维持旺势，交运后转势",
+   "summary": null
+  },
+  "outcome_record": "香港住宅楼价自2021年高位至2024-2025年低谷累计下跌约四成，2024年后经济与楼市持续低迷，与「好运到2024」方向大致相符；「北区转旺」与2021年施政报告提出北部都会区战略在叙事上呼应，但属政策规划而非市场自发结果",
+  "judgeA": {
+   "direction": 1,
+   "claims": 1,
+   "timing": 0.5,
+   "total": 2.5
+  },
+  "judgeB": {
+   "direction": 1.5,
+   "claims": 1,
+   "timing": 1.5,
+   "total": 4.0
+  },
+  "judgeA_reason": "方向：2024后转势合、此前续升与2021见顶下跌只部分合；claims：交运转弱中、旺势维持与北区自发转旺只半中；timing：转折定2024而实际跌势起于2021只部分合。",
+  "judgeB_reason": "方向2024转势大体合；claims续升与2021后跌四成矛盾仅转势北区部分中；timing2024交运转折点大致合"
+ },
+ {
+  "anon_id": "P3-f5d4d381",
+  "prediction": {
+   "direction": "positive",
+   "assertions": null,
+   "timing": "窗口：辰月内（月尺度）；主坐标：戌日（用神填实月破、父归）",
+   "summary": null
+  },
+  "outcome_record": "果於卯日得信，乙未日到家",
+  "judgeA": {
+   "direction": 2,
+   "claims": 2,
+   "timing": 0,
+   "total": 4
+  },
+  "judgeB": {
+   "direction": 2,
+   "claims": 1.5,
+   "timing": 0,
+   "total": 3.5
+  },
+  "judgeA_reason": "方向合：断父将归、结局乙未日到家；断语全中：已在归途终归可至合；应期不合：主坐标戌日与卯日得信乙未日到家不合",
+  "judgeB_reason": "方向正：断父已在归途终归，结局得信并到家；归至断语中；戌日主坐标与乙未日到家不合"
+ },
+ {
+  "anon_id": "P3-20a9f901",
+  "prediction": {
+   "direction": "positive",
+   "assertions": null,
+   "timing": "窗口：占后数日内（行人近程日档）；主坐标：卯日（用神父母戌土动而逢合，行人门类对表首选「动取逢合之日」）",
+   "summary": null
+  },
+  "outcome_record": "果得遇於未日",
+  "judgeA": {
+   "direction": 2,
+   "claims": 2,
+   "timing": 1,
+   "total": 5
+  },
+  "judgeB": {
+   "direction": 2,
+   "claims": 1.5,
+   "timing": 0,
+   "total": 3.5
+  },
+  "judgeA_reason": "方向断迎父可遇合；断语父在归途、途中相逢命中；应期主坐标卯日误、未日仍在数日窗口内",
+  "judgeB_reason": "方向迎父得遇合，claims途中相逢命中，timing主坐标卯日与实际未日不合"
+ },
+ {
+  "anon_id": "P3-e2155871",
+  "prediction": {
+   "direction": "positive",
+   "assertions": null,
+   "timing": "窗口：占起一旬内（日尺度，近行人）；主坐标：午日（伏神逢值出现、父归）",
+   "summary": null
+  },
+  "outcome_record": "果驗，己亥日到家",
+  "judgeA": {
+   "direction": 2,
+   "claims": 2,
+   "timing": 0,
+   "total": 4
+  },
+  "judgeB": {
+   "direction": 2,
+   "claims": 1.5,
+   "timing": 0,
+   "total": 3.5
+  },
+  "judgeA_reason": "方向合：断父将归、结局父到家；断语全中：归讯已动、终归可至合；应期不合：午日与己亥日到家不合",
+  "judgeB_reason": "方向正：断父将归，结局父到家；归至断语中；午日主坐标与己亥日到家不合"
+ },
+ {
+  "anon_id": "P3-072f4959",
+  "prediction": {
+   "direction": "positive",
+   "assertions": null,
+   "timing": "窗口为当日（博戏即时事，日档）；主坐标为申日——即占日当日，世爻申金值日、应爻卯木空克之象当日即应，舍亥日（午化神值日、只主克神自坏之旁应）与卯日填实（赛已毕、不待填实）",
+   "summary": null
+  },
+  "outcome_record": "果於早勝﹐午時又大敗破財。",
+  "judgeA": {
+   "direction": 1,
+   "claims": 1,
+   "timing": 2,
+   "total": 4
+  },
+  "judgeB": {
+   "direction": 1,
+   "claims": 1,
+   "timing": 1,
+   "total": 3
+  },
+  "judgeA_reason": "方向断己方胜仅合早胜、午时大败为反；断语胜象只应早段；应期当日即应与当日胜败同日合",
+  "judgeB_reason": "方向胜负混合仅早胜合，claims己方胜只合早段而午时大败相反，timing同日应验但胜点不在申日坐标"
+ },
+ {
+  "anon_id": "P3-0557dbb4",
+  "prediction": {
+   "direction": "positive",
+   "assertions": null,
+   "timing": "窗口子日起六日内，主坐标申日到家（日尺度：行人近归、冲起用神取日）",
+   "summary": null
+  },
+  "outcome_record": "果於巳日到。或曰﹕用爻有病﹐莫問歸期﹐此卦申金化進神以克寅木﹐如何許回﹖予曰﹕彼問夫之平安﹐卽以不利斷之﹐今加往他處去否﹐夫爻受到制﹐不往他鄕﹐斷卦者各有取用耳。",
+  "judgeA": {
+   "direction": 2,
+   "claims": 1.5,
+   "timing": 1,
+   "total": 4.5
+  },
+  "judgeB": {
+   "direction": 2,
+   "claims": 1.5,
+   "timing": 0,
+   "total": 3.5
+  },
+  "judgeA_reason": "方向断夫归家与果到合；断语不往他省、归家命中；应期主坐标申日误、巳日仍在六日窗口内",
+  "judgeB_reason": "方向夫归合，claims归家命中而不往他乡仅部分可核，timing主坐标申日与实际巳日不合"
+ },
+ {
+  "anon_id": "P3-32ddf288",
+  "prediction": {
+   "direction": "negative",
+   "assertions": null,
+   "timing": "应期不详：原题未记占时月日，财爻化退之填实期（寅支候选）无月日旺衰可凭，不定主坐标。",
+   "summary": null
+  },
+  "outcome_record": "此人去买，菉豆地头缺少，改买棉花，果亏折",
+  "judgeA": {
+   "direction": 2,
+   "claims": 1.5,
+   "timing": 0,
+   "total": 3.5
+  },
+  "judgeB": {
+   "direction": 2,
+   "claims": 2,
+   "timing": 0,
+   "total": 4
+  },
+  "judgeA_reason": "方向断买卖不得利与果亏折合；断语求利落空命中、缺货改买未预断；断语无应期",
+  "judgeB_reason": "方向买卖负向合，claims改买仍亏折命中，timing断语无应期"
+ },
+ {
+  "anon_id": "P3-a0004225",
+  "prediction": {
+   "direction": "positive",
+   "assertions": null,
+   "timing": "窗口为未来数年内（年尺度），主坐标巳年（巳冲官鬼亥水，冲空则实之年）",
+   "summary": null
+  },
+  "outcome_record": "果於辰年得選",
+  "judgeA": {
+   "direction": 2,
+   "claims": 1.5,
+   "timing": 0,
+   "total": 3.5
+  },
+  "judgeB": {
+   "direction": 2,
+   "claims": 1.5,
+   "timing": 0.5,
+   "total": 4.0
+  },
+  "judgeA_reason": "方向：得选出仕与正向全合；claims：远段得官中；timing：巳年与辰年不合。",
+  "judgeB_reason": "方向得选出仕全合；claims官终有得中；timing巳年与辰年差一年近而不合"
+ },
+ {
+  "anon_id": "P3-9bf549cf",
+  "prediction": {
+   "direction": "positive",
+   "assertions": null,
+   "timing": "窗口：未月内（一月内）；主坐标：辛未日（冲开官鬼所化丑墓之日，兼冲动墓库，赦象开释）",
+   "summary": null
+  },
+  "outcome_record": "果於次年辰月蒙赦而出。",
+  "judgeA": {
+   "direction": 2,
+   "claims": 2,
+   "timing": 0,
+   "total": 4
+  },
+  "judgeB": {
+   "direction": 2,
+   "claims": 1.5,
+   "timing": 0,
+   "total": 3.5
+  },
+  "judgeA_reason": "方向：蒙赦与正向全合；claims：赦免断语全中；timing：未月辛未日与次年辰月不合。",
+  "judgeB_reason": "方向蒙赦全合；claims赦免中；timing未月未日与次年辰月赦不合"
+ },
+ {
+  "anon_id": "P3-da4ff8e6",
+  "prediction": {
+   "direction": "positive",
+   "assertions": null,
+   "timing": "窗口：数日内；主坐标：子日（子孙逢值之日）放晴",
+   "summary": null
+  },
+  "outcome_record": "果於次日卯時﹐云開日出﹐",
+  "judgeA": {
+   "direction": 2,
+   "claims": 2,
+   "timing": 2,
+   "total": 6
+  },
+  "judgeB": {
+   "direction": 2,
+   "claims": 1.5,
+   "timing": 0.5,
+   "total": 4.0
+  },
+  "judgeA_reason": "方向合：断雪止得晴、结局云开日出；断语全中：晴神化出云开合；应期合：占为亥日、次日即子日卯时放晴正合主坐标",
+  "judgeB_reason": "方向正：断雪止得晴，结局云开日出；放晴断语中；次日卯时晴而非子日，时点部分合"
+ },
+ {
+  "anon_id": "P3-7daa4524",
+  "prediction": {
+   "direction": "positive",
+   "assertions": null,
+   "timing": "窗口自寅日起至亥日（约九日内），主坐标为亥日：变爻子孙亥水逢值之日晴（逢值一路）",
+   "summary": null
+  },
+  "outcome_record": "果於次日晴還又雨。",
+  "judgeA": {
+   "direction": 1.0,
+   "claims": 1.0,
+   "timing": 0.5,
+   "total": 2.5
+  },
+  "judgeB": {
+   "direction": 1.5,
+   "claims": 1.5,
+   "timing": 1,
+   "total": 4.0
+  },
+  "judgeA_reason": "方向部分合：断亥日定晴、结局次日晴而又雨；断语转晴中、定晴与又雨不合；应期亥日主坐标与次日不合、仅窗口内近合。",
+  "judgeB_reason": "方向可晴与次日晴部分合；断语阴转晴中而旋又雨仅暂应；结局无可核时点仅记次日"
+ },
+ {
+  "anon_id": "P3-28b6fc08",
+  "prediction": {
+   "direction": "negative",
+   "assertions": null,
+   "timing": "应期不详：伏神父母卯木空而无气、飞神辰土未开，出现之日无从定点；只断酉月内母不来，填实卯日亦因月冲无气不取作主坐标",
+   "summary": null
+  },
+  "outcome_record": "後果在外平安。",
+  "judgeA": {
+   "direction": 2,
+   "claims": 1.5,
+   "timing": 1,
+   "total": 4.5
+  },
+  "judgeB": {
+   "direction": 1,
+   "claims": 1,
+   "timing": 1,
+   "total": 3
+  },
+  "judgeA_reason": "方向断母不来与果在外合；断语本月不来命中、归期未定未验；结局无可核时点",
+  "judgeB_reason": "方向母不来仅部分合因结局只载在外平安，claims在外与不来部分相应，timing结局无可核时点故记1"
+ },
+ {
+  "anon_id": "P3-19afeca1",
+  "prediction": {
+   "direction": "positive",
+   "assertions": null,
+   "timing": "窗口：日檔，兵事緊急以日計，就在兵至前後數日內；主坐標：午支期（世爻子孫午火逢值，走逢值一路，福神值期即避安之期）",
+   "summary": null
+  },
+  "outcome_record": "彼回即领家眷往东去，后来覆我曰平安，惟其弟牵念父母往探之，行至半途遭害矣．",
+  "judgeA": {
+   "direction": 1.5,
+   "claims": 1,
+   "timing": 1,
+   "total": 3.5
+  },
+  "judgeB": {
+   "direction": 2,
+   "claims": 1,
+   "timing": 1,
+   "total": 4
+  },
+  "judgeA_reason": "方向断可避安与家眷平安合、其弟遭害为反；断语平安命中但避向南方误为东行；结局无可核时点",
+  "judgeB_reason": "方向全家平安合，claims平安命中但避向南与实际往东不合，timing结局无可核时点故记1"
+ }
+]
