@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-015",
+ "prediction_text": "方向：丈夫在海上尚活、平安无大碍，将归来；但归期不速，且问者妇人自身病势凶险须先于丈夫之事被指出。具体断语：丈夫主星太阳居其hayz、完全不受克（free from all affliction），主其人活着、处境安好、所在为太阳得势之方位/白昼得力之处（输入未给足以定具体海岸的度数，不臆定港口）。妇人自身则六宫主土星逆行主旧病反复、由一病转另一病，火星与土星将成凶相位并牵动月亮位置，主她在当年10月前后有性命级危点——应期主坐标为10月8日前后（输入所给Lilly计时点），丈夫之归可能迟至其病危之后或与之交错。应期尺度：丈夫归期为月档（海上归问），窗口为数月内、无成相度数可定更准主坐标，故只定月窗；妇人危点为月档内的10月8日点。本法按Lilly卜卦占星、整宫制。输入残损：星位部分OCR garbled，已注明并降丈夫归期置信。",
+ "basis": "输入残损：positions partly garbled in 1647 OCR；husband significator与妻死计时为Lilly散文明确两点。依据：7th taken as woman's ascendant；husband significator Sun in hayz free from all affliction主活且平安；Saturn lord 6th retrograde主妇人慢性反复病；Mars & Saturn moving to ill aspect, Mars near Moon's place ~2°, Saturn ~2° Capricorn, Moon then ~20°为妇人危点计时链（input称该死期落在10月8日）。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "dir_flipped": false,
+  "reason": ""
+ }
+}

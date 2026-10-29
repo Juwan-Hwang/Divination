@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-003",
+ "prediction_text": "方向：能买成——会与卖方成交，并能及时筹到购房款付款。具体断语：卖方主星太阳居七宫且被擢升之金星接纳，七宫主又为十一宫（希望）主，主卖方愿成全问者所望；金星趋三合四宫主土星（所买房屋）且无阻隔，主交易落到房子上。水星（二宫主、钱）逆行主钱款迟滞、须催收拖延，但不主失败——先迟后到、赶在付款期限内。应期：尺度为月档（买卖成交问）；窗口为数月内、至其钱款六个月可收回之期内，主坐标取金星—土星三合成相之时（输入未给度数，故只定月窗不定日）。本法按Lilly卜卦占星、整宫制。输入残损：上升星座/度数OCR乱码，已在basis注明并据散文星位作断。",
+ "basis": "输入残损：asked_at与星位为散文转述，上升度数OCR garbled，无金星-土星距度，故应期降为月窗。依据：Sun seller in 7th received by Venus exalted near 7th cusp；lord 7th = lord 11th；Venus applying trine Saturn lord 4th；Mercury lord 2nd retrograde主钱迟；Saturn lord 4th除逆行/陷落宫外无大凶。",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "dir_flipped": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-005",
+ "prediction_text": "方向：船未沉、尚活（未失事）。具体断语：月亮为上升主、擢升于金牛居十一宫，趋三合七宫太阳/水星且距成相仅数分、又近木星，主船体虽经险（土星在白羊居十一宫刑上升近主受惊/受损）但船身保全、正在归途或靠岸方向（主星聚七宫主西方方位）。应期：尺度为日档（海上消息近问）；窗口为数日内，月亮三合仅差数分即成相，主坐标为问后极近的数日——很快有船平安的确讯到。本法按Lilly卜卦占星、整宫制。",
+ "basis": "Lilly ship question：Asc Cancer主船体；Saturn square Asc主危险/损伤不主沉没（月亮更强）；Moon lady Asc exalted in Taurus in 11th, applying trine Sun/Mercury in 7th wanting few minutes, near Jupiter；Cauda in 9th、PoF disposed by Mars为次要险象。方向以月亮擢升+吉三合压过土星刑。",
+ "confidence": 0.8,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "dir_flipped": false,
+  "reason": ""
+ }
+}

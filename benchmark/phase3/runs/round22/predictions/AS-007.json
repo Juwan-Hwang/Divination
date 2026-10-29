@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-007",
+ "prediction_text": "方向：Waller一方获胜、Hopton败退。具体断语：问者方主星齐强——月亮擢升且与木星同在、太阳（Waller的财力/助军主）居十宫且正落擢升度数19°白羊，主其军势与援助俱在巅峰；敌方Hopton主星土星为七宫主，落陷、peregrine、sub radiis、无任何相位，且九宫只有火星与南交点主敌方无后备补给。应期：尺度为日档（当日会战）；窗口即1644年3月29日交战当日，主坐标为当日决出胜负——Waller胜。本法按Lilly卜卦占星、整宫制。",
+ "basis": "Lilly battle horary 1644-03-29 Cheriton背景：Asc/Moon/Jupiter/Venus for Waller；Moon exalted with Jupiter；Sun lord of Waller's substance in 10th in 19 Aries exaltation degree；Saturn lord 7th for Hopton sub radiis, in fall, peregrine, no aspect；no supplies for Hopton (Mars & Cauda only in 9th)。",
+ "confidence": 0.9,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "dir_flipped": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-010",
+ "prediction_text": "方向：仆人向西而行（西方、偏南象限），且将返回/被寻回。具体断语：仆主星水星居西方星座、南方象限，月亮出走时及问时同在西方星座，主其去向为正西偏南、未远离本区域太远；仆主星与上升主正趋成三合（出角宫）主双方重新接上、仆人自回或被带回，非长久逃亡。应期：尺度为日档（出走近问，仆人上周日出走）；窗口为问后数日内，主坐标取水星/上升主三合成相之时（输入未给距度，故只定数日窗、不报具体日）。本法按Lilly卜卦占星、整宫制。输入残损：未给问时日期，已注明并降置信。",
+ "basis": "输入残损：asked_at not stated。依据：Mercury peculiar significator of servant in western sign, south quarter；Moon western same sign at flight & question；Moon in 2nd in own house；servant significator & lord Asc hastening to trine out of angles主返回/寻回；Sun in 2nd in perfect aspect with planet in 11th为辅证。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "dir_flipped": false,
+  "reason": ""
+ }
+}

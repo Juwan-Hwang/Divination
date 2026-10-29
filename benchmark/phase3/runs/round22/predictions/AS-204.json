@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-204",
+ "prediction_text": "方向：病在胸胃（breast与stomach一带），属土星性的冷、郁、阻塞之病，病势固定缠绵、不易速愈，但非即刻必死——可治而难治、疗程以月计且易留根。具体断语：上升主近来刚离开与土星的右刑，土星当时在巨蟹（主胸与胃）主病位正在胸胃；月亮居四宫与土星同在主病沉于内、结局拖长；四轴皆固定宫、六宫有落陷行星受克，主疾病已成形固定、药石见效慢。近段（当前）：胸胃不适、郁阻为主症，病情胶着；远段：触发为月亮与土星同居四宫（终局宫）+固定四轴，主远段仍是迁延——一段终局式收束为久病难速愈，远段不另报速愈转折。应期：尺度为月档（病问）；窗口为数月，主坐标不定到日（月/年档不径落日，合应期通则）。本法按Lilly卜卦占星 decumbiture/六宫规则、整宫制。输入残损：未给问时、六宫内落陷行星名称未明，已注明并降置信。",
+ "basis": "输入残损：asked_at not stated, planet in fall in 6th unnamed。依据：Asc Scorpio；6th afflicted by planet in fall therein；lord Asc lately separated from dexter square Saturn, Saturn then in Cancer signifying breast & stomach；Moon in 4th with Saturn；all angles fixed主固定缠绵。方向核对：承受对象=该生病医生本人，应验对象同为其胸胃，无对象错位。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "dir_flipped": false,
+  "reason": ""
+ }
+}

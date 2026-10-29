@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-004",
+ "prediction_text": "方向：传闻不实——国王并未攻下Cambridge。具体断语：四轴皆变动宫主事情无根、易散；月亮陷于不喜之宫位（cadent）主消息虚浮；问者一方（议会方）上升主擢升主强，而对方七宫主（国王方）入弱（fall）且受克，主国王一方失势、并无攻占之实。应期：尺度为日档（战时传闻真伪）；窗口为数日内，主坐标为随即数日——谣言很快被证伪、Cambridge未失守的消息传到。本法按Lilly卜卦占星、整宫制。",
+ "basis": "Lilly Chap.XXXI rumour规则：angles moveable；Moon cadent in sign wherein she nothing delights；lady of Asc in exaltation vs lord 7th entering fall & afflicted；Saturn vitiating 10th cusp, Mars 7th cusp只加重对方受损，不改主方向。",
+ "confidence": 0.85,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "dir_flipped": false,
+  "reason": ""
+ }
+}

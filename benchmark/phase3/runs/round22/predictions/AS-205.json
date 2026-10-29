@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-205",
+ "prediction_text": "方向：病人将死、难以存活。具体断语：上升被一颗兼为八宫（死亡宫）主的行星以身体临宫最严重地克伤；六宫固定且受克、六宫主落固定土性忧郁星座，主病为土星/黑胆汁性的固定沉疴（郁阻、沉重、缠绵不解）；太阳（时光主）与六宫主土星在固定星座成精确对冲，月亮近南交点（Cauda）且在上升受克——生气主星（日、月、上升）三处齐伤，无救应相位。病性为melancholy（黑胆汁）型固定之疾。应期：尺度为月档（生死终局问，先定年内之月、不径落日）；窗口为1645年7月问后数周至一两个月内，主坐标取日土对冲已精确成相后的本月内危期，终局为死亡而非痊愈。本法按Lilly卜卦占星六宫/八宫规则、整宫制。输入残损：上升星座字形OCR损坏未断言，已注明。",
+ "basis": "输入残损：ascending sign glyph corrupt, not asserted。依据：Asc most afflicted by corporal presence of planet partly lord 8th；6th sign fixed & afflicted, lord 6th in fixed earthly melancholy sign；Sun in perfect opposition Saturn lord 6th in fixed signs；Moon near Cauda & afflicted in Asc。三路应期（冲实/填实/逢值）中对冲已perfect主危期已临，非填实待愈一路，故取月档近窗。承受/应验对象同为该病人本人。",
+ "confidence": 0.88,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "dir_flipped": false,
+  "reason": ""
+ }
+}
