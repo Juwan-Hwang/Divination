@@ -1,0 +1,710 @@
+{
+ "final_by_anon": {
+  "H5-001": {
+   "direction": 1.0,
+   "claims": 0.5,
+   "timing": 1.0,
+   "total": 2.5
+  },
+  "H5-002": {
+   "direction": 0.75,
+   "claims": 0.75,
+   "timing": 0.0,
+   "total": 1.5
+  },
+  "H5-003": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.75,
+   "total": 4.25
+  },
+  "H5-004": {
+   "anon_id": "H5-004",
+   "direction": 2,
+   "claims": 1.5,
+   "timing": 0,
+   "total": 3.5,
+   "pass": false,
+   "reason": "名利不成、才高和寡、贫寒均同向应验，但名不能成未被结局单独记载故claims不给满分，预测断语本身无应期故timing记0。"
+  },
+  "H5-005": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "H5-006": {
+   "anon_id": "H5-006",
+   "direction": 2,
+   "claims": 2,
+   "timing": 0,
+   "total": 4,
+   "pass": true,
+   "reason": "唯一主断有官不能享由纳后名败身丧直接印证，claims给满分，预测断语本身无应期故timing记0。"
+  },
+  "H5-007": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "H5-008": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 1.0,
+   "total": 1.0
+  },
+  "H5-009": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.0,
+   "total": 4.75
+  },
+  "H5-010": {
+   "anon_id": "H5-010",
+   "direction": 2,
+   "claims": 1.5,
+   "timing": 0,
+   "total": 3.5,
+   "pass": false,
+   "reason": "不准复职、援刑例再任西方陕西均应验，但禄位已属他人未被结局记载故claims不给满分，预测断语本身无应期故timing记0。"
+  },
+  "H5-011": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 0.0,
+   "total": 4.0
+  },
+  "H5-012": {
+   "direction": 1.0,
+   "claims": 0.75,
+   "timing": 1.0,
+   "total": 2.75
+  },
+  "H5-013": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 2.0,
+   "total": 5.75
+  },
+  "H5-014": {
+   "anon_id": "H5-014",
+   "direction": 2,
+   "claims": 2,
+   "timing": 0,
+   "total": 4,
+   "pass": true,
+   "reason": "唯一主断必得真定由果得真定完全印证，claims给满分，预测断语本身无应期故timing记0。"
+  },
+  "H5-015": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 2.0,
+   "total": 5.5
+  },
+  "H5-016": {
+   "anon_id": "H5-016",
+   "direction": 2,
+   "claims": 2,
+   "timing": 0,
+   "total": 4,
+   "pass": true,
+   "reason": "终不得价、不可收买由存货四年朽坏大半大亏其本完全印证，claims给满分，预测断语本身无应期故timing记0。"
+  },
+  "H5-017": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.5,
+   "total": 0.5
+  },
+  "H5-018": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.0,
+   "total": 3.5
+  },
+  "H5-019": {
+   "direction": 0.0,
+   "claims": 0.25,
+   "timing": 0.0,
+   "total": 0.25
+  },
+  "H5-020": {
+   "direction": 1.75,
+   "claims": 1.0,
+   "timing": 0.0,
+   "total": 2.75
+  },
+  "H5-021": {
+   "direction": 1.0,
+   "claims": 1.0,
+   "timing": 1.0,
+   "total": 3.0
+  },
+  "H5-022": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.0,
+   "total": 3.5
+  },
+  "H5-023": {
+   "direction": 1.75,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.25
+  },
+  "H5-024": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "H5-025": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "H5-026": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 2.0,
+   "total": 5.75
+  },
+  "H5-027": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.5,
+   "total": 0.5
+  },
+  "H5-028": {
+   "anon_id": "H5-028",
+   "direction": 2,
+   "claims": 1.5,
+   "timing": 0,
+   "total": 3.5,
+   "pass": false,
+   "reason": "最终无事方向应验，但结局为有惊无险与保无事的绝对表述有差故claims扣0.5，预测断语本身无应期故timing记0。"
+  },
+  "H5-029": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 2.0,
+   "total": 6.0
+  },
+  "H5-030": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 0.0,
+   "total": 4.0
+  },
+  "H5-031": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "H5-032": {
+   "direction": 1.75,
+   "claims": 1.25,
+   "timing": 0.0,
+   "total": 3.0
+  },
+  "H5-033": {
+   "direction": 1.5,
+   "claims": 1.0,
+   "timing": 2.0,
+   "total": 4.5
+  },
+  "H5-034": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "H5-035": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.0,
+   "total": 3.5
+  },
+  "H5-036": {
+   "direction": 1.0,
+   "claims": 0.75,
+   "timing": 1.0,
+   "total": 2.75
+  },
+  "H5-037": {
+   "anon_id": "H5-037",
+   "direction": 2,
+   "claims": 1.5,
+   "timing": 1,
+   "total": 4.5,
+   "pass": true,
+   "reason": "防刑狱应于行文拿问，但勿望升迁未被结局记载且刑狱终局未记故claims1.5，预测仅有四十九岁当年之框无月日坐标故timing记1。"
+  },
+  "H5-038": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "H5-039": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 0.0,
+   "total": 4.0
+  },
+  "H5-040": {
+   "anon_id": "H5-040",
+   "direction": 2,
+   "claims": 2,
+   "timing": 0,
+   "total": 4,
+   "pass": true,
+   "reason": "马多死与财不致大耗分别由七十余匹仅存二十八匹及幸而得价直接印证，claims给满分，预测断语本身无应期故timing记0。"
+  },
+  "H5-041": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 2.0,
+   "total": 6.0
+  },
+  "H5-042": {
+   "direction": 2.0,
+   "claims": 0.5,
+   "timing": 1.0,
+   "total": 3.5
+  },
+  "H5-043": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 2.0,
+   "total": 5.5
+  },
+  "H5-044": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 1.0,
+   "total": 5.0
+  },
+  "H5-045": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 0.0,
+   "total": 4.0
+  },
+  "H5-046": {
+   "direction": 0.0,
+   "claims": 0.25,
+   "timing": 0.5,
+   "total": 0.75
+  },
+  "H5-047": {
+   "direction": 0.5,
+   "claims": 0.75,
+   "timing": 1.0,
+   "total": 2.25
+  },
+  "H5-048": {
+   "direction": 1.0,
+   "claims": 0.75,
+   "timing": 0.0,
+   "total": 1.75
+  },
+  "H5-049": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "H5-050": {
+   "anon_id": "H5-050",
+   "direction": 2,
+   "claims": 1.5,
+   "timing": 1,
+   "total": 4.5,
+   "pass": true,
+   "reason": "囤货无利迟则折本由堆积四年朽坏大亏完全印证，但辰月价动与午月出脱止损等子断语未被结局记载故claims不给满分，结局无可核月点故timing记1。"
+  }
+ },
+ "pairs": {
+  "LY-501": {
+   "ours": {
+    "direction": 2.0,
+    "claims": 1.75,
+    "timing": 2.0,
+    "total": 5.75
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 2.0,
+    "total": 6.0
+   }
+  },
+  "LY-502": {
+   "ours": {
+    "direction": 0.0,
+    "claims": 0.0,
+    "timing": 0.0,
+    "total": 0.0
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 2.0,
+    "total": 5.5
+   }
+  },
+  "LY-504": {
+   "ours": {
+    "direction": 1.5,
+    "claims": 1.0,
+    "timing": 2.0,
+    "total": 4.5
+   },
+   "master": {
+    "anon_id": "H5-037",
+    "direction": 2,
+    "claims": 1.5,
+    "timing": 1,
+    "total": 4.5,
+    "pass": true,
+    "reason": "防刑狱应于行文拿问，但勿望升迁未被结局记载且刑狱终局未记故claims1.5，预测仅有四十九岁当年之框无月日坐标故timing记1。"
+   }
+  },
+  "LY-505": {
+   "master": {
+    "anon_id": "H5-010",
+    "direction": 2,
+    "claims": 1.5,
+    "timing": 0,
+    "total": 3.5,
+    "pass": false,
+    "reason": "不准复职、援刑例再任西方陕西均应验，但禄位已属他人未被结局记载故claims不给满分，预测断语本身无应期故timing记0。"
+   },
+   "ours": {
+    "direction": 1.0,
+    "claims": 0.75,
+    "timing": 0.0,
+    "total": 1.75
+   }
+  },
+  "LY-506": {
+   "master": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 2.0,
+    "total": 5.5
+   },
+   "ours": {
+    "direction": 0.0,
+    "claims": 0.25,
+    "timing": 0.0,
+    "total": 0.25
+   }
+  },
+  "LY-507": {
+   "master": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 0.0,
+    "total": 3.5
+   },
+   "ours": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 1.0,
+    "total": 4.5
+   }
+  },
+  "LY-508": {
+   "ours": {
+    "direction": 0.0,
+    "claims": 0.0,
+    "timing": 0.0,
+    "total": 0.0
+   },
+   "master": {
+    "direction": 1.75,
+    "claims": 1.25,
+    "timing": 0.0,
+    "total": 3.0
+   }
+  },
+  "LY-509": {
+   "master": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 0.0,
+    "total": 4.0
+   },
+   "ours": {
+    "direction": 0.5,
+    "claims": 0.75,
+    "timing": 1.0,
+    "total": 2.25
+   }
+  },
+  "LY-510": {
+   "master": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 0.0,
+    "total": 3.5
+   },
+   "ours": {
+    "direction": 1.0,
+    "claims": 0.75,
+    "timing": 1.0,
+    "total": 2.75
+   }
+  },
+  "LY-511": {
+   "master": {
+    "anon_id": "H5-004",
+    "direction": 2,
+    "claims": 1.5,
+    "timing": 0,
+    "total": 3.5,
+    "pass": false,
+    "reason": "名利不成、才高和寡、贫寒均同向应验，但名不能成未被结局单独记载故claims不给满分，预测断语本身无应期故timing记0。"
+   },
+   "ours": {
+    "direction": 0.0,
+    "claims": 0.0,
+    "timing": 1.0,
+    "total": 1.0
+   }
+  },
+  "LY-512": {
+   "ours": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 1.0,
+    "total": 4.5
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 0.0,
+    "total": 4.0
+   }
+  },
+  "LY-514": {
+   "ours": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 1.0,
+    "total": 4.5
+   },
+   "master": {
+    "anon_id": "H5-028",
+    "direction": 2,
+    "claims": 1.5,
+    "timing": 0,
+    "total": 3.5,
+    "pass": false,
+    "reason": "最终无事方向应验，但结局为有惊无险与保无事的绝对表述有差故claims扣0.5，预测断语本身无应期故timing记0。"
+   }
+  },
+  "LY-515": {
+   "master": {
+    "direction": 2.0,
+    "claims": 1.75,
+    "timing": 1.0,
+    "total": 4.75
+   },
+   "ours": {
+    "direction": 0.0,
+    "claims": 0.0,
+    "timing": 0.5,
+    "total": 0.5
+   }
+  },
+  "LY-516": {
+   "ours": {
+    "direction": 1.0,
+    "claims": 0.5,
+    "timing": 1.0,
+    "total": 2.5
+   },
+   "master": {
+    "anon_id": "H5-014",
+    "direction": 2,
+    "claims": 2,
+    "timing": 0,
+    "total": 4,
+    "pass": true,
+    "reason": "唯一主断必得真定由果得真定完全印证，claims给满分，预测断语本身无应期故timing记0。"
+   }
+  },
+  "LY-517": {
+   "master": {
+    "anon_id": "H5-006",
+    "direction": 2,
+    "claims": 2,
+    "timing": 0,
+    "total": 4,
+    "pass": true,
+    "reason": "唯一主断有官不能享由纳后名败身丧直接印证，claims给满分，预测断语本身无应期故timing记0。"
+   },
+   "ours": {
+    "direction": 0.0,
+    "claims": 0.25,
+    "timing": 0.5,
+    "total": 0.75
+   }
+  },
+  "LY-518": {
+   "master": {
+    "direction": 0.75,
+    "claims": 0.75,
+    "timing": 0.0,
+    "total": 1.5
+   },
+   "ours": {
+    "direction": 1.75,
+    "claims": 1.5,
+    "timing": 1.0,
+    "total": 4.25
+   }
+  },
+  "LY-519": {
+   "master": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 0.0,
+    "total": 4.0
+   },
+   "ours": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 1.0,
+    "total": 4.5
+   }
+  },
+  "LY-520": {
+   "master": {
+    "anon_id": "H5-016",
+    "direction": 2,
+    "claims": 2,
+    "timing": 0,
+    "total": 4,
+    "pass": true,
+    "reason": "终不得价、不可收买由存货四年朽坏大半大亏其本完全印证，claims给满分，预测断语本身无应期故timing记0。"
+   },
+   "ours": {
+    "anon_id": "H5-050",
+    "direction": 2,
+    "claims": 1.5,
+    "timing": 1,
+    "total": 4.5,
+    "pass": true,
+    "reason": "囤货无利迟则折本由堆积四年朽坏大亏完全印证，但辰月价动与午月出脱止损等子断语未被结局记载故claims不给满分，结局无可核月点故timing记1。"
+   }
+  },
+  "LY-521": {
+   "master": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 0.0,
+    "total": 3.5
+   },
+   "ours": {
+    "direction": 2.0,
+    "claims": 0.5,
+    "timing": 1.0,
+    "total": 3.5
+   }
+  },
+  "LY-522": {
+   "ours": {
+    "direction": 1.0,
+    "claims": 0.75,
+    "timing": 1.0,
+    "total": 2.75
+   },
+   "master": {
+    "anon_id": "H5-040",
+    "direction": 2,
+    "claims": 2,
+    "timing": 0,
+    "total": 4,
+    "pass": true,
+    "reason": "马多死与财不致大耗分别由七十余匹仅存二十八匹及幸而得价直接印证，claims给满分，预测断语本身无应期故timing记0。"
+   }
+  },
+  "LY-523": {
+   "master": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 2.0,
+    "total": 6.0
+   },
+   "ours": {
+    "direction": 0.0,
+    "claims": 0.0,
+    "timing": 0.0,
+    "total": 0.0
+   }
+  },
+  "LY-524": {
+   "ours": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 0.75,
+    "total": 4.25
+   },
+   "master": {
+    "direction": 1.75,
+    "claims": 1.0,
+    "timing": 0.0,
+    "total": 2.75
+   }
+  },
+  "LY-526": {
+   "master": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 1.0,
+    "total": 4.5
+   },
+   "ours": {
+    "direction": 0.0,
+    "claims": 0.0,
+    "timing": 0.5,
+    "total": 0.5
+   }
+  },
+  "LY-527": {
+   "ours": {
+    "direction": 1.0,
+    "claims": 1.0,
+    "timing": 1.0,
+    "total": 3.0
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 1.75,
+    "timing": 2.0,
+    "total": 5.75
+   }
+  },
+  "LY-528": {
+   "master": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 0.0,
+    "total": 4.0
+   },
+   "ours": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 1.0,
+    "total": 5.0
+   }
+  }
+ }
+}
