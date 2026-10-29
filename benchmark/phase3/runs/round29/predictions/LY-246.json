@@ -1,0 +1,24 @@
+{
+ "case_id": "LY-246",
+ "prediction_text": "终局：妻孕平安，胎为女（单一终局）。子孙不上卦，伏神子孙亥水伏于三爻兄弟申金之下，飞金生伏水，伏虽逢空待出而不绝；官鬼午火持世有气，妻位无重克。性别断：伏神亥水为阴支、阴爻位，主女胎。应期双层：窗口为出空之旬（日档），主坐标亥日——伏神亥水填实、出空之日主胎动分明/孕况落定（近事尺度，非分娩日）。",
+ "basis": "用神子孙不上卦：变爻无子孙，日月辰土其亲为兄弟非子孙，故入本宫（兑宫）首卦同位取伏神子孙亥水伏三爻兄弟申金下，此为备用取用。辰月戊辰日旬空戌亥，亥水月囚、日辰土克，但飞神申金生伏（飞生伏得长生）、伏临空为待实。动化方向：三爻兄弟申金动化妻财卯木，金→木：克（化财），与胎位无直接克害，妻财化出主妻位显。反转条件：伏神引拨四项未全（飞未开、引拨路未通），只作待出降格、不翻转平安初判。四路：本气-（伏囚空）／元忌仇0（飞生伏与土克相抵）／动化0／世应不计。应期三路：填实亥取，冲飞申路（巳冲亥兼冲伏）存疑舍，逢值同填实并入。对象复述：平安断主语为妻、男女断主语为胎儿，分开写明。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "用神不上卦，按变爻、日月次序后取伏神子孙亥水为备用用神"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/chinese-liuyao-meihua.md:用神",
+  "references/chinese-liuyao-meihua.md:空墓伏化进退决策序",
+  "references/chinese-liuyao-meihua.md:动化定性裁决表",
+  "references/chinese-liuyao-meihua.md:应期三步",
+  "references/chinese-liuyao-meihua.md:门类应期对表",
+  "references/chinese-liuyao-meihua.md:终局反转信号扫查"
+ ]
+}

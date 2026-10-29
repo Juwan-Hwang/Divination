@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-014",
+ "prediction_text": "终局正向：求财可得。静卦妻财两现，应爻妻财未土临月建旺为定向之财，世爻父母子水临庚子日旺，财土克世为财来就我；兄弟寅卯静不劫。应期双层：窗口为未月内，窗口内主坐标为丑日——静而旺之财爻未土逢冲之日财到手（单位：日；依据：静卦旺用逢冲则动、求财门静旺取逢冲逢值，未日逢值作备选不取）。三爻妻财辰土旬空落选保留应验位，辰日为空财之验不作得财日。",
+ "basis": "所问之财；用神妻财两现未临月旺、辰旬空，定未为主辰留应验位（空破不径舍）。原神子孙巳火静休囚只调量级（得财不厚）。四路本气+/元忌0/动化0/世应同向佐证，吉向。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "静卦无动爻；辰土旬空落选保留应验位作备用坐标；两现已按临月/旬空明确裁定。"
+ },
+ "systems_used": [
+  "六爻"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round29/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

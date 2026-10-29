@@ -1,0 +1,22 @@
+{
+ "case_id": "LR3-101",
+ "prediction_text": "方向：负，会试不中。刘若宜占会试：课得蒿矢，神遥克日、势如蒿矢之轻，总象所卜难成、力弱难任；初传酉金官鬼虽为从魁，却乘天后而金死于二月，官星无力；父母亥水文书居末传乘玄武，主卷牍暗昧、名次无凭；朱雀文章之神不上三传。断名落孙山。应期（月档，榜期）：窗口放榜之月，主坐标辰月（冲动中传戌土、榜文揭晓）见分晓，结果为不中。",
+ "basis": "考试细断（第六节第9门）：取父母文书＋朱雀文章＋从魁。蒿矢课总象难成（第二节第4项）；酉金二月死、亥水二月休，官父皆无气；玄武乘父母主暗昧虚耗（第四节）。辰巳旬空，三传无空（巳午落空不作空亡）。年命未给，未断名次（第八节细断降档）。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuren"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/chinese-liuren.md 第二节遥克蒿矢",
+  "references/chinese-liuren.md 第四节玄武/天后",
+  "references/chinese-liuren.md 第六节第9门考试细断",
+  "references/chinese-liuren.md 第七节"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-011",
+ "prediction_text": "终局正向：母亲能来、已在渐近途中，未月内可至。父母未土临月建旺、发动化戌土化进，行人类化进主渐近。应期双层：窗口为未月内，窗口内主坐标为戌日——父母化神戌土逢值之日母至（单位：日；依据：行人门动取逢合逢值、化进取化神逢值）。题面明言有妹无弟，不以兄弟爻断弟来，应验对象只对母。",
+ "basis": "所问远母；用神父母两现五爻未土动、三爻辰土世静，舍静取动定未为主；应验对象母同一。动化未化戌化进；用神旺相临月反转不成立。行人对象复述主语均为母。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "父母用神发动化进改变行人渐近定性；主用神现卦旺动无伏神启用；两现已按动静裁定。"
+ },
+ "systems_used": [
+  "六爻"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round29/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

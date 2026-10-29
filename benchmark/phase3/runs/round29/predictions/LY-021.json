@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-021",
+ "prediction_text": "终局正向（何日雨问）：数日先晴、终有雨，不作大旱断。世爻妻财丑土动化子孙午火临月临日旺，近段晴象强主先晴；父母亥水两现为雨用神，午月死、逢戊午日冲无气受冲，雨神近段被压故雨不在近一二日。应期双层：窗口为本旬内至亥日，窗口内主坐标为亥日——父母亥水逢值之日雨至（单位：日；依据：雨用父母逢值得位；冲实一路因亥无根判破不取）。",
+ "basis": "所问之雨；用神父母亥水两现同支定主雨之神；应验天时雨同一。财丑旬空（甲寅旬空子丑）动化午子孙晴神旺主近晴。四路类推本气-/元忌-/动化近段-，雨期退至父母逢值亥日落终局应期。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "用神父母安静未动化；两现同支亥水无备用启用；取用无争议。"
+ },
+ "systems_used": [
+  "六爻"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round29/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

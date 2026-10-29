@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-301",
+ "prediction_text": "Direction: 2020 is a year of major global crisis dominated by a spreading epidemic and a sharp financial/economic shock, not a normal year. Month pattern in substance: danger builds at the very start of the year, the worst disruption and market panic fall in the first quarter into spring, a partial easing/rally in mid-year does not end the crisis, and renewed waves/restrictions return in autumn-winter; the year closes with the world still in emergency. Confidence low: no chart, positions or month-by-month text are given in the input.",
+ "basis": "Input residual (major): asked 2019-11-11, before the epidemic appeared; no ephemeris, chart or prediction text supplied, so this is a scale/direction judgment only (Saturn-Pluto Capricorn crisis signature of early 2020 as general astrological context), not a chart-derived reading. Basis stated honestly per instructions; confidence reduced to 0.40.",
+ "confidence": 0.4,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western astrology"
+ ],
+ "sources_used": [
+  "kb-snapshot/SKILL.md (astrology routing)",
+  "kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

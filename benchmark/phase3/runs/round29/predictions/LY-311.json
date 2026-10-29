@@ -1,0 +1,24 @@
+{
+ "case_id": "LY-311",
+ "prediction_text": "终局：子病凶危、难愈（单一终局偏凶）。子孙申金为用神，寅月金死且寅冲申为月破，甲午日火又克之；申金动而化父母午火回头克，忌神父母午火亦动克子。用神休囚无气、日月并克、化回头克三类凶条件齐备。近段即危，远段无原神有力之救续。应期双层：窗口为本旬内（日档），主坐标午日——化神父母午火逢值、回头克应之日主危期见分晓。",
+ "basis": "题面明定子孙申金为用神（三爻应爻动）：寅月甲午日旬空辰巳，申金月死月破、日午克，本气-。动化方向：申金动化午火，金→火：被克，为回头克；二爻父母午火动化兄弟辰土，火→土：生，辰土虽生金但辰逢空待实、救力虚。反转条件核：原神兄弟戌土四爻月死静、辰土化出逢空，生扶不足，源绝/救应不成立为翻转吉向之据。病占原神有根三征：兄弟土月死、无日月生扶临值、未动化进，三征俱弱，判源弱。四路：本气-／元忌仇-（父母午火忌神动克、原神土死静）／动化-（回头克）／世应不计（代占子病看用神）。疾病对表：休囚受冲克者不取冲去克神为愈期，反以克神逢值午日为危期坐标，填实辰（原神化神空）为救路旁候选舍。对象复述：病断主语逐条为子（子孙申金）。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "父母化辰土生金之救象与用神月破回头克并存，救力逢空不足翻转，量级存争"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/chinese-liuyao-meihua.md:用神",
+  "references/chinese-liuyao-meihua.md:空墓伏化进退决策序",
+  "references/chinese-liuyao-meihua.md:动化定性裁决表",
+  "references/chinese-liuyao-meihua.md:应期三步",
+  "references/chinese-liuyao-meihua.md:门类应期对表",
+  "references/chinese-liuyao-meihua.md:终局反转信号扫查"
+ ]
+}

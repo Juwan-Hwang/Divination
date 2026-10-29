@@ -1,0 +1,19 @@
+{
+ "case_id": "BQ-010",
+ "prediction_text": "Direction: NEGATIVE for 谈朝辅 — the lawsuit does not succeed / is not won. 蒙之未济: 未济 is non-completion, and 父母 (documents, pleadings, evidence) are 空亡 — the paper case is empty, without effective support — so the suit stalls without result or is decided against him rather than carried. Timing scale: months (litigation course); no winning judgment in the near term; main coordinate: the case drags unresolved past the current旬/月 rather than concluding in his favour.",
+ "basis": "Chart excerpt only: 蒙之未济 + 父母空亡. 父母空亡 applied per 六亲空亡 rules (父空: 文书难图/无佑) and 未济 = 未成. 门类应期对表 has no 诉讼 entry — stated per SKILL: 对表无此门类, timing by general scale only. Input residual: chart_complete=false, no date/full plate; object: verdict on 谈朝辅's suit. 动化定性: no moving-line data given, changed_main/reserve/disputed all false with reason recorded in basis.",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "六爻"
+ ],
+ "sources_used": [
+  "kb-snapshot/references/chinese-liuyao-meihua.md (用神/旺衰/分类断法)",
+  "kb-snapshot/SKILL.md (作断通则 a,h,k,l)"
+ ]
+}

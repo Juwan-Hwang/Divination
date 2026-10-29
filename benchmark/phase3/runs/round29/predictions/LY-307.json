@@ -1,0 +1,24 @@
+{
+ "case_id": "LY-307",
+ "prediction_text": "终局：有雨（单一终局）。父母未土为用神、临未月月建而旺，两现静卦，雨神旺而静，逢冲则动而成雨。应期双层：窗口为本旬内（日档），主坐标丑日——丑土冲未土父母，静逢冲之日主降雨。",
+ "basis": "题面以父母未土（月建）为用神，四爻世与初爻应两现同支，取临世者为主、应爻同支不另立候选。未月戊戌日旬空辰巳，未土临月旺，本气+。官鬼巳火逢空静、妻财卯木静，均不克雨神。动化方向：静卦无动化。反转条件：三信号俱无。四路：本气+／元忌仇0（原神官鬼巳空静、忌神妻财卯静）／动化0／世应计而同支父母不另计。天时门类对表无成文雨期条，明写对表无此门类，按静逢冲取丑冲未；逢值未为旁路（静旺逢冲优先）舍，填实无空破不取。对象对齐：应验对象为雨（父母未土），非人事。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/chinese-liuyao-meihua.md:用神",
+  "references/chinese-liuyao-meihua.md:空墓伏化进退决策序",
+  "references/chinese-liuyao-meihua.md:动化定性裁决表",
+  "references/chinese-liuyao-meihua.md:应期三步",
+  "references/chinese-liuyao-meihua.md:门类应期对表",
+  "references/chinese-liuyao-meihua.md:终局反转信号扫查"
+ ]
+}

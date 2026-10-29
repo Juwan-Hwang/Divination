@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-028",
+ "prediction_text": "终局负向：弟被讼不利、难全身脱罪，有受责/破费了事之虞（程度：讼败受责，未直断重罪入狱）。用神兄弟酉金午月死、丁未日土生仅日生，动化申金化退弟势退减；官鬼午火临月旺动克酉金，官势旺动压用神，官动又化兄弟酉金主讼缠弟身。原神父母未土临日、辰土生金为一线援手只主周旋减轻不翻败局。应期双层：窗口为午月内，窗口内主坐标为申日——兄弟化神申金逢值退势坐实之日见分晓（单位：日；依据：用神化退取化神逢值应事）。主语复述均对弟。",
+ "basis": "所问被讼之弟；用神兄弟酉金五爻题面直载；应验弟同一。动化酉化申化退、午官化酉讼缠身；酉午月死无月扶仅日生，化退中高权重按退势加重不单独定死罪、等级降受责。世财寅木旬空（甲寅旬空寅卯）援手空。四路本气-/元忌-/动化-，凶向。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "用神兄弟酉金本身发动化退主用神动化；用神直载现卦得定无备用；取用无争议。"
+ },
+ "systems_used": [
+  "六爻"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round29/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

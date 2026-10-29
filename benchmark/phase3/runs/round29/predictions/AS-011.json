@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-011",
+ "prediction_text": "方向：婚事可重新促成并办成（positive）。具体断语：女方须先放下身段主动示意（按盘中所示时机6月19日近午先动），男方虽与火星同宫于固定土象星座居南角、性情执拗迟滞，又有月亮空亡后冲太阳主先有羞于名节/迟疑之阻，但木星擢升以六合传光：木星六合土星（7宫主、男方）并将其力转交太阳（上升主、女方），中间无禁止/截断/挫败，终局成相。应期：以日为单位，窗口为6月19日至27日，主坐标为6月27日（土星火星相位/木星传光成相之日）婚议定局。置信：高。",
+ "basis": "依据：太阳上升主为女、土星7宫主为男，土星合火星固定土象南角主男执拗；月亮分开男星后空亡入相冲太阳主阻滞与名节顾虑；金星与月亮、太阳与金星有容纳；月亮在擢升位处置土星；决定性证据为木星擢升入相六合土星并传光至太阳、无prohibition/abscission/frustration，6月27日成相。按Lilly传光/集光成事法断可成。输入完整。",
+ "confidence": 0.78,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round29/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/calibration.md"
+ ]
+}

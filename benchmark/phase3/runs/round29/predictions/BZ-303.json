@@ -1,0 +1,20 @@
+{
+ "case_id": "BZ-303",
+ "prediction_text": "方向：负向转折——香港楼市与经济在八运（艮土运，2004–2023）尾段见顶，至2024年交入九运（离火运）时地运对土金楼市的支撑结束，楼价进入多年下行调整通道，经济同步转弱；2024不是谷底而是下行确立之年，其后数年（九运初段）楼市低迷、资产价格重估，难返八运高峰。应期：单位为年——2023–2024为转运交接带（见顶与破位），2024正式入九运后下行定型。程度：断至一轮地产周期级衰退（高位回落三成以上的量级感），非短期波动。",
+ "basis": "本库纪律注明：风水在本包只作文化背景、理气地运（八运/九运三元九运）为民俗通例，无具体坐向盘面可排；题面亦未给任何建筑坐向与元运盘数据，输入在此限度内残损。本断只按三元九运交接的通例落方向与年份，不臆造玄空飞星盘，置信据此下调。sources记风水定位所在的bazi-ziwei篇附节与calibration。",
+ "confidence": 0.45,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "风水"
+ ],
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-bazi-ziwei.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

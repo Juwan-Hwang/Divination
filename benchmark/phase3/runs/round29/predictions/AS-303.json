@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-303",
+ "prediction_text": "Direction: NEGATIVE — no Third World War breaks out on the predicted near dates / in the imminent window claimed in mid-2024. The predicted start dates pass without a world war beginning; regional wars (Ukraine, Gaza) continue and tension stays high, but they do not ignite into WW3 in 2024. Timing: year scale, the remainder of 2024 into 2025; main coordinate: the claimed 2024 dates themselves pass uneventfully as to WW3.",
+ "basis": "Input residual: no chart, no exact predicted date text supplied in the input (only that dates were predicted in June 2024 reporting); judgment limited to the direction 'no WW3 in the claimed imminent window'. Specific-date falsification cannot be refined without the date; confidence reduced accordingly.",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western astrology"
+ ],
+ "sources_used": [
+  "kb-snapshot/SKILL.md (astrology routing)",
+  "kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-022",
+ "prediction_text": "终局负向：自占身病难愈、病重趋危。世爻子孙酉金为本人之象，申月相却逢旬空（甲戌旬空申酉），世空主元气悬空；官鬼卯木为病得戊寅日寅木扶、病根得日扶不散；原神兄弟土静而申月休囚生世薄。妻财亥水动化戌土化退，化出兄弟土虽回生世金近段有一线生机，远段世出空填实之时病官仍扶则危象坐实。应期双层：窗口为本旬出空之期，窗口内主坐标为酉日——世爻酉金填实逢值之危重应点（单位：日；依据：世逢空取填实应事）。主语复述均对占问者本人。",
+ "basis": "所问本人；用神世子孙酉金兼官卯为病；应验本人同一。动化亥化戌化退、土为世金原神。源绝三征未齐不直断死，只断难愈趋危。空根气：世酉申月相有月气属有根之空、空只转应期，凶向来自病得日扶、原神静弱合参。四路本气0/元忌-/动化0。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "世用子孙安静未动化；现卦得定无备用取用；取用无争议。"
+ },
+ "systems_used": [
+  "六爻"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round29/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

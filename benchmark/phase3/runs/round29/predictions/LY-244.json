@@ -1,0 +1,24 @@
+{
+ "case_id": "LY-244",
+ "prediction_text": "终局：夫妻不离散、将来渐和（单一终局偏和）。官鬼寅木得亥日生合，忌神子孙申金虽动却死于巳月，又化妻财亥水转生官鬼，克夫之力化为生夫之力，不主决裂。应期双层：窗口为近旬（日档），主坐标亥日——化神亥水逢值、生官之日主和缓/言归于好。",
+ "basis": "女占夫以官鬼寅木（二爻静）为用神：巳月己亥日旬空辰巳，寅木月休但日亥水生之又合之，路1中平偏有气。动化方向：四爻子孙申金（世，忌神）动化亥水，金→寅木：化神水生用神，为忌化用，定性吉向；初爻妻财子水应动化丑土，土克水回头克，财路受阻只调量级。反转条件：源绝三征未齐，忌化用不作源绝论。四路：本气0／元忌仇+（忌化用、原神财虽受回头克仍有日亥帮扶）／动化+／世应计（世子孙动、应财动）。应期三路：逢值亥（化神生官）取；冲实无空不取；填实无空破不取。门类对表无夫妻不和专类，明写对表无此门类，按三步取点。对象复述：主断语主语逐条为夫（官鬼寅木），非占者本人。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "表面子孙动克官主不和，经忌化用裁决终局改定向和；子孙克官与化水生官并存故存争"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/chinese-liuyao-meihua.md:用神",
+  "references/chinese-liuyao-meihua.md:空墓伏化进退决策序",
+  "references/chinese-liuyao-meihua.md:动化定性裁决表",
+  "references/chinese-liuyao-meihua.md:应期三步",
+  "references/chinese-liuyao-meihua.md:门类应期对表",
+  "references/chinese-liuyao-meihua.md:终局反转信号扫查"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "BQ-014",
+ "prediction_text": "Direction: The gale does NOT stop at once and the return journey is NOT immediately feasible. 困之震 (辛丑年秋丁亥日): 兄弟 and 父母 both move — 父母 moving keeps wind/rain active — and together they 合住 the 应爻, binding the destination/other side, so travel is held up. Near segment: wind continues and departure is blocked for days; far segment: only after the合 is冲开 does wind ease and travel become possible. Timing scale: days. Window: within the current ten days; main coordinate about the fifth day, when the binding is loosened (the exact冲合 day cannot be named — the 应爻 branch is not given in the excerpt).",
+ "basis": "Excerpt: 困之震, 兄弟、父母俱动, 合住应爻. 父动 = weather not settled; 合住应 = journey/other party bound (合住闸门: 行期取冲开之日, per 出行/舟行 logic by analogy, stated as analogy). Input residual: chart_complete=false, 应爻地支 not given so no named冲 day is invented; confidence reduced.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "六爻"
+ ],
+ "sources_used": [
+  "kb-snapshot/references/chinese-liuyao-meihua.md (用神/旺衰/分类断法)",
+  "kb-snapshot/SKILL.md (作断通则 a,h,k,l)"
+ ]
+}

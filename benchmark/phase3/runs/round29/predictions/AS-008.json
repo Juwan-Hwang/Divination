@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-008",
+ "prediction_text": "方向：埃塞克斯（Essex）终能攻取雷丁（Reading）（positive），但非即刻强攻得手。具体断语：近段守军凭城固守、城内尚有粮弹（木星金星居5宫主城中储备），一时难下；远段守将星弱入陷，城终归降/交付——以围困后献城方式得手而非血战破城（月亮空亡后以长上升星座等效刑相之六合与火星成相，主迟滞后成）。应期：以旬/周为尺度，窗口为围城后数周内，主坐标为4月末城交付之时（约27日量级）。置信：中高。两段式：近段僵持、远段以献城收局，远段触发为月亮出空亡与埃塞克斯指示星火星成相。",
+ "basis": "依据：火星天蝎主（上升）为埃塞克斯，虽陷（fall）但与月亮互容、月亮居10宫近轩辕十四有力；太阳国王星居7宫固定宫主守方暂稳；4宫水瓶为城、其主土星入陷主守将弱；木星5宫主与金星居5宫主城中粮弹尚存故不即降；月亮空亡主迟滞。输入年份OCR有1643/1644歧异，已注明，不影响方向判断。",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round29/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/calibration.md"
+ ]
+}

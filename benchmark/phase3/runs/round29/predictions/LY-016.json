@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-016",
+ "prediction_text": "终局负向：当日见官受审不利。世爻即官鬼午火休囚又逢壬子日冲克，为日破无气之象，讼方被动受制，难占上风，有受罚/败讼之虞（程度：当日受审吃亏，未至直断重罪定谳）。应期双层：窗口即当日，窗口内主坐标为子日当日——世官逢日冲破之日即应（单位：日；依据：静爻休囚无根逢冲为日破非冲起）。",
+ "basis": "所问受讼者本人；用神官鬼两现同为午火二爻世、四爻，同支无争议定世为主；应验本人同一。午火丑月休囚不得月生，子日水克且冲判日破。兄弟申金应丑月相、子日得生对方势强。四路本气-/元忌0/动化0，凶向。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "静卦无动爻；官鬼两现同支世即主用神无备用启用；同支两现无取舍争议。"
+ },
+ "systems_used": [
+  "六爻"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round29/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "case_id": "LY-005",
+ "prediction_text": "方向：正，乡试可中。官鬼申金五爻发动、临申月建旺，化酉金为化进神，功名进益之势成；官鬼酉金又持世，名位与本人相应；父母亥水二爻得申月金生而相，文章有凭。等级：可中，名次不至前列（父母泄于卯日、化神只进一位）。应期（月档，榜期）：窗口申月后一月内，主坐标酉月——官鬼化进逢值、挂榜之月。",
+ "basis": "乡试兼取官鬼（功名）与父母（文书）：官鬼两现取动而临月建之申金为主，酉金世爻旁参；父母亥水静相得月建生。四路：路1 +（官临月旺）、路2 +（父母金生水相、忌神妻财丑戌不克官）、路3 +（化进）、路4世即官旁参不重复计。动化裁决记录：动化方向酉金→申金同类进神；定性化进吉向；反转不成立；对表结论成。应期对表功名发案门：官星持世取逢官鬼之期、动者逢值逢合——化神酉逢值酉月兼二路，取酉月；舍亥月父母逢值（文书之值迟于官进之值且非挂榜首选）、舍戌月（无对位机制）。",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：官鬼申金动化酉金化进为定中试终局主动化。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/chinese-liuyao-meihua.md 用神章",
+  "references/chinese-liuyao-meihua.md 动化定性裁决表",
+  "references/chinese-liuyao-meihua.md 门类应期对表（功名发案挂榜）",
+  "references/chinese-liuyao-meihua.md 应期三步（六爻本地化）"
+ ]
+}

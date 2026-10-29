@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-024",
+ "prediction_text": "终局正向：子病虽重可愈、绝处逢生。用神子孙卯木酉月冲为月破却临丁卯日建，破而临日为有根之破待实不作死断；忌神父母申金酉月旺动却化兄弟亥水化进，化出亥水正是生卯木之原神，忌动化原神来生用神。应期双层：窗口为酉月内，窗口内主坐标为亥日——父母化神亥水逢值生子孙之日病退见愈（单位：日；依据：疾病门化去克神之期愈、原神逢值生用取点）。主语复述均对所占之子。",
+ "basis": "所问病子；用神子孙卯木初爻；应验其子同一。动化申化亥化进、化神水生卯用神（忌化原神）；月破过表破而临日有根判待实之破。原神亥水世静酉月相有气。病官丑戌静（戌空）。四路本气0/元忌+/动化+，有救向。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "用神子孙安静未动化（忌神动化原神记basis不计changed_main）；现卦得定无备用；取用无争议。"
+ },
+ "systems_used": [
+  "六爻"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round29/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

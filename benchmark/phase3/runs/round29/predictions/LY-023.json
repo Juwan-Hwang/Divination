@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-023",
+ "prediction_text": "终局负向：母病重而难愈、目下即有危象。父母巳火未月休囚逢丁亥日冲克、无根无气判日破；忌神妻财亥水临日旺克火用神。世爻子孙酉金动化官鬼寅木化出原神木可生父母火为唯一救路，但子孙本身克原神木、化寅逢亥合绊，救力打折只作降格不翻终局。应期双层：窗口为未月内本旬，窗口内主坐标为巳日——父母巳火逢值而日破应危之日（单位：日；依据：用神日破取逢值应凶）。主语复述均对母；初生两月之子为牵连对象、本占不并断其子终局。",
+ "basis": "所问母；用神父母巳火二爻；应验母同一，牵连其子另列不并断。动化酉化寅（化出原神）；原神化出链不完整不翻转。原神官卯三爻静、亥日得生合为旁救只调量级。四路本气-/元忌-/动化0，凶向。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "用神父母安静未动化；现卦得定无备用；取用唯一无争议。"
+ },
+ "systems_used": [
+  "六爻"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round29/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

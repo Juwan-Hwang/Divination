@@ -1,0 +1,24 @@
+{
+ "case_id": "LY-249",
+ "prediction_text": "终局：父将归（单一终局）。父母午火临庚午日建，静卦用神逢值，行人已近。应期双层：窗口为数日内（日档），主坐标午日——父母午火逢值之日主父到家（占日即午日，主即日/当值之日归）。",
+ "basis": "行人以父母为用神，两现：四爻午火、初爻巳火。丑月庚午日旬空戌亥，午火月囚但临日建（日月如天，临日不以囚论弱），巳火得午日帮扶；静卦无动化。动化方向：无动爻，无化出，定性从本气。反转条件：无信号，三类俱无初判维持。四路：本气+（午临日建）／元忌仇0（原神官鬼卯木静、忌神妻财不现）／动化0／世应不计（代问父归，世子孙申为迎者不入参）。行人对表：远应月近应日，本题父远去而用神临日值日，按近应日取逢值午日；冲实无空不取，填实无空破不取。对象复述：归否与归期主语逐条为父（父母午火），非迎候者。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/chinese-liuyao-meihua.md:用神",
+  "references/chinese-liuyao-meihua.md:空墓伏化进退决策序",
+  "references/chinese-liuyao-meihua.md:动化定性裁决表",
+  "references/chinese-liuyao-meihua.md:应期三步",
+  "references/chinese-liuyao-meihua.md:门类应期对表",
+  "references/chinese-liuyao-meihua.md:终局反转信号扫查"
+ ]
+}

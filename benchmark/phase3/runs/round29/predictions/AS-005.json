@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-005",
+ "prediction_text": "方向：船未沉、尚存活（positive），人船平安可望。具体断语：船未失事沉没，虽在外洋遇险受惊（土星刑上升甚近、南交点居9宫主远航有惊扰），但船体无大毁；船在西班牙海岸一带海面（西向/7宫方向所指的对方海岸）。消息应期：以日为单位，窗口为数日内，主坐标在月亮三合太阳/水星精确成相之时（仅差数分），即极近数日内得船平安确讯。置信：高。",
+ "basis": "依据：上升巨蟹主船体；月亮上升主擢升（金牛）居11宫，入相三合7宫太阳与水星仅差数分且近木星，主船安且讯速至；土星白羊11宫刑上升主有险而非沉；南交点9宫主远行惊扰。按Lilly船占：上升主擢升得吉相断船存活。输入完整。",
+ "confidence": 0.8,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round29/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-209",
+ "prediction_text": "方向分判合成：(1)国王能招来爱尔兰援军之事——能成但迟滞（positive with delay）：国王星月亮巨蟹自宫居10宫增光、除迟动外无凶，援军星太阳（11宫主=援助宫）擢升居7宫趋向11宫头仅差6°未成紧密相位，主援兵可得、足以对议会构成威胁，但到援/成军须待时日。(2)王后北军——会进军并与国王相会，但进军不昌、势将转弱：王后星土星正换座入白羊入陷（fall）主其军势入弱途，月亮距与土星三合仅差3-4°主相会必成。应期：以月为单位，相会窗口为问后3-4个月，主坐标约3-4个月之交（月亮-土星三合成相度数折月）；爱尔兰援军窗口较后，约6个月量级（太阳差6°）。综合终局：会师成、援军至，但王后一方进军不 prosper。置信：中。",
+ "basis": "依据：国王星月亮巨蟹自宫10宫增光无凶主王势有根；太阳11宫主（援助）擢升居7宫趋11宫头差6°、正冲上升（议会）主援至而犯议会、唯未紧密主迟；王后星土星（10宫起算7宫即原4宫主）换座入白羊陷落主转弱；月亮距土星三合3-4°主相会应期。输入未给问占确日，应期按度数折月已注明单位。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round29/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/calibration.md"
+ ]
+}

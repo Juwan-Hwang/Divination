@@ -1,0 +1,23 @@
+{
+ "case_id": "LR3-006",
+ "prediction_text": "方向：负，仕途虚浮无实、迁转无望。贺中令任台垣自占：三传巳火（财，乘贵人）—寅木（泄气，乘六合）—亥水（兄弟，乘天空），官鬼土、父母金俱不上三传，官星无凭；课带玄胎主隐匿未分、移旧更新之象未成，末传天空主言事不实、落空套。在台垣只有虚声言责之劳，无迁擢实授。应期（月档，仕宦迁转）：窗口数月，主坐标戌月（日支戌土官星逢值）见分晓，仍主虚望。",
+ "basis": "仕宦门取用官鬼＋贵人太常青龙＋禄马（第六节第9门）：本课官鬼不上三传，末传亥水乘天空（第四节天空专主虚诈不实）；玄胎格四孟在传主隐匿未分（第三节）。贵人乘巳火妻财发用，非乘官印。子丑旬空，三传无空。年命未给，迁期年命路无据、已舍（第七、八节）。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuren"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/chinese-liuren.md 第三节玄胎",
+  "references/chinese-liuren.md 第四节天空",
+  "references/chinese-liuren.md 第五节类神",
+  "references/chinese-liuren.md 第六节第9门仕宦功名",
+  "references/chinese-liuren.md 第七节"
+ ]
+}

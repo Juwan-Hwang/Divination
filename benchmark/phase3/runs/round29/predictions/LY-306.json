@@ -1,0 +1,24 @@
+{
+ "case_id": "LY-306",
+ "prediction_text": "终局：弟尸首可得见（单一终局）。占尸首以官鬼寅木为用神，寅木逢旬空，但子月得水生为相，原神妻财亥水旺相静生之，空有根待出，非不见之象。应期双层：窗口为本旬出空前（日档），主坐标寅日——官鬼寅木填实、逢值之日主尸首得见。",
+ "basis": "题面明定官鬼寅木为用神（二爻静，凡占尸首以鬼为用）：子月乙巳日旬空寅卯，寅木月相（水生木）、日巳泄而刑，空亡根气：原神亥水五爻月旺生寅，根气第2项成立判有根。动化方向：静卦无动化。反转条件：三信号俱无（非伏神），初判维持偏可见。忌神子孙酉金上爻月相静克寅，只调量级。四路：本气0（相空得生）／元忌仇0（原神旺生与忌静克相抵）／动化0／世应不计。应期三路：填实寅取（兼逢值），冲实申冲寅兼冲原神旁路舍，逢合亥合寅为原神合用旁路舍。对象对齐：所问对象=弟之尸首，用神=官鬼寅木，应验同一为尸首，非弟生死重断（题面已言弟死）。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "表面用神逢空主不见，经空有根（原神旺生）改定终局为可见"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/chinese-liuyao-meihua.md:用神",
+  "references/chinese-liuyao-meihua.md:空墓伏化进退决策序",
+  "references/chinese-liuyao-meihua.md:动化定性裁决表",
+  "references/chinese-liuyao-meihua.md:应期三步",
+  "references/chinese-liuyao-meihua.md:门类应期对表",
+  "references/chinese-liuyao-meihua.md:终局反转信号扫查"
+ ]
+}

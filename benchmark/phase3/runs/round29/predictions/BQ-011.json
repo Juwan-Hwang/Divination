@@ -1,0 +1,19 @@
+{
+ "case_id": "BQ-011",
+ "prediction_text": "Direction: NEGATIVE — the official lawsuit brings harm on 周焚松: 官鬼 is raised up by the day (戊子日, 日辰扶起) and rushes/clashes the 世爻, while 妻财 also moves (财动生鬼 / money moving feeds the trouble) — expect an adverse outcome: penalty/liability and financial loss, not exoneration or victory. Timing scale: days-to-months; main coordinate: harm lands in the current litigation course, near term, as the day-supported 官鬼 already clashes 世 (no distant delay).",
+ "basis": "Excerpt: 离之贲, 日辰扶起, 官鬼冲克世爻, 财爻又动. 官鬼 strong (day-supported) clashing 世 = official trouble strikes the person; 财动 adds破财 dimension. Input residual: chart_complete=false, no full plate; which line the day supports is stated only in summary form in the source excerpt, noted here without embellishment.",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "六爻"
+ ],
+ "sources_used": [
+  "kb-snapshot/references/chinese-liuyao-meihua.md (用神/旺衰/分类断法)",
+  "kb-snapshot/SKILL.md (作断通则 a,h,k,l)"
+ ]
+}

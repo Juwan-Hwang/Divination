@@ -1,0 +1,22 @@
+{
+ "case_id": "LR3-116",
+ "prediction_text": "方向（射覆物象）：袖帨中所包为柔软可握的布帛类小物——一方手帕/巾类织物（至多内裹小件软物），不是刀金硬器。三传丑土乘贵人主包覆贵重、亥水乘太阴两重主阴柔藏匿、水土相包之象正合『外裹内柔』；八专干支同体主物与袖帨同体贴身。置信低：输入残损（三传天干未载、旬空未载），只据地支与天将取象。",
+ "basis": "射覆以三传类象取物：丑为包覆之土、亥为阴柔之水，太阴主蔽匿阴柔、贵人主贵重（第四、五节支神类象与天将）；八专同体（第二节第7项）。输入残损照实注明：三传只载地支与天将、天干未载，原书未载旬空，旺衰空亡无从全核，故降置信、不作硬物/金属之断（第八节盘面不全规矩）。",
+ "confidence": 0.35,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuren"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/chinese-liuren.md 第二节八专",
+  "references/chinese-liuren.md 第四节太阴/贵人",
+  "references/chinese-liuren.md 第五节支神类象",
+  "references/chinese-liuren.md 第八节"
+ ]
+}

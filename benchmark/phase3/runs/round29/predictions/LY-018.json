@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-018",
+ "prediction_text": "终局负向：地下无古窖藏财可得，掘之无金银。妻财不上卦、变爻无财、日月辰土皆兄弟之亲，财只能伏藏不现；世爻子孙酉金旺动化戌土回头生，财源象在而财位始终不出现，兄弟丑土发动主多人议论耗费。五色之光只作地气异象看不作藏财证。应期双层：窗口为辰月内验掘之期，窗口内主坐标为未日——伏财逢值之日验之仍无财（单位：日；依据：伏神逢值出现为验期）。",
+ "basis": "输入残损注明：伏财定位两可——按巽宫首卦同位妻财可伏五爻兄弟未土下或三爻兄弟丑土下，题面未直载伏神栏，伏位存疑置信下调，不臆补定一位。用神妻财伏藏暂取未土逢值，两位结论同为财不现。子孙酉金辰月相、辰日生动化戌回头生，原神旺而用神缺位。四路本气-/元忌-/动化0，无财向。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": true,
+  "reason": "用神伏藏未动化；作断启用伏神备用取用；伏财未/辰两位定位无题面直载可裁、取用定位存疑。"
+ },
+ "systems_used": [
+  "六爻"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round29/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

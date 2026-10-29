@@ -1,0 +1,24 @@
+{
+ "case_id": "LY-253",
+ "prediction_text": "终局：父病危重，吃人参不好、不宜服（单一终局偏凶）。父母未土死于寅月、受卯日克，上爻父动又化戌土空亡，父位动而化空；药神子孙亥水静而受土克，服参提气无益、反助痰壅之象。近段狂言不知人事之危在，远段化空填实之期见分晓。应期双层：窗口为本旬内（日档），主坐标戌日——化神戌土实空之日主病势转危/见分晓。",
+ "basis": "子占父以父母为用神，两现取动者上爻未土：寅月丁卯日旬空戌亥，未土月死、日卯克，本气-。所问人参以子孙亥水（四爻静）为药神，亥水月休、卯泄、未土动克之，药力受制。动化方向：未土动化戌土，土→土比和而戌逢空，为化空，父动化空待实空应凶。反转条件：源绝论病：原神官鬼巳火世爻月相静，未化绝，不以源绝翻转，只维持凶向降格表述。四路：本气-／元忌仇-（忌神妻财卯木临日月旺克父、原神官静不动）／动化-（化空）／世应不计。疾病对表：本题问服药宜否非愈期专问，对表愈期机制只参实空一路取戌日。病位：父上爻动象头位，与题面仆倒狂言合，只作旁证不另断脏腑。对象复述：病与服药断主语逐条为父（父母未土）。注：题面变卦名原文与装卦核算有出入（萃之咸），已按题面注记的装卦爻象作断。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "父母动化空主危与原神官鬼月相未绝并存，凶向量级存争"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/chinese-liuyao-meihua.md:用神",
+  "references/chinese-liuyao-meihua.md:空墓伏化进退决策序",
+  "references/chinese-liuyao-meihua.md:动化定性裁决表",
+  "references/chinese-liuyao-meihua.md:应期三步",
+  "references/chinese-liuyao-meihua.md:门类应期对表",
+  "references/chinese-liuyao-meihua.md:终局反转信号扫查"
+ ]
+}

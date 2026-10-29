@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-010",
+ "prediction_text": "终局正向：考试可中。父母未土世爻巳月得火生为相、乙丑日土帮，发动化戌土化进；官鬼巳火初爻临月建旺，发动化寅木回头生。应期双层：窗口为本月发案之期，窗口内主坐标为戌日——父母化神戌土填实（戌亥空待实）之日见榜（单位：日；依据：功名发案门父母动者逢值逢合、化空待填实）。",
+ "basis": "所问考试；用神父母兼官鬼双主。父母两现世未动、应丑静，舍静取动定未为主。动化方向：未化戌化进、巳官化寅回头生皆吉向；反转不成立。子孙亥水静而巳月死不克动官。四路本气+/元忌+/动化+，吉向。",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "父母世爻发动化进、官鬼回头生，主用神动化为吉；主用神现卦得定无备用；两现已按动静明确裁定无未决争议。"
+ },
+ "systems_used": [
+  "六爻"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round29/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

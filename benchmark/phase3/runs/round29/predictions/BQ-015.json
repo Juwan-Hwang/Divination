@@ -1,0 +1,19 @@
+{
+ "case_id": "BQ-015",
+ "prediction_text": "Direction: NEGATIVE year — the year (戊午年, asked 正月辛亥日) is a poor/hard year: excessive rain/water trouble and disturbed, damaging weather, with a thin harvest and poor returns. 蒙之中孚: the water-官鬼 and the 父母 on 应 both move and injure/clash the 世爻 (rain and calamity pressing on the people), while 妻财 (grain/income) is hidden (伏) and does not appear — produce and money stay scarce. Timing scale: the year itself; main coordinate: the harm is a whole-year pattern, worst in the rain season (no single month invented from an incomplete plate).",
+ "basis": "年时 read: 父动主雨水, 鬼动主灾扰, 二者动而伤克世 = year presses on the populace; 财伏 = 收成/财源不显. 年时门 note (L1-64) applied only generally. Input residual: chart_complete=false, no full plate; month-level detail not derivable and not claimed.",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "六爻"
+ ],
+ "sources_used": [
+  "kb-snapshot/references/chinese-liuyao-meihua.md (用神/旺衰/分类断法)",
+  "kb-snapshot/SKILL.md (作断通则 a,h,k,l)"
+ ]
+}

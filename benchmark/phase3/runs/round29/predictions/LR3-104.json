@@ -1,0 +1,23 @@
+{
+ "case_id": "LR3-104",
+ "prediction_text": "方向：负，上疏不利。王旋官占上疏：章奏正神朱雀、天空俱不上三传，奏书无凭、疏难上达；课从革金局（巳酉丑）主刑伤返射，又带绝嗣尤凶；初传酉金乘勾陈主斗讼稽留，中传丑土官鬼乘太常压身，末传巳火乘贵人虽见君上，巳火为癸水之财、贵意不在疏。断疏上而被驳受抑、防触怒获咎，事稽留不报。应期（月档，章奏旨意）：窗口数月，主坐标巳月（末传贵人逢值、旨意下达）见分晓，结果为驳回。",
+ "basis": "章奏门（第六节第12门）：朱雀天空为奏书之神、贵人为君上——本课朱雀天空皆不在三传；从革、绝嗣课格（第三节）主肃杀返射、后续断绝；勾陈发用主稽留斗讼（第四节）。辰巳旬空，三传无空（申酉落空不作空亡，第一节第5条）。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuren"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/chinese-liuren.md 第一节第5条",
+  "references/chinese-liuren.md 第三节从革/绝嗣",
+  "references/chinese-liuren.md 第四节勾陈/太常/贵人",
+  "references/chinese-liuren.md 第六节第12门章奏",
+  "references/chinese-liuren.md 第七节"
+ ]
+}

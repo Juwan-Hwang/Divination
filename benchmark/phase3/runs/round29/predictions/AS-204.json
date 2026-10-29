@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-204",
+ "prediction_text": "方向：病可治但属缠绵难速愈（方向偏正向、程度审慎：可愈而久拖）。具体断语：病位在胸与胃（土星居巨蟹主胸胃）；病性为寒湿郁滞/忧郁质积滞之病，起于胸胃一带，四角固定主病程固定迁延、非暴病速决；近段病势胶着，远段随上升主已分开土星之刑（最凶相位已过）可望缓慢转松、经长程调治收功。应期：以月为单位，窗口为数月调治期，主坐标定到月量级（题面无成相度数，不钉日）。两段式远段触发：上升主新近分开土星右刑，主凶势已过峰。置信：中低（盘面要素残缺）。",
+ "basis": "依据：上升天蝎；6宫受居陷星侵扰主病重有根；上升主新近分开土星右刑、土星巨蟹主胸胃定病位；月亮4宫与土星同在主病入里；四角固定主迁延。按Lilly疾病章：角固定+土星主久病，上升主分开凶相主过峰可治。输入仅散文要点、无全盘，病名细目不臆补，置信下调。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round29/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/calibration.md"
+ ]
+}

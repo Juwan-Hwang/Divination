@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-026",
+ "prediction_text": "终局正向（何日雨问）：连晴再续数日、申日有雨。父母申金为雨用神，巳月囚、逢甲寅日冲，静而休囚逢冲近段雨神无力故先晴；子孙卯木巳月相、寅日得扶动化辰土，晴神动主近段晴续。应期双层：窗口为本旬内至申日，窗口内主坐标为申日——父母申金逢值之日雨至（单位：日；依据：雨用父母逢值得位；寅日逢冲无根不作即雨、舍之取逢值）。",
+ "basis": "所问之雨；用神父母申金四爻唯一；应验天时雨同一。动化卯化辰晴神化财不主雨。兄弟亥水世巳月死、寅合绊水象无力。近段雨神囚冲、晴神动，雨期退至逢值申日。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "用神父母安静未动化；用神唯一现卦得定无备用；取用无争议。"
+ },
+ "systems_used": [
+  "六爻"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round29/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

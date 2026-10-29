@@ -1,0 +1,19 @@
+{
+ "case_id": "BQ-016",
+ "prediction_text": "Direction: POSITIVE as to the raid occurring (bad for the locality) — in that year (甲寅年, asked 正月庚申日) the 倭乱 DOES come / does happen, and it harms the local军民: 困之大过, 六三午火官鬼 moves (the enemy is active, not still) transforming to 酉金, and 兄弟 carrying刑 clashes the 世爻 — expect actual incursion, fighting, losses and破耗 for the people, not a mere rumour. Timing scale: the year; window within that year, main coordinate the active-raid season of that year (no single month named from an incomplete plate).",
+ "basis": "Contrast structure with a quiet-enemy chart: here 鬼 is 动 (not 衰静), 动鬼 = enemy moves/arrives; 兄带刑克世 = harm to the subject side. 化酉 noted without inventing进退 beyond the excerpt. Input residual: chart_complete=false, no full plate; timing kept at year scale per 通则(k).",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "六爻"
+ ],
+ "sources_used": [
+  "kb-snapshot/references/chinese-liuyao-meihua.md (用神/旺衰/分类断法)",
+  "kb-snapshot/SKILL.md (作断通则 a,h,k,l)"
+ ]
+}

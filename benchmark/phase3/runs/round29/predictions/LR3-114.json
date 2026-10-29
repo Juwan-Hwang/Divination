@@ -1,0 +1,23 @@
+{
+ "case_id": "LR3-114",
+ "prediction_text": "方向：正（小吉无祸）。僧敏若半夜闻鸦鸣：三传子水—亥水—戌土退茹向阴，水势递退、鸣象渐息；子亥皆为生乙木日干之父母，主音信文书之应而非克身之凶，初传子水乘太常主酒食衣裳平和之应，玄武只居中传主小有阴私虚耗之虑，末传戌土妻财乘太阴主暗中财物小事。断此鸣不主大凶，主数日内有音信/客至或庵中阴私小事，防小虚耗而已。应期（日档）：窗口数日，主坐标子日（初传逢值）应验见分晓。",
+ "basis": "应候类以三传生克与天将定性：传水生干为生扶（第五节父母类神），太常、太阴、玄武将象分判（第四节）；退茹连茹向阴只定暗昧层级、不定大凶（第三节）。戌亥旬空，三传无空（酉戌落空不作空亡，第一节第5条）。盘面无螣蛇乘鬼发用之惊扰主象，不作凶鸣断。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuren"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/chinese-liuren.md 第一节第5条",
+  "references/chinese-liuren.md 第三节连茹",
+  "references/chinese-liuren.md 第四节太常/玄武/太阴",
+  "references/chinese-liuren.md 第五节类神",
+  "references/chinese-liuren.md 第七节"
+ ]
+}

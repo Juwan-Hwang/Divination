@@ -1,0 +1,20 @@
+{
+ "case_id": "BZ-301",
+ "prediction_text": "方向：负向——该政党于2022年（民国111年、壬寅年）进入衰亡/解体级阶段：选举大败、 leadership 崩解与分裂出走并见，执政前景断绝，进入存亡意义上的衰亡期而非寻常低潮。应期定点：单位为年，定年2022，依据为题面所问即以2022为应验年、壬寅年木旺冲其金土根基之象（组织类占以年为尺度，不细化到月日）。程度：断至组织存亡级衰败（失去主要政治生命力），非一时民调低落。此后数年无复起之象，衰势延续至下一个运会交接（2024九运转换）仍不见底。",
+ "basis": "输入残损严重并如实注明：题面未给任何四柱、建党时刻盘或起运资料，无盘可排，本断只能按公开预测题的年运尺度与政党组织占的通例作方向性落断，无具体盘面依据链，置信大幅下调；basis不臆补任何干支排盘。systems按题面tradition（bazi）与组织年运通例记八字，sources只记所用知识文件。",
+ "confidence": 0.35,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "八字"
+ ],
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-bazi-ziwei.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

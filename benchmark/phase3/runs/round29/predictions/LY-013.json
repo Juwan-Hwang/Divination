@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-013",
+ "prediction_text": "终局负向：夫病难愈、趋重，不作转安断。近段官鬼亥水申月得金生为相尚有生气；远段原神妻财申金临月旺发动却化未土化退且化出忌神土克水官，生源转为克力，远段加重。应期双层：窗口为申月内旬窗，窗口内主坐标为未日——财化忌神未土逢值克官之危重应点（单位：日；依据：原神化退化忌取化神逢值应凶）。应验对象只对夫本人。",
+ "basis": "所问病夫（命癸亥与官亥同支互证）；用神官鬼亥水三爻世；应验夫同一。动化申化未化退、化神土克亥用神；用神申月相有月生不越门槛直断死，只断难愈趋重。忌神子孙土静、戌空，未化出后忌得位。四路本气+/元忌-/动化-，受阻转凶。病位无交集依据不妄断。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "用神官鬼安静未动化；现卦得定无备用取用；取用唯一且合夫命无争议。"
+ },
+ "systems_used": [
+  "六爻"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round29/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

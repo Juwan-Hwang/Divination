@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-01",
+ "prediction_text": "终局正向：文书可得领，只是伏藏逢空须待出空。应期双层：窗口为壬辰日起本旬出空之前，窗口内主坐标为甲午日——父母伏神午火填实之日得领（单位：日；依据：用神伏而逢空、填实为应）。",
+ "basis": "所问文书；用神父母不上卦、静卦无变爻、日月卯辰皆非父母之亲，取二爻兄弟丑土下伏父母午火；应验对象同一文书。伏神午火卯月得月生为相、临旬空（甲午旬空午未）属有根之空；飞神丑土休囚不旺压；原神官鬼卯木世临月旺可生伏火。四路本气+/元忌0/动化0/世应不计，吉向迟成。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "静卦无动爻；主用神不在现卦、启用伏神父母午火；伏神题面直载唯一无争议。"
+ },
+ "systems_used": [
+  "六爻"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round29/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

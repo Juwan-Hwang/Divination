@@ -1,0 +1,21 @@
+{
+ "case_id": "MH-007",
+ "prediction_text": "终局方向:吉,少年确有喜事,非空欢喜。断语:喜在礼物往来/亲事聘定一类小喜——得一宗束帛式的礼物或聘物,数量不多、礼薄而情真(束帛戔戔),先有小吝/小阻而终吉;对象即从离方来、喜形于色的少年本人,不回收到他人。应期尺度:日。窗口:五日内,主坐标第五日(动爻五、喜信与礼物于第五日落实)。",
+ "basis": "体用:五爻动在上卦,上艮土为用、下离火为体,体火生用土为耗泄,故喜事费力且礼薄、先吝;变风火家人,变上巽木生体离火,结果得生扶而终吉,与六五爻辞『束帛戔戔,吝,终吉』方向一致(先吝后终吉,不翻辞义)。互震坎主过程有惊动而后定。对象对齐:承受对象=少年,应验对象=少年(外应即少年本人喜色),同一。动化方向:体生用耗泄转变得生,反转条件:若五日内无任何礼物/亲事消息至,则耗泄一路独存、喜断落空——按盘面变卦生体,此条件不成立,维持终吉。旺衰:午时火旺,体离得令,不为弱断。",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "主断一次落定,体用与爻辞/事实合参后无翻转触发"
+ },
+ "systems_used": [
+  "梅花易数"
+ ],
+ "sources_used": [
+  "kb-snapshot/SKILL.md 作断通则(a)(c)(e)(f)(g)(h)(k)",
+  "kb-snapshot/references/chinese-liuyao-meihua.md 下篇梅花易数:体用断法",
+  "kb-snapshot/references/chinese-liuyao-meihua.md 爻辞取象核对与事实优先序",
+  "kb-snapshot/references/chinese-liuyao-meihua.md 梅花具体断语自检表与量级守恒"
+ ]
+}

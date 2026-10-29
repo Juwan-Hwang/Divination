@@ -1,0 +1,22 @@
+{
+ "case_id": "LR3-110",
+ "prediction_text": "方向：正，失马可寻回。王怀荫失马：末传巳火既是妻财（马之本体）又是癸日/卯支所主驿马，乘贵人居末传，物有着落；巳火落甲午旬旬空，主暂匿不见，待填实即现。方所：巳位东南（太乙之宫），向东南方寻。应期（日档，失物寻获）：窗口本旬内，主坐标乙巳日——巳火填实之日得马（自癸卯日起两日后）。近段先无踪、填实日忽见，为一段终局内的迟速之分，不另立远段。",
+ "basis": "失物门（第六节第2门）：妻财为物本体，末传巳火财兼驿马乘贵人；旬空只认辰巳（甲午旬），末传巳正落旬空——应期取期优先序第1路『落空者先取出空填实』（第七节第4条），取填实乙巳日，舍逢值（值而仍空）、舍冲空（未日冲亥不切巳）。斫轮、知一课格主成器专一（第三节）。玄武不上三传，藏处精确里数无据、只给巳位方向（第八节降档）。落空组亥子不作空亡。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuren"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/chinese-liuren.md 第一节第5条",
+  "references/chinese-liuren.md 第三节知一/斫轮",
+  "references/chinese-liuren.md 第六节第2门失物走失",
+  "references/chinese-liuren.md 第七节"
+ ]
+}

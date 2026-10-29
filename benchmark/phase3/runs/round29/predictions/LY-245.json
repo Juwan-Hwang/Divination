@@ -1,0 +1,24 @@
+{
+ "case_id": "LY-245",
+ "prediction_text": "终局：有子可望，所应在水命之女（单一终局）。子孙卯木虽死于申月，但原神兄弟亥水旺相持世生之，子源未绝；二爻官鬼丑土动化子孙寅木，子位由动化显。断何命有子：主水命（亥子水命）之妾有子，木命次之。应期双层：窗口为木气得生之期（月档），主坐标寅月——子孙寅木逢值、得水生之月主孕信/得子之机。",
+ "basis": "用神子孙两源：初爻卯木应爻静为现卦候选，申月丁丑日旬空申酉，卯木月死、日丑耗，本气负；变爻寅木（官丑动化）为化出候选同列。原神水：兄弟亥水两现旺相（申月金生水相）静生卯木，源在。动化方向：官鬼丑土动化寅木子孙，土→木：化神为用神本身（子位显），且寅木得亥水原神生。反转条件：源绝未齐（原神亥水旺相有根）。四路：本气-／元忌仇+（原神旺相、忌神父母酉金逢空静）／动化+／世应不计（自占问子嗣，世亥为原神已并入路2）。应期：逢值寅取（化神值月），填实无空不取，冲实申冲寅与得子终局悖舍。对象对齐：所问=何命妾有子，用神=子孙卯/寅木，应验落于水命之妾同一链。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "子孙死绝表面主无子，经原神旺生与官化子孙改定向有子；子死与源旺并存故存争"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/chinese-liuyao-meihua.md:用神",
+  "references/chinese-liuyao-meihua.md:空墓伏化进退决策序",
+  "references/chinese-liuyao-meihua.md:动化定性裁决表",
+  "references/chinese-liuyao-meihua.md:应期三步",
+  "references/chinese-liuyao-meihua.md:门类应期对表",
+  "references/chinese-liuyao-meihua.md:终局反转信号扫查"
+ ]
+}

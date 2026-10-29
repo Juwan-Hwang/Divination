@@ -1,0 +1,24 @@
+{
+ "case_id": "LY-250",
+ "prediction_text": "终局：夫不再往他省，将归家（单一终局）。官鬼寅木得亥月合、子日生，相而有气，合住主留止不行他省；应期双层：窗口为本月内（日档），主坐标寅日——官鬼寅木逢值之日主夫到家。",
+ "basis": "妻占夫以官鬼寅木（二爻静）为用神：亥月甲子日旬空戌亥，寅木月相、得月合、日生，本气+。动化方向：五爻子孙申金动化酉金，金进一支为化进，但子孙为克官之忌，其化进只主行踪已动/消息进，不翻官旺生合之主向；初爻妻财子水应动化丑土，土克水回头克且子丑合绊，应方牵绊。反转条件：源绝未齐、化退化绝无生扶一路不成立（官非动爻）。四路：本气+／元忌仇0（忌子孙申金亥月休、日水泄之，克力有限）／动化0／世应计（世父母午、应财子动化回头克）。行人对表：静而逢值取寅日，动逢合指子孙/财动非用神动不取，化退取归不适用（用神静）。对象复述：主语逐条为夫（官鬼寅木）。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "官旺生合主归与子孙忌神动克官并存，方向取官本气、量级存争"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/chinese-liuyao-meihua.md:用神",
+  "references/chinese-liuyao-meihua.md:空墓伏化进退决策序",
+  "references/chinese-liuyao-meihua.md:动化定性裁决表",
+  "references/chinese-liuyao-meihua.md:应期三步",
+  "references/chinese-liuyao-meihua.md:门类应期对表",
+  "references/chinese-liuyao-meihua.md:终局反转信号扫查"
+ ]
+}

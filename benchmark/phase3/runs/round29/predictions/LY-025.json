@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-025",
+ "prediction_text": "终局正向（何日晴问）：雪止放晴在子日。上爻妻财卯木动化子孙子水，子孙为晴用神由变爻出现（变爻优先不取伏），子水临子月建旺、己亥日水帮，晴神旺得位；父母未土世应静、子月休囚雪神无力续雪。应期双层：窗口为本旬内数日，窗口内主坐标为子日——子孙子水逢值之日放晴（单位：日；依据：晴用子孙变爻用神逢值应晴）。",
+ "basis": "所问之晴；用神子孙不上卦、变爻卯化子孙子水按变爻优先定用神；应验天时晴同一。动化卯化子回头生本爻而化神临月旺。四路类推本气+/元忌+（雪神休囚静）/动化+，晴向。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "晴用神子孙由动爻化出成为主用神、主用神经动化产生；变爻优先得定未启用伏神；取用次序明确无争议。"
+ },
+ "systems_used": [
+  "六爻"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round29/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-004",
+ "prediction_text": "方向：传闻为假（negative）——国王并未攻取剑桥（Cambridge）。具体断语：消息属流言、无实据，不可信；议会一方（问者方）形势反强，国王一方弱而受挫，无取城之实。应期：以日为单位，窗口为数日内，主坐标为随后数日内确讯到时即证其伪，无需久等。置信：高。",
+ "basis": "依据：四角皆变动宫主谣言无根/事易变；月亮落陷宫且居其不喜之星座主消息无力；土星伤10宫头、火星伤7宫头；上升主（议会方）在擢升位强；7宫主（国王方）正入陷（fall）且受克主其方衰弱无功。按Lilly消息真伪章：角变动+月亮陷弱+对方指示星入陷断为假。输入完整。",
+ "confidence": 0.82,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round29/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/calibration.md"
+ ]
+}

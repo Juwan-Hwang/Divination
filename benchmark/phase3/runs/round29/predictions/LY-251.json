@@ -1,0 +1,24 @@
+{
+ "case_id": "LY-251",
+ "prediction_text": "终局：子近病可愈（单一终局）。子孙午火虽旬空，得寅日木生为假空有根；病爻官鬼酉金动而化子孙午火，鬼化福、病退就药。近段病势尚扰，远段出空即愈，两段合为愈之终局。应期双层：窗口为本旬内（日档），主坐标午日——子孙午火填实/实空之日主愈。",
+ "basis": "占子病以子孙午火（四爻）为用神兼福神：申月庚寅日旬空午未，午火月囚但日寅木生之，空而有根（根气第1、2项：得日生扶）。原神木即兄弟寅（日临）。动化方向：三爻官鬼酉金世动化午火子孙，金→火：化神克本爻为回头克病爻，且化出用神本身，鬼化福定性吉向。反转条件：源绝三征未齐（原神寅木临日）。四路：本气0（囚空得日生）／元忌仇+（官化福、忌神父母亥水静）／动化+／世应不计。疾病对表首选：动而化空/用神空，近病取冲空实空之日愈，填实午日与实空同支取午；冲实未日冲空与填实相近而尺度同取填实一路，逢值同支并入。病占原神有根：寅木临日一征、午得生一征，源未绝。对象复述：愈否主语逐条为子（子孙午火）。",
+ "confidence": 0.75,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "表面官鬼动临世主病进，经鬼化福与用神空有根改定终局为愈"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/chinese-liuyao-meihua.md:用神",
+  "references/chinese-liuyao-meihua.md:空墓伏化进退决策序",
+  "references/chinese-liuyao-meihua.md:动化定性裁决表",
+  "references/chinese-liuyao-meihua.md:应期三步",
+  "references/chinese-liuyao-meihua.md:门类应期对表",
+  "references/chinese-liuyao-meihua.md:终局反转信号扫查"
+ ]
+}

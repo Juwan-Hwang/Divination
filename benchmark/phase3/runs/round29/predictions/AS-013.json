@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-013",
+ "prediction_text": "方向：货物尚可寻回至少大部/有寻回之望（positive，程度中），未被远运散尽。具体断语：窃者为木星型之人——居7宫头角宫、唯一游移星居天蝎水象：中等身份、与水上/仓储搬运有牵连的男子嫌疑最大（结合事发为驳船仓库被窃，指向经手水运仓储之人）；货物（水星指示）在双鱼水象、福点在巨蟹水象，三处皆湿象主货仍在近水/潮湿之处——仓库近河岸、水边藏匿处，未离本地远去；窃者已离场（火星7宫主正离开自宫天蝎）。应期：以日为单位，窗口为报失后数日内，主坐标在月亮六合水星（货星）成相之时循水边仓储处寻获。置信：中。",
+ "basis": "依据：木星为角宫唯一游移星居7宫头天蝎取为窃者星；水星货星居双鱼湿象、福点巨蟹湿象主货在水湿近处；水星虽陷但居自界、得月亮（福点主）六合入相并三合福点主有寻回相；火星7宫主离自宫主贼已走。输入完整。寻回程度因货星陷落只断大部/有获，不断全数原样。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round29/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/calibration.md"
+ ]
+}

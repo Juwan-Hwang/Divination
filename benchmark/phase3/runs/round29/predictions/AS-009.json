@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-009",
+ "prediction_text": "方向：狗能找回（positive）。具体断语：寻狗方向——往伦敦城内偏西、向南微偏的方位搜寻（狗星居西向星座、南方象限趋西；狗星与上升同三方主狗仍在伦敦本城未出城）；狗被人收留/藏于隐处（日月居8宫、月亮在日光下主狗被遮藏不见于明处），细查西边人家/暗处。应期：以日为单位，窗口为数日内，主坐标为随后周一（太阳顺行相位与上升主土星成相之日）得狗/得讯。置信：中高。",
+ "basis": "依据：问者由上升及其主土星（近上升）指示；6宫（小兽）及其主为狗，狗星居西方星座南方趋西、同上升三方主在本城，入相三合6宫头主寻回成相；日月居8宫、月在日光下主藏匿；太阳下周一与土星（上升主）成顺相主应期。部分字形OCR残损已注明，据散文可判部分作断。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round29/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/calibration.md"
+ ]
+}

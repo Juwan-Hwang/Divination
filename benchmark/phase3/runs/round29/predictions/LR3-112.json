@@ -1,0 +1,22 @@
+{
+ "case_id": "LR3-112",
+ "prediction_text": "方向：正，病可愈。刘一纯自占病：疾病门虎鬼（官鬼乘白虎）不上三传，病源之凶神无凭；中传申金子孙乘青龙，正是福德生气之神入传主解厄；课元首理顺、润下水局主恩泽和顺。近段病势有螣蛇末传子水主惊疑虚扰、初传辰土乘玄武主暗滞，缠绵数日；远段转归向愈，触发为中传青龙子孙逢值之期。应期（日档，近病）：窗口本旬内，主坐标申日（子孙青龙逢值）愈象显明。",
+ "basis": "疾病门（第六节第5门）：先寻虎鬼——本课官鬼木、白虎皆不在三传；再看生龙——申金子孙乘青龙居中传为生机（第四节青龙、第五节子孙为福德）。两段式（通则i）：近段据初末传玄武螣蛇，远段据中传生气逢值触发。寅卯旬空，三传无空。病人年命未给，贵医年命一路无据、未据此加断（第八节）；病位无虎鬼所乘之支可指，病位无据不妄断。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuren"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/chinese-liuren.md 第三节元首/润下",
+  "references/chinese-liuren.md 第四节青龙/螣蛇/玄武",
+  "references/chinese-liuren.md 第六节第5门疾病",
+  "references/chinese-liuren.md 第七节"
+ ]
+}

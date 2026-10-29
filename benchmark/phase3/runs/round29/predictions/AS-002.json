@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-002",
+ "prediction_text": "方向：会富（positive），且富能持续。具体断语：(1)不靠婚姻仰人而自立致富为主；(2)致富之途在本业经营/买卖求财，兼得显贵/有力者扶助——2宫主兼福点主火星入上升近角宿、木星擢升居近天顶角宫主荣显，财自营运与贵人之地来；(3)婚姻/配偶一方对财势有助益但非主因（月亮10宫主入相合金星）。应期：以年为单位，窗口为问后约6-7年内财势成形，主坐标约6年半（距月合金星尚差6°27′）；(4)持续：2宫头与福点皆固定宫、福点在火星界内，财成后守得住、不易散。置信：高。",
+ "basis": "依据：金星上升主近轩辕十四（Regulus）主贵；火星2宫主兼福点主入上升近室女角宿（Spica）主富；木星擢升（巨蟹）角宫近10宫主权位；月亮10宫主分开火星六合/水星合、入相合金星差6°27′主应期；固定宫主久。按校准古典尊贵与入相成事法。输入未给确日，应期只能按度数折年，已在断语注明单位为年。",
+ "confidence": 0.8,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round29/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/calibration.md"
+ ]
+}

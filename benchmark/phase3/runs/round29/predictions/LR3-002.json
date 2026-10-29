@@ -1,0 +1,22 @@
+{
+ "case_id": "LR3-002",
+ "prediction_text": "方向：偏吉，此行可成。陈东明奉命出师江东：课得元首理顺、炎上火局主上进发达，初传午火乘贵人发用为奉命正应，末传戌土乘太常泄火生辛金、攻方终得收功；但初段火旺克辛金日干，主先有一场鏖战劳师、耗费较大，非无阻而胜。应期（月档，兵斗以局气旺衰转换取期）：窗口春夏之交，火局逢值最旺之午月为主坐标，届时战局见分晓、克捷收功。",
+ "basis": "六壬兵斗门（指南卷三下兵斗章）：干为攻方。课式元首（理顺咸宜）＋炎上（三传寅午戌火局，上进发达，chinese-liuren.md第三节）；三传午火贵人—寅木勾陈—戌土太常，寅木生午火、午火生戌土、戌土生辛金日干，末传生干为收功之救。日干辛金二月休囚故只作偏吉不作大胜。旬空只认申酉（甲戌旬），三传无空；落空组酉字不作空亡用（第一节第5条单口径）。盘面无天盘全图与年命，贵人顺逆无从核、未据此加断（第八节）。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuren"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/chinese-liuren.md 第一节第5条",
+  "references/chinese-liuren.md 第三节",
+  "references/chinese-liuren.md 第六节第11门兵斗",
+  "references/chinese-liuren.md 第七节"
+ ]
+}

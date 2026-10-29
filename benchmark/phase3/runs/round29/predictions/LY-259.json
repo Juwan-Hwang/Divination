@@ -1,0 +1,24 @@
+{
+ "case_id": "LY-259",
+ "prediction_text": "终局：父柩不宜附葬祖莹（单一终局偏负）。父母只在变爻巳火出现，子月火死、申日合绊，父位弱而受绊；世爻妻财子水动而化兄弟未土回头克，占者自身亦受损之象，附葬主不利，宜另择葬地。应期双层：窗口为本月内（日档），主坐标巳日——变用父母巳火逢值之日主此议见阻/定论另葬。",
+ "basis": "用神父母不上卦本卦，变爻有父母巳火（二爻官寅动？按题面初爻财子动，变爻父母巳火在二爻位），按黄金策次序变爻有用神先取变爻（备用取用），不取伏神。子月丙申日旬空辰巳（巳本身逢空），巳火月死、日申合绊且金耗，本气-。动化方向：初爻妻财子水世动化未土，水→土：被克，为回头克世。反转条件：伏神引拨不适用（已取变爻），源绝未齐。四路：本气-／元忌仇-（兄弟丑土应克？土不克火，忌为水：财子动本为...按父火忌水，世财子水旺动克父）／动化-（世回头克）／世应计（应兄弟丑静）。应期：逢值巳取，填实巳同支并入，冲实亥冲巳与另葬终局取点不合舍。对象对齐：所问对象=父柩葬地之事，用神=变爻父母巳火（父），应验同一，世受克为占者牵连另列。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": true,
+  "reason": "父母仅见变爻且逢空合绊，与世动等象取舍存争；备用取用为变爻父母"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/chinese-liuyao-meihua.md:用神",
+  "references/chinese-liuyao-meihua.md:空墓伏化进退决策序",
+  "references/chinese-liuyao-meihua.md:动化定性裁决表",
+  "references/chinese-liuyao-meihua.md:应期三步",
+  "references/chinese-liuyao-meihua.md:门类应期对表",
+  "references/chinese-liuyao-meihua.md:终局反转信号扫查"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-014",
+ "prediction_text": "方向：窃者不是问者所疑的两名女仆，而是水星型年轻男子；钱有寻回之望、至少部分可回（positive on recovery，程度审慎）。具体断语：真正窃者为一名年轻男子——像仆役/学徒/跑腿记账一类以手口谋生、近在主人身边的男性（水星居角宫无本质尊贵、合土星刑火星）；月亮居阳性星座、诸星皆阳性主窃者为男非女；所疑火星、土星所示女子因各居自界自面有尊贵，按例不当取为窃者星，应排除。应期：以周为尺度，窗口为问后数周内，主坐标在月亮入相与火星（上升主、问者）成相之时对质/寻获见分晓。置信：中（窃者判定高、寻回程度中）。",
+ "basis": "依据：上升天蝎火星为问者；火星25°02′狮子虽刑水星土星但居自界自面被Lilly排除为窃者星；土星居西角7宫亦居自界自面被排除；水星居角宫无本质尊贵、紧密合土星刑火星被取为窃者星；月亮阳性星座入相火星、诸相关星阳性主男。输入完整。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round29/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/calibration.md"
+ ]
+}

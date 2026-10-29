@@ -1,0 +1,24 @@
+{
+ "case_id": "LY-304",
+ "prediction_text": "终局：妻病可愈（单一终局）。妻财卯木为用神而逢旬空、午月休，但原神子孙亥水发动生之，又化申金回头生，空有根待实，非真空。用神动静空对表取实空愈期。近段病虚，远段出空而愈。应期双层：窗口为本旬出空前（日档），主坐标卯日——妻财卯木填实/实空之日主愈。",
+ "basis": "题面明定妻财卯木为用神（三爻静）：午月癸丑日旬空寅卯，卯木月休、日丑耗而空。根气判读：原神子孙亥水四爻动生卯木，根气第2项成立，判有根之空。动化方向：亥水动化申金，水→金：被生，为回头生原神，源续有力。反转条件：源绝三征未齐（原神动而回头生）。四路：本气-（休空）／元忌仇+（原神动生、忌神兄弟申为化神回头生原）／动化+／世应不计。疾病对表首选：用神空近病取冲空实空之日愈，填实卯与逢值同支取卯；冲实寅冲空为旁路舍。对象复述：愈否主语逐条为妻（妻财卯木）。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "表面用神休空主不愈，经空有根与原神动回头生改定终局为愈"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/chinese-liuyao-meihua.md:用神",
+  "references/chinese-liuyao-meihua.md:空墓伏化进退决策序",
+  "references/chinese-liuyao-meihua.md:动化定性裁决表",
+  "references/chinese-liuyao-meihua.md:应期三步",
+  "references/chinese-liuyao-meihua.md:门类应期对表",
+  "references/chinese-liuyao-meihua.md:终局反转信号扫查"
+ ]
+}

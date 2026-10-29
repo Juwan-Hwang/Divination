@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-012",
+ "prediction_text": "终局正向：金银器皿店可开、能得财，但原神受损故利不厚、须防先垫本。世爻妻财未土临月建旺、发动化戌土化进主营业可成；子孙巳火原神发动逢旬空且化子水回头克，财源一度受截，开张宜避空亡日。应期双层：窗口为未月内，窗口内主坐标为戌日——世财化神戌土逢值之日开张/见利（单位：日；依据：财动化进取化神逢值）。三爻妻财辰土空亡落选保留应验位，辰日只作财空之验。",
+ "basis": "所问拟开之店；用神妻财两现五爻未世动旺、辰土静空，定未为主辰留应验位。动化未化戌化进吉向，巳化子回头克为原神受损；用神旺临月反转不成立只调量级。四路本气+/元忌0/动化+，吉向。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "妻财世爻发动化进主用神动化；辰土旬空落选保留应验位作备用坐标；两现已明确裁定无争议。"
+ },
+ "systems_used": [
+  "六爻"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round29/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

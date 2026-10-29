@@ -1,0 +1,23 @@
+{
+ "case_id": "LR3-107",
+ "prediction_text": "方向：负（其人暗昧可疑，不可深信）。埂子街来客：三传子水—亥水—戌土递退连茹、纯向阴方，主退缩藏头、暗昧不明；子亥两传父母乘天后、太阴，象主阴人牵缠、文书阴私之事，末传戌土妻财乘玄武，主其人言不实、暗藏图财虚耗之心。断此人非正大显达之客，乃阴私退藏、来意不明之辈，吉凶偏凶，防虚诈失财。应期（日档，即时事）：窗口数日，主坐标子日（初传逢值）其行藏言行见真。",
+ "basis": "一课兼断其人（第六节第13门逐事分门精神）合天将类象：天后、太阴主阴私暗昧，玄武主虚诈不实（第四节）；退茹向阴主暗（第三节六纯/连茹条）；日干甲木七月休，传中水生干只主其表面和气、不作吉断压过将象。输入残损：课式首字原书作『鬼』疑残泐、课体名存疑，已据三传天将作断并降置信。辰巳旬空，三传无空。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuren"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/chinese-liuren.md 第三节连茹/纯阴",
+  "references/chinese-liuren.md 第四节天后/太阴/玄武",
+  "references/chinese-liuren.md 第五节类神",
+  "references/chinese-liuren.md 第七节",
+  "references/chinese-liuren.md 第八节"
+ ]
+}

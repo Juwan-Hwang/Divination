@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-210",
+ "prediction_text": "Direction: POSITIVE — he will obtain the office/preferment sought. The Moon in the 10th applying to a trine of Saturn perfects the matter: the place is reached through a Saturnian patron/channel, slowly and with conditions attached rather than by quick favour. Caution on persons: the pretended friend (Sun, lord of the 11th, in the 7th in opposition to the Ascendant with the Dragon's Tail) is no true help and may obstruct or act against him, so attainment comes despite, not through, that friend. Timing: month scale (office matter); window the coming few months, main coordinate the Moon's perfection to Saturn within that window (exact degrees not given, so no single day is claimed).",
+ "basis": "Asc/Venus = querent; 10th = office. Moon in 10th applying trine Saturn; Saturn exalted in Asc and in mutual reception with Venus — application by trine with reception perfects the matter (Lilly preferment judgment). Sun L11 in 7th opp Asc with Cauda = false friend testimony, affects route/persons not final direction. Input residual: no degrees/dates given, timing kept at month scale, confidence reduced.",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology"
+ ],
+ "sources_used": [
+  "kb-snapshot/SKILL.md (horary routing, whole-sign default)",
+  "kb-snapshot/references/western-astro-numerology-runes.md (classical dignities/reception)"
+ ]
+}

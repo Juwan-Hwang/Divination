@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-213",
+ "prediction_text": "Direction: (1) He went EASTWARD — sign of the 12th, sign of Jupiter, quarter of heaven and sign of the Moon unanimously east. (2) Recoverable: YES, he will be retaken / recovered rather than escaping clean for good — the Moon near the Ascendant and in angular application brings him to light and into hands again. Timing: day-to-week scale; window the near days, main coordinate the Moon's applying opposition to the Sun in angles (discovery/seizure in the open). Pursuit should go east.",
+ "basis": "Prisoner = cusp of 12th (Sagittarius) and Jupiter in Leo; four testimonies unanimously east for direction. Moon near Asc, separating from trine of Jupiter and applying to opposition of Sun, both in angles = the fugitive is discovered/brought back; Jupiter in 8th and Jupiter-Mercury aspect qualify risk/circumstance. Input residual: no date/degrees, timing approximate, recovery confidence moderate.",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology"
+ ],
+ "sources_used": [
+  "kb-snapshot/SKILL.md (horary routing, whole-sign default)",
+  "kb-snapshot/references/western-astro-numerology-runes.md (classical dignities/reception)"
+ ]
+}

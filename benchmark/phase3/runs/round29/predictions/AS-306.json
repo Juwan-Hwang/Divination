@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-306",
+ "prediction_text": "Direction: Trump ultimately wins the 2024 election, AND the Democratic ticket changes first: Biden does not remain the candidate through election day — he withdraws and Harris replaces him — yet the replacement does not change the final winner, who is Trump. Timing: candidate change in summer 2024 (after the 2 June prediction), result on 5 Nov 2024.",
+ "basis": "Input residual: no charts/positions supplied (Vedic framing noted from tradition field only); two-part call (change of candidate + final winner) made at the question's own scale. Confidence reduced for missing chart data.",
+ "confidence": 0.57,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "vedic astrology",
+  "western astrology"
+ ],
+ "sources_used": [
+  "kb-snapshot/SKILL.md (astrology routing)",
+  "kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

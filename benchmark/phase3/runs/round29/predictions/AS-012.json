@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-012",
+ "prediction_text": "方向：得不到所求教区/圣职（parsonage）（negative）。具体断语：此职终不归他，纵强求亦无成，另有对手阻梗（金星居7宫冲上升主有人对位相争）；本人星受土星在上升内伤损，问事自始受阻。应期：以月为单位，窗口为本轮谋职期内，主坐标为该职授人/尘埃落定之时即见分晓，断为落空、无后续翻盘相位可指。置信：很高。",
+ "basis": "依据：Lilly自列七项负证：土星在上升受损伤问；9宫主木星（圣职）与上升主、月亮皆无相位；上升主与月亮皆不在9宫；指示星间无传光、集光、无容纳；月亮分开三合后入相冲水星（3宫主）；金星7宫冲上升。无一成事相位，按卜卦无相位无容纳即不成。部分字形OCR残损已注明，七项负证散文明确。",
+ "confidence": 0.88,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round29/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/calibration.md"
+ ]
+}

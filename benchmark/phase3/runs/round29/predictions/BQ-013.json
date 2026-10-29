@@ -1,0 +1,20 @@
+{
+ "case_id": "BQ-013",
+ "prediction_text": "Direction: NEGATIVE for clearing — after long rain it does NOT clear promptly; rain continues. In 随之咸 (五月甲申日) the 申 and 子 lines both move and combine with the day's 申 into a 父母局: 父母 (rain) forms a局 and is strengthened, and by the 天时 rule 父兴主雨、财动主晴 — here it is the rain significator that perfects, not 妻财. Timing scale: days. Window: the coming few days remain wet; main coordinate: still raining on the third day, clearing only after the 父局 is broken (no exact clear day claimed from an incomplete plate).",
+ "basis": "天时类别读法 L1-62: 当究父财勿凭水火 — 父动/父局主雨, 财动主晴. Excerpt: 申子两爻俱动与日辰申合父局. Input residual: chart_complete=false, no full plate; exact clearing day not derivable, window + main coordinate given at day scale only.",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "六爻"
+ ],
+ "sources_used": [
+  "kb-snapshot/references/chinese-liuyao-meihua.md (用神/旺衰/分类断法)",
+  "kb-snapshot/SKILL.md (作断通则 a,h,k,l)",
+  "kb-snapshot/references/chinese-liuyao-meihua.md (L1-62 天时父财条)"
+ ]
+}

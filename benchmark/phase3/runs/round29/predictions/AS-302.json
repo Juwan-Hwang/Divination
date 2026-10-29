@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-302",
+ "prediction_text": "Direction: POSITIVE on vaccines within the six months from 2020-10-19 — a vaccine breakthrough is announced and rollout begins inside that window (first approvals/emergency use before the window ends), giving real hope and a turning point, while the epidemic itself is not finished in six months: cases/waves continue alongside the rollout. Timing: six-month window Oct 2020-Apr 2021, main coordinate the first quarter of the window for the breakthrough announcement.",
+ "basis": "Input residual: no chart/positions supplied for this modern public prediction; judgment is direction + timing at the question's own six-month scale only, based on the stated setting (several vaccines already in phase III in Oct 2020, so perfection within six months is the supported direction). Confidence reduced for missing chart data.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western astrology"
+ ],
+ "sources_used": [
+  "kb-snapshot/SKILL.md (astrology routing)",
+  "kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

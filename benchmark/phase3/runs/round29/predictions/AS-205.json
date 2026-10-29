@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-205",
+ "prediction_text": "方向：病人将死、不治（negative）。具体断语：死证叠加无救——上升受8宫主之一体星侵扰，月亮近南交点（Cauda）且受克居上升，太阳（时间之光）于固定星座精确冲土星（6宫主），6宫固定受克、6宫主居固定土象忧郁星座主病已成固定沉痼之忧郁/土性痼疾，深入难拔，无回生相位。应期：以周-月为尺度（固定宫主拖延非猝死），窗口为问后数周至一两月内，主坐标定到月量级凶终（题面无精确成相度数，不钉日）。置信：高。",
+ "basis": "依据：1645年7月16日盘：上升被身为8宫主之一的行星体侵扰为首要死证；6宫星座固定受克、6宫主居固定土象忧郁座；太阳固定座精确冲土星6宫主；月亮近龙尾受克居上升。Lilly疾病章多重死证叠加断不治。上升星座字形OCR损坏已注明，据余证作断。",
+ "confidence": 0.85,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round29/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-208",
+ "prediction_text": "方向：鲁珀特（Prince Rupert）不能得荣、反被埃塞克斯（Essex）压制占上风（对鲁珀特为negative）。具体断语：鲁珀特星太阳游移无根且入弱（detriment）居固定座，又被对方金星所处置（disposed by Venus）主其命运反操于对手之手；埃塞克斯星金星与土星互容有根、且金土双双以相位临10宫头主荣名归埃塞克斯一方；鲁珀特在此后战事中无持久功名可立，终趋败落/失势。应期：以月-年为尺度，窗口为此后战局数月至年内逐步见分晓，主坐标定到月量级（一月前Edgehill已先见其受挫之端）。置信：高。",
+ "basis": "依据：鲁珀特以10宫及其主太阳为星：太阳游移、入弱固定座弱；埃塞克斯以对宫主金星为星，金星与土星互容且处置鲁珀特之太阳；月亮以左相临10宫头、金星以右相临10宫头皆不利鲁珀特荣名。输入完整。",
+ "confidence": 0.8,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round29/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/calibration.md"
+ ]
+}

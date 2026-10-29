@@ -1,0 +1,19 @@
+{
+ "case_id": "BQ-012",
+ "prediction_text": "Direction: NEGATIVE to the threat — the 倭寇 will NOT come (no raid on this asking). 噬嗑 with 官鬼 (the enemy/threat line) 衰而静: weak and unmoving, it has no force to arrive. Expect quiet — a false alarm / no incursion in the period asked about. Timing scale: days-to-months (the current warning period); main coordinate: no arrival through the current season of asking.",
+ "basis": "Excerpt only: 噬嗑, 鬼爻衰静 (丙子日). Enemy read through 官鬼: 衰+静 = no arrival. Input residual: chart_complete=false, no full plate/month given, so the no-raid window is kept to the asking period, confidence 0.70.",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "六爻"
+ ],
+ "sources_used": [
+  "kb-snapshot/references/chinese-liuyao-meihua.md (用神/旺衰/分类断法)",
+  "kb-snapshot/SKILL.md (作断通则 a,h,k,l)"
+ ]
+}

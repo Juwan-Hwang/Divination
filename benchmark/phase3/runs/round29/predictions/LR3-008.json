@@ -1,0 +1,23 @@
+{
+ "case_id": "LR3-008",
+ "prediction_text": "方向：负，功名有始无终。孙兴功自占功名：课名铸印虽主迁擢，却同课见绝嗣（四下克上、后续断绝）与八专（同体不分），铸印之迁象被绝嗣压过；末传卯木官鬼乘太阴，官位暗昧不明，初传巳火印绶乘白虎又主催迫带伤。纵有一时迁转消息，终难久任、后续断绝，并防官非口舌（中传戌土乘朱雀）。应期（月档）：窗口数月，主坐标卯月官鬼逢值，迁否与变局于此见分晓。",
+ "basis": "仕宦门（第六节第9门）合课格读（第三节）：铸印为迁格、绝嗣为尤凶之变格、八专同体不分，三格同课以凶格与官星乘太阴（第四节：暗昧不明）定终局，格吉不迳定吉（第三节总则）。己土十月囚，官鬼卯木相而克干。子丑旬空、巳不入空（落空组巳午不作空亡，第一节第5条）。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuren"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/chinese-liuren.md 第一节第5条",
+  "references/chinese-liuren.md 第三节铸印/绝嗣/八专",
+  "references/chinese-liuren.md 第四节太阴/白虎/朱雀",
+  "references/chinese-liuren.md 第六节第9门仕宦功名",
+  "references/chinese-liuren.md 第七节"
+ ]
+}

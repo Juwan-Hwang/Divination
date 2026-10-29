@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-212",
+ "prediction_text": "Direction: NEGATIVE to the question as asked — the patient is NOT bewitched. The sickness is a natural disease, not witchcraft: the witchcraft significators do not afflict the patient. The Moon's opposition to Saturn in the 6th/12th raised suspicion (and the illness is heavy, physic at first ineffective), but after the Saturn opposition the Moon applies to the lord of the Ascendant above the earth and ascending toward the meridian — the patient's condition turns by natural course/medicine rather than by unwitching. Timing: month scale for the illness course; no bewitchment verdict at any point.",
+ "basis": "Lilly's test: neither Ascendant nor its lord nor Moon afflicted by lord of 12th = no witchcraft, despite Moon opp Saturn in 6/12 giving suspicion. Moon then applying to L Asc (above earth, ascending) supports natural course. Object check: verdict is about the patient, not the askers. Input residual: day illegible, no degrees; confidence kept below high.",
+ "confidence": 0.78,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology"
+ ],
+ "sources_used": [
+  "kb-snapshot/SKILL.md (horary routing, whole-sign default)",
+  "kb-snapshot/references/western-astro-numerology-runes.md (classical dignities/reception)"
+ ]
+}

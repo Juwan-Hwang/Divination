@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-017",
+ "prediction_text": "终局负向：升迁不成。世爻官鬼巳火虽临乙巳日有气，但子孙亥水酉月相、逢巳日冲而暗动克巳火用神，忌神暗动克身官；兄弟酉金临月旺生亥助忌；父母未土动化戌土化进只主文书动静、泄火官之气不救官。应期双层：窗口为酉月内，窗口内主坐标为亥日——子孙亥水逢值克官之落空应点（单位：日；依据：暗动忌神取逢值应事）。",
+ "basis": "所问升迁；用神官鬼巳火二爻世唯一；应验本人同一。动化未化戌化进（土泄火官）。日冲静爻：亥水酉月相有气判暗动计克。原神木妻财卯木静、酉月死无力生官。四路本气+/元忌-/动化0，受阻坐实不成。",
+ "confidence": 0.63,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "用神官鬼安静未动化；用神唯一现卦得定无备用；取用无争议。"
+ },
+ "systems_used": [
+  "六爻"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round29/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

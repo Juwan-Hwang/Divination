@@ -1,0 +1,24 @@
+{
+ "case_id": "LY-301",
+ "prediction_text": "终局：妻在家不安（单一终局偏负）。妻财戌土临上爻动而伏吟，寅月土死、卯日木克，财动受克主妻有病忧/不安；原神子孙午火虽静生财，只减其重，不作平安断。应期双层：窗口为本月内（日档），主坐标戌日——妻财戌土逢值之日主妻之消息/不安见分晓。",
+ "basis": "题面明定妻财戌土为用神，两现：上爻戌土动为主用，世爻未土静为应验位旁参（未逢子丑旬空，只留候选不另立原神）。寅月乙卯日旬空子丑，戌土月死、日卯克，本气-。动化方向：戌土动化戌土（变卦否上爻同支），比和伏吟，主滞而不安；五爻官鬼申金动化申金亦伏吟旁证。反转条件：源绝未齐（原神午火月相静生财），只降格不翻转为危绝。四路：本气-／元忌仇-（兄弟卯木临日月旺克财、原神午火静）／动化0（伏吟比和）／世应不计（代妻占安否看用神）。应期：逢值戌取，冲实辰冲戌为旁路舍，填实未空指世爻非用神舍。对象对齐：所问=在家之妻，用神=妻财戌土，应验对象同一为妻。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "财受日月克主不安与原神午火静生财并存，轻重存争"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/chinese-liuyao-meihua.md:用神",
+  "references/chinese-liuyao-meihua.md:空墓伏化进退决策序",
+  "references/chinese-liuyao-meihua.md:动化定性裁决表",
+  "references/chinese-liuyao-meihua.md:应期三步",
+  "references/chinese-liuyao-meihua.md:门类应期对表",
+  "references/chinese-liuyao-meihua.md:终局反转信号扫查"
+ ]
+}

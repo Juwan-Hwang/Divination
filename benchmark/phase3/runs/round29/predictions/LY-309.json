@@ -1,0 +1,24 @@
+{
+ "case_id": "LY-309",
+ "prediction_text": "终局：将来有官可得，但迟得、位不甚高（单一终局偏成而降级）。官鬼巳火初爻动，虽亥月火死且巳逢月破，却动化妻财寅木回头生，破而有生、待实破出月而起；父母未土世爻动化戌土主文书任命有动而逢空，须待实空。降级依据：官死而月破、父世空，等级只许小任/低阶。应期双层：窗口为出亥月后至次年春（月档），主坐标巳月——官鬼巳火逢值、实破之月主得官见信。",
+ "basis": "用神以官鬼巳火为主（父母未土持世为辅）：亥月己丑日旬空午未，巳火月死、亥冲巳为月破、日丑耗。动化方向：巳火动化寅木，火→木：被生，为回头生，破象过表：破而得化神回头生、寅亥合待出，判待实之破不直断无官；上爻父母未土世动化戌土，土比和而未空待实。反转条件：化退/源绝两路未齐（官得回头生）。四路：本气-／元忌仇+（原神寅木化出回头生、忌神子孙亥水静）／动化+／世应不计（世父已作辅线）。应期尺度按仕途取月档（通则k）：逢值巳月取，填实未指父世非官主线舍，冲实亥冲巳为月破之源舍。门类对表无将来有官专类，明写对表无此门类（发案父母单主条不套用，冲突登记见增补编功名双主条，只作降置信旁注）。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "表面官死月破主无官，经动化回头生改定为迟得官；月破与回头生并存故存争"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/chinese-liuyao-meihua.md:用神",
+  "references/chinese-liuyao-meihua.md:空墓伏化进退决策序",
+  "references/chinese-liuyao-meihua.md:动化定性裁决表",
+  "references/chinese-liuyao-meihua.md:应期三步",
+  "references/chinese-liuyao-meihua.md:门类应期对表",
+  "references/chinese-liuyao-meihua.md:终局反转信号扫查"
+ ]
+}

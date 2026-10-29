@@ -1,0 +1,24 @@
+{
+ "case_id": "LY-252",
+ "prediction_text": "终局：子病可愈（单一终局）。子孙不上卦，日辰壬子之子水即子孙临日为用，申月得金生而相，临日克退官鬼午火之病。近段病在，远段福临日压病，转安。应期双层：窗口为数日内（日档），主坐标子日——用神子水逢值之日主见愈（占日即子日，主当值见转安）。",
+ "basis": "用神子孙不上卦且静卦无变爻，日辰子水于乾宫（金宫）其亲为子孙，按用神章日月分流以日辰子水为用神（备用取用）。申月壬子日旬空寅卯，子水月相临日。病爻官鬼午火两现（世与四爻），火月囚、日子水克之。动化方向：静卦无动化。反转条件：三信号俱无，初判维持。四路：本气+（子临日相）／元忌仇+（原神申金兄弟月旺静生子、病鬼囚受日克）／动化0／世应不计。应期：逢值子取；填实无空不取；冲实午冲病为解法旁路，与逢值同日尺度取用神逢值为主坐标。对象复述：愈否主语逐条为子（日辰子水子孙）。输入注：逐爻表据题面直载，六神未录，不以六神定病位，病位无据不妄断。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "子孙不上卦、无变爻，按次序以日辰子水为备用用神"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/chinese-liuyao-meihua.md:用神",
+  "references/chinese-liuyao-meihua.md:空墓伏化进退决策序",
+  "references/chinese-liuyao-meihua.md:动化定性裁决表",
+  "references/chinese-liuyao-meihua.md:应期三步",
+  "references/chinese-liuyao-meihua.md:门类应期对表",
+  "references/chinese-liuyao-meihua.md:终局反转信号扫查"
+ ]
+}

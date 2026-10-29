@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-027",
+ "prediction_text": "终局正向：弟病虽临危可脱险转安。题面直载用神兄弟亥水，辰月休囚但丙申日申金生水；父母申金为原神临申日建旺动，化出兄弟亥水——原神动而化出用神本身，救力最切；官鬼丑戌为病皆静不旺克。应期双层：窗口为辰月内本旬，窗口内主坐标为亥日——化神/用神亥水逢值之日脱危见安（单位：日；依据：原神化用取化神逢值、近病取日尺度）。主语复述均对弟。",
+ "basis": "所问病弟；用神兄弟亥水三爻世题面直载；应验弟同一。动化申化亥化进且化出用神亲；原神有根三征得日临值、动而化生两项判有根，源绝不成立。忌土官静。四路本气0/元忌+/动化+，救向。输入注逐爻表曾有OCR行序风险但补录栏已直载核定、盘面可用。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "原神父母动化出兄弟亥水用神亲、主用神因动化得源定性改变；用神直载现卦得定无备用；取用无争议。"
+ },
+ "systems_used": [
+  "六爻"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round29/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

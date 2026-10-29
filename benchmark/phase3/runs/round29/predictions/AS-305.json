@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-305",
+ "prediction_text": "Direction: Donald Trump wins the 2024 US presidential election (Kamala Harris loses). It is a contested, close popular contest decided by the swing states / Electoral College rather than a landslide for either side. Timing: decided on and immediately after election day, 5 Nov 2024.",
+ "basis": "Input residual: no candidate charts, election-day chart or positions supplied; judgment is a single direction at the election's own scale only. The source itself states the chart was near-even and extremely hard to judge, so confidence is kept low. Confidence reduced for missing chart data; no chart-derived specifics are claimed.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western astrology"
+ ],
+ "sources_used": [
+  "kb-snapshot/SKILL.md (astrology routing)",
+  "kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

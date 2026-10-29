@@ -1,0 +1,24 @@
+{
+ "case_id": "LR3-004",
+ "prediction_text": "方向：负，前程暗滞、功名难遂显达。仇庸足自占功名：官星卯木虽成亥卯未曲直木局入传，却乘玄武居中传，主官声暗昧、阴私牵缠；又逢八专干支同体、彼我不分，占正事最忌。末传未土乘青龙只主同辈衣食之平顺，不足以挽功名。应期（年档，远期功名终局）：窗口以年计，主坐标卯年官星逢值，届时功名见分晓而仍主暗滞难显。",
+ "basis": "六壬仕宦门（第六节第9门）：官鬼为官职本体。曲直局仅一象、仍须合传将断（三合章总戒，第三节）；卯木官鬼乘玄武（第四节：阴私虚耗），八专总象帷簿不修、同体不分（第二节第7项、第三节）。初传亥水妻财乘螣蛇主惊疑。子丑旬空，三传无空。盘面不全：年命、禄马未给，未据年命路加断（第八节）。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuren"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/chinese-liuren.md 第二节八专",
+  "references/chinese-liuren.md 第三节",
+  "references/chinese-liuren.md 第四节",
+  "references/chinese-liuren.md 第六节第9门仕宦功名",
+  "references/chinese-liuren.md 第七节",
+  "references/chinese-liuren.md 第八节"
+ ]
+}

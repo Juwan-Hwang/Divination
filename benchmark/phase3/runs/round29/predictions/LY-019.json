@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-019",
+ "prediction_text": "终局正向：小舟能过关，先遇盘查虚惊、终得放行。世爻官鬼卯木动化申金回头克主近段盘查加身；但化出申金按变宫为子孙、子孙克官主制去盘查之官，且子孙申金本身动化亥水化进，解难之神动而有力，应爻妻财子水临日旺生世。远段以子孙制官收束为得过。应期双层：窗口为辰月内本旬，窗口内主坐标为申日——子孙/化神申金逢值制官之日过关（单位：日；依据：解法日优先取制去忌官之支）。",
+ "basis": "所问乘舟者；用神世官卯木自占看世兼官为关卡；应验本人同一。动化卯化申回头克、申化亥化进；回头克之申即子孙解神，按舟行以子孙制官得脱收束。四路本气+/元忌+（子孙动制官）/世应应财生世同向，先阻后通终局单判过关。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "世用官鬼本身发动化出申金、主用神动化改变定性（受克转子孙制官）；现卦得定无备用；取用无争议。"
+ },
+ "systems_used": [
+  "六爻"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round29/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

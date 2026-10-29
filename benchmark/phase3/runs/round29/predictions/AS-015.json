@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-015",
+ "prediction_text": "方向：丈夫在海上平安存活（positive），人无恙。具体断语：丈夫指示星太阳居其hayz且全然不受克伤，主其在外身体平安、无沉船身亡之象，终将归返；其确切所在海岸因题面位置残损不能钉死，不臆报方位。附带断语（同盘）：问者本人反处危局——6宫主土星逆行主其久病反复、由一病转入另一病，本人吉凶远重于丈夫，应期指向随后10月（以月为单位，窗口为秋季，主坐标为10月8日前后为其本人危期）。丈夫归期：以月为单位，窗口为随后数月内归返，主坐标只能定到月量级（题面度数残损，不钉到日）。置信：丈夫存活高、归期与方位低。",
+ "basis": "依据：丈夫星太阳in hayz且free from all affliction为存活强证；问者6宫主土星逆行主病反复；火星土星趋向凶相、火星近问时月亮位约2°、土星摩羯约2°等为本人危期推算材料。输入注记明言位置部分OCR残损（basis注明残损），故方位与精确归日降置信不臆补。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round29/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round29/kb-snapshot/references/calibration.md"
+ ]
+}

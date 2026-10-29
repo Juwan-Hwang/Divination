@@ -1,0 +1,19 @@
+{
+ "case_id": "BQ-001",
+ "prediction_text": "Direction: NEGATIVE — the father's revival is a brief rally, not recovery; his lifespan is nearly exhausted and he will die soon. 兑之履: 兑 for mouth/speech and opening,变乾为天, with the stated 本宫火 on a 庚辛 day — the rally (yesterday breath returned) is a final flare. Timing scale: days. Window: within the current ten-day period; main coordinate about the fifth day after the asking (13th of the 3rd month) — i.e. death within days, not months or years. Confidence low: chart is incomplete (no six-line plate).",
+ "basis": "Input residual (major): chart_complete=false — only 本卦兑、变卦履 and phrases quoted in the judgment are given, no full纳甲 plate, no moving line identified; timing coordinate is therefore coarse and confidence reduced to 0.45. Object check: the verdict falls on the father (the subject), not the asker. Non-纳甲筮占 form, so trigger fields are all false.",
+ "confidence": 0.45,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "筮占（周易文本占）"
+ ],
+ "sources_used": [
+  "kb-snapshot/references/chinese-yijing.md",
+  "kb-snapshot/SKILL.md (作断通则 a,c,f)"
+ ]
+}
