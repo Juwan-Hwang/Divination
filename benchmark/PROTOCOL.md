@@ -172,3 +172,7 @@
 - 阶段小结：每当 dev 配对差（低污染口径）出现超出噪声带（参照 Phase 2 实测：配对差轮间摆动约 ±0.1、低污染配对差同理）的可信收窄，或每满 6 轮，写一份阶段小结落盘 benchmark/phase3/（不回传）。
 - 方法工作区：benchmark/phase3/method/（起点＝Phase 2 R5 冻结版副本）；v1、v2 包与全部既有分数零改动。
 - git：每轮提交＋标签 phase3-roundN（后续循环顺延），收官标签 final-skill-v3；作者/共同作者行同前；证据只增不删。
+
+## 勘误（2026-10-29，用户版本口径纠正，追加登记、不改原文）
+
+- 本协议前文所称「final-skill-v3（version 3.0.0）」「收官标签 final-skill-v3」系旧口径，按用户指令更正：本链（Phase 3）产物即**第二版**，达标收官打包 final-skill-v2（version 2.0.0）、收官标签 final-skill-v2。总谱系仅两版：第一版（final-skill，侧重与大师一致）、第二版（侧重与现实一致）。Phase 2 产出的旧第二版包未通过预注册验收目标，已按用户指令删除作废（提交 a1cf25e），其检验结论以 benchmark/phase2/FINAL-REPORT-v2.md 为准。
