@@ -637,3 +637,11 @@ H-P3-11（日月前置分流）**中性保留**：六爻总分 3.314、方向 1.
 ## Phase 3 R13 结果（2026-10-29）
 
 dev4 零改动复现轮完成（方法＝R12 版，逐字未动）：全集我方 3.578（59.6%）、配对差 −1.405；低污染（n=164）配对差 −1.796；六爻总分 3.147（方向 1.342、断语 1.135、应期 0.670）。R12→R13 同法位移：全集 0.126、低污染配对 0.144、六爻总分 0.167、六爻应期 0.048，全面不大于 dev3 实测噪声带，dev4 噪声带校准完成。**平台判据双口径登记**：字面判据未成立（总分 Δ2.1pp >1pp、八字 Δ3.8pp >3pp），但字面阈值低于管线实测噪声底（零改动复现全集摆动 2.1–3.3pp），构造上不可达；全部位移均在同法噪声带内、方法已冻结，主持角裁定平台按实质口径成立，下一步开封 holdout4 验收。两读并存、详见 benchmark/phase3/runs/round13/REPORT.md。
+
+## Phase 3 holdout4 验收预注册（2026-10-29，盲测前登记）
+
+- 性质：全新封存留出集一次性验收。方法＝现行 R12 版（R13 零改动复现后冻结状态，benchmark/phase3/method/ 活目录），验收全程方法零改动。
+- 集合：holdout4 共 25 例（LY-321、LY-326、LY-327、LY-334、LY-337、LY-341、LY-343、LY-345、LY-401、LY-409、LY-410、LY-414、LY-419、LY-420、LY-422、LY-431、LY-435、LY-438、LY-444、LY-447、LY-448、LY-450、LY-453、LY-456、LY-459），全六爻；据封存日志分层为 liuyao × low 单层，污染构成验收时据 roster 复核后双口径并报（若全低污染，两口径同值、如实注明）。金标 SHA-256 `4c5c989cb37c774ce78e3ecb8c2c96b6d4a333fdbd99a35c4d0105006219c147`，封存日志 benchmark/phase3/holdout4-seal-log.md（当前状态：未开封）。
+- 流程（同 holdout3）：盲测角只读 benchmark/phase3/holdout4-inputs/ 与 method/，预测落 benchmark/phase3/holdout4-acceptance/predictions/；预测齐备后由评审侧在 holdout4-seal-log.md 追加开封一笔，才可读 benchmark/phase3/holdout4/test_gold.jsonl 建混编匿名包（anon 前缀 H4-，我方与大师断语混编）；双评审各评全量（50 条）、分歧仲裁（判据同前：claims+timing 合计差 ≥2 或 pass 不一致）；主持角解盲算配对。大师断语文本构成口径同 holdout3（statement_excerpt＋key_assertions，或 verdict）。
+- 达标三判据（同 holdout3，须同时成立）：(i) 全集我方轴二均分 > 大师；(ii) 低污染配对胜多于负；(iii) 低污染配对差为正。
+- 后果分支：达标 → 打包 final-skill-v2（version 2.0.0）＋ benchmark/phase3/FINAL-REPORT-v2.md 总报告收官；未达标 → holdout4 标已用、转诊断（旺衰裁决层假设、须回扣原典）、数据角再扩数另设 holdout5，继续迭代，不停链。
