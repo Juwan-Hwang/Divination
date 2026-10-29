@@ -43,7 +43,7 @@ def main():
     if disputes:
         json.dump(disputes, open(os.path.join(jd, 'disputes.json'), 'w'))
         print('DISPUTES needing arbitration:', len(disputes)); return
-    master = json.load(open('benchmark/phase3/data/master-baseline-dev3.json'))
+    master = json.load(open(sys.argv[2] if len(sys.argv) > 2 else 'benchmark/phase3/data/master-baseline-dev3.json'))
     def agg(ids):
         n = len(ids)
         if not n: return None

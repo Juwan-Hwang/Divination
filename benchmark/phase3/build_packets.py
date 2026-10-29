@@ -8,7 +8,7 @@ import json, sys, glob, os, hashlib
 
 def load_roster():
     out = {}
-    for p in ('benchmark/phase2/data/roster.jsonl', 'benchmark/phase3/data/roster3.jsonl'):
+    for p in ('benchmark/phase2/data/roster.jsonl', 'benchmark/phase3/data/roster3.jsonl', 'benchmark/phase3/roster4-additions.jsonl'):
         if os.path.exists(p):
             for l in open(p, encoding='utf-8'):
                 r = json.loads(l)
