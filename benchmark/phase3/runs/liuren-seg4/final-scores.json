@@ -1,0 +1,179 @@
+{
+ "ours_axis2": {
+  "LR2-013": 3.5,
+  "LR2-014": 3.5,
+  "LR2-015": 6.0,
+  "LR2-016": 4.75,
+  "LR2-017": 6.0,
+  "LR2-018": 5.0,
+  "LR2-019": 4.25,
+  "LR2-020": 4.5,
+  "LR2-021": 4.0,
+  "LR2-022": 6.0,
+  "LR2-023": 3.5,
+  "LR2-024": 0.0,
+  "OC-026": 3.25,
+  "OC-027": 2.5,
+  "OC-028": 4.5,
+  "OC-029": 4.5,
+  "OC-030": 3.0
+ },
+ "ours_sub": {
+  "LR2-013": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.0,
+   "total": 3.5
+  },
+  "LR2-014": {
+   "direction": 2.0,
+   "claims": 1.0,
+   "timing": 0.5,
+   "total": 3.5
+  },
+  "LR2-015": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 2.0,
+   "total": 6.0
+  },
+  "LR2-016": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.25,
+   "total": 4.75
+  },
+  "LR2-017": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 2.0,
+   "total": 6.0
+  },
+  "LR2-018": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 1.0,
+   "total": 5.0
+  },
+  "LR2-019": {
+   "direction": 2.0,
+   "claims": 1.25,
+   "timing": 1.0,
+   "total": 4.25
+  },
+  "LR2-020": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "LR2-021": {
+   "direction": 1.5,
+   "claims": 1.0,
+   "timing": 1.5,
+   "total": 4.0
+  },
+  "LR2-022": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 2.0,
+   "total": 6.0
+  },
+  "LR2-023": {
+   "direction": 1.5,
+   "claims": 1.0,
+   "timing": 1.0,
+   "total": 3.5
+  },
+  "LR2-024": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "OC-026": {
+   "direction": 1.75,
+   "claims": 1.0,
+   "timing": 0.5,
+   "total": 3.25
+  },
+  "OC-027": {
+   "direction": 1.0,
+   "claims": 0.75,
+   "timing": 0.75,
+   "total": 2.5
+  },
+  "OC-028": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "OC-029": {
+   "direction": 1.5,
+   "claims": 1.5,
+   "timing": 1.5,
+   "total": 4.5
+  },
+  "OC-030": {
+   "direction": 1.0,
+   "claims": 1.0,
+   "timing": 1.0,
+   "total": 3.0
+  }
+ },
+ "stats": {
+  "ALL": {
+   "n": 17,
+   "ours_mean": 4.044,
+   "ours_pct": 67.4,
+   "ours_pass": 10,
+   "master_mean": 5.324,
+   "pair_diff": -1.279,
+   "W/T/L": "2/4/11",
+   "timing_ours": 1.059,
+   "dir_ours": 1.662,
+   "claims_ours": 1.324
+  },
+  "by_tradition": {
+   "liuren": {
+    "n": 12,
+    "ours_mean": 4.25,
+    "ours_pct": 70.8,
+    "ours_pass": 8,
+    "master_mean": 5.5,
+    "pair_diff": -1.25,
+    "W/T/L": "1/4/7",
+    "timing_ours": 1.104,
+    "dir_ours": 1.75,
+    "claims_ours": 1.396
+   },
+   "六壬": {
+    "n": 5,
+    "ours_mean": 3.55,
+    "ours_pct": 59.2,
+    "ours_pass": 2,
+    "master_mean": 4.9,
+    "pair_diff": -1.35,
+    "W/T/L": "1/0/4",
+    "timing_ours": 0.95,
+    "dir_ours": 1.45,
+    "claims_ours": 1.15
+   }
+  },
+  "by_contamination": {
+   "low": {
+    "n": 17,
+    "ours_mean": 4.044,
+    "ours_pct": 67.4,
+    "ours_pass": 10,
+    "master_mean": 5.324,
+    "pair_diff": -1.279,
+    "W/T/L": "2/4/11",
+    "timing_ours": 1.059,
+    "dir_ours": 1.662,
+    "claims_ours": 1.324
+   }
+  }
+ }
+}
