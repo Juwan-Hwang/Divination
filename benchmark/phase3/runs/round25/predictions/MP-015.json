@@ -1,0 +1,13 @@
+{
+ "case_id": "MP-015",
+ "prediction_text": "2024年特朗普較拜登有利、最終特朗普勝出重返白宮：拜登的連任之路走不完——其年事與支持度低迷將迫使民主黨陣營中途生變（拜登退選換人成為實質風險選項），即便換人亦難挽回；特朗普將贏得2024年11月大選。龍年運勢特朗普旺、拜登衰。",
+ "direction_claim": "positive_for_trump_negative_for_biden（特朗普勝、拜登連任不成）",
+ "timing_claim": "應期單位為月：民主黨陣營生變主坐標2024年年中（夏季）；大選定局2024年11月投票",
+ "confidence": 0.6,
+ "basis": "事實優先：占題時市場預期兩人再對決，拜登1942年生高齡競選連任、特朗普為共和黨領先參選人——高齡與低迷支持構成連任路徑的實質壓制，按通則b寫明壓制依據後足級斷拜登不成、特朗普勝，不作含糊各半之斷。兩段式：年中陣營生變為近段、11月特朗普勝為遠段，遠段觸發即近段民主黨換人亦無法重整基本盤之局。輸入僅有生年與生肖，無命盤時辰，置信中等等級並註明此殘損。具體項：人物=拜登/特朗普、事件=退選風險與勝選、時點=2024年夏季與11月。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/MP-015.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/calibration.md"
+ ]
+}

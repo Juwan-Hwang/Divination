@@ -1,0 +1,14 @@
+{
+ "case_id": "MH-006",
+ "prediction_text": "负向：老人五日内有大凶之厄，程度重，主跌伤/饮食鲠阻一类的骤然之祸，老人本人应验。天风姤四爻动，上乾为用、下巽为体，乾金克巽木用克体；乾即老人本体之象，老人往巽方、面带忧色，外应已先露凶色；所引姤九四爻辞『包无鱼，起凶』辞义自带凶断，与体用克体同向。应期双层：窗口为五日内，主坐标第五日。量级守本占尺度，只断老人本人近厄，不外延其家。",
+ "direction_claim": "negative",
+ "timing_claim": "窗口：占后五日内；主坐标：第五日；单位：日，依据巽五之数与体用近应",
+ "confidence": 0.55,
+ "basis": "梅花后天端法（输入已给）：老人乾上、巽方巽下成天风姤，四动变巽为风，引九四爻辞。体用：动在上卦，上乾为用、下巽为体，乾金克巽木，用克体凶向。爻辞取象核对：姤九四『包无鱼，起凶』原文自带『凶』，辞义主凶，与断语方向一致，无反用。旺衰：卯时春木，体巽木得时令本有根气，故不断顷刻立至，量级定为五日内骤厄待发。取象与应期数字：巽数五，动爻四与总十之数参取五日为应（具体项：应期数字五日、人物老人本人）。应验对象定位：乾象即老人本人，承受与应验同为老人，不回收到邵雍或旁人。事实优先：老人自言无事而色忧，事实以忧色为准取凶象，已对回占题。出处标注：《梅花易数》托名文本，照实标注。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/MH-006.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/chinese-yijing.md"
+ ]
+}

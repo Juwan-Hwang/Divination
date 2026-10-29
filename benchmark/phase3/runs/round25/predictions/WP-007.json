@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "塔罗断：Donald Trump 赢得2016年总统大选。决定因素落在Clinton一方：邮件争议与Clinton基金会丑闻在选战末段发酵成信任崩塌（高塔/宝剑类崩解象），侵蚀其民调优势；Trump以颠覆者之势承接突变牌意胜出。方向取Trump胜，胜负手明确断为Clinton的邮件/基金会争议，而非政策议题。",
+ "direction_claim": "trump_wins_decided_by_clinton_email_controversy",
+ "timing_claim": "年档内定点：2016年11月8日大选日揭晓，丑闻发酵集中于选前最后数周",
+ "confidence": 0.6,
+ "basis": "塔罗事件断（Waite牌义骨架：崩塌/真相揭露类牌意）+事实优先序：输入已明示邮件与基金会争议为公开背景，断语落到该具体事件为胜负手，合事件级断语要求。输入未附实际抽牌牌面，属残损，故降置信并注明。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-tarot.md"
+ ]
+}

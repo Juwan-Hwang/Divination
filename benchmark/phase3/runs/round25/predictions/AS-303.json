@@ -1,0 +1,14 @@
+{
+ "case_id": "AS-303",
+ "prediction_text": "方向：按发问者所循的吠陀行运推法给出高危引爆点——第三次世界大战的爆发点落在2024年6月，首要日期坐标为2024年6月18日前后：该期火星等凶星的行运组合被此派读为全球战争触发，多场地区战争（俄乌、巴以）在该点前后急剧升级并外溢成多国卷入的大战，而非继续局限于地区冲突。此后数周（6月下旬至8月上旬）为同一危险窗口的余波升级段。应期：以日为坐标、月为窗口——窗口为2024年6月至8月初，主坐标为2024年6月18日。",
+ "direction_claim": "positive (as a dated prophecy) - WW3 outbreak is dated to 18 June 2024, within a June-early August 2024 escalation window",
+ "timing_claim": "日/月档：窗口2024-06至2024-08初，主坐标2024-06-18",
+ "confidence": 0.3,
+ "basis": "输入只有提问、时点（2024-06事前报道）与背景（俄乌、巴以两战并行），未给发问占星师的盘面、行运表或原文日期推演，无从复核其内部计算；本断按此类公开预言通行的吠陀凶星行运读法（火星、罗睺/计都与土星组合触发战争）把危险点收束到2024年6月中下旬这一最被指认的坐标，并明记此为低置信复现：盘面残损为全部输入中最重一类，日期坐标的可推导依据不足，置信因此压至最低档，不以高置信断言。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/AS-303.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/calibration.md"
+ ]
+}

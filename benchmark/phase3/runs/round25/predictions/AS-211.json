@@ -1,0 +1,14 @@
+{
+ "case_id": "AS-211",
+ "prediction_text": "方向：正面，马可找回。马的征象星（第十二宫主）逆行且正趋合问者第二宫（财物宫）主星，逆行主返回、趋合第二宫主主物归其主；月亮在第二宫、两颗逆行星近第二宫宫尖，同主失物回头。方向为正西：第十二宫星座与其主星所在星座及多数证词皆指西，马往西去、亦当向西寻访/在西边寻回。应期：以日/周为单位，窗口为问后数日至数周内，主坐标取第十二宫主与第二宫主合体成相之时，失物当在此前后被送回或寻得。",
+ "direction_claim": "positive - horse recoverable, went and is found to the west",
+ "timing_claim": "日档：窗口数日至数周，主坐标为十二宫主逆行趋合二宫主成相之日",
+ "confidence": 0.72,
+ "basis": "Lilly卜卦失物/失畜：大畜以第十二宫及其主为马之征象，其主逆行并趋合问者第二宫（动产）主，古典断法逆行征象星趋合财物宫主为失物返回、物归原主；月亮在第二宫、二逆行星近二宫宫尖为返回证词叠加；方位以十二宫星座、其主所在星座等多数证词定，输入明言 plurality full west，故定正西。第七宫受克只主曾有他人牵涉/一度被藏匿，不改可回之终局。输入残损：未给具体度数与日期，应期以合体成相定日档窗口、不定死某日。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/AS-211.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/calibration.md"
+ ]
+}

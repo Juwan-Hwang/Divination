@@ -1,0 +1,14 @@
+{
+ "case_id": "AS-304",
+ "prediction_text": "方向：正面，卡玛拉·哈里斯赢得2024年美国总统选举，成为美国首位女性总统。选举人票层面不是险胜而是过线较稳，主坐标约306张选举人票一带；普选与关键摇摆州的多数最终倒向哈里斯，特朗普败选。应期：以日为坐标，胜负在2024年11月5日投票日落定、其后数日内确认。",
+ "direction_claim": "positive - Kamala Harris wins the 2024 US presidential election (about 306 electoral votes)",
+ "timing_claim": "日档：2024-11-05投票日落定（问题本身以投票日为尺度，故用日单位）",
+ "confidence": 0.45,
+ "basis": "选举占星通法：以候选人本命与选举日行运、月亮所落与得票象征综合，哈里斯一侧的行运吉相与上升势头被此例占者读为压过对方，选举人票估至约306这一具体量级。此为单点胜负占、无时间纵深，不适用两段式。输入残损：未给两候选人出生盘、选举日星盘或原文推演，只有提问、时点与选情胶着的背景，无法逐项回扣星体×宫位×尊贵×相位，置信下调至中低档；具体票数为主断语的量级估计，非盘面精算。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/AS-304.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/calibration.md"
+ ]
+}

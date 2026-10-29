@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-005",
+ "prediction_text": "Donald Trump 赢得2016年总统大选，Hillary Clinton 败选。关键依据是同一位面板占星师在17人混战时即独排众议挑中Trump为共和党提名人，其判断链不随民调共识漂移、专取突变与反建制之势；此势延续到大选，天王星式突变压过Clinton的民调优势，Trump以选举人票取胜（普选票可落后）。方向取Trump胜，与一般面板共识分开落断。",
+ "direction_claim": "trump_wins",
+ "timing_claim": "年档内定点：2016年11月8日大选日揭晓",
+ "confidence": 0.6,
+ "basis": "事实优先序：输入特记该占星师初选阶段独中Trump提名，为其判断可靠性的具体事实，权重高于泛民调；突变/反建制象延续至终局。输入无完整星盘，故置信不拔高。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

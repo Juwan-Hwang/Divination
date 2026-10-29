@@ -1,0 +1,14 @@
+{
+ "case_id": "AS-215",
+ "prediction_text": "方向：强烈负面，此次西征无功、无荣誉，以败局收场。上升主土星 peregrine且陷落、在第二宫，龙尾在上升，月亮在其 detriment，主将帅自身与军势俱弱；福点被第七宫主水星（敌人征象）处置，主资财/胜算操于敌手；月亮离土星三分而入相刑火星（其第二、第九宫主：资财、辅佐、行旅），主军资与援力受损于行军交战中。结局是军队在西部受挫、资械损失、被迫屈服/缴械一类的大损，本人性命可保（上升主不在第八宫）但声誉与军权大损、黯然收场。应期：以月为单位，窗口为1644年出征后一至三个月内，主坐标取月亮刑火星成相所主的交战受挫期，败局在此窗口内落定。",
+ "direction_claim": "negative - expedition fails, army lost/disgraced, no honour or success; Earl survives but is ruined in reputation",
+ "timing_claim": "月档：窗口为出征后1-3个月，主坐标为月亮入相刑火星所指的受挫交战期",
+ "confidence": 0.74,
+ "basis": "事件盘（古典卜卦/择时同法，整宫）：上升水瓶，上升主土星 peregrine、陷落、居第二宫，龙尾临上升，月亮 detriment，三项皆主主体衰败；月亮离土星三分、入相刑火星，火星为其第二宫（资财）与第九宫（行旅/辅佐）主，主西行中资财辅佐受克；福点由第七宫主水星处置，水星为敌方征象，主 fortune 在敌手。诸证同向负面、无吉相救应，故足级断败而非小挫；上升主不入第八宫、无致命刑克本命主星，故断本人不死于此役。输入较完整（已给上升），但未给度数与具体日期，应期定月档。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/AS-215.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/calibration.md"
+ ]
+}

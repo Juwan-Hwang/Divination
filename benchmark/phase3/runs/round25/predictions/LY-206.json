@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-206",
+ "prediction_text": "终身财福中上、有源可恃：子孙旺而生财，一生财源不绝、可得财福，但兄弟持世动而分耗，守财费力、难称巨富，等级定为中等偏上而非大富。",
+ "direction_claim": "positive",
+ "timing_claim": "年档：窗口为子孙生财之年序，主坐标取巳年（变爻妻财巳火逢值之年），单位年，依据变爻用神逢值",
+ "confidence": 0.55,
+ "basis": "卯月癸未日，癸未属甲戌旬空申酉。用神妻财不上卦，先查变爻：五爻父母酉金（空）一侧变卦见妻财巳火，变爻有用神故不取伏神，以变财巳火为用；巳火得初爻子孙卯木（临月建旺、持应）相生，原神极旺，财有源。世爻兄弟亥水四爻动，卯月休、日未克，动化官鬼未土回头克，世弱且兄弟主分耗，故降格一等并写明压制依据为世化回头克与兄弟持世。上爻官鬼未土临日动化子孙卯木回头克，官势受制不压财。按等级校准：原神临月、变财得生支持足级中上，世弱化克只压一级。应期三步：终身问年档；冲实路无空待冲之用神、填实路酉空与财无关、逢值路巳财逢值，取逢值巳年，余二路以与用神无关舍。门类对表无终身财福门类。输入无六神，不臆补。",
+ "sources_used": [
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md（作断通则a/b/c/f/h/i/j/k/l、六爻应期双层表达）",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/chinese-liuyao-meihua.md（用神/旺衰/空墓伏决策序/动化复核/应期三步与D项四路）",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/chinese-yijing.md（卦名核对）"
+ ]
+}

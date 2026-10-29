@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-012",
+ "prediction_text": "Joe Biden 赢得2020年大选并最终入主白宫、实际取得总统职位，Donald Trump 败选。但后续极凶险：败方拒绝认输、邮寄投票争议演成法律与街头对峙，国家严重撕裂，出现大规模争议、不安乃至分裂危机——赢家明确（Biden），国家却陷入近内裂的动荡期。方向取Biden胜选并就任，后果断为深度分裂与持续动乱，而非平稳交接。",
+ "direction_claim": "biden_wins_and_takes_presidency_country_deeply_divided_aftermath",
+ "timing_claim": "年档：选举2020年11月3日，就任2021年1月；动荡窗口为选后至就任前后数月",
+ "confidence": 0.64,
+ "basis": "选举占断+事实优先序：输入明示邮寄投票争议与败方可能不认输为已知背景，后段断语落到该具体进程（近段胜负、远段撕裂），合两段式检查；远段触发为争议背景本身。输入无具体盘面，降置信。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

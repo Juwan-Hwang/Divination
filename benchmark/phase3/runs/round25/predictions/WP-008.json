@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-008",
+ "prediction_text": "Narendra Modi 率BJP/NDA赢得2019年印度大选、连任总理。通灵/占断合议口径一致指向在任者气势占优，反对党Congress阵营（Rahul Gandhi领衔）不足以翻盘；NDA取得过半席位组阁，Modi开启第二任期。方向取Modi/NDA胜。",
+ "direction_claim": "modi_bjp_nda_wins",
+ "timing_claim": "年档内定点：2019年5月23日计票日揭晓",
+ "confidence": 0.72,
+ "basis": "选举占断合议+在任者优势：在任总理求连任且多路占断同指一方，多法收敛增强置信。输入完整（投票与计票日期明确）。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

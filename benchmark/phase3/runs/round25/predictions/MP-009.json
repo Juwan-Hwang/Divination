@@ -1,0 +1,13 @@
+{
+ "case_id": "MP-009",
+ "prediction_text": "韓國瑜2020總統選情敗局已定、高雄市長亦不穩固：大選將大敗給蔡英文（支持度差距近二十個百分點量級）；市長職位方面，罷免連署將持續推進，2020年罷免投票通過、韓去職。總統與市長兩頭落空。",
+ "direction_claim": "negative（大選大敗、市長被罷免）",
+ "timing_claim": "應期單位為月：大選主坐標2020年1月；罷免主坐標2020年年中投票定去留",
+ "confidence": 0.85,
+ "basis": "事實優先且證據在本例內完備：占題明載綠黨民調蔡50.9%、韓32.6%，韓自8月大幅下滑，距大選僅100天無回升觸發；罷免連署已在第一階段進行。兩問逐項對回（通則f/e）：選情斷蔡韓兩人、市長斷韓本人去留，對象不混。等級按近二十點差距足級斷大敗，不降格。具體項：人物、百分點量級、兩時點俱備。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/MP-009.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/calibration.md"
+ ]
+}

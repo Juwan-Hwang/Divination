@@ -1,0 +1,12 @@
+{
+  "case_id": "YY2-004",
+  "prediction_text": "方向＋断语：无法定寿终局（direction unknown）。仅知变卦为坤宫雷天大壮与占时丙寅年丙申月丁巳日丙午时，本卦名原书缺字。【输入残损】本卦名缺、moving_lines为null、chart_lines为null：不知本卦即不知宫与世应，不知动爻即不知用神动静，六亲全无，自占寿之世爻无从取，旺衰空亡（丁巳日甲寅旬空子丑）无爻可对。仅凭变卦『大壮』卦名断寿属臆测，拒绝以卦名定长短终期。应期年档三路俱无据，明写不报。置信0.20。补齐本卦与爻象后可重断。",
+  "direction_claim": "unknown",
+  "timing_claim": "年档：盘面残损，无据不报主坐标（不臆补）",
+  "confidence": 0.2,
+  "basis": "残损：本卦名缺字、变卦仅存大壮，无爻象动爻六亲，世应与用神不可定位，已注明降置信、不臆补。",
+  "sources_used": [
+    "kb-snapshot/SKILL.md",
+    "kb-snapshot/references/chinese-liuyao-meihua.md"
+  ]
+}

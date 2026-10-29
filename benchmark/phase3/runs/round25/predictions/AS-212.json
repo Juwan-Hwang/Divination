@@ -1,0 +1,14 @@
+{
+ "case_id": "AS-212",
+ "prediction_text": "方向：否定被巫术所害——不是中邪/被巫。病人是自然之疾且被药物所误而加重一类，月亮冲土星而土星在第六宫、其主在第十二宫只是引起疑巫的表象；关键否证是上升、上升主与月亮皆未被第十二宫主所克，巫害的征象链不成立。病势走向：月亮过土星对冲之后转而入相上升主，而上升主在地平线之上、向天顶上升，主病情在冲相过去后转机、渐向愈。近段先有一番加重/惊疑（月土对冲成相之时），远段转安。应期：以日为单位，窗口为问后数日至旬内，主坐标取月亮越过土星对冲、转入相上升主之日为转机点。",
+ "direction_claim": "negative for witchcraft (not bewitched, natural sickness); patient turns toward recovery after the Moon-Saturn opposition passes",
+ "timing_claim": "日档：窗口数日至一旬，主坐标为月亮过土星对冲并入相上升主之日",
+ "confidence": 0.7,
+ "basis": "Lilly卜卦疑巫专则：月亮入相冲土星、两星分居第六/第十二宫确为疑巫表象，但 Lilly 定巫害须上升、上升主或月亮受第十二宫主刑克，输入明言三者皆未受十二宫主所克，故巫害不成立（事实/判据优先于表象）；月亮冲土星之后入相上升主，上升主在地平上且向天顶上升，主病人得救助而势升。两段式：近段月土冲主加重与疑惧，远段以月入相上升主为触发转愈。输入残损：日期OCR不全、无完整盘面，应期只定日档。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/AS-212.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "case_id": "MP-013",
+ "prediction_text": "柯文哲沒有總統命：2018年台北市長他將驚險連任成功（與丁守中差距極小、近乎打平的險勝）；但總統之路到頂為止——2024年他參選總統只居第三、落敗收場，不會入主總統府。市長可連任，總統命沒有。",
+ "direction_claim": "negative_for_presidency_positive_narrow_reelection（險勝連任、無總統命）",
+ "timing_claim": "應期單位為年/日：連任定局2018年11月24日投票；總統成敗定局2024年1月大選",
+ "confidence": 0.65,
+ "basis": "兩段逐段核對（通則i/j）：2018年段，柯為現任市長、對手分流（藍綠各一），險勝連任有據且量級按險勝給出、不作大勝；2024年段另立方向——無政黨奧援的第三勢力問鼎總統足級不足，斷第三落敗，不由市長人氣外推總統命。具體項：人物=柯文哲/丁守中、事件=險勝連任與總統第三落敗、時點=2018年11月24日與2024年1月。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/MP-013.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/calibration.md"
+ ]
+}

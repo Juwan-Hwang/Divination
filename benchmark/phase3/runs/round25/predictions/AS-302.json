@@ -1,0 +1,14 @@
+{
+ "case_id": "AS-302",
+ "prediction_text": "方向：疫苗前景正面、疫情走向先恶化后转机。未来六个月内先有疫苗的决定性好消息：三期试验结果在数周内（2020年11月前后）报捷、首批疫苗于冬季获批并开始接种，这是六个月内最具体的向好事件；但接种铺开慢、产能与分配受限，冬季病例与死亡仍冲高，疫情不会因疫苗消息而在六个月内结束——到2021年春季是希望确立、局面开始松动，而非清零复常。应期：以月为单位，窗口为2020年10月至2021年4月，主坐标为2020年11-12月疫苗捷报与首批获批接种之时。",
+ "direction_claim": "positive on vaccine (breakthrough results and first approvals/rollout within six months), negative on near-term case counts (winter worsening, no end to pandemic in the window)",
+ "timing_claim": "月档：窗口2020-10至2021-04，主坐标2020年11-12月疫苗试验捷报与获批开打",
+ "confidence": 0.58,
+ "basis": "现代占星行运骨架：2020年末木星与土星换座合相于水瓶（2020-12-21前后，科技、社会协作与医药突破之象）落在问后六个月窗口的前段，主科学突破以新技术路线见效并进入应用，与疫苗以新技术平台报捷相应；同时土冥余势与冬季行运未解，主病例在冬季仍高。故疫苗与疫情分开断：疫苗成、疫情未止。输入残损：未给任何盘面或访谈原文细节，只有提问、时点与背景，置信下调，应期只定月档。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/AS-302.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/calibration.md"
+ ]
+}

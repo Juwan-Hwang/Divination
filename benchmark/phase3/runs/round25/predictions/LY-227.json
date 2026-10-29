@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-227",
+ "prediction_text": "乡试可中：前后两占同指文书旺强——初占父母持世旺、官星旺而生父；再占父母动而回头生，功名文书俱足，本届乡试断为得中，高中之断足级给出。",
+ "direction_claim": "positive",
+ "timing_claim": "年档：窗口为本届乡试放榜之期，主坐标取未月（初占父母未土持世逢值之月），单位月（试事以放榜月为尺度），依据两占父母逢值/回头生",
+ "confidence": 0.75,
+ "basis": "午月丙辰日，丙辰属甲寅旬空子丑。输入说明：前后两占同卡，初占静卦六爻与再占变卦六爻同列，已分占拆读。乡试用父母为文书、官鬼为功名。初占兑为泽静卦六冲：父母未土上爻持世，午月火生土相、日辰生之，父旺持世；官鬼巳火初爻午月旺，生父母未土，原神官旺生父；子孙亥水四爻午月绝、日克，忌弱不伤官。六冲只主速动不改父官旺之终局。再占地泽临之师：父母巳火初爻动，午月旺，动化官鬼寅木回头生（寅木生巳火），父动得生更强；官鬼卯木二爻持世生父。两占收敛同向，按自决表多法同指增强置信。应期三步：试事月档取放榜期；逢值路未父逢值取未月主坐标，冲实填实二路无涉用神空破舍。",
+ "sources_used": [
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md（作断通则a/b/c/f/h/i/j/k/l、六爻应期双层表达）",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/chinese-liuyao-meihua.md（用神/旺衰/空墓伏决策序/动化复核/应期三步与D项四路）",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/chinese-yijing.md（卦名核对）"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "case_id": "OC-009",
+ "prediction_text": "方向（低置信）：仕途贵显至外交首脑级、财富优裕，婚姻有再婚波折，晚年清贵善终——但本例四柱在输入中残损未给出（仅注『原书应运篇下论造、四柱以原书为准、转录本个别字待校』），无法按八字程序排盘核验，以下断语仅据占题已知事实（顶尖外交官、已历任驻外使节与内阁职务）作格局层面的保守推断，不作运程与应期细断。四柱补齐前，子女、病位、高峰运段三项无据不报。",
+ "direction_claim": "positive（贵显，低置信）",
+ "timing_claim": "无据不报（四柱残损，不定应期）",
+ "confidence": 0.3,
+ "basis": "输入残损照实注明：subject.birth.pillars 未给具体四柱干支，只有一句说明文字，按任务规矩不臆补四柱、不编大运；basis 因此降置信至0.3，方向仅据 setting 已知仕历事实。sources 仍为八字篇，但本例未实际执行排盘五步与运断程序，待补齐四柱后重断。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-bazi-ziwei.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-204",
+ "prediction_text": "这位患病的医生，病在胸胃一带（breast and stomach），属土星性的寒湿郁滞/忧郁质（melancholic）之病；病可治、能愈，但缠绵难速愈。定病位：上升主不久前刚离土星的顺势刑相，当时土星在巨蟹（主胸与胃），病源直指胸胃；六宫被一颗居陷落的行星所伤，主病势有沉重一面；月亮在四宫与土星同在，主病根深而居内。定生死转归：四角皆固定星座，主病程固定缠绵、非旦夕之疾；然上升主是「刚离开」与土星的刑相——最凶的克伤已经过去，病势越过顶点，此后趋缓，故断可愈而慢愈，调治须以月计，且防其忧郁寒湿之根反复。应期单位为月，窗口为起问后数月内渐复，主坐标在该窗口后段见明显转归。",
+ "direction_claim": "positive (disease of breast/stomach, melancholic; curable but slow and lingering)",
+ "timing_claim": "月档：窗口为起问后数月内，主坐标为窗口后段（固定星座主迟、上升主离刑相主过峰后缓复，两据同指后段）",
+ "confidence": 0.55,
+ "basis": "古典 decumbiture/病问：以六宫受克、上升主与土星相位、土星落座定病位病性（巨蟹=胸胃、土星=寒湿忧郁）；以「离相位（separating）」断克伤已过峰、四角固定断病程长。通则(i)两段俱报：近段沉重（六宫陷星、月亮合土星），远段趋愈，远段触发即上升主离土星刑相这一已成立的离相事实。输入无精确度数，置信0.55。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/AS-204.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

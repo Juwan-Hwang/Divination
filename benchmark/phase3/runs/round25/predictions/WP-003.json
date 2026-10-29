@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-003",
+ "prediction_text": "Barack Obama 连任成功，赢得2012年总统大选，Mitt Romney 败选。选举日恰逢水星逆行开始，主计票/通讯混乱、结果确认拖沓或局部争议，但只乱过程不翻终局：在任者优势与大势仍在Obama一方，最终由Obama取得选举人票胜利。方向取Obama胜。",
+ "direction_claim": "obama_wins_reelection",
+ "timing_claim": "年档内定点：2012年11月6日大选，结果确认或拖至其后数日",
+ "confidence": 0.68,
+ "basis": "选举占星+事实优先序：在任总统连任结构占优；水逆起于选举日按通则只压过程（延迟/争议）不压终局等级，无据不作翻转断。输入完整。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

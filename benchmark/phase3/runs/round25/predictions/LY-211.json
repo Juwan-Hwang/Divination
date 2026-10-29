@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-211",
+ "prediction_text": "寿元偏长：子孙持世发动而得回头生，世又有日建金生，寿基不弱，一生虽多动耗与病扰，不主短夭，等级中上；化神月破只主中段有坎，填实可过。",
+ "direction_claim": "positive",
+ "timing_claim": "年档：窗口为世爻化神填实之年序，主坐标取申年（世化兄弟申金月破填实、生世之年），单位年，依据化神回头生、月破待填实",
+ "confidence": 0.6,
+ "basis": "寅月己酉日，己酉属甲辰旬空寅卯。世子孙子水五爻动，寅月休而得日酉金生，动化兄弟申金，申金生子水为回头生，世源回生；申金冲寅月为月破，按决策序化神月破只待填实、不先否决回头生。四爻父母戌土动化官鬼午火回头生（午生戌），父系有气。初爻父母未土动化子孙子水，化神与世同支相扶。官鬼巳火二爻持应静，巳火不克子水之世（世水反克火），鬼不克身，寿占大忌不成立。妻财寅木临月而空、卯木空，为假空待应，只涉财不压寿。应期三步：寿元年档；冲实路寅冲申虽开破而兼冲动以填实更稳、逢值路子水逢值亦可而化神未实舍、填实路申破填实取申年。输入未给年龄，不臆报具体寿数。",
+ "sources_used": [
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md（作断通则a/b/c/f/h/i/j/k/l、六爻应期双层表达）",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/chinese-liuyao-meihua.md（用神/旺衰/空墓伏决策序/动化复核/应期三步与D项四路）",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/chinese-yijing.md（卦名核对）"
+ ]
+}

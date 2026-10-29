@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-219",
+ "prediction_text": "父寿有大危、不主长寿安稳：父母爻月破，虽得旺官临日相生可延一时，终属破而待应，逢填实之年病危最重，寿元等级偏下，宜早防重病之关。",
+ "direction_claim": "negative",
+ "timing_claim": "年档：窗口为父亲寿元险期，主坐标取亥年（父母亥水月破填实之年），单位年，依据月破填实应危",
+ "confidence": 0.58,
+ "basis": "巳月乙酉日，乙酉属甲申旬空午未。用神父母亥水二爻静，亥被巳月冲为月破，破爻得日酉金生，按决策序月破先验旺衰日月：亥水巳月囚、日生只能缓破，不能以得生抹去月破主象。原神官鬼酉金三爻持应临日建旺，生父有力，此为唯一强救，故不断即时之危而断填实应危。忌神妻财两现：四爻未土空而动克亥父，未属甲申旬空、动不为空，化子孙午火亦空，财克父待实空而发；五爻子孙巳火临月建旺克官原神，子旺伤官间接断父之源。世兄弟卯木被日酉冲。综合：破、财动克、子克源三路伤父，官生一路救，终局负向。应期三步：寿元年档；冲实路巳冲亥已在月建主破成因、逢值与填实同为亥支取填实路亥年为主坐标，余路舍弃理由如上。",
+ "sources_used": [
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md（作断通则a/b/c/f/h/i/j/k/l、六爻应期双层表达）",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/chinese-liuyao-meihua.md（用神/旺衰/空墓伏决策序/动化复核/应期三步与D项四路）",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/chinese-yijing.md（卦名核对）"
+ ]
+}

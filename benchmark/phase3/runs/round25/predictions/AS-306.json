@@ -1,0 +1,14 @@
+{
+ "case_id": "AS-306",
+ "prediction_text": "方向：特朗普胜出、重返白宫（被加冕式地推上总统之位）；且民主党一侧先发生候选人更替——时任总统拜登因年龄与状态问题中途退选、由副总统哈里斯接替出战，但更替不改终局，哈里斯仍败于特朗普。进程分两段：近段（2024年夏季）先见民主党换人这一大变，远段（11月投票）特朗普以选举人票过线获胜落定。应期：以月为单位，换人窗口为2024年6-8月、主坐标约7月；胜负窗口为2024年11月5日投票日。",
+ "direction_claim": "positive for Trump - Biden drops out and is replaced by Harris in summer 2024, Trump then wins the November election",
+ "timing_claim": "月档：换人窗口2024年6-8月、主坐标约2024年7月；终局2024-11-05投票日落定",
+ "confidence": 0.5,
+ "basis": "吠陀占星以候选人 dasha（大运）与行运强弱定胜负：2024年6月发问时拜登的年龄与状态已受质疑（输入给定事实），其运程读为难以走完竞选全程，主中途退选、副手接替；接替者运程不足以压过特朗普一侧在选举期的强势行运与大运支持，故终局断特朗普胜。两段各有触发：近段换人出自在位者运程衰弱这一盘面判断，远段胜负出自双方选举期行运强弱对比，非由近段外推。输入残损：未给任何候选人出生盘、dasha表或视频原文，置信下调，应期只定月档。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/AS-306.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/calibration.md"
+ ]
+}

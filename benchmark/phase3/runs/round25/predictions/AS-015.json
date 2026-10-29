@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-015",
+ "prediction_text": "在海外的丈夫还活着，且处境安好：丈夫示象太阳得其 hayz（合性时之位）、全然不受任何克伤——古典法中示象星无损即其人平安无恙的主证，故断人活着、身体与处境俱无大碍，最终能回来。惟归期不在近处：此问无丈夫示象的入相成期可定点，归期只能给到月档——窗口为起问后数月内，主坐标落在秋季（约10月前后局势见分晓之时）之前后；且盘中火星与土星正趋成凶相、与月亮位置相牵，家中妻子一方另有重病反复之险（六宫主土星逆行、她本人由一病转一病），丈夫归讯与妻子病情是两条线，不可混断。方位一项：输入未给出太阳所落星座与宫位（原文 OCR 残损），无从负责任地定其所在方位，只断「人安好、在归途一方」，方位存疑明写于此。",
+ "direction_claim": "positive (husband is alive and unharmed, will return; return not imminent)",
+ "timing_claim": "月档：窗口为起问后数月内，主坐标约在秋季10月前后（输入 context 载 Lilly 由此盘定时之事落在10月8日，量级为秋季见分晓；丈夫示象无入相度数可折日，故不报具体归日）",
+ "confidence": 0.5,
+ "basis": "古典卜卦问 absent 安危：示象星（太阳）得 hayz 且 free from all affliction 为存活安好正证。输入残损明确：太阳落座落宫缺如、部分位置 OCR garbled，故 where 一问无据，只断安危与月档归期，置信降至0.5（通则：输入残损降置信、不臆补方位）。通则(f)复述：丈夫断语承受对象为丈夫本人，妻子病险断语承受对象为妻子本人，两线分开。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/AS-015.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

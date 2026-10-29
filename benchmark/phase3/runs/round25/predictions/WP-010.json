@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-010",
+ "prediction_text": "Joe Biden 赢得2020年美国总统大选，Donald Trump 连任失败。三位迪拜吠陀占星师盘见分歧，但合议落点结合民调与Biden天蝎上升的韧性/危机承压结构，终局取挑战者在选举人票上胜出；过程不顺、计票拖延与争议并存，只乱过程不翻终局。方向取Biden胜。",
+ "direction_claim": "biden_wins",
+ "timing_claim": "年档内定点：2020年11月3日大选，计票确认拖至其后数日",
+ "confidence": 0.62,
+ "basis": "吠陀盘见分歧时按算者自决取舍：以输入给定的Biden吠陀天蝎上升与民调领先为事实锚，分歧只降置信不改终局方向。输入仅给一方盘面要点，属部分残损，降置信。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-205",
+ "prediction_text": "这位病人将不治而死，病属固定、土性、忧郁质（melancholic）的沉痼之疾。死证叠集：上升点被一颗身兼八宫（死亡宫）之主的行星以体坐之势重克；六宫星座固定且受克，六宫主又落在固定、土性、忧郁的星座里，病根深固不移；时间光体太阳与六宫主土星在固定星座成精确对冲，两光与病主正面相敌；月亮紧贴南交点（Cauda）且在上升内受克——生命示象（上升、月亮、太阳）三处同时受病主与死主夹击，无一得救。此为古典法中多重死证同见之盘，方向断为凶终。应期按月档收紧至周量级：对冲已精确成相，主危期就在当下数周内，不拖长。病位一项：输入明言上升星座字形 OCR 已坏、不予断言，故病位只断到「固定土性忧郁质的沉痼」，不虚报具体部位。",
+ "direction_claim": "negative (the sick man will die; disease fixed, earthy, melancholic)",
+ "timing_claim": "月档内之周量级：窗口为1645年7月16日盘后数周内，主坐标在该窗口前段（日土对冲已精确成相，主危期不远）",
+ "confidence": 0.85,
+ "basis": "古典病问死证：八宫主坐上升克上升、月亮近南交点受克在上升、太阳对冲六宫主于固定星座、六宫及其主俱固定受克——多证同向，按通则(b)足级断凶终，无救证可压。病位因输入自注上升字形 corrupt 而不臆断，依纪律明写并仅此一项降格说明，方向置信不因此下调至中段以下。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/AS-205.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

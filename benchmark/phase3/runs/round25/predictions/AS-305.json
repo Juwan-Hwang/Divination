@@ -1,0 +1,14 @@
+{
+ "case_id": "AS-305",
+ "prediction_text": "方向：哈里斯险胜。在盘面势均力敌、极难判断的前提下最终取哈里斯一侧：决定性的细微优势（选举日月亮行运与女候选人本命的呼应、以及计票拖延后倒向民主党计票节奏的象）使天平最后倒向哈里斯，特朗普以极小差距败北，且结果不会在选举夜即刻明朗、须等邮寄/缺席票计完才定。应期：以日为坐标，2024年11月5日投票、其后数日内计票落定。",
+ "direction_claim": "positive - Kamala Harris wins narrowly after a delayed count, in a near-even chart",
+ "timing_claim": "日档：2024-11-05投票，主坐标为其后数日内计票完成、结果确认之时",
+ "confidence": 0.38,
+ "basis": "承输入自承的事实前提：盘面势均力敌、极难判断——故任何方向都只能低置信、险胜量级，不得足级断一边大胜。取舍依据为选举占星在近均势盘中常用的末位决胜项：选举日月亮的最后相位与女性候选人一侧的接纳关系略占先机，主险胜且计票拖延。此为单点胜负占、无时间纵深。输入残损：未给选举日星盘、两候选人盘面与原文结论段，置信据残损与自承均势双重下调。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/AS-305.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/calibration.md"
+ ]
+}

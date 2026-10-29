@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-009",
+ "prediction_text": "狗能找回，且狗还在伦敦城内（狗示象星与上升同三方性星座，主不离本城）。搜寻方位：自问者居所（Temple Bar）向西、偏南的城区一带——狗之示象星在西方星座、位于南方象限而趋西（south quarter verging west），主往城西偏南方向找。月亮在风象星座且伏于日光之下，主狗目下是被人收留/藏匿在不显眼处（或在室内蔽处），一时不见。狗示象星正入相三分第六宫头，主终归其位；太阳将于下个星期一以顺势相位入相上升主土星——应期单位为日，主坐标为下个星期一前后寻回或得确讯。",
+ "direction_claim": "positive (dog will be recovered; search west/south-west within London)",
+ "timing_claim": "日档：窗口为起问后一周内，主坐标为下个星期一（太阳入相上升主土星之日）",
+ "confidence": 0.65,
+ "basis": "古典卜卦寻失畜（六宫主小兽）：同三方性主未出本城；示象星西方星座＋南方象限定搜寻方位；月亮伏光定「被藏/被收留」之状态；入相三分六宫头与太阳入相上升主为寻回证。通则(f)：应验对象逐条对回狗本身，非其主人。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/AS-009.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

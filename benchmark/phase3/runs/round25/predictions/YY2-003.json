@@ -1,0 +1,12 @@
+{
+  "case_id": "YY2-003",
+  "prediction_text": "方向＋断语：无法负责任地定寿终局（direction unknown）。仅知本卦山雷颐、变卦地雷复与占时庚寅年庚辰月丁卯日甲辰时：颐主养、复主回返，卦名层只能说『以养为务』，不足以定寿数长短或终期。【输入残损】moving_lines为null、chart_lines_top_to_bottom为null：无爻位、无六亲、无世应、无动爻，装卦五步无从执行，用神（自占寿以世爻为主）无法定位，旺衰、空亡（丁卯日空戌亥无爻可对）、应期三路皆无盘面可指。按纪律不臆补盘面、不以卦名定终局。应期尺度本应为年档，但三路候选俱无盘面依据，明写无据不报。置信0.25。若补齐原书该例爻象/断语页，可重断。",
+  "direction_claim": "unknown",
+  "timing_claim": "年档：盘面残损，无据不报主坐标（不臆补）",
+  "confidence": 0.25,
+  "basis": "残损：仅存卦名颐之复与占时，无爻象、无动爻、无六亲世应，用神不可定位，已注明降置信、不臆补。",
+  "sources_used": [
+    "kb-snapshot/SKILL.md",
+    "kb-snapshot/references/chinese-liuyao-meihua.md"
+  ]
+}

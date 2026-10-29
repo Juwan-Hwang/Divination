@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-009",
+ "prediction_text": "印度不会赢得2019年板球世界杯。印度虽为夺冠热门、阵容强（Kohli任队长、Dhoni在阵），但占断明确压热门：赛事中途受挫、止步于半决赛前后，无缘冠军；冠军另属他队。方向取印度不夺冠，为明确的否定断。",
+ "direction_claim": "india_will_not_win",
+ "timing_claim": "年档内定点：赛事窗口2019年5月30日-7月14日，印度出局点在淘汰赛阶段（7月上旬）",
+ "confidence": 0.7,
+ "basis": "赛事占断：热门身份只定等级预期不定终局，占断主线为强队受阻、无缘终局；按等级校准，断止步淘汰赛而非小组出局。输入完整。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

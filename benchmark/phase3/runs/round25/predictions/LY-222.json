@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-222",
+ "prediction_text": "子嗣有：子孙爻旺相而逢日冲暗动，子嗣之气未绝，此后仍可再得子嗣之望；且旺子逢冲主失散之子亦有音讯动象，子嗣一门不断。应期迟，以年计，不在近月。",
+ "direction_claim": "positive",
+ "timing_claim": "年档：窗口为子嗣应期之年序，主坐标取酉年（子孙酉金逢值之年），单位年，依据用神子孙逢值逢冲而动",
+ "confidence": 0.6,
+ "basis": "申月辛卯日，辛卯属甲申旬空午未。静卦地雷复。用神子孙酉金上爻静，申月旺相，得四五爻兄弟丑辰土生，原神土旺生金；酉金逢日卯冲，旺相有气逢冲按暗动裁决判暗动，子孙有气而动，主子嗣有应。世妻财子水初爻，申月金生水为相，日卯泄之，世不弱，财为养子之源不缺。父母火不上卦，伏神巳火申月合刑而弱，克子之忌不强（伏神只作旁参不取主用，主用现卦子孙唯一旺爻）。兄弟丑土持应克世财只主耗费，不压子孙主线。应期三步：子嗣终身类年档；冲实路卯冲酉已在日辰主暗动成因、填实路无空破用神舍、逢值路酉子逢值取酉年。占题已有一失散子，断语兼及该子音讯，未臆报再得之子性别。",
+ "sources_used": [
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md（作断通则a/b/c/f/h/i/j/k/l、六爻应期双层表达）",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/chinese-liuyao-meihua.md（用神/旺衰/空墓伏决策序/动化复核/应期三步与D项四路）",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/chinese-yijing.md（卦名核对）"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "case_id": "MP-012",
+ "prediction_text": "三組候選人中最有機會當選下屆正副總統的是賴清德、蕭美琴一組（賴蕭配）：賴蕭將擊敗侯趙配與柯吳配，於2024年1月13日當選正副總統，得票率約四成、以相對多數勝出。",
+ "direction_claim": "positive（賴蕭配當選）",
+ "timing_claim": "應期單位為日：2024年1月13日投票開票定局",
+ "confidence": 0.8,
+ "basis": "與同日同局事實一致作斷：三腳督確立、在野整合破局，賴蕭為執政延續組且聲勢居首。占題註明原問以塔羅及文王聖卦占測，本斷不偽稱起卦——無牌面/卦象輸入可據，只按事實優先與格局量級落斷並註明此輸入殘損，置信因此不給足。具體項：人物=賴蕭一組、事件=當選正副總統、時點=投票日。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/MP-012.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/calibration.md"
+ ]
+}

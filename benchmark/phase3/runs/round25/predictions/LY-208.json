@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-208",
+ "prediction_text": "终身功名有：官星旺相持世、得月日生扶，终身可入仕得职、有官禄可守，等级中等（官旺而印弱，不作封疆高位断，只断有职有禄）。",
+ "direction_claim": "positive",
+ "timing_claim": "年档：窗口为官星逢值之年序，主坐标取酉年（官鬼酉金逢值之年），单位年，依据静卦用神逢值",
+ "confidence": 0.62,
+ "basis": "戌月戊辰日，戊辰属甲子旬空戌亥。静卦山风蛊。用神官鬼酉金三爻持世静，戌月土生金为相、日辰土再生，官旺相有根，静主稳定长守。父母子水五爻为印，戌月休、日辰克，印弱，故等级压至中等，压制依据写明为父母子水休而受日克。妻财戌土四爻临月建而旬空，属临月假空（旺相有根之空），只记应期不作凶权；父母亥水空同理不废。子孙不上卦，克官之忌不现，官路无阻。应兄弟寅木克财不克官，不动主线。应期三步：终身仕途年档；冲实、填实二路所涉空爻非用神官星，舍；逢值路酉官逢值取酉年。门类对表无终身功名专条，明写对表无此门类，按三步原序取点。",
+ "sources_used": [
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md（作断通则a/b/c/f/h/i/j/k/l、六爻应期双层表达）",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/chinese-liuyao-meihua.md（用神/旺衰/空墓伏决策序/动化复核/应期三步与D项四路）",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/chinese-yijing.md（卦名核对）"
+ ]
+}

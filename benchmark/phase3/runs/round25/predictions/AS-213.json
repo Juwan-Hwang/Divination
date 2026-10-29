@@ -1,0 +1,14 @@
+{
+ "case_id": "AS-213",
+ "prediction_text": "方向：逃犯往东去，且可被追回/再被拿获。方位证词一致向东：第十二宫射手座、其主木星在狮子座、天象四分域与月亮所在星座皆指东，无分歧。木星居第八宫、月亮近上升主其人未远遁；月亮离木星三分而入相与太阳对冲、两星皆在角宫，主其行踪被照见、被发现而获——太阳对冲为暴露之象。应期：以日为单位，窗口为问后数日内，主坐标取月亮与太阳对冲成相之日，其人当在东边不远处在此前后被寻获。",
+ "direction_claim": "positive for recovery - prisoner went east, not far, will be retaken/discovered",
+ "timing_claim": "日档：窗口数日，主坐标为月亮入相太阳对冲成相之日",
+ "confidence": 0.64,
+ "basis": "Lilly卜卦逃犯：以第十二宫宫尖射手及其主木星（在狮子）为逃犯征象，方位取宫尖星座、主星星座、四分域、月亮星座四证，输入明言 unanimously eastward，故定东；月亮近上升主去不远；月亮离木星三分、入相太阳对冲且双方在角宫，古典以日光对冲为暴露、被见之象，主再获；木星与水星有相位主消息/文书线索助寻。木星在第八宫只主其处境凶险，不改可获终局。输入残损：未给度数差与日期，应期以月日对冲成相定日档、不定具体日。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/AS-213.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/calibration.md"
+ ]
+}

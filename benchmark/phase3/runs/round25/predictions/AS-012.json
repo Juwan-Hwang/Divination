@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-012",
+ "prediction_text": "他得不到所求的教区圣职（parsonage/benefice）。盘中七项否定证词齐备：土星受克坐上升，先伤其问；九宫主木星（圣职示象）与上升主无相位，月亮亦与之无相位；上升主与月亮皆不在九宫；示象星之间无转光、无收光、无互容；月亮离三分相而正入相对冲三宫主水星，主有对手/阻挠者当道；金星坐七宫对冲上升，主有公开的竞争者占位。此为「无成相即无成事」的定式，方向明确为不成；他若执意强求，亦只是徒劳，且防因强求招损名声。应期不设成事之期：事败将在谋求过程展开的数月内见分晓。",
+ "direction_claim": "negative (he will not obtain the parsonage)",
+ "timing_claim": "月档（败象显形之尺度）：窗口为其谋求进行的数月内，无成相定点——因示象星全程无成相，终局为不成，不设主坐标日期，仅以「数月内落空」为时间断语",
+ "confidence": 0.85,
+ "basis": "古典卜卦九宫圣职问：Lilly 本人列举的七重否定（无相位、无转光收光、无互容、主星不入所问宫、月亮入相对冲对手宫主、七宫金星对冲上升、土星伤上升）逐项皆在输入中，成事条件一项不备。输入注个别行星字形 OCR 残损（如上升主字形），已据七项否定证词本身作断并因此未把置信再往上提。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/AS-012.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

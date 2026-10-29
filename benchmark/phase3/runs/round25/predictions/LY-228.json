@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-228",
+ "prediction_text": "不得差：本次求差不成。子孙持世克官、父母伏藏，任职凭据与福星俱不利世求官，虽妻财旺生官、官又临日，只是有人财门路一时提携，终被持世子孙与官星月破所阻，本轮断为落空，待官星填实之年另有差使之望。",
+ "direction_claim": "negative",
+ "timing_claim": "年档：窗口为本次候差无成、另候之期以官星填实之年为界，主坐标取寅年（官鬼寅木月破填实之年），单位年，依据月破填实",
+ "confidence": 0.65,
+ "basis": "申月戊寅日，戊寅属甲戌旬空申酉。用神官鬼寅木二爻持应，临日建，然寅冲申月为月破，官破而临日属有气待填、本轮未实。世子孙酉金五爻，申月旺而旬空，子孙持世本为求官大忌，空而动象待出，出空即克官，故不断世空无碍。父母巳火不上卦伏于三爻兄弟辰土之下，巳与申合刑而弱，文书凭据伏而难出（变爻无父母、日月非父母之亲，依序取伏并按飞伏清单判弱）。原神妻财亥子两现旺相（申月金生水）生寅官，为唯一吉路，量级不敌世忌加官破两路。应期三步：候差年档；冲实路申冲寅为破因舍、逢值与填实同寅支取填实路寅年为另候主坐标，本次窗口内无成。",
+ "sources_used": [
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md（作断通则a/b/c/f/h/i/j/k/l、六爻应期双层表达）",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/chinese-liuyao-meihua.md（用神/旺衰/空墓伏决策序/动化复核/应期三步与D项四路）",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/chinese-yijing.md（卦名核对）"
+ ]
+}

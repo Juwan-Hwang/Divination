@@ -1,0 +1,13 @@
+{
+ "case_id": "MP-014",
+ "prediction_text": "11月3日大選對特朗普不利：其新冠病情本身無大礙——將迅速好轉出院、不致危及性命或被迫退選；但選情受挫的終局不因此翻轉，特朗普連任失敗，拜登勝出當選。病可癒，選會輸，兩件事分開斷。",
+ "direction_claim": "negative_for_election_disease_recoverable（病癒而敗選）",
+ "timing_claim": "應期單位為日/月：病情主坐標確診後數日內（約一周內）出院見分曉；選舉定局2020年11月3日投票及其後開票",
+ "confidence": 0.7,
+ "basis": "對象與事項分離（通則f）：病占對象=特朗普本人身體，斷可癒，依據為占題只載確診入院治療、無重症事實，不以病象放大為性命之危（量級守恆）；選情對象=連任成敗，依據為疫情打亂選戰節奏且其支持基本盤不足以翻盤，足級斷敗。兩段各有依據，不以病之吉凶互壓（通則j）。具體項：人物=特朗普/拜登、事件=出院與敗選、時點=數日內與11月3日。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/MP-014.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/calibration.md"
+ ]
+}

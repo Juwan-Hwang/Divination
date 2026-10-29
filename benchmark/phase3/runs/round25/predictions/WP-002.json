@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-002",
+ "prediction_text": "Barack Obama 赢得2008年美国总统大选。选举日土星冲天王星（45年未见）主旧秩序被新势力推翻、世代与体制突变，利挑战者与变革候选人而不利代表旧建制的对手；Obama先在民主党提名战中压过Clinton，再于11月4日大选中击败McCain入主白宫。方向明确取Obama胜，McCain败。",
+ "direction_claim": "obama_wins",
+ "timing_claim": "年档内定点：2008年11月4日大选日揭晓",
+ "confidence": 0.66,
+ "basis": "世运/选举占星：土冲天王为变革压倒守成之象，结合输入中Obama提名领先的事实优先序取变革方；天王主意外突破，土星方为旧体制。输入完整。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

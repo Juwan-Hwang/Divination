@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-220",
+ "prediction_text": "兄弟能和好，但得济有限：父母动而化出兄弟、又生兄弟，必有长辈文书一辈出面撮合，兄弟终归和好；只是妻财月破，接济钱财一节力弱量小，和好可成、厚济难望。",
+ "direction_claim": "positive",
+ "timing_claim": "月档：窗口为兄弟和好应期之月序，主坐标取酉月（兄弟酉金逢值之月），单位月，依据用神兄弟逢值、父母动化兄弟",
+ "confidence": 0.62,
+ "basis": "申月丙辰日，丙辰属甲寅旬空子丑。用神兄弟酉金四爻静，申月旺相、日辰土生，兄旺有气。五爻父母未土动，动化兄弟申金临月建，父化兄且未土生申酉金，长辈动而向兄、促和之象明确；世父母辰土临日旺亦生兄。和好一路证据足级。得济另看妻财寅木二爻，寅冲申月为月破，财破弱，故济助降格，压制依据写明为财寅月破。子孙子水初爻旬空静，福神待出空不伤和局。应官鬼巳火与申合住，只主一时牵绊不改终局。两问分述后终局以主问和好单判positive，得济小量作附断。应期三步：近事月档；冲实路寅申冲为财破成因舍、填实路寅财填实涉济不涉和舍、逢值路酉兄逢值取酉月。",
+ "sources_used": [
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md（作断通则a/b/c/f/h/i/j/k/l、六爻应期双层表达）",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/chinese-liuyao-meihua.md（用神/旺衰/空墓伏决策序/动化复核/应期三步与D项四路）",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/chinese-yijing.md（卦名核对）"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "case_id": "MP-008",
+ "prediction_text": "民進黨將由蔡英文出戰、且蔡有機會並將與韓國瑜一較高下並勝出：賴清德的黨內挑戰不會成功，蔡將贏得民進黨總統初選取得提名；2020年1月大選蔡韓對決，蔡英文勝選連任。",
+ "direction_claim": "positive（蔡英文出線並勝韓）",
+ "timing_claim": "應期單位為月：初選主坐標2019年年中（約6月）定提名；大選定局2020年1月",
+ "confidence": 0.7,
+ "basis": "事實優先：占題時賴清德剛宣布挑戰、藍綠人選均未定，韓為國民黨最被看好者。現任總統握執政與提名機制之利，黨內挑戰者掀翻現任屬低概率路徑，按此足級斷蔡出線；出線後對韓之局再按現任回升勢斷蔡勝。具體項：人物=蔡/賴/韓、事件=初選出線與大選勝出、時點=2019年年中與2020年1月兩段。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/MP-008.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/calibration.md"
+ ]
+}

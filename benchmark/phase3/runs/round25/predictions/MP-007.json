@@ -1,0 +1,13 @@
+{
+ "case_id": "MP-007",
+ "prediction_text": "韓國瑜2019年運勢旺而多變：上半年人氣續衝高峰，2019年內將參選總統並於年中取得國民黨提名，是其政治聲勢的頂點之年；但旺中藏衰——聲勢在提名後轉為消耗，問鼎總統本身不會成功，真正的敗局落在2020年1月大選。2019年本身以升與得提名為主調。",
+ "direction_claim": "positive_for_2019_rise_negative_for_presidency（2019年旺且獲提名、總統不成）",
+ "timing_claim": "應期單位為月：提名主坐標2019年7月；總統成敗定局2020年1月",
+ "confidence": 0.65,
+ "basis": "兩段逐段核對（通則i/j）：2019年段方向出自本例事實——就任約兩個月、人氣正盛、尚未表態而外界已逼問參選，升勢有據；總統終局段方向另立，不由2019年之旺外推，觸發為現任對手與聲勢透支。具體項：人物=韓國瑜、事件=參選/提名/大選落敗、時點=2019年7月與2020年1月。生肖屬雞等輸入只作背景，不以單一生肖定終局。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/MP-007.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/calibration.md"
+ ]
+}

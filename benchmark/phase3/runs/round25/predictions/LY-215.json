@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-215",
+ "prediction_text": "流年不利、破财防灾：这一年世弱受克、兄弟旺动劫财，主破耗争财、钱财难守；妻财动化官鬼，又防因财惹官非口舌；子孙化财只主一笔小进账，抵不过劫耗，流年总断为凶年，宜守不宜进。",
+ "direction_claim": "negative",
+ "timing_claim": "年档：窗口为本流年之内，主坐标取卯月（兄弟卯木临日旺、劫财最盛之月），单位月（流年问以年为跨度、年内取月），依据兄弟逢值劫财与财化官",
+ "confidence": 0.62,
+ "basis": "寅月丁卯日，丁卯属甲子旬空戌亥。流年以世为用：世妻财辰土三爻静，寅月卯日双木克土，世休囚受月日克而弱。二爻兄弟寅木临月建动化卯木兄弟（临日）化进，兄旺进劫世财。四爻妻财未土动化官鬼酉金，财动生官、化官主因财生事，且酉金被日卯冲，事多反复。五爻子孙巳火动化妻财未土，子化财为唯一吉路，主小财源，然巳火化土泄气、量级有限。逐段核对：近段寅卯月兄旺劫财为凶，远段财化官之触发为四爻未土动化酉金官，指向因财致讼扰，故两段同凶、终局单判negative（通则l）。应期按年内月档取卯月兄值。输入无六神，不臆补。",
+ "sources_used": [
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md（作断通则a/b/c/f/h/i/j/k/l、六爻应期双层表达）",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/chinese-liuyao-meihua.md（用神/旺衰/空墓伏决策序/动化复核/应期三步与D项四路）",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/chinese-yijing.md（卦名核对）"
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "Hillary Clinton 赢得2016年总统大选的多数支持并被看好入主白宫，Donald Trump 败选。此断从大会专家面板的共识口径：Clinton民调持续领先、建制与盘面稳定性均在女候选人一方，面板合议倾向Clinton胜。方向取Clinton胜（按面板共识口径落断，置信中下，因输入未给个人盘面细节）。",
+ "direction_claim": "clinton_wins",
+ "timing_claim": "年档内定点：2016年11月8日大选日揭晓",
+ "confidence": 0.55,
+ "basis": "输入仅有民调领先与会议面板情景，无候选人本命盘/行运细节，盘面依据不足，只能按事实优先序从民调与建制优势取Clinton；依据不足故降置信并注明。输入残损：无具体星盘数据。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

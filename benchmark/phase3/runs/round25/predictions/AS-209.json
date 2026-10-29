@@ -1,0 +1,14 @@
+{
+ "case_id": "AS-209",
+ "prediction_text": "方向分两问：(1)国王能从爱尔兰取得援军之事——能办到/援力确会图谋并部分到位：第十一宫（援助）主星太阳擢升、居第七宫而入相第十一宫宫尖，国王本人征象月亮在巨蟹入庙、居第十宫、增光，除迟缓外无凶，故借兵非虚声；但太阳与上升（议会）对冲，主此援军与议会正面为敌、所图伤议会之效受对冲牵制，不成压倒之势。(2)王后进军与会合——王后会进军并与国王会合，会合应期在月档、主坐标约问后三至四个月（月亮距与土星成三分尚差三至四度）；但王后征象土星正换座入白羊陷落，主会合之后其势转衰、进军不算昌盛得志，是人到而势衰。",
+ "direction_claim": "mixed - Irish aid procured in part (positive for King on procurement); Queen advances and meets the King in 3-4 months but does not prosper thereafter (meeting positive, prosperity negative)",
+ "timing_claim": "月档：王后会合窗口为问后数月内，主坐标约第三至第四个月（月亮差3-4度成三分土星）；爱尔兰援军以太阳差约6度入相十一宫宫尖计，在其后数月内见动",
+ "confidence": 0.62,
+ "basis": "Lilly卜卦一盘两问：国王以月亮为征象，在巨蟹入庙、第十宫、增光、无凶克唯迟缓，主王势自强而慢；援助看第十一宫主太阳，擢升、在第七宫、入相十一宫宫尖（差约6度未成精确相位）主援力可图、将近而未即至，其与上升对冲主与议会为敌。王后以第十宫起第七宫即第四宫主土星为征象，土星换座入白羊为陷落，主势由旧境入衰境；月亮距土星三分差三至四度，主会合在三至四度应数内成。输入残损：未给完整盘面与问时日期，两问共用一度数应数、只能定月档。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/AS-209.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/calibration.md"
+ ]
+}

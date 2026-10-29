@@ -1,0 +1,13 @@
+{
+ "case_id": "MP-010",
+ "prediction_text": "2024年最有當選之相者是賴清德；郭台銘若參選不能當選：郭的參選之路將中途受挫——聲勢不足以撼動三強格局，甚至無法把參選走完到底（退選或未完成登記參選到底），最終由賴清德於2024年1月13日當選總統。",
+ "direction_claim": "negative_for_guo_taiming_positive_for_lai_chingte（郭不能當選、賴當選）",
+ "timing_claim": "應期單位為月：郭參選去留於2023年秋冬（約11月登記前後）見分曉；大選定局2024年1月13日",
+ "confidence": 0.7,
+ "basis": "事實優先：占題時各黨人選未定、被點名者五人，郭曾有初選退出前科（2019年參加國民黨初選後退出），其參選續航力本身存疑，此為退選/走不完一路的事實依據。最有當選相按民進黨現任執政延續與賴清德黨內地位足級取賴，不以郭的財富與身高體格之象壓過政局事實（通則e）。具體項：人物=賴/郭、事件=當選與退選各一、時點=2023年秋冬與2024年1月13日。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/MP-010.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/calibration.md"
+ ]
+}

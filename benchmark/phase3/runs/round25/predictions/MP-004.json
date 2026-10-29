@@ -1,0 +1,13 @@
+{
+ "case_id": "MP-004",
+ "prediction_text": "蔡英文當選連任：2020年總統大選由蔡英文勝出，韓國瑜落敗，且差距明顯、非五五波險勝。2020年1月11日投票定局。",
+ "direction_claim": "positive_for_cai_yingwen（蔡當選、韓落敗）",
+ "timing_claim": "應期單位為日：2020年1月11日投票開票定局（問時距選戰約兩個月）",
+ "confidence": 0.85,
+ "basis": "事實優先：占題明載多項民調顯示韓支持度持續落後蔡。民調落後且趨勢未止，按通則b足級斷蔡勝且差距明顯，不無據降格為接近戰。具體項：人物=蔡/韓、事件=當選連任、時點=投票日。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/MP-004.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/calibration.md"
+ ]
+}

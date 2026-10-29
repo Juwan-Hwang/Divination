@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-010",
+ "prediction_text": "逃仆往西边去了，方位偏南（西南偏西的南象限）。仆人专属示象水星在西方星座、南象限；逃走之时月亮亦在西方星座、至今同座未移，主其人仍在西向一带、未远转他方。月亮在二宫居其本宫（旺）、太阳在二宫与十一宫内行星成精确相位，主主人一方资财助力可调动、寻人有门。仆人示象星与上升主正趋向成三分相且出角宫，主双方终有相遇之相——仆人将被寻回或自行归来。应期单位为日：窗口为起问后数日内，主坐标为该三分相成相的最初数日之内归来/被带回。",
+ "direction_claim": "positive (servant gone west/south-west; will return or be recovered within days)",
+ "timing_claim": "日档：窗口为起问后数日内，主坐标为仆示象星与上升主三分相成相的数日内一点（输入未给精确度数，不虚报具体日期）",
+ "confidence": 0.65,
+ "basis": "古典卜卦问逃仆（LXI章法）：以水星为此盘仆人专属示象，西方星座＋南象限定去向；月亮本宫旺主近况可寻；示象星与上升主趋成三分相主重逢/归来。通则(h)：日档三路中取入相成相一路，冲实、填实无候选。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/AS-010.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

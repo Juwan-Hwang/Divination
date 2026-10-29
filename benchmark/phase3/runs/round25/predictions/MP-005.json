@@ -1,0 +1,13 @@
+{
+ "case_id": "MP-005",
+ "prediction_text": "韓國瑜勝出機會低、最終不會當選：2019年7月初選落幕時的高點即其聲勢頂點，此後支持度逐步下滑，2020年1月敗給蔡英文，且差距不小。初選勝不等於大選勝。",
+ "direction_claim": "negative（韓國瑜大選落敗）",
+ "timing_claim": "應期單位為月：2020年1月大選定局；下滑段自2019年下半年起算",
+ "confidence": 0.65,
+ "basis": "兩段式（通則i）：近段（初選）韓居高點屬實，但遠段終局另有觸發——對手為現任總統蔡英文已定連任、韓市政與參選雙線消耗，聲勢無以為繼。事實優先於初選熱度之象，不以近段之盛外推終局（通則j逐段核對）。具體項：人物=韓/蔡、事件=大選落敗、時點=2020年1月。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/MP-005.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/calibration.md"
+ ]
+}

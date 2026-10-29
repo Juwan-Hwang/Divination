@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-207",
+ "prediction_text": "终身功名还有：官星旺动而得财回头生，病退只是暂退，将来仍可复起任职、再得功名，等级为可复职进阶而非终身高位显爵。",
+ "direction_claim": "positive",
+ "timing_claim": "年档：窗口为病退后再起之年序，主坐标取午年（化出妻财午火逢值、生官之年），单位年，依据动爻化财回头生官、逢值",
+ "confidence": 0.68,
+ "basis": "辰月乙未日，乙未属甲午旬空辰巳。用神官鬼两现：二爻丑土静、四爻丑土持世而动，取动而持世者为主用。官丑辰月旺相，动化妻财午火，午火生丑土为回头生，化神得日未合，官得源源生扶；原神即化财午火有气。忌神子孙卯木初爻持应静而辰月休，只得日未半合，无力克旺官。父母酉金上爻得辰合、金相，文书印绶不弱。日未冲动官丑为冲动非冲散，官旺逢冲应动主复起。决策序走完：官旺、回头生、无真空真墓，终局为有。应期三步：仕途问年档；冲实路未冲丑已在日辰只主已动、填实路辰巳空与官无关、逢值路午财逢值生官，取午年，余二路舍弃理由如上。门类对表查仕途类首选逢值/生扶点，与所取合。",
+ "sources_used": [
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md（作断通则a/b/c/f/h/i/j/k/l、六爻应期双层表达）",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/chinese-liuyao-meihua.md（用神/旺衰/空墓伏决策序/动化复核/应期三步与D项四路）",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/chinese-yijing.md（卦名核对）"
+ ]
+}

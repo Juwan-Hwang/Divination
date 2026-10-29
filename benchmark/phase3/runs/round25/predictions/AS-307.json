@@ -1,0 +1,14 @@
+{
+ "case_id": "AS-307",
+ "prediction_text": "方向：哈里斯赢得2024年美国总统选举。受访的美国职业选举占星师群体表态以哈里斯一侧为多数共识：选举日与候选人行运的综合读法指向女性候选人最终过线，特朗普败选，差距为正常胜负量级而非一边倒。应期：以日为坐标，2024年11月5日投票日落定、数日内确认。",
+ "direction_claim": "positive - Kamala Harris wins the 2024 US presidential election (consensus pick of the interviewed election astrologers)",
+ "timing_claim": "日档：2024-11-05投票日落定",
+ "confidence": 0.42,
+ "basis": "此例的占断形态为群体表态：多位职业占星师各自以选举日星盘与候选人行运作断后公开表态，本断按其通行决胜项（选举日月亮行运、候选人本命得行运吉星支持的程度）取多数所向的哈里斯一侧。此为单点胜负占、无时间纵深。输入残损：未给任何一位占星师的盘面、原文表态或票数估计，只有专题背景，置信下调至中低档，不虚报具体选举人票数。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/AS-307.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/calibration.md"
+ ]
+}

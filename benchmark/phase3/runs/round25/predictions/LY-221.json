@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-221",
+ "prediction_text": "夫妻不能偕老：世应相冲、应爻休囚动化回头克，主中途分离之象——或聚少离多终至分开，或配偶一方先衰先去；求测者自身世旺寿较长，偕老一问断为不成。",
+ "direction_claim": "negative",
+ "timing_claim": "年档：窗口为夫妻离合之年序，主坐标取子年（应爻父母子水逢值冲世之年），单位年，依据应逢值冲世、应化回头克",
+ "confidence": 0.6,
+ "basis": "巳月丁未日，丁未属甲辰旬空寅卯。世子孙午火四爻动，巳月旺、日未合之，动化妻财未土临日，世旺而向财。应父母子水初爻动，子水巳月绝、日未克之，应极弱，动化妻财未土回头克（未土克子水，动化方向已复核），应动化克主配偶一方根气自伤。应子水冲世午火，世应子午相冲为夫妻不合之主象。官鬼申金五爻静得巳合、日生尚有气，不敌应弱化克。兄弟寅木二爻旬空静。对象复核：世为求测者、应为配偶，分离之断落于夫妻关系与配偶一方，不回收他人。偕老为终身问年档；三路中冲实即子冲午已成结构、逢值路子应逢值取子年为主坐标，填实路寅空非主线舍。输入未给性别，配偶以应爻指代不臆定夫或妻。",
+ "sources_used": [
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md（作断通则a/b/c/f/h/i/j/k/l、六爻应期双层表达）",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/chinese-liuyao-meihua.md（用神/旺衰/空墓伏决策序/动化复核/应期三步与D项四路）",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/chinese-yijing.md（卦名核对）"
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "case_id": "AS-301",
+ "prediction_text": "方向：负面，2020年是全球性大动荡之年而非平稳年。年初即有结构性危机引爆：以2020年1月土星与冥王星在摩羯合相为纲，全年主线是一场席卷全球的健康危机（疫病扩散、各国封锁）叠加金融与经济急坠——股市在年初第一季度出现剧烈下跌/熔断式下挫，其后是失业、供应链与出行停摆、政府大规模救市。逐月节奏：1-3月危机爆发与市场暴落最烈，春夏在封锁与反复中度过，秋冬第二波压力再起，全年无真正复常。应期：以月为单位，窗口为2020年全年，主坐标为2020年1月土冥合相至3月木冥、火冥相继成相的爆发期。",
+ "direction_claim": "negative - 2020 dominated by a global pandemic/health crisis and a sharp financial crash in Q1, with disruption all year",
+ "timing_claim": "月档：窗口2020年全年，主坐标2020年1-3月（土冥合相引爆、第一季度市场暴落与疫病全球扩散）",
+ "confidence": 0.55,
+ "basis": "现代占星世界运（mundane）：2019年11月作全年逐月预测时可推的硬天象为2020-01土星-冥王星合于摩羯（结构、国家机器、死亡与重组之象）、其后木星-冥王星与火星-冥王星成相，古典与现代世界运皆以土冥合主大疫、战争级别的人员损失与金融结构崩裂，故断健康危机与市场暴落并见、首季最烈。输入残损严重：输入未给任何盘面、星历表或逐月原文，只有提问与时点，无从按宫位逐月复核，应期只定到月档、置信显著下调；本断只凭提问时点可计算的行运骨架，不据任何事后材料补细节。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/AS-301.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/calibration.md"
+ ]
+}

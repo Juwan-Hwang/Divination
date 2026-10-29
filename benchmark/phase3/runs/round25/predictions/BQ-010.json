@@ -1,0 +1,13 @@
+{
+ "case_id": "BQ-010",
+ "prediction_text": "方向：负面，此讼不成、谈朝辅一方占不到上风。得《蒙》之《未济》而父母空亡：父母主文书、状纸、证据，父母空亡主所恃的文书证据落空、无凭可据；本卦蒙主蒙昧未明、变卦未济主事终未成，两卦同向皆主此事走不到一个成的终局——官司或被驳回、拖至不了了之，或判下亦于己不利，不得以胜诉收场。应期：以月为单位，窗口为问后数月内，主坐标取父母爻出空填实之月（木爻填实之月）为出结果之时，结果方向仍为不成/不利，不因出空而翻胜。",
+ "direction_claim": "negative - lawsuit does not succeed; documentary evidence is void (parents line empty), matter ends uncompleted/unfavourably",
+ "timing_claim": "月档：窗口问后数月，主坐标为父母（文书）出空填实之月见分晓（输入未记占日，无从定具体月名与日）",
+ "confidence": 0.42,
+ "basis": "六爻纳甲：诉讼以官鬼为官司/官府一线、父母为状纸文书证据一线，输入明言父母空亡——按决策序总禁令，空不径断死，先论状态：父母空在此主文书证据暂无力、待出空填实才应事，其应验位即填实之月；但本卦蒙、变卦未济的卦名终局同主未成，未济为六十四卦之终而事未济，无动化吉向或救应信息可据以翻转（输入未给动爻、用神旺衰、日月），故终局按不成落单判（通则l：六爻事件型终局单一方向，不以mixed收束）。对象复核：承受对象为谈朝辅本人之诉讼，断语落于其本人。门类应期：诉讼门类以父母/官鬼填实出空为出结果一路，本例对表取填实路。输入残损严重：无全盘、无占日、无动爻与月建日辰，旺衰、真假空（真空/假空判别需日月生扶与根气）均无从复核，应期只能定月档与填实一路、不能定具体月份，置信下调。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/BQ-010.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-013",
+ "prediction_text": "工党（Labour，Keir Starmer领衔）赢得2024年7月4日英国大选，执政保守党（Rishi Sunak）大败下野。民调约20个百分点的巨大差距与巨蟹座选举日的求变求安之势同向，工党取得议会多数、Starmer出任首相，且为幅度可观的胜利而非险胜。方向取Labour胜。",
+ "direction_claim": "labour_wins",
+ "timing_claim": "年档内定点：2024年7月4日大选日揭晓",
+ "confidence": 0.8,
+ "basis": "事实优先序与等级校准：约20点民调差距为强事实锚，无盘面反转信号可推翻，等级按足级断为明确多数胜利。输入完整。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

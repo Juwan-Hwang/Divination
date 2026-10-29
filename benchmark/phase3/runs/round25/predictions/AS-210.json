@@ -1,0 +1,14 @@
+{
+ "case_id": "AS-210",
+ "prediction_text": "方向：正面，能得到所求的官职/位置。月亮居第十宫（官职宫）且入相与土星成三分，土星在上升擢升、与问者征象金星互容（土星收金星、金星亦收土星），主经一位庄重、有分量的人物（土星型靠山）之手得职，事可成而偏迟、偏沉稳得来。须防所托的太阳型朋友：太阳为第十一宫（朋友/希望）主、在第七宫与上升对冲且带龙尾，主这位假朋友不但帮不上、还起妨碍，成事不靠他。应期：以月为单位，窗口在问后数周至数月，主坐标取月亮与土星三分成相之时。",
+ "direction_claim": "positive - obtains the preferment, through a Saturnine patron, despite a false solar friend",
+ "timing_claim": "月档：窗口数周至数月，主坐标为月亮入相土星三分成相之时（输入未给度数差，故不定具体日期）",
+ "confidence": 0.7,
+ "basis": "Lilly卜卦求官：上升与金星为问者，第十宫为所求官职；月亮在第十宫、入相三分土星，古典求官以月亮/问者主星与第十宫主或宫内星成吉相为得职之据；土星在上升擢升、与金星互容，主靠山有力且彼此接纳；第十一宫主太阳在第七宫冲上升、合龙尾，主所托朋友虚假有害、从此路无助。月亮离水星刑，主先有文书/言语小阻而后成。输入残损：未给月土度数差与确切日期，应期只定月档。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/AS-210.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/calibration.md"
+ ]
+}

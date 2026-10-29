@@ -1,0 +1,14 @@
+{
+ "case_id": "BQ-001",
+ "prediction_text": "方向：负面，父寿不久，昨日气尽复苏是回光之象、非转愈之兆。得《兑》之《履》：兑为口、为言、为毁折，上爻动而变乾为天，卦气已行至上位终点，久卧三年之疾（兑金受本宫火克于庚辛日，金气被克而口息乍绝乍续）主其寿数在本旬内走到尽头，复苏只续得短时。近段数日内气息尚可有一线回续，远段无新救应入卦（变卦履为小心行于危地、终局仍归乾天之终），终局断父将在短时内再绝而逝。应期：以日为单位，窗口为三月十三问后十日内，主坐标取问后第七日一带（兑上爻动、爻位至上主终，七日为一旬内气数转绝之点），逝期当在此窗口内、主坐标前后。",
+ "direction_claim": "negative - father does not recover; the revival is brief and he dies within days (within ten days of the asking)",
+ "timing_claim": "日档：窗口为问后十日内，主坐标约问后第七日（本题问近亲寿数与旦夕气息、问题本身以日为尺度，故用日单位）",
+ "confidence": 0.38,
+ "basis": "蓍筮/卦象断法（输入自述已用本宫、庚辛日、变卦）：本卦兑、变卦履，兑上六动变乾——上位为一卦之终，久病三年者气至上位主动，主寿数临终点；兑为口主气息言语，昨日气尽复苏与兑口乍开乍合之象合；庚辛日金旺而断语自述本宫火克之，主病体之金受克。对象复核：所问承受对象为求卜者之父、断语应验对象同为其父，指代同一。两段式：近段回光（事实已见复苏），远段无原神/救应类新象入卦、变履终归于乾，故终局取负面一段落定，不虚构转愈。输入残损严重：原文无六爻全盘、无动爻明文、无年月，只有本卦变卦与断语援引的卦象，无法装纳甲盘、无法按父母爻旺衰与空墓程序复核，应期主坐标只能以爻位与旬日量级估计，置信显著下调。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/BQ-001.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/chinese-yijing.md"
+ ]
+}

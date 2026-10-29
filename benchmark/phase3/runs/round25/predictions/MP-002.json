@@ -1,0 +1,13 @@
+{
+ "case_id": "MP-002",
+ "prediction_text": "蔡英文與民進黨會贏：蔡雖在2019年初處低谷，但低谷即轉折——她將守住民進黨提名、黨內不換人，聲勢逐月回升，2020年1月大選連任成功，民進黨勝、國民黨敗。不會因2018年地方大敗而在2020年丟掉政權。",
+ "direction_claim": "positive（蔡英文連任、民進黨勝）",
+ "timing_claim": "應期單位為年/月：2020年1月總統大選定局；轉折與回升在2019年內逐月發生",
+ "confidence": 0.6,
+ "basis": "事實優先：占題事實為蔡剛經地方大敗、民調低谷、黨內換人未定。低谷本身不作終局（通則i兩段式：近段低迷、遠段回升，遠段觸發為現任執政與在野整合未成之局勢延續）。等級按現任者回升足級給出連任，不無據降格為僅能參選。無出生時刻等命盤輸入，不以八字硬排，置信中等等級並在此註明輸入殘損：本例僅有生年與政局事實，無時辰盤面可據。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/MP-002.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/calibration.md"
+ ]
+}

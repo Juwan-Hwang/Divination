@@ -1,0 +1,13 @@
+{
+ "case_id": "MP-011",
+ "prediction_text": "三組候選人勝算排序為：第一賴清德（賴蕭配）、第二侯友宜（侯趙配）、第三柯文哲（柯吳配）。賴將當選，得票率約四成；侯約三成三居次；柯約二成六居末。三腳督下無人過半，賴以相對多數勝出。",
+ "direction_claim": "positive_for_lai_ranking_lai_hou_ko（賴第一當選、侯次、柯末）",
+ "timing_claim": "應期單位為日：2024年1月13日投票開票定排序與當選",
+ "confidence": 0.8,
+ "basis": "事實優先：占題明載藍白合已於11月23日破局、三腳督確立、距投票47天。在野分裂下執政黨候選人相對多數勝出為主路徑；排序按三方基本盤量級足級給出得票率量級（通則b）。具體項：人物=三組、數量=得票率約四成/三成三/二成六、時點=投票日。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/MP-011.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/calibration.md"
+ ]
+}

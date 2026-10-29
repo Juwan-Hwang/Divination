@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-206",
+ "prediction_text": "她嫁不成所想嫁的那个男人。问者示象水星逆行且伏于日光之下，主她这一方势弱、心意反复又无力推进；对方示象星居擢升、势高，且正近金星的六合——正合来历所言他「自居高位（stood upon high terms）、又与另一女子纠缠（tampering with another）」：他人高气傲、心有旁骛。两示象星之间只有一个半六合（semi-sextile），在古典法中不构成成事的入相成相（perfection），婚事没有落定的相位通道。月亮虽离木星之刑、把光以三分相转递给上升主水星，主她能得些消息、安慰或中人传话，但转递的对象不是对方示象星，传的是旁人之光，不足以把两人缔成婚配。故断：此婚不成，事情将在数月内冷下去、散掉。应期单位为月，无成事之期可报。",
+ "direction_claim": "negative (she will not marry the man desired)",
+ "timing_claim": "月档（事散之尺度）：窗口为起问（1646年）后数月内渐冷而散，无成相定点，故不设成事主坐标日期",
+ "confidence": 0.6,
+ "basis": "古典七宫婚问成事须两示象星成相（perfection）：此处仅半六合，不成相位；问者水星逆行伏光弱、对方擢升近金星主高傲与旁骛，与输入 setting 互证。月亮转光所递为木星之光而非对方示象之光，只主消息/中人，不主缔婚。通则(e)事实优先：以「他另有纠缠」之给定事实取象，未以象压事实。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/AS-206.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

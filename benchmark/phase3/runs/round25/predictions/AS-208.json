@@ -1,0 +1,14 @@
+{
+ "case_id": "AS-208",
+ "prediction_text": "方向：对鲁珀特亲王为负面。鲁珀特不会凭这场战争得荣誉，反为埃塞克斯伯爵所制、名声与战局上都落下风：其主星太阳无力（peregrine且 detriment、居固定星座），而对手金星与土星互容且处置（dispose）鲁珀特的主星，主导权在对方手中。结局非战死：他屡挫、声誉受损，终局是失势离场/漂泊于外，而非凯旋受荣。应期：固定星座主迟，以月至年为单位，挫败在本战局的后续数月内陆续见分晓，失势离场在更后的年档。",
+ "direction_claim": "negative for Rupert - no honour, worsted by Essex, ends in loss of standing/exile rather than death",
+ "timing_claim": "月/年档：窗口为问后数月至一二年，主坐标取太阳在固定星座迟滞所主的本季后续交战期",
+ "confidence": 0.66,
+ "basis": "Lilly卜卦：贵人以第十宫及其主星太阳为鲁珀特征象星，太阳 peregrine、在 detriment、居固定星座，无力而迟滞，不得荣誉之象；对方以对宫主星金星为埃塞克斯，金星与土星互容、且处置鲁珀特的太阳，主对方握有处置权、得地利（承Edgehill后埃塞克斯守住阵地之事实）；月亮以左相位投第十宫宫尖、金星以右相位投第十宫，主荣誉宫受对方之星牵制。无第八宫/火星致命刑克落于鲁珀特主星，故不断战死，只断挫败失势。输入残损：未给完整盘面与确切问时，应期只能定月/年档。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/AS-208.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/calibration.md"
+ ]
+}

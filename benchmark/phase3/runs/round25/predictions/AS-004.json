@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-004",
+ "prediction_text": "传闻不实：国王并没有攻下剑桥。四角皆变动星座，主事体不稳、传闻无根；月亮陷于后宫（cadent）且落其不喜之星座，传闻示象弱而失据；上升主（问者/议会一方）居擢升之位，势强；第七宫主（国王一方）正入其陷落之地且受克——国王一方正走下坡，无攻城得手之力。土星伤十宫头、火星伤七宫头，皆主此说为虚张。方向：消息为假，剑桥未失。应期单位为日：此为现时状态之断，数日内即可被证伪。",
+ "direction_claim": "negative (report is false; the King has not taken Cambridge)",
+ "timing_claim": "日档：窗口为起问后数日内，主坐标为消息核实之当下数日（现时盘、无未来入相待成之象）",
+ "confidence": 0.8,
+ "basis": "Lilly 卜卦验传闻：变动角＋月亮陷弱主传闻无实；上升主擢升与七宫主入陷受克方向相反相对照，断国王未得手。通则(k)：现时真伪问属日档。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/AS-004.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

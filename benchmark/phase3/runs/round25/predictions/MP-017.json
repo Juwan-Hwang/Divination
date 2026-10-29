@@ -1,0 +1,13 @@
+{
+ "case_id": "MP-017",
+ "prediction_text": "方向：由女性出任下届香港行政长官。具体断语：2017年选举不会回到男性特首，女性候选人（当时正重新考虑参选的政务司司长一系）将胜出入主。依据占时事实：时任特首已宣布不连任，男性热门人选虽已辞职备选，但真正获支持体系青睐、能取得选举委员会多数者为女性司长；以人事格局与支持结构定性，女胜男。应期：2017年3月26日选举委员会投票日定局。",
+ "direction_claim": "女性出任（female winner）",
+ "timing_claim": "2017年3月26日选举日",
+ "confidence": 0.72,
+ "basis": "事实优先序与格局定性：占时已知梁振英不连任、曾俊华辞职备选、林郑月娥改口考虑参选；特首选举由1194人选举委员会决定而非普选民望，支持结构（中央取向与建制票源）指向在任司长女性人选，故断女性出任。无命盘／卦象输入，仅凭占时格局作断，置信中高。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

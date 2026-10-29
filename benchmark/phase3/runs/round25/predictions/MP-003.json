@@ -1,0 +1,13 @@
+{
+ "case_id": "MP-003",
+ "prediction_text": "韓國瑜會參選2020年總統：他不會止步於高雄市長，2019年內將表態投入總統選舉並進入國民黨初選，年中（約7月）取得國民黨提名，正式成為總統候選人。",
+ "direction_claim": "positive（會參選並獲提名）",
+ "timing_claim": "應期單位為月：2019年年中定局，主坐標為2019年7月國民黨初選/提名落定",
+ "confidence": 0.75,
+ "basis": "事實優先：占題時韓就任市長約兩週、韓流聲勢正盛、外界已猜其直攻大位——聲勢與本人政治動能同向，參選屬順勢而非逆勢。具體項：人物=韓國瑜、事件=參選並獲提名、時點=2019年7月。此斷只斷參選與提名，不及當選與否。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/MP-003.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-01",
+ "prediction_text": "断文书可得、能领。父母为用神，不上卦取伏神：伏父母火得卯月木生为相、有气，壬辰日甲申旬空午未，伏神逢空为假空待出（旺相得生、空只记应期不作凶权），飞神不旺压、伏有出路。终局按出空填实之路得领，应期双层：窗口本旬内，主坐标午日逢值填实得领。",
+ "direction_claim": "positive",
+ "timing_claim": "窗口：本旬内至出空；主坐标：午日（日档）",
+ "confidence": 0.72,
+ "basis": "动化方向：静卦无动化，无动化定性；反转条件：伏神引拨判据部分成立（伏有气、逢空待出），不越门槛另翻，维持伏出得领。四路：本气＋（父母相得月生）／元忌仇0（无忌动克）／动化0（静卦）／世应不计（代占看用神）；合参方向：成。对象对齐：所问对象=候文书者；用神=伏父母；应验对象=同一文书，与所问同一。应期三步：日档（近事候文书、日辰作用显著）；冲实午日、填实午日、逢值午日三路同指午，取填实/逢值，舍冲实（无冲空之支独指）。对表无候文书专类，明写对表无此门类。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/LY-01.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

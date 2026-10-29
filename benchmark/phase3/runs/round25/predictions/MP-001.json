@@ -1,0 +1,13 @@
+{
+ "case_id": "MP-001",
+ "prediction_text": "蔡英文勝選連任，韓國瑜落敗、宋楚瑜第三：蔡得票率約五成七、韓約三成九，蔡韓差距約二百六十萬票（約十八個百分點），屬大勝而非險勝；立委民進黨單獨過半、約六十席上下，國民黨約三十八席，民眾黨等小黨僅個位數席次。2020年1月11日投票日揭曉。",
+ "direction_claim": "positive_for_cai_yingwen_negative_for_han_guoyu（蔡勝韓敗）",
+ "timing_claim": "應期單位為日：2020年1月11日投票開票定局（問時選戰剩最後兩週，尺度以投票日為主坐標）",
+ "confidence": 0.85,
+ "basis": "現代預測類無起卦盤面，依通則e事實優先以占題事實作斷：辯論會後選戰末段，蔡為現任且聲勢居前、韓聲勢自高點回落、三腳督中宋居末。方向與量級同級（通則b）：差距按大勝級給出，不作險勝降格。具體項：人物=蔡/韓/宋、數量=得票率與約二百六十萬票差及立委席次、時點=投票日。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/MP-001.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "case_id": "MP-006",
+ "prediction_text": "韓國瑜2020年運勢下行、總統之路不成：2020年1月總統大選落敗；且敗選後禍不單行，年中高雄市長職位亦不保——罷免案將通過、去職下台。2020年對韓是先敗選、再丟市長的一年，不是東山再起之年。",
+ "direction_claim": "negative（敗選且市長被罷免去職）",
+ "timing_claim": "應期單位為月：第一段2020年1月敗選定局；第二段2020年年中罷免投票定去留",
+ "confidence": 0.7,
+ "basis": "事實優先：占題明載韓民調自2019年8月起下滑、已提名約兩個月而勢衰。兩段式（通則i）：近段敗選、遠段市長不保，遠段觸發為高雄民間罷免連署與民怨延續之局勢（與MP-009占題互證的同一事實線，此處只據本例下滑事實推得罷免風險足級）。等級按勢衰足級給出去職，不降格為僅受警告。具體項：人物=韓國瑜、事件=敗選與罷免去職各一、時點=1月與年中兩坐標分段寫明。",
+ "sources_used": [
+  "benchmark/phase3/inputs8/MP-006.json",
+  "benchmark/phase3/runs/round25/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round25/kb-snapshot/references/calibration.md"
+ ]
+}
