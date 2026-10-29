@@ -1,0 +1,401 @@
+{
+ "per_case": {
+  "LY-321": {
+   "ours": {
+    "direction": 1.0,
+    "claims": 1.0,
+    "timing": 1.0,
+    "total": 3.0
+   },
+   "master": {
+    "direction": 1.5,
+    "claims": 1.5,
+    "timing": 0.5,
+    "total": 3.5
+   }
+  },
+  "LY-326": {
+   "ours": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 1.0,
+    "total": 5.0
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 2.0,
+    "total": 6.0
+   }
+  },
+  "LY-327": {
+   "ours": {
+    "direction": 0.0,
+    "claims": 0.0,
+    "timing": 0.0,
+    "total": 0.0
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 1.5,
+    "total": 5.0
+   }
+  },
+  "LY-334": {
+   "ours": {
+    "direction": 0.5,
+    "claims": 0.5,
+    "timing": 1.0,
+    "total": 2.0
+   },
+   "master": {
+    "direction": 1.5,
+    "claims": 1.5,
+    "timing": 1.0,
+    "total": 4.0
+   }
+  },
+  "LY-337": {
+   "ours": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 0.75,
+    "total": 4.25
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 2.0,
+    "total": 6.0
+   }
+  },
+  "LY-341": {
+   "ours": {
+    "direction": 1.5,
+    "claims": 1.5,
+    "timing": 1.5,
+    "total": 4.5
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 1.75,
+    "timing": 2.0,
+    "total": 5.75
+   }
+  },
+  "LY-343": {
+   "ours": {
+    "direction": 0.0,
+    "claims": 0.0,
+    "timing": 1.0,
+    "total": 1.0
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 1.75,
+    "timing": 1.0,
+    "total": 4.75
+   }
+  },
+  "LY-345": {
+   "ours": {
+    "direction": 0.0,
+    "claims": 0.0,
+    "timing": 1.0,
+    "total": 1.0
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 1.75,
+    "timing": 1.0,
+    "total": 4.75
+   }
+  },
+  "LY-401": {
+   "ours": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 0.75,
+    "total": 4.25
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 2.0,
+    "total": 6.0
+   }
+  },
+  "LY-409": {
+   "ours": {
+    "direction": 1.75,
+    "claims": 1.25,
+    "timing": 0.0,
+    "total": 3.0
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 1.25,
+    "total": 4.75
+   }
+  },
+  "LY-410": {
+   "ours": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 1.0,
+    "total": 4.5
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 1.0,
+    "timing": 0.0,
+    "total": 3.0
+   }
+  },
+  "LY-414": {
+   "ours": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 2.0,
+    "total": 6.0
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 1.75,
+    "timing": 2.0,
+    "total": 5.75
+   }
+  },
+  "LY-419": {
+   "ours": {
+    "direction": 2.0,
+    "claims": 1.75,
+    "timing": 1.0,
+    "total": 4.75
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 2.0,
+    "total": 6.0
+   }
+  },
+  "LY-420": {
+   "ours": {
+    "direction": 2.0,
+    "claims": 1.75,
+    "timing": 0.25,
+    "total": 4.0
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 2.0,
+    "total": 6.0
+   }
+  },
+  "LY-422": {
+   "ours": {
+    "direction": 1.25,
+    "claims": 0.75,
+    "timing": 0.0,
+    "total": 2.0
+   },
+   "master": {
+    "direction": 1.5,
+    "claims": 1.0,
+    "timing": 0.0,
+    "total": 2.5
+   }
+  },
+  "LY-431": {
+   "ours": {
+    "direction": 2.0,
+    "claims": 1.75,
+    "timing": 2.0,
+    "total": 5.75
+   },
+   "master": {
+    "direction": 1.75,
+    "claims": 1.5,
+    "timing": 1.0,
+    "total": 4.25
+   }
+  },
+  "LY-435": {
+   "ours": {
+    "direction": 0.0,
+    "claims": 0.25,
+    "timing": 0.0,
+    "total": 0.25
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 2.0,
+    "total": 6.0
+   }
+  },
+  "LY-438": {
+   "ours": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 1.0,
+    "total": 4.5
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 2.0,
+    "total": 6.0
+   }
+  },
+  "LY-444": {
+   "ours": {
+    "direction": 0.0,
+    "claims": 0.5,
+    "timing": 0.0,
+    "total": 0.5
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 0.0,
+    "total": 4.0
+   }
+  },
+  "LY-447": {
+   "ours": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 1.25,
+    "total": 5.25
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 1.25,
+    "total": 5.25
+   }
+  },
+  "LY-448": {
+   "ours": {
+    "direction": 0.0,
+    "claims": 0.0,
+    "timing": 0.0,
+    "total": 0.0
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 1.75,
+    "timing": 0.25,
+    "total": 4.0
+   }
+  },
+  "LY-450": {
+   "ours": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 2.0,
+    "total": 6.0
+   },
+   "master": {
+    "direction": 0.5,
+    "claims": 0.5,
+    "timing": 0.25,
+    "total": 1.25
+   }
+  },
+  "LY-453": {
+   "ours": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 1.0,
+    "total": 4.5
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 1.0,
+    "total": 5.0
+   }
+  },
+  "LY-456": {
+   "ours": {
+    "direction": 0.0,
+    "claims": 0.0,
+    "timing": 1.0,
+    "total": 1.0
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 1.0,
+    "total": 5.0
+   }
+  },
+  "LY-459": {
+   "ours": {
+    "direction": 1.75,
+    "claims": 1.5,
+    "timing": 0.0,
+    "total": 3.25
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 2.0,
+    "total": 6.0
+   }
+  }
+ },
+ "stats": {
+  "ALL": {
+   "n": 25,
+   "ours_mean": 3.21,
+   "master_mean": 4.82,
+   "pair_diff": -1.61,
+   "W/T/L": "4/1/20",
+   "ours_pass": 13,
+   "master_pass": 21,
+   "ours_sub": {
+    "direction": 1.27,
+    "claims": 1.12,
+    "timing": 0.82
+   },
+   "master_sub": {
+    "direction": 1.87,
+    "claims": 1.71,
+    "timing": 1.24
+   }
+  },
+  "LOW": {
+   "n": 25,
+   "ours_mean": 3.21,
+   "master_mean": 4.82,
+   "pair_diff": -1.61,
+   "W/T/L": "4/1/20",
+   "ours_pass": 13,
+   "master_pass": 21,
+   "ours_sub": {
+    "direction": 1.27,
+    "claims": 1.12,
+    "timing": 0.82
+   },
+   "master_sub": {
+    "direction": 1.87,
+    "claims": 1.71,
+    "timing": 1.24
+   }
+  },
+  "HIGH": null,
+  "criteria": {
+   "i_all_ours_mean_gt_master": false,
+   "ii_low_wins_gt_losses": false,
+   "iii_low_pair_diff_positive": false,
+   "PASS_ALL": false
+  }
+ }
+}

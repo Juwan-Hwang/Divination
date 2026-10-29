@@ -1,0 +1,17 @@
+{
+ "total": 50,
+ "packetA": 25,
+ "packetB": 25,
+ "mapping": 50,
+ "meta": 50,
+ "ours": {
+  "n": 25,
+  "direction_null": 0,
+  "timing_null": 0
+ },
+ "master": {
+  "n": 25,
+  "direction_null": 25,
+  "timing_null": 25
+ }
+}

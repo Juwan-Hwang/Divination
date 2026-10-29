@@ -645,3 +645,7 @@ dev4 零改动复现轮完成（方法＝R12 版，逐字未动）：全集我�
 - 流程（同 holdout3）：盲测角只读 benchmark/phase3/holdout4-inputs/ 与 method/，预测落 benchmark/phase3/holdout4-acceptance/predictions/；预测齐备后由评审侧在 holdout4-seal-log.md 追加开封一笔，才可读 benchmark/phase3/holdout4/test_gold.jsonl 建混编匿名包（anon 前缀 H4-，我方与大师断语混编）；双评审各评全量（50 条）、分歧仲裁（判据同前：claims+timing 合计差 ≥2 或 pass 不一致）；主持角解盲算配对。大师断语文本构成口径同 holdout3（statement_excerpt＋key_assertions，或 verdict）。
 - 达标三判据（同 holdout3，须同时成立）：(i) 全集我方轴二均分 > 大师；(ii) 低污染配对胜多于负；(iii) 低污染配对差为正。
 - 后果分支：达标 → 打包 final-skill-v2（version 2.0.0）＋ benchmark/phase3/FINAL-REPORT-v2.md 总报告收官；未达标 → holdout4 标已用、转诊断（旺衰裁决层假设、须回扣原典）、数据角再扩数另设 holdout5，继续迭代，不停链。
+
+## Phase 3 holdout4 验收结果（2026-10-29，未达标）
+
+现行 R12 版方法在 holdout4（25 例全新封存六爻例，全低污染、全集与低污染同口径）上：我方 3.210 vs 大师 4.820，配对差 −1.610（4/1/20），pass 13 vs 21；三分项方向 1.270/1.870、断语 1.120/1.710、应期 0.820/1.240。达标三判据全不成立，**未达标**，holdout4 标已用。诊断：增删子集（n=17，数据完整）配对差 −1.250、三分项同量级落后，真实差距在用神取用与旺衰裁决；卜筮子集（n=8，月日全缺、装卦表不录、盘面通则重建）配对差 −2.375、方向塌陷含数据保真度因素。下一步：R14 主攻旺衰裁决层（原典回扣、机制级假设）；数据角扩数另设 holdout5，只收月日与装卦完整的六爻成例入验收集。详见 benchmark/phase3/holdout4-acceptance/REPORT.md。
