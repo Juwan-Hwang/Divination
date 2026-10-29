@@ -1,0 +1,24 @@
+{
+ "id": "MH-003",
+ "subject": {
+  "name_or_desc": "占例所涉人/物（見 context）"
+ },
+ "context": {
+  "question": "鄰夜扣門借物占：借何物",
+  "asked_at": "冬夕酉時（干支原文未記）",
+  "setting": "冬夕酉時，邵雍擁爐，有人扣門：一扣一聲而止，繼又扣五聲，且言借物；先生令勿言，令其子先占所借何物",
+  "attachments": {
+   "casting_method": "梅花易數（先天數/後天端法，詳見 method_detail）",
+   "method_detail": "聞聲占：扣一聲屬乾為上卦，五聲屬巽為下卦；一乾五巽共六數加酉時十數總十六，除六餘四為四爻動",
+   "hexagram": "天風姤，四爻動，變巽為風；互見重乾"
+  }
+ },
+ "provenance": {
+  "book": "《梅花易數》",
+  "edition": "維基文库本",
+  "url": "https://zh.wikisource.org/wiki/梅花易數",
+  "page": "卷一·象數易理篇之二（占例）"
+ },
+ "language": "zh-Hant",
+ "split": "test"
+}

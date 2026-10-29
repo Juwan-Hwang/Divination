@@ -1,0 +1,28 @@
+{
+ "id": "BZ-013",
+ "subject": {
+  "name_or_desc": "未具名命主（原注未具名）",
+  "birth": {
+   "date": "原注未记生年，仅存四柱与大运",
+   "time": "壬子时（据时柱）",
+   "place": "未记"
+  },
+  "gender": "男（批语生七子）"
+ },
+ "context": {
+  "question": "断此命造（一生格局、吉凶与运程）",
+  "asked_at": "清",
+  "setting": "命主未具名，异路出身",
+  "attachments": {
+   "pillars": "丁丑 乙巳 癸酉 壬子；大运：甲辰 癸卯 壬寅 辛丑 庚子 己亥"
+  }
+ },
+ "provenance": {
+  "book": "《滴天髓阐微》任铁樵注",
+  "edition": "",
+  "url": "https://blog.sina.com.cn/s/blog_4ef912550102w7k5.html",
+  "page": "地位篇命例1（新解五十八转录）"
+ },
+ "language": "zh-Hant",
+ "split": "test"
+}

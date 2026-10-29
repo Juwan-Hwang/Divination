@@ -1,0 +1,30 @@
+{
+ "id": "lilly-nativity-1616-merchant",
+ "subject": {
+  "name_or_desc": "A merchant (unnamed native)",
+  "birth": {
+   "date": "Thursday 19 September 1616",
+   "time": "2h 24m 30s p.m.",
+   "place": "latitude 53°"
+  }
+ },
+ "context": {
+  "question": "Judge the nativity (Book III programme: length of life, shape/fortune, estates, preferment, marriage, children, travels, quality of death)",
+  "asked_at": "Born Thursday 19 September 1616, 2h 24m 30s p.m., latitude 53° — per the inscription in the centre of the scheme figure (1647 printed p.500), visually transcribed; the accompanying prose calls this the estimative time, afterwards rectified by accidents (see notes)",
+  "setting": "The worked subject nativity of Book III, Chap. XCVIII. Lilly took the birth time first as an 'estimative time', erected a speculum, and rectified the figure by directing the Ascendant, Midheaven and Sun to malefic terms/aspects and matching the arcs to accidents the native himself acknowledged (illnesses, losses and other events of his life, incl. at ages 23 and 24). The chapter then works the standard nativity judgments (life, estate, preferment, marriage, children, travels, death) on the rectified figure. The book gives no externally checkable outcome; the native is anonymous and no post-publication verification is recorded.",
+  "attachments": {
+   "ascendant": "6°37′ Capricorn",
+   "midheaven": "14°39′ Scorpio",
+   "key_positions": "From the scheme figure (p.500) and the printed Speculum (p.511), cross-checked against the prose where the OCR/prose states them: Moon 1°44′ Gemini (prose agrees); Saturn 9°02′ Taurus (prose agrees); Jupiter 21°55′ Pisces (scheme figure); Descendant 6°37′ Cancer. Full speculum of latitudes, terms and aspects is printed at p.511.",
+   "note": "Positions as printed in the 1647 scheme and Speculum (visually transcribed; see transcription note). Lilly's own tables (Regiomontanus) and 1616 ephemeris underlie the figure; modern recomputation will differ slightly."
+  }
+ },
+ "provenance": {
+  "book": "William Lilly, Christian Astrology (1647), Book III",
+  "edition": "1647 first edition (Internet Archive scan); scheme inscription and speculum read visually from the scan (BookReader leafs 533 and 542); cross-checked against the 1852 Zadkiel edition prose",
+  "url": "https://archive.org/details/christian-astrology-1647",
+  "page": "Book III, Chap. XCVIII 'Of the Nativity of a Merchant' (1647 printed pp.500–535; scheme p.500, Speculum p.511)"
+ },
+ "language": "en",
+ "split": "test"
+}

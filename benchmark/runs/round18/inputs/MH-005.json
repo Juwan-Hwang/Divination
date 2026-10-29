@@ -1,0 +1,24 @@
+{
+ "id": "MH-005",
+ "subject": {
+  "name_or_desc": "占例所涉人/物（見 context）"
+ },
+ "context": {
+  "question": "西林寺牌額占：寺額「林」字無兩勾，占其兆",
+  "asked_at": "原文未記干支日時（以字畫起卦）",
+  "setting": "邵雍偶見西林寺之額，「林」字無兩勾，因占之",
+  "attachments": {
+   "casting_method": "梅花易數（先天數/後天端法，詳見 method_detail）",
+   "method_detail": "字畫占：西字七畫為艮作上卦，林字八畫為坤作下卦；總十五畫除六餘三為三爻動",
+   "hexagram": "山地剝，三爻動，變艮為山；互見重坤"
+  }
+ },
+ "provenance": {
+  "book": "《梅花易數》",
+  "edition": "維基文库本",
+  "url": "https://zh.wikisource.org/wiki/梅花易數",
+  "page": "卷一·象數易理篇之二（占例）"
+ },
+ "language": "zh-Hant",
+ "split": "test"
+}

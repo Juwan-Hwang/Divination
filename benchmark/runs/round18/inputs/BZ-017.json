@@ -1,0 +1,28 @@
+{
+ "id": "BZ-017",
+ "subject": {
+  "name_or_desc": "未具名命主（徐乐吾评注自举对比例）",
+  "birth": {
+   "date": "原注未记生年，仅存四柱",
+   "time": "丙午时（据时柱）",
+   "place": "未记"
+  },
+  "gender": "未明示"
+ },
+ "context": {
+  "question": "断此命造（一生格局、吉凶与运程）",
+  "asked_at": "民国（注清人沈孝瞻《子平真诠》）",
+  "setting": "沈氏原论未举此例，徐乐吾评注时自举以明地支生克先后：四支子午卯酉全冲之造",
+  "attachments": {
+   "pillars": "癸酉 甲子 丁卯 丙午（原书按年右起列：癸/酉 甲/子 丁/卯 丙/午）"
+  }
+ },
+ "provenance": {
+  "book": "《子平真诠评注》徐乐吾评注",
+  "edition": "",
+  "url": "https://www.360doc.cn/article/15585030_451624954.html",
+  "page": "论生克先后/成败救应相关章节徐注举例（黄大陆本义评注转录）"
+ },
+ "language": "zh-Hant",
+ "split": "test"
+}

@@ -1,0 +1,371 @@
+{
+ "AS-001": {
+  "id": "AS-001",
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "AS-002": {
+  "id": "AS-002",
+  "direction_score": 1,
+  "assertions_score": 1,
+  "outcome_score": 1,
+  "total": 3,
+  "pass": false,
+  "source": "arbiter"
+ },
+ "AS-010": {
+  "id": "AS-010",
+  "direction_score": 2.0,
+  "assertions_score": 1.0,
+  "outcome_score": 2.0,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "AS-011": {
+  "id": "AS-011",
+  "direction_score": 2.0,
+  "assertions_score": 1.0,
+  "outcome_score": 2.0,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "AS-014": {
+  "id": "AS-014",
+  "direction_score": 1.0,
+  "assertions_score": 1.0,
+  "outcome_score": 1.0,
+  "total": 3.0,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "AS-303": {
+  "id": "AS-303",
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 0.0,
+  "total": 4.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "AS-304": {
+  "id": "AS-304",
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 0.0,
+  "total": 4.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "AS-305": {
+  "id": "AS-305",
+  "direction_score": 0.0,
+  "assertions_score": 0.0,
+  "outcome_score": 1.0,
+  "total": 1.0,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "BZ-002": {
+  "id": "BZ-002",
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "BZ-004": {
+  "id": "BZ-004",
+  "direction_score": 1,
+  "assertions_score": 1,
+  "outcome_score": 1,
+  "total": 3,
+  "pass": false,
+  "source": "arbiter"
+ },
+ "BZ-005": {
+  "id": "BZ-005",
+  "direction_score": 2.0,
+  "assertions_score": 1.5,
+  "outcome_score": 2.0,
+  "total": 5.5,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "BZ-008": {
+  "id": "BZ-008",
+  "direction_score": 1.0,
+  "assertions_score": 1.0,
+  "outcome_score": 1.0,
+  "total": 3.0,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "BZ-013": {
+  "id": "BZ-013",
+  "direction_score": 2.0,
+  "assertions_score": 1.5,
+  "outcome_score": 2.0,
+  "total": 5.5,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "BZ-014": {
+  "id": "BZ-014",
+  "direction_score": 1.0,
+  "assertions_score": 1.0,
+  "outcome_score": 1.0,
+  "total": 3.0,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "BZ-017": {
+  "id": "BZ-017",
+  "direction_score": 1.0,
+  "assertions_score": 1.0,
+  "outcome_score": 1.0,
+  "total": 3.0,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "BZ-020": {
+  "id": "BZ-020",
+  "direction_score": 1.0,
+  "assertions_score": 1.0,
+  "outcome_score": 1.0,
+  "total": 3.0,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "BZ-025": {
+  "id": "BZ-025",
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "BZ-035": {
+  "id": "BZ-035",
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "BZ-036": {
+  "id": "BZ-036",
+  "direction_score": 2.0,
+  "assertions_score": 1.5,
+  "outcome_score": 2.0,
+  "total": 5.5,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "BZ-037": {
+  "id": "BZ-037",
+  "direction_score": 1.5,
+  "assertions_score": 1.5,
+  "outcome_score": 2.0,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "BZ-041": {
+  "id": "BZ-041",
+  "direction_score": 2.0,
+  "assertions_score": 1.0,
+  "outcome_score": 2.0,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "LR-001": {
+  "id": "LR-001",
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "LY-002": {
+  "id": "LY-002",
+  "direction_score": 2.0,
+  "assertions_score": 1.0,
+  "outcome_score": 2.0,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "LY-008": {
+  "id": "LY-008",
+  "direction_score": 2.0,
+  "assertions_score": 1.0,
+  "outcome_score": 1.0,
+  "total": 4.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "LY-011": {
+  "id": "LY-011",
+  "direction_score": 0.0,
+  "assertions_score": 1.0,
+  "outcome_score": 1.0,
+  "total": 2.0,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "LY-014": {
+  "id": "LY-014",
+  "direction_score": 2,
+  "assertions_score": 0,
+  "outcome_score": 1,
+  "total": 3,
+  "pass": false,
+  "source": "arbiter"
+ },
+ "LY-017": {
+  "id": "LY-017",
+  "direction_score": 2.0,
+  "assertions_score": 1.0,
+  "outcome_score": 1.0,
+  "total": 4.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "LY-019": {
+  "id": "LY-019",
+  "direction_score": 2.0,
+  "assertions_score": 1.5,
+  "outcome_score": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "LY-021": {
+  "id": "LY-021",
+  "direction_score": 2.0,
+  "assertions_score": 1.0,
+  "outcome_score": 1.0,
+  "total": 4.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "LY-022": {
+  "id": "LY-022",
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "LY-025": {
+  "id": "LY-025",
+  "direction_score": 2.0,
+  "assertions_score": 1.5,
+  "outcome_score": 2.0,
+  "total": 5.5,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "LY-03": {
+  "id": "LY-03",
+  "direction_score": 2.0,
+  "assertions_score": 1.0,
+  "outcome_score": 1.0,
+  "total": 4.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "LY-034": {
+  "id": "LY-034",
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "LY-103": {
+  "id": "LY-103",
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "LY-105": {
+  "id": "LY-105",
+  "direction_score": 0.0,
+  "assertions_score": 0.5,
+  "outcome_score": 1.0,
+  "total": 1.5,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "MH-003": {
+  "id": "MH-003",
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "MH-005": {
+  "id": "MH-005",
+  "direction_score": 1.0,
+  "assertions_score": 1.0,
+  "outcome_score": 0.5,
+  "total": 2.5,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "MH-010": {
+  "id": "MH-010",
+  "direction_score": 0.5,
+  "assertions_score": 0.5,
+  "outcome_score": 1.0,
+  "total": 2.0,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "ZW-001": {
+  "id": "ZW-001",
+  "direction_score": 1.0,
+  "assertions_score": 1.0,
+  "outcome_score": 1.0,
+  "total": 3.0,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "ZY-003": {
+  "id": "ZY-003",
+  "direction_score": 2.0,
+  "assertions_score": 2.0,
+  "outcome_score": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "lilly-nativity-1616-merchant": {
+  "id": "lilly-nativity-1616-merchant",
+  "direction_score": 2.0,
+  "assertions_score": 1.0,
+  "outcome_score": null,
+  "total": 3.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ }
+}

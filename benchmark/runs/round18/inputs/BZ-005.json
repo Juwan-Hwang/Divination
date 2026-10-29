@@ -1,0 +1,28 @@
+{
+ "id": "BZ-005",
+ "subject": {
+  "name_or_desc": "未具名命主（原注未具名）",
+  "birth": {
+   "date": "原注未记生年，仅存四柱与大运",
+   "time": "戊寅时（据时柱）",
+   "place": "未记"
+  },
+  "gender": "未明示（科第造）"
+ },
+ "context": {
+  "question": "断此命造（一生格局、吉凶与运程）",
+  "asked_at": "清",
+  "setting": "命主未具名士子造",
+  "attachments": {
+   "pillars": "甲申 丙子 庚辰 戊寅；大运：丁丑 戊寅 己卯 庚辰 辛巳 壬午"
+  }
+ },
+ "provenance": {
+  "book": "《滴天髓阐微》任铁樵注",
+  "edition": "",
+  "url": "https://blog.sina.com.cn/s/blog_4ef912550102w68w.html",
+  "page": "寒暖篇命例1（新解二十二转录）"
+ },
+ "language": "zh-Hant",
+ "split": "test"
+}

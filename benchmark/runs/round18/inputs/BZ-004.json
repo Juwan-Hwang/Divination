@@ -1,0 +1,28 @@
+{
+ "id": "BZ-004",
+ "subject": {
+  "name_or_desc": "未具名命主（原注未具名）",
+  "birth": {
+   "date": "原注未记生年，仅存四柱与大运",
+   "time": "丁卯时（据时柱）",
+   "place": "未记"
+  },
+  "gender": "未明示（科第造）"
+ },
+ "context": {
+  "question": "断此命造（一生格局、吉凶与运程）",
+  "asked_at": "清",
+  "setting": "命主未具名应试士子造",
+  "attachments": {
+   "pillars": "壬辰 壬寅 己未 丁卯；大运：癸卯 甲辰 乙巳 丙午 丁未 戊申"
+  }
+ },
+ "provenance": {
+  "book": "《滴天髓阐微》任铁樵注",
+  "edition": "",
+  "url": "http://blog.sina.com.cn/s/blog_4ef912550102w7f0.html",
+  "page": "玄机篇命例1（新解五十五转录）"
+ },
+ "language": "zh-Hant",
+ "split": "test"
+}
