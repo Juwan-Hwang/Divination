@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-221",
+ "prediction_text": "夫妻不能偕老，中途有分离之象。世子孙午火与应父母子水子午相冲，世应相冲主难终老；应子水巳月休囚、未日土克，动化未土回头克，根伤力弱。世午虽旺而动化财未，与应动而受克两端不相守。分离之期以年为尺度，主应子水逢值冲世之子年。",
+ "direction_claim": "negative",
+ "timing_claim": "年档，主坐标子年（应爻子水逢值冲世之年），窗口在子、午相冲之年",
+ "confidence": "medium",
+ "basis": "用神参世应：世午火旺、应子水休囚受日克且动化回头克，子午冲为核心。动化方向核对：子水化未土为土克水回头克；午火化未土为泄而入合。偕老为终局类，年档先定年不落日。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

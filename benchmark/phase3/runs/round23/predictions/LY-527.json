@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-527",
+ "prediction_text": "断：家宅果有碍，修补之后功名可升。初占大有：父母未土五爻动化兄弟申金泄气，宅之文书/根基受泄，所疑庙前照壁大树之木象临戊寅日值、压宅扰气，十载不升与宅碍相应，初占定宅有碍须修。再占归妹之豫问修补后功名：官鬼巳火初爻动，妻财卯木二爻动生官（卯虽酉月月破，动而生官、破待填实），官动化父母未土（化文书），财—官—父链路流通；世父母丑土居四。修补后官星得生而动，主升。应期按月档：窗口巳、午两月，主坐标午月（卦中官鬼午火三爻逢值之月）见升迁消息、功名落实。",
+ "direction_claim": "positive - the house does obstruct; after repair, promotion will come",
+ "timing_claim": "month scale: window 巳-午月; main coordinate 午月 (官鬼午火逢值, promotion materializes)",
+ "confidence": "medium",
+ "basis": "两占分断:初占父母未土动化兄弟泄、疑处树木临日,宅碍成立。再占功名用神官鬼:巳火动得妻财卯木动生(财化官链),官化父母;卯木月破按破象过表:动而生官、有填实之路,待出之破不作败。动化方向:财动生官为吉向;反转条件未齐。对象:初占应验在宅与宅主功名,再占应验在占者本人仕途。门类对表无家宅/功名全合条,按三步原序取官逢值午月。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

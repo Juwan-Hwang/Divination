@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-208",
+ "prediction_text": "方向：对鲁珀特为负——他不会凭这场战争得荣誉，也不会压倒埃塞克斯；埃塞克斯一方占上风。主断：鲁珀特之征象太阳无力（游移无定位、落陷于固定星座），才略与名位不称其位；埃塞克斯之征象金星与土星互容、且金星支配鲁珀特的征象星，主动权与处置权在埃塞克斯/议会一方，鲁珀特受制于人。月亮以左相位临第十宫头、金星亦以右相位临第十宫头，荣誉宫受对方之星主导。故鲁珀特此后战事以失意、受挫、无功名收场为终局，其结局为被压制而非凯旋；未见其身死之象，断受挫退位而非阵亡。应期：以月尺度论，接下来数月的战局即见分晓，无精确度数可落日。",
+ "direction_claim": "negative for Rupert: he gains no honour and does not worst Essex; Essex has the advantage over him",
+ "timing_claim": "months scale: decided in the ensuing campaign months; no degree-based date available in the given positions",
+ "confidence": "medium",
+ "basis": "Lilly卜卦：贵人以第十宫及其主太阳为鲁珀特征象，太阳游移且落陷（Aquarius为太阳落陷、固定星座）主无力无荣；对方金星为对宫之主，与土星互容且支配太阳，主动在对方；月亮与金星同临第十宫头，荣誉归对方一路。通则(b)：太阳弱而对方互容有力，等级足级断为无荣誉、受压制，不拔高为身死（无八宫死亡链）。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md 作断通则(b)(c)",
+  "kb-snapshot/references/western-astro-numerology-runes.md 上篇（Lilly古典规则）",
+  "inputs7/AS-208.json key_positions"
+ ]
+}

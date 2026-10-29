@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-614",
+ "prediction_text": "断（兄病）：病势凶重、先险后解，兄可愈、不至死。用神兄弟子水得申月金生而相旺，本气不衰；官鬼戌土虽动来克水，却化出申金泄鬼生水，克势自解。近段之险在世爻子孙寅木空而月破，医药一时无力，病显沉重；远段触发为官鬼化原神、子孙填实出空，医药得力而转愈。应期按日档（近病）：窗口在本旬内，主坐标寅日——子孙寅木填实出空、药力见功，兄病向愈。对象复述：愈否、病势主语均为所问之兄本人。",
+ "direction_claim": "positive - brother's illness is severe but curable; he will recover, not die",
+ "timing_claim": "window within the current ten-day cycle (day scale, near illness); main coordinate Yin day - Zi-sun medicine fills the void and becomes effective, illness turns to recovery",
+ "confidence": "medium",
+ "basis": "Asked brother's illness: yongshen is Xiong-di Zi water (two appearances, both static). Zi water is in phase in Shen month and receives the month's metal generation - yongshen has qi (route1 +). Guan-gui Xu earth moves to clash yongshen, but Xu transforms to Shen metal which drains the ghost and generates water (ghost transforms into yuan-shen direction); Fu-mu Shen metal moves to generate brother yet transforms with returning-head restraint, so source is damaged but not cut. Shi Zi-sun Yin wood is void (Jia-Chen xun voids Yin/Mao) and month-broken by Shen - medicine is weak in the near segment, hence severe/frightening first; but yongshen itself is flourishing, the three terminal conditions (yongshen weak + no rescue + true tomb/void) are not jointly met, so no death verdict. Disease table: void medicine takes effect on the fill/real-void day (Yin day). Object check: every statement's subject is the brother himself.",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

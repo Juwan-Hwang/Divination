@@ -1,0 +1,13 @@
+{
+ "case_id": "WP-013",
+ "prediction_text": "断：基尔·斯塔默领导的工党赢得2024年7月4日英国大选，里希·苏纳克的保守党下台。民调约二十分点的巨大差距与苏纳克提前离开诺曼底纪念仪式所受的批评同向，巨蟹座太阳月份的选情不翻盘。应期：以月为单位，主坐标为2024年7月4日投票日，工党组成新政府。",
+ "direction_claim": "Labour under Keir Starmer wins the 2024 UK general election (Conservatives under Sunak lose)",
+ "timing_claim": "result on election day 4 July 2024 (month scale)",
+ "confidence": "high",
+ "basis": "Input gives a roughly twenty-point Labour poll lead plus a self-inflicted Sunak controversy (leaving D-Day service early); no counter-signal of comparable weight is present, so level-matched call (b) is a clear Labour victory rather than a narrow one.",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

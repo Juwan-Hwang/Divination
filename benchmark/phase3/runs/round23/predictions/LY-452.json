@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-452",
+ "prediction_text": "通鄉避亂不要往北，往西南未方、兼西申方避才安。北方子孫子水雖是福神，卻在巳月臨絕、被戌日土克，福神無氣，北去無庇；南方官鬼午火臨月旺，是兵火所在，尤忌。五爻兄弟申金動化父母未土，動爻指申、化神指未，父母為庇護住所，化出父母又回頭受生扶之象落在申未之地。照此方向走可避害得安頓，南北兩方皆錯。",
+ "direction_claim": "negative for north (go southwest/west instead)",
+ "timing_claim": "窗口戌日起三日內動身，主座標申日抵未方一帶安頓（動爻申金逢值、化父母未土，日檔）",
+ "confidence": "medium",
+ "basis": "趨避取子孫福、父母庇護合參。子水北福神休囚臨絕受日克，四路本氣-；申金動化未土父母，回頭土生金，動化向庇護+；鬼午南旺為忌。方位以爻支定：子北、午南、申西、未西南。對表趨避章無成文應期門類，明寫對表無此門類。應期逢值申取主，沖/填實無空墓主點，舍。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

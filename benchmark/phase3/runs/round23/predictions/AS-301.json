@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-301",
+ "prediction_text": "方向：负——2020年世界局势以突发大危机开年，全年动荡。主断（按2019年11月时点、土冥会于摩羯的年度星象作断）：2020年初即有全球性冲击，头号事象为传染病/健康危机扩散与随之而来的封锁、停摆，金融市场（华尔街）在年初数月内剧烈下挫、恐慌抛售，随后全年经济衰退、失业上升、各国政府强力干预；逐月节奏为一季度爆发与暴跌、二季度封锁最深、三四季度在反复中缓慢处理残局，无迅速复原。应期：年档，年内主坐标落在2020年2—4月（危机爆发与市场见底之窗），年初1月土冥精确合相为触发点。",
+ "direction_claim": "negative: 2020 brings a sudden global crisis - a spreading health/epidemic emergency and a sharp Wall Street/financial crash in the early months, with a turbulent year overall",
+ "timing_claim": "year scale, main coordinate Feb-Apr 2020 for the outbreak/crash peak, triggered around the Jan 2020 Saturn-Pluto conjunction",
+ "confidence": "low",
+ "basis": "输入仅给提问时点（2019-11-11、疫情未现）与逐月世界预测之问，无盘面数据；按西洋占星年度法以2020年土星冥王星合摩羯（结构崩解、瘟疫与金融恐慌的古典象）定方向与年内节奏。依据不足以细化到日，置信低。通则(k)：远期年运以年/月为单位，先定年再定月。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md 作断通则(c)(k)",
+  "kb-snapshot/references/western-astro-numerology-runes.md 上篇（占星行运与古典规则）",
+  "inputs7/AS-301.json"
+ ]
+}

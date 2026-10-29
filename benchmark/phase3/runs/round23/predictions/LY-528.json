@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-528",
+ "prediction_text": "断：此地形势吉，可用，主后人得福。占坟地以父母为地/龙脉之用，父母未土上爻、辰土初爻两现皆静，未土得丑月建之旺（土旺于丑月），父母临月旺相有气，来龙有力；世爻兄弟申金居三爻临庚申日建，世临日而旺，宅主一方得气；子孙亥水居四爻为明堂之水、福神居中，水虽子月外休囚于丑月而得申日金生，有水有生。静卦用神旺相、无动爻冲克父母，地势安稳成局。应期按年档（坟地发福以年计）：窗口辰、未之年，主坐标未年（上爻父母未土逢值之年）发福见验。",
+ "direction_claim": "positive - the grave site's situation is auspicious and usable",
+ "timing_claim": "year scale: window 辰/未年; main coordinate 未年 (父母未土逢值, fortune manifests)",
+ "confidence": "low",
+ "basis": "静卦:用神父母土两现,未土临丑月建旺相;世申金临日建;子孙亥水居四得日金生。无动爻、无冲克用神之路,四路合参:本气+、元忌仇0(官鬼午火静、木不现)、动化0、世应不计,方向吉向。形势细象(来龙/明堂)仅据爻位与五行两路,置信低。应期年档先年后月,不落日。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-532",
+ "prediction_text": "断：自病可愈，然病势缠绵、愈得迟。一人占自病，世爻子孙未土居上爻（子孙为医药、福神）发动，又三爻子孙未土亦动，两重子孙动而克官鬼之病，药能制病；官鬼亥水四爻动而临戌亥旬空，动不为空，却化父母申金回头生（金生水），病得回生、根未拔净，故近段病势反复、时轻时重；世动化妻财子水，子孙化财泄福，愈程拖长。远段触发出自三爻子孙未土动化兄弟午火回头生（火生土），医药之源得生续力，终局向愈。应期按日档：窗口巳、亥数日，主坐标巳日（巳冲亥、冲空则实且冲去病鬼之日）病退身安。",
+ "direction_claim": "positive - own illness will recover, though slowly/with relapses",
+ "timing_claim": "day scale: window 巳/亥日; main coordinate 巳日 (冲空冲鬼, illness recedes)",
+ "confidence": "low",
+ "basis": "逐爻缺失,按离为火之坎为水重构,动爻为初、三、四、上:世子孙未土动、三爻子孙动克官鬼亥水;官鬼动临空化申金父母回头生。动化方向:子孙动克鬼为吉向,官化回头生只调量级(病根未净、近段反复);反转条件:源绝未齐。两段式:近段反复(鬼化回生),远段触发三爻子孙化午火回头生而向愈,终局单判positive。疾病对表:动空者冲空实空,巳冲亥。月日缺失置信低。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

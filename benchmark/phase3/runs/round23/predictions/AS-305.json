@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-305",
+ "prediction_text": "方向：险胜一路，最终落点取哈里斯以极窄优势胜选。主断：预测者自承选举日星盘与两候选人行运势均力敌、极难判断，故其断语只能是低置信的窄胜断：选举极接近、计票胶着、胜负差距极小，在此前提下其最终表态落在哈里斯一方以微弱优势取胜，而非任何一方大胜。应期：2024年11月5日投票，胜负在选后数日内经胶着计票落定。此断置信为全批最低一档：盘面无一边倒信号，窄胜方向若错位亦只在毫厘之间。",
+ "direction_claim": "Harris wins narrowly in an extremely close, hard-to-call election",
+ "timing_claim": "decided on/just after election day, 5 Nov 2024, after a close count",
+ "confidence": "low",
+ "basis": "输入明言预测者自承盘面势均力敌、极难判断——按通则(b)(c)，无一边倒依据时只许给窄胜级断语并降置信，不许拔高为明确大胜；最终方向取其在势均中被迫表态的一边（哈里斯窄胜）。无具体相位数据可回扣，置信低。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md 作断通则(b)(c)",
+  "kb-snapshot/references/western-astro-numerology-runes.md 上篇",
+  "inputs7/AS-305.json"
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-235",
+ "prediction_text": "借贷不得。妻财卯木三爻虽临丁卯日建，然未月卯木入未墓之势、休囚于月；世兄弟酉金未月得土生有气，卯日冲静世爻，有气判暗动，兄弟暗动克妻财，求借最忌兄动劫财；应父母未土为所求之人，只生世兄不生财。财临日而被兄暗动所克、又入月墓，借贷落空，本未月卯日即见无成。",
+ "direction_claim": "negative",
+ "timing_claim": "月档，主坐标未月内卯日（妻财值日而世被冲之日见不成），窗口本未月",
+ "confidence": "medium",
+ "basis": "用神妻财卯木临日但月休入墓。世兄酉金日冲暗动克财（暗动裁决：酉金月相有气判暗动）。应未土不与财相生。静卦无动爻生财解兄。终局按兄克财定负。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

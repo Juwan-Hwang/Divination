@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-304",
+ "prediction_text": "方向：断言哈里斯胜选。主断：该占星师于2024年9月9日公开预测卡玛拉·哈里斯赢得2024年美国总统选举、成为美国首位（婆罗门裔）女总统，且给出具体的选举人票数——306张选举人票。其断法为一边倒的明确胜选断，非势均力敌式含糊断。应期：2024年11月5日投票日见分晓，胜选结果在选举之夜/次日落定。",
+ "direction_claim": "positive for Harris: Kamala Harris wins the 2024 US presidential election with 306 electoral votes",
+ "timing_claim": "decided on election day, 5 Nov 2024",
+ "confidence": "medium",
+ "basis": "输入provenance所引报道标题口径即以『预言哈里斯胜选、306席』著录该师2024-09-09原帖，断语按该公开预测的方向与具体票数复原；选情胶着为当时事实(e)，不因此把一边倒的原断改写成含糊断。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md 作断通则(c)(e)",
+  "inputs7/AS-304.json（含provenance引录口径）"
+ ]
+}

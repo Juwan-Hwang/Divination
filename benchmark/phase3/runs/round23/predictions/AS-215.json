@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-215",
+ "prediction_text": "方向：凶——埃塞克斯伯爵此次西征无成功、无荣誉，以失败与损兵失财收场。主断：上升水瓶，龙尾居上升先成凶象；上升主土星游移无定位且落陷、居第二宫，主本人无力且财物/军需受损；月亮落陷（天蝎为月陷之虞/失势），离土星三分而趋刑火星（其第二、第九宫主：财物、助力、行程），主行军中遭暴力挫损、助力与辎重俱伤；福点由第七宫（敌方宫）主水星支配， fortune 归敌方处置，利在敌不在己。故终局为西征溃败、军队与辎重丧失、本人蒙羞脱身一路，而非得胜建功；未断其本人阵亡，断败而本人得脱、荣誉尽失。应期：年内战役尺度，以月计，出征后数月内（本季战局之内）即见溃败结局。",
+ "direction_claim": "negative: the western expedition fails with loss of army/substance and dishonour for Essex; fortune favours his enemies",
+ "timing_claim": "months scale: failure unfolds within the 1644 campaign season, in the months following the setting forth",
+ "confidence": "high",
+ "basis": "Lilly事件盘：上升主土星游移落陷居二宫主本人弱而财损；龙尾在上升为凶；月亮失势趋刑火星（主二/九宫）主军旅暴力挫损；福点为七宫（敌宫）主水星所支配主利归敌。诸证同向凶，无一救应之星扶上升主，故足级断溃败失荣，不降格为小挫。通则(b)等级校准：弱象叠全，等级按全败给。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md 作断通则(b)(c)",
+  "kb-snapshot/references/western-astro-numerology-runes.md 上篇（Lilly古典规则）",
+  "inputs7/AS-215.json key_positions"
+ ]
+}

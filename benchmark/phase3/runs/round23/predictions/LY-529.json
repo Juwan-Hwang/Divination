@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-529",
+ "prediction_text": "断：此坟地形势不佳，不宜用，葬之恐不利后人。山地剥为乾宫五世卦（静卦，空亡午未），剥象主剥落、侵蚀；父母巳火二爻、午火四爻两现为地/龙之用，午火恰临午未旬空，父母一现落空，龙脉之气虚浮不实；世爻子孙申金居五爻，子孙虽为福神而金泄土气（父母土生世金），地气泄于外而不聚；官鬼卯木三爻木克父母土，克地之神居中。父母临空、受克又被世泄，此地主气散不聚、来脉无力。应期按年档：窗口午、未之年，主坐标午年（父母午火填实逢值之年）其不聚之象见验、家道见退。此问无近远两段进程，应期只作地力应验之期。",
+ "direction_claim": "negative - the grave site is inauspicious / not advisable to use",
+ "timing_claim": "year scale: window 午/未年; main coordinate 午年 (父母午火填实逢值, site's weakness shows)",
+ "confidence": "low",
+ "basis": "输入逐爻表缺失,按卦名山地剥以艮宫纳甲重构:父母巳/午两现,午火临空亡午未;世子孙申金泄父母土;官鬼卯木克父母。动化方向:静卦无动化;反转条件无。父母有根判读:午火不临月日(月日未明记),根气三项无据,空作虚论。置信低因月日与逐爻原文缺失。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

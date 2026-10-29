@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-620",
+ "prediction_text": "断（代卜长辈功名）：功名难成，此番谋求受阻落空。本卦巽为风属木，卯月虽旺，变卦乾为天属金，金来克木，卦变相克，所求之事被变局压住，长辈功名到头一场空忙。仅凭卦名层级作断、原书未给逐爻装卦，故置信低。应期按月档：窗口在卯月之后，主坐标申月，金旺克木之力落实，功名不成之局见分晓。",
+ "direction_claim": "negative - the elder's pursuit of rank/fame will not succeed; it is blocked and comes to nothing this round",
+ "timing_claim": "month scale (rank matters); window after Mao month, main coordinate Shen month - metal flourishes and restrains the Xun wood root hexagram, the failure becomes manifest",
+ "confidence": "low",
+ "basis": "Input gives no line-by-line chart (original text records only month/day and hexagram names), so judgement rests on hexagram-level transformation only and confidence is lowered accordingly. Root Xun-for-Wind is wood, flourishing in Mao month; changed Qian-for-Heaven is metal restraining wood - the changed hexagram restrains the root (gua-bian sheng-ke). For an elder's fame, the transformation direction is adverse: what the situation turns into overcomes its root. Month wood strength mitigates to delay/contest rather than instant collapse, but cannot reverse the restraining transformation. No yongshen line data exists to mount a rescue argument.",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

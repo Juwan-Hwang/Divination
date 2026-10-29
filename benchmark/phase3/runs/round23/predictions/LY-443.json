@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-443",
+ "prediction_text": "久雪可晴，晴在午日。子孫午火為晴神，不現而伏於四爻父母亥水之下，午日逢值即出現；官鬼酉金發動化申金退神，陰雪之勢往退里走。辰、巳雪意未盡，至午日子孫值日，雪止放晴。",
+ "direction_claim": "positive",
+ "timing_claim": "窗口辰日起至午日，主座標午日（伏子孫午火逢值出現，日檔）",
+ "confidence": "medium",
+ "basis": "子孫不上卦：變爻無子孫、日月辰丑非子親，取本宮震首卦四爻子孫午火伏於父母亥下。伏待出：伏得巳日沖飛之路近、午逢值；飛亥旺故只待出不早斷。動化方向：酉→申化退，陰退。反轉條件未齊備不翻轉。應期三路：逢值午取主；沖實巳日沖飛為次候選，因伏神本支逢值更直接而舍為備選；填實無空不取。對表無天時門類。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

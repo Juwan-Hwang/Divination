@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-624",
+ "prediction_text": "断（占求财）：财可得，但得而多耗、到手打折。用神妻财未、丑两现，辰月土旺，世持丑财虽旬空却是旺空假空，填实即得；原神子孙巳火发动生财，财源先动，只是化子水回头克又逢空，生力后继不足，故只成中下之利。兄弟卯木两现临月日旺克财，主同辈分夺、垫耗不少，净得有限。应期按月档：窗口辰月内，主坐标丑日，世财填实出空，钱财真正到手。",
+ "direction_claim": "positive - wealth can be obtained, but brothers/rivals share and drain it; net gain is modest, not large",
+ "timing_claim": "window within Chen month (month scale); main coordinate Chou day - the shi-held wealth line Chou earth fills its void (flourishing void is a false void awaiting filling), money is actually received",
+ "confidence": "medium",
+ "basis": "Wealth yongshen Qi-cai twice: Wei earth (line 4) and Chou earth (line 2, holding shi, void in Jia-Yin xun which voids Zi/Chou). Both earth lines are flourishing in Chen month - shi-held Chou is a flourishing void (false void, awaits filling), wealth is at hand. Yuan-shen Zi-sun Si fire moves to generate wealth, but transforms to Zi water with returning-head restraint and Zi is void - source helps first, then fails, capping the amount. Ji-shen Xiong-di Mao wood appears twice, sits on month and day, restraining earth wealth - strong peer-drain adjusting grade downward (wealth obtained but shared/costly), not reversing direction since wealth is flourishing and shi-held with yuan-shen moving. Wealth table: shi is static, so no shi-combining point; fill day of the void shi-wealth chosen.",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

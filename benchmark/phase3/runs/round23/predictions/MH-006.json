@@ -1,0 +1,13 @@
+{
+ "case_id": "MH-006",
+ "prediction_text": "断：老人之忧非无因，五日内必有跌仆之伤。用乾金克体巽木，巽为股为腿，金克木伤在下肢股腿；九四爻辞『包无鱼，起凶』自带凶断，与体用用克体同向，不得反作平安。应验对象为老人本人（乾象即老人），非其家人。应期按日档：窗口五日内，主坐标第五日，老人将跌倒伤股腿，忧色应在此事。",
+ "direction_claim": "negative: the old man will fall and injure his thigh/leg within five days",
+ "timing_claim": "within 5 days, main point the 5th day (day scale)",
+ "confidence": "medium",
+ "basis": "天风姤四爻动变巽：乾金（老人/用）克巽木（体），巽主股腿，故伤位在股腿；所引九四辞『起凶』主凶，与用克体同向（爻辞取象核对）；后天端法老人往巽方、面有忧色为外应。总数十取其半得五，应期五日。对象复核：承受与应验同为老人本人。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

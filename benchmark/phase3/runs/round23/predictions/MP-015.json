@@ -1,0 +1,12 @@
+{
+ "case_id": "MP-015",
+ "prediction_text": "断：2024龙年运势特朗普较拜登有利，大选竞争前景以特朗普占优。拜登1942年生、年事已高，龙年健康与精力之象见衰，年中恐有退选或交棒层面的重大变动，未必能以候选人身份战至11月；特朗普1946年属狗，龙年辰戌相冲，过程多官非口舌与波折，然冲而有势，其竞选势头与民气压过拜登一侧。终局方向：共和党一侧（特朗普）赢面大于民主党现任连任之路。应期按年档：年中先见拜登一侧之变，11月大选见终局。",
+ "direction_claim": "Trump is favored over Biden in the 2024 cycle; Biden's path is weaker and prone to a mid-year withdrawal/change",
+ "timing_claim": "Biden-side change by mid-2024; outcome at Nov 2024 election (year scale)",
+ "confidence": "low",
+ "basis": "以题面事实与生肖流年合参：拜登高龄竞选连任、龙年精力见衰，特朗普虽属狗冲太岁多波折而声势在野强劲；CNN新年专访类大师断法多以气势与健康断两人高下。过程与终局分开：特朗普冲太岁主过程多阻，不翻转其占优终局；拜登退选之变属具体断语，置信因无盘面工具支持降为low。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

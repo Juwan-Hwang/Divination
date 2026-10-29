@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-501",
+ "prediction_text": "文書可領，得領在午日。父母為文書，不上卦，伏於二爻兄弟丑土之下：父母午火在卯月得木生而相旺有氣，飛神丑土在卯月受克休囚，壓不住伏。午日伏神逢值出現，文書出而可領；辰、巳兩日尚在伏藏待出之間，未領得到。",
+ "direction_claim": "positive",
+ "timing_claim": "窗口辰日起至午日，主座標午日（伏父母午火逢值出現，日檔）",
+ "confidence": "high",
+ "basis": "文書以父母為用。父母不上卦、變爻無、日月卯辰非父親，取艮首卦二爻父母午伏兄丑下。伏待出判據：1伏得月生有氣成立、2飛丑休囚受月克成立、3動爻生伏無、4沖飛之路無，滿足2項且根基兩項俱在，待出中檔；合流B飛弱+伏有氣，午逢值補齊出伏。應期：逢值午取主；巳日沖亥非沖飛丑，舍；填實無空不取。此例出飛伏章，門類對表無文書專條，明寫無此門類按飛伏法定點。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

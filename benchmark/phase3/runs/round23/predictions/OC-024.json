@@ -1,0 +1,13 @@
+{
+ "case_id": "OC-024",
+ "prediction_text": "断：葬事有着落，不必外求——资财就藏在本宅之内。易者身后无资营葬，然其家宅内有窖藏之金，为数足以办葬；得金之机在一鼠：鼠出窜动、投击之下鼠窜入窖穴，循穴掘之即见金。此断落事象级：物品为窖藏金银、场所为自家宅内窖穴、契机之物为鼠、应事为营葬费用一次办成。应期以日档计（近事、即时决断之问）：就在邵雍到访当日，击鼠见窖、当日得金。终局单一：葬事办成。对象复核：承受对象为易者遗属之营葬事，应验对象为宅内窖金本身，非转断外人赠金，同一性成立。",
+ "direction_claim": "positive: the burial can be funded — hoarded gold hidden in a cellar inside the house itself will be found and cover the funeral",
+ "timing_claim": "day scale: the same day as the visit — a rat is struck at, flees into the cellar hole, and digging there uncovers the gold that day",
+ "confidence": "high",
+ "basis": "梅花易数序成例口径（输入provenance自标「击鼠枕窖金」）：体用与外应收束于宅内物象——鼠窜窖穴为外应之机，窖金为应验对象。按作断通则(c)(e)(f)(g)：断语落到物品（窖金）、场所（自宅窖穴）与应期数字（当日），事实优先于类象（家贫无资是向内寻资的约束、非向外求援）。方法为梅花/外应取象，托名与史源照实标注为传世序文成例。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md 作断通则(a)(c)(e)(f)(g)",
+  "kb-snapshot/references/chinese-liuyao-meihua.md 梅花篇（体用、外应、应验对象定位核对、具体断语密度）",
+  "inputs7/OC-024.json"
+ ]
+}

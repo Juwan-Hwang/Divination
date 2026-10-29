@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-007",
+ "prediction_text": "断：沃勒（议会军）胜，霍普顿败。沃勒方月亮擢升合木星、疾行增光，太阳居十宫且正落在19°白羊擢升度数，主其军势与助力俱在顶点；霍普顿主星土星入弱、无容纳、无相位且伏日下，又无后援接应（九宫只有火星与南交点）。胜负当日见分晓，即1644年3月29日交战当日。",
+ "direction_claim": "positive - Waller overcomes Hopton (Parliament victory)",
+ "timing_claim": "on the day of engagement, 29 March 1644 (day scale)",
+ "confidence": "high",
+ "basis": "Waller: Asc/Moon/Jupiter/Venus; Moon exalted with Jupiter, swift and increasing; Sun lord of his substance in 10th in exact exaltation degree 19 Aries. Hopton: Saturn lord 7th sub radiis, in fall, peregrine, no aspect; only Mars+South Node in his 9th = no supplies ready.",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "ZY-002",
+ "prediction_text": "斷：吉。畢萬仕晉必成，且後世必大、子孫繁昌。屯初九『磐桓，利居貞，利建侯』主建侯之吉，屯之比為公侯之象：屯主開創艱固、比主附眾得援，畢萬將得封地立家（封於魏），其後代在晉繁衍壯大，成為強宗。應期以世代為單位：本人得仕得封，昌大在後世數代漸成，不在本人一代稱王。",
+ "direction_claim": "positive: Bi Wan succeeds in entering Jin service, is enfeoffed (at Wei), and his descendants greatly flourish",
+ "timing_claim": "generational scale: office/fief in his own lifetime, greatness accumulating over succeeding generations (year/generation unit)",
+ "confidence": "high",
+ "basis": "One moving line (屯初九) -> its text '利建侯' directly answers a question about entering service/enfeoffment; 屯 (difficulty at beginning, firm) changing to 比 (union, being aided) gives a public-lord hexagram image: hard founding followed by gathering support.",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-yijing.md"
+ ]
+}

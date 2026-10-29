@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-307",
+ "prediction_text": "断：有雨，雨期近。天时以父母爻为雨象，用神父母未土即未月月建，雨神临月建旺相有气，雨意已聚；风地观乾宫缺子孙、缺兄弟，子孙为晴明之神，晴神不上卦，主无晴阻，雨势易成。用神未土静而旺，静而逢冲则动、逢值则应。应期按日档（大旱问何日有雨，问题本身为日尺度）：窗口未月内近旬，主坐标丑日（丑土冲未、静旺之雨神逢冲而落之日）。",
+ "direction_claim": "positive (rain will come, soon)",
+ "timing_claim": "窗口未月近旬内，主坐标丑日（日档，未土逢冲）",
+ "confidence": "medium",
+ "basis": "据输入可互证信息：未月、卦观、乾宫、空亡辰巳（未土不空）、缺子孙兄弟、用神父母未土为月建。雨神临月旺相为路1正向；晴神子孙缺如无阻雨之路2旁证。逐爻与日辰未给，动化无据（卦无变卦记录按静论），应期三路：逢冲丑日取中，逢值未日为备选（静旺逢冲优先于逢值，舍未日作窗口内次点不并陈），填实无空舍。置信medium因月建临用证据单强而日辰缺失。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

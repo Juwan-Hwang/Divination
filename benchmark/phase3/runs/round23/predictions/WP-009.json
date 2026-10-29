@@ -1,0 +1,13 @@
+{
+ "case_id": "WP-009",
+ "prediction_text": "断：印度队不会赢得2019年板球世界杯。印度虽为夺冠热门、阵容含科利与多尼，但热门地位不成冠军之局，本届将在淘汰阶段止步、无缘奖杯，冠军另属他队。应期：以月为单位，窗口为2019年5月30日至7月14日赛期，主坐标为7月14日决赛日见分晓——印度不在冠军之位。",
+ "direction_claim": "India will NOT win the 2019 Cricket World Cup",
+ "timing_claim": "decided by the final on 14 July 2019, within the 30 May-14 July 2019 tournament window (month scale)",
+ "confidence": "medium",
+ "basis": "Per calibration rule (b)等级/强度须有据: input gives only favourite status and squad names, no chart signal converting favourite status into a title; favourite-but-not-champion is the level-matched call, and the case is framed around an astrologer's book-launch prediction on exactly this question.",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "case_id": "MH-008",
+ "prediction_text": "断：此牛将死，非仅哀鸣。六三爻辞『师或舆尸，凶』明言舆尸之凶；牛属坤为体在上，变卦下巽木反克坤土之体，终局用克体主亡；坎方悲鸣为凶之外应，悲声先告其死。量级守恒：畜类存亡之问见舆尸死象，不得以体克用之次吉软化为平安。应期按日档：窗口五日内，主坐标第五日，牛将毙命（病死或被牵去宰杀），应验对象即此牛本身，不及其主人家。",
+ "direction_claim": "negative: the ox will die within days (not merely be ill)",
+ "timing_claim": "within 5 days, main point the 5th day (day scale)",
+ "confidence": "medium",
+ "basis": "地水师三爻动变地风升：坤为牛居体，变下巽木克坤土，终局克体；六三辞『师或舆尸，凶』自带死象（爻辞核对）；坎方悲鸣外应主凶。按量级守恒条，畜存亡问见尸象以死定性，爻辞与变卦两路同向。对象复核：应验落牛本身（非人对象）。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

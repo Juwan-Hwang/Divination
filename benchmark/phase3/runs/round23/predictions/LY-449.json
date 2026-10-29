@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-449",
+ "prediction_text": "晴在亥日。官鬼巳火兩現發動，陰神動而化子孫亥水，陰化晴神；妻財卯木動雖化兄弟酉金，只主中間風擾、晴意反覆，不改鬼化子的主線。寅至戌陰晴不定，亥日子孫化神逢值並沖去巳鬼，天晴定局。",
+ "direction_claim": "positive",
+ "timing_claim": "窗口寅日起至亥日，主座標亥日（官鬼化子孫亥水逢值沖巳，日檔）",
+ "confidence": "medium",
+ "basis": "天時子為晴、鬼為陰。動化方向：巳火鬼→亥水子孫，陰化晴；卯木財→酉金兄弟只調量級主風擾。反轉條件：化神亥非空絕無扶，不反轉。四路：子孫由變出得路+／鬼動化子鏈+／動化向晴+／世應不計。應期：逢值亥取主；巳日為鬼本支逢值主陰不主晴，舍；酉日兄逢值主風非晴點，舍。對表無天時門類。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

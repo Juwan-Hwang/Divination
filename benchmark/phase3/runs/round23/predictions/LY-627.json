@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-627",
+ "prediction_text": "断（占父近病）：父近病可愈，病势将转好。地雷复一阳来复，主生气回复、去而复返之机，正合近病由重转轻；变噬嗑主咬除梗阻，阻愈之物得去。原书未记月日、装卦表不可靠，无从细查用神旺衰，故只按卦象层级落断、置信低，病位无依据不妄断。应期：输入无月日，具体日期无从推定，只断日档近程，数日内当见转机向愈。对象复述：愈否断语主语为所问之父本人。",
+ "direction_claim": "positive - the father's recent illness will recover; the returning yang of Fu brings a turn for the better",
+ "timing_claim": "not determinable to a specific day - input records no month/day (only hexagram, palace and void branches Chen/Si given); judged on a day scale for a recent illness, improvement expected within days",
+ "confidence": "low",
+ "basis": "Input incomplete: no month/day, no line chart; only Di-lei Fu changing to Huo-lei Shi-ke, Kun palace, void Chen/Si. Fu is the return of one yang - the classic image of returning vitality and recovery after decline, directly on point for a recent illness turning better. Changed Shi-ke (biting through the obstruction) supports clearing what blocks recovery. No yongshen line data exists to grade severity precisely or to complete a disease-position chain, so the verdict stays at direction level with low confidence and no body location is asserted.",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

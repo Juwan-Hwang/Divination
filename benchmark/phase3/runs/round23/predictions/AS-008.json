@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-008",
+ "prediction_text": "断：埃塞克斯能下雷丁，城将交付/投降。埃塞克斯主星火星虽入弱但与月亮互容、得势，月亮在十宫近轩辕十四入相火星，主攻方终能成事；守城者四宫主土星入弱，主总督无力久守；国王太阳在七宫固定宫只主僵持一阵，不能改结局。应期：近段围困僵持，远段触发为月火成相与守方入弱，应在四月下旬，主坐标取输入所载交城之期4月27日前后。",
+ "direction_claim": "positive - Essex will take Reading; town will be delivered/surrendered",
+ "timing_claim": "by late April, town delivered 27 April (day/month scale)",
+ "confidence": "high",
+ "basis": "Mars lord Asc (Essex) fortified except fall, in reception with Moon; Moon in 10th near Regulus applying sextile Mars; Saturn lord 4th (town governor) in his fall; 4th sign Aquarius for town.",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

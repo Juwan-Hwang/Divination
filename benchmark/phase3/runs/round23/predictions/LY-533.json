@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-533",
+ "prediction_text": "断：房价索讨不得，此占索价落空。占索房价以妻财为用，妻财午火居坎为水三爻，恰临午未旬空，财爻静而逢空、又不临日月（月日未明、无生扶可据），财空无气，索价无着；世爻兄弟子水上爻发动，本主劫财耗财，又化官鬼丑土回头克（土克水），世动化回头克，求索之人自身亦受制；父母申金四爻动化子孙亥水泄气，房契文书之象亦泄。财空、世化克、父化泄三路同指落空。应期按月档（索价事以月计）：窗口午、未之月，主坐标午月（财爻午火出空填实之月）方有消息，然填实只主有信、仍难足数到手。此问终局单一：不得价。",
+ "direction_claim": "negative - the house price cannot be recovered / claim will fail",
+ "timing_claim": "month scale: window 午/未月; main coordinate 午月 (财出空填实, only news then, still not full payment)",
+ "confidence": "medium",
+ "basis": "按坎为水之坤为地重构,动爻二、四、上:用神妻财午火三爻静临空亡午未,无日月生扶据(月日未记),真空判据:空+静+无生扶;世兄弟子水动化丑土官鬼回头克;父母申金动化亥水子孙泄。动化方向:世化回头克无解;反转条件无。财空根气三项全无(不临值、无原神午?原神子孙寅木静、无生扶),空作凶权。四路:本气-、元忌仇-、动化-、世应不计,败向。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

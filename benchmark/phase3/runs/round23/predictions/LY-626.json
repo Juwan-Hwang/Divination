@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-626",
+ "prediction_text": "断（占子病）：子病凶重，愈望渺茫。大过之卦主过甚难支，栋桡之象，小儿之身难承重病；上兑金克下巽木，克伐在上。原书未记月日、装卦表不可靠还原，无从查子孙用神旺衰与原神救应，故只按卦象层级落断、置信低，病位无卦象依据不妄断。应期：输入无月日，具体日月无从推定，只断近段病势沉重、短期内难见转机。对象复述：病势断语主语为所问之子本人。",
+ "direction_claim": "negative - the child's illness is grave and excessive (Da Guo); recovery is doubtful, the outlook is poor",
+ "timing_claim": "not determinable to a specific day - input records no month/day (only hexagram, palace and void branches Wu/Wei given); judged on a near-illness day/month scale with deterioration expected in the near term",
+ "confidence": "low",
+ "basis": "Input is severely incomplete: no month/day and no line chart (online edition's chart is garbled per the input note); only hexagram Ze-feng Da Guo, Zhen palace and void Wu/Wei are reliable. Judgement therefore rests on hexagram image only, confidence low. Da Guo means excess beyond bearing (the ridgepole bends under overload) - for a child's illness this is an image of the condition exceeding what the small body bears; above is Dui metal restraining Xun wood below. No yongshen (Zi-sun) line data exists to establish flourishing rescue, so no recovery claim can be mounted. No specific body location is asserted - the disease-position evidence chain cannot be completed from this input.",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

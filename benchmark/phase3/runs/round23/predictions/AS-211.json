@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-211",
+ "prediction_text": "方向：正——马可找回，且马向西去、现仍在西方。主断：第十二宫（马之宫）主逆行而急趋向求测者第二宫（财物宫）主之合相，马之征象主动回到主人财物宫，即马将归回主人手中、被寻回而非永失；月亮在第二宫、二颗逆行星临第二宫头，皆为『物归原主/返回』的重复证词。第七宫受克，若系被盗，盗者一方不利、难以久匿其马。方位断语：第十二宫星座与其主所在星座皆主西，证词多数全西——马往正西方向去，应向西寻。应期：马主逆行急行趋合，日尺度事（近失之物），窗口为数日内、主坐标取其趋合将成之近几日寻回。",
+ "direction_claim": "positive: the horse is recoverable and will be recovered/returned; it went due west",
+ "timing_claim": "days scale: recovered soon, within days, as the lord of the 12th hastens retrograde to conjoin the lord of the 2nd",
+ "confidence": "high",
+ "basis": "Lilly卜卦失物：十二宫主为马征象，逆行急趋合二宫（主人财物）主，主物自归主人；月在二宫、二逆行星临二宫头为返回之叠证；方位以十二宫星座、其主所在星座多数取西。通则(a)(h)(k)：近失物问以日档定尺度，三路（十二宫主趋合二宫主、月在二宫、逆行星临二宫）同指返回，取趋合一路为主坐标。对象复核(f)：应验对象为马本身（归回），非主人另得财。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md 作断通则(a)(f)(h)(k)",
+  "kb-snapshot/references/western-astro-numerology-runes.md 上篇（Lilly失物卜卦规则）",
+  "inputs7/AS-211.json key_positions"
+ ]
+}

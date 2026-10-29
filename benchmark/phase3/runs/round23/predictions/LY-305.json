@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-305",
+ "prediction_text": "断：岳母近病可愈。用神父母酉金临空亡申酉（本条旬空之问），近病而用神值空，空为待实之象非绝象；卦地水师之地风升，升主渐进向好，用神出空填实之时即病退之期。近段病势在空档反复，远段触发为酉金冲空实空之期。应期按日档（近病）：窗口本旬出空前后，主坐标卯日（卯木冲酉、冲空则实之日）。对象复述：愈否主语为所问之岳母本人。输入未明月日与逐爻，旺衰无据细核，置信降格。",
+ "direction_claim": "positive (mother-in-law's recent illness will recover)",
+ "timing_claim": "窗口出空前后，主坐标卯日（日档，卯冲酉、冲空实空）",
+ "confidence": "low",
+ "basis": "据输入可互证信息：卦师之升、坎宫、空亡申酉、用神父母酉金正临旬空、本问主题旬空、所问为近病。疾病对表与决策序：空待填实冲实，近病取冲空实空之日愈。逐爻与月日未给，原神（土）忌神（火）链无据逐项核，明写无据降置信；见空不直断凶，承决策序总禁令。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

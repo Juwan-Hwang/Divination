@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-009",
+ "prediction_text": "断：狗能找回，仍在伦敦城内，重点往城西、偏西南（西而带南）方向寻。狗主星居西向星座、南象限偏西，与上升同三合属性主未出伦敦，且入相三合六宫头主失物有归路；月亮在风象且伏日下主一时无确切踪迹。应期按日档：太阳于次周一入相上升主土星，取下周一前后为寻回主坐标。",
+ "direction_claim": "positive - dog will be recovered; search west/south-west part of London",
+ "timing_claim": "by the following Monday (day scale; Sun applying to Saturn lord Asc on Monday)",
+ "confidence": "medium",
+ "basis": "Dog significator in western sign, southern quarter verging west, in same triplicity as Asc (London), applying trine cusp 6th; Moon airy under beams; Sun applying Monday to Saturn lord Asc.",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

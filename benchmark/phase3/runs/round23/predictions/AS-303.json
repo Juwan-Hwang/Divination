@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-303",
+ "prediction_text": "方向：断语本身为极凶的定时断言——预测者公开断言第三次世界大战将在2024年6月内一个极近的具体日期爆发。主断：以其2024年6月事前发布、媒体结果前报道的口径复原其原断：三战爆发点落在2024年6月中旬，主坐标为2024年6月18日，触发事象为当时进行中的俄乌、巴以冲突之一骤然升级为多国卷入的世界大战。应期即断语本身：日级定点，2024年6月18日。此为复原公开预测者的断言方向与日期，非对其应验的背书。",
+ "direction_claim": "the prediction asserts World War III will begin imminently in June 2024, main date 18 June 2024",
+ "timing_claim": "18 June 2024 (mid-June 2024 window)",
+ "confidence": "medium",
+ "basis": "输入给出预测者以持续发布三战日期著称、2024年6月事前经Moneycontrol报道、当时俄乌与巴以两战进行中；按其一贯的『给出单一近日期』断法收束到2024年6月中旬单一主坐标，不并陈多日。通则(a)(h)：事件型定时之问取其自报的主坐标一路为定值。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md 作断通则(a)(h)",
+  "inputs7/AS-303.json（含provenance报道时点）"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-616",
+ "prediction_text": "断（两村争田水撕打）：我村得胜、占住道理，对方破败退却。世爻巳火临日值、得卯月相气而旺；应爻亥水卯月无气，又逢巳日冲破，是日破无力之象，且动而化卯木自泄。子孙未土制官鬼，主斗殴有制、终得收场。应期按日档：讼事门类对表无此门类，按三步通法取点——窗口十日内，主坐标未日，子孙逢值制鬼、争打止息而世方得理。",
+ "direction_claim": "positive - querent's village prevails in the fight over field water; the other side is broken and retreats",
+ "timing_claim": "window within ten days (day scale, near dispute); main coordinate Wei day - Zi-sun Wei earth in value restrains the ghost and the fighting stops with querent's side holding the right",
+ "confidence": "medium",
+ "basis": "Dispute: shi = own village, ying = other village. Shi Xiong-di Si fire (top line, moving) is in phase in Mao month and in value on the Si day - flourishing. Ying Guan-gui Hai water is resting/dead in Mao month, rootless, and is clashed by the Si day = day-broken (no qi clashed = broken, not aroused). Ying also moves transforming to Mao wood, draining itself. Zi-sun Wei earth restrains the ghost. Litigation has no entry in the category timing table (per KB, song-shi chapters give no timing rule - 'table has no such category'), so timing follows the general three routes: Wei day (Zi-sun in value restraining ghost) chosen; Hai day rejected (broken line's value would re-arm the opponent), You day rejected (wealth line, off-question).",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

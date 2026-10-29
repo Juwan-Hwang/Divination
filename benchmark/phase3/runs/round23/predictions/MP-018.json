@@ -1,0 +1,13 @@
+{
+ "case_id": "MP-018",
+ "prediction_text": "断：曾俊华不能当选。民望虽为三人中最高，但此选由选举委员会票源决定，输入背景明言林郑月娥获北京支持、选情占优，决定胜负的建制票不在曾手。曾生于1951辛卯年，2017丁酉流年酉金冲其卯年根基，年根被冲、势位不稳，主声高而票不至。终局单一：落选，林郑当选。应期以月档计，2017年3月26日投票日见分晓。",
+ "direction_claim": "negative: Tsang Chun-wah will NOT be elected; Carrie Lam wins",
+ "timing_claim": "month scale: decided on election day 26 March 2017",
+ "confidence": "high",
+ "basis": "事实优先序（通则e）：输入背景载明林郑获北京支持占优、曾被视为陪跑，特首选举胜负在选委会票而非民望；生肖流年互参：曾辛卯生、丁酉年酉冲卯，年根受冲主根基动摇。两路同指落选。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md 作断通则(e)(k)(l)",
+  "kb-snapshot/references/calibration.md",
+  "inputs7/MP-018.json"
+ ]
+}

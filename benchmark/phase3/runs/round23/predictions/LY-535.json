@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-535",
+ "prediction_text": "断：虑大计（考核）不利，有降黜之忧。占考核以官鬼为用，官鬼子水三爻、亥水四爻两现皆动：子水临子丑旬空而动，动空待实，化子孙未土回头克（土克水，官化出克官之子孙）；亥水动化妻财酉金回头生（金生水），一官得生、一官化克，两官动象纷杂而子水一路化克更凶；世爻子孙辰土居初爻，子孙持世本克官星，于求官保位大不利；变卦地火明夷，明夷主晦暗受伤。世持子孙、官动化克，考核终局向败。应期按年档（大计考核以年/考期计，先年后月）：窗口亥、子之月所属考年，主坐标子月（官鬼子水出空逢值之月）见处分结果落定。",
+ "direction_claim": "negative - the imperial evaluation (大计) will go badly; demotion risk",
+ "timing_claim": "year-scale evaluation, month coordinate: window 亥/子月 of the evaluation year; main coordinate 子月 (官鬼子水出空逢值, result settled)",
+ "confidence": "medium",
+ "basis": "按火山旅之地火明夷(离宫)重构,动爻三、四、上:用神官鬼两现皆动,子水临空动化未土子孙回头克,亥水动化酉金财回头生;世子孙辰土持世克官。动化方向:官化回头克非吉向,亥官回头生只调量级;反转条件:两官一路化克一路回生,不构成吉向翻转。终局以世持子孙+主官化克定败向。空亡子丑临用神,应期取出空逢值子月。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

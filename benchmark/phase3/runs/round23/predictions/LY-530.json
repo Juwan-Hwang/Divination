@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-530",
+ "prediction_text": "断：家宅人口不甚平安，有惊扰破耗之事，须防。水天需之乾为天（空亡子丑）：世爻父母申金居四爻发动，化妻财午火回头克（火克金），父母为家宅之象，动而化回头克，主宅中有损、长辈或屋宅见扰；兄弟子水上爻动而临子丑旬空，化官鬼戌土回头克（土克水），兄弟动主同辈口舌耗财、动空待实；子孙寅木二爻静为福神，不动无力解忧。世动化克、兄动化克而福神静，人口平安打折：主家宅有破耗、病扰之小凶，不至大祸。应期按日档：窗口午、子数日，主坐标午日（世化妻财午火逢值、回头克应验之日）事端见形。",
+ "direction_claim": "negative - household members not fully at peace; disturbance/loss expected",
+ "timing_claim": "day scale: window 午/子日; main coordinate 午日 (世化财午火逢值, disturbance manifests)",
+ "confidence": "low",
+ "basis": "逐爻表缺失,按需卦坎宫纳甲重构,动爻由需之乾爻位差异定为四、上两爻:世父母申金动化午火妻财,化神火克本爻金为回头克;兄弟子水动临空化戌土官鬼回头克。动化方向两行:世化回头克(无解:克神午火不空破)、兄化回头克;反转条件:非吉向定性,无反转。子孙寅木静,福不力。月日未明记,旺衰只据动化与空亡,置信低。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

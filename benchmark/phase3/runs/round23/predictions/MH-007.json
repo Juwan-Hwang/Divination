@@ -1,0 +1,13 @@
+{
+ "case_id": "MH-007",
+ "prediction_text": "断：少年之喜在婚聘。六五爻辞『贲于丘园，束帛戔戔，吝，终吉』，束帛即聘礼之帛，辞主终吉；艮为少男，正合少年本人，变风火家人，家人卦主家室婚媾之成。体离火生用艮土，虽体生用有耗泄之吝（礼薄、事初有小吝），终局归吉。应期按日档：数日内，主坐标以五日为期，将有媒人议婚、送聘定亲之喜，聘礼束帛虽薄而婚事可成。",
+ "direction_claim": "positive: the youth's joy is a betrothal — matchmaking and engagement gifts (bundles of silk) within days, ending auspiciously",
+ "timing_claim": "within days, main point the 5th day (day scale)",
+ "confidence": "medium",
+ "basis": "山火贲五爻动变风火家人：艮象少男合占问对象少年；六五辞『束帛戔戔，吝，终吉』束帛为聘帛、终吉定性（爻辞核对）；变卦家人主家室婚成；体离火生用艮土为耗泄应『吝』之初段，终吉不变。事象级：人物=少年与媒人、物品=聘礼束帛、时点=五日。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "ZY-004",
+ "prediction_text": "斷：立元（孫圉），不立絷（孟絷）。夢兆與筮占兩路同指：康叔夢中明言立元；先遇屯、再遇屯之比，兩卦繇皆主『利建侯』，而屯初九建侯之象應於元；孟絷足不良於行，於立嗣之象亦不合。元將被立為衛嗣。應期：以月為單位，主座標為本次立嗣議定之時即定，不待遠年。",
+ "direction_claim": "positive for Yuan: Wei will install Yuan (Sun Yu) as heir, not Meng Zhi",
+ "timing_claim": "decided at this succession deliberation in 535 BCE (month scale)",
+ "confidence": "high",
+ "basis": "Dream omen and two castings converge (SKILL convergence rule): Kangshu's dream names Yuan; both 屯 (static) and 屯之比 carry '利建侯' judgments, and the 利建侯 line attaches to Yuan; Zhi's lame foot is a factual counter-sign under fact-priority rule (e).",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-yijing.md"
+ ]
+}

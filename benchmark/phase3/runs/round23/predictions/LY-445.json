@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-445",
+ "prediction_text": "三占合斷：雨在辰日。初占父母卯木發動為雨神主動，化子孫辰土，辰為水庫、雨應落點；二占離火靜卦，火炎無雨，只主此前乾熱延續；三占官鬼寅木動而陰勢聚，化子孫酉金，金能生水助雨。三路合指後段辰日得雨，辰日有雨、且雨勢成場，不是零星小雨。",
+ "direction_claim": "positive",
+ "timing_claim": "窗口午日起旬內至辰日，主座標辰日（初占父母化神辰土逢值，水庫應雨，日檔）",
+ "confidence": "low",
+ "basis": "天時父為雨。用三卦合參：初卦父動最切所問，化辰定點；二卦靜主遲；三卦鬼動化酉生水為助。動化方向逐卦核：卯→辰非回頭生克，作化出應點；寅→酉作陰化晴神旁證，故雨後兼晴意，不改雨點。應期：逢值/化神辰取主；亥子水日雖生雨但三卦無亥子化神合指，舍；申酉金日只助生水非落點，舍。對表無天時門類。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

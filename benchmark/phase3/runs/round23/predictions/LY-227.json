@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-227",
+ "prediction_text": "此次乡试不中。初占兑为泽静卦六冲，六冲主散、功名难聚；再占虽父母巳火午月旺动，然世官鬼卯木午月休囚、辰日受耗，官弱于父，名位之神无力；再占世官卯木变兄弟辰土，化泄化杂。父旺可主文书试卷尚可，官世休囚终不能取中。榜期主应申月见分晓而不中。",
+ "direction_claim": "negative",
+ "timing_claim": "月档，主坐标申月（放榜见分晓之月），窗口午月考试至申月榜期",
+ "confidence": "low",
+ "basis": "两占合参：初占六冲定散势。再占用神官鬼卯木世休囚，父母巳火动化寅木回头生父不生官；子孙亥水静而休囚不克官非主因，主因官弱。动化方向逐对核对无回头生官之路。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

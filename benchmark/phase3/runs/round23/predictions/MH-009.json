@@ -1,0 +1,13 @@
+{
+ "case_id": "MH-009",
+ "prediction_text": "断：此鸡将被宰杀见血，非平安无事。六四爻辞『有孚，血去惕出，无咎』字面有无咎，然辞中明见『血』象；鸡属巽为用卦，体乾金克巽木，金刃克鸡之象成；小畜主畜养待用，悲鸣乃鸡预感被杀之应。量级守恒明定：畜类存亡之问见血象、杀象者，按烹杀方向定性，爻辞吉语只调量级（先惊后血、杀而食之），不许翻转为无伤平安。应期按日档：窗口在近二三日内，主坐标次日，此鸡将被主人杀以待客/烹食，血出而亡；应验对象即鸡本身。",
+ "direction_claim": "negative for the chicken: it will be slaughtered (bloodshed/cooked), despite the line's 'no blame' wording",
+ "timing_claim": "within 2-3 days, main point the next day (day scale)",
+ "confidence": "medium",
+ "basis": "风天小畜四爻动变乾为天：巽为鸡（用）受体乾金之克，金刃临鸡；六四辞见『血去』血象。依kb量级守恒专条，畜存亡问见血/杀象以烹杀定性，无咎只主其主人无咎、鸡先惊后杀，不作平安读（爻辞核对＋对象复核：无咎之应验对象是主人，血之应验对象是鸡）。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-621",
+ "prediction_text": "断（占主病）：主病凶重，终局难愈、先撑后危。本卦离为火午月临旺，近段病势虽盛而人尚能支；变卦坎为水回克离火，变局克本主，转归向危。原书未列逐爻装卦，无从立原神救应之链，故只按卦变层级落断、置信低。应期按日档（近病）：窗口本旬内，主坐标亥日，水逢值助坎克离，病势转危见分晓。对象复述：病势断语主语为所问之主（病人）本人。",
+ "direction_claim": "negative - the master's illness is grave and will worsen; recovery is not expected",
+ "timing_claim": "day scale (near illness); window within the current ten-day cycle, main coordinate Hai day - water in value strengthens the changed Kan water restraining the Li fire root, the crisis point",
+ "confidence": "low",
+ "basis": "Input gives no line-by-line chart (only month/day and hexagram names recorded), so judgement is at hexagram-transformation level only, confidence low. Root Li-for-Fire is flourishing in Wu month (strong near segment - the patient holds on at first), but changed Kan-for-Water restrains fire: the outcome hexagram overcomes the root, a gua-bian restraint pointing to deterioration in the far segment. Water is imprisoned in Wu month, which delays but does not cancel the restraint; on water's value day the restraining force completes. No yongshen/yuan-shen line data is available to establish a rescue chain, so no reversal is claimed.",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

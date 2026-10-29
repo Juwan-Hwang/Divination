@@ -1,0 +1,12 @@
+{
+ "case_id": "MP-010",
+ "prediction_text": "断：2024年总统大选最有当选之相者为赖清德；郭台铭若参选，不能当选。郭台铭1950年生、商而优则仕之心虽盛，然其相与势皆属富贵之格而非元首之命：2019年初选已败退一次，2023年再起已失先机，且须先过国民党提名一关，关未过而大选无从谈起。赖清德则党政资历完整、接班之势已成，三方之中以其当选之相最显。应期按年档：2024年1月投票定盘，郭台铭不在当选之列。",
+ "direction_claim": "Lai Ching-te has the strongest winning look; Kuo (Guo) will not be elected even if he runs",
+ "timing_claim": "settled at the Jan 2024 election (year/month scale)",
+ "confidence": "medium",
+ "basis": "题面事实：郭2019年参加国民党初选后退出，前科显示其党内提名关难过；2023年初各党人选未定而赖为民进党接班定局之势最明。以事实收敛定赖居首、郭落选；郭之断点在提名关与元首命格两层，等级足级断不能当选。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

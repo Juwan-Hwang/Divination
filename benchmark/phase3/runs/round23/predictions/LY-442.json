@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-442",
+ "prediction_text": "雨不會在卯日即止，晴在寅日。父母酉金發動化子孫寅木，是雨神化出晴神；本日子孫卯木雖動臨日，卻化官鬼辰土，晴意被陰神收回，故卯日仍雨、辰一帶仍陰。待寅木子孫逢值，雨止天晴，寅日大晴。",
+ "direction_claim": "positive",
+ "timing_claim": "窗口卯日起旬內，主座標寅日（父母化子孫寅木逢值，日檔）",
+ "confidence": "medium",
+ "basis": "天時父雨子晴。動化方向：酉金父母→寅木子孫，雨化晴吉向；卯木子孫→辰土官鬼，今日晴不立。反轉條件不成立。應期：逢值寅取主；沖實酉沖卯只主本日雨動不主晴，舍；填實無空墓不取。門類對表無天時，明寫無此門類。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

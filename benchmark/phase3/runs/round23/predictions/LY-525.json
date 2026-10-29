@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-525",
+ "prediction_text": "断：可服牛黄丸，父病可转安。父以父母为用，父母不上卦、静卦无变爻，日支酉金、月支亥水皆非父母之亲，故取伏神：父母巳火伏于二爻官鬼寅木之下，飞神寅木生伏神（飞生伏得长生），伏神待出有据；医药子孙酉金持世且临辛酉日建，旺动之势在静卦中最有力，世子孙克二爻官鬼寅木（病），药能制病。牛黄丸对中风之症与子孙持世临日之象相合。近段服药后病势先缓；远段待父母出伏见安。应期按日档：窗口巳、寅数日，主坐标巳日（伏神父母逢值出现之日）父病明显转安。",
+ "direction_claim": "positive - niuhuang pill may be given; the father's illness will ease/recover",
+ "timing_claim": "day scale: window 巳/寅日; main coordinate 巳日 (伏神父母逢值出现, clear improvement)",
+ "confidence": "medium",
+ "basis": "用神父母不上卦:变爻无、日月(酉金子孙、亥水妻财)非父母亲,入伏神父母巳火伏二爻寅木下,飞生伏为有用;医药子孙酉金持世临日建克官鬼(病)寅木。伏神待出判据:飞生伏、伏值之路在,待出成立(中)。动化方向:静卦无动化;反转条件无。对象复述:病者为父,服药断语主语为父。疾病/行人外伏神应期取出现之日巳日。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

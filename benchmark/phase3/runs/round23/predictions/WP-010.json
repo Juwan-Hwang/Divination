@@ -1,0 +1,13 @@
+{
+ "case_id": "WP-010",
+ "prediction_text": "断：乔·拜登赢得2020年美国总统大选，唐纳德·特朗普连任失败。输入所用吠陀口径中拜登为天蝎上升，其盘面在本轮三位占星师的分歧中占优，民调领先与星盘指向收敛于同一结论。应期：以月为单位，主坐标为2020年11月3日投票日（其后点票确认）。",
+ "direction_claim": "Joe Biden wins the 2020 US presidential election (Trump loses)",
+ "timing_claim": "result at the 3 November 2020 election (month scale)",
+ "confidence": "medium",
+ "basis": "Input specifies Biden's Scorpio Ascendant in the Vedic reckoning used by the interviewees and notes poll lead; two independent lines (polls + the reckoned ascendant framing) converge on Biden per SKILL multi-method convergence rule, despite noted disagreement among the three astrologers.",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

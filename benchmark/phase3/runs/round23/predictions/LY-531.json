@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-531",
+ "prediction_text": "断：仆人会归，归期不远。一人占仆何日回，输入已明妻财亥水为用神（仆以财为用），亥水居泽天夬四爻，静而不空（空亡午未不临亥），用神安静有位；行人类用神静者，逢冲逢值而动其归期：亥逢巳冲、逢亥值。卦变天泽履，履主行走在途，与归途之象合。用神静而无伤、无伏无墓，归象成立，只是静待冲值之日。应期按日档（近行人应日）：窗口巳、亥数日，主坐标巳日（巳冲亥、静逢冲而归），仆于巳日到家；亥日为逢值备选，只入备选不并陈。",
+ "direction_claim": "positive - the servant will return",
+ "timing_claim": "day scale: window 巳/亥日; main coordinate 巳日 (静逢冲, servant arrives)",
+ "confidence": "medium",
+ "basis": "用神妻财亥水(输入明示)居四爻静,不空不破不墓;行人门类对表:静者逢冲逢值取点,首选逢冲巳日。动化方向:夬之履动爻不在用神, 用神无动化;反转条件无。对象复述:归者为仆人本人,非迎候者。月日未明记,旺衰据用神状态本身,置信中。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

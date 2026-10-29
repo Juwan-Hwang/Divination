@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-521",
+ "prediction_text": "往粤东探亲，带金类货物归来得利。火山旅静卦，旅即行旅之卦。妻财两现皆金：三爻妻财申金临戊申日建，申金得日临值有气最实；四爻妻财酉金应爻未月休而得土生。世爻子孙辰土初爻未月旺，五爻子孙未土同旺，旺子孙生金财，货源生财之链成立。所带之货以财之五行定：金类货物（银器、金饰、金属器物之属）最合盘象，申金一爻临日为正选。应期窗口申酉月间，主坐标申月（妻财申金逢值临旺，售货得利）。",
+ "direction_claim": "positive",
+ "timing_claim": "窗口申酉月间，主坐标申月（妻财申金逢值）",
+ "confidence": "low",
+ "basis": "四路：本气财申临日+、酉休0／元忌仇子孙土旺生财+、兄弟火相静不劫／无动化0／世应应财与世子孙相生同向。何货取象：用神五行金、临日之申金为最实一爻，故定金类货；具体品名盘面只能定到五行类象，置信因此降low。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

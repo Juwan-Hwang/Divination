@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-005",
+ "prediction_text": "方向：能中试（吉）。具体断语：官鬼申金五爻独动、临申月旺，动而化酉金为化进神，功名之神进而不退；父母亥水得月建申金生扶、不空不破，文书榜名有着。应期双层：窗口为申月酉日起至放榜期，主坐标取酉日——官鬼化出酉金逢值之日，名次文书落定。",
+ "direction_claim": "positive",
+ "timing_claim": "窗口：申月酉日起至放榜，主坐标酉日",
+ "confidence": "medium",
+ "basis": "六爻乡试取官鬼为功名、父母为文书。动化方向：申金→酉金化进，定性吉向；反转条件不成立（无化退化绝无扶）。四路：本气官旺临月+／元忌链子孙午火静不克官0／动化进+／世应不计；合参成向。门类发案：父母旺静逢值冲、官化值日同指酉，取酉日。空亡癸卯日空辰巳，与用神无涉。",
+ "sources_used": [
+  "benchmark/phase3/runs/round23/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round23/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "《增删卜易》用神/旺衰/动化/应期通则"
+ ]
+}

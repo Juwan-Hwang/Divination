@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-617",
+ "prediction_text": "断（出外经商）：此行得财，贸易有利润可图。用神妻财戌土午月相旺、得辰日扶，又逢日冲而暗动，主货物钱财动起来就有进账；初爻妻财丑土旬空只作次位，待实方应小笔。原神子孙午火临月建生财，财源有力。世爻酉金午月死、化兄弟卯木，只主途中同辈分耗、利润打折，不翻得财之局。应期按月档：窗口本月内，主坐标戌日，财爻逢值、冲动之力落实而见财。",
+ "direction_claim": "positive - travelling out to trade will make money; profit is attainable",
+ "timing_claim": "window within the current month (month scale for a trading journey); main coordinate Xu day - the principal wealth line Xu earth is in value and its day-clash arousal takes effect, goods/money move",
+ "confidence": "medium",
+ "basis": "Wealth yongshen Qi-cai appears twice: Xu earth (top, ying) and Chou earth (line 1, void in Jia-Yin xun). Xu is principal: earth in phase in Wu (fire) month, aided by Chen day; clashed by the day while flourishing and rooted = dark-arousal, not breakage. Chou void line is retained as a secondary response seat only. Yuan-shen Zi-sun Wu fire sits on the month (flourishing) generating wealth. Shi Guan-gui You metal is dead in Wu month and transforms to Mao wood (brother) - a later peer/rival drain, adjusting amount only. Route1 +, route2 + (yuan-shen flourishing, no strong brother moving to rob). Wealth table: no overlapping day/month wealth; Xu value day chosen over Chou fill day (secondary seat) and Chen combining day (already the casting day, binds shi).",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

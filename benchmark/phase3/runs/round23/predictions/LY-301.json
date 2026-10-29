@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-301",
+ "prediction_text": "断：妻在家不安，有忧滞呻吟之象。雷地豫之天地否，震宫卦而变否，本条为伏吟之问：伏吟主停滞、呻吟、忧闷不行，变卦否主闭塞不通、消息隔绝；用神妻财戌土居豫卦，财爻随卦伏吟而无动发之机，在家之妻非安稳无事之象，当有病忧或闷滞之事缠身。输入未明记月日、逐爻未能可靠还原，旺衰与应期无据定点：应期不妄报，只断方向为不安、事滞难解。对象复述：安否主语为在家之妻本人。",
+ "direction_claim": "negative (wife at home is not at peace / has worry or ailment)",
+ "timing_claim": "无据定点（输入未明月日，应期不妄报；伏吟主迟滞无近讯）",
+ "confidence": "low",
+ "basis": "仅据输入可互证信息作断：卦豫之否、震宫、用神妻财戌土、本问主题伏吟。伏吟与否卦闭塞同向主不安滞；逐爻装卦输入明言未能可靠还原、月日未记，故旺衰、四路合参与应期三步无盘面可走，明写无据、降置信至low，不以卦名以外臆补爻象。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

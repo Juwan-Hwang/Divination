@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-209",
+ "prediction_text": "方向分两问合断、终局取正（国王得援、王后得进且与国王相会），但王后之进并不昌盛。第一问：国王能从爱尔兰取得兵力以害议会——国王征象月亮在巨蟹入庙、居第十宫、增光，除行迟外无凶；第十一宫（援助宫）主太阳在第七宫擢升、趋临第十一宫头，援助之星强而有所向，故援兵可得，唯太阳距成相位尚差六度、又与上升对冲，主迟到且须力争，非即刻。第二问：王后将自北南进并与国王相会——月亮距与王后征象土星成三分尚差三四度，会合有期；但土星正移宫入白羊落陷，主她进军途中势力转弱、所部受损，昌盛一路不成立：会得成，势不盛。应期（双层）：会合窗口在三四个月内、主坐标取月土三分三四度一路约第三至第四个月；爱尔兰援兵更迟，约六个月尺度随后而至。",
+ "direction_claim": "positive on both requests with qualification: the King procures Irish forces and the Queen advances and meets him, but her advance does not prosper (her significator goes to its fall)",
+ "timing_claim": "months scale: meeting main coordinate at 3-4 months (Moon wanting 3-4 degrees of Saturn's trine); Irish aid slower, about 6 months (Sun wanting 6 degrees)",
+ "confidence": "medium",
+ "basis": "Lilly卜卦：国王以月亮为征象，月在巨蟹本宫居十宫增光主其本人强；十一宫主太阳在七宫擢升趋十一宫头主援助可得而迟（差六度未成切相、对冲上升主与议会相争）；王后征象为第四宫（自十宫数第七）主土星，土星移入白羊落陷主进而不盛，月距土星三分三四度定会合应期。通则(a)(h)：事件型双问各定尺度为月档，三路（月庙强、太阳趋十一宫、月土三分）取月土三分定会合主坐标，太阳六度定援兵迟到一路不作会合坐标。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md 作断通则(a)(c)(f)(h)",
+  "kb-snapshot/references/western-astro-numerology-runes.md 上篇（Lilly古典规则）",
+  "inputs7/AS-209.json key_positions"
+ ]
+}

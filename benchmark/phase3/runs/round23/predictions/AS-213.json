@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-213",
+ "prediction_text": "方向：方位为正东；结局为可寻回/将被捕获。主断：逃犯往东去——第十二宫头射手座、其主木星所在狮子座、天象四分域与月亮所在星座，四路证词一致向东，无一路异向，故向东追。逃犯去得不远：月亮临近上升，主其人距问处不远、行踪易露；月亮离木星三分而趋冲太阳、两星皆在角宫，太阳主显露，逃犯将被发现、曝光而遭捕获；木星居第八宫、木星与水星有相位，主终有消息/文书线索指回其人。应期：日尺度近事，窗口数日内，主坐标取月趋冲太阳成相之时为被发现之点。",
+ "direction_claim": "positive for recovery: he went east, is not far off, and will be discovered and retaken",
+ "timing_claim": "days scale: discovered/retaken within days, main coordinate when the Moon completes her opposition to the Sun",
+ "confidence": "medium",
+ "basis": "Lilly卜卦逃亡：以十二宫头射手与木星（狮子）表逃犯；十二宫星座、木星星座、四分域、月亮星座四证全东定方位；月临上升主不远，月离木星三分趋冲在角宫的太阳主显露被获，木水相位主消息。通则(a)(h)：日档定尺度，三路（四证向东、月临上升、月冲日成相）取月冲日为捕获主坐标。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md 作断通则(a)(c)(h)",
+  "kb-snapshot/references/western-astro-numerology-runes.md 上篇（Lilly古典规则）",
+  "inputs7/AS-213.json key_positions"
+ ]
+}

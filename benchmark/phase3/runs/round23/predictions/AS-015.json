@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-015",
+ "prediction_text": "断：丈夫在海上活着且平安无大碍，终将归来——其主星太阳得地（hayz）且全然不受克害，这是全盘最明确的一条。但同一盘里妻子本人凶险更重：六宫主土星逆行主她病势反复、迁延一病未愈又添一病，火星土星将成凶相并逼近月亮位置，应期落在随后10月8日，主妻子本人有性命之危。应期分开写：丈夫归期盘中无精确日坐标，不硬报；妻子危期按月档取10月8日。承受对象复核：平安一条断的是丈夫，危亡一条断的是问者妻子本人，不相混。",
+ "direction_claim": "positive - husband at sea is alive and safe and will return; the wife herself is in mortal danger",
+ "timing_claim": "wife's death timed to 8 October following (month scale); husband's return before/without harm, no exact day given in figure",
+ "confidence": "medium",
+ "basis": "Husband significator Sun in his hayz and free from all affliction = alive/safe. Wife side: Saturn lord 6th retrograde with relapsing disease; Mars and Saturn moving to ill aspect near Moon's place = danger timed 8 Oct per input.",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

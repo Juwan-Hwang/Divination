@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-537",
+ "prediction_text": "断：子会归，归期在酉日。占子何日归，行人以子孙为用，子孙酉金居火泽睽五爻，静而不动、不空不破（空亡寅卯不临酉），用神安静有位、福神居高位主平安在途；卦中父母巳火初爻动化兄弟丑土、兄弟丑土三爻动化子孙酉金，用神得变爻同亲之援（变出子孙酉金与用神同支，归象有应）。行人类静用取逢值逢冲：酉逢值、卯逢冲，而卯木临寅卯旬空，冲支落空不取，故定逢值。应期按日档：窗口酉、卯数日，主坐标酉日（子孙酉金逢值之日）子归到家。",
+ "direction_claim": "positive - the son will return",
+ "timing_claim": "day scale: window 酉/卯日; main coordinate 酉日 (子孙酉金逢值, son arrives home)",
+ "confidence": "medium",
+ "basis": "按火泽睽之火风鼎(艮宫)重构,动爻初、三:用神子孙酉金五爻静,不空不破;三爻兄弟丑土动化子孙酉金,用神同亲现于变爻为援。行人对表:静者逢值逢冲,冲支卯临空亡故舍冲取酉值,舍弃理由已明。动化方向:兄化子孙为用神得援;反转条件无。对象复述:归者为子本人。原文'子 will 归'为笔误,应为'子会归'。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

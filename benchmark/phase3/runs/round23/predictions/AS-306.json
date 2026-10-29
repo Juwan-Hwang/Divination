@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-306",
+ "prediction_text": "方向：两段皆有明确断言——先有民主党候选人更替，后由特朗普胜选登顶。主断：该吠陀占星师2024年6月2日（拜登退选尚未发生、哈里斯尚未成为候选人时）预言：拜登将无法以候选人身份走到最后，民主党将临阵换将（由哈里斯接替参选）；换将之后，特朗普仍将赢得2024年大选、被『加冕』为总统。应期：候选人更替落在2024年夏季（7月前后），胜选落定于2024年11月5日投票日。",
+ "direction_claim": "positive for Trump with a prior candidate change: Biden is replaced as Democratic nominee (by Harris), and Donald Trump goes on to win the 2024 election",
+ "timing_claim": "candidate change in summer 2024 (around July); Trump victory decided 5 Nov 2024",
+ "confidence": "medium",
+ "basis": "输入provenance的2024年11月通稿标题即以『特朗普将被加冕——该师已于2024年6月预言』著录其6月2日视频原断，且本题问法本身含『候选人更替』一节；按通则(i)两段式复原：近段换将、远段特朗普胜选，两段方向各自落定。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md 作断通则(i)",
+  "inputs7/AS-306.json（含provenance通稿口径）"
+ ]
+}

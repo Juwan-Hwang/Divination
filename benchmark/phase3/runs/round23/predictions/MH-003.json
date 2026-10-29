@@ -1,0 +1,13 @@
+{
+ "case_id": "MH-003",
+ "prediction_text": "断：所借之物为斧。乾金为刚锐之器、巽木为木柄木材，金来削木之器非锄即斧；再以明理收束：冬夕拥炉之时，邻人夜扣门借物，是为劈柴添火取暖，必借斧劈柴；锄为白日田间农具，冬夜无田事，与时令处境不合，弃锄取斧。此为当下即时之断：来人所借即此斧一件，借去劈柴。",
+ "direction_claim": "the borrowed item is an axe (for splitting firewood)",
+ "timing_claim": "immediate, at this visit that evening (day scale)",
+ "confidence": "high",
+ "basis": "天风姤四爻动：乾金为用、巽木为体，金克木象削木之器；互见重乾，金象重叠器质坚锐。事实优先序：冬夕、拥炉、夜扣门三项事实限定为劈柴取暖之用，故于斧/锄二解中取斧（《梅花易数》明理之辨，MH-03成例路径）。事象级：物品=斧一件、人物=邻人、时点=当夜。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

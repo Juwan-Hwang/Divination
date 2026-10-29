@@ -1,0 +1,12 @@
+{
+ "case_id": "MP-004",
+ "prediction_text": "断：2020年总统大选由蔡英文当选连任。问时选战倒数两月，多项民调韩国瑜持续落后，差距非临门可翻之局；蔡以现任之位守成，韩声势由2019年初之峰一路下滑，气已衰。应期即投票日：2020年1月11日揭晓，蔡英文胜出连任，韩国瑜败选。胜负量级断为明确胜出，非险胜之象。",
+ "direction_claim": "positive for Tsai Ing-wen: she wins re-election; Han Kuo-yu loses",
+ "timing_claim": "decided on election day 11 Jan 2020 (day scale)",
+ "confidence": "high",
+ "basis": "题面给定事实：2019-11-09时多项民调显示韩持续落后蔡，两个月内无收敛迹象；现任者守成、挑战者气势已过峰。以事实优先序，民调差距即定方向，不以年初韩流盛况翻转当前之势。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

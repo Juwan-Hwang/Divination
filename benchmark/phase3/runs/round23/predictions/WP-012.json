@@ -1,0 +1,13 @@
+{
+ "case_id": "WP-012",
+ "prediction_text": "断：拜登赢得2020年大选并最终真正入主白宫，特朗普败选；但败方不痛快认输——围绕邮寄投票与结果合法性的争议将使交接充满对抗，美国社会在选后陷入严重撕裂与动荡，出现抗议乃至『国家要散架』式的分裂景象。近段（11月）胜负归拜登但争议即起，远段触发为败方拒认结果，2021年1月就职时拜登就任、国家裂痕不消。应期：月档，主坐标2020年11月3日定胜负、2021年1月20日完成就任。",
+ "direction_claim": "Biden wins the 2020 election and ultimately takes the presidency; Trump refuses smooth concession and the country falls into deep division/unrest",
+ "timing_claim": "winner decided November 2020; presidency taken at January 2021 inauguration, with post-election turmoil in between (month scale)",
+ "confidence": "medium",
+ "basis": "Two-stage rule (i): input frames both the poll lead for Biden and explicit warnings of mail-in disputes and a loser who may not accept the result — near stage = Biden win, far stage triggered by the stated non-acceptance risk = contested transition and national division, while the presidency itself still passes to the winner.",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

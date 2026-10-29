@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-523",
+ "prediction_text": "断：兄病可愈，不至不起。兄以兄弟子水为用（上爻动、初爻静两现，取动者），子水午月休囚、临甲寅旬空、动化卯木子孙泄气，本气虽弱；然子孙寅木世爻临日建旺动、化进卯木，医药之神临日化进克官鬼，上爻用神亦动化子孙（病者化医药），子孙强旺压过用弱。近段病势仍危、昏沉泄气；远段转机出自子孙化进卯木一路。应期按日档（近病）：窗口在出旬前后子、午数日之内，主坐标取午日——用神动而逢空，疾病门类对表首选冲空实空之日，午冲子而实之，是日病见转机、渐愈。",
+ "direction_claim": "positive - elder brother's illness will recover (will not die)",
+ "timing_claim": "day scale: window within 子/午 days around end of xun; main coordinate 午日 (冲空实空, recovery turning point)",
+ "confidence": "medium",
+ "basis": "用神兄弟子水两现取上爻动者:午月休囚、旬空、化子孙卯木泄;原神父母申金静逢寅日冲且午月受克,源弱。然子孙寅木世临日建旺动化进卯木,克官有力,上爻用神亦化子孙。动化方向:子孙化进为吉向定性;反转条件:源绝三征未齐(原神静而非化绝),不翻转。对象复述:愈否主语为兄,非占者本人。四路合参:本气-、元忌仇+(子孙旺动、官鬼土静不动)、动化+、世应不计(代占),合参为有救迟成向。疾病对表首选冲空实空。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

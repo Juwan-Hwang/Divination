@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-619",
+ "prediction_text": "断（父出外一载无音）：父平安，且已在归途、将有音信。用神父母卯木发动，化子水回头生，用神有生护不主凶亡；行人类化退作归读——退离客地、回头向家，正合一载无音后转归之象。世爻巳火旬空，只主家中等待落空、心焦无凭。应期按月档（远行远事应月）：窗口一月内，主坐标戌日，动爻卯逢合之日，归信落地、人或信至。对象复述：平安与归期断语主语为所问之父本人。",
+ "direction_claim": "positive - the father abroad for a year is safe and is on his way back / news of him will arrive",
+ "timing_claim": "window within one month (month scale, long absence counts as distant); main coordinate Xu day - the moving traveller line meets its combining day (moving line takes the combining day per traveller table), return/news lands",
+ "confidence": "medium",
+ "basis": "Father judged by Fu-mu, two appearances: Mao wood (top, moving) is principal over Yin wood (line 1, static) - moving preferred in two-appearance comparison. Mao in Chou month has residual qi, is restrained by You day, but transforms to Zi water which generates Mao = returning-head generation (ji direction per ruling table). For the traveller category, a moving yongshen transforming backward (hua-tui) reads as already turned homeward - category reading applies after the ruling table, and the returning generation confirms it. Shi Si fire is void (Jia-Wu xun) = the waiting side's anxiety/empty waiting only. Traveller table first choice: moving line takes combining day - Mao combines Xu; Zi value day (transformed god) is the runner-up, rejected because the table gives combining priority for a moving traveller line.",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

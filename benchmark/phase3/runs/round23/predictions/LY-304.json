@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-304",
+ "prediction_text": "断：妻病可愈，愈在出空。用神妻财卯木临空亡寅卯（本条旬空之问），财爻为空，病占用神空而卦萃之比、比主亲辅相助，非绝症之局；空者待实，近病用神值旬空者，疾病门类对表首选冲空实空之日为愈期。近段病在空档未愈，远段触发为卯木出空受冲填实之期。应期按日档（问何日愈、近病）：窗口本旬出空前后，主坐标酉日（酉金冲卯、冲空则实之日）。对象复述：愈否主语为所问之妻本人。输入未明月日与逐爻，旺衰无据细核，置信降格。",
+ "direction_claim": "positive (wife's illness will recover on leaving emptiness)",
+ "timing_claim": "窗口出空前后，主坐标酉日（日档，酉冲卯、冲空实空）",
+ "confidence": "low",
+ "basis": "据输入可互证信息：卦萃之比、兑宫、空亡寅卯、用神妻财卯木正临旬空、本问主题旬空。疾病对表：用神值旬空近病取冲空实空之日愈。逐爻与月日输入未给，旺衰与原神忌神链无据逐项核，明写无据并降置信；终局正向只据用神空待实这一完整机制不断死败（承决策序总禁令：见空不直断败）。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-222",
+ "prediction_text": "子嗣尚可再得。子孙酉金居上爻，申月旺相有气，辛卯日冲静爻，有气者判暗动，子孙暗动主有子息发动之象，非无子之卦。世妻财子水与子孙金水相生链通。应期以年为尺度，主应酉金逢值之酉年再得子；失散长子之事卦中子孙同爻旺动，亦主其人有动讯，惟本问主断再得子。",
+ "direction_claim": "positive",
+ "timing_claim": "年档，主坐标酉年（子孙酉金逢值之年），窗口酉年前后金旺之年",
+ "confidence": "medium",
+ "basis": "用神子孙酉金旺相临月气，日冲静爻按暗动裁决（有气判暗动，不判日破）。静卦无动爻克子孙，官鬼寅木休囚不制。应期逢值路取酉年，冲实路卯日尺度不合年档舍之。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

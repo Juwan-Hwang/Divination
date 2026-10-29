@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-524",
+ "prediction_text": "断：可用附子，子病得此热剂可愈。子以子孙子水为用，子水居初爻临壬子日建，临日如旺；原神兄弟酉金四爻发动、化父母戌土回头生（土生金），原神动而回生、生子孙之链有力；官鬼巳火为病静居上爻应位，不动无援。寒证误投凉药将危，正需附子大热回阳，卦中子孙临日、原神动生与药性相合。应期按日档：用神临日建，当日服药即见转机，窗口子、丑两日，主坐标子日（用神逢值之日）汗出、寒退而安。",
+ "direction_claim": "positive - fuzi (附子) may be used; the child will recover with it",
+ "timing_claim": "day scale: window 子-丑日; main coordinate 子日 (用神子孙临日逢值, effect seen same day)",
+ "confidence": "high",
+ "basis": "用神子孙子水临日建旺;原神兄弟酉金动化戌土父母回头生(化神土生本爻金,方向核对无误),动生用神成链;忌神/病鬼巳火静而不动。动化方向:原神化回头生为吉向;反转条件未齐。对象复述:主语为病子,占者为父,不相混。等级:子孙临日+原神动生,足级断可用且效,不降格。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

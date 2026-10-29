@@ -1,0 +1,13 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "断：唐纳德·特朗普赢得2016年大选。决定因素不是民调数字，而是克林顿一方的丑闻面：电子邮件争议与克林顿基金会争议持续侵蚀其可信度，成为压倒选情的关键变量；八月民调中克林顿的领先在投票前被逆转。应期：以月为单位，主坐标为2016年11月8日投票日。",
+ "direction_claim": "Donald Trump wins the 2016 US presidential election, decided by Clinton's email/Foundation controversies undermining her",
+ "timing_claim": "result on election day 8 November 2016 (month scale)",
+ "confidence": "medium",
+ "basis": "Tarot-style situational reading per Waite framework: input explicitly foregrounds Clinton's email controversy and Clinton Foundation as already-public controversies while only noting a poll lead; fact-priority rule (e) makes the scandal load on Clinton's side the deciding weight over the transient poll lead.",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-tarot.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

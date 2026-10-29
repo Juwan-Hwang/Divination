@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-628",
+ "prediction_text": "断（占讼事）：讼事于己有利，可胜亦可和，终局顺遂。地天泰主通泰交泰，僵持之局得通，官非有化解得直之路；静卦无动，主事态不再激化扩大。原书未记月日、装卦表不可靠，无从查世应官父旺衰，故只按卦象层级落断、置信低。应期：输入无月日，具体日期无从推定，只断月档之内渐见分晓、以和解或胜诉收场。",
+ "direction_claim": "positive - the lawsuit will end favourably for the querent; it can be won or settled on advantageous terms",
+ "timing_claim": "not determinable to a specific date - input records no month/day (only hexagram, palace and void branches Xu/Hai given); judged on a month scale, resolution not immediate",
+ "confidence": "low",
+ "basis": "Input incomplete: no month/day, no line chart; only Di-tian Tai (static, no changed hexagram), Kun palace, void Xu/Hai. Tai is the image of free passage and heaven-earth intercourse - for litigation, blocked opposition dissolving into passage favours the querent and points to settlement/resolution rather than ruinous deadlock. A static chart means no violent escalation. No yongshen lines are available, so the verdict is direction-only with low confidence; litigation in any case has no entry in the KB category timing table.",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

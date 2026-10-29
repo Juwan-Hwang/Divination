@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-441",
+ "prediction_text": "本日晴，先有薄陰而後晴明。子孫寅木持世發動化卯木進神，卯又臨日建，晴神進而逢值；官鬼戌土雖動卻逢辰月沖破、化亥水退散，陰勢不續，父母申金靜而不主雨。本日內即轉大晴，主應在卯日當日。",
+ "direction_claim": "positive",
+ "timing_claim": "窗口本日辰月己卯日內，主座標卯日（子孫化進神卯木逢值臨日，日檔）",
+ "confidence": "high",
+ "basis": "天時以子孫為晴、父母為雨、官鬼為陰。動化方向：寅木→卯木化進，定性吉向；反轉條件：無源絕、無化退化絕無扶，不成立。破象：鬼戌月破但非用神，只主陰散。四路：晴神本氣+／父靜鬼破鏈+／動化進+／世應不計；合參晴。應期三路：逢值卯取主，沖實無晴神空不取，填實無空不取。對表無天時門類，明寫對表無此門類，按三步+D定點。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

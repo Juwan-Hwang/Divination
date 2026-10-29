@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-342",
+ "prediction_text": "断：今日无人还银。坤为地纯静尽静，妻财为用静而不动，原神酉金子孙临申酉旬空，财源之神空静，今日无动象、无还银之人来。须待出空：窗口至申酉日，主坐标酉日（原神出空逢值）才有还银消息，今日终局为不还。",
+ "direction_claim": "negative",
+ "timing_claim": "今日不还；窗口申酉日，主坐标酉日出空才有望，单位日",
+ "confidence": "medium",
+ "basis": "尽静尽发章：六爻尽静、财静、原神子孙酉金旬空（申酉空），静而空者无当日应验；冲实填实一路为酉日，逢值一路同指酉，合流取酉。动化方向：无动爻，无化；反转条件：无。对象：还银者为对方，应验落财与原神，同一。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-513",
+ "prediction_text": "终身功名止于援例虚衔，不得实授。火山旅静卦，官鬼不上卦，亥水官星伏于四爻妻财申金之下：巳月水囚，飞神申金巳月死，飞生伏之力亦薄，官伏囚弱难出。父母亦伏而不现，文书凭据无力。世爻子孙辰土初爻巳月相，土克官水，子孙持世克官与LY-512同理，主功名被福神之位所克。既已援例，所持不过捐纳名衔；官星终无逢生出伏成实职之局。应期年档：亥年官伏逢值，亦只名衔动静、无实授。",
+ "direction_claim": "negative",
+ "timing_claim": "年档，无实授之期，主坐标亥年（官鬼亥水伏神逢值，仅虚衔）",
+ "confidence": "medium",
+ "basis": "伏神判读五步：定伏官亥水四爻，飞申金死（飞弱）；伏囚无日月生扶（卯日木泄水）；无动爻生伏冲飞；待出四项至多一项，难出档。四路：本气官伏囚-／世子孙克官-／无动化0。事实优先：题面已援例，故不断全无名分，只断无实职。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

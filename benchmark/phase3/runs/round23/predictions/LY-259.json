@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-259",
+ "prediction_text": "断：以父柩附葬祖莹可，宜附葬。用神父母不上卦，伏于五爻妻财亥水同位之下：伏神父母亥水在子月临月建旺相、丙申日得日辰金生，伏神有气有根，飞神同为亥水、比和不压，祖莹之位旺而相容，父柩得所。世爻妻财子水临月建发动，化兄弟未土回头克，是占者一方操办有耗费牵绊之象，应验落于占问者办丧之事、不改附葬本身可成之终局。应期按月档：窗口子月内至亥月，主坐标亥月（伏神父母亥水逢值出伏、附葬落定之期）。",
+ "direction_claim": "positive (attaching father's coffin to ancestral graveyard is acceptable/advisable)",
+ "timing_claim": "窗口子月至亥月，主坐标亥月（月档，父母亥水逢值出伏）",
+ "confidence": "medium",
+ "basis": "所问对象父柩与祖莹；用神父母亥水伏五爻。伏神待出四项：伏得月临值成立、飞神比和不压（飞空破墓绝不成立而以比和论不压）、动爻生伏不成立、冲飞之路不成立，根基第1项成立，断待出可出不断已出。用神根气：伏得日月之气，有根。动化方向：子水→未土，未土克子水为回头克，作用于世爻财（占者耗费），不作用于用神父母；反转条件：源绝不齐备，未齐备。四路：本气+（父母临月旺）／元忌仇0／动化0（世化回头克只调量级）／世应不计；合参正向。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

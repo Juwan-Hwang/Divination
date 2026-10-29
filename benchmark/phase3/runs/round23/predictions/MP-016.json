@@ -1,0 +1,12 @@
+{
+ "case_id": "MP-016",
+ "prediction_text": "断：2024年美国总统大选由特朗普胜出。求测者以『相』字问卜，『相』左木右目，木得目视而明、拆字主其人形象深入人心、得众目所归之势；问时投票前一周选情胶着，然胶着中以特朗普的声势与摇摆州气势略胜哈里斯。应期即投票日：2024年11月5日投票、其后数日计票定盘，特朗普击败哈里斯，再度当选总统。量级断为胜出明确，非靠诉讼翻盘之险胜。",
+ "direction_claim": "positive for Trump: he wins the 2024 US presidential election over Harris",
+ "timing_claim": "decided from election day 5 Nov 2024 (day scale)",
+ "confidence": "medium",
+ "basis": "题面给定：以『相』字问卜（测字法），字形木+目主得众望；问时选情胶着而特朗普一方势头与关键州动能占先。以测字取象与时势两路收敛定特朗普胜，哈里斯居守成接棒之弱位。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

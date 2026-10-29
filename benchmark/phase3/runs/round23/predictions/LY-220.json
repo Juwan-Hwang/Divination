@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-220",
+ "prediction_text": "兄弟可和好，且能得兄弟之济。五爻父母未土动化兄弟申金临申月，父动转出兄弟助力；本卦兄弟酉金申月旺相、辰日土生，非口头和好而有实际接济。世父母辰土、应官鬼巳火火生土，双方有相就之意。和好与得济应在申月内，主应申日。",
+ "direction_claim": "positive",
+ "timing_claim": "窗口申月内至酉月初，主坐标申日（变出兄弟申金逢值临月）",
+ "confidence": "medium",
+ "basis": "用神兄弟两现：酉金旺相得日生，申金化出临月建；动化方向未土生申金。空亡子丑与兄弟无关。世应相生。应期三路：逢值申日取为主坐标，填实无空不取，冲实无的放。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

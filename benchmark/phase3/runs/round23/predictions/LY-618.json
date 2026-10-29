@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-618",
+ "prediction_text": "断（子久出不归生死）：子尚在人世，未死。用神子孙酉金持世临月建，旺相有气，本人根气未绝；主灾之官鬼卯木酉月月破又死，灾爻已破无力；兄弟未土临日生金，原神有助。父母巳火旬空，只主音信落空、人无消息，不主其人亡故。坤卦六冲静卦，主人散在外未动身归来。应期按月档（久出远事）：窗口本月内，主坐标卯日，静爻逢冲而动、鬼破更尽，当有归动或确切消息。对象复述：生死断语主语为所问之子本人。",
+ "direction_claim": "positive - the long-absent son is still alive; no death has befallen him",
+ "timing_claim": "window within the current month (month scale, long absence); main coordinate Mao day - the static flourishing yongshen is clashed into motion (static line meets clash), news/return movement begins",
+ "confidence": "high",
+ "basis": "Son judged by Zi-sun. Zi-sun You metal holds shi, sits on the month in You month (in value, flourishing) - the person himself has strong qi. Disaster ghost Guan-gui Mao wood is month-broken (You clashes Mao) and dead in autumn - the calamity line is broken and powerless. Yuan-shen earth (Chou/Wei) is static and generates metal; Wei sits on the day generating yongshen. Fu-mu Si fire is void (Jia-Wu xun voids Chen/Si) - only news is empty, not the person. Static hexagram (Kun, six-clash) means scattered/no movement yet, not death. Traveller table: static yongshen takes value/clash point; Mao clash day chosen (also breaks the ghost further), You value day rejected as mere repetition without motion.",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

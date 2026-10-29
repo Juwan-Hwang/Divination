@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-457",
+ "prediction_text": "往楚買豆不得利，不宜去。妻財亥水居應爻，在午月休囚，雖得子日扶，卦中兄弟丑土兩現旺相克財，子孫酉金又在午月受克而弱，福神生不起財。靜卦無動爻來救財，世官卯木只主奔波謀事。去了是本錢被兄爻劫住、貨難生利，落得無利甚至虧耗。",
+ "direction_claim": "negative",
+ "timing_claim": "窗口午月內此行無得利應期，主座標子日/亥日財逢值之時亦只見財弱受克（月檔內定性，不另報得利日）",
+ "confidence": "high",
+ "basis": "求財以妻財為用。四路：財亥月休囚本氣-／兄丑兩旺克財、子酉弱不能生財，元忌鏈-／無動化0／世應：應財生世只調量級不翻財弱。終局負。求財對表：財非臨日月重疊入墓一路、世靜不取世動逢合，兄多靜非動劫期，對表無合點，明寫按四路定終局。靜卦無解法日。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

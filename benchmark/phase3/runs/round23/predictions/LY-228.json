@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-228",
+ "prediction_text": "不得差。官鬼寅木为用神，申月冲破为月破，又寅木在申月临绝，官神破绝；世持子孙酉金，申月旺相，子孙旺持世克官，求差最忌。父母文书不上卦，无任命文书发动之象。虽官鬼临寅日日建，月破临绝压过日建，本申月内差事落空，主应寅日填实之时见定局为不成。",
+ "direction_claim": "negative",
+ "timing_claim": "月档，主坐标申月内寅日（官鬼月破填实之日反见不成），窗口本申月",
+ "confidence": "medium",
+ "basis": "用神官鬼寅木月破临绝（决策序先旺衰：月建第一权重）。世子孙酉金旺克官。旬空申酉，世酉空而旺相动？世静逢空为假空不救官。终局三类：官休囚破绝、无动爻生扶，断不成。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

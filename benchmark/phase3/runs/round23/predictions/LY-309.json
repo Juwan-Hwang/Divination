@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-309",
+ "prediction_text": "断：将来难有官，官运落空。用神父母未土持世而临空亡午未（世爻值空），问官以官星巳火为主：世空主本人于功名一途心志与机缘俱落空档，父母为文书官诰、持世逢空主诰命无着；卦兑为泽之天水讼，变讼主争竞阻隔，官途多口舌牵绊。本条又属月破之问，世用同罹空破之象，无出空得官之据在输入内可核。应期按年档（将来有官否为远期终局类）：窗口以年计，主坐标未年（父母未土填实出空之年，届时方有再议之机，本占终局仍断无官）。",
+ "direction_claim": "negative (no office in future / office prospects empty)",
+ "timing_claim": "窗口以年计，主坐标未年（年档，世爻未土填实出空，再议之期）",
+ "confidence": "low",
+ "basis": "据输入可互证信息：卦兑之讼、兑宫、空亡午未、用神父母未土持世正临旬空、官星巳火为主、本问主题月破。世用逢空、主题月破同向压功名。逐爻与月日输入未给，官星巳火旺衰、原神财爻链无据逐项核，明写无据降置信；等级校准：不断终身绝望，只断本占所问将来之官为无，填实之年留再议余地于timing。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-312",
+ "prediction_text": "断：买宅不吉，不宜买。用神以世爻亥水为主：世为买主自身，卦泽火革之泽天夬，革主变革不安、居之多变，夬主决裂；本卦缺妻财，买宅财爻不上卦，主价契钱财一头无着、交易根基缺失；输入明记祸应子孙寅木——应爻子孙本为福神，在此为祸之所应，寅木与世亥水虽合，合中带祸应，主宅与买主相合之下藏祸，居后有应于子孙一辈或宅中生事之患。本条属月破之问，世应罹破之象更增不吉。应期按月档：窗口交易前后数月，主坐标寅月（祸应子孙寅木逢值之月，验祸之期；既断不吉，此为若买则应祸之坐标）。",
+ "direction_claim": "negative (buying the house is inauspicious, not advisable)",
+ "timing_claim": "窗口数月内，主坐标寅月（月档，祸应子孙寅木逢值验祸之期）",
+ "confidence": "low",
+ "basis": "据输入可互证信息：卦革之夬、坎宫、空亡午未、缺妻财、用世爻亥水、祸应子孙寅木、本问主题月破。缺财主交易无着、祸应明记主应验对象为祸而非福（对象对齐：祸落买主居宅之事）。逐爻与月日未给，世爻旺衰与动变逐项无据细核，明写无据降置信；终局负向据缺财、祸应、革夬变革三象同向。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-207",
+ "prediction_text": "方向：凶，死于暴力刑死而非病死、自然死于囚中。主断：劳德将被公开处决，死于利刃加颈之刑（斧剑类斩首式刑死），行刑出于当权者之手——火星居空气人形星座主由人执行、太阳在火象星座趋冲火星主利刃与流血，月亮近第八宫（死亡宫）头趋向太阳，死讯已临近。土星为其征象星（以第九宫头为教会人士之上升，其主土星），陷落、久逆、居第十二宫，主长期囚困、身败名毁之后才赴死，囚中阶段无出狱转机。应期（双层）：窗口为未来数月内；主坐标取月亮距火星之体七度一路，约第七个时间单位（月尺度）前后应刑。近段为囚困续延，远段触发为日火冲相成相与月亮及火星之体——远段即刑死，无第二段生机。",
+ "direction_claim": "negative: dies a violent public execution by the blade (beheading), not a natural death",
+ "timing_claim": "months scale: window within the coming months, main coordinate about the 7th month (Moon wanting 7 degrees of the body of Mars)",
+ "confidence": "medium",
+ "basis": "Lilly卜卦古典法（整宫）：第九宫头作教会人士上升、其主土星陷落久逆居十二宫（囚禁）；月亮离土星趋日且近八宫头；日在火象趋冲火星（对象之定位星），火星居空气人形宫主刑由人手、利刃；月距火星体七度定主坐标。无完整盘面与度数全表，应期只落月尺度。通则(a)(h)(k)：本题问囚中人之死式，应验跨度定月档，先成败后应期；三路候选为月趋日近八宫、日火冲成相、月及火星体七度，取与刑死终局同向的七度一路为主坐标，余二路为窗口依据。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md 作断通则(a)(b)(c)(f)(h)(k)",
+  "kb-snapshot/references/western-astro-numerology-runes.md 上篇（Lilly古典规则、尊贵与相位）",
+  "inputs7/AS-207.json key_positions"
+ ]
+}

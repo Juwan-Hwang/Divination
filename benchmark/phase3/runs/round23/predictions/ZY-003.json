@@ -1,0 +1,12 @@
+{
+ "case_id": "ZY-003",
+ "prediction_text": "斷：穆姜不能速出東宮，將終老死於幽禁之中——以穆姜自斷為準。隨卦辭雖曰『元亨利貞，無咎』，然四德須有德者方能當之：穆姜自承謀亂不仁、棄家不順、專寵不和、行事不貞，四德無一有之，故卦辭之吉不應於其身，占史『必速出』之斷不成立。應期：無出期，終局為死於東宮（以年為單位之終局斷，不報速出之日）。",
+ "direction_claim": "negative: Mu Jiang will NOT be released from the Eastern Palace; she will die in confinement there",
+ "timing_claim": "no release date; terminal outcome in confinement (year-scale terminal judgement per rule (k)/(l), no day-level claim)",
+ "confidence": "high",
+ "basis": "Per input, the gold standard is Mu Jiang's own reading: 隨's auspicious judgment 元亨利貞無咎 is conditional on possessing those virtues; she enumerates her own failures on all four, so under rule (d) the auspicious text cannot be flipped onto a person it does not fit — the diviner's '必速出' is rejected.",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-yijing.md"
+ ]
+}

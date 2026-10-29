@@ -1,0 +1,13 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "Prediction: Hillary Clinton wins the 2016 US presidential election. The forecasting panel tradition at the ISAR conference reads the race for the establishment candidate: Clinton, the former Secretary of State and continuity candidate, is favoured by most polls in the input setting, and the panel majority convention in such conferences follows the Saturnian establishment signature over the insurgent. The call is therefore Clinton, while noting this is the panel-consensus style prediction attached to this case, made against a strong insurgent challenge from Trump. Timing at day scale: decided on Election Day, 8 November 2016.",
+ "direction_claim": "positive for Clinton: Hillary Clinton wins the 2016 US presidential election (panel-majority prediction)",
+ "timing_claim": "day scale: decided on Election Day, 8 November 2016",
+ "confidence": "low",
+ "basis": "No natal or event chart data is supplied in the input; the only usable signals are the setting facts (polls favour Clinton; an astrologers' election panel is convening) and the panel tradition of backing the establishment/Saturnian candidate. Basis is therefore thin by the knowledge base's own standard (readings must tie back to chart factors), so confidence is set to low rather than dressed up.",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md 上篇",
+  "inputs7/WP-004.json"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "case_id": "MH-002",
+ "prediction_text": "断：牡丹虽盛极，旋即遭毁。体巽木为花木，动在上卦，用乾金克体；互见重乾，乾为马，金克木而马践花之象成。春三月木旺、金休囚，故非当即枯萎，而是外来践踏之伤。应期按日档：窗口为占后二日内，主坐标为明日午时——届时有马匹践踏/狂骤外力毁花，花事以毁伤收场，非自然凋谢。",
+ "direction_claim": "negative: the peonies will be destroyed (trampled by a horse), not fade naturally",
+ "timing_claim": "within 2 days, main point tomorrow at noon (day scale)",
+ "confidence": "medium",
+ "basis": "天风姤五爻动：上乾金为用克下巽木之体（花木）；互卦重乾，乾象为马，金克木成马践花象；三月木旺金囚，克不在枯而在外力。变火风鼎，体木生火耗泄，花势由盛转衰。爻位动在五、总数近三十取近数，应期落在次日午时。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

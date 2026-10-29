@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-204",
+ "prediction_text": "断：病重而缠绵，不易速愈，病位在胸腹（乳胸与胃）。四角皆固定主病势胶着、非数日之疾；土星在巨蟹与月亮同坐四宫、上升主刚离土星之刑，巨蟹正主胸与胃，故主病在胸胃，受寒湿/忧郁壅滞之苦；六宫有入弱之星受损，主药力难达。近段病势持重无起色；远段盘中无主星脱离土星后得生扶的翻转触发，不报转愈，只按一段终局作难治断。应期按月档论程，以月计而非以日计。对象复核：病者即该医生本人，胸胃之断落于其本人。",
+ "direction_claim": "negative - disease grave, lingering and not readily curable; breast and stomach afflicted",
+ "timing_claim": "prolonged course over months (month scale; all angles fixed)",
+ "confidence": "medium",
+ "basis": "Asc Scorpio; 6th house afflicted by planet in fall therein; lord Asc lately separated dexter square Saturn in Cancer (breast/stomach); Moon in 4th with Saturn; all angles fixed = fixed, obstinate disease.",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

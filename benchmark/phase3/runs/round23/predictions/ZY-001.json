@@ -1,0 +1,12 @@
+{
+ "case_id": "ZY-001",
+ "prediction_text": "斷：陳敬仲本人不會在陳國得國，而將以賓客之尊顯於異國；其昌大在子孫——後世將在異國（姜姓之國，齊）代陳而有國。所據六四爻辭『觀國之光，利用賓於王』主吉而主『賓』不主『主』：本人是觀光之賓、受王禮遇之人，非即位之人。應期以世代為單位：五世其昌、並於正卿，八世之後莫之與京，子孫在齊代陳而興。",
+ "direction_claim": "positive for posterity: Chen Jingzhong himself honoured as a guest abroad, his descendants flourish and eventually supplant Chen by ruling Qi (not himself ruling Chen)",
+ "timing_claim": "generational scale: flourishing by the 5th generation, unrivalled after the 8th generation (year/generation unit per rule (k))",
+ "confidence": "high",
+ "basis": "One moving line (觀六四) -> read that line's text per Zhu Xi rule: '觀國之光，利用賓於王' is auspicious but denotes a guest honoured by a king, not a ruler; 觀變否, great tradition (象) reading points the benefit to descendants in another (Jiang-surnamed) state rather than to the man himself in Chen.",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-yijing.md"
+ ]
+}

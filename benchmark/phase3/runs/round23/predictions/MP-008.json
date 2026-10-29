@@ -1,0 +1,12 @@
+{
+ "case_id": "MP-008",
+ "prediction_text": "断：民进党2020年仍由蔡英文出战，蔡有与韩国瑜一较高下之局。赖清德虽于3月18日突袭登记初选，然蔡握现任资源与党机器，初选之争终由蔡胜出取得提名；其后即成蔡、韩对决之局，问中『有机会一较高下』断为有，且成真。应期按月档：初选结果于2019年年中（6月前后）定盘，年底进入蔡韩对决。初选过程有激烈波折，终局出线者为蔡英文，非赖清德。",
+ "direction_claim": "positive for Tsai: she beats Lai in the DPP primary and faces Han Kuo-yu in the 2020 election",
+ "timing_claim": "primary settles around mid-2019 (month scale), general-election duel follows",
+ "confidence": "medium",
+ "basis": "题面事实：赖挑战在蔡表态连任之后，现任总统握行政与党务资源，初选后来者难撼现任；韩国瑜为国民党最被看好人选，对决结构成立。以事实优先序定蔡出线，不以赖登记之突发声势翻转现任优势。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "case_id": "MP-019",
+ "prediction_text": "断：花落林郑月娥。写作于投票前一日，三人中林郑1957年生于酉年，与2017丁酉流年同气比和、得岁君之助；曾俊华1951辛卯，卯酉相冲，年根受冲主声势受挫；胡国兴1946丙戌，戌与酉害、与卯合而不专，陪衬之象。加以输入背景所载中央支持与选委会票源结构，胜负不在民望。终局单一：林郑月娥当选行政长官。应期以日档计，次日3月26日投票即定。",
+ "direction_claim": "positive for Carrie Lam: Lam Cheng Yuet-ngor wins the 2017 Chief Executive election",
+ "timing_claim": "day scale: decided at the vote on 26 March 2017",
+ "confidence": "high",
+ "basis": "流年生肖互参：林郑酉年生逢丁酉年同气得势，曾卯年生逢酉年相冲，胡戌年生逢酉年相害；事实优先序：选委会票源与北京支持在林郑一侧（承MP-018同题背景与本例辩论后形势）。三路同指林郑。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md 作断通则(e)(k)(l)",
+  "kb-snapshot/references/calibration.md",
+  "inputs7/MP-019.json"
+ ]
+}

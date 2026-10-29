@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-623",
+ "prediction_text": "断（父外任平安）：父在外不算平安，伏吟主忧滞，当有小病小忧、行程公事反复拖延，但不至大灾。上爻父母戌土发动化同支、兄弟申金临月发动亦化同支，乾上爻伏吟，人在外呻吟不安之象；戌土申月泄气，只得巳日火生勉强支撑。官鬼午火旬空，灾病之鬼落空，故凶只到忧病层级、不敢断性命之危。应期按月档：窗口申月内，主坐标戌日，用神逢值，父之确切消息与近况落地。对象复述：平安断语主语为所问之父本人。",
+ "direction_claim": "negative - the father on outside appointment is not at ease: fu-yin repetition means worry, stagnation and minor illness/trouble abroad, though no great calamity",
+ "timing_claim": "window within Shen month (month scale); main coordinate Xu day - the moving principal yongshen Xu earth is in value, definite news of his condition arrives",
+ "confidence": "low",
+ "basis": "Father judged by Fu-mu, two appearances: Xu earth (top, moving) principal, Chou earth (line 1, holding shi) secondary. Both moving lines of the top trigram transform into the same branches (Xu->Xu, Shen->Shen) = fu-yin (repetition/groaning) structure, which in the fan-fu chapter governs unease, repetition and being held up - not a peaceful chart for a safety question. Xu earth is in its death phase in Shen month, only aided by the Si day's generation; Xiong-di Shen metal sits on the month and moves, draining the father line. Mitigation: Guan-gui Wu fire (the illness/calamity line) is void (Jia-Shen xun voids Wu/Wei), so no major disaster or death is claimed - the verdict is unease/minor trouble, graded down, not catastrophe. News timing by yongshen value day (Xu).",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

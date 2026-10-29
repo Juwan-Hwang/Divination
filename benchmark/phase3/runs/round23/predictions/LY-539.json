@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-539",
+ "prediction_text": "断：雨将止，止于丑日转晴。占何日雨止，天时以子孙为晴明之神、官鬼父母为雨云之象：子孙丑土初爻发动，化兄弟巳火回头生（火生土），晴神动而得回头生，晴势有力而进；官鬼亥水二爻世位、五?（按重构官鬼亥水居二爻世与四爻）皆静不动，雨神静守无援；父母卯木不上卦伏藏，雨云之源伏而不现，雨势无续。子孙动生旺、雨象静伏，止雨向晴。应期按日档：天时对表无此门类，明写对表无此门类，按三步原序取动而逢值——窗口巳、丑两日，主坐标丑日（子孙丑土逢值之日）雨止见晴。",
+ "direction_claim": "positive - the rain will stop / turn clear",
+ "timing_claim": "day scale: window 巳/丑日; main coordinate 丑日 (子孙丑土逢值, rain stops)",
+ "confidence": "medium",
+ "basis": "按火风鼎之火泽睽(离宫)重构,动爻初、三:子孙丑土动化巳火兄弟回头生,晴神有力;官鬼亥水静,父母卯木伏藏不现,雨源无续。动化方向:子孙化回头生为吉向;反转条件无。门类对表无天时类,已明写,按应期三步取动逢值丑日,化神巳日为备选舍弃(只调生势不作值日)。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

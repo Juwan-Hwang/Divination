@@ -1,0 +1,12 @@
+{
+ "case_id": "MP-006",
+ "prediction_text": "断：韩国瑜2020年总统之路不成，运势由盛转衰而败。问时（2019年9月）其民调已自8月持续下滑，提名蜜月期已过而颓势未止，63岁流年再逢选战决战月，气衰难返。近段：选战末段声势续弱、负面缠身；终局：2020年1月投票败于蔡英文，总统之路断于此役，其后政治声势亦随之大挫。应期按月档，主坐标2020年1月投票月见分晓。",
+ "direction_claim": "negative: Han's 2020 presidential bid fails — declining fortune, loses the January 2020 election",
+ "timing_claim": "outcome settles in Jan 2020 election month (month scale)",
+ "confidence": "medium",
+ "basis": "题面事实：已获提名两月而民调自8月起呈下滑趋势、问时尚无止跌；乘其衰势定终局。与MP-003所问『会否参选』分工不同：本题问运势与当选之路，衰象主败。等级按衰势足级断败，不作险败含糊语。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

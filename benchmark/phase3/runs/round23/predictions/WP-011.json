@@ -1,0 +1,13 @@
+{
+ "case_id": "WP-011",
+ "prediction_text": "断：按本例给定的特朗普吠陀盘面，特朗普将赢得2020年大选、成功连任。依据写在输入中：木星坐第二宫并相照第十宫，第十宫内又有太阳落座——财与权轴被木星照亮、十宫得日，是在位者保住权位的强配置；其新冠康复后重返竞选也被读作运势未断。拜登落败。应期：以月为单位，主坐标为2020年11月3日投票日。",
+ "direction_claim": "Donald Trump wins re-election in the 2020 US presidential election (Biden loses)",
+ "timing_claim": "result at the 3 November 2020 election (month scale)",
+ "confidence": "medium",
+ "basis": "This case's input isolates Trump's chart features — Jupiter in the 2nd aspecting the 10th with the Sun placed in the 10th — a classical strength-for-authority configuration for the incumbent; case-specific chart evidence takes priority over generic poll context under fact-priority rule (e).",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

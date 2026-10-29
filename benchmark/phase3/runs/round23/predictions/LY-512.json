@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-512",
+ "prediction_text": "终身无功名。水天需静卦，功名用神官鬼寅木二爻，戌月囚、静而无气；世爻子孙申金四爻持世，金克官木——子孙持世正克功名，此为终身功名之主障碍。父母（文书）不上卦，巳火伏于官鬼寅木之下，飞神寅木生伏火，文书虽有出头之机，却只供虚名凭据，官本身囚弱又被世子孙克，实授无望。应期年档：寅年官鬼逢值之年，申金冲寅（寅申冲），官值反被冲克，仍不成。故断终身不得功名。",
+ "direction_claim": "negative",
+ "timing_claim": "年档，无得功名之期，主坐标寅年（官鬼逢值而逢申冲克，仍不成）",
+ "confidence": "medium",
+ "basis": "四路：本气官囚-／元忌仇父母伏得飞生0、忌为子孙持世旺位克官-／无动化0／世即忌神克用已并入路2不重复计。合参路1-、路2-定败向。对象对齐：所问功名有无，应验落占问者本人。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

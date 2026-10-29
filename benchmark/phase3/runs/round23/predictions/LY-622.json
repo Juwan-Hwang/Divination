@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-622",
+ "prediction_text": "断（占升迁）：升迁可成，能得进升。用神官鬼卯木持世临月建，官星旺而有根；妻财亥水发动临日生官，财动生官主名位有资助推动。忌神子孙酉金卯月囚弱，发动反化卯木官星，是忌化用，其克官之力已转，不为阻。父母巳火旬空，只主文书批覆稍迟。应期按月档：窗口卯月内，主坐标卯日，官星逢值，升迁之命落实公布。",
+ "direction_claim": "positive - the promotion will be granted; advancement succeeds",
+ "timing_claim": "window within Mao month (month scale for promotion); main coordinate Mao day - the flourishing static office line in value (flourishing and static takes value/clash per fame table), promotion is announced",
+ "confidence": "medium",
+ "basis": "Promotion yongshen Guan-gui Mao wood holds shi and sits on the month in Mao month (in value, flourishing) - office has root. Qi-cai Hai water (ying, moving, in value on the day) generates the office line - resources move to feed rank. The restrainer Zi-sun You metal moves but is imprisoned in Mao month and transforms into Mao wood, i.e. the restrainer transforms into the yongshen's own kind (ji-hua-yong, a ji direction in the ruling table), so its restraint does not stand. Xun void is Chen/Si (Jia-Wu xun): Fu-mu Si fire is void, documents are delayed only. Fame table: flourishing static father/office takes value or clash day; Mao value chosen over You clash (You is the transformed restrainer seat, off-direction). Route1 +, route2 +.",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

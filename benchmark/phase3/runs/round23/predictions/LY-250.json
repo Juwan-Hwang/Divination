@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-250",
+ "prediction_text": "断：夫不再往他省，将归来。用神官鬼寅木在亥月得月建生、甲子日得日辰生，旺相有气而静，主其人安稳有归意；五爻子孙申金发动冲寅木，行人逢冲而动，是已动身向归之象，非转往他省之象。初爻妻财子水临日发动化丑土合住，是妻在家牵挂守候之象，应验落于妻、不改夫归之终局。应期按日档：窗口申日起至寅日，窗口内主坐标寅日（官鬼寅木逢值、归至之日）。",
+ "direction_claim": "positive (husband returns, will not go to another province)",
+ "timing_claim": "窗口申日至寅日，主坐标寅日（日档，官鬼寅木逢值）",
+ "confidence": "medium",
+ "basis": "所问对象夫；用神官鬼寅木旺相得月日生。动化方向：申金化酉金化进（金仍克木，休囚无力，只引冲动）；子水化丑土为化合兼回头克（土克水）；方向定性以官旺静逢申冲为归动。反转条件：源绝三征不齐备，未齐备。破象过表：无破。四路：本气+／元忌仇0（申金忌克休囚且化进无力）／动化0／世应不计；合参正向。类别读法行人类：用神逢冲主动身归。应期三路：逢值寅日取中，冲实申日为动身点作窗口起点，填实无空舍。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

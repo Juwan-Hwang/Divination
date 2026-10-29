@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-210",
+ "prediction_text": "方向：正——求测者能得到所谋的官职/进身之位，但不是靠他倚仗的那位『太阳型』朋友，且须经迟延与一位庄重土星型人物的手。主断：月亮居第十宫（职位宫）趋三分土星，土星在上升星座有擢升之尊、与求测者征象金星互容（土星纳金星、金星亦纳土星），求测者与职位之间有强力接引，职位可得；第十一宫（朋友宫）主太阳居第七宫与上升对冲且偕龙尾，那位被当作朋友的太阳型人物实为假友，将反对、损害或误他，不可倚仗。月亮离水星之刑，主先有口舌/文书上的一番周折后才成。应期：土星主迟，月土三分成相为应，以月尺度论，数月内落定，得位迟于预期。",
+ "direction_claim": "positive: he obtains the preferment, through a Saturnine patron and after delay; his pretended (solar) friend proves false and opposing",
+ "timing_claim": "months scale: obtained after delay within the coming months, on completion of the Moon's trine to Saturn; no exact degree count given",
+ "confidence": "medium",
+ "basis": "Lilly卜卦求官：上升与金星为求测者、十宫为职位；月在十宫趋三分土星，土星于上升有擢升且与金星互容，主职位与求测者有接纳之链故可得，土星主迟；十一宫主太阳在七宫冲上升偕龙尾，主所托之友为假友反成对头；月离水星刑主先有周折。对象复核(f)：得位承受者为求测者本人，假友之断落于太阳型友人，不回收到求测者身上。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md 作断通则(c)(f)(h)",
+  "kb-snapshot/references/western-astro-numerology-runes.md 上篇（Lilly古典规则）",
+  "inputs7/AS-210.json key_positions"
+ ]
+}

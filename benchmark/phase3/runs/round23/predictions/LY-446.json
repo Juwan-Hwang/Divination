@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-446",
+ "prediction_text": "財動不是無雨：雨在酉日。妻財午火臨日旺動，化出父母酉金——晴象化出雨神，財化父正是轉雨之路，世人疑財主旱在此不成立。午、申雨意漸聚，酉日父母化神逢值，必下雨。",
+ "direction_claim": "positive",
+ "timing_claim": "窗口午日起至酉日，主座標酉日（妻財化父母酉金逢值，日檔）",
+ "confidence": "high",
+ "basis": "天時父為雨、財為晴明，須看動化所歸。動化方向：午火財→酉金父母，化出用神雨親，屬化出雨神定點；酉在戌月得土生有氣。反轉條件無。應期：逢值酉取主；沖實無空伏不取；填實無空破不取。對表無天時門類，按化神逢值定點。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

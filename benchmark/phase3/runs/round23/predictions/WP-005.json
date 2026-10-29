@@ -1,0 +1,13 @@
+{
+ "case_id": "WP-005",
+ "prediction_text": "断：唐纳德·特朗普赢得2016年美国总统大选，希拉里·克林顿落败——民调领先不等于最终胜出。关键具体断言：曾在17名共和党人混战时即准确挑中特朗普为共和党提名人的那位占星师的判断链在本轮继续成立，特朗普的提名运势延伸为入主白宫，选举结果构成对民调共识的爆冷。应期：以月为单位，主坐标为2016年11月8日投票日揭晓。",
+ "direction_claim": "Donald Trump wins the 2016 US presidential election (Clinton loses)",
+ "timing_claim": "result on election day 8 November 2016 (month scale, single date given by the election itself)",
+ "confidence": "medium",
+ "basis": "Input's only individuating astrological signal is the panel astrologer who correctly picked Trump as nominee against a 17-candidate field; per SKILL convergence principle that proven contrarian chart reading is weighted over poll consensus, which the input itself frames as merely favouring Clinton.",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

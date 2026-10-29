@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-625",
+ "prediction_text": "断（占远行求财）：远行可得财，此去有利润。用神妻财子水两现临月建，又得亥日同气相助，财气极旺而静，逢值即发。世爻寅木旬空，然得亥日生合，是有根假空，只主行期先虚后实、启程稍迟，不主此行落空。兄弟辰、戌土子月囚静，劫财无力。原神子孙不上卦，故利厚薄以财旺为准，作实利而非暴利断。应期按月档：窗口子月内，主坐标子日，财爻逢值，远行之利落实。",
+ "direction_claim": "positive - the long trip for wealth will pay; the wealth line is flourishing and money can be made",
+ "timing_claim": "window within Zi month (month scale, distant trip); main coordinate Zi day - the static wealth line Zi water is in value, proceeds are realised",
+ "confidence": "medium",
+ "basis": "Wealth yongshen Qi-cai Zi water appears twice (line 5 ying and line 1), sits on the month in Zi month and is aided by the Hai day (water's禄/kin) - wealth extremely flourishing, static. Shi Guan-gui Yin wood is void (Jia-Chen xun voids Yin/Mao) but is generated and combined by the Hai day (Hai generates and combines Yin) - a rooted false void: the traveller's intent is unsettled/delayed first, not cancelled. Ji-shen brothers Chen/Xu earth are imprisoned in Zi month and static, unable to rob flourishing water. Yuan-shen Zi-sun is not on the chart (hidden), so profit comes from the flourishing wealth itself meeting its value, graded as solid but not spectacular. Static line timing: value day chosen over clash day (Wu clash would scatter static wealth).",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

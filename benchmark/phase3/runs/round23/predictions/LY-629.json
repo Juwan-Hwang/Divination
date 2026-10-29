@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-629",
+ "prediction_text": "断（占坟地风水）：此坟地风水吉，可用而利后。泽山咸，山上有泽、聚而不散，主其地感应聚气、安稳得所；静卦无动，主地气 settled 不散不冲。原书未记月日、装卦表不可靠，无从按爻位细断应于何房何代，故只按卦象层级落断、置信低。应期按年档论其长久之效，无具体日期可推、亦无推定之必要。",
+ "direction_claim": "positive - the grave site's feng shui is auspicious; the site is usable and beneficial",
+ "timing_claim": "year scale (grave feng shui is a long-term matter); no specific date determinable - input records no month/day, and none is needed for this verdict",
+ "confidence": "low",
+ "basis": "Input incomplete: no month/day, no line chart; only Ze-shan Xian (static), Dui palace, void Zi/Chou. Xian shows a lake (Dui) resting on the mountain (Gen): water gathered above a still mountain is the classic image of a site that collects qi and responds - auspicious for a burial ground. Static chart = the site's qi is settled and stable, not scattered. No line data exists for finer grading (which generation benefits, exact orientation), so the verdict is direction-only with low confidence.",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

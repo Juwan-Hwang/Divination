@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-012",
+ "prediction_text": "断：得不到这个教区职位，强求亦无成。土星受损坐上升先坏全问；九宫主（职位）与上升主、月亮皆无相位，无传递、无集光、无容纳，上升主与月亮又都不在九宫——求职者与职位之间没有任何成事通道；月亮反入相冲三宫主、七宫金星冲上升，主另有反对与口舌。无成相即无应期：本轮谋求以不成终局，不报得职日期。",
+ "direction_claim": "negative - will not obtain the parsonage/benefice",
+ "timing_claim": "no obtaining in this suit (month scale; no perfection date exists)",
+ "confidence": "high",
+ "basis": "Lilly's seven negative testimonies in input: Saturn impedited in Asc infortuning question; no aspect lord 9th to lord Asc or Moon; neither lord Asc nor Moon in 9th; no translation/collection/reception; Moon applying opposition Mercury lord 3rd; Venus in 7th opposing Asc.",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

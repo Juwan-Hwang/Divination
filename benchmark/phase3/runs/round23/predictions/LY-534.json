@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-534",
+ "prediction_text": "断：具题不成，此题本难以上达得准。占具题（上题本）以父母为文书之用，父母巳火五爻发动，化子孙申金（火克金，化出泄气之亲），文书动而化泄，主题本力散；四爻世爻兄弟未土动化父母午火，世化父母虽近文书，却是兄弟化父、耗中求文；卦风泽中孚之山泽损，变卦名损，主减损。父母一现于初?（按重构父母在初、五两爻，初爻巳火静），五爻用神动化泄为取舍主线，文书终局向损。应期按月档：窗口巳、午之月，主坐标巳月（父母巳火逢值之月）见驳回或搁置之信，题本不成。空亡戌亥不临用神，不作空论。",
+ "direction_claim": "negative - the memorial/submission will not succeed",
+ "timing_claim": "month scale: window 巳/午月; main coordinate 巳月 (父母逢值, rejection/shelving known)",
+ "confidence": "low",
+ "basis": "按风泽中孚之山泽损(艮宫)重构,动爻四、五:用神父母巳火五爻动化申金子孙,化神金为巳火所克之泄亲,文书化泄;世兄弟未土动化午火父母回头生只近文书不救五爻之泄。动化方向:用神化泄非吉向四类;反转条件无。变卦损同向。月日未明记置信低。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

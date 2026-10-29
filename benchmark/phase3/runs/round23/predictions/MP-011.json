@@ -1,0 +1,12 @@
+{
+ "case_id": "MP-011",
+ "prediction_text": "断：三组胜算排序为赖萧配第一、侯赵配第二、柯吴配第三。蓝白合于11月23日破局，在野分票已成定局，民进党一组以完整基本盘居首；国民党侯赵配组织与基本盘次之，仍有争胜之力但受柯分票所制；柯吴配声量高而组织最弱、又居在野分票之末，胜算最低。应期：排序即2024年1月13日投票结果之序，距问时47天内形势不致翻转此序。量级：第一与第二有差距但非悬殊，第三明显落后。",
+ "direction_claim": "ranking: Lai-Hsiao first, Hou-Jaw second, Ko-Wu third",
+ "timing_claim": "ranking holds to election day 13 Jan 2024 (day scale endpoint)",
+ "confidence": "medium",
+ "basis": "题面事实：蓝白合破局、三脚督确立、在野整合失败；在野分票下执政党候选居首为结构之势，国民党以组织盘居次，民众党组织最弱居末。按事实优先序以整合破局这一结构性事实定序。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

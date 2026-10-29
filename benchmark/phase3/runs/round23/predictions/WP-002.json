@@ -1,0 +1,13 @@
+{
+ "case_id": "WP-002",
+ "prediction_text": "Prediction: Barack Obama wins the 2008 US presidential election. The setting itself supplies the astrological signature the panel tradition reads: Saturn coming into opposition with Uranus beginning on Election Day — the first such configuration in 45 years — is the classic signature of upheaval and the defeat of the established order, which favours the insurgent change candidate (Obama) over the establishment figure (McCain, the presumptive Republican nominee of the incumbent party). Obama also holds the momentum in May 2008, leading the Democratic nomination race. Timing at day scale: the result is decided on Election Day, 4 November 2008, as the Saturn-Uranus opposition perfects.",
+ "direction_claim": "positive for Obama: Barack Obama wins the 2008 US presidential election",
+ "timing_claim": "day scale: decided on Election Day, 4 November 2008, as Saturn opposes Uranus",
+ "confidence": "medium",
+ "basis": "Classical/modern election astrology reading of the given configuration: Saturn (establishment, incumbent order) opposed by Uranus (rupture, change) perfecting on Election Day favours the challenger; querent-side facts in the input (Obama leading, McCain as incumbent-party nominee) align with that signature. Cross-check by mundane-event convention only; no natal charts were supplied, so no chart-based claims are made.",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md 上篇（古典占星骨架与相位）",
+  "inputs7/WP-002.json"
+ ]
+}

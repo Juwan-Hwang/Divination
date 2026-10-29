@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-004",
+ "prediction_text": "断：传闻不实，国王并未攻下剑桥。四角皆变动、月亮陷落宫且居不喜之宫，主消息虚浮无根；上升主（议会一方）擢升得势，对方七宫主却入弱且受克——王军一方并无得城之势。此问为单点真伪，无近远两段。应期按日档：本轮传闻很快即被证伪。",
+ "direction_claim": "negative - report is false, the King has not taken Cambridge",
+ "timing_claim": "news disproved promptly (day scale, current rumour cycle)",
+ "confidence": "high",
+ "basis": "All angles moveable, Moon cadent in a sign she delights not in = unstable/false rumour testimonies; lady of Asc in exaltation for Parliament side; lord 7th (King) entering his fall and afflicted; Saturn/Mars vitiating 10th/7th cusps.",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

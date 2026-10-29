@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-615",
+ "prediction_text": "断（占出门）：可去，且去得成、行程平安。世爻丑土发动，化午火回头生世，动化方向为吉向，主此行有归护、终能成行；世被子日合住，只主启程被绊、稍迟，不主不行。上爻父母酉金旬空，只主文书消息一时落空。应期按日档：窗口六日内，主坐标午日——化神午火逢值回生世爻，束缚得解、动身成行。",
+ "direction_claim": "positive - the outing can go ahead and will be safe/successful",
+ "timing_claim": "window within six days (day scale, near outing); main coordinate Wu day - the transformed Wu fire is in value and generates the shi line back (returning-head generation), journey accomplished",
+ "confidence": "medium",
+ "basis": "Outing judged by shi line. Shi Guan-gui Chou earth on line 4 moves and transforms to Wu fire; Wu fire generates Chou earth = returning-head generation, a ji-direction in the dong-hua ruling table (route3 +). Shi is weak in Shen month and combined by the Zi day (combined-held), so departure is held/delayed rather than denied. Ying Zi-sun Mao wood moves and transforms forward (Mao->Chen, hua-jin) toward arrival. Fu-mu You metal is void (Jia-Xu xun voids Shen/You) - documents/messages are empty/delayed only. Outing table: a held shi takes the un-binding/value day; Wu (transformed god) in value is chosen over Zi (combining, would bind further) and Chou (value but no generation).",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

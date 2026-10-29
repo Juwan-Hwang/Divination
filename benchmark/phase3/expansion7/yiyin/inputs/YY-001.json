@@ -1,0 +1,33 @@
+{
+  "id": "YY-001",
+  "tradition": "liuyao",
+  "subject": {
+    "name_or_desc": "有虑火灾者（未具名）",
+    "gender": null
+  },
+  "context": {
+    "question": "虑火灾，占祸患可脱否（脱祸占）",
+    "asked_at": "庚寅年己卯月甲申旬庚寅日",
+    "setting": "虑火灾，占祸患可脱否（脱祸占）",
+    "attachments": {
+      "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+      "hexagram": "兑宫：泽地萃 之 兑宫：泽水困（六合）",
+      "moving_lines": "二爻官鬼乙巳火动（世爻），化父母戊辰土",
+      "chart_lines_top_to_bottom": [
+        "父母丁未土",
+        "兄弟丁酉金 应",
+        "子孙丁亥水",
+        "妻财乙卯木",
+        "官鬼乙巳火 世（动）",
+        "父母乙未土"
+      ]
+    }
+  },
+  "provenance": {
+    "book": "《易隐》（清）曹九锡撰",
+    "edition": "华龄出版社2016年《四库存目纳甲汇刊（四）·校正全本易隐》（（清）曹九锡撰，郑同校；ISBN 978-7-5169-0726-9）扫描PDF，用户经学校图书馆提供",
+    "license_note": "内部研究使用",
+    "page": "卷三·脱祸占第九「附：断例」，书页113（PDF第125页）"
+  },
+  "language": "zh-Hant"
+}

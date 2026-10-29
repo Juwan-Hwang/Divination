@@ -1,0 +1,13 @@
+{
+ "case_id": "MH-010",
+ "prediction_text": "断：枯枝无风自坠为不祥之应，十日之内近地将有伤亡之灾。用离火克体兑金，用克体主凶；变山泽损，损主损伤减损；睽卦主乖离孤绝，九四辞『睽孤』主孤绝之人。兑为少女/妇人、离为中女，两路同指女子：应验对象为一名女子，将于坠枝近处遭坠落、缢伤一类与树木枯枝相关的伤亡之祸。应期按日档：起卦总数为十，窗口十日内，主坐标第十日。此为小事尺度内的近地灾象断，不放大为仕途生死之论，然伤亡量级由损卦与坠枝外应本身给出。",
+ "direction_claim": "negative: within ten days a woman near the spot will suffer a fatal/injurious accident connected with the tree/falling branch",
+ "timing_claim": "within 10 days, main point the 10th day (day scale)",
+ "confidence": "low",
+ "basis": "火泽睽四爻动变山泽损：上离火为用克下兑金之体，用克体凶；变损主伤损；睽孤辞主孤绝。兑象少女、离象中女，对象取女子；无风枯枝自坠于兑方为外应，坠象与损卦同指坠伤。起卦总数十定应期十日。对象与量级已按通则(f)(量级守恒)复核，惟具体事象路径单一，置信降为low。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

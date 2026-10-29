@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-515",
+ "prediction_text": "夫妇将来能和好。地天泰静卦，天地交泰、世应不冲不克：世爻兄弟辰土三爻酉月休而得辛巳日火生，应爻子孙酉金上爻临酉月旺，世土生应金，世生应主己方有相就回旋之意，卦体静而不散，目下之不和是暂滞非决裂。用神一侧妻财亥水五爻相、子水初爻相，财爻安静有气，夫妻名分之爻未破未空。和好应期窗口酉月内，主坐标酉日：应爻子孙酉金旬空（辛巳日甲戌旬申酉空），酉日填实出空，和气落定。",
+ "direction_claim": "positive",
+ "timing_claim": "窗口酉月内，主坐标酉日（应爻酉金填实出空）",
+ "confidence": "medium",
+ "basis": "四路：世得日生0偏+／应空待实为闸门，填实路明确／无动化0／世应计符：世生应+（兼彼此之事适用世应门）。应空走真假空判别：应临月旺为假空待出，不作终不成。婚姻对表：此非世用动空之格，按应空填实取酉日并留痕。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

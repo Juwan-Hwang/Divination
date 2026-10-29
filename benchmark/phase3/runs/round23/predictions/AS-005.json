@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-005",
+ "prediction_text": "断：船未沉，尚存（living），只是遇险受阻、消息被夸大。月亮为上升主且在金牛擢升、近木星，入相三合七宫太阳水星只差数分，主船体有强救且音信将至；土星刑上升近主曾有大险、九宫南交点主航程有阻滞，但不足以压过月亮擢升之救，不作沉没断。方位/落点：船仍在西班牙海岸一带可停靠处。应期按日档：三合只差数分，数日内必有确切消息到。",
+ "direction_claim": "positive - ship is alive/not sunk, safe though hindered",
+ "timing_claim": "news within a few days (day scale; Moon's trine to Sun/Mercury wants only a few minutes of arc)",
+ "confidence": "high",
+ "basis": "Moon lady Asc exalted in Taurus in 11th, near Jupiter, applying trine Sun/Mercury in 7th wanting minutes; Cancer Asc shows ship's body, Saturn square Asc near from 11th in Aries shows peril/danger not destruction; South Node in 9th = hindrance on voyage.",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/western-astro-numerology-runes.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

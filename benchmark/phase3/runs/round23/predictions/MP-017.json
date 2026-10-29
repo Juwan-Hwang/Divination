@@ -1,0 +1,12 @@
+{
+ "case_id": "MP-017",
+ "prediction_text": "断：下届香港特首由女性出任。问时（2016年12月）梁振英已宣布不连任，男方最热人选曾俊华已辞职备选而未得中央明示，女方政务司司长林郑月娥改口称将重新考虑参选——改口即天意人事同动之兆，女性人选的势在改口一刻已成。断语落到具体人：出任者即林郑月娥。应期按月档：2017年3月26日选举委员会投票，林郑当选为下届（第五任）行政长官，香港首位女性特首就此产生。",
+ "direction_claim": "female: the next Hong Kong Chief Executive will be a woman (Carrie Lam)",
+ "timing_claim": "elected 26 Mar 2017 (month scale)",
+ "confidence": "medium",
+ "basis": "题面事实：现任宣布不连任、男性热门人选辞职待命而信号未明、女性政务司司长由不参选改口为重新考虑——三项事实中唯女性一线出现由无到有的动势。按事实优先序取此动势定性别与人选，不作男女各半之含糊断。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

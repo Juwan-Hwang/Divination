@@ -1,0 +1,13 @@
+{
+ "case_id": "MH-001",
+ "prediction_text": "断（观梅占）：明日有少女来折梅花，惊坠伤股，然无大害。体兑金为少女之象，用离火克体，主花下之人受惊克；离为花、为枝上繁华，正应折花之事。变卦下艮土生体金，艮为止、为坠、为股腿之位，故其人被园人驱逐、惊惶坠地伤及大腿；变卦终能生体，故只是惊伤皮肉、不至重残。应期按日档：就在明日，少女至梅树下时应验。此断三项具体：人物为一少女、物品为梅花枝、伤处为股部。",
+ "direction_claim": "negative-minor event - a young girl will come to pluck the plum blossoms, be driven off, fall and hurt her thigh, but suffer no serious harm",
+ "timing_claim": "tomorrow (day scale, Meihua number divination); window is the day after the casting, main coordinate tomorrow when the girl comes to the plum tree",
+ "confidence": "medium",
+ "basis": "Meihua, casting by year/month/day/hour numbers per input: Ze-huo Ge, line 1 moving, changed Ze-shan Xian; mutual Qian and Xun. Moving line is in the lower trigram, so Li (fire) is yong (situation) and Dui (metal) is ti (self/scene owner). Yong fire restrains ti metal = an adverse event strikes the scene. Dui is the young girl and also the plum-tree setting's metal; Li is the flowering branch in bloom. Changed hexagram's lower Gen is earth generating ti metal and Gen governs stopping/falling and the leg/thigh region - hence a fall injuring the thigh, but generation into ti in the outcome means fright without grave harm. Event-level specifics per density rule: person = a young girl (Dui), object = plum blossoms/branch, injury site = thigh (Gen), time number = tomorrow (the number total points to the immediate next day). Object check: the injury falls on the girl who comes to pluck, not on the observer Shao Yong himself.",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-212",
+ "prediction_text": "方向：对『中邪/被巫蛊』一问为否定——病人不是被巫术所害；对病势为先重后转好。主断：月亮趋冲土星、两星分居第六与第十二宫只是引起巫蛊嫌疑之象，但第十二宫（巫蛊宫）主并未克害上升、上升主或月亮，巫蛊成立的必要证词缺失，故断非巫蛊，乃土星型自然疾病（沉重、壅滞、药石无功而渐重一路，与医生多用药而不效的事实相合）。月亮冲土星之后转而趋向上升主，而上升主在地面之上、向天顶上升，主病情过最重一关后向愈、病人得起。应期：日尺度近病，月冲土星成相为最重之点（近几日），其后月趋上升主成相为转机点，窗口在数日至旬内，先 worst 后 better，两段分明：近段加重、远段转愈，远段触发为月离土星之冲、转趋上升主之相位链。",
+ "direction_claim": "negative for witchcraft: not bewitched - a natural Saturnine illness; the patient worsens first then recovers/improves",
+ "timing_claim": "days-to-ten-days scale: worst point as the Moon completes opposition to Saturn in the near days, improvement following as she then applies to the lord of the Ascendant",
+ "confidence": "high",
+ "basis": "Lilly卜卦病占巫蛊判法：月土冲分居六/十二宫只成嫌疑，十二宫主不克上升、上升主与月亮则巫蛊不成立；月冲土星后趋上升主、上升主在地上升向天顶主转愈。通则(e)事实优先：药多不效、愈医愈重与土星壅滞之自然病象相合，不以象压事实虚构巫蛊；通则(i)病程两段：近段月土冲为加重、远段月趋上升主为转愈，触发已指认。对象复核(f)：病断承受者与应验者同为病人本人。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md 作断通则(e)(f)(i)",
+  "kb-snapshot/references/western-astro-numerology-runes.md 上篇（Lilly古典规则）",
+  "inputs7/AS-212.json key_positions"
+ ]
+}

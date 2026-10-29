@@ -1,0 +1,13 @@
+{
+ "case_id": "OC-009",
+ "prediction_text": "方向：仕途贵显至外交首脑级——外长/驻大国大使之位，财富丰厚，婚姻多波折，长寿善终。格局依据说明：输入明言四柱以原书为准、转录本个别字待校，本例未给可核四柱，故特格扫描、运断主线、峰值三核对与应期三步无盘可走，明写「无盘不臆断」：以下只据输入给定的事实性处境（顶尖外交官、已历任驻外使节与内阁职务）按命造类通例落等级断语，并降置信。等级断语：以已历内阁职务之资历与外交专长，终局层次在外长/大使级封顶，财富以使节俸禄与家资为丰厚级，婚姻以使节久驻外、聚少离多主多段波折，寿元以职业文官无兵祸之险主高寿善终。应期：无四柱则运名不可指，峰值只定在中年任使节内阁之壮年段，不虚报运名年份。此为依据不足之受限作断，四柱补齐后须重断。",
+ "direction_claim": "positive: top diplomatic rank (foreign minister / ambassador level), ample wealth, eventful marriages, long life — stated under an explicit no-chart limitation",
+ "timing_claim": "luck-pillar scale only: peak in the middle-age ambassadorial/cabinet luck pillars; exact pillar names not determinable because the input withholds the four pillars",
+ "confidence": "low",
+ "basis": "输入未给四柱（原文：四柱以原书为准，转录本个别字待校），按纪律没排盘不说盘：不臆造干支、不走运断程序。断语只据输入事实（顶尖外交官、历任使节与内阁）与命造通例定等级、财富、婚姻、寿元四项，置信降为low，并在prediction_text中明写受限原因。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md 纪律（没排盘不说盘）与作断通则(b)(c)",
+  "kb-snapshot/references/chinese-bazi-ziwei.md 上篇（必需输入与等级上限规则）",
+  "inputs7/OC-009.json（四柱缺失，仅subject处境可用）"
+ ]
+}

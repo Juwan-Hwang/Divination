@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-511",
+ "prediction_text": "终身有财福，中上之格。兑为泽静卦：子孙亥水四爻子月旺相，旺福生二爻妻财卯木，卯木子月相（水生木为相），财得旺原神长生之源，财源不绝。世爻父母未土上爻虽子月囚，却临乙未日支，未土得日扶，守成有力。兄弟酉金金休静伏不劫，官鬼巳火初爻旬空不扰。财福相生、静而守成，终身衣食丰足、渐积有余。应期年档，主坐标卯年（妻财逢值，财福最显）。",
+ "direction_claim": "positive",
+ "timing_claim": "年档，窗口亥卯年间，主坐标卯年（妻财卯木逢值）",
+ "confidence": "medium",
+ "basis": "四路：本气财相+／元忌仇子孙旺生财、兄弟休静不劫+／无动化0／世应世土与应土同气不计。四路合参方向成。等级：财相而非临月旺，故断中上、不拔巨富，压制依据为财只居相位。终身财福对表无世空世墓之闸门，按逢值取卯年。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

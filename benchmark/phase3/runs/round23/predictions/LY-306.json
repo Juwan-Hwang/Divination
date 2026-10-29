@@ -1,0 +1,13 @@
+{
+ "case_id": "LY-306",
+ "prediction_text": "断：弟尸首可见，见在出空之日。占尸首以官鬼为用神，官鬼寅木临空亡寅卯（本条旬空之问）：鬼爻为空，尸首暂浮沉未露、为水所掩之象，空者待出，出空填实则尸首浮见。卦地雷复，复主反复返出，与尸首待出之象同向。应期按日档（问何日见）：窗口本旬出空之时，主坐标寅日（寅木填实逢值、鬼爻出空之日；申日冲空为备选只入依据不并陈）。对象复述：可见与否主语为所问之弟尸首本身，非人对象即应验对象，不回收到占问者身上。",
+ "direction_claim": "positive (brother's corpse can be found/seen, on leaving emptiness)",
+ "timing_claim": "窗口出空之时，主坐标寅日（日档，官鬼寅木填实出空）",
+ "confidence": "low",
+ "basis": "据输入可互证信息：卦复、坤宫、空亡寅卯、缺父母爻、用神官鬼寅木正临旬空、本问主题旬空、占题明问何日见。应期三路：填实寅日取为主坐标，冲实申日（申冲寅）为备选舍为窗口边界（与终局同向而填实先于冲实贴合逢值），逢合寅亥合无月日据舍。逐爻与月日未给，旺衰无据细核，降置信；空按待应论不断不见，承决策序应期维度空破待填实。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md",
+  "kb-snapshot/references/calibration.md"
+ ]
+}

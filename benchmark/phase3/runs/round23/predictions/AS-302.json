@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-302",
+ "prediction_text": "方向：对疫苗为正——未来六个月内疫苗有突破性好消息并落地，疫情在先苦后好中转向。主断：2020年10月后先迎冬季一波疫情加重（近段凶），但疫苗一路在六个月窗口内传出成功消息、获批并开始接种（远段吉，触发为窗口后半段的好消息节点），至2021年春季局势明显透气、社会开始解封转向。断语落到事件级：疫苗不是落空，而是数月内见效验的第一针与批准消息；疫情本身不会在六个月内消失，只是被疫苗扭转方向。应期：六个月窗口内，主坐标取2020年11—12月为疫苗好消息/获批点，2021年3—4月为转势点。",
+ "direction_claim": "positive for the vaccine: within six months there is breakthrough vaccine success/approval and rollout, and the pandemic turns for the better by spring 2021 after a hard winter",
+ "timing_claim": "six-month window from Oct 2020: vaccine news/approval main coordinate Nov-Dec 2020, easing by Mar-Apr 2021",
+ "confidence": "low",
+ "basis": "输入仅给2020-10-19时点、三期试验进行中的事实与六个月之问，无盘面；按通则(i)两段式：近段冬季疫情加重、远段疫苗落地转势，两段各给方向；事实优先(e)：多款疫苗已在三期，六个月内出结果为盘面外事实约束内的最强可落点。无星盘数据，置信低。",
+ "sources_used": [
+  "kb-snapshot/SKILL.md 作断通则(e)(i)",
+  "kb-snapshot/references/western-astro-numerology-runes.md 上篇",
+  "inputs7/AS-302.json"
+ ]
+}
