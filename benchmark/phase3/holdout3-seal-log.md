@@ -7,3 +7,5 @@
 - **結局封存位置**：benchmark/phase3/holdout3/test_gold.jsonl（同目錄 SEALED.md 注明只許評審角驗收時開封）；holdout3 的盲測 inputs 單獨置於 benchmark/phase3/holdout3-inputs/，不含任何答案字段（核對記錄 benchmark/phase3/data/input-check.txt）。
 - **狀態**：**未開封**。自本筆落盤起，holdout3 結局不進入任何給盲測角／修訂角的材料；開封須由評審角於驗收輪在本日誌追加一筆後進行。
 - 2026-10-29 输入面清理（未开封）：holdout3 的 27 个 inputs 中 17 例 substantive 泄漏已按 LEAK-CLEANUP-ERRATA 清理（只改 inputs 侧事实叙事、删断语内容）；金标 test_gold.jsonl 清理前后 SHA-256 核对一致、一字未动。本日志所记封存状态不变：结局仍未开封。
+- **开封记录（2026-10-29）**：开封时间 2026-10-29 15:04（Asia/Shanghai）；依据 benchmark/iterations.md「Phase 3 holdout3 验收预注册」节；开封人角色：建包角（评审侧）；范围：holdout3 共 27 例金标 test_gold.jsonl。本笔落盘后方读取金标，用于建匿名评审包；建包角不做任何评分。
+- 2026-10-29 验收完成：holdout3 未达标（全集配对差 −1.343、低污染 −1.394），本集标记**已用**，不得再作验收。详见 holdout3-acceptance/REPORT.md。后续验收须用另设的 holdout4。
