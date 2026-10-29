@@ -1,0 +1,64 @@
+{
+  "id": "LY-628",
+  "tradition": "六爻",
+  "subject": "訟事勝負",
+  "context": {
+    "caster_or_relation": "一人",
+    "question": "占訟事",
+    "category": "官非",
+    "asked_at": "原書未記月日（十八問答體例）",
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": {
+      "original_name": "地天泰",
+      "changed_name": null,
+      "palace": "坤宮",
+      "kongwang": "戌亥",
+      "chart_lines": [
+        "子孫酉金⚋應",
+        "妻財亥水⚋",
+        "兄弟丑土⚋",
+        "兄弟辰土⚊世",
+        "官鬼寅木⚊",
+        "妻財子水⚊"
+      ],
+      "chart_note": "在線本裝卦表為雙欄排版經 OCR 轉錄後行序錯亂，逐爻裝卦未能可靠還原；本條只錄可由卦名、卦宮、空亡與斷語互證的資訊，逐爻表不錄。",
+      "moving_lines_text": "見斷語節錄所涉動爻（在線本裝卦表不可靠，未逐爻還原）",
+      "moving_lines": "無動爻（靜卦）",
+      "date_ganzhi": "戌月丁卯日",
+      "hidden_lines": "二爻官鬼寅木下伏父母巳火"
+    }
+  },
+  "provenance": {
+    "work": "卜筮正宗",
+    "edition": "華夏大易學社（cnddy.com）在線全本（據通行本錄入，頁面字形為簡體，節錄照頁面；在線讀、未存檔）",
+    "page": "十八問答·第八問",
+    "url": "https://www.cnddy.com/1759.html",
+    "language": "zh-Hans"
+  },
+  "language": "zh-Hans",
+  "notes": {
+    "completion_grade": {
+      "source_locator": "《卜筮正宗》校正全本（四库存目纳甲汇刊2）卷十三/十四·十八问答附占验例056，书页219（PDF页234）",
+      "fields": {
+        "chart_lines": {
+          "grade": "直载",
+          "basis": "原书装卦表明载逐爻六亲、地支五行、爻象、世应与动爻记号，定位：《卜筮正宗》校正全本（四库存目纳甲汇刊2）卷十三/十四·十八问答附占验例056，书页219（PDF页234）。变卦栏非动爻行原书未逐行印出，其六亲地支由变卦纳甲依本宫五行配定，此部分属推算复原。本例原 schema 盘面在 context.hexagram.chart_lines（原为空表），照原 schema 填入。"
+        },
+        "moving_lines": {
+          "grade": "直载",
+          "basis": "原书装卦表动爻记号及化爻地支明载；并经本变卦爻象差复核一致。"
+        },
+        "date_ganzhi": {
+          "grade": "直载",
+          "basis": "原书例首明载「戌月丁卯日」；与本例既有 kongwang 字段经旬空核算互证一致。"
+        },
+        "hidden_lines": {
+          "grade": "推算复原",
+          "basis": "本卦六亲缺父母不现；按伏神规则取本宫首卦同位之爻伏于本卦同位爻下，标准规则确定性推得。"
+        }
+      },
+      "completed_by": "phase3 inputs9 C轨数据角补录（2026-10-30，顺手组：与C类14例同源同法）",
+      "scope_note": "仅补 context.hexagram 盘面事实字段；题面文字与既有字段一字未改。"
+    }
+  }
+}

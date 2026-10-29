@@ -1,0 +1,58 @@
+{
+  "id": "LY-105",
+  "subject": {
+    "name_or_desc": "网友之母",
+    "basic_info": "女，年长者，身体不适原因未明",
+    "gender": "女"
+  },
+  "context": {
+    "question": "代看母亲身体（病况如何）",
+    "asked_at": "乙酉年壬午月壬戌日（2005年前后）",
+    "setting": "2005年前后，网友得知交流对象是王虎应学生，请其代看母亲身体；学生把握不准，转请王虎应指教。占时：乙酉年壬午月壬戌日（子丑空）丙午时",
+    "attachments": {
+      "ben_gua": "雷天大壮",
+      "bian_gua": "水天需",
+      "date_ganzhi": "乙酉年壬午月壬戌日丙午时",
+      "source": "《六爻疑惑指迷》相关转录（360doc，论坛帖整理） https://www.360doc.cn/article/35615136_990164122.html",
+      "secondhand": true,
+      "chart_lines_top_to_bottom": [
+        "兄弟戌土⚋　妻财子水⚋",
+        "子孙申金ㄨ　兄弟戌土⚊",
+        "父母午火○世　子孙申金⚋",
+        "兄弟辰土⚊　兄弟辰土⚊",
+        "官鬼寅木⚊　官鬼寅木⚊",
+        "妻财子水⚊应　妻财子水⚊"
+      ],
+      "moving_lines": "四爻父母午火○（世）动、五爻子孙申金ㄨ动",
+      "空亡": "寅卯"
+    }
+  },
+  "provenance": {
+    "book": "《六爻疑惑指迷》",
+    "edition": "",
+    "url": "https://www.360doc.cn/article/35615136_990164122.html",
+    "page": "《六爻疑惑指迷》相关转录（360doc，论坛帖整理） https://www.360doc.cn/article/35615136_990164122.html"
+  },
+  "language": "zh-Hant",
+  "notes": {
+    "completion_grade": {
+      "source_locator": "《六爻疑惑指迷》本地无藏；据 inputs8 已载本变卦名（雷天大壮之水天需）与日期（乙酉年壬午月壬戌日丙午时）",
+      "fields": {
+        "chart_lines_top_to_bottom": {
+          "grade": "推算复原",
+          "basis": "《六爻疑惑指迷》本地无藏；据 inputs8 已载本变卦名（雷天大壮之水天需）与日期（乙酉年壬午月壬戌日丙午时），由标准纳甲（定宫、纳甲、世应、六亲配五行）确定性推得全盘；动爻由本变卦爻象差定。"
+        },
+        "moving_lines": {
+          "grade": "推算复原",
+          "basis": "本变卦爻象差确定性推得。"
+        },
+        "空亡": {
+          "grade": "推算复原",
+          "basis": "由已载日干支「丙午」按旬空规则推得。"
+        }
+      },
+      "completed_by": "phase3 inputs9 C轨数据角补录（2026-10-30，顺手组：与LY-104同法）",
+      "scope_note": "仅补 attachments 盘面事实字段；题面文字与既有字段一字未改。"
+    }
+  }
+}
