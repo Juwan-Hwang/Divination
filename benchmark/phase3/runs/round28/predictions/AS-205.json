@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-205",
+ "prediction_text": "方向：病人会死、不能活。具体断语：1645年7月16日此病占为死局——上升被八宫主之一的实体星所伤、六宫固定受损、六宫主落固定土座忧郁座、太阳（时光）与六宫主土星在固定座精确对冲、月亮近南交点且在上升受克，五重死证俱聚，无救应之象。病性为寒干忧郁质的固定痼疾（壅塞沉着一类）。应期以周/月为单位，窗口为占问后数周至数月内（固定座主不速不迟、非数日暴亡），主坐标定到月量级、无日点可据。置信高（就生死方向）。",
+ "basis": "疾病生死卜卦法：上升受八宫主伤＋月亮近Cauda在上升受克＋日与六宫主固定座对冲，皆Lilly死证；六宫主落固定忧郁土座定病性与缓程。输入上升星座字形OCR损坏未断言，已据其余五项作断。",
+ "confidence": 0.82,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology"
+ ],
+ "sources_used": [
+  "western-astro-numerology-runes.md",
+  "calibration.md",
+  "SKILL.md"
+ ]
+}

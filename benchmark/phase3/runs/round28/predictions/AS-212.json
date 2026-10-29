@@ -1,0 +1,18 @@
+{
+ "case_id": "AS-212",
+ "prediction_text": "方向：非巫蛊（negative 对『被蛊』之问）——病是自然之病，不是巫蛊所致。月亮虽将冲土星且两星分居六、十二宫，形似可疑，但上升、上升主与月亮皆不受十二宫主之克，蛊证不成立；病性属土星型：沉重、迁延、药石迟效。转归：月冲土后转而入相上升之主，该主在地上、上升趋天顶，病势过此一冲后渐有起色、向愈。应期：月档偏日尺——窗口为月行过冲土、成相上升主的这一段行程（数周内），主坐标取月成相上升主之时为转机点。置信：中高。",
+ "basis": "Lilly『if bewitched』章判法核心在否定证：命主与月不受十二宫主克害，则不以巫论；月冲土星在六宫只定病沉与土星型病性。应验对象复核：断语承受对象为病人本人，愈期断语同落病人本人。输入残损：1646 年日不详、OCR 盘面不全，无度数，应期只给月行窗口。",
+ "confidence": 0.75,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western-horary-astrology"
+ ],
+ "sources_used": [
+  "references/western-astro-numerology-runes.md"
+ ]
+}

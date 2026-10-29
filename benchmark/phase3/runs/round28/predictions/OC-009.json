@@ -1,0 +1,20 @@
+{
+ "case_id": "OC-009",
+ "prediction_text": "方向（残损降断）：仕途长显、外交重臣级，晚景安稳——仅作低置信总方向，不作细断。断语：据占题事实命主已历任驻外使节与内阁职务，其贵显已由事实层面成立；但输入四柱字段仅为文字说明、无实际干支，本例无法排盘核格，不臆造格局、用神、大运与应期，只保留与已知事历相合的长显方向。应期：无盘可推，不给应期。",
+ "basis": "输入残损：subject.birth.pillars 字段原文为说明文字而非四柱干支，无从定日主、月令、用神与大运。按任务规矩照实在basis注明并降置信，不臆补盘面。本断仅依通则（e）事实优先序：命主为顶尖外交官、已历使节与内阁职务，此为占题给定事实；财富婚姻行运等细项一概无据不报。",
+ "confidence": 0.3,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "八字"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/chinese-bazi-ziwei.md",
+  "references/calibration.md"
+ ]
+}

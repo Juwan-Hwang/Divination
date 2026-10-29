@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-206",
+ "prediction_text": "方向：能嫁成，但费周折、男方条件苛刻。具体断语：女方终能嫁给所慕男子；过程主迟滞与委屈——女方主星水星逆行且在日光下主她处于弱势/情事不显，男方主星擢升、近金星六合主他身价高、立条件高且曾与他人暧昧周旋；促成者为月亮：月亮分离木星刑相后以三合把光线传递给上升主水星，主经中间牵引终得成相。应期以月为单位，窗口为1646年占问后数月内，主坐标只能定到月量级（输入未给传递成相度数，不臆报日）。置信中偏低，此为两路相争之盘：半六合弱相与男方高势为阻，月亮传光为成，故断成而降置信。",
+ "basis": "婚姻卜卦法：男女主星半六合为弱联系、不足独成；月亮translation of light（三合带木星之光至上升主）为补成之链；问者主星逆行焦伤倾向主弱势迟滞， quesited擢升近金星主其高条件与另有周旋。输入为散文摘要、无成相度数，应期只到月量级。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology"
+ ],
+ "sources_used": [
+  "western-astro-numerology-runes.md",
+  "calibration.md",
+  "SKILL.md"
+ ]
+}

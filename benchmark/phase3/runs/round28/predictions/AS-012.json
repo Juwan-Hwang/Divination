@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-012",
+ "prediction_text": "方向：得不到。具体断语：此教士求谋的教区圣职（parsonage）求不到，强行谋求亦无成，应知难而退；七项负证俱全——土星伤上升、九宫主与上升主及月亮皆无相位、无传递/汇聚光线、无接纳、上升主与月亮皆不在九宫、月亮转而对冲三宫主水星、七宫金星冲上升。应期：无成期可报，本谋在当前求问周期内即应断为不成，不待时日。置信很高。",
+ "basis": "圣职卜卦九宫法：九宫主为圣职主星，与问者主星全无联系且无translation/collection/reception，按Lilly所列七负证断不成；土星临上升伤问为整问受阻之象。输入个别行星字形OCR残损，但七负证为原文自列、不影响终局。",
+ "confidence": 0.85,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology"
+ ],
+ "sources_used": [
+  "western-astro-numerology-runes.md",
+  "calibration.md",
+  "SKILL.md"
+ ]
+}

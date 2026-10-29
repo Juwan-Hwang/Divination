@@ -1,0 +1,23 @@
+{
+ "case_id": "LR3-004",
+ "prediction_text": "方向：吉，前程有官可就。日干己土，三传亥卯未成曲直木局——木为己土之官鬼，官星三传成局入传，且初传癸亥父母（水）生官，有印绶文书为源，末传己未乘青龙又恰抵日支，主官职最终落到自身、喜庆得位。过程非全无碍：中传卯木官鬼乘玄武，主同僚竞争、阴私暗碍，初传亥水乘螣蛇主先有惊疑虚扰，八专课干支同体主彼我界限不清、须防为人作嫁。应期（年档）：功名终局以年为尺度，窗口为逢木旺之年，主坐标卯年——中传官鬼卯木逢值之年为迁就之期。",
+ "basis": "六壬仕宦门：官鬼为官职本体，三传亥（父母·螣蛇）卯（官鬼·玄武）未（青龙）成曲直局，递生至官而末归日支；曲直格主举直错枉；青龙末传主恩宠喜庆。八专总象同体不分，只调量级不翻方向。旬空只认子丑（己未日甲申旬子丑空），辰巳为落空不作空亡用。盘面不全守第八节，年命未给不引年命路。应期先定年档（远期功名），三路中逢值取卯年为主坐标，逢冲、出空两路无点已舍。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "大六壬"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/chinese-liuren.md",
+  "references/chinese-liuren.md 第三节课格·曲直",
+  "references/chinese-liuren.md 第五节类神总表",
+  "references/chinese-liuren.md 第六节第9门 仕宦功名",
+  "references/chinese-liuren.md 第七节应期·仕宦"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "case_id": "WP-009",
+ "prediction_text": "方向：印度队不会赢得2019年板球世界杯。具体断语：印度小组/循环赛表现强势能进淘汰赛，但在半决赛阶段出局，无缘决赛捧杯；冠军另属他队。应期/时间窗：赛事5月30日—7月14日，淘汰窗口为7月9—10日半决赛期，主坐标半决赛日出局。",
+ "basis": "输入残损：只有队长出生年份（1988），无精确出生时间、出生地与完整星盘，无法按占星精通检查表排盘；仅据十队循环赛制下热门队夺冠需连过淘汰关、变量极大作保守负面断，降置信。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western-astrology",
+  "fact-based-assessment"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/western-astro-numerology-runes.md",
+  "references/calibration.md"
+ ]
+}

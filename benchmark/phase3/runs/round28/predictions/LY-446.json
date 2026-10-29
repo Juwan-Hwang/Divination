@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-446",
+ "prediction_text": "有雨（positive）：不要被妻財發動騙了——財動化出父母，晴象轉雨象，雨會來。應期以日為單位：窗口為占後數日之內，主座標逢酉日——化出父母酉金逢值之日，降雨落定。",
+ "basis": "天時究父財、重動化：妻財午火三爻應位發動，單看財動本主晴（占題 setting 亦載有人疑財動主旱），但午火化出父母酉金，動化方向為財化雨神，化神酉金戌月旺、有力得值即雨；父母申金四爻靜在卦面，雨神本有根，化出酉金再增其勢。按動化定性優先：已成立的化父方向壓過財動主晴的靜態第一印象，靜態象只調量級。應期取化神逢值酉日，午日財值（主晴）一路與終局方向相悖舍棄，申日父值一路同向但化神酉更貼終局段、取酉捨申並註明。對表無天時門類。",
+ "confidence": 0.67,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "雨之主象取動爻化出的父母酉金，故 changed_main 記 true；父母本卦亦有申金一現，不涉伏神"
+ },
+ "systems_used": [
+  "六爻納甲"
+ ],
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

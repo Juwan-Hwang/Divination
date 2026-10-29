@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-015",
+ "prediction_text": "方向：丈夫活着、平安、能归。具体断语：海上丈夫主星太阳得hayz、毫无受克，为在生且境况安好之决定证，不必作已死断；其人当在返程/将归途中，终将回到妻子处。妻子自身则另有重危：六宫主土星逆行、火土趋凶相，主她本人病势反复、凶险在后段，须以其自身安危为虑（原文据盘定时于其后10月8日量级）。丈夫归期应期以月为单位，窗口为占问后数月内，主坐标只能定到秋前量级、无精确日点可据（输入未给足归期相位度数，不臆报日）。置信：丈夫在生为中高，归期为低。",
+ "basis": "远行/配偶卜卦法：以七宫为妻之上升另起看夫，夫主太阳in hayz且free from all affliction按Lilly为存活无恙证；妻六宫主土星逆行主她本人久病反复，火土凶相趋近主后段转危。输入部分位置OCR残损、归期度数未给全，故归期只给月量级窗口并明言无精确主坐标依据、整体置信分层。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology"
+ ],
+ "sources_used": [
+  "western-astro-numerology-runes.md",
+  "calibration.md",
+  "SKILL.md"
+ ]
+}

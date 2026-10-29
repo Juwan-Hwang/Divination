@@ -1,0 +1,19 @@
+{
+ "case_id": "MP-012",
+ "prediction_text": "方向：賴清德、蕭美琴一組最有機會當選下屆正副總統。三腳督下其餘兩組互相分票，賴蕭配穩定領先至投票日。應期：2024年1月13日投票定局（單位：日）。",
+ "basis": "輸入殘損：未給出生年月日時辰、亦無起卦/排盤原始結果，無法排八字全盤或起卦覆核；僅據輸入所給占問時點之事實情勢（聲勢、民調、選戰進程）與流年通則作方向斷，未臆補任何盤面，置信據此封頂。",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "流年運勢通則",
+  "事勢研判"
+ ],
+ "sources_used": [
+  "kb-snapshot/SKILL.md 選法自決與作斷通則(b)(e)(f)"
+ ]
+}

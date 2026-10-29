@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-204",
+ "prediction_text": "方向：病在胸腹（乳房与胃部一带）、属寒湿/忧郁质的固定久病，难速愈、病程缠绵，但非占问当下即死的急死之局。具体断语：病位主胸与胃（土星当时在巨蟹主胸胃），病性为固定、壅滞、沉重之疾（如胸胃处硬滞肿塞一类），四角皆固定主病已成形、根深难拔；医治须作久图，短期内不见全愈。应期以月为单位论转归：近段（本月内）无愈象，远段亦只主缠绵反复、无盘面触发可指认速愈点。故作一段终局：远段速愈无据不报。置信中。",
+ "basis": "疾病卜卦（decumbiture类）法：上升天蝎、四角固定主病固定；六宫有入弱之星主病宫受损；上升主刚分离土星右刑、土星在巨蟹定胸胃病位；月亮在四宫合土星主病沉下焦/根部而久。输入未明六宫内行星名与占问日期，病名只断到病位与病性层、已降置信。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology"
+ ],
+ "sources_used": [
+  "western-astro-numerology-runes.md",
+  "calibration.md",
+  "SKILL.md"
+ ]
+}

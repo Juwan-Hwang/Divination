@@ -1,0 +1,19 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Direction: Donald Trump wins the 2016 US presidential election. What decides it, in the reading, is the Clinton trust collapse: the email controversy and the Clinton Foundation questions keep resurfacing through the autumn and drag Clinton down at the decisive moment — the election is lost on scandal and concealment around Clinton, not won on Trump's programme. Timing: decided on election day, 8 November 2016, with the late-campaign scandal resurgence as the proximate cause in the weeks just before the vote.",
+ "basis": "Input gap recorded: the consultation's actual card spread is not supplied in the input, so no card-by-card Waite reading is fabricated (per method, no spread, no card claims). The judgment is made at the level the input supports: a tarot consultation on this exact question, in a setting whose stated live factors are Clinton's email controversy and Foundation controversies already in public view — in a narrative reading those unresolved deception/trust themes are the pivot the spread turns on, and they point against Clinton. Confidence is lowered for the missing spread; systems_used records tarot as the consulted system, with the caveat carried here in basis.",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "tarot"
+ ],
+ "sources_used": [
+  "references/western-tarot.md（塔罗：位置义×牌义、叙事枢纽读法；本例牌面未给，只作叙事层判断并降置信）",
+  "SKILL.md（没起牌不编牌面：输入残损注明并降置信）"
+ ]
+}

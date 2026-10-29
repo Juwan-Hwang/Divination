@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-011",
+ "prediction_text": "方向：婚事能重续、能成。具体断语：这位已被断然拒绝的求婚可以重新撮合成功，前提是男方先主动迈第一步；女方不必自降身份去求。木星擢升入相六合七宫主土星、并把土星之力传递给上升主太阳、无禁制/截断/挫败而在6月27日成相，为婚成决定链；金星与月亮、太阳与金星的接纳主双方情意可通。男方土火合固定土座居南角主其固执沉重、起步慢。应期以日为单位，窗口为6月中下旬，主坐标为6月19日近午男方先动、6月27日相位成时婚议坐实。置信中高。",
+ "basis": "婚姻卜卦传递光线法：月亮空亡后对冲太阳主先有隔阂；木星擢升入相六合七宫主并transfer至上升主、无prohibition为成事链完整；互容诸象主情意可接。输入为散文摘要、无完整盘面。",
+ "confidence": 0.74,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology"
+ ],
+ "sources_used": [
+  "western-astro-numerology-runes.md",
+  "calibration.md",
+  "SKILL.md"
+ ]
+}

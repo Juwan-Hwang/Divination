@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-010",
+ "prediction_text": "方向：仆人往西边去、且能回来/被找回。具体断语：出走仆人往西方、偏南象限方向去，去处不算远；仆人主星与上升主正趋向自角宫成三合，主其将自愿返回或被寻回，不必断为永逃。月亮在出走时与占问时同在西方星座，主行踪方向一致向西。应期以日为单位，窗口为占问后数日内，主坐标为三合将成之数日内返回/得获。置信中高。",
+ "basis": "逃仆卜卦法（Lilly第LXI章）：水星为本盘仆人特主、月亮为仆人共主，俱在西方星座定西行；水星在南象限补偏南；仆人主星与上升主自角宫趋三合为返回之象；月居二宫本宫主未远。输入未给占问日期与完整盘面，应期只到日量级窗口。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology"
+ ],
+ "sources_used": [
+  "western-astro-numerology-runes.md",
+  "calibration.md",
+  "SKILL.md"
+ ]
+}

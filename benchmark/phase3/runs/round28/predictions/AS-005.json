@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-005",
+ "prediction_text": "方向：船还活着、未沉。具体断语：船体虽遇险受扰（土星刑上升近）但未失，船在西班牙海岸一带贸易航程中安全存续、靠港或在航路上；船主星月亮在金牛擢升落十一宫、入相三合七宫日水且近木星，为安然强证。消息应期以日为单位，窗口为占问后数日内，主坐标为三合只差数分即成相所主的极近之期——数日内必有该船确切消息到。置信高。",
+ "basis": "卜卦船舶法：上升巨蟹主船体，土星刑上升主曾遇危险/损伤而非沉没；船主月亮擢升居角后宫、入相三合且近木星为存活决定证；三合容许度仅数分故消息应期极近。输入为散文摘要、无完整盘面度数全表。",
+ "confidence": 0.78,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology"
+ ],
+ "sources_used": [
+  "western-astro-numerology-runes.md",
+  "calibration.md",
+  "SKILL.md"
+ ]
+}

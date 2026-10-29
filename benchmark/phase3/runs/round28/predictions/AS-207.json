@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-207",
+ "prediction_text": "方向：死于暴力处决、非自然病死于狱中。具体断语：坎特伯雷大主教Laud将死于刀斧之刑——公开行刑式的斩首（火星主刀刃、落风相人形座主由人手执刃、太阳入相冲火星主刑杀成局），此前先经长期囚禁与身败（其主星土星入弱、久逆、落十二宫囚禁宫）。应期以月为单位，窗口为占问后月量级至年内量级，主坐标取月亮距合火星尚差7°所主的约七个时间单位量级（月尺度下约七个月量级）刑杀应点；日点无据不报。置信中高（就死式而言）。",
+ "basis": "死式卜卦法：以九宫头为教会人物之上升，其主土星fall、久逆、十二宫主囚禁失势；月亮离土星入相太阳近八宫头、太阳火座入相冲火星（其dispositor），火星风相人形座主执刃之人行刑，故断斩首而非病死。输入未给上升度数与占问日期，应期只到月量级。",
+ "confidence": 0.78,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology"
+ ],
+ "sources_used": [
+  "western-astro-numerology-runes.md",
+  "calibration.md",
+  "SKILL.md"
+ ]
+}

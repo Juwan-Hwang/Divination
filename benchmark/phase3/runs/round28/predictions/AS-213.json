@@ -1,0 +1,18 @@
+{
+ "case_id": "AS-213",
+ "prediction_text": "方向：东去，且可追回（positive 对『可否寻回』）。十二宫头射手、其主木星居狮子、天空方位与月亮所在星座四证一致皆东——囚犯向东逃，去向无歧。月亮近上升，主其人离问者不远、行踪将近身败露；木星在八宫、月离木星三合而入冲太阳（两星皆在角宫），主被发现、被官府/众人拿获。应期：日档，窗口为数日，主坐标取月冲太阳完善之日、约二三日内有获讯。置信：方位高、可回中高。",
+ "basis": "卜卦逃亡法：以十二宫及其主定逃人，方位取宫头星座、主星星座、天空象限、月亮星座四证合参，四证同东故方位定东；月近上升主近且易露，月入冲角宫之太阳主被揭获。木星与水星有相位作消息/搜捕线佐证。输入无日期度数，应期按月冲日完善的日尺给窗。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western-horary-astrology"
+ ],
+ "sources_used": [
+  "references/western-astro-numerology-runes.md"
+ ]
+}

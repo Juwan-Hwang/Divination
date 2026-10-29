@@ -1,0 +1,19 @@
+{
+ "case_id": "MP-003",
+ "prediction_text": "方向：會。韓國瑜雖剛就任市長，仍將在2019年內被拱出並正式投入2020年總統選舉（先經黨內初選/徵召程序表態參選）。應期：2019年年中前後表態落實（單位：月）。",
+ "basis": "輸入殘損：未給出生年月日時辰、亦無起卦/排盤原始結果，無法排八字全盤或起卦覆核；僅據輸入所給占問時點之事實情勢（聲勢、民調、選戰進程）與流年通則作方向斷，未臆補任何盤面，置信據此封頂。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "流年運勢通則",
+  "事勢研判"
+ ],
+ "sources_used": [
+  "kb-snapshot/SKILL.md 選法自決與作斷通則(b)(e)(f)"
+ ]
+}

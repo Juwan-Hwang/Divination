@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-009",
+ "prediction_text": "方向：狗能找回。具体断语：狗仍在伦敦城内（狗主星与上升同三方性主未出城），所在方位为城之西偏南一带，应往Temple Bar以西、西南方向搜寻；狗主星入相三合六宫头、且周一太阳入相与上升主土星成吉相，主寻回有望。应期以日为单位，窗口为占问后数日内，主坐标为随后周一前后得消息或找回。置信中。",
+ "basis": "失兽卜卦六宫法：六宫及其主为小兽主星，其落西方星座、南象限偏西定方位；与上升同三方性主仍在本城；入相三合六宫头为寻回证；月亮在日光下、日月同八宫主寻找有费力与迟滞，故置信只中。输入部分字形OCR残损、无完整盘面。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology"
+ ],
+ "sources_used": [
+  "western-astro-numerology-runes.md",
+  "calibration.md",
+  "SKILL.md"
+ ]
+}

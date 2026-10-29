@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-441",
+ "prediction_text": "本日晴（positive）：今天是晴天——子孫福神旺動化進、臨日化神，晴象當日即應，不作雨斷。應期就在本日：窗口為本日之內，主座標即占日卯日當日（子孫化進之卯木逢值），日內見晴。",
+ "basis": "天時父財並參子孫晴神：父母申金四爻靜而臨旬空（己卯日甲戌旬申酉空），雨神空靜、不興雨；妻財巳火初爻靜而不動。子孫寅木持世二爻發動化子孫卯木，寅進卯為化進，且化神卯木臨日辰值日，晴神旺動化進又得值，為全卦最強動象。官鬼戌土五爻動化兄弟亥水，戌土辰月旺受日卯克，鬼勢受制，只旁注陰氣被克。動化方向：寅木化卯木化進已核；反轉條件不成立。終局晴、當日應。應期日辰主一日（L1-63），取化神逢值當日為主座標，不另遠推。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "晴主象子孫現卦發動，取用唯一"
+ },
+ "systems_used": [
+  "六爻納甲"
+ ],
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

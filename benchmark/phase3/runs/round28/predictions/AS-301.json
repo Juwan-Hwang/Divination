@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-301",
+ "prediction_text": "方向：2020 年是全球危机年（negative 基调）——年初土星合冥王星于摩羯（2020-01-12）定全年结构性崩解之局：一种突发公共健康危机叠加经济停摆为全年主线。逐月骨架：1–3 月危机爆发、市场暴跌、社会管制骤起；4–6 月木冥合相位段危机深化与反复；夏秋短暂缓和但不收尾；11 月木冥末合前后第二波高峰再起，年末以疫苗/解方消息带来转向之光。全年无一月可称顺遂，主坐标月份为 3 月（爆发峰）与 11 月（转机与再峰并见）。置信：中（大势高、逐月细节中）。",
+ "basis": "输入残损严重：只有问题与发布时间（2019-11-11），无任何星盘/星历位置给出。本断不臆补盘面，只用可复现的 2020 年外行星合相日历（土冥合、木冥三次合、木土大合于年末）这一行星周期骨架作世界运程断——属体系内可核的天文事实层。按通则：无盘不细断，故逐月只给到合相触发的峰段，不落具体国别事件。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western-mundane-astrology"
+ ],
+ "sources_used": [
+  "references/western-astro-numerology-runes.md",
+  "references/calibration.md"
+ ]
+}

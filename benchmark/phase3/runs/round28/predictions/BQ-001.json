@@ -1,0 +1,19 @@
+{
+ "case_id": "BQ-001",
+ "prediction_text": "方向：父寿将尽（negative）——昨日气尽复苏不是转愈，是回光暂回。父卧疾三年、久病之体已竭，兑之履：兑为口、为毁折，气自口出而复入只是暂续；本宫之火克兑金之体，父体受克无救，寿数只在近处。应期：日档，窗口为三月十三日起数日内，主坐标取庚辛日（金体值日而受本宫火克之日）前后、即本旬内气绝。等级：断到『旬内逝』一级，不拔高到某时辰。置信：中低（盘面残缺）。",
+ "basis": "筮占（卦象）法：兑之履，以卦象与本宫五行落断——兑金为父体、本宫火克金、兑主口与毁折，久疾三年后气尽复苏合『回光』之象。输入残损已注：原文无六爻全盘、无动爻明文、断语援引的卦象（本宫火/变乾/化戌土）只有片段，故病位与时辰一层无据不报、只断寿尽方向与日档应期，置信降为中低。应验对象复核：承受对象为求卜者之父，寿断同落其父本人。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "yijing-text-divination"
+ ],
+ "sources_used": [
+  "references/chinese-yijing.md",
+  "references/chinese-liuyao-meihua.md"
+ ]
+}

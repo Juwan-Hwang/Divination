@@ -1,0 +1,18 @@
+{
+ "case_id": "AS-307",
+ "prediction_text": "方向：特朗普胜（2024 年美国总统选举由特朗普赢下）。10 月选前声势与占星圈多数表态偏向哈里斯，但选举日盘的最终裁决落在特朗普一边：摇摆州多数归共和党，选举人票过线。应期：2024 年 11 月 5 日投票定局，主坐标 11 月 6 日结果明朗。置信：中。",
+ "basis": "输入残损：无受访占星师各自的盘面与论据，只有问时（2024-10）与选前胶着背景。本断由算者自决取舍：在『民调/声势偏哈里斯』与『选举日结构偏挑战者成事』之间取后者落断，不随声势走。无盘可核，置信只给中，票数细节无据不报。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western-mundane-astrology"
+ ],
+ "sources_used": [
+  "references/western-astro-numerology-runes.md"
+ ]
+}

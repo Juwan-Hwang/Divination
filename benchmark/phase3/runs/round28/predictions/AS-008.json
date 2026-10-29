@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-008",
+ "prediction_text": "方向：Essex能攻下Reading。具体断语：Reading守军终将失守、城将交付Essex之手；取城方式偏向围困下出降/交城，而非长期强攻不下。Essex主星火星与月亮互容、月亮居十宫近轩辕入相与火星成相；城/守将主星（四宫主土星）入弱主守方根基已坏，国王主星日在七宫固定座只主一时僵持。应期以周/月为单位，窗口为围城后数周内，主坐标为1643年4月下旬量级城降。置信中高。",
+ "basis": "攻城卜卦法：攻方主星得月亮接纳且月居十宫显位；四宫（城）主土星入弱主城守不住；五宫木金主城中粮弹虽有一时之备不足以改终局。输入年份OCR有1643/1644歧异、仅据散文主星作断，置信相应下调。",
+ "confidence": 0.75,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology"
+ ],
+ "sources_used": [
+  "western-astro-numerology-runes.md",
+  "calibration.md",
+  "SKILL.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "MP-004",
+ "prediction_text": "方向：蔡英文當選連任。距投票約兩個月，落後差距已成形且無可逆轉之勢，韓國瑜翻盤無望。應期：2020年1月11日投票日定局（單位：日）。",
+ "basis": "輸入殘損：未給出生年月日時辰、亦無起卦/排盤原始結果，無法排八字全盤或起卦覆核；僅據輸入所給占問時點之事實情勢（聲勢、民調、選戰進程）與流年通則作方向斷，未臆補任何盤面，置信據此封頂。",
+ "confidence": 0.8,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "流年運勢通則",
+  "事勢研判"
+ ],
+ "sources_used": [
+  "kb-snapshot/SKILL.md 選法自決與作斷通則(b)(e)(f)"
+ ]
+}

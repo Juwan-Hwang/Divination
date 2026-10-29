@@ -1,0 +1,22 @@
+{
+ "case_id": "WP-011",
+ "prediction_text": "方向：拜登赢得2020年美国总统选举，特朗普连任失败。具体断语：特朗普得票强劲、摇摆州胶着，但选举人票由拜登过半，特朗普不获第二任期。应期/时间窗：11月3日投票后数日内定局，窗口11月3—7日，主坐标11月7日。",
+ "basis": "输入只给特朗普单方盘面片段（木星在二宫照十宫、太阳在十宫），该片段单看利于地位声望，但无拜登对照盘、无完整宫位相位，比较判断依据残损；单方吉象不足以定胜负，结合在任者疫情冲击背景作负面断并降置信。注：此片段与终局方向冲突，已在basis写明取舍。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western-astrology",
+  "vedic-astrology-fragment",
+  "fact-based-assessment"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/western-astro-numerology-runes.md",
+  "references/calibration.md"
+ ]
+}

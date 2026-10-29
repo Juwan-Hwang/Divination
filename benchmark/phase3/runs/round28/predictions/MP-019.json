@@ -1,0 +1,20 @@
+{
+ "case_id": "MP-019",
+ "prediction_text": "方向：林郑月娥当选。断语：三人中林郑月娥得票过半当选为下届行政长官，曾俊华得票第二、胡国兴得票最少；曾俊华卯年生逢丁酉流年卯酉冲，临选受挫；胡国兴声势与票源俱弱，只作陪衬。应期：2017年3月26日投票当日揭晓。置信中高。",
+ "basis": "三人生年：林郑1957酉年、曾俊华1951卯年、胡国兴1946酉年；2017为丁酉年，曾之卯与流年酉正冲（卯酉冲主变动失位、声势被压），林郑与胡同为酉年值年，其中林郑具现任政务司司长之位与中央支持、选委票源过半，胡无票源根基。故取林郑胜出。事实优先序（通则e）同向：辩论后政情共识仍为林郑占优。输入仅有生年、无完整命盘与卦盘，已注明并据此限置信。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "八字"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/chinese-bazi-ziwei.md",
+  "references/calibration.md"
+ ]
+}

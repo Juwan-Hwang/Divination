@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-449",
+ "prediction_text": "能晴（positive）：天會放晴，妻財兩動主晴是主象；但財化兄弟回頭受克，晴得不乾淨——先晴後或有風陰反覆，不是穩定的連晴。應期以日為單位：窗口為占後數日之內，主座標逢卯日——妻財卯木逢值之日，見晴。",
+ "basis": "天時究父財：妻財卯木上爻與三爻兩現俱動，財動主晴且卯木辰月旺、日寅木扶，晴象旺動為主。父母未土世應俱靜，雨神不興。牽制在動化：卯木化兄弟酉金，金克木為回頭克，化神酉金辰月囚、得日月土金之間接扶有限，克力中等——只壓晴的穩定度（晴而多風、乍晴又陰），不翻晴局；官鬼巳火兩動化子孫亥水，鬼化晴神旁助晴向。動化方向已核：卯化酉回頭克、巳化亥鬼化子孫。應期取財逢值卯日，化神逢值酉日作反覆應期入 reasoning，不與主座標並陳。對表無天時門類。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "妻財兩現俱動、同親同向，取用無分歧"
+ },
+ "systems_used": [
+  "六爻納甲"
+ ],
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

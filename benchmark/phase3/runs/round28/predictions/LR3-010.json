@@ -1,0 +1,23 @@
+{
+ "case_id": "LR3-010",
+ "prediction_text": "方向：终局向好而迟，仕途守成待进、无大凶。代占未具名官员：初传丁巳父母（印绶）乘朱雀，主有文书诏命之动在先；中传庚申子孙乘天后，居间多阴助调停；末传甲寅官鬼乘青龙，官星终归恩宠之位。但课得伏吟，任信宜静、动不如守，官鬼寅木巳月休死无力，迁转之力未发；玄胎又主局面隐匿未分。断为：目下不动不迁、静守本任，后段官星乘龙终得恩擢，但须待时。应期（月档）：窗口为占后半年以上，主坐标寅月——末传官鬼寅木逢值之月为迁动见期。",
+ "basis": "六壬仕宦门：官鬼寅木末传乘青龙（文官主恩宠）；伏吟格总象宜静不宜动；玄胎主隐匿未分、移旧更新；巳火印绶巳月相、乘朱雀主文书。代占且对象未具名、年命未给——按第八节年命一路无据、细断降档，故置信下调。旬空子丑不犯三传。应期月档偏年尺度，逢值取末传寅月为主坐标，冲合、出空两路无点已舍。",
+ "confidence": 0.48,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "大六壬"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/chinese-liuren.md",
+  "references/chinese-liuren.md 第二节九宗·伏吟",
+  "references/chinese-liuren.md 第三节课格·玄胎",
+  "references/chinese-liuren.md 第六节第9门 仕宦功名",
+  "references/chinese-liuren.md 第八节盘面不全规矩"
+ ]
+}

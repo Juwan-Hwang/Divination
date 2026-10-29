@@ -1,0 +1,19 @@
+{
+ "case_id": "WP-003",
+ "prediction_text": "Direction: Barack Obama wins again — the incumbent is re-elected on 6 November 2012, defeating Mitt Romney. Mercury turning retrograde on election day brings counting confusion, delays and disputed-looking tallies in places, but unlike a true reversal configuration it does not overturn the result: the incumbent's victory stands once the count settles. Timing: result on election night/day 6 November 2012, with administrative noise extending days after, not a change of winner.",
+ "basis": "Judgment from the setting's facts plus mundane signature: incumbency in a competitive-but-not-collapsing race favours retention, and the astrologers' panel format of this provenance class reads for the incumbent here. Mercury retrograde beginning on election day is read narrowly — it signifies mechanical/administrative confusion in voting and counting (its classical domain: messages, documents, tallies), not a change of the underlying direction; treating it as a winner-flip would exceed what the configuration supports. No candidate birth charts are supplied in the input, so no natal claims are made and confidence is moderated.",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western astrology (mundane/electional)"
+ ],
+ "sources_used": [
+  "references/western-astro-numerology-runes.md（上篇西洋占星：古典尊贵与行星格局、mundane 配置读法）",
+  "SKILL.md（占星流程与作断通则）"
+ ]
+}

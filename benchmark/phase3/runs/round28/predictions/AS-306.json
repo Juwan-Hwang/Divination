@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-306",
+ "prediction_text": "方向：民主党候选人将中途更替，且最终特朗普胜。两段式：近段（2024 年夏）拜登因年龄与状态压力退选、哈里斯接棒成为民主党候选人——更替发生在 7 月前后；远段（11 月大选）特朗普击败哈里斯当选，更替只换来声势回升、换不来胜局。应期：年档内月尺——主坐标一：2024 年 7 月退选/更替落定；主坐标二：2024 年 11 月 5 日特朗普胜选定局。置信：中（更替一层中高、胜负一层中）。",
+ "basis": "输入残损：无吠陀盘面数据，只有问时（2024-06-02）、拜登年龄受质疑的事实与『含候选人更替』的问法。本断按两段式终局检查分近远两段：近段以在任者星象承压、副手上位之象断更替；远段以大选日格局断特朗普胜。无盘面细节可核，事件级只落到『何人退、何人替、何人胜』三项，余皆不臆补。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "vedic-astrology",
+  "western-mundane-astrology"
+ ],
+ "sources_used": [
+  "references/western-astro-numerology-runes.md"
+ ]
+}

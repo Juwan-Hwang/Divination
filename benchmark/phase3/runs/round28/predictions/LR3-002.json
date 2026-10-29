@@ -1,0 +1,23 @@
+{
+ "case_id": "LR3-002",
+ "prediction_text": "方向：先利后不利，终局偏凶。总镇奉命出师，初传壬午乘贵人、寅午戌三传成炎上火局，主诏命已下、出师声势正盛，近段行军进兵顺遂可有斩获；但午火克日干辛金，攻方主将自身受克，元首课又主先喜后忧，火局过旺则衰——深入江东后后段转挫，恐有损兵退师、主将受压之险，不宜久战恋战。应期（月档）：窗口为火局尚旺的午未月内为利、入秋转衰，主坐标申月——申金冲中传寅木、火局气衰，为战局转折见分晓之月。",
+ "basis": "六壬兵斗门：干为攻方（奉命出师之总镇辛金，卯月金囚）、支为所往；三传午寅戌成炎上局（火局上进），初传午火乘贵人主诏命，然火克干金主攻方受制；课式元首主先喜后忧；中传寅木乘勾陈主勾连迟滞于中途，末传戌土乘太常归于粮秣之地。盘面不全守第八节：只据干支、三传链、天将、课格、旬空（申酉旬空）作断，年命未给，行年到临一路无据。应期先定月档，逢冲一路取申冲寅为转折主坐标，逢值（午月）只定近段利窗、已在窗口内交代。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "大六壬"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/chinese-liuren.md",
+  "references/chinese-liuren.md 第三节课格·炎上",
+  "references/chinese-liuren.md 第六节第11门 兵斗",
+  "references/chinese-liuren.md 第七节应期·兵斗",
+  "references/chinese-liuren.md 第八节盘面不全规矩"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-440",
+ "prediction_text": "能晴（positive）：連日雪會停、會放晴，不是久雪不晴。應期以日為單位：窗口為占後數日之內，主座標逢卯日——妻財卯木逢值之日，晴光落定。",
+ "basis": "天時按 L1-62 究父財：妻財卯木上爻發動，財動主晴為主象；父母未土世應俱靜，雨雪之神不興。財卯木子月得水月之生（水生木為相），又得日辰亥水生扶並亥卯相合，財旺有氣，動而逢合——合在此先作晴期被日合絆住、待值而實讀。化出子孫子水為變卦之親，就財爻言木生水是泄，不以水火直判雨晴（L1-62明訓），只調量級為晴勢非暴晴。應期三路：逢值卯、逢合戌（合卯）、沖實巳（沖日合亥），取逢值卯日為主座標，逢合一路作窗口邊界參考、沖實一路以尺度次序舍棄並註明。對表無天時門類。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "妻財現於上爻且即動爻，取用唯一"
+ },
+ "systems_used": [
+  "六爻納甲"
+ ],
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

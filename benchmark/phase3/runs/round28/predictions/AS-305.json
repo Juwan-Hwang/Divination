@@ -1,0 +1,18 @@
+{
+ "case_id": "AS-305",
+ "prediction_text": "方向：特朗普险胜（narrow win）。盘面势均力敌、极难判断属实——普选层面两人极接近，但选举人团层面特朗普以少数关键摇摆州的微弱优势过线；结果不会以大胜姿态出现，计票胶着、个别州差距极小。应期：2024 年 11 月 5 日选举日定局，主坐标为 11 月 6 日凌晨摇摆州陆续开清之时。置信：中低（问者自承势均，本断只在天平上加一线取舍）。",
+ "basis": "输入残损：无星盘原文、无候选人行运数据，setting 明言盘面势均力敌。按分歧自决原则由算者在两强之间落一线取舍：取挑战者/在野一方在选举日盘的后段发力象，断特朗普险胜；幅度按『险』级落断、不拔高。置信因输入无盘而下调。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western-mundane-astrology"
+ ],
+ "sources_used": [
+  "references/western-astro-numerology-runes.md"
+ ]
+}

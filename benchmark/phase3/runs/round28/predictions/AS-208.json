@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-208",
+ "prediction_text": "方向：Rupert得不到荣誉、将被Essex压过。具体断语：鲁珀特亲王在此战事中无显赫之功可得，其主星太阳无根游荡且落陷（detriment）于固定座，主名声与战绩俱损；Essex主星金星与土星互容、且支配Rupert的主星，主Essex占上风、能制Rupert。月亮左相冲十宫头亦伤Rupert之荣位。后段：Rupert不至战死，但将以失利/失势收场、无功而退。应期以月为单位，窗口为1642年11–12月占问后数月内战局见分晓。置信中高。",
+ "basis": "战争荣誉卜卦法：显贵者以十宫及其主太阳为Rupert主星，太阳peregrine+detriment为无荣决定弱象；对宫主金星（Essex）得土星接纳且dispose太阳，主对方反制其人。输入未给占问确日，应期只到月量级。",
+ "confidence": 0.75,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology"
+ ],
+ "sources_used": [
+  "western-astro-numerology-runes.md",
+  "calibration.md",
+  "SKILL.md"
+ ]
+}

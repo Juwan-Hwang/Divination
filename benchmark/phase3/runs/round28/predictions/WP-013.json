@@ -1,0 +1,21 @@
+{
+ "case_id": "WP-013",
+ "prediction_text": "方向：工党赢得2024年英国大选，斯塔默出任首相。具体断语：工党以大幅优势获议会多数、取得压倒性席位领先，保守党大败失去执政地位，苏纳克下台。应期/时间窗：2024年7月4日投票当日夜间至7月5日结果明朗，窗口7月4—5日，主坐标7月5日组阁。",
+ "basis": "占题事实极强：工党民调领先约二十个百分点、执政党首相又现重大公关失误；选举落在巨蟹座太阳一语无具体盘面，不足以另立依据。按事实优先序作大胜断，等级与二十点领先同级。",
+ "confidence": 0.78,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western-astrology",
+  "fact-based-assessment"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/western-astro-numerology-runes.md",
+  "references/calibration.md"
+ ]
+}

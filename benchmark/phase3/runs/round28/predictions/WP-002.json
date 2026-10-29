@@ -1,0 +1,19 @@
+{
+ "case_id": "WP-002",
+ "prediction_text": "Direction: Barack Obama wins the 2008 US presidential election — the Democratic challenger defeats John McCain on 4 November 2008. The Saturn–Uranus opposition exact on Election Day, unseen for 45 years, is a change-of-order signature: the old (Saturn, the elder Republican incumbent party's candidate) is displaced by the new (Uranus), favouring the younger insurgent who has just overturned his own party's establishment favourite in the primaries. Timing: single coordinate, election day 4 November 2008; no prolonged dispute overturns the result.",
+ "basis": "Input supplies no birth charts for either candidate, so no natal comparison is fabricated; the judgment rests on the mundane configuration the input itself flags (Saturn opposite Uranus beginning on Election Day, last seen 45 years earlier) read by the classical rule that an opposition of the old-order and change planets at the moment of decision breaks for change, plus the factual state of the race in the setting (Obama leading the nomination fight as the change candidate; McCain as continuity candidate). Chart-level detail is an input gap and confidence is set accordingly.",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western astrology (mundane/electional)"
+ ],
+ "sources_used": [
+  "references/western-astro-numerology-runes.md（上篇西洋占星：古典尊贵与行星格局、mundane 配置读法）",
+  "SKILL.md（占星流程与作断通则）"
+ ]
+}

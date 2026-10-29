@@ -1,0 +1,21 @@
+{
+ "case_id": "WP-012",
+ "prediction_text": "方向：拜登赢得选举并实际就任总统；美国不致真正分裂崩解。具体断语：选举后特朗普拒绝认输、发起法律与舆论争议，结果确认拖延，社会严重对立并出现抗议/骚动事件，但计票认证与权力交接最终完成，拜登上台执政，国家进入持续两极化而非内战式解体。应期/时间窗：2020年11月3日—2021年1月20日为争议到就任窗口，主坐标2021年1月20日拜登就职。",
+ "basis": "输入残损：无星盘卦象，只有选前民调（拜登领先）与邮寄投票争议、败方可能不认输的背景事实；按事实优先序：胜者取民调领先方，实际就任与后续按争议背景推到交接关口，程度按等级校准不取极端解体、只断严重对立。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western-astrology",
+  "fact-based-assessment"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/western-astro-numerology-runes.md",
+  "references/calibration.md"
+ ]
+}

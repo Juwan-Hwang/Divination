@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-439",
+ "prediction_text": "本日晴（positive，主晴）：今天以晴為主——妻財以動化形式出現主晴，父母靜而不興，雨象不成；至多早段有薄陰微風，不成雨。應期在日內：窗口為本日之內，主座標卯時前後——化出妻財卯木得值之時，雲散見晴。",
+ "basis": "天時門按增補 L1-62 當究父財、勿憑水火：本卦父母戌土、辰土兩現俱靜不動，雨神不興；妻財本卦不現，兄弟申金三爻發動化出妻財卯木，財以化出得見，作財動主晴論（取變爻之財，非伏神）。動爻申金午月死、化卯木得日亥水生，化神有源。官鬼午火臨空（丁亥日甲申旬午未空）只作陰氣空象旁注，不以水火直判。應空難擬一條（L1-63）查：應爻兄弟申金不空，不合難擬。終局晴。應期日內取化財逢值卯時，餘路（父逢沖戌日等）與終局不合舍棄。對表無天時門類，明寫對表無此門類。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "雨晴主象之妻財不在本卦、由動爻化出得見，故 changed_main 記 true（主象取變爻）；非伏神，故 reserve_used 為 false"
+ },
+ "systems_used": [
+  "六爻納甲"
+ ],
+ "sources_used": [
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

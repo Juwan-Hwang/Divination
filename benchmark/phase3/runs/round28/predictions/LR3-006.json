@@ -1,0 +1,23 @@
+{
+ "case_id": "LR3-006",
+ "prediction_text": "方向：不利，仕途虚浮无凭、难升反防闲置。日干壬水，仕宦所凭的官鬼（土）三传全然不见，印绶（金）亦不入传；初传丁巳妻财乘贵人，只主一时贵人面前的财利人情之喜，中传甲寅（我生之木）乘六合主私下合和奔走，末传癸亥兄弟乘天空——比劫争力又乘主虚诈不实之将，终归落空。课式元首主先喜后忧，玄胎主隐匿未分、移旧更新：眼下局面不明、恐有改调更张而非升擢。应期（月档）：窗口为本年秋冬，主坐标亥月——末传亥水乘天空逢值之月，虚象落实、仕途去留见分晓之月。",
+ "basis": "六壬仕宦门：取官鬼、贵人太常青龙、禄马父母逐项核——官鬼土、父母金俱不入三传，官星无凭；末传亥水兄弟乘天空按天将表主虚诈不实；玄胎格义隐匿未分或移旧更新；元首格先喜后忧。酉月水相、金旺而金不入传，印绶之旺在月不在盘。旬空子丑（三传无犯），酉戌落空不作空亡。盘面不全守第八节，年命未给。应期月档，逢值取末传亥月为主坐标。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "大六壬"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/chinese-liuren.md",
+  "references/chinese-liuren.md 第三节课格·玄胎/元首",
+  "references/chinese-liuren.md 第四节十二天将·天空",
+  "references/chinese-liuren.md 第六节第9门 仕宦功名",
+  "references/chinese-liuren.md 第八节盘面不全规矩"
+ ]
+}

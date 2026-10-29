@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-001",
+ "prediction_text": "方向：儿子在母亲自己家里、不在师傅处。具体断语：儿子的人现在就在问者家中一侧，应往自家寻找、当面即可见；母子主星成三合将成相，主近日内母子相见/得确切消息。应期：以日为单位，窗口为1638年7月下旬数日内，主坐标为7月25日下午2时前后（三合精确成相之时）母子相聚或消息坐实。置信中高。",
+ "basis": "Lilly卜卦规则：五宫主木星（儿子主星）落上升宫（问者/母亲之宫位）为不在外处、在问者处之象；月亮入相六合四宫主土星（母亲居所）亦指自家；资料称母子主星三合成相于7月25日14时，故取该时为应期主坐标。输入为散文摘要、无完整盘面度数，已据所给主星与相位作断并相应限置信。",
+ "confidence": 0.75,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology"
+ ],
+ "sources_used": [
+  "western-astro-numerology-runes.md",
+  "calibration.md",
+  "SKILL.md"
+ ]
+}

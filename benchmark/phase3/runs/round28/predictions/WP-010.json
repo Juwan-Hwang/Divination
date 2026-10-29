@@ -1,0 +1,21 @@
+{
+ "case_id": "WP-010",
+ "prediction_text": "方向：拜登（民主党）赢得2020年美国总统选举。具体断语：拜登以选举人票过半当选，特朗普连任失败；胜负差距不大、数个摇摆州接近，计票拖延数日才定局。应期/时间窗：11月3日投票后数日内揭晓，窗口11月3—7日，主坐标11月7日媒体宣布/结果明朗。",
+ "basis": "输入载三位占星师意见分歧、拜登天蝎上升（吠陀口径）一语，无完整双边星盘，属残损；以民调领先拜登这一占题事实为优先依据作断，星盘细节不足以推翻事实层，降置信。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western-astrology",
+  "fact-based-assessment"
+ ],
+ "sources_used": [
+  "SKILL.md",
+  "references/western-astro-numerology-runes.md",
+  "references/calibration.md"
+ ]
+}

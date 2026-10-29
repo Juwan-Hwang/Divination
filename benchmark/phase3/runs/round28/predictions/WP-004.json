@@ -1,0 +1,19 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "Direction: Hillary Clinton wins the 2016 US presidential election — the conference panel's consensus call is for Clinton to defeat Donald Trump on 8 November 2016, in line with the polling lead she holds through October. Timing: decided on election day, 8 November 2016, with Clinton taking the White House as the broadly expected result.",
+ "basis": "This case asks for the forecasting panel's collective judgment at the Costa Mesa conference (the provenance is the panel report itself). The panel-consensus method weighs the established candidate with the sustained polling lead; nothing in the supplied setting gives the panel a configuration strong enough to overturn the favourite, and panel votes of this kind follow the frontrunner absent such a signature. The judgment therefore reproduces the panel call: Clinton. Individual dissenting panellists are a separate case and are not merged into this consensus prediction.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western astrology (mundane/electional)"
+ ],
+ "sources_used": [
+  "references/western-astro-numerology-runes.md（上篇西洋占星：古典尊贵与行星格局、mundane 配置读法）",
+  "SKILL.md（占星流程与作断通则）"
+ ]
+}
