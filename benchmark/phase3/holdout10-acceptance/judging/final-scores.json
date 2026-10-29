@@ -1,0 +1,156 @@
+{
+ "ALL": {
+  "n": 29,
+  "ours_mean": 3.241,
+  "master_mean": 3.94,
+  "pair_diff": -0.698,
+  "SE": 0.365,
+  "diff_over_SE": -1.91,
+  "W/T/L": "11/1/17"
+ },
+ "liuyao_YM": {
+  "n": 14,
+  "ours_mean": 3.161,
+  "master_mean": 3.357,
+  "pair_diff": -0.196,
+  "SE": 0.589,
+  "diff_over_SE": -0.33,
+  "W/T/L": "6/1/7"
+ },
+ "liuren_LR3": {
+  "n": 12,
+  "ours_mean": 3.042,
+  "master_mean": 4.229,
+  "pair_diff": -1.188,
+  "SE": 0.441,
+  "diff_over_SE": -2.69,
+  "W/T/L": "3/0/9"
+ },
+ "bazi_DS": {
+  "n": 3,
+  "ours_mean": 4.417,
+  "master_mean": 5.5,
+  "pair_diff": -1.083,
+  "SE": 1.46,
+  "diff_over_SE": -0.74,
+  "W/T/L": "2/0/1"
+ },
+ "pairs": {
+  "DS-001": {
+   "master": 5.5,
+   "ours": 5.75
+  },
+  "DS-002": {
+   "master": 6.0,
+   "ours": 2.0
+  },
+  "DS-003": {
+   "ours": 5.5,
+   "master": 5.0
+  },
+  "LR3-001": {
+   "master": 5.5,
+   "ours": 4.5
+  },
+  "LR3-003": {
+   "ours": 4.75,
+   "master": 3.5
+  },
+  "LR3-005": {
+   "ours": 4.5,
+   "master": 3.5
+  },
+  "LR3-007": {
+   "ours": 3.0,
+   "master": 5.0
+  },
+  "LR3-009": {
+   "master": 4.75,
+   "ours": 2.5
+  },
+  "LR3-102": {
+   "master": 3.5,
+   "ours": 4.0
+  },
+  "LR3-105": {
+   "master": 3.5,
+   "ours": 1.0
+  },
+  "LR3-109": {
+   "ours": 2.75,
+   "master": 6.0
+  },
+  "LR3-111": {
+   "ours": 2.5,
+   "master": 4.0
+  },
+  "LR3-113": {
+   "master": 4.75,
+   "ours": 4.5
+  },
+  "LR3-115": {
+   "ours": 1.5,
+   "master": 2.75
+  },
+  "LR3-117": {
+   "master": 4.0,
+   "ours": 1.0
+  },
+  "YM-001": {
+   "ours": 1.0,
+   "master": 2.5
+  },
+  "YM-006": {
+   "master": 0.75,
+   "ours": 1.25
+  },
+  "YM-011": {
+   "ours": 6.0,
+   "master": 4.75
+  },
+  "YM-016": {
+   "master": 6.0,
+   "ours": 5.75
+  },
+  "YM-021": {
+   "master": 2.75,
+   "ours": 1.75
+  },
+  "YM-026": {
+   "ours": 0.0,
+   "master": 3.5
+  },
+  "YM-031": {
+   "master": 6.0,
+   "ours": 5.75
+  },
+  "YM-036": {
+   "master": 2.5,
+   "ours": 0.75
+  },
+  "YM-041": {
+   "ours": 4.5,
+   "master": 1.5
+  },
+  "YM-046": {
+   "master": 5.25,
+   "ours": 0.5
+  },
+  "YM-051": {
+   "master": 2.0,
+   "ours": 4.75
+  },
+  "YM-056": {
+   "master": 2.25,
+   "ours": 4.0
+  },
+  "YM-061": {
+   "master": 4.75,
+   "ours": 4.75
+  },
+  "YM-066": {
+   "ours": 3.5,
+   "master": 2.5
+  }
+ }
+}
