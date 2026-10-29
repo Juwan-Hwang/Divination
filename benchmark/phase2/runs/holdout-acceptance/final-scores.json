@@ -1,0 +1,508 @@
+{
+ "ours_axis2": {
+  "BZ-038": 6.0,
+  "BZ-019": 6.0,
+  "BZ-016": 6.0,
+  "AS-302": 6.0,
+  "BZ-021": 6.0,
+  "LY-024": 0.0,
+  "LY-033": 2.0,
+  "LY-001": 4.5,
+  "ZY-001": 5.5,
+  "LY-016": 6.0,
+  "BZ-032": 6.0,
+  "LY-010": 4.5,
+  "AS-014": 5.0,
+  "LY-025": 4.5,
+  "LY-103": 5.0,
+  "MH-001": 6.0,
+  "LY-105": 4.0,
+  "AS-004": 5.0,
+  "BZ-027": 4.5,
+  "BZ-023": 6.0,
+  "LY-011": 1.0,
+  "LY-036": 5.0,
+  "AS-304": 6.0,
+  "LY-014": 4.5,
+  "BZ-037": 6.0,
+  "AS-015": 4.0,
+  "MH-003": 5.0,
+  "LY-031": 3.0,
+  "AS-010": 5.0
+ },
+ "master_axis2": {
+  "AS-015": 6.0,
+  "AS-014": 6.0,
+  "LY-031": 5.0,
+  "LY-036": 5.5,
+  "BZ-016": 4.0,
+  "BZ-032": 4.0,
+  "LY-014": 6.0,
+  "ZY-001": 5.0,
+  "AS-304": 0.0,
+  "BZ-019": 2.0,
+  "LY-105": 4.0,
+  "MH-001": 6.0,
+  "LY-001": 6.0,
+  "AS-302": 2.0,
+  "LY-033": 6.0,
+  "LY-011": 4.0,
+  "LY-024": 5.0,
+  "AS-004": 5.0,
+  "LY-016": 6.0,
+  "LY-010": 4.5,
+  "MH-003": 5.0,
+  "LY-025": 6.0,
+  "BZ-021": 4.0,
+  "BZ-038": 5.0,
+  "BZ-037": 4.0,
+  "BZ-023": 6.0,
+  "LY-103": 5.0,
+  "AS-010": 5.0,
+  "BZ-027": 4.5
+ },
+ "ours_axis1": {
+  "BZ-027": 3.0,
+  "LY-001": 5.0,
+  "LY-010": 5.0,
+  "AS-010": 4.5,
+  "LY-014": 4.0,
+  "AS-004": 6.0,
+  "LY-011": 1.0,
+  "AS-302": 0.5,
+  "BZ-016": 6.0,
+  "LY-024": 0.5,
+  "LY-031": 3.0,
+  "BZ-021": 4.0,
+  "BZ-023": 5.5,
+  "AS-015": 6.0,
+  "BZ-032": 6.0,
+  "LY-105": 3.0,
+  "LY-016": 6.0,
+  "LY-036": 5.0,
+  "LY-033": 1.0,
+  "MH-003": 6.0,
+  "LY-025": 4.5,
+  "AS-304": 0.5,
+  "BZ-037": 3.0,
+  "AS-014": 3.0,
+  "ZY-001": 6.0,
+  "BZ-038": 6.0,
+  "MH-001": 6.0,
+  "LY-103": 5.5,
+  "BZ-019": 5.0
+ },
+ "stats": {
+  "ours_axis2": {
+   "n": 29,
+   "mean": 4.759,
+   "pct": 79.3,
+   "pass": 25
+  },
+  "master_axis2": {
+   "n": 29,
+   "mean": 4.707,
+   "pct": 78.4,
+   "pass": 26
+  },
+  "ours_axis1_side": {
+   "n": 29,
+   "mean": 4.155,
+   "pct": 69.3,
+   "pass": 19
+  },
+  "paired_all": {
+   "win": 9,
+   "tie": 10,
+   "loss": 10,
+   "mean_diff": 0.052
+  },
+  "paired_low": {
+   "ours": {
+    "n": 17,
+    "mean": 4.059,
+    "pct": 67.6,
+    "pass": 13
+   },
+   "master": {
+    "n": 17,
+    "mean": 5.353,
+    "pct": 89.2,
+    "pass": 17
+   },
+   "paired": {
+    "win": 0,
+    "tie": 7,
+    "loss": 10,
+    "mean_diff": -1.294
+   }
+  },
+  "paired_high": {
+   "ours": {
+    "n": 12,
+    "mean": 5.75,
+    "pct": 95.8,
+    "pass": 12
+   },
+   "master": {
+    "n": 12,
+    "mean": 3.792,
+    "pct": 63.2,
+    "pass": 9
+   },
+   "paired": {
+    "win": 9,
+    "tie": 3,
+    "loss": 0,
+    "mean_diff": 1.958
+   }
+  },
+  "by_tradition": {
+   "astrology": {
+    "ours": {
+     "n": 1,
+     "mean": 6.0,
+     "pct": 100.0,
+     "pass": 1
+    },
+    "master": {
+     "n": 1,
+     "mean": 2.0,
+     "pct": 33.3,
+     "pass": 0
+    },
+    "paired": {
+     "win": 1,
+     "tie": 0,
+     "loss": 0,
+     "mean_diff": 4.0
+    }
+   },
+   "bazi": {
+    "ours": {
+     "n": 8,
+     "mean": 5.812,
+     "pct": 96.9,
+     "pass": 8
+    },
+    "master": {
+     "n": 8,
+     "mean": 4.188,
+     "pct": 69.8,
+     "pass": 7
+    },
+    "paired": {
+     "win": 6,
+     "tie": 2,
+     "loss": 0,
+     "mean_diff": 1.625
+    }
+   },
+   "horary": {
+    "ours": {
+     "n": 4,
+     "mean": 4.75,
+     "pct": 79.2,
+     "pass": 4
+    },
+    "master": {
+     "n": 4,
+     "mean": 5.5,
+     "pct": 91.7,
+     "pass": 4
+    },
+    "paired": {
+     "win": 0,
+     "tie": 2,
+     "loss": 2,
+     "mean_diff": -0.75
+    }
+   },
+   "liuyao": {
+    "ours": {
+     "n": 12,
+     "mean": 3.667,
+     "pct": 61.1,
+     "pass": 8
+    },
+    "master": {
+     "n": 12,
+     "mean": 5.25,
+     "pct": 87.5,
+     "pass": 12
+    },
+    "paired": {
+     "win": 0,
+     "tie": 4,
+     "loss": 8,
+     "mean_diff": -1.583
+    }
+   },
+   "meihua": {
+    "ours": {
+     "n": 2,
+     "mean": 5.5,
+     "pct": 91.7,
+     "pass": 2
+    },
+    "master": {
+     "n": 2,
+     "mean": 5.5,
+     "pct": 91.7,
+     "pass": 2
+    },
+    "paired": {
+     "win": 0,
+     "tie": 2,
+     "loss": 0,
+     "mean_diff": 0.0
+    }
+   },
+   "vedic-astrology": {
+    "ours": {
+     "n": 1,
+     "mean": 6.0,
+     "pct": 100.0,
+     "pass": 1
+    },
+    "master": {
+     "n": 1,
+     "mean": 0.0,
+     "pct": 0.0,
+     "pass": 0
+    },
+    "paired": {
+     "win": 1,
+     "tie": 0,
+     "loss": 0,
+     "mean_diff": 6.0
+    }
+   },
+   "yijing": {
+    "ours": {
+     "n": 1,
+     "mean": 5.5,
+     "pct": 91.7,
+     "pass": 1
+    },
+    "master": {
+     "n": 1,
+     "mean": 5.0,
+     "pct": 83.3,
+     "pass": 1
+    },
+    "paired": {
+     "win": 1,
+     "tie": 0,
+     "loss": 0,
+     "mean_diff": 0.5
+    }
+   }
+  }
+ },
+ "per_case": {
+  "AS-302": {
+   "ours": 6.0,
+   "master": 2.0,
+   "axis1": 0.5,
+   "contamination": "high",
+   "tradition": "astrology"
+  },
+  "BZ-019": {
+   "ours": 6.0,
+   "master": 2.0,
+   "axis1": 5.0,
+   "contamination": "high",
+   "tradition": "bazi"
+  },
+  "BZ-032": {
+   "ours": 6.0,
+   "master": 4.0,
+   "axis1": 6.0,
+   "contamination": "high",
+   "tradition": "bazi"
+  },
+  "BZ-027": {
+   "ours": 4.5,
+   "master": 4.5,
+   "axis1": 3.0,
+   "contamination": "high",
+   "tradition": "bazi"
+  },
+  "BZ-016": {
+   "ours": 6.0,
+   "master": 4.0,
+   "axis1": 6.0,
+   "contamination": "high",
+   "tradition": "bazi"
+  },
+  "BZ-021": {
+   "ours": 6.0,
+   "master": 4.0,
+   "axis1": 4.0,
+   "contamination": "high",
+   "tradition": "bazi"
+  },
+  "BZ-037": {
+   "ours": 6.0,
+   "master": 4.0,
+   "axis1": 3.0,
+   "contamination": "high",
+   "tradition": "bazi"
+  },
+  "BZ-023": {
+   "ours": 6.0,
+   "master": 6.0,
+   "axis1": 5.5,
+   "contamination": "high",
+   "tradition": "bazi"
+  },
+  "BZ-038": {
+   "ours": 6.0,
+   "master": 5.0,
+   "axis1": 6.0,
+   "contamination": "high",
+   "tradition": "bazi"
+  },
+  "AS-004": {
+   "ours": 5.0,
+   "master": 5.0,
+   "axis1": 6.0,
+   "contamination": "high",
+   "tradition": "horary"
+  },
+  "AS-015": {
+   "ours": 4.0,
+   "master": 6.0,
+   "axis1": 6.0,
+   "contamination": "low",
+   "tradition": "horary"
+  },
+  "AS-010": {
+   "ours": 5.0,
+   "master": 5.0,
+   "axis1": 4.5,
+   "contamination": "low",
+   "tradition": "horary"
+  },
+  "AS-014": {
+   "ours": 5.0,
+   "master": 6.0,
+   "axis1": 3.0,
+   "contamination": "low",
+   "tradition": "horary"
+  },
+  "LY-011": {
+   "ours": 1.0,
+   "master": 4.0,
+   "axis1": 1.0,
+   "contamination": "low",
+   "tradition": "liuyao"
+  },
+  "LY-036": {
+   "ours": 5.0,
+   "master": 5.5,
+   "axis1": 5.0,
+   "contamination": "low",
+   "tradition": "liuyao"
+  },
+  "LY-001": {
+   "ours": 4.5,
+   "master": 6.0,
+   "axis1": 5.0,
+   "contamination": "low",
+   "tradition": "liuyao"
+  },
+  "LY-024": {
+   "ours": 0.0,
+   "master": 5.0,
+   "axis1": 0.5,
+   "contamination": "low",
+   "tradition": "liuyao"
+  },
+  "LY-105": {
+   "ours": 4.0,
+   "master": 4.0,
+   "axis1": 3.0,
+   "contamination": "low",
+   "tradition": "liuyao"
+  },
+  "LY-025": {
+   "ours": 4.5,
+   "master": 6.0,
+   "axis1": 4.5,
+   "contamination": "low",
+   "tradition": "liuyao"
+  },
+  "LY-033": {
+   "ours": 2.0,
+   "master": 6.0,
+   "axis1": 1.0,
+   "contamination": "low",
+   "tradition": "liuyao"
+  },
+  "LY-016": {
+   "ours": 6.0,
+   "master": 6.0,
+   "axis1": 6.0,
+   "contamination": "low",
+   "tradition": "liuyao"
+  },
+  "LY-031": {
+   "ours": 3.0,
+   "master": 5.0,
+   "axis1": 3.0,
+   "contamination": "low",
+   "tradition": "liuyao"
+  },
+  "LY-103": {
+   "ours": 5.0,
+   "master": 5.0,
+   "axis1": 5.5,
+   "contamination": "low",
+   "tradition": "liuyao"
+  },
+  "LY-014": {
+   "ours": 4.5,
+   "master": 6.0,
+   "axis1": 4.0,
+   "contamination": "low",
+   "tradition": "liuyao"
+  },
+  "LY-010": {
+   "ours": 4.5,
+   "master": 4.5,
+   "axis1": 5.0,
+   "contamination": "low",
+   "tradition": "liuyao"
+  },
+  "MH-003": {
+   "ours": 5.0,
+   "master": 5.0,
+   "axis1": 6.0,
+   "contamination": "low",
+   "tradition": "meihua"
+  },
+  "MH-001": {
+   "ours": 6.0,
+   "master": 6.0,
+   "axis1": 6.0,
+   "contamination": "low",
+   "tradition": "meihua"
+  },
+  "AS-304": {
+   "ours": 6.0,
+   "master": 0.0,
+   "axis1": 0.5,
+   "contamination": "high",
+   "tradition": "vedic-astrology"
+  },
+  "ZY-001": {
+   "ours": 5.5,
+   "master": 5.0,
+   "axis1": 6.0,
+   "contamination": "high",
+   "tradition": "yijing"
+  }
+ }
+}
