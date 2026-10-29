@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-252",
+ "prediction_text": "方向：positive（子病可愈，有惊无险）。占子病静卦天山遯，子孙不上卦而子水临壬子日建为用，虽逢旬空，原神金旺于申月两现来生，属有根之空，病待出空而解，不作凶断。应期按日档（近病）：窗口为占后数日内，主坐标取丑日（丑为子之合与空之填，出空见愈之日）。",
+ "basis": "用神子孙不上卦、静卦无变爻：月申金非子孙之亲，日支子水为子孙之亲，按用神章日月分流以子水临日为用神（储备源定主）。空亡根气：子水空，原神金（兄申两现）申月旺为根气第2项有根，判假空待出。病爻官午火两现申月囚、日水克火，病势受制。原神有根三征：得月旺、两现、非化绝，源不绝。病占两段：近段用空主病滞未解、远段出空原神生扶主愈（触发：空填丑支），终局按(l)单判愈。对象复述：子—日建子水子孙—应验对象子本人，同一。应期：填实丑日取主坐标（子丑合兼填空）；冲实午冲子为冲病爻之支义混舍；逢值子日即占日已临值、空待出不取。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "主判由有根假空直定向愈、未被后续裁决改向；主用取自日月储备源，故reserve_used=true；取用按日月分流成文，无争议。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

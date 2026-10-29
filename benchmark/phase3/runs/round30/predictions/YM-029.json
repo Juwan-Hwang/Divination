@@ -1,0 +1,19 @@
+{
+ "case_id": "YM-029",
+ "prediction_text": "方向：此地不可用、就地不成（负向）。父母不上卦、伏而无气，世爻官鬼寅木死于戌月又甲辰旬空（世空且死），大畜静卦虽名『畜』，地象伏藏难出，就地之事断难成。应期双层（月档）：窗口为占后旬月内，主坐标为巳日——伏父母逢值之日见分晓，其时亦只是『现而无力』，定不用之地（败局应期取败应之支）。",
+ "basis": "用神父母不上卦走伏神五步：伏父母巳火（艮宫首卦同位、初爻妻财子水之下），飞神子水。伏巳火休于戌月、戌丑皆土泄火，不得日月生扶；飞子水囚于戌月、被丑日土克，飞虽弱却伏亦无气。待出四项：①伏得生扶/临值✗ ②飞休囚✓ ③动爻生伏：静卦无✗ ④冲飞之路：日克飞可记半路但伏无力；根基第1项缺，判待出不成立，且飞不克伏成定局未满，只断『伏无出路可据、地难用』不断地绝。世官寅木空死加重不成。四路：本气−／元忌0／动化0（静卦，动化方向：无）／世应不计；合参败向。门类对表无茔葬门类，明写无此门类。输入无残损。",
+ "confidence": 0.63,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "父母不上卦，主用取伏神父母巳火，故reserve_used=true；静卦无动化"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

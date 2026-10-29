@@ -1,0 +1,19 @@
+{
+ "case_id": "LR3-002",
+ "prediction_text": "方向：负向——奉命出师无济、兴师难成。初传午火乘贵人克辛金日干，炎上火局（寅午戌）旺而克身，攻方受制；末传戌土太常生金留一线，故非全军覆没之惨败，而是进兵无功、终被撤回剿贼。应期（年档转月档）：窗口在出师后本年内，局气转衰、太岁受克之期为主坐标——以秋后金旺火退之申酉月为撤回主坐标。",
+ "basis": "六壬兵斗/仕宦门：干为攻方/出师之将，初传午火官鬼克日干辛金、火局炎上克身主兴师受制；课得元首、炎上总吉象不敌干败受克与火鬼乘传之凶组（参快照六壬篇兵斗门出师组合象：干乘火鬼、局克身者不许只以元首炎上进气定胜，量级降为无济撤回）；末传戌土生金为救，故断撤回非覆没。盘面只有课式、四课概要、三传天将与空亡，无天盘全图与年命，年命路无据、未臆补。应期先定档（功名兵事非日档），三路：逢值（午火值日）尺度不合舍之；逢冲合无合齐点舍之；局气旺衰转换（火退金旺之月）与终局自洽取之。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuren"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuren.md"
+ ]
+}

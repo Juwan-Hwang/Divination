@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-036",
+ "prediction_text": "终局单一方向：负——升选难成，本月内反复无定（低置信）。仅据可用信息：地泽临之风泽中孚（坤宫，空亡申酉），本例在原书为反吟之例，反吟主事体反复、成而复败、去而复返；官星之位逢申酉空亡之限，名位待实而难实。应期只能定到月档：本月内不成，事见分晓在申酉空亡出空填实之时；因输入残损，不定具体主坐标日。",
+ "basis": "输入残损（重要）：本例 attachments 仅存卦名、卦宫、空亡与用神一语，chart_note 自述逐爻装卦未能可靠还原，且本条连逐爻表与月日干支俱缺（asked_at 仅记『本月』）——无从核世应、动爻、旺衰与应期三路，依规矩不臆补，置信大幅下调。取用：输入标『世爻卯木、官星为用』，然无盘面可验，登记 disputed=true。动化方向：无盘面，不可核，记『动化方向存疑』。反转条件：无从核对，记未齐备（无据）。终局仅据卦名本变（临之孚）与反吟成例结构作低置信方向判断。systems 仅六爻，未混用他体系补盘。",
+ "confidence": 0.35,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "输入残损：无逐爻装卦、无月日干支，世应与用神旺衰无从核定，取用存疑"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

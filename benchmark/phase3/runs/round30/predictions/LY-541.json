@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-541",
+ "prediction_text": "往前处脱货有利：妻财未土动化午火子孙回头生，财化原神源续，可脱售且得利；窗口申日起本旬内，主坐标午日（财动逢合、化神值日）得价脱货。",
+ "basis": "用神妻财（脱货求利）：现卦妻财两现——四爻未土应爻动、三爻辰土静，互比取动者未为主，辰落选（静、次序在后），故 disputed。未土巳月得火生为相、申日泄而有气，动化午火子孙：火生土回头生，且按求财类别读法财化子孙为源续生财。原神子孙巳火五爻临月旺静生财；忌神兄弟卯木静、寅木空静，不动不劫。动化方向：未化午回头生。反转条件未齐。应期日档（脱货近事）：对表卖货门首选动而逢合之期——未与午合、午为化神值日，两机制合流取午日为主坐标；填实无，逢值未日与午日相距一步进、不对决，按对表原序取午。伏官鬼酉金非主用未取。四路：本气+／元忌+（原神临月、忌静空）／动化+／世应计（应即财动）佐证；合参得利向。",
+ "confidence": 0.75,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "主用妻财取四爻动者未改；未用伏神作主用（伏官非主用）；妻财两现需互比，故 disputed=true。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

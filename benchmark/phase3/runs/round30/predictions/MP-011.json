@@ -1,0 +1,20 @@
+{
+ "case_id": "MP-011",
+ "prediction_text": "方向：胜算排序为赖清德组第一、侯友宜组第二、柯文哲组第三，赖萧配当选。断语：①第一名赖清德／萧美琴，得票约四成上下，当选下届正副总统；②第二名侯友宜／赵少康，得票约三成三上下；③第三名柯文哲／吴欣盈，得票约二成六上下，与前两名有可见差距；④应期（单位：日）：2024年1月13日投票日排序落定。",
+ "basis": "输入残损：无三组候选人出生资料与任何盘面，horary 之盘亦未附，只能以占题形势结构作断，已降置信并在 sources 外无盘面可引。事实优先（e）：占题明载蓝白合于11月23日破局、三脚督确立——在野分裂为两组分票、执政党一组独整，此结构本身即定排序：完整一组居首，分裂两组按组织盘（国民党地方组织大于民众党）分居二、三。等级校准（b）：得票量级按三脚督分票结构足级给出，不作其中一组过半之断（无据拔高）。",
+ "confidence": 0.76,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-bazi-ziwei.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "case_id": "MH-009",
+ "prediction_text": "方向：凶，应在鸡本身，主见血被烹杀。断语：①应验对象为乾方悲鸣之鸡本身（对象：鸡，非其主人家）：鸡将被执而烹杀、见血流出（物品／事象：鸡血、烹鸡）；②爻辞『无咎』只主此祸不延及主人、无大咎于人，不改鸡本身的杀身定性，量级止于一鸡之死；③应期（单位：日，依据通则(a)(h)：动爻四定窗）：窗口四日内，主坐标第二日卯时前后（鸡鸣之时），烹杀之事落定。此问为畜之存亡单点，一段终局。",
+ "basis": "梅花后天占：风天小畜四爻动。动在上卦，巽木为用、乾金为体；鸡属巽、即用本身，体乾金克用巽木，鸡受金克（金主刀刃）。变乾为天，变用乾金更重，克用不解。互离火（烹饪之象）、兑金，过程主烹执。爻辞核对（通则d）与量级守恒反向条：六四『有孚，血去惕出，无咎』明见『血去』血象，畜类存亡见血象、杀象时按烹杀定性，爻辞『无咎』只调节量级（祸不及人），不许软化为鸡平安无事——体用（金克鸡身）与辞中血象两路同指鸡身。事实优先（e）：鸡声极悲怆与受克见血相合。对象复核（f）：承受与应验同为鸡本身。自检（g）：对象鸡、物品鸡血、时点第二日卯时俱落。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "meihua"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/calibration.md"
+ ]
+}

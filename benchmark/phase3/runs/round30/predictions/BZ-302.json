@@ -1,0 +1,19 @@
+{
+ "case_id": "BZ-302",
+ "prediction_text": "方向：先显后败、终局凶之断——少年中年得志显贵（民政厅长之任）成立，然终局以一『吴』字为祸根：受累于吴——因一位吴姓关键人物（或吴地、吴氏之事）的牵累而身败名裂、招致杀身之祸，显贵之命以凶终收束，批语末句即应在此。承继：显贵无久传之势，终局牵连家门。病位（祸源义）：祸不在疾而在人事牵累。破耗之因：因人际依附与政治牵累而破，非财病之破。",
+ "basis": "残损严重注明：输入无四柱、无出生年月日时，八字排盘、特格扫描、运断主线、峰值三核对、应期三步均无盘可据、记为无据不报；本断仅据题面给定事实（少年得志、任民政厅长、命书末句『受累于吴』当时不解）作终局方向判断——题面已给末句四字，本断只就其应验对象（吴姓关键人物之牵累）与终局方向（凶终）落断，不臆补盘面与具体年份，置信大幅下调。",
+ "confidence": 0.4,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

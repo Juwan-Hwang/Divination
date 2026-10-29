@@ -1,0 +1,19 @@
+{
+ "case_id": "LR2-021",
+ "prediction_text": "方向：女儿平安到京（吉向）。初传巳火乘贵人护行，中传寅木乘六合与末传亥水成寅亥合——行人门合处断来期之正形；末传亥为壬水同气、行踪抵旺地，无白虎、玄武克身之传，路途无大险。具体：倪子玄之女本人平安抵京，人至而非仅信至（贵人、六合两吉将分居初、中传）。应期：行人归期日档，窗口为本旬内，主坐标丙寅日——取合支寅逢值之日到（合处取期优先于末传逢值）。置信中高。",
+ "basis": "大六壬行人门：日干壬水，十一月子月水旺。课式元首、玄胎。三传巳（贵人）→寅（六合）→亥（天空）：寅亥合居中末，合神寅乘六合将、居中传（途位），正合第七节取期优先序第2路合处取期与卷四行人门成例形态，断寅日到；末传亥逢值一路退为备选舍之（合路在先），出空（子丑空不落三传）无候选。末传天空只主末段音信虚浮一层，不压贵人护行＋合处来期两据。空亡子丑，三传不落空；年命未给，行年路无据已注明。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuren"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuren.md"
+ ]
+}

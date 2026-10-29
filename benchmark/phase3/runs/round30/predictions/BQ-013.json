@@ -1,0 +1,19 @@
+{
+ "case_id": "BQ-013",
+ "prediction_text": "方向：久雨不晴、雨势续盛（negative on晴）——随之咸，五月甲申日，申、子两爻俱动，与日辰申字正合成父母之局；父母为雨象，雨象动而成局、日辰又助之，雨势成势，非一晴可散之局。近段（数日内）仍雨、且雨量有加之象；远段待父局被冲开之期方转晴——远段触发指认：合局待冲开之支，合住之局以冲开为晴期之路，然残盘不足以定具体冲开之日，故远段只报方向（局开则晴）不定日，主坐标仍落在近段续雨。应期尺度日档：近数日续雨为主坐标。",
+ "basis": "六爻残盘：chart_complete=false，只记随之咸、申子两爻动成父局，无全盘，注明降置信。天时用神：父母主雨（雨象成局为续雨主证）、子孙主晴（残盘无子孙发动可核，晴路无据）。应期三步：定尺度日（久雨占晴为近事）；三路：冲实（冲开合局之支，无确支可定，存候选）／填实（无空爻可核，无候选）／逢值（父爻逢值续雨，与终局同向取之定近段主坐标）；余路舍弃理由如上。门类对表无天时晴雨专条，明写对表无此门类。动化方向：申子动而化出无记，存疑；反转条件未齐备，不翻转。",
+ "confidence": 0.45,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "望晴与父局主雨相反，晴期一路存疑，故disputed=true"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

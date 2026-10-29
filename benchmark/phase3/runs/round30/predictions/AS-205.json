@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-205",
+ "prediction_text": "方向：病人将死，此病不治。升宫被八宫主本体严重克害、六宫固定受克、六宫主落固定土象忧郁座、太阳（时光）正冲六宫主土星于固定座、月亮近南交点且在升受克——死亡证叠加齐全，无救解之吉相可翻。病为忧郁质固定之疾、积滞沉重。应期以月计，先定年内不越本年，主在占问后数月内（1645年内）病故，不径直落某一日。",
+ "basis": "病占生死：升受八主克+月近交点受克+日冲六主于固定座为Lilly死亡判据组合。输入上升字形残损未断言，已注明。",
+ "confidence": 0.84,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

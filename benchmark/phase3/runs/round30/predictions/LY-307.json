@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-307",
+ "prediction_text": "方向：positive（有雨可期）。大旱占何日有雨，父母未土为雨用神、持世临未月建而旺，静卦风地观，雨神旺临月世，主必有雨；未土待丑冲动而雨下。应期按日档（天时近事）：窗口为占后数日内，主坐标取丑日（丑冲未、冲动雨神未土，降雨之日）。",
+ "basis": "天时占雨以父母为用神：未土四爻世（主用）、初爻未土应（同亲落选留记）。未土临月旺、日戌土同气，雨神旺相本气＋。妻财卯木两现为晴象旁爻，静而未月休，不克动用神。子孙、兄弟不上卦（题面注明缺孙兄），无子孙主晴之动象。静卦无动化，雨应取冲动用神之支。应期三路：冲实丑冲未取主坐标（兼D项冲起路）；填实无空破不适用舍；逢值未日即占日已临、作窗口起点舍。门类天时对表以父母逢冲/逢值机制取点，取冲合闸门（静而逢冲则动）。对象：所问雨—父母未土—应验对象天雨本身，同一。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "雨神旺临月直主有雨、未改向；主用现卦世爻，未用储备；无争议。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

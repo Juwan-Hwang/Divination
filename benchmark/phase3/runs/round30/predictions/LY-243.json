@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-243",
+ "prediction_text": "方向：negative（此婚难成）。女家代占婚，官鬼卯木持世而动、化兄弟丑土逢旬空，夫星动而化空；妻财亥水动又化兄弟戌土回头克，三爻动乱、官财两伤，婚事终将退散不成。应期按月档：窗口为占后数月内，主坐标取丑月（世化丑土填实、退象落实之期）。",
+ "basis": "代占以官鬼为夫用神：官卯木寅月旺、日午泄，旺而动；化丑土，丙午日甲寅旬空子丑，丑逢空，动而化空主所化落空。财亥水寅月休，动化戌土，土→水为回头克财。兄弟丑土动化财亥为旁动。动化裁决：官化空非化进、无回头生，反转两路中化神空而无生扶近高权重端，终局向败。四路：本气官旺＋／元忌链财受回头克−／动化化空−／世应世官动而不安−，合参负。扫查无全成立翻转信号。应期：填实丑支与败局自洽取主坐标；冲实、逢值两路与终局方向相悖舍。对象：女家所占之婿—官卯—应验对象男方，同一。输入完整。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "初判与终局同为负（官化空直主退散），未改主判；主用现卦世爻，未用储备；官爻唯一无取用争议。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

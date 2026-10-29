@@ -1,0 +1,19 @@
+{
+ "case_id": "BZ-028",
+ "prediction_text": "格局：军政高官、二把手极贵之造。丁火生子月官杀当令，壬水七杀透月，甲木印星透时化杀生身，卯木印根、酉金财星生杀——杀印相生格成，主文武兼资、居军政要枢，官至副统帅/行政院级副首之位，才略声望俱著；惜杀重印轻、子酉破、卯酉冲，财生杀而印化不及，一生位高而终逊正首半格，且多受制于上、劳心险重。晚运木火帮印化杀转安，寿中高。",
+ "basis": "四柱丁酉壬子丁卯甲辰。旺衰丁火子月失令极弱，赖卯甲印星、辰藏乙，身弱有救；格局杀印相生，成格条件在印透时干得根。特格从杀未命中（印星有根透干，日主有自立之路）。等级：杀印成格给副首级高官，正首降格依据为印轻杀重、日主弱不能自专。分段：中年得印运化杀最显，逢财运生杀加重防险。仅据四柱。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-009",
+ "prediction_text": "方向：狗能找回。狗主星（六宫主）居西方星座、南象限偏西，主搜寻方向为伦敦城内偏西至西南一带；其星座与上升同三合性主狗仍在伦敦本城内，未出远；狗主星趋合三合六宫宫头主终能寻回。应期以日计：太阳至下周一趋合与升主土星成相，主下周一前后得狗消息或找回。狗应在人家收留/牵系之处，非死于外。",
+ "basis": "失犬占：六宫主定狗，方位以星座象限、是否同城以三合性定；输入多处字形OCR残损，已注明并降置信。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

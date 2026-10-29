@@ -1,0 +1,19 @@
+{
+ "case_id": "BZ-019",
+ "prediction_text": "格局：极贵之造，与同造诸注同断。庚金酉月羊刃身旺，丙丁官杀齐透炼金，子水食神制杀、卯财生官，喜其冲克得宜——子午冲使食神制杀有力、卯酉冲动财生官，冲克非破局反成流通枢纽，主最高权位之贵，一生权柄隆盛、寿高善终；波折在子嗣与迁动，不在权位本身。",
+ "basis": "四柱辛卯丁酉庚午丙子（与BZ-016同造、不同注本，独立作断结论一致）。月令羊刃取格，身旺喜官杀炼、食神制杀为救应流通；徐注『喜其冲克』之理据盘面成立：无冲则杀食相隔、财刃相静，有冲则全局活动。特格扫描未命中从/专旺，走常规合参。等级足级极贵。仅据四柱。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

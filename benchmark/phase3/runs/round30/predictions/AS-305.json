@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-305",
+ "prediction_text": "方向：哈里斯险胜（positive for Harris, narrow）——选举极接近，最终由哈里斯以微弱优势胜出。该作者自承盘面势均力敌、极难判断，故断语量级只到险胜：摇摆州逐个开票、胜负拖至计票后段才明朗，特朗普得票亦强、不会大败。应期即选举日2024-11-05及其后数日计票窗。",
+ "basis": "输入残损：无两候选人星盘、无行运、无原文结论，仅有『自承盘面势均力敌、极难判断』的setting——可据者只有其最终须在两强之间落一边；依其势均力敌自述只给险胜量级（通则b：无提格依据不拔高为大胜）。依据最薄，置信降至低档，明写存疑而不断言盘面细节。",
+ "confidence": 0.35,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

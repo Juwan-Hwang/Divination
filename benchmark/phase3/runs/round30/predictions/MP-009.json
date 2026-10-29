@@ -1,0 +1,20 @@
+{
+ "case_id": "MP-009",
+ "prediction_text": "方向：韩国瑜总统败选，且高雄市长职位不稳固、将被罢免。断语：①总统选情已无翻盘之力，2020年1月败于蔡英文，差距明显；②市长之位选后不保：罢免案将推进成案并投票通过，韩国瑜于2020年年中被解职（事象：罢免通过、去职）；③应期（单位：月）：败选2020年1月落定，罢免去职窗口2020年上半年，主坐标2020年6月前后。",
+ "basis": "输入残损：来源称2019年10月2日卜卦，但输入未附任何卦象／盘面，卜卦一路无据可用，已注明；改以年柱与占题事实合断，降置信。事实优先（e）：占题明载绿党民调蔡50.9%、韩32.6%，韩自8月大幅下滑，且罢免连署已在第一阶段进行——败选与罢免两事在占题事实中均已成形。韩1957丁酉逢庚子子酉破耗，位与势同失。通则（i）：总统与市长为两条线，逐线各断，不合并为单一终局语。等级校准（b）：罢免通过一级有连署已启动与民调崩落双据，足级给出。",
+ "confidence": 0.78,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-bazi-ziwei.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/calibration.md"
+ ]
+}

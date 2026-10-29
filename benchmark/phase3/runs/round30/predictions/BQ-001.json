@@ -1,0 +1,19 @@
+{
+ "case_id": "BQ-001",
+ "prediction_text": "方向：父寿已尽（negative）——卧疾三年、昨日气尽复苏者，此苏是回光之苏，非转愈之机；父命在近数日内终结，诀别在言语（兑为口、为言）之间。兑之履：兑上天下土、庚辛日本宫火，兑变为乾为天，卦象主口言一绝而归天；履有履虎尾之危，老病之躯不当久延。具体断语：不过数日之期（日档），当以言语交代后事而逝，家中宜备后事，不宜再抱长愈之望。",
+ "basis": "筮占（非纳甲全盘）：输入chart_complete=false，原文只记本卦兑、变卦履与断语援引之象（本宫火、兑口兑言、变乾为天、未化入戌为土），无六爻全盘，照实在此注明并降置信。承受/应验对象复核：所问为父之寿，断语逐条对回父亲本人。应期按通则(k)：近病寿数问以日档，依据为气尽复苏之回光象与兑口言诀之象。动化方向：兑变履（上卦兑变乾）主归天之向；反转条件：无原神生扶成链可核（无全盘），未齐备，不翻转。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "yijing"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-yijing.md"
+ ]
+}

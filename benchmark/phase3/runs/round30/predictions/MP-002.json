@@ -1,0 +1,20 @@
+{
+ "case_id": "MP-002",
+ "prediction_text": "方向：蔡英文能连任，民进党赢、不会输。断语：①近段（2019年初）蔡处低谷，党内换人杂音、民调低迷，局面先弱；②远段自2019年中起声势回升，年底选战定于蔡身，连任成功且非险胜，得票将明显领先对手当选；远段触发为外在局势（两岸议题升温）引动其执政者位置、绿营归队；③应期（单位：月／年）：连任与否于2020年1月投票月落定，主坐标2020年1月，蔡英文胜选连任。",
+ "basis": "输入残损：只有蔡英文1956年生、性别与背景，无月日时，八字盘不全，只以年柱丙申与形势合断，降置信。事实优先（e）：2018九合一大败后低谷是近段实情，但题目问的是2020连任终局，不得以近段低谷直断终局败（通则i两段式：近段弱、远段回升各有据）。丙申年生人2019己亥先受冲耗、2020庚子金水渐生其势，终局方向取胜。等级校准（b）：回升有局势引动为据，断连任成功且差距明显，不作仅能惨胜语。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-bazi-ziwei.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "YB-019",
+  "tradition": "liuyao",
+  "subject": {
+    "name_or_desc": "病妻（夫为之占，未具名；与 YB-018 同日另一人）",
+    "gender": "女"
+  },
+  "context": {
+    "question": "占妻病，问妻病吉凶",
+    "asked_at": "子月甲午旬辛丑日",
+    "setting": "明代民间卖卜占验实录（张世宝自记占例，散文体附断语与应验）",
+    "attachments": {
+      "casting_method": "liuyao",
+      "hexagram": "震宫：雷地豫（一世） 之 雷风恒",
+      "moving_lines": "二爻子孙乙巳火动，化父母辛亥水；三爻兄弟乙卯木动，化官鬼辛酉金",
+      "chart_lines_top_to_bottom": [
+        "妻财庚戌土",
+        "官鬼庚申金",
+        "子孙庚午火 应",
+        "兄弟乙卯木（动）",
+        "子孙乙巳火（动）",
+        "妻财乙未土 世"
+      ]
+    }
+  },
+  "provenance": {
+    "book": "易林补遗",
+    "edition": "华龄出版社《四库存目纳甲汇刊（三）》校正全本（（明）张世宝撰，郑同校；用户经学校图书馆提供之扫描本）",
+    "license_note": "用户经学校图书馆提供，内部研究使用（redistributable=false）",
+    "page": "卷一总断章第一，书页8"
+  },
+  "language": "zh-Hant",
+  "license_status": "internal-research-only",
+  "redistributable": false,
+  "outcome_grade": "A",
+  "grade_note": "断验分离成立：断语（含应期断言）在前、原书另载应验在后，结局为冷门局部事实；原文「当日又一人占妻病」与 YB-018 同日同问而异人异卦异结局，三键以对象（另一人）相别，见 BUILD-REPORT 去重节",
+  "contamination": "low",
+  "contamination_reason": "明代民间占例，求测者皆未具名，结局为冷门局部事实，无著名人物与事件，无从常识先验得知",
+  "month_day_complete": true,
+  "chart_complete": true,
+  "completeness_basis": "原文记本变卦名（豫之恒）并明言两爻发动（巳火子孙变亥水父母、卯木兄弟变酉金官鬼）；动爻由本变卦爻位异同唯一确定且与原文自叙化爻干支全合，逐爻装卦按通行纳甲法则复原",
+  "holdout_eligible": true,
+  "notes": {
+    "tags": [
+      "疾病",
+      "夫占妻病",
+      "乱动"
+    ],
+    "comment": "与 YB-018 同页对举：乱动不可将京房书断",
+    "cross_ref": ""
+  }
+}

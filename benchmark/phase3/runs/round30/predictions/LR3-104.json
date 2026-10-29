@@ -1,0 +1,19 @@
+{
+ "case_id": "LR3-104",
+ "prediction_text": "方向：负向——上疏不利：疏可上达而见阻留中，不蒙允行，且防勾陈斗讼式稽留与言责。 中传丑土官鬼乘太常克癸水日干居中梗，初传酉金乘勾陈主斗讼稽留；末传巳火乘贵人且巳酉丑金局生身为救，故量级止于被驳/留中/受责，不至下狱重罪。应期（月档）：窗口在上疏后数月内，主坐标取官鬼丑土逢值之丑月为旨意分晓主坐标。",
+ "basis": "六壬章奏门：奏书之神朱雀、天空均不在三传，奏事本身无正应之将得力；贵人在末传主君上旨意在后，日干癸水受中传官鬼丑土之克、初传勾陈稽留，主疏入见阻。从革金局生身与末贵人为救路，按等级校准只压量级（驳/责而非重罪），不翻方向。应期月档：逢值取丑（中梗之官鬼值临分晓），逢冲（未冲丑）为备选舍之（冲散中梗与『分晓』同向但无合流第二机制），出空路（辰巳空不临传）无候选。盘面无年命，年命路无据。",
+ "confidence": 0.56,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuren"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuren.md"
+ ]
+}

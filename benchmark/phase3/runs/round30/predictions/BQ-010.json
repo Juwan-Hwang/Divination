@@ -1,0 +1,19 @@
+{
+ "case_id": "BQ-010",
+ "prediction_text": "方向：讼不成/占方败（negative）——蒙之未济，未济主事未成、未有终局之胜；父母爻空亡，父母为状纸文书、契据凭证，空亡主文书无据、状词落空，此讼缺乏可凭之据，难以告准、难以胜诉，终以不成局或不了了之收场。具体断语：谈朝辅此讼无成，纵然兴讼亦是空费，先无据后无果。应期：月档窗口内以父母出空填实之期为文书见分晓之主坐标，然填实只定其期、不改其空亡无据之终局。",
+ "basis": "六爻残盘：chart_complete=false，原文只记蒙之未济、父母空亡，无全盘无日期，照实注明降置信。用神：诉讼以父母为文书凭据、官鬼为官府（全盘缺、官爻无从核）；父母空亡过根气判读：无日月生扶与动爻生扶可核（盘残），空作凶权计。门类应期查表：诉讼门类对表无成文取法，明写『对表无此门类』，按应期三步以填实一路定窗。动化方向：无动爻化出可核，记无动化；反转条件：源绝/化退两路无据，未齐备，不翻转。四路合参：本气（父母空）-／元忌仇无从核记0／动化0／世应不计——方向取败向。对象：所问谈朝辅之讼，应验落谈本人。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "父母空亡单证定主，无变卦改主、无伏神取用、无两读分歧"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

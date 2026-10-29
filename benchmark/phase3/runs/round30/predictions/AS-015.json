@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-015",
+ "prediction_text": "方向：丈夫在海仍活着、平安无恙。丈夫主星太阳得其hayz、无一切克害，主其人身安全、处境尚好，将归家。反之问者本人病势沉重：六宫主土星逆行主旧病复发、辗转增剧，火星土星趋合凶相所定时点指向次年10月8日前后为其本人大限之危，与丈夫安危须分开看。丈夫归期以月计，主其在本年内归抵，但恐赶不及见妻子痊愈。",
+ "basis": " absent占：以七宫为女方升起算，夫以太阳为用且全无受克为存活强证；输入部分位置OCR残损、日期未载，已注明并降置信。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

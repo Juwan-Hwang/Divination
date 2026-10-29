@@ -1,0 +1,19 @@
+{
+ "case_id": "LR3-112",
+ "prediction_text": "方向：正向——病可愈。 近段：水局润下主病势流散、旬内见缓；远段：中传申金子孙乘青龙为福德生气居中得力，官鬼木不入三传、虎鬼不乘传，病源无旺克之据，转归向愈。远段触发已指认：中传福德青龙递生末传、润下局成于申子辰指向愈期。应期（日档，近病）：窗口为本旬内，主坐标取子孙申金逢值之申日为病愈主坐标。",
+ "basis": "六壬疾病门：虎鬼（官鬼乘白虎）不入三传，病源不旺；子孙申金乘青龙居中传为生机福德，申子辰润下局主恩泽和顺；初传辰土玄武只主病中阴滞小象，不压福德主线。承受对象复述：三条主断语（近段见缓、远段向愈、愈期）主语同为刘一纯本人，与所问对象同一。应期日档三路：逢值取申（福德值临），逢冲（寅冲申）主病进与终局相悖舍之，出空路（寅卯空不临传）无候选。盘面无年命，贵医年命一路无据已注明，故置信降档。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuren"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuren.md"
+ ]
+}

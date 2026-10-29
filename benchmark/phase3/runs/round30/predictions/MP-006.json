@@ -1,0 +1,20 @@
+{
+ "case_id": "MP-006",
+ "prediction_text": "方向：韩国瑜2020年运势衰，总统之路不成。断语：①总统选举败北，无缘总统之位，2020年1月投票即见分晓；②其政治声望于选战期间持续下挫，选后人气重创、根基动摇，63岁这一年是其政治生涯由盛转衰的转折年，而非登顶年；③应期（单位：月／年）：败选于2020年1月落定，声望转衰贯穿2020全年。",
+ "basis": "输入残损：只有韩1957年生、时年62岁，无月日时，八字只取年柱丁酉，降置信。事实优先（e）：占时其民调自8月起已呈下滑趋势，占题明载，此下滑非一时波动而是趋势。丁酉自刑之年柱逢2020庚子，子酉相破、金水泄耗，运与势同主衰。等级校准（b）：断至败选加声望重创一级，有民调趋势与年柱破耗双据；不再下延断至罢免等题目外事项。",
+ "confidence": 0.74,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-bazi-ziwei.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "WP-002",
+ "prediction_text": "Direction: Barack Obama wins the 2008 US presidential election (defeating John McCain), taking office in January 2009. The result is a change-of-direction victory — the outsider/change candidate prevails over the establishment continuity candidate — though the Saturn–Uranus opposition exact on Election Day marks a hard, closely fought transition rather than a coronation.",
+ "basis": "Mundane/electional astrology per the snapshot method: Saturn opposed Uranus beginning on Election Day, a configuration last seen 45 years earlier, is the classic old-order versus change signature; applied to the supplied facts (Obama leading the nomination contest on a change platform, McCain as the presumptive nominee of the incumbent party), the change pole of the opposition is the winning one. No natal charts were supplied in the input, so the call rests on the election-day configuration and the stated race facts only, and confidence is set accordingly.",
+ "confidence": 0.66,
+ "systems_used": [
+  "western_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/western-astro-numerology-runes.md"
+ ],
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

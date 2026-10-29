@@ -1,0 +1,19 @@
+{
+ "case_id": "LR3-101",
+ "prediction_text": "方向：正向——会试必中。 发用酉金为日鬼而兼皇恩之象，中传戌为河魁，末传亥水见长生（亥为木长生、乙木日干得长生临末），父母文书居末生身，支见幕贵之局，为最利试场之象；代占亦断今年必中，不作落榜论。应期（月档，榜期）：窗口在会试放榜之月内，主坐标取朱雀/父母逢值之亥月日一档中的亥日为榜名主坐标（月档内日坐标仅作榜日定位）。",
+ "basis": "六壬考试（会试）门：取父母文书、朱雀文章、幕贵魁星为主。日干乙木，末传亥水父母生身且亥为木长生，主文书得力、长生临末；初传酉金官鬼天后为日鬼兼皇恩、中传戌土河魁太阴，合考试门细象组『发用日鬼皇恩、河魁天喜、末见长生太阳、支见幕贵定必中』之形态。蒿矢课力弱之总象在此被考试门专象压过，只调量级不断落榜。应期：榜期定月档，三路逢值取亥（长生父母值临），逢冲（巳冲亥）与中式终局相悖舍之，出空路（辰巳空不临三传）无候选。",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuren"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuren.md"
+ ]
+}

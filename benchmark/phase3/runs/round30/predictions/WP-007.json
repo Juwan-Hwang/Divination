@@ -1,0 +1,19 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Direction: Donald Trump wins the 2016 US presidential election. What decides it: Hillary Clinton's trust problem — the email controversy and Clinton Foundation questions hanging over her campaign — overwhelms her polling lead in the final stretch; voters' suspicion of Clinton, not enthusiasm for Trump, is the deciding factor.",
+ "basis": "Tarot reading as framed by the input (a Manhattan tarot reader consulted on the election in August 2016). Input残损/limitation: no actual cards drawn, spread or positions were supplied in the input, and no tool-drawn spread may be substituted for the reader's own draw in a benchmark case, so the prediction is made at the level the input supports — outcome plus deciding factor — using the controversies the input itself names (Clinton's emails and Foundation) as the deciding weight, consistent with a reading whose negative Clinton significators (concealment/trust cards in Waite terms) outweigh her lead. Confidence lowered for the missing card data.",
+ "confidence": 0.5,
+ "systems_used": [
+  "tarot"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/western-tarot.md"
+ ],
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

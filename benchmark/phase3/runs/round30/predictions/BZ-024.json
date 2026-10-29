@@ -1,0 +1,19 @@
+{
+ "case_id": "BZ-024",
+ "prediction_text": "格局：江湖枭雄、大富大名非正途之贵。乙木生申月官杀当令身弱，庚金官星透合乙身，壬水印星透时化杀生身，子水印根、午火食伤吐秀——杀印相生为体，主在体制外以权谋、人脉与胆识聚巨大财富与势力，名震一方、义名侠名并著，官贵非其正路（合官主与官方势力纠缠借势）。一生中年申庚壬运最盛；晚年防官非与健康（肝胆/心血管）拖累，结局渐归平淡。",
+ "basis": "四柱戊子庚申乙丑壬午。旺衰乙木申月失令、坐丑湿土，赖子壬印星生扶中和偏弱；格局杀印相生，庚乙合官主借官势。特格从格未命中（印星有根透干）。等级：财戊透、食午秀，给巨富+一方首脑级，不给正式官贵极峰，依据为官星合身而不正、用在印化。仅据四柱。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

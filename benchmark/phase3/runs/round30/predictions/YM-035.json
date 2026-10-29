@@ -1,0 +1,19 @@
+{
+ "case_id": "YM-035",
+ "prediction_text": "方向：痘将发、且发得顺透（所问事件成）。子孙申金（福神）相于丑月、世爻发动化兄弟未土回头生，福神旺动有源；官鬼卯木静而临乙卯日，痘象在而受福神之势主导，发痘过程较前类顺。应期双层（日档）：窗口为占后数日内，主坐标为申日——子孙逢值之日痘发透。",
+ "basis": "与同日他例分开独立作断。官鬼卯木应位静、死月临日，痘象有据但静；子孙申金世动为本盘主动之神。动化方向：子孙化兄弟未土，土生金回头生，化神未土得丑月土气之助（未丑同土），回头生成立；反转条件不成立。四路（以子孙福神主发透）：本气＋（相月）／元忌0（官静临日不旺动）／动化＋（回头生）／世应不计主方向；合参发而顺。应期取子孙逢值申日；官逢值卯日已临作窗口起点舍之；冲实填实无空墓对象不取。门类对表无痘疹门类，明写无此门类。病位不妄断。主语复述：断语主语为此另一孩童之痘，同一。输入注明日与前例同日、原文未重记，已据输入注明、置信略降。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "主用官鬼为静爻未动化（动者为子孙福神、非主用），故changed_main=false；未用备用源"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

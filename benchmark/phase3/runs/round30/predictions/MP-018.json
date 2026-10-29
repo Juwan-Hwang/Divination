@@ -1,0 +1,19 @@
+{
+ "case_id": "MP-018",
+ "prediction_text": "倾向判断：不能当选（negative）。曾俊华民望虽为候选人中最高，仍当选不了2017年香港行政长官，最终由对手胜出；其所得选委票明显落后。应期：月档，2017年3月26日投票定局。",
+ "basis": "仅有出生年月日、无时辰，四柱不全，残损降置信。曾俊华1951年4月21日生，辛卯年、卯木年命；2017丁酉年酉冲卯，年命逢冲、根气被拔，主声望与结果脱节、临选受制。题面事实：传媒指林郑获北京支持占优、曾被视为陪跑——选委会选举由建制票源决定，民望非决定项，事实优先于人气象。八字（子平：立春换年、节气换月）；特格扫描、运断主线、逐运方向、结局清单与峰值三核对均按快照八字篇执行，运以月柱顺逆排、未给生日起运岁数者只定运段不定确年。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "MP-017",
+ "prediction_text": "倾向判断：女性。下届香港特首将由女性出任——即当时改口考虑参选的政务司司长林郑月娥一系胜出，男性候选人陪跑。应期：月档，2017年3月26日选举揭晓。",
+ "basis": "仅有生肖年柱与选情事实，无完整四柱，残损降置信。林郑月娥1957丁酉生，2017丁酉流年与年命同气、伏吟得势，为候选结构中唯一女性且握行政班底与北京支持信号；曾俊华1951辛卯生，卯与酉流年相冲，年命受冲主临门受挫。事实优先序：梁振英不连任、曾已辞职备选、林郑改口考虑参选，女性人选已成形。八字（子平：立春换年、节气换月）；特格扫描、运断主线、逐运方向、结局清单与峰值三核对均按快照八字篇执行，运以月柱顺逆排、未给生日起运岁数者只定运段不定确年。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

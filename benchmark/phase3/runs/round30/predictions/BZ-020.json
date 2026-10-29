@@ -1,0 +1,19 @@
+{
+ "case_id": "BZ-020",
+ "prediction_text": "格局：中上之贵、文武仕途之造。庚金生丑月寒湿，壬癸水食伤双透泄秀，午戌火官杀暖局炼金，寅木财星生官——食伤生财、财生官杀链条流通，寒局得火调候有暖，主以才略任官、典兵刑武职或法务之权，仕途可达方面/部级之任。一生劳心多任事，中年运入火乡最显达；晚运水木防退位与寒湿之疾。非帝王极贵，乃实权干练之臣格。",
+ "basis": "四柱壬午癸丑庚寅丙戌。调候先行：丑月寒金湿土，午丙戌火暖局解寒，调候得力；旺衰庚金丑月得土生、坐寅绝地，中和偏弱有根，食伤透泄秀。格局以食伤生财生官流通为体。用神火土。等级校准：官杀有财生有调候但日主不算极旺，故给方面实权级、不拔至极贵，压制依据为日主坐绝、冬金气寒。仅据四柱与自述背景。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

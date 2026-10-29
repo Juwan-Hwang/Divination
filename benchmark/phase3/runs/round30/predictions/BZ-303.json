@@ -1,0 +1,19 @@
+{
+ "case_id": "BZ-303",
+ "prediction_text": "方向：先盛后衰、地运换挡之断——香港楼市与经济在八运余气内上行至2019年前后见顶，其后转入下行调整；至2024年九运交接为明确分水岭：楼价自高位显著回落、经济势能转弱，2024年后进入另一运程的低位盘整期，而非再创新高。近段（至2019前后）：高位运行、仍有余势；远段（2020至2024及换运后）：下行与调整为主，远段触发为2024年三元九运交接之运程换挡。破耗之因：地运由旺转衰叠加外围冲击，楼市财富量级按换运后之下行定，不作再创新高之断。",
+ "basis": "残损与限度注明：输入无任何盘面（风水/地运类），快照 references/chinese-bazi-ziwei.md 附篇明言风水只作文化背景、本库不出风水断语，此限度如实登记；本断以三元九运换运时点（2024年交九运）这一题面所问框架内的时间结构作方向性判断，systems_used 如实登记为 fengshui 而非八字盘面推演，无四柱可排，特格扫描、运断与峰值核对无据不报，置信下调。应期尺度为年档：见顶转折以2019年前后与2024年换运两点落断，依据为运程交接而非流日细化。",
+ "confidence": 0.45,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "fengshui"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

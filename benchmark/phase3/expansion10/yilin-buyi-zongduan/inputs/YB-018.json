@@ -1,0 +1,52 @@
+{
+  "id": "YB-018",
+  "tradition": "liuyao",
+  "subject": {
+    "name_or_desc": "病妻（夫为之占，未具名）",
+    "gender": "女"
+  },
+  "context": {
+    "question": "夫占妻病，问妻病吉凶",
+    "asked_at": "子月甲午旬辛丑日",
+    "setting": "明代民间卖卜占验实录（张世宝自记占例，散文体附断语与应验）",
+    "attachments": {
+      "casting_method": "liuyao",
+      "hexagram": "震宫：雷地豫（一世） 之 雷山小过",
+      "moving_lines": "三爻兄弟乙卯木动，化官鬼丙申金",
+      "chart_lines_top_to_bottom": [
+        "妻财庚戌土",
+        "官鬼庚申金",
+        "子孙庚午火 应",
+        "兄弟乙卯木（动）",
+        "子孙乙巳火",
+        "妻财乙未土 世"
+      ]
+    }
+  },
+  "provenance": {
+    "book": "易林补遗",
+    "edition": "华龄出版社《四库存目纳甲汇刊（三）》校正全本（（明）张世宝撰，郑同校；用户经学校图书馆提供之扫描本）",
+    "license_note": "用户经学校图书馆提供，内部研究使用（redistributable=false）",
+    "page": "卷一总断章第一，书页8"
+  },
+  "language": "zh-Hant",
+  "license_status": "internal-research-only",
+  "redistributable": false,
+  "outcome_grade": "A",
+  "grade_note": "断验分离成立：断语（含应期断言）在前、原书另载应验在后，结局为冷门局部事实",
+  "contamination": "low",
+  "contamination_reason": "明代民间占例，求测者皆未具名，结局为冷门局部事实，无著名人物与事件，无从常识先验得知",
+  "month_day_complete": true,
+  "chart_complete": true,
+  "completeness_basis": "原文记本变卦名（豫之小过）与占日；动爻由本变卦爻位异同唯一确定，逐爻装卦按通行纳甲法则复原；原文「忌神虽动化绝在申」与复原动爻化出申位之爻可互证",
+  "holdout_eligible": true,
+  "notes": {
+    "tags": [
+      "疾病",
+      "夫占妻病",
+      "兄化官"
+    ],
+    "comment": "总断章变法节例，引《海底眼》诀",
+    "cross_ref": ""
+  }
+}

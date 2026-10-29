@@ -1,0 +1,19 @@
+{
+ "case_id": "LR3-116",
+ "prediction_text": "所射之物：牛黄——黄兼黑之色、二件（二块）并见，贵重之物、乘天医能医病；其数四八，每块约重四分七八厘。射覆无成败方向与应期，此二义留白不立。",
+ "basis": "六壬射覆门：甲寅刚日以发用兼日上神射之——三传初传丑乘贵人，丑为牛、其色黄兼黑，丑为日贵断贵重、乘天医断能医病；亥为双义主黄黑二件；数目断语四八落重量（参快照六壬篇射覆门细则第1–4条，本例干支与三传字面与该成例形态合）。输入残损：三传天干未载（原文注明两本字面相同）、原书未载旬空，已照实注明；残损只压细处（如干支合数）不压物类主断，故置信仍居高档下沿。",
+ "confidence": 0.78,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuren"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuren.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-604",
+ "prediction_text": "兄重罪可得救减：兄弟丑土虽休死无气，却动化父母午火回头生，父母为恩赦文书之神化出有力，官鬼寅木静而不动；重罪不至无救，主减罪蒙救。应验跨度月档：窗口卯月起至午月，主坐标午月（化神父母午火逢值之月）见赦减分晓。",
+ "basis": "用神兄弟（兄）：现卦兄弟两现——四爻丑土应爻动、三爻辰土静，互比取动者丑为主，辰落选（静），故 disputed。丑土卯月木克为死、己卯日木克，休囚无气。动化方向：丑化午火父母，火生土回头生，化神卯月相有气——动化定性吉向，静态官克只调量级。原神父母火：化午现卦，另伏巳火于官下为旁源。忌神官鬼寅木二爻静，卯月得比而静不动；子孙酉金上爻空为救神待实，只降量级。反转条件：无化绝无扶（化回头生排除）。应期月档（官事终局类，先月）：逢值取午月化神父母值月为主坐标，冲实酉月冲卯/实空救神路为备选舍，填实无。四路：本气-／元忌+（忌静、原神化出回生）／动化+（回头生）／世应计而同向佐证；合参有救向，等级只断减罪蒙救、不敢断全然无罪（压制：用神休死、救神空）。对表讼门无应期成文，已注明无表。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "主用兄弟取四爻动者未改；伏父母仅旁源非主用，reserve_used=false；兄弟两现需互比，故 disputed=true。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

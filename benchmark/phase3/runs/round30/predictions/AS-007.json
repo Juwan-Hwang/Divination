@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-007",
+ "prediction_text": "方向：沃勒（Sir William Waller）一方获胜，霍普顿（Sir Ralph Hopton）败北。月亮擢升合木星、太阳擢升正度（白羊19°）居十宫，皆沃勒方强证；霍普顿主星土星失辉、入落、无定位、无相位，且九宫只有火星与南交点主其援军/供给未备。断：当日交战霍普顿被击退/溃败，沃勒得胜场。应期即当日（1644年3月29日交战日）。",
+ "basis": "战争占：以升+月对七宫主强弱定胜负；一方擢升齐聚、一方入落失辉，对比决定性。",
+ "confidence": 0.86,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

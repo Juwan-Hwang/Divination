@@ -1,0 +1,19 @@
+{
+ "case_id": "OC-019",
+ "prediction_text": "方向：贵显而中年横夭。命主可至研究院总干事级、社会活动家一级的地位（贵显中上，非极品封疆），以才名与社会事务显；行运前段顺、后段逆，四十岁前后为大险关：酉年冲卯、或水旺劫旺之运年，有突然横祸、暴亡之险，一生终局以中年夭折收，不主晚年。应期尺度为年档，先定四十前后之运、再定酉冲卯之年为主坐标。",
+ "basis": "八字：癸巳 丙辰 壬申 癸卯，壬水日主生辰月，申为长生根、癸劫帮身，身不弱；丙火偏财透月干生辰土七杀，财生杀而卯木伤官泄秀制衡，格局为财杀有制、伤官吐秀，主才名与社会地位。险源在卯被酉冲则伤官与门户俱动、申辰水势助劫夺财，且无强印护身化杀。格局量级区间：下限为学界名流—上限为中央研究院总干事级，落点据财杀成局而日主有根定于上限侧。输入注明他书另载全异四柱，本例以输入所给四柱为准，此分歧已在 basis 登记并降置信；无起运实数，运年只落到冲卯之年一层。",
+ "confidence": 0.56,
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ],
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

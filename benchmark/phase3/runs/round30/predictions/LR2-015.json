@@ -1,0 +1,19 @@
+{
+ "case_id": "LR2-015",
+ "prediction_text": "方向：重辟难解、出狱无望（凶向，终局维持已定重罪一档）。三传午→丑→申递生，末传申金官鬼乘勾陈临末——递生至鬼、鬼乘词讼狱吏之将，重罪被传链一路生实；初传午火子孙虽能制金，却乘天空而力虚，且其生力经中传丑土转生申金，制鬼之路被递生绕过。盘中无贵人入传、无赦象可据（年命未给，皇恩/暗拱路无从核）。具体：冯允升本人难逃重辟，量级不断轻于已定之罪。应期：讼结属月档，窗口为本季内，主坐标申日（末传官鬼逢值、案定）。置信中高。",
+ "basis": "大六壬公讼门：日干乙木，三月辰月。三传辛巳空外：午（天空）→丑（天后）→申（勾陈），火生土、土生金，终生官鬼；勾陈主斗讼稽留、下狱。遇赦识别逐项核：贵人不入传、月德不发用、恩星需年命/太岁生身而输入未给——赦路无据，不以无据作有救（第八节）。辰巳旬空，三传不落空。应期三路：逢值申取之，逢冲合无解系候选，出空无候选。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuren"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuren.md"
+ ]
+}

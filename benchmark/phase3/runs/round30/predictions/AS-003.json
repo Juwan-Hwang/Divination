@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-003",
+ "prediction_text": "方向：能买成。能与卖家成交，且能在付款期限内筹足钱款，虽钱一度紧、须催收拖延后到位。卖家主星太阳居七宫得金星接纳、七宫主即十一宫（希望）主、金星趋合三合四宫主土星（房屋本身），四宫主土星除逆行陷角外无大凶。价格有望低于卖家最初索价530镑谈成。应期以月计，半年内（其自有款项六个月可收回之期以内）成交付款。",
+ "basis": "卜卦购房：本人/卖家/房屋（二、四、七宫）主星接纳与趋合三合为成；二宫主水星逆行主钱迟不主不成。输入上升度数OCR残损，已注明并降置信。",
+ "confidence": 0.74,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

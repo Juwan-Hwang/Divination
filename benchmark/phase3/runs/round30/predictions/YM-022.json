@@ -1,0 +1,19 @@
+{
+ "case_id": "YM-022",
+ "prediction_text": "方向：身命不吉、难贵（负向）。世爻官鬼午火死于子月，动而化父母戌土泄气，子孙福神不上卦，一生官星虽动而无力，多困顿劳碌，难成大器。应期双层（年档，身命久远事）：窗口为逢午、子之年，主坐标为午年——世爻逢值之年为一生关口之年（该年亦须防子年冲世之厄，只作量级注记，不并列主坐标）。",
+ "basis": "用神取世爻官鬼午火（四爻，动）。官鬼两现（初爻丙午静、四爻庚午世动），世动者定主。午火死于子月（水克火为死）、月水克世，动化戌土为化泄，化神土囚于子月无力。上爻父母戌土动化妻财寅木，木克土回头克且寅木甲辰旬空，父母亦伤。动化方向：世化父母为泄、非进非回头生；反转条件不齐（非源绝子链全成立），维持负向。四路：本气−／元忌0偏−（子孙不上、原神火同类无助）／动化−（化泄）／世即用神、世应已并入路1不重复计；合参凶向。应期按通则(k)年档：身命问一生，先定年档，取世逢值午年。输入无残损。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "主用世爻官鬼为动爻、动而化父母，故changed_main=true"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

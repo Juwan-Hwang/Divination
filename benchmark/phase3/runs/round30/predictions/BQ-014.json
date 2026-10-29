@@ -1,0 +1,19 @@
+{
+ "case_id": "BQ-014",
+ "prediction_text": "方向：风不止、行不得（negative）——困之震，辛丑年秋丁亥日，兄弟、父母俱动而合住应爻：父母为风雨之象发动主风未息，兄父合住应爻主行程所向之人/事被合绊牵住，占者寓江东欲返乡而不得行；变震主震荡不宁，飓风尚在鼓荡。具体断语：近数日飓风不止、行期作罢，须待合住被冲开、父象静定之期（日档窗口内逢冲开合之日）风方止、方可行；强行则困于途中（困卦之义）。",
+ "basis": "六爻残盘：chart_complete=false，只记困之震、兄父俱动合应，无全盘，注明降置信。用神：天时以父母为风雨象、行程以世应为纲（残盘世位无记，应爻被合住为行阻主证）。合住为闸门状态：应期先等闸门开释（冲开合住之支），再取点——冲实一路为首选候选，填实/逢值无据舍之，理由为无空伏可核。门类应期对表：出行门首选世旺静逢冲，本例世象无记、只有合住闸门，闸门释放优先于对表，明写此取舍。动化方向：兄父动而化出无记，存疑；反转条件未齐备，不翻转。对象：风止与行止俱对回占者本人行程。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "兄父合应单向主阻，无两读分歧"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "OC-023",
+ "prediction_text": "方向（射覆）：钟下所覆为饮食烹物——一只烹熟的禽物（鸡），置于器中已久；完好与否：不算完好，其足有一处折损/残缺。对象即此禽物本身，非其主人。具体项：物品＝熟鸡一只（对象），状态＝一足折损（数量：一足），久置（变卦恒主久）。",
+ "basis": "梅花：输入卦象火风鼎变雷风恒，下卦巽不变、上卦离变震。鼎为烹饪之器、主饮食烹物之象；巽为鸡、为长直之象，离火在上如烹之于火，合占题所覆之物取禽食一路。变卦恒主久置。鼎卦有折足之象（鼎足受损之辞象一路），据此断其一足折损、不完好；辞义核对：鼎辞主吉亨只调节量级（物可食、非全毁），不翻转折损定性。输入残损：未给动爻爻位、起卦数与占时季节，体用只能按上下卦变与不变定（巽体、离用，体生用而耗），旺衰一层无据，故置信下调，断语只落到物类与完好程度两项。",
+ "confidence": 0.35,
+ "systems_used": [
+  "meihua"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ],
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

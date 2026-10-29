@@ -1,0 +1,19 @@
+{
+ "case_id": "LR2-013",
+ "prediction_text": "方向：回奏得直、参劾不实，终局无大碍（吉向）。初传巳火乘天空发用——天空为奏书之神，回奏上达为正应，而天空主虚诈不实，所指是劾词不实；中传戌土乘螣蛇，主中段惊扰、旨意迟疑；末传卯木乘太常生丁火日干，印绶太常临末、木生身，主终得宽宥、官位保全。具体：沈云生本人受劾而终辩白，非罢黜下狱之局。应期：章奏旨意属月档，窗口为一月内，主坐标卯日（末传太常卯木逢值、旨意落定）。置信中。",
+ "basis": "大六壬章奏门＋官讼参看：日干丁火，二月卯月木旺。课式重审、铸印（铸印在章奏/仕宦为迁擢印绶之格，非病门不作反转）。三传巳（天空）→戌（螣蛇）→卯（太常）：火生土、末卯木回生初巳与日干丁火，传链回生向身；官鬼水不入传，劾之实据不入课；申酉旬空而三传不落空。年命未给，暗拱/年命路无据不报（第八节）。应期三路：逢值卯取之，逢冲合（巳亥冲无合路成期之据）舍，出空填实（三传不空）无候选。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuren"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuren.md"
+ ]
+}

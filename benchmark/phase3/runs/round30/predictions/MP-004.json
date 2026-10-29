@@ -1,0 +1,20 @@
+{
+ "case_id": "MP-004",
+ "prediction_text": "方向：蔡英文当选连任，韩国瑜败。断语：①当选者为蔡英文（人物一人），非韩国瑜；②胜负差距明显，非五五波险胜，蔡将以逾200万票量级的优势胜出；③应期（单位：日）：2020年1月11日投票日落定。",
+ "basis": "输入残损：无二人完整出生月日时与起占盘面，只能以年柱与选情事实合断，降置信。事实优先（e）：占时距投票约两个月，多项民调韩支持度持续落后蔡且差距未收窄，此为占题给定事实，断语从之——民调领先且守势稳固者胜。蔡1956丙申、韩1957丁酉，庚子选年韩根基受冲耗较重，与民调走势同向，两路收敛于蔡胜。等级校准（b）：领先幅度有民调为据，足级断大胜，不降格为险胜。",
+ "confidence": 0.84,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-bazi-ziwei.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/calibration.md"
+ ]
+}

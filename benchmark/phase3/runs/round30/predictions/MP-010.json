@@ -1,0 +1,20 @@
+{
+ "case_id": "MP-010",
+ "prediction_text": "方向：郭台铭无当选之相；2024年当选者另有其人，最有当选之相者为赖清德。断语：①郭台铭即使投入参选动作（宣布／连署），亦不能当选，终局将中途退选或败落，不会走到当选；②当选之相在现任执政党候选人赖清德身上，2024年1月由赖胜出；③应期（单位：月）：郭之进退于2023年下半年登记前后落定（主坐标2023年11月前后退局），大选结果2024年1月落定。",
+ "basis": "输入残损：只有郭台铭1950年生、身高等，无月日时，八字只取年柱庚寅，降置信；其余被点名人选连出生年亦多未给，比较只据形势结构。事实优先（e）：占时各党人选未定、郭尚未宣布，此为近段未定；然郭无政党组织、两度进退记录在前，其参选的结构性弱点（无党机器、整合对象地位）已可判定。庚寅年柱逢2024甲辰，势不聚于其身。当选相取赖，依据为执政党组织与在野分裂之结构，两路同指。对象复核（f）：郭之退局与赖之当选分别落到本人。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-bazi-ziwei.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-441",
+ "prediction_text": "终局：本日晴、无雨（positive）。父母申金四爻旬空而静，雨象落空无据；妻财巳火虽不上卦，伏于二爻子孙寅木之下，飞寅木生伏财，伏财得飞生而有气，晴象自伏中透出；子孙寅木世爻动化卯木化进、又临己卯日，晴朗之象发动而进。应期即本日（己卯日，日档）：窗口本日一日，主坐标本日当天。",
+ "basis": "天时父财对勘：父母申金甲戌旬空（申酉空）静，判雨无据；妻财伏藏走伏神待出判别：伏财巳火——①伏得生扶：飞神寅木生伏（飞生伏）成立；②飞神空破墓绝：飞寅不空破，此项不成立；③动爻生伏：飞寅本身即动爻且生伏，成立；④冲飞之路：无。满足2项以上且根基项第1项成立，待出成立（中），伏财作应验位候选保留（reserve_used）。子孙寅木动化卯化进：动化方向寅→卯化进，吉向；官鬼戌土五爻动化亥水兄弟，阴云之官化退散旁证。反转条件：无。应期：日辰主一日，尺度日，定值本日。门类应期对表：天时无对表，明写无对表。对象对齐：所问对象=本日天气；应验对象=本日晴，同一。输入完整无残损。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "reserve_used：伏财巳火经伏神待出判别作应验位候选保留并入晴断；无终局反转改定，父财取用无存疑。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

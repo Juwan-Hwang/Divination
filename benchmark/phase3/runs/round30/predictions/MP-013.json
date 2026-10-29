@@ -1,0 +1,20 @@
+{
+ "case_id": "MP-013",
+ "prediction_text": "方向：柯文哲无总统命（至少2024年不能当选）；2018年可连任但极险，2024年参选总统落败居第三。断语：①2018年台北市长连任成功，惟票数极接近、险胜对手丁守中（差距仅数千票量级，开票将缠斗至最后）；②2024年总统大选柯将参选，得票约二成六上下、居三组之末，不能当选；③应期（单位：月／日）：连任于2018年11月24日落定，总统败局于2024年1月13日落定。",
+ "basis": "输入残损：只有柯1959年生，无月日时，八字只取年柱己亥，降置信。通则（i）两段式：2018连任与2024总统为天然两段，各给结论——近段据其现任市长与白色力量声势，连任有据但对手组织盘逼近，故只断险胜（等级校准b：险胜一级有据）；远段据己亥年柱逢甲辰选年势不聚首位、在野多组分票结构，断居第三不能当选，翻转触发为其声势由地方首长之局转入全国三强之局、组织短板放大（通则j）。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-bazi-ziwei.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/calibration.md"
+ ]
+}

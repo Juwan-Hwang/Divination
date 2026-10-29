@@ -1,0 +1,19 @@
+{
+ "case_id": "OC-009",
+ "prediction_text": "财富仕途婚姻（低置信试断）：仕途贵显长久，外交使节/内阁级且历久不衰，晚年退居海外著述、长寿善终；财富中上、靠俸禄与著述积累非巨富；婚姻不止一段、配偶多助其社交事业。子女有成。高峰在中年使欧美时期，晚景清贵安稳。",
+ "basis": "输入残损：原书四柱转录缺失，题面明言『四柱以原书为准、转录本个别字待校』，实际未给出任何干支——无盘可排，不臆补四柱，特格扫描/运断主线/峰值三核对无据不可执行，故本断只据题面已给事实（顶尖外交官、历任使节与内阁）作量级外推，置信度降至0.30；凡具体运段、病位、子女细数均无据不报。此为例外残损例，待四柱补齐须重断。八字（子平：立春换年、节气换月）；特格扫描、运断主线、逐运方向、结局清单与峰值三核对均按快照八字篇执行，运以月柱顺逆排、未给生日起运岁数者只定运段不定确年。",
+ "confidence": 0.3,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

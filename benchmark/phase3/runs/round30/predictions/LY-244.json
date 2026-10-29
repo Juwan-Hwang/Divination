@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-244",
+ "prediction_text": "方向：negative（夫妻不和难解，终局趋于分开）。女占夫，世持子孙申金而动、化妻财亥水，子孙动主克官伤夫；官鬼寅木虽得亥日生合，但合在日辰、世方克意已动，近段或有日合之缓、终局仍以不和分开论。应期按月档：窗口为占后数月内，主坐标取申月（世子孙申金值月、克官之势落实之期）。",
+ "basis": "用神官鬼寅木二爻静：巳月木休、亥日生木且寅亥六合，官得日生合为近段缓象。世爻子孙申金动，申金→官木为克（子孙克官），动化亥水泄金且亥即日支。动化裁决：世动化泄、克官方向成立，静态日合只调量级不断终局。两段：近段日合主暂缓（触发：亥日合寅官）；远段世子孙动克官主分开（触发：四爻申金动化亥），终局按(l)合成单一负向。四路：本气官休0／忌子孙动−／动化泄−／世应世克应−。应期取申值月与败局自洽；亥合日尺度过近舍、寅值月与终局相悖舍。取用二解（日合可主夫有归意）已并列并以动爻克官取舍，故disputed记true。对象：占者妻—官寅（夫）—应验对象夫，同一。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "终局未因裁决改向（克官动象直主负）；未用储备源；官得日合与世动克官两读并存、取舍已写明，故disputed=true。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

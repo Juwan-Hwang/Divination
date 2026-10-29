@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-511",
+ "prediction_text": "方向：終身財福有分。可至小富，財源不絕，終身衣食豐足有餘。應期（年檔）：窗口在寅、卯年一帶，主座標卯年（妻財逢值）為財福最顯之年。",
+ "basis": "終身財福用神妻財卯木二爻獨現：子月木相、日未土為木庫而合卯（卯未半合），財有庫有合。原神子孫亥水四爻子月旺臨月建，旺而生財，源旺。忌神兄弟酉金五爻子月休、靜，劫力弱。世父母未土上爻子月囚、臨日值，安身有根。四路：本氣＋（財相合庫）／元忌仇＋（原神旺、忌休靜）／動化0（靜卦）／世應不計；合參成向。等級：財相源旺本可中富，世囚一項壓格，斷小富足級，不拔高。掃查三類俱無。應期三步：尺度年；逢值路卯、填實路無、沖實路無，取卯逢值，舍其餘（無候選：財不空不墓，合庫待沖一路以酉沖卯與終局方向不洽不取）。終身財福門對表：財旺世有氣取逢生逢值年，量級下調後取點同。對象：本人—財卯—本人財福，同一。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

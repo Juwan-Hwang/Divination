@@ -1,0 +1,19 @@
+{
+ "case_id": "WP-001",
+ "prediction_text": "Direction: Yes — a major collective affliction in 2020–2021, specifically a pandemic: a fast-spreading epidemic disease (plague-like, respiratory in character) causing mass illness, deaths and social disruption worldwide, at its worst in 2020 as the Jupiter–Saturn–Pluto conjunction perfects, and still active into 2021. Timing is stated at year scale: onset/peak year 2020, tail into 2021.",
+ "basis": "Mundane astrology per the snapshot method: the 2020 Jupiter–Saturn–Pluto conjunction with five outer planets gathered within about 100 degrees and the cyclical index at its 21st-century low is the configuration supplied in the input; the input itself notes comparable past clusters coincided with 1918, 1954, 1968 and 1982 — years of epidemic/pandemic events — so by the method's own historical-analogy rule the 2020–2021 cluster reads as an epidemic affliction rather than war or famine as the headline event. No birth chart is involved; no chart data beyond the supplied configuration was available or invented.",
+ "confidence": 0.7,
+ "systems_used": [
+  "western_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/western-astro-numerology-runes.md"
+ ],
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

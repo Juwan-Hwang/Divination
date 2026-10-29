@@ -1,0 +1,20 @@
+{
+ "case_id": "MH-008",
+ "prediction_text": "方向：凶，应在牛本身。断语：①应验对象为坎方哀鸣之牛本身（对象：牛，非其主人）：此牛将死于非命，主被宰杀／载尸而出之象（舆尸）；②牛声极悲即外应先凶，变卦用克体，救应不足，难逃一死；③应期（单位：日，依据通则(a)(h)：动爻三定窗）：窗口三日内，主坐标第三日，牛被宰／毙之事落定。此问为畜之存亡单点，无近远两段硬拆，一段终局。",
+ "basis": "梅花后天占：地水师三爻动。动在下卦，坎水为用、坤土为体，体克用本为次吉，然所问对象牛属坤、即体本身，须合爻辞与变卦定性。爻辞核对（通则d）：六三『师或舆尸，凶』自带凶与尸象，方向主凶，不得反作平安。变地风升，变用巽木克体坤土，结果用克体，凶象落实于体（牛）。互坤震，过程无生体之救。量级守恒反向条：畜类存亡且见舆尸杀象，按伤毁／烹杀定性，不以体克用之次吉软化。对象复核（f）：外应哀鸣者即牛，承受与应验同为牛，不回收到主人身上。自检（g）：对象牛、时点三日俱落。",
+ "confidence": 0.74,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "meihua"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/calibration.md"
+ ]
+}

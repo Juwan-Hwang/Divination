@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-255",
+ "prediction_text": "方向：positive（修沟之后何如为宜，修之有利）。再占修沟后卦火雷噬嗑之天雷无妄，世持妻财未土动化官鬼申金，世动化官为求位得位之象，化神申金戌月相、日亥虽泄而土生金链成立，断修沟后衙宇无碍、于其久任不得升之局反有转机。应期按月档（升迁消息尺度）：窗口为修后数月内，主坐标取申月（世化官申金值月、职位消息落实之期）。",
+ "basis": "输入为双占拼合：初占火风鼎静卦（问沟流宜否）与再占噬嗑之无妄（问修后何如）两盘同录，本断以再占为主盘、初占为旁证，已在basis注明拼合残损风险并降置信。用神官鬼：再占三爻官酉金静相、世爻财未动化官申金，世化官按世化他亲专条：世未土戌月相有气、化申金相，泄而有成，不以旁爻反断。初占官亥水持世静，与再占不冲突。动化方向核：未土→申金为世生化神（化出官亲）。应期：逢值申月取主坐标；填实辰土与官事无涉舍；冲实寅冲申为空旁支（寅卯空）舍。对象：占者本人（该官）—世化官申—应验对象占者职位，同一。双占取舍存二解，故disputed记true。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "主判据再占世化官直主正、未改向；未用储备源；一例双占拼合、主盘取舍存二解，故disputed=true。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

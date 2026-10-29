@@ -1,0 +1,19 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "Direction: Hillary Clinton wins the 2016 US presidential election (defeating Donald Trump), in line with the prevailing polls and the conference panel consensus — a victory for the experienced, establishment candidate, achieved after a bruising campaign and with a narrower margin than the polling comfort suggests.",
+ "basis": "Mundane/electional judgement per the snapshot method, from the facts supplied: the setting states most polls favour Clinton and an international astrology conference panel is convened on this election; with no charts, cards or configurations supplied in the input, there is no盘面 basis to overturn the stated consensus, so the panel-level call follows it — Clinton. Input contains no primary chart data, which is recorded here as a limitation and reflected in the confidence.",
+ "confidence": 0.58,
+ "systems_used": [
+  "western_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/western-astro-numerology-runes.md"
+ ],
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

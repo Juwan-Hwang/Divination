@@ -1,0 +1,19 @@
+{
+ "case_id": "BZ-016",
+ "prediction_text": "格局：极贵之造。庚金生酉月羊刃当令身极旺，丁丙官杀双透、火炼秋金，子水食神泄秀制杀，卯木财星生官——杀刃相济、食神制杀、财官相生流通有情，主位极人臣乃至九五之贵，权柄与文治兼备。一生：早年根基深厚，中年权位登峰，晚年仍尊荣；子午冲、卯酉冲主一生多迁动决断、后宫/子嗣事有波澜，但不掩大贵。寿元高、善终之象强。运程以火官杀运、水食伤运顺势为佳，金比劫过旺之运防刚折冲动。",
+ "basis": "四柱辛卯丁酉庚午丙子。旺衰：庚得酉月羊刃、得令极旺；格局：月令羊刃，官杀透干成炼金之势，时上子水食神制杀护身，成杀刃平衡。特格扫描：非从格（日主有根极旺）、非专旺（官杀食财俱全相战流通），走常规旺衰格局合参。子午冲为食神冲官、卯酉冲为财冲刃，作波澜注不作破格。等级按格局强度足级给极贵，压制依据仅冲象故只在子嗣迁动上降格说明。仅据四柱作断。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

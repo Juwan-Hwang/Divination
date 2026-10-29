@@ -1,0 +1,19 @@
+{
+ "case_id": "BZ-022",
+ "prediction_text": "格局：武贵横发而结局凶险之造。庚金生卯月财星当令，乙亥财旺、己土印星护身，辰丑湿土蓄金，丁火官星透时炼金——财旺生官、身赖印土勉力担财官，主绿林/军伍出身横发、据地称雄、官至方面军政首脑。一生前中段威势极盛；然身弱财官重、丁官坐丑无强根，晚运一逢金水冲克印根或火土崩塌，主暴亡、兵祸横死之险，难善终。富贵险中求、寿元受结局拖累。",
+ "basis": "四柱乙亥己卯庚辰丁丑。旺衰：庚金卯月失令、坐辰有根、己印透生，身弱而有救；格局财格，财生官、印护身，成而带病（身担不起全盘财官）。特格扫描：从财四条不全（有印透有根）未命中，走常规。等级：财官势大给方面首脑级；结局降格/凶险依据为身弱不胜财官、官星无根虚浮，运逢冲印即倾。仅据四柱。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

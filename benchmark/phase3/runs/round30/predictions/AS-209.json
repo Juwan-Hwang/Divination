@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-209",
+ "prediction_text": "方向：分两问。其一，国王能从爱尔兰弄到援军，会对议会造成损害：国王主星月亮在巨蟹本宫居十宫、增光且无凶克主其有力，十一宫（援助宫）主太阳擢升居七宫、正趋合十一宫宫头（尚差六度）主援军将至，应期以月计约数月内（六度量级）爱尔兰兵力/援助陆续来到。其二，王后将南下进军并与国王会合：月亮距与王后主星土星成三合仅三四度，主三四个月量级内夫妻会合；但王后主星土星正换座入白羊入落之地，主其进军初行后势转衰、繁荣难继，会合可成而大功不成。",
+ "basis": "战争双问同盘：王以月、援以十一主、后以四宫主（十宫之七）分取；一强一落故分断。输入未载日期。",
+ "confidence": 0.64,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

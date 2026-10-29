@@ -1,0 +1,19 @@
+{
+ "case_id": "LR2-017",
+ "prediction_text": "方向：重罪难解、久系无出期（凶向）。盘面与冯允升课同：三传午→丑→申递生至末传申金官鬼乘勾陈，罪被传链生实、勾陈主稽留久系；初传午火子孙乘天空，制鬼力虚且转生中末。已定罪八载而课仍无贵人入传、无出空解系之象，主继续囚系、难得开豁。具体：戚司宗本人之罪量级维持重辟一档，不因久系自动减轻。应期：讼结属月档，窗口为本季内，主坐标申日（末传官鬼逢值、案情再定/维持）。置信中高。",
+ "basis": "大六壬公讼门：日干乙木，二月（原文作二月）辰月前木气。课式重审。三传午（天空）→丑（天后）→申（勾陈）递生至鬼，判读同公讼门递生生鬼＋勾陈末传一路；遇赦诸象：贵人不入传、年命未给无从核暗拱/恩星，赦路无据。辰巳旬空不落三传。应期三路：逢值申取之，逢冲合无解系候选，出空无候选。注：本例与LR2-015课式三传全同，断语同向系盘面同构所致，非互抄结局。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuren"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuren.md"
+ ]
+}

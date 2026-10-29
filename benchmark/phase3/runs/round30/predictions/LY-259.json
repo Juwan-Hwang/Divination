@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-259",
+ "prediction_text": "方向：negative（不宜以父柩附葬祖茔）。占附葬祖茔，父母巳火二爻为用，子月水旺火死、又巳申合于日辰，父神衰而被合；世持妻财子水临月旺而动、克父母巳火，财动克用，主附葬不利、另择为宜。应期按月档（葬事筹备尺度）：窗口为占后数月内，主坐标取巳月（父母巳火逢值、此议定止见分晓之期）。",
+ "basis": "用神父母巳火：子月死、日申金耗且巳申合住，闸门为合住。动爻初爻财子水世动，子水临子月旺，水→火克用神成立且旺克衰。化兄弟未土为止损旁象，不生父火。四路：本气−／忌神财水旺动−／动化0／世应世财动克用−，合参负。终局扫查：伏出、化进、源绝三类均无全成立翻转信号（原神木官寅静衰不救）。应期：逢值巳月取主坐标（用神值月、议止）；冲实亥冲巳为冲用之支与止议方向相混舍；填实无空舍。对象：父柩—父母巳火—应验对象父柩/葬事，同一，非回收到占者本人。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "主判直主负、未改向；主用现卦爻，未用储备；无争议。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

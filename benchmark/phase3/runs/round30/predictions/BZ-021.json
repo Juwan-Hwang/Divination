@@ -1,0 +1,19 @@
+{
+ "case_id": "BZ-021",
+ "prediction_text": "格局：枭雄极峰之造。己土生戌月得令，巳午火印比助身身旺，庚金伤官双透泄秀吐气，亥水财星润局——身旺伤官生财、印护伤官，主才略胆识过人、以军政权谋登顶，一生权柄达国家级最高层。中年丁未丙午印运助身掌权最盛；晚年乙巳甲辰后气势渐转，防权位倾覆后退场、结局带贬抑。寿可高但晚景不全美。女/财星亥水受群土围，主妻财事多牵制。",
+ "basis": "四柱丁亥庚戌己巳庚午，大运原书已给。旺衰己土戌月当令、满盘火土身极旺；格局伤官双透为用、亥财为流通出口。特格扫描：非专旺（有亥水财、庚金伤官流通），非从格。运断主线：身旺以伤官泄、财星引为顺，印比再助则壅；故中年火印运虽掌权亦主壅滞刚愎，晚年木运官杀克身为转折。等级按伤官吐气+财官链足级给最高权位，晚段翻降触发为运入木乡官杀得地克身。仅据四柱大运。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

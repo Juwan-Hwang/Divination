@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-001",
+ "prediction_text": "方向：儿子不在主人处，而在母亲自家。儿子主星木星（五宫主）在上升东角，即落在问者/母亲所在之处；月亮（27°双鱼）正趋合六合四宫主土星（母亲居所），母子主星三合于1638年7月25日14时成相。断：儿子现住母亲自己家里，平安无恙，消息/相会应在7月25日前后落实。窗口以日计，主坐标25日。",
+ "basis": "卜卦：升天秤25°，母以升主金星、子以五宫主木星为用；木星居上升为子在母处之象，月合土星（四宫居所）辅证。输入仅散述无全盘，已注明。",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

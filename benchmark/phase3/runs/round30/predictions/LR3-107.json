@@ -1,0 +1,19 @@
+{
+ "case_id": "LR3-107",
+ "prediction_text": "方向：此人身份正向定性、吉凶负向而轻——来客为科第中人（有功名/官职之人）；却有获罪朝廷之事连累在身，课传退茹主其事退缩收场，初中后阴为恩，故连累虽实而无大咎，不至重罪身败。应期：人物占原例无应期坐标，此要素留白不立——只断身份与祸福层级，不报日期。",
+ "basis": "六壬人物占（公讼门附见）：贵人加临其身定科第——本例三传子亥戌退茹、水土递退，临身贵人之象按人物占细则断科第中人；贵被干克、岁破发用、课传退茹三象同见断获罪朝廷连累；初中传后阴为恩断无大咎，两层分判（参快照六壬篇人物占四条细则，本例干支时课与该成例形态合）。姓氏推法原典无注文，按细则留白不臆造姓氏。盘面无年命与天盘全图，未臆补。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuren"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuren.md"
+ ]
+}

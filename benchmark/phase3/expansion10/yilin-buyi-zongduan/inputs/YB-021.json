@@ -1,0 +1,52 @@
+{
+  "id": "YB-021",
+  "tradition": "liuyao",
+  "subject": {
+    "name_or_desc": "求财者（自占，未具名）",
+    "gender": "未载"
+  },
+  "context": {
+    "question": "问月内何日得财",
+    "asked_at": "戌月丁亥日",
+    "setting": "明代民间卖卜占验实录（张世宝自记占例，散文体附断语与应验）",
+    "attachments": {
+      "casting_method": "liuyao",
+      "hexagram": "离宫：山水蒙（四世）",
+      "moving_lines": "六爻安静",
+      "chart_lines_top_to_bottom": [
+        "父母丙寅木",
+        "官鬼丙子水",
+        "子孙丙戌土 世",
+        "兄弟戊午火",
+        "子孙戊辰土",
+        "父母戊寅木 应"
+      ]
+    }
+  },
+  "provenance": {
+    "book": "易林补遗",
+    "edition": "华龄出版社《四库存目纳甲汇刊（三）》校正全本（（明）张世宝撰，郑同校；用户经学校图书馆提供之扫描本）",
+    "license_note": "用户经学校图书馆提供，内部研究使用（redistributable=false）",
+    "page": "卷一总断章第一，书页10"
+  },
+  "language": "zh-Hant",
+  "license_status": "internal-research-only",
+  "redistributable": false,
+  "outcome_grade": "A",
+  "grade_note": "断验分离成立：断语（含应期断言）在前、原书另载应验在后，结局为冷门局部事实；占日「此月此日」承同页前例（戌月丁亥日巳时问当日求财，蒙卦安静）指代明确，照承前口径登记",
+  "contamination": "low",
+  "contamination_reason": "明代民间占例，求测者皆未具名，结局为冷门局部事实，无著名人物与事件，无从常识先验得知",
+  "month_day_complete": true,
+  "chart_complete": true,
+  "completeness_basis": "原文记卦名（蒙卦）与应验日；前例明言蒙卦安静，本例「亦占蒙卦」未言动爻，盘面按安静复原，逐爻装卦按通行纳甲法则推算",
+  "holdout_eligible": true,
+  "notes": {
+    "tags": [
+      "求财",
+      "应期",
+      "日辰为主"
+    ],
+    "comment": "与同页当日求财例（C 级）同日同卦而问法异（月内何日 vs 当日）",
+    "cross_ref": ""
+  }
+}

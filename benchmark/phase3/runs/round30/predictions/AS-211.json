@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-211",
+ "prediction_text": "方向：可找回（positive）——马可 recover。十二宫主（马之 significator）逆行且正趋合求测者二宫（财物宫）主，逆行主回归，马将回到求测者财物范围之内；月亮在二宫、二宫头近处两颗逆行星同证回归。方向：向西——十二宫所在星座与其宫主所在星座两证俱西，诸证全指西，马往西边去了，应往西寻。应期尺度为日档：逆行趋合将成于近数日，主坐标取合相完成之近数日窗口内，往西不远处寻回；七宫受克提示若系被窃，窃者一方不占便宜，马非被远贩。",
+ "basis": "horary失物/牲畜：十二宫主为马、逆行趋合二宫主=Lilly失物回归之象（输入key_positions）；月亮居二宫助回归；方位以十二宫星座+其主星座+诸证多寡定，输入明言plurality full west，故定西。输入无度数与日期，应期只定日档窗口。应验对象=马本身（非人对象），不回收到主人身上。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "BQ-023",
+ "prediction_text": "方向：不成，租田落空。姤之乾，世上父母爻动而化空——父母为田契、田主文书之用神，居世而动化空亡，主契约/田主之事动而无凭：所租之田终归他人或田主变卦，占者种麦之谋落空，即便一时说成亦无实据可恃。应期：父化空以出空填实为转折，然化空主终虚，终局单判负面。",
+ "basis": "残盘：仅记姤之乾、世上父动化空，且原文未记月日，无全盘无日期，降置信。六爻以父母主田宅契约，世上父动是事已在推进，化空为动而化无、文书无实。应验对象为田契归属一事本身。无日期故应期只能给出空之机理不出具体日。门类应期对表无『租田』门类，明写对表无此门类。",
+ "confidence": 0.42,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "盘面残缺（chart_complete=false，无全盘六爻、动爻全列与月建），无从判定动化改主、备用用神启用与争议裁决三项触发，均记false"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

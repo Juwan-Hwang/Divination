@@ -1,0 +1,52 @@
+{
+  "id": "YB-016",
+  "tradition": "liuyao",
+  "subject": {
+    "name_or_desc": "远行之夫（妻为之占，未具名）",
+    "gender": "男"
+  },
+  "context": {
+    "question": "妻占夫到，问行人何日归",
+    "asked_at": "十月甲辰日",
+    "setting": "明代民间卖卜占验实录（张世宝自记占例，散文体附断语与应验）",
+    "attachments": {
+      "casting_method": "liuyao",
+      "hexagram": "巽宫：风火家人（二世） 之 风雷益",
+      "moving_lines": "三爻父母己亥水动，化妻财庚辰土",
+      "chart_lines_top_to_bottom": [
+        "兄弟辛卯木",
+        "子孙辛巳火 应",
+        "妻财辛未土",
+        "父母己亥水（动）",
+        "妻财己丑土 世",
+        "兄弟己卯木"
+      ]
+    }
+  },
+  "provenance": {
+    "book": "易林补遗",
+    "edition": "华龄出版社《四库存目纳甲汇刊（三）》校正全本（（明）张世宝撰，郑同校；用户经学校图书馆提供之扫描本）",
+    "license_note": "用户经学校图书馆提供，内部研究使用（redistributable=false）",
+    "page": "卷一总断章第一，书页7"
+  },
+  "language": "zh-Hant",
+  "license_status": "internal-research-only",
+  "redistributable": false,
+  "outcome_grade": "A",
+  "grade_note": "断验分离成立：断语（含应期断言）在前、原书另载应验在后，结局为冷门局部事实；断语以「待后…便得相逢」预断、原书另载应验句于后",
+  "contamination": "low",
+  "contamination_reason": "明代民间占例，求测者皆未具名，结局为冷门局部事实，无著名人物与事件，无从常识先验得知",
+  "month_day_complete": true,
+  "chart_complete": true,
+  "completeness_basis": "原文记本变卦名（家人之益）与占日；动爻由本变卦爻位异同唯一确定。家人为巽宫二世，卦内无官鬼，官鬼辛酉金为本宫首卦巽为风上爻，原文「伏出辛酉金，在三爻亥水之下」之伏位口径照原文登记（通行复原伏神定位以生成器 hidden() 为准，见脚本验盘输出）",
+  "holdout_eligible": true,
+  "notes": {
+    "tags": [
+      "行人",
+      "妻占夫到",
+      "伏神"
+    ],
+    "comment": "总断章用神值日节行人例",
+    "cross_ref": ""
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "YB-022",
+  "tradition": "liuyao",
+  "subject": {
+    "name_or_desc": "出外多年之夫（妻为之占，未具名）",
+    "gender": "男"
+  },
+  "context": {
+    "question": "妻占夫出外多年，问何年返舍",
+    "asked_at": "酉年卯月乙酉日",
+    "setting": "明代民间卖卜占验实录（张世宝自记占例，散文体附断语与应验）",
+    "attachments": {
+      "casting_method": "liuyao",
+      "hexagram": "离宫：火山旅（一世）",
+      "moving_lines": "六爻安静",
+      "chart_lines_top_to_bottom": [
+        "兄弟己巳火",
+        "子孙己未土",
+        "妻财己酉金 应",
+        "妻财丙申金",
+        "兄弟丙午火",
+        "子孙丙辰土 世"
+      ]
+    }
+  },
+  "provenance": {
+    "book": "易林补遗",
+    "edition": "华龄出版社《四库存目纳甲汇刊（三）》校正全本（（明）张世宝撰，郑同校；用户经学校图书馆提供之扫描本）",
+    "license_note": "用户经学校图书馆提供，内部研究使用（redistributable=false）",
+    "page": "卷一总断章第一，书页10"
+  },
+  "language": "zh-Hant",
+  "license_status": "internal-research-only",
+  "redistributable": false,
+  "outcome_grade": "A",
+  "grade_note": "断验分离成立：断语（含应期断言）在前、原书另载应验在后，结局为冷门局部事实；占日「此月此日」承同页前例（酉年卯月乙酉日问远路行人）指代明确",
+  "contamination": "low",
+  "contamination_reason": "明代民间占例，求测者皆未具名，结局为冷门局部事实，无著名人物与事件，无从常识先验得知",
+  "month_day_complete": true,
+  "chart_complete": true,
+  "completeness_basis": "原文记卦名（旅卦）与占日（承前）；原文未言动爻，盘面按安静复原，逐爻装卦按通行纳甲法则推算",
+  "holdout_eligible": true,
+  "notes": {
+    "tags": [
+      "行人",
+      "妻占夫归",
+      "远年应期"
+    ],
+    "comment": "总断章远期应期节例：年占以年断",
+    "cross_ref": ""
+  }
+}

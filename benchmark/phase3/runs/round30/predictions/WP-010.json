@@ -1,0 +1,19 @@
+{
+ "case_id": "WP-010",
+ "prediction_text": "方向：拜登获胜。断语：2020 年美国总统选举由民主党拜登击败现任总统特朗普，拜登当选下一任总统。应期：选举日 2020 年 11 月 3 日定胜负（月档尺度，窗口为 11 月 3 日投票至计票确认期，主坐标为 11 月 3 日选举日）。",
+ "basis": "输入残损：无两候选人完整星盘，题目仅给拜登 Vedic 天蝎上升一语且明言三位占者彼此意见不一，无从据盘复核；按事实优先序取题目给定事实——民调倾向拜登——为定方向主据，占星线索只作旁参，降置信。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "非六爻，三项全 false"
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

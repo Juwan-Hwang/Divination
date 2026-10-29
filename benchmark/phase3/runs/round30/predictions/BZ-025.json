@@ -1,0 +1,19 @@
+{
+ "case_id": "BZ-025",
+ "prediction_text": "格局：艺术绝代、名满天下之造。丁火生戌月，甲木印星双透生身，酉金财星坐实，癸水官星透时、卯木印根在时——印旺生身、食伤（戌土）泄秀生财、财官有情，主以技艺才华成一代宗师，名望高于实权，富贵双全而以名冠。『不以伶官终其身』之象在盘：官星癸水虽坐卯印之上，终被印化，主晚境超出伶人身份、受官方与社会尊崇。一生中晚年名望愈隆，寿高善终。",
+ "basis": "四柱甲午甲戌丁酉癸卯。旺衰丁火戌月、午根甲印双生，身旺；格局印格用财食流通，酉财得戌生、癸官得印化。特格未命中从/专旺。等级按印秀+财官流通足级给行业宗师级名望；官位不作实权断，依据官星被印化泄。仅据四柱。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

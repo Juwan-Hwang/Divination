@@ -1,0 +1,19 @@
+{
+ "case_id": "WP-009",
+ "prediction_text": "方向：印度队不能夺冠（negative）。断语：印度队虽为热门、小组赛程可走得较远，但进入淘汰赛后止步，不能捧起 2019 世界杯奖杯，冠军旁落。应期：赛事窗口 2019 年 5 月 30 日至 7 月 14 日，主坐标为 7 月上旬半决赛阶段出局、7 月 14 日决赛非印度夺冠。",
+ "basis": "输入残损：无 Kohli/Dhoni 完整出生盘与赛事星盘，不能按本命占星作断；只据题目事实（印度为热门之一、占者于新书发布场合作断）作事件判断。热门身份只定量级不定终局，按通则 (b) 不以热门拔高为夺冠，降置信。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "非六爻，三项全 false"
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "YM-025",
+ "prediction_text": "方向：明日有雨（正向于『有雨』）。父母不上卦、伏于初爻，伏神卯木临甲寅日建而有气，飞神子孙辰土休于申月又被日辰寅木克（飞开），伏父母得出，明日恰逢卯日、伏神逢值，雨象落实到明日这一日。应期双层（日档，问明日）：窗口即占后一二日内，主坐标为乙卯日（明日）——伏神逢值之日下雨。",
+ "basis": "用神父母不上卦，走伏神五步：伏神卯木（初爻子孙辰土之下，离宫首卦同位），飞神辰土。待出四项：①伏得日临值✓ ②飞神休囚且受日克、遮压松✓（飞空破墓绝一项以休囚受制记） ③动爻生伏：静卦无动爻✗ ④冲飞之路：日辰寅克飞土✓；满足3项且根基两项居其一以上，判待出成立（中），合流B飞开＋伏有力两条件同具，可断伏出。静卦无动化，动化方向一行记：无动化；反转条件：无。妻财酉金旺虽主晴象一面，但父母伏出临日之据更直接、且所问专为雨，取雨。门类对表无天时门类，明写无此门类。输入无残损。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "父母不上卦，主用取伏神父母卯木，故reserve_used=true；静卦无动化"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

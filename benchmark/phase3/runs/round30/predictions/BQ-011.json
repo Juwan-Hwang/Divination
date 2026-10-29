@@ -1,0 +1,19 @@
+{
+ "case_id": "BQ-011",
+ "prediction_text": "方向：先危后解、破财免大祸（negative偏重而终局不至大罪）——离之贲，戊子日日辰扶起世爻，世有日辰之扶不为无根；但官鬼冲克世爻，官司之祸正面临身，官方/讼事压人；财爻又动，财动生官、且主破财应事，此讼须以破财了局。具体断语：周焚松此官讼有惊有损、钱财耗出官事方平，不至坐大罪收监之重格（降格依据：世得日辰扶起，非休囚无救，故不直断重罪）；贲为粉饰遮掩，事过之后表面文饰平息。应期：日/月档间，以日辰扶世与官鬼逢冲逢值之期为祸应之窗，主坐标取官鬼被冲去之解法日所在旬内。",
+ "basis": "六爻残盘：chart_complete=false，只记离之贲、日辰扶起、官鬼冲克世、财爻动，无全盘，注明降置信。四路合参：本气 世得日扶+／元忌仇 官鬼冲世、财动生官 -／动化 财动无化出可核记0／世应 世即受冲方不另计；合参为有气而忌旺动克用、无原神成链可核，方向降为受阻而有解（解法走冲去官鬼之日）。动化方向：财爻动而化出无记，存疑不据以定性；反转条件：两路无据未齐备，不翻转。终局反转扫查三类俱无全成立信号。对象：世即周焚松本人，官祸与破财俱落本人，同一。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "世得日扶与官鬼冲世两读相持，终局量级存分歧，故disputed=true"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

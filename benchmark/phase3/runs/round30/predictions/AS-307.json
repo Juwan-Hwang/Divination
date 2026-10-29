@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-307",
+ "prediction_text": "方向：哈里斯胜（positive for Harris）——2024年10月HuffPost『我们是选举占星师』专题中，受访的美国职业占星师群体公开表态的多数/共识指向哈里斯赢得2024年大选，特朗普落败；分歧只在胜幅，多数口径为哈里斯以摇摆州险胜定盘，而非一边倒大胜。应期即2024-11-05投票日。",
+ "basis": "输入残损：无受访者名单、无各自星盘与原文表态，仅有专题形式与提问；只能按此类选举占星师群体表态的合议方向复刻多数结论，量级守险胜（通则b无据不拔高）。依据不足降置信，不虚构任何一位受访者的具体星象理由。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

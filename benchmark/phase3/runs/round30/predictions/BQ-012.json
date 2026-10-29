@@ -1,0 +1,19 @@
+{
+ "case_id": "BQ-012",
+ "prediction_text": "方向：倭寇不来（negative on invasion，即占方得安）——噬嗑卦而官鬼爻衰而静：鬼为寇贼之象，衰主其势弱，静主其不动，弱而不动之寇无来犯之机。此问主虚惊无实祸，本处可安，不必以寇至备变。具体断语：该期无倭寇入犯之事，纵有风声亦是传闻。应期：问近事寇来否，尺度日/旬档；鬼衰静无动期可指，明写一段终局、无远段应期可报（鬼不动则无来期）。",
+ "basis": "六爻残盘：chart_complete=false，只记噬嗑、鬼爻衰静，无全盘，注明降置信。用神：寇贼类以官鬼为用，鬼衰静即主证。用神候选唯一（原文唯指鬼爻）。四路：本气 鬼衰（对寇方为弱）／元忌仇无从核0／动化 无动0／世应不计；以鬼之衰静定寇不来。门类应期查表：寇贼/趋避门对表无成文取法，明写『对表无此门类』。动化方向：无动爻，无动化；反转条件：无据未齐备，不翻转。对象：寇之来否落于所占之地军民，鬼象落寇方，判读对象已分开写明。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "鬼衰静单证定主，无分歧无伏取"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

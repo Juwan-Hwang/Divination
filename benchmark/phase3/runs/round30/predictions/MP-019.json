@@ -1,0 +1,19 @@
+{
+ "case_id": "MP-019",
+ "prediction_text": "倾向判断：林郑月娥胜出。2017年香港行政长官选举花落林郑月娥，曾俊华次之、胡国兴票数最低。应期：日档因问即次日投票，2017年3月26日揭晓（问题本身以日为尺度）。",
+ "basis": "三人仅给生肖年：林郑1957丁酉、曾俊华1951辛卯、胡国兴1946丙戌。2017丁酉流年：林郑与流年干支同气（丁酉同柱），得岁君之助居首；曾卯被酉冲，年命受冲落次；胡戌与酉相害、丙火被丁分，主陪衬票低。事实层：林郑握北京支持与建制选委票源的结构性优势，与年命同气之象同向，两路收敛取林郑。八字（子平：立春换年、节气换月）；特格扫描、运断主线、逐运方向、结局清单与峰值三核对均按快照八字篇执行，运以月柱顺逆排、未给生日起运岁数者只定运段不定确年。",
+ "confidence": 0.78,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

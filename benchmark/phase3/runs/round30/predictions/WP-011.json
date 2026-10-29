@@ -1,0 +1,19 @@
+{
+ "case_id": "WP-011",
+ "prediction_text": "方向：拜登获胜（特朗普连任不成）。断语：尽管特朗普盘中木星在第二宫照第十宫太阳显示其竞选声势与资源不弱，本届终局仍由拜登胜出，特朗普不能连任。应期：2020 年 11 月 3 日选举日定胜负（窗口为投票至计票确认期，主坐标 11 月 3 日）。",
+ "basis": "输入残损：只给特朗普一侧的单一占星配置（木星二宫照十宫太阳），无拜登盘、无完整双盘可比，单方配置按通则 (b) 只定声势量级、不足以定终局；事实一侧题目给定特朗普刚染疫康复、且同题背景民调利拜登，故终局取拜登，降置信并注明取舍。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "非六爻，三项全 false"
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

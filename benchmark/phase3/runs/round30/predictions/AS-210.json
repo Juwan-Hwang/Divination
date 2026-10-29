@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-210",
+ "prediction_text": "方向：得（positive）——能取得所求官职/进身之位。月亮居第十宫（官位宫）入相拱土星，土星擢升于上升且与金星（上升主/求测者）互容接纳，官位与求测者两路相接，事可成；终局亦归土星（四宫主）主导，结局稳固。应期尺度为月档：以月亮成拱土星之相位完成为应，数周至数月内落定。具体断语：助他谋位的那位太阳型『假友』不可恃——太阳在七宫冲上升、带龙尾且为十一宫（朋友宫）主，此友表面帮忙、实则对头，成事不靠此人而靠土星型长者/权贵之接纳；途中先有一段文书/消息上的龃龉（月亮刚分离水星之刑），迟滞而非败事。",
+ "basis": "horary：上升+金星=求测者，十宫=官位，月亮在十宫入相三拱土星、土星在上升得擢升且与金星互容（输入key_positions逐项）；太阳在七宫冲上升带龙尾、为十一宫主即输入自注pretended friend，故断友不助反碍；月亮分离水星刑为先有消息阻滞。无完整星盘度数，应期只定月档不落具体日。对象复核：断语承受对象=求测者本人得位，与所问同一。",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

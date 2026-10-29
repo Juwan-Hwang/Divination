@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-008",
+ "prediction_text": "方向：埃塞克斯能取雷丁，城将交付到他手。埃塞克斯主星火星虽入落却与月亮互容，月亮趋合六合火星（长升宫等同刑）主事成于交涉；守将主星土星（四宫主）入落主守方弱，城（四宫水瓶）难久守。断：雷丁以投降/议降交城方式落入埃塞克斯之手，而非强攻屠城，应在围城当月内、四月底前后交付。",
+ "basis": "攻城占：攻方主星得互容趋合、守方主星入落为城失；太阳（国王）在七宫固定主王军一度僵持。输入年份OCR作1644与史实1643有出入，已注明。",
+ "confidence": 0.76,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

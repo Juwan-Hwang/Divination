@@ -1,0 +1,19 @@
+{
+ "case_id": "BQ-018",
+ "prediction_text": "方向：大凶。损之临，官鬼动克世爻并无救制，世又坐空亡——鬼动克世无原神制化、世空则自身无根无依，主避乱不成、反遭其害：有被倭寇冲及、伤损破败之危，甚者人身不保。近段即险（鬼动应期在日档旬内），远段无子孙救应之动象，一段终局，远段无据另报。终局单判为负面且等级重。",
+ "basis": "残盘：仅记损之临、鬼动克世无救、世坐空亡，无月建全盘，降置信。六爻避乱以世为己、官鬼为祸患：鬼动克世为祸已发动，无救制指无子孙动、无日月生扶之记；世坐空亡主己身落空、无庇护。承受与应验对象均为占者本人，复核同。门类应期对表无『避乱』门类，明写对表无此门类。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "盘面残缺（chart_complete=false，无全盘六爻、动爻全列与月建），无从判定动化改主、备用用神启用与争议裁决三项触发，均记false"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

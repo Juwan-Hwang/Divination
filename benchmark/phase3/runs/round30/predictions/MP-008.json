@@ -1,0 +1,20 @@
+{
+ "case_id": "MP-008",
+ "prediction_text": "方向：民进党由蔡英文出战，蔡能与韩国瑜一较高下且最终胜出。断语：①民进党总统候选人是蔡英文本人（人物一人），不是赖清德——蔡将在党内初选中击败赖清德出线；②蓝绿对决成形为蔡对韩，蔡不只是一较高下，终局将击败韩国瑜、连任成功；③应期（单位：月）：党内出线于2019年年中（主坐标2019年6月前后）落定，大选胜负于2020年1月落定。",
+ "basis": "输入残损：无蔡、赖、韩三人完整出生月日时与盘面，只能以年柱与党内形势合断，降置信。事实优先（e）：占时赖清德刚宣布挑战、蓝绿人选未定，此为近段未定之实情；然蔡握现任总统之位与党机器、初选规则主导权在其手，赖挑战难成，此为结构事实。蔡1956丙申，2019己亥之冲为先耗后起之象，出线后借势回升。对象复核（f）：出战者与胜者承受、应验同为蔡英文本人。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-bazi-ziwei.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/calibration.md"
+ ]
+}

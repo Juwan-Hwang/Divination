@@ -1,0 +1,19 @@
+{
+  "case_id": "YM-059",
+  "prediction_text": "方向：可升（positive），升任方位为西北方（亥方，乾位）。应期：月档，窗口为至亥月，主坐标亥月（月单位；官鬼亥水逢月建值之月）。应验对象为待擢占者本人。",
+  "basis": "所问对象：待擢之官本人；用神：官鬼亥水三爻世爻，单现；应验对象：本人，同一。方位法：亥为西北，故升向西北。旺衰：亥水临亥月建旺，戊寅日寅木合亥（合住待动）且泄水，官旺而合；父母卯木寅日月间相；原神妻财申金甲戌旬空，财源空而静，故升而财助薄、等级不拔高。静卦无动化。动化方向：无动爻；反转条件：无。四路：本气＋／元忌仇0（原神空静、忌子孙戌丑静）／动化0／世应不计（世即用神已并入路1）；合参成向。应期尺度月档。三路（月）：冲实路巳月冲亥冲开日合（备选：冲开合住可作行期，本题问升方、以官值月为任命之期，舍为备选）；填实路申月填财空（非官期，舍）；逢值路亥月官逢值（取）。对表无升方门类，明写无此门类。反转扫查俱无。输入无残损。",
+  "confidence": 0.7,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": ""
+  },
+  "systems_used": [
+    "liuyao"
+  ],
+  "sources_used": [
+    "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+    "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+  ]
+}

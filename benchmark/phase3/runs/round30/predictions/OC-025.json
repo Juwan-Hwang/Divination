@@ -1,0 +1,19 @@
+{
+ "case_id": "OC-025",
+ "prediction_text": "方向：应验。邵雍预书于椅底的年月日届期验之如言——至预书所定的那一日，椅子果被坐者坐破，预言之事（何日、何事）两项皆对上，属预书成真一类。此问只问是否应验、无近远两段，不适用两段式。",
+ "basis": "梅花成例体例合题面事实：输入未给预书的具体年月日文字、亦无卦象，属输入残损，无法复述预书数字，置信据此下调；可据者为占题设定本身——预书内容是『某年月日椅子将被坐破』这一可判定事项，问的正是届期是否验。按成例体例与事实优先序落断：应验对象＝椅子本身（器物，非人），事件＝届期被坐破（对象＋时点两项具体项俱落到题面所定之日与椅）。不臆补预书年月日的具体数字。",
+ "confidence": 0.5,
+ "systems_used": [
+  "meihua"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ],
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

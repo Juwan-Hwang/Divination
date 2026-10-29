@@ -1,0 +1,52 @@
+{
+  "id": "YB-020",
+  "tradition": "liuyao",
+  "subject": {
+    "name_or_desc": "见官者（来问，未具名）",
+    "gender": "未载"
+  },
+  "context": {
+    "question": "问见官（参官），问吉凶",
+    "asked_at": "丑月辛丑日",
+    "setting": "明代民间卖卜占验实录（张世宝自记占例，散文体附断语与应验）",
+    "attachments": {
+      "casting_method": "liuyao",
+      "hexagram": "坤宫：坤为地（本宫） 之 山地剥",
+      "moving_lines": "上爻子孙癸酉金动（世爻），化官鬼丙寅木",
+      "chart_lines_top_to_bottom": [
+        "子孙癸酉金 世（动）",
+        "妻财癸亥水",
+        "兄弟癸丑土",
+        "官鬼乙卯木 应",
+        "父母乙巳火",
+        "兄弟乙未土"
+      ]
+    }
+  },
+  "provenance": {
+    "book": "易林补遗",
+    "edition": "华龄出版社《四库存目纳甲汇刊（三）》校正全本（（明）张世宝撰，郑同校；用户经学校图书馆提供之扫描本）",
+    "license_note": "用户经学校图书馆提供，内部研究使用（redistributable=false）",
+    "page": "卷一总断章第一，书页9"
+  },
+  "language": "zh-Hant",
+  "license_status": "internal-research-only",
+  "redistributable": false,
+  "outcome_grade": "A",
+  "grade_note": "断验分离成立：断语（含应期断言）在前、原书另载应验在后，结局为冷门局部事实；应验为事实性结局（参官后受牵累），具体形态原文未细载，照原文登记",
+  "contamination": "low",
+  "contamination_reason": "明代民间占例，求测者皆未具名，结局为冷门局部事实，无著名人物与事件，无从常识先验得知",
+  "month_day_complete": true,
+  "chart_complete": true,
+  "completeness_basis": "原文记本变卦名（坤之剥）与占日；动爻由本变卦爻位异同唯一确定（上爻动），逐爻装卦按通行纳甲法则复原",
+  "holdout_eligible": true,
+  "notes": {
+    "tags": [
+      "见官",
+      "子化官",
+      "吉处藏凶"
+    ],
+    "comment": "总断章吉中藏凶节例",
+    "cross_ref": ""
+  }
+}

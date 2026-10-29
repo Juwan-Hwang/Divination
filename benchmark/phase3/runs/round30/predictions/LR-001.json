@@ -1,0 +1,17 @@
+{
+ "case_id": "LR-001",
+ "prediction_text": "方向：无盘可断——生死未定，不作定断（倾向仅记：被扣押者性命可保、生还的可能性高于遇害，但此倾向无任何盘面依据、不可据）。应期：无盘面，无应期可推，不报。置信极低。输入残损：本例只给人物与事变背景，未给任何课式、四课、三传、天将、干支占时或命盘数据，按盘面不全规矩不臆补、不另起新占（一事一占），故只能存疑交付。",
+ "basis": "输入残损（严重）：无占时干支、无课式、无四课三传、无出生年月日时，六壬与八字两路皆无盘面可据；来源且为二手转述、原书是否载此例输入自注未核实。依快照SKILL.md『没起卦不说卦、没排盘不说盘』与六壬篇第八节盘面不全规矩，方向不断、应期不报，置信降至极低。systems_used为空：未实际动用任何体系作断。",
+ "confidence": 0.15,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuren.md"
+ ]
+}

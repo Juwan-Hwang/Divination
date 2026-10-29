@@ -1,0 +1,19 @@
+{
+ "case_id": "YM-009",
+ "prediction_text": "终局：摇会可得（positive）。世爻妻财临世、原神临日、忌神死弱，会金可轮得。应期双层：近事日档，窗口为占日起数日内，主坐标午日——妻财戊午火逢值之日得会。",
+ "basis": "用神妻财戊午火（三爻世，对象＝占会者所摇之会金）。午火辰月休，甲寅日寅木临值生火且与日同支之原神子孙戊寅木初爻临日，财休得日与原神扶。忌神兄弟癸亥水五爻，辰月土克水为死、静，克财无力；仇神父母癸酉金应爻辰月相静，只作对方/文书之象。静卦无动爻。动化方向：无动化；反转条件：不成立。四路：本气0／元忌仇＋（原神临日、忌死静）／动化0／世应不计（世即用神）；合参得向。应期三路：冲实子日冲午（甲寅旬子空、且冲世不取）、填实午支、逢值午支；求财门对表首选『财入墓之日』仅限财临日月重叠多财，本例不合；次选世动逢合不合（世静），故按三步取逢值午日为主坐标，火墓戌日为备选舍之（对表条件不成立）。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "静卦现财持世，主用未改"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

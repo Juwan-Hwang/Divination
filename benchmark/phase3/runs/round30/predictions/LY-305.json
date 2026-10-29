@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-305",
+ "prediction_text": "方向：positive（岳母近病可愈，无大碍）。占岳母近病，用神父母酉金临酉月建而逢申酉旬空，临月之空为假空，又得庚辰日土生金，用神有根；忌神午火虽动，化父母酉金而回头受制，病势可退。应期按日档（近病）：窗口为占后数日内，主坐标取酉日（父母酉金填实值日、病愈之日）。",
+ "basis": "病占对象复述：岳母—父母酉金上爻应—应验对象岳母本人，同一，逐名对回无泛称。用神酉金临月建旺、空亡根气第1项临月坐值成立，判有根假空。忌神火：三爻财午火世动（于父母金为火克金之忌路），午化酉金，化神金→火为回头克动爻本神，忌动自伤、克力卸去，动化裁决记回头克有解。原神土：官辰临日、官丑静，生金有源，非源绝。近段忌动主病扰、远段出空忌卸主愈（触发：午化酉回头克＋酉填实），终局按(l)单判愈。应期：填实酉日取主坐标；冲实卯冲酉与愈点义混舍；逢值申日为空首支、作窗口界舍。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "假空与回头克均为既定判读、初判即向愈，未记改向；主用现卦临月爻，未用储备；无争议。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

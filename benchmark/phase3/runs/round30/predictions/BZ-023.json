@@ -1,0 +1,19 @@
+{
+ "case_id": "BZ-023",
+ "prediction_text": "格局：早贵骤跌、久困长寿之造。壬水生巳月财官当令，然自坐子水禄、时柱庚子印比强根，两子一庚帮身成水势浩荡，癸水劫透——身旺任财官、少年得志承父业掌军政大权之象；惜子巳相战、丑合子而绊禄，水火激冲主中年突遭政变式倾覆、长期幽困失自由，虽困而寿长，晚境孤寂平淡收场。一生大起大落落差极大，贵在前半、困在后半。",
+ "basis": "四柱辛丑癸巳壬子庚子。旺衰壬水得两子禄根、庚印生扶，身旺；月令巳火财官为用被旺水冲克，格局成败两见：承荫掌权有据（印比旺、财官在月令），倾覆有据（禄冲财官月令、合绊禄神）。特格扫描润下专旺四条不全（巳火当令相战）未命中。分段核对：前段贵出自印比强+月令财官；后段翻困触发为水势冲巳、运年引动子巳之战。仅据四柱。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

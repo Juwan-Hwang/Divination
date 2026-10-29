@@ -1,0 +1,20 @@
+{
+ "case_id": "MP-003",
+ "prediction_text": "方向：会。断语：①韩国瑜必参选2020年总统，不会只守高雄市长一职；②其参选路径为先在国民党内出线取得提名，再以国民党候选人身份投入大选（人物／事象：韩本人由市长转总统候选人）；③时点（单位：月）：2019年年中（初选期，主坐标2019年7月前后）参选与提名之事落定。本问只问参选与否这一单点，不及当选与否，不硬拆两段。",
+ "basis": "输入残损：只有韩1957年生与就任背景，无月日时，八字只取年柱丁酉参断，降置信。事实优先（e）：韩就任仅两周而『韩流』声势正盛、拥韩参选之声已起，以其声势与企图心，坐待不选与事实不合。丁酉年生、2019己亥年亥酉相会、人气引动其向上之心，方向取参选且能取得提名。对象复核（f）：承受与应验同为韩国瑜本人。",
+ "confidence": 0.82,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-bazi-ziwei.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/calibration.md"
+ ]
+}

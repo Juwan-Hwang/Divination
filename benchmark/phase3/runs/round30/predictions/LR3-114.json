@@ -1,0 +1,19 @@
+{
+ "case_id": "LR3-114",
+ "prediction_text": "方向：鸦鸣主贼事应候——东北方有贼来，约八九人，行劫邻人/他处；本庵无妨，不被劫。 获贼应期（日档）：窗口为五日内，主坐标取第五日——勾陈居支前五辰、魁渡玄阴，五日后必获贼。本处与邻处分判，不以贼至迳断本庵被劫。",
+ "basis": "六壬鸣占应候门：游都贼符临干支之课式下，子发用定贼自东北来；子加丑乃八九之数定人数八九（成例固定形）；三传子亥戌退茹而本处无攻破之象、末传太阴主暗中无虞，断贼劫他处而庵无妨；获期按勾陈去玄之距五辰计五日（参快照六壬篇应候门六条细则，本例干支时课与鸦鸣成例形态合）。盘面未给游都贼符逐宫位置，此象按课头应候门与发用线作断、细处降置信，不臆补天盘。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuren"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuren.md"
+ ]
+}

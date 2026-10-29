@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-208",
+ "prediction_text": "方向：鲁珀特亲王在此战中得不到荣耀，反被埃塞克斯占上风。鲁珀特以十宫及其主太阳为用，太阳无定位且失势于固定座主其无荣无力；埃塞克斯以金星为用，金星与土星互容且支配鲁珀特的主星、又以吉相临十宫宫头。断：鲁珀特声名受损、进取无功，长远看在此战争中渐失势，最终离国失位之象；埃塞克斯一方得其利。",
+ "basis": "战争荣辱占：贵人以十宫主取用，失势被对方主星支配为无荣之据。输入日期据内证约1642年11—12月。",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "BZ-026",
+ "prediction_text": "格局：名伶成家、次峰之贵。丙火生丑月寒湿，乙木印星透月生身，戌土食神双见泄秀，癸水官星双透（月时）临巳火根——食神生秀、官印相生，主以技艺成名立业、行业内第一流名望，富贵可期；然双戌双癸相战、火土寒燥交杂，一生起伏与是非多于顺遂，名望略逊同侪之首。晚年官星得地防名位牵绊与寒湿病。寿中上。",
+ "basis": "四柱戊戌乙丑丙戌癸巳。旺衰丙火丑月失令，赖乙印、巳根，身中和；格局食神格带官印。特格：燥湿偏枯未达三条（有癸水润、有巳火根）未命中。等级给第一流名望而次于宗师首位，压制依据为官星双透无财通关、戌丑刑耗。仅据四柱。",
+ "confidence": 0.48,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

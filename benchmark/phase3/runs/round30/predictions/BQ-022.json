@@ -1,0 +1,19 @@
+{
+ "case_id": "BQ-022",
+ "prediction_text": "方向：不利，棉作遭损。无妄之讼，应爻冲克世爻——应为天时/外境，冲克世爻主外来天时与棉作相战：多雨湿害或风雨摧折之象，棉花长势受挫、收成不佳，讼象兼主过程中有争耗烦扰。应期以月档论本季，不落单日。终局单判负面。",
+ "basis": "残盘：仅记无妄之讼、应冲克世，无全盘、无月建日期细节，信息最薄，置信下调。六爻以世为所种之棉/占者一方，应为外境天时，应冲世为外患克身之象，无子孙财爻动来救应之记录。应验对象为棉作本身。门类应期对表无『农棉』门类，明写对表无此门类。",
+ "confidence": 0.38,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "盘面残缺（chart_complete=false，无全盘六爻、动爻全列与月建），无从判定动化改主、备用用神启用与争议裁决三项触发，均记false"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

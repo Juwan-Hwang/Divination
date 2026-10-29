@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-251",
+ "prediction_text": "方向：positive（子近病可愈）。占子近病，官鬼酉金持世而动、化子孙午火，病爻化出子孙（药/福）且午火回头克酉金，病势被克退；子孙午火又得庚寅日木生，愈象成立。应期按日档（近病）：窗口为占后数日内，主坐标取午日（子孙午火逢值、病退身安之日）。",
+ "basis": "病占对象复述：所占为子—用神子孙午火四爻—应验对象子本人，同一。用神午火申月囚、寅日生火，有日生之根。病爻官酉金申月旺动，本气表面凶；动化裁决：官化子孙午火，化神火→金为回头克病爻，属忌化用/病化药向，动化方向定性优先于官旺静态表象，终局改定向愈——changed_main成立。原神存续：原神木有寅日临值、初爻兄寅化辰，非源绝三征。近段病旺（酉金旺月）主势急、远段化药回头克主退，两段只入reasoning，终局按(l)单判愈。应期：逢值午日取主坐标；冲实午逢子冲与愈局相悖舍；填实无空舍。病位不妄定，只断病势。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "初判表面为官旺病重，经动化裁决（病化子孙、回头克）改定向愈，故changed_main=true；主用现卦爻，未用储备；无取用争议。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

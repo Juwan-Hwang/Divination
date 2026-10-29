@@ -1,0 +1,20 @@
+{
+ "case_id": "MH-007",
+ "prediction_text": "方向：吉，少年本人有婚聘之喜。断语：①应验对象为少年本人（对象）：其喜不在财官小事，乃定婚／议婚之喜，家中有束帛聘礼往来（物品：束帛聘礼）；②聘礼单薄、事初小有吝啬不足之憾（束帛戔戔），然只是小吝，终局成婚成喜、终吉；③应期（单位：日，依据通则(a)(h)：梅花以动爻五与变卦家人定窗）：窗口五日内，主坐标第五日，婚聘之信落实。近段小吝、远段终吉，远段触发为五爻动而变风火家人、变用巽木生体离火。",
+ "basis": "梅花后天占：山火贲五爻动。动在上卦，艮土为用、离火为体，体火生用土为耗泄，故初有小吝；体离火值午时火旺，不怕泄。变风火家人，变用巽木生体火，用生体主终吉。互震木生体、坎水克体，过程参半。爻辞核对（通则d）：六五『贲于丘园，束帛戔戔，吝，终吉』自带先吝后终吉，断语方向与辞义一致，不翻转；束帛为婚聘礼物事象，据此落婚聘，不作泛吉。事实优先（e）：少年从离方来、喜形于色而自言无喜，与体旺终吉相合。对象复核（f）：承受对象与应验对象同为少年本人。自检（g）：对象少年、物品束帛、时点五日三项俱落。量级守恒：日常婚聘小喜，不放大为仕途大贵。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "meihua"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/calibration.md"
+ ]
+}

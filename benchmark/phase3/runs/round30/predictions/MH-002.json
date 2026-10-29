@@ -1,0 +1,19 @@
+{
+ "case_id": "MH-002",
+ "prediction_text": "断：牡丹盛极必衰，不出明日午时，此花将遭践踏摧残而败落。具体项：物品=牡丹花；时点=明日午时；事象=被践踏摧折（盛开之花被外力毁败），非自然凋谢。",
+ "basis": "梅花体用：天风姤五爻动，上卦乾金为用、下卦巽木为体，用克体（金克木）主花体受克于外力；时令三月春，木旺金囚，体旺本可耐克，然五爻动于用卦、克自上临下且姤卦主遇/突发外来之遇，克象落实为突发外力毁花。事实优先：占时花开甚盛——盛极即衰退之位，与用克体同向。变卦火风鼎、互重乾只参过程，不改克体主向。爻辞核对：姤九五『以杞包瓜，含章，有陨自天』——『有陨自天』主自上坠落之象，与花被自上践踏摧败方向相合，引辞方向不反用，记明。应期取数：动爻五、时数合参近应，明日午时为时点（窗口一日内、主坐标明日午时）。量级守恒：所问只是花之数，只断花败、不及人事荣辱。自检表：落物品、时点、事象三项。对象同一：应验落在所问牡丹本身，非人，记明。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "meihua"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

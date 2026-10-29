@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-005",
+ "prediction_text": "方向：船未沉，尚存活平安。上升巨蟹示船体，升主月亮擢升于金牛十一宫，趋合三合七宫太阳、水星且近木星，皆生全之象；土星刑升虽主曾遇险、受惊损，尚不足以断沉没。船应在西班牙海岸一带海面/港口，仍可航行。消息应期以日计：月亮三合只差数分即成相，主数日内即有确切好消息到伦敦。",
+ "basis": "船舶占：月擢升趋合吉相为存活，南交点九宫、土星刑升为险情背景不翻终局。输入无确切日期。",
+ "confidence": 0.8,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

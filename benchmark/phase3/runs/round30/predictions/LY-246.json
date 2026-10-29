@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-246",
+ "prediction_text": "方向：positive（妻孕平安，胎为女）。占妻孕平安兼男女，子孙不上卦、伏于酉金（阴爻主女），伏神虽逢申酉旬空，但官鬼午火持世辰月相、日辰土扶，胎位安静无忌神动克子孙，断母胎平安、女胎。应期按月档（分娩尺度）：窗口为孕期后段，主坐标取酉月（伏神酉金值月、出空现形之期）。",
+ "basis": "用神子孙不上卦：变爻无子孙，日月辰土非子孙之亲（金），乃按本宫首卦取伏神子孙酉金，阴爻断女。伏神待出四项：伏得日月之气（辰土生日月扶金）成立、飞神受制未明不成立、动爻生伏（兄申动化卯为克泄非生）不成立、冲飞之路不成立，仅1项且根基第1项成立，定待出未定，不以伏出定终局；终局平安据世官午火相旺、卦中无动爻克子孙（兄申动化财卯，不克金）。输入残损：原书只记月日与卦象、伏神爻位系按本宫规则推得，已注明并降置信。对象：妻之胎—伏子孙酉—应验对象胎儿本人，同一。男女二解（伏神阴阳为一读）已注明，取用带推得成分故disputed记true。",
+ "confidence": 0.45,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": true,
+  "reason": "主判未改向；主用取自伏神储备源，故reserve_used=true；伏神爻位属规则推得、男女读法存一解之争，故disputed=true。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

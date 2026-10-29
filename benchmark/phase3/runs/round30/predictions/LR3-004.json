@@ -1,0 +1,19 @@
+{
+ "case_id": "LR3-004",
+ "prediction_text": "方向：正向——功名前程有成且日进。 三传亥卯未成曲直木局，官星成局旺而临身，末传未土乘青龙主喜庆恩宠，递生荣显之象；目今有荣转之机，将来事业日新、功名显赫，非虚望。应期（月档）：窗口在本年内，迁转主坐标取官星逢值之卯月/卯日一档中的卯月为月档主坐标。",
+ "basis": "六壬仕宦门：日干己土，克我之木为官鬼，三传亥（螣蛇，财）生卯（玄武，官）生/临未（青龙），木局官星成局为功名本体有力；青龙末传主恩宠喜庆。八专曲直格主举直错枉、福善。仕宦门细象：本命恩星化凶、蛇化龙一类象主逢凶化吉、事业日新（盘面未给年命，本命一路只作旁参、明写无据不作主据）。应期定月档（仕宦迁转），三路：逢值取卯，逢冲（酉冲卯）与终局相悖舍之，出空填实路无空（子丑空不临传）无候选。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuren"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuren.md"
+ ]
+}

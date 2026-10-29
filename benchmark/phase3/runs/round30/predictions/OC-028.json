@@ -1,0 +1,19 @@
+{
+ "case_id": "OC-028",
+ "prediction_text": "方向：考选得官。入觐考选可得授职，所授为带文书、印绶性质的京职一路——科道言官（御史/给事中一类）或部属京官，不主外放州县；得官在考选后本季内见分晓。应期尺度为月档：窗口为入觐考选之季，主坐标取考选授职之月。",
+ "basis": "大六壬：己丑日辛未时，冬月十四，寅将，甲申旬午未空。三传辛卯（玄武）、丙戌（朱雀）、癸巳（白虎）。课式重审、斫轮：斫轮主木就金斫而成器、印绶俱全而爵禄可期，是仕宦得官的吉格底色。初传卯木为己土之官鬼乘玄武，主官职之事暗中进行；中传戌土乘朱雀，朱雀主文书、戌为印绶之宫，主以文书考选定职；末传巳火印星生己土，白虎虽乘而巳为生气之路，官印相生收束，故断得官而偏文职京职。午未空不落三传，官印皆不空为实。盘面残损：无天盘全图与四课全列，只据课式、三传与天将作断，官名只能落到科道/部属一层，已降置信。",
+ "confidence": 0.48,
+ "systems_used": [
+  "liuren"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuren.md"
+ ],
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

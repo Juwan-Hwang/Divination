@@ -1,0 +1,19 @@
+{
+ "case_id": "YM-019",
+ "prediction_text": "方向：可成（正向）。兑之节，本卦六冲变六合，先有波折、终归合好；妻财卯木静而得丙子日水生，子孙亥水（财之原神）发动生财，婚事有着落。应期双层：窗口为占后数日内（本旬内），主坐标为己卯日——妻财逢值之日定成。",
+ "basis": "对象对齐：所问为婚事成否，用神取妻财卯木（二爻，静），应验对象为此婚本身，同一。动化方向：子孙亥水动化兄弟申金，金生水为回头生，原神得回生而续生财；反转条件：无源绝/化绝齐备，不成立。四路合参：本气＋（财休于午月而得日生）／元忌＋（原神动生财、忌神兄弟酉金死于午月又旬空）／动化＋（回头生）／世应不计入主方向（世应皆父母土比和，只调量级）；合参方向成。门类对表（婚姻）：财非动而空，不合『动而空取实空』条，对表无正合点，按三路取逢值卯日。输入无残损，六神未给，不臆补。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "主用妻财现卦静爻，无变爻/日月/伏神备用取用，两现争议无"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

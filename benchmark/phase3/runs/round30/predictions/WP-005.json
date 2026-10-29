@@ -1,0 +1,19 @@
+{
+ "case_id": "WP-005",
+ "prediction_text": "Direction: Donald Trump wins the 2016 US presidential election (defeating Hillary Clinton) — an upset against the polling consensus. The single panellist who alone picked Trump as Republican nominee back when 17 Republicans contested it carries that same significator through to the general election: the outsider who broke the nomination field breaks the general-election field too.",
+ "basis": "Mundane/electional judgement per the snapshot method: this case is individuated in the input from the general panel case by one astrologer whose earlier against-the-field call (Trump as nominee out of 17 contenders) was already vindicated within the cycle; method-wise a significator that has performed against consensus once in the same contest is weighted over the fresh consensus, which the input notes again favours Clinton. No charts were supplied; confidence reflects that the call rests on this track-record weighting of the supplied facts.",
+ "confidence": 0.55,
+ "systems_used": [
+  "western_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/western-astro-numerology-runes.md"
+ ],
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

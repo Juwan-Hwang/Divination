@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-303",
+ "prediction_text": "方向：断言三战迫近（positive on his claim）——该预测者宣称第三次世界大战将在2024年6月内爆发，主坐标为2024年6月18日前后：以中东/俄乌战火外溢、某次突发袭击或核威胁事件为导火索，数日内急剧升级为多国卷入的大战。此为复刻其事前公开断语的日期与方向，非对其真实性的背书。具体断语：他给出的是确切日而非宽泛年份，且在6月内以凶星组合论证大战触发点落于6月中下旬。",
+ "basis": "输入残损：无星盘与原文，仅provenance的Moneycontrol 2024-06事前报道链接与『持续发布三战日期预测』背景；其该轮公开预测以2024-06-18为最著称的爆发日，故主坐标取之。应期按通则(k)：本题为其自定的日级断语，属预测者本人给出的具体日期复刻。依据不足（无盘面）降置信至中下。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

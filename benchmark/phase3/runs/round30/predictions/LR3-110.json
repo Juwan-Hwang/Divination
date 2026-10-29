@@ -1,0 +1,19 @@
+{
+ "case_id": "LR3-110",
+ "prediction_text": "方向：正向——失马可寻回。 末传巳火为财（马之本体）乘贵人而落旬空，空主待实不出空不失；初传卯木朱雀主音信方位，卯戌合主马有系留之处。寻向以东方卯位为先、兼及巳位东南。应期（日档）：窗口为本旬内，主坐标取巳日——末传巳火填实之日得马（出旬后第一个巳日），次候选三日内先有音信。",
+ "basis": "六壬失物/走失门：妻财为物本体，末传巳火财乘贵人旺相不被克而临辰巳旬空，按应期优先序落空者先取出空填实——逢值之巳日仍在空期不取，填实巳日为坐标、旬为窗口（参应期通法失马成例原型：末传乘空、填实日获）；卯戌合主物被合住系留可寻，朱雀初传主先有消息。玄武阴神未在盘面给出，藏处之家不臆补，只给卯/巳方位。应期日档（失物近事），三路：填实取巳，逢冲（亥冲巳）冲空则实为同向备选（同点不同机制，记合流），逢合（卯戌合）主系留不定得期舍之。",
+ "confidence": 0.64,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuren"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuren.md"
+ ]
+}

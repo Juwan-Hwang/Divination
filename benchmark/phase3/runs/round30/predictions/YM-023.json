@@ -1,0 +1,19 @@
+{
+ "case_id": "YM-023",
+ "prediction_text": "方向：可贵、可得功名（正向，量级中等）。官鬼卯木旺于寅月而动，化父母巳火（官化文书/印信之象），功名有着；惟世爻兄弟丑土死于木月，自身根基弱，得贵而辛劳，等级只断入仕得名、不拔高至封疆。应期双层（月档）：窗口为寅、卯两月内，主坐标为卯月——官鬼逢值之月见功名消息。",
+ "basis": "用神官鬼两现：上爻丙寅静、二爻丁卯动，动者定主用。卯木旺于寅月、庚午日火只泄不克，原神水休静、忌神金囚于木月不动。用神动化父母巳火：木生火化泄，但化出父母正是功名文书之亲，类别上官父相生主名器可成，量级因化泄打折。动化方向：官化父为化泄、非化退化绝；反转条件：无化绝无生扶之『三无』，不成立。四路：本气＋／元忌＋（忌静囚、原神虽静不克用）／动化0（化泄调量级）／世应不计；合参成向。门类对表（功名发案以父母对位）：父母巳火动而化未土不在对位点上，主坐标仍按官动逢值取卯月，已在basis写明取舍。输入无残损。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "主用官鬼为二爻动爻、动而化父母，故changed_main=true"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

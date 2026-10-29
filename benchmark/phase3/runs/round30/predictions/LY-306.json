@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-306",
+ "prediction_text": "方向：positive（弟尸首可见）。占弟死太湖尸首可见否，以官鬼寅木为尸首用神，寅木逢寅卯旬空而静，子月水生木相，用神空而有气为有根之空，主尸首待出空填实而浮见、得见。应期按日档（寻尸近事）：窗口为占后数日内，主坐标取寅日（官鬼寅木填实出空、尸首见之日）。",
+ "basis": "用神官鬼寅木二爻（题面明定占尸首以鬼为用），下伏父母巳火（飞伏记：伏父巳、飞鬼寅，父为旁情不作主用）。寅木子月相（水生木）、乙巳日火泄，空亡根气第1项坐月生之支成立，判有根之空，空转应期。静卦无动化。四路：本气相0+／原神水（财亥、子）静而临月气／忌神土兄两现不直接克木。对象：弟之尸首—官寅—应验对象尸首本身（非人对象照实），同一。应期：填实寅日取主坐标；冲实申冲寅与见尸方向相悖舍；逢值卯日为空旁支作窗界舍。输入逐爻表经补录互证，按现表作断。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "有根之空直主待见、未改向；主用现卦爻（伏父母仅旁记、未取储备）；用神由题面明定，无争议。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

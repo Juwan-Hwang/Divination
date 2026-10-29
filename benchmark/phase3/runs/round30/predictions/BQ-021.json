@@ -1,0 +1,19 @@
+{
+ "case_id": "BQ-021",
+ "prediction_text": "方向：不利，禾稻受损、收成打折。大过之困，酉金官鬼动而变午火，日辰带财克制二爻——二爻为田禾之位，财克二爻主禾苗根基受耗；官鬼动主天时为患（旱燥、虫风之灾象），鬼动变火更主旱热伤禾。本季禾事以减收为终局，天时先旱后或有骤雨亦不解已伤之势。应期以月档论本季长势，不落单日。终局单判负面。",
+ "basis": "残盘：仅记大过之困、酉官动变午火、日辰财克二爻，无全盘月建，降置信。六爻农事以二爻宅田、子孙/妻财参禾实：鬼动为灾患发动，变火助旱象；日辰财克二爻直克禾位。应验对象为所卜之禾稻本身（非人对象），不回收到占者。应期尺度按农事定月档（通则k）。门类应期对表无『农禾』门类，明写对表无此门类。",
+ "confidence": 0.42,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "盘面残缺（chart_complete=false，无全盘六爻、动爻全列与月建），无从判定动化改主、备用用神启用与争议裁决三项触发，均记false"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

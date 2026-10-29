@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-249",
+ "prediction_text": "方向：positive（父将归，近归）。占父远去何日回，静卦天泽履，父母午火临庚午日建，虽逢甲申旬午未空，临日之空为假空，主人已在归途、指日可到。应期按日档（行人近归、问题本身问何日且用神临日）：窗口为占后数日内，主坐标取子日（子水冲午、冲空则实，行人冲动而归之日）。",
+ "basis": "用神父母两现：三爻午火（临日建、主用）、初爻巳火（静、次位落败留记）。午火丑月休、日临值，空亡根气三项第1项临日坐值成立，判有根假空，空只转应期。静卦无动化，裁决表记无动化0。四路：本气休而临日0+／原神木（官卯应）不克用／世应子孙申世金不克父火。行人类对象复述：主断语主语为远行之父—父母午火—应验对象父本人，同一。应期三路：冲实子日冲午冲空则实取主坐标；填实午日即占日已过其义转为临值不取；逢值未日为空旁支舍。门类对表行人类以冲空/逢值机制有点，取冲实合闸门释放。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "假空只转应期、主判直定向归，未改向；主用现卦临日爻，未用储备；父母两现已按临日定主，无争议。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

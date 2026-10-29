@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-306",
+ "prediction_text": "方向：特朗普胜（positive for Trump）＋候选人更替——2024年6月2日之事前预测：民主党阵营生变，现任总统拜登将无法以候选人身份走到大选（退选/被替换），副手哈里斯一线接棒参选；但最终胜者是特朗普，特朗普被『加冕』重返白宫。具体断语两段：近段（夏季）民主党换将，远段（11月）特朗普胜选定局。",
+ "basis": "输入provenance通稿标题自载『Trump will be crowned — Indian-origin US-based astrologer predicted this in June 2024』，与其2024-06-02视频为同一预测；本题问题本身含『候选人更替』，setting明言当时哈里斯尚未成为候选人、拜登退选尚未发生，故更替断语（拜登退、哈里斯接）为其原断应有之义。吠陀占星体系，无盘面数据，不臆造星宿依据。",
+ "confidence": 0.8,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "vedic-astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

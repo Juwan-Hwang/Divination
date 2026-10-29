@@ -1,0 +1,52 @@
+{
+  "id": "YB-017",
+  "tradition": "liuyao",
+  "subject": {
+    "name_or_desc": "病弟（兄为之占，未具名）",
+    "gender": "男"
+  },
+  "context": {
+    "question": "兄占弟病，问弟病吉凶",
+    "asked_at": "二月甲申旬壬辰日",
+    "setting": "明代民间卖卜占验实录（张世宝自记占例，散文体附断语与应验）",
+    "attachments": {
+      "casting_method": "liuyao",
+      "hexagram": "离宫：天水讼（游魂）",
+      "moving_lines": "六爻安静",
+      "chart_lines_top_to_bottom": [
+        "子孙壬戌土",
+        "妻财壬申金",
+        "兄弟壬午火 世",
+        "兄弟戊午火",
+        "子孙戊辰土",
+        "父母戊寅木 应"
+      ]
+    }
+  },
+  "provenance": {
+    "book": "易林补遗",
+    "edition": "华龄出版社《四库存目纳甲汇刊（三）》校正全本（（明）张世宝撰，郑同校；用户经学校图书馆提供之扫描本）",
+    "license_note": "用户经学校图书馆提供，内部研究使用（redistributable=false）",
+    "page": "卷一总断章第一，书页7"
+  },
+  "language": "zh-Hant",
+  "license_status": "internal-research-only",
+  "redistributable": false,
+  "outcome_grade": "A",
+  "grade_note": "断验分离弱于同批他例：应验以「待后某日…其病此日全愈」式一句叙述（与前批 YB-002 应验句同式），断语之应期断言与应验同句相承，已照实标注，待主持复核",
+  "contamination": "low",
+  "contamination_reason": "明代民间占例，求测者皆未具名，结局为冷门局部事实，无著名人物与事件，无从常识先验得知",
+  "month_day_complete": true,
+  "chart_complete": true,
+  "completeness_basis": "原文记卦名（讼卦安静）与占日；逐爻装卦按通行纳甲法则复原。甲申旬空午未，卦中官鬼午火（世爻及三爻）正值旬空；原文「用值旬空」之用神取法照原文登记，不另推",
+  "holdout_eligible": true,
+  "notes": {
+    "tags": [
+      "疾病",
+      "兄占弟病",
+      "旬空填实"
+    ],
+    "comment": "总断章真空/填实节例",
+    "cross_ref": ""
+  }
+}

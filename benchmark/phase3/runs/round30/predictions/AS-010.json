@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-010",
+ "prediction_text": "方向：逃仆往西（偏西南）方向去了，人不远，且能回来/被寻回。仆主星水星居西方星座、南象限定其西行；月亮出走时及现时同在西方星座主其未远徙；仆主星与升主正趋合三合于角宫之外，主其自回或被人送回。应期以日计，数日内即有归讯/归人。月亮居二宫本宫主其去时带走少量主家财物之嫌。",
+ "basis": "逃仆占（Lilly第LXI章）：以水星为此盘仆之专主、月为仆之共主，方位与趋合三合定归。输入无占问日期。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

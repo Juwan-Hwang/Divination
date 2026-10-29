@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-309",
+ "prediction_text": "方向：positive（将来有官）。占将来有官否，官鬼巳火初爻动、化妻财寅木回头生官（木生火），官动得回头生为得官之象；父母未土持世动而逢午未旬空，只主文书/名分待实、迟而不失。应期按年档（仕途远事、先年后月）：窗口为占后一两年内，主坐标取寅年（官化寅木值年、回头生落实得官之年）。",
+ "basis": "用神官鬼巳火：亥月火囚、己丑日土泄，本气弱，表面无官象；动化裁决：巳化寅木，化神木→火回头生，动化吉向定性优先于静态囚泄，终局改定向有官——changed_main成立；反转两路核：非化退化绝、回头生在，不走反转路。世父母未土空动化戌土，文书动空主迟。原神即化神寅木。四路：本气−／元忌土泄0／动化回头生＋／世应世父动求名＋，合参正。应期尺度通则(k)：仕途终局类定年档。逢值寅年取主坐标；填实未年为世空之支作旁候选舍；冲实亥冲巳即占月已现作窗界舍。对象：占者本人—官巳—应验对象占者之官职，同一。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "初判表面官囚泄无象，经动化回头生裁决改定向有官，故changed_main=true；主用现卦动爻，未用储备；无争议。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

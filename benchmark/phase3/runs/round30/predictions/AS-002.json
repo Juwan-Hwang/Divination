@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-002",
+ "prediction_text": "方向：能致富，且财富能持续。得财主因是婚姻与自身经营并举——以婚姻得财为主路，兼靠商贸营生积累；非单靠未婚自守。应期以年计：月亮为十宫主，趋合升主金星尚差6°27′，主约六至七年内财富格局落实并显著跃升。此后二宫与福点皆固定星座、福点在火星界内，断财富得后能守、持续不散。",
+ "basis": "二宫主兼福点主火星入升近角宿（Spica）18°天秤、木星擢升居角近天顶、升主金星近狮心、月亮离火星/水星趋合金星，皆强有力致富证；固定宫头主持续。输入无精确日期，完整盘缺，已注明。",
+ "confidence": 0.78,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-215",
+ "prediction_text": "方向：败（negative）——此次西征无成功、无荣誉，结局凶。上升主土星无辅、失势陷落又居二宫，主将本人根基弱、资财（第二宫：资财与援助）先损；龙尾居上升为首要凶象；月亮失势（detriment）分离土星拱、转入相刑火星，火星为其二宫与九宫主，资财、部属、远行三线俱被刑伤；福点受制于七宫主（敌人之星），利在敌方。具体断语：军队资财耗尽、部众离散或被歼/降，本人纵得脱身亦是损兵折将、声名受损之归，敌方得其利。应期尺度为月档：本次出征行程之内（数周至数月）即见败局，以月亮成刑火星为败象发动之应。",
+ "basis": "事件盘horary式判读：土星/金星/水星在上升有尊贵不足救——上升主土星peregrine且in fall居二宫、龙尾在上升、月亮in detriment入相刑火星（二/九宫主）、福点被七宫主（敌人）处置，诸凶证同向（输入key_positions逐项）。对象=Essex伯爵本人及其军队资财。输入无具体日期，应期定月档不落日。",
+ "confidence": 0.8,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

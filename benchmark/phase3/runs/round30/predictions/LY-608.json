@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-608",
+ "prediction_text": "求财可得、待出空而至：妻财寅木临月建旺而逢空，为有根之空（假空），原神、忌神俱静不劫；窗口戌日起至寅日，主坐标寅日（财填实逢值）得财。",
+ "basis": "用神妻财寅木二爻唯一：寅月临月建旺相，庚戌日，寅卯空亡——根气三项第1项临月建成立，判有根之空/假空，空只转应期不作凶权。静卦无动爻。原神子孙子水初爻静，寅月休、戌日土克，生财力薄只降量级；忌神兄弟酉金四爻静，寅月囚，不动不劫。世父母辰土静。应期日档（近财）：填实与逢值同为寅日合流取为主坐标，冲实申日冲寅虽冲空则实但机制次于填实逢值合流舍之，逢合路无。四路：本气+（临月旺，空待实）／元忌0（俱静）／动化0（静卦）／世应不计；合参得财向，量级中平（原神弱）。对表求财门：财仅临月非日月重叠，入墓路不取，已注明。动化方向：静卦无动化，无方向可定，记0。反转条件：静卦无源绝/化退化绝信号，两路均不成立。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "主用妻财唯一临月自始定；未用伏神；无两现争议。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

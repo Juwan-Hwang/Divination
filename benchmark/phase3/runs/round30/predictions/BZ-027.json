@@ -1,0 +1,19 @@
+{
+ "case_id": "BZ-027",
+ "prediction_text": "格局：技艺名家、富贵安稳之造。戊土生子月财星当令，亥子财旺，丙火印星透生身，寅卯官星木旺生火——财官印流通相生：财生官、官生印、印生身，主以才艺得名得利、兼得官方认可，一生衣食丰厚、名利双收，行业宗师级名望可期。身赖丙印得寅卯官生火助，中和偏旺可任财官。中晚年木火运最美；晚年水运防财多身扰。寿高、结局安稳优于同侪多例。",
+ "basis": "四柱己亥丙子戊寅乙卯。旺衰戊土子月失令，得丙印寅卯官生印链，身得源头活水；格局财格流通成链为上等流通格。特格未命中。等级按流通无破足级给名家富贵；不给政权极贵，依据所问为技艺命例、官星终归生印主名誉非权柄。仅据四柱。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

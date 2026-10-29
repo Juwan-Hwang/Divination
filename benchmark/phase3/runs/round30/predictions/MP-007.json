@@ -1,0 +1,20 @@
+{
+ "case_id": "MP-007",
+ "prediction_text": "方向：2019年先盛后衰；会参选总统，但问鼎不成。断语：①近段（2019上半年）人气维持高位、声势属其全盛期，年中将投入总统选举并取得国民党提名；②远段（2019下半年起）声势转衰，民调下滑、市政争议缠身，2020年1月终局败选、无缘总统；远段触发为带职参选争议引动耗损、对手阵营归队；③应期（单位：月）：参选提名于2019年7月前后落定，败局于2020年1月落定。",
+ "basis": "输入残损：只有韩1957年生、生肖属鸡，无月日时，八字只取年柱丁酉，降置信。通则（i）两段式：本题自带时间纵深，近段盛、远段衰各给结论，不以一段定终局；近段据占题『人气正盛』事实，远段据丁酉年柱逢己亥、庚子连年冲耗与带职参选之结构性耗损，翻转触发已写明（通则j）。等级校准（b）：问鼎不成断至败选一级，不放大为仕途终结。",
+ "confidence": 0.64,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-bazi-ziwei.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/calibration.md"
+ ]
+}

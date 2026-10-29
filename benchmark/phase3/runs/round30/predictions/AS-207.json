@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-207",
+ "prediction_text": "方向：坎特伯雷大主教将死于暴力处决——被人以利器斩首式处死，而非病死于狱中。以九宫宫头为其升、其主土星入落久逆居十二宫主幽囚无力；月离土星趋合近八宫头的太阳、太阳在火象趋合冲火星（其主宰星）、火星居风象人形座主刑由人手、利器加身；月距火星本体七度主应期以月计约七个月量级内行刑。断：死于公开处决、刃伤于颈首。",
+ "basis": "死亡方式占：火星人形风座+太阳冲火星+主星入落居十二，为斩首/兵刃之刑象。输入未载占问日期，应期仅作量级。",
+ "confidence": 0.74,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

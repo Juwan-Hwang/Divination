@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-014",
+ "prediction_text": "方向：窃贼不是问者所疑的女仆等人，而是水星所指的年轻水星型男子——年少、身量中等、在宅中出入办事的仆童/送信跑腿一类人。水星居角无本质尊贵、合土星且刑火星为定贼之据；火星（所疑女子）与土星皆在自界自面，按例被排除。赃款追回前景差：水星受土星火星夹克、月近太阳，断钱多已被花用，难以原数追回至多追回小部分。",
+ "basis": "盗占定贼规则：居自界/面者不取为贼，无尊贵居角者取之——输入原文即载此判法。输入无日期，部分断语靠原文散述。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

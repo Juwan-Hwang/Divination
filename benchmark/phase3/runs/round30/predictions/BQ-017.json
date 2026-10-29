@@ -1,0 +1,19 @@
+{
+ "case_id": "BQ-017",
+ "prediction_text": "方向：凶险未除、不可安居。涣卦六爻安静本无动象，但官鬼伏于六三空亡爻下，已透出又遇申日提起、且冲克世爻——伏鬼出空冲世，主祸患由潜伏转为临身：倭乱之祸将近、藏匿处并不安全，须再迁避，近旬内（日档尺度，伏鬼填实/冲空之期在申酉戌日一带）尤防惊扰破耗。终局单判为负面：此地非安身之地。",
+ "basis": "残盘：仅记涣卦、安静、鬼伏六三空亡、申日提起冲世，无月建与全盘，basis据原文摘录作断并降置信。六爻以官鬼为乱祸用神：伏而空亡本主祸未显，透出逢日提起冲克世爻则祸机发动、直指占者本人（应验对象=占者本人，已复核）。安静无子孙动来制鬼，无救。应期按伏鬼出空填实取日档。门类应期对表无『避乱』门类，明写对表无此门类，按三步原序定点。",
+ "confidence": 0.45,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "盘面残缺（chart_complete=false，无全盘六爻、动爻全列与月建），无从判定动化改主、备用用神启用与争议裁决三项触发，均记false"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-254",
+ "prediction_text": "方向：positive（此医可用，疮可治）。因杨梅疮占医好否，子孙申金持世临申月建而旺，医/药之神旺相有力、正克官鬼病爻，此医可用、病可望愈。应期按月档（疮病疗程以月计）：窗口为占后一两月内，主坐标取申月（子孙申金再值月、药力足而疮退之期）。",
+ "basis": "医占以子孙为用神兼药：申金五爻世，申月临月旺相，日卯木为财不克金。用神旺相本气＋。病爻官卯木应爻动化父母巳火，卯木申月死、化巳火泄木，病爻衰而化泄；父母巳火初爻动化兄弟未土为旁动。动化方向核：子孙金→官木为克病成立。四路：本气＋／原神土（兄丑、父巳动化未）有生金之路0+／动化病化泄＋／世应世子孙临身＋，合参正。对象：患者本人—子孙申金（医）—应验对象患者之疮，承受与应验同指其病体。应期：逢值申月取主坐标；冲实寅冲申与药力方向相悖舍；填实无空舍。输入完整。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "主判直主正、未改向；主用现卦世爻，未用储备；无争议。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

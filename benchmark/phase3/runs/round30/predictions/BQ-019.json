@@ -1,0 +1,19 @@
+{
+ "case_id": "BQ-019",
+ "prediction_text": "方向：凶，祸不在外寇先至，而在自招。明夷之谦，二鬼俱静本主倭寇未动，子孙独发却被日辰扶起反克世爻、且动变官爻，世又入墓临病爻——子孙本为福神解祸，发动化鬼克世，主乡人/己方举动自惹祸端，或内应、争斗、惊扰自陷险地；世墓临病兼主自身困顿带病。终局单判负面：倭祸之应多半由内而发，旬月内见应。",
+ "basis": "残盘：仅记明夷之谦、二鬼静、子独发克世变官、世墓世临病爻，无全盘，降置信。按六爻：鬼静主外祸未至，子孙动本制鬼为吉，然子动克世且化官鬼为福变为祸、祸自内生；世入墓主受困，临病爻主病厄。应验对象为占者及其乡人（占题所问含乡人），已复核。门类应期对表无『卜倭』门类，明写对表无此门类。",
+ "confidence": 0.45,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "盘面残缺（chart_complete=false，无全盘六爻、动爻全列与月建），无从判定动化改主、备用用神启用与争议裁决三项触发，均记false"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

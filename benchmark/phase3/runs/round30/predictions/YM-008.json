@@ -1,0 +1,19 @@
+{
+ "case_id": "YM-008",
+ "prediction_text": "终局：考秩得好等第（positive）。静卦官鬼持世、原神有气生官、忌神空亡，考核可得中上之评，不作降黜。应期双层：考核月档，窗口至巳月，主坐标巳月——官鬼乙巳火逢值之月定评。",
+ "basis": "用神官鬼乙巳火（二爻世，对象＝待考者之考核等第）。巳火亥月死，丙寅日寅木生火，得日生为有救；静卦无动爻。原神妻财乙卯木三爻，亥月木相有气静生官。忌神子孙丁亥水四爻临月建旺但甲子旬亥空，旺而逢空、静而空不克官于当前。父母丁未土两现为文书考核之象、土亥月囚静。动化方向：无动爻、无动化；反转条件：无化退化绝，不反转。四路：本气0（死得日生）／元忌仇＋（原神相、忌空静）／动化0／世应不计（世即用神已并路1）；合参成向。应期三路：冲实亥日冲巳为冲官不取、填实巳支、逢值巳支；门类对表无考秩门类（对表无此门类），取逢值巳月为主坐标。静卦定性：事态稳定、等第以现状之生扶定，不以静断败。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "静卦现官为世，主用未改"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

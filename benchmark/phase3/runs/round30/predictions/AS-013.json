@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-013",
+ "prediction_text": "方向：赃物可望追回（至少大部），且尚未远离。货物主星水星居双鱼（湿润座）、福点巨蟹（湿润座）、月亮金牛在地平下，主鱼货藏在潮湿近水之处——运河/泰晤士沿岸仓廒、船舱一类地方。窃贼以唯一无定位而居角的木星在七宫宫头、天蝎（湿润座）取象：与水上运输/仓储有关的朱庇特型男子（体格宽大、从事驳船仓廒之业者之嫌）。水星虽失势却在自界，得月六合、与福点三合主终能寻回。应期以日计，出空趋合数日内循水边仓廒查问可得。",
+ "basis": "盗占：无定位居角星定贼、货物主星与福点湿润座定位藏处；输入为1637年2月10日听闻时起盘。",
+ "confidence": 0.64,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

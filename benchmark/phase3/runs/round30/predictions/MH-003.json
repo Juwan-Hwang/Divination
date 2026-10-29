@@ -1,0 +1,19 @@
+{
+ "case_id": "MH-003",
+ "prediction_text": "断：邻人所借之物为斧头——劈柴之斧，金刃木柄，当夜即借去劈柴取暖之用。具体项：物品=斧；人物=邻人借者；时点=当夜（冬夕当时）。",
+ "basis": "梅花体用与取象：闻声占乾（金）上、巽（木）下得天风姤，四爻动，上卦乾为用、下卦巽为体，金克木之器象：以金为刃、以木为柄、其用为克伐木者，器类收窄至斧/锄一类。明理关（事实优先序）：时令冬夕、占者拥炉，夜借砍伐之器只为劈柴生火，锄为农作之器冬夜无所用——斧/锄之辨以情理取斧，弃锄，逐项对回占题事实（冬、夕、拥炉、扣门急借）。爻辞核对：姤九四『包无鱼，起凶』辞义与借物种类无涉，不引辞定物，记明未引。应期：即时占，当夜为时点（窗口当夜、主坐标当夜当时）。自检表：落物品、人物、时点三项。对象同一：所断之物即所借之物，同一。托名文本出处照实标注。",
+ "confidence": 0.75,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "meihua"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

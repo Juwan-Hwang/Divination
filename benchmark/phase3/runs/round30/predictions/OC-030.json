@@ -1,0 +1,19 @@
+{
+ "case_id": "OC-030",
+ "prediction_text": "方向：两问皆可而迟。淮扬巡按差可复设——铸印课主印绶官制复立，本年内有复设之命下达；吏书缺亦可照旧保留，但须经一番议覆更动后才定，不是原封不动即时照旧。应期尺度为月档：窗口为本年春夏议覆之期，主坐标取诏命/部议定下之月。",
+ "basis": "大六壬：戊子日戊午时，二月初十，亥将（旬空未给，属输入残损）。三传癸巳（太常）、丙戌（六合）、辛卯（太阴）。课式重审、铸印：铸印以戌为印绶、巳为炉，乘太常主官制印信复铸而成，本课初传巳火乘太常生戊土日干、中传戌土乘六合，正是铸印成格之形，故巡按差复设可断。末传卯木官星乘太阴，太阴主暗昧未明，主吏书一缺在暗中议覆、迟而后定，合六合主合就，故照旧可保而带更动。盘面残损：旬空与四课天盘未给，只据课式、三传、天将作断并降置信。",
+ "confidence": 0.5,
+ "systems_used": [
+  "liuren"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuren.md"
+ ],
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

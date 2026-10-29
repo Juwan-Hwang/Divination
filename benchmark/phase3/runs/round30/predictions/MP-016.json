@@ -1,0 +1,20 @@
+{
+ "case_id": "MP-016",
+ "prediction_text": "方向：特朗普胜出，当选美国总统。断语：①胜者为特朗普（人物一人），哈里斯败；②选情胶着之下特朗普以选举人票取胜，关键摇摆州多归特朗普，普选票差距小、非大胜；③应期（单位：日）：2024年11月5日投票日后开票落定，主坐标11月6日前后结果明朗。",
+ "basis": "输入残损：求测者以『相』字问卜，输入未附测字拆解过程与任何盘面，字占原始记录不全，已注明并降置信；断语以『相』字结构与占题形势合参。『相』字木＋目：木主生发向上、目主明见，特朗普1946丙戌火土之势逢此木火相生之字，引动其势；哈里斯一方无此引动。事实优先（e）：占题明载选前一周民调互有领先、选情胶着，故等级只断以选举人票取胜、非大胜（通则b）。对象复核（f）：胜负承受与应验同为特朗普、哈里斯本人。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "meihua"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-bazi-ziwei.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+  "case_id": "LY-319",
+  "prediction_text": "倾向：财可得，得期在辰日。用神取旬空之辰土财：未月土旺，辰财虽空而临旺月、属有根假空，子孙巳火生财，静卦无兄弟动劫；另一财未土临月建应爻反为陪衬——两现反验，舍不空而用旬空。应期尺度为日档（本问即何日得）：冲实戌、填实辰、逢值辰三路以填实/逢值同指辰，窗口为庚子日起五日内，主坐标辰日得财。量级为一笔可得之财，不作大财断。",
+  "basis": "所问对象：求财者本人。用神：妻财辰土（输入明定舍不空用旬空）；候选枚举未土（临月不空）与辰土（旬空），按两现章同行反验例定空者为主，空破不径舍。真空/假空：辰土临旺月有根、得子孙生，假空待填实至少两项，判假空。动化方向：静卦无动化。反转条件：无。对表求财：首选财入墓日无点、次选世动逢合无点（世静），明写对表无点，退三步取填实。四路：本气+（财旺月）／元忌仇+（兄静、子孙生财）／动化0／世应不计；合参成向。对象对齐：得财落求财者本人，同一。",
+  "confidence": 0.66,
+  "trigger": {
+    "changed_main": true,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": "changed_main：主用由常规首选不空之未土、按两现反验改定旬空辰土，故true；辰为主用非保留位，reserve=false；反验有成文依据，无存疑。"
+  },
+  "systems_used": [
+    "liuyao"
+  ],
+  "sources_used": [
+    "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+    "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+  ]
+}

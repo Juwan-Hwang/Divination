@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-342",
+ "prediction_text": "今日无人还银、银不得还（negative，就所问今日而言）。妻财亥水休囚无气、原神子孙酉金旬空静伏，静卦无动爻引拨；应期窗口即本日，主坐标本日之内无还银之应，后须待酉金出空之日才有转机，不在本日断内。",
+ "basis": "所问今日还银；用神妻财亥水五爻静，候选唯一。旺衰：辰月水死、己卯日木泄财，原神酉金临申酉旬空且静、不得生财；世爻即原神空静。动化方向：静卦无动化；反转条件：无动化、无源绝议题，不反转。四路：本气-／元忌仇-（原神空静不生）／动化0／世应不计（自占问财）；合参方向败向，就今日为不还。反转扫查：伏神引拨无（财现卦非伏）、化进无、生忌无，全不成立，初判维持。应期三步：日档（题问今日）；冲实/填实/逢值三路在本日皆无候选可成还银，唯原神出空酉日为日后转机、与今日终局不合而舍。对象对齐：还银者为债务人、应验落于财亥到手与否，对回占题无错位。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "财候选唯一，无改主、无应验位启用、无取用存疑。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

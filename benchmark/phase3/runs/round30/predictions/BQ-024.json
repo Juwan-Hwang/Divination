@@ -1,0 +1,19 @@
+{
+ "case_id": "BQ-024",
+ "prediction_text": "方向：凶，鸡多死、瘟不止。噬嗑之颐，日辰并起子孙似有生机，然四爻螣蛇官鬼发动临怪——六畜以子孙为鸡，鬼动临螣蛇主瘟疫怪疾缠扰，子孙虽得日辰并起，难敌鬼动之发，鸡群仍将大批死亡，纵存少数亦元气大伤。应期日档旬内见分晓。终局单判负面。",
+ "basis": "残盘：仅记噬嗑之颐、日辰起子孙、四爻螣蛇鬼动，无全盘，降置信。六畜占子孙为畜用神，官鬼为疫病：日并子孙为一线生机，鬼动且乘螣蛇为疫势发动且诡异难除，动爻权重高于日辰静助，故终局从鬼动定负面，等级按大批死亡（有日辰子孙之助不至全绝，降格依据即此）。应验对象为所养之鸡（非人对象），不回收到注家本人。门类应期对表无『六畜疫』门类，明写对表无此门类。",
+ "confidence": 0.48,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "盘面残缺（chart_complete=false，无全盘六爻、动爻全列与月建），无从判定动化改主、备用用神启用与争议裁决三项触发，均记false"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

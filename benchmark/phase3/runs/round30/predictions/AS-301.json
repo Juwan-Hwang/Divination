@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-301",
+ "prediction_text": "方向：大动荡之年（negative）——2020年世界局势以危机开年并逐月升级：年初即有突发公共健康/全球性冲击之象，第一季度（尤以年初土冥合相与蚀季前后）金融市场剧烈下挫、Wall Street大跌，全球活动停摆、封锁与衰退随之；年中后段反复，年底前局势仍未复常态，权力与经济秩序重组。具体到逐月：1–3月危机爆发与市场崩跌最烈，春夏为停摆与蔓延，秋冬第二波压力。置信低：见basis残损注。",
+ "basis": "输入残损：本例只有对象、提问与时间（2019-11-11），无任何星盘、逐月原文或星象数据，无法按占星五要素（星体×宫位×星座×尊贵×相位）逐条回扣作断，只能依该占星师以土冥合相/蚀季论世运的通行框架给方向性复刻；provenance所引其2020-02-28页标题指向Wall St 2020预测，与市场崩跌断语互证。按通则：依据不足，明写降置信，不臆补逐月细节。",
+ "confidence": 0.35,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

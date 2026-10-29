@@ -1,0 +1,19 @@
+{
+ "case_id": "BQ-015",
+ "prediction_text": "方向：年景凶歉（negative）——戊午年正月辛亥日占一岁年时，蒙之中孚：水鬼（官鬼属水）与应上父母爻俱动，伤克世爻——水患雨灾之象发动克世，主该年水雨为灾、伤及地方生计；妻财又伏藏不现，财为五谷衣食之象，伏而不现主收成之财无从显出。具体断语：该年风雨不调、水患伤稼，五谷歉收、年成不足，世（地方军民）受其克害，非丰年。应期尺度年档：灾象应在雨水旺盛之季（年内水旺之月），主坐标取年内夏秋水盛之月窗，不落具体日（通则k年档先年后月）。",
+ "basis": "六爻残盘：chart_complete=false，只记蒙之中孚、水鬼与应上父动伤世、财伏，无全盘，注明降置信。用神候选枚举：年时以妻财为谷财之用——财不上卦而伏，取伏神为应验位/主用（故trigger reserve_used=true：以伏藏之财定收成无显）；鬼父动克世为灾象主证。四路：本气 世被旺动之鬼父克 -／元忌仇 鬼动克世 -／动化 鬼父化出无记0／世应 应上父动克世、所问为地方年事计入佐证；合参方向凶歉。动化方向：无化出可核；反转条件：伏神引拨四项无据（飞神状态无记），未齐备，不以财伏翻转作丰。对象：世=该地年景/军民，财伏应验落五谷收成，分开写明。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "妻财伏藏，以伏神定收成之断，故reserve_used=true"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

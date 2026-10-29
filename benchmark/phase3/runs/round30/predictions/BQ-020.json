@@ -1,0 +1,19 @@
+{
+ "case_id": "BQ-020",
+ "prediction_text": "方向：凶，子弟有伤损之危。大壮之小过，日辰妻财生扶动爻，动爻刑冲子孙、又克兄弟——子孙为长子之用神、兄弟为弟之用神，两用神同受刑冲克害，主长子与弟在乱中皆不平安，其中至少一人有伤病、失散或破耗之应；财生动爻主祸由财物/行装牵连而起。应期在日档旬内（动爻逢值逢冲之日）。终局单判负面。",
+ "basis": "残盘：仅记大壮之小过、日辰财生扶动爻、刑冲子孙克兄弟，无动爻位置全盘，降置信。六爻亲属占以子孙代子、兄弟代弟，用神定位复核：承受对象为长子与弟，应验亦落此二人，不回收到占者本人。财爻得日辰生扶而助动爻之克力，克力有源故凶象落实。门类应期对表无『避难亲属』门类，明写对表无此门类。病/行人复述：主语逐条对回长子、弟二人。",
+ "confidence": 0.45,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "盘面残缺（chart_complete=false，无全盘六爻、动爻全列与月建），无从判定动化改主、备用用神启用与争议裁决三项触发，均记false"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

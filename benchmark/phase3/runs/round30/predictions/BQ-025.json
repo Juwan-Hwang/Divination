@@ -1,0 +1,19 @@
+{
+ "case_id": "BQ-025",
+ "prediction_text": "方向：凶，养蜂无利、蜂多亡散。屯之坤，兄弟与官鬼发动，卦中无妻财——财为蜜利与蜂群资财，无财主无利可图；兄动主耗散争夺，鬼动主病害惊扰，蜂群主逃散、死亡或被盗扰，新收养之蜂难以存续生利。应期月档内（本季）见败。终局单判负面。",
+ "basis": "残盘：仅记屯之坤、兄鬼发动、卦无财、五爻螣蛇鬼动，无全盘，降置信。六畜/求利以妻财为用，无财为根本无利；兄动耗财、鬼动为患两动齐发，屯变坤为始难而终散。应验对象为所收养蜜蜂群本身（非人对象）。门类应期对表无『养蜂』门类，明写对表无此门类。",
+ "confidence": 0.48,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "盘面残缺（chart_complete=false，无全盘六爻、动爻全列与月建），无从判定动化改主、备用用神启用与争议裁决三项触发，均记false"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

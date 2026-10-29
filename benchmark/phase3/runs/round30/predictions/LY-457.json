@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-457",
+ "prediction_text": "方向：不得利。此行往楚買豆無利可圖，勉強往買只耗本受劫，不宜成行。應期（日檔偏月內）：窗口在本月亥、子日一帶，主座標亥日（妻財逢值）見分曉——屆時亦只是財現而無利。",
+ "basis": "靜卦。求財用神妻財亥水五爻應：午月死、日子水扶助（同氣臨日支），本氣中下。原神子孫酉金上爻午月死、靜而無力生財；忌神兄弟丑土兩現、三四爻，午月相、靜而勢眾，主劫財耗本。世官鬼卯木午月休、得子日生。四路：本氣0／元忌仇－（原神死靜、忌神兩現相旺）／動化0（靜卦無動化）／世應計：應財臨應而世官，世應無生合，記0；合參方向：敗向（路1不＋、路2－）。決策序：無空墓伏化，不涉終局三類死敗條件，只斷無利不擴大。掃查三類俱無。應期三步：尺度日（近事買賣）；沖實路無、填實路無空待填、逢值路亥（財值）/子（日支），取亥逢值，舍子（子為日支扶助非財本支）、舍沖實（無候選，理由：用神不空不墓）。對象：求測者本人—妻財亥—本人財利，同一。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "case_id": "MP-014",
+ "prediction_text": "方向：特朗普病情可愈，但大选不利、败选。断语：①近段病情：确诊新冠后经治疗可康复出院，无性命之危，病程以周计即见好转（单位：日，窗口约十日内、主坐标入院后数日出院）；②远段选情：康复不等于选情回升，11月3日大选特朗普将败于拜登，不能连任；远段触发为疫情与染疫事件本身引动选民对其危机处理的负评、邮寄投票结构利对手；③两段分断：病愈归病愈、败选归败选，不以病愈推选胜。",
+ "basis": "输入残损：只有特朗普1946年生，无月日时，八字只取年柱丙戌，降置信。通则（i）两段式：近病与大选为天然两段，各给结论与应期。丙戌年生逢2020庚子，子水耗其火土之势，主选战受制；其年高体健、治疗资源顶级，病位不至危殆，近段取愈。事实优先（e）：占时距投票约一个月、其民调本已落后对手，染疫打乱选战节奏，占题明载，远段从之断败。等级校准（b）：病断至康复一级、不放大为重危；选断至败选一级，有民调与节奏双据。",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-bazi-ziwei.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/calibration.md"
+ ]
+}

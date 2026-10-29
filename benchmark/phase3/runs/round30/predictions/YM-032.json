@@ -1,0 +1,19 @@
+{
+ "case_id": "YM-032",
+ "prediction_text": "方向：女胎之象（负向于男、即断为女），且育须谨慎。子孙不上卦、伏亥水而甲子旬空，兑宫归妹卦（归妹主女）静卦无动，子孙亥为阴支伏藏，性别象偏女；子孙空伏则『育否』一面未稳，须待出空才定。应期双层（月档）：窗口为占后一月上下，主坐标为亥月——子孙出空逢值之月，性别与安育之象同月明朗。",
+ "basis": "占男女以子孙为用：不上卦走伏神五步，伏子孙亥水（兑宫首卦同位、初爻官鬼巳火之下），飞官巳火。亥水：戌月水囚、辰日土克、又旬空——伏无气；飞火休于戌月。待出四项仅飞休囚一项沾边，判待出不成立，子孙只作性别取象、不作安育成断，故置信低。性别判据：子孙支亥属阴、伏藏主女象，卦名归妹旁证（只作旁证、不单独定性）。静卦动化方向：无动化；反转条件无。四路不用于性别题、只记本气−（子孙囚空）。门类对表无占男女门类，明写无此门类；应期按伏空出空取亥月。输入无残损（性别题本身据弱，已降置信）。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "子孙不上卦，主用取伏神子孙亥水，故reserve_used=true；静卦无动化"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

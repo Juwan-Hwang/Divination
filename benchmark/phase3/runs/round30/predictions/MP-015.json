@@ -1,0 +1,20 @@
+{
+ "case_id": "MP-015",
+ "prediction_text": "方向：特朗普较有利，拜登不利；终局特朗普占上风。断语：①拜登2024龙年运势弱：竞选连任之路不顺，难竟全功，主中途生变、退选或败落，不能顺利连任到底；②特朗普运势强于拜登，选战气势压过对手，终局由特朗普胜出当选（其对手届时可能已非拜登本人）；③应期（单位：月）：拜登之变于2024年年中至选前落定，大选结果于2024年11月落定。",
+ "basis": "输入残损：只有拜登1942年生、特朗普1946年生（属狗），无二人月日时，八字只取年柱壬午／丙戌比较，降置信。事实优先（e）：占时普遍预期二人再对决，此为近段预期；然拜登高龄与任内支持疲弱为占题背景外可据之结构事实，其『难竟全功』据此而断。丙戌特朗普逢2024甲辰，辰戌冲主动荡中得势、斗性得用；壬午拜登逢甲辰火土耗水，势弱。两路比较，特胜拜弱。等级校准（b）：拜登断至退选或败落一级（中途生变与败落并列为同一终局方向下的两路，不另立相反终局）；特朗普断至当选一级。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-bazi-ziwei.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "WP-012",
+ "prediction_text": "方向：拜登赢得选举并实际就任总统。断语：拜登胜选且于 2021 年 1 月 20 日就职；特朗普一方不接受结果、围绕邮寄投票与计票发生持续争议与诉讼，美国出现严重对立与骚动，但不至国家解体或内战，政权按期交接。应期：2020 年 11 月 3 日定胜选（月档），远段主坐标为 2021 年 1 月 20 日就职日。",
+ "basis": "输入残损：无星盘无盘面，只据题目给定事实（拜登民调领先、邮寄投票争议、败者可能不认输的警告）作两段式判断（通则 i）：近段胜选归拜登，远段争议与对立即题目已给的事实线索，国家解体属无据拔高、不取，降置信。",
+ "confidence": 0.64,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "非六爻，三项全 false"
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

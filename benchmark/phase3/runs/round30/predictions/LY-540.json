@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-540",
+ "prediction_text": "随官上任不利：世官卯木虽临月建，却动化酉金回头克，父母文书又动化回头克且化空，任命落空、到任受克，不宜随往；窗口申日起至酉日，主坐标酉日（回头克化神值日）见变故分晓。",
+ "basis": "用神官鬼卯木三爻持世：卯月临月建本气旺，此为表面吉象。动化方向：卯木化酉金，回头克（金克木），酉得申日临值克力实；二爻父母巳火动化亥水回头克（水克火）且亥临空亡，文书任命化空。方向定性经动化裁决表改定：初判以官临月建拟吉，经回头克有力、无解（无冲合克去酉金者）裁决，终局改凶，故 changed_main。反转条件核：此非源绝，乃回头克本身定性。应期日档（上任近事）：冲实无，填实亥空填实路指向文书不应终局舍之，逢值取酉日化克神值日为主坐标。四路：本气+／元忌-（子孙金临日及化酉克官、原神财子水静弱）／动化-（回头克无解）／世应不计（世即用神并入路1）；合参以动化与忌链压本气，终局不成。",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "初以官临月建拟吉，经动化裁决（回头克无解）改定终局方向，故 changed_main=true；未用伏神；官鬼现卦唯一，无争议。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

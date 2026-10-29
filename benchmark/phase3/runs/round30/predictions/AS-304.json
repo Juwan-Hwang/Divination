@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-304",
+ "prediction_text": "方向：哈里斯胜（positive for Harris）——卡玛拉·哈里斯赢得2024年美国总统选举，成为美国首位女性总统，并以约306张选举人票胜出，特朗普落败。具体断语：胜负不在普选票而在选举人票定盘，哈里斯阵营拿下关键摇摆州后票数过半，约306票为其断语的标志性数字。",
+ "basis": "输入自带provenance原文链接（Timesnownews报道标题）明载其预测为『Kamala Harris would win the US elections, become the first Brahmin woman president with 306 seats』——306票与哈里斯胜即其2024-09-09原断的核心，照录复刻。无星盘数据，故不另造星象依据；对象与所问（2024大选结果）同一。",
+ "confidence": 0.85,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "YB-015",
+  "tradition": "liuyao",
+  "subject": {
+    "name_or_desc": "求财者（自占，未具名）",
+    "gender": "未载"
+  },
+  "context": {
+    "question": "问求财，问财利有无",
+    "asked_at": "秋月甲申日",
+    "setting": "明代民间卖卜占验实录（张世宝自记占例，散文体附断语与应验）",
+    "attachments": {
+      "casting_method": "liuyao",
+      "hexagram": "艮宫：火泽睽（四世） 之 雷泽归妹",
+      "moving_lines": "上爻父母己巳火动，化兄弟庚戌土",
+      "chart_lines_top_to_bottom": [
+        "父母己巳火（动）",
+        "兄弟己未土",
+        "子孙己酉金 世",
+        "兄弟丁丑土",
+        "官鬼丁卯木",
+        "父母丁巳火 应"
+      ]
+    }
+  },
+  "provenance": {
+    "book": "易林补遗",
+    "edition": "华龄出版社《四库存目纳甲汇刊（三）》校正全本（（明）张世宝撰，郑同校；用户经学校图书馆提供之扫描本）",
+    "license_note": "用户经学校图书馆提供，内部研究使用（redistributable=false）",
+    "page": "卷一总断章第一，书页2"
+  },
+  "language": "zh-Hant",
+  "license_status": "internal-research-only",
+  "redistributable": false,
+  "outcome_grade": "A",
+  "grade_note": "断验分离成立：断语（含应期断言）在前、原书另载应验在后，结局为冷门局部事实；原文以「又如」引例而附「果得」后验，与前批同口径",
+  "contamination": "low",
+  "contamination_reason": "明代民间占例，求测者皆未具名，结局为冷门局部事实，无著名人物与事件，无从常识先验得知",
+  "month_day_complete": true,
+  "chart_complete": true,
+  "completeness_basis": "原文记本变卦名（睽之归妹）与占日；动爻由本变卦爻位异同唯一确定，逐爻装卦按通行纳甲法则复原。生成器伏神定位：妻财丙子水伏五爻兄弟己未土之下，与原文「伏在未土之下」全合；甲申日属甲申旬、空午未，飞神未土正值旬空，与原文「未土空亡，透出子水」全合；申日为水长生之日，与原文「况逢长生申日」合",
+  "holdout_eligible": true,
+  "notes": {
+    "tags": [
+      "求财",
+      "伏神",
+      "飞伏"
+    ],
+    "comment": "总断章飞伏节求财例；与 YB-002 同为睽卦而问事、占日、结局皆异",
+    "cross_ref": ""
+  }
+}

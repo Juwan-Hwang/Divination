@@ -1,0 +1,19 @@
+{
+ "case_id": "OC-024",
+ "prediction_text": "方向：葬资有著，丧事可成。易者之家眼下无资营葬只是表面困局——其家自有藏金可掘：因鼠惊动而见分晓，自枕下所向的窖藏之处掘得藏金，数额足以营葬并稍有余，葬事因此办成，求托之事（邵雍来访承托身后事）亦有着落。此问为单点事项、无近远两段，不适用两段式。",
+ "basis": "梅花/外应取象合题面事实：输入未给任何卦象、数与起卦方式，属输入残损，无盘可排，置信据此大幅下调；可据者只有占题事实与出处标题所记『击鼠枕窖金』一线——鼠为惊动之应、枕为藏处之向、窖为地藏之所，金即葬资本体。按事实优先序，断语只在题面事实范围内落到：物品＝窖中藏金（对象/物品项），用途＝营葬之资（事件级），不另虚构卦象与应期数字。应期随掘窖即得、不另报日数，理由为输入无时间与卦数可推。",
+ "confidence": 0.42,
+ "systems_used": [
+  "meihua"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ],
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

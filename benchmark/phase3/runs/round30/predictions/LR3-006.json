@@ -1,0 +1,19 @@
+{
+ "case_id": "LR3-006",
+ "prediction_text": "方向：正向——仕途目今必然荣转、有升迁且得公卿推荐。 三传巳寅亥递互相生（亥生寅、寅生巳），传将递生、城吏二马之象齐，主当下荣转而非久候；中段防同僚传克诤章小阻，不改荣转终局。应期（月档）：窗口在近数月内，主坐标取日干壬水逢值兼官星寅木逢值之寅月。",
+ "basis": "六壬仕宦门：日干壬水，初传巳火为妻财乘贵人、中传寅木为子孙乘六合、末传亥水为兄弟乘天空，三传自末递生至初、神将递互相生，主荣转（参仕宦门细象组：城吏二马出现、传将递互相生定荣转、有公卿推荐）；元首玄胎：玄胎主移旧更新。天空末传只压细断确定性、不压方向。应期定月档，三路：逢值取寅，逢冲（申冲寅）主变动过大与荣转自洽度次之舍为备选，出空路（子丑空不临传）无候选。盘面无年命，年命路无据已注明。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuren"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuren.md"
+ ]
+}

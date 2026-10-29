@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-012",
+ "prediction_text": "方向：求不到这个教区职位（benefice）。七项负证齐全：土星在升受阻坏问、九宫主木星与升主及月亮皆无相位、升主与月皆不在九宫、无传递无收集光线、主星间无接纳、月离三合趋合冲水星。断：任其如何奔走，此职终不属他，应另谋生计，不必强求。",
+ "basis": "仕宦/九宫职占：主星无相位无接纳无传递为不成之决定性组合，Lilly原文自列七证。输入部分字形残损但七证文字明确。",
+ "confidence": 0.88,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

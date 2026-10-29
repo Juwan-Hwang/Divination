@@ -1,0 +1,19 @@
+{
+ "case_id": "WP-008",
+ "prediction_text": "方向：莫迪领导的 BJP/NDA 获胜连任。断语：2019 年印度大选由现任总理莫迪一方赢得执政多数，莫迪开启第二任期，反对党国大党阵营不能翻盘。应期：计票日 2019 年 5 月 23 日揭晓（事件尺度为月档，窗口为 4 月 11 日至 5 月 23 日投票计票期，主坐标为 5 月 23 日计票日）。",
+ "basis": "输入残损：无任何候选人出生盘、无完整星盘、无起占盘面，不能按西洋占星本命法作断；只据题目给定事实（现任莫迪寻求连任、报道标题所据占者群体倾向莫迪）与事件判断作断，故降置信。事实优先序（通则 e）：在位者优势与占者共识同向，无反向盘面证据。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "非六爻，三项全 false"
+ },
+ "systems_used": [
+  "horary"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "case_id": "MP-005",
+ "prediction_text": "方向：韩国瑜胜出机会低，最终败选，不能当选。断语：①其初选胜出之声势即为全程最高点，此后支持度一路下滑，不复初选时之势；②2020年1月投票，蔡英文胜、韩国瑜败，差距明显（逾200万票量级）；③应期（单位：月）：败局于2020年1月投票月落定，主坐标2020年1月。本问问胜出机会之终局，近段声势只作过程，不以近段之盛改终局之败（通则i/j）。",
+ "basis": "输入残损：只有韩1957年生与初选背景，无月日时，八字只取年柱，降置信。事实优先（e）：受访时韩初选刚胜、声势处高点，此为近段事实；然其带职参选的正当性争议与市政包袱已在占题背景中成形，属可持续耗损项。丁酉年生逢2019己亥已起耗、2020庚子冲耗加重，势由盛转衰，终局取败。等级校准（b）：耗损依据具体（年柱冲耗＋带职争议），降格有据，非无据保守。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "bazi"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-bazi-ziwei.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/calibration.md"
+ ]
+}

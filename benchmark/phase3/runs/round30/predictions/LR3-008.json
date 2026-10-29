@@ -1,0 +1,19 @@
+{
+ "case_id": "LR3-008",
+ "prediction_text": "方向：正向——功名已废复兴、定主迁官转职。 铸印课入仕宦门为迁擢吉格，干上贵人乘进气、虎马丁神生日、四墓覆生，起官之征明确；八专绝嗣之凶在此只压私门/后续，不压本次起官。应期（月档）：窗口在当年秋冬，主坐标取仲冬填实之月——子月（仲冬司令填实旬空）为起官主坐标。",
+ "basis": "六壬仕宦门：课式八专、铸印、绝嗣——铸印（戌加巳乘太常类）于仕宦门主有官必迁；三传巳火（白虎，父母印绶）生戌土、戌生/临卯木官鬼之链，印官相生。仕宦门细象组：干上贵人落旬空乘进气者不迳作虚望，交仲冬填实即起官；虎马丁神作岁君生日、四墓覆生主已废复兴、迁官转职，本例干支时课与该细象组形态合。绝嗣格凶义按所问分判，只记后续之忧不断本次迁转。应期月档：出空填实路优先（贵人/关键神落子丑空），取仲冬子月填实；逢值、逢冲两路尺度与填实闸门冲突，闸门优先舍之。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuren"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round30/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round30/kb-snapshot/references/chinese-liuren.md"
+ ]
+}
