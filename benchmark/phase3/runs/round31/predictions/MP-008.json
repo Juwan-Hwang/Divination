@@ -1,0 +1,21 @@
+{
+ "case_id": "MP-008",
+ "prediction_text": "民进党由蔡英文出战，蔡英文能与韩国瑜一较高下且占上风。断语：党内初选赖清德挑战不成，蔡英文胜出代表民进党参选连任；2020年1月蔡韩对决，蔡最终胜出连任。时点：初选结果应在2019年年中定盘。",
+ "basis": "问于2019年3月19日、赖清德前一日宣布参加初选：事实为挑战骤起但蔡握现任资源与党机器。按现任根基未断、挑战者根基较浅判蔡出线；出线后与韩对决，韩声势属冲顶后回落型，蔡守成翻转，故断蔡占上风并连任。应期单位为月/年：初选以月计、大选以2020年1月投票为终局。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "八字/流年运势（现代命理师选举断法，事实局势参断）"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

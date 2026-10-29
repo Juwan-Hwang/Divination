@@ -1,0 +1,20 @@
+{
+ "case_id": "LY-521",
+ "prediction_text": "方向：可得利——往粵東探親，帶金類貨物歸來得利：以金屬器物、金銀首飾、銅錫器皿一類（妻財屬金）為所帶之貨，歸賣獲利，利不薄。應期以月為單位：窗口為歸程數月內，主座標酉月（妻財酉金逢值最旺）。",
+ "basis": "用神妻財候選枚舉：現卦同親兩現——酉金應靜、申金靜；變爻無（靜卦）；日月未土、申金——申金日支同親與現卦申金同支並記作臨日證據；現卦有同親不取伏。否決標記：酉金未月土生為相、不空（戊申屬甲午旬空辰巳）、不破；申金相、臨日建。定主取應爻酉金（異地之貨以應位為所指、位分勝出），changed_main=false（首遇同親即酉）；申金無空破標記、落選所據為位分次序，不留應驗位，reserve_used=false；disputed=false。原神子孫未土、辰土世生財，子孫土生金鏈在；世辰土旬空命中（辰空）只主本人行程待出空、不壓財旺之終局（世非用神）。四路：本氣＋／元忌仇0（兄火靜不克動）／動化0／世應計：應財即所問之貨、世子生應財同向＋；合參成向。貨類取象：財五行屬金定金類貨（事象級：物品一項落實）。門類應期對表：囤貨賣貨對表財旺相無對位空破項，按三步逢值取酉月。對象對齊：所問本人攜貨之利／用神財酉應／應驗歸來所賣之貨財，同一。本題應驗跨度月檔。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "主用應財酉與首遇一致；申金無空破不留位；兩財同向可裁無存疑"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

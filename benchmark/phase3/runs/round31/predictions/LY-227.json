@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-227",
+ "prediction_text": "方向：乡试不中，负向。初占兑为泽静卦且为六冲卦，父母未土持世、丑土应，两父皆静，六冲主榜事散而不聚，初占已定不中之局；再占地泽临之师父母巳火动化官鬼寅木回头生父，只主文章/父母一线有力、近于成名，不足以推翻初占六冲——一事前后两占，以初占为主、再占为参。具体断语：本届乡试名落孙山，放榜时见分晓；再占之生父只预示下届或文章本身可取。应期尺度为月档（发案在本届试期），窗口为本届放榜月内，主坐标取巳日/巳月一线父母逢值之日为榜文揭晓点（再占父巳逢值），届时定不中之局。",
+ "basis": "初占六冲静卦父母静；再占动化方向：父巳→寅木回头生父，吉向只调量级。取用：父母为乡试用神两占并列，初占定主。四路以初占：本气父土午月相0／六冲散势与子孙亥水动?静克官链偏-，合参负向。反转扫查：再占生父属部分吉象，不成完整反转链，不翻初占。对象：父母=榜文，应验落求测者本届功名，同一。对表功名发案：父旺静逢值冲，再占父动逢值，取巳值作揭晓点。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": true,
+  "reason": "reserve_used=true:再占卦作备用参断未作主断；disputed=true:前后两占方向相左；changed_main=false:主断始终从初占"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

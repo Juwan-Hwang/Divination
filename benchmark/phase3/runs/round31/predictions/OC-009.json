@@ -1,0 +1,20 @@
+{
+ "case_id": "OC-009",
+ "prediction_text": "断（残损限断）：四柱既缺，只能就题面事实与命主已知身份层级作有限之断——命主仕途为外交界顶尖级：历任驻外使节与内阁职务，一生贵显长久、位望至外长以至代理阁揆之级，财富得自职位与婚姻之助而丰厚，婚姻非一次顺遂、有再婚之象而晚婚得助。晚年退居海外著述，以高寿善终，寿数九十以上。以上断语因无盘可据，盘面应期与运段一概不报。",
+ "basis": "输入残损（重要）：本题四柱字段原文即为『原书应运篇下论造（四柱以原书为准，转录本个别字待校）』，没有给出任何干支——无从排盘、无从走特格扫描/主线/大运诸程序，凡涉格局、用神、运段、病位者一律不臆补。仅据题面给定事实作断：命主为顶尖外交官、已历任驻外使节与内阁职务（此为承受对象与应验对象同一之核对所据），问题为财富、仕途与婚姻行运如何，故只在事实层级内给方向与等级：仕途顶尖、财丰、婚姻有波折而得助、晚年高寿。置信因残损大幅下调；若他日补得原书四柱，须全盘重断、本断作废。",
+ "confidence": 0.3,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "八字"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-bazi-ziwei.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md"
+ ]
+}

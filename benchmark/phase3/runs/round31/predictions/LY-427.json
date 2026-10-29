@@ -1,0 +1,20 @@
+{
+ "case_id": "LY-427",
+ "prediction_text": "终局单一方向：负面——父在云南之音信迟滞，近期不得信。父母巳火为音信用神，戌月休囚，又被子日水克，静而不动，无冲拨引动之机；世爻官鬼卯木虽得月合、能生父母，只是占者牵挂之象，救不了父母受克。应期双层：尺度取月档（远地音信），窗口至巳火得生旺之期，主坐标巳日（父母逢值兼得生扶之始），此前无信。",
+ "basis": "用神父母巳火（初爻），静卦无动爻。父母戌月休、子日克之，无日月生扶；空亡申酉不临父母。动化方向：无动爻，无化出。反转条件：无化退化绝，不适用。四路：本气−／元忌仇0（原神卯木即世，得月合能生父但父母受日克未解）／动化0／世应不计；合参方向败向（信迟）。应期三步：定尺度月档（远方音信）；冲实路无（巳逢亥冲反克）、填实路无（不空不破）、逢值路取巳日为主坐标，舍冲实（亥日冲巳助克、与终局不合）、舍填实（无空破可填）。对表：无音信门类，明写对表无此门类，按三步原序定点。对象对齐：所问父之音信—用神父母巳火—应验落父亲音信本身，同一；主语复述：得信者为父方音信，非占问者本人之事。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "静卦无变卦可主；父母现卦未用伏神；盘面信号同向（休囚受克主迟），无争议读法。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

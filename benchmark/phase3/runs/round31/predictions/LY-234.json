@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-234",
+ "prediction_text": "方向：父可起用，正向，起用在亥月。父母两现同动：初爻父母寅木动化官鬼子水，化出官星且水回头生木父，父母化官正是父辈起用之象且得生；上爻父母卯木动化子孙未土，木入未墓、化泄，为另一父位候选，主起用过程有入墓迟滞之量级，不翻初爻化官定性。具体断语：父亲终得起用/复职，过程先迟后通。应期尺度为月档（年内起用），窗口为本年内，主坐标取亥月（亥合寅木动父、且官星亥水逢值，两路合流）为起用定点；子月化神逢值为备选，舍因亥月合父+值官双合流胜出（应期对决合流项）。",
+ "basis": "用神父母两现：上卯、初寅同列，初寅化官回头生定主用，上卯化墓保留应验位主迟滞。动化方向：父寅→子水回头生且化官吉向；父卯→未土化墓泄。反转条件：化墓无生扶一路只及上爻候选，不及主用。四路：父本气卯月旺+／化官回生+，合参正向。对象：父母=父，应验落父之起用，同一。对表无子占父功名门类，明写无表；三步逢值/逢合取亥月，双候选对决亥胜子（合流项）。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": true,
+  "reason": "reserve_used=true:父母两现中上爻候选保留应验位；disputed=true:两父动向一吉一墓相左；changed_main=false"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

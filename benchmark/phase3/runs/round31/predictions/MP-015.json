@@ -1,0 +1,21 @@
+{
+ "case_id": "MP-015",
+ "prediction_text": "2024龙年拜登与特朗普皆多波动，特朗普最终较有利。断语：①特朗普（1946年生、属狗）逢龙年狗龙相冲，年内官司缠身、波折与口舌极多，然气势不衰；②拜登（1942年生、属马）龙年气弱体衰，年中有退选/交棒之象，难以打满全程；③大选竞争以特朗普占上风，2024年11月特朗普胜出重返白宫。应期以年为单位，先定2024年、关键点在年中拜登一方生变与11月投票。",
+ "basis": "问于2024年2月农历新年CNN专访、市场预期两人再对决：生肖流年上特朗普属狗冲太岁主多事多讼，拜登属马而年事与体力为其弱项，年运气弱于特朗普。按等级校准：冲太岁压特朗普之顺遂程度（断多波折）但不翻转其气势方向；拜登气弱写明压制依据为年龄体力与民调低迷之事实面。终局方向取特朗普胜，拜登退选之象为年中触发点。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "八字/流年运势（现代命理师选举断法，事实局势参断）"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

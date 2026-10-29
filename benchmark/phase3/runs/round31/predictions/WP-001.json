@@ -1,0 +1,19 @@
+{
+ "case_id": "WP-001",
+ "prediction_text": "Direction: Yes — the 2020–2021 period holds a major collective affliction of the pandemic kind: a widespread epidemic disease (plague-like, respiratory in character) erupting at the Jupiter–Saturn–Pluto conjunction in early 2020, bringing mass illness, heavy mortality and prolonged social disruption through 2020 and into 2021. This is the period's defining collective event, on the scale of the 1918 precedent named in the configuration's own comparison set — not a minor or localised outbreak. Timing: onset/concentration at the exact conjunction, early 2020, with the affliction window spanning roughly two years (2020–2021).",
+ "basis": "Mundane astrology per snapshot: Saturn–Pluto conjunction is the classical signature of mass hardship, death and structural crisis; Jupiter joining amplifies scale to the global/collective level. The cyclical index at its 21st-century low with five outer planets within ~100 degrees marks maximum collective pressure. The setting's own comparable clusters (1918 influenza pandemic, 1968 influenza) set the event class as pandemic rather than war or economic crisis alone. No natal chart is given; the reading rests solely on the supplied mundane configuration, hence confidence below certainty.",
+ "confidence": 0.75,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western mundane astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

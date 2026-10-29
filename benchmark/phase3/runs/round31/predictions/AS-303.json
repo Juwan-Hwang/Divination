@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-303",
+ "prediction_text": "倾向判断：第三次世界大战不会在2024年爆发（negative对‘三战爆发’）。2024年虽有俄乌、巴以两场战争与火星/冥王等紧张相位带来的升级窗口（6月下旬至7月、以及秋冬为误判与扩散风险最高期），但无支持‘多国全面世界大战正式爆发’的决定性成局——冲突维持区域性与代理性、核门槛不破。凡把三战钉在2024年某一具体日期者皆不成立，年内该日期只见紧张新闻与局部交火升级，不见三战开战。应期（年档：终局类先定年）：窗口为2024全年，主坐标为2024年内无三战爆发、风险峰在年中而过而不发。",
+ "basis": "按吠陀/西洋世界占星合参：火冥紧张只成升级风险、不成全球成局，木星行运亦无世界大战成格；终局类问题合SKILL通则(k)先定年档、不径落某日。输入无预测者原盘与具体星象，属残损输入，置信下调。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "vedic_astrology",
+  "western_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

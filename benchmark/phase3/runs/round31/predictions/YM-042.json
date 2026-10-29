@@ -1,0 +1,19 @@
+{
+ "case_id": "YM-042",
+ "prediction_text": "占妻身：妻病可愈而迟，伏神临日有气、待出而愈。应期以日为单位（近病日档）：窗口为占后旬内，主坐标取伏神妻财逢值之寅日（占日戊寅，伏财寅木临日）所属旬内之卯日为定点，以伏财得值后之卯日愈象落实。",
+ "basis": "六爻纳甲，坎宫水火既济，静卦。代占妻病以妻财为用：妻财不上卦寻伏，伏神妻财寅木得戊寅日临值，伏得日气有根；飞神官鬼丑土，木克土，飞不压伏。伏神待出判据：伏得临值一项成立、飞神受伏克遮压松动，待出成立（中弱）。原神兄弟亥水世、子水生财静有源。财木午月泄气为休，愈迟。对象复述：主语为占者之妻，同一。疾病断语只到愈否与应期，病位无据不妄断。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "用神不上卦，启用伏神取用"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

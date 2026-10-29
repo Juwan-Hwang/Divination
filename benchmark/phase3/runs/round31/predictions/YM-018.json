@@ -1,0 +1,20 @@
+{
+ "case_id": "YM-018",
+ "prediction_text": "方向（单一终局）：子必归，归期近。应期双层：窗口为甲子一旬之内（日档），主坐标取卯日——卯冲独静之子孙酉金，静爻逢冲而归至。",
+ "basis": "五爻动、一爻独静：自下初父巳动、二官卯动、三兄丑动、四子孙酉金世独静、五兄未动、上父巳动，独静者正是用神子孙酉金且持世。独静章以静爻定应：酉金巳月火旺金死为休囚，赖日辰乙丑土临支生金（土生金，原神得日），静而有援；行人静爻逢冲而动，酉冲在卯，旬内卯日（二爻官卯动支同气）先于逢值酉日，取冲日；逢值一路舍弃理由为同尺度内冲先动身、与归象自洽。对象复述：归者为占者之子本人。动化方向：用神静无动化，众动不涉子孙生克主链；反转条件：无。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md"
+ ]
+}

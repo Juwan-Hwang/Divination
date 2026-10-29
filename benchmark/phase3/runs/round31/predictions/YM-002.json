@@ -1,0 +1,20 @@
+{
+ "case_id": "YM-002",
+ "prediction_text": "方向（单一终局）：兄弟之病可愈、不主死。近段病势沉重缠绵，远段药力渐入而转安；应期双层：窗口为本旬余下至出旬之初（旬内，近病以日为尺度），窗口内主坐标取戌日——子孙戌土填实出空、药神得力之日见明显转机。",
+ "basis": "用神兄弟壬午火唯一现卦：未月休、无空破，日申不克火，本气虽弱未绝。忌神官鬼己亥水临世而旬空（甲子旬戌亥空），鬼空则凶不实；原神父母己卯木初爻动来生兄，虽卯木囚月受日金克、动化辰土泄气，源弱而不断；子孙土多克水制鬼，戌土子孙虽空而待填实。动化方向：财申金动化未土回头生、其力克原神木，只压量级（愈迟）不翻终局；反转条件：源绝三征不齐（原神未化绝、有根），不成立。初看财动克源、兄休似重，经鬼空与原神动生裁决改定向愈。对象复述：病者为占者之兄弟，断语落兄弟本人。动化方向：原神木动生用神火、定性吉向；反转条件：源绝/化退化绝无生扶两路俱未齐备，不反转。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "初判以兄休、财动克原神偏重，经官鬼旬空、原神发动生用神与子孙制鬼裁决，终局改定为可愈，故changed_main=true"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md"
+ ]
+}

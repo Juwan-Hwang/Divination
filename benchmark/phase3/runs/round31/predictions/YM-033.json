@@ -1,0 +1,19 @@
+{
+ "case_id": "YM-033",
+ "prediction_text": "复卜后嗣：有子可望，此番复卜与初占不同，子孙有气得生，后嗣终得。应期以年为单位：窗口在后续数年内，主坐标取子孙逢值之亥年（子孙丁亥水逢值之年）得子。",
+ "basis": "六爻纳甲，兑宫泽地萃，静卦。求嗣以子孙为用：子孙丁亥水四爻，得甲申日申金生扶、临申日之母气，子孙有根有生；卯月木泄水为月泄而日生补之，有气。世官鬼巳火，卦名萃主聚，子孙居四爻近世。背景事实：求测者行善积年后复卜，事实优先序下子孙得生之新象按新断，不守初占无子之旧断。应期三路：逢值取亥年，填实冲实无空伏可取，舍之。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

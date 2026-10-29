@@ -1,0 +1,21 @@
+{
+ "case_id": "MP-003",
+ "prediction_text": "韩国瑜会参选2020年总统。断语：他不会安于高雄市长任满，2019年年中即会表态/被拱参选，并取得国民党提名直攻大位；时点窗口为2019年年中，主坐标2019年7月前后完成提名程序。至于当选与否本问未问，只断参选成真。",
+ "basis": "问于2019年1月、韩就任市长约两周而韩流正盛：事实为声势已溢出市政层级、支持者拱选之势成形。1957年生人2019己亥年为其声势冲顶之年，运势主向上突破现有位置而非守成，故断必参选。应期单位为月，依据声势累积至党内初选时程（年中）定窗。",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "八字/流年运势（现代命理师选举断法，事实局势参断）"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

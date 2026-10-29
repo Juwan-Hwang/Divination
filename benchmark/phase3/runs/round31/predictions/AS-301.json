@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-301",
+ "prediction_text": "倾向判断：2020年世界局势以突发公共卫生危机为主线（negative/大动荡年）。土木冥集聚摩羯、年初土冥合相触发结构性危机：逐月主线为——年初危机种子在东亚显形，2–3月迅速扩散为全球流行并伴股市暴跌与封锁，春季（3–4月）为扩散与医疗挤兑高峰，入夏一度缓和但经济衰退落实，秋冬再起一波扩散与收紧。全年关键词为传染病、封城停摆、市场先崩后靠货币政策急救、供应链与出行中断，而非平稳年。应期（月档：逐月年运）：窗口为2020全年，主坐标为2020年3月全球扩散与市场崩跌同时见顶。",
+ "basis": "西洋世界占星：2020年土冥合于摩羯（结构/权威/经济体系受瘟疫型冲击）、木土年底转合水瓶为旧秩序断裂年；按月行运与日月食推进得春峰秋再起之两段进程。输入无原预测逐月原文、无星盘数据，属残损输入，具体月份以行运节点推定，置信下调。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

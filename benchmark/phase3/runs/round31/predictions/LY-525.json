@@ -1,0 +1,20 @@
+{
+ "case_id": "LY-525",
+ "prediction_text": "方向：可服牛黃丸——父病中風，服之有益無害：父母雖伏，伏火克飛金、遮壓不重，藥神子孫臨日持世旺相能抑病星。應期以日為單位：窗口為數日內，主座標巳日（伏神父母巳火逢值出現，服藥見效／定局之日）。",
+ "basis": "子占父病，用神父母候選枚舉：現卦同親無；變爻無（靜卦）；日月同親——月建原文記載不全無從枚舉、日支酉金非父母之親（火）；三源俱無，入本宮首卦坤為地同位尋伏：父母巳火伏於五爻子孫酉金之下（坤宮首卦五爻巳火父母同位）。伏神飛伏清單：伏巳火克飛酉金（火克金，伏能克飛、遮壓輕）；伏得日月生扶一項因月建缺失無從核、日酉不生火；飛神酉金臨日旺相一項不利。待出判別滿足項不足強檔，定待出中弱——只作可出待值論，不以伏出單獨翻轉。候選唯一（伏），changed_main=false；無空破落選候選，reserve_used=false；disputed=false（取用鏈次序明確，存疑只在旺衰因月建缺失，已降置信並在此註明：輸入月建記載不全、asked_at作亥日辛酉日自相牴觸，旺衰只能按日辰與飛伏定）。藥神子孫酉金持世臨日旺，克病星官鬼寅木；官寅應爻靜。動化方向：靜卦無動化；反轉條件無從成立。四路：本氣0（月缺、伏火力量中平）／元忌仇＋（藥神旺克病、原神官寅即病星不另計）／動化0／世應不計（代占看用神，世子為藥神作旁證）；合參以藥克病＋伏克飛定可服向、量級降格。對象復述（病占）：主語逐條為父——父病服丸有益、父之見效巳日，同一。本題應驗跨度日檔（近病服藥）。",
+ "confidence": 0.48,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "伏神父母按次序鏈唯一取定；無空破落選；取用無存疑（旺衰因月建缺失降置信、已註明）"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

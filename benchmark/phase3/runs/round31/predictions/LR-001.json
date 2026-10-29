@@ -1,0 +1,19 @@
+{
+ "case_id": "LR-001",
+ "prediction_text": "正向偏安（性命无虞、被扣而终得释放）：蒋介石在西安被扣，断无性命之死，只主拘系受制一段时日后脱出、平安获释。时间窗为1936年12月内，主坐标12月下旬（圣诞前后数日）获释脱险。此断置信低，理由见basis残损说明。",
+ "basis": "输入残损（严重）：本例只给被占者身份、事变背景与所问，无课式、无四课、无三传、无天将、无占时干支、无年命，六壬起课与复核盘面的全部要素缺失；按六壬篇第八节盘面不全规矩再进一层——本例连可据者（干支、三传、课格、空亡）亦无，不得臆补任何盘面、不得虚构课传作断据。故本断不建立在盘面之上，仅据占题事态（扣押而非行刑、请占问生死）作低置信方向断：主生还获释；应期只能给月内窗与下旬主坐标，无盘面应期三路可走，明写应期无据、只作尺度估计。置信因此大幅下调。",
+ "confidence": 0.35,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "无体系盘面（输入残损，未能起课）"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuren.md"
+ ]
+}

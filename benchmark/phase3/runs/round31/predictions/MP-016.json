@@ -1,0 +1,22 @@
+{
+ "case_id": "MP-016",
+ "prediction_text": "特朗普胜出当选。断语：以『相』字问卜——相字木目相成、左木右目，主其人形相气势压过对手；2024年11月5日投票，特朗普击败哈里斯当选美国第47任总统，胜负关键在摇摆州尽归其手，非险胜一州之差。应期即投票日，单位为日因问卜本身以该次投票为尺度。",
+ "basis": "问于2024年10月29日、投票前一周选情胶着：测字以『相』字结构取象，木为生发之主、目为观局之明，字象完整无破损，主所问之人（特朗普）成局。事实面胶着故胜幅只断至摇摆州定盘，不作压倒性大胜之无据拔高。测字为现代命理师专栏常用法，与局势参断同指特朗普胜。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "测字（字占）",
+  "八字/流年运势（现代命理师选举断法，事实局势参断）"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

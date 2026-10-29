@@ -1,0 +1,21 @@
+{
+ "case_id": "MP-006",
+ "prediction_text": "韩国瑜2020年（63岁）运势先盛后衰，总统之路难成。断语：2020庚子年韩上半年仍有声势余温，但流年冲克其命，年中后运势急转直下，总统大选落败；且高雄市长本位亦生动摇，去职之险在年中之后浮现。应期以年为单位：败象应在2020年1月投票，年中另有市长职位关口。",
+ "basis": "问于2019年9月27日、韩民调自8月起下滑：近段下滑已是给定事实。按两段式：近段（2019秋冬）声势续跌，远段（2020年）翻转触发为庚子流年冲其生年根基，主根基动摇，故总统之路断难成、市长位不稳。应期尺度定为年档，依据为问年运与总统之路属终局类问题，先定年不径落日。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "八字/流年运势（现代命理师选举断法，事实局势参断）"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

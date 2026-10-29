@@ -1,0 +1,21 @@
+{
+ "case_id": "MP-014",
+ "prediction_text": "特朗普病情无性命大碍但选情不利、连任失败。断语：①病情——确诊新冠后可康复出院，无致命之危，惟病后气势受挫；②选情——11月3日大选对特朗普不利，拜登胜出，特朗普连任落败，选后争议缠讼亦不能翻盘。应期以月计：病程在10月内见分晓，胜负在11月投票日定盘。",
+ "basis": "问于2020年10月3日、特朗普确诊翌日距投票约一个月：两段式——近段病势，触发为其年运根基尚在故断可愈不至危殆；远段选情，触发为确诊打乱选战节奏且其流年气运已过顶、对手守成得势，方向翻为不利。1946年生人2020庚子年冲动多端。等级按『病可愈、位不可保』分开落断，承受对象同为特朗普本人，已复核同一。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "八字/流年运势（现代命理师选举断法，事实局势参断）"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

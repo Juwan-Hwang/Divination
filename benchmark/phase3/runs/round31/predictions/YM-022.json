@@ -1,0 +1,19 @@
+{
+ "case_id": "YM-022",
+ "prediction_text": "占身命：身命平常偏弱，多耗多劳、无大贵亦无大凶之局，一生以守成自保为宜，少年中年劳碌、晚境稍安。应期以年／运为单位（身命年档）：不落具体日月，起伏应在世爻午火逢生旺之年转佳、逢冲克之年多病耗。",
+ "basis": "六爻纳甲，兑宫雷山小过之艮六冲。自占身命以世爻为用：世四爻官鬼庚午火，子月囚、日戊申金耗，休囚；世动化父母戌土，化泄，午戌半合仅缓泄势。上爻父母戌土动化妻财寅木，寅木旬空（甲辰旬空寅卯），助力待空不实。动化方向：世化土为泄；反转条件不成立。等级校准：世休囚化泄，无提格依据，故只断平常偏弱，不拔高亦不直断死绝（未合终局三类条件）。四路：本气−／元忌仇0／动化−／世应不计；合参偏弱向。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

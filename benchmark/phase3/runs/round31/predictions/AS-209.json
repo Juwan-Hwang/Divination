@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-209",
+ "prediction_text": "方向分两问：其一，国王能办到爱尔兰援军——会取得来自爱尔兰的兵力援助并用以牵制/损害议会，但来得迟缓。国王征星月亮居巨蟹第10宫、自宫、增光、除行迟外全然无伤，主王势根基未毁；第11宫（援助宫）主太阳擢升居第7宫、入相第11宫头尚差6°、正冲上升（议会），主援军将成形并正对议会，只是6°主迟——以月计，约数月内援力方实。其二，王后自北南进：能进军并与国王会合，但她本人运势转衰、进军不算昌盛得利。王后征星土星正移座入白羊——其陷弱之座（fall），主她越进越失势、所图难成大功；月亮距与土星成三合尚差3–4°，主会合在3–4个时间单位内实现（以月为单位计，约三四月内会师）。合断：援军有、会师成，但王后一路入弱，王室得援而无大昌之局。",
+ "basis": "双问分链：（1）Moon 自宫居10增光 + 11主擢升入相宫头定援军成而迟；（2）Saturn 入 fall 定王后进而不盛，Moon–Saturn 三合差3–4°定会合应期，单位取月（战局尺度），不落到日。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology (Lilly, classical)"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

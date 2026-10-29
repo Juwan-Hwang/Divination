@@ -1,0 +1,20 @@
+{
+ "case_id": "LY-529",
+ "prediction_text": "方向：此墳地平而不吉、不宜久用——剝卦土薄剝蝕之象，父母一空一休，地力有虧；子孫持世旺相，後人福澤尚存，故斷中下之地：葬之無大發、家道易見剝耗。應期以年為單位：窗口為其後數年內，主座標戌年（父母戌土逢值之年，地力之應顯現）。",
+ "basis": "輸入殘損註明：attached chart_note 明言逐爻裝卦表經OCR行序錯亂、未能可靠還原，且asked_at作原文未明記月日、另欄又給申月戊子日與空亡午未，兩處牴觸——逐爻只按所附可互證之列作斷、月日採另欄申月戊子日並降置信，不臆補。用神父母候選枚舉（按所附列）：戌土四爻靜、未土初爻靜；否決標記：戌土申月休、不空；未土休、旬空命中（午未空）。互比戌不空勝出定主，changed_main=false；未土空落選，其填實座標未入應期池（主座標取戌逢值），reserve_used=false；逐爻可靠性不足、取用存疑明寫，disputed=true。子孫子水世爻申月金生為相、子日臨值旺——後人福澤有根（旁證調量級）。伏兄申金在子水下只作旁記。動化方向：靜卦無；反轉條件無。四路：本氣0／元忌仇0／動化0／世應不計；合參以剝象＋父衰空定平而不吉向、子旺降其凶級。門類應期對表：墳地對表無此門類，按逢值取戌年。本題應驗跨度年檔。",
+ "confidence": 0.42,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "主用父戌以不空勝空父未、未變；未土填實期未入池；逐爻OCR殘損致取用存疑"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

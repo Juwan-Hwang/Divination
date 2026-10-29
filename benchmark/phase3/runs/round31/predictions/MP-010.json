@@ -1,0 +1,21 @@
+{
+ "case_id": "MP-010",
+ "prediction_text": "最有当选之相者不是郭台铭。断语：郭台铭若参选2024总统，不能当选——其相主财星企业之格而非帝王之格，参选终将退于局外；三组/诸人选中以赖清德最有当选之相，2024年1月由赖清德胜出当选总统。郭之动作至多搅动选局，不能登顶。",
+ "basis": "问于2023年1月5日、各党人选未定而郭被点名：郭1950年生、2019年已有初选败退与退党前科，事实面其政党根基薄弱。按格局等级校准：郭格局至巨富而非至总统，写明压制依据为无政党提名根基与前次参选已败；赖清德时任副总统、执政党接班位置明确，根基最足，故断赖最有当选之相、郭不能当选。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "八字/流年运势（现代命理师选举断法，事实局势参断）"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

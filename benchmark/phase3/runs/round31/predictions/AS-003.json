@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-003",
+ "prediction_text": "方向：能买成——可与卖家成交，并能及时筹到购房款，尽管钱款迟滞吃紧。卖家征星太阳居第7宫得金星接纳、且第7宫主兼第11宫主（希望宫）主交易可谈；金星入相拱第4宫主土星（房屋本身）主契约落于房屋。钱款：第2宫主水星逆行主自有资金一时收不回、须拖延筹措（题面自述须六个月），但不致误事——最终在付款期限前凑齐成交。时间窗为数月内，主坐标约六个月钱款到位时完成交易。",
+ "basis": "Venus入相三合Saturn（4宫主=房屋）为成事主链；月亮传光（虽长上升星座之刑实效近六合）助成；Saturn为4宫主本质无大伤、仅逆行迟宫主迟而可成；水星逆行只压钱款速度、不改终局。",
+ "confidence": 0.75,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology (Lilly, classical)"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

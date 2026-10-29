@@ -1,0 +1,21 @@
+{
+ "case_id": "MP-004",
+ "prediction_text": "蔡英文当选连任。断语：2020年1月11日蔡英文击败韩国瑜连任总统，韩国瑜落败；胜差为明显差距而非险胜。宋楚瑜若参选亦居第三，不影响蔡韩对决结局。",
+ "basis": "问于2019年11月9日、多项民调显示韩国瑜持续落后：占题事实已给定民调差距，按事实优先序不逆势翻断。蔡为现任且运势守成有根，韩流年声势已过高点回落，两路同指蔡胜。应期即投票日，单位为日因问题本身以选举日为尺度。",
+ "confidence": 0.8,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "八字/流年运势（现代命理师选举断法，事实局势参断）"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

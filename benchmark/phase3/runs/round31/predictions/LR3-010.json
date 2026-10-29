@@ -1,0 +1,19 @@
+{
+ "case_id": "LR3-010",
+ "prediction_text": "方向：正面偏平——仕途安稳可守，无大灾，久后有迁。伏吟课任信宜静、动不如守，近段安于现任不动；初传巳火父母乘朱雀生日干戊土，主文书诏命之生扶，中传申金子孙乘天后泄身主暂无进取之力，末传寅木官鬼乘青龙居末，官星终归青龙显位，主远段得迁擢之机。玄胎主事尚隐匿未分，故近段不报速迁。应期（月档）：窗口为来年春季，主坐标取寅月——末传青龙官星逢值之月见迁转佳音。此为一段近守、远段由末传寅官青龙触发，非无据外推。",
+ "basis": "六壬仕宦门：日干戊土得初传巳火父母生扶为根，官鬼寅木青龙居末传为远段触发（通则i/j逐段指认）；伏吟格主向宜静守，只压近段量级。代占未具名、年命未给，对象只断『此在朝官员』本人仕途，不臆补其身份官职。子丑旬空不入传。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "大六壬"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuren.md"
+ ]
+}

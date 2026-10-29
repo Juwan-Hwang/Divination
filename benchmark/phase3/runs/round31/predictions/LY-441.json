@@ -1,0 +1,20 @@
+{
+ "case_id": "LY-441",
+ "prediction_text": "终局：本日晴（无雨）。子孙寅木持世发动主晴，化子孙卯木为化进，卯木临日值、辰月木旺，晴神旺动而进；父母申金临旬空（己卯日空申酉）且静，雨神空而无力，按天时注文父空财路又以子孙代晴断之，无雨可下。官鬼戌土动化兄弟亥水只是阴云一过之象，量级上主清晨略阴，不改晴局。应期双层：尺度日档，窗口为本日，主坐标卯时（化神临值），主晴明定局之时。",
+ "basis": "天时读法（L1-62及注）：父动主雨、财动主晴、子孙主晴；卦无父母或父空、财又空者雨晴另据，本卦父申金空静、财不现本卦，子孙旺动化进即为晴之主据。动化方向：寅→卯化进，化神卯木临日建。官鬼戌土化亥水：化神亥水→戌土为克（水克……核：土克水，化神被本爻克），鬼化出受制，阴象无力。动化定性：用神一系化进为吉向优先。反转条件：无化绝无扶，不反转。应期：日档，化神临值取卯时。对表无天时门类，明写无此门类。对象对齐：所问本日阴晴—主据子孙寅卯—应验落本日天象，同一。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "终局主据本卦子孙发动化进，化神临值只定应时未改主据，changed_main=false；未用伏神（父空未取伏断、子孙现卦发动）；信号同向无争议。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "ZY-001",
+ "prediction_text": "方向（正向）：此子前程大显——本人虽不在本国居位，却将如上宾临于他国王庭、观国之光而受重礼遇；其国祚不在陈地本身，而在其后裔于所寓之国昌大兴起。应期为年/世档：非一时之荣，昌大在数世之后的子孙，非本人一代内即有其国。",
+ "basis": "蓍筮一爻变例，按朱熹读辞规则读本卦动爻爻辞：观六四『观国之光，利用宾于王』，辞自带吉断，主近君、为王之宾而光显；六四阴柔近五君位，得宾王之象。变卦为否，只主其在本国本位闭塞不通，故光不在故国而在他国王庭，与『宾于王』之辞自洽。断语承受对象与应验对象均为陈敬仲本人及其后裔、国祚落于后裔在他国一线，同一。非六爻纳甲例，trigger三项全假。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "周易文本占（蓍筮，朱熹读辞规则）"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-yijing.md"
+ ]
+}

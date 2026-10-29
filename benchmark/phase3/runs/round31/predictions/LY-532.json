@@ -1,0 +1,20 @@
+{
+ "case_id": "LY-532",
+ "prediction_text": "方向：自病可愈——世爻旺相臨月有根，病星官鬼空而死、醫藥子孫多爻發動克病，病可退而愈；六爻全動主病程反覆，近段反覆、遠段向愈，終局單判為愈。應期以日為單位：窗口為本旬十日內，主座標丑日（子孫丑土藥神逢值、克鬼見效之日）。",
+ "basis": "輸入殘損註明：attached chart_note 明言逐爻表OCR行序錯亂，所附全動列與另欄（午月丙寅日、空亡戌亥）可互證者作斷並降置信。自占病以世爻為本人主用：世兄弟巳火上爻動，午月臨月旺、寅日木生，旺相有根，候選唯一（世親），changed_main=false；無空破落選候選，reserve_used=false；disputed=false。病星官鬼亥水三爻應動：午月死、旬空命中（戌亥空）、化兄弟午火——化出之火克水？亥水克午火為化出被本爻克，鬼空死而化泄其位，病無根。醫藥子孫丑未兩動，土克水鬼，藥克病鏈成；原神（生世火者）木父卯動化寅化退，源減只調量級。動化方向：巳火→子水：水克火回頭克，然克神子水午月死無力——回頭克有解（克神無力）；反轉條件：源絕三征不齊、化退絕不齊，不反轉。四路：本氣＋／元忌仇＋（子孫動克鬼、鬼空死）／動化0（世化回頭克而克神無力、只調量級）／世應不計（世即用神）；合參愈向。病占原神判別：木原神動而化退為源減未絕，遠段待藥值之期續定——已合兩段：近段全動反覆、遠段藥值而愈。對象復述（病占）：主語逐條為占問者本人——本人病可愈、本人轉機丑日，同一。門類應期對表疾病：用神不空，首選沖空實空不對位，按藥神逢值取丑日。本題應驗跨度日檔（近病）。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "主用世巳唯一；無空破落選；取用無存疑（殘損只降置信）"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

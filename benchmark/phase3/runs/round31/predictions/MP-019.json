@@ -1,0 +1,20 @@
+{
+ "case_id": "MP-019",
+ "prediction_text": "断：2017年香港行政长官选举花落林郑月娥。三人中曾俊华（1951卯年）逢2017丁酉流年卯酉正冲，年命受冲主争位落败；胡国兴（酉年）与林郑月娥（酉年）同为酉命，林郑身居政务司司长、得建制与北京支持，位势远胜退休法官，3月26日投票由林郑以多数选委票胜出。应期单位：日（2017年3月26日投票日，依据为题面选举日程）。",
+ "basis": "题面只给三人出生年与选举前一日形势，无时辰八字与面相图，故以年命加位势合参：2017为丁酉年，曾氏卯命逢酉冲为三人中最不利者，先行排除；两位酉命比旺同气，再比现实位势——林郑为现任政务司司长、建制核心，胡国兴为退休法官、无组织票源，选委会结构下林郑胜出为形势必然。流派分歧不涉，本断以年命冲合定曾败、以位势定林胡之分。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "八字年命",
+  "时势形势占断"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-213",
+ "prediction_text": "倾向判断：逃犯向东去，且可追回（positive对‘可否找回’）。第十二宫头射手与木星居狮子、天象四分与月亮所在星座四路众象一致主东，方向无分歧；月亮近上升主其人去不远/行踪近在可寻范围，月离木星三合后入相冲太阳、两星皆居角宫，主被光照见、暴露行藏而被拿获。木星居第八宫为其躲藏/借资躲匿之象，不改被获终局。应期（日档：追逃近事）：窗口为数日内，主坐标为月亮成冲太阳之期前后被发现、押回。输入无完整盘面，应期只定日窗。",
+ "basis": "Lilly逃亡法：以第十二宫头星座、其主木星所在、月亮星座与天象方位众象合断方向，四路皆东；月近上升、月入相冲角宫太阳主暴露被获；木火/木水相位为经手线索。盘面仅散述位置。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western_horary_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

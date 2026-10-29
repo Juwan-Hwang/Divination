@@ -1,0 +1,19 @@
+{
+ "case_id": "WP-005",
+ "prediction_text": "Direction: Donald Trump wins the 2016 US presidential election, defeating Hillary Clinton — against the polling consensus. The astrologer in question, who had already picked Trump as the Republican nominee when 17 Republicans still contested it, follows the same chart reading through to the general election: Trump's significators carry the election, and the outsider/change signature defeats the establishment favourite on 8 November 2016. The deciding factor is the strength of Trump's own chart indications, which this reader rated above the field at the nomination stage and above Clinton's in the final contest.",
+ "basis": "Internal consistency of the named reader's method is the operative evidence in the input: the same astrologer correctly (within the setting's framing) isolated Trump from a 17-candidate field for the nomination, i.e. their Trump reading was chart-based and specific, not a polling echo; a reader holding that chart judgement has no basis to reverse it for the general election, where Clinton represents the Saturnian establishment pole that the cycle's change signatures oppose. Polls favouring Clinton are treated as the consensus this reading dissents from, per the setting. No charts are supplied in the input, so the call reproduces this reader's stated line of judgement at moderate confidence.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western mundane astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

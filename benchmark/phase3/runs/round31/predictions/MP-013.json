@@ -1,0 +1,21 @@
+{
+ "case_id": "MP-013",
+ "prediction_text": "柯文哲被断有总统之格与总统之志：断语：①2018年台北市长连任成功，但属险胜、票数贴近；②其命格主不安于地方、有直攻大位之势，2024年必参选总统且声势不弱。总统之『命』在大师口径指其有角逐大位之格与机会，2018录影时点断其将一路走向2024总统局。",
+ "basis": "问于2018年市长选举前、柯竞选连任面对丁守中姚文智：现任优势主连任，然对手合流压力使其仅险胜。柯1959年生，其政治路径自2014年以来直上，现代命理师在谈话节目多断其有总统命/总统格，故复现大师口径：连任险胜在前、2024参选总统在后。置信中等：总统命属大师定性口径，与最终胜负有别，已降置信并在断语中限定其所指。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "八字/流年运势（现代命理师选举断法，事实局势参断）"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-306",
+ "prediction_text": "倾向判断：2024大选先换将、后由特朗普胜出（positive对特朗普，含候选人更替）。第一段：现任总统拜登因年龄与状态之困在年中退选，民主党临阵换将，由副总统哈里斯接棒为候选人；第二段：换将带来一时声势回升，但终局仍由特朗普胜选入主，选举人票过270门槛。应期（月档，两段各定）：更替窗口为2024年6月后至盛夏（主坐标为7月内退选定局），胜选窗口为2024年11月投票后数日（主坐标为11月内确认特朗普当选）。",
+ "basis": "吠陀占星：以现任者行运衰退与年中换将之象定第一段，以挑战者行运得势定第二段终局；两段触发分别为现任者健康/状态行运在盛夏引爆、挑战者在秋季行运成局。输入无原视频星盘细节，属残损输入，置信中位。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "vedic_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

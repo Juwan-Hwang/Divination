@@ -1,0 +1,19 @@
+{
+ "case_id": "LR3-112",
+ "prediction_text": "方向：正面——此病可愈，非致命之症。官鬼（病源）不入三传，病无显根；中传申金为戊土之子孙、乘青龙居中，子孙福德乘生气之龙得力，主医药见效、解厄有路；三传辰申子结润下水局，润下主恩泽下流、和顺，初传辰土乘玄武主近段沉滞暗昧、精神昏沉，末传子水乘螣蛇主病中惊疑虚扰，皆不作死象。近段沉滞、远段渐通，愈后无大后患。应期（日档）：窗口为本旬内，主坐标取申日——子孙青龙申金逢值之日病见明显转机。病位：虎鬼不入传，病位无课象依据，不妄断。",
+ "basis": "六壬疾病门：虎鬼不入传、福德子孙青龙居中传为愈之主据（歌诀『福德加临名解厄』须合年命，年命未给故只断可愈、不作全安满格，置信已降）；润下局按三合章总戒只作一象、仍回三传分论。水局泄土日干主病中乏力，为量级而非方向。年命未给，贵医年命一路无据已注明。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "大六壬"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuren.md"
+ ]
+}

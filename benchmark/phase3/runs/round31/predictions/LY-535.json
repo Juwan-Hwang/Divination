@@ -1,0 +1,20 @@
+{
+ "case_id": "LY-535",
+ "prediction_text": "方向：大計不利——考核官星伏藏而被日沖克、子孫持世發動克官，主考績不佳、恐遭降調／處分，官位有動搖之象。應期以月為單位：窗口為本年寅月後數月內，主座標亥月（伏神官鬼亥水逢值出現、考定結果落定之月）。",
+ "basis": "輸入殘損註明：attached chart_note 明言逐爻表OCR行序錯亂，所附列與另欄（寅月丁巳日、空亡子丑）可互證者作斷並降置信。用神官鬼候選枚舉：現卦同親無；變爻同親無（三動化出財、子、父皆非官）；日月同親——寅木、巳火於離宮火，官親為水，皆非，不列；入本宮首卦離為火同位尋伏：官鬼亥水伏於四爻妻財酉金之下（離首卦四爻官亥同位）。飛伏清單：伏亥水寅月休、丁巳日火克且巳沖亥為日破重記；飛財酉金生伏（飛生伏一項有利）、然酉動化子孫丑土克水——飛動化克伏。待出四項：伏得生扶半項（飛生）、飛空破墓絕無、動爻生伏無（財動化土反克）、沖飛之路無——待出不成立，伏官難出。候選唯一（伏），changed_main=false；無空破落選候選，reserve_used=false；disputed=false。忌神子孫辰土世動化父母卯木回頭克（木克土，子孫自身化克而仍主克官之勢在世位發動）、子孫未土靜——福神克官不利考績。動化方向：辰土→卯木回頭克於世子；酉金→丑土化出克伏之土；巳火→酉金化財不涉官；反轉條件：伏神引撥四項不全，不翻轉。四路：本氣−（伏官休破）／元忌仇−（子動克官、飛化克伏）／動化−／世應不計（世子為忌線）；合參凶向。門類應期對表：大計考核對表無此門類，按伏逢值取亥月。本題應驗跨度月檔（考核週期）。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "伏官按次序鏈唯一取定；無空破落選；取用無存疑"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

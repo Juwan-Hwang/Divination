@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-005",
+ "prediction_text": "方向：船未沉，尚存活安全——虽曾遇险受惊、险情传闻夸大，船体无沉没之祸。月亮为上升主、擢升于金牛居第11宫，距与第7宫太阳、水星成完美三合仅数分之差、且近木星，主安然且喜讯在即。所在：仍在赴西班牙海岸贸易一线海面/该岸附近，未 wreck。消息应期：三合仅差数分，主数日内即得确讯；窗口为本月（1644年12月）内数日，主坐标为数日之内先得平安消息。",
+ "basis": "上升巨蟹示船体；土星在白羊第11宫刑上升近，主曾受危险/恐吓与损伤之虞；然月亮擢升强旺、入相吉三合且近木星，按强救优先于凶象，终局单判为存活。南交点在第9宫主远航多惊扰，不主沉没。",
+ "confidence": 0.82,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology (Lilly, classical)"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

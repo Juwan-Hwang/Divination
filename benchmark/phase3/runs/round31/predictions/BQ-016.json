@@ -1,0 +1,19 @@
+{
+ "case_id": "BQ-016",
+ "prediction_text": "倾向判断：其年倭乱严重、寇必来犯为害（negative/大乱年）。困之大过，大过为事过其极之象；六三午火官鬼发动，鬼动即寇势发动，非虚惊；兄弟带刑克世，主劫掠刑伤临及军民，世受其克，一地有破耗伤亡之害。鬼午火化酉金，化神受火克，寇势虽炽而后劲受制，乱终可平但在本年内先炽后敛。应期（年档：倭乱年占以年为尺度）：窗口为甲寅年全年，主坐标为午月（夏，午火鬼逢值最旺）寇势最炽，次及酉月化神逢值再有一番扰动后渐平。输入残损：无全盘，月坐标按鬼爻午火逢值与化神酉金逢值推定。",
+ "basis": "六爻寇乱/年时门：官鬼为寇，鬼动化出、兄弟带刑克世为乱成之象，与BQ-012式鬼衰静正相反。动化方向：午火鬼→酉金，火克金，化神被本爻克，主寇势后劲受制，只调远段量级、不翻转本年大乱终局。反转条件：化神受克非回头生/源绝全链，不许翻转为无乱。此对冲即disputed所指。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": true,
+  "reason": "无全盘，仅六三一爻动化可据，终局须以大过卦象与兄弟刑世之备用象补足，故reserve_used=true；主断（大乱）未改，changed_main=false；鬼动主乱与化金受克主后劲受制两路并存，故disputed=true。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

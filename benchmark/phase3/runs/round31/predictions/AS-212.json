@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-212",
+ "prediction_text": "倾向判断：非巫蛊作祟（negative对‘被巫’之问），病属自然之病。月亮趋冲土星、两星分居六/十二宫只是起疑之象，但上升、上升主与月亮皆未受第十二宫主克害，巫占之决定性克害链不成立，不许以象压规则断巫；土星临第六宫头主寒湿/忧郁久滞之自然病。进程两段：近段月冲土星先有一番加重/药石无功，远段月过冲后入相上升主、上升主在地平线上向天顶上升，主病势转轻、渐愈。应期（月档：病程以月/旬）：窗口为本旬至一月内，主坐标为月过土星冲位后、入相上升主之期见明显转机。对象复述：愈否、病势主语均为病人本人。",
+ "basis": "Lilly巫占法：断巫须第十二宫主克害上升/上升主/月亮，本盘三者皆无此克害，故巫象不成立；月冲土星居六宫为自然重病象；月续相上升主且上升主升向天顶为转愈路。盘面仅散述、无完整星历，日期OCR残缺，basis注明。",
+ "confidence": 0.78,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western_horary_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

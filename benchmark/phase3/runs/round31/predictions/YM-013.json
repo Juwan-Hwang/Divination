@@ -1,0 +1,20 @@
+{
+ "case_id": "YM-013",
+ "prediction_text": "方向（单一终局）：妻病不愈，终局凶危、主不起。近段病势已重，远段原神伏藏无力续救，药效难挽；应期双层：窗口为本旬内（日档，近病），主坐标取子日——妻财子水逢值而受午月冲克、病势见分晓之危期。",
+ "basis": "用神妻财两现：取发动之应爻妻财丙子水为主用（两现舍静用动），初爻静财子水保留应验位（同支子水，子日同应）。主用子水午月火旺水死、日辰己巳火临值克水，休囚受日月夹克；动化父母辛巳火，化神临日旺、回克其源（水虽克火而化神得日月旺势），财动化父主病入文书医药而本体愈泄。原神子孙金不上卦，伏于三爻飞神兄弟辰土下，飞土生伏金虽有待出之机，然申金午月死、巳日合绊，药神弱不济急。忌神官鬼寅木两现得月生……按病占：用神死绝受克、原神伏弱，终局三类条件近齐，断不治。对象复述：病者为占者之妻，断语逐条落妻本人，不回收占者。动化方向：财化父、化神火旺克身，非吉向；反转条件：源绝子链缺原神化绝一项，不以源绝名义翻转，终局由用神本气死绝自定。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "disputed=true：妻财两现，取动爻应财为主用、静财保留应验位，两候选同支异位，取用留痕存疑并降置信"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md"
+ ]
+}

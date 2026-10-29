@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-204",
+ "prediction_text": "方向：病在胸胃——病位为胸部与胃脘一带，病性为寒湿/忧郁凝滞、固定难移之疾。可愈否：诸角皆固定、第6宫有陷弱之星居之、上升主新近离土星之刑而土星当时在巨蟹（主胸胃）、月亮在第4宫与土星同处，主病程缠绵、好转迟缓，属可治而难速愈、须久治调养之症，非旦夕可起，亦非即刻死症一档——近段病势沉滞，远段经久治可渐解，但痊愈以月计而非日计。主病机落点：胃脘受累连及胸膈，饮食与痰湿/黑胆汁凝滞为患。",
+ "basis": "病占取6宫受损与土星所居巨蟹定病位（胸、胃）；固定角定久；上升主离刑主最凶一程已过一线，故不下死断、只下难愈久治。输入未给全盘行星名（6宫陷星之名阙），病名只定到部位与性情层，不臆补现代病名。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology (Lilly, classical)"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

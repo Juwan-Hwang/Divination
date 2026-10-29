@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-228",
+ "prediction_text": "方向：本次不得差，负向。官鬼寅木初爻应，申月戊寅日虽临日建有值，然申月冲寅为月破，官临破；子孙酉金持世旺相克官，福神持世最不利求差，世旺克用而官破。具体断语：此番差缺轮不到求测者，近段申月内无望；官破待出破填实之后才另有机会，不在本问终局内。应期尺度为月档，窗口为当前申月及其后数月，主坐标取寅月（官鬼出月破、逢值之月）为下一次可得差之转机点，本问在申月内单判不得；寅日临值因仍在破月，舍为备选。",
+ "basis": "用神官寅木唯一现卦。月破过表：官临日建为破而有根一征→待出之破，不断死绝，量级降为迟滞待出月。动化无（静卦）。四路：本气官破0/-／子孙世旺克官-，合参负向。对象：官=差缺，应验落求测者得差与否，同一。对表无得差门类，明写无表；按月破填实/出月取寅月。",
+ "confidence": 0.64,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "disputed=true:官临日建与月破、子孙持世克官并见，破之真假经裁决表过表后定待出；余false"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

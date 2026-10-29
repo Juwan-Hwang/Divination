@@ -1,0 +1,19 @@
+{
+ "case_id": "ZY-004",
+ "prediction_text": "方向：立元（孙圉）为嗣，不立絷（孟絷）。两筮皆主『利建侯』，所建之侯即元；絷足不良于行，于建侯之象为不合，终不立。应期为年档：立嗣之定在本筮之后卫国嗣位安排中落实，无具体年月可据，不细报月日。",
+ "basis": "蓍筮两见：先遇屯静卦读屯卦辞『元亨利贞，勿用有攸往，利建侯』，再遇屯之比读初九动爻辞『磐桓，利居贞，利建侯』，两繇同指利建侯，建侯对象须于元、絷二人中择一。占题事实：孔成子先梦康叔明示立元，梦与筮同向；孟絷足不良于行，与『建侯』须行礼临民之象不合，且屯初盘桓难行之象正落其足疾一线，故舍絷取元。承受对象为卫国嗣位、应验对象为元（孙圉）被立，同一。非六爻纳甲例，trigger三项全假。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "周易文本占（蓍筮，朱熹读辞规则）"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-yijing.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "LR3-006",
+ "prediction_text": "方向：负面——仕途虚滞，名位难进。三传巳寅亥无一土字，官星（土）不入三传，只日支戌土为官而孤悬支位；初传巳火乘贵人是妻财，只能主俸禄财事，不能作迁擢之据，中传寅木乘六合泄壬水生财不生官，末传亥水乘天空归于虚诈不实，主所望落空、文书许诺不实。玄胎课主隐匿未分、移旧更新，断有调动改任之名而无实进，或闲置虚职。应期（月档）：窗口为本年秋冬，主坐标取戌月——官星戌土逢值之月见分晓，结果仍是虚任难升。",
+ "basis": "六壬仕宦门：官鬼不入传、龙常贵等迁转之据不全，末传天空乘亥为奏事虚耗之象；按快照第一节落空口径，酉戌仅落空不作空亡，故不断官星空亡，只断不入传之虚。玄胎格按第三节主向取隐匿未分。盘面不全、无年命，禄马神煞未标者不臆补，细断降档。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "大六壬"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuren.md"
+ ]
+}

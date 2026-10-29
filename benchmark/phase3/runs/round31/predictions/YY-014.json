@@ -1,0 +1,20 @@
+{
+ "case_id": "YY-014",
+ "prediction_text": "方向：求财可得。世爻妻财旺相临世又逢日冲暗动，财自动找人，应爻那份妻财旬空主对方份额迟到、只作应验位。应期双层（日档）：窗口为一旬内（辰日至酉日之间），主坐标酉日——世财逢合之日得财到手。",
+ "basis": "所问对象：求财者本人；用神候选枚举：应爻妻财未土（甲申旬未空，标记旬空）与世爻妻财辰土两现——世财辰土辛巳月得月火生、丙戌日戌土扶且戌冲辰，旺相有气逢日冲判暗动（有气暗动，非日破），取世财为主用；应未财空破不径舍，保留应验位（出空未日应对方份额）。原神子孙不上卦、伏午火于四爻父下且午空，源弱只调量级；忌神兄弟寅木静、月巳泄木力弱。四爻父母亥水动化官鬼申金：申金生亥水回头生父，父动耗力不克财（世财土克父水）。动化方向：父亥→申金化回头生（父自身）；反转条件：源绝子链不全（伏子午空而世财本身旺相有根，用神可自立），不反转。应期对表（求财）次选世动逢合：辰酉合取酉日；三路：逢合酉日取之，逢值辰日与值日量级近而世已暗动不待值日舍之，填实未日为应位份额之期不作主坐标。归魂卦主财终归本人。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "YM-028",
+ "prediction_text": "为父母觅地：此番不得地，近期无成地之期；须待世爻出空、否塞开通之后另觅才有得地之望。应期以月为单位：窗口推至来年春寅卯月一带，主坐标取世爻妻财卯木填实之卯月，在此之前断不得。",
+ "basis": "六爻纳甲，乾宫天地否六合，静卦。茔葬觅地以父母为用兼主地：父母壬戌土应、乙未土两现静守；世爻妻财乙卯木，甲辰旬空寅卯，世临空亡，求地者一方无着落；否卦天地不交主闭塞，静卦无动爻开通。父母得丁未日土扶不衰，所缺在世空与卦塞，故断迟而非地脉全凶。应期走填实一路：世空待卯填实；冲实逢值两路无动象，舍之。对表无茔葬门类，明写对表无此门类，按三步定点。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

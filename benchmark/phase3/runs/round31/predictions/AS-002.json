@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-002",
+ "prediction_text": "方向：会致富，且非仅自给、非靠婚姻依附——靠本人经营/行业本身得财，财富可久守。手段：本人亲力经营的商贸营生（第2宫主兼福点主火星临上升近角宿）为主，位望/贵人提携（木星擢升居角近天顶）为助。时间：月亮为第10宫主、距与上升主金星合尚差6°27′，主约6–7年内财势成形；应期单位为年。延续：第2宫头与福点皆固定星座、福点在火星界内，主财能持续、不易散失。",
+ "basis": "金星上升主近狮心（Regulus）主荣显；火星第2宫主兼福点主在上升近Spica主财由己身经营而入；木星擢升（巨蟹）角宫近天顶主大贵助；二宫头固定、福点固定主久守。等级按用神强度足级：多重旺角证据，无压制依据，不降格。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology (Lilly, classical)"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

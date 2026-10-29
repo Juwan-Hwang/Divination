@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-216",
+ "prediction_text": "方向：仆人确有为祸之心、将为祸，负向，不可不防。兄弟寅木在初爻发动化父母子水回头生，兄得子日水生、动于下位，主下仆动心有据、非纯属主家空疑；世爻妻财辰土发动化兄弟寅木回头克世，主家若仓促处治，反先受其害。具体断语：祸起于仆役本人，近段先见变心、暗中串联之迹，远段在木水旺时发动。应期尺度为月档，窗口为本月（未月）至下月内，主坐标取寅日（兄爻逢值化进之木值日）为仆祸最易发之点；处置宜先稳住、勿在寅日正面冲突。",
+ "basis": "用神以初爻动兄寅木为仆役动象、世辰土为求测者本人。动化方向：兄寅→子水回头生兄，兄势得生；世辰土→寅木回头克世。反转条件无全成立链。四路：世土未月有气0／兄动得日生克世-，合参负向。对象对齐：所问对象=仆人是否为祸，用神动兄指仆役，应验对象祸落世爻主家，分开写明同一链。门类对表无仆役门类，明写无表。通则(i)：近段动心、远段寅日发作，远段触发为兄爻逢值。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "disputed=true:官鬼申金应爻静而休与兄弟动象指代仆役有两读，最终以动兄为据；余false"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

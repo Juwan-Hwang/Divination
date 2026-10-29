@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-008",
+ "prediction_text": "方向：Essex 能攻下 Reading——城将交付/落入 Essex 之手，但非一鼓强攻立下，更近围困下献城/议降落城。Essex 征星火星（上升蝎子主）虽陷弱（fall），却与月亮互容（火星居月家、月在火星界与面、近狮心居第10宫），月亮入相六合火星（长上升星座折算）主事终成；守将征星第4宫主土星陷弱（fall）主守方根基已衰、国王征星太阳居第7宫固定主王军只能僵持不能解围。应期：城已交付之期在围城当下数周内，主坐标1643年4月下旬（27日前后）落城。城中粮弹（木星第5宫主与金星居第5宫）尚有存量，故须围至守方力屈而非立时粮尽。",
+ "basis": "Mars fall 为唯一压制项，只降落城方式与速度（议降而非强攻），不翻终局；月亮空亡主先无进展、后由六合接续成事；Saturn fall 定守方先衰。此为近段僵持、远段落城两段，远段触发即月亮入相火星与守将星陷弱。",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology (Lilly, classical)"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

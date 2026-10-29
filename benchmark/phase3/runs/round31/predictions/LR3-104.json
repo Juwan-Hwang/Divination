@@ -1,0 +1,19 @@
+{
+ "case_id": "LR3-104",
+ "prediction_text": "方向：负面——上疏不吉，疏上难达、必遭稽留驳斥。初传酉金乘勾陈发用，勾陈主斗讼稽留、发用乘之主事被勾连拖延；三传巳酉丑结从革金局，金主刑伤肃杀，又同课绝嗣凶格，主奏事后续断绝；奏书之神朱雀、天空皆不入三传，疏无正应之神上达，末传巳火乘贵人克金局印绶，主君上之意向背、责以火克金之逆。所幸金局印绶生日干癸水，身有根，不至下狱重罪，断驳回申饬而止。应期（月档）：窗口为本年夏秋，主坐标取酉月——初传勾陈酉金逢值之月见驳斥分晓。",
+ "basis": "六壬章奏门：奏书以朱雀、天空为正应，二神不入传为疏难上达之据；贵人居末传乘巳火克日干所赖金局，不作恩助论。从革、绝嗣按第三节凶格主向，勾陈发用按第四节主稽留。太岁未支与朱雀无涉，赤鸟犯岁君条不成立，不引用。盘面不全，罪名轻重只断到申饬层级。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "大六壬"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuren.md"
+ ]
+}

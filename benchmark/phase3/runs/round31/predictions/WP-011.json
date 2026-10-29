@@ -1,0 +1,20 @@
+{
+ "case_id": "WP-011",
+ "prediction_text": "方向：拜登获胜，特朗普连任失败。特朗普盘中木星在二宫照十宫、十宫有太阳，只主其竞选声势与资源强、败而不溃，选情接近且有争议，但不足以翻转终局；应期坐标为 2020 年 11 月投票周。",
+ "basis": "题面特意给出特朗普印度占星木星照十宫、太阳坐十宫的强势配置，此为现任者量级（声势/资源）之据，按等级校准只调轻重不翻方向；与 WP-010 同一选举的整体势头（挑战者领先、现任无新增收敛点）一致，终局仍取拜登胜。因强势配置与终局相逆，置信下调。",
+ "confidence": 0.54,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md"
+ ]
+}

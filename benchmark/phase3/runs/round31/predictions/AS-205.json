@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-205",
+ "prediction_text": "方向：病者将死，此病不治——生死终局单判为死。死证叠聚：上升被第8宫主（部分）以本体临宫所伤；第6宫星座固定且受损、6宫主居固定土象忧郁之座；时间之光太阳与第6宫主土星在固定星座成正冲；月亮近龙尾（Cauda）且在上升受损。病性：固定、土性、忧郁（melancholy）之疾，凝滞沉重、缠绵而终——病位性质为黑胆汁/土性沉积之患，具体脏腑盘面残损不臆补。应期以月档论凶局已成，不硬报某日（上升星座字形在 OCR 中已损坏，无日级成相可据）。",
+ "basis": "古典病占死证四重同向（8主临升、6宫及6主固定受损、日冲6主土、月近交点尾受损），无旺相救星链可翻，按足级断死；残损处只影响病位细化、不影响终局方向。",
+ "confidence": 0.85,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology (Lilly, classical)"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

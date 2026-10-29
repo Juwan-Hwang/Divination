@@ -1,0 +1,19 @@
+{
+ "case_id": "OC-025",
+ "prediction_text": "方向：应验——届预书所定的年月日，椅子果然被人坐破，预言如期而中，破损发生在坐者落座之时（即时应验、非渐损）。承受与应验对象同一：即邵雍自家那把椅子本身（器物），非他椅、亦非人身之灾。此类预书多系先时定死日期，故断语落点为：到期坐破、一日不差。",
+ "basis": "输入无卦象附件，仅有占题事实：邵雍预书某年月日椅将被坐破于椅底。此为梅花序中载录之预言应验类成例体例（与OC-024同卷序文），按事实优先序：预书既明定日期，问『是否应验』即以日期与坐破两项对验；序文收录此类事迹正以验为旨，无反例体例可据。输入残损：无盘面、无所坐之人与确切年月日原文，坐者身份与具体日期无据不报，只断应验与坐破方式两项，置信据此定为中档。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "梅花易数（预书应验/明理）"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

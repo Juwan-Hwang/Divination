@@ -1,0 +1,19 @@
+{
+ "case_id": "LR3-008",
+ "prediction_text": "方向：负面——功名不成。课得铸印本主印绶迁擢，但同课绝嗣格为四下克上之尤凶格、后续断绝，压过铸印吉意；初传巳火乘白虎为父母印绶却乘凶将，主刻文印事反招官灾口舌，中传戌土乘朱雀主文书奏章之争，末传卯木官鬼乘太阴居末、暗昧不明，官星不得明位。断此次求名落空，且防因文字招议论是非。应期（月档）：窗口为来年春季，主坐标取卯月——官鬼卯木逢值之月见落第分晓，其时只主是非不主成名。",
+ "basis": "六壬仕宦/考试门：父母巳火虽为印绶文书，但乘白虎且课带绝嗣凶格，按第三节课格须合三传天将同断、格凶传将克日者减力；官鬼卯木太阴居末不明，朱雀中传主文章口舌。无官反主官非口舌为铸印格原断语之一面，本课凶格叠见取此面。年命未给，名次无据不报。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "大六壬"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuren.md"
+ ]
+}

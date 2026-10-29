@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-235",
+ "prediction_text": "方向：借贷可得，正向。妻财卯木三爻静，丁卯日临日建、未月卯未半合，财临值有气而得合，主所借之财有着落；兄弟酉金持世为劫财之亲，然酉金未月/夏囚、静而不动，克财无力，不成劫局。具体断语：款项可借到，世持兄只主手续上略费口舌、量级稍减，不主落空。应期尺度为日档（近事借贷，问题以近事问、财临日值支持日级定位），窗口为本旬内，主坐标取未日（卯未合财、财逢合之日）为到手之日；卯日财已值日为窗口起点备选，主坐标取合日因动?静财逢合而应更合静爻应期法。",
+ "basis": "用神妻财卯木唯一现卦，临日。静卦无动化，裁决表记无动化、反转无。四路：财本气临日+／兄世静囚0，合参正向。对象：财=所借之款，应验落求测者得款，同一。门类对表借贷无专条（求财章世动逢合一路为参，本例世静不合用，明写不套用），按静逢合取未日。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "三项皆false:财临日值同向定主，无反转、无备用、无存疑"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "BQ-011",
+ "prediction_text": "倾向判断：周焚松官讼凶中得解——官非压身、必受一番刑责/惊险，但不至极刑重罪，终以破财了结（negative为主、程度降格）。官鬼冲克世爻主官司直冲本人、罪名临身；幸日辰扶起世爻，世有天时之扶不为鬼所克倒；财爻又动，主破财生路：散财、罚赎、使费之后官事松动。应期（月档：官讼取月）：窗口为戊子日后一月内，主坐标为财爻逢值之日破财定案、官事见分晓。等级校准：鬼冲世本可至重罪，因日扶世+财动有解法，降格依据即此二项，降为破财受惩而免极祸。",
+ "basis": "六爻官讼门：世为占者本人，官鬼冲世为忌克成立，日辰扶世为路1有气，财动为解法/破财路。动化方向：财爻动而未给化神，动化方向存疑、不据化神定性。反转条件：无源绝/伏出全链，不翻转，只按日扶+财动降格量级——此为changed_main所指：初判重罪经复核改定为破财了结。对象对齐：承受=周焚松本人，应验=其官讼与财物。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "初看官鬼冲世主重罪，经日辰扶世与财爻动之解法复核，终局量级改定为破财免极祸，故changed_main=true；主象齐备未用备用路，reserve_used=false；鬼冲世之凶与日扶世之救两路对冲，故disputed=true。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

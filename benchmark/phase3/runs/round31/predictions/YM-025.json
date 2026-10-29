@@ -1,0 +1,19 @@
+{
+ "case_id": "YM-025",
+ "prediction_text": "占雨明日：明日无雨，主晴。子孙多现主晴、雨之父母不上卦且卦中无水爻，雨象无源，明日（寅日后之卯日行程内）以晴断，不必待雨。应期即明日一日之内，无另定日期。",
+ "basis": "六爻纳甲，离宫火山旅六合，静卦。天时占雨以父母为雨象：本卦父母不上卦，六爻无水；子孙未土、辰土两现主晴象，妻财酉金应、申金主云收。静卦六合主天时稳定守晴。申月子孙土相、得日月扶，晴象有气；雨象伏藏无出之据。事实优先：所问仅明日一日，尺度为日档，不扩至旬月。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

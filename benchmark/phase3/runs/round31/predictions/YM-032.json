@@ -1,0 +1,19 @@
+{
+ "case_id": "YM-032",
+ "prediction_text": "占男女：断为男胎，且胎可育成。子孙伏藏不出、断语置信降低，性别一断只到伏象层级。应期不另定产期（所问为性别与育否，非产期门类）。",
+ "basis": "六爻纳甲，震宫雷泽归妹，静卦。占胎以子孙为用：子孙不上卦，按本宫寻伏，伏神子孙午火为阳爻之神，阳主男，故断男。输入残损性说明：子孙伏藏、飞伏全图未给全，伏神待出只得临值生扶一类弱据，故育成一断降格为可育而置信低，不臆补飞神细节。静卦父母戌土应、丑土世土旺扶胎位，卦无动克子孙之爻，育象无冲克之害。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "子孙伏藏、飞伏细节不全，取用存疑"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

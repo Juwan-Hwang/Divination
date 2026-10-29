@@ -1,0 +1,19 @@
+{
+ "case_id": "ZY-002",
+ "prediction_text": "方向（正向）：毕万仕晋必成且得封——初虽盘桓迟滞、须守正待时，终以『利建侯』定局：受封地、为建侯之始，其后子孙繁昌、封邑日大。应期为年/世档：建侯在本人仕晋之后立，应验主段在其子孙数世渐昌，非即日之速效。",
+ "basis": "蓍筮一爻变例，按朱熹读辞规则读动爻辞：屯初九『磐桓，利居贞，利建侯』，辞自带吉断——盘桓只主初段迟滞，利居贞主守正，利建侯直指得封建侯；初九阳刚居屯之始，为开创之爻。变卦比，主归附得众、亲附于上，与入仕受封同向。承受对象与应验对象均为毕万本人及其子孙封邑，同一。非六爻纳甲例，trigger三项全假。",
+ "confidence": 0.75,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "周易文本占（蓍筮，朱熹读辞规则）"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-yijing.md"
+ ]
+}

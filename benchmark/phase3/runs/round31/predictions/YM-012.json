@@ -1,0 +1,20 @@
+{
+ "case_id": "YM-012",
+ "prediction_text": "方向（单一终局）：子必归，归期近。应期双层：窗口为甲子一旬之内（日档，行人近应日），主坐标取卯日——卯冲子孙酉金，静爻逢冲而动身归至。",
+ "basis": "用神子孙丁酉金持世五爻：酉月临月建旺相，本气极强，静而旺。行人门对表：用神静而旺者逢冲之期归（静而逢值逢冲通则同向），酉之冲为卯，甲子旬内卯日（丁卯）在值日酉日之前且冲力主动身，先取冲日；逢值酉日一路舍弃理由为尺度同为日档而冲先于值、且与归之终局自洽（动身象在冲）。初爻妻财子水动化兄弟丑土回头克，只主途中花费耗损，不碍子身归。对象复述：归者为占者之子本人。动化方向：财化兄回头克属旁支耗象，不涉用神定性；反转条件：无。",
+ "confidence": 0.63,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md"
+ ]
+}

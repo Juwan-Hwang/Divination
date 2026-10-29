@@ -1,0 +1,20 @@
+{
+ "case_id": "LY-517",
+ "prediction_text": "方向：可成——捐納援例入仕能成，官位可得，但須費財打點、非不費而至。應期以月為單位：窗口為本年丑月後數月內，主座標申月（官鬼申金逢值、財動生官之局在此月坐實）。",
+ "basis": "用神官鬼候選枚舉：現卦同親官申金五爻動唯一；變爻同親申金同支列記不另立主；日月丑土、卯木非金不列；現卦有同親不取伏。否決標記：申金丑月得土生為相、不空（乙卯屬甲寅旬空子丑）、不破、動。定主官申，changed_main=false；無空破落選候選，reserve_used=false；disputed=false。原神妻財戌土動、世財未土俱生官，財官鏈成；忌神子孫午巳靜克官只調量級。動化方向：官申化申同支無進退、財戌化戌同支；反轉條件：源絕三征／化退化絕俱不齊備，不反轉。四路：本氣＋／元忌仇＋（財動生官、子靜）／動化0／世應不計（自占功名、世非用神）；合參成向。門類應期對表：援例無專門對表條目，按三步＋D定申月逢值。對象對齊：所問本人入仕／用神官申／應驗本人官位，同一。本題應驗跨度定為月檔（仕途辦理）。應期三步：沖實無空墓可沖舍、填實無空破舍、逢值申月取中。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "主用官申與首遇同親一致；無空破落選候選留位；取用唯一無存疑"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

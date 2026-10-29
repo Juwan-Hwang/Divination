@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-219",
+ "prediction_text": "方向：父寿有危，负向，寿元不算长久。父母亥水二爻静，巳月休囚，虽得乙酉日金原神临日生扶可暂保，但妻财未土四爻发动克父，巳月土相、未土动化子孙午火回头生土，忌神得化神回生而旺动克水，克父之势持续加重。具体断语：父亲近段得日金生扶不即危，远段在土旺克水之年是关口。应期尺度为年档（寿元门类），窗口为未来数年，主坐标取未年（忌神未土逢值、克父母亥水最力）为父寿主关；亥年逢值只主父身有事之应、巳年冲亥为备选入reasoning舍弃，因与终局忌克方向不如未年自洽。",
+ "basis": "动化方向：财未土→午火回头生忌，忌势增；父母亥水静。反转条件：原神酉金临日为有根一征，源绝不成立，只降格不断即死，终局仍负向偏危。四路：父本气-（休囚）／元忌仇财旺动化回生-，合参负向。对象：用神父母亥水=父，应验落父，同一。对表寿元：忌神发动取逢值之岁，取未年。通则(i)近段日生暂安、远段未年克关，远段触发为忌爻逢值。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "disputed=true:原神金临日生父与忌神财土旺动回生克父两路相争；余false"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

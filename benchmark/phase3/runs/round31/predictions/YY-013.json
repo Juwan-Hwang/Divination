@@ -1,0 +1,20 @@
+{
+ "case_id": "YY-013",
+ "prediction_text": "方向：求财终局不成实得。财源有动象、有来路，但妻财本身发动化空化冲，钱到手边转成文书/支出落空，只余小利或空欢喜。应期双层（日档）：窗口为本旬（甲午旬）内，主坐标巳日——化神实空之日见分晓，财落空应在此日。",
+ "basis": "所问对象：求财者本人；用神：五爻妻财癸亥水（应爻动）；应验对象：求财者之财，同一。财亥水：己卯月水休（木泄水）、丁酉日酉金生财，得日生为0偏+；原神上爻子孙酉金临日发动生财，路2+；但财自动：亥水动化父母巳火，亥巳相冲、巳为甲午旬空（辰巳空），财化冲化空且化父母（转文书支出），化出之火被亥水克。用神动而化空化冲，按决策序化空不先否决，然财本身休囚、兄弟丑土两现静克财（土克水），四路合参：路1 0、路2原神+而忌兄静克并存记0、路3动化财化空冲记-、路4应即财已并入路1不计；合参主方向以财自动落空定负。动化方向：子孙酉金→卯木金克木化官、财亥水→巳火水克火化父空冲，两化神皆被本爻克，无回头生；反转条件：化进待冲四项不全（财非化进），源绝不成立，不翻转。应期三路：实空巳日取之（化神填实应落空），逢值亥日、冲实巳同支已并入实空一路，余路舍弃理由为与终局负向自洽者唯实空。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

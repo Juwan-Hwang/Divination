@@ -1,0 +1,19 @@
+{
+ "case_id": "LR2-017",
+ "prediction_text": "久系终脱（正向偏减等）：戚司宗定罪八载，断此占之后遇赦减等、脱出囹圄，不再以重辟论死；惟出后谪戍／远遣一层仍在，不作官复原职断。窗口为夏月热审窗（五至六月），主坐标六月开豁定局。",
+ "basis": "公讼门（§六.4遇赦组）：二月乙未日，与冯允升课同盘而月份不同，逐月皇恩以二月论：指南卷五皇恩二月丑，中传丑土乘天后恰居皇恩之位，赦象入传得实（与三月皇恩落空者分判）；初传午火子孙乘天空发用制末传申金官鬼，福德制鬼有救；末传申金鬼乘勾陈主八载稽留之旧系，遇赦而解。程度按第11条取热审开豁而谪戍式。应期先定档：热审属月档季节窗（§七.4），只许五至六月取月；三路逢值丑月已过舍、逢冲合无、出空填实无空传可取舍，主坐标取六月热审窗末。年命未给，本命一路无据已注明；同盘异月之别只在皇恩落点，已在basis写明，不以盘同断同。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "大六壬"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuren.md"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "case_id": "YM-010",
+ "prediction_text": "方向：临产即产，就在占日当日。应期双层：窗口为己巳当日（日档，产期近应日时），主坐标取亥时——子孙亥水冲空则实、与日支巳相冲之时分娩。",
+ "basis": "用神子孙辛亥水二爻：午月火旺水死、日巳火克，本气弱，然亥逢甲子旬空又逢日辰巳冲，冲空则实，空待冲实正是产期门对表『空者冲空实空之日』之点（门类：产期，首选子孙动静逢值逢冲一路之外，次选空者冲空实空，本卦子孙静而空、逢日冲实，取次选机制并写明）；原神兄弟壬申金五爻动生子孙水，化父母未土回头生金，原神动而有续，产程有助。时辰章本题问时，亥冲巳、亥时为冲实之时。动化方向：原神金化土回头生、吉向；反转条件：不成立。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md"
+ ]
+}

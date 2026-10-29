@@ -1,0 +1,20 @@
+{
+ "case_id": "LY-524",
+ "prediction_text": "方向：可用附子——子病寒證誤投涼藥，改用附子辛熱對證，可用而病可退：原神動而回頭生、生子孫之力在，藥路通。應期以日為單位：窗口為數日內，主座標酉日（原神酉金逢值生子孫，病見轉機之日）。",
+ "basis": "父占子病，用神子孫候選枚舉：現卦同親子水初爻靜唯一；變爻同親子水為初爻不變對應不列變爻候選；日月未土、子水——子水日支同親與現卦同支並記臨日證據；現卦有同親為主不取伏。否決標記：子水未月土克為死一項，但臨日建子水有根（臨值不以死論）、不空（壬子屬甲申旬空午未）、不破。候選唯一，changed_main=false；無落選候選，reserve_used=false；disputed=false。用神空亡根氣：不空不涉。原神兄弟酉金四爻動、化父母戌土——戌土生酉金回頭生，原神動而回生、生子鏈成；病星官鬼巳火應爻未月相、子日水克之。附子取象：辛熱屬火之藥對寒證（事實優先序：占題明言寒證誤投涼藥），熱藥在此為對證之治，非以火克金原神作主斷——藥性一層為推測性取象，已降置信。動化方向：酉金→戌土：土生金回頭生；方向定性吉向；反轉條件：源絕三征不齊（原神有根有回生），不反轉。四路：本氣＋（臨日有根）／元忌仇＋（原神動回生、官受日克）／動化＋／世應不計（代占看用神）；合參愈向。對象復述（病占）：主語逐條為子——子病可退、子之轉機酉日，同一。門類應期對表疾病：非空非破，按藥神原神逢值取酉日。本題應驗跨度日檔（近病改藥）。",
+ "confidence": 0.56,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "子孫候選唯一；無落選候選；取用無存疑"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "case_id": "WP-012",
+ "prediction_text": "方向：拜登赢得选举并实际就任总统。败方不认输、邮寄选票与结果争议引发诉讼与街头动荡，国家严重撕裂但不致解体；拜登于 2021 年 1 月 20 日就职（月档：2020 年 11 月定胜负、2021 年 1 月定就任）。",
+ "basis": "题面三问（谁赢、谁实际执政、国家后续）按两段式分判：近段选举由拜登胜出；远段触发为败方拒认与邮寄票争议——主制度交接完成、拜登实际入主，但争议与对立延续、出现骚乱级事件。输入无星盘，按世运读法结合题面已给的争议事实落断，降置信。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md"
+ ]
+}

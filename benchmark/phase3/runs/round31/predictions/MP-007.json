@@ -1,0 +1,21 @@
+{
+ "case_id": "MP-007",
+ "prediction_text": "韩国瑜2019年运势大旺，政治前景主进取问鼎。断语：2019年韩人气与气运俱在顶峰，生肖属鸡逢猪年被断为得势之年；他不会止于高雄市长，年内将进军总统大选、声势如日中天，被大师断为有问鼎大位之命势。时点：参选动作应在2019年年中见分晓。",
+ "basis": "问于2019年2月20日、韩就任约两个月人气正盛且未表态参选：事实为声势持续冲顶。现代命理师在此节点按其生肖流年与面相气运多断其旺极且必更上层楼，故复现大师口径断其2019大旺并进军总统。置信中等：本断复现大师当时看好口径，问鼎之『势』指参选与声势，不等同保证最终当选，已降置信。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "八字/流年运势（现代命理师选举断法，事实局势参断）"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

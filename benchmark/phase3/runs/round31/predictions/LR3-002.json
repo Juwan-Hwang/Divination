@@ -1,0 +1,19 @@
+{
+ "case_id": "LR3-002",
+ "prediction_text": "方向：负面——奉命出师不利，难建功。初传午火乘贵人发用，午寅戌三传结炎上火局，火旺克辛金日干（官鬼克身），中传寅木乘勾陈又生火助克、主斗讼牵连迟滞，主帅亲临压力与敌势火旺之地；末传戌土乘太常生金扶身，故不至主帅身死、全军覆没，断损兵受挫、进至中途受阻而退。应期（月档）：窗口为出师后本年春季二至三月火木旺时受挫最重，主坐标取三月（辰月）——火入墓、土生金之月见败退分晓。",
+ "basis": "六壬兵斗/出行门：日干辛金二月休囚，三传寅午戌炎上火局递生助火克日，贵人乘克身之火不作吉助（将无自性、乘克日则凶显）；勾陈中传主斗讼稽留；末戌土太常生金为唯一救路，只减量级不断全覆。空亡只认旬空申酉，辰巳为落空不作空亡用。盘面不全：无天盘全图与年命，细断按快照第八节降档，不臆补方所与伤亡数。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "大六壬"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuren.md"
+ ]
+}

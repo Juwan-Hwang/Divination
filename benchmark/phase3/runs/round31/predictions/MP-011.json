@@ -1,0 +1,21 @@
+{
+ "case_id": "MP-011",
+ "prediction_text": "三组运势与胜算排序：第一赖清德/萧美琴，第二侯友宜/赵少康，第三柯文哲/吴欣盈。断语：赖萧配胜出当选正副总统；侯赵配居次，败在整合破局后气势分散；柯吴配第三，得票居末但守住基本盘。应期2024年1月13日投票日定盘。",
+ "basis": "问于2023年11月27日、蓝白合11月23日破局三脚督确立、距投票47天：在野分裂为给定事实，分裂方两组互相分票，执政党一组基本盘完整，按事实优先序断赖萧居首。排序等级与局势强度同级：在野两组排序依据为侯方有政党组织盘、柯方组织盘较弱，故侯二柯三。",
+ "confidence": 0.8,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "八字/流年运势（现代命理师选举断法，事实局势参断）"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

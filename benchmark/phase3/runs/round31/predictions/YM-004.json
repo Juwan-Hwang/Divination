@@ -1,0 +1,20 @@
+{
+ "case_id": "YM-004",
+ "prediction_text": "方向（单一终局）：子病可愈、有惊无死。近段病势不轻，远段原神续生而渐解；应期双层：窗口为日内量级一旬之内（日档，近病），主坐标取子日——伏神子孙子水逢值出伏得力之日转安。",
+ "basis": "用神子孙不上卦：现卦无子孙、变爻（兄酉化父戌）无子孙、日辰申金于乾金宫为兄弟非子孙，故取本宫首卦乾为天初爻子孙甲子水为伏神，飞神初爻父母乙未土克伏（飞克伏为压）。然伏神得日辰申金生扶（金生水，日月之气居其一），原神兄弟酉金即世爻发动、化父母戌土回头生金，原神动而有根续生伏子——伏待出判据得生扶与原神动生两路，判待出而非难出。输入残损：原书未记月建，旺衰缺月一层，已降置信、伏神取用留痕。对象复述：病者为占者之子，断语落其子本人。动化方向：世兄化父回头生、原神有力，定性吉向；反转条件：源绝三征未齐，不反转。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": true,
+  "reason": "reserve_used=true：子孙不上卦，实际入断者为本宫首卦伏神子孙子水（后备候选）；disputed=true：原书未记月建，旺衰一层无从核定，取用与旺衰存疑"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md"
+ ]
+}

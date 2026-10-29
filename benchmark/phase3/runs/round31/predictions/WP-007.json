@@ -1,0 +1,19 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Direction: Donald Trump wins the 2016 US presidential election. What decides it: Hillary Clinton's scandal burden — the email controversy and Clinton Foundation questions — drags her down in the final stretch; the cards read her campaign as undermined from within by these unresolved affairs, while Trump, the outsider, survives his own turbulence and takes the White House on 8 November 2016. The deciding factor is therefore not policy or turnout mechanics but the corruption/scandal shadow over Clinton proving heavier than Trump's chaos.",
+ "basis": "Tarot reading as framed in the setting: a Manhattan reader consulted in August 2016, with Clinton's email and Foundation controversies already public, draws on the election; per Waite-based reading practice in the snapshot, the outcome is read from the spread's outcome position and the deciding influence from the card governing the querent's obstacle — here assigned to Clinton's scandal load, the only candidate-specific negative fact supplied in the setting. The input does not reproduce the actual cards drawn, so the spread itself cannot be re-read card by card; the prediction reproduces the reader's call (Trump; scandal as decider) from the supplied facts and flags the missing spread in confidence (mid-level).",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "tarot (Waite tradition)"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-tarot.md"
+ ]
+}

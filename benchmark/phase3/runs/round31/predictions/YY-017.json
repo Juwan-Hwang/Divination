@@ -1,0 +1,20 @@
+{
+ "case_id": "YY-017",
+ "prediction_text": "方向：子病终局危、难愈。用神子孙本身独发动而化官鬼，福神化鬼、药转为病，化鬼又临月建有力，主病转重无救向（单判negative）。应期双层（日档，近病）：窗口为寅月内，主坐标寅日——化鬼逢值之日为危期。",
+ "basis": "对象对齐：所问对象为子之病；用神为上爻子孙癸酉金（独发），既是用神亦福神；应验对象为子本人，逐条复述主语为子，同一。用神酉金：戊寅月金囚、丁卯日卯冲酉为日冲动爻（动不作破），月日无生扶，兄土丑静生金为微源。独发化官鬼丙寅木：酉金→寅木金克木，化神被本爻克，然寅木临月建旺相，子化鬼成象有力（类别：子孙化鬼病占大忌）；官鬼卯木世爻临日旺，病爻另旺一线。动化方向：子酉→寅木化鬼、化神临月；方向定性非四吉向；反转条件核：化鬼且原神（土兄）静弱无生扶链、忌父巳静，源绝子链差化退化绝一项不全成立，只按化鬼主象定危、不另引源绝。病占增补L1-23：用神化克化鬼为最要，先于他项定性。四路：路1-（囚而冲动无扶）、路2 0（兄静生微、忌静）、路3-（化鬼）、路4世官为病象不计；合参负。近段日冲病发、远段化鬼临月病进，两段同向危。病位：用神酉金上爻主头、五行金主肺皮毛，两路分指头与肺系，不落细位，只断病势。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

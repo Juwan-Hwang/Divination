@@ -1,0 +1,20 @@
+{
+ "case_id": "YM-069",
+ "prediction_text": "方向：子未远走、可寻见。子匿于西方偏西南一带的人家处，被人留住/合住而未自行远行，所在不出近处范围。应期双层：窗口为本旬（甲辰旬）内，主坐标酉日——届时得确切下落或寻见本人。",
+ "basis": "所问对象：出走之子；用神：上爻子孙癸酉金（应爻，即子本人）；应验对象：子本人，同一。静卦地天泰六合：用神安静未动，主人未远行；六合主合住、被人留住。子孙酉金：巳月金长生、甲辰日辰土生金且辰酉合，用神有气得日合；甲辰旬空寅卯，酉不空。方位合参：用神酉主西、外卦坤主西南（捕逃静卦以本卦外卦定方，增补L1-28，与酉位分歧并列后取西偏西南），断在他人家处（应爻）。动化方向：静卦无动化，无化进退；反转条件：无动爻、源绝三征不成立，不反转。应期三路：冲实路冲酉为卯、卯空不取；填实路无空待填；逢值路酉日用神逢值且与占日辰合呼应，取逢值舍冲实/填实。输入无六神与占时年月全式，仅注巳建甲辰日，旺衰据此判、置信下调。",
+ "confidence": 0.45,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

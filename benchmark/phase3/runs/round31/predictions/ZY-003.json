@@ -1,0 +1,19 @@
+{
+ "case_id": "ZY-003",
+ "prediction_text": "方向（负向，单一终局）：穆姜迁东宫后不能得出，终将困死于东宫，不得速出。应期为年档：无出期可报——随辞所许之『无咎』以备元亨利贞四德为条件，她自认四德无一备，故速出之望断绝，终局以久困至死收束，不设释放之年窗。",
+ "basis": "蓍筮例，遇艮之随，所据为随卦辞『元亨利贞，无咎』。按爻辞取象核对：此辞之吉以四德兼备为前提条件，非无条件许出；占题事实为穆姜谋乱事败被迁软禁，其德行处境与四德正面不合，以事实优先序取象，四德不备则『无咎』不成立。艮为止，本卦主止而不行；输入 setting 亦载占史断必速出而穆姜自断相反，本断从条件核对一路定不得出。输入残损：动爻原传未明言（『之八』为筮数），故不据某爻爻辞、只据随卦辞条件作断并降置信。承受对象与应验对象均为穆姜本人，同一。非六爻纳甲例，trigger三项全假。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "周易文本占（蓍筮，朱熹读辞规则）"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-yijing.md"
+ ]
+}

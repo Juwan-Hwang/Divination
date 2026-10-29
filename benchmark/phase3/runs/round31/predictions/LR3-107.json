@@ -1,0 +1,19 @@
+{
+ "case_id": "LR3-107",
+ "prediction_text": "方向：负面——此人非坦荡善类，是阴私暗昧、行藏不明之人，对占者不利。三传子亥戌递退（退茹），初传子水乘天后、中传亥水乘太阴、末传戌土乘玄武，三将皆阴私蔽匿之将：天后太阴主妇女阴事、蔽匿不明，玄武居末主盗贼遗亡、虚耗阴私；子亥水为甲木父母本可作印绶消息，却全乘阴将，只主其人以文书消息为名、暗中另有图谋。断此人来意不诚，防财物虚耗或阴事牵连，其吉凶为小凶、无大祸及身。应期（日档）：窗口为三日内，主坐标取子日——初传天后子水逢值之日见其行藏端倪。",
+ "basis": "六壬杂占/贼盗门参断：以三传天将乘传定人品行藏（快照第四节天后、太阴、玄武逐将凶用），三阴将叠见且三传退茹主退缩不前。课式名首字原书作『鬼』、输入自注疑残泐存疑，此处已在basis注明残损并降置信；四课全图与来人年命未给，不臆补其具体身份，只断到阴私暗昧层级。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "大六壬"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuren.md"
+ ]
+}

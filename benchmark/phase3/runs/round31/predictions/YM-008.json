@@ -1,0 +1,20 @@
+{
+ "case_id": "YM-008",
+ "prediction_text": "方向（单一终局）：考秩可保、不失其位，但等第只居中平，不得上考优等。应期双层：窗口为亥月内（月档），主坐标取巳日——官鬼巳火逢值之日定等揭晓。",
+ "basis": "静卦。用神官鬼乙巳火持世：亥月水旺火死为休囚，赖日辰丙寅木临值生火、寅为火之长生，原神临日生官，官有根可保；忌神子孙丁亥水临月建本旺克官，然亥逢甲子旬空，忌神空而克力虚发，只压等第量级不翻保位方向；父母未土两现主文书考核程序照常。官休囚得日生、忌空，合参定中平保秩。动化方向：静卦无动化，记无动化；反转条件：无信号可反转。对表无考秩门类，明写对表无此门类，按逢值取巳日。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "YM-023",
+ "prediction_text": "占贵：有贵可得、能入仕得官，等级为中上而非极贵，功名迟显、须经文书任命而后定。应期以年为单位：窗口在后续数年内，主坐标取官鬼逢值之寅卯年（以寅年为定点，官临月建之支）。",
+ "basis": "六爻纳甲，艮宫山泽损之山地剥。占贵以官鬼为用：官鬼两现，上爻丙寅木应临寅月旺相、二爻丁卯木动。二爻官动化父母巳火，官化父母主功名落实于文书职任，化泄使显达稍迟；初爻父母巳火动化兄弟未土，文书有耗。世兄弟丑土。动化方向：卯木化巳火为泄化非退绝；反转条件：官旺有根，不成立源绝。用神旺相足级，故断可贵，化泄压一级为中上。四路：本气＋／元忌仇0／动化0／世应不计；合参成向。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "case_id": "YM-014",
+ "prediction_text": "方向（单一终局）：家宅确有火灾之虞且火情会发，但火势受泄受合、不至全宅焚毁，属惊险小火之患。应期双层：窗口为占日午日前后数日（日档），主坐标取午日当日——官鬼午火临日逢值、火象最显之日须严防。",
+ "basis": "灾象用神官鬼壬午火四爻独发：未月火休，然日辰戊午临值扶火，鬼临日而动，火起之象实；动化父母辛未土，火生土泄气、午未又合，化神泄合双收，火势有出路不蔓延成燎原；父母壬戌土持世，宅爻土旺得火生，宅体在。制鬼之子孙甲子水初爻旬空（甲寅旬子丑空），近段制火无力故火情得发，出空后制力回。近段（午日）火发、远段触发为鬼化未土泄合，火止于小患，两段合成单一终局：有火情而宅存。对象定位：应验对象为家宅本身及其火患，非占者人身之灾。动化方向：鬼化父为泄合向、只定量级；反转条件：无。",
+ "confidence": 0.56,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-241",
+ "prediction_text": "方向：我方鹌鹑胜，正向。世爻子孙申金三爻为我方鹌鹑，戊申日临日建值日，世临值有气且金克应爻官鬼卯木，我克应、世强应弱（卯木巳月休、日申克木）；父母午火二爻动克世金为唯一凶线，然午火动化妻财亥水回头克，火忌自受化神克制而解，亥水又只生应木调量级、不翻世临日克应之主势。具体断语：我方胜，胜幅不大，过程先受压后反制。应期尺度为日档（即日相斗），窗口为当日，主坐标即申日（世爻逢值之日）定胜负，无跨日应期。",
+ "basis": "世应分指：世申金=我方鹌鹑、应卯木=对方鹌鹑，非人对象应验对象复核：断语落鹌鹑本身不回收主人。动化方向：父午火→亥水回头克父，克世之忌有解（裁决表回头克有解类推忌受制）。四路以世应兼彼此计：世本气临日+／应受克-（对对方），合参我胜。反转条件无。对表博戏无门类，明写无表，即日逢值定点。",
+ "confidence": 0.63,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "disputed=true:父动克世与世临日克应两线相争，经回头克有解裁定；余false"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-014",
+ "prediction_text": "方向：窃贼不是问者所疑的两名女子/仆妇——真贼为一名年轻的 Mercury 型男子（少年/年轻仆从、跑腿传信或书记之流）。取贼经过：上升主火星虽在狮子25°02′，因自界自面被拒作贼星；土星居西角（第7宫、盗宫）亦在自界自面同样被过；唯水星居角宫、无本质尊贵、与土星成紧密合相又刑火星，合 Lilly 取贼之法，定为贼星。水星合土星、刑火星且皆阳性行星、月亮居阳性星座入相火星，合主贼为男性、年少轻捷、手脚快而与钱财文书出入相近。赃款：水星受土星合与火星刑双伤、月亮近太阳离行，主钱多已被转移/花用，全部原数追回无望——至多追回一部分，主坐标为难全数复得。应期无日级成相可据，只断追回成败，不硬报日期。",
+ "basis": "本题精髓在拒斥法：有界面者不作贼星，附件已明示 Mars、Saturn 依次被拒、Mercury 被取，照法落断；问者先入之疑（女仆）与盘面不合，以盘为准。追回部分因双凶伤贼星与财路，置信中下。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology (Lilly, classical)"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

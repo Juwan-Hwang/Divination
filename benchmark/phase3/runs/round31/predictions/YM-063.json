@@ -1,0 +1,19 @@
+{
+ "case_id": "YM-063",
+ "prediction_text": "弟兄暂不归、凶向迟归：静卦泽天夬，兄弟两现俱土旺于戌月，用神安静主未思归、未动身；上爻兄弟未土位在上爻主归期尚远，三爻兄弟辰土被酉日合住亦绊。应期双层：窗口戌月起四个月内（月档），主坐标丑月（丑土冲开未土静兄）弟兄始归，此前亥子两月不归，终局单一判迟归、近段不归。",
+ "basis": "用神枚举：兄弟两现未（上，旺）辰（三，旺而日合），取未为主（位应行程远段）、辰保留应验位，两现存疑记。动化无（静卦）；类别读法行人：主象安静未思归（黄金策行人类条，L1-78同旨），爻位上爻归期尚远。四路：本气+（兄旺，归之体有气）／元忌0／动化0／世应不计；合参体旺而静，方向为迟归非不归。应期三步：尺度月（行人远应月，对表行人首选远月近日本盘静而远取月）；冲实路丑冲未、填实路无空、逢值路未值/辰值，取冲静逢冲丑月（静而逢冲之通法），舍未月逢值（与丑同为支年节律而冲法优先于静值）、舍辰月（副兄之应）。行人对表：已查，静用逢冲开取点合表精神并注明。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": true,
+  "reason": "changed_main=false；reserve_used=true：辰土兄弟保留应验位；disputed=true：兄弟两现（未旺 vs 辰合住）无全胜者，取用存疑。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

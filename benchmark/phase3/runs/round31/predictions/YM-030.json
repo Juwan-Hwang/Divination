@@ -1,0 +1,19 @@
+{
+ "case_id": "YM-030",
+ "prediction_text": "占孕胎安否：胎终可保、安而育成，惟近段有冲动之惊、防动胎之扰，过了冲期即安。应期以日为单位（近事日档）：窗口为占后旬内，主坐标取冲象解散、子孙逢合之期，以子孙亥水逢合之寅日为安定期定点。",
+ "basis": "六爻纳甲，兑宫泽兑六冲之泽水困六合。占孕以子孙为胎之用神：子孙丁亥水四爻，申月得生、辛亥日临值，旺相有根。初爻官鬼丁巳火动，巳亥相冲，官动冲子孙主近段有惊扰动胎；然子孙临日旺相，冲而有根为冲动非冲散，且本卦六冲变六合，先惊后安。动化方向：巳火化妻财寅木，寅为甲辰旬空，冲力化空待实、实害不足；反转条件不成立。对象对齐：承受与应验同为腹中胎儿，同一。四路：本气＋／元忌仇0／动化0／世应不计；合参保向。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

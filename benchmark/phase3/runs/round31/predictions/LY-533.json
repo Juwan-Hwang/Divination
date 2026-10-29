@@ -1,0 +1,20 @@
+{
+ "case_id": "LY-533",
+ "prediction_text": "方向：房價索討難成——應爻妻財午火靜而旬空，對方空口無錢之象，近期索不到、更不能如數；官爻動化妻財巳火只主後來一線財路，量級為遲得小部分之機，不改近期難成之終局。應期以日為單位：窗口為本旬至下旬內，主座標巳日（化出妻財巳火逢值、有消息／小部分落實之日）。",
+ "basis": "輸入殘損註明：attached chart_note 明言逐爻表OCR行序錯亂，所附列與另欄（卯月乙酉日、空亡午未）可互證者作斷並降置信。用神妻財候選枚舉：現卦同親午火應爻靜唯一現卦候選；變爻同親巳火（官鬼辰土動化出）列出；日月卯木、酉金非火不列；現卦有同親，定主在現卦內取午火，changed_main=false；變爻巳火無空破標記、落選所據為次序在後，不留應驗位（其逢值只作消息期旁證、非空破應驗位），reserve_used=false；disputed=false。午火卯月為相有氣、旬空命中——假空判別：旺相有根＋得月相，判假空待實，不以空廢爻；但靜而空，對方無即時支付之力（承婚姻對表靜空終不成之理類用於應財靜空，只定近期難成、應期轉填實後之化財路）。世兄弟子水卯月休、酉日金生有氣。動化方向：辰土→巳火：土泄於火化出財親；戌土→亥水化出兄弟；反轉條件：化出財親一路部分成立（化財休相、非用神本人動化）只降格留轉機，不翻轉終局。四路：本氣0（相而空靜）／元忌仇0（兄世有氣未動克財）／動化＋旁證（官化財）／世應計：應財空靜主對方無力，−向調終局；合參近期難成。對象對齊：所問索討之房價／用神應財午／應驗對方應付之房價款，同一。本題應驗跨度日檔（近事索討）。門類應期對表：求財對表無應財靜空專條，按三步取化財逢值巳日。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "主用現卦應財午未變；變財巳無空破不留應驗位；取用無存疑"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

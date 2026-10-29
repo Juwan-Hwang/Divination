@@ -1,0 +1,20 @@
+{
+ "case_id": "LY-526",
+ "prediction_text": "方向：有礙父母——擇定之日入宅不利長輩：父母兩現休囚死於子月、又受日辰酉金泄氣，入宅後父母身體受擾／易病，宜改期避之；無動爻克父，故只斷有礙易病、不斷大凶。應期以月為單位：窗口為入宅之子月當月內，主座標未日（父母未土逢值之日，礙應見於長輩身上）。",
+ "basis": "用神父母候選枚舉：現卦同親未土兩現（上爻、初爻俱靜、同支）；變爻無（靜卦）；日月子水、酉金非土親之火不列（父母親五行火，日月皆非火）；現卦有同親不取伏。否決標記：未土子月水旺土死、酉日金泄土、靜（互比同記），不空（丁酉屬甲辰旬空寅卯）、不破（子不沖未）。兩現同支同態並列同斷，定主未土，changed_main=false；無空破落選候選，reserve_used=false；disputed=false。克父者妻財卯木旬空靜（空而靜無力克父），故礙之量級只到受擾易病；世官巳火子月死，宅主自身亦弱只作旁證。動化方向：靜卦無；反轉條件無。四路：本氣−／元忌仇0（原神火即世官死而靜、忌財空靜）／動化0／世應不計；合參以用神無氣定有礙向、無動克故降量級。對象對齊：所問父母／用神父未／應驗父母本人，同一。門類應期對表：家宅門類對表無此門類，明寫對表無此門類，按逢值取未日。本題應驗跨度月檔（入宅後近月）。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "父母兩現同支同態並列、主支未未變；無空破落選；取用無存疑"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

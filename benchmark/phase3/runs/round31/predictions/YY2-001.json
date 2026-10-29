@@ -1,0 +1,20 @@
+{
+ "case_id": "YY2-001",
+ "prediction_text": "方向：父寿偏长、非近寿终。用神父母两现俱旺相、原神官土临日生父，父根气足；寿限关口在远年。应期双层（年档，寿元门）：窗口为未来数年，主坐标寅年——冲临月建之申父之年为寿限关口，届时须防大厄，其前诸年以安为主。",
+ "basis": "所问对象：父之寿数；用神父母两现：五爻父母酉金与三爻父母申金——申父临丙申月月建旺、酉父得月同类扶，己丑日丑土生金，两父俱旺相有气，主用取临月申父，酉父同向佐证。应验对象为父本人，同一。原神官鬼土：上爻丑土临日、辰土三?二爻辰土静，两土生金源旺；忌神妻财巳火应爻静，申月巳申合、火休，克父之力被合绊。世爻子孙寅木逢申月冲为月破，是占者（子）一方之象，不回收作父寿断。静卦安静。寿元对表：用旺静者逢值逢冲之年为限，申父逢冲寅年取为关口坐标；次选酉父逢冲卯年量级次之入reasoning舍之（主用为申）。等级校准：父旺源旺，寿按足级偏长断，关口只断寅年防厄不断必终于是年。动化方向：静卦无动化；反转条件：无动爻信号，不反转。输入干支时辰齐备（庚午时午为空亡支，只作时象不入主断）。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

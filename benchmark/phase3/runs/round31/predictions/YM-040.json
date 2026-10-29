@@ -1,0 +1,19 @@
+{
+ "case_id": "YM-040",
+ "prediction_text": "占夫病：夫病可愈。官鬼虽休囚而动爻化神两路生扶，绝处逢生，救路已通。应期以日为单位（近病日档）：窗口为占后旬内，主坐标取官鬼逢值之亥日为愈期定点（官鬼己亥水逢值而得力）。",
+ "basis": "六爻纳甲，离宫天火同人之水火既济。代占夫病以官鬼为用（夫以官为用神兼病位）：官鬼己亥水三爻持世，未月土克、日壬寅木泄，休囚。四爻兄弟壬午火动化妻财戊申金，金生亥水，原神化出得救；上爻子孙壬戌土应动化官鬼戊子水，化出同亲助官。动化方向：午火化申金、戌土化子水，两化神均生扶用神；反转条件不成立。四路：本气−／元忌仇＋（原神化出得力）／动化＋／世应不计；合参有救迟愈向。对象复述：主语为占者之夫，同一。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

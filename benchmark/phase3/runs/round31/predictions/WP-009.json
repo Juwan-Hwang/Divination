@@ -1,0 +1,20 @@
+{
+ "case_id": "WP-009",
+ "prediction_text": "方向：印度队不能夺冠。虽为热门、小组赛阶段强势，但淘汰赛阶段止步——于半决赛一关被淘汰，无缘决赛捧杯；应期坐标为 2019 年 7 月淘汰赛周（月档定在 2019 年 7 月）。",
+ "basis": "输入无 Kohli/Dhoni 完整出生时刻与出生地本命盘，无法按占星篇排盘核尊贵相位，只能据题面（夺冠大热门）作反热门的世运读法：热门过盛而赛制为单场淘汰，断其强而不能到底、止步半决赛。据输入残损（缺出生时地）降置信。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md"
+ ]
+}

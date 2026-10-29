@@ -1,0 +1,20 @@
+{
+ "case_id": "YY-012",
+ "prediction_text": "方向：求财可得且财气旺。子孙持世临日生财，财临月建，得财较实，中间经父母手续一道。应期双层（日档）：窗口为卯月内，主坐标未日——财入墓收藏之日得财落袋。",
+ "basis": "所问对象：求财者本人；用神：妻财不上卦、变爻官鬼非财，月建卯木即妻财之亲，按日月分流以月建卯木为主用神；二爻官鬼午火下伏妻财卯木与月建同支，留应验位（reserve不作主用）。财临月旺、丁亥日亥水生财，路1+；世爻子孙亥水临日持世生财，原神有力，路2+。四爻父母丑土动化官鬼午火（甲申旬午空）：丑土→午火火生土为回头生父爻自身，化午空待实，父母手续迟一步而非阻断；父土克世子水只调量级。动化方向：父动化回头生、化神空待实；反转条件：源绝三征不齐（原神世子临日有根），不反转。应期对表（求财）首选：财临月建待入墓，木墓于未，取未日，且未为甲申旬空、至乙未日已出旬填实，两路合流；三路中逢值卯日（辛卯）为次选、与入墓尺度同为日档相距逾一步进，对决：闸门项财无空墓闸门平手、合流项未日有入墓+出旬填实双机制胜出，取未舍卯；冲实路无对象不取。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

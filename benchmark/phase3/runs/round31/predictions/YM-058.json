@@ -1,0 +1,19 @@
+{
+ "case_id": "YM-058",
+ "prediction_text": "擢往西方、吉向得地：静卦泽火革与发年同象而时异，戌月土旺、申日金相，文书父母酉金相于戌月、得土生，方位以最旺得扶之金定位西方；官鬼未丑土主中与西南为参，世亥水北为次。主断擢任西方（金方），应期双层：窗口戌月起一年内，主坐标酉月（父母酉金逢值之月）赴任定局。",
+ "basis": "用神/取方：功名看官父；何方以用神五行方位定——父母酉金相得月土生为最有力之方神，酉主正西；官未土主西南、丑土东北仅参。动化无。反转无。四路（官父合参）：本气+（父相得生、官土临月旺）／元忌0／动化0／世应不计，方向偏吉。应期三步：尺度月（赴任近事）；逢值酉月为主坐标，冲实/填实无点已明写无候选。输入完整，方位断以酉金单神定主、余方入basis不并陈为主断。功名对表：父相静逢值取酉，合表。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "主方神酉金自始定主、无储备参与、不断存疑，三项皆false。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

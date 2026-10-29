@@ -1,0 +1,19 @@
+{
+ "case_id": "OC-024",
+ "prediction_text": "方向：葬资有着落，不必外求借贷——亡易者生前自有窖藏之金，就藏于其家枕下/床下窖中，掘出此金即可营葬，葬事办得成。应验对象即该笔枕下窖金（物品一项落定）；时点为即时可掘、当下之家内，不待远期外援。此象与占题所附『击鼠枕窖金』之目互合：金在枕下窖内，与鼠扰之处相近，掘窖见金。",
+ "basis": "输入无卦象、无课式附件，本例可据者只有占题事实与出处条目名（击鼠枕窖金）：易者以遗书预托身后事、其家苦无资——按梅花明理与事实优先序，预言可托之人必指家中自有之资而非外借；条目名明示枕、窖、金三象，合断为枕下窖藏之金。此为输入残损例：无盘面可走体用生克，断语只落到『资出于家内窖金、葬事可成』一层，金额与确切藏点（枕下抑床下）无据不报，置信据此下调。",
+ "confidence": 0.45,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "梅花易数（外应/明理取象）"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

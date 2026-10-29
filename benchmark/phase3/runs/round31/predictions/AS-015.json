@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-015",
+ "prediction_text": "方向分两条：其一，丈夫在海上平安活着——其征星太阳得 hayz、通体不受任何凶伤，主人安全无恙，身在海上平安处，终将归回（盘面未给足方位度数，方位不臆断，只断平安与可归）。其二，问者本人凶：其第6宫主土星逆行主她久病缠绵、一病未愈又继一病（小pox毁容、目弱、悲恸皆与此合）；火星与土星趋于凶相、火星临近月中之位，主她的死期落在随后10月8日——即她本人将于10月8日前后病故，先于丈夫归讯圆满。应期单位为月档定到题面所给之日（10月8日），此日为题面附件自带之 Lilly 计时点，照录落断。",
+ "basis": "丈夫征星全然无伤为古典 absent alive 最强活证，足级断活；妻之死期与土逆病宫、火土凶相为另一指代链，承受对象为妻本人、不得回收到丈夫身上——（f）对象复核已分链。输入部分位置 OCR 残损，丈夫所在方位与归期日级坐标无据不报，故置信下调。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology (Lilly, classical)"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

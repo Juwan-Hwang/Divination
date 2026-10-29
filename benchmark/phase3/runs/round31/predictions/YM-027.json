@@ -1,0 +1,19 @@
+{
+ "case_id": "YM-027",
+ "prediction_text": "占晴兼秋成：当日申日即转晴、晴于申日，秋成中平偏可、禾有收而非大丰。应期以日为单位：窗口为占后一二日内，主坐标取子孙临值之申日（占日即申日，晴象当日得值）。",
+ "basis": "六爻纳甲，艮宫风山渐之风水涣。天时以子孙为晴：三爻子孙丙申金持世发动，临甲申日值，晴象得日值而有力；二爻父母丙午火动，午火甲申旬空，雨爻动而空，雨势待实不足；世子孙动化父母午火空，晴后仍有暂雨之余象，故晴而秋成只中平。动化方向：申金化午火回头克而化神空、无力，反转不成立，晴向维持只调量级。秋成以子孙兼主禾稼，子孙临日动故有收。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "子孙动化父母，晴雨两象并见，量级存疑"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

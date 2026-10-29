@@ -1,0 +1,22 @@
+{
+ "case_id": "MP-009",
+ "prediction_text": "韩国瑜2020总统选情凶、败象已定，且高雄市长职位不稳固。断语：①总统——2020年1月大选韩国瑜落败，无翻盘之机；②市长——罢免连署将成案并通过，韩于2020年年中去职，市长位不保。两事同凶，先败选、后罢免。",
+ "basis": "问于2019年10月2日卜卦：占题给定绿党民调蔡50.9%、韩32.6%，且韩民调自8月大幅下滑、罢免第一阶段连署进行中，事实面败象与罢免动能俱足，按事实优先序足级断凶不降格。两段式：近段选战（至2020年1月）败，远段市长位（2020年年中）触发为罢免程序推进与民怨累积，方向同为去职。卜卦体系与局势两路同指。",
+ "confidence": 0.75,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "卜卦（文王卦类）",
+  "八字/流年运势（现代命理师选举断法，事实局势参断）"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

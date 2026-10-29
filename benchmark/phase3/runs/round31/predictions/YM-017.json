@@ -1,0 +1,20 @@
+{
+ "case_id": "YM-017",
+ "prediction_text": "方向（单一终局）：访友可遇，能见到友人。应期双层：窗口为本旬内（日档，访友近事），主坐标取申日——独静之兄弟申金逢值之日遇友。",
+ "basis": "五爻动、一爻独静：按盘面自下：初父辰动、二官午世动、三兄申动、四官午动、五兄申静（应）、上父戌动，独静者为五爻兄弟申金，兄弟即友人之用神。本题出自独静章，法以独静之爻定应：申金未月得土生（相）、虽日午火克而有月生扶，静而有气，逢值申日其人现身；逢冲寅日一路舍弃理由为寅逢甲辰旬空、冲力先待填实，与独静逢值取点相悖。余动爻众动只主行程纷扰，不翻遇友终局。动化方向：众动化出与用神无直接生克定性链，用神静取逢值；反转条件：无。",
+ "confidence": 0.57,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md"
+ ]
+}

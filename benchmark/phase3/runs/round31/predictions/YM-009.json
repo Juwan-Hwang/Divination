@@ -1,0 +1,20 @@
+{
+ "case_id": "YM-009",
+ "prediction_text": "方向（单一终局）：摇会可得，此轮会银到手。妻财持世得原神临日生扶，财有着落；应期双层：窗口为本旬内（日档），主坐标取午日——妻财午火逢值之日得会。",
+ "basis": "静卦。用神妻财戊午火持世：辰月土旺火休，本气中平；日辰甲寅木临值，寅木为财之原神（木生火）临日生财，财得天时强援；子孙戊寅木初爻同临日支、福神有气生财；忌神兄弟癸亥水静，辰月水囚、又不发动，劫财无力。世财得生、忌静无力，断可得。动化方向：静卦无动化；反转条件：无。对表求财门首选为财临日月入墓一路，本卦财不临日月不入墓、无其点，递补按逢值路取午日，已写明。",
+ "confidence": 0.64,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md"
+ ]
+}

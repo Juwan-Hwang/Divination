@@ -1,0 +1,20 @@
+{
+ "case_id": "YY2-002",
+ "prediction_text": "方向：妻寿尚有年、非近终，但寿基中平偏弱。用神妻财休囚泄气而得世爻原神木生扶，属有源之弱；寿限关口在远年。应期双层（年档，寿元门）：窗口为未来数年，主坐标亥年——冲实主用巳财之年为寿限关口，届时防大厄。",
+ "basis": "所问对象：妻之寿数；用神妻财两现：应爻妻财午火（甲申旬午空，旬空标记）与二爻妻财巳火（不空）——按空破不径舍并列送判，主用取巳财（有实），午财兼应位留应验位（出空/冲空子年为次关口入reasoning）。应验对象为妻本人，同一。巳财：己未月、戊戌日皆土泄火，财休囚；原神子孙卯木世爻生财（木生火），卯木未月有余气、戌日卯戌合，源在而合绊，属源减未绝。忌神兄弟子水静，未戌两土克水，忌弱。静卦安静，卦地水师归魂主寿局归本位、无速变。寿元对表：静用逢值逢冲，巳逢冲亥取亥年为主关口；午财冲空实空子年为应位关口量级次之舍作主坐标。等级校准：用休囚得源生，寿按中平断、不拔高长寿、亦不断近终（决策序：休囚无日月克绝且有源生，不直断死绝）。动化方向：静卦无动化；反转条件：无动爻信号，不反转。",
+ "confidence": 0.45,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

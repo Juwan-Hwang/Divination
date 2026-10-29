@@ -1,0 +1,21 @@
+{
+ "case_id": "BQ-001",
+ "prediction_text": "倾向判断：父寿将尽、不治（negative）。父卧疾三年、昨日气尽复苏属久病回光之暂苏，非病愈；得兑之履，兑为口为毁折、言气之象，变履履虎尾主险终，本宫金受火克、气无生源，近段暂苏、远段转绝。应期（月档/近病取旬月：先定尺度为本月内）：窗口为三月十三日后本月内，主坐标为旬内逢土埋金之戌未日气绝而终，寿终在三月内、不出本月。对象复述：寿数、愈否主语均为求卜者之父本人。输入残损：原文无六爻全盘，仅本卦兑、变卦履与断语援引之卦象，应期只能定月窗、主坐标为推测级，置信下调至0.50。",
+ "basis": "筮占合六爻纲领：以父母/父体为承受对象，久病三年+气尽复苏先按事实优先序定回光；兑金受本宫火克、变履险终、无原神生扶成链。动化方向：兑变履/乾象主气散归天，无回生路。反转条件：源绝类信号因无全盘不能逐项坐实，只降格留痕、不以单象翻转。盘面不全已在断语注明。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "无六爻全盘，仅卦象援引，须以卦象/事实之备用路收束，故reserve_used=true；终局方向未因复核改主断，changed_main=false；信号同向不争，disputed=false。"
+ },
+ "systems_used": [
+  "liuyao",
+  "yijing_shizhan"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-yijing.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "YM-037",
+ "prediction_text": "占子痘：子痘凶险，近段病势重、父爻金动克子孙，远段待子孙出空填实之期定生死，就现有盘面终局偏危、不乐观。应期以日为单位（近病日档）：窗口为占后至寅日一旬内，主坐标取子孙填实之寅日为生死关口定点。",
+ "basis": "六爻纳甲，坎宫水雷屯之泽火革。占子痘以子孙为用：子孙庚寅木二爻持世，甲辰旬空寅卯，子孙临空；未月木休、日辰土耗。四爻父母戊申金动化兄弟亥水，父母金动克子孙木，忌克发动；三爻官鬼庚辰土动化兄弟亥水，亥水生寅木为一线生机而化神远水待合。真空假空判别：子孙空而得化神亥水生扶一线，判待出空而非真空废爻，故断危待关口不断必死。对象复述：主语为占者之子，同一。动化方向与反转条件：父化水回头泄金稍解克力，反转不足以翻凶向，只降格为偏危。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "初看子孙空亡，复核化神生扶后由直断凶改为偏危待关口"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

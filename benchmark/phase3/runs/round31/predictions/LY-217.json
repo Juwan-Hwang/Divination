@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-217",
+ "prediction_text": "方向：定不成重罪，终局为轻罪/罪名消解，正向（就定罪之问为不定重罪）。官鬼卯木上爻发动化子孙酉金，酉金回头克官、且化出子孙为克官解罪之神，官动而被化神克制，主罪名立不住；父母巳火五爻动化妻财亥水回头克，判决文书一线亦受冲克（亥日冲巳），文书定罪难成。具体断语：最终不会按重罪定案，至多轻处或议解，开释/改轻的转机在金水之期。应期尺度为月档，窗口为数月内，主坐标取酉月（化神酉金逢值、回头克官最力）为罪名消解定点；亥日冲父只作近段文书变动，不作主坐标。",
+ "basis": "动化方向：官卯→酉金回头克官且化子孙，忌化用式解官定性；父巳→亥水回头克父。初判表面官鬼发动似主定罪，经动化裁决表第2步化出子孙克官，终局改定。反转扫查：化进待冲不成立，源绝不成立。四路：官本气休而得亥日生0／子孙化出克官使罪势-（对定罪为负、对当事人为解）。对象：官鬼=所定之罪，应验落当事人定罪结果，同一。对表：讼事诸章对表无应期成文，明写对表无此门类，按逢值取酉月。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main=true:表面官动主定罪，被官化子孙回头克的动化定性改为主断；reserve_used=false；disputed=false"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

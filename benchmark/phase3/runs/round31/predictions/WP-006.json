@@ -1,0 +1,19 @@
+{
+ "case_id": "WP-006",
+ "prediction_text": "Direction: Britain votes to leave the European Union — 'Leave' wins the referendum of 23 June 2016. The Uranus–Ceres conjunction at 23 degrees Aries on referendum day is the deciding signature: a sudden, identity-driven break (Uranus in Aries) with the nurturing/membership bond (Ceres), cutting the UK out of the EU body. Despite February polls showing 'Stay' ahead with many undecideds, the undecided vote breaks for exit and the result is Brexit. Timing: the break is sealed on referendum day itself, 23 June 2016.",
+ "basis": "Mundane astrology on the supplied data: Uranus conjunct Ceres at 23° Aries on the vote date signifies abrupt severance of a belonging/nurture bond in the sign of national self-assertion; applied to the UK national charts (1066/1801/1922) named in the setting, the transit activates a separation rather than a consolidation pattern. The assessment's own trajectory in the setting (published July 2015, firmed February 2016, i.e. held against contrary polling) is consistent with a chart-driven Leave call. Polls are discounted per mundane method where a hard referendum-day configuration contradicts them; confidence moderate-high on the configuration given.",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western mundane astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

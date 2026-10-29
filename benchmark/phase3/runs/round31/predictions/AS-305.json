@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-305",
+ "prediction_text": "倾向判断：唐纳德·特朗普以窄幅胜选（positive对特朗普）。盘面诚为势均力敌、极难判：普选票可由哈里斯占先或极为接近，但选举人票拼图最后倒向特朗普，摇摆州多数被其以一两个百分点内拿下，选举人票约312张量级过门槛；胜负不在辩论声量而在锈带与阳光带州的地面票。应期（月档）：窗口为2024年11月5日后数日内，主坐标为开票后一周内确认特朗普当选。",
+ "basis": "选举占星自承两盘接近，故只作窄幅断：以选举日盘与两人行运对决，特朗普一方在火/木推进与选举人票拼图上占最后一分，哈里斯占普选声势；终局按选举人票定。输入无完整出生时刻与原盘，属残损输入，双方差距极小，置信压至0.52。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

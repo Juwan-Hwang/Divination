@@ -1,0 +1,20 @@
+{
+ "case_id": "YM-003",
+ "prediction_text": "方向（单一终局）：占官不成，本轮无升迁。世持子孙而动、子孙克官为求官大忌，虽化出官鬼亦属虚影，官职落空；应期双层：窗口为戌月内（月档），主坐标取巳日——官鬼巳火逢值之日见落选分晓。",
+ "basis": "用神官鬼乙巳火应爻：戌月休、又逢日月戌土墓火之气，旺衰低。世爻子孙丙子水五爻动，子孙为官之忌神，动而克官，化巳火官鬼系水克化神、无力之化，不作得官论；妻财乙卯木三爻动而旬空（甲辰旬寅卯空），动化兄弟申金回头克，财生官之链断而化空。原神（财）空破化克、忌神（子孙）临世发动，四路合参方向为负。动化方向：世化官为忌化虚官、财化兄回头克，均非吉向定性；反转条件：无源绝议题、无化进吉向可反转。对表：仕途无功名发案门类之父母对位可套（问升迁非发案），明写对表无此门类，按三步取巳日逢值。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md"
+ ]
+}

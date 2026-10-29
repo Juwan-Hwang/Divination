@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-208",
+ "prediction_text": "方向：Prince Rupert 不能由此战得荣誉——占优得名者是 Essex，Rupert 一方将被压过、失地失势，最终前途黯淡、离境远走一途。Rupert 以第10宫及其主太阳为征，太阳无主宰（peregrine）且陷弱（detriment）居固定星座，主其名位无根、强撑不动；Essex 征星金星与土星互容，金星又主宰 Rupert 之征星（dispositor），主 Essex 反握其命脉；月亮以左相投第10宫头、金星以右相投第10宫头，双证皆谓荣誉宫受 Essex 方之光而非 Rupert 之光。此问后段：Rupert 此后纵有征战亦难挽名声，终局为失势远离，非凯旋受勋。",
+ "basis": "10宫贵人占：征星 peregrine+detriment 与对方互容受制成对决，无救；不给具体战役日期（题面未给问时），只断荣誉归属与人物终局。",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology (Lilly, classical)"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

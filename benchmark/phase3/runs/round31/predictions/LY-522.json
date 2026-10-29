@@ -1,0 +1,20 @@
+{
+ "case_id": "LY-522",
+ "prediction_text": "方向：可得利而利不厚——買馬往南發賣有賺頭：妻財旺相逢日沖暗動、原神子孫動而生財，馬可賣出得利；子孫化空主馬匹／利頭有一程虛耗，量級降為小到中利。應期以日為單位：窗口為本旬十日內，主座標酉日（妻財逢值、沖實暗動之財在此日成交）。",
+ "basis": "用神妻財候選枚舉：現卦同親酉金兩現（三、四爻俱靜、同支）；變爻無同親（四爻化子孫辰、世化父母寅）；日月丑土、卯木非金不列；現卦有同親不取伏。否決標記：酉金丑月土生為相、丁卯日卯沖酉——有氣逢沖判暗動（不作日破）、不空（丁卯屬甲寅旬空子丑）、不破。兩現同支同態並列同斷，定主酉金，changed_main=false；無空破落選候選，reserve_used=false；disputed=false。所賣之馬以子孫為象：子孫丑土初爻臨月建動、化官子水而子水旬空——馬動而化空，作量級虛耗記。原神即子孫動生財成立。動化方向：丑土→子水：土克水化出被本爻克，非回頭生克於財；反轉條件不齊，不反轉。四路：本氣＋／元忌仇＋（原神動生、兄巳午靜）／動化0（財本身無動化）／世應不計；合參成向降量級。門類應期對表：求財對表無靜財逢沖專條，按三步日檔：沖實卯日已沖暗動不取為成交點舍、填實無空舍、逢值酉日取中。對象對齊：所問本人賣馬之利／用神財酉／應驗馬價之財，同一；馬之應驗對象為所買之馬（子孫丑），分開寫明。本題應驗跨度日檔（近事買賣）。輸入無殘損。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "財兩現同支同態並列、主支酉未變；無空破落選；取用無存疑"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

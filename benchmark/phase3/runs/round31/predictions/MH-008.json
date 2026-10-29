@@ -1,0 +1,22 @@
+{
+ "case_id": "MH-008",
+ "prediction_text": "方向：凶，主牛亡。所占之牛将死，死于宰杀/载尸之厄而非安然而终：断语三条：①对象——凶应牛本身，不回收到主人家遭丧（对象，牛属坤为体即所占对象）；②事象——地水师六三爻辞明言『师或舆尸，凶』，舆尸主载运死体，合牛声极悲之外应，断牛将被牵去宰杀或伤重致死、见尸被载出（物品/事象为牛尸）；③应期——窗口三日内，主坐标次日，牛之厄即临（时点，应期单位为日，依据动爻三与悲鸣急迫之象）。量级守恒：畜类存亡小事只断牛亡本身，不放大为人祸。",
+ "basis": "本卦地水师三爻动：动在下卦坎，故坎为用、坤为体，体坤土克用坎水；变卦地风升，用巽木克体坤土，转为用克体凶；互震木亦克体土，克体之路叠加。爻辞六三『师或舆尸，凶』自带凶断，与体受克同向。事实对回：牛鸣于坎方、声极悲，悲鸣为凶外应，与师卦军旅舆尸之象相合。应验对象复核：承受对象为牛，应验对象按坤（牛）为体、坎方声源指代链同为此牛，同一，不转断其主人。",
+ "confidence": 0.78,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "梅花易数（后天端法，体用生克）"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

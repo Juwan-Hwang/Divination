@@ -1,0 +1,20 @@
+{
+ "case_id": "LY-530",
+ "prediction_text": "方向：家宅人口不平安——世爻子孫動化回頭克、平安之神受克，財爻兩現逢空，斷家中有人病擾破財之擾，非清吉之宅；程度中度，不斷大災。應期以日為單位：窗口為卯月當月內，主座標午日（世爻化神父母午火逢值、回頭克應顯之日）。",
+ "basis": "輸入殘損註明：attached chart_note 明言逐爻表OCR行序錯亂未能可靠還原，所附逐爻列與卦名空亡可互證者作斷並降置信；另欄給卯月癸亥日、空亡子丑，採之。家宅平安以世爻與子孫（平安神）為主線：子孫申金四爻世動唯一現卦同親主候選；變爻化父母午火非子孫；日月卯木、亥水非金不列；定主世子申，changed_main=false；無空破落選候選，reserve_used=false；disputed=false。申金卯月為死、亥日水泄，休死無氣；化午火回頭克（火克金）且午火卯月相有力——平安神動化回頭克無解。妻財子水兩現逢空（子丑空）：上爻動化兄戌、初爻應靜——家財空耗旁證。官鬼寅木臨月旺為病擾之星。動化方向：申金→午火：火克金回頭克；子水→戌土同列記；反轉條件：化回頭克之克神午火有氣無被沖克解，不反轉。四路：本氣−／元忌仇−（官旺、原神水財空）／動化−／世應不計（世即主線）；合參不平安向。對象復述：主斷語主語為家宅人口全體（所問對象），世子受克應驗於家中人口之平安，不回收到單一親屬。本題應驗跨度日檔（近宅近事、化神值日可定）。門類應期對表：家宅對表無此門類，按化神逢值取午日。",
+ "confidence": 0.56,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "主用世子申唯一；無空破落選；取用無存疑（逐爻殘損只降置信）"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

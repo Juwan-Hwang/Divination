@@ -1,0 +1,19 @@
+{
+ "case_id": "YM-064",
+ "prediction_text": "夫将归、吉向可归：妻占夫以官鬼为用，官鬼午火三爻静而死于子月，却得寅日木生、居三爻主将到门；原神妻财寅木初爻持世临日发动生官，且动而化出官鬼巳火，原神化用、夫象自化而近。应期双层：窗口庚寅日起五日内，主坐标甲午日（官鬼午火逢值之日）夫归到家，终局单一判归。",
+ "basis": "用神：官鬼午火单现为主夫象；妻财寅木世动为原神。动化方向：初妻财寅木动化官鬼巳火，化神火→寅木为被生（寅生巳，化出用神之亲=原化用），定性吉向；反转条件：官本气死而得日生与原神临日动生，不构成化绝无扶，不反转。类别读法行人：用神居三爻将到门、原神化用主渐近。四路：本气0（官死得日生）／元忌仇+（财原神临日动生官、子孙亥水应静旺不克火成链）／动化+／世应计（应子水不克世，量级不计）；合参有救吉向。对象对齐：对象=夫，用神=官午火，应验=夫同一；行人复述主语均为夫。应期三步：尺度日（近归）；冲实路子冲午、填实路无空、逢值路午值官与巳值化官相距一日不对决，按序取午值主官为主坐标，舍癸巳化官值（化象之应，留reasoning）、舍子冲（月建冲官为破象不作归期）。行人对表：静用逢值取点合表。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "changed_main=false；reserve_used=true：化出巳火官保留为备选应验位；主用唯一，disputed=false。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

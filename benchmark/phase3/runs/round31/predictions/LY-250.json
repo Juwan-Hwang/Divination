@@ -1,0 +1,20 @@
+{
+ "case_id": "LY-250",
+ "prediction_text": "方向：夫不再往他省，將歸家（單一終局：歸而不他往）。夫星官鬼寅木二爻靜，亥月水生木相、子日水生，寅亥又合月建——夫在外安好且行止被合住，主停留原處、不再轉往他省；應爻妻財子水臨日發動生官，家中有召歸之勢。歸期（日尺度，問何日到）：窗口數日內，主座標申日（申金沖寅，靜而逢沖則動身而歸；五爻子孫申金已動亦同指申）。置信：中。",
+ "basis": "雷天大壯之澤風大過，亥月甲子日（甲子旬空戌亥）。妻占夫以官鬼為用，官鬼寅木獨現二爻靜，候選唯一。寅木得月建亥合生、日辰子生，旺相有氣（路1＋）。原神妻財子水應爻臨日動，生官成鏈（路2＋）；忌神子孫申金五爻動克官，然申金亥月囚、化子孫酉金為化進（申→酉進神），其克力有限且金最終生水轉生官，記量級不翻向。動化方向核：酉金→申金：生（同類進化）；丑土→子水：克（應財化兄回頭克，主歸途一度耗擾）。世父母午火亥月死、子日克，世衰只主妻憂，代占不以世定夫。對象對齊：所問＝在外之夫，用神官鬼寅木即夫，歸否主語復述為夫，同一。門類查表：行人章，靜用神取逢沖之期；應期三路：沖實申日取中（兼動爻申同指合流）；逢值寅日主已到非動身舍；填實無空不適用舍。六神未給。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "六爻納甲"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

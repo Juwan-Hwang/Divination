@@ -1,0 +1,20 @@
+{
+ "case_id": "YY-024",
+ "prediction_text": "方向：婢能寻见、人未远。妻财旺相安静未远行，兄弟独发化进主婢被同辈之人带引向东，匿于东/东北方同辈人家。应期双层（日档）：窗口为午月内，主坐标戌日——上爻妻财戌土逢值之日见人/得确信。",
+ "basis": "所问对象：走失之婢匿处与见期；用神按行人分类奴婢取妻财，两现：上爻妻财戌土与三爻妻财辰土，俱得壬午月、辛巳日火生旺相，主用取上爻戌财（位高、在外卦主在外人家），辰财留位。应验对象为婢本人，复述主语为婢，同一。财静安主未远、未思动（L1-78主象安静）；二爻兄弟寅木独发化卯木化进（寅→卯），兄弟为同辈，木克财土主同辈带引/藏匿，捕逃动以独发爻定方（L1-28）：寅卯属木主东方，断匿于东/东北同辈人家。卦天雷无妄六冲主已离位散走，只调量级（人已出门）不翻财旺可寻。世子孙午火临月，寻者一方有力。动化方向：兄寅→卯木化进（带引之势进）；反转条件：无源绝/化绝，不反转。应期对表行人：财静逢值取戌日，冲实辰日冲戌为备选舍（逢值与用神主位同支优先），填实无空不取。原神火即世子临月旺，源足主可寻。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

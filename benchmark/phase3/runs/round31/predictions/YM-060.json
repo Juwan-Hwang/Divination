@@ -1,0 +1,19 @@
+{
+ "case_id": "YM-060",
+ "prediction_text": "升往西方、吉向可升：静卦山雷颐官鬼不上卦，月建酉金于巽宫为官鬼之亲，按用神不现以日月为用，官星酉金临月建旺，升迁之官得天时；世爻妻财戌土相于酉月，父母子水两现休囚为文书稍弱。方以月官酉金定位西方。应期双层：窗口酉月起一年内，主坐标酉月（官星酉金逢值之月）升任西方定局，终局判可升、文书迟为量级之减。",
+ "basis": "用神枚举：现卦无官、变无官，日月——月酉金为官亲、日巳火为子孙非官，故以月建酉金为官用神（日月分流定主）；父母子水两现休囚只作原神量级。动化无；反转无。四路：本气+（官临月旺）／元忌仇0（父原神休弱、子孙巳日静相克官未成链）／动化0／世应不计；合参吉向偏弱。方位酉金正西。应期：尺度月；逢值酉月主坐标，冲实卯冲酉列备选舍（冲月官非升任常法），填实寅兄空与官无关。功名对表：用神以日月定者按逢值取，注明对表原条以卦内父官立论、此处类推日月用神已写明。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "changed_main=false；reserve_used=true：官用神由日月储备候选定主；规则次序明确，disputed=false。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

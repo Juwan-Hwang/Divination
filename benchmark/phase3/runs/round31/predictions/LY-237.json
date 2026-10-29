@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-237",
+ "prediction_text": "方向：出行谒贵可得见，正向。官鬼亥水三爻持世，申月水相、得月金生，官星即贵人而持世，主贵人可近、可接；应爻子孙戌土虽克水，戌土在申月休囚、静而不动，阻力无力。具体断语：此行能见到贵人，且官持世主见面后于己有利；路途无大阻。应期尺度为日档（近事出行谒见），窗口为本旬内，主坐标取巳日（巳冲亥水世官，静而旺者逢冲而动、出行门类世旺静逢冲之日成行得见）为得见之日；亥日逢值为备选，舍因静爻逢冲应期法优先于逢值。",
+ "basis": "用神官亥水持世唯一。静卦无动化。四路：官本气+／应土休囚静0，合参正向。对象：官=贵人、世=求测者，应验落求测者得见贵人，同一。对表谒贵：官持世而空者出空得见——本例官不空不套该条；出行门类世旺静逢冲取巳日，已写明取舍。",
+ "confidence": 0.64,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "三项皆false:官持世旺相同向，无反转、无备用、无存疑"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

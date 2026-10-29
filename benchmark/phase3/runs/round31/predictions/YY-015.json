@@ -1,0 +1,20 @@
+{
+ "case_id": "YY-015",
+ "prediction_text": "方向：求财不得。妻财两现一月破一旬空，原神子孙亦空而静，静卦无动爻引拨，财只是空头名目、无实得。应期双层（日档）：窗口为丑月内，主坐标辰日——空财填实之日验明仍无实得（败应之期）。",
+ "basis": "所问对象：求财者本人；用神候选：世爻妻财未土（己丑月未冲月建为月破）与三爻妻财辰土（甲午旬辰空）两现，俱带空破标记，按反验护栏不径舍、并列送判：主用取世财未土（兼世位），辰财留应验位。旺衰：未财月破、辰财旬空，日辰癸卯木为兄弟之亲克财（卯克土），月丑土同类之扶不足抵破空与日克；原神子孙巳火同在甲午旬空（巳空）而静，源亦空；忌神兄弟寅木应爻静克财。静卦无动，四路：路1-、路2原神空静0偏-、动化0、世应不计（自占世即财已并路1）；合参负向。终局条件：用神空破叠加+日克+原神空静无救，断不得财，但空破自带应期故不断绝望于他时。应期三路：填实辰日（空财填实）取为验期，冲实卯日即占日已过不取，逢值未日为月破实破之期与终局量级不合降为备选入reasoning。动化方向：静卦无动化；反转条件：无动爻信号，不反转。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

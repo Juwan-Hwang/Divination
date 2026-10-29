@@ -1,0 +1,20 @@
+{
+ "case_id": "LY-518",
+ "prediction_text": "方向：不可上——上書條陳不利，上則有害：文書動而空、化回頭克，主題本被駁斥、且易觸怒招責，不上為宜。應期以日為單位：窗口為本旬十日內，主座標巳日（父母巳火填實逢值之日見駁斥定局）。",
+ "basis": "用神父母候選枚舉（上書以父母為文書）：現卦同親巳火兩現——五爻動、初爻應靜；變爻化子水為財非父；日月申金、辰土非火不列；現卦有同親不取伏。否決標記：動巳——申月火囚輕記、旬空命中（戊辰屬甲午旬空辰巳，動而逢空作待實）、化子水回頭克重記；靜巳同空同囚。互比動勝靜定主五爻巳火，changed_main=false；落選靜巳與主用同支同座標，不另留應驗位，reserve_used=false；disputed=false。動化方向：巳火→子水：水克火回頭克；方向定性凶向；反轉條件：化回頭克無解（子水得申月金生有力）、源絕不涉，不反轉。四路：本氣−（父囚空）／元忌仇−（化神回頭克、原神木官靜而不生火待考仍不救空克）／動化−／世應不計；合參敗向。終局反轉掃查：三類俱無全成立，初判維持。門類應期對表：上書門類對表無成文條目，明寫對表無此門類，按三步＋D：沖實巳沖亥不涉舍、填實巳日取中、逢值巳日同點合流。對象對齊：所問本人上書／用神父巳／應驗題本與本人，同一。本題應驗跨度日檔（近事）。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "動巳勝靜巳定主、與首遇動父一致；落選靜巳同支同座標不另留位；取用可裁無存疑"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "case_id": "LY-534",
+ "prediction_text": "方向：具題不利——題本父母動而空、化回頭克，與上書同盤同斷：具題必被駁斥或招責，具之有害，不具為宜。應期以日為單位：窗口為本旬十日內，主座標巳日（父母巳火填實逢值、駁斥定局之日）。",
+ "basis": "輸入殘損註明：attached chart_note 明言逐爻表OCR行序錯亂，所附列與另欄（申月戊辰日、空亡戌亥——按戊辰日旬空實為辰巳，所附空亡戌亥與日辰不合，只採逐爻與月日作斷）可互證者作斷並降置信。用神父母候選枚舉：現卦同親巳火兩現——五爻動、初爻應靜；變爻化子水財非父；日月申金、辰土非火不列；現卦有同親不取伏。否決標記：動巳申月囚、旬空命中（甲午旬辰巳空）、化子水回頭克；靜巳同空。互比動勝靜定主五爻巳火，changed_main=false；靜巳同支同座標不另留應驗位，reserve_used=false；disputed=false。動化方向：巳火→子水：水克火回頭克無解（子水得申金生）；反轉條件不齊，不反轉。四路：本氣−／元忌仇−／動化−／世應不計；合參敗向。終局反轉掃查俱無全成立。門類應期對表：具題門類對表無成文條目，明寫對表無此門類，按填實／逢值同點取巳日。對象對齊：所問具題一事／用神父巳／應驗題本本身，同一。本題應驗跨度日檔（近事）。",
+ "confidence": 0.64,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "主用動父巳勝靜父、與首遇一致；靜父同支同座標不另留位；取用無存疑"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

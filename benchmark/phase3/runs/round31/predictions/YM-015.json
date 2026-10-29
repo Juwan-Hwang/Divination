@@ -1,0 +1,20 @@
+{
+ "case_id": "YM-015",
+ "prediction_text": "方向（单一终局）：功名可成，乡举得中，但不在即年，须待文星填实之年。应期双层：窗口为壬午年后数年内（年档，乡举之期属远事定年），主坐标取酉年——父母动化之兄弟酉金逢酉年填实出空、榜文落实之年。",
+ "basis": "功名取用有登记冲突：快照内功名发案以父母为单主，另有父鬼双主之说并列未裁，本例两路并看并注明取舍——官鬼乙巳火应爻巳月临月旺，官星极旺主名位有分；父母丙戌土四爻独发动，化兄弟己酉金泄气且酉逢甲戌旬空，文书动而化空，榜讯待实空之年。子孙丙子水持世，子水巳月死、克官无力，不作忌论。官旺父动而化空待填：成而迟，应期按化神填实取酉年；逢值巳年一路舍弃理由为官虽值而父化空未实、榜文无着。动化方向：父化兄为泄而化空待实，非化进吉向亦非绝路；反转条件：无齐备信号，不反转迟成之判。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "disputed=true：功名用神结构在快照内有单父母主与父鬼双主并列未裁之冲突，本例双看并以官旺父动化空合断，取舍留痕"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md"
+ ]
+}

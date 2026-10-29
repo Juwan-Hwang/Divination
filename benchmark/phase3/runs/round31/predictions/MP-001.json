@@ -1,0 +1,21 @@
+{
+ "case_id": "MP-001",
+ "prediction_text": "蔡英文胜选连任，且为大胜。票数差距：蔡英文以二百多万票（约260万票量级）大幅领先韩国瑜，韩国瑜居次、宋楚瑜第三且得票远低。立委席次：民进党维持过半单独执政（六十席上下），国民党居次约三十余席，民众党等小党分得数席。应期即2020年1月11日投票日开票即定。",
+ "basis": "问于2019年12月29日辩论会后、选战最后两周：蔡英文现任优势与选情走势已明显领先，韩国瑜声势自年中高点持续下滑，此为占题给定事实，按事实优先序取与局势相合之断。蔡1956年生、2020庚子年流年对其格局为收成之年；韩1957年生，庚子年冲动其根基，声势先盛后衰。票数与席次量级按当时民调差距足级给出，不作无据降格。",
+ "confidence": 0.8,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "八字/流年运势（现代命理师选举断法，事实局势参断）"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

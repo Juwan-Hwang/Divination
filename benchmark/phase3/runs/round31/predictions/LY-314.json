@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-314",
+ "prediction_text": "有鬼神为祸，且是隐伏不显之鬼。官鬼酉金伏于三爻妻财辰土之下，飞神辰土生伏神（土生金）、日辰辰土又生之，主鬼得土生而潜藏，与宅土、饮食供奉之处相牵；其位在酉，主西方、金类之神祟。子孙巳火虽相而静、世父母子水休，制鬼无力，病因不在药石先在鬼祟未解。应期双层：窗口为伏神待出之一旬，主坐标取酉日（伏官逢值出伏之日，鬼象显明/作祟见端）。近段鬼伏病缠不显，远段酉日出伏后方可论送解，一段终局：确有鬼神为祸。",
+ "basis": "用神候选枚举：卜鬼神以官鬼为用，现卦无官，变爻无（静卦），日月寅月木、辰日土皆非金亲不列，入伏神：官酉金伏三爻财辰下，候选唯一以伏定主，changed_main=false；无落选空破候选reserve_used=false；取用序明确disputed=false。飞伏清单：伏酉金寅月死、无月扶，但飞辰土死于春且生伏、日辰辰土生伏，飞伏四项：伏得日生（弱）、飞休囚、动爻生伏无、冲飞无——待出未定，只断鬼伏存在不断已出。动化方向：静卦无动化。反转条件：伏神引拨四项不全（缺冲飞、缺动生），不翻转作鬼已显断。四路：本气-（伏官死月）／元忌仇0／动化0／世应不计（自占问鬼祟）→鬼以伏而得飞日生扶定存在。门类对表：疾病门类，官伏无对表愈期点，明写部分无此细目，按伏逢值取酉。对象复述（病占）：主语逐条复述为病人本人——鬼祟落于病人本人，与所问同一。输入残损：逐爻OCR错乱、占月日第一例未明记（以题面寅月戊辰日盘为准），降置信。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

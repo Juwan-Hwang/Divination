@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-215",
+ "prediction_text": "倾向判断：此次西征凶败、无功无荣（negative）。上升主土星无根（peregrine）且落陷居第二宫，主将帅本人势弱、军资受损；龙尾居上升为败头之象；月亮失势（detriment），离土星三合而入相刑火星，火星主其第二、第九宫，主军资、援军、远行皆受暴力冲损；福点受第七宫主（敌方主星）水星支配，主财势/胜机落敌手。终局为远征受挫、损兵失资、被迫困守/受困之局，将帅本人亦陷险境，非凯旋之局。应期（月档：战役进程以月）：窗口为1644年出征后本季数月内，主坐标为月内火星刑应最重的战役转折期（夏末至秋初）见决定性败挫。事件盘无求测者自选时刻、仅散述位置，置信据此微调。",
+ "basis": "事件盘按Lilly古典法：上升主土星陷落二宫+龙尾临升为将帅与军资双弱；月失势入相刑火星（主二/九宫）主远行与援资受损；福点归敌方主星支配主胜机在敌。盘面仅散述、无度数，应期定月窗。",
+ "confidence": 0.85,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western_astrology_event_chart"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

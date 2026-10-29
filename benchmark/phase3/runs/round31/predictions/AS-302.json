@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-302",
+ "prediction_text": "倾向判断：未来六个月疫苗有实质突破（positive对疫苗前景），但疫情本身不随之结束。2020年11–12月先有多款疫苗三期数据公布并显示高保护率、12月起获批并开打，木土合于水瓶（2020-12-21，科学/集体接种之新纪元象）为决定点；2021年1–4月接种逐步铺开、优先人群先行，同时供应与分配迟缓、病毒变异与新一波感染并存，六个月内是‘疫苗落地、疫情未清’。应期（月档）：窗口为2020年10月后六个月，主坐标为2020年12月疫苗获批开打。",
+ "basis": "西洋占星行运：木土大会合转入水瓶主科学成果进入公共分配；以2020年10月问时起六个月为尺度先定月档，再以木土合相日定主坐标。输入无疫苗盘面/试验数据，属残损输入，断语以行运节点与门类常理收束，置信中位。",
+ "confidence": 0.63,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

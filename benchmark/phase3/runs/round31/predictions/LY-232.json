@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-232",
+ "prediction_text": "方向：功名保不住，负向，出文伸枉反不利保名。官鬼寅木二爻静而休囚（丑月木休），子孙申金五爻发动化酉金化进，子孙为克官之忌、动而化进克官之势增长且得辰日土生；父母午火持世休死，文书一线无力护官。具体断语：所出文书不但保不了功名，子孙化进主对官星的冲克在金旺时坐实，功名被夺/受处分在申酉之期。应期尺度为月档，窗口为本年申酉月之前，主坐标取酉月（忌神化神酉金逢值、克官最足）为功名定谳之月；申月忌本支逢值为备选，舍因化进以化神值月为进势完成点。",
+ "basis": "动化方向：子孙申→酉化进，金克官木，忌化进凶向。反转条件无吉向链。四路：官本气-／子孙忌旺动化进-，合参负向。等级校准：官休囚无救，按弱级断为保不住，不拔高至死罪等题外等级。对象：官=功名，应验落求测者本人功名，同一。对表讼/上书无应期成文，明写无表，按化神逢值取酉月。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "三项皆false:忌神化进克官同向定主，无反转、无备用、无存疑"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

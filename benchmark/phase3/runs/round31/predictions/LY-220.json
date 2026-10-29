@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-220",
+ "prediction_text": "方向：兄弟可和好、且能得兄弟之济，正向。兄弟酉金三爻在申月旺相、得丙辰日土生，兄旺有气；父母未土五爻发动生兄、且化兄弟申金，文书/长辈一线动而归兄，主有中间人或长辈促合，兄弟之力可为我用；世爻父母辰土生兄，己方亦有趋就之意。具体断语：和好成于本月内，得济在金旺之时。应期尺度为月档，窗口为申月内，主坐标取酉日（兄弟酉金逢值）为和好得济定点；申日兄化神逢值为备选，舍因酉为用神本支逢值更正。",
+ "basis": "用神兄弟酉金唯一现卦旺相。动化方向：父未→申金化兄、生兄链成。反转扫查三类俱无。四路：本气+／元忌仇官巳火应休囚且申巳合不为有力克兄0，合参正向。对象：兄弟酉金=所问兄弟，应验落兄弟关系与得济，同一。对表无兄弟门类成文应期，明写无表，按逢值取酉日。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "三项皆false:用神唯一旺相、动化生用同向，无反转、无备用、无存疑"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

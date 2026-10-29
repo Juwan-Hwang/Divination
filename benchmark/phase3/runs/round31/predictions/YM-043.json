@@ -1,0 +1,19 @@
+{
+ "case_id": "YM-043",
+ "prediction_text": "占父身：父病危重，终局不治倾向。父母用神动而化回头克，病势直克用神本身，救路不显。应期以日为单位（近病日档）：窗口为占后旬内，主坐标取化神逢值之亥日为危期定点（父母午火化妻财亥水，亥水值日回头克力落实）。",
+ "basis": "六爻纳甲，艮宫山山艮六冲之山风蛊。代占父病以父母为用：二爻父母丙午火动，戌月火相入墓之月、日戊申金耗，相而带墓；动化妻财辛亥水，水克火为回头克，化神亥水克用神本身。世官鬼寅木甲辰旬空，生父之木临空，生扶落空。原神官木空、无力续生。动化方向：午火化亥水回头克无解；反转条件核：用神受回头克且原神空扶不成立，凶向维持。四路：本气0／元忌仇−／动化−／世应不计；合参危向。对象复述：主语为占者之父，同一。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

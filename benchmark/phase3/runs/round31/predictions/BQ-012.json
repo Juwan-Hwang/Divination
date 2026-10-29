@@ -1,0 +1,19 @@
+{
+ "case_id": "BQ-012",
+ "prediction_text": "倾向判断：倭寇不来（negative对‘寇来’）。占寇以官鬼为寇贼之用神，今鬼爻衰而静：衰则无力、静则不动，寇无发动之势，本期只有虚惊戒备、无寇兵临境之事。应期（月档/近警取旬月）：窗口为丙子日后本月内，主坐标为本月内终无寇至、警报自消。输入残损：仅卦名噬嗑与鬼爻衰静一象，无全盘，应期只定月窗，置信据此定0.70而非更高。",
+ "basis": "六爻寇贼门：官鬼为用，鬼衰静为不成事之定象，噬嗑卦象不改鬼之衰静。动化方向：静卦无动化。反转条件：无原神助鬼、无动爻生鬼之链，翻转信号无，不许以卦名噬嗑之口象另造寇至断。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

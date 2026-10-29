@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-211",
+ "prediction_text": "方向：寿元尚可、非即时大限，正向偏吉。世爻子孙子水虽休于寅月，得己酉日金生，动化兄弟申金回头生世且申为水之长生、亦为原神，根气未绝，故不断短寿。具体断语：本人寿元仍有年数可延，近段无性命之终；远段防土旺克水与冲世之年——应期尺度为年档（寿元门类，对表首选世休囚防冲克之年、动而逢合逢值之年），窗口为未来数年，主坐标取午年（午冲世爻子水）为最大关口之年，过午年则再延。忌神父母土两动只主此关之前病耗、牵连，不压回头生之根。",
+ "basis": "动化方向：世子水→化神申金：金生水，回头生，定性吉向；反转条件：源绝三征不齐（原神化申得日生、有根），不反转；破象过表：无空破真破。用神世子水寅月休、酉日生，四路合参：本气0/元忌仇土两动克世为-但未土化子泄土、戌土休于月，动化+；合参为有救偏吉。对象：所问对象=求测者本人，用神=世爻子水，应验对象=本人，同一。门类应期对表查寿元：首选冲克之年/动逢合逢值，取午冲子。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "changed_main=false:终局从动化回头生吉向；reserve_used=false:未用备用候选；disputed=true:忌神父母土两动克世与世化回头生长生方向相争，量级存争"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

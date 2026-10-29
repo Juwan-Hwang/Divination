@@ -1,0 +1,20 @@
+{
+ "case_id": "YM-070",
+ "prediction_text": "方向：仆不与友同行。仆本人将自行动身，朋友一方安静未动、不会随行；行程带闭塞迟滞。应期双层：窗口为卯月内，主坐标酉日——世爻逢冲之日仆起行，届时即见分晓（友不随）。",
+ "basis": "所问对象：占者之仆是否与友同行；用神：仆按奴仆类取妻财，世爻妻财乙卯木（仆）；友取兄弟壬申金（五爻）；应验对象：仆与友两人，分开断。世财卯木临卯月建旺相、丙辰日土虽泄而本气旺，主仆必行；兄弟申金静而安，月卯绝申、日辰土生之力有限，友无动象主未动不随；申金克卯木，世应外另有父母戌土应爻逢辰日冲，事有动散之象。天地否主闭塞不通、静卦无动爻，两人步调不一。动化方向：静卦无动化；反转条件：无动爻、无源绝，不反转。六合卦象只调量级（表面和合）不翻静爻动静之实：友静即不随。四路：本气世财+、元忌仇兄静不克成0、动化0、世应计（兼彼此之事）应土生世金?应戌土生申金不生世木记不计偏负；合参仆行而友不随。应期：世静逢冲取酉日，冲实/填实二路无空墓对象不取。",
+ "confidence": 0.42,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

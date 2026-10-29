@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-215",
+ "prediction_text": "方向：本年流年不利，负向偏凶，但有救不至大灾。世爻妻财辰土在寅月丁卯日休死受日月木克，兄弟寅木动化卯木化进克世，是全年主线：破财、竞争、口舌争竞。具体断语：年内寅卯木旺之时破耗最重；子孙巳火发动生世为原神救应，主有贵人/子孙福力消灾，故凶在财与争竞、不在性命。应期尺度为年档（流年），窗口为本年内，主坐标取卯月（兄化卯逢值、木最旺克世）为破财争竞最显之月；巳火生世之月只调量级、不改终局。",
+ "basis": "动化方向：兄寅→卯化进克世凶向；子孙巳火→未土，火生土生世为原神动生但化泄，量级有限；财未→酉金化泄。反转条件：源绝不齐，原神巳火午?在寅月相、得生，不反转终局。四路：本气世土-／元忌仇兄旺化进-、原神同动只抵量级，合参负向。对象：世=求测者本人流年，应验落本人，同一。对表：流年无专属门类条目，按三步定年档、卯月主坐标。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "disputed=true:原神子孙动生世与忌神兄弟化进克世同动相争；余false"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

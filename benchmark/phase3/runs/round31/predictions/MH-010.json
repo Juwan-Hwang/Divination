@@ -1,0 +1,22 @@
+{
+ "case_id": "MH-010",
+ "prediction_text": "方向：凶，主损折。此占为无风枯枝自坠之异应，主近处损折破耗之凶，不主吉庆：断语三条：①方位/对象——凶应兑方（西方）之树木与近处场所，树之枯枝既坠，主此树续有枯折、或西方邻近人家有器物坠损破耗（方位兑方、物品枯枝/器物）；②事象——变卦山泽损主损失减损，火泽睽主乖离孤绝，九四爻辞『睽孤，遇元夫』带厉象，断有一孤身之人或独户人家因此有惊耗口舌（人物为西方孤户之人）；③应期——窗口五日内，主坐标第四日，损折消息见分晓（时点，应期单位为日，依据动爻四与辰时数五合参取窗）。量级只断日常损折，不放大为占者本人大灾死丧；对象定位以树与兑方场所为主，占者本人只作见证不作应验主体，此点存疑故降置信。",
+ "basis": "本卦火泽睽四爻动：动在上卦离，故离为用、兑为体，用离火克体兑金为用克体凶；变卦山泽损，损义主减损折耗，与枯枝自坠之外应同向；互坎离水火交战主乖离。爻辞九四『睽孤，遇元夫，交孚，厉无咎』方向厉中带解，故断损折有惊而量级有限，不直断死丧。事实对回：戊子日辰时、无风而枯枝自坠于兑方，坠损之象与损卦、用克体相合，时令处境已逐项对回。应验对象复核：承受对象为坠枝之树及兑方场所，应验对象同为树/场所，非人对象按通则不默认回收到占者本人；孤户人物一条为睽孤辞象之旁推，定位较弱，已降置信。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "梅花易数（后天端法，体用生克）"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

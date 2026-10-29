@@ -1,0 +1,19 @@
+{
+ "case_id": "BQ-015",
+ "prediction_text": "倾向判断：其年年景凶歉、水患为主（negative）。卜年时以妻财为五谷收成，今妻财伏藏不现，主谷财不显、收成无着；应上父母发动主雨水过多，水鬼（水性官鬼）发动伤克世爻，主涝灾、疫病虫灾伤及一地军民之身，丰象全无。程度为明显歉年：夏秋雨涝最重，田禾被水、仓廪空虚，须防涝后疾疫。应期（年档：年时占以年为尺度，先定年不落日）：窗口为戊午年全年，主坐标为夏秋之交（午未申月）水涝与歉收见顶。输入残损：无全盘，应期只定年月档。",
+ "basis": "六爻年时门：财伏为收成无着，父母动主雨多，水鬼动克世主水灾伤民，三象同向定歉年。动化方向：水鬼与父爻动而化神未给，存疑不据化神另断。反转条件：财伏无引拨全链（飞神开+伏神有力未齐），不许翻转为后丰。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

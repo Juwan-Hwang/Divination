@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-304",
+ "prediction_text": "倾向判断：卡玛拉·哈里斯胜选，成为美国总统（positive对哈里斯）。胜势不在普选票大胜，而在关键摇摆州以窄幅拼图凑足选举人票，选举人票可达约306张量级，宾州等锈带州与内华达/亚利桑那中取其大半为胜负手；开票夜胶着、部分州迟迟不能定，但终局由哈里斯跨过270门槛。应期（月档）：窗口为2024年11月5日投票后数日内，主坐标为投票后一周内确认哈里斯当选、选举人票约306张。",
+ "basis": "选举占星：以候选人行运与选举日盘合参，女候选人一方得月/金与木星之扶成‘窄幅拼票过门槛’之局，对手声势强而选举人票拼图稍逊；具体票数按摇摆州拼图推至306量级。输入无两候选人完整出生时刻与盘面，属残损输入，票数与州别为推测级，置信下调。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

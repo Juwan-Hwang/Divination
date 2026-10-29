@@ -1,0 +1,19 @@
+{
+ "case_id": "LR3-116",
+ "prediction_text": "方向：射覆主断——袖帨中所包是一枚印章类硬物（玉石/石质小印）。发用丑土乘天乙贵人，贵人主尊贵印绶之物，丑为金石之库、土主方硬成形之器；中末两传皆亥水乘太阴重叠，太阴主蔽匿、私藏、小巧阴刻之物，亥水主其物色深、面上有阴文刻字之象。故断：一方小印，质地属土石玉类、形方、藏得严密，非散碎钱币、非柔软衣物。应期不适用（射覆无应期，此问只定物类）。",
+ "basis": "六壬射覆参断：以发用定物本体（丑土贵人）、乘传天将定物性（太阴双见主阴刻小物）。输入残损已注明：三传天干未载、原书未载旬空，八专课盘面不全，按快照第八节细断默认降一档处理——物类只断到『印章类硬物』层级，材质玉/石之间不强分，置信显著降低，不臆补尺寸与印文内容。",
+ "confidence": 0.35,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "大六壬"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuren.md"
+ ]
+}

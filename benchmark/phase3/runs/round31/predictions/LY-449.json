@@ -1,0 +1,20 @@
+{
+ "case_id": "LY-449",
+ "prediction_text": "终局：晴——风阴交过之后放晴，主应亥日。妻财卯木两现皆动主晴，官鬼巳火两现皆动主阴，两神交争；定局看化神：官鬼巳火动化子孙亥水，阴神化出晴神；妻财卯木化兄弟酉金，晴神化出风神，主晴前先有风。化神亥水得寅日合扶（亥寅合），阴化晴之路有据。应期双层：尺度日档，窗口为数日内，主坐标亥日（鬼化子孙之化神逢值），主放晴之日；此前为风多阴晴不定。",
+ "basis": "天时读法（L1-62）：财动主晴、鬼动主阴、兄动主风、子孙主晴。本卦四爻皆动，财鬼对峙。动化方向逐对核：卯木化酉金，化神酉金→卯木为克（金克木），晴神化出受克之风神，晴势有耗；巳火化亥水，化神亥水→巳火为克（水克火），阴神被化神回头克，即阴被晴制。动化定性：鬼被化神回头克、阴退；财化兄只主先风。反转条件：无全链。四路（天时借用）：财卯木辰月余气得日生合有气／鬼巳火辰月相而化神回头克之／动化晴向占先／世应不计；终局晴向。应期：逢值路取亥日，冲实路亥逢巳冲正冲鬼本爻、与逢值同支合流仍取亥日为主坐标（机制以逢值记），填实路无候选。对表无天时门类。对象对齐：所问何日晴—主据鬼化子孙—应验落天象，同一。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "终局主据官鬼动化子孙（变爻化神）定转晴，changed_main=true；未用伏神；财鬼两动对峙、化神裁局，故disputed=true。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "case_id": "LY-520",
+ "prediction_text": "方向：不得利——收貨囤積必被兄弟旺克妻財，主貨到手難脫、虧本劫財，不宜收。應期以月為單位：窗口為寅月當月內，主座標寅月（兄弟寅木臨月建逢值、劫財之應在本月）。",
+ "basis": "用神妻財候選枚舉：現卦同親兩現——戌土世靜、辰土靜；變爻無（靜卦）；日月寅木、亥水非土不列；現卦有同親不取伏。否決標記：戌土寅月木克為死、亥日水耗、靜（多候選互比記）、不空（己亥屬甲午旬空辰巳，戌不空）；辰土旬空命中、死、靜。互比戌居世且不空勝出定主，changed_main=false；辰土空落選，其填實辰月未入應期池（終局敗向應期取兄值之寅月），reserve_used=false；disputed=false。忌神兄弟寅木兩現臨月建旺、父母子水兩現生兄，劫財鏈旺盛；原神子孫不上卦無救。四路：本氣−／元忌仇−／動化0（靜卦）／世應不計（世即用神一線、應父生兄作量級）；合參敗向。終局反轉掃查俱無。囤貨門類應期對表：財休囚取出脫於生旺之時為次選——本斷終局為不得利，劫期座標按兄逢值取寅月，與對表劫財取法分清（此為劫期非得價期）。對象對齊：所問本人收貨之利／用神財戌世／應驗本人貨財，同一。本題應驗跨度月檔。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "主用世財戌勝空財辰、與首遇一致；辰土填實期未入池；取用可裁無存疑"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

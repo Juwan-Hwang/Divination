@@ -1,0 +1,19 @@
+{
+ "case_id": "BQ-014",
+ "prediction_text": "倾向判断：飓风不即止、行程近段不可行（negative对‘即止可行’）。天时占父母主风雨、今父母发动，兄弟主风云阻滞、亦发动，兄父俱动又合住应爻，主风雨交作且行路彼端被合绊，困之震为困滞中惊动之象；近段风势续存，返乡须候兄父之合被冲开、风雨停歇后才可行。应期（日档：风程近事）：窗口为丁亥日后一周内，主坐标为第五日左右风势明显减弱、合开可议行程，此前三日断不可行。输入残损：无全盘、无动爻化神，止风日只能定相对日窗，置信下调。",
+ "basis": "六爻天时/行程门：父母动主雨、兄弟动主风与阻，合住应爻主彼端绊住；困变震定滞中待动。应期以合住待冲开为路：合者冲开之日为止风坐标候选，取一周内渐止为主线。动化方向：兄父动而化神未给，存疑不据化神定性。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "无全盘与化神，止风应期须以合住待冲之备用路推定，故reserve_used=true；主断未改，changed_main=false；兄父同动同向主滞，无终局对冲，disputed=false。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

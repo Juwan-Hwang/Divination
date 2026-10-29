@@ -1,0 +1,20 @@
+{
+ "case_id": "LY-528",
+ "prediction_text": "方向：此墳地形勢不佳——父母應爻月破，主前方明堂／地氣有破損虧缺，葬之不利後人功名與家財；山勢本身（世兄臨日旺）尚硬，故斷地骨有力而明堂破、整體不宜。應期以年為單位：窗口為其後數年內，主座標未年（父母未土填實逢值之年，破象之應顯現）。",
+ "basis": "墳地用父母候選枚舉：現卦同親未土應靜、辰土初靜；變爻無（靜卦）；日月丑土同親與兩候選同土親並記旺衰、庚申日金非土親本體不另立；現卦有同親不取伏。否決標記：未土丑月土旺本有氣、但丑沖未命中月破、靜；辰土臨月旺、不破、靜。定主取應爻未土（墳地所問對象在應位、月破不徑舍承護欄），changed_main=false（首遇同親即未）；辰土無空破標記、落選所據為位分，不留應驗位，reserve_used=false；兩候選一破一旺、位分與旺衰互有勝負，取用存疑明寫，disputed=true。世兄弟申金臨日旺主來龍山勢有力（量級旁證）；子孫亥水為後人福澤，申月金生水相——福澤未絕，故整體斷不宜而非絕地。動化方向：靜卦無；反轉條件無。四路：本氣0（旺而破）／元忌仇0（官午靜、原神火靜）／動化0／世應計：應即所問墳地、應破為主象，世旺只調量級；合參以應父月破定不佳向。形勢事象：明堂破缺一項落實（父母應爻月破指前方地氣）。門類應期對表：墳地對表無此門類，明寫對表無此門類，按填實取未年。本題應驗跨度年檔（墳地久遠）。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "主用取應父未未變（月破不徑舍）；辰土無空破不留位；一破一旺互有勝負、取用存疑"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

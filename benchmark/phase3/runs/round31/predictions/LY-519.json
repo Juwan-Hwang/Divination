@@ -1,0 +1,20 @@
+{
+ "case_id": "LY-519",
+ "prediction_text": "方向：功名可保——軍糧被劫雖有罪責驚險，官位不至於丟：主斷保全，量級降為受申飭／罰處而非革職。應期以月為單位：窗口為未月後數月內，主座標戌月（官鬼戌土逢值、化神回生之力坐實）。",
+ "basis": "用神官鬼候選枚舉：現卦同親三候選——上爻戌土動、二爻丑土應靜、變爻辰土（初爻子孫卯動化出）；日月未土同親另記（與戌丑同土親、作旺衰證據不另立主）。否決標記：戌土未月旺、不空（戊申屬甲午旬空辰巳）、不破、動化巳火回頭生；丑土月破命中（未沖丑）、靜；變辰不空。互比戌旺動勝出定主，changed_main=false；丑土月破落選，其實破座標未入本次應期池（主座標取戌逢值），reserve_used=false；disputed=false。忌神子孫卯木動化官鬼辰土——忌化用：子孫之力轉化官親，按官得助論（裁決表第2步）。動化方向：戌土→巳火：火生土回頭生；卯木→辰土化出官親；反轉條件：源絕／化退絕俱不齊，不反轉。四路：本氣＋／元忌仇＋（財午生官、忌化用）／動化＋／世應計而同向（世父申泄土輕調量級）；合參成向、量級因軍糧已劫之事實降一格（事實優先序）。門類應期對表：功名保全無專門對表條目，按三步：沖實無空舍、填實無破主用舍、逢值戌月取中。對象對齊：所問本人功名／用神官戌／應驗本人官位，同一。本題應驗跨度月檔。",
+ "confidence": 0.64,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "主用戌土旺動勝月破丑土、與首遇一致；丑土實破期未入應期池；取用可裁無存疑"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

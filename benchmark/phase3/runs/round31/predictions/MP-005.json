@@ -1,0 +1,21 @@
+{
+ "case_id": "MP-005",
+ "prediction_text": "韩国瑜胜出机会被断为偏高：大师于初选胜出之际断其气势如虹、胜算在握，有当选总统之势。断语：韩挟初选大胜之气，2020年大选被看好能胜出，至少与蔡英文拉锯至最后且占上风；其胜负关键在其声势能否维持到投票日。本断从大师当时口径，不以选后结果改断。",
+ "basis": "问于2019年7月14日、国民党初选刚落幕且韩声势处高点：此时事实面只有韩流高涨、蔡方整合未显，现代命理师在此节点多顺势断韩旺。韩1957年生，2019己亥至2020庚子在其断法中被读为气运冲顶之年，故大师原断倾向韩胜算高。置信中等：因此断主要复现大师当时口径，与后来局势演变存在张力，已如实降置信。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "八字/流年运势（现代命理师选举断法，事实局势参断）"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

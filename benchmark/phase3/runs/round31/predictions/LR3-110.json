@@ -1,0 +1,19 @@
+{
+ "case_id": "LR3-110",
+ "prediction_text": "方向：正面——失马可寻回。末传巳火为癸卯日驿马（亥卯未马在巳），乘贵人居末传，马有贵人引领不主远逸；但巳火正值甲午旬辰巳之旬空，马落空亡主暂不见、待填实而出。寻方以末传驿马所临巳位定：向东南方寻。应期（日档）：窗口为出旬三日内，主坐标取乙巳日——巳火填实、马出空之日获马（癸卯后甲辰、乙巳，第三日）。中传戌土乘白虎主途中曾受惊窜，初传卯木乘朱雀主先得口头消息再得马。",
+ "basis": "六壬失物门：妻财巳火即马体兼驿马，末传乘贵人；应期走快照第七节优先序第1路『落空者先取出空填实』——巳空不当逢值，先取填实乙巳日，旬为窗口，与该节失马成例原型（末传驿马乘空、填实日获）同式。玄武不入传，藏处之家无据不报，只以马支定东南一方。",
+ "confidence": 0.78,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "大六壬"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuren.md"
+ ]
+}

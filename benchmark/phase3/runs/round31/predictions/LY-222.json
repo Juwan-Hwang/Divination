@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-222",
+ "prediction_text": "方向：尚有子嗣，正向，后可再得子。子孙酉金上爻静居卦首，申月旺相有气，辛卯日卯木冲酉为静爻逢冲——酉金旺而有气判暗动而非日破，子孙暗动主子嗣之机已动；妻财子水持世，财子相生一线亦通。具体断语：已失散之长子之外，求测者仍有再育之望，得子应在金旺之期；子孙临上爻、卦为地雷复，亦含旧子有复归消息之象，但主断落在再得子嗣一线。应期尺度为年档（子嗣非近事），窗口为未来数年，主坐标取酉年（子孙逢值）为得子之年；酉月为同支备选，舍因年档尺度优先。",
+ "basis": "用神子孙酉金唯一，旺相。日冲静爻暗动/日破裁决：酉金临月旺有气→暗动，生克计入。动化无（静卦），裁决表动化方向记无动化、反转条件无。真空假空不涉。四路：本气+／官寅休囚不克子孙0，合参正向。对象：子孙酉金=子嗣，应验落求测者子嗣，同一；长子失散为占题事实，已对回。门类对表无子嗣门类，明写无表，按逢值取酉年。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main=true:日冲表面为破，经暗动裁决改作子孙暗动主断；reserve_used=false；disputed=false"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

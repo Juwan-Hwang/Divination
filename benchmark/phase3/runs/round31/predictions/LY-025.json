@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-025",
+ "prediction_text": "雪将止、天将放晴，终局为晴。妻财卯木上爻发动化子孙子水——雨象之财化出晴神子孙，且化神子水临子月建旺，晴神出而得令。应期尺度为日档（天时近问）：窗口为一二日内，主坐标子日——化神子孙子水逢值之日放晴（己亥日次日即子日）。晴后量级：子水临月旺主晴而寒，雪止天寒，不主回暖。",
+ "basis": "六爻天时占何日晴，以子孙为晴之主神。子孙不上卦先查变爻：上爻财化子水正是子孙之亲，按用神章次序变爻有用神不取伏神，定变爻子孙为主神。动化方向：卯木→子水，木生水无克，财化子孙、化神临月建旺，定性向晴。应期三步：逢值子日取（化神值日）；填实无空（己亥属甲子旬空戌亥，子水不空），舍；冲实无闸门，舍。天时对表无何日晴门类成文，明写对表无此门类，按三步取化神逢值。对象：晴应于天时本身，所问与应验同一。",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "妻财动化子孙且化神临月建，动化链直接定晴局与子日应期"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

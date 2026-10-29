@@ -1,0 +1,19 @@
+{
+ "case_id": "LR3-101",
+ "prediction_text": "方向：负面——此次会试不中。蒿矢课为遥克发用，遥克总象『所卜难成、力弱难任』；初传酉金官鬼乘天后克乙木日干，金在二月囚、克力虽不烈却占名分之先，中传戌土妻财乘太阴暗耗，末传亥水父母（文书试卷）乘玄武居末，主卷名暗昧、文书不显，朱雀文章之将不入三传，声名无凭。断名落孙山，榜上无名。应期（月档）：窗口为今春放榜之季，主坐标取辰月——放榜月见落第分晓。",
+ "basis": "六壬考试门：取父母文书与朱雀文章为主，朱雀不入传、父母亥水玄武居末暗昧；从魁酉虽在初传，却作官鬼克日而非生扶日干，不合『从魁生扶主有榜』之式。蒿矢连茹按九宗与课格主向取难成。空亡辰巳为旬空，巳午落空不作空。年命未给，不报具体名次。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "大六壬"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuren.md"
+ ]
+}

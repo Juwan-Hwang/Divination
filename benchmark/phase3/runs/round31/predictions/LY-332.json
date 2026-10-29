@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-332",
+ "prediction_text": "会试能中。父母未土四爻持世而动，化出官鬼午火——文章发动直接化出功名，且化官午火临庚午日建之值，得日扶而有力；官鬼巳火两现静守为名位之根，世父动化官回头得生（午火生未土），主试后名成。应期双层：尺度日档兼月内榜期，窗口为本月榜期之内，主坐标取午日（化官逢值临日之日，发榜见名）。一段终局：中式。",
+ "basis": "用神候选枚举：官鬼现卦两现——巳火五爻、巳火二爻俱静；变爻午火（世父未化官）同亲列出；日月辰月土、午日火亲列出（与化官午同支并记）；用神上卦不取伏。标记：现官巳火辰月相、静、不空不破；化官午火临日建旺、无空破。互比：题面明定官鬼午火为用——化出之官临日值、且为世动所化之主线，胜现卦静巳，定主化官午，主用异于现卦首遇，changed_main=true；巳官两现落选无空破标记、不留应验位reserve_used=false；胜负落点明确（临日+动化链）disputed=false。动化方向：父母未土→官鬼午火，火生土为化神回头生世父、且化出用神亲（父化官）；妻财卯木→父母戌土为旁线化泄。方向定性：父化官为成名吉向。反转条件：无全成立反转信号。四路：本气+（化官临日）／元忌仇+（子孙不上卦不能剥官、父动生官链成）／动化+／世应不计→合参成。门类对表：发案类父为用神『动者逢值逢合之日』，化官午逢值午日点在候选内取中；官星持世一路本例世为父母不合，舍。对象对齐：所问=本人会试，用神=化官午，应验=本人功名，同一。",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "/home/hatch/workspace/divination/benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

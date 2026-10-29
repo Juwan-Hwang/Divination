@@ -1,0 +1,20 @@
+{
+ "case_id": "WP-008",
+ "prediction_text": "方向：莫迪领导的 BJP/NDA 获胜并连任执政。NDA 跨过多数门槛、莫迪续任总理，胜势明确而非勉强组阁；计票日 2019 年 5 月 23 日即见分晓（月档以 2019 年 5 月为应期坐标）。",
+ "basis": "输入无任何候选人出生盘，只能按快照西洋占星篇的世运/时势读法结合题面事实定方向：现任者声势与执政连续性占优、反对阵营未能形成单一替代中心，故断执政联盟连任。无星盘可排，星体×宫位×尊贵回扣无从落实，已据此降置信并在 basis 注明此残损。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md"
+ ]
+}

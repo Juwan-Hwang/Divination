@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-210",
+ "prediction_text": "倾向判断：能得所求之职（positive）。月亮居第十宫（官位宫）且入相拱土星，土星在上升得擢升、与求测者主星金星互容接纳，主有权位者接纳并授予此职，非空求；但第十一宫主太阳居第七宫冲上升且带龙尾，所托之‘太阳型友人’实为公开之阻力/假友，不可恃其力，得职靠土星型长上而非此友。应期（月档，先定尺度：升迁仕途取月）：月亮入相拱土星为成事路，窗口为占后三个月内，主坐标为第二个月内授职消息落实。输入残损：无具体度数与完整盘面，应期只能定到月窗，置信据此下调。",
+ "basis": "Lilly卜卦法：求测者=上升+金星，所求=第十宫；月居十宫入相拱土星、土星擢升于上升且与金星互容，为授职成象；太阳主十一居七冲升带龙尾断假友/敌。动化方向：不适用（非六爻）。反转条件：不适用。依据快照SKILL自决表‘具体一事成败→占星古典整宫互参’与西洋篇古典尊贵/接纳规则。盘面仅有题面散述位置、无度数，basis注明残损。",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western_horary_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

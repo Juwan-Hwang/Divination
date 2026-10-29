@@ -1,0 +1,22 @@
+{
+ "case_id": "MH-009",
+ "prediction_text": "方向：凶，主鸡见血被杀。鸡虽有『无咎』之辞，然量级守恒条定：畜类存亡而盘面见血象时，血象定性优先于爻辞表面吉语，不得软化为平安无事。断语三条：①对象——厄应鸡本身，不落其主人（对象，鸡属巽即所占对象）；②事象——六四爻辞『有孚，血去惕出』主见血惊惕，合鸡声极悲怆之外应，断鸡将为人捉杀烹食、见血而死，多因有客至（有孚）需宰鸡待客（物品/事象为鸡被烹杀）；③应期——窗口四日内，主坐标次日，客至杀鸡之事即发（时点，应期单位为日，依据动爻四与晨鸣急象）。无咎只调节量级为一鸡之杀，不放大为人家大祸。",
+ "basis": "本卦风天小畜四爻动：动在上卦巽，故巽为用、乾为体，体乾金克用巽木，金克木主刀刃制物，指向鸡受制于人手；变乾为天，金势纯旺克木之象不解。爻辞六四『有孚，血去惕出，无咎』：辞中血去为见血实象，按快照量级守恒『血象、杀象定性权重优先于爻辞表面吉语』定性为烹杀，吉语只调量级不翻转定性，此取舍已明写。事实对回：鸡鸣于乾方、声极悲怆，与金克、血象相合。应验对象复核：承受对象鸡，应验对象按巽（鸡）指代链同为此鸡，同一。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "梅花易数（后天端法，体用生克）"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

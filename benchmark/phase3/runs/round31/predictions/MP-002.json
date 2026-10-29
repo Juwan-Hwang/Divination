@@ -1,0 +1,21 @@
+{
+ "case_id": "MP-002",
+ "prediction_text": "蔡英文连任前景先低后高、终能胜选连任，民进党会赢。2019年初为其运势低谷（地方大败余波、党内杂音），断语为：上半年蹇滞、年中后运势翻转回升，年底选战定盘时后来居上，2020年1月胜选连任；胜幅不至压倒性大胜，属先险后稳之胜。",
+ "basis": "问于2019年1月、蔡刚经九合一大败的低谷时刻：事实只支持近段低迷，不支持终局败亡——现任总统根基未断。按两段式：近段（2019上半年）蹇滞，远段（2019下半年至2020年1月投票）触发为流年转入对其有利之势、对手方自乱，方向翻为胜选。等级与强度同级：断连任成功但非大胜，压制依据为初问时民调与党内整合未定，已写明。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "八字/流年运势（现代命理师选举断法，事实局势参断）"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

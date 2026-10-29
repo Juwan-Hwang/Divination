@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-307",
+ "prediction_text": "倾向判断：受访职业占星师的共识指向哈里斯胜选（positive对哈里斯），本断从共识方向：哈里斯以选举人票过270门槛当选，女性候选人得月象与选举日盘之扶，摇摆州拼图以窄幅成局；特朗普声势与普选竞争强，但终局票图稍逊。应期（月档）：窗口为2024年11月5日后数日内，主坐标为投票后一周内确认哈里斯当选。",
+ "basis": "选举占星群体表态题：以多位占星师共用之选举日盘与候选人行运口径合参，共识落在哈里斯一方；本例所问为公开表态之赢家，故按共识主线落断。输入无各占星师名单与原盘，属残损输入，置信下调。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "LY-005",
+ "prediction_text": "方向：正面——乡试可中。用神官鬼申金五爻发动，申月临月建旺相，动化官鬼酉金化进神，进神得月建本气、化神酉金旺相有力；父母亥水居四爻得官金相生，文书有源，世爻官鬼酉金临身，功名与己相合。断此次乡试得中，名次不作妄报。应期（月档，发榜门类）：窗口为今秋榜期，主坐标取酉月——化进之官酉金逢值之月发榜见名。",
+ "basis": "六爻功名取官鬼为用、父母为文书辅：官申金临月建动化酉金，化进证据链——化神得月旺、卯日冲酉为有根之冲实非日破（裁决表第4步：破而有根、逢值待出）。动化方向：申金→酉金同类化进，无生克反读；反转条件不齐备。发榜门类应期对表：父母亥水静而相，逢值冲一路与官化进酉月一路尺度同为月档，取与终局自洽的化神逢值酉月为主坐标，亥日一路尺度不合舍之。世应路：世即官星，已并入路1不重复计（四路合参路4不计）。",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "用神官鬼申金动化酉金化进，终局由动化进神主导，changed_main为真；用神现卦发动，不用伏神；取用唯一，disputed为假。"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

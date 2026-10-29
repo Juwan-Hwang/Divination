@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-009",
+ "prediction_text": "方向：狗能找回。寻觅方位：以主人居处（Temple Bar 一带）为心，向城之西、偏南而近西的方位搜寻；狗仍在伦敦城内（狗征星与上升同三方性主不离本城），且狗征星入相拱第6宫头、太阳于次周一入相土星（上升主），主有寻获/送回之机。应期：以日为单位，窗口为数日内，主坐标在随后周一前后得消息或找回。狗征星居西方星座、南方象限偏西，月亮居风象、日光之下主狗曾躲避/被人收留遮蔽，非已死远走。",
+ "basis": "第6宫小畜占：6宫主示狗，方位取征星所居星座象限（西、南偏西）；同三方性定不出城；入相第6宫头与日—上升主入相为寻获链。输入盘面多处字形残损（OCR garbled），方位与应期置信下调，不臆补街区名。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology (Lilly, classical)"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

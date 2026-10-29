@@ -1,0 +1,20 @@
+{
+ "case_id": "LY-531",
+ "prediction_text": "方向：僕將歸——行人用神妻財亥水月破而臨日建，逢破不破、破待填實，主歸期不遠。應期以日為單位：窗口為本旬十日內，主座標亥日（用神填實逢值之日，僕到家）。近段兄爻兩動化進主在途有阻滯，歸象在亥日坐實——終局單判為歸。",
+ "basis": "輸入殘損註明：attached chart_note 明言逐爻表OCR行序錯亂，所附列與另欄（巳月丁亥日、空亡午未、用神妻財亥水）可互證者作斷並降置信。用神妻財候選枚舉：現卦同親亥水四爻靜、子水初爻靜；變爻化父母午巳非財；日月巳火、亥水——亥水日支同親與現卦亥同支並記臨日證據；題面明定亥水為用神，從之定主，changed_main=false；子水落選無空破標記（空亡午未不及子），不留應驗位，reserve_used=false；disputed=false。亥水巳月沖為月破一項、但臨日建有根——破象過表：有根＋逢值填實之路在，作待實之破不斷不歸。兄弟未辰兩動化進（未化戌、辰化丑皆土進）主途中阻滯調量級。動化方向：未土→戌土、辰土→丑土同親化進（阻力進非用神動化）；反轉條件不涉用神，不反轉。行人門類應期對表：用神月破待填實、逢值——亥日同點取中；近行日檔（對表遠月近日、此為近行）。對象復述（行人類）：主語逐條為僕——僕將歸、僕到家亥日，同一。本題應驗跨度日檔。四路：本氣0（破而臨日）／元忌仇0（兄動阻而非克財主線）／動化0／世應不計（代問行人看用神）。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "主用從題面明定財亥、與首選一致；子水無空破不留位；取用無存疑"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "YM-024",
+ "prediction_text": "占晴：目下仍阴雨未晴，数日内放晴。应期以日为单位（天时近事日档）：窗口为占后五日内，主坐标取子孙逢值之酉日晴（子孙己酉金持世，晴象之主，待其值日得用）。",
+ "basis": "六爻纳甲，艮宫火泽睽之火水未济。天时占晴以子孙为晴、父母为雨：父母巳火两现且午月旺，雨象当前旺；子孙己酉金持世，午月死、待值。初爻父母丁巳火动化官鬼寅木，雨爻动而化非雨之官，雨势有转化之路；世子孙虽弱而居晴位。两段式：近段雨、远段（数日内）晴，远段触发为初爻雨爻动化他亲、雨势不静守。应期三路：逢值取酉，冲实填实无空爻可取，舍之。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

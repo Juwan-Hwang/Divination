@@ -1,0 +1,19 @@
+{
+ "case_id": "BQ-010",
+ "prediction_text": "倾向判断：谈朝辅此讼不成、主败/无功而终（negative）。占诉讼以父母为状纸文书与官府凭据，今父母空亡，主诉状无力、证据落空、官府不凭此纸定案；本卦蒙变未济，未济为事未成之终象，讼终不能成局，多为拖延后不了了之或判负。应期（月档：无占日可考，诉讼取月）：窗口为父母出空填实后之一月内见分晓，主坐标为父母填实之日官府给出不利/驳回之定论。输入残损：无全盘、无确切日期，应期只定相对填实坐标，置信下调。",
+ "basis": "六爻诉讼门：用神父母空亡为文书无力之主象，变未济定未成终局。动化方向：蒙之未济无单爻动化可核，记无动化定性。反转条件：父母空而无全盘，不能核出空救应三项，不许以空待出翻转终局，只作未成断。门类应期：诉讼门以文书填实为分晓点。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "全盘缺失，仅父母空亡一主象加变卦未济，须以备用路（变卦终象）补足终局，故reserve_used=true；主断未改，changed_main=false；无对冲信号，disputed=false。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

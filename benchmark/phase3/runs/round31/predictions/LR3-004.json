@@ -1,0 +1,19 @@
+{
+ "case_id": "LR3-004",
+ "prediction_text": "方向：正面——功名可得，前程有官。初传亥水乘螣蛇主先有惊疑虚扰，中传卯木乘玄武主中途阴私暗阻，末传未土乘青龙归于日支、喜庆得位；三传亥卯未结曲直木局，木为己土日干之官星，官星成局向身，曲直主举直得用。应期（月档）：窗口为本年夏秋，主坐标取未月——末传青龙未土逢值、官局得合之月见授官佳音。",
+ "basis": "六壬仕宦门：取官鬼为功名本体，亥卯未木局官星成局且末传青龙乘未与日干日支同土归身；螣蛇、玄武只主过程惊疑与暗阻，乘休囚不压官局终局（承仕宦门条目8-1逆象只同档减力口径）。子丑旬空不入传课，无空亡压制。年命未给，迁期年命一路无据，只以传局逢值取月档应期。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "大六壬"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuren.md"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "case_id": "WP-013",
+ "prediction_text": "方向：工党在 2024 年 7 月 4 日大选中大胜，基尔·斯塔默出任首相。工党以大幅多数单独执政，保守党惨败下台；应期坐标为 2024 年 7 月 4 日计票当夜。",
+ "basis": "题面事实约束优先：工党民调领先约二十分、执政党首相又有失分事件，势头单向收敛；选举落在巨蟹座太阳期只作时令旁证，不压事实。方向与量级（大胜而非险胜）同级给出，置信为本批 WP 最高。",
+ "confidence": 0.76,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md"
+ ]
+}

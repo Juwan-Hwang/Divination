@@ -1,0 +1,19 @@
+{
+ "case_id": "YM-038",
+ "prediction_text": "占子病：子病可愈。子孙旺相临月、能克病鬼，病去而安。应期以日为单位（近病日档）：窗口为占后旬内，主坐标取子孙逢值兼冲病之期，以子孙戌土逢冲之辰日为愈期定点（辰戌冲，冲病滞而子孙得动）。",
+ "basis": "六爻纳甲，离宫天火同人，静卦。代占子病以子孙为用：子孙两现，上爻壬戌土应临戌月建旺相、二爻己丑土，取临月者为主用，旺相有根。官鬼己亥水持世为病象，亥水戌月囚、被子孙土克，病受制。静卦无忌神发动克子孙，原神火静而土自旺。四路：本气＋／元忌仇＋／动化0／世应不计；合参愈向。对象复述：主语为占者之子（己亥生病者），同一。疾病对表：用神旺静，取逢冲之期合表意。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

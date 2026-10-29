@@ -1,0 +1,19 @@
+{
+ "case_id": "AS-211",
+ "prediction_text": "倾向判断：马可找回（positive）。马主星第十二宫主逆行且趋合求测者财物宫第二宫主星，主马自归/被人送回至主人财物范围；月亮居第二宫、二宫头附近又有两颗逆行星，同为‘复返’叠象。方向：第十二宫星座与其主星所在星座众象皆主西——马向西去、向西寻可得。应期（日档：失物近事以日为尺度，题面支持日级）：窗口为数日内，主坐标为三日内在 Henley 以西方向寻回/得讯。第七宫受克为曾被人牵走/经手之象，但终局仍归复返，不作失脱断。",
+ "basis": "Lilly失物法：第十二宫主为马之主星，逆行趋合第二宫主=失物返回主人财物宫；月在二宫、逆行星临二宫头加重返回；方向以第十二宫星座及主星星座众象定西。输入无完整盘面与度数，应期只定日窗。",
+ "confidence": 0.75,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western_horary_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-astro-numerology-runes.md"
+ ]
+}

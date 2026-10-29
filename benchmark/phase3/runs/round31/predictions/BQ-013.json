@@ -1,0 +1,19 @@
+{
+ "case_id": "BQ-013",
+ "prediction_text": "倾向判断：久雨不晴、雨势续盛（negative对‘放晴’）。天时占以父母为雨，今随之咸，申、子两爻俱动，与日辰申合成父母局，雨之用神成局发动，主阴雨成势、连绵不止，非一晴即止之象。近段三日内雨仍密，须待父局被冲散才有转晴路。应期（日档：天时近事以日为尺度，题面为五月甲申日近占）：窗口为申日后五日内连雨，主坐标为辰日三合局齐、雨势最盛；转晴不在此窗内，待冲申之寅日后才可议晴。输入残损：无全盘，晴期只能定到冲局之日的相对坐标。",
+ "basis": "六爻天时门：父母主雨，申子动合日辰申成父局为雨成局。应期三步：尺度日档（天时近事）；三路候选——填实不适用（无空爻明文）、逢值取辰日局齐雨盛、冲散取寅日冲申为晴路；取一舍二：终局主雨，故取逢值辰日为主坐标，冲散路舍为窗外转晴条件并写明。动化方向：申子两爻动而化神未给，方向存疑，不据化神另断。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "无全盘且化神未给，晴雨终局须以父局成势之备用象补足，故reserve_used=true；主断未改，changed_main=false；父局与变咸无对冲终局信号，disputed=false。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

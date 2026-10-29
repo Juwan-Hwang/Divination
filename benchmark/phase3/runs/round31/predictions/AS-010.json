@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-010",
+ "prediction_text": "方向：仆人向西、偏南方位出走；且能返回/被寻回，多半自行归回。仆人专征星水星居西方星座、南方象限，出走时月亮亦在西方星座且仍同座，主去向西行未远改向。月亮居第2宫自家（巨蟹）、仆星与上升主急趋成三合且出角宫，主归意已动、归程顺。应期：以日为单位，窗口为出走后数日内，主坐标数日之内归回或得确信。主人一方上升、上升主与月亮同聚上升一带，主主人终能收回此人，非永失。",
+ "basis": "Chap. LXI 行人/逃仆法：方位取仆星与月亮共同西方定西、南方象限定偏南；三合急趋为返回主证；只给方位与归期，不臆补具体城镇。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology (Lilly, classical)"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

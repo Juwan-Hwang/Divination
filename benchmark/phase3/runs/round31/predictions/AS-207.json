@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-207",
+ "prediction_text": "方向：Laud 大主教将死于公开处决——被利器斩首而死，非老死狱中、亦非毒或绞。其宫（以第9宫头为教会高位者之升）之主土星陷弱（fall）、久逆行、居全盘第12宫（囹圄）主先长期囚禁；月亮离土星入相太阳、太阳近第8宫（死宫）头，太阳居火象入相冲火星（其主宰星），火星居风象人形星座、月亮距火星本体尚差7°，主死由刀斧加于颈首、行刑者为人手公开行刑；7°主应期以月/年档内计——囚后经时而后行刑，不作旦夕论。死式单判：斩首。",
+ "basis": "火星为利器、风象人形座主公开由人行刑、太阳近8宫头与火土链主暴力横死；土星 fall+12宫定先囚后刑。此为本纪元史实可对之断，只据盘面落断：斩首而非其他死法。",
+ "confidence": 0.78,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology (Lilly, classical)"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

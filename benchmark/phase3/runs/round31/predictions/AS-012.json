@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-012",
+ "prediction_text": "方向：得不到所求教职（parsonage/benefice）——纵然强行进求亦不成。七重否定俱全：土星受损居上升先伤其问；第9宫主木星（教职征星）与上升主、与月亮皆无相位；上升主与月亮皆不在第9宫；无传光、无集光、征星间无接纳；月亮离三合而入冲第3宫主水星、金星居第7宫冲上升。无一条成事链，终局单判为不成，不必候应期。",
+ "basis": "Lilly 本人列举的七项否定证言逐项即在题面附件中，无一成事机制可取；按等级校准，无救不拔高，断绝望于此职。",
+ "confidence": 0.88,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology (Lilly, classical)"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

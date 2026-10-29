@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-206",
+ "prediction_text": "方向：能嫁成所慕之人——婚事终成，惟过程有迟滞与女方一时失势之难。女方征星水星逆行且伏于日光（under beams）主她当下声势弱、进退失据、心意难直达；男方征星擢升、近六合金星，主男方条件高、姿态高、且曾与他人暧昧周旋。然两征星成半六合且同居善宫，月亮离木星之刑、携其光以三合传给上升主水星——传光成链，把分开的两方重新接上。终局为成婚；应期无题面日级成相可据，以月为单位，窗口为数月内议定，不硬报某日。",
+ "basis": "传光（Moon 携 Jupiter 光三合 Mercury）为成事决定链，压过水星逆行伏日的迟滞象；迟滞只降速度与女方主动权，不翻终局。男方擢升定其身价高、女方须迁就其条件。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology (Lilly, classical)"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

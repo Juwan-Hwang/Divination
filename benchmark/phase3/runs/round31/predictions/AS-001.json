@@ -1,0 +1,20 @@
+{
+ "case_id": "AS-001",
+ "prediction_text": "方向：儿子不在主人（master）处，而在母亲自己家里。子之征星木星（第5宫主）正落在上升点（母亲之宫、东角）——所寻之人临于问者之宫即在其家；消息/相见应在1638年7月25日下午2时前后母子征星三合完成之时落实，窗口为7月下旬数日内，主坐标7月25日。",
+ "basis": "上升天秤25°，上升主金星为母；木星为第5宫主即子，居上升角宫为最强定位证据，主「子在母家」；月亮在双鱼27°入相六合第4宫主土星（母之居所），同指家居而非主人家。输入仅给散文盘面、无全盘，定位据此二证。",
+ "confidence": 0.78,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary astrology (Lilly, classical)"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/PROTOCOL.md"
+ ]
+}

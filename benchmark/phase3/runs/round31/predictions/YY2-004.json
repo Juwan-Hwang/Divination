@@ -1,0 +1,19 @@
+{
+ "case_id": "YY2-004",
+ "prediction_text": "方向（弱倾向）：寿尚不至近终，短期内无可定的终期——变卦得雷天大壮，壮盛之象未见即绝之据；但本卦既缺，寿数长短与终期之年无据不报，不给具体寿年/岁数。应期：年档亦无据定点，明言终期无据、只作『丙寅年内非终期』一段终局，远段无据不报。",
+ "basis": "输入严重残损：本卦名原书版面即缺字（得□之大壮），moving_lines与chart_lines_top_to_bottom均为null，本宫、世应、六亲、动爻皆无从定，用神（世爻）无法枚举、旺衰与寿元门类应期对表无从执行；仅知占时丙寅年丙申月丁巳日丙午时、空亡子丑及变卦为坤宫雷天大壮（四世）。按残损不臆补原则，只据变卦大壮卦象作弱倾向（壮而未衰），不装盘、不补动爻、不定终年，并大幅降置信。",
+ "confidence": 0.25,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "disputed=true：本卦缺字、逐爻与动爻不可补，取用与旺衰无法核实，作断存疑；changed_main=false：无动化盘面可核，不记改向；reserve_used=false：未取伏神/变爻等备用候选臆补。"
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

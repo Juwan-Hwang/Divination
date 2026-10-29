@@ -1,0 +1,20 @@
+{
+ "case_id": "MP-017",
+ "prediction_text": "断：下届香港特首由女性出任——即当时改口重新考虑参选的政务司司长林郑月娥胜出，2017年3月26日选举委员会投票定局。男性候选人（曾俊华一系）民望虽高，终不敌建制与北京取向所归的一方。应期单位：月（2017年3月投票日落定，依据为选举日程本身）。",
+ "basis": "输入残损：无任何候选人面相照片、出生时辰或卦盘，只有选举日程与当时形势（梁振英不连任、曾俊华已辞职备选、林郑月娥改口将重新考虑参选）。故不作面相/排盘之断，只按形势与职位结构自决：特首由1,194人选举委员会产生而非普选，决定权在建制取向；女性一方身居政务司司长、为现任体制第二人且刚由不选转为考虑参选，此转折本身即得中央默许之信号，形势上压过已辞职的男性候选人。据此定女性出任，置信因无盘面而降。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "时势形势占断",
+  "八字年命辅参"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-bazi-ziwei.md"
+ ]
+}

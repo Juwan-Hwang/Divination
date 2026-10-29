@@ -1,0 +1,20 @@
+{
+ "case_id": "WP-010",
+ "prediction_text": "方向：民主党拜登赢得 2020 年美国总统选举。拜登在选举人票与普选票两路均胜出，特朗普连任失败；应期坐标为 2020 年 11 月 3 日投票日当周（月档定在 2020 年 11 月）。",
+ "basis": "输入只给出拜登天蝎上升的印度占星口径一语、无完整本命盘，按快照纪律不混恒星/热带黄道硬排；据题面民调拜登领先且挑战者势头收敛于其一人，世运方向取挑战者胜、现任落败。盘面输入残损，降置信。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western_astrology"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/western-astro-numerology-runes.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "LR3-114",
+ "prediction_text": "方向：负面偏轻——半夜鸦鸣主小凶之兆，先惊后安，无大灾。重审课先迷后利；三传子亥戌退茹递退，初传子水乘太常主庵中僧众饮食起居之事，中传亥水乘玄武主暗昧虚耗、阴人暗事，末传戌土乘太阴主事终蔽匿不明；子亥水父母生日干乙木，身有生扶，故凶不伤身。断近日庵中有一桩暗昧惊扰：或阴人（女眷/夜来人）病耗消息，或小物遗失、口舌虚惊，数日自消。应期（日档）：窗口为三日内，主坐标取亥日——中传玄武亥水逢值之日应其事。",
+ "basis": "六壬应候/杂占参断：以三传天将定兆之性质——太常、玄武、太阴叠见，主饮食起居层面的阴私暗事，非兵丧大凶；日干乙木得子亥双水父母生扶，按等级校准只断小凶不拔高。占时为亥时夜占，事实优先已对回。三传干支完整，年命未给不作个人寿夭之断。",
+ "confidence": 0.45,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "大六壬"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuren.md"
+ ]
+}

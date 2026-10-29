@@ -1,0 +1,20 @@
+{
+ "case_id": "YM-005",
+ "prediction_text": "方向（单一终局）：占官得成，有迁转之喜。世爻妻财寅木发动化出官鬼巳火，世动化官、财生官成链，官职到手；应期双层：窗口为子月后数月内（月档，仕途迁转），主坐标取午月——官鬼午火逢值当令之月落实。",
+ "basis": "用神官鬼戊午火四爻：子月水旺火死为月克之弱，但日辰戊寅木临值生火，原神即日辰临身，旺衰以日月同功论得强援；世爻妻财戊寅木初爻临日发动，化官鬼丁巳火，木生火、世化官且与用神同气，化出之官得月子水克而待午月值。忌神子孙丁亥水应爻静而不动，克官无力。变卦六冲自困变兑只主过程多动、终局从世化官定成。动化方向：世财化官为生官成链、吉向定性；反转条件：无化退化绝无生扶之局，不反转。对表无仕途迁转专条，明写对表无此门类，按逢值路取午月。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md"
+ ]
+}

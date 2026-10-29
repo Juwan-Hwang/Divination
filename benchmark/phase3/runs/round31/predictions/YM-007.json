@@ -1,0 +1,20 @@
+{
+ "case_id": "YM-007",
+ "prediction_text": "方向（单一终局）：出门之子尚在人世、存活无恙。虽一时无确讯，人身安全，后有音信；应期双层：窗口为本旬内（日档，存亡消息属近事），主坐标取亥日——变爻子孙亥水逢值之日得确讯。",
+ "basis": "用神子孙不上卦，变爻有子孙：四爻世父母辛未土动化子孙丁亥水，按变爻优先于伏神取变爻子孙亥水为用。亥水申月得金生（相）、日辰丙子水同气帮扶，子孙旺相有气；上爻妻财卯木动化父母未土，不克子孙之水。官鬼巳火两现静而不动，无克子之凶链。子孙旺而临变、得日扶，存亡断存。对象复述：所问为出门之子本人存亡，断语落其子。动化方向：世父化子孙、化神水旺得扶，定性主存；反转条件：无源绝、无化绝，不反转。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "reserve_used=true：子孙不上现卦，主用取自动爻化出之变爻子孙亥水（四源候选中的变爻候选）实际入断"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/calibration.md"
+ ]
+}

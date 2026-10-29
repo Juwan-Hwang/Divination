@@ -1,0 +1,19 @@
+{
+ "case_id": "YM-062",
+ "prediction_text": "得会可得、吉向得财：妻财午火四爻相于寅月、得卯日木生，原神子孙卯木临日旺于初爻生财，忌神兄弟亥水休于寅月又被月建合住，不劫财；上爻官鬼戌土动而化妻财巳火，另开一财源。应期双层：窗口乙卯日起半月内，主坐标庚午日（妻财午火逢值之日）得会到手，终局单一判得。",
+ "basis": "用神：妻财午火单现相得日生为主用；变爻巳火财保留应验位。动化方向：上官鬼戌土动化妻财巳火，化神火→戌土为被生（回头生动爻）且化出用神之亲，官化财定性助财；反转条件无。四路：本气+（财相得日生）／元忌仇+（子原神临日旺生财、兄忌合住休囚）／动化+／世应不计；合参吉向。应期三步：尺度日（问何时得会、日辰作用显著）；冲实路无、填实路无空、逢值路午值主财与巳值化财相距逾十日须对决：闸门无平手、视野日档两皆合、合流项午值兼原神生财链终点合流胜，取庚午日，舍丁巳日化财值（源头之应非到手之应，留应验位）。求财对表：财静逢值取点与对表世动逢合条不合（世静），按通用逢值并注明对表求财首选条（财临日月重叠入墓）本盘不合、无点。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "changed_main=false；reserve_used=true：化出巳火财保留应验位参与对决；取用唯一，disputed=false。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

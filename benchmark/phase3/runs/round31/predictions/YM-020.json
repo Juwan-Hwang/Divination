@@ -1,0 +1,19 @@
+{
+ "case_id": "YM-020",
+ "prediction_text": "妻病危重，终局不治倾向：近段病势沉重，远段无续救之力，凶在当前旬月内。应期以日为单位（近病日档）：窗口为占后数日内，主坐标取克害加重之未日／辰日一线，以未日为定点（日辰未土克财、兄弟辰土动克财同向）。",
+ "basis": "六爻纳甲，艮宫大畜之蒙。代占妻病以妻财为用，妻财子水两现：五爻应子水静、二爻下初爻子水动，取动者为主用。子水巳月死绝、日癸未土克之，休囚无气；初爻子水动化官鬼寅木，化泄；三爻兄弟辰土动化父母午火，兄弟土动克财水。原神金不上卦有力之生。动化方向：子水化寅木为泄化；反转条件：用神休囚无扶而受动克，凶链成立。病占原神无根可据。四路：本气−／元忌仇−／动化−／世应不计；合参凶向。应验对象复述：主断语主语为占者之妻（病者），非占者本人，同一。病位无完整三路依据，不妄断。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "case_id": "YM-029",
+ "prediction_text": "筮有地：此地不可用、不就此地，问何时就地则无就地之期，当另觅。世爻临空、父母伏藏不出，地与求者两无着落，终局断不用此地。",
+ "basis": "六爻纳甲，艮宫山天大畜，静卦。茔葬以父母为地之用神：本卦父母不上卦，伏神无出之据（飞神旺静、无冲飞之路，伏神待出判据不足两项，难出未定偏不出）；世爻官鬼甲寅木，甲辰旬空寅卯，世空主求地者无定主。大畜虽有畜聚之名而世空用伏，卦名不代用神主线。静卦无动，事无推进，断此地不用。对表无茔葬门类，明写对表无此门类。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "六爻纳甲"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

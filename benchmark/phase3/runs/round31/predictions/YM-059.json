@@ -1,0 +1,19 @@
+{
+ "case_id": "YM-059",
+ "prediction_text": "升往北方、吉向：静卦天火同人，官鬼亥水三爻持世、临亥月建旺，官星即在自身之位且得月建全扶，升迁之官已旺临世；父母卯木初爻相于亥月得寅日木扶，文书有气。方以官亥水定位北方为主断。应期双层：窗口亥月起一年内，主坐标亥月（官鬼亥水逢值之月，本月内或次亥）升任北方定局，终局判可升。",
+ "basis": "用神：官鬼亥水单现持世临月旺，候选唯一；父母卯木相得日扶为原神（木泄水为官生父之链：官生父、父为文书）。动化无；反转无。四路：本气+（官临月旺）／元忌仇+（子孙戌丑静、戌囚丑相不克官成链，财申空静不泄）／动化0／世即官不另计；合参吉向。方位：亥水主北，卯木东仅为父方参，不并作主断。应期：尺度月；逢值亥月主坐标，冲实巳冲亥为动静官之应法列备选舍（官旺静逢冲亦可应，但逢值兼临月合流优先），填实申财空与升迁无关不取。功名对表：官旺静逢值，取中。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "官鬼唯一持世、主断未改、无储备参与，三项皆false。"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}

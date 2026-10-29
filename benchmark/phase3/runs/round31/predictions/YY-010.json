@@ -1,0 +1,20 @@
+{
+ "case_id": "YY-010",
+ "prediction_text": "方向：夫能归、归讯先至。父母爻动主消息/文书先到，人随后到家。应期双层（日档，近事行人）：窗口为本旬（甲辰旬）内，主坐标己酉日——伏官逢值之日夫归至。",
+ "basis": "所问对象：出行在外之夫（妻占夫回）；用神：官鬼不上卦，变爻无官、日月（亥月、辰日）皆非官亲（金），按次序取伏神——本宫巽首卦官鬼酉金伏三爻父母己亥水之下，为主用神（reserve）；应验对象：夫本人，同一，复述主语为夫。伏官酉金：丁亥月金休而得甲辰日辰土生、且辰酉合，伏得日生合有气；飞神父母亥水即动爻，动化妻财庚辰土回头克飞（土克水），飞受制而松，伏易出。伏神待出四项：伏得日生合(1)成立、飞神动化受克遮压松(近2)、动爻即飞动引拨(3)成立、无破绝反证(4)成立，待出成立。行人对表：伏藏取出现之日，逢值酉日即出现。动化方向：父母亥水→辰土为化神回头克飞神本身，非用神动化；反转条件：源绝不成立，不反转。应期三路：冲实路冲飞亥为巳日不取（巳冲飞亦可但与逢值比无合流）；填实路无空不取；逢值路酉日伏官值日兼日合，取之。原神金即用神同类、忌神土即飞化出已制飞，链不克伏。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "用神官鬼不上卦，变爻与日月均无官亲，按飞伏次序取伏官酉金为主用神"
+ },
+ "systems_used": [
+  "liuyao"
+ ],
+ "sources_used": [
+  "benchmark/phase3/runs/round31/kb-snapshot/SKILL.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/README.md",
+  "benchmark/phase3/runs/round31/kb-snapshot/references/chinese-liuyao-meihua.md"
+ ]
+}
