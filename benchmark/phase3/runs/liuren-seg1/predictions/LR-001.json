@@ -1,0 +1,13 @@
+{
+ "case_id": "LR-001",
+ "prediction_text": "盘面全缺，无法以大六壬作断：输入只有占问背景（蒋介石于西安事变中被扣押、外界担忧其性命），未给占时干支、课式、四课、三传、天将与空亡中的任何一项，按 kb-snapshot/SKILL.md 纪律「没排盘不说盘」与 chinese-liuren.md 第八节，本例不成立六壬断语。仅就占题事实本身作非盘面层面的弱提示：扣押者为其下属将领、以扣押为手段迫其表态（据输入 setting），与行刺取命有别，故生死一线暂 lean「人不至即时被害」，但此系情境推断、非盘断，方向不定、应期不报，置信极低，须补盘面后重断。",
+ "direction_claim": "unknown",
+ "timing_claim": "无盘面，应期无据不报",
+ "confidence": 0.15,
+ "basis": "输入残损（全缺）：inputs8/LR-001.json 无 attachments、无占时干支、无课式/四课/三传/天将/空亡，大六壬起课与读传的全部可据者皆缺（chinese-liuren.md 第八节「可据者」无一成立）。依第八节置信处理：主断不得建立在不可据者之上，故 direction_claim 记 unknown 并大幅降置信；prediction_text 中的弱 lean 仅来自输入给定的占题事实（扣押性质），已明标非盘断。异常例，须在回传中单列。",
+ "sources_used": [
+  "inputs8/LR-001.json",
+  "kb-snapshot/SKILL.md",
+  "kb-snapshot/references/chinese-liuren.md"
+ ]
+}
