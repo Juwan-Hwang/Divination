@@ -1,0 +1,458 @@
+[
+ {
+  "anon_id": "P3-cee7d398",
+  "prediction": {
+   "direction": null,
+   "assertions": null,
+   "timing": null,
+   "summary": null
+  },
+  "outcome_record": "Confirmed in the text: 'And so to this day he hath [attained it by labour]'; 'He has since had a good fortune with his wife, money, and land, and been very successful in trade'; the two-year timing matched his wife's portion.",
+  "judgeA": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "judgeB": {
+   "direction": 2,
+   "claims": 1,
+   "timing": 0.5,
+   "total": 3.5
+  },
+  "judgeA_reason": "靠劳作贸易得富与妻财田产俱应，但六至七年成形坐标未被结局明载，结局所记二年为妻财份额之期",
+  "judgeB_reason": "靠劳作贸易得富对；断不靠妻却载妻份好运与土地，主坐标六七年亦与二年口径不合"
+ },
+ {
+  "anon_id": "P3-378ee6a2",
+  "prediction": {
+   "direction": null,
+   "assertions": null,
+   "timing": null,
+   "summary": null
+  },
+  "outcome_record": "缪斌抗战时投汪伪，战后被捕；其妻请同乡吴稚晖向蒋介石说情，吴奔走过力反启蒋疑，国民政府下令将缪斌枪决（1946年），应了「受累于吴」",
+  "judgeA": {
+   "direction": 2,
+   "claims": 1.5,
+   "timing": 0,
+   "total": 3.5
+  },
+  "judgeB": {
+   "direction": 2,
+   "claims": 2,
+   "timing": 0,
+   "total": 4
+  },
+  "judgeA_reason": "受累于吴与枪决结局合，但预测无具体应期坐标仅宽泛中晚年段故timing记0",
+  "judgeB_reason": "受累于吴而身名俱损核心断语精确命中，但预测断语本身无应期、仅有中晚年段而无坐标。"
+ },
+ {
+  "anon_id": "P3-45a74682",
+  "prediction": {
+   "direction": null,
+   "assertions": null,
+   "timing": null,
+   "summary": null
+  },
+  "outcome_record": "香港住宅楼价自2021年高位至2024-2025年低谷累计下跌约四成，2024年后经济与楼市持续低迷，与「好运到2024」方向大致相符；「北区转旺」与2021年施政报告提出北部都会区战略在叙事上呼应，但属政策规划而非市场自发结果",
+  "judgeA": {
+   "direction": 1.5,
+   "claims": 1,
+   "timing": 1,
+   "total": 3.5
+  },
+  "judgeB": {
+   "direction": 1.5,
+   "claims": 1,
+   "timing": 1.5,
+   "total": 4.0
+  },
+  "judgeA_reason": "2024后楼市下行合，但断2023前托住不崩与2021起跌四成不符，北区转旺未断中",
+  "judgeB_reason": "2024年后楼市持续下行方向与转势年大体命中，但跌势2021年已起且北区与向南业断语不合故claims扣分。"
+ },
+ {
+  "anon_id": "P3-1084b63f",
+  "prediction": {
+   "direction": null,
+   "assertions": null,
+   "timing": null,
+   "summary": null
+  },
+  "outcome_record": "新加坡于2020年4月7日至6月1日实施「阻断措施」（Circuit Breaker），客工宿舍暴发大规模感染，4-6月正是本地最严重阶段；全球疫情则在2020年下半年进一步恶化，与「5-6月恢复正常」相反",
+  "judgeA": {
+   "direction": 1,
+   "claims": 1,
+   "timing": 1,
+   "total": 3
+  },
+  "judgeB": {
+   "direction": 1.5,
+   "claims": 1.5,
+   "timing": 1.5,
+   "total": 4.5
+  },
+  "judgeA_reason": "阻断与上升段合，但5-6月受控退潮与本地最严重阶段不符，全球恶化仅第二波一项沾边",
+  "judgeB_reason": "阻断措施与四月严峻及全球跨年恶化多项命中，但新加坡五六月即受控回落与四至六月最严重阶段不完全合故各扣0.5。"
+ },
+ {
+  "anon_id": "P3-607ef1f1",
+  "prediction": {
+   "direction": null,
+   "assertions": null,
+   "timing": null,
+   "summary": null
+  },
+  "outcome_record": "果於卯日得信，乙未日到家",
+  "judgeA": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.5,
+   "total": 4.0
+  },
+  "judgeB": {
+   "direction": 2,
+   "claims": 1.5,
+   "timing": 0,
+   "total": 3.5
+  },
+  "judgeA_reason": "父归合且卯日得信与消息先动合，但到家在乙未日而非戌日",
+  "judgeB_reason": "父归与先得信合，但到家乙未而非戌日"
+ },
+ {
+  "anon_id": "P3-d162f5b3",
+  "prediction": {
+   "direction": null,
+   "assertions": null,
+   "timing": null,
+   "summary": null
+  },
+  "outcome_record": "果於辰日天變，巳日大雨",
+  "judgeA": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.5,
+   "total": 4.0
+  },
+  "judgeB": {
+   "direction": 1.5,
+   "claims": 1.5,
+   "timing": 0.5,
+   "total": 3.5
+  },
+  "judgeA_reason": "有雨且为大雨应验，但雨落在辰巳日而非所断申日主坐标，应期偏早数日",
+  "judgeB_reason": "有雨且巳日大雨量级对；主坐标申日误，实际辰日天变巳日雨，仅近段晴转雨相近"
+ },
+ {
+  "anon_id": "P3-a6793717",
+  "prediction": {
+   "direction": null,
+   "assertions": null,
+   "timing": null,
+   "summary": null
+  },
+  "outcome_record": "果卒於卯日（應卯日者，沖去原神、忌神共來克害）",
+  "judgeA": {
+   "direction": 2,
+   "claims": 1.5,
+   "timing": 0.5,
+   "total": 4.0
+  },
+  "judgeB": {
+   "direction": 2,
+   "claims": 1.5,
+   "timing": 0,
+   "total": 3.5
+  },
+  "judgeA_reason": "病危难愈而卒合，具体救应细节无据且主坐标午月未被卯日卒所核",
+  "judgeB_reason": "病危不治方向命中，但断月档午月定局，实际卯日已卒，应期全错"
+ },
+ {
+  "anon_id": "P3-9994295c",
+  "prediction": {
+   "direction": null,
+   "assertions": null,
+   "timing": null,
+   "summary": null
+  },
+  "outcome_record": "卯年占卦﹐巳年援例連連加納﹐官至府佐﹐未年出仕﹐戌年升任。黃堂古法以動而逢沖謂之散﹐此系未沖世爻之丑土﹐竟不見其散也。",
+  "judgeA": {
+   "direction": 2,
+   "claims": 1.5,
+   "timing": 0.5,
+   "total": 4.0
+  },
+  "judgeB": {
+   "direction": 2,
+   "claims": 1,
+   "timing": 0,
+   "total": 3
+  },
+  "judgeA_reason": "再起得官至府佐升任合，武职细节未载且主坐标午年与巳未戌应年不合",
+  "judgeB_reason": "再起得功名方向命中，但主坐标午年在结局巳未戌升迁序列中无对应，claims与timing扣分"
+ },
+ {
+  "anon_id": "P3-be4cfffa",
+  "prediction": {
+   "direction": null,
+   "assertions": null,
+   "timing": null,
+   "summary": null
+  },
+  "outcome_record": "後此人亦未食糧﹐竟隨營破寨﹐奮勇當先﹐主帥嘉之﹐卽以官。不出五載﹐建奇功﹐官至元戎將軍。",
+  "judgeA": {
+   "direction": 2,
+   "claims": 1.5,
+   "timing": 0.5,
+   "total": 4.0
+  },
+  "judgeB": {
+   "direction": 2,
+   "claims": 1,
+   "timing": 0.5,
+   "total": 3.5
+  },
+  "judgeA_reason": "军功异路得官路径精确合，但断只至州县正职而实际官至元戎将军量级大低，酉年亦未核",
+  "judgeB_reason": "有功名且军功异路入仕精确命中，但断州县中层与官至元戎将军量级悬殊，酉年坐标与五载之期无从对表"
+ },
+ {
+  "anon_id": "P3-78a9dc48",
+  "prediction": {
+   "direction": null,
+   "assertions": null,
+   "timing": null,
+   "summary": null
+  },
+  "outcome_record": "果終於本年冬至日﹐應子日者沖去午火而未土以克亥水。",
+  "judgeA": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "judgeB": {
+   "direction": 2,
+   "claims": 1.0,
+   "timing": 0,
+   "total": 3.0
+  },
+  "judgeA_reason": "父寿大限合且本年冬至日终，仅记节气日无年支可核巳年，结局无可核时点",
+  "judgeB_reason": "父寿危死合，但限期在本年冬至而非巳年"
+ },
+ {
+  "anon_id": "P3-d89520e6",
+  "prediction": {
+   "direction": null,
+   "assertions": null,
+   "timing": null,
+   "summary": null
+  },
+  "outcome_record": "果於巳日到。或曰﹕用爻有病﹐莫問歸期﹐此卦申金化進神以克寅木﹐如何許回﹖予曰﹕彼問夫之平安﹐卽以不利斷之﹐今加往他處去否﹐夫爻受到制﹐不往他鄕﹐斷卦者各有取用耳。",
+  "judgeA": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.5,
+   "total": 4.0
+  },
+  "judgeB": {
+   "direction": 2,
+   "claims": 1.5,
+   "timing": 0,
+   "total": 3.5
+  },
+  "judgeA_reason": "夫归且不往他乡应验，但到家在巳日而非申日主坐标，应期偏早两日",
+  "judgeB_reason": "夫归且不往他乡对；主坐标申日误，实际巳日到"
+ },
+ {
+  "anon_id": "P3-4a4916ed",
+  "prediction": {
+   "direction": null,
+   "assertions": null,
+   "timing": null,
+   "summary": null
+  },
+  "outcome_record": "後於申年升任﹐應申年者﹐值官之年也。",
+  "judgeA": {
+   "direction": 2,
+   "claims": 1,
+   "timing": 0.5,
+   "total": 3.5
+  },
+  "judgeB": {
+   "direction": 2,
+   "claims": 1.5,
+   "timing": 1,
+   "total": 4.5
+  },
+  "judgeA_reason": "升任方向合，修沟因果未被结局记载，申月主坐标实际为申年仅干支字合",
+  "judgeB_reason": "修后升任方向命中且申字相合，但断申月而实际申年升任故timing扣分、修沟因果未被结局印证。"
+ },
+ {
+  "anon_id": "P3-5790b256",
+  "prediction": {
+   "direction": null,
+   "assertions": null,
+   "timing": null,
+   "summary": null
+  },
+  "outcome_record": "果先愈一日，應甲寅日也",
+  "judgeA": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.5,
+   "total": 4.0
+  },
+  "judgeB": {
+   "direction": 2,
+   "claims": 1.0,
+   "timing": 0,
+   "total": 3.0
+  },
+  "judgeA_reason": "妻病得愈合，但实愈于甲寅日且较预期早一日，酉日坐标未中",
+  "judgeB_reason": "妻病愈合但愈日在寅而非酉"
+ },
+ {
+  "anon_id": "P3-cac40d27",
+  "prediction": {
+   "direction": null,
+   "assertions": null,
+   "timing": null,
+   "summary": null
+  },
+  "outcome_record": "后有人解散，乃叔不至责侄",
+  "judgeA": {
+   "direction": 1.5,
+   "claims": 1.0,
+   "timing": 1.0,
+   "total": 3.5
+  },
+  "judgeB": {
+   "direction": 2,
+   "claims": 1,
+   "timing": 1,
+   "total": 4
+  },
+  "judgeA_reason": "无害善终方向大体合于有人解散叔不责侄，但惊吓奔走与人回等细节未载；结局无可核时点",
+  "judgeB_reason": "侄未被害方向对；惊吓奔走归信等子断语未见记载，结局无可核时点 timing 记1"
+ },
+ {
+  "anon_id": "P3-2fd55c02",
+  "prediction": {
+   "direction": null,
+   "assertions": null,
+   "timing": null,
+   "summary": null
+  },
+  "outcome_record": "果死于本日辰时．",
+  "judgeA": {
+   "direction": 2,
+   "claims": 1.5,
+   "timing": 0.5,
+   "total": 4.0
+  },
+  "judgeB": {
+   "direction": 2,
+   "claims": 1.5,
+   "timing": 0,
+   "total": 3.5
+  },
+  "judgeA_reason": "不愈方向合，主坐标寅月与本日辰时死差远故timing扣分",
+  "judgeB_reason": "子久病不愈而死方向命中，但断寅月危期而实际本日辰时即死，应期不合。"
+ },
+ {
+  "anon_id": "P3-a90e2067",
+  "prediction": {
+   "direction": null,
+   "assertions": null,
+   "timing": null,
+   "summary": null
+  },
+  "outcome_record": "果卒於甲戌日﹐",
+  "judgeA": {
+   "direction": 2,
+   "claims": 1.5,
+   "timing": 0.5,
+   "total": 4.0
+  },
+  "judgeB": {
+   "direction": 2,
+   "claims": 1.5,
+   "timing": 0,
+   "total": 3.5
+  },
+  "judgeA_reason": "妻母不愈重危合，病位未断且主坐标己未日与甲戌日卒不合",
+  "judgeB_reason": "妻母不愈方向命中，但主坐标己未日与甲戌日卒不合"
+ },
+ {
+  "anon_id": "P3-b915f19c",
+  "prediction": {
+   "direction": null,
+   "assertions": null,
+   "timing": null,
+   "summary": null
+  },
+  "outcome_record": "果於次日卯時﹐云開日出﹐",
+  "judgeA": {
+   "direction": 2,
+   "claims": 1.5,
+   "timing": 2,
+   "total": 5.5
+  },
+  "judgeB": {
+   "direction": 2,
+   "claims": 1.5,
+   "timing": 0,
+   "total": 3.5
+  },
+  "judgeA_reason": "雪止天晴且次日即子日放晴与主坐标合，残雪过程细节未单载",
+  "judgeB_reason": "雪止天晴方向命中，但断子日放晴，实际次日卯时云开，应期错位"
+ },
+ {
+  "anon_id": "P3-6a61aedb",
+  "prediction": {
+   "direction": null,
+   "assertions": null,
+   "timing": null,
+   "summary": null
+  },
+  "outcome_record": "果於酉時霧散天開。",
+  "judgeA": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "judgeB": {
+   "direction": 1.5,
+   "claims": 1.0,
+   "timing": 1,
+   "total": 3.5
+  },
+  "judgeA_reason": "雾散天开放晴合，酉时无日支可核辰日，结局无可核时点",
+  "judgeB_reason": "结局无可核时点；雾散天开合晴，雪晴日支无法核"
+ },
+ {
+  "anon_id": "P3-e5ae0157",
+  "prediction": {
+   "direction": null,
+   "assertions": null,
+   "timing": null,
+   "summary": null
+  },
+  "outcome_record": "果十日客至，有烹雞之驗",
+  "judgeA": {
+   "direction": 1.5,
+   "claims": 1.5,
+   "timing": 0.0,
+   "total": 3.0
+  },
+  "judgeB": {
+   "direction": 2,
+   "claims": 1.5,
+   "timing": 0.5,
+   "total": 4.0
+  },
+  "judgeA_reason": "客至杀鸡烹食得验，但客至在十日后而非当日酉时，当日时点全错",
+  "judgeB_reason": "客至烹鸡对；见血一节未明记，应期断当日酉时而实际十日后客至，时点偏"
+ }
+]
