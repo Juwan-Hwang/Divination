@@ -750,3 +750,10 @@ dev5 零改动基线轮完成（方法＝R14 版，逐字未动）：全集（n=
 ### 待外部补源登记（2026-10-29，WANTED-TEXTS.md）
 
 缺全文古籍清单 ~/workspace/divination/WANTED-TEXTS.md 已交用户经学校数据库（知网/读秀/超星一类）查找，登记为「待外部补源」：第一梯队六爻成例书（《易隐》《卜筮全书》《易冒》《断易天机》《易林补遗》《黄金策》《卜筮正宗》可靠全本）、第二梯队命理（《子平真诠》《滴天髓阐微》《紫微斗数全书》、袁树珊著作）、第三梯队单例核对（《呱呱集》1963 影印件）。用户后续发来任一书全文时，按既有转录（OCR＋视觉）与分级流程优先处理该书成例入池（分级、去重、泄漏自检同 expansion6 口径）。当前 expansion6 扩数不等这些书，先按已拍板两路来源（现代时间戳预测＋其他传统门类现有可得材料）推进；各数据角须在其 BUILD-REPORT 中引此登记，不得再以这些书无全文为由缩小普查范围或宣布枯竭。
+
+### Phase 3 expansion6 与 dev7 建池（2026-10-29，口径纠正后首轮扩数）
+
+- 三路并行扩数（数据角分路执行）：现代中方时间戳预测 MP 19 例 A（全 high 污染、著名选举）、现代西方 WP 13 例 A、古典其他门类 OC 30 例 A（八字 22、六壬 5、梅花 3；六壬指南尚有余量未尽读、登记非枯竭）；合计全新 A 级 62 例（low 仅 10），B 级 15 例只登记不入池。逐路 BUILD-REPORT 存 expansion6/<stream>/。
+- holdout8 封存 28 例（全新 A 级：low 10 全取＋high 按来源分层补 18；金标 SHA-256 6db901c2…，seal-log 已建），盲测面不入 inputs7。
+- dev7＝334 例：dev6 248＋holdout6 已用 23＋expansion6 dev-add 34＋legacy dev-add 29（Phase 1/2 已开封、从未进 Phase 3 池的双轴 A 级旧例，层级登记为 legacy，不冒充全新）。splits7.json、roster7-additions.jsonl（86 行含 holdout6 补录）、inputs7/（334 份，split 字段统一剥离）已生成，build_packets.py 已补 roster7 路径。
+- 下一步：dev-add 63 例（34 新＋29 legacy）大师基线新建（冻结量表、混编匿名、双评审＋仲裁），并入 master-baseline-dev7.json（dev6 基线 4.826 段沿用）；随后 R21 预注册（零改动基线轮，方法＝R19 版，dev7 全量）。
