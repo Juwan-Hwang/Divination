@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-213",
+ "prediction_text": "方向：逃犯往东去，且可被抓回（recoverable, positive）。逃犯以十二宫头射手座及其主木星（在狮子座）为征；十二宫星座、木星所在星座、天象四分域、月亮所在星座四项 testimony 一致指东（unanimously eastward），方向无歧义。具体断语：他向东逃、行踪会暴露——月亮近上升、分离木星三合后趋冲太阳，且二星皆居角宫（angles），主公开被见、藏不住；木星与水星有相位，示消息／文书往来中露出行迹。木星居八宫示其处境凶险、被获时有危难之虞，但不改被获终局。应期：日档近事——数日内至一旬内在东路被发现或捕获，窗口内主坐标取月亮完成冲太阳之时（题面无度数差，不另报日期）。",
+ "basis": "Lilly逃犯占：方向四 testimony 同指东；月近上升、角宫冲太阳主暴露被获；木在八宫为其险境。输入残损：无问时、无完整盘面与度数，应期只给窗口，降置信。非六爻例，trigger全false。",
+ "confidence": 0.64,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "dir_flipped": false,
+  "reason": ""
+ }
+}

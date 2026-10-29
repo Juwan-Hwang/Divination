@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-204",
+ "prediction_text": "Qualified negative on easy cure — the disease is fixed and lingering and is not quickly curable, though the judgment is for a serious chronic affliction rather than an immediately fatal one on the testimonies given. Part afflicted: the breast and stomach. Saturn at the time in Cancer, which signifies the breast and stomach, and the lord of the Ascendant lately separated from a dexter square of Saturn, put the affliction in the breast/stomach region, of a cold, heavy, obstructed/phlegmatic-melancholic quality. The sixth house afflicted by a planet in his fall placed therein confirms a debased, difficult disease lodged in the body; the Moon in the fourth house with Saturn adds cold/moist heaviness and an inward, home-bound course. All the angles fixed make the disease fixed and of long continuance, not a brief acute fever. Timing/scale is month-scale: a prolonged course over months, main coordinate no speedy recovery — improvement, if it comes, is slow after the Saturnine affliction separates, and relapse/fixity must be expected. Object check: every main statement above is about the sick doctor himself, the patient asked about.",
+ "basis": "Lilly sickness/decumbiture horary, Chap. XLV pattern: Asc Scorpio = patient, 6th house and its afflictions = disease, Asc lord's separation from square Saturn in Cancer = breast/stomach signification. Fixed angles = fixed/chronic disease in classical rules. Input residual: the planet in fall in the 6th is not named in the input and no asked-at date is stated; disease quality beyond Saturn/Cancer and the fall testimony is therefore limited, basis noted here and confidence reduced. No death testimony as strong as an 8th-lord affliction of the Ascendant is stated, so no death judgment is made.",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "dir_flipped": false,
+  "reason": ""
+ }
+}

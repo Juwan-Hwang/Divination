@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-012",
+ "prediction_text": "Negative — he shall not obtain the parsonage/benefice desired. The testimonies are uniformly negative and are Lilly's own sevenfold pattern: Saturn impedited in the Ascendant infortunes the question; Jupiter lord of the 9th, significator of the benefice, is in no aspect with the lord of the Ascendant, nor is the Moon in any aspect with him; neither the lord of the Ascendant nor the Moon is placed in the 9th; there is no translation or collection of light and no reception between the significators; the Moon separating from a trine applies to an opposition of Mercury lord of the 3rd, showing opposition/interference through brethren, messages or a rival channel; Venus in the 7th opposing the Ascendant adds an open opponent. With no application, no reception and no light-transfer, there is no perfection route — pressing the suit despite advice will fail. No positive timing is given because the event does not perfect; this is a single negative final judgment, not a delayed success.",
+ "basis": "Lilly 9th-house benefice horary: querent = Asc lord and Moon, benefice = 9th lord Jupiter. Absence of aspect, reception, translation and collection between significators is, in Lilly's rules, a denial; Saturn impedited in Ascendant and Venus in 7th opposing Ascendant are corroborating afflictions. Input residual: some planet glyphs garbled in 1647 OCR (one Asc-lord name uncertain), but the seven numbered negative testimonies are explicit in the input and are sufficient for direction; confidence rests on those, not on the garbled glyph.",
+ "confidence": 0.85,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "dir_flipped": false,
+  "reason": ""
+ }
+}

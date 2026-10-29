@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-205",
+ "prediction_text": "Negative — the sick man shall die of this disease, not recover. The testimonies for death are multiple and concordant: the Ascendant is most afflicted by the corporal presence of a planet who is partly lord of the eighth house; the sign of the sixth is fixed and afflicted and the lord of the sixth is in a fixed, earthly, melancholy sign, making the disease fixed, earthy and melancholic and beyond easy cure; the Sun, the temporal light, is in perfect opposition to Saturn, lord of the sixth, in fixed signs; and the Moon, near the Dragon's Tail (Cauda) and afflicted in the Ascendant, weakens the patient's vitality at the very angle of life. Disease: a melancholic, fixed, earthy affliction — cold and dry, obstructive and lingering in character, seated in the parts ruled by the fixed/earthy signs involved. Timing is month-scale for a sickness final outcome (not a day prediction): the fixed-sign opposition gives no quick crisis-and-recovery, main coordinate within the current sickness course in the weeks following 16 July 1645, ending in death rather than convalescence. Object check: every main statement above is about the sick man, the patient asked about.",
+ "basis": "Lilly sickness horary, Chap. XLVI pattern: life = Ascendant and Moon and Sun as lights; death = 8th lord afflicting Ascendant, afflicted fixed 6th and its lord in fixed earthy melancholy sign, Sun opposite Saturn lord 6th in fixed signs, Moon near Cauda afflicted in Ascendant. Concordance of 6th/8th/light afflictions is the classical death judgment. Input residual: ascending sign glyph corrupt in OCR and not asserted in the input — not relied on here; the prose testimonies listed are sufficient and confidence rests on them.",
+ "confidence": 0.8,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "dir_flipped": false,
+  "reason": ""
+ }
+}

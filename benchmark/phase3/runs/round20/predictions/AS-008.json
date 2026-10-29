@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-008",
+ "prediction_text": "Positive — Essex shall take Reading: the town shall be delivered/surrendered to the Earl of Essex, rather than held successfully for the King. Mars, lord of Scorpio ascending and significator of Essex, though in his fall is otherwise well fortified and in reception with the Moon (Mars in her house, she in his terms and face, near Regulus, in the 10th), giving Essex power and mutual support toward the taking. Saturn, lord of the 4th (Aquarius on the 4th = the town) for the governor, is in his fall, so the governor and the town's defence fail; the Sun, the King's significator, in the 7th in a fixed sign shows the royal party fixed in opposition but not prevailing. Jupiter lord of the 5th and Venus placed therein show the town still has ammunition and provision, so the end is by surrender/delivery after siege pressure, not by immediate storm or for simple want at the first moment. Timing is month-scale within the siege, main coordinate late April, at the delivery of the town.",
+ "basis": "Lilly siege horary, Chap. LXVI pattern: Asc lord Mars = Essex, 4th and its lord Saturn = town/governor, Sun = King. Reception Mars-Moon and Moon in 10th near Regulus support Essex; Saturn in fall defeats the governor. Moon void of course applying to a sextile of Mars (reckoned as a square in signs of long ascension) shows delay/friction before perfection, hence surrender rather than instant storm. Input residual: year printed 1644 in OCR but historical siege ended April 1643 — date inconsistency in the input noted, direction rests on the figure testimonies, confidence slightly reduced.",
+ "confidence": 0.74,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "dir_flipped": false,
+  "reason": ""
+ }
+}
