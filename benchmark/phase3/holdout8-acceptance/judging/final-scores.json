@@ -1,0 +1,774 @@
+{
+ "items": {
+  "H8-001": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 1.5,
+   "total": 5.5
+  },
+  "H8-002": {
+   "direction": 2.0,
+   "claims": 1.0,
+   "timing": 0.5,
+   "total": 3.5
+  },
+  "H8-003": {
+   "anon_id": "H8-003",
+   "direction": 0,
+   "claims": 0,
+   "timing": 1,
+   "total": 1,
+   "pass": false,
+   "reason": "方向全反：预测韩国瑜当选，实际蔡英文以约265万票差距连任。逐项断语全反：韩胜30万至60万票不成立，国民党立委未获胜且民进党以61席过半。结局无可核时点，timing记1。"
+  },
+  "H8-004": {
+   "direction": 1.5,
+   "claims": 1.5,
+   "timing": 1.75,
+   "total": 4.75
+  },
+  "H8-005": {
+   "direction": 2.0,
+   "claims": 1.0,
+   "timing": 1.0,
+   "total": 4.0
+  },
+  "H8-006": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 2.0,
+   "total": 6.0
+  },
+  "H8-007": {
+   "direction": 1.5,
+   "claims": 1.0,
+   "timing": 1.0,
+   "total": 3.5
+  },
+  "H8-008": {
+   "direction": 2.0,
+   "claims": 1.0,
+   "timing": 1.0,
+   "total": 4.0
+  },
+  "H8-009": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 1.5,
+   "total": 5.5
+  },
+  "H8-010": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "H8-011": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 2.0,
+   "total": 5.5
+  },
+  "H8-012": {
+   "direction": 2.0,
+   "claims": 1.25,
+   "timing": 1.25,
+   "total": 4.5
+  },
+  "H8-013": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 1.5,
+   "total": 5.5
+  },
+  "H8-014": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.75,
+   "total": 5.25
+  },
+  "H8-015": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 0.0,
+   "total": 4.0
+  },
+  "H8-016": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 2.0,
+   "total": 5.5
+  },
+  "H8-017": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 2.0,
+   "total": 6.0
+  },
+  "H8-018": {
+   "direction": 2.0,
+   "claims": 1.25,
+   "timing": 1.0,
+   "total": 4.25
+  },
+  "H8-019": {
+   "direction": 1.5,
+   "claims": 1.0,
+   "timing": 1.0,
+   "total": 3.5
+  },
+  "H8-020": {
+   "anon_id": "H8-020",
+   "direction": 0,
+   "claims": 0,
+   "timing": 1,
+   "total": 1,
+   "pass": false,
+   "reason": "方向全反：预测蔡英文参选则民进党绝对会输，实际蔡英文以817万票连任且民进党保住立法院过半。逐项断语全反：无大运/没有当官的格被连任结果否定，民进党必输亦不成立。结局无可核时点，timing记1。"
+  },
+  "H8-021": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.5,
+   "total": 5.0
+  },
+  "H8-022": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.5,
+   "total": 5.0
+  },
+  "H8-023": {
+   "direction": 1.25,
+   "claims": 1.0,
+   "timing": 0.0,
+   "total": 2.25
+  },
+  "H8-024": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "H8-025": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 2.0,
+   "total": 5.5
+  },
+  "H8-026": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 2.0,
+   "total": 6.0
+  },
+  "H8-027": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 2.0,
+   "total": 5.5
+  },
+  "H8-028": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 0.0,
+   "total": 4.0
+  },
+  "H8-029": {
+   "direction": 1.5,
+   "claims": 1.0,
+   "timing": 1.0,
+   "total": 3.5
+  },
+  "H8-030": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.75,
+   "total": 5.25
+  },
+  "H8-031": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "H8-032": {
+   "direction": 1.5,
+   "claims": 1.0,
+   "timing": 1.0,
+   "total": 3.5
+  },
+  "H8-033": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 2.0,
+   "total": 5.75
+  },
+  "H8-034": {
+   "direction": 1.5,
+   "claims": 1.0,
+   "timing": 2.0,
+   "total": 4.5
+  },
+  "H8-035": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 2.0,
+   "total": 5.5
+  },
+  "H8-036": {
+   "direction": 2.0,
+   "claims": 1.0,
+   "timing": 1.0,
+   "total": 4.0
+  },
+  "H8-037": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "H8-038": {
+   "direction": 2.0,
+   "claims": 1.0,
+   "timing": 2.0,
+   "total": 5.0
+  },
+  "H8-039": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 1.5,
+   "total": 5.5
+  },
+  "H8-040": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.0,
+   "total": 4.75
+  },
+  "H8-041": {
+   "direction": 1.5,
+   "claims": 1.25,
+   "timing": 1.5,
+   "total": 4.25
+  },
+  "H8-042": {
+   "direction": 0.5,
+   "claims": 0.75,
+   "timing": 0.0,
+   "total": 1.25
+  },
+  "H8-043": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.75,
+   "total": 0.75
+  },
+  "H8-044": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.0,
+   "total": 3.5
+  },
+  "H8-045": {
+   "direction": 1.25,
+   "claims": 1.0,
+   "timing": 1.0,
+   "total": 3.25
+  },
+  "H8-046": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 2.0,
+   "total": 5.5
+  },
+  "H8-047": {
+   "direction": 1.75,
+   "claims": 1.25,
+   "timing": 0.0,
+   "total": 3.0
+  },
+  "H8-048": {
+   "direction": 1.0,
+   "claims": 1.0,
+   "timing": 1.0,
+   "total": 3.0
+  },
+  "H8-049": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.5,
+   "total": 5.0
+  },
+  "H8-050": {
+   "direction": 1.75,
+   "claims": 1.5,
+   "timing": 1.5,
+   "total": 4.75
+  },
+  "H8-051": {
+   "direction": 1.5,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.0
+  },
+  "H8-052": {
+   "direction": 0.25,
+   "claims": 0.25,
+   "timing": 0.0,
+   "total": 0.5
+  },
+  "H8-053": {
+   "direction": 1.0,
+   "claims": 0.75,
+   "timing": 0.5,
+   "total": 2.25
+  },
+  "H8-054": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "H8-055": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.25,
+   "total": 4.75
+  },
+  "H8-056": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.5,
+   "total": 0.5
+  }
+ },
+ "pairs": {
+  "MP-001": {
+   "ours": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 1.5,
+    "total": 5.5
+   },
+   "contamination": "high",
+   "master": {
+    "anon_id": "H8-003",
+    "direction": 0,
+    "claims": 0,
+    "timing": 1,
+    "total": 1,
+    "pass": false,
+    "reason": "方向全反：预测韩国瑜当选，实际蔡英文以约265万票差距连任。逐项断语全反：韩胜30万至60万票不成立，国民党立委未获胜且民进党以61席过半。结局无可核时点，timing记1。"
+   }
+  },
+  "OC-026": {
+   "ours": {
+    "direction": 2.0,
+    "claims": 1.0,
+    "timing": 0.5,
+    "total": 3.5
+   },
+   "contamination": "low",
+   "master": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 2.0,
+    "total": 6.0
+   }
+  },
+  "OC-027": {
+   "master": {
+    "direction": 1.5,
+    "claims": 1.5,
+    "timing": 1.75,
+    "total": 4.75
+   },
+   "contamination": "low",
+   "ours": {
+    "direction": 1.0,
+    "claims": 0.75,
+    "timing": 0.5,
+    "total": 2.25
+   }
+  },
+  "OC-016": {
+   "master": {
+    "direction": 2.0,
+    "claims": 1.0,
+    "timing": 1.0,
+    "total": 4.0
+   },
+   "contamination": "low",
+   "ours": {
+    "direction": 1.5,
+    "claims": 1.0,
+    "timing": 1.0,
+    "total": 3.5
+   }
+  },
+  "WP-001": {
+   "ours": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 2.0,
+    "total": 6.0
+   },
+   "contamination": "high",
+   "master": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 2.0,
+    "total": 5.5
+   }
+  },
+  "MP-014": {
+   "master": {
+    "direction": 2.0,
+    "claims": 1.0,
+    "timing": 1.0,
+    "total": 4.0
+   },
+   "contamination": "high",
+   "ours": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 2.0,
+    "total": 5.5
+   }
+  },
+  "WP-008": {
+   "ours": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 1.5,
+    "total": 5.5
+   },
+   "contamination": "high",
+   "master": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 1.5,
+    "total": 5.0
+   }
+  },
+  "OC-021": {
+   "ours": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 1.0,
+    "total": 4.5
+   },
+   "contamination": "high",
+   "master": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 0.0,
+    "total": 4.0
+   }
+  },
+  "WP-003": {
+   "master": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 2.0,
+    "total": 5.5
+   },
+   "contamination": "high",
+   "ours": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 2.0,
+    "total": 5.5
+   }
+  },
+  "MP-005": {
+   "ours": {
+    "direction": 2.0,
+    "claims": 1.25,
+    "timing": 1.25,
+    "total": 4.5
+   },
+   "contamination": "high",
+   "master": {
+    "direction": 0.0,
+    "claims": 0.0,
+    "timing": 0.75,
+    "total": 0.75
+   }
+  },
+  "MP-009": {
+   "master": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 1.5,
+    "total": 5.5
+   },
+   "contamination": "high",
+   "ours": {
+    "direction": 2.0,
+    "claims": 1.75,
+    "timing": 2.0,
+    "total": 5.75
+   }
+  },
+  "OC-029": {
+   "master": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 1.75,
+    "total": 5.25
+   },
+   "contamination": "low",
+   "ours": {
+    "direction": 1.25,
+    "claims": 1.0,
+    "timing": 1.0,
+    "total": 3.25
+   }
+  },
+  "OC-028": {
+   "ours": {
+    "direction": 2.0,
+    "claims": 1.25,
+    "timing": 1.0,
+    "total": 4.25
+   },
+   "contamination": "low",
+   "master": {
+    "direction": 1.75,
+    "claims": 1.25,
+    "timing": 0.0,
+    "total": 3.0
+   }
+  },
+  "OC-010": {
+   "master": {
+    "direction": 1.5,
+    "claims": 1.0,
+    "timing": 1.0,
+    "total": 3.5
+   },
+   "contamination": "high",
+   "ours": {
+    "direction": 1.75,
+    "claims": 1.5,
+    "timing": 1.5,
+    "total": 4.75
+   }
+  },
+  "MP-002": {
+   "master": {
+    "anon_id": "H8-020",
+    "direction": 0,
+    "claims": 0,
+    "timing": 1,
+    "total": 1,
+    "pass": false,
+    "reason": "方向全反：预测蔡英文参选则民进党绝对会输，实际蔡英文以817万票连任且民进党保住立法院过半。逐项断语全反：无大运/没有当官的格被连任结果否定，民进党必输亦不成立。结局无可核时点，timing记1。"
+   },
+   "contamination": "high",
+   "ours": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 1.0,
+    "total": 4.5
+   }
+  },
+  "OC-012": {
+   "master": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 1.5,
+    "total": 5.0
+   },
+   "contamination": "high",
+   "ours": {
+    "direction": 1.5,
+    "claims": 1.0,
+    "timing": 1.0,
+    "total": 3.5
+   }
+  },
+  "OC-022": {
+   "master": {
+    "direction": 1.25,
+    "claims": 1.0,
+    "timing": 0.0,
+    "total": 2.25
+   },
+   "contamination": "low",
+   "ours": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 1.0,
+    "total": 4.5
+   }
+  },
+  "OC-017": {
+   "ours": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 1.0,
+    "total": 4.5
+   },
+   "contamination": "low",
+   "master": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 0.0,
+    "total": 3.5
+   }
+  },
+  "OC-025": {
+   "master": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 2.0,
+    "total": 6.0
+   },
+   "contamination": "high",
+   "ours": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 2.0,
+    "total": 5.5
+   }
+  },
+  "OC-023": {
+   "master": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 0.0,
+    "total": 4.0
+   },
+   "contamination": "low",
+   "ours": {
+    "direction": 0.0,
+    "claims": 0.0,
+    "timing": 0.5,
+    "total": 0.5
+   }
+  },
+  "MP-013": {
+   "ours": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 1.75,
+    "total": 5.25
+   },
+   "contamination": "high",
+   "master": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 1.5,
+    "total": 5.0
+   }
+  },
+  "OC-003": {
+   "master": {
+    "direction": 1.5,
+    "claims": 1.0,
+    "timing": 1.0,
+    "total": 3.5
+   },
+   "contamination": "high",
+   "ours": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 1.0,
+    "total": 4.5
+   }
+  },
+  "OC-014": {
+   "master": {
+    "direction": 1.5,
+    "claims": 1.0,
+    "timing": 2.0,
+    "total": 4.5
+   },
+   "contamination": "low",
+   "ours": {
+    "direction": 0.25,
+    "claims": 0.25,
+    "timing": 0.0,
+    "total": 0.5
+   }
+  },
+  "WP-006": {
+   "ours": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 2.0,
+    "total": 5.5
+   },
+   "contamination": "high",
+   "master": {
+    "direction": 2.0,
+    "claims": 1.0,
+    "timing": 2.0,
+    "total": 5.0
+   }
+  },
+  "MP-012": {
+   "ours": {
+    "direction": 2.0,
+    "claims": 1.0,
+    "timing": 1.0,
+    "total": 4.0
+   },
+   "contamination": "high",
+   "master": {
+    "direction": 2.0,
+    "claims": 1.75,
+    "timing": 1.0,
+    "total": 4.75
+   }
+  },
+  "OC-030": {
+   "master": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 1.5,
+    "total": 5.5
+   },
+   "contamination": "low",
+   "ours": {
+    "direction": 1.0,
+    "claims": 1.0,
+    "timing": 1.0,
+    "total": 3.0
+   }
+  },
+  "OC-006": {
+   "ours": {
+    "direction": 1.5,
+    "claims": 1.25,
+    "timing": 1.5,
+    "total": 4.25
+   },
+   "contamination": "high",
+   "master": {
+    "direction": 0.5,
+    "claims": 0.75,
+    "timing": 0.0,
+    "total": 1.25
+   }
+  },
+  "OC-018": {
+   "master": {
+    "direction": 1.5,
+    "claims": 1.5,
+    "timing": 1.0,
+    "total": 4.0
+   },
+   "contamination": "high",
+   "ours": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 1.25,
+    "total": 4.75
+   }
+  }
+ }
+}
