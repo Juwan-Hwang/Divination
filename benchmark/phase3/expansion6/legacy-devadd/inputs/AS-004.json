@@ -13,35 +13,11 @@
    "note": "Positions as stated in Lilly's prose judgment."
   }
  },
- "master_predictions": [
-  {
-   "master": "William Lilly",
-   "tradition": "horary",
-   "date": "1643年",
-   "statement_excerpt": "The report is false: 'All that we heard was untruth, and the Town neither was, or should be taken by Him or his Forces'; the news were lies, devolving to division among the enemy and no benefit to them.",
-   "source": "William Lilly, Christian Astrology (1647), Book II，Book II, Chap. XXXI 'If a Report or common Rumour were True or False' (1647 pp.204–208)",
-   "direction": "negative",
-   "key_assertions": [
-    "传闻不实：剑桥未被国王攻取、也不会被其攻取",
-    "消息是谎言，只会带来敌方内部分裂、对敌方无益"
-   ]
-  }
- ],
- "outcome": {
-  "description": "Not stated as a postscript in the excerpt, but a matter of historical record: Cambridge was never taken by the King during the Civil War (it remained a Parliamentarian stronghold, headquarters of the Eastern Association). Marked as externally verified, not Lilly-stated.",
-  "verified_by": "外部史实核对（原书节录未另载应验后记）"
- },
  "provenance": {
   "book": "William Lilly, Christian Astrology (1647), Book II",
   "edition": "1647 first edition (Internet Archive scan OCR); wording cross-checked against the 1852 Zadkiel edition where noted",
   "url": "https://archive.org/details/christian-astrology-1647",
   "page": "Book II, Chap. XXXI 'If a Report or common Rumour were True or False' (1647 pp.204–208)"
  },
- "license_status": "public_domain",
- "redistributable": true,
- "language": "en",
- "notes": {
-  "tags": [],
-  "comment": ""
- }
+ "language": "en"
 }

@@ -18,38 +18,11 @@
    "pillars": "辛卯 丁酉 庚午 丙子"
   }
  },
- "master_predictions": [
-  {
-   "master": "徐乐吾",
-   "tradition": "bazi",
-   "date": "民国（注清人沈孝瞻《子平真诠》）",
-   "statement_excerpt": "徐乐吾注引例：「更有喜其冲克者，如逊清乾隆皇帝造：辛卯 丁酉 庚午 丙子。」（置于沈氏论生克先后、刑冲救应之语境：此造之冲克非但不破格，反为所喜）",
-   "source": "《子平真诠评注》徐乐吾注（黄大陆《子平真诠本义》评注转录）https://www.360doc.cn/article/15585030_451624954.html",
-   "direction": "positive",
-   "key_assertions": [
-    "庚午日元生酉月，地支子午卯酉四正全冲",
-    "徐氏以此为例说明冲克可喜、不可一概作破格论",
-    "与 ren-016 任铁樵断同一造：任主四正气贯、两冲制伏；徐主冲克得宜——两家着眼点不同而同许其贵"
-   ]
-  }
- ],
- "outcome": {
-  "description": "史实同 ren-016：乾隆帝在位60年，1799年卒，享寿87岁",
-  "verified_by": "公开史实"
- },
  "provenance": {
   "book": "《子平真诠评注》徐乐吾评注",
   "edition": "",
   "url": "https://www.360doc.cn/article/15585030_451624954.html",
   "page": "论生克先后章节徐注（黄大陆本义评注转录）"
  },
- "license_status": "public_domain_cn_author_died_1949_life_plus_50_expired",
- "redistributable": true,
- "language": "zh-Hant",
- "notes": {
-  "tags": [
-   "cross_system"
-  ],
-  "comment": "cross_system=true（跨大师同造：同一乾隆造另有任铁樵《滴天髓》原批，见 ren-016）"
- }
+ "language": "zh-Hant"
 }
