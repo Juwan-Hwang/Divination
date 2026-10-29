@@ -1,0 +1,54 @@
+{
+  "id": "YB-007",
+  "tradition": "liuyao",
+  "subject": {
+    "name_or_desc": "某家宅长与宅母（家人代占，未具名）",
+    "gender": "未知"
+  },
+  "context": {
+    "question": "家人代占人宅，问阖宅一年人口休咎（人宅六事）",
+    "asked_at": "正月甲子旬壬申日",
+    "setting": "明代民间卖卜占验实录（张世宝自记占例，散文体附断语与应验）",
+    "attachments": {
+      "casting_method": "liuyao",
+      "hexagram": "坤宫：雷天大壮（四世） 之 火天大有",
+      "moving_lines": "上爻兄弟庚戌土动，化父母己巳火",
+      "chart_lines_top_to_bottom": [
+        "兄弟庚戌土（动）",
+        "子孙庚申金",
+        "父母庚午火 世",
+        "兄弟甲辰土",
+        "官鬼甲寅木",
+        "妻财甲子水 应"
+      ]
+    }
+  },
+  "provenance": {
+    "book": "易林补遗",
+    "edition": "华龄出版社《四库存目纳甲汇刊（三）》校正全本（（明）张世宝撰，郑同校；用户经学校图书馆提供之扫描本）",
+    "license_note": "用户经学校图书馆提供，内部研究使用（redistributable=false）",
+    "page": "人宅六事章第四十四，书页85"
+  },
+  "language": "zh-Hant",
+  "license_status": "internal-research-only",
+  "redistributable": false,
+  "outcome_grade": "A",
+  "grade_note": "断验分离成立：断语（含应期断言）在前、原书另载应验在后，结局为冷门局部事实。按：本例双断——宅长康泰（吉）与宅母灾殃（凶）；有独立应验句者为宅母一断（「有此验也」），A级以此为准，direction以此凶断为主轴登记，评分时请注意双向性；宅长「一年康泰」一断原书无独立应验句，仅以本例入录附记",
+  "contamination": "low",
+  "contamination_reason": "明代民间占例，求测者皆未具名，结局为冷门局部事实，无著名人物与事件，无从常识先验得知",
+  "month_day_complete": true,
+  "chart_complete": true,
+  "completeness_basis": "原文记本变卦名（大壮之大有）与占时；动爻由本变卦爻位异同唯一确定为上六爻，逐爻装卦按通行纳甲法则推算复原。五爻子孙庚申金正月（寅月）冲申月破、二爻官鬼甲寅木壬申日冲破，与原文「五爻临月破」「第二爻被日辰冲破」全合（原文以人宅分宫以五爻为宅长、二爻为宅母）",
+  "holdout_eligible": true,
+  "notes": {
+    "tags": [
+      "人宅",
+      "代占",
+      "月破",
+      "日冲",
+      "双断"
+    ],
+    "comment": "原文「申日卜之，不为月破」谓申日与月破之申同支反得日扶，为本书特有断法口径，照录",
+    "cross_ref": ""
+  }
+}

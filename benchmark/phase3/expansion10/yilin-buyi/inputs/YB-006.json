@@ -1,0 +1,54 @@
+{
+  "id": "YB-006",
+  "tradition": "liuyao",
+  "subject": {
+    "name_or_desc": "家主（自占阖宅，未具名）",
+    "gender": "男"
+  },
+  "context": {
+    "question": "家主自占，问阖宅一年人口休咎（人宅六事）",
+    "asked_at": "寅月甲寅旬辛酉日",
+    "setting": "明代民间卖卜占验实录（张世宝自记占例，散文体附断语与应验）",
+    "attachments": {
+      "casting_method": "liuyao",
+      "hexagram": "乾宫：天风姤（一世）",
+      "moving_lines": "六爻安静",
+      "chart_lines_top_to_bottom": [
+        "父母壬戌土",
+        "兄弟壬申金",
+        "官鬼壬午火 应",
+        "兄弟辛酉金",
+        "子孙辛亥水",
+        "父母辛丑土 世"
+      ]
+    }
+  },
+  "provenance": {
+    "book": "易林补遗",
+    "edition": "华龄出版社《四库存目纳甲汇刊（三）》校正全本（（明）张世宝撰，郑同校；用户经学校图书馆提供之扫描本）",
+    "license_note": "用户经学校图书馆提供，内部研究使用（redistributable=false）",
+    "page": "人宅六事章第四十四，书页84-85"
+  },
+  "language": "zh-Hant",
+  "license_status": "internal-research-only",
+  "redistributable": false,
+  "outcome_grade": "A",
+  "grade_note": "断验分离成立：断语分载二月、十月两组应期，原书以「应此卦也」收束确认；事件本身（何人、何时、何事）明确可分离。按：本例断语与应验同段叙述，分离度弱于同批他例，主持如从严可复核",
+  "contamination": "low",
+  "contamination_reason": "明代民间占例，求测者皆未具名，结局为冷门局部事实，无著名人物与事件，无从常识先验得知",
+  "month_day_complete": true,
+  "chart_complete": true,
+  "completeness_basis": "原文记卦名与占时（原书卦名作「垢」，系姤之异写，本书疾病章涣之姤例同作「垢」，校正本通例如此，盘面按天风姤复原）；逐爻装卦按通行纳甲法则推算复原。姤世在初爻父母辛丑土，甲寅旬空子丑，与原文「世在初爻，正临空地」合；五爻兄弟壬申金，寅月冲申，与原文「五爻为父，又逢月破」之月破合（原文以人宅分宫以五爻为父）",
+  "holdout_eligible": true,
+  "notes": {
+    "tags": [
+      "人宅",
+      "一年休咎",
+      "分宫定位",
+      "月破",
+      "旬空"
+    ],
+    "comment": "人宅六事以六爻分宫配家人（初爻小口、五爻父），与通行六亲并行，原文口径照录",
+    "cross_ref": ""
+  }
+}

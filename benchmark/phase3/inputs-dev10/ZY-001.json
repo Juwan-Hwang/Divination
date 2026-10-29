@@ -1,0 +1,35 @@
+{
+ "id": "ZY-001",
+ "system": "yijing",
+ "master": "周史（周太史）",
+ "era": "魯莊公二十二年（前672年）",
+ "subject": {
+  "name_or_desc": "陳敬仲（陳公子完）之前程國祚",
+  "gender": null
+ },
+ "context": {
+  "question": "陳敬仲（陳公子完）之前程國祚",
+  "asked_at": "魯莊公二十二年（前672年）",
+  "setting": "陳厲公生敬仲，其少也，周史有以《周易》見陳侯者，陳侯使筮之（為敬仲占其將來）",
+  "attachments": {
+   "casting_method": "蓍筮（《周易》筮占，左傳所載一爻變例）",
+   "casting": "遇《觀》之《否》（風地觀六四動，變天地否）；所引爻辭為觀六四「觀國之光，利用賓於王」"
+  }
+ },
+ "provenance": {
+  "book": "《左傳》",
+  "edition": "通行本（核對經維基文庫系統外之公開全文與學術轉引，見 SOURCES.md）",
+  "url": "https://zh.wikisource.org/wiki/春秋左氏傳",
+  "page": "莊公二十二年"
+ },
+ "license_status": "public-domain",
+ "redistributable": true,
+ "language": "zh-Hant",
+ "notes": {
+  "tags": [
+   "famous"
+  ],
+  "comment": "本例另見《史記·田敬仲完世家》，可作跨文獻互證（cross_ref: 史記·田敬仲完世家載同一占筮） 本例為史傳名例，模型可能已背誦，評分應降權。",
+  "cross_ref": "《史記·田敬仲完世家》同載此占"
+ }
+}

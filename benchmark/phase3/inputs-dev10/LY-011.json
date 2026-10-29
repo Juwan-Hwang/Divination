@@ -1,0 +1,42 @@
+{
+ "id": "LY-011",
+ "system": "liuyao",
+ "master": "野鶴老人",
+ "era": "清初（書成於清初，李文輝增刪）",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占母路隔千里何時來",
+  "asked_at": "未月丁丑日",
+  "setting": "母親遠在千里之外，問何時能來；求測者自言有妹無弟",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "火天大有之水風井",
+   "moving_lines": "上爻官鬼巳火○（應）、五爻父母未土ㄨ、四爻兄弟酉金○、初爻子孫子水○動",
+   "chart_lines_top_to_bottom": [
+    "官鬼巳火○應　子孫子水⚋",
+    "父母未土ㄨ　　父母戌土⚊",
+    "兄弟酉金○　　兄弟申金⚋",
+    "父母辰土⚊世　兄弟酉金⚊",
+    "妻財寅木⚊　　子孫亥水⚊",
+    "子孫子水○　　父母丑土⚋"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之二·進神退神章第二十九"
+ },
+ "license_status": "public-domain",
+ "redistributable": true,
+ "language": "zh-Hant",
+ "notes": {
+  "tags": [],
+  "comment": "",
+  "cross_ref": null
+ }
+}

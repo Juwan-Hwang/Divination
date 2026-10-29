@@ -1,0 +1,53 @@
+{
+  "id": "YB-011",
+  "tradition": "liuyao",
+  "subject": {
+    "name_or_desc": "病妻（夫为之占，未具名）",
+    "gender": "女"
+  },
+  "context": {
+    "question": "夫占妻病，问何日见凶",
+    "asked_at": "三月甲戌旬庚辰日",
+    "setting": "明代民间卖卜占验实录（张世宝自记占例，散文体附断语与应验）",
+    "attachments": {
+      "casting_method": "liuyao",
+      "hexagram": "坎宫：地水师（归魂） 之 山地剥",
+      "moving_lines": "二爻官鬼戊辰土动，化妻财乙巳火；上爻父母癸酉金动（应爻），化子孙丙寅木",
+      "chart_lines_top_to_bottom": [
+        "父母癸酉金 应（动）",
+        "兄弟癸亥水",
+        "官鬼癸丑土",
+        "妻财戊午火 世",
+        "官鬼戊辰土（动）",
+        "子孙戊寅木"
+      ]
+    }
+  },
+  "provenance": {
+    "book": "易林补遗",
+    "edition": "华龄出版社《四库存目纳甲汇刊（三）》校正全本（（明）张世宝撰，郑同校；用户经学校图书馆提供之扫描本）",
+    "license_note": "用户经学校图书馆提供，内部研究使用（redistributable=false）",
+    "page": "疾病吉凶章第六十九「占何日病凶云」，书页124-125"
+  },
+  "language": "zh-Hant",
+  "license_status": "internal-research-only",
+  "redistributable": false,
+  "outcome_grade": "A",
+  "grade_note": "断验分离成立：断语（含应期断言）在前、原书另载应验在后，结局为冷门局部事实",
+  "contamination": "low",
+  "contamination_reason": "明代民间占例，求测者皆未具名，结局为冷门局部事实，无著名人物与事件，无从常识先验得知",
+  "month_day_complete": true,
+  "chart_complete": true,
+  "completeness_basis": "原文明记动爻（九二、上六爻动），变卦雷地豫由动爻推得；逐爻装卦按通行纳甲法则推算复原。世在三爻妻财戊午火，与原文「青龙财爻持世」合（六神未建模，青龙为原文自叙）；九二官鬼戊辰土动化妻财乙巳火，与原文「鬼又化出财来」全合；上六父母癸酉金动化子孙丙寅木。按：庚辰日在甲戌旬，空申酉，上六父母正值旬空，原文未及，照实登记",
+  "holdout_eligible": true,
+  "notes": {
+    "tags": [
+      "疾病",
+      "夫占妻病",
+      "病凶应期",
+      "鬼化财"
+    ],
+    "comment": "断语引《书》歌诀一句，属断语构成部分，照录",
+    "cross_ref": ""
+  }
+}

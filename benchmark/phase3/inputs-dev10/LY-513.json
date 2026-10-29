@@ -1,0 +1,33 @@
+{
+ "id": "LY-513",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占終身功名",
+  "asked_at": "巳月乙卯日",
+  "setting": "占終身功名（業已援例）",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "火山旅（靜卦）",
+   "moving_lines": "無動爻（靜卦）",
+   "chart_lines_top_to_bottom": [
+    "兄弟巳火⚊",
+    "子孫未土⚋",
+    "妻財酉金⚊應",
+    "妻財申金⚊",
+    "兄弟午火⚋",
+    "子孫辰土⚋世"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文庫本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之三·終身功名有無章第三十八"
+ },
+ "language": "zh-Hant"
+}

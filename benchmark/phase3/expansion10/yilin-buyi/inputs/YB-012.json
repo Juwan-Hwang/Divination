@@ -1,0 +1,53 @@
+{
+  "id": "YB-012",
+  "tradition": "liuyao",
+  "subject": {
+    "name_or_desc": "病女（父为之占，久远之病，未具名）",
+    "gender": "女"
+  },
+  "context": {
+    "question": "父占女久远病，问吉凶",
+    "asked_at": "七月甲寅旬癸亥日",
+    "setting": "明代民间卖卜占验实录（张世宝自记占例，散文体附断语与应验）",
+    "attachments": {
+      "casting_method": "liuyao",
+      "hexagram": "艮宫：艮为山（本宫）",
+      "moving_lines": "六爻安静",
+      "chart_lines_top_to_bottom": [
+        "官鬼丙寅木 世",
+        "妻财丙子水",
+        "兄弟丙戌土",
+        "子孙丙申金 应",
+        "父母丙午火",
+        "兄弟丙辰土"
+      ]
+    }
+  },
+  "provenance": {
+    "book": "易林补遗",
+    "edition": "华龄出版社《四库存目纳甲汇刊（三）》校正全本（（明）张世宝撰，郑同校；用户经学校图书馆提供之扫描本）",
+    "license_note": "用户经学校图书馆提供，内部研究使用（redistributable=false）",
+    "page": "疾病吉凶章第六十九「占何日病凶云」，书页125"
+  },
+  "language": "zh-Hant",
+  "license_status": "internal-research-only",
+  "redistributable": false,
+  "outcome_grade": "A",
+  "grade_note": "断验分离成立：断语（含应期断言）在前、原书另载应验在后，结局为冷门局部事实",
+  "contamination": "low",
+  "contamination_reason": "明代民间占例，求测者皆未具名，结局为冷门局部事实，无著名人物与事件，无从常识先验得知",
+  "month_day_complete": true,
+  "chart_complete": true,
+  "completeness_basis": "原文记卦名（艮卦安静）与占时；逐爻装卦按通行纳甲法则推算复原。用爻子孙丙申金居五爻，七月（申月）临月建，与原文「用爻临月建」全合；艮为山为六冲卦，与原文「卦犯六冲」合",
+  "holdout_eligible": true,
+  "notes": {
+    "tags": [
+      "疾病",
+      "父占女病",
+      "久病",
+      "六冲卦"
+    ],
+    "comment": "新病逢冲则愈、久病逢冲则死为本书明文口径，本例问者特标「久远病」",
+    "cross_ref": ""
+  }
+}

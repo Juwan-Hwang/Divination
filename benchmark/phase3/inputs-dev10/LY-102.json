@@ -1,0 +1,59 @@
+{
+  "uid": "LY-102",
+  "tradition": "liuyao",
+  "subject": {
+    "name_or_desc": "王虎应妻子朋友单位的司机",
+    "basic_info": "男，突然昏倒，医院诊断为脑瘤，预定第二天手术",
+    "gender": "男"
+  },
+  "context": {
+    "question": "测病：是否为脑瘤、病情如何",
+    "asked_at": "戌月丁丑日（年份不详）",
+    "setting": "戌月丁丑日，患者亲属传话向王虎应测病；当时医学诊断（脑瘤）已作出但尚未手术，结论可被次日术前复查证伪或证实",
+    "attachments": {
+      "ben_gua": "山水蒙",
+      "bian_gua": "坤为地",
+      "date_ganzhi": "戌月丁丑日",
+      "source": "王虎应《六爻预测自修宝典》测病例四，Scribd影印本 https://www.scribd.com/document/829859310/",
+      "chart_lines_top_to_bottom": [
+        "父母寅木○　妻财酉金⚋",
+        "官鬼子水⚋　官鬼亥水⚋",
+        "子孙戌土⚋世　子孙丑土⚋",
+        "兄弟午火⚋　父母卯木⚋",
+        "子孙辰土○　兄弟巳火⚋",
+        "父母寅木⚋应　子孙未土⚋"
+      ],
+      "moving_lines": "二爻子孙辰土○动、上爻父母寅木○动",
+      "空亡": "申酉",
+      "hidden_lines": "四爻子孙戌土下伏妻财酉金"
+    }
+  },
+  "provenance": {
+    "book": "《六爻预测自修宝典》"
+  },
+  "notes": {
+    "completion_grade": {
+      "source_locator": "《六爻预测自修宝典》本地无藏；据 inputs8 已载本变卦名（山水蒙之坤为地）与日期（戌月丁丑日）",
+      "fields": {
+        "chart_lines_top_to_bottom": {
+          "grade": "推算复原",
+          "basis": "《六爻预测自修宝典》本地无藏；据 inputs8 已载本变卦名（山水蒙之坤为地）与日期（戌月丁丑日），由标准纳甲（定宫、纳甲、世应、六亲配五行）确定性推得全盘；动爻由本变卦爻象差定。"
+        },
+        "moving_lines": {
+          "grade": "推算复原",
+          "basis": "本变卦爻象差确定性推得。"
+        },
+        "空亡": {
+          "grade": "推算复原",
+          "basis": "由已载日干支「丁丑」按旬空规则推得。"
+        },
+        "hidden_lines": {
+          "grade": "推算复原",
+          "basis": "本卦六亲缺妻财不现；按伏神规则取本宫首卦同位之爻伏于本卦同位爻下，标准规则确定性推得。"
+        }
+      },
+      "completed_by": "phase3 inputs9 C轨数据角补录（2026-10-30，顺手组：与LY-104同法）",
+      "scope_note": "仅补 attachments 盘面事实字段；题面文字与既有字段一字未改。"
+    }
+  }
+}

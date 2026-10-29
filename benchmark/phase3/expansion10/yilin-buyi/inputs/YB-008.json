@@ -1,0 +1,54 @@
+{
+  "id": "YB-008",
+  "tradition": "liuyao",
+  "subject": {
+    "name_or_desc": "家主一门十一口（家主占一年人口六事，未具名）",
+    "gender": "未知"
+  },
+  "context": {
+    "question": "家主来占一年人口六事（问阖家一年休咎）",
+    "asked_at": "癸卯年寅月壬午日",
+    "setting": "明代民间卖卜占验实录（张世宝自记占例，散文体附断语与应验）",
+    "attachments": {
+      "casting_method": "liuyao",
+      "hexagram": "兑宫：泽山咸（三世） 之 雷风恒",
+      "moving_lines": "二爻官鬼丙午火动，化子孙辛亥水；五爻兄弟丁酉金动，化兄弟庚申金",
+      "chart_lines_top_to_bottom": [
+        "父母丁未土 应",
+        "兄弟丁酉金（动）",
+        "子孙丁亥水",
+        "兄弟丙申金 世",
+        "官鬼丙午火（动）",
+        "父母丙辰土"
+      ]
+    }
+  },
+  "provenance": {
+    "book": "易林补遗",
+    "edition": "华龄出版社《四库存目纳甲汇刊（三）》校正全本（（明）张世宝撰，郑同校；用户经学校图书馆提供之扫描本）",
+    "license_note": "用户经学校图书馆提供，内部研究使用（redistributable=false）",
+    "page": "人宅六事章第四十四，书页86-87"
+  },
+  "language": "zh-Hant",
+  "license_status": "internal-research-only",
+  "redistributable": false,
+  "outcome_grade": "A",
+  "grade_note": "断验分离成立：断语（含应期断言）在前、原书另载应验在后，结局为冷门局部事实；死亡人数（十一口丧十）为具体数字事实",
+  "contamination": "low",
+  "contamination_reason": "明代民间占例，求测者皆未具名，结局为冷门局部事实，无著名人物与事件，无从常识先验得知",
+  "month_day_complete": true,
+  "chart_complete": true,
+  "completeness_basis": "原文明记动爻（二爻五爻动），动爻从原文；变卦雷风恒由动爻推得，逐爻装卦按通行纳甲法则推算复原。壬午日在甲戌旬（空申酉），五爻兄弟丁酉金值空、动化兄弟庚申金亦空，与原文「五爻亦值空亡，化出申爻亦空」全合",
+  "holdout_eligible": true,
+  "notes": {
+    "tags": [
+      "人宅",
+      "瘟疫",
+      "一年休咎",
+      "旬空",
+      "化空"
+    ],
+    "comment": "结局惨烈而属无名之家局部事件，污染仍为low（无从先验得知具体丧亡人数）",
+    "cross_ref": ""
+  }
+}

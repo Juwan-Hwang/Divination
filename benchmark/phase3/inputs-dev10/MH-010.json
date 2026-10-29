@@ -1,0 +1,23 @@
+{
+ "id": "MH-010",
+ "subject": {
+  "name_or_desc": "占例所涉人/物（見 context）"
+ },
+ "context": {
+  "question": "枯枝墜地占",
+  "asked_at": "戊子日辰時",
+  "setting": "戊子日辰時，邵雍行至中途，見樹蔚然、無風而枯枝自墜地于兌方，因占之",
+  "attachments": {
+   "casting_method": "梅花易數（先天數/後天端法，詳見 method_detail）",
+   "method_detail": "後天占：槁木為離作上卦，兌方為下卦；兌二離三加辰時五數總十，除六餘四為動爻；引九四爻辭「睽孤，遇元夫」",
+   "hexagram": "火澤睽，四爻動，變山澤損；互見坎、離"
+  }
+ },
+ "provenance": {
+  "book": "《梅花易數》",
+  "edition": "維基文库本",
+  "url": "https://zh.wikisource.org/wiki/梅花易數",
+  "page": "卷一·象數易理篇之二（占例）"
+ },
+ "language": "zh-Hant"
+}

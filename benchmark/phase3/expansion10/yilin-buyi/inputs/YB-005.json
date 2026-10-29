@@ -1,0 +1,53 @@
+{
+  "id": "YB-005",
+  "tradition": "liuyao",
+  "subject": {
+    "name_or_desc": "孕妇（占腹中胎儿性别，未具名）",
+    "gender": "女"
+  },
+  "context": {
+    "question": "问腹中胎儿男女",
+    "asked_at": "四月辛未日",
+    "setting": "明代民间卖卜占验实录（张世宝自记占例，散文体附断语与应验）",
+    "attachments": {
+      "casting_method": "liuyao",
+      "hexagram": "兑宫：雷泽归妹（归魂）",
+      "moving_lines": "六爻安静",
+      "chart_lines_top_to_bottom": [
+        "父母庚戌土 应",
+        "兄弟庚申金",
+        "官鬼庚午火",
+        "父母丁丑土 世",
+        "妻财丁卯木",
+        "官鬼丁巳火"
+      ]
+    }
+  },
+  "provenance": {
+    "book": "易林补遗",
+    "edition": "华龄出版社《四库存目纳甲汇刊（三）》校正全本（（明）张世宝撰，郑同校；用户经学校图书馆提供之扫描本）",
+    "license_note": "用户经学校图书馆提供，内部研究使用（redistributable=false）",
+    "page": "六甲生产章第十七，书页58"
+  },
+  "language": "zh-Hant",
+  "license_status": "internal-research-only",
+  "redistributable": false,
+  "outcome_grade": "A",
+  "grade_note": "断验分离成立：断语（含应期断言）在前、原书另载应验在后，结局为冷门局部事实",
+  "contamination": "low",
+  "contamination_reason": "明代民间占例，求测者皆未具名，结局为冷门局部事实，无著名人物与事件，无从常识先验得知",
+  "month_day_complete": true,
+  "chart_complete": true,
+  "completeness_basis": "原文记卦名（归妹卦，未言动静）与占日；无之卦记载，按静卦以通行纳甲法则推算复原。归妹六爻无子孙，伏神子孙丁亥水伏四爻官鬼庚午火下；辛未日在甲子旬，空戌亥，与原文「伏出兑家亥水更值旬空」全合",
+  "holdout_eligible": true,
+  "notes": {
+    "tags": [
+      "生产",
+      "占男女",
+      "伏神",
+      "互卦取用"
+    ],
+    "comment": "与YB-014同卦（归妹安静）而占时、所问、结局皆异，非重复例",
+    "cross_ref": ""
+  }
+}

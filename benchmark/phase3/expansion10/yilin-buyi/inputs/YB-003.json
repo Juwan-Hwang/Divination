@@ -1,0 +1,52 @@
+{
+  "id": "YB-003",
+  "tradition": "liuyao",
+  "subject": {
+    "name_or_desc": "问何年得子者（未具名）",
+    "gender": "男"
+  },
+  "context": {
+    "question": "问何年得子",
+    "asked_at": "甲申年二月子日",
+    "setting": "明代民间卖卜占验实录（张世宝自记占例，散文体附断语与应验）",
+    "attachments": {
+      "casting_method": "liuyao",
+      "hexagram": "坎宫：地水师（归魂）",
+      "moving_lines": "六爻安静",
+      "chart_lines_top_to_bottom": [
+        "父母癸酉金 应",
+        "兄弟癸亥水",
+        "官鬼癸丑土",
+        "妻财戊午火 世",
+        "官鬼戊辰土",
+        "子孙戊寅木"
+      ]
+    }
+  },
+  "provenance": {
+    "book": "易林补遗",
+    "edition": "华龄出版社《四库存目纳甲汇刊（三）》校正全本（（明）张世宝撰，郑同校；用户经学校图书馆提供之扫描本）",
+    "license_note": "用户经学校图书馆提供，内部研究使用（redistributable=false）",
+    "page": "后嗣有无章第十三，书页54"
+  },
+  "language": "zh-Hant",
+  "license_status": "internal-research-only",
+  "redistributable": false,
+  "outcome_grade": "A",
+  "grade_note": "断验分离成立：断语（含应期断言）在前、原书另载应验在后，结局为冷门局部事实；应验跨年（甲申占、乙酉怀胎、丙戌得子），事实明确可分离",
+  "contamination": "low",
+  "contamination_reason": "明代民间占例，求测者皆未具名，结局为冷门局部事实，无著名人物与事件，无从常识先验得知",
+  "month_day_complete": true,
+  "chart_complete": true,
+  "completeness_basis": "原文只记卦名（师卦，未言动静）与占时；无之卦、无动爻记载，按静卦以通行纳甲法则推算复原。师卦子孙戊寅木居初爻，二月木旺，与原文「子居旺地」合",
+  "holdout_eligible": true,
+  "notes": {
+    "tags": [
+      "后嗣",
+      "何年得子",
+      "胎养应期"
+    ],
+    "comment": "同章前后二例（辛丑年鼎卦、己亥年大畜卦）断验难分，定B级未入本表，见BUILD-REPORT",
+    "cross_ref": ""
+  }
+}

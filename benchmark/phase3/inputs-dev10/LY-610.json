@@ -1,0 +1,65 @@
+{
+  "id": "LY-610",
+  "tradition": "六爻",
+  "subject": "官之升遷",
+  "context": {
+    "caster_or_relation": "一人",
+    "question": "占官之升遷",
+    "category": "功名",
+    "asked_at": "寅月丙申日",
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": {
+      "original_name": "艮爲山",
+      "changed_name": "山雷頤",
+      "palace": "艮宮",
+      "kongwang": "辰巳",
+      "chart_lines": [
+        "官鬼寅木⚊世　官鬼寅木⚊",
+        "妻財子水⚋　　妻財子水⚋",
+        "兄弟戌土⚋　　兄弟戌土⚋",
+        "子孫申金○應　兄弟辰土⚋",
+        "父母午火⚋　　官鬼寅木⚋",
+        "兄弟辰土ㄨ　　妻財子水⚊"
+      ],
+      "moving_lines": "初爻兄弟辰土ㄨ動、三爻子孫申金○（應）動",
+      "date_ganzhi": "寅月丙申日"
+    }
+  },
+  "provenance": {
+    "work": "增刪卜易",
+    "edition": "維基文库本（錄入者整理本，未排版/未校對）",
+    "page": "卷之一·月將章第十六",
+    "url": "https://zh.wikisource.org/wiki/增刪卜易",
+    "language": "zh-Hant"
+  },
+  "language": "zh-Hant",
+  "notes": {
+    "completion_grade": {
+      "source_locator": "《增刪卜易》維基文库本（錄入者整理本，未排版/未校對）卷之一·月將章第十六；例首：「如：寅月丙申日占官之升遷得艮卦變山雷頤」",
+      "fields": {
+        "palace": {
+          "grade": "推算复原",
+          "basis": "原書未另標宮名；由本卦「艮爲山」按標準八宮定宮為艮宮（世在上爻、應在三爻，與原書裝卦表世應標記互證一致）。"
+        },
+        "kongwang": {
+          "grade": "推算复原",
+          "basis": "原書未另標空亡；由直載日干支「丙申」按旬空規則推得辰巳。"
+        },
+        "chart_lines": {
+          "grade": "直载",
+          "basis": "既有逐爻表本批回原書（維基文库本同章）裝卦表逐行核對一致，未改動一字；並經標準納甲引擎反驗全合。"
+        },
+        "moving_lines": {
+          "grade": "直载",
+          "basis": "原書裝卦表動爻記號（○/ㄨ）明載；並經本變卦爻象差復核一致。"
+        },
+        "date_ganzhi": {
+          "grade": "直载",
+          "basis": "原書例首明載「寅月丙申」，定位：《增刪卜易》維基文库本（錄入者整理本，未排版/未校對）卷之一·月將章第十六；例首：「如：寅月丙申日占官之升遷得艮卦變山雷頤」。與 inputs8 asked_at 一致，今按 inputs9 體例另立盤面日期鍵。"
+        }
+      },
+      "completed_by": "phase3 inputs10 C轨数据角补录（2026-10-30，LY-6xx组）",
+      "scope_note": "仅补 context.hexagram 盘面事实字段；题面文字与既有字段一字未改（LY-620/621 的 palace/kongwang 原为「原文未記」占位值，属补录本身改值，已逐项注明）。"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "LY-601",
+  "tradition": "六爻",
+  "subject": "父親近病吉凶",
+  "context": {
+    "caster_or_relation": "一人",
+    "question": "占父近病",
+    "category": "疾病",
+    "asked_at": "辰月戊申日",
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": {
+      "original_name": "乾爲天",
+      "changed_name": "風天小畜",
+      "palace": "乾宮",
+      "kongwang": "寅卯",
+      "chart_lines": [
+        "父母戌土⚊世　妻財卯木⚊",
+        "兄弟申金⚊　　官鬼巳火⚊",
+        "官鬼午火○　　父母未土⚋",
+        "父母辰土⚊應　父母辰土⚊",
+        "妻財寅木⚊　　妻財寅木⚊",
+        "子孫子水⚊　　子孫子水⚊"
+      ],
+      "moving_lines": "四爻官鬼午火○動",
+      "date_ganzhi": "辰月戊申日"
+    }
+  },
+  "provenance": {
+    "work": "增刪卜易",
+    "edition": "維基文库本（錄入者整理本，未排版/未校對）",
+    "page": "卷之一·用神元神忌神仇神章第九",
+    "url": "https://zh.wikisource.org/wiki/增刪卜易",
+    "language": "zh-Hant"
+  },
+  "language": "zh-Hant",
+  "notes": {
+    "completion_grade": {
+      "source_locator": "《增刪卜易》維基文库本（錄入者整理本，未排版/未校對）卷之一·用神元神忌神仇神章第九；例首：「例：辰月戊申日占父近病，得乾爲天變風天小畜」",
+      "fields": {
+        "palace": {
+          "grade": "推算复原",
+          "basis": "原書未另標宮名；由本卦「乾爲天」按標準八宮定宮為乾宮（世在上爻、應在三爻，與原書裝卦表世應標記互證一致）。"
+        },
+        "kongwang": {
+          "grade": "推算复原",
+          "basis": "原書未另標空亡；由直載日干支「戊申」按旬空規則推得寅卯。"
+        },
+        "chart_lines": {
+          "grade": "直载",
+          "basis": "既有逐爻表本批回原書（維基文库本同章）裝卦表逐行核對一致，未改動一字；並經標準納甲引擎反驗全合。"
+        },
+        "moving_lines": {
+          "grade": "直载",
+          "basis": "原書裝卦表動爻記號（○/ㄨ）明載；並經本變卦爻象差復核一致。"
+        },
+        "date_ganzhi": {
+          "grade": "直载",
+          "basis": "原書例首明載「辰月戊申」，定位：《增刪卜易》維基文库本（錄入者整理本，未排版/未校對）卷之一·用神元神忌神仇神章第九；例首：「例：辰月戊申日占父近病，得乾爲天變風天小畜」。與 inputs8 asked_at 一致，今按 inputs9 體例另立盤面日期鍵。"
+        }
+      },
+      "completed_by": "phase3 inputs10 C轨数据角补录（2026-10-30，LY-6xx组）",
+      "scope_note": "仅补 context.hexagram 盘面事实字段；题面文字与既有字段一字未改（LY-620/621 的 palace/kongwang 原为「原文未記」占位值，属补录本身改值，已逐项注明）。"
+    }
+  }
+}

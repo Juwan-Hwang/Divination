@@ -1,0 +1,33 @@
+{
+ "id": "LY-504",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占目下功名升否",
+  "asked_at": "卯月戊戌日",
+  "setting": "將軍之侄（四十九歲）占目下功名能否升遷",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "離為火之震為雷",
+   "moving_lines": "上爻兄弟巳火○動、三爻官鬼亥水○動",
+   "chart_lines_top_to_bottom": [
+    "兄弟巳火○世　子孫戌土⚋",
+    "子孫未土⚋　　妻財申金⚋",
+    "妻財酉金⚊　　兄弟午火⚊",
+    "官鬼亥水○應　子孫辰土⚋",
+    "子孫丑土⚋　　父母寅木⚋",
+    "父母卯木⚊　　官鬼子水⚊"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文庫本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之二·兩現章第三十二"
+ },
+ "language": "zh-Hant"
+}

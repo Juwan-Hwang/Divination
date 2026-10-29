@@ -1,0 +1,54 @@
+{
+  "id": "YB-013",
+  "tradition": "liuyao",
+  "subject": {
+    "name_or_desc": "病子（母为之占，未具名）",
+    "gender": "男"
+  },
+  "context": {
+    "question": "母占子病，问吉凶",
+    "asked_at": "九月甲子旬辛未日",
+    "setting": "明代民间卖卜占验实录（张世宝自记占例，散文体附断语与应验）",
+    "attachments": {
+      "casting_method": "liuyao",
+      "hexagram": "兑宫：雷泽归妹（归魂）",
+      "moving_lines": "六爻安静",
+      "chart_lines_top_to_bottom": [
+        "父母庚戌土 应",
+        "兄弟庚申金",
+        "官鬼庚午火",
+        "父母丁丑土 世",
+        "妻财丁卯木",
+        "官鬼丁巳火"
+      ]
+    }
+  },
+  "provenance": {
+    "book": "易林补遗",
+    "edition": "华龄出版社《四库存目纳甲汇刊（三）》校正全本（（明）张世宝撰，郑同校；用户经学校图书馆提供之扫描本）",
+    "license_note": "用户经学校图书馆提供，内部研究使用（redistributable=false）",
+    "page": "疾病吉凶章第六十九「占何日病凶云」，书页125"
+  },
+  "language": "zh-Hant",
+  "license_status": "internal-research-only",
+  "redistributable": false,
+  "outcome_grade": "A",
+  "grade_note": "断验分离成立：断语（含应期断言）在前、原书另载应验在后，结局为冷门局部事实",
+  "contamination": "low",
+  "contamination_reason": "明代民间占例，求测者皆未具名，结局为冷门局部事实，无著名人物与事件，无从常识先验得知",
+  "month_day_complete": true,
+  "chart_complete": true,
+  "completeness_basis": "原文记卦名（归妹卦安静）与占时；逐爻装卦按通行纳甲法则推算复原。归妹六爻无子孙，伏神子孙丁亥水伏四爻官鬼庚午火下；辛未日在甲子旬，空戌亥，与原文「伏出亥水子孙在四爻之下，又落空亡」全合；归妹世在三爻、世爻即父母丁丑土，辛未日未冲丑，与原文「世上父母又被日辰冲动」全合（「世上」谓世位所临之爻）",
+  "holdout_eligible": true,
+  "notes": {
+    "tags": [
+      "疾病",
+      "母占子病",
+      "伏神",
+      "互卦取用",
+      "绝处逢生"
+    ],
+    "comment": "与YB-005同卦同静（归妹安静）而占时、所问、结局皆异；本例为「占何日病凶云」子目中唯一得生之例（编号于去重剔除后重排）",
+    "cross_ref": ""
+  }
+}

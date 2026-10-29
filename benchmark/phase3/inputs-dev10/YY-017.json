@@ -1,0 +1,33 @@
+{
+  "id": "YY-017",
+  "tradition": "liuyao",
+  "subject": {
+    "name_or_desc": "父占子病（父子均未具名）",
+    "gender": null
+  },
+  "context": {
+    "question": "父占子病（生死，疾病占）",
+    "asked_at": "庚寅年戊寅月丁卯日",
+    "setting": "父占子病（生死，疾病占）",
+    "attachments": {
+      "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+      "hexagram": "坤宫：地泽临 之 艮宫：山泽损",
+      "moving_lines": "上爻子孙癸酉金独发动化官鬼丙寅木",
+      "chart_lines_top_to_bottom": [
+        "子孙癸酉金（动）",
+        "妻财癸亥水 应",
+        "兄弟癸丑土",
+        "兄弟丁丑土",
+        "官鬼丁卯木 世",
+        "父母丁巳火"
+      ]
+    }
+  },
+  "provenance": {
+    "book": "《易隐》（清）曹九锡撰",
+    "edition": "华龄出版社2016年《四库存目纳甲汇刊（四）·校正全本易隐》（（清）曹九锡撰，郑同校；ISBN 978-7-5169-0726-9）扫描PDF，用户经学校图书馆提供",
+    "license_note": "内部研究使用",
+    "page": "卷七·疾病占第三十六「附：断例」，书页194（PDF第206页）"
+  },
+  "language": "zh-Hant"
+}
