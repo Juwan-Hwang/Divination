@@ -23,7 +23,7 @@ def main():
     preds = []
     for f in sorted(glob.glob(os.path.join(rd, 'predictions', '*.json'))):
         p = json.load(open(f, encoding='utf-8'))
-        cid = p['id']
+        cid = p.get('id') or p.get('case_id')
         if cid not in roster:
             print('MISSING outcome for', cid); continue
         preds.append((cid, p))
