@@ -1,0 +1,9 @@
+{
+ "case_id": "AS-001",
+ "system": "horary",
+ "direction": "positive",
+ "prediction_text": "其子不在主人（master）家，而在母亲自己家中：儿子征象星居于母亲（问者）的角宫之内，所示落点即母亲自家，母亲可于家中见子/得其实情。",
+ "timing": "日档：窗口为1638年7月内，主坐标为征象星三合成相之时（7月25日14时）前后确认其子在家",
+ "confidence": 0.75,
+ "basis": "本例输入无 tradition 字段，按内容（Lilly《Christian Astrology》卜卦图、上升与征象星问答）归类为 horary 并在此注明。Lilly 卜卦占星：上升25°天秤，Venus 为问者（母亲）征象星；其子以第5宫主 Jupiter 为征象星，Jupiter 恰居 Ascendant（母亲本人的角宫/其家之位），主子身在母亲处而非他处；Moon 在双鱼27°趋向六合 Saturn（第4宫主、母亲住所之星），亦指回母亲居所一路。两路同指自家，故判子在母亲家中、不在主人家。问句为二选一落点问，direction 以『在自家』一向记为 positive 并在断语中写明落点。"
+}

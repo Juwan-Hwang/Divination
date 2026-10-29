@@ -1,0 +1,33 @@
+{
+ "id": "LY-517",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占援例",
+  "asked_at": "丑月乙卯日",
+  "setting": "占援例（捐納）入仕可否",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "雷地豫之天地否",
+   "moving_lines": "上爻妻財戌土ㄨ動、五爻官鬼申金ㄨ動",
+   "chart_lines_top_to_bottom": [
+    "妻財戌土ㄨ　　妻財戌土⚊",
+    "官鬼申金ㄨ　　官鬼申金⚊",
+    "子孫午火⚊應　子孫午火⚊",
+    "兄弟卯木⚋　　兄弟卯木⚋",
+    "子孫巳火⚋　　子孫巳火⚋",
+    "妻財未土⚋世　妻財未土⚋"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文庫本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之三·援例章第五十八"
+ },
+ "language": "zh-Hant"
+}
