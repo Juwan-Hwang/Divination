@@ -1,0 +1,33 @@
+{
+ "id": "LY-230",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占何日補官",
+  "asked_at": "戌月辛酉日",
+  "setting": "問何日補官",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "水山蹇之水天需",
+   "moving_lines": "二爻官鬼午火ㄨ動、初爻父母辰土ㄨ動",
+   "chart_lines_top_to_bottom": [
+    "子孫子水⚋　　子孫子水⚋",
+    "父母戌土⚊　　父母戌土⚊",
+    "兄弟申金⚋世　兄弟申金⚋",
+    "兄弟申金⚊　　父母辰土⚊",
+    "官鬼午火ㄨ　　妻財寅木⚊",
+    "父母辰土ㄨ應　子孫子水⚊"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之三·鄉試章第五十五（升選候補附）"
+ },
+ "language": "zh-Hant"
+}

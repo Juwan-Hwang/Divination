@@ -1,0 +1,33 @@
+{
+ "id": "LY-411",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占官府升否（衙役代占）",
+  "asked_at": "卯月丙寅日",
+  "setting": "衙役占其官府升遷否",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "雷水解之澤水困",
+   "moving_lines": "五爻官鬼申金ㄨ動",
+   "chart_lines_top_to_bottom": [
+    "妻財戌土⚋　　妻財未土⚋",
+    "官鬼申金ㄨ應　官鬼酉金⚊",
+    "子孫午火⚊　　父母亥水⚊",
+    "子孫午火⚋　　子孫午火⚋",
+    "妻財辰土⚊世　妻財辰土⚊",
+    "兄弟寅木⚋　　兄弟寅木⚋"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文庫本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之二·進神退神章第二十九"
+ },
+ "language": "zh-Hant"
+}

@@ -1,0 +1,33 @@
+{
+ "id": "LY-525",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占父病喫牛黃丸可否",
+  "asked_at": "亥日辛酉日（原文如此，月建記載不全）",
+  "setting": "席間見東翁（父輩）中風之症，子占父病可否服家中牛黃丸",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "澤天夬（靜卦）",
+   "moving_lines": "無動爻（靜卦）",
+   "chart_lines_top_to_bottom": [
+    "兄弟未土⚋",
+    "子孫酉金⚊世",
+    "妻財亥水⚊",
+    "兄弟辰土⚊",
+    "官鬼寅木⚊應",
+    "妻財子水⚊"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文庫本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之四·醫卜往治章第一百零四"
+ },
+ "language": "zh-Hant"
+}

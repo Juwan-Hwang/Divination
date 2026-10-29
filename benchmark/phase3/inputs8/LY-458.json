@@ -1,0 +1,33 @@
+{
+ "id": "LY-458",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占母在外何時來",
+  "asked_at": "酉月戊申日",
+  "setting": "占母在外何時來（原文辨明：此問來否、非問平安）",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "火山旅之艮為山",
+   "moving_lines": "四爻妻財酉金○動",
+   "chart_lines_top_to_bottom": [
+    "兄弟巳火⚊　　父母寅木⚊",
+    "子孫未土⚋　　官鬼子水⚋",
+    "妻財酉金○應　子孫戌土⚋",
+    "妻財申金⚊　　妻財申金⚊",
+    "兄弟午火⚋　　兄弟午火⚋",
+    "子孫辰土⚋世　子孫辰土⚋"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文庫本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之四·行人章第九十四"
+ },
+ "language": "zh-Hant"
+}
