@@ -1,0 +1,722 @@
+{
+ "DA-001": {
+  "group": "round18_test",
+  "case_id": "BZ-035"
+ },
+ "DA-002": {
+  "group": "round17_dev",
+  "case_id": "BZ-303"
+ },
+ "DA-003": {
+  "group": "round1_dev",
+  "case_id": "BZ-301"
+ },
+ "DA-004": {
+  "group": "round17_dev",
+  "case_id": "BZ-027"
+ },
+ "DA-005": {
+  "group": "round1_dev",
+  "case_id": "BZ-033"
+ },
+ "DA-006": {
+  "group": "round18_test",
+  "case_id": "ZY-003"
+ },
+ "DA-007": {
+  "group": "round17_dev",
+  "case_id": "BZ-023"
+ },
+ "DA-008": {
+  "group": "round1_dev",
+  "case_id": "LY-016"
+ },
+ "DA-009": {
+  "group": "round1_dev",
+  "case_id": "LY-035"
+ },
+ "DA-010": {
+  "group": "round1_dev",
+  "case_id": "BZ-023"
+ },
+ "DA-011": {
+  "group": "round1_dev",
+  "case_id": "BZ-028"
+ },
+ "DA-012": {
+  "group": "round1_dev",
+  "case_id": "BZ-029"
+ },
+ "DA-013": {
+  "group": "round1_dev",
+  "case_id": "BZ-302"
+ },
+ "DA-014": {
+  "group": "round1_dev",
+  "case_id": "AS-306"
+ },
+ "DA-015": {
+  "group": "round1_dev",
+  "case_id": "BZ-032"
+ },
+ "DA-016": {
+  "group": "round18_test",
+  "case_id": "LY-019"
+ },
+ "DA-017": {
+  "group": "round18_test",
+  "case_id": "LY-014"
+ },
+ "DA-018": {
+  "group": "round17_dev",
+  "case_id": "AS-012"
+ },
+ "DA-019": {
+  "group": "round17_dev",
+  "case_id": "LY-015"
+ },
+ "DA-020": {
+  "group": "round18_test",
+  "case_id": "BZ-020"
+ },
+ "DA-021": {
+  "group": "round18_test",
+  "case_id": "LY-002"
+ },
+ "DA-022": {
+  "group": "round1_dev",
+  "case_id": "BZ-016"
+ },
+ "DA-023": {
+  "group": "round17_dev",
+  "case_id": "BZ-104"
+ },
+ "DA-024": {
+  "group": "round17_dev",
+  "case_id": "LY-024"
+ },
+ "DA-025": {
+  "group": "round1_dev",
+  "case_id": "MH-002"
+ },
+ "DA-026": {
+  "group": "round1_dev",
+  "case_id": "BZ-024"
+ },
+ "DA-027": {
+  "group": "round1_dev",
+  "case_id": "BZ-304"
+ },
+ "DA-028": {
+  "group": "round17_dev",
+  "case_id": "BZ-031"
+ },
+ "DA-029": {
+  "group": "round1_dev",
+  "case_id": "MH-009"
+ },
+ "DA-030": {
+  "group": "round18_test",
+  "case_id": "BZ-041"
+ },
+ "DA-031": {
+  "group": "round18_test",
+  "case_id": "AS-002"
+ },
+ "DA-032": {
+  "group": "round1_dev",
+  "case_id": "LY-026"
+ },
+ "DA-033": {
+  "group": "round17_dev",
+  "case_id": "AS-005"
+ },
+ "DA-034": {
+  "group": "round17_dev",
+  "case_id": "BZ-021"
+ },
+ "DA-035": {
+  "group": "round18_test",
+  "case_id": "AS-014"
+ },
+ "DA-036": {
+  "group": "round17_dev",
+  "case_id": "BZ-019"
+ },
+ "DA-037": {
+  "group": "round1_dev",
+  "case_id": "LY-005"
+ },
+ "DA-038": {
+  "group": "round1_dev",
+  "case_id": "BZ-105"
+ },
+ "DA-039": {
+  "group": "round17_dev",
+  "case_id": "AS-003"
+ },
+ "DA-040": {
+  "group": "round1_dev",
+  "case_id": "LY-102"
+ },
+ "DA-041": {
+  "group": "round1_dev",
+  "case_id": "BZ-034"
+ },
+ "DA-042": {
+  "group": "round17_dev",
+  "case_id": "AS-013"
+ },
+ "DA-043": {
+  "group": "round1_dev",
+  "case_id": "LY-01"
+ },
+ "DA-044": {
+  "group": "round17_dev",
+  "case_id": "BZ-302"
+ },
+ "DA-045": {
+  "group": "round1_dev",
+  "case_id": "LY-036"
+ },
+ "DA-046": {
+  "group": "round1_dev",
+  "case_id": "MH-006"
+ },
+ "DA-047": {
+  "group": "round17_dev",
+  "case_id": "AS-301"
+ },
+ "DA-048": {
+  "group": "round18_test",
+  "case_id": "BZ-036"
+ },
+ "DA-049": {
+  "group": "round17_dev",
+  "case_id": "BZ-024"
+ },
+ "DA-050": {
+  "group": "round17_dev",
+  "case_id": "LY-01"
+ },
+ "DA-051": {
+  "group": "round17_dev",
+  "case_id": "LY-030"
+ },
+ "DA-052": {
+  "group": "round1_dev",
+  "case_id": "AS-009"
+ },
+ "DA-053": {
+  "group": "round17_dev",
+  "case_id": "BZ-039"
+ },
+ "DA-054": {
+  "group": "round18_test",
+  "case_id": "LY-103"
+ },
+ "DA-055": {
+  "group": "round17_dev",
+  "case_id": "BZ-034"
+ },
+ "DA-056": {
+  "group": "round18_test",
+  "case_id": "LY-022"
+ },
+ "DA-057": {
+  "group": "round1_dev",
+  "case_id": "LY-027"
+ },
+ "DA-058": {
+  "group": "round17_dev",
+  "case_id": "AS-009"
+ },
+ "DA-059": {
+  "group": "round17_dev",
+  "case_id": "MH-008"
+ },
+ "DA-060": {
+  "group": "round1_dev",
+  "case_id": "MH-001"
+ },
+ "DA-061": {
+  "group": "round17_dev",
+  "case_id": "LY-001"
+ },
+ "DA-062": {
+  "group": "round18_test",
+  "case_id": "LY-021"
+ },
+ "DA-063": {
+  "group": "round17_dev",
+  "case_id": "AS-307"
+ },
+ "DA-064": {
+  "group": "round1_dev",
+  "case_id": "LY-004"
+ },
+ "DA-065": {
+  "group": "round18_test",
+  "case_id": "LY-008"
+ },
+ "DA-066": {
+  "group": "round17_dev",
+  "case_id": "BZ-016"
+ },
+ "DA-067": {
+  "group": "round17_dev",
+  "case_id": "BZ-030"
+ },
+ "DA-068": {
+  "group": "round17_dev",
+  "case_id": "AS-015"
+ },
+ "DA-069": {
+  "group": "round17_dev",
+  "case_id": "LY-009"
+ },
+ "DA-070": {
+  "group": "round17_dev",
+  "case_id": "LY-013"
+ },
+ "DA-071": {
+  "group": "round17_dev",
+  "case_id": "AS-008"
+ },
+ "DA-072": {
+  "group": "round17_dev",
+  "case_id": "LY-005"
+ },
+ "DA-073": {
+  "group": "round17_dev",
+  "case_id": "LY-036"
+ },
+ "DA-074": {
+  "group": "round1_dev",
+  "case_id": "LY-001"
+ },
+ "DA-075": {
+  "group": "round1_dev",
+  "case_id": "LY-007"
+ },
+ "DA-076": {
+  "group": "round1_dev",
+  "case_id": "LY-015"
+ },
+ "DA-077": {
+  "group": "round17_dev",
+  "case_id": "LY-023"
+ },
+ "DA-078": {
+  "group": "round17_dev",
+  "case_id": "MH-002"
+ },
+ "DA-079": {
+  "group": "round17_dev",
+  "case_id": "BZ-040"
+ },
+ "DA-080": {
+  "group": "round17_dev",
+  "case_id": "LY-033"
+ },
+ "DA-081": {
+  "group": "round17_dev",
+  "case_id": "LY-102"
+ },
+ "DA-082": {
+  "group": "round1_dev",
+  "case_id": "ZY-004"
+ },
+ "DA-083": {
+  "group": "round17_dev",
+  "case_id": "BZ-026"
+ },
+ "DA-084": {
+  "group": "round18_test",
+  "case_id": "BZ-025"
+ },
+ "DA-085": {
+  "group": "round17_dev",
+  "case_id": "LY-007"
+ },
+ "DA-086": {
+  "group": "round1_dev",
+  "case_id": "AS-008"
+ },
+ "DA-087": {
+  "group": "round1_dev",
+  "case_id": "LY-023"
+ },
+ "DA-088": {
+  "group": "round18_test",
+  "case_id": "AS-010"
+ },
+ "DA-089": {
+  "group": "round17_dev",
+  "case_id": "BZ-038"
+ },
+ "DA-090": {
+  "group": "round1_dev",
+  "case_id": "LY-010"
+ },
+ "DA-091": {
+  "group": "round18_test",
+  "case_id": "BZ-037"
+ },
+ "DA-092": {
+  "group": "round17_dev",
+  "case_id": "AS-004"
+ },
+ "DA-093": {
+  "group": "round1_dev",
+  "case_id": "AS-302"
+ },
+ "DA-094": {
+  "group": "round1_dev",
+  "case_id": "LY-033"
+ },
+ "DA-095": {
+  "group": "round1_dev",
+  "case_id": "LY-028"
+ },
+ "DA-096": {
+  "group": "round1_dev",
+  "case_id": "BZ-019"
+ },
+ "DA-097": {
+  "group": "round1_dev",
+  "case_id": "AS-012"
+ },
+ "DA-098": {
+  "group": "round1_dev",
+  "case_id": "ZY-002"
+ },
+ "DA-099": {
+  "group": "round1_dev",
+  "case_id": "AS-003"
+ },
+ "DA-100": {
+  "group": "round1_dev",
+  "case_id": "BZ-039"
+ },
+ "DA-101": {
+  "group": "round18_test",
+  "case_id": "AS-001"
+ },
+ "DA-102": {
+  "group": "round18_test",
+  "case_id": "LY-034"
+ },
+ "DA-103": {
+  "group": "round17_dev",
+  "case_id": "LY-027"
+ },
+ "DA-104": {
+  "group": "round17_dev",
+  "case_id": "LY-032"
+ },
+ "DA-105": {
+  "group": "round1_dev",
+  "case_id": "ZY-001"
+ },
+ "DA-106": {
+  "group": "round1_dev",
+  "case_id": "BZ-104"
+ },
+ "DA-107": {
+  "group": "round17_dev",
+  "case_id": "LY-004"
+ },
+ "DA-108": {
+  "group": "round1_dev",
+  "case_id": "LY-012"
+ },
+ "DA-109": {
+  "group": "round17_dev",
+  "case_id": "AS-306"
+ },
+ "DA-110": {
+  "group": "round18_test",
+  "case_id": "LY-025"
+ },
+ "DA-111": {
+  "group": "round17_dev",
+  "case_id": "MH-006"
+ },
+ "DA-112": {
+  "group": "round1_dev",
+  "case_id": "MH-008"
+ },
+ "DA-113": {
+  "group": "round1_dev",
+  "case_id": "LY-003"
+ },
+ "DA-114": {
+  "group": "round1_dev",
+  "case_id": "LY-006"
+ },
+ "DA-115": {
+  "group": "round18_test",
+  "case_id": "MH-003"
+ },
+ "DA-116": {
+  "group": "round1_dev",
+  "case_id": "LY-018"
+ },
+ "DA-117": {
+  "group": "round18_test",
+  "case_id": "LY-017"
+ },
+ "DA-118": {
+  "group": "round17_dev",
+  "case_id": "LY-003"
+ },
+ "DA-119": {
+  "group": "round18_test",
+  "case_id": "AS-305"
+ },
+ "DA-120": {
+  "group": "round1_dev",
+  "case_id": "BZ-021"
+ },
+ "DA-121": {
+  "group": "round17_dev",
+  "case_id": "LY-028"
+ },
+ "DA-122": {
+  "group": "round17_dev",
+  "case_id": "BZ-022"
+ },
+ "DA-123": {
+  "group": "round17_dev",
+  "case_id": "LY-006"
+ },
+ "DA-124": {
+  "group": "round1_dev",
+  "case_id": "LY-031"
+ },
+ "DA-125": {
+  "group": "round1_dev",
+  "case_id": "BZ-303"
+ },
+ "DA-126": {
+  "group": "round18_test",
+  "case_id": "AS-304"
+ },
+ "DA-127": {
+  "group": "round1_dev",
+  "case_id": "AS-005"
+ },
+ "DA-128": {
+  "group": "round17_dev",
+  "case_id": "ZY-002"
+ },
+ "DA-129": {
+  "group": "round17_dev",
+  "case_id": "AS-302"
+ },
+ "DA-130": {
+  "group": "round1_dev",
+  "case_id": "BZ-027"
+ },
+ "DA-131": {
+  "group": "round17_dev",
+  "case_id": "AS-007"
+ },
+ "DA-132": {
+  "group": "round1_dev",
+  "case_id": "BZ-040"
+ },
+ "DA-133": {
+  "group": "round18_test",
+  "case_id": "MH-010"
+ },
+ "DA-134": {
+  "group": "round1_dev",
+  "case_id": "BZ-022"
+ },
+ "DA-135": {
+  "group": "round1_dev",
+  "case_id": "AS-301"
+ },
+ "DA-136": {
+  "group": "round1_dev",
+  "case_id": "LY-032"
+ },
+ "DA-137": {
+  "group": "round1_dev",
+  "case_id": "LY-029"
+ },
+ "DA-138": {
+  "group": "round17_dev",
+  "case_id": "BZ-105"
+ },
+ "DA-139": {
+  "group": "round1_dev",
+  "case_id": "AS-004"
+ },
+ "DA-140": {
+  "group": "round17_dev",
+  "case_id": "ZY-004"
+ },
+ "DA-141": {
+  "group": "round1_dev",
+  "case_id": "BZ-026"
+ },
+ "DA-142": {
+  "group": "round17_dev",
+  "case_id": "LY-026"
+ },
+ "DA-143": {
+  "group": "round1_dev",
+  "case_id": "LY-024"
+ },
+ "DA-144": {
+  "group": "round18_test",
+  "case_id": "AS-011"
+ },
+ "DA-145": {
+  "group": "round17_dev",
+  "case_id": "LY-012"
+ },
+ "DA-146": {
+  "group": "round17_dev",
+  "case_id": "BZ-032"
+ },
+ "DA-147": {
+  "group": "round17_dev",
+  "case_id": "BZ-042"
+ },
+ "DA-148": {
+  "group": "round1_dev",
+  "case_id": "BZ-031"
+ },
+ "DA-149": {
+  "group": "round1_dev",
+  "case_id": "BZ-038"
+ },
+ "DA-150": {
+  "group": "round1_dev",
+  "case_id": "LY-013"
+ },
+ "DA-151": {
+  "group": "round17_dev",
+  "case_id": "LY-018"
+ },
+ "DA-152": {
+  "group": "round18_test",
+  "case_id": "LY-105"
+ },
+ "DA-153": {
+  "group": "round1_dev",
+  "case_id": "AS-013"
+ },
+ "DA-154": {
+  "group": "round17_dev",
+  "case_id": "LY-016"
+ },
+ "DA-155": {
+  "group": "round17_dev",
+  "case_id": "MH-009"
+ },
+ "DA-156": {
+  "group": "round18_test",
+  "case_id": "AS-303"
+ },
+ "DA-157": {
+  "group": "round17_dev",
+  "case_id": "BZ-028"
+ },
+ "DA-158": {
+  "group": "round17_dev",
+  "case_id": "LY-035"
+ },
+ "DA-159": {
+  "group": "round17_dev",
+  "case_id": "BZ-033"
+ },
+ "DA-160": {
+  "group": "round1_dev",
+  "case_id": "LY-009"
+ },
+ "DA-161": {
+  "group": "round18_test",
+  "case_id": "LY-011"
+ },
+ "DA-162": {
+  "group": "round17_dev",
+  "case_id": "LY-104"
+ },
+ "DA-163": {
+  "group": "round17_dev",
+  "case_id": "BZ-301"
+ },
+ "DA-164": {
+  "group": "round1_dev",
+  "case_id": "BZ-030"
+ },
+ "DA-165": {
+  "group": "round17_dev",
+  "case_id": "LY-031"
+ },
+ "DA-166": {
+  "group": "round1_dev",
+  "case_id": "LY-104"
+ },
+ "DA-167": {
+  "group": "round17_dev",
+  "case_id": "BZ-304"
+ },
+ "DA-168": {
+  "group": "round17_dev",
+  "case_id": "MH-001"
+ },
+ "DA-169": {
+  "group": "round17_dev",
+  "case_id": "MH-007"
+ },
+ "DA-170": {
+  "group": "round17_dev",
+  "case_id": "BZ-029"
+ },
+ "DA-171": {
+  "group": "round1_dev",
+  "case_id": "AS-007"
+ },
+ "DA-172": {
+  "group": "round1_dev",
+  "case_id": "MH-007"
+ },
+ "DA-173": {
+  "group": "round17_dev",
+  "case_id": "LY-010"
+ },
+ "DA-174": {
+  "group": "round17_dev",
+  "case_id": "ZY-001"
+ },
+ "DA-175": {
+  "group": "round1_dev",
+  "case_id": "AS-307"
+ },
+ "DA-176": {
+  "group": "round18_test",
+  "case_id": "LR-001"
+ },
+ "DA-177": {
+  "group": "round1_dev",
+  "case_id": "LY-030"
+ },
+ "DA-178": {
+  "group": "round17_dev",
+  "case_id": "LY-029"
+ },
+ "DA-179": {
+  "group": "round1_dev",
+  "case_id": "AS-015"
+ },
+ "DA-180": {
+  "group": "round1_dev",
+  "case_id": "BZ-042"
+ }
+}

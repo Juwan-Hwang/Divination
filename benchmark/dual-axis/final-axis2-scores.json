@@ -1,0 +1,1442 @@
+{
+ "DA-001": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.75,
+  "timing_reality": 1.0,
+  "total": 4.75,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-002": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.75,
+  "timing_reality": 1.75,
+  "total": 5.5,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-003": {
+  "direction_reality": 0.0,
+  "assertions_reality": 0.0,
+  "timing_reality": 0.0,
+  "total": 0.0,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-004": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.0,
+  "timing_reality": 1.0,
+  "total": 4.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-005": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 1.75,
+  "total": 5.75,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-006": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-007": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-008": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-009": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.0,
+  "timing_reality": 0.0,
+  "total": 3.0,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-010": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-011": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.75,
+  "timing_reality": 2.0,
+  "total": 5.75,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-012": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.75,
+  "timing_reality": 1.0,
+  "total": 4.75,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-013": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-014": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-015": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-016": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.25,
+  "timing_reality": 0.0,
+  "total": 3.25,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-017": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.0,
+  "timing_reality": 0.0,
+  "total": 3.0,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-018": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-019": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.25,
+  "timing_reality": 1.5,
+  "total": 4.75,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-020": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.75,
+  "timing_reality": 1.0,
+  "total": 4.75,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-021": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-022": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-023": {
+  "direction_reality": 1.0,
+  "assertions_reality": 1.0,
+  "timing_reality": 1.0,
+  "total": 3.0,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-024": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.25,
+  "timing_reality": 1.0,
+  "total": 4.25,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-025": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-026": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.75,
+  "timing_reality": 2.0,
+  "total": 5.75,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-027": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.5,
+  "timing_reality": 1.75,
+  "total": 5.25,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-028": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.75,
+  "timing_reality": 1.0,
+  "total": 4.75,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-029": {
+  "direction_reality": 1.0,
+  "assertions_reality": 1.0,
+  "timing_reality": 2.0,
+  "total": 4.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-030": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-031": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.25,
+  "timing_reality": 1.0,
+  "total": 4.25,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-032": {
+  "direction_reality": 2,
+  "assertions_reality": 1,
+  "timing_reality": 1,
+  "total": 4,
+  "pass": true,
+  "source": "arbiter"
+ },
+ "DA-033": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-034": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.5,
+  "timing_reality": 1.75,
+  "total": 5.25,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-035": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-036": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-037": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-038": {
+  "direction_reality": 1.5,
+  "assertions_reality": 1.75,
+  "timing_reality": 1.75,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-039": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-040": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.5,
+  "timing_reality": 2.0,
+  "total": 5.5,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-041": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-042": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.75,
+  "timing_reality": 1.0,
+  "total": 4.75,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-043": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-044": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-045": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-046": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-047": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.0,
+  "timing_reality": 1.75,
+  "total": 4.75,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-048": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.75,
+  "timing_reality": 1.0,
+  "total": 4.75,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-049": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.75,
+  "timing_reality": 1.75,
+  "total": 5.5,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-050": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-051": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.25,
+  "timing_reality": 1.0,
+  "total": 4.25,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-052": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-053": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.75,
+  "timing_reality": 1.0,
+  "total": 4.75,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-054": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.25,
+  "timing_reality": 1.0,
+  "total": 4.25,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-055": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-056": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-057": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-058": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-059": {
+  "direction_reality": 1.5,
+  "assertions_reality": 1.0,
+  "timing_reality": 0.0,
+  "total": 2.5,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-060": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-061": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.75,
+  "timing_reality": 1.25,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-062": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.0,
+  "timing_reality": 0.0,
+  "total": 3.0,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-063": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.25,
+  "timing_reality": 1.0,
+  "total": 4.25,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-064": {
+  "direction_reality": 1.0,
+  "assertions_reality": 1.0,
+  "timing_reality": 1.0,
+  "total": 3.0,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-065": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.25,
+  "timing_reality": 1.0,
+  "total": 4.25,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-066": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-067": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-068": {
+  "direction_reality": 1.5,
+  "assertions_reality": 1.5,
+  "timing_reality": 2.0,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-069": {
+  "direction_reality": 0.0,
+  "assertions_reality": 0.0,
+  "timing_reality": 0.0,
+  "total": 0.0,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-070": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.25,
+  "timing_reality": 0.0,
+  "total": 3.25,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-071": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 1.25,
+  "total": 5.25,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-072": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-073": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-074": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.75,
+  "timing_reality": 2.0,
+  "total": 5.75,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-075": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-076": {
+  "direction_reality": 0.0,
+  "assertions_reality": 0.0,
+  "timing_reality": 0.0,
+  "total": 0.0,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-077": {
+  "direction_reality": 0.5,
+  "assertions_reality": 1.0,
+  "timing_reality": 1.0,
+  "total": 2.5,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-078": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-079": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.75,
+  "timing_reality": 1.25,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-080": {
+  "direction_reality": 2,
+  "assertions_reality": 2,
+  "timing_reality": 2,
+  "total": 6,
+  "pass": true,
+  "source": "arbiter"
+ },
+ "DA-081": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-082": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.5,
+  "timing_reality": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-083": {
+  "direction_reality": 1.0,
+  "assertions_reality": 1.0,
+  "timing_reality": 1.0,
+  "total": 3.0,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-084": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.75,
+  "timing_reality": 1.0,
+  "total": 4.75,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-085": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-086": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 1.75,
+  "total": 5.75,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-087": {
+  "direction_reality": 0.5,
+  "assertions_reality": 1.0,
+  "timing_reality": 1.0,
+  "total": 2.5,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-088": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 1.25,
+  "total": 5.25,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-089": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-090": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-091": {
+  "direction_reality": 1.5,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 5.5,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-092": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-093": {
+  "direction_reality": 1.75,
+  "assertions_reality": 1.75,
+  "timing_reality": 2.0,
+  "total": 5.5,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-094": {
+  "direction_reality": 2,
+  "assertions_reality": 2,
+  "timing_reality": 2,
+  "total": 6,
+  "pass": true,
+  "source": "arbiter"
+ },
+ "DA-095": {
+  "direction_reality": 1.0,
+  "assertions_reality": 1.0,
+  "timing_reality": 0.0,
+  "total": 2.0,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-096": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-097": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-098": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-099": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-100": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.75,
+  "timing_reality": 2.0,
+  "total": 5.75,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-101": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-102": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-103": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 1.5,
+  "total": 5.5,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-104": {
+  "direction_reality": 0.0,
+  "assertions_reality": 0.0,
+  "timing_reality": 0.0,
+  "total": 0.0,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-105": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.5,
+  "timing_reality": 1.25,
+  "total": 4.75,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-106": {
+  "direction_reality": 1.0,
+  "assertions_reality": 1.0,
+  "timing_reality": 1.0,
+  "total": 3.0,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-107": {
+  "direction_reality": 1.0,
+  "assertions_reality": 1.0,
+  "timing_reality": 1.0,
+  "total": 3.0,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-108": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.25,
+  "timing_reality": 0.0,
+  "total": 3.25,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-109": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-110": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.75,
+  "timing_reality": 2.0,
+  "total": 5.75,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-111": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.0,
+  "timing_reality": 2.0,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-112": {
+  "direction_reality": 1.5,
+  "assertions_reality": 1.0,
+  "timing_reality": 0.0,
+  "total": 2.5,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-113": {
+  "direction_reality": 0.0,
+  "assertions_reality": 0.0,
+  "timing_reality": 0.5,
+  "total": 0.5,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-114": {
+  "direction_reality": 0.0,
+  "assertions_reality": 0.0,
+  "timing_reality": 0.0,
+  "total": 0.0,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-115": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-116": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-117": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.25,
+  "timing_reality": 0.0,
+  "total": 3.25,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-118": {
+  "direction_reality": 0,
+  "assertions_reality": 1,
+  "timing_reality": 2,
+  "total": 3,
+  "pass": false,
+  "source": "arbiter"
+ },
+ "DA-119": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.0,
+  "timing_reality": 1.0,
+  "total": 4.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-120": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.5,
+  "timing_reality": 1.75,
+  "total": 5.25,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-121": {
+  "direction_reality": 0.5,
+  "assertions_reality": 1.0,
+  "timing_reality": 0.0,
+  "total": 1.5,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-122": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-123": {
+  "direction_reality": 0.0,
+  "assertions_reality": 0.0,
+  "timing_reality": 0.0,
+  "total": 0.0,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-124": {
+  "direction_reality": 2,
+  "assertions_reality": 1.5,
+  "timing_reality": 1,
+  "total": 4.5,
+  "pass": true,
+  "source": "arbiter"
+ },
+ "DA-125": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.25,
+  "timing_reality": 1.0,
+  "total": 4.25,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-126": {
+  "direction_reality": 0.0,
+  "assertions_reality": 0.0,
+  "timing_reality": 0.5,
+  "total": 0.5,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-127": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-128": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-129": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.75,
+  "timing_reality": 2.0,
+  "total": 5.75,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-130": {
+  "direction_reality": 1.0,
+  "assertions_reality": 1.0,
+  "timing_reality": 1.0,
+  "total": 3.0,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-131": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-132": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.75,
+  "timing_reality": 1.25,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-133": {
+  "direction_reality": 1,
+  "assertions_reality": 1,
+  "timing_reality": 1,
+  "total": 3,
+  "pass": false,
+  "source": "arbiter"
+ },
+ "DA-134": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-135": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.0,
+  "timing_reality": 1.75,
+  "total": 4.75,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-136": {
+  "direction_reality": 0.0,
+  "assertions_reality": 0.0,
+  "timing_reality": 0.0,
+  "total": 0.0,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-137": {
+  "direction_reality": 2,
+  "assertions_reality": 1.5,
+  "timing_reality": 1,
+  "total": 4.5,
+  "pass": true,
+  "source": "arbiter"
+ },
+ "DA-138": {
+  "direction_reality": 1.0,
+  "assertions_reality": 1.0,
+  "timing_reality": 0.0,
+  "total": 2.0,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-139": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-140": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.5,
+  "timing_reality": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-141": {
+  "direction_reality": 1.0,
+  "assertions_reality": 1.0,
+  "timing_reality": 1.0,
+  "total": 3.0,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-142": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.25,
+  "timing_reality": 1.0,
+  "total": 4.25,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-143": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.25,
+  "timing_reality": 1.0,
+  "total": 4.25,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-144": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 1.25,
+  "total": 5.25,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-145": {
+  "direction_reality": 1.5,
+  "assertions_reality": 1.25,
+  "timing_reality": 0.0,
+  "total": 2.75,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-146": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-147": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.25,
+  "timing_reality": 1.0,
+  "total": 4.25,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-148": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-149": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-150": {
+  "direction_reality": 0.0,
+  "assertions_reality": 0.0,
+  "timing_reality": 0.0,
+  "total": 0.0,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-151": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-152": {
+  "direction_reality": 1.0,
+  "assertions_reality": 1.0,
+  "timing_reality": 1.0,
+  "total": 3.0,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-153": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-154": {
+  "direction_reality": 0.0,
+  "assertions_reality": 0.0,
+  "timing_reality": 0.5,
+  "total": 0.5,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-155": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.25,
+  "timing_reality": 0.0,
+  "total": 3.25,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-156": {
+  "direction_reality": 0.0,
+  "assertions_reality": 0.0,
+  "timing_reality": 0.0,
+  "total": 0.0,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-157": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.75,
+  "timing_reality": 1.0,
+  "total": 4.75,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-158": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.0,
+  "timing_reality": 0.0,
+  "total": 3.0,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-159": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 1.75,
+  "total": 5.75,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-160": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.25,
+  "timing_reality": 0.0,
+  "total": 3.25,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-161": {
+  "direction_reality": 1.0,
+  "assertions_reality": 1.0,
+  "timing_reality": 0.0,
+  "total": 2.0,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-162": {
+  "direction_reality": 0.5,
+  "assertions_reality": 0.0,
+  "timing_reality": 0.0,
+  "total": 0.5,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-163": {
+  "direction_reality": 0.0,
+  "assertions_reality": 0.0,
+  "timing_reality": 0.0,
+  "total": 0.0,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-164": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 1.25,
+  "total": 5.25,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-165": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-166": {
+  "direction_reality": 0.5,
+  "assertions_reality": 0.0,
+  "timing_reality": 0.0,
+  "total": 0.5,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-167": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.5,
+  "timing_reality": 2.0,
+  "total": 5.5,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-168": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 1.75,
+  "total": 5.75,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-169": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.25,
+  "timing_reality": 1.0,
+  "total": 4.25,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-170": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.0,
+  "timing_reality": 0.0,
+  "total": 3.0,
+  "pass": false,
+  "source": "mean(A,B)"
+ },
+ "DA-171": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-172": {
+  "direction_reality": 2,
+  "assertions_reality": 2,
+  "timing_reality": 2,
+  "total": 6,
+  "pass": true,
+  "source": "arbiter"
+ },
+ "DA-173": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-174": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.5,
+  "timing_reality": 1.25,
+  "total": 4.75,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-175": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.25,
+  "timing_reality": 1.0,
+  "total": 4.25,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-176": {
+  "direction_reality": 2.0,
+  "assertions_reality": 2.0,
+  "timing_reality": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-177": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.25,
+  "timing_reality": 1.0,
+  "total": 4.25,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-178": {
+  "direction_reality": 2,
+  "assertions_reality": 1.5,
+  "timing_reality": 0,
+  "total": 3.5,
+  "pass": false,
+  "source": "arbiter"
+ },
+ "DA-179": {
+  "direction_reality": 1.5,
+  "assertions_reality": 1.5,
+  "timing_reality": 2.0,
+  "total": 5.0,
+  "pass": true,
+  "source": "mean(A,B)"
+ },
+ "DA-180": {
+  "direction_reality": 2.0,
+  "assertions_reality": 1.25,
+  "timing_reality": 1.0,
+  "total": 4.25,
+  "pass": true,
+  "source": "mean(A,B)"
+ }
+}
