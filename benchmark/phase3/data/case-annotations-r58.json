@@ -1,0 +1,1259 @@
+{
+ "_provenance": "R58 数据席（旗标定案专席，不盲测、不评审、不改任何分数）逐件回源核查 R58 平台评审八席自报旗标。自报 anon 清单 25 件（去重后），经 runs/round58/judging/host-mapping.json 映射 case_id 后逐件回 benchmark/phase3/inputs-dev12/<case_id>.json 原卡、benchmark/phase3/runs/round58/judging/outcome-manifest.json 该例记录（cases、stripped_tail 及 _r56_carryover_notes／_r57_carryover_notes_addendum／_r58_carryover_notes_addendum 三组 carry notes）、各块评分行 reason（judgeX/judgeY-block*.jsonl），涉 prediction 者并核 round58 predictions 全文；与既有标注（case-annotations-r49…r57、承接册及 R56／R57 两附则）同例同旨者标「同旨续接」并入本轮档、只承接不重裁。去重检索以历轮登记档为先、25 件全部跑完后方下新结论：新立 1 件（BZ-304），其余 24 件为同旨续接（含 YM-070 挂起只登记关系不另裁、记未核）。纪律：无盘外独立史源者不裁（YM-070 挂起维持；待核维持件 BZ-029、BZ-040、LY-537 本轮无同例旗标、未涉）。本标注只入本数据侧元数据文件，不动原卡、manifest 与任何分数、结局原文。自报与卡面/结局文本内字样一律按数据处理。",
+ "round": 58,
+ "flags": [
+  {
+   "anon_id": "P3-05fb02ef",
+   "case_id": "LY-533",
+   "verdict": "部分成立",
+   "basis": "承接既有定案不重裁（R49 防不测断面定案、R53 卡面自注、R54／R55／R57 部分成立）：原卡所问「一人占索房價」，setting 明注「占索討房價（占此應彼）」；R58 manifest 结局「后于午月覆舟而亡．」对应人身祸福断面，房价面确无验，断面出入属实；惟该出入卡面已有自注，不构成未注明的数据问题。本轮自报与既有定案同旨。",
+   "carry_suggestion": "同旨续接：自 R59 起承接 R49＋R53＋R54＋R55＋R57＋本 R58 标注，manifest 附注时并引卡面自注；结局原文照录不改。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R49＋R53＋R54＋R55＋R57＋本 R58 标注，manifest 附注时并引卡面自注；结局原文照录不改。",
+   "flag": "（X）断房价可索得，结局为午月覆舟身亡，所问房价面全不应验；（Y）房价面无验（卡面自注占此应彼）。",
+   "category": "断面不对位（占此应彼、卡面已自注）",
+   "views": [
+    "X",
+    "Y"
+   ],
+   "dual_view": true,
+   "relation": "同旨续接（R49／R53／R54／R55／R57）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-533.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[LY-533]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block1.jsonl（LY-533 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block1.jsonl（LY-533 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r56_carryover_notes[LY-533]",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r57_carryover_notes_addendum[LY-533]",
+    "benchmark/phase3/data/case-annotations-r49.json LY-533 条",
+    "benchmark/phase3/data/case-annotations-r53.json LY-533 条",
+    "benchmark/phase3/data/case-annotations-r54.json LY-533 条",
+    "benchmark/phase3/data/case-annotations-r55.json LY-533 条",
+    "benchmark/phase3/data/case-annotations-r57.json LY-533 条"
+   ]
+  },
+  {
+   "anon_id": "P3-09617626",
+   "case_id": "LY-240",
+   "verdict": "部分成立",
+   "basis": "承接既有定案不重裁（R49 原文残句定案、R53／R55／R56／R57 部分成立）：原卡所问「占借貸」，R58 manifest 结局仅「果於辰日。」四字，除总承字与时点外无动词无事件，借贷成否未分载属实，同时结局并非他事。本轮自报与既有定案同旨（旗标汇编自注 LY-240 同旨即本例）。",
+   "carry_suggestion": "同旨续接：自 R59 起承接 R53＋R55＋R56＋R57＋本 R58 标注：按「总承＋时点式结局、事件未分载」登记；结局原文照录不改、不补字。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R53＋R55＋R56＋R57＋本 R58 标注：按「总承＋时点式结局、事件未分载」登记；结局原文照录不改、不补字。",
+   "flag": "（X）结局仅『果于辰日』总承，借贷事件未分载；（Y）借贷断面只能按总承部分采信。",
+   "category": "断语式结局（总承＋时点式、原文残句）",
+   "views": [
+    "X",
+    "Y"
+   ],
+   "dual_view": true,
+   "relation": "同旨续接（R49／R53／R55／R56／R57）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-240.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[LY-240]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block1.jsonl（LY-240 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block1.jsonl（LY-240 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r57_carryover_notes_addendum[LY-240]",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r58_carryover_notes_addendum[LY-240]",
+    "benchmark/phase3/data/case-annotations-r53.json LY-240 条",
+    "benchmark/phase3/data/case-annotations-r55.json LY-240 条",
+    "benchmark/phase3/data/case-annotations-r56.json LY-240 条",
+    "benchmark/phase3/data/case-annotations-r57.json LY-240 条"
+   ]
+  },
+  {
+   "anon_id": "P3-1060ce6b",
+   "case_id": "AS-015",
+   "verdict": "部分成立",
+   "basis": "承接既有定案不重裁（R49 同图兼断定案、R53／R54／R55／R57 部分成立）：原卡所问海上之夫存亡、何在、何时归，setting 自载 Lilly 同图兼断问者本人命运；R58 manifest 结局仅载问者本人十月八日之死、stripped_tail 补时窗一语——夫存亡与归讯确无记载，所指属实；问者死日面与兼断面明确对应。本轮自报与既有定案同旨。",
+   "carry_suggestion": "同旨续接：自 R59 起承接 R49＋R53＋R54＋R55＋R57＋本 R58 标注（仅承接夫存亡／归讯未载一层）；结局原文照录不改。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R49＋R53＋R54＋R55＋R57＋本 R58 标注（仅承接夫存亡／归讯未载一层）；结局原文照录不改。",
+   "flag": "（X）断夫存活将归，结局仅载问者本人 10 月 8 日死日，夫存亡归讯未载；（Y）主断无从核验。",
+   "category": "结局侧缺位（同图兼断例）",
+   "views": [
+    "X",
+    "Y"
+   ],
+   "dual_view": true,
+   "relation": "同旨续接（R49／R53／R54／R55／R57）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/AS-015.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[AS-015]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block1.jsonl（AS-015 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block1.jsonl（AS-015 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r56_carryover_notes[AS-015]",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r57_carryover_notes_addendum[AS-015]",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json stripped_tail[AS-015]",
+    "benchmark/phase3/data/case-annotations-r49.json AS-015 条",
+    "benchmark/phase3/data/case-annotations-r53.json AS-015 条",
+    "benchmark/phase3/data/case-annotations-r54.json AS-015 条",
+    "benchmark/phase3/data/case-annotations-r55.json AS-015 条",
+    "benchmark/phase3/data/case-annotations-r57.json AS-015 条"
+   ]
+  },
+  {
+   "anon_id": "P3-122bd2de",
+   "case_id": "LY-212",
+   "verdict": "成立",
+   "basis": "承接既有定案不重裁（R49 趋避例定案、R53／R54／R57 成立）：原卡所问「占索債得否（兼問成非否）」，R58 manifest 结局为四船覆没实况与趋避对话全文——索债本身结果确无记载；系大师改断危亡之祸并苦留、结局即所避之祸实况，非错位。本轮自报与既有定案同旨。",
+   "carry_suggestion": "同旨续接：自 R59 起承接 R49＋R53＋R54＋R57＋本 R58 标注（趋避例）；结局原文照录不改。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R49＋R53＋R54＋R57＋本 R58 标注（趋避例）；结局原文照录不改。",
+   "flag": "（X）索债一面结局未载，结局为江难实况与避祸经过。",
+   "category": "趋避例（本问无结局记载）",
+   "views": [
+    "X"
+   ],
+   "dual_view": false,
+   "relation": "同旨续接（R49／R53／R54／R57）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-212.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[LY-212]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block1.jsonl（LY-212 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block1.jsonl（LY-212 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r56_carryover_notes[LY-212]",
+    "benchmark/phase3/data/case-annotations-r49.json LY-212 条",
+    "benchmark/phase3/data/case-annotations-r53.json LY-212 条",
+    "benchmark/phase3/data/case-annotations-r54.json LY-212 条",
+    "benchmark/phase3/data/case-annotations-r57.json LY-212 条"
+   ]
+  },
+  {
+   "anon_id": "P3-27080d2b",
+   "case_id": "LY-426",
+   "verdict": "成立",
+   "basis": "承接既有定案不重裁（R49／R50／R53／R54／R55／R57 成立）：原卡所问「占開店貿易得利否」，R58 manifest 结局仅「果於八月，因子賭博送官，子受杖刑而死。」——营运得利面无独立记载，所指属实；系大师原断后段旁及断面，非建卡配对错误。本轮自报与既有定案同旨。",
+   "carry_suggestion": "同旨续接：自 R59 起承接 R49＋R53＋R54＋R55＋R57＋本 R58 标注，manifest 附注断面类型；结局原文照录不改。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R49＋R53＋R54＋R55＋R57＋本 R58 标注，manifest 附注断面类型；结局原文照录不改。",
+   "flag": "（X）开店得利面结局无载，官非一面仅旁应于子受杖死。",
+   "category": "断面不对位（旁及官非断面）",
+   "views": [
+    "X"
+   ],
+   "dual_view": false,
+   "relation": "同旨续接（R49／R50／R53／R54／R55／R57）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-426.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[LY-426]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block1.jsonl（LY-426 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block1.jsonl（LY-426 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r56_carryover_notes[LY-426]",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r57_carryover_notes_addendum[LY-426]",
+    "benchmark/phase3/data/case-annotations-r50.json LY-426 条",
+    "benchmark/phase3/data/case-annotations-r53.json LY-426 条",
+    "benchmark/phase3/data/case-annotations-r54.json LY-426 条",
+    "benchmark/phase3/data/case-annotations-r55.json LY-426 条",
+    "benchmark/phase3/data/case-annotations-r57.json LY-426 条"
+   ]
+  },
+  {
+   "anon_id": "P3-2bc09473",
+   "case_id": "YM-030",
+   "verdict": "部分成立",
+   "basis": "承接既有定案不重裁（R56 部分成立，R56 新立）：原卡所问占孕胎安否，R58 manifest 结局仅「败血三日后复完胎。」——胎面终局有载，但「复完胎」可读作胎复完好或完胎落定、语义确未明，含混一层属实；其承接注记已载于 R58 manifest _r58_carryover_notes_addendum。本轮自报与既有定案同旨。",
+   "carry_suggestion": "同旨续接：自 R59 起承接 R56＋本 R58 标注：按「『复完胎』语义未明、胎终局判定存疑」登记；结局原文照录不改、不改读法。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R56＋本 R58 标注：按「『复完胎』语义未明、胎终局判定存疑」登记；结局原文照录不改、不改读法。",
+   "flag": "（X）『复完胎』语义未明、胎终局存疑；（Y）胎安终局无法确核（登记存疑）。",
+   "category": "语义含混",
+   "views": [
+    "X",
+    "Y"
+   ],
+   "dual_view": true,
+   "relation": "同旨续接（R56）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/YM-030.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[YM-030]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block1.jsonl（YM-030 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block1.jsonl（YM-030 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r58_carryover_notes_addendum[YM-030]",
+    "benchmark/phase3/data/case-annotations-r56.json YM-030 条"
+   ]
+  },
+  {
+   "anon_id": "P3-1f1093e2",
+   "case_id": "OC-026",
+   "verdict": "不成立",
+   "basis": "承接既有定案不重裁（R54 不成立，承接册 manifest-carryover-r55.md §33 不承接存档）：原卡所问「今年功名如何？」为广义功名、非限定科名；R58 manifest 结局「果于是年六月奉诏进京，授京营提督，甲申年又升京营戎政」，stripped_tail 注应验段独立载于原文断语之后——当年授官、次年升职即功名进益之直接记载，与问面对应。本轮 R58 prediction 断科名得中、榜上有名，与武职授官路径不合属评分面（prediction 自设科名路径），不构成题目—结局主线不对位。故旗标不成立，与既有定案同旨。",
+   "carry_suggestion": "不入附则：承 R54 标注口径即可（不建议 manifest 就此加注）；结局原文照录不改。",
+   "manifest_carry_suggestion": "不入附则：承 R54 标注口径即可（不建议 manifest 就此加注）；结局原文照录不改。",
+   "flag": "（X）显达进京一面弱合，然断科名得中与授武职提督不合、路径不合。",
+   "category": "主线直接对位（授官即广义功名进益）",
+   "views": [
+    "X"
+   ],
+   "dual_view": false,
+   "relation": "同旨续接（R54／承接册§33）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/OC-026.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[OC-026]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block1.jsonl（OC-026 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block1.jsonl（OC-026 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json stripped_tail[OC-026]",
+    "benchmark/phase3/data/case-annotations-r54.json OC-026 条",
+    "benchmark/phase3/data/manifest-carryover-r55.md 对应不承接存档条目",
+    "benchmark/phase3/runs/round58/predictions/OC-026.json（prediction_text 与 basis 全文）"
+   ]
+  },
+  {
+   "anon_id": "P3-3b5329f8",
+   "case_id": "OC-029",
+   "verdict": "部分成立",
+   "basis": "承接既有定案不重裁（R49 一式多占定案、R54／R57 部分成立）：原卡所问「携子求官访道，请占诸事吉凶」本为诸事复合；R58 manifest 结局载客至、被盗、清兵入山东、迁居、母终（89 岁）诸面，stripped_tail 注各应验点均独立载于原文——唯求官一面结局无任何记载，此层属实。本轮自报与既有定案同旨。",
+   "carry_suggestion": "同旨续接：自 R59 起承接 R49＋R54＋R57＋本 R58 标注：附注「求官面未载、余诸事面有载」；结局原文照录不改。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R49＋R54＋R57＋本 R58 标注：附注「求官面未载、余诸事面有载」；结局原文照录不改。",
+   "flag": "（X）求官面结局未载，母寿一面仅旁载，结局另载盗、兵、母寿诸事。",
+   "category": "断面缺位（诸事复合、求官面未载）",
+   "views": [
+    "X"
+   ],
+   "dual_view": false,
+   "relation": "同旨续接（R49／R54／R57）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/OC-029.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[OC-029]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block1.jsonl（OC-029 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block1.jsonl（OC-029 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r56_carryover_notes[OC-029]",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json stripped_tail[OC-029]",
+    "benchmark/phase3/data/case-annotations-r49.json OC-029 条",
+    "benchmark/phase3/data/case-annotations-r54.json OC-029 条",
+    "benchmark/phase3/data/case-annotations-r57.json OC-029 条"
+   ]
+  },
+  {
+   "anon_id": "P3-0e0e21ac",
+   "case_id": "YM-070",
+   "verdict": "未核",
+   "basis": "挂起维持、只登记关系不另裁（承任务纪律与 R51 转录存疑／承接册卷末①「甲寅旬」待核）：本轮旗标与 R51／R55／R56／R57 既有登记同例同旨——原卡所问占仆与友同行否，R58 manifest 结局「后果同行都下。」中「都下」语义未明一层历轮已登记。本轮无盘外独立史源可裁，不另下新定案， disposition 记未核（挂起），关系照录；原卡 asked_at「甲寅旬」出处待核为另一并存挂起项，不预断。",
+   "carry_suggestion": "挂起维持：自 R59 起承接 R51＋R55＋R56＋R57＋本 R58 登记：按「结局措辞待核（『都下』语义未明）」登记，与承接册卷末①「甲寅旬」待核并列；结局原文照录不改、不补字；无盘外独立史源前不另裁。",
+   "manifest_carry_suggestion": "挂起维持：自 R59 起承接 R51＋R55＋R56＋R57＋本 R58 登记：按「结局措辞待核（『都下』语义未明）」登记，与承接册卷末①「甲寅旬」待核并列；结局原文照录不改、不补字；无盘外独立史源前不另裁。",
+   "flag": "（Y）结局『同行都下』语义未明，同行断难确核。",
+   "category": "语义含混（挂起维持、只登记关系）",
+   "views": [
+    "Y"
+   ],
+   "dual_view": false,
+   "relation": "同旨续接（R51／R55／R56／R57）＋挂起维持（只登记关系、不另裁）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/YM-070.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[YM-070]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block1.jsonl（YM-070 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block1.jsonl（YM-070 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r57_carryover_notes_addendum[YM-070]",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r58_carryover_notes_addendum[YM-070]",
+    "benchmark/phase3/data/case-annotations-r51.json YM-070 条",
+    "benchmark/phase3/data/case-annotations-r55.json YM-070 条",
+    "benchmark/phase3/data/case-annotations-r56.json YM-070 条",
+    "benchmark/phase3/data/case-annotations-r57.json YM-070 条"
+   ]
+  },
+  {
+   "anon_id": "P3-25b3975e",
+   "case_id": "LR2-024",
+   "verdict": "部分成立",
+   "basis": "承接既有定案不重裁（R55／R57 部分成立）：原卡所问「卢承山之病吉凶若何？」，R58 manifest cases 本体「已而果然。七月死期为本课结局。」——「为本课结局」为编述式措辞、表面与果然并见易读作自相矛盾，含混一层属实；但 stripped_tail 明注原文以「已而果然」承「七月必死」之断、所指唯一，病亡主线在尾注层有明确对应，非文本残损、非配对错误；本轮 prediction 断病可愈与结局方向相反属评分面。本轮自报与既有定案同旨。",
+   "carry_suggestion": "同旨续接：自 R59 起承接 R55＋R57＋本 R58 标注并并读 stripped_tail；结局原文照录不改。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R55＋R57＋本 R58 标注并并读 stripped_tail；结局原文照录不改。",
+   "flag": "（Y）结局『已而果然』与『七月死期为本课结局』并载，与预测病可愈方向疑似不一致。",
+   "category": "语义含混（编述式结局）",
+   "views": [
+    "Y"
+   ],
+   "dual_view": false,
+   "relation": "同旨续接（R55／R57）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LR2-024.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[LR2-024]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block1.jsonl（LR2-024 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block1.jsonl（LR2-024 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r57_carryover_notes_addendum[LR2-024]",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json stripped_tail[LR2-024]",
+    "benchmark/phase3/data/case-annotations-r55.json LR2-024 条",
+    "benchmark/phase3/data/case-annotations-r57.json LR2-024 条"
+   ]
+  },
+  {
+   "anon_id": "P3-1f95aec3",
+   "case_id": "LY-506",
+   "verdict": "部分成立",
+   "basis": "承接既有定案不重裁（R54／R56／R57 部分成立）：原卡为两占——初占母病、再占子病；R58 manifest 结局「果於八月其子驚風，又來卜之。果死於卯日。……」——其子惊风有载，然「果死于卯日」未明字所指为母为子、母病终局未分载，缺口属实；结局并非全然他事。本轮自报与既有定案同旨。",
+   "carry_suggestion": "同旨续接：自 R59 起承接 R54＋R56＋R57＋本 R58 标注：按「两占合载、死亡归属未明字」登记；结局原文照录不改。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R54＋R56＋R57＋本 R58 标注：按「两占合载、死亡归属未明字」登记；结局原文照录不改。",
+   "flag": "（Y）子病危重、死于卯日正中；母病一面结局未分载、死亡归属未明字。",
+   "category": "两占合载（死亡归属未明字）",
+   "views": [
+    "Y"
+   ],
+   "dual_view": false,
+   "relation": "同旨续接（R54／R56／R57）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-506.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[LY-506]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block1.jsonl（LY-506 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block1.jsonl（LY-506 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r56_carryover_notes[LY-506]",
+    "benchmark/phase3/data/case-annotations-r54.json LY-506 条",
+    "benchmark/phase3/data/case-annotations-r56.json LY-506 条",
+    "benchmark/phase3/data/case-annotations-r57.json LY-506 条"
+   ]
+  },
+  {
+   "anon_id": "P3-2f020f96",
+   "case_id": "LY-458",
+   "verdict": "成立",
+   "basis": "承接既有定案不重裁（R49 (乙) 部分不对位定案、R53／R54／R57 成立）：原卡所问「占母在外何時來」，setting 自注原文辨明此问来否、非问平安；R58 manifest 结局仅「後果在外平安。」——恰只载非所问之平安面，来否结果无明文，所指属实；系结局记录答非所问一面，非整例串错。本轮自报与既有定案同旨。",
+   "carry_suggestion": "同旨续接：自 R59 起承接 R49＋R53＋R54＋R57＋本 R58 标注；结局原文照录不改。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R49＋R53＋R54＋R57＋本 R58 标注；结局原文照录不改。",
+   "flag": "（Y）结局仅载在外平安，母亲来否未载，主断无从核验（LY-011 同族）。",
+   "category": "结局问面错置（仅载平安、未载来否）",
+   "views": [
+    "Y"
+   ],
+   "dual_view": false,
+   "relation": "同旨续接（R49／R53／R54／R57）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-458.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[LY-458]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block1.jsonl（LY-458 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block1.jsonl（LY-458 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r56_carryover_notes[LY-458]",
+    "benchmark/phase3/data/case-annotations-r49.json LY-458 条",
+    "benchmark/phase3/data/case-annotations-r53.json LY-458 条",
+    "benchmark/phase3/data/case-annotations-r54.json LY-458 条",
+    "benchmark/phase3/data/case-annotations-r57.json LY-458 条"
+   ]
+  },
+  {
+   "anon_id": "P3-411e93ca",
+   "case_id": "LR3-002",
+   "verdict": "部分成立",
+   "basis": "承接既有定案不重裁（R56 部分成立，承 R49 短承定案）：原卡所问总镇奉命出师吉凶，R58 manifest 结局「仅撤回剿贼；庚辰太岁受克、退位。」——撤回事为出师主线直接记载，但文义简略、「退位」主语未明字属实，stripped_tail 已注撤回与退位两项俱为确指应验；其承接注记已载于 R58 manifest _r58_carryover_notes_addendum。本轮自报与既有定案同旨。",
+   "carry_suggestion": "同旨续接：自 R59 起承接 R56＋本 R58 标注并并读 stripped_tail：按「『退位』主语未明字」登记；结局原文照录不改。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R56＋本 R58 标注并并读 stripped_tail：按「『退位』主语未明字」登记；结局原文照录不改。",
+   "flag": "（Y）结局『退位』主语未明，与预测立功面只能部分对照。",
+   "category": "语义含混（『退位』主语未明字）",
+   "views": [
+    "Y"
+   ],
+   "dual_view": false,
+   "relation": "同旨续接（R49／R56）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LR3-002.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[LR3-002]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block1.jsonl（LR3-002 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block1.jsonl（LR3-002 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r58_carryover_notes_addendum[LR3-002]",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json stripped_tail[LR3-002]",
+    "benchmark/phase3/data/case-annotations-r56.json LR3-002 条"
+   ]
+  },
+  {
+   "anon_id": "P3-5121e692",
+   "case_id": "BQ-001",
+   "verdict": "部分成立",
+   "basis": "承接既有定案不重裁（R49／R51／R53／R54／R55 部分成立，承接册 manifest-carryover-r55.md §16）：原卡所问父寿数（父卧疾三年、昨日气尽复苏）；R58 manifest cases 本体仅求卜者当场自述已事（气尽、举家大哭、父惊寤自言），本体内确无后事结局，此层属实；但同条 stripped_tail 载后断「更三日，当永去」原文以「果如言」结，原始记录后断有总承式应验、只是未进入 cases 本体，R58 manifest _r56／_r57 两组 carry 注记均已登记该承接。本轮自报与既有定案同旨。",
+   "carry_suggestion": "同旨续接：自 R59 起承接 R49＋R51＋R53＋R54＋R55＋本 R58 标注：将 stripped_tail 之「果如言」承接信息以标注形式随案承接（不改 cases 本体、不恢复被剥离文本）；结局原文照录不改。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R49＋R51＋R53＋R54＋R55＋本 R58 标注：将 stripped_tail 之「果如言」承接信息以标注形式随案承接（不改 cases 本体、不恢复被剥离文本）；结局原文照录不改。",
+   "flag": "（X）结局记录仅载其父复苏自述，死亡主断仅由承接标注以『果如言』带入，记录内未直载死亡结局本身。",
+   "category": "结局含已事印证段（本体无后事结局、尾注总承）",
+   "views": [
+    "X"
+   ],
+   "dual_view": false,
+   "relation": "同旨续接（R49／R51／R53／R54／R55）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/BQ-001.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[BQ-001]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block2.jsonl（BQ-001 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block2.jsonl（BQ-001 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r56_carryover_notes[BQ-001]",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r57_carryover_notes_addendum[BQ-001]",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json stripped_tail[BQ-001]",
+    "benchmark/phase3/data/case-annotations-r49.json BQ-001 条",
+    "benchmark/phase3/data/case-annotations-r51.json BQ-001 条",
+    "benchmark/phase3/data/case-annotations-r53.json BQ-001 条",
+    "benchmark/phase3/data/case-annotations-r54.json BQ-001 条",
+    "benchmark/phase3/data/case-annotations-r55.json BQ-001 条"
+   ]
+  },
+  {
+   "anon_id": "P3-7366b076",
+   "case_id": "LY-222",
+   "verdict": "成立",
+   "basis": "承接既有定案不重裁（R49 大师改断面定案、R53／R54／R57 成立）：原卡所问「占子嗣」，setting 自载求测者有子已十八、因乱失散；R58 manifest 结局仅「果於次年六月父子相逢。」——所载为失散子归来、非新生子嗣事件，所指属实；系大师同条改断失子见归，非数据错位。本轮 prediction 断得子与改断面不一致属断面覆盖问题，承既有定案。本轮自报与既有定案同旨。",
+   "carry_suggestion": "同旨续接：自 R59 起承接 R49＋R53＋R54＋R57＋本 R58 标注（大师改断面）；结局原文照录不改。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R49＋R53＋R54＋R57＋本 R58 标注（大师改断面）；结局原文照录不改。",
+   "flag": "（X）结局为次年六月父子相逢，与断语得子仅同属子事一线，得子本体未合；注记称大师改断面。",
+   "category": "断面替换（大师改断面）",
+   "views": [
+    "X"
+   ],
+   "dual_view": false,
+   "relation": "同旨续接（R49／R53／R54／R57）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-222.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[LY-222]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block2.jsonl（LY-222 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block2.jsonl（LY-222 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r56_carryover_notes[LY-222]",
+    "benchmark/phase3/data/case-annotations-r49.json LY-222 条",
+    "benchmark/phase3/data/case-annotations-r53.json LY-222 条",
+    "benchmark/phase3/data/case-annotations-r54.json LY-222 条",
+    "benchmark/phase3/data/case-annotations-r57.json LY-222 条"
+   ]
+  },
+  {
+   "anon_id": "P3-77c4d4c3",
+   "case_id": "LY-437",
+   "verdict": "成立",
+   "basis": "承接既有定案不重裁（R49／R51／R53／R54／R55／R57 成立）：原卡所问「占小廝病」，R58 manifest 结局仅「果於七月，被論革職，」载占者本人功名事件，与小厮病无一字对应；系大师自标迁移（原书明断此卦不应小厮病、应今秋功名有碍），非问答配对错误。本轮自报与既有定案同旨。",
+   "carry_suggestion": "同旨续接：自 R59 起承接 R49＋R51＋R53＋R54＋R55＋R57＋本 R58 标注，manifest 附注迁移类型；结局原文照录不改。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R49＋R51＋R53＋R54＋R55＋R57＋本 R58 标注，manifest 附注迁移类型；结局原文照录不改。",
+   "flag": "（X）断小厮病愈，结局为占者本人七月革职，注记称迁移断面，问答断面不对应。",
+   "category": "断面迁移（大师自标）",
+   "views": [
+    "X"
+   ],
+   "dual_view": false,
+   "relation": "同旨续接（R49／R51／R53／R54／R55／R57）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-437.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[LY-437]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block2.jsonl（LY-437 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block2.jsonl（LY-437 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r56_carryover_notes[LY-437]",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r57_carryover_notes_addendum[LY-437]",
+    "benchmark/phase3/data/case-annotations-r49.json LY-437 条",
+    "benchmark/phase3/data/case-annotations-r51.json LY-437 条",
+    "benchmark/phase3/data/case-annotations-r53.json LY-437 条",
+    "benchmark/phase3/data/case-annotations-r54.json LY-437 条",
+    "benchmark/phase3/data/case-annotations-r55.json LY-437 条",
+    "benchmark/phase3/data/case-annotations-r57.json LY-437 条"
+   ]
+  },
+  {
+   "anon_id": "P3-61a549bb",
+   "case_id": "LY-623",
+   "verdict": "部分成立",
+   "basis": "承接既有定案不重裁（R54／R56／R57 部分成立）：原卡所问「占父外任平安」，R58 manifest 结局载苗独作乱、地方惊险异常、辰年缺归、午年又官——外任地实况与归／再官有侧载，但父本人安危未以明字直载，所指一层属实。本轮自报与既有定案同旨。",
+   "carry_suggestion": "同旨续接：自 R59 起承接 R54＋R56＋R57＋本 R58 标注：按「平安以地方惊险与归／再官侧载、本人安危未明字」登记；结局原文照录不改。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R54＋R56＋R57＋本 R58 标注：按「平安以地方惊险与归／再官侧载、本人安危未明字」登记；结局原文照录不改。",
+   "flag": "（X）结局仅载地方惊险与归／再官，父本人平安与否未明载。",
+   "category": "侧载（本人安危未明字）",
+   "views": [
+    "X"
+   ],
+   "dual_view": false,
+   "relation": "同旨续接（R54／R56／R57）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-623.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[LY-623]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block2.jsonl（LY-623 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block2.jsonl（LY-623 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r56_carryover_notes[LY-623]",
+    "benchmark/phase3/data/case-annotations-r54.json LY-623 条",
+    "benchmark/phase3/data/case-annotations-r56.json LY-623 条",
+    "benchmark/phase3/data/case-annotations-r57.json LY-623 条"
+   ]
+  },
+  {
+   "anon_id": "P3-5e6c316d",
+   "case_id": "LY-620",
+   "verdict": "不成立",
+   "basis": "承接既有定案不重裁（R54 不成立、R57 同旨不成立，承接册 manifest-carryover-r55.md §31 不承接存档）：原卡所问为代卜长辈功名，R58 manifest 结局「果於削職後七月而終。」——削职即功名终局之直接记载，问面主线有明字对应；死亡系削职后同案余事，非断面偏移。本轮 R58 prediction 断功名不成，与削职终局方向亦合；「无注记说明」与 R54『不建议加注、如需提示仅附注削职为功名终局记载』口径一致，不构成缺口。故旗标不成立，与既有定案同旨。",
+   "carry_suggestion": "不入附则：承 R54 标注口径即可；结局原文照录不改。",
+   "manifest_carry_suggestion": "不入附则：承 R54 标注口径即可；结局原文照录不改。",
+   "flag": "（Y）所问长辈功名不成与削职结局略通，然结局记削职后七月而终，称断面偏移且无注记说明。",
+   "category": "结局与功名问对应（削职即功名终局）",
+   "views": [
+    "Y"
+   ],
+   "dual_view": false,
+   "relation": "同旨续接（R54／R57／承接册§31）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-620.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[LY-620]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block2.jsonl（LY-620 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block2.jsonl（LY-620 评分行 reason）",
+    "benchmark/phase3/data/case-annotations-r54.json LY-620 条",
+    "benchmark/phase3/data/case-annotations-r57.json LY-620 条",
+    "benchmark/phase3/data/manifest-carryover-r55.md 对应不承接存档条目",
+    "benchmark/phase3/runs/round58/predictions/LY-620.json（prediction_text 与 basis 全文）"
+   ]
+  },
+  {
+   "anon_id": "P3-784663fe",
+   "case_id": "LY-615",
+   "verdict": "不成立",
+   "basis": "承接既有定案不重裁（R54 不成立，承接册 manifest-carryover-r55.md §36 不承接存档）：原卡 subject 自标「出門與嫁女」、所问「占出門」；R58 manifest 结局「後因病重，此人未去，女死辰日，夫應不去者……」——「未去」二字直载出门终局，主线有明字对应；女死辰日为同案嫁女／子孙一面之复合记载，且结局文本内自带释语（世动逢合主不去、卯木子孙变辰主女死），非外来无关段。本轮 prediction 断可成行与「未去」方向相反属评分面。故旗标不成立，与既有定案同旨。",
+   "carry_suggestion": "不入附则：承 R54 标注口径即可（如需提示，仅附注同案两面结构）；结局原文照录不改。",
+   "manifest_carry_suggestion": "不入附则：承 R54 标注口径即可（如需提示，仅附注同案两面结构）；结局原文照录不改。",
+   "flag": "（Y）断出门可成行，结局因病重此人未去且兼记女死辰日，含他人死亡断面且无注记说明。",
+   "category": "同案复合（出门／嫁女两面）",
+   "views": [
+    "Y"
+   ],
+   "dual_view": false,
+   "relation": "同旨续接（R54／承接册§36）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-615.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[LY-615]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block2.jsonl（LY-615 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block2.jsonl（LY-615 评分行 reason）",
+    "benchmark/phase3/data/case-annotations-r54.json LY-615 条",
+    "benchmark/phase3/data/manifest-carryover-r55.md 对应不承接存档条目",
+    "benchmark/phase3/runs/round58/predictions/LY-615.json（prediction_text 与 basis 全文）"
+   ]
+  },
+  {
+   "anon_id": "P3-98d37532",
+   "case_id": "LY-529",
+   "verdict": "部分成立",
+   "basis": "承接既有定案不重裁（R56 部分成立）：原卡所问占坟地，R58 manifest 结局「一一皆是，葬后未出三年，二子皆发科甲．」——「一一皆是」所指形势细项未分载、指代未明一层属实，但后句二子发科甲为明确实绩记载，非整例含混；其承接注记已载于 R58 manifest _r58_carryover_notes_addendum。本轮自报后半（二子发科甲与本轮 prediction 坟地不宜方向相左）属评分面落差，不构成新的数据旗标。故整体部分成立，与既有定案同旨。",
+   "carry_suggestion": "同旨续接：自 R59 起承接 R56＋本 R58 标注：按「『一一皆是』指代未分载、二子发科甲实绩明载」登记；结局原文照录不改。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R56＋本 R58 标注：按「『一一皆是』指代未分载、二子发科甲实绩明载」登记；结局原文照录不改。",
+   "flag": "（X）断坟地不吉，结局『一一皆是』指代未分载、二子发科甲与不利向相左；（Y）同旨，carry_note 已登记前半。",
+   "category": "语义含混（『一一皆是』指代未分载）",
+   "views": [
+    "X",
+    "Y"
+   ],
+   "dual_view": true,
+   "relation": "同旨续接（R56）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-529.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[LY-529]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block3.jsonl（LY-529 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block3.jsonl（LY-529 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r58_carryover_notes_addendum[LY-529]",
+    "benchmark/phase3/data/case-annotations-r56.json LY-529 条",
+    "benchmark/phase3/runs/round58/predictions/LY-529.json（prediction_text 与 basis 全文）"
+   ]
+  },
+  {
+   "anon_id": "P3-a8fe5a24",
+   "case_id": "LY-023",
+   "verdict": "成立",
+   "basis": "承接既有定案不重裁（R49／R53／R54／R55／R57 成立）：原卡所问「占母病」，R58 manifest 结局仅「果於八月其子驚風（其後復占子病，見 LY-024）」——母病结果确未载；系大师自标迁移（原书明言不现母病、而现子女有灾），非错位。本轮自报与既有定案同旨。",
+   "carry_suggestion": "同旨续接：自 R59 起承接 R49＋R53＋R54＋R55＋R57＋本 R58 标注；结局原文照录不改。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R49＋R53＋R54＋R55＋R57＋本 R58 标注；结局原文照录不改。",
+   "flag": "（X）结局仅载八月其子惊风，母病结果未载；（Y）断面迁移（carry_note 已登记）。",
+   "category": "断面迁移（大师自标）",
+   "views": [
+    "X",
+    "Y"
+   ],
+   "dual_view": true,
+   "relation": "同旨续接（R49／R53／R54／R55／R57）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-023.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[LY-023]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block3.jsonl（LY-023 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block3.jsonl（LY-023 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r56_carryover_notes[LY-023]",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r57_carryover_notes_addendum[LY-023]",
+    "benchmark/phase3/data/case-annotations-r49.json LY-023 条",
+    "benchmark/phase3/data/case-annotations-r53.json LY-023 条",
+    "benchmark/phase3/data/case-annotations-r54.json LY-023 条",
+    "benchmark/phase3/data/case-annotations-r55.json LY-023 条",
+    "benchmark/phase3/data/case-annotations-r57.json LY-023 条"
+   ]
+  },
+  {
+   "anon_id": "P3-b10ec823",
+   "case_id": "LR2-022",
+   "verdict": "部分成立",
+   "basis": "承接既有定案不重裁（R51 部分成立承 R49、R56 部分成立）：原卡为兄为弟观初占病，R58 manifest 结局并载同日复占与扶乩复核、终句「果三日死」零主语，文本表面承接含混属实，但 stripped_tail 明注复占与扶乩均同断、终句为本断应验，非配对错误；其承接注记已载于 R58 manifest _r58_carryover_notes_addendum。本轮自报与既有定案同旨。",
+   "carry_suggestion": "同旨续接：自 R59 起承接 R49＋R51＋R56＋本 R58 标注并并读 stripped_tail 同断说明：按「终句主语文本未明示、按本案病弟断面读」登记；结局原文照录不改。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R49＋R51＋R56＋本 R58 标注并并读 stripped_tail 同断说明：按「终句主语文本未明示、按本案病弟断面读」登记；结局原文照录不改。",
+   "flag": "（X）病凶三日果死合，结局终句主语未明示、按注记病弟断面读；（Y）同旨（carry_note 已登记）。",
+   "category": "语义含混（终句主语文本未明示）",
+   "views": [
+    "X",
+    "Y"
+   ],
+   "dual_view": true,
+   "relation": "同旨续接（R49／R51／R56）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LR2-022.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[LR2-022]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block3.jsonl（LR2-022 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block3.jsonl（LR2-022 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r58_carryover_notes_addendum[LR2-022]",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json stripped_tail[LR2-022]",
+    "benchmark/phase3/data/case-annotations-r51.json LR2-022 条",
+    "benchmark/phase3/data/case-annotations-r56.json LR2-022 条"
+   ]
+  },
+  {
+   "anon_id": "P3-c049a641",
+   "case_id": "LY-011",
+   "verdict": "部分成立",
+   "basis": "特别核查复核（承 R57 特别核查②定案）：原卡所问「占母路隔千里何時來」、setting 自载求测者有妹无弟；R58 manifest 结局「果於次年三月妹至」；R58 manifest _r58_carryover_notes_addendum 本例注记已含 R57 补明文本（双断为原书大师原断、非本轮 prediction 内容）。本轮 runs/round58/predictions/LY-011.json 的 prediction_text 与 basis 全文逐字核毕，仅有母能来、迟来一断（主坐标本月内戌日），确无第二断（兄弟必来）与父母不来之文本——X4 所指属实；惟不合之因在 prediction 只覆盖原书双断之第一断（且方向相反），非注记误载，故为部分成立；对象不对位本身承 R49／R53／R54／R55／R57 定案不重裁。Y4 本轮按注记口径评分未另立旗，与注记补明已随包呈现一致。",
+   "carry_suggestion": "同旨续接并补明：自 R59 起承接 R49＋R53＋R54＋R55＋R57＋本 R58 标注，注记补明「双断为原书大师原断、非本轮 prediction 内容」；结局原文照录不改。",
+   "manifest_carry_suggestion": "同旨续接并补明：自 R59 起承接 R49＋R53＋R54＋R55＋R57＋本 R58 标注，注记补明「双断为原书大师原断、非本轮 prediction 内容」；结局原文照录不改。",
+   "flag": "（X）预测全文断母亲来，结局次年三月妹至，人与期俱不合（注记所称双断不在本轮预测全文内）；（Y 按注记口径评分未另立旗、仅提及）。",
+   "category": "对象不对位（同条双断）／承接注记与本轮 prediction 不合",
+   "views": [
+    "X",
+    "Y"
+   ],
+   "dual_view": true,
+   "relation": "同旨续接（R49／R53／R54／R55／R57）＋特别核查复核",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-011.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[LY-011]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block4.jsonl（LY-011 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block4.jsonl（LY-011 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r56_carryover_notes[LY-011]",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r57_carryover_notes_addendum[LY-011]",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r58_carryover_notes_addendum[LY-011]",
+    "benchmark/phase3/data/case-annotations-r49.json LY-011 条",
+    "benchmark/phase3/data/case-annotations-r53.json LY-011 条",
+    "benchmark/phase3/data/case-annotations-r54.json LY-011 条",
+    "benchmark/phase3/data/case-annotations-r55.json LY-011 条",
+    "benchmark/phase3/data/case-annotations-r57.json LY-011 条",
+    "benchmark/phase3/runs/round58/predictions/LY-011.json（prediction_text 与 basis 全文）"
+   ]
+  },
+  {
+   "anon_id": "P3-dd3b5329",
+   "case_id": "LY-436",
+   "verdict": "成立",
+   "basis": "承接既有定案不重裁（R49 占近应远定案、R53／R54／R57 成立）：原卡所问「占本月月令」，R58 manifest 结局仅「世辰年占卦，在午年子月而死。」——本月面无任何记录，结局为数年后寿终，所指属实；系原书自标「占近应远」迁移，非错位。本轮自报与既有定案同旨。",
+   "carry_suggestion": "同旨续接：自 R59 起承接 R49＋R53＋R54＋R57＋本 R58 标注（占近应远）；结局原文照录不改。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R49＋R53＋R54＋R57＋本 R58 标注（占近应远）；结局原文照录不改。",
+   "flag": "（X）预测为本月天气阴晴，结局为午年子月之死，主题不对应（carry_note 称占近应远迁移登记）；（Y）同旨。",
+   "category": "时程不对位（占近应远、大师自标迁移）",
+   "views": [
+    "X",
+    "Y"
+   ],
+   "dual_view": true,
+   "relation": "同旨续接（R49／R53／R54／R57）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-436.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[LY-436]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block4.jsonl（LY-436 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block4.jsonl（LY-436 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r56_carryover_notes[LY-436]",
+    "benchmark/phase3/data/case-annotations-r49.json LY-436 条",
+    "benchmark/phase3/data/case-annotations-r53.json LY-436 条",
+    "benchmark/phase3/data/case-annotations-r54.json LY-436 条",
+    "benchmark/phase3/data/case-annotations-r57.json LY-436 条"
+   ]
+  },
+  {
+   "anon_id": "P3-f3575c7b",
+   "case_id": "BZ-304",
+   "verdict": "部分成立",
+   "basis": "新旗标（历轮标注 r49–r57 与承接册／各附则均无本 case_id 条目，去重检索已跑完）：逐字核 runs/round58/predictions/BZ-304.json 全文——prediction_text 作「中段夏秋病例回落、管控松动」「远段冬季全球再起一波」，确无「5-6月恢复正常」一语，亦无 5–6 月时点表述，X4 所指不合属实。但 R58 manifest 结局本体所载事实层（新加坡 2020 年 4 月 7 日至 6 月 1 日阻断措施、4–6 月本地最严重、全球下半年进一步恶化）自足成立、两席评分亦据此核对；末句所引「5-6月恢复正常」之原始出处（原卡 provenance 仅载其 YouTube 视频与 Mothership 报道、无逐字稿）在盘内无据可核、亦无据断言其误引。故为部分成立：不合属实、引述出处待载，非结局事实错误。",
+   "carry_suggestion": "下一轮 manifest 承接本标注：按「结局末句引述『5-6月恢复正常』不见于本轮 prediction 全文、其原始出处未载于原卡」登记；结局原文照录不改。",
+   "manifest_carry_suggestion": "下一轮 manifest 承接本标注：按「结局末句引述『5-6月恢复正常』不见于本轮 prediction 全文、其原始出处未载于原卡」登记；结局原文照录不改。",
+   "flag": "（X）结局引述『5-6月恢复正常』一语不见于预测全文（预测作夏秋病例回落）。",
+   "category": "结局引述与本轮 prediction 不合（引述出处盘内未载）",
+   "views": [
+    "X"
+   ],
+   "dual_view": false,
+   "relation": "新旗标（R58 新立）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/BZ-304.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[BZ-304]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block4.jsonl（BZ-304 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block4.jsonl（BZ-304 评分行 reason）",
+    "benchmark/phase3/runs/round58/predictions/BZ-304.json（prediction_text 与 basis 全文）"
+   ]
+  }
+ ],
+ "annotations": [
+  {
+   "anon_id": "P3-05fb02ef",
+   "case_id": "LY-533",
+   "disposition": "部分成立",
+   "finding": "承接既有定案不重裁（R49 防不测断面定案、R53 卡面自注、R54／R55／R57 部分成立）：原卡所问「一人占索房價」，setting 明注「占索討房價（占此應彼）」；R58 manifest 结局「后于午月覆舟而亡．」对应人身祸福断面，房价面确无验，断面出入属实；惟该出入卡面已有自注，不构成未注明的数据问题。本轮自报与既有定案同旨。",
+   "flag": "（X）断房价可索得，结局为午月覆舟身亡，所问房价面全不应验；（Y）房价面无验（卡面自注占此应彼）。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R49＋R53＋R54＋R55＋R57＋本 R58 标注，manifest 附注时并引卡面自注；结局原文照录不改。",
+   "relation": "同旨续接（R49／R53／R54／R55／R57）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-533.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[LY-533]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block1.jsonl（LY-533 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block1.jsonl（LY-533 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r56_carryover_notes[LY-533]",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r57_carryover_notes_addendum[LY-533]",
+    "benchmark/phase3/data/case-annotations-r49.json LY-533 条",
+    "benchmark/phase3/data/case-annotations-r53.json LY-533 条",
+    "benchmark/phase3/data/case-annotations-r54.json LY-533 条",
+    "benchmark/phase3/data/case-annotations-r55.json LY-533 条",
+    "benchmark/phase3/data/case-annotations-r57.json LY-533 条"
+   ]
+  },
+  {
+   "anon_id": "P3-09617626",
+   "case_id": "LY-240",
+   "disposition": "部分成立",
+   "finding": "承接既有定案不重裁（R49 原文残句定案、R53／R55／R56／R57 部分成立）：原卡所问「占借貸」，R58 manifest 结局仅「果於辰日。」四字，除总承字与时点外无动词无事件，借贷成否未分载属实，同时结局并非他事。本轮自报与既有定案同旨（旗标汇编自注 LY-240 同旨即本例）。",
+   "flag": "（X）结局仅『果于辰日』总承，借贷事件未分载；（Y）借贷断面只能按总承部分采信。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R53＋R55＋R56＋R57＋本 R58 标注：按「总承＋时点式结局、事件未分载」登记；结局原文照录不改、不补字。",
+   "relation": "同旨续接（R49／R53／R55／R56／R57）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-240.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[LY-240]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block1.jsonl（LY-240 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block1.jsonl（LY-240 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r57_carryover_notes_addendum[LY-240]",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r58_carryover_notes_addendum[LY-240]",
+    "benchmark/phase3/data/case-annotations-r53.json LY-240 条",
+    "benchmark/phase3/data/case-annotations-r55.json LY-240 条",
+    "benchmark/phase3/data/case-annotations-r56.json LY-240 条",
+    "benchmark/phase3/data/case-annotations-r57.json LY-240 条"
+   ]
+  },
+  {
+   "anon_id": "P3-1060ce6b",
+   "case_id": "AS-015",
+   "disposition": "部分成立",
+   "finding": "承接既有定案不重裁（R49 同图兼断定案、R53／R54／R55／R57 部分成立）：原卡所问海上之夫存亡、何在、何时归，setting 自载 Lilly 同图兼断问者本人命运；R58 manifest 结局仅载问者本人十月八日之死、stripped_tail 补时窗一语——夫存亡与归讯确无记载，所指属实；问者死日面与兼断面明确对应。本轮自报与既有定案同旨。",
+   "flag": "（X）断夫存活将归，结局仅载问者本人 10 月 8 日死日，夫存亡归讯未载；（Y）主断无从核验。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R49＋R53＋R54＋R55＋R57＋本 R58 标注（仅承接夫存亡／归讯未载一层）；结局原文照录不改。",
+   "relation": "同旨续接（R49／R53／R54／R55／R57）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/AS-015.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[AS-015]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block1.jsonl（AS-015 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block1.jsonl（AS-015 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r56_carryover_notes[AS-015]",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r57_carryover_notes_addendum[AS-015]",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json stripped_tail[AS-015]",
+    "benchmark/phase3/data/case-annotations-r49.json AS-015 条",
+    "benchmark/phase3/data/case-annotations-r53.json AS-015 条",
+    "benchmark/phase3/data/case-annotations-r54.json AS-015 条",
+    "benchmark/phase3/data/case-annotations-r55.json AS-015 条",
+    "benchmark/phase3/data/case-annotations-r57.json AS-015 条"
+   ]
+  },
+  {
+   "anon_id": "P3-122bd2de",
+   "case_id": "LY-212",
+   "disposition": "成立",
+   "finding": "承接既有定案不重裁（R49 趋避例定案、R53／R54／R57 成立）：原卡所问「占索債得否（兼問成非否）」，R58 manifest 结局为四船覆没实况与趋避对话全文——索债本身结果确无记载；系大师改断危亡之祸并苦留、结局即所避之祸实况，非错位。本轮自报与既有定案同旨。",
+   "flag": "（X）索债一面结局未载，结局为江难实况与避祸经过。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R49＋R53＋R54＋R57＋本 R58 标注（趋避例）；结局原文照录不改。",
+   "relation": "同旨续接（R49／R53／R54／R57）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-212.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[LY-212]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block1.jsonl（LY-212 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block1.jsonl（LY-212 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r56_carryover_notes[LY-212]",
+    "benchmark/phase3/data/case-annotations-r49.json LY-212 条",
+    "benchmark/phase3/data/case-annotations-r53.json LY-212 条",
+    "benchmark/phase3/data/case-annotations-r54.json LY-212 条",
+    "benchmark/phase3/data/case-annotations-r57.json LY-212 条"
+   ]
+  },
+  {
+   "anon_id": "P3-27080d2b",
+   "case_id": "LY-426",
+   "disposition": "成立",
+   "finding": "承接既有定案不重裁（R49／R50／R53／R54／R55／R57 成立）：原卡所问「占開店貿易得利否」，R58 manifest 结局仅「果於八月，因子賭博送官，子受杖刑而死。」——营运得利面无独立记载，所指属实；系大师原断后段旁及断面，非建卡配对错误。本轮自报与既有定案同旨。",
+   "flag": "（X）开店得利面结局无载，官非一面仅旁应于子受杖死。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R49＋R53＋R54＋R55＋R57＋本 R58 标注，manifest 附注断面类型；结局原文照录不改。",
+   "relation": "同旨续接（R49／R50／R53／R54／R55／R57）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-426.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[LY-426]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block1.jsonl（LY-426 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block1.jsonl（LY-426 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r56_carryover_notes[LY-426]",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r57_carryover_notes_addendum[LY-426]",
+    "benchmark/phase3/data/case-annotations-r50.json LY-426 条",
+    "benchmark/phase3/data/case-annotations-r53.json LY-426 条",
+    "benchmark/phase3/data/case-annotations-r54.json LY-426 条",
+    "benchmark/phase3/data/case-annotations-r55.json LY-426 条",
+    "benchmark/phase3/data/case-annotations-r57.json LY-426 条"
+   ]
+  },
+  {
+   "anon_id": "P3-2bc09473",
+   "case_id": "YM-030",
+   "disposition": "部分成立",
+   "finding": "承接既有定案不重裁（R56 部分成立，R56 新立）：原卡所问占孕胎安否，R58 manifest 结局仅「败血三日后复完胎。」——胎面终局有载，但「复完胎」可读作胎复完好或完胎落定、语义确未明，含混一层属实；其承接注记已载于 R58 manifest _r58_carryover_notes_addendum。本轮自报与既有定案同旨。",
+   "flag": "（X）『复完胎』语义未明、胎终局存疑；（Y）胎安终局无法确核（登记存疑）。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R56＋本 R58 标注：按「『复完胎』语义未明、胎终局判定存疑」登记；结局原文照录不改、不改读法。",
+   "relation": "同旨续接（R56）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/YM-030.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[YM-030]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block1.jsonl（YM-030 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block1.jsonl（YM-030 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r58_carryover_notes_addendum[YM-030]",
+    "benchmark/phase3/data/case-annotations-r56.json YM-030 条"
+   ]
+  },
+  {
+   "anon_id": "P3-1f1093e2",
+   "case_id": "OC-026",
+   "disposition": "不成立",
+   "finding": "承接既有定案不重裁（R54 不成立，承接册 manifest-carryover-r55.md §33 不承接存档）：原卡所问「今年功名如何？」为广义功名、非限定科名；R58 manifest 结局「果于是年六月奉诏进京，授京营提督，甲申年又升京营戎政」，stripped_tail 注应验段独立载于原文断语之后——当年授官、次年升职即功名进益之直接记载，与问面对应。本轮 R58 prediction 断科名得中、榜上有名，与武职授官路径不合属评分面（prediction 自设科名路径），不构成题目—结局主线不对位。故旗标不成立，与既有定案同旨。",
+   "flag": "（X）显达进京一面弱合，然断科名得中与授武职提督不合、路径不合。",
+   "manifest_carry_suggestion": "不入附则：承 R54 标注口径即可（不建议 manifest 就此加注）；结局原文照录不改。",
+   "relation": "同旨续接（R54／承接册§33）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/OC-026.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[OC-026]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block1.jsonl（OC-026 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block1.jsonl（OC-026 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json stripped_tail[OC-026]",
+    "benchmark/phase3/data/case-annotations-r54.json OC-026 条",
+    "benchmark/phase3/data/manifest-carryover-r55.md 对应不承接存档条目",
+    "benchmark/phase3/runs/round58/predictions/OC-026.json（prediction_text 与 basis 全文）"
+   ]
+  },
+  {
+   "anon_id": "P3-3b5329f8",
+   "case_id": "OC-029",
+   "disposition": "部分成立",
+   "finding": "承接既有定案不重裁（R49 一式多占定案、R54／R57 部分成立）：原卡所问「携子求官访道，请占诸事吉凶」本为诸事复合；R58 manifest 结局载客至、被盗、清兵入山东、迁居、母终（89 岁）诸面，stripped_tail 注各应验点均独立载于原文——唯求官一面结局无任何记载，此层属实。本轮自报与既有定案同旨。",
+   "flag": "（X）求官面结局未载，母寿一面仅旁载，结局另载盗、兵、母寿诸事。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R49＋R54＋R57＋本 R58 标注：附注「求官面未载、余诸事面有载」；结局原文照录不改。",
+   "relation": "同旨续接（R49／R54／R57）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/OC-029.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[OC-029]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block1.jsonl（OC-029 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block1.jsonl（OC-029 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r56_carryover_notes[OC-029]",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json stripped_tail[OC-029]",
+    "benchmark/phase3/data/case-annotations-r49.json OC-029 条",
+    "benchmark/phase3/data/case-annotations-r54.json OC-029 条",
+    "benchmark/phase3/data/case-annotations-r57.json OC-029 条"
+   ]
+  },
+  {
+   "anon_id": "P3-0e0e21ac",
+   "case_id": "YM-070",
+   "disposition": "未核",
+   "finding": "挂起维持、只登记关系不另裁（承任务纪律与 R51 转录存疑／承接册卷末①「甲寅旬」待核）：本轮旗标与 R51／R55／R56／R57 既有登记同例同旨——原卡所问占仆与友同行否，R58 manifest 结局「后果同行都下。」中「都下」语义未明一层历轮已登记。本轮无盘外独立史源可裁，不另下新定案， disposition 记未核（挂起），关系照录；原卡 asked_at「甲寅旬」出处待核为另一并存挂起项，不预断。",
+   "flag": "（Y）结局『同行都下』语义未明，同行断难确核。",
+   "manifest_carry_suggestion": "挂起维持：自 R59 起承接 R51＋R55＋R56＋R57＋本 R58 登记：按「结局措辞待核（『都下』语义未明）」登记，与承接册卷末①「甲寅旬」待核并列；结局原文照录不改、不补字；无盘外独立史源前不另裁。",
+   "relation": "同旨续接（R51／R55／R56／R57）＋挂起维持（只登记关系、不另裁）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/YM-070.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[YM-070]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block1.jsonl（YM-070 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block1.jsonl（YM-070 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r57_carryover_notes_addendum[YM-070]",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r58_carryover_notes_addendum[YM-070]",
+    "benchmark/phase3/data/case-annotations-r51.json YM-070 条",
+    "benchmark/phase3/data/case-annotations-r55.json YM-070 条",
+    "benchmark/phase3/data/case-annotations-r56.json YM-070 条",
+    "benchmark/phase3/data/case-annotations-r57.json YM-070 条"
+   ]
+  },
+  {
+   "anon_id": "P3-25b3975e",
+   "case_id": "LR2-024",
+   "disposition": "部分成立",
+   "finding": "承接既有定案不重裁（R55／R57 部分成立）：原卡所问「卢承山之病吉凶若何？」，R58 manifest cases 本体「已而果然。七月死期为本课结局。」——「为本课结局」为编述式措辞、表面与果然并见易读作自相矛盾，含混一层属实；但 stripped_tail 明注原文以「已而果然」承「七月必死」之断、所指唯一，病亡主线在尾注层有明确对应，非文本残损、非配对错误；本轮 prediction 断病可愈与结局方向相反属评分面。本轮自报与既有定案同旨。",
+   "flag": "（Y）结局『已而果然』与『七月死期为本课结局』并载，与预测病可愈方向疑似不一致。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R55＋R57＋本 R58 标注并并读 stripped_tail；结局原文照录不改。",
+   "relation": "同旨续接（R55／R57）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LR2-024.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[LR2-024]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block1.jsonl（LR2-024 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block1.jsonl（LR2-024 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r57_carryover_notes_addendum[LR2-024]",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json stripped_tail[LR2-024]",
+    "benchmark/phase3/data/case-annotations-r55.json LR2-024 条",
+    "benchmark/phase3/data/case-annotations-r57.json LR2-024 条"
+   ]
+  },
+  {
+   "anon_id": "P3-1f95aec3",
+   "case_id": "LY-506",
+   "disposition": "部分成立",
+   "finding": "承接既有定案不重裁（R54／R56／R57 部分成立）：原卡为两占——初占母病、再占子病；R58 manifest 结局「果於八月其子驚風，又來卜之。果死於卯日。……」——其子惊风有载，然「果死于卯日」未明字所指为母为子、母病终局未分载，缺口属实；结局并非全然他事。本轮自报与既有定案同旨。",
+   "flag": "（Y）子病危重、死于卯日正中；母病一面结局未分载、死亡归属未明字。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R54＋R56＋R57＋本 R58 标注：按「两占合载、死亡归属未明字」登记；结局原文照录不改。",
+   "relation": "同旨续接（R54／R56／R57）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-506.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[LY-506]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block1.jsonl（LY-506 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block1.jsonl（LY-506 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r56_carryover_notes[LY-506]",
+    "benchmark/phase3/data/case-annotations-r54.json LY-506 条",
+    "benchmark/phase3/data/case-annotations-r56.json LY-506 条",
+    "benchmark/phase3/data/case-annotations-r57.json LY-506 条"
+   ]
+  },
+  {
+   "anon_id": "P3-2f020f96",
+   "case_id": "LY-458",
+   "disposition": "成立",
+   "finding": "承接既有定案不重裁（R49 (乙) 部分不对位定案、R53／R54／R57 成立）：原卡所问「占母在外何時來」，setting 自注原文辨明此问来否、非问平安；R58 manifest 结局仅「後果在外平安。」——恰只载非所问之平安面，来否结果无明文，所指属实；系结局记录答非所问一面，非整例串错。本轮自报与既有定案同旨。",
+   "flag": "（Y）结局仅载在外平安，母亲来否未载，主断无从核验（LY-011 同族）。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R49＋R53＋R54＋R57＋本 R58 标注；结局原文照录不改。",
+   "relation": "同旨续接（R49／R53／R54／R57）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-458.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[LY-458]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block1.jsonl（LY-458 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block1.jsonl（LY-458 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r56_carryover_notes[LY-458]",
+    "benchmark/phase3/data/case-annotations-r49.json LY-458 条",
+    "benchmark/phase3/data/case-annotations-r53.json LY-458 条",
+    "benchmark/phase3/data/case-annotations-r54.json LY-458 条",
+    "benchmark/phase3/data/case-annotations-r57.json LY-458 条"
+   ]
+  },
+  {
+   "anon_id": "P3-411e93ca",
+   "case_id": "LR3-002",
+   "disposition": "部分成立",
+   "finding": "承接既有定案不重裁（R56 部分成立，承 R49 短承定案）：原卡所问总镇奉命出师吉凶，R58 manifest 结局「仅撤回剿贼；庚辰太岁受克、退位。」——撤回事为出师主线直接记载，但文义简略、「退位」主语未明字属实，stripped_tail 已注撤回与退位两项俱为确指应验；其承接注记已载于 R58 manifest _r58_carryover_notes_addendum。本轮自报与既有定案同旨。",
+   "flag": "（Y）结局『退位』主语未明，与预测立功面只能部分对照。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R56＋本 R58 标注并并读 stripped_tail：按「『退位』主语未明字」登记；结局原文照录不改。",
+   "relation": "同旨续接（R49／R56）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LR3-002.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[LR3-002]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block1.jsonl（LR3-002 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block1.jsonl（LR3-002 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r58_carryover_notes_addendum[LR3-002]",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json stripped_tail[LR3-002]",
+    "benchmark/phase3/data/case-annotations-r56.json LR3-002 条"
+   ]
+  },
+  {
+   "anon_id": "P3-5121e692",
+   "case_id": "BQ-001",
+   "disposition": "部分成立",
+   "finding": "承接既有定案不重裁（R49／R51／R53／R54／R55 部分成立，承接册 manifest-carryover-r55.md §16）：原卡所问父寿数（父卧疾三年、昨日气尽复苏）；R58 manifest cases 本体仅求卜者当场自述已事（气尽、举家大哭、父惊寤自言），本体内确无后事结局，此层属实；但同条 stripped_tail 载后断「更三日，当永去」原文以「果如言」结，原始记录后断有总承式应验、只是未进入 cases 本体，R58 manifest _r56／_r57 两组 carry 注记均已登记该承接。本轮自报与既有定案同旨。",
+   "flag": "（X）结局记录仅载其父复苏自述，死亡主断仅由承接标注以『果如言』带入，记录内未直载死亡结局本身。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R49＋R51＋R53＋R54＋R55＋本 R58 标注：将 stripped_tail 之「果如言」承接信息以标注形式随案承接（不改 cases 本体、不恢复被剥离文本）；结局原文照录不改。",
+   "relation": "同旨续接（R49／R51／R53／R54／R55）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/BQ-001.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[BQ-001]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block2.jsonl（BQ-001 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block2.jsonl（BQ-001 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r56_carryover_notes[BQ-001]",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r57_carryover_notes_addendum[BQ-001]",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json stripped_tail[BQ-001]",
+    "benchmark/phase3/data/case-annotations-r49.json BQ-001 条",
+    "benchmark/phase3/data/case-annotations-r51.json BQ-001 条",
+    "benchmark/phase3/data/case-annotations-r53.json BQ-001 条",
+    "benchmark/phase3/data/case-annotations-r54.json BQ-001 条",
+    "benchmark/phase3/data/case-annotations-r55.json BQ-001 条"
+   ]
+  },
+  {
+   "anon_id": "P3-7366b076",
+   "case_id": "LY-222",
+   "disposition": "成立",
+   "finding": "承接既有定案不重裁（R49 大师改断面定案、R53／R54／R57 成立）：原卡所问「占子嗣」，setting 自载求测者有子已十八、因乱失散；R58 manifest 结局仅「果於次年六月父子相逢。」——所载为失散子归来、非新生子嗣事件，所指属实；系大师同条改断失子见归，非数据错位。本轮 prediction 断得子与改断面不一致属断面覆盖问题，承既有定案。本轮自报与既有定案同旨。",
+   "flag": "（X）结局为次年六月父子相逢，与断语得子仅同属子事一线，得子本体未合；注记称大师改断面。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R49＋R53＋R54＋R57＋本 R58 标注（大师改断面）；结局原文照录不改。",
+   "relation": "同旨续接（R49／R53／R54／R57）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-222.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[LY-222]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block2.jsonl（LY-222 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block2.jsonl（LY-222 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r56_carryover_notes[LY-222]",
+    "benchmark/phase3/data/case-annotations-r49.json LY-222 条",
+    "benchmark/phase3/data/case-annotations-r53.json LY-222 条",
+    "benchmark/phase3/data/case-annotations-r54.json LY-222 条",
+    "benchmark/phase3/data/case-annotations-r57.json LY-222 条"
+   ]
+  },
+  {
+   "anon_id": "P3-77c4d4c3",
+   "case_id": "LY-437",
+   "disposition": "成立",
+   "finding": "承接既有定案不重裁（R49／R51／R53／R54／R55／R57 成立）：原卡所问「占小廝病」，R58 manifest 结局仅「果於七月，被論革職，」载占者本人功名事件，与小厮病无一字对应；系大师自标迁移（原书明断此卦不应小厮病、应今秋功名有碍），非问答配对错误。本轮自报与既有定案同旨。",
+   "flag": "（X）断小厮病愈，结局为占者本人七月革职，注记称迁移断面，问答断面不对应。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R49＋R51＋R53＋R54＋R55＋R57＋本 R58 标注，manifest 附注迁移类型；结局原文照录不改。",
+   "relation": "同旨续接（R49／R51／R53／R54／R55／R57）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-437.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[LY-437]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block2.jsonl（LY-437 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block2.jsonl（LY-437 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r56_carryover_notes[LY-437]",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r57_carryover_notes_addendum[LY-437]",
+    "benchmark/phase3/data/case-annotations-r49.json LY-437 条",
+    "benchmark/phase3/data/case-annotations-r51.json LY-437 条",
+    "benchmark/phase3/data/case-annotations-r53.json LY-437 条",
+    "benchmark/phase3/data/case-annotations-r54.json LY-437 条",
+    "benchmark/phase3/data/case-annotations-r55.json LY-437 条",
+    "benchmark/phase3/data/case-annotations-r57.json LY-437 条"
+   ]
+  },
+  {
+   "anon_id": "P3-61a549bb",
+   "case_id": "LY-623",
+   "disposition": "部分成立",
+   "finding": "承接既有定案不重裁（R54／R56／R57 部分成立）：原卡所问「占父外任平安」，R58 manifest 结局载苗独作乱、地方惊险异常、辰年缺归、午年又官——外任地实况与归／再官有侧载，但父本人安危未以明字直载，所指一层属实。本轮自报与既有定案同旨。",
+   "flag": "（X）结局仅载地方惊险与归／再官，父本人平安与否未明载。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R54＋R56＋R57＋本 R58 标注：按「平安以地方惊险与归／再官侧载、本人安危未明字」登记；结局原文照录不改。",
+   "relation": "同旨续接（R54／R56／R57）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-623.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[LY-623]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block2.jsonl（LY-623 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block2.jsonl（LY-623 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r56_carryover_notes[LY-623]",
+    "benchmark/phase3/data/case-annotations-r54.json LY-623 条",
+    "benchmark/phase3/data/case-annotations-r56.json LY-623 条",
+    "benchmark/phase3/data/case-annotations-r57.json LY-623 条"
+   ]
+  },
+  {
+   "anon_id": "P3-5e6c316d",
+   "case_id": "LY-620",
+   "disposition": "不成立",
+   "finding": "承接既有定案不重裁（R54 不成立、R57 同旨不成立，承接册 manifest-carryover-r55.md §31 不承接存档）：原卡所问为代卜长辈功名，R58 manifest 结局「果於削職後七月而終。」——削职即功名终局之直接记载，问面主线有明字对应；死亡系削职后同案余事，非断面偏移。本轮 R58 prediction 断功名不成，与削职终局方向亦合；「无注记说明」与 R54『不建议加注、如需提示仅附注削职为功名终局记载』口径一致，不构成缺口。故旗标不成立，与既有定案同旨。",
+   "flag": "（Y）所问长辈功名不成与削职结局略通，然结局记削职后七月而终，称断面偏移且无注记说明。",
+   "manifest_carry_suggestion": "不入附则：承 R54 标注口径即可；结局原文照录不改。",
+   "relation": "同旨续接（R54／R57／承接册§31）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-620.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[LY-620]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block2.jsonl（LY-620 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block2.jsonl（LY-620 评分行 reason）",
+    "benchmark/phase3/data/case-annotations-r54.json LY-620 条",
+    "benchmark/phase3/data/case-annotations-r57.json LY-620 条",
+    "benchmark/phase3/data/manifest-carryover-r55.md 对应不承接存档条目",
+    "benchmark/phase3/runs/round58/predictions/LY-620.json（prediction_text 与 basis 全文）"
+   ]
+  },
+  {
+   "anon_id": "P3-784663fe",
+   "case_id": "LY-615",
+   "disposition": "不成立",
+   "finding": "承接既有定案不重裁（R54 不成立，承接册 manifest-carryover-r55.md §36 不承接存档）：原卡 subject 自标「出門與嫁女」、所问「占出門」；R58 manifest 结局「後因病重，此人未去，女死辰日，夫應不去者……」——「未去」二字直载出门终局，主线有明字对应；女死辰日为同案嫁女／子孙一面之复合记载，且结局文本内自带释语（世动逢合主不去、卯木子孙变辰主女死），非外来无关段。本轮 prediction 断可成行与「未去」方向相反属评分面。故旗标不成立，与既有定案同旨。",
+   "flag": "（Y）断出门可成行，结局因病重此人未去且兼记女死辰日，含他人死亡断面且无注记说明。",
+   "manifest_carry_suggestion": "不入附则：承 R54 标注口径即可（如需提示，仅附注同案两面结构）；结局原文照录不改。",
+   "relation": "同旨续接（R54／承接册§36）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-615.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[LY-615]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block2.jsonl（LY-615 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block2.jsonl（LY-615 评分行 reason）",
+    "benchmark/phase3/data/case-annotations-r54.json LY-615 条",
+    "benchmark/phase3/data/manifest-carryover-r55.md 对应不承接存档条目",
+    "benchmark/phase3/runs/round58/predictions/LY-615.json（prediction_text 与 basis 全文）"
+   ]
+  },
+  {
+   "anon_id": "P3-98d37532",
+   "case_id": "LY-529",
+   "disposition": "部分成立",
+   "finding": "承接既有定案不重裁（R56 部分成立）：原卡所问占坟地，R58 manifest 结局「一一皆是，葬后未出三年，二子皆发科甲．」——「一一皆是」所指形势细项未分载、指代未明一层属实，但后句二子发科甲为明确实绩记载，非整例含混；其承接注记已载于 R58 manifest _r58_carryover_notes_addendum。本轮自报后半（二子发科甲与本轮 prediction 坟地不宜方向相左）属评分面落差，不构成新的数据旗标。故整体部分成立，与既有定案同旨。",
+   "flag": "（X）断坟地不吉，结局『一一皆是』指代未分载、二子发科甲与不利向相左；（Y）同旨，carry_note 已登记前半。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R56＋本 R58 标注：按「『一一皆是』指代未分载、二子发科甲实绩明载」登记；结局原文照录不改。",
+   "relation": "同旨续接（R56）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-529.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[LY-529]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block3.jsonl（LY-529 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block3.jsonl（LY-529 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r58_carryover_notes_addendum[LY-529]",
+    "benchmark/phase3/data/case-annotations-r56.json LY-529 条",
+    "benchmark/phase3/runs/round58/predictions/LY-529.json（prediction_text 与 basis 全文）"
+   ]
+  },
+  {
+   "anon_id": "P3-a8fe5a24",
+   "case_id": "LY-023",
+   "disposition": "成立",
+   "finding": "承接既有定案不重裁（R49／R53／R54／R55／R57 成立）：原卡所问「占母病」，R58 manifest 结局仅「果於八月其子驚風（其後復占子病，見 LY-024）」——母病结果确未载；系大师自标迁移（原书明言不现母病、而现子女有灾），非错位。本轮自报与既有定案同旨。",
+   "flag": "（X）结局仅载八月其子惊风，母病结果未载；（Y）断面迁移（carry_note 已登记）。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R49＋R53＋R54＋R55＋R57＋本 R58 标注；结局原文照录不改。",
+   "relation": "同旨续接（R49／R53／R54／R55／R57）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-023.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[LY-023]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block3.jsonl（LY-023 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block3.jsonl（LY-023 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r56_carryover_notes[LY-023]",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r57_carryover_notes_addendum[LY-023]",
+    "benchmark/phase3/data/case-annotations-r49.json LY-023 条",
+    "benchmark/phase3/data/case-annotations-r53.json LY-023 条",
+    "benchmark/phase3/data/case-annotations-r54.json LY-023 条",
+    "benchmark/phase3/data/case-annotations-r55.json LY-023 条",
+    "benchmark/phase3/data/case-annotations-r57.json LY-023 条"
+   ]
+  },
+  {
+   "anon_id": "P3-b10ec823",
+   "case_id": "LR2-022",
+   "disposition": "部分成立",
+   "finding": "承接既有定案不重裁（R51 部分成立承 R49、R56 部分成立）：原卡为兄为弟观初占病，R58 manifest 结局并载同日复占与扶乩复核、终句「果三日死」零主语，文本表面承接含混属实，但 stripped_tail 明注复占与扶乩均同断、终句为本断应验，非配对错误；其承接注记已载于 R58 manifest _r58_carryover_notes_addendum。本轮自报与既有定案同旨。",
+   "flag": "（X）病凶三日果死合，结局终句主语未明示、按注记病弟断面读；（Y）同旨（carry_note 已登记）。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R49＋R51＋R56＋本 R58 标注并并读 stripped_tail 同断说明：按「终句主语文本未明示、按本案病弟断面读」登记；结局原文照录不改。",
+   "relation": "同旨续接（R49／R51／R56）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LR2-022.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[LR2-022]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block3.jsonl（LR2-022 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block3.jsonl（LR2-022 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r58_carryover_notes_addendum[LR2-022]",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json stripped_tail[LR2-022]",
+    "benchmark/phase3/data/case-annotations-r51.json LR2-022 条",
+    "benchmark/phase3/data/case-annotations-r56.json LR2-022 条"
+   ]
+  },
+  {
+   "anon_id": "P3-c049a641",
+   "case_id": "LY-011",
+   "disposition": "部分成立",
+   "finding": "特别核查复核（承 R57 特别核查②定案）：原卡所问「占母路隔千里何時來」、setting 自载求测者有妹无弟；R58 manifest 结局「果於次年三月妹至」；R58 manifest _r58_carryover_notes_addendum 本例注记已含 R57 补明文本（双断为原书大师原断、非本轮 prediction 内容）。本轮 runs/round58/predictions/LY-011.json 的 prediction_text 与 basis 全文逐字核毕，仅有母能来、迟来一断（主坐标本月内戌日），确无第二断（兄弟必来）与父母不来之文本——X4 所指属实；惟不合之因在 prediction 只覆盖原书双断之第一断（且方向相反），非注记误载，故为部分成立；对象不对位本身承 R49／R53／R54／R55／R57 定案不重裁。Y4 本轮按注记口径评分未另立旗，与注记补明已随包呈现一致。",
+   "flag": "（X）预测全文断母亲来，结局次年三月妹至，人与期俱不合（注记所称双断不在本轮预测全文内）；（Y 按注记口径评分未另立旗、仅提及）。",
+   "manifest_carry_suggestion": "同旨续接并补明：自 R59 起承接 R49＋R53＋R54＋R55＋R57＋本 R58 标注，注记补明「双断为原书大师原断、非本轮 prediction 内容」；结局原文照录不改。",
+   "relation": "同旨续接（R49／R53／R54／R55／R57）＋特别核查复核",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-011.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[LY-011]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block4.jsonl（LY-011 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block4.jsonl（LY-011 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r56_carryover_notes[LY-011]",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r57_carryover_notes_addendum[LY-011]",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r58_carryover_notes_addendum[LY-011]",
+    "benchmark/phase3/data/case-annotations-r49.json LY-011 条",
+    "benchmark/phase3/data/case-annotations-r53.json LY-011 条",
+    "benchmark/phase3/data/case-annotations-r54.json LY-011 条",
+    "benchmark/phase3/data/case-annotations-r55.json LY-011 条",
+    "benchmark/phase3/data/case-annotations-r57.json LY-011 条",
+    "benchmark/phase3/runs/round58/predictions/LY-011.json（prediction_text 与 basis 全文）"
+   ]
+  },
+  {
+   "anon_id": "P3-dd3b5329",
+   "case_id": "LY-436",
+   "disposition": "成立",
+   "finding": "承接既有定案不重裁（R49 占近应远定案、R53／R54／R57 成立）：原卡所问「占本月月令」，R58 manifest 结局仅「世辰年占卦，在午年子月而死。」——本月面无任何记录，结局为数年后寿终，所指属实；系原书自标「占近应远」迁移，非错位。本轮自报与既有定案同旨。",
+   "flag": "（X）预测为本月天气阴晴，结局为午年子月之死，主题不对应（carry_note 称占近应远迁移登记）；（Y）同旨。",
+   "manifest_carry_suggestion": "同旨续接：自 R59 起承接 R49＋R53＋R54＋R57＋本 R58 标注（占近应远）；结局原文照录不改。",
+   "relation": "同旨续接（R49／R53／R54／R57）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-436.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[LY-436]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block4.jsonl（LY-436 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block4.jsonl（LY-436 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json _r56_carryover_notes[LY-436]",
+    "benchmark/phase3/data/case-annotations-r49.json LY-436 条",
+    "benchmark/phase3/data/case-annotations-r53.json LY-436 条",
+    "benchmark/phase3/data/case-annotations-r54.json LY-436 条",
+    "benchmark/phase3/data/case-annotations-r57.json LY-436 条"
+   ]
+  },
+  {
+   "anon_id": "P3-f3575c7b",
+   "case_id": "BZ-304",
+   "disposition": "部分成立",
+   "finding": "新旗标（历轮标注 r49–r57 与承接册／各附则均无本 case_id 条目，去重检索已跑完）：逐字核 runs/round58/predictions/BZ-304.json 全文——prediction_text 作「中段夏秋病例回落、管控松动」「远段冬季全球再起一波」，确无「5-6月恢复正常」一语，亦无 5–6 月时点表述，X4 所指不合属实。但 R58 manifest 结局本体所载事实层（新加坡 2020 年 4 月 7 日至 6 月 1 日阻断措施、4–6 月本地最严重、全球下半年进一步恶化）自足成立、两席评分亦据此核对；末句所引「5-6月恢复正常」之原始出处（原卡 provenance 仅载其 YouTube 视频与 Mothership 报道、无逐字稿）在盘内无据可核、亦无据断言其误引。故为部分成立：不合属实、引述出处待载，非结局事实错误。",
+   "flag": "（X）结局引述『5-6月恢复正常』一语不见于预测全文（预测作夏秋病例回落）。",
+   "manifest_carry_suggestion": "下一轮 manifest 承接本标注：按「结局末句引述『5-6月恢复正常』不见于本轮 prediction 全文、其原始出处未载于原卡」登记；结局原文照录不改。",
+   "relation": "新旗标（R58 新立）",
+   "registered_round": 58,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/BZ-304.json",
+    "benchmark/phase3/runs/round58/judging/outcome-manifest.json cases[BZ-304]",
+    "benchmark/phase3/runs/round58/judging/judgeX-block4.jsonl（BZ-304 评分行 reason）",
+    "benchmark/phase3/runs/round58/judging/judgeY-block4.jsonl（BZ-304 评分行 reason）",
+    "benchmark/phase3/runs/round58/predictions/BZ-304.json（prediction_text 与 basis 全文）"
+   ]
+  }
+ ],
+ "special_checks": [
+  {
+   "item": "特别核查①：P3-c049a641（LY-011）注记所述「双断」不在本轮 R58 prediction 全文内（承 R57 特别核查②复核）",
+   "conclusion": "所报不合属实（部分成立）：注记所述双断为原书大师原断、与金标结局相合，注记本身无误且 R58 manifest 已随包呈现 R57 补明文本；本轮 prediction_text 全文确无第二断，不合之因在 prediction 覆盖面，非数据错误。",
+   "evidence": "三方逐字核对：原卡所问「占母路隔千里何時來」、有妹无弟；manifest 结局「果於次年三月妹至」；_r58_carryover_notes_addendum[LY-011] 已作「同旨续接并补明：……注记补明「双断为原书大师原断、非本轮 prediction 内容」……」。本轮 predictions/LY-011.json 全文仅母能来、迟来一断（主坐标本月内戌日），无父母不来、无兄弟必来之文本。X4 据此立旗属实，Y4 按注记口径评分未另立旗。",
+   "scope_note": "本项不动原卡、manifest 注记与任何分数；补明文本自 R59 起继续随案承接。"
+  },
+  {
+   "item": "特别核查②：P3-f3575c7b（BZ-304）结局引述『5-6月恢复正常』不见于 prediction 全文",
+   "conclusion": "不合属实、引述原始出处盘内未载（部分成立，R58 新立）：prediction 全文作夏秋回落、无该引述与 5–6 月时点；结局事实层自足，两席评分据事实层核对无碍。",
+   "evidence": "predictions/BZ-304.json 的 prediction_text 与 basis 全文核毕，无「恢复正常」字样；原卡 provenance 仅载视频与 Mothership 报道链接、无逐字稿，盘内无从核对大师原视频是否作此语。历轮标注 r49–r57、承接册与 R56／R57 附则均无 BZ-304 条目。",
+   "scope_note": "只登记引述与本轮 prediction 不合及出处未载两层，不改结局原文、不改任何分数。"
+  },
+  {
+   "item": "特别核查③：P3-0e0e21ac（YM-070）挂起登记",
+   "conclusion": "挂起维持、本轮只登记关系不另裁，disposition 记未核。",
+   "evidence": "本轮旗标与 R51 转录存疑、R55／R56／R57 语义含混登记同例同旨；另原卡 asked_at「甲寅旬」出处待核（承接册卷末①）与本件并存。盘内无原书页等独立史源可裁「都下」语义，依纪律不另裁。",
+   "scope_note": "待核维持件 BZ-029、BZ-040、LY-537 本轮无同例旗标，未涉；三件维持原状不赘记。"
+  },
+  {
+   "item": "特别核查④：本轮旗标所涉 R58 manifest carry notes 文本闭合核查",
+   "conclusion": "未见 R57 式截断复现：所涉三组 carry notes（_r56 29 件／_r57 附则 21 件／_r58 附则 17 件）逐件查引号配平与句末闭合，异常 0 件；manifest _r58_manifest_note 自载 _r57 附则组已以结构化直读重建、修复 R57 建包正则截断 9 件，_r58 附则组以结构化直读自 case-annotations-r56.json 抽取并与 R57 附则交叉核对。",
+   "evidence": "本席以结构化读取得三组注记全文逐件核对（非正则截断抽取），配平异常 0；本轮 25 件所涉注记（LY-533、AS-015、LY-212、LY-426、YM-030、OC-029、LR2-024、LY-506、LY-458、BQ-001、LY-011、LY-436、LY-529、LR2-022、LR3-002 等）文本均完整闭合。",
+   "scope_note": "本项只登记、不改 manifest。"
+  }
+ ],
+ "counts": {
+  "selfreport_anons_total": 25,
+  "cases_total": 25,
+  "continuation_cases": 24,
+  "new_flag_cases": 1,
+  "verdicts": {
+   "成立": 7,
+   "部分成立": 14,
+   "不成立": 3,
+   "未核": 1
+  }
+ }
+}
