@@ -1,0 +1,552 @@
+{
+ "meta": {
+  "seat": "data (R36 census, no prediction/scoring/set-building)",
+  "sources": [
+   "expansion12/natal-batch2/cases-reviewed.jsonl (92)",
+   "expansion12/natal-batch2/cases.jsonl (92, originals)",
+   "expansion12/natal-batch2/REVIEW-H.md, CENSUS-NOTES.md, RENUMBER-MAP.json",
+   "expansion12/natal-leftovers/cases.jsonl (55), GRADE-ADDENDUM.json, REGRADE-REVIEW.md, CENSUS-NOTES.md",
+   "expansion12/liuren-bianyi-yuce/cases-reviewed.jsonl (126), REVIEW-G.md",
+   "holdout3..holdout13 test_gold.jsonl (id field only), inputs-dev11 filenames, expansion12/POOL-IDS.txt"
+  ],
+  "id_note": "IDs are post-R34-renumber: QM->QL (QL-001..008 aligned to holdout12), MP->PU. REVIEW-H/CENSUS old QM/MP numbers map via RENUMBER-MAP.json."
+ },
+ "A_a_natal_batch2": {
+  "total": 92,
+  "verdict_counts": {
+   "dev-only": 74,
+   "seal": 18
+  },
+  "seal_ids": [
+   "QL-001",
+   "QL-002",
+   "QL-003",
+   "QL-004",
+   "QL-005",
+   "QL-006",
+   "QL-007",
+   "QL-008",
+   "QL-013",
+   "QL-014",
+   "QL-023",
+   "QL-025",
+   "QL-026",
+   "QL-027",
+   "QL-030",
+   "QL-031",
+   "QL-032",
+   "QL-035"
+  ],
+  "seal_used_by_holdout": {
+   "holdout12": [
+    "QL-001",
+    "QL-002",
+    "QL-003",
+    "QL-004",
+    "QL-005",
+    "QL-006",
+    "QL-007",
+    "QL-008"
+   ],
+   "holdout13": [
+    "QL-013",
+    "QL-014",
+    "QL-023",
+    "QL-025",
+    "QL-026",
+    "QL-027",
+    "QL-030",
+    "QL-031",
+    "QL-032",
+    "QL-035"
+   ]
+  },
+  "seal_unused": [],
+  "nonseal_total": 74,
+  "nonseal_cross_grade_x_contamination": {
+   "A/high": 59,
+   "B/high": 4,
+   "B/low": 11
+  },
+  "nonseal_reason_classes": {
+   "A_grade_but_high_contamination_only": 59,
+   "B_grade_and_low_contamination": 11,
+   "B_grade_and_high_contamination": 4,
+   "reject": 0
+  },
+  "nonseal_ids_A_high": [
+   "PU-001",
+   "PU-002",
+   "PU-004",
+   "PU-005",
+   "PU-006",
+   "PU-007",
+   "PU-009",
+   "PU-010",
+   "PU-011",
+   "PU-012",
+   "PU-013",
+   "PU-014",
+   "PU-015",
+   "PU-016",
+   "PU-017",
+   "PU-018",
+   "PU-019",
+   "PU-020",
+   "PU-021",
+   "PU-022",
+   "PU-023",
+   "PU-024",
+   "PU-025",
+   "PU-026",
+   "PU-027",
+   "PU-028",
+   "PU-029",
+   "PU-030",
+   "PU-031",
+   "PU-032",
+   "PU-033",
+   "PU-034",
+   "PU-035",
+   "PU-036",
+   "PU-037",
+   "PU-038",
+   "PU-039",
+   "PU-040",
+   "PU-041",
+   "PU-042",
+   "PU-043",
+   "PU-044",
+   "PU-045",
+   "PU-046",
+   "PU-047",
+   "PU-048",
+   "PU-049",
+   "PU-050",
+   "PU-051",
+   "PU-052",
+   "PU-053",
+   "PU-054",
+   "PU-055",
+   "PU-056",
+   "PU-057",
+   "QL-018",
+   "QL-021",
+   "QL-028",
+   "QL-029"
+  ],
+  "B_cases_rereviewed": [
+   {
+    "id": "PU-003",
+    "subject": "张道陵（张天师）",
+    "source_work": "《袁氏命谱》",
+    "grade_final_reviewH": "B",
+    "contamination_final": "high",
+    "provenance_page": "PDF p53–55（书卷一 p15–17，命式 p16）",
+    "decision": "regrade_A-low_grade_only",
+    "sealable": false,
+    "reason": "REVIEW-H 以附加的『独立客观史实』要件降 B，与 expansion12 预注册 A 定义（原文明确记载与断语可分离的具体事件记录即可）及 NL REGRADE 先例相悖；本例略历载二十六岁拜江州令、三诏不就、六十三岁炼丹等具体事件，与谨按断语分载可分离，分级轴改判 A-low（传说性质照原 grade_note 注记）。contamination=high 不变，仍不可封存。"
+   },
+   {
+    "id": "PU-008",
+    "subject": "吕岩（吕洞宾）",
+    "source_work": "《袁氏命谱》",
+    "grade_final_reviewH": "B",
+    "contamination_final": "high",
+    "provenance_page": "PDF p89–90（书卷二 p51–52，命式 p52）",
+    "decision": "regrade_A-low_grade_only",
+    "sealable": false,
+    "reason": "同 PU-003：略历载两举进士不第、遇钟离权授道等具体事件，与断语分载可分离，分级轴改判 A-low（实存性属传说系统，照原注记）。contamination=high 不变，仍不可封存。"
+   },
+   {
+    "id": "QL-009",
+    "subject": "钱翁（吾邑钱翁）",
+    "source_work": "《千里命稿》",
+    "grade_final_reviewH": "B",
+    "contamination_final": "low",
+    "provenance_page": "PDF p241–242（书应运篇 p241–242）",
+    "decision": "keep_B",
+    "category": "回顾性地位总评",
+    "reason": "钱翁生平（出身豪富、晚年耗顿、寄食侄门）先行叙述，断语为对已知生平的回解，结局与断语同段交织、无断后应验另载。"
+   },
+   {
+    "id": "QL-010",
+    "subject": "某妓（佚名）",
+    "source_work": "《千里命稿》",
+    "grade_final_reviewH": "B",
+    "contamination_final": "low",
+    "provenance_page": "PDF p242（书应运篇 p242）",
+    "decision": "keep_B",
+    "category": "回顾性叙事",
+    "reason": "为娼、被黜、伶人断交等皆生平回顾，与断语同段交织，无事前求测与断后应验结构。"
+   },
+   {
+    "id": "QL-011",
+    "subject": "王某（秦氏苍头）",
+    "source_work": "《千里命稿》",
+    "grade_final_reviewH": "B",
+    "contamination_final": "low",
+    "provenance_page": "PDF p243（书应运篇 p243）",
+    "decision": "keep_B",
+    "category": "回顾性叙事",
+    "reason": "庸役三代为生平前提；『三十年积蓄二千余金』以『据云』嵌于断语同段，非独立应验记载。"
+   },
+   {
+    "id": "QL-012",
+    "subject": "某僧侣（佚名）",
+    "source_work": "《千里命稿》",
+    "grade_final_reviewH": "B",
+    "contamination_final": "low",
+    "provenance_page": "PDF p244–245（书应运篇 p244–245）",
+    "decision": "keep_B",
+    "category": "幼年事实回顾（转述）",
+    "reason": "可分离事实仅三岁丧亲、七岁入寺等幼年回顾（孙福堂转述）；断后生涯（甲子乙丑运）为前瞻，书内无应验。"
+   },
+   {
+    "id": "QL-015",
+    "subject": "兰英女史",
+    "source_work": "《千里命稿》",
+    "grade_final_reviewH": "B",
+    "contamination_final": "low",
+    "provenance_page": "PDF p249（书应运篇 p249）",
+    "decision": "keep_B",
+    "category": "事件嵌运释同段回顾",
+    "reason": "夫病几危、自身遇盗嵌于戊戌运释同段叙述，无独立应验句，断验难分（同易林补遗 B 级型）。"
+   },
+   {
+    "id": "QL-016",
+    "subject": "某老者（段祺瑞同造差一时）",
+    "source_work": "《千里命稿》",
+    "grade_final_reviewH": "B",
+    "contamination_final": "low",
+    "provenance_page": "PDF p254（书应运篇 p254）",
+    "decision": "keep_B",
+    "category": "求测在生平之后（前提型）",
+    "reason": "造访求测时家道中落已成事实、为求测前提；韦断所释为已然时段，前瞻部分（辛运、未运）书内无应验记载。"
+   },
+   {
+    "id": "QL-017",
+    "subject": "花月影（妓）",
+    "source_work": "《千里命稿》",
+    "grade_final_reviewH": "B",
+    "contamination_final": "low",
+    "provenance_page": "PDF p255（书应运篇 p255）",
+    "decision": "keep_B",
+    "category": "结局即断语前瞻复述",
+    "reason": "『获贵客垂青、纳为拥抱』在断语内以『当有』前瞻出之，outcome 系其复述，无另载应验。"
+   },
+   {
+    "id": "QL-019",
+    "subject": "钱新之（钱永铭）",
+    "source_work": "《千里命稿》",
+    "grade_final_reviewH": "B",
+    "contamination_final": "high",
+    "provenance_page": "PDF p259（书应运篇 p259）",
+    "decision": "keep_B",
+    "category": "仅地位总评＋高污染",
+    "reason": "结局仅『金融界巨擘、陶朱盛名』地位总评，无具体事件分述；且 contamination=high，纵改判亦不可封。"
+   },
+   {
+    "id": "QL-020",
+    "subject": "某女佣（张翁家女佣）",
+    "source_work": "《千里命稿》",
+    "grade_final_reviewH": "B",
+    "contamination_final": "low",
+    "provenance_page": "PDF p260（书应运篇 p260）",
+    "decision": "keep_B",
+    "category": "结局仅求测时状态",
+    "reason": "结局仅『年逾四十未嫁』之求测时状态（前提）；癸水、甲运发扬皆前瞻，书内无应验。"
+   },
+   {
+    "id": "QL-022",
+    "subject": "某悍匪（佚名）",
+    "source_work": "《千里命稿》",
+    "grade_final_reviewH": "B",
+    "contamination_final": "low",
+    "provenance_page": "PDF p263（书应运篇 p263）",
+    "decision": "keep_B",
+    "category": "结局仅迄今状态总评",
+    "reason": "结局仅徒众逾千、逍遥法外之现状总评；子运难逃为前瞻，无应验记载。"
+   },
+   {
+    "id": "QL-024",
+    "subject": "某小工头目（工部局）",
+    "source_work": "《千里命稿》",
+    "grade_final_reviewH": "B",
+    "contamination_final": "low",
+    "provenance_page": "PDF p267（书应运篇 p267）",
+    "decision": "keep_B",
+    "category": "转述地位总评",
+    "reason": "『已积资成富』为平翁转述的地位总评，与断语同段，无独立应验事件另载。"
+   },
+   {
+    "id": "QL-033",
+    "subject": "李君（天津人）",
+    "source_work": "《千里命稿》",
+    "grade_final_reviewH": "B",
+    "contamination_final": "low",
+    "provenance_page": "PDF p280（书应运篇 p278）",
+    "decision": "keep_B",
+    "category": "回顾定位总评",
+    "reason": "跑马获利、香槟头奖为回顾定位，与断语同段交织，无断后应验另载。"
+   },
+   {
+    "id": "QL-034",
+    "subject": "吴佩孚",
+    "source_work": "《千里命稿》",
+    "grade_final_reviewH": "B",
+    "contamination_final": "high",
+    "provenance_page": "PDF p229（书应运篇 p227）",
+    "decision": "keep_B",
+    "category": "回顾总评＋造式两说歧义＋高污染",
+    "reason": "结局为屡起屡仆回顾总评、无具体事件分述；四柱有己酉丁卯／戊申壬子两说并存歧义；且 contamination=high。"
+   }
+  ],
+  "rereview_totals": {
+   "B_cases_total": 15,
+   "regrade_A_low_grade_only_not_sealable_high_contamination": 2,
+   "regrade_to_sealable": 0,
+   "keep_B": 13
+  },
+  "new_sealable_from_A_a": 0
+ },
+ "A_b_natal_leftovers": {
+  "total": 55,
+  "by_source_work": {
+   "《呱呱集》": 45,
+   "《子平真诠评注》": 10
+  },
+  "grade_as_written": {
+   "B": 40,
+   "A": 15
+  },
+  "contamination": {
+   "low": 36,
+   "high": 19
+  },
+  "addendum_regraded_to_A_low": [
+   "NL-001",
+   "NL-002",
+   "NL-005",
+   "NL-006",
+   "NL-031",
+   "NL-043"
+  ],
+  "sealable_ids_effective": [
+   "NL-001",
+   "NL-002",
+   "NL-005",
+   "NL-006",
+   "NL-031",
+   "NL-043",
+   "NL-049"
+  ],
+  "sealable_used_by_holdout": {
+   "holdout12": [
+    "NL-001",
+    "NL-002",
+    "NL-005",
+    "NL-031",
+    "NL-043"
+   ],
+   "holdout13": [
+    "NL-006",
+    "NL-049"
+   ]
+  },
+  "sealable_unused": [],
+  "nonsealable_remaining": 48
+ },
+ "A_b_yuanshi_mingpu_book": {
+  "book": "《袁氏命谱》四库存目子平汇刊8重校绘图本 (incoming/wanted-books-2)",
+  "book_total_zao_stated_in_preface": 64,
+  "extracted_PU": 57,
+  "dedup_removed_at_extraction": [
+   {
+    "subject": "关羽",
+    "pool_match": "NL-021"
+   },
+   {
+    "subject": "明毅宗（崇祯）",
+    "pool_match": "wei-014/BZ-034"
+   },
+   {
+    "subject": "乾隆",
+    "pool_match": "xu-003/BZ-016/BZ-019/ren-016"
+   },
+   {
+    "subject": "曾国藩",
+    "pool_match": "NL-018"
+   },
+   {
+    "subject": "左宗棠",
+    "pool_match": "NL-019"
+   },
+   {
+    "subject": "彭玉麟",
+    "pool_match": "NL-020"
+   },
+   {
+    "subject": "李鸿章",
+    "pool_match": "wei-015/BZ-035"
+   }
+  ],
+  "unextracted": 0,
+  "account": "64 = 57 extracted + 7 dedup-removed + 0 unextracted (CENSUS-NOTES natal-batch2 §一, full 64 read)",
+  "sealable_from_book": 0,
+  "note": "All 57 extracted are A-grade but high contamination (famous historical figures); REVIEW-H seal = 0 for this book."
+ },
+ "A_c_G_inventory": {
+  "file": "expansion12/liuren-bianyi-yuce/cases-reviewed.jsonl",
+  "total": 126,
+  "tradition_counts": {
+   "六壬": 126
+  },
+  "verdict_counts": {
+   "seal": 111,
+   "dev-only": 15
+  },
+  "seal_total": 111,
+  "seal_unused_in_any_holdout3_13": [
+   "BY-007",
+   "BY-008",
+   "BY-009",
+   "BY-010",
+   "BY-011",
+   "BY-012",
+   "BY-014",
+   "BY-015",
+   "BY-016",
+   "BY-017",
+   "BY-018",
+   "BY-020",
+   "BY-021",
+   "BY-022",
+   "BY-023",
+   "BY-024",
+   "BY-025",
+   "BY-027",
+   "BY-028",
+   "BY-030",
+   "BY-031",
+   "BY-032",
+   "BY-033",
+   "BY-034",
+   "BY-036",
+   "BY-037",
+   "BY-038",
+   "BY-039",
+   "BY-041",
+   "BY-042",
+   "BY-043",
+   "BY-044",
+   "BY-045",
+   "BY-046",
+   "BY-047",
+   "BY-048",
+   "BY-049",
+   "BY-050",
+   "BY-051",
+   "BY-053",
+   "BY-054",
+   "BY-055",
+   "BY-056",
+   "BY-057",
+   "BY-058",
+   "BY-060",
+   "BY-061",
+   "BY-062",
+   "BY-063",
+   "BY-064",
+   "BY-066",
+   "BY-067",
+   "BY-068",
+   "BY-069",
+   "BY-070",
+   "BY-071",
+   "BY-072",
+   "BY-076",
+   "BY-078",
+   "BY-079",
+   "BY-081",
+   "BY-083",
+   "BY-085",
+   "BY-086",
+   "BY-087",
+   "BY-088",
+   "BY-089",
+   "BY-090",
+   "BY-091",
+   "BY-092",
+   "BY-093",
+   "BY-094",
+   "BY-096",
+   "BY-097",
+   "BY-098",
+   "BY-099",
+   "BY-100",
+   "BY-101",
+   "BY-102",
+   "BY-104",
+   "BY-105",
+   "BY-106",
+   "BY-107",
+   "BY-109",
+   "BY-110",
+   "BY-111",
+   "BY-112",
+   "BY-113",
+   "BY-114",
+   "BY-115",
+   "BY-116",
+   "BY-117",
+   "BY-118",
+   "BY-119",
+   "YX-001",
+   "YX-003",
+   "YX-004"
+  ],
+  "seal_unused_count": 97,
+  "bazi_cases_in_G": 0,
+  "bazi_sealable_in_G": 0
+ },
+ "A_c_H_inventory": {
+  "file": "expansion12/natal-batch2/cases-reviewed.jsonl",
+  "total": 92,
+  "tradition_counts": {
+   "八字": 92
+  },
+  "seal_total": 18,
+  "seal_unused_in_any_holdout3_13": [],
+  "bazi_sealable_new_in_H": 0,
+  "note": "All 18 seal (QL) were consumed: holdout12 x8 + holdout13 x10 (see A_a seal_used_by_holdout)."
+ },
+ "A_d_qianli_minggao_book": {
+  "book": "《千里命稿》中州古籍重印本, PDF 423 pp; 应运篇 book pp.225-304 read in full; other chapters census by chapter characterisation",
+  "note_on_task_wording": "natal-batch2's 92 = 袁氏命谱 57 + 千里命稿 35; the 千里命稿 book itself contributed 35, not 92.",
+  "extracted_QM_now_QL": 35,
+  "extracted_grade_split": {
+   "A": 22,
+   "B": 13
+  },
+  "dedup_removed_at_extraction": 12,
+  "discarded_listed_in_census": {
+   "identity_or_prospective_only": 19,
+   "fact_embedded_in_prediction_flow": 3,
+   "incomplete_or_damaged_chart": 6,
+   "newborn_or_undecided_prospective": 6,
+   "other_listed": 8,
+   "total_listed": 42
+  },
+  "yingyun_identifiable_items_approx": 89,
+  "coverage_of_yingyun": "35/89 extracted (39%), 18/89 seal (20%)",
+  "unextracted_space": "应运篇已逐页全读，余条均已逐条定性弃置（见上）；理论各篇短式例全类弃、评断篇原则弃（CENSUS 未逐条计数）——按现行入封标准未抽空间可封存实得 0。",
+  "sealable_new": 0
+ },
+ "totals": {
+  "native_seal_unused_bazi": 0,
+  "regraded_to_sealable_bazi": 0,
+  "regraded_grade_only_not_sealable": 2,
+  "new_sealable_bazi_total": 0
+ }
+}

@@ -1,0 +1,347 @@
+{
+ "per_file": [
+  {
+   "file": "masters-dataset/chinese-divination/inputs.jsonl",
+   "rows": 50,
+   "ids_sample": [
+    "LY-001",
+    "LY-002",
+    "LY-003"
+   ]
+  },
+  {
+   "file": "benchmark/phase3/expansion/zengshan/inputs.jsonl",
+   "rows": 59,
+   "ids_sample": [
+    "LY-201",
+    "LY-202",
+    "LY-203"
+   ]
+  },
+  {
+   "file": "benchmark/phase3/expansion/bushi/inputs.jsonl",
+   "rows": 20,
+   "ids_sample": [
+    "LY-301",
+    "LY-302",
+    "LY-303"
+   ]
+  },
+  {
+   "file": "benchmark/phase3/expansion2/zengshan/inputs.jsonl",
+   "rows": 59,
+   "ids_sample": [
+    "LY-401",
+    "LY-402",
+    "LY-403"
+   ]
+  },
+  {
+   "file": "benchmark/phase3/expansion2/bushi/inputs.jsonl",
+   "rows": 25,
+   "ids_sample": [
+    "LY-321",
+    "LY-322",
+    "LY-323"
+   ]
+  },
+  {
+   "file": "benchmark/phase3/expansion3/cases.jsonl",
+   "rows": 43,
+   "ids_sample": [
+    "LY-501",
+    "LY-502",
+    "LY-503"
+   ],
+   "source_work_counts": {
+    "None": 43
+   },
+   "grade_counts": {
+    "A": 43
+   },
+   "contamination_counts": {
+    "low": 43
+   }
+  },
+  {
+   "file": "benchmark/phase3/expansion4/cases.jsonl",
+   "rows": 29,
+   "ids_sample": [
+    "LY-601",
+    "LY-602",
+    "LY-603"
+   ],
+   "source_work_counts": {
+    "增刪卜易": 25,
+    "卜筮正宗": 4
+   },
+   "grade_counts": {
+    "A": 29
+   },
+   "contamination_counts": {
+    "low": 29
+   }
+  },
+  {
+   "file": "benchmark/phase3/expansion5/cases.jsonl",
+   "rows": 1,
+   "ids_sample": [
+    "LY-701"
+   ],
+   "source_work_counts": {
+    "增刪卜易": 1
+   },
+   "grade_counts": {
+    "A": 1
+   },
+   "contamination_counts": {
+    "low": 1
+   }
+  },
+  {
+   "file": "benchmark/phase3/expansion7/bushi-quanshu/cases.jsonl",
+   "rows": 25,
+   "ids_sample": [
+    "BQ-001",
+    "BQ-002",
+    "BQ-003"
+   ],
+   "source_work_counts": {
+    "《卜筮全书》卷首《叙》脚注①（自称引《北史》）": 1,
+    "《卜筮全书》卷八·黄金策（一）总断千金赋注": 11,
+    "《卜筮全书》卷八·黄金策（一）天时注": 2,
+    "《卜筮全书》卷九·黄金策（二）年时注": 2,
+    "《卜筮全书》卷十二·黄金策（五）避乱注": 4,
+    "《卜筮全书》卷十·黄金策（三）神作注": 3,
+    "《卜筮全书》卷十·黄金策（三）六畜注": 2
+   },
+   "grade_counts": {
+    "A": 25
+   },
+   "contamination_counts": {
+    "high": 1,
+    "low": 24
+   }
+  },
+  {
+   "file": "benchmark/phase3/expansion7/yiyin/cases.jsonl",
+   "rows": 24,
+   "ids_sample": [
+    "YY-001",
+    "YY-002",
+    "YY-003"
+   ],
+   "source_work_counts": {
+    "None": 24
+   },
+   "grade_counts": {
+    "A": 24
+   },
+   "contamination_counts": {
+    "low": 23,
+    "high": 1
+   }
+  },
+  {
+   "file": "benchmark/phase3/expansion7/yiyin2/cases.jsonl",
+   "rows": 5,
+   "ids_sample": [
+    "YY2-001",
+    "YY2-002",
+    "YY2-003"
+   ],
+   "source_work_counts": {
+    "None": 5
+   },
+   "grade_counts": {
+    "A": 5
+   },
+   "contamination_counts": {
+    "low": 5
+   }
+  },
+  {
+   "file": "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "rows": 70,
+   "ids_sample": [
+    "YM-001",
+    "YM-002",
+    "YM-003"
+   ],
+   "source_work_counts": {
+    "None": 70
+   },
+   "grade_counts": {
+    "A": 70
+   },
+   "contamination_counts": {
+    "low": 70
+   }
+  },
+  {
+   "file": "benchmark/phase3/expansion8/duanyi-tianji/cases.jsonl",
+   "rows": 7,
+   "ids_sample": [
+    "DT-001",
+    "DT-002",
+    "DT-003"
+   ],
+   "source_work_counts": {
+    "《断易天机》卷二·经验卦例": 7
+   },
+   "grade_counts": {
+    "A": 7
+   },
+   "contamination_counts": {
+    "medium": 7
+   }
+  },
+  {
+   "file": "benchmark/phase3/expansion10/yilin-buyi/cases.jsonl",
+   "rows": 13,
+   "ids_sample": [
+    "YB-001",
+    "YB-002",
+    "YB-003"
+   ],
+   "source_work_counts": {
+    "None": 13
+   },
+   "grade_counts": {
+    "A": 13
+   },
+   "contamination_counts": {
+    "low": 13
+   }
+  },
+  {
+   "file": "benchmark/phase3/expansion10/yilin-buyi-zongduan/cases.jsonl",
+   "rows": 9,
+   "ids_sample": [
+    "YB-014",
+    "YB-015",
+    "YB-016"
+   ],
+   "source_work_counts": {
+    "None": 9
+   },
+   "grade_counts": {
+    "A": 9
+   },
+   "contamination_counts": {
+    "low": 9
+   }
+  },
+  {
+   "file": "benchmark/phase3/expansion11/bushi-zhengzong/cases.jsonl",
+   "rows": 3,
+   "ids_sample": [
+    "ZG-001",
+    "ZG-002",
+    "ZG-003"
+   ],
+   "source_work_counts": {
+    "None": 3
+   },
+   "grade_counts": {
+    "A": 3
+   },
+   "contamination_counts": {
+    "low": 3
+   }
+  },
+  {
+   "file": "benchmark/phase3/expansion12/huangjince-huozhulin/cases.jsonl",
+   "rows": 1,
+   "ids_sample": [
+    "HZ-001"
+   ],
+   "source_work_counts": {
+    "None": 1
+   },
+   "grade_counts": {
+    "A": 1
+   },
+   "contamination_counts": {
+    "low": 1
+   }
+  }
+ ],
+ "prefix_summary": {
+  "BQ": {
+   "n": 25,
+   "in_dev9": 17,
+   "in_holdout3_13": 8,
+   "neither": []
+  },
+  "DT": {
+   "n": 7,
+   "in_dev9": 7,
+   "in_holdout3_13": 0,
+   "neither": []
+  },
+  "HZ": {
+   "n": 1,
+   "in_dev9": 0,
+   "in_holdout3_13": 1,
+   "neither": []
+  },
+  "LY": {
+   "n": 272,
+   "in_dev9": 219,
+   "in_holdout3_13": 97,
+   "neither": [
+    "LY-020",
+    "LY-302",
+    "LY-303",
+    "LY-412"
+   ]
+  },
+  "MH": {
+   "n": 10,
+   "in_dev9": 8,
+   "in_holdout3_13": 0,
+   "neither": [
+    "MH-004",
+    "MH-005"
+   ]
+  },
+  "YB": {
+   "n": 22,
+   "in_dev9": 0,
+   "in_holdout3_13": 22,
+   "neither": []
+  },
+  "YM": {
+   "n": 70,
+   "in_dev9": 56,
+   "in_holdout3_13": 14,
+   "neither": []
+  },
+  "YY": {
+   "n": 24,
+   "in_dev9": 16,
+   "in_holdout3_13": 8,
+   "neither": []
+  },
+  "YY2": {
+   "n": 5,
+   "in_dev9": 5,
+   "in_holdout3_13": 0,
+   "neither": []
+  },
+  "ZG": {
+   "n": 3,
+   "in_dev9": 0,
+   "in_holdout3_13": 3,
+   "neither": []
+  },
+  "ZY": {
+   "n": 4,
+   "in_dev9": 4,
+   "in_holdout3_13": 0,
+   "neither": []
+  }
+ },
+ "total_unique_ly_ids": 443
+}

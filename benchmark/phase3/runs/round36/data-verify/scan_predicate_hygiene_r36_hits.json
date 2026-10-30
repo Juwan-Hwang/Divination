@@ -1,0 +1,1323 @@
+{
+ "manifest": "/home/hatch/workspace/divination/benchmark/phase3/runs/round35/judging/outcome-manifest.json",
+ "total_cases": 487,
+ "hit_cases": 124,
+ "patterns": {
+  "P1_match_verdict": "相合|相符|吻合|逐项合|逐項合|落空|皆反|全反|不合|证伪|證偽|应验|應驗|果然|驗|相符",
+  "P2_prediction_ref": "断语|斷語|断言|斷言|预测|預測|大师断|大師斷|原断|原斷|所断|所斷",
+  "P3_meta_text": "可分离|可分離|独立成句|獨立成句|独立载|獨立載|原文中|原文未|未载|未載|未被结局|无从单独|無從單獨|文本|记载|記載|注称|注稱",
+  "P4_verdict_opener": "断曰|斷曰|断为|斷為|占断|占斷|占曰|予曰|断：|斷：",
+  "P5_english": "[Cc]onfirmed|I judged|judged that|prediction|matched|verified|the text",
+  "P6_partial_eval": "仅部分|僅部分|部分相合|不计|不計|仅作|僅作",
+  "P7_source_ref": "如言|如斷|如断|依斷|依断|之驗|之验|proved|was true|very true|原文|原书|原書|書內|书内|自述|自載|自载|注家|徵驗|应验段|應驗段|独立|獨立",
+  "P8_correspond": "对应|對應|印证|印證|命中|恰合|正合|相契|不差|无误|無誤|fulfilled",
+  "P9_residual": "exactly as judged|Recorded within|并非「|相应|應了|应了「|按部分合|超出「|多合|对勘成立|對勘成立"
+ },
+ "hits": {
+  "AS-001": {
+   "patterns": {
+    "P5_english": [
+     "Confirmed",
+     "the text",
+     "I judged",
+     "I judged"
+    ]
+   },
+   "outcome": "Confirmed in the text: 'I judged that she would find him there at her coming home: which she did'; and of the trine day, 'therefore I judged that she should see him at that time: which she did.' The 1647 further explanation adds she reached home about 3 p.m. that day and found her son abiding her coming."
+  },
+  "AS-002": {
+   "patterns": {
+    "P5_english": [
+     "Confirmed",
+     "the text",
+     "matched"
+    ]
+   },
+   "outcome": "Confirmed in the text: 'And so to this day he hath [attained it by labour]'; 'He has since had a good fortune with his wife, money, and land, and been very successful in trade'; the two-year timing matched his wife's portion."
+  },
+  "AS-003": {
+   "patterns": {
+    "P5_english": [
+     "Confirmed",
+     "the text"
+    ]
+   },
+   "outcome": "Confirmed in detail in the text: the bargain was struck on 25 April following (the day Venus and the Sun came to their aspect); on 17 May he paid the £530 and his conveyance was sealed — 'six weeks and some days from the time of the Question'; a friend lent him £500 twelve days after (when Mercury turned direct). Lilly adds he did himself injury in money by the bargain but never repented it."
+  },
+  "AS-004": {
+   "patterns": {
+    "P5_english": [
+     "verified"
+    ]
+   },
+   "outcome": "Not stated as a postscript in the excerpt, but a matter of historical record: Cambridge was never taken by the King during the Civil War (it remained a Parliamentarian stronghold, headquarters of the Eastern Association). Marked as externally verified, not Lilly-stated."
+  },
+  "AS-005": {
+   "patterns": {
+    "P5_english": [
+     "Confirmed",
+     "the text"
+    ],
+    "P7_source_ref": [
+     "proved",
+     "proved"
+    ]
+   },
+   "outcome": "Confirmed in the text: '(It proved that she was in a harbour in the west)' and of the news, '(And so it proved.)'"
+  },
+  "AS-007": {
+   "patterns": {
+    "P5_english": [
+     "Confirmed",
+     "the text"
+    ]
+   },
+   "outcome": "Confirmed in the text: 'It appeared, by a letter from the army on that same Friday, that our generals took on the previous day 120 commanders and gentlemen, 560 common soldiers, and much ammunition.' (Historically: the Battle of Cheriton, 29 March 1644, was a Parliamentarian victory.)"
+  },
+  "AS-008": {
+   "patterns": {
+    "P5_english": [
+     "Confirmed",
+     "the text"
+    ]
+   },
+   "outcome": "Confirmed in the text: 'The Town was delivered for the Parliament's use the 27th of April... three days after the time limited by me was expired; but the very Monday before, being eight days after the Figure set, they began to treat.' Lilly adds the King's relief was beaten back at Caversham Bridge, the Governor (Aston) was hurt in the head (as Saturn in Pisces(?) afflicted by Mars denoted), and they did not want ammunition, as Venus in the 5th signified. See the year flag in inputs (1643 historically; OCR prints 1644)."
+  },
+  "AS-009": {
+   "patterns": {
+    "P5_english": [
+     "Confirmed",
+     "the text"
+    ]
+   },
+   "outcome": "Confirmed in the text: a gentleman of the querent's acquaintance, coming by accident to see a friend in Long Acre, found the dog tied up under a table, knew it to be the querent's, and sent it home that same Monday about ten in the morning — 'to my very great credit.'"
+  },
+  "AS-010": {
+   "patterns": {
+    "P5_english": [
+     "Confirmed"
+    ]
+   },
+   "outcome": "Confirmed in the 1852 edition's wording: 'Upon the Friday following he came home, and said he had been at Kingston upon Thames; which if true, then he was full West, or a little to the South, and near a great Water, viz. the Thames.'"
+  },
+  "AS-011": {
+   "patterns": {
+    "P5_english": [
+     "Confirmed",
+     "the text"
+    ]
+   },
+   "outcome": "Confirmed in the text: 'My counsel was followed, and the issue was thus: By the Gentleman's means and procurement, the matter was brought on again, the Match effected, and all within twenty days following, to the content of the sorrowful (but as to me unthankful) Lady.'"
+  },
+  "AS-012": {
+   "patterns": {
+    "P5_english": [
+     "Confirmed",
+     "the text"
+    ]
+   },
+   "outcome": "Confirmed in the text: the parson 'being covetous would proceed further... and when he thought to have the matter absolutely on his side, behold, a scurvy Letter, revealing some manifest truths concerning a Female, dashed the good Man's hopes' — he never discovered which neighbour had affronted him."
+  },
+  "AS-013": {
+   "patterns": {
+    "P5_english": [
+     "Confirmed",
+     "the text"
+    ]
+   },
+   "outcome": "Confirmed in the text: Lilly took out a warrant, kept it private until Sunday 18th, searched only that one house, and 'found part of my fish in water, part eaten, part not consumed; all confessed' — including seven Portugal onions the thief's wife had unknowingly made into pottage."
+  },
+  "AS-014": {
+   "patterns": {
+    "P5_english": [
+     "Confirmed",
+     "the text"
+    ],
+    "P7_source_ref": [
+     "proved"
+    ]
+   },
+   "outcome": "Confirmed in the text: 'The event proved me right, both as to the person and the return of the money, which was within three days after' — although the querent at first 'believed not one word I said.'"
+  },
+  "AS-015": {
+   "patterns": {
+    "P5_english": [
+     "Confirmed",
+     "the text"
+    ]
+   },
+   "outcome": "Confirmed in the text: 'in truth she died the eighth of October, upon which day Mars and [the other significator] were in the eighth degree...' — within days of the window Lilly had named."
+  },
+  "AS-204": {
+   "patterns": {
+    "P9_residual": [
+     "exactly as judged"
+    ]
+   },
+   "outcome": "On speaking with the patient the symptoms were found exactly as judged: great pain and rumbling in his head, a very dry cough, great weakness and pain in his breast and at the heart, complexion as if inclined to the jaundice, a lingering consumption, red gravel and difficulty in making urine; 'He dyed the fourteenth of August following.'"
+  },
+  "AS-205": {
+   "patterns": {
+    "P7_source_ref": [
+     "was true"
+    ]
+   },
+   "outcome": "Of the disease: 'all which was true'; of the event: 'The sick dyed the 28th of July following' — twelve days after the figure of 16 July 1645."
+  },
+  "AS-206": {
+   "patterns": {
+    "P9_residual": [
+     "Recorded within"
+    ]
+   },
+   "outcome": "Recorded within the judgment passage itself: that person 'at last, with a little difficulty, produced the Marriage to effect, to the content of both parties.'"
+  },
+  "AS-211": {
+   "patterns": {
+    "P5_english": [
+     "I judged"
+    ],
+    "P7_source_ref": [
+     "very true"
+    ]
+   },
+   "outcome": "'and indeed the Horse did come home three dayes after, and had been full West. However, I judged the Horse would have been at home a day sooner' — recovery and direction as judged, timing one day later than judged; the horse came home Wednesday or Thursday the 13th or 14th of January, 'and it was very true' of those who rode him away."
+  },
+  "AS-215": {
+   "patterns": {
+    "P5_english": [
+     "prediction"
+    ]
+   },
+   "outcome": "'The issue is this (for I write to Posterity): he prospered in the beginning, and I was daily by men of good quality and of authority jeered at, and derided for my former prediction... But behold, the eighth of September following came sad news, that the second of September this worthy man had surrendered all his Ammunition to his Majesty, having onely Quarter for his Souldiers' — the Lostwithiel surrender, 2 September 1644."
+  },
+  "AS-302": {
+   "patterns": {
+    "P1_match_verdict": [
+     "证伪"
+    ],
+    "P2_prediction_ref": [
+     "预测"
+    ]
+   },
+   "outcome": "辉瑞/BioNTech疫苗2020年12月2日获英国批准、12月8日开始接种，其后全球接种逾百亿剂次；病毒后来确实转为地方性流行，「共存」部分成真，但「没有疫苗」的字面预测在发表后六周即被证伪"
+  },
+  "AS-304": {
+   "patterns": {
+    "P2_prediction_ref": [
+     "预测"
+    ]
+   },
+   "outcome": "特朗普以312张选举人票胜出，哈里斯得226票；Gopalakrishnan于选后公开承认错误并宣布暂停政治预测"
+  },
+  "AS-305": {
+   "patterns": {
+    "P9_residual": [
+     "并非「"
+    ]
+   },
+   "outcome": "特朗普获胜且优势明确（312对226选举人票，并赢得普选票），并非「极小差距」惜败格局"
+  },
+  "BQ-001": {
+   "patterns": {
+    "P4_verdict_opener": [
+     "占断"
+    ],
+    "P7_source_ref": [
+     "自述",
+     "原文",
+     "如言"
+    ]
+   },
+   "outcome": "求卜者当场自述：父卧疾三年，昨日鸡鸣时气尽、举家大哭，父忽惊寤自言「我死，有三尺人来迎，欲升天，闻哭声，遂坠地」，与占断「父已亡、当上天、闻哭声、忽复苏、而有言」全合；「更三日，当永去」一条，原文以「果如言」结。"
+  },
+  "BQ-013": {
+   "patterns": {
+    "P1_match_verdict": [
+     "果然"
+    ]
+   },
+   "outcome": "「雨果不止」——雨果然连绵不止。"
+  },
+  "BQ-017": {
+   "patterns": {
+    "P1_match_verdict": [
+     "果然"
+    ]
+   },
+   "outcome": "「果被妇人引祸及已」——其人果然因妇人招致祸事及身。"
+  },
+  "BQ-019": {
+   "patterns": {
+    "P1_match_verdict": [
+     "果然"
+    ],
+    "P7_source_ref": [
+     "注家"
+    ]
+   },
+   "outcome": "「已而果然」——后来果如注家所戒：祸非倭寇、乃官兵之祸。"
+  },
+  "BZ-020": {
+   "patterns": {
+    "P3_meta_text": [
+     "记载"
+    ],
+    "P7_source_ref": [
+     "原书",
+     "自载",
+     "自述"
+    ]
+   },
+   "outcome": "史实/原书自载：万民英为明代官员、术数家，官至礼部/刑部系统清台之职（据《三命通会》自述与易县其墓志记载，卒于万历癸卯年即1583年，享年82岁）；其自记丁巳运癸亥年罢官丧母、戊午运甲戌年遭火灾，皆为本人亲历自证之应期"
+  },
+  "BZ-021": {
+   "patterns": {
+    "P9_residual": [
+     "相应"
+    ]
+   },
+   "outcome": "史实：蒋介石1927年起主政南京国民政府，丙午大运（约1926-1935，虚岁40-49）正值其北伐成功、权位鼎盛期；1949年（甲辰运末/乙巳运）败退台湾，与韦氏「甲辰运解组归田」之断在大陆政权层面相应（其本人未归田，退守台湾续任，此为本例已知偏差点，盲测比对时须注明）；1975年卒于台北"
+  },
+  "BZ-022": {
+   "patterns": {
+    "P1_match_verdict": [
+     "相合"
+    ]
+   },
+   "outcome": "史实：张作霖称雄东北（关外），1928年6月4日（戊辰年）皇姑屯事件被炸身亡——韦氏所指戌运戊辰年杀身之祸与史实年份、死因性质（横祸）相合"
+  },
+  "BZ-023": {
+   "patterns": {
+    "P1_match_verdict": [
+     "相合"
+    ]
+   },
+   "outcome": "史实：张学良1934年（甲戌年）归国重掌兵权；1936年12月（丙子年）西安事变后被长期软禁，政治上「陷于不复之地」与韦断相合；2001年卒于夏威夷，享寿百岁（寿元非韦断重点）"
+  },
+  "BZ-024": {
+   "patterns": {
+    "P1_match_verdict": [
+     "相合"
+    ]
+   },
+   "outcome": "史实：杜月笙为上海青帮领袖、闻人，非官非商而声望极高；1951年8月16日（辛卯年）病逝香港，死后哀荣——卒年与韦断辛卯年完全相合"
+  },
+  "BZ-026": {
+   "patterns": {
+    "P1_match_verdict": [
+     "相合"
+    ]
+   },
+   "outcome": "史实：尚小云为四大名旦之一（名伶王），其子尚长荣等皆为京剧名家——与韦断相合；1976年卒"
+  },
+  "BZ-027": {
+   "patterns": {
+    "P7_source_ref": [
+     "原书"
+    ]
+   },
+   "outcome": "史实：荀慧生创荀派，为四大名旦之一；确曾一度息影务农而无所获（原书已自注此节为既验之事）；1972年卒"
+  },
+  "BZ-028": {
+   "patterns": {
+    "P1_match_verdict": [
+     "相合"
+    ]
+   },
+   "outcome": "史实：陈诚官至中华民国副总统、行政院长，为三人中位望最高者——与韦氏以时辰分贵贱、许陈诚为最贵相合；1965年卒"
+  },
+  "BZ-031": {
+   "patterns": {
+    "P1_match_verdict": [
+     "相合",
+     "相符"
+    ],
+    "P2_prediction_ref": [
+     "所断",
+     "所断"
+    ]
+   },
+   "outcome": "史实：邵邨人（邵仁枚）与弟邵逸夫创立邵氏影业王国，南洋影院遍布，为影业巨擘——与「庚午时」定盘所断的大刀阔斧事业家相合，与辛未时所断文弱书生绝不相符；此例为韦氏以事验定盘的名例"
+  },
+  "BZ-032": {
+   "patterns": {
+    "P1_match_verdict": [
+     "相合"
+    ]
+   },
+   "outcome": "史实：阎锡山自1911年至1949年统治山西38年，历经北洋、抗战、国共内战而屹立，为民国地方实力派之最久者；1960年5月23日病逝台北——卒日与韦书所记相合"
+  },
+  "BZ-033": {
+   "patterns": {
+    "P1_match_verdict": [
+     "相合"
+    ]
+   },
+   "outcome": "史实：吴国桢1946-1949任上海市长（午运/火运期），1949-1953任台湾省主席（开府），1953年因与蒋经国冲突辞职去国赴美（己运冲亥期）——历程与韦断运程线大体相合；1984年卒于美国"
+  },
+  "BZ-034": {
+   "patterns": {
+    "P1_match_verdict": [
+     "相合"
+    ]
+   },
+   "outcome": "史实：崇祯帝1627年即位，在位17年，1644年甲申年李自成破北京，崇祯自缢煤山，明亡——在位年数与殉国年份皆与韦断相合"
+  },
+  "BZ-035": {
+   "patterns": {
+    "P9_residual": [
+     "对勘成立"
+    ]
+   },
+   "outcome": "史实：李鸿章官至直隶总督兼北洋大臣、文华殿大学士，位极人臣，为晚清第一重臣；1901年卒于北京——与崇祯同格不同命的对勘成立"
+  },
+  "BZ-036": {
+   "patterns": {
+    "P7_source_ref": [
+     "原书"
+    ]
+   },
+   "outcome": "史实：章太炎为国学大师、革命家，富名而不富财；1903年苏报案系狱（己巳运前后，原书作六载，史载下狱三年、系狱前后牵连较久，此年数有出入，盲测比对须注）；1936年卒于苏州"
+  },
+  "BZ-037": {
+   "patterns": {
+    "P1_match_verdict": [
+     "不合",
+     "相合"
+    ]
+   },
+   "outcome": "史实：段祺瑞三任国务总理、1924-1926任临时执政（韦书成于1963年，「未执政」一语与史实不合，疑指其执政不稳/未久安，或版本文字之异——本数据集如实标为已知偏差点）；1918-1920确为其权势黄金期，与韦断三年相合；1936年卒"
+  },
+  "BZ-038": {
+   "patterns": {
+    "P1_match_verdict": [
+     "相合"
+    ]
+   },
+   "outcome": "史实：哈同（Silas Hardoon）白手起家成为上海地产大王；终身无亲生子女，靠收养义子义女，死后遗产诉讼满城风雨——与韦断相合；1931年卒于上海"
+  },
+  "BZ-039": {
+   "patterns": {
+    "P1_match_verdict": [
+     "相合"
+    ]
+   },
+   "outcome": "史实：于右任官至监察院院长（任职31年），书法宗师，一生以公务与文字劳碌著称；1964年卒于台北——与韦断相合"
+  },
+  "BZ-040": {
+   "patterns": {
+    "P1_match_verdict": [
+     "相合"
+    ]
+   },
+   "outcome": "史实：许世英1925-1926年任北洋政府国务总理（阁揆），其后历任要职、清廉自牧、福寿绵长（1964年卒，年71）——木运居阁揆与韦氏正断相合；本例为格局定性分歧的黄金样本（从杀 vs 身弱用印）"
+  },
+  "BZ-041": {
+   "patterns": {
+    "P7_source_ref": [
+     "原书",
+     "自载"
+    ]
+   },
+   "outcome": "史实：王晓籁为上海商界领袖，子女三十余人属实（原书自载沪人话之熟矣）；1955年后居香港经商，卒年不详于本数据集所据来源"
+  },
+  "BZ-042": {
+   "patterns": {
+    "P7_source_ref": [
+     "原书",
+     "自载"
+    ]
+   },
+   "outcome": "史实：程霖生为上海地产/金融巨富，最盛时财产以美金亿计（原书自载）；其晚年败落细节本数据集所据来源未备，戊运十五年失败期为韦氏预断，待另核（盲测比对时以格局大富一项为主）"
+  },
+  "BZ-104": {
+   "patterns": {
+    "P1_match_verdict": [
+     "应验"
+    ],
+    "P7_source_ref": [
+     "书内",
+     "自述"
+    ]
+   },
+   "outcome": "1991年元月邵再回老家，老友夫妇告知：其子1990年先患肝炎住院，后又骑摩托车撞伤，病灾、伤灾均应验（书内自述，求测方口头反馈，无第三方记录）"
+  },
+  "BZ-105": {
+   "patterns": {
+    "P2_prediction_ref": [
+     "断语"
+    ],
+    "P7_source_ref": [
+     "书内",
+     "自述"
+    ]
+   },
+   "outcome": "求测者当场证实1972年患目疾几近失明、1982年患病住院（书内自述）。按：此为回溯断验（retrodiction），断的是已发生且求测者本人知晓之事，盲测价值低于C04类前瞻断语，使用时须分开统计"
+  },
+  "BZ-302": {
+   "patterns": {
+    "P9_residual": [
+     "应了「"
+    ]
+   },
+   "outcome": "缪斌抗战时投汪伪，战后被捕；其妻请同乡吴稚晖向蒋介石说情，吴奔走过力反启蒋疑，国民政府下令将缪斌枪决（1946年），应了「受累于吴」"
+  },
+  "BZ-303": {
+   "patterns": {
+    "P1_match_verdict": [
+     "相符"
+    ]
+   },
+   "outcome": "香港住宅楼价自2021年高位至2024-2025年低谷累计下跌约四成，2024年后经济与楼市持续低迷，与「好运到2024」方向大致相符；「北区转旺」与2021年施政报告提出北部都会区战略在叙事上呼应，但属政策规划而非市场自发结果"
+  },
+  "DT-004": {
+   "patterns": {
+    "P7_source_ref": [
+     "原文"
+    ]
+   },
+   "outcome": "其子果死（原文作『其子果死不救』）。"
+  },
+  "DT-005": {
+   "patterns": {
+    "P1_match_verdict": [
+     "果然"
+    ]
+   },
+   "outcome": "果然无事（子病无事）。"
+  },
+  "DT-006": {
+   "patterns": {
+    "P1_match_verdict": [
+     "果然"
+    ]
+   },
+   "outcome": "果然无事（子病无事）。"
+  },
+  "LR2-013": {
+   "patterns": {
+    "P1_match_verdict": [
+     "应验"
+    ],
+    "P7_source_ref": [
+     "原文",
+     "应验段"
+    ]
+   },
+   "outcome": "及回奏，果罚俸，秋升闽抚，有功，寻授两广总督。罚俸、秋升闽抚、续授两广总督均载原文应验段。"
+  },
+  "LR2-014": {
+   "patterns": {
+    "P7_source_ref": [
+     "原文"
+    ]
+   },
+   "outcome": "思宗因旱祈雨，壬戌日赦文武大臣七人，此公在赦内。后知为张逢玄先生也。十二年后，果历仕途显要，今为少冢宰，寻转大司空。遇赦出狱与十二年后显要均载原文。"
+  },
+  "LR2-015": {
+   "patterns": {
+    "P1_match_verdict": [
+     "应验"
+    ],
+    "P7_source_ref": [
+     "原文",
+     "应验段"
+    ]
+   },
+   "outcome": "果五月奉旨热审，开豁谪戍，发京营立功，后监洪黑二将及予追剿，有功复职。恩宥、谪戍立功、复职均载原文应验段。"
+  },
+  "LR2-016": {
+   "patterns": {
+    "P2_prediction_ref": [
+     "断语"
+    ],
+    "P3_meta_text": [
+     "原文未"
+    ],
+    "P7_source_ref": [
+     "原文"
+    ],
+    "P8_correspond": [
+     "对应"
+    ]
+   },
+   "outcome": "众不然其说，三月冯大司寇上疏，旨意驳下，四月上疏，依拟脱离。三月驳、四月脱离与断语对应；原文未逐字复核「甲戌日巳时」的日时细节，评分时该细项请按未完全复核处理。"
+  },
+  "LR2-017": {
+   "patterns": {
+    "P1_match_verdict": [
+     "应验"
+    ],
+    "P7_source_ref": [
+     "原文",
+     "应验段"
+    ]
+   },
+   "outcome": "果六月奉命热审，豁罪谪戍，发京营立功处赎，后辛巳年升甘肃镇中军参将。六月遇赦与后升参将均载原文应验段。"
+  },
+  "LR2-018": {
+   "patterns": {
+    "P1_match_verdict": [
+     "应验"
+    ],
+    "P7_source_ref": [
+     "原文",
+     "应验段",
+     "注家"
+    ]
+   },
+   "outcome": "后曹大司礼奉命热审，开豁谪戍。遇赦开豁、谪戍两项均载原文应验段（注家引《明史》凤阳皇陵被焚、巡按吴振缨谪配互证）。"
+  },
+  "LR2-019": {
+   "patterns": {
+    "P1_match_verdict": [
+     "应验"
+    ],
+    "P2_prediction_ref": [
+     "断语"
+    ],
+    "P7_source_ref": [
+     "原文",
+     "应验段"
+    ],
+    "P8_correspond": [
+     "对应"
+    ]
+   },
+   "outcome": "后至扬州，高兵出城抢舡，遂与阁部商议，抽兵而退。半途抽兵而退与断语对应，载原文应验段。"
+  },
+  "LR2-020": {
+   "patterns": {
+    "P1_match_verdict": [
+     "应验",
+     "应验"
+    ],
+    "P2_prediction_ref": [
+     "断语"
+    ],
+    "P3_meta_text": [
+     "记载"
+    ],
+    "P7_source_ref": [
+     "原书",
+     "独立",
+     "原文"
+    ],
+    "P8_correspond": [
+     "对应"
+    ]
+   },
+   "outcome": "近江西百余里，男女五人被盗而死。此句在原书紧接断语载出，为独立应验记载：出行五人于江西百余里外被盗杀害，与「中途被劫、死于他乡」对应（沉溺破舟一项原文应验未另述，评分请按未复核处理）。"
+  },
+  "LR2-021": {
+   "patterns": {
+    "P1_match_verdict": [
+     "应验"
+    ],
+    "P7_source_ref": [
+     "原文",
+     "应验段"
+    ]
+   },
+   "outcome": "果寅日到平子门外，雪中遇雪贼，劫银四十两。到日（寅日）、遇贼、劫银数（四十两）均载原文应验段。"
+  },
+  "LR2-022": {
+   "patterns": {
+    "P7_source_ref": [
+     "原文"
+    ]
+   },
+   "outcome": "张友不言而去。顷焉一人至复占（白虎发用、丧吊全逢，三日内死者），张友又请吕纯阳下降判白数合于数，果三日死。同日复占与扶乩复核均同断，结局「果三日死」载原文。"
+  },
+  "LR2-023": {
+   "patterns": {
+    "P1_match_verdict": [
+     "果然",
+     "应验"
+    ],
+    "P3_meta_text": [
+     "记载"
+    ],
+    "P7_source_ref": [
+     "如断",
+     "原文"
+    ]
+   },
+   "outcome": "后果然（儿妇妊性别如断），澹宁壬午春死。当年脱险、儿妇生男生女、壬午春卒三项均见原文应验记载。"
+  },
+  "LR2-024": {
+   "patterns": {
+    "P1_match_verdict": [
+     "果然",
+     "果然",
+     "应验"
+    ],
+    "P2_prediction_ref": [
+     "断语"
+    ],
+    "P7_source_ref": [
+     "原文"
+    ]
+   },
+   "outcome": "已而果然。原文以「已而果然」承「七月必死」之断（应验句紧承断语末句、所指唯一），七月死期为本课结局。"
+  },
+  "LR3-002": {
+   "patterns": {
+    "P1_match_verdict": [
+     "应验"
+    ],
+    "P2_prediction_ref": [
+     "断语"
+    ],
+    "P7_source_ref": [
+     "自载"
+    ]
+   },
+   "outcome": "断尾自载应验：仅撤回剿贼；庚辰太岁受克、退位俱验。撤回事与庚辰退位两项均以确指事件/时点表述，附于断语之末（同 LR2-024 短承口径）。"
+  },
+  "LR3-004": {
+   "patterns": {
+    "P1_match_verdict": [
+     "应验"
+    ],
+    "P7_source_ref": [
+     "原文",
+     "应验段"
+    ]
+   },
+   "outcome": "后历任通州，擢南大司农、大司马，请告归里。历官之地（通州）与所历之职（南大司农、大司马）及最终请告归里均载原文应验段。"
+  },
+  "LR3-006": {
+   "patterns": {
+    "P1_match_verdict": [
+     "应验"
+    ],
+    "P7_source_ref": [
+     "原文",
+     "应验段"
+    ]
+   },
+   "outcome": "月内升天津巡抚，后以标官劫皇销事发，请告回里。荣转之职（天津巡抚）、退位之由（标官劫皇销事发请告）均载原文应验段。"
+  },
+  "LR3-008": {
+   "patterns": {
+    "P1_match_verdict": [
+     "果然",
+     "应验"
+    ],
+    "P7_source_ref": [
+     "原文",
+     "原文",
+     "应验段"
+    ]
+   },
+   "outcome": "起官一项原文以「后果然」短承；次年冬，推补兵部车驾司。得职之时点（次年冬）与职名（兵部车驾司）具体载于原文应验段。"
+  },
+  "LR3-010": {
+   "patterns": {
+    "P1_match_verdict": [
+     "应验"
+    ],
+    "P2_prediction_ref": [
+     "断语"
+    ],
+    "P7_source_ref": [
+     "应验段"
+    ],
+    "P8_correspond": [
+     "对应"
+    ]
+   },
+   "outcome": "后知为四明讳象坤钱相公所占。果因人言请告而去。所占之人于应验段揭明为钱象坤，去位方式（因人言请告而去）与断语对应。"
+  },
+  "LR3-101": {
+   "patterns": {
+    "P8_correspond": [
+     "对应",
+     "对应"
+    ]
+   },
+   "outcome": "后补刑部主政，恬退不仕。补刑部主政一节证其已中式入仕，与「必中」对应；「恬退不仕」与「居官未能远大」对应。同课旁载的代占会武中两名、占病死二人系一课多占的旁验，不属本例结局。"
+  },
+  "LR3-104": {
+   "patterns": {
+    "P8_correspond": [
+     "对应"
+    ]
+   },
+   "outcome": "后果以上章荐人，下狱拟配。上疏后下狱拟配，与「得罪君相、于公不利」对应。"
+  },
+  "LR3-107": {
+   "patterns": {
+    "P1_match_verdict": [
+     "应验"
+    ],
+    "P7_source_ref": [
+     "应验段"
+    ]
+   },
+   "outcome": "后知为荆州知府王承曾，甲戌进士，以失城逮问，贼破燕京始出。科第（甲戌进士）、王姓、荆州知府、以失城逮问（获罪朝廷）、京破始出（无大咎得脱）均于应验段揭明。"
+  },
+  "LR3-110": {
+   "patterns": {
+    "P3_meta_text": [
+     "原文未"
+    ],
+    "P7_source_ref": [
+     "原文"
+    ],
+    "P8_correspond": [
+     "对应"
+    ]
+   },
+   "outcome": "果后三日自刘家集寻得。后三日在刘家集寻得，与「三日内必获」对应（马色与西北方位两项原文未另逐字复核，评分时按未复核处理）。"
+  },
+  "LR3-112": {
+   "patterns": {
+    "P3_meta_text": [
+     "原文未",
+     "原文未"
+    ],
+    "P7_source_ref": [
+     "原文",
+     "原文"
+    ]
+   },
+   "outcome": "果后三月一贼入室，刘复来言及。后贼果被获，及询其姓名，则陈忠也（年少、独行、告官三日获等细项原文未逐项复核）。病断（甲戌年不保）原文未载后续结局。"
+  },
+  "LR3-114": {
+   "patterns": {
+    "P9_residual": [
+     "按部分合"
+    ]
+   },
+   "outcome": "其时亥时右邻木客已被劫（邻人被劫一节当场证实）；果次日北关门外行劫，遂获二名。贼劫邻人、复出作案被获均具体；惟获期为次日而非五日后、获二名而非八九人全获，应期与人数两项按部分合处理。"
+  },
+  "LR3-116": {
+   "patterns": {
+    "P1_match_verdict": [
+     "应验"
+    ],
+    "P2_prediction_ref": [
+     "断语",
+     "断语"
+    ],
+    "P7_source_ref": [
+     "原书"
+    ],
+    "P8_correspond": [
+     "对应"
+    ]
+   },
+   "outcome": "范大服，开帨视之，是牛黄二块，每块约重四分七八厘。二件、黄黑（牛黄）、贵重药材、每块四分七八厘与断语逐项对应（注解本作「石黄二块」，断语/应验以原书本「牛黄」为准，异文在此注明）。"
+  },
+  "LY-035": {
+   "patterns": {
+    "P1_match_verdict": [
+     "驗"
+    ]
+   },
+   "outcome": "果驗，己亥日到家"
+  },
+  "LY-102": {
+   "patterns": {
+    "P1_match_verdict": [
+     "证伪"
+    ],
+    "P7_source_ref": [
+     "书内",
+     "自述"
+    ]
+   },
+   "outcome": "第二天手术前再次检查，发现不是脑瘤，而是血管堵塞引起，钻孔放血后即愈（书内自述，与医院原诊断相反且被复查证实，是本卷可证伪性最强的占例之一）"
+  },
+  "LY-103": {
+   "patterns": {
+    "P1_match_verdict": [
+     "果然",
+     "应验"
+    ],
+    "P7_source_ref": [
+     "书内",
+     "自述"
+    ]
+   },
+   "outcome": "「果然应验」——当晚雨停，音乐会得以举办（书内自述，无气象记录佐证）"
+  },
+  "LY-212": {
+   "patterns": {
+    "P4_verdict_opener": [
+     "予曰"
+    ]
+   },
+   "outcome": "今早四隻大船橫渡﹐行至江心﹐忽起暴風﹐盡覆沒。此時屍滿長江﹐若不蒙君苦畱﹐已在江中矣。予曰﹕依數全無救星﹐定是兄之德行﹐我有何功﹐此非謂之避之則吉也﹖"
+  },
+  "LY-220": {
+   "patterns": {
+    "P1_match_verdict": [
+     "驗"
+    ]
+   },
+   "outcome": "彼曰﹕果有金弟屬猴﹐克曾功一第﹐餘三人皆從別業﹐可見數之責驗如此﹐後一年又登申榜。"
+  },
+  "LY-237": {
+   "patterns": {
+    "P1_match_verdict": [
+     "相合"
+    ]
+   },
+   "outcome": "果於出空之日見官﹐財利得意﹐月建財爻生世之故耳﹐官世相合﹐財動相生﹐財持世﹐官無缺陷﹐再得日月照臨﹐彼此緣投有幸。日月照臨者﹐日月生世生財﹐或世爻財爻而臨日月是也。"
+  },
+  "LY-250": {
+   "patterns": {
+    "P4_verdict_opener": [
+     "予曰"
+    ]
+   },
+   "outcome": "果於巳日到。或曰﹕用爻有病﹐莫問歸期﹐此卦申金化進神以克寅木﹐如何許回﹖予曰﹕彼問夫之平安﹐卽以不利斷之﹐今加往他處去否﹐夫爻受到制﹐不往他鄕﹐斷卦者各有取用耳。"
+  },
+  "LY-254": {
+   "patterns": {
+    "P4_verdict_opener": [
+     "予曰",
+     "予曰"
+    ]
+   },
+   "outcome": "卯辰日服藥還保平常﹐巳日忽然變癥﹐徧身疼痛難當﹐病人著急而問予曰﹕可傷命否﹖予曰﹕世值日建﹐何如傷命﹖快服解藥﹐過此巳午日則止疼矣﹐卽服解藥至申日其病如常"
+  },
+  "LY-259": {
+   "patterns": {
+    "P4_verdict_opener": [
+     "斷曰",
+     "予曰",
+     "予曰",
+     "予曰"
+    ]
+   },
+   "outcome": "數月後不斷曰﹕腰疼欲死﹐欲遷其墳。予曰﹕墳不必遷﹐卦中世爻被克﹐幸而旺相﹐土來克水﹐命道安土神則吉﹐果於安墳而愈。予曰﹕目下𨿽不遷改﹐終有遷改。彼曰﹕何也﹖予曰﹕化六沖不久之象。果於子年死母﹐起此冢合葬於他處也。"
+  },
+  "LY-413": {
+   "patterns": {
+    "P1_match_verdict": [
+     "果然"
+    ]
+   },
+   "outcome": "果然如是。"
+  },
+  "LY-425": {
+   "patterns": {
+    "P1_match_verdict": [
+     "果然"
+    ]
+   },
+   "outcome": "果然在第二年寅月沒有中榜﹐"
+  },
+  "LY-457": {
+   "patterns": {
+    "P1_match_verdict": [
+     "果然"
+    ]
+   },
+   "outcome": "後果中間人作獘﹐告到官府﹐誤了一个月。幸好到地頭上價格上漲﹐果然得了厚利。"
+  },
+  "LY-512": {
+   "patterns": {
+    "P1_match_verdict": [
+     "驗"
+    ],
+    "P7_source_ref": [
+     "徵驗"
+    ]
+   },
+   "outcome": "但此人功名之念切甚﹐讀書苦勝囊螢﹐文章當時竟未遊泮﹐後從戌二十餘載﹐或立軍功﹐或援例納粟﹐奔馳於名利之場﹐皓首無成﹐此子孫克官之徵驗也。"
+  },
+  "LY-524": {
+   "patterns": {
+    "P4_verdict_opener": [
+     "予曰"
+    ]
+   },
+   "outcome": "醫家先用漧薑湯試之﹐少刻開言肚疼之甚。予曰﹕何如快服此藥。醫家加減調理一夜﹐次日曰愈﹐"
+  },
+  "LY-613": {
+   "patterns": {
+    "P1_match_verdict": [
+     "相合"
+    ]
+   },
+   "outcome": "果於次日卯時生，母子平安，應卯時者，酉金與辰日相合。"
+  },
+  "LY-618": {
+   "patterns": {
+    "P1_match_verdict": [
+     "驗"
+    ],
+    "P7_source_ref": [
+     "之驗"
+    ]
+   },
+   "outcome": "果於子年建功卯年得意而歸，此應靜而逢沖之驗也。"
+  },
+  "LY-629": {
+   "patterns": {
+    "P1_match_verdict": [
+     "果然"
+    ],
+    "P4_verdict_opener": [
+     "予曰"
+    ],
+    "P7_source_ref": [
+     "依斷"
+    ]
+   },
+   "outcome": "彼曰：一一果然，葬可好否？予曰：依予取水作朝，棄山作向，許必大發，彼果依斷，葬後即如所言．"
+  },
+  "MH-001": {
+   "patterns": {
+    "P1_match_verdict": [
+     "應驗"
+    ],
+    "P2_prediction_ref": [
+     "斷語"
+    ],
+    "P3_meta_text": [
+     "記載"
+    ],
+    "P7_source_ref": [
+     "原文"
+    ]
+   },
+   "outcome": "次晚果有鄰女折花墮地傷股（應驗見本書序及本占傳世記載；本占原文以斷語收束）"
+  },
+  "MH-007": {
+   "patterns": {
+    "P1_match_verdict": [
+     "果然"
+    ]
+   },
+   "outcome": "至期，果然定親"
+  },
+  "MH-009": {
+   "patterns": {
+    "P1_match_verdict": [
+     "驗"
+    ],
+    "P7_source_ref": [
+     "之驗"
+    ]
+   },
+   "outcome": "果十日客至，有烹雞之驗"
+  },
+  "MP-010": {
+   "patterns": {
+    "P7_source_ref": [
+     "独立"
+    ]
+   },
+   "outcome": "国民党2023-05-17征召侯友宜而非郭台铭；郭台铭独立参选连署后于2023-11-24宣布退选，未成为候选人；2024-01-13赖清德当选总统"
+  },
+  "OC-001": {
+   "patterns": {
+    "P1_match_verdict": [
+     "相合"
+    ],
+    "P2_prediction_ref": [
+     "断语"
+    ]
+   },
+   "outcome": "吴佩孚1927年后下野，晚年寓居北平，拒绝日伪拉拢出山，1939年12月4日卒于北平。其「终隐」与甲运（1930年代）在野避祸、晚年安康寿终的大势与断语相合。"
+  },
+  "OC-004": {
+   "patterns": {
+    "P1_match_verdict": [
+     "相合"
+    ],
+    "P2_prediction_ref": [
+     "断语"
+    ]
+   },
+   "outcome": "颜惠庆1933年（癸酉）出任驻苏联大使，与断语所指年份、职务相合；后任驻美大使等职，1950年卒于上海。"
+  },
+  "OC-006": {
+   "patterns": {
+    "P1_match_verdict": [
+     "相合"
+    ],
+    "P2_prediction_ref": [
+     "断语",
+     "断言"
+    ],
+    "P6_partial_eval": [
+     "仅部分"
+    ]
+   },
+   "outcome": "申新系统危机后虽经整顿存续，荣宗敬本人于1938年卒于上海，其事业在其生前未再现「大振旗鼓」之势——断语的近期乐观断言与结局仅部分相合。"
+  },
+  "OC-007": {
+   "patterns": {
+    "P1_match_verdict": [
+     "相合"
+    ],
+    "P2_prediction_ref": [
+     "断语"
+    ]
+   },
+   "outcome": "袁寒云1931年（辛未）病逝于天津，年仅41岁；生前以名士自放，未任显职，与断语所论性情、际遇、卒年相合。"
+  },
+  "OC-008": {
+   "patterns": {
+    "P9_residual": [
+     "超出「"
+    ]
+   },
+   "outcome": "商震后历任军委会办公厅主任、驻日大使、联合国军事代表团团长等，1975年卒于日本。其后半生权位确超出「一方领袖」格局。"
+  },
+  "OC-010": {
+   "patterns": {
+    "P1_match_verdict": [
+     "不合"
+    ]
+   },
+   "outcome": "溥仪1932年出任伪满洲国执政、1934年称帝，为日本傀儡（壬辰运失自由、任人支配与此合）；1945年被俘，1959年特赦，1967年卒于北京，年61岁。其「五十五未运寿终」之断与实际卒年（61岁）不合。"
+  },
+  "OC-012": {
+   "patterns": {
+    "P1_match_verdict": [
+     "相合"
+    ]
+   },
+   "outcome": "杨秀琼1930年代为全国泳坛冠军；1937年（丁丑）与陶伯龄结婚，与「关睢之兆」相合；后移居香港、北美，晚景飘零，1982年卒于温哥华。"
+  },
+  "OC-013": {
+   "patterns": {
+    "P1_match_verdict": [
+     "相合"
+    ],
+    "P2_prediction_ref": [
+     "断语"
+    ]
+   },
+   "outcome": "周信芳为京剧大师，盛名终身；晚年在文革中受迫害，1975年卒于上海。其晚年多纠纷、不得退隐自保的结局与断语后段相合。"
+  },
+  "OC-015": {
+   "patterns": {
+    "P9_residual": [
+     "多合"
+    ]
+   },
+   "outcome": "乔治五世青年时环游世界、任海军军官，1891年患伤寒，1892年长兄阿尔伯特·维克多逝世，1910年（庚戌）登基，1936年1月20日崩。事历大势与韦氏所论多合，但韦文「辛亥年（1911）登基、47岁」与史实（1910年登基、时年44/45岁）有出入。"
+  },
+  "OC-016": {
+   "patterns": {
+    "P1_match_verdict": [
+     "相合"
+    ]
+   },
+   "outcome": "韦千里终身以职业命师与著述为业，未入仕途显贵，晚年居香港，1988年卒。其一生轨迹与自断「笔耕终身、富贵无望」相合。"
+  },
+  "OC-017": {
+   "patterns": {
+    "P1_match_verdict": [
+     "相合"
+    ]
+   },
+   "outcome": "刘澄如为南浔「四象」级丝商巨富之后，以富有著称，无显赫官位，与「不贵而极富」之断相合。"
+  },
+  "OC-018": {
+   "patterns": {
+    "P1_match_verdict": [
+     "相合"
+    ],
+    "P2_prediction_ref": [
+     "断语"
+    ],
+    "P8_correspond": [
+     "正合"
+    ]
+   },
+   "outcome": "史量才1934年11月13日在沪杭道上遇刺身亡，震动全国。其报业地位正合「无冕帝王」之喻，结局为遇刺，与断语相合。"
+  },
+  "OC-019": {
+   "patterns": {
+    "P1_match_verdict": [
+     "相合"
+    ],
+    "P2_prediction_ref": [
+     "断语"
+    ]
+   },
+   "outcome": "杨杏佛于1933年6月18日在上海中央研究院门前遇刺身亡，与断语所指年份与事类相合。"
+  },
+  "OC-020": {
+   "patterns": {
+    "P1_match_verdict": [
+     "相合"
+    ],
+    "P2_prediction_ref": [
+     "断语"
+    ]
+   },
+   "outcome": "谭延闿于1930年9月22日在南京因脑溢血逝世，时任国民政府主席，与断语所指年份、死因相合。"
+  },
+  "OC-021": {
+   "patterns": {
+    "P1_match_verdict": [
+     "相合"
+    ]
+   },
+   "outcome": "陆荣廷为旧桂系首领，历任广西都督、两广巡阅使，1924年下野，1928年卒于苏州。其一生确居一方之首，与「极等之贵」的定性相合。"
+  },
+  "OC-022": {
+   "patterns": {
+    "P1_match_verdict": [
+     "相合"
+    ],
+    "P2_prediction_ref": [
+     "断言"
+    ]
+   },
+   "outcome": "袁树珊屡试不第后弃功名，以行医、命卜与著述立身，成为民国最具影响力的命学著述家之一（《命理探原》《大六壬探原》等行世）。其「科第难登而以学立身」的自断与生平相合；卒年有1952与1968两说，本例不取卒年断言。"
+  },
+  "OC-023": {
+   "patterns": {
+    "P1_match_verdict": [
+     "相合",
+     "应验"
+    ],
+    "P2_prediction_ref": [
+     "断语",
+     "断语"
+    ],
+    "P3_meta_text": [
+     "原文中",
+     "独立成句",
+     "可分离"
+    ],
+    "P7_source_ref": [
+     "应验段",
+     "原文",
+     "独立"
+    ]
+   },
+   "outcome": "开钟视之，乃玉绦环，果已破损——物类（玉环，贵重）、形状（圆）、状态（破）、色泽（白）与断语逐项相合。应验段在原文中独立成句（「开视，乃玉绦环，果破矣」），与断语可分离。"
+  },
+  "OC-024": {
+   "patterns": {
+    "P1_match_verdict": [
+     "应验"
+    ],
+    "P7_source_ref": [
+     "如言",
+     "独立",
+     "如言"
+    ]
+   },
+   "outcome": "其家如言掘之，果得金，葬事得办。应验句独立（「其家如言，果得金」）。"
+  },
+  "OC-025": {
+   "patterns": {
+    "P1_match_verdict": [
+     "相合"
+    ]
+   },
+   "outcome": "届期果有道者来访，坐破其椅，与预书相合。"
+  },
+  "OC-026": {
+   "patterns": {
+    "P1_match_verdict": [
+     "应验"
+    ],
+    "P2_prediction_ref": [
+     "断语"
+    ],
+    "P3_meta_text": [
+     "独立载"
+    ],
+    "P7_source_ref": [
+     "应验段",
+     "独立",
+     "原文"
+    ]
+   },
+   "outcome": "后知来占者为赵忻城昆弟；果于是年六月奉诏进京，授京营提督，甲申年又升京营戎政。应验段独立载于原文断语之后。"
+  },
+  "OC-027": {
+   "patterns": {
+    "P1_match_verdict": [
+     "应验"
+    ],
+    "P3_meta_text": [
+     "独立载"
+    ],
+    "P7_source_ref": [
+     "应验段",
+     "独立",
+     "原文"
+    ]
+   },
+   "outcome": "果至青州遇兵不能进；及至京授天津屯田巡抚；李自成破京后遂归里；其母于乙酉年（1645）寿终，年81虚岁。应验段独立载于原文。"
+  },
+  "OC-028": {
+   "patterns": {
+    "P1_match_verdict": [
+     "应验"
+    ],
+    "P3_meta_text": [
+     "独立载"
+    ],
+    "P7_source_ref": [
+     "应验段",
+     "独立",
+     "原文"
+    ]
+   },
+   "outcome": "果后考入垣中（都察院系统），历转山海巡抚、都御史。应验段独立载于原文。"
+  },
+  "OC-029": {
+   "patterns": {
+    "P1_match_verdict": [
+     "应验"
+    ],
+    "P3_meta_text": [
+     "独立载"
+    ],
+    "P7_source_ref": [
+     "如言",
+     "独立",
+     "原文"
+    ]
+   },
+   "outcome": "三客至、内有杨姓，果如言；王宅书房被盗，所盗为郎君之物，三日后贼复来尽盗父子衣物；冬月清兵入山东、攻城陷邑，一一如占；王米山迁居淮安新安镇，其母未度九十而终（89岁）。各应验点均独立载于原文。"
+  },
+  "OC-030": {
+   "patterns": {
+    "P1_match_verdict": [
+     "应验"
+    ],
+    "P7_source_ref": [
+     "原文",
+     "应验段",
+     "独立"
+    ]
+   },
+   "outcome": "未几，工科上疏题复巡按差，巡方官复设；吏书缺未复。原文以「以四课不全，故占二得一」收束，应验段独立。"
+  },
+  "YY-022": {
+   "patterns": {
+    "P1_match_verdict": [
+     "果然"
+    ]
+   },
+   "outcome": "后果然。"
+  },
+  "YY-023": {
+   "patterns": {
+    "P1_match_verdict": [
+     "果然"
+    ]
+   },
+   "outcome": "后果然。"
+  }
+ }
+}
