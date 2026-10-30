@@ -1,0 +1,2 @@
+冻结盲测提示（R17 轮所用模板，此后各轮逐字套用、仅替换轮次与批次键）：
+只做本批预测，不评审、不看任何金标/结局/大师断语文件。读 runs/roundN/batches.json 取本批案例 id；每例只读 benchmark/phase3/inputs/<case_id>.json 与 benchmark/phase3/method/（SKILL.md＋references/ 对应篇），按方法独立起断；预测写 runs/roundN/predictions/<case_id>.json，字段 case_id / prediction_text（方向＋具体断语＋应期/时间窗，方法要求的置信与分层照写）/ basis / confidence（0–1）/ trigger（六爻：changed_main、reserve_used、disputed 三布尔＋reason；非六爻三项全 false、reason 空串）。不读任何 runs 的 predictions/judging/final-scores/splits/金标；输入残损照实在 basis 注明并降置信，不臆补。回传：本批案例数、已写文件数、六爻 trigger 三项计数、异常说明。
