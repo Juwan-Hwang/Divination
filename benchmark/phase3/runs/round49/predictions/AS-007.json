@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-007",
+ "prediction_text": "方向：Waller（议会军）胜，Hopton（保王军）败。断语：Waller一方征象月亮居擢升与木星同在、太阳（其资财/助军之主）居10宫正在擢升度数（白羊19°），主其势正盛且得助；Hopton征象土星居日下（sub radiis）、入弱、孤立无相位、无定位（peregrine）且刑7宫头，其9宫仅火星与南交点，主无后援接济。此为当日交战单点胜负，无近远两段。应期：即日（1644年3月29日交战当日）见分晓。置信高。",
+ "basis": "体系：西方卜卦占星（horary，Lilly 战争胜负，整宫）。依据输入：上升与月亮、木星、金星归Waller方；土星7宫主归Hopton；月亮擢升合木星；太阳居10宫擢升度；Hopton土星sub radiis、fall、peregrine、无相位；9宫仅火星与南交点主无供给。",
+ "confidence": 0.85,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
