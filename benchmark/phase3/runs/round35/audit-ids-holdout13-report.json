@@ -1,0 +1,633 @@
+{
+ "selected": [
+  "DA-002",
+  "DA-004",
+  "DA-005",
+  "DA-008",
+  "DA-010",
+  "DA-011",
+  "DA-012",
+  "DA-013",
+  "BY-002",
+  "BY-003",
+  "BY-004",
+  "BY-005",
+  "BY-006",
+  "CY-002",
+  "CY-003",
+  "CY-004",
+  "QL-013",
+  "QL-014",
+  "QL-023",
+  "QL-025",
+  "QL-026",
+  "QL-027",
+  "QL-030",
+  "QL-031",
+  "QL-032",
+  "QL-035",
+  "NL-006",
+  "NL-049",
+  "CZ-002",
+  "CZ-003",
+  "CZ-004",
+  "CZ-006",
+  "CZ-007",
+  "CZ-008",
+  "CZ-010",
+  "CZ-011",
+  "CZ-012",
+  "CZ-014",
+  "CZ-015",
+  "CZ-016"
+ ],
+ "per_id": {
+  "DA-002": {
+   "carriers": [
+    "benchmark/phase3/expansion12/liuren-duanan/cases-a.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": []
+  },
+  "DA-004": {
+   "carriers": [
+    "benchmark/phase3/expansion12/liuren-duanan/cases-a.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": []
+  },
+  "DA-005": {
+   "carriers": [
+    "benchmark/phase3/expansion12/liuren-duanan/cases-a.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": []
+  },
+  "DA-008": {
+   "carriers": [
+    "benchmark/phase3/expansion12/liuren-duanan/cases-a.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": []
+  },
+  "DA-010": {
+   "carriers": [
+    "benchmark/phase3/expansion12/liuren-duanan/cases-a.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": []
+  },
+  "DA-011": {
+   "carriers": [
+    "benchmark/phase3/expansion12/liuren-duanan/cases-a.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": []
+  },
+  "DA-012": {
+   "carriers": [
+    "benchmark/phase3/expansion12/liuren-duanan/cases-a.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": []
+  },
+  "DA-013": {
+   "carriers": [
+    "benchmark/phase3/expansion12/liuren-duanan/cases-a.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": []
+  },
+  "BY-002": {
+   "carriers": [
+    "benchmark/phase3/expansion12/liuren-bianyi-yuce/cases-reviewed.jsonl",
+    "benchmark/phase3/expansion12/liuren-bianyi-yuce/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": [
+    "benchmark/phase3/expansion12/liuren-bianyi-yuce/cases.jsonl"
+   ]
+  },
+  "BY-003": {
+   "carriers": [
+    "benchmark/phase3/expansion12/liuren-bianyi-yuce/cases-reviewed.jsonl",
+    "benchmark/phase3/expansion12/liuren-bianyi-yuce/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": [
+    "benchmark/phase3/expansion12/liuren-bianyi-yuce/cases.jsonl"
+   ]
+  },
+  "BY-004": {
+   "carriers": [
+    "benchmark/phase3/expansion12/liuren-bianyi-yuce/cases-reviewed.jsonl",
+    "benchmark/phase3/expansion12/liuren-bianyi-yuce/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": [
+    "benchmark/phase3/expansion12/liuren-bianyi-yuce/cases.jsonl"
+   ]
+  },
+  "BY-005": {
+   "carriers": [
+    "benchmark/phase3/expansion12/liuren-bianyi-yuce/cases-reviewed.jsonl",
+    "benchmark/phase3/expansion12/liuren-bianyi-yuce/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": [
+    "benchmark/phase3/expansion12/liuren-bianyi-yuce/cases.jsonl"
+   ]
+  },
+  "BY-006": {
+   "carriers": [
+    "benchmark/phase3/expansion12/liuren-bianyi-yuce/cases-reviewed.jsonl",
+    "benchmark/phase3/expansion12/liuren-bianyi-yuce/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": [
+    "benchmark/phase3/expansion12/liuren-bianyi-yuce/cases.jsonl"
+   ]
+  },
+  "CY-002": {
+   "carriers": [
+    "benchmark/phase3/expansion12/liuren-cuiyan/cases-munong.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": []
+  },
+  "CY-003": {
+   "carriers": [
+    "benchmark/phase3/expansion12/liuren-cuiyan/cases-munong.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": []
+  },
+  "CY-004": {
+   "carriers": [
+    "benchmark/phase3/expansion12/liuren-cuiyan/cases-munong.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": []
+  },
+  "QL-013": {
+   "carriers": [
+    "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": [
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ]
+  },
+  "QL-014": {
+   "carriers": [
+    "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": [
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ]
+  },
+  "QL-023": {
+   "carriers": [
+    "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": [
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ]
+  },
+  "QL-025": {
+   "carriers": [
+    "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": [
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ]
+  },
+  "QL-026": {
+   "carriers": [
+    "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": [
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ]
+  },
+  "QL-027": {
+   "carriers": [
+    "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": [
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ]
+  },
+  "QL-030": {
+   "carriers": [
+    "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": [
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ]
+  },
+  "QL-031": {
+   "carriers": [
+    "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": [
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ]
+  },
+  "QL-032": {
+   "carriers": [
+    "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": [
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ]
+  },
+  "QL-035": {
+   "carriers": [
+    "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": [
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ]
+  },
+  "NL-006": {
+   "carriers": [
+    "benchmark/phase3/expansion12/natal-leftovers/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": []
+  },
+  "NL-049": {
+   "carriers": [
+    "benchmark/phase3/expansion12/natal-leftovers/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": []
+  },
+  "CZ-002": {
+   "carriers": [
+    "benchmark/phase3/expansion12/online-routes/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": []
+  },
+  "CZ-003": {
+   "carriers": [
+    "benchmark/phase3/expansion12/online-routes/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": []
+  },
+  "CZ-004": {
+   "carriers": [
+    "benchmark/phase3/expansion12/online-routes/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": []
+  },
+  "CZ-006": {
+   "carriers": [
+    "benchmark/phase3/expansion12/online-routes/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": []
+  },
+  "CZ-007": {
+   "carriers": [
+    "benchmark/phase3/expansion12/online-routes/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": []
+  },
+  "CZ-008": {
+   "carriers": [
+    "benchmark/phase3/expansion12/online-routes/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": []
+  },
+  "CZ-010": {
+   "carriers": [
+    "benchmark/phase3/expansion12/online-routes/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": []
+  },
+  "CZ-011": {
+   "carriers": [
+    "benchmark/phase3/expansion12/online-routes/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": []
+  },
+  "CZ-012": {
+   "carriers": [
+    "benchmark/phase3/expansion12/online-routes/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": []
+  },
+  "CZ-014": {
+   "carriers": [
+    "benchmark/phase3/expansion12/online-routes/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": []
+  },
+  "CZ-015": {
+   "carriers": [
+    "benchmark/phase3/expansion12/online-routes/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": []
+  },
+  "CZ-016": {
+   "carriers": [
+    "benchmark/phase3/expansion12/online-routes/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": []
+  }
+ },
+ "conflicts": {
+  "BY-002": {
+   "carriers": [
+    "benchmark/phase3/expansion12/liuren-bianyi-yuce/cases-reviewed.jsonl",
+    "benchmark/phase3/expansion12/liuren-bianyi-yuce/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": [
+    "benchmark/phase3/expansion12/liuren-bianyi-yuce/cases.jsonl"
+   ]
+  },
+  "BY-003": {
+   "carriers": [
+    "benchmark/phase3/expansion12/liuren-bianyi-yuce/cases-reviewed.jsonl",
+    "benchmark/phase3/expansion12/liuren-bianyi-yuce/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": [
+    "benchmark/phase3/expansion12/liuren-bianyi-yuce/cases.jsonl"
+   ]
+  },
+  "BY-004": {
+   "carriers": [
+    "benchmark/phase3/expansion12/liuren-bianyi-yuce/cases-reviewed.jsonl",
+    "benchmark/phase3/expansion12/liuren-bianyi-yuce/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": [
+    "benchmark/phase3/expansion12/liuren-bianyi-yuce/cases.jsonl"
+   ]
+  },
+  "BY-005": {
+   "carriers": [
+    "benchmark/phase3/expansion12/liuren-bianyi-yuce/cases-reviewed.jsonl",
+    "benchmark/phase3/expansion12/liuren-bianyi-yuce/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": [
+    "benchmark/phase3/expansion12/liuren-bianyi-yuce/cases.jsonl"
+   ]
+  },
+  "BY-006": {
+   "carriers": [
+    "benchmark/phase3/expansion12/liuren-bianyi-yuce/cases-reviewed.jsonl",
+    "benchmark/phase3/expansion12/liuren-bianyi-yuce/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": [
+    "benchmark/phase3/expansion12/liuren-bianyi-yuce/cases.jsonl"
+   ]
+  },
+  "QL-013": {
+   "carriers": [
+    "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": [
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ]
+  },
+  "QL-014": {
+   "carriers": [
+    "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": [
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ]
+  },
+  "QL-023": {
+   "carriers": [
+    "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": [
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ]
+  },
+  "QL-025": {
+   "carriers": [
+    "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": [
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ]
+  },
+  "QL-026": {
+   "carriers": [
+    "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": [
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ]
+  },
+  "QL-027": {
+   "carriers": [
+    "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": [
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ]
+  },
+  "QL-030": {
+   "carriers": [
+    "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": [
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ]
+  },
+  "QL-031": {
+   "carriers": [
+    "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": [
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ]
+  },
+  "QL-032": {
+   "carriers": [
+    "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": [
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ]
+  },
+  "QL-035": {
+   "carriers": [
+    "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ],
+   "in_inputs_dev11": false,
+   "in_pool_ids": false,
+   "in_splits_lists": false,
+   "carriers_outside_source": [
+    "benchmark/phase3/expansion12/natal-batch2/cases.jsonl"
+   ]
+  }
+ }
+}

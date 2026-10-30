@@ -1,0 +1,966 @@
+{
+ "reserves": {
+  "DA_eligible": 162,
+  "DA_total": 167,
+  "BY_seal": 111,
+  "BY_total": 126,
+  "CY_eligible": 119,
+  "CY_total": 136,
+  "QL_seal": 18,
+  "NL_sealable": 7,
+  "CZ_total": 33,
+  "HZ_total": 1
+ },
+ "used12": [
+  "DA-001",
+  "DA-028",
+  "DA-049",
+  "DA-069",
+  "DA-089",
+  "DA-111",
+  "DA-143",
+  "DA-166",
+  "DA-193",
+  "BY-001",
+  "BY-013",
+  "BY-026",
+  "BY-040",
+  "BY-052",
+  "BY-065",
+  "BY-082",
+  "BY-095",
+  "BY-108",
+  "CY-001",
+  "CY-015",
+  "CY-028",
+  "CY-041",
+  "CY-057",
+  "CYJ-011",
+  "CYJ-024",
+  "CYJ-037",
+  "CYJ-051",
+  "QL-001",
+  "QL-002",
+  "QL-003",
+  "QL-004",
+  "QL-005",
+  "QL-006",
+  "QL-007",
+  "QL-008",
+  "NL-001",
+  "NL-002",
+  "NL-005",
+  "NL-031",
+  "NL-043",
+  "CZ-001",
+  "CZ-005",
+  "CZ-009",
+  "CZ-013",
+  "CZ-017",
+  "CZ-021",
+  "CZ-025",
+  "CZ-029",
+  "HZ-001"
+ ],
+ "pick_ids": [
+  "DA-002",
+  "DA-004",
+  "DA-005",
+  "DA-008",
+  "DA-010",
+  "DA-011",
+  "DA-012",
+  "DA-013",
+  "BY-002",
+  "BY-003",
+  "BY-004",
+  "BY-005",
+  "BY-006",
+  "CY-002",
+  "CY-003",
+  "CY-004",
+  "QL-013",
+  "QL-014",
+  "QL-023",
+  "QL-025",
+  "QL-026",
+  "QL-027",
+  "QL-030",
+  "QL-031",
+  "QL-032",
+  "QL-035",
+  "NL-006",
+  "NL-049",
+  "CZ-002",
+  "CZ-003",
+  "CZ-004",
+  "CZ-006",
+  "CZ-007",
+  "CZ-008",
+  "CZ-010",
+  "CZ-011",
+  "CZ-012",
+  "CZ-014",
+  "CZ-015",
+  "CZ-016"
+ ],
+ "picks_by_source": {
+  "DA": [
+   "DA-002",
+   "DA-004",
+   "DA-005",
+   "DA-008",
+   "DA-010",
+   "DA-011",
+   "DA-012",
+   "DA-013"
+  ],
+  "BY": [
+   "BY-002",
+   "BY-003",
+   "BY-004",
+   "BY-005",
+   "BY-006"
+  ],
+  "CY": [
+   "CY-002",
+   "CY-003",
+   "CY-004"
+  ],
+  "QL": [
+   "QL-013",
+   "QL-014",
+   "QL-023",
+   "QL-025",
+   "QL-026",
+   "QL-027",
+   "QL-030",
+   "QL-031",
+   "QL-032",
+   "QL-035"
+  ],
+  "NL": [
+   "NL-006",
+   "NL-049"
+  ],
+  "CZ": [
+   "CZ-002",
+   "CZ-003",
+   "CZ-004",
+   "CZ-006",
+   "CZ-007",
+   "CZ-008",
+   "CZ-010",
+   "CZ-011",
+   "CZ-012",
+   "CZ-014",
+   "CZ-015",
+   "CZ-016"
+  ]
+ },
+ "checks": {
+  "DA-002": {
+   "source": "DA",
+   "grade_final": "A-low",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "DA-004": {
+   "source": "DA",
+   "grade_final": "A-low",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "DA-005": {
+   "source": "DA",
+   "grade_final": "A-low",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "DA-008": {
+   "source": "DA",
+   "grade_final": "A-low",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "DA-010": {
+   "source": "DA",
+   "grade_final": "A-low",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "DA-011": {
+   "source": "DA",
+   "grade_final": "A-low",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "DA-012": {
+   "source": "DA",
+   "grade_final": "A-low",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "DA-013": {
+   "source": "DA",
+   "grade_final": "A-low",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "BY-002": {
+   "source": "BY",
+   "grade_final": "A-low",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "BY-003": {
+   "source": "BY",
+   "grade_final": "A-low",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "BY-004": {
+   "source": "BY",
+   "grade_final": "A-low",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "BY-005": {
+   "source": "BY",
+   "grade_final": "A-low",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "BY-006": {
+   "source": "BY",
+   "grade_final": "A-low",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "CY-002": {
+   "source": "CY",
+   "grade_final": "A-low",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "CY-003": {
+   "source": "CY",
+   "grade_final": "A-low",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "CY-004": {
+   "source": "CY",
+   "grade_final": "A-low",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "QL-013": {
+   "source": "QL",
+   "grade_final": "A",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "QL-014": {
+   "source": "QL",
+   "grade_final": "A",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "QL-023": {
+   "source": "QL",
+   "grade_final": "A",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "QL-025": {
+   "source": "QL",
+   "grade_final": "A",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "QL-026": {
+   "source": "QL",
+   "grade_final": "A",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "QL-027": {
+   "source": "QL",
+   "grade_final": "A",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "QL-030": {
+   "source": "QL",
+   "grade_final": "A",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "QL-031": {
+   "source": "QL",
+   "grade_final": "A",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "QL-032": {
+   "source": "QL",
+   "grade_final": "A",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "QL-035": {
+   "source": "QL",
+   "grade_final": "A",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "NL-006": {
+   "source": "NL",
+   "grade_final": "A-low(addendum)",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "NL-049": {
+   "source": "NL",
+   "grade_final": "A",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "CZ-002": {
+   "source": "CZ",
+   "grade_final": "A-low",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "CZ-003": {
+   "source": "CZ",
+   "grade_final": "A-low",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "CZ-004": {
+   "source": "CZ",
+   "grade_final": "A",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "CZ-006": {
+   "source": "CZ",
+   "grade_final": "A",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "CZ-007": {
+   "source": "CZ",
+   "grade_final": "A",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "CZ-008": {
+   "source": "CZ",
+   "grade_final": "A",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "CZ-010": {
+   "source": "CZ",
+   "grade_final": "A-low",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "CZ-011": {
+   "source": "CZ",
+   "grade_final": "A",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "CZ-012": {
+   "source": "CZ",
+   "grade_final": "A",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "CZ-014": {
+   "source": "CZ",
+   "grade_final": "A-low",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "CZ-015": {
+   "source": "CZ",
+   "grade_final": "A",
+   "contamination_final": "low",
+   "issues": []
+  },
+  "CZ-016": {
+   "source": "CZ",
+   "grade_final": "A",
+   "contamination_final": "low",
+   "issues": []
+  }
+ },
+ "triples": {
+  "DA-002": [
+   "某（占者）",
+   "十二月戊申日子将申时。甲辰旬，寅卯空。",
+   "占晴雨"
+  ],
+  "DA-004": [
+   "张九翁（戊午生，五十一岁）",
+   "戊申年九月庚寅日辰将未时。甲申旬，午未空。",
+   "占宅"
+  ],
+  "DA-005": [
+   "叶助教（戊午生，五十一岁）",
+   "戊申年正月辛卯日子将未时。甲申旬，午未空。",
+   "占宅"
+  ],
+  "DA-008": [
+   "邵巡检（癸亥生，四十六岁）",
+   "戊申年六月二十八庚辰日午将寅时。甲戌旬，申酉空。",
+   "占宅"
+  ],
+  "DA-010": [
+   "邵伯达",
+   "己酉年十月十五庚寅日寅将酉时。甲申旬，午未空。",
+   "占求新宅基"
+  ],
+  "DA-011": [
+   "童保仪（丁巳生，五十二岁）",
+   "戊申年六月丁巳日未将酉时。甲寅旬，子丑空。",
+   "占宅"
+  ],
+  "DA-012": [
+   "郑宣义（己亥生，七十岁）",
+   "戊申年八月癸丑日巳将丑时。甲辰旬，寅卯空。",
+   "占家宅"
+  ],
+  "DA-013": [
+   "王德卿（辛酉生，四十八岁）",
+   "戊申年十月壬子日卯时卯将。甲辰旬，寅卯空。",
+   "占宅"
+  ],
+  "BY-002": [
+   "占者本人（寓樟树，往袁州）",
+   "甲寅年辰月丁巳日卯时（丑命卯年）",
+   "甲寅年往袁州行程吉凶、干支吉凶与涉害度厄"
+  ],
+  "BY-003": [
+   "占者本人（寓袁州）",
+   "咸丰甲寅年未月乙未日申时",
+   "占动静（去留）"
+  ],
+  "BY-004": [
+   "占者本人（寓县馆）",
+   "咸丰壬子年酉月甲戌日未时",
+   "占县馆可就否"
+  ],
+  "BY-005": [
+   "王姓（占祖坟）",
+   "咸丰甲寅年戌月丁卯日午时",
+   "王姓占祖坟（风水吉凶、子孙贫富）"
+  ],
+  "BY-006": [
+   "谷城靳月卿（占运货）",
+   "咸丰乙卯年未月己酉日未时",
+   "靳月卿占运货（行商吉凶）"
+  ],
+  "CY-002": [
+   "施南府高太守（绍友萧季思占）",
+   "庚辰年十二月丁未日寅时子将",
+   "占施南府高太守能到首府否"
+  ],
+  "CY-003": [
+   "两湖总督张铭园制军（乡友对奎思占）",
+   "辛巳年正月丙辰日午时子将",
+   "占两湖总督张铭园制军可升调否"
+  ],
+  "CY-004": [
+   "温令係方伯（乡友黄慎甫、同邑冯司马占）",
+   "辛巳年正月丁卯日卯时亥将",
+   "占温令係方伯更调否"
+  ],
+  "QL-013": [
+   "某儿（印重身轻）",
+   "不详（《千里命稿》应运篇为韦千里业命生涯实录与回顾讲例，原书初版于民国年间，所论多为已成事实之回顾或应验追记）",
+   "以某儿（印重身轻）四柱（庚申甲申癸卯庚申）论其一生"
+  ],
+  "QL-014": [
+   "郑君（潮州人）",
+   "不详（《千里命稿》应运篇为韦千里业命生涯实录与回顾讲例，原书初版于民国年间，所论多为已成事实之回顾或应验追记）",
+   "以郑君（潮州人）四柱（壬午己酉庚申丙子）论其一生"
+  ],
+  "QL-023": [
+   "吴君少君（吴君之子）",
+   "不详（《千里命稿》应运篇为韦千里业命生涯实录与回顾讲例，原书初版于民国年间，所论多为已成事实之回顾或应验追记）",
+   "以吴君少君（吴君之子）四柱（甲子丙子丙子戊子）论其一生"
+  ],
+  "QL-025": [
+   "陈君（陈姓一命）",
+   "不详（《千里命稿》应运篇为韦千里业命生涯实录与回顾讲例，原书初版于民国年间，所论多为已成事实之回顾或应验追记）",
+   "以陈君（陈姓一命）四柱（乙巳戊子丁未丙午）论其一生"
+  ],
+  "QL-026": [
+   "黄君",
+   "不详（《千里命稿》应运篇为韦千里业命生涯实录与回顾讲例，原书初版于民国年间，所论多为已成事实之回顾或应验追记）",
+   "以黄君四柱（癸巳甲寅壬辰庚子）论其一生"
+  ],
+  "QL-027": [
+   "某军人（佚名）",
+   "不详（《千里命稿》应运篇为韦千里业命生涯实录与回顾讲例，原书初版于民国年间，所论多为已成事实之回顾或应验追记）",
+   "以某军人（佚名）四柱（癸卯辛酉乙卯辛巳）论其一生"
+  ],
+  "QL-030": [
+   "某女（中储蓄会头奖者，佚名）",
+   "不详（《千里命稿》应运篇为韦千里业命生涯实录与回顾讲例，原书初版于民国年间，所论多为已成事实之回顾或应验追记）",
+   "以某女（中储蓄会头奖者，佚名）四柱（丁未癸卯癸亥乙卯）论其一生"
+  ],
+  "QL-031": [
+   "梅君（江西文学家）",
+   "不详（《千里命稿》应运篇为韦千里业命生涯实录与回顾讲例，原书初版于民国年间，所论多为已成事实之回顾或应验追记）",
+   "以梅君（江西文学家）四柱（壬午丙午甲午庚午）论其一生"
+  ],
+  "QL-032": [
+   "张君（本埠）",
+   "不详（《千里命稿》应运篇为韦千里业命生涯实录与回顾讲例，原书初版于民国年间，所论多为已成事实之回顾或应验追记）",
+   "以张君（本埠）四柱（辛丑辛丑丁酉丙午）论其一生"
+  ],
+  "QL-035": [
+   "陈馥堂（陈泳之胞兄）",
+   "不详（《千里命稿》应运篇为韦千里业命生涯实录与回顾讲例，原书初版于民国年间，所论多为已成事实之回顾或应验追记）",
+   "以陈馥堂（陈泳之胞兄）四柱（甲申戊辰丁未丙午）论其一生"
+  ],
+  "NL-006": [
+   "李弘毅之弟（名守秘）",
+   "不详（《呱呱集》上集为已成事实之回顾讲例，成书1963年）",
+   "以李弘毅之弟（名守秘）四柱（壬寅壬子丁卯辛丑）论其一生"
+  ],
+  "NL-049": [
+   "李国杰（合肥，李鸿章长孙）",
+   "不详（《子平真诠评注》讲例，徐氏评注成于民国年间，所论多为已成事实之回顾）",
+   "以李国杰（合肥，李鸿章长孙）四柱（辛巳辛丑庚申辛巳）论其一生"
+  ],
+  "CZ-002": [
+   "一人（问女病者，未具名）",
+   "原文未记",
+   "书门字问病（女性病人）"
+  ],
+  "CZ-003": [
+   "一人（问婚姻者，未具名）",
+   "原文未记",
+   "书乡字问婚姻"
+  ],
+  "CZ-004": [
+   "遗孤五岁（乳母代问，其师复参问）",
+   "原文未记（应验于九月初五）",
+   "以亥字问五岁病儿吉凶，复以一字、水字参决"
+  ],
+  "CZ-006": [
+   "一人（问婚姻者，未具名）",
+   "原文未记",
+   "书绣字问婚姻"
+  ],
+  "CZ-007": [
+   "一人（问摇会者，未具名）",
+   "原文未记",
+   "书瓦字问摇会得否"
+  ],
+  "CZ-008": [
+   "一人（问六甲者，未具名）",
+   "原文未记",
+   "书元字问六甲男女"
+  ],
+  "CZ-010": [
+   "一官（欲赴京选者）",
+   "原文未记（占时方冬令）",
+   "书门字问行期，兼叩功名"
+  ],
+  "CZ-011": [
+   "一人（问病者；病人四十九岁）",
+   "原文未记",
+   "书幸字问病"
+  ],
+  "CZ-012": [
+   "郭某（京口人，时授广东水师参将，二十九岁）",
+   "原文未记",
+   "书麟字问终身"
+  ],
+  "CZ-014": [
+   "一人（问女病者，未具名）",
+   "原文未记",
+   "书病字问病（女性病人）"
+  ],
+  "CZ-015": [
+   "邵令铭（浙绍人，时在衙门作幕，二十八岁；字由周龙携来代问）",
+   "原文未记",
+   "携笔字问终身（并问应聘吴江利否）"
+  ],
+  "CZ-016": [
+   "一人（问出外十余年之弟归期）",
+   "原文未记",
+   "书齿字问：『一人出外十余年，何时回来？』"
+  ]
+ },
+ "liuyao_census": {
+  "expansion3/cases.jsonl": {
+   "rows": 43,
+   "liuyao_rows": 43,
+   "ids": [
+    "LY-501",
+    "LY-502",
+    "LY-503",
+    "LY-504",
+    "LY-505",
+    "LY-506",
+    "LY-507",
+    "LY-508",
+    "LY-509",
+    "LY-510",
+    "LY-511",
+    "LY-512",
+    "LY-513",
+    "LY-514",
+    "LY-515",
+    "LY-516",
+    "LY-517",
+    "LY-518",
+    "LY-519",
+    "LY-520",
+    "LY-521",
+    "LY-522",
+    "LY-523",
+    "LY-524",
+    "LY-525",
+    "LY-526",
+    "LY-527",
+    "LY-528",
+    "LY-529",
+    "LY-530",
+    "LY-531",
+    "LY-532",
+    "LY-533",
+    "LY-534",
+    "LY-535",
+    "LY-536",
+    "LY-537",
+    "LY-538",
+    "LY-539",
+    "LY-540",
+    "LY-541",
+    "LY-542",
+    "LY-543"
+   ],
+   "fresh_A_low_unallocated": []
+  },
+  "expansion4/cases.jsonl": {
+   "rows": 29,
+   "liuyao_rows": 29,
+   "ids": [
+    "LY-601",
+    "LY-602",
+    "LY-603",
+    "LY-604",
+    "LY-605",
+    "LY-606",
+    "LY-607",
+    "LY-608",
+    "LY-609",
+    "LY-610",
+    "LY-611",
+    "LY-612",
+    "LY-613",
+    "LY-614",
+    "LY-615",
+    "LY-616",
+    "LY-617",
+    "LY-618",
+    "LY-619",
+    "LY-620",
+    "LY-621",
+    "LY-622",
+    "LY-623",
+    "LY-624",
+    "LY-625",
+    "LY-626",
+    "LY-627",
+    "LY-628",
+    "LY-629"
+   ],
+   "fresh_A_low_unallocated": []
+  },
+  "expansion5/cases.jsonl": {
+   "rows": 1,
+   "liuyao_rows": 1,
+   "ids": [
+    "LY-701"
+   ],
+   "fresh_A_low_unallocated": []
+  },
+  "expansion7/bushi-quanshu/cases.jsonl": {
+   "rows": 25,
+   "liuyao_rows": 25,
+   "ids": [
+    "BQ-001",
+    "BQ-002",
+    "BQ-003",
+    "BQ-004",
+    "BQ-005",
+    "BQ-006",
+    "BQ-007",
+    "BQ-008",
+    "BQ-009",
+    "BQ-010",
+    "BQ-011",
+    "BQ-012",
+    "BQ-013",
+    "BQ-014",
+    "BQ-015",
+    "BQ-016",
+    "BQ-017",
+    "BQ-018",
+    "BQ-019",
+    "BQ-020",
+    "BQ-021",
+    "BQ-022",
+    "BQ-023",
+    "BQ-024",
+    "BQ-025"
+   ],
+   "fresh_A_low_unallocated": []
+  },
+  "expansion7/yiyin/cases.jsonl": {
+   "rows": 24,
+   "liuyao_rows": 24,
+   "ids": [
+    "YY-001",
+    "YY-002",
+    "YY-003",
+    "YY-004",
+    "YY-005",
+    "YY-006",
+    "YY-007",
+    "YY-008",
+    "YY-009",
+    "YY-010",
+    "YY-011",
+    "YY-012",
+    "YY-013",
+    "YY-014",
+    "YY-015",
+    "YY-016",
+    "YY-017",
+    "YY-018",
+    "YY-019",
+    "YY-020",
+    "YY-021",
+    "YY-022",
+    "YY-023",
+    "YY-024"
+   ],
+   "fresh_A_low_unallocated": []
+  },
+  "expansion7/yiyin2/cases.jsonl": {
+   "rows": 5,
+   "liuyao_rows": 5,
+   "ids": [
+    "YY2-001",
+    "YY2-002",
+    "YY2-003",
+    "YY2-004",
+    "YY2-005"
+   ],
+   "fresh_A_low_unallocated": []
+  },
+  "expansion8/duanyi-tianji/cases.jsonl": {
+   "rows": 7,
+   "liuyao_rows": 7,
+   "ids": [
+    "DT-001",
+    "DT-002",
+    "DT-003",
+    "DT-004",
+    "DT-005",
+    "DT-006",
+    "DT-007"
+   ],
+   "fresh_A_low_unallocated": []
+  },
+  "expansion8/yimao/cases.jsonl": {
+   "rows": 70,
+   "liuyao_rows": 70,
+   "ids": [
+    "YM-001",
+    "YM-002",
+    "YM-003",
+    "YM-004",
+    "YM-005",
+    "YM-006",
+    "YM-007",
+    "YM-008",
+    "YM-009",
+    "YM-010",
+    "YM-011",
+    "YM-012",
+    "YM-013",
+    "YM-014",
+    "YM-015",
+    "YM-016",
+    "YM-017",
+    "YM-018",
+    "YM-019",
+    "YM-020",
+    "YM-021",
+    "YM-022",
+    "YM-023",
+    "YM-024",
+    "YM-025",
+    "YM-026",
+    "YM-027",
+    "YM-028",
+    "YM-029",
+    "YM-030",
+    "YM-031",
+    "YM-032",
+    "YM-033",
+    "YM-034",
+    "YM-035",
+    "YM-036",
+    "YM-037",
+    "YM-038",
+    "YM-039",
+    "YM-040",
+    "YM-041",
+    "YM-042",
+    "YM-043",
+    "YM-044",
+    "YM-045",
+    "YM-046",
+    "YM-047",
+    "YM-048",
+    "YM-049",
+    "YM-050",
+    "YM-051",
+    "YM-052",
+    "YM-053",
+    "YM-054",
+    "YM-055",
+    "YM-056",
+    "YM-057",
+    "YM-058",
+    "YM-059",
+    "YM-060",
+    "YM-061",
+    "YM-062",
+    "YM-063",
+    "YM-064",
+    "YM-065",
+    "YM-066",
+    "YM-067",
+    "YM-068",
+    "YM-069",
+    "YM-070"
+   ],
+   "fresh_A_low_unallocated": []
+  },
+  "expansion10/yilin-buyi/cases.jsonl": {
+   "rows": 13,
+   "liuyao_rows": 13,
+   "ids": [
+    "YB-001",
+    "YB-002",
+    "YB-003",
+    "YB-004",
+    "YB-005",
+    "YB-006",
+    "YB-007",
+    "YB-008",
+    "YB-009",
+    "YB-010",
+    "YB-011",
+    "YB-012",
+    "YB-013"
+   ],
+   "fresh_A_low_unallocated": []
+  },
+  "expansion10/yilin-buyi-zongduan/cases.jsonl": {
+   "rows": 9,
+   "liuyao_rows": 9,
+   "ids": [
+    "YB-014",
+    "YB-015",
+    "YB-016",
+    "YB-017",
+    "YB-018",
+    "YB-019",
+    "YB-020",
+    "YB-021",
+    "YB-022"
+   ],
+   "fresh_A_low_unallocated": []
+  },
+  "expansion11/bushi-zhengzong/cases.jsonl": {
+   "rows": 3,
+   "liuyao_rows": 3,
+   "ids": [
+    "ZG-001",
+    "ZG-002",
+    "ZG-003"
+   ],
+   "fresh_A_low_unallocated": []
+  },
+  "expansion12/huangjince-huozhulin/cases.jsonl": {
+   "rows": 1,
+   "liuyao_rows": 1,
+   "ids": [
+    "HZ-001"
+   ],
+   "fresh_A_low_unallocated": []
+  }
+ },
+ "liuyao_fresh_total": 0,
+ "gold_sha256": "75c5349d6184d5cace454dadb790433eabac731f38884b889cd1f9bd67aab483",
+ "card_notes": {
+  "DA-002": "课盘原文/三传自 scratch-archive/cases_raw.json 原文直录（评注续行已滤除、只留盘列）；grade_note 未入卡",
+  "DA-004": "课盘原文/三传自 scratch-archive/cases_raw.json 原文直录（评注续行已滤除、只留盘列）；grade_note 未入卡",
+  "DA-005": "课盘原文/三传自 scratch-archive/cases_raw.json 原文直录（评注续行已滤除、只留盘列）；grade_note 未入卡",
+  "DA-008": "课盘原文/三传自 scratch-archive/cases_raw.json 原文直录（评注续行已滤除、只留盘列）；grade_note 未入卡",
+  "DA-010": "课盘原文/三传自 scratch-archive/cases_raw.json 原文直录（评注续行已滤除、只留盘列）；grade_note 未入卡",
+  "DA-011": "课盘原文/三传自 scratch-archive/cases_raw.json 原文直录（评注续行已滤除、只留盘列）；grade_note 未入卡",
+  "DA-012": "课盘原文/三传自 scratch-archive/cases_raw.json 原文直录（评注续行已滤除、只留盘列）；grade_note 未入卡",
+  "DA-013": "课盘原文/三传自 scratch-archive/cases_raw.json 原文直录（评注续行已滤除、只留盘列）；grade_note 未入卡",
+  "BY-002": "课式/三传/四课/天地盘自原书排印本 PDF 页图直录（数据角视觉转录，2026-10-30）；排印本玄武省作「元」、三传天将按全称记、四课与天地盘天将行照原字；grade_note/review 未入卡",
+  "BY-003": "课式/三传/四课/天地盘自原书排印本 PDF 页图直录（数据角视觉转录，2026-10-30）；排印本玄武省作「元」、三传天将按全称记、四课与天地盘天将行照原字；grade_note/review 未入卡",
+  "BY-004": "课式/三传/四课/天地盘自原书排印本 PDF 页图直录（数据角视觉转录，2026-10-30）；排印本玄武省作「元」、三传天将按全称记、四课与天地盘天将行照原字；grade_note/review 未入卡",
+  "BY-005": "课式/三传/四课/天地盘自原书排印本 PDF 页图直录（数据角视觉转录，2026-10-30）；排印本玄武省作「元」、三传天将按全称记、四课与天地盘天将行照原字；grade_note/review 未入卡",
+  "BY-006": "课式/三传/四课/天地盘自原书排印本 PDF 页图直录（数据角视觉转录，2026-10-30）；排印本玄武省作「元」、三传天将按全称记、四课与天地盘天将行照原字；grade_note/review 未入卡",
+  "CY-002": "仅干支级建卡（原书有课盘列但转录未录盘字，不臆录）；grade_note 未入卡",
+  "CY-003": "仅干支级建卡（原书有课盘列但转录未录盘字，不臆录）；grade_note 未入卡",
+  "CY-004": "仅干支级建卡（原书有课盘列但转录未录盘字，不臆录）；grade_note 未入卡",
+  "QL-013": "四柱/性别自源行 chart 字段入 attachments；context 原文为空未填；源行 grade_note/review 未入卡",
+  "QL-014": "四柱/性别自源行 chart 字段入 attachments；context 原文为空未填；源行 grade_note/review 未入卡",
+  "QL-023": "四柱/性别自源行 chart 字段入 attachments；context 原文为空未填；源行 grade_note/review 未入卡",
+  "QL-025": "四柱/性别自源行 chart 字段入 attachments；context 原文为空未填；源行 grade_note/review 未入卡",
+  "QL-026": "四柱/性别自源行 chart 字段入 attachments；context 原文为空未填；源行 grade_note/review 未入卡",
+  "QL-027": "四柱/性别自源行 chart 字段入 attachments；context 原文为空未填；源行 grade_note/review 未入卡",
+  "QL-030": "四柱/性别自源行 chart 字段入 attachments；context 原文为空未填；subject/question 中后事身份词「中储蓄会头奖者」已删（照 holdout12 QL-006 卡卫生先例，金标不动）；源行 grade_note/review 未入卡",
+  "QL-031": "四柱/性别自源行 chart 字段入 attachments；context 原文为空未填；源行 grade_note/review 未入卡",
+  "QL-032": "四柱/性别自源行 chart 字段入 attachments；context 原文为空未填；源行 grade_note/review 未入卡",
+  "QL-035": "四柱/性别自源行 chart 字段入 attachments；context 原文为空未填；源行 grade_note/review 未入卡",
+  "NL-006": "四柱自 question_or_topic 括注提取入 attachments；性别据 subject 明示（弟/长孙）记男；源行 grade_note/review 未入卡",
+  "NL-049": "四柱自 question_or_topic 括注提取入 attachments；性别据 subject 明示（弟/长孙）记男；源行 grade_note/review 未入卡",
+  "CZ-002": "沿原 context 建卡；attachments 剔除 method_hint（断语侧理据）、仅留所测字；源行 grade_note/notes 未入卡",
+  "CZ-003": "沿原 context 建卡；attachments 剔除 method_hint（断语侧理据）、仅留所测字；源行 grade_note/notes 未入卡",
+  "CZ-004": "沿原 context 建卡；attachments 剔除 method_hint（断语侧理据）、仅留所测字；源行 grade_note/notes 未入卡",
+  "CZ-006": "沿原 context 建卡；attachments 剔除 method_hint（断语侧理据）、仅留所测字；源行 grade_note/notes 未入卡",
+  "CZ-007": "沿原 context 建卡；attachments 剔除 method_hint（断语侧理据）、仅留所测字；源行 grade_note/notes 未入卡",
+  "CZ-008": "沿原 context 建卡；attachments 剔除 method_hint（断语侧理据）、仅留所测字；源行 grade_note/notes 未入卡",
+  "CZ-010": "沿原 context 建卡；attachments 剔除 method_hint（断语侧理据）、仅留所测字；源行 grade_note/notes 未入卡",
+  "CZ-011": "沿原 context 建卡；attachments 剔除 method_hint（断语侧理据）、仅留所测字；源行 grade_note/notes 未入卡",
+  "CZ-012": "沿原 context 建卡；attachments 剔除 method_hint（断语侧理据）、仅留所测字；源行 grade_note/notes 未入卡",
+  "CZ-014": "沿原 context 建卡；attachments 剔除 method_hint（断语侧理据）、仅留所测字；源行 grade_note/notes 未入卡",
+  "CZ-015": "沿原 context 建卡；attachments 剔除 method_hint（断语侧理据）、仅留所测字；源行 grade_note/notes 未入卡",
+  "CZ-016": "沿原 context 建卡；attachments 剔除 method_hint（断语侧理据）、仅留所测字；源行 grade_note/notes 未入卡"
+ },
+ "prior_holdout_ids_count": 260
+}
