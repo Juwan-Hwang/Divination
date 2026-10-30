@@ -1,0 +1,15 @@
+{
+ "case_id": "AS-307",
+ "prediction_text": "受访职业占星师群体的表态终局偏向哈里斯胜选：多数人公开押哈里斯赢得2024年大选，特朗普落败；选情被描绘为接近，但表态合流点在哈里斯一方。",
+ "basis": "输入残损：无各位占星师原文与星盘，只有专题形式（HuffPost 2024年10月请多位选举占星师公开表态赢家）。按群体表态合流取向复原结论，不报票数；个体分歧无从复核，已降置信。",
+ "confidence": 0.42,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western-astrology"
+ ]
+}

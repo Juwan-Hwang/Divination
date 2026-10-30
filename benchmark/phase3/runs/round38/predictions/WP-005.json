@@ -1,0 +1,15 @@
+{
+ "case_id": "WP-005",
+ "prediction_text": "Direction: Donald Trump wins the 2016 US presidential election. The panel astrologer singled out in this input — the one who had already, against a 17-candidate field, picked Trump for the Republican nomination — follows through and picks Trump to win the White House on 8 November 2016, against the polling consensus favouring Clinton. Timing coordinate: the 8 November 2016 result (day-scale).",
+ "basis": "Western astrology, individual panel reading: this input deliberately singles out one astrologer whose earlier against-the-field Trump nomination pick proved the operative track record in the panel context; by the reader-decides convention, that astrologer's line — not the panel majority line recorded in the parallel case WP-004 — is the prediction to reproduce here. No charts are supplied in the input, so the call rests on the stated framing (the singled-out astrologer's prior Trump pick plus the question asked of that panel), with confidence capped for the missing chart data.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western astrology"
+ ]
+}

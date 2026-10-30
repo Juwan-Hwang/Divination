@@ -1,0 +1,16 @@
+{
+ "case_id": "AS-213",
+ "prediction_text": "逃犯向东而去，且可被抓回。十二宫头射手、木星在狮子、所在天象限与月亮星座众证一致指东。月亮近上升、刚离开木星三合而转入相冲太阳，两星俱在角宫——行踪将被人看见/被发现，太阳冲照主暴露；木星与水星有相位，消息、搜捕得力。应期：日档——窗口数日内，主坐标取月亮冲太阳成相之日，彼时有被发现、被擒获的消息。",
+ "basis": "Lilly卜卦占星逃亡者法：以十二宫及木星为逃犯征象，方向取诸证一致之东；月亮入相冲角宫之太阳主曝光被获。输入只有散文盘面要点、无全盘，抓回的具体地点无据，已降置信。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary-astrology",
+  "western-astrology"
+ ]
+}

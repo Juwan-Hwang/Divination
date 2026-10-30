@@ -1,0 +1,15 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "Direction: Hillary Clinton wins the 2016 US presidential election. The conference panel majority reads the charts for Clinton over Donald Trump in the 8 November 2016 election, in line with the polling lead she holds in October 2016 — a Democrat victory, expected to be clear rather than a coin-flip. Timing coordinate: the 8 November 2016 result (day-scale, fixed by election day).",
+ "basis": "Western astrology conference-panel reading (ISAR, Costa Mesa, October 2016) as framed in the input: the panel context and the race structure (Clinton leading in most polls, no specific dissenting astrologer singled out in this input) support the majority panel call for Clinton. No candidate charts or configurations are supplied in the input card, so this rests on the panel/race framing alone — an input limitation that caps confidence; the contrasting single-astrologer framing appears in a separate case (WP-005), not this one.",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western astrology"
+ ]
+}

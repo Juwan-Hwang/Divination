@@ -1,0 +1,15 @@
+{
+ "case_id": "AS-007",
+ "prediction_text": "沃勒（Sir William Waller）胜、霍普顿（Sir Ralph Hopton）败：代表沃勒一方的月亮擢升且与木星同在、太阳（其资财助力之主）在十宫居擢升正度（白羊 19°）；霍普顿的征象星土星入弱、焦伤（sub radiis）、无定位（peregrine）且不与任何行星成相，九宫只有火星与南交点、援军无着。胜负就在交战当日（1644 年 3 月 29 日）见分晓，霍普顿军被击退。",
+ "basis": "上升与月亮、木星、金星属沃勒方；土星为七宫主属霍普顿方，入弱、sub radiis、peregrine、无相位且刑七宫头；月亮擢升合木星、光增行速；太阳为沃勒助力主居十宫擢升度。Lilly 战争问以双方征象星尊贵与受克定胜负。",
+ "confidence": 0.9,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "西洋占星（卜卦占星 horary，整宫制，Lilly 古典规则）"
+ ]
+}

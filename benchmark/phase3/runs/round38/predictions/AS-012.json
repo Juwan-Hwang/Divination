@@ -1,0 +1,15 @@
+{
+ "case_id": "AS-012",
+ "prediction_text": "得不到这个教职（parsonage）：七项败象齐全——土星受困居上升伤问、九宫主木星与上升主及月亮皆无相位、无转光集光、无互容，上升主与月亮亦皆不在九宫，月亮离三合而趋冲三宫主水星，金星居七宫冲上升。任他强求亦不成，此职终归他人。属单点成败之问，无后段应期。",
+ "basis": "土星 impedited 居上升；木星为九宫主（教职征象）与上升主（原文火星字形有 OCR 疑误）无相、与月亮无相；无 translation/collection of light、无 reception；月亮离三合趋冲水星（九宫主原文作三宫主 Mercury，字形残损处照卡注记）；金星居七宫冲上升。Lilly 职位问：征象间无相位无接纳无转光，主不成。输入残损：个别行星字形在 1647 OCR 中讹误，七项否定证词为 Lilly 自列，方向判定不依赖残字。",
+ "confidence": 0.9,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "西洋占星（卜卦占星 horary，整宫制，Lilly 古典规则）"
+ ]
+}

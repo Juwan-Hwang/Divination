@@ -1,0 +1,15 @@
+{
+ "case_id": "AS-305",
+ "prediction_text": "特朗普胜选。选举日星盘与两候选人行运势均力敌、极难判断，胜负差距很小、过程胶着且可能伴随争议，但比较之下终局偏向特朗普一方险胜，哈里斯落败。",
+ "basis": "输入残损：无星盘、无原文结论，只有 setting 明言原作者自承盘面势均力敌、极难判断。据此只许给低置信的险胜方向断语，不报具体票数；所据为选举日盘比较两造行运的通行占星取法，已大幅降置信。",
+ "confidence": 0.38,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western-astrology"
+ ]
+}

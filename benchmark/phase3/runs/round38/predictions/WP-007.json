@@ -1,0 +1,15 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Direction: Donald Trump wins the 2016 election — and what decides it is the Clinton side's hidden-scandal burden. The reading's deciding factor: Clinton's email controversy and Clinton Foundation entanglements (already public in August 2016) weigh her candidacy down through the autumn and tip the election to Trump, despite Clinton's August polling lead. Timing coordinate: the 8 November 2016 result, decided by the scandal-driven erosion in the final stretch (month-scale window: September–November 2016, main coordinate election day).",
+ "basis": "Tarot reading as framed by the source (Manhattan reader, August 2016), with an input defect noted: the input card supplies no drawn cards, so no card-by-card Waite reading can be reproduced and confidence is cut accordingly. What the card does supply is the reader context and the two named Clinton controversies; the reproduced prediction is therefore stated at the level the input supports — winner (Trump) plus deciding factor (Clinton's email/Foundation scandal load) — without inventing specific cards, per the rule against fabricating a spread that was not given.",
+ "confidence": 0.45,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "tarot"
+ ]
+}

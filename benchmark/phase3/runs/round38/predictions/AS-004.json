@@ -1,0 +1,15 @@
+{
+ "case_id": "AS-004",
+ "prediction_text": "传闻不实：国王并未攻下剑桥。此盘诸角皆变动、月亮落陷失位（cadent 且在其不喜之座），代表国王的七宫主正入弱（fall）受克；反之问者一方（议会）的上升主得擢升之尊。消息属虚报，国王军无此进展。应期属即时核实类，无后段应期可报。",
+ "basis": "全角变动主事虚浮；土星伤十宫头、火星伤七宫头；月亮 cadent；上升主擢升而七宫主入弱受困。Lilly 第三十一章传闻真伪规则：主问方征象强、对方征象入弱、月亮失位，主传闻为假。",
+ "confidence": 0.85,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "西洋占星（卜卦占星 horary，整宫制，Lilly 古典规则）"
+ ]
+}
