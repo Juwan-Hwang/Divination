@@ -1,0 +1,354 @@
+{
+ "_provenance": "R53 数据席（评审旗标核对专席，与盲测/评审/W 席分离）逐件核查 R53 评审新旗标 28 件＋承接旧项 1 件（YM-070）。筛旗范围：benchmark/phase3/runs/round53/judging/judgeX-merged.json 与 judgeY-merged.json 全部 reason（487＋487＝974 条），筛出指出输入卡／结局记录／断语文本之间不一致、转录疑义、字段出入者；纯评分意见（合／不合、未载子断语细节、结局无可核时点、应期单位差等常规评分语）不算旗标，筛除口径与件数见 runs/round53/data-verify/FLAGS-review-r53.md。核对依据仅限：benchmark/phase3/inputs-dev12/<id>.json 原卡与 benchmark/phase3/runs/round53/judging/outcome-manifest.json 对应条目（cases，及 stripped_tail 若有）；既有定案承 benchmark/phase3/data/case-annotations-r49.json／r50／r51 与 runs/round52/data-verify/FLAGS-review-r52.md，只承接不重裁。标注只入本数据侧元数据文件，不入 inputs-dev12、不动 outcome-manifest 与任何分数（防盲测侧泄露）。未打开任何 holdout 封存件、predictions 与 final-scores；未联网；未改任何既有文件本体。",
+ "annotations": [
+  {
+   "case_id": "LY-206",
+   "disposition": "结局仅载死亡断面（承 R49 防不測断面定案）：所问终身财福，结局只记巳月生恶疮、酉月卒，财福面无对应结局记录。",
+   "finding": "属实。评审 X「所问财福终局无从印证」、Y「终身财薄断无结局对应」。回原卡：所问「占終身財福」；round53 manifest 结局仅「果至巳月而生惡瘡，卒於酉月。」——只载疾病死亡，全文无一字及财福，评审所指属实。此为 R49 已定案同案（防不測断面旁移），非建卡错位，本轮只承接登记。",
+   "flag": "问答断面不对位（结局仅载死亡、所问财福无对应记录）",
+   "manifest_carry_suggestion": "下一轮承接 R49＋本 R53 标注，manifest 附注断面类型，避免评审再以财福无对应重复立旗；结局原文照录不改。",
+   "registered_round": 53,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-206.json",
+    "benchmark/phase3/runs/round53/judging/outcome-manifest.json cases[LY-206]"
+   ]
+  },
+  {
+   "case_id": "LY-437",
+   "disposition": "占他应我（大师自标迁移）（承 R49／R51）：所问小厮病，结局对应迁移后功名断面，非问答配对错误。",
+   "finding": "属实。评审 X 明言结局「与病愈无关」。回原卡：所问「占小廝病」、setting 注占者本人为官；round53 manifest 结局仅「果於七月，被論革職，」——载占者本人功名事件，与小厮病无一字对应，评审所指属实。承 R49 定案与 R51 标注：大师自标「此卦不應小廝病，而應今秋功名有礙」，系原书自标迁移，非配对错误。",
+   "flag": "问答断面不对位（结局为占者革职、与所问小厮病无关）",
+   "manifest_carry_suggestion": "下一轮承接 R49＋R51＋本 R53 标注，manifest 附注迁移类型；结局原文照录不改。",
+   "registered_round": 53,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-437.json",
+    "benchmark/phase3/runs/round53/judging/outcome-manifest.json cases[LY-437]"
+   ]
+  },
+  {
+   "case_id": "LY-430",
+   "disposition": "两占合断＋危灾断面（承 R49）：所问掣签到任，结局对应再占危灾断面（病死）并构成不能到任之终局原因。",
+   "finding": "属实。评审 X 明言结局「与任职全然无关」。回原卡：所问占掣签何处、能否到任（初占＋再占）；round53 manifest 结局为「後果於七月，先得瀉疾……後竟渴死。」——只载病死经过，无一字及到任与否，评审所指属实。承 R49 定案：两占合断之危灾断面收束本例，非记录错位。",
+   "flag": "问答断面不对位（结局为病死、与所问到任全然无关）",
+   "manifest_carry_suggestion": "下一轮承接 R49＋本 R53 标注；结局原文照录不改。",
+   "registered_round": 53,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-430.json",
+    "benchmark/phase3/runs/round53/judging/outcome-manifest.json cases[LY-430]"
+   ]
+  },
+  {
+   "case_id": "LY-426",
+   "disposition": "旁及官非断面（承 R49／R50）：所问开店得利，结局对应因子女致官非断面，营运面无独立记载。",
+   "finding": "属实。评审 X 明言结局「与开店得利及亥月坐标无关不合」。回原卡：所问「占開店貿易得利否」；round53 manifest 结局仅「果於八月，因子賭博送官，子受杖刑而死。」——载子女官非事件，营运得利面无独立记载，评审所指属实。承 R49 定案、R50 身份确证与标注：结局对应大师原断后段旁及断面，非错位。",
+   "flag": "问答断面不对位（结局因子赌博送官、与开店得利无关）",
+   "manifest_carry_suggestion": "下一轮承接 R49＋R50＋本 R53 标注；结局原文照录不改。",
+   "registered_round": 53,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-426.json",
+    "benchmark/phase3/runs/round53/judging/outcome-manifest.json cases[LY-426]"
+   ]
+  },
+  {
+   "case_id": "LY-222",
+   "disposition": "大师改断面（承 R49）：子嗣问改断失散之子见归，结局父子相逢对应改断面。",
+   "finding": "属实。评审 X、Y 均指结局为失散之子相逢而非新生子嗣。回原卡：所问「占子嗣」，setting 自载求测者三十七岁有子、已十八、因乱失散；round53 manifest 结局仅「果於次年六月父子相逢。」——所载为失散子归来，非新生子嗣事件，评审所指属实。承 R49 定案：大师同条改断失子见归，非数据错位。",
+   "flag": "问答断面替换（结局为失散父子相逢、非新生子嗣）",
+   "manifest_carry_suggestion": "下一轮承接 R49＋本 R53 标注；结局原文照录不改。",
+   "registered_round": 53,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-222.json",
+    "benchmark/phase3/runs/round53/judging/outcome-manifest.json cases[LY-222]"
+   ]
+  },
+  {
+   "case_id": "LY-011",
+   "disposition": "双断例（承 R49）：所问母来，结局妹至对应同条第二断（兄弟必来）断面。",
+   "finding": "属实。评审 X「人与时全错」、Y「对象与应期均不合」。回原卡：所问「占母路隔千里何時來」，setting 自载求测者有妹无弟；round53 manifest 结局仅「果於次年三月妹至」——到者为妹非母，对象出入属实。承 R49 定案：同条双断（父母必不来、兄弟必来），结局应第二断，非配对错误。",
+   "flag": "问答对象不对位（所问母来、结局为妹至）",
+   "manifest_carry_suggestion": "下一轮承接 R49＋本 R53 标注；结局原文照录不改。",
+   "registered_round": 53,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-011.json",
+    "benchmark/phase3/runs/round53/judging/outcome-manifest.json cases[LY-011]"
+   ]
+  },
+  {
+   "case_id": "LY-023",
+   "disposition": "大师自标迁移（承 R49）：母病问现子女灾，结局子惊风对应迁移断面，母病结果源未另载。",
+   "finding": "属实。评审 X「结局仅载其子八月惊风，未载母病结果」。回原卡：所问「占母病」；round53 manifest 结局仅「果於八月其子驚風（其後復占子病，見 LY-024）」——母病结果确未载，评审所指属实。承 R49 定案：大师明言「不現母病，而現子女有災」，自标迁移，非错位。评审 Y 另称「断文明言子一栏不在应验内」所据为本轮断语文本，不在本席核对范围，只登记不核。",
+   "flag": "问答断面不对位（结局仅载子惊风、母病结果未载）",
+   "manifest_carry_suggestion": "下一轮承接 R49＋本 R53 标注；结局原文照录不改。",
+   "registered_round": 53,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-023.json",
+    "benchmark/phase3/runs/round53/judging/outcome-manifest.json cases[LY-023]"
+   ]
+  },
+  {
+   "case_id": "LY-508",
+   "disposition": "兼断寿夭断面（承 R49）：所问终身财福，结局对应兼断之寿夭断面，财福面无独立记载。",
+   "finding": "属实。评审 X「结局仅记死于丑年，贫薄终局未直接载」、Y「于贫薄终局无从印证」。回原卡：所问「占終身財福」；round53 manifest 结局仅「後從當夫頭死於丑年。」——只载死亡，财福面无独立记载，评审所指属实。承 R49 定案：终身财福章兼断寿夭，结局对应兼断面，非错位。",
+   "flag": "问答断面不对位（结局仅记死亡、财福终局未载）",
+   "manifest_carry_suggestion": "下一轮承接 R49＋本 R53 标注；结局原文照录不改。",
+   "registered_round": 53,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-508.json",
+    "benchmark/phase3/runs/round53/judging/outcome-manifest.json cases[LY-508]"
+   ]
+  },
+  {
+   "case_id": "LY-513",
+   "disposition": "间接验证例（承 R49 (乙) 部分不对位）：结局仅记病终，功名断语无对应结局事件。",
+   "finding": "属实。评审 Y「结局仅病终未载功名」、X「死于子丑年非断中事」。回原卡：所问「占終身功名（業已援例）」；round53 manifest 结局仅「至子年得病，丑年得蠱病而終。」——功名面无任何对应事件，评审所指属实。承 R49 定案 (乙)（部分）：源结局确实如此，非转录错置，系结局记录与所问的对应性缺口。",
+   "flag": "结局对应性缺口（结局仅记病终、功名断语无对应记录）",
+   "manifest_carry_suggestion": "下一轮承接 R49＋本 R53 标注，供建包／评审提示沿用；结局原文照录不改。",
+   "registered_round": 53,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-513.json",
+    "benchmark/phase3/runs/round53/judging/outcome-manifest.json cases[LY-513]"
+   ]
+  },
+  {
+   "case_id": "LY-458",
+   "disposition": "结局仅载平安、未载来否结果（承 R49 (乙) 部分不对位）：判读不得以平安充不来之验。",
+   "finding": "属实。评审 X、Y 均指结局仅记在外平安、来归未验。回原卡：所问「占母在外何時來」，setting 自注「原文辨明：此問來否、非問平安」；round53 manifest 结局仅「後果在外平安。」——恰只载非所问之平安面，来否结果无明文，评审所指属实。承 R49 定案 (乙)（部分）：结局记录答非所问一面，非整例串错。",
+   "flag": "结局问面错置（所问来否、结局仅载平安）",
+   "manifest_carry_suggestion": "下一轮承接 R49＋本 R53 标注；结局原文照录不改。",
+   "registered_round": 53,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-458.json",
+    "benchmark/phase3/runs/round53/judging/outcome-manifest.json cases[LY-458]"
+   ]
+  },
+  {
+   "case_id": "LY-212",
+   "disposition": "趋避例（承 R49）：结局为所避之祸实况，索债本问在原书中本无结局记载（事被趋避改写）。",
+   "finding": "属实。评审 X「索债无验」、Y「索债争闹未载」。回原卡：所问「占索債得否（兼問成非否）」；round53 manifest 结局为四船覆没实况与趋避对话全文——索债本身结果确无记载，评审所指属实。承 R49 定案：趋避例，大师改断危亡之祸并苦留，结局即所避之祸实况，非错位。",
+   "flag": "问答断面不对位（所问索债无验、结局为所避江难实况）",
+   "manifest_carry_suggestion": "下一轮承接 R49＋本 R53 标注；结局原文照录不改。",
+   "registered_round": 53,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-212.json",
+    "benchmark/phase3/runs/round53/judging/outcome-manifest.json cases[LY-212]"
+   ]
+  },
+  {
+   "case_id": "LY-220",
+   "disposition": "对话体断验交叠（承 R49）：结局判读以末句后时事件为准；和好面未载随案登记。",
+   "finding": "部分属实。评审 X「结局主记兄弟科名与别业，和好得济未被记载」。回原卡：所问「占弟兄和好否、得濟否」；round53 manifest 结局为金弟功一第、余三人从别业、后一年又登申榜——和好面确未载，属实；得济面则有末句登申榜对应，非全无对应。承 R49 定案：旗标不成立·直接对位（对话体断验交叠），本轮只登记和好面未载一层。",
+   "flag": "结局侧重出入（结局主记科名别业、和好面未载）",
+   "manifest_carry_suggestion": "下一轮承接 R49＋本 R53 标注；结局原文照录不改。",
+   "registered_round": 53,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-220.json",
+    "benchmark/phase3/runs/round53/judging/outcome-manifest.json cases[LY-220]"
+   ]
+  },
+  {
+   "case_id": "LY-425",
+   "disposition": "结局对应功名总断（承 R49 (甲) 弱）：问面名目（得缺）与结局名目（中榜）有别。",
+   "finding": "属实。评审 X「所问终局不合」、Y 以中榜为终局判反。回原卡：所问「占候選何時得缺」；round53 manifest 结局仅「果然在第二年寅月沒有中榜，」——事件名目为中榜而非得缺，名目之差属实。承 R49 定案 (甲)（弱）：结局对应大师功名总断，非记录错置，弱点在名目差，登记为弱。",
+   "flag": "问面名目与结局名目有别（得缺问、中榜结局）",
+   "manifest_carry_suggestion": "下一轮承接 R49＋本 R53 标注；结局原文照录不改。",
+   "registered_round": 53,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-425.json",
+    "benchmark/phase3/runs/round53/judging/outcome-manifest.json cases[LY-425]"
+   ]
+  },
+  {
+   "case_id": "LY-436",
+   "disposition": "占近应远（大师自标迁移）（承 R49）：月令问现寿元，断验同句。",
+   "finding": "属实。评审 X「午年子月死远超本月月令范围，本月亥日转折未被记载」。回原卡：所问「占本月月令」；round53 manifest 结局仅「世辰年占卦，在午年子月而死。」——本月面无任何记录，结局为数年后寿终，评审所指属实。承 R49 定案：原书自标「占近应远」迁移（月令问现寿元），非错位。",
+   "flag": "问答时程不对位（所问本月月令、结局为午年子月死）",
+   "manifest_carry_suggestion": "下一轮承接 R49＋本 R53 标注；结局原文照录不改。",
+   "registered_round": 53,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-436.json",
+    "benchmark/phase3/runs/round53/judging/outcome-manifest.json cases[LY-436]"
+   ]
+  },
+  {
+   "case_id": "LY-504",
+   "disposition": "防刑狱断面（承 R49）：所问升否，结局对应防刑狱断面（行文拿问），升迁面以拿问之事自然落空。",
+   "finding": "属实（弱）。评审 Y「对象事件与原断不尽同」、X 亦注「功名不升本身未被结局直接记载」。回原卡：所问「占目下功名升否」；round53 manifest 结局仅「及至三月將軍之侄因昔年因陳不前，都中有人報出行文拿問；」——所载为拿问事件，升迁结果本身确未直接记载，不尽同一层属实。承 R49 定案：结局对应第二断防刑狱断面，非错位；弱点在隔断面一层，登记为弱。",
+   "flag": "对象事件不尽同（弱）（所问升否、结局为行文拿问）",
+   "manifest_carry_suggestion": "下一轮承接 R49＋本 R53 标注；结局原文照录不改。",
+   "registered_round": 53,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-504.json",
+    "benchmark/phase3/runs/round53/judging/outcome-manifest.json cases[LY-504]"
+   ]
+  },
+  {
+   "case_id": "LY-510",
+   "disposition": "同条再问例（承 R49）：结局对应遍游之问，主问具体断面无独立记载。",
+   "finding": "属实（弱）。评审 X「技艺谋生小成温饱未被结局印证」。回原卡：所问「占終身除功名外何事可爲」；round53 manifest 结局仅「後聞此人遊川廣塡黔，及至十餘載之後，致書於家。竟入華山，不知所終。」——只载游历行迹与终局，具体何事可为之断面（如技艺谋生）确无对应记录，评审所指弱属实。承 R49 定案：结局对应同条再问（遍游如愿否），属多问同载。",
+   "flag": "断面未被印证（弱）（所问何事可为、结局仅记游历终局）",
+   "manifest_carry_suggestion": "下一轮承接 R49＋本 R53 标注；结局原文照录不改。",
+   "registered_round": 53,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-510.json",
+    "benchmark/phase3/runs/round53/judging/outcome-manifest.json cases[LY-510]"
+   ]
+  },
+  {
+   "case_id": "AS-015",
+   "disposition": "同图兼断例（承 R49）：结局对应问者本人死期断面，夫存亡归讯源未载。",
+   "finding": "部分属实。评审 X、Y 均指夫存与归讯结局未载。回原卡：所问为海上之夫存亡、何在、何时归，setting 自载 Lilly 同图兼断问者本人命运；round53 manifest 结局仅载问者本人十月八日之死——夫面确无记载，评审所指属实；问者死日面则有明确记载。承 R49 定案：同图兼断，结局对应兼断面（问者本人死期），夫归期属源记录限度，非数据错位。",
+   "flag": "结局侧缺位（部分）（夫存亡归讯未载、结局仅载问者本人死日）",
+   "manifest_carry_suggestion": "下一轮承接 R49＋本 R53 标注；结局原文照录不改。",
+   "registered_round": 53,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/AS-015.json",
+    "benchmark/phase3/runs/round53/judging/outcome-manifest.json cases[AS-015] 与 stripped_tail[AS-015]"
+   ]
+  },
+  {
+   "case_id": "AS-014",
+   "disposition": "结局只载追回事实与三日時限，追回程度（全额／部分）未载；文本内部无自相矛盾表述。",
+   "finding": "部分属实——追回程度未明属实、文本自相出入不成立。评审 X「追回程度原文含混」、Y「钱追回一层与难全追回表述有出入」。回原卡：所问含「shall I have it again」；round53 manifest 结局仅言「the return of the money, which was within three days after」——只载钱已追回与时限，全额或部分之程度确未载，此层属实。但 manifest 本体就追回一事只有此一处表述，文本内部并无第二处相冲突的表述，「表述有出入」作为文本内部矛盾不成立；其所指实为断语文本与结局记录之间的落差，不在本席卡面—结局核对范围内，只登记不核。",
+   "flag": "结局文本含混（追回程度未明／表述出入）",
+   "manifest_carry_suggestion": "下一轮 manifest 承接本标注：引用本例结局时按「追回程度未载」登记，不据此扩写追回量级；结局原文照录不改。",
+   "registered_round": 53,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/AS-014.json",
+    "benchmark/phase3/runs/round53/judging/outcome-manifest.json cases[AS-014]"
+   ]
+  },
+  {
+   "case_id": "LY-240",
+   "disposition": "原文残句（承 R49）：应验句止于「果於辰日」，句似未完，照录不补；成败未明载随案登记。",
+   "finding": "属实。评审 X、Y 均指结局仅记果于辰日、借贷成败未明载。回原卡：所问「占借貸」；round53 manifest 结局仅「果於辰日。」四字——无谓语、无成败结果，评审所指属实。承 R49 定案：原书应验句原文即止于此、照录不补，属原文残句之完整性注记，对应关系（辰日）明确，非建卡遗漏。",
+   "flag": "结局残句（仅记果于辰日、借贷成败未明载）",
+   "manifest_carry_suggestion": "下一轮承接 R49＋本 R53 标注；结局原文照录不改、不补字。",
+   "registered_round": 53,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-240.json",
+    "benchmark/phase3/runs/round53/judging/outcome-manifest.json cases[LY-240]"
+   ]
+  },
+  {
+   "case_id": "BQ-001",
+   "disposition": "结局含已事印证段（承 R49／R51）；后断应验由 stripped_tail「果如言」总承，读本案结局须并读该尾注，不得以 cases 本体判结局为空。",
+   "finding": "部分属实——对 round53 manifest cases 本体属实、对原始结局记录不成立（承 R51）。评审 X「结局仅载其父气尽复苏自述，未载殁期」。回原卡：round53 manifest cases 本体仅求卜者当场自述已事，与输入卡 setting 背景同属已事，本体内确无后事结局，此层属实。但同条 stripped_tail 载后断「更三日，当永去」原文以「果如言」结——原始记录后断有总承式应验，只是未进入 cases 本体。承 R49 定案与 R51 标注，本轮口径不变。",
+   "flag": "结局仅载背景自述（cases 本体无后事结局）",
+   "manifest_carry_suggestion": "下一轮建 manifest 时将 stripped_tail 之「果如言」承接信息以标注形式随案承接（不改 cases 本体、不恢复被剥离文本）。",
+   "registered_round": 53,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/BQ-001.json",
+    "benchmark/phase3/runs/round53/judging/outcome-manifest.json cases[BQ-001] 与 stripped_tail[BQ-001]"
+   ]
+  },
+  {
+   "case_id": "YY-022",
+   "disposition": "总承式结局：结局仅以「后果然」总承，胜负与和息逐条结果未载。",
+   "finding": "属实。评审 X「主断获笼统确认」、Y「结局仅记后果然，和息子断语无逐条记载」。回原卡：所问占讼事胜负与和息；round53 manifest 结局仅「后果然。」三字——胜负、和息各面均无逐条记载，评审所指属实。本例为 R53 新旗标，历轮标注（r49–r51）无本 id 条目；总承式系源结局记录形态，本轮只登记，不据此改动任何文本。",
+   "flag": "结局总承式（仅记「后果然」、逐条断语无记载）",
+   "manifest_carry_suggestion": "下一轮 manifest 以标注形式随案承接「总承式结局、逐条未载」提示，使评审可见记录粒度；结局原文照录不改。",
+   "registered_round": 53,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/YY-022.json",
+    "benchmark/phase3/runs/round53/judging/outcome-manifest.json cases[YY-022]"
+   ]
+  },
+  {
+   "case_id": "LY-413",
+   "disposition": "总承式结局：结局仅以「果然如是」总承，分晓时点未载。",
+   "finding": "属实。评审 X「获笼统确认」、Y「结局仅记果然如是」。回原卡：所问「占會試能連捷否」；round53 manifest 结局仅「果然如是。」四字——只总承断语成立，连捷与否之外的分晓时点等均未载，评审所指属实。本例为 R53 新旗标，历轮标注无本 id 条目；只登记不改文本。",
+   "flag": "结局总承式（仅记「果然如是」、分晓时点未载）",
+   "manifest_carry_suggestion": "下一轮 manifest 以标注形式随案承接总承式提示；结局原文照录不改。",
+   "registered_round": 53,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-413.json",
+    "benchmark/phase3/runs/round53/judging/outcome-manifest.json cases[LY-413]"
+   ]
+  },
+  {
+   "case_id": "LY-533",
+   "disposition": "占此应彼／防不测断面（承 R49；输入卡 setting 已自注「占此應彼」）：所问房价，结局对应人身祸福断面。",
+   "finding": "卡面自载已注明。评审 X「所问事无验且人亡」。回原卡：所问「一人占索房價」，setting 明注「占索討房價（占此應彼）」——卡面本身已标明本题占此应彼；round53 manifest 结局「后于午月覆舟而亡．」对应人身祸福断面。评审所指断面出入在卡面上已有自注，不构成未注明的数据问题。承 R49 定案 (甲) 防不测断面。",
+   "flag": "问答断面不对位（卡面自载已注明「占此应彼」）",
+   "manifest_carry_suggestion": "下一轮承接 R49＋本 R53 标注，manifest 附注时并引卡面自注；结局原文照录不改。",
+   "registered_round": 53,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-533.json",
+    "benchmark/phase3/runs/round53/judging/outcome-manifest.json cases[LY-533]"
+   ]
+  },
+  {
+   "case_id": "LY-432",
+   "disposition": "两念反应并载（卡面自载）：结局两段分应功名与病面两念，非外来无关段。",
+   "finding": "卡面自载已注明。评审 X「次日愈一段与本断无关不计」（Y 无此旗标，单视）。回原卡：输入卡 question 与 setting 自载本题为两念反应——先代尊长占病、本人占功名，两卦反应（前卦应功名、后卦应子病一系）；round53 manifest 结局「五月高遷。 次日卽愈。」两段恰分应功名（高迁）与病面（即愈）两念，与卡面自载结构对应。故「次日即愈」段非无关外来文字，系卡面已注明的并载结构；作为数据出入不成立，只登记评审单视所指并以卡面自注销疑。",
+   "flag": "结局含他段疑义（「次日即愈」段与功名断无关）",
+   "manifest_carry_suggestion": "下一轮 manifest 附注两念并载结构，避免评审再以单段无关立旗；结局原文照录不改。",
+   "registered_round": 53,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LY-432.json",
+    "benchmark/phase3/runs/round53/judging/outcome-manifest.json cases[LY-432]"
+   ]
+  },
+  {
+   "case_id": "LR3-112",
+   "disposition": "结局侧病面缺位（源未载）（承 R49／R51）：结局对应并断之贼事断面，病断后续结局 manifest 已自注未载。",
+   "finding": "卡面自载已注明。评审 X「载录为贼获细项与病断无关」、Y「结局仅载贼事、病断未载后续」。回原卡：所问仅「占病吉凶若何？」；round53 manifest 结局本体只载贼事，且自带明注「病断（甲戌年不保）原文未载后续结局」——评审所指缺位在 manifest 条目内已自注。承 R49 定案（并断贼事例）与 R51 标注：病面缺位系源文本未载，非建卡遗漏，历轮同因。",
+   "flag": "结局侧病面缺位（manifest 自载已注明）",
+   "manifest_carry_suggestion": "历轮同因，下一轮起 manifest 对本 id 永久承接「病面结局缺位」标记，不逐轮重复立旗；结局原文照录不改。",
+   "registered_round": 53,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/LR3-112.json",
+    "benchmark/phase3/runs/round53/judging/outcome-manifest.json cases[LR3-112]"
+   ]
+  },
+  {
+   "case_id": "BZ-042",
+   "disposition": "来源未备（manifest 自注）：晚年败落细节来源未备、待另核，比对以格局大富一项为主。",
+   "finding": "卡面自载已注明。评审 X「晚年败落与运段结局未备」、Y「晚年败落一节来源未备无从核」。回原卡：round53 manifest 结局条目自载「其晚年败落细节本数据集所据来源未备，戊运十五年失败期为韦氏预断，待另核（盲测比对时以格局大富一项为主）」——评审所指未备在 manifest 条目内已逐字自注并给出比对口径，不构成未注明的数据问题。本轮只承接登记。",
+   "flag": "结局来源未备（晚年败落一节无从核）",
+   "manifest_carry_suggestion": "下一轮承接本标注，manifest 维持自注原文；不另补来源、不改文本。",
+   "registered_round": 53,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/BZ-042.json",
+    "benchmark/phase3/runs/round53/judging/outcome-manifest.json cases[BZ-042]"
+   ]
+  },
+  {
+   "case_id": "BZ-033",
+   "disposition": "无卡面—结局字段冲突：结局注「己运」为单一记载，输入卡无运名字段；运名落差属断语侧评分事项，不作数据标注定案。",
+   "finding": "不属实（作为输入卡与结局记录之间的字段出入）。评审 X「离乡运名与结局注己运不合」、Y「运名与史实运段略差」。回原卡：输入卡通篇无运名字段，无可与结局相冲突的同名字段；round53 manifest 结局就去国一事只作一处记载「（己运冲亥期）」，且 stripped_tail 自注「历程与韦断运程线大体相合」——两件许读文本之间不存在同名字段互相矛盾。评审所指不合的另一端为断语文本中的运名，不在本席核对范围（卡面＋manifest），只登记不核；作为数据字段出入不成立。",
+   "flag": "字段出入疑义（运名与结局注己运不合）",
+   "manifest_carry_suggestion": "不建议 manifest 就此加注；如主持另行核对断语侧运名，另立议程，不在本标注内。",
+   "registered_round": 53,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/BZ-033.json",
+    "benchmark/phase3/runs/round53/judging/outcome-manifest.json cases[BZ-033] 与 stripped_tail[BZ-033]"
+   ]
+  },
+  {
+   "case_id": "BZ-020",
+   "disposition": "无卡面—结局文本冲突：丁巳罢官为结局自载史实，峰值运落差属断语侧事项。",
+   "finding": "不属实（作为输入卡与结局记录之间的数据出入）。评审 Y「自载丁巳罢官与峰值运断反」、X「实丁巳运罢官丧母」。回原卡：round53 manifest 结局确自载「其自记丁巳运癸亥年罢官丧母、戊午运甲戌年遭火灾，皆为本人亲历自证之应期」——丁巳罢官记录本身属实存在；但输入卡无峰值运断语字段，manifest 内亦无与之冲突的第二处记载，两件许读文本之间无字段或文本冲突。评审所指冲突的一端为断语文本（峰值运），不在本席核对范围，只登记不核；作为数据出入不成立。",
+   "flag": "记录出入疑义（自载丁巳罢官与峰值运断反）",
+   "manifest_carry_suggestion": "不建议 manifest 就此加注；断语侧如需核对另立议程。",
+   "registered_round": 53,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/BZ-020.json",
+    "benchmark/phase3/runs/round53/judging/outcome-manifest.json cases[BZ-020]"
+   ]
+  },
+  {
+   "case_id": "YM-070",
+   "disposition": "出处待核（挂起，承 R52）：输入卡 asked_at「甲寅旬」三字原页无据，出处待核；卡面本体不动。",
+   "finding": "维持挂起登记（承 R52），本轮不裁。承接链：R52 FLAGS-review-r52.md §4 附带登记——底本原页（书页152／PDF第168页，transcription=visual）日期只作「卯建丙辰日」，未见「甲寅旬」三字；本轮回原卡实测：inputs-dev12/YM-070.json 的 context.asked_at 作「卯建甲寅旬丙辰日」，「甲寅旬」三字确在卡内、原页无据，当系建卡时据干支推得或另有出处。本轮 R53 双视评审理由（P3-0226dc92）只涉同行与否之评分，无此旗标；本席未开底本、未联网，本轮只承接记明，出处核到前不销记、不改卡。",
+   "flag": "输入侧出处待核（承接旧项：「甲寅旬」三字出处）",
+   "manifest_carry_suggestion": "后续轮次若核到出处，补记 provenance 即可；输入卡本体是否修订由主持定，本旗标不阻塞其他标注承接。",
+   "registered_round": 53,
+   "sources_checked": [
+    "benchmark/phase3/inputs-dev12/YM-070.json",
+    "benchmark/phase3/runs/round53/judging/outcome-manifest.json cases[YM-070]",
+    "benchmark/phase3/runs/round52/data-verify/FLAGS-review-r52.md §4（附带登记）"
+   ]
+  }
+ ]
+}
