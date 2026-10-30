@@ -334,7 +334,7 @@ lr_doc = {'round': 47,
           'n_liuren_total': len(liuren_all), 'n_negative': len(neg),
           'negatives': neg}
 (R47 / 'diagnosis').mkdir(exist_ok=True)
-json.dump(lr_doc, open(R46 / 'diagnosis/lr-negatives-dev47.json', 'w'), ensure_ascii=False, indent=1)
+json.dump(lr_doc, open(R47 / 'diagnosis/lr-negatives-dev47.json', 'w'), ensure_ascii=False, indent=1)
 print('lr-negatives-dev47.json written: negatives', len(neg), '/', len(liuren_all))
 
 print('\n== SUMMARY ==')
