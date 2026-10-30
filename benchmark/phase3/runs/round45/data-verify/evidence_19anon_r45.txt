@@ -1,0 +1,190 @@
+
+===== LY-011 [double] =====
+QUESTION: 占母路隔千里何時來
+SETTING: 母親遠在千里之外，問何時能來；求測者自言有妹無弟
+PROV: {"book": "《增刪卜易》", "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）", "url": "https://zh.wikisource.org/wiki/增刪卜易", "page": "卷之二·進神退神章第二十九"}
+OUTCOME(manifest): 果於次年三月妹至
+-- SRC masters-dataset/chinese-divination/answers.jsonl
+    statement_excerpt=斷曰：「父母必不來，兄弟必來。」
+    description=果於次年三月妹至
+
+===== LY-023 [double] =====
+QUESTION: 占母病
+SETTING: 為母占病；其子初生兩月
+PROV: {"book": "《增刪卜易》"}
+OUTCOME(manifest): 果於八月其子驚風（其後復占子病，見 LY-024）
+-- SRC masters-dataset/chinese-divination/answers.jsonl
+    statement_excerpt=斷曰：「此卦不現母病，而現子女有災……令堂近病，卦得六沖即愈，只不宜爻中現出子孫變鬼……八月防之。」
+    description=果於八月其子驚風（其後復占子病，見 LY-024）
+    comment=與 LY-024 為連續關聯案例
+
+===== LY-206 [double] =====
+QUESTION: 占終身財福
+SETTING: 問終身財福
+PROV: {"book": "《增刪卜易》", "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）", "url": "https://zh.wikisource.org/wiki/增刪卜易", "page": "卷之三·終身財福章第三十七"}
+OUTCOME(manifest): 果至巳月而生惡瘡﹐卒於酉月。
+-- SRC benchmark/phase3/expansion/zengshan/answers.jsonl
+    statement_excerpt=應外卦世與日月同爲三合﹐以爲吉卦﹐不宜世爻變鬼﹐又化回頭之克﹐上爻未土又克﹐目下𨿽則無妨﹐今年五月沖開其合﹐或是酉月沖開卯木﹐須防不測。
+    description=果至巳月而生惡瘡﹐卒於酉月。
+
+===== LY-222 [double] =====
+QUESTION: 占子嗣
+SETTING: 求測者三十七歲有子、已十八，因亂失散，至今無所出，問子嗣
+PROV: {"book": "《增刪卜易》", "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）", "url": "https://zh.wikisource.org/wiki/增刪卜易", "page": "卷之三·子嗣章第四十四"}
+OUTCOME(manifest): 果於次年六月父子相逢。
+-- SRC benchmark/phase3/expansion/zengshan/answers.jsonl
+    statement_excerpt=斷曰﹕身帶吉而子扶﹐日建沖動上爻子孫而生世﹐有遠方之子來。彼喜而曰﹕我於三十七歲有子﹐已十八矣﹐因亂失散﹐至今無所出。予曰﹕恭喜﹐明現子從六爻動來生世﹐此子見歸。彼曰﹕何時得見﹖曰﹕明歲申辰與酉金相合﹐定然得意而歸。
+    description=果於次年六月父子相逢。
+    comment=本卦為靜卦，上爻子孫酉金為日建沖動（暗動），原文如此
+
+===== LY-430 [double] =====
+QUESTION: 占掣籤何處（抽籤分發何地）
+SETTING: 占掣籤將分發何處、能否到任
+PROV: {"book": "《增刪卜易》", "edition": "維基文庫本（錄入者整理本，未排版/未校對，見 pending 校勘說明）", "url": "https://zh.wikisource.org/wiki/增刪卜易", "page": "卷之二·增刪黃金策千金賦章第三十四（章界據通行本體例判定，同上）"}
+OUTCOME(manifest): 後果於七月﹐先得瀉疾﹐略好後﹐因服補藥太過﹐喫一次藥﹐只能喝一兩水﹐後竟渴死。
+-- SRC benchmark/phase3/expansion2/zengshan/answers.jsonl
+    statement_excerpt=斷曰﹕世臨寅木官星﹐必得東缺。非廣東卽山東。獨嫌子水月破動而化絕﹐恐不能到任。彼曰﹕何也﹖予曰﹕財爲養命之源﹐又爲朝廷之祿﹐今財臨絕地﹐是無財無祿﹐世爻寅木無水滋生﹐乃爲凶兆。彼曰﹕ 予曰此與前卦﹐卦名𨿽殊﹐其理一也。又是亥水財爻被回頭克﹐不獨難以到任﹐還妨秋令危災。
+    description=後果於七月﹐先得瀉疾﹐略好後﹐因服補藥太過﹐喫一次藥﹐只能喝一兩水﹐後竟渴死。
+    comment=兩占合斷例；結局為七月得瀉疾、服藥過度竟渴死，未到任。
+
+===== LY-437 [double] =====
+QUESTION: 占小廝病
+SETTING: 占小廝（僕役）之病；占者本人為官
+PROV: {"book": "《增刪卜易》", "edition": "維基文庫本（錄入者整理本，未排版/未校對，見 pending 校勘說明）", "url": "https://zh.wikisource.org/wiki/增刪卜易", "page": "卷之二·增刪黃金策千金賦章第三十四（章界據通行本體例判定，同上）"}
+OUTCOME(manifest): 果於七月﹐被論革職﹐
+-- SRC benchmark/phase3/expansion2/zengshan/answers.jsonl
+    statement_excerpt=予曰﹕此卦不應小廝病﹐而應今秋功名有礙﹐彼曰﹕何也﹖予曰﹕世臨卯木之官化申金子孫回頭克﹐是以知之。彼曰﹕我問小廝﹐如何應在功名﹖予曰﹕神之機常常如此﹐捨小事而報大凶﹐公之諸事須宜愼之﹐
+    description=果於七月﹐被論革職﹐
+    comment=原文占日作「巳月已未日」，「已」為「己」之形訛，asked_at 作己未並注明。卦名原文未直書，據裝卦推得。占他應我成例。
+
+===== LY-533 [double] =====
+QUESTION: 一人占索房價
+SETTING: 占索討房價（占此應彼）
+PROV: {"book": "《卜筮正宗》", "edition": "華夏大易學社（cnddy.com）在線全本（據通行本錄入，頁面字形為簡體，節錄照頁面；裝卦表 OCR 有錯亂，見完整性說明）", "url": "https://www.cnddy.com/1759.html", "page": "卷十三、十四·十八問答附占驗·第二問"}
+OUTCOME(manifest): 后于午月覆舟而亡．
+-- SRC benchmark/phase3/expansion3/cases.jsonl
+    question=一人占索房價
+    statement_excerpt=断曰：坎卦变坤亦是卦变回头之克，世爻虽得日生，不宜两重土动来伤．此卦甚凶，不但房价事小，宜防不测之祸．
+    description=后于午月覆舟而亡．
+
+===== LR2-022 [double] =====
+QUESTION: 弟观初之病吉凶若何？
+SETTING: 兄张奉初为弟占病，占者袖传一课答之。
+PROV: {"book": "《大六壬占验指南》·疾病门·张奉初为弟观初占病"}
+OUTCOME(manifest): 张友不言而去。顷焉一人至复占（白虎发用、丧吊全逢，三日内死者），张友又请吕纯阳下降判白数合于数，果三日死。
+-- SRC benchmark/phase3/expansion7/liuren/cases.jsonl
+    statement_excerpt=课得铸印，占病不吉，三日必死。
+    description=张友不言而去。顷焉一人至复占（白虎发用、丧吊全逢，三日内死者），张友又请吕纯阳下降判白数合于数，果三日死。同日复占与扶乩复核均同断，结局「果三日死」载原文。
+
+===== LR2-023 [double] =====
+QUESTION: 张澹宁之病吉凶若何？
+SETTING: 占者与张澹宁于扇店相会，张占病。席间及其家事。
+PROV: {"book": "《大六壬占验指南》·疾病门·张澹宁占病"}
+OUTCOME(manifest): 后果然（儿妇妊性别如断），澹宁壬午春死。
+-- SRC benchmark/phase3/expansion7/liuren/cases.jsonl
+    statement_excerpt=当年病无妨……但木火为虎鬼，脾肺受病，未能脱体，须东南钱刘之医，平肝清心，其病渐愈。……否则，壬午春必有他虑矣。曰：有胎者何？余曰：支上见胎神。曰：三儿妇俱怀妊矣。余以行年推之，丁未生女，余二皆男。
+    description=后果然（儿妇妊性别如断），澹宁壬午春死。当年脱险、儿妇生男生女、壬午春卒三项均见原文应验记载。
+
+===== LR3-112 [double] =====
+QUESTION: 占病吉凶若何？
+SETTING: 同乡亲彭城卫幕刘一纯自占疾病。
+PROV: {"book": "《大六壬占验指南》·疾病门·刘一纯占病"}
+OUTCOME(manifest): 果后三月一贼入室，刘复来言及。后贼果被获，及询其姓名，则陈忠也（年少、独行、告官三日获等细项原文未逐项复核）。病断（甲戌年不保）原文未载后续结局。
+-- SRC benchmark/phase3/expansion9/liuren-chen2/cases.jsonl
+    statement_excerpt=病起少阴，目今无虑，但绵缠难脱体耳。微独病也，且防贼至。……何时当愈？曰：甲戌流年方且不保，遑问愈乎？缘戊日玄墓发用，是为收魂杀。又纯财生卯木，死气克日，故是年冬可虑。
+    statement_excerpt=贼北方道路往来，陈姓年少人也。作贼无伴，一人耳，然必告官方获，玄辰乘相气，主年少，在子为道路，辰与陈姓同音，玄阴生水，水合一数也。官鬼遥克玄武，公命上神又制盗神，必告官而后捕捉也。何日可获？曰：告官三日即获。
+    description=果后三月一贼入室，刘复来言及（「防贼至」应验）。后贼果被获，及询其姓名，则陈忠也（陈姓一节应验；年少、独行、告官三日获等细项原文未逐项复核）。病断（甲戌年不保）原文未载应验。
+
+===== OC-029 [double] =====
+QUESTION: 携子求官访道，请占诸事吉凶。
+SETTING: 占者携子来谒人求官，顺道访占；其母将届九十寿，家在山东。
+PROV: {"book": "《大六壬占验指南》第60课"}
+OUTCOME(manifest): 三客至、内有杨姓，果如言；王宅书房被盗，所盗为郎君之物，三日后贼复来尽盗父子衣物；冬月清兵入山东、攻城陷邑，一一如占；王米山迁居淮安新安镇，其母未度九十而终（89岁）。
+-- SRC benchmark/phase3/expansion6/classical-other/cases.jsonl
+    statement_excerpt=顷刻有三客至，内必杨姓者；郎君理应回东省取功名；贵地（山东）不日兵动，有攻城破邑之事，眷属宜迁他处避之；尊堂寿止八十有九；目今须防失脱，且贼去而复来。
+    description=三客至、内有杨姓，果如言；王宅书房被盗，所盗为郎君之物，三日后贼复来尽盗父子衣物；冬月清兵入山东、攻城陷邑，一一如占；王米山迁居淮安新安镇，其母未度九十而终（89岁）。各应验点均独立载于原文。
+
+===== LY-220 [single-named] =====
+QUESTION: 占弟兄和好否、得濟否
+SETTING: 問兄弟和好與得濟否
+PROV: {"book": "《增刪卜易》", "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）", "url": "https://zh.wikisource.org/wiki/增刪卜易", "page": "卷之三·兄弟章第四十二"}
+OUTCOME(manifest): 彼曰﹕果有金弟屬猴﹐克曾功一第﹐餘三人皆從別業﹐可見數之責驗如此﹐後一年又登申榜。
+-- SRC benchmark/phase3/expansion/zengshan/answers.jsonl
+    statement_excerpt=予曰﹕弟兄𨿽多﹐有一位屬猴者得濟。彼問何故﹖予曰﹕神化於動﹐動而變出﹐以臨月建﹐自是超羣撥類。彼曰﹕果有金弟屬猴﹐克曾功一第﹐餘三人皆從別業﹐可見數之責驗如此﹐
+    description=彼曰﹕果有金弟屬猴﹐克曾功一第﹐餘三人皆從別業﹐可見數之責驗如此﹐後一年又登申榜。
+    comment=原文「克曾功一第」語意欠通，疑有訛字，照錄；「數之責驗」疑為「數之徵驗」，照錄
+
+===== LY-426 [single-named] =====
+QUESTION: 占開店貿易
+SETTING: 占開店貿易得利否
+PROV: {"book": "《增刪卜易》", "edition": "維基文庫本（錄入者整理本，未排版/未校對，見 pending 校勘說明）", "url": "https://zh.wikisource.org/wiki/增刪卜易", "page": "卷之二·增刪黃金策千金賦章第三十四（章界據通行本體例判定，同上）"}
+OUTCOME(manifest): 果於八月﹐因子賭博送官﹐子受杖刑而死。
+-- SRC benchmark/phase3/expansion2/zengshan/answers.jsonl
+    statement_excerpt=斷曰﹕占生意看財爻﹐此卦財臨月破﹐𨿽則子動生財﹐生之不起﹐況世與子孫﹐一同變鬼﹐不獨營運難圖﹐今秋必因子女以致官非。
+    description=果於八月﹐因子賭博送官﹐子受杖刑而死。
+    comment=卦名原文未直書，據裝卦推得。
+
+===== LY-432 [single-named] =====
+QUESTION: 占功名（先代尊長占病、本人占功名，兩念反應）
+SETTING: 其人欲占功名，先命代占尊長之病；本人自占功名另得一卦。原文主旨為兩卦反應（前卦應功名、後卦應子病）
+PROV: {"book": "《增刪卜易》", "edition": "維基文庫本（錄入者整理本，未排版/未校對，見 pending 校勘說明）", "url": "https://zh.wikisource.org/wiki/增刪卜易", "page": "卷之二·增刪黃金策千金賦章第三十四（章界據通行本體例判定，同上）"}
+OUTCOME(manifest): 五月高遷。 次日卽愈。
+-- SRC benchmark/phase3/expansion2/zengshan/answers.jsonl
+    statement_excerpt=若以前卦﹐斷子病者﹐其子必死。何也﹖亥水子孫﹐日月傷克﹐世爻暗動﹐又傷子孫﹐兄申酉金﹐又被午火克壞﹐謂之忌神旺而元神衰﹐勢之必死﹐豈知本人舉念在前﹐前卦而應功名﹐午火官動而生世﹐世動官興﹐五月高遷。
+    description=五月高遷。 次日卽愈。
+    comment=斷驗同段敘述的反應成例，斷語自分析文字中節錄。
+
+===== LY-526 [single-named] =====
+QUESTION: 占擇某日入宅是否有礙父母
+SETTING: 占擇定之日入宅是否有礙父母
+PROV: {"book": "《增刪卜易》", "edition": "維基文庫本（錄入者整理本，未排版/未校對，見 pending 校勘說明）", "url": "https://zh.wikisource.org/wiki/增刪卜易", "page": "卷之四·入宅六親凶吉章第一百十一"}
+OUTCOME(manifest): 後照此行﹐予目其平安一十七載。
+-- SRC benchmark/phase3/expansion3/cases.jsonl
+    question=占擇某日入宅是否有礙父母
+    statement_excerpt=斷曰﹕此日入宅﹐卯木暗動以克父母。彼曰﹕卽煩另改一日。予曰﹕不必改日﹐此日寅卯時吉﹐申月亦吉﹐保爾淸靜吉祥。彼曰﹕何也﹖予曰﹕申時卯木絕於申也。父母未土及長生於申是以吉也。入宅之時宜父母安牀於西南﹐後照此行﹐
+    description=後照此行﹐予目其平安一十七載。
+    comment=結局為入宅後十七年平安之梗概，與終身類同體，改判 eligible 並註明。
+
+===== BQ-001 [single-anon:P3-c4600500] =====
+QUESTION: 卜父（父卧疾三年、昨日气尽复苏，问父寿数）
+SETTING: 卜父（父卧疾三年、昨日气尽复苏，问父寿数）
+PROV: {"book": "《卜筮全书》", "edition": "华龄出版社2016年《四库存目纳甲汇刊（六）·校正全本卜筮全书》（（明）姚际隆撰，郑同校；ISBN 978-7-5169-0728-3）扫描PDF，用户经学校图书馆提供", "page": "序印刷页1（PDF第4页）脚注①", "claimed_source": "《北史》（脚注自称：「颜恶来当作颜恶头。《北史》：颜恶头，章武郡人也。妙于《易》筮。」）"}
+OUTCOME(manifest): 求卜者当场自述：父卧疾三年，昨日鸡鸣时气尽、举家大哭，父忽惊寤自言「我死，有三尺人来迎，欲升天，闻哭声，遂坠地」。
+-- SRC benchmark/phase3/expansion7/bushi-quanshu/cases.jsonl
+    question=卜父（父卧疾三年、昨日气尽复苏，问父寿数）
+    statement_excerpt=恶头占曰：「君卜父，父已亡，当上天，闻哭声，忽复苏，而有言。」
+    statement_excerpt=恶头曰：「更三日，当永去。」其故自述：「《兑》上天下土，是今日庚辛本宫火，故知卜父。今三月，土入墓，又见宗庙爻发，故知死。变见生气，故知苏。《兑》为口，主音声，故知哭。《兑》变为《乾》，《乾》天也，故升天。《兑》为言，故父言。故知有言。未化入戌为土，三月土墓，戌又是本宫鬼墓，未后三日，故知三日复死。」
+    description=求卜者当场自述：父卧疾三年，昨日鸡鸣时气尽、举家大哭，父忽惊寤自言「我死，有三尺人来迎，欲升天，闻哭声，遂坠地」，与占断「父已亡、当上天、闻哭声、忽复苏、而有言」全合；「更三日，当永去」一条，原文以「果如言」结。
+    comment=序正文作「颜恶来」，脚注校正为「颜恶头」并注明据《北史》；本例从脚注全文。
+
+===== LY-517 [single-anon:P3-e7f0d59d] =====
+QUESTION: 占援例
+SETTING: 占援例（捐納）入仕可否
+PROV: {"book": "《增刪卜易》", "edition": "維基文庫本（錄入者整理本，未排版/未校對，見 pending 校勘說明）", "url": "https://zh.wikisource.org/wiki/增刪卜易", "page": "卷之三·援例章第五十八"}
+OUTCOME(manifest): 後竟納之﹐名敗身喪。
+-- SRC benchmark/phase3/expansion3/cases.jsonl
+    question=占援例
+    statement_excerpt=斷曰﹕財動生官﹐不宜世臨月破﹐破而被克者﹐有官不能享也。
+    description=後竟納之﹐名敗身喪。
+
+===== LR3-107 [single-anon:P3-19688ca8] =====
+QUESTION: 此人是何等样人？吉凶若何？
+SETTING: 壬午七月，一客至埂子街寓中，坐定时占者为之袖传一课。
+PROV: {"book": "《大六壬占验指南》·公讼门·寓中偶占一课"}
+OUTCOME(manifest): 后知为荆州知府王承曾，甲戌进士，以失城逮问，贼破燕京始出。
+-- SRC benchmark/phase3/expansion9/liuren-chen2/cases.jsonl
+    statement_excerpt=公科第中人，非田姓即王姓也，然有朝廷之事连累。盖临身贵人，必科第中人；然贵被干克，岁破发用，课传退茹，是以有获罪朝廷之事。喜初中后阴为恩，然而无大咎也。
+    description=后知为荆州知府王承曾，甲戌进士，以失城逮问，贼破燕京始出。科第（甲戌进士）、王姓、荆州知府、以失城逮问（获罪朝廷）、京破始出（无大咎得脱）均于应验段揭明。
+
+===== YM-070 [single-anon:P3-8fcaabc5] =====
+QUESTION: 占仆与友同行（仆与友同行否）
+SETTING: 程良玉《易冒》卷九·捕逃章第八十所举占例
+PROV: {"book": "《易冒》（清）程良玉撰", "edition": "华龄出版社2016年《四库存目纳甲汇刊（五）·校正全本易冒》（（清）程良玉撰，郑同校；ISBN 978-7-5169-0727-6）扫描PDF，用户经学校图书馆提供", "license_note": "内部研究使用", "page": "卷九·捕逃章第八十，书页152（PDF第168页）"}
+OUTCOME(manifest): 后果同行都下。
+-- SRC benchmark/phase3/expansion8/yimao/cases.jsonl
+    question=占仆与友同行（仆与友同行否）
+    statement_excerpt=即应克世，而空破散绝亦非，应用一病亦非，如卯建丙辰日，占仆与友同行，得否，卯财持世，戌应暗兴
+    description=后果同行都下。
+    comment=转录方式：页图视觉转录（transcription=visual），置信度高；疑难字见BUILD-REPORT。
+
+DONE 39 files scanned

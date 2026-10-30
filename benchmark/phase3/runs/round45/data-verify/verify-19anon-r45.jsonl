@@ -1,0 +1,19 @@
+{"case_id": "LY-011", "ruling": "旗标不成立（同案复合）", "matched_source": "masters-dataset/chinese-divination/answers.jsonl", "note": "双视；大师同条改断『父母必不來，兄弟必來』，结局次年三月妹至即其应验"}
+{"case_id": "LY-023", "ruling": "旗标不成立（同案复合）", "matched_source": "masters-dataset/chinese-divination/answers.jsonl", "note": "双视；断语明言不现母病而现子女灾、八月防之，结局八月子惊风同条应验，后复占另成LY-024"}
+{"case_id": "LY-206", "ruling": "旗标不成立（同案复合）", "matched_source": "benchmark/phase3/expansion/zengshan/answers.jsonl", "note": "双视；终身财福占涵盖寿元，断语预告酉月须防不测，结局卒于酉月同案应验"}
+{"case_id": "LY-222", "ruling": "旗标不成立（同案复合）", "matched_source": "benchmark/phase3/expansion/zengshan/answers.jsonl", "note": "双视；所问子嗣即失散之子，断语断其归来，结局次年六月父子相逢同案应验"}
+{"case_id": "LY-430", "ruling": "旗标不成立（同案复合）", "matched_source": "benchmark/phase3/expansion2/zengshan/answers.jsonl", "note": "双视；源行自标两占合断例，断语已言恐不能到任、防秋令危灾，结局未到任且病亡同案应验"}
+{"case_id": "LY-437", "ruling": "旗标不成立（同案复合）", "matched_source": "benchmark/phase3/expansion2/zengshan/answers.jsonl", "note": "双视；与LY-436同型占他应我成例，断语明言不应小厮病而应功名有碍，结局七月革职即其应验"}
+{"case_id": "LY-533", "ruling": "旗标不成立（同案复合）", "matched_source": "benchmark/phase3/expansion3/cases.jsonl", "note": "双视；题面自标占此应彼，断语谓房价事小、防不测之祸，结局午月覆舟同案应验"}
+{"case_id": "LR2-022", "ruling": "旗标不成立（同案复合）", "matched_source": "benchmark/phase3/expansion7/liuren/cases.jsonl", "note": "双视；同日复占与扶乩复核系同一病人三日必死断的同条复核，结局果三日死正对主问"}
+{"case_id": "LR2-023", "ruling": "旗标不成立（同案复合）", "matched_source": "benchmark/phase3/expansion7/liuren/cases.jsonl", "note": "双视；儿妇妊性别系大师同席同条兼断之家事，结局与壬午春死两节同属本案应验"}
+{"case_id": "LR3-112", "ruling": "旗标不成立（同案复合）", "matched_source": "benchmark/phase3/expansion9/liuren-chen2/cases.jsonl", "note": "双视；一课同条兼断病与防贼，结局覆盖同案防贼节，病节系原文未载应验而非他案串入"}
+{"case_id": "OC-029", "ruling": "旗标不成立（同案复合）", "matched_source": "benchmark/phase3/expansion6/classical-other/cases.jsonl", "note": "双视；主问为诸事吉凶总占，断语同条并断诸节，结局逐节应验"}
+{"case_id": "LY-220", "ruling": "旗标不成立（同案复合）", "matched_source": "benchmark/phase3/expansion/zengshan/answers.jsonl", "note": "单视具名；结局前半为当场确认属猴弟得济、尾句续记同弟次年登榜，均绕同一断语"}
+{"case_id": "LY-426", "ruling": "旗标不成立（同案复合）", "matched_source": "benchmark/phase3/expansion2/zengshan/answers.jsonl", "note": "单视具名；断语预告今秋必因子女致官非，结局八月因子赌博送官同案应验"}
+{"case_id": "LY-432", "ruling": "旗标不成立（同案复合）", "matched_source": "benchmark/phase3/expansion2/zengshan/answers.jsonl", "note": "单视具名；两卦反应成例，结局五月高迁/次日即愈分属同条两卦应验"}
+{"case_id": "LY-526", "ruling": "旗标不成立（同案复合）", "matched_source": "benchmark/phase3/expansion3/cases.jsonl", "note": "单视具名；结局为遵断择时入宅后十七年平安之目击续记，正面回答是否有碍父母"}
+{"case_id": "BQ-001", "ruling": "旗标不成立（同案复合）", "matched_source": "benchmark/phase3/expansion7/bushi-quanshu/cases.jsonl", "note": "单视anon P3-c4600500映射成功；结局文本系源行description前段（当场陈述与断语核合），后段三日永去果如言同行俱在，无他案成分；附记结局取段偏前，仅登记"}
+{"case_id": "LY-517", "ruling": "旗标不成立（同案复合）", "matched_source": "benchmark/phase3/expansion3/cases.jsonl", "note": "单视anon P3-e7f0d59d映射成功；结局竟纳之名败身丧正是有官不能享断语之应验"}
+{"case_id": "LR3-107", "ruling": "旗标不成立（同案复合）", "matched_source": "benchmark/phase3/expansion9/liuren-chen2/cases.jsonl", "note": "单视anon P3-19688ca8映射成功；结局身份揭晓与失城逮问、京破始出逐项对应同条断语"}
+{"case_id": "YM-070", "ruling": "旗标不成立（同案复合）", "matched_source": "benchmark/phase3/expansion8/yimao/cases.jsonl", "note": "单视anon P3-8fcaabc5映射成功；结局同行都下直答仆与友同行否主问"}
