@@ -1,0 +1,537 @@
+{
+ "E3_layer_h19_caliber": {
+  "A_involved": {
+   "SE_pp": 9.6,
+   "cases": [
+    "GSZ-009",
+    "WHY-075",
+    "QW-013",
+    "WHY-073",
+    "WHY-074",
+    "WHY-079",
+    "QW-015",
+    "QW-016",
+    "QW-017"
+   ],
+   "count": 9,
+   "share": 0.36
+  },
+  "A_main": {
+   "SE_pp": 6.5,
+   "cases": [
+    "GSZ-009",
+    "WHY-075",
+    "QW-013"
+   ],
+   "count": 3,
+   "share": 0.12
+  },
+  "A_sub_cases": {
+   "QW-015": "丧父、兄官司坐牢两面",
+   "QW-016": "子女病残、妻流产一面",
+   "QW-017": "丧父一面",
+   "WHY-073": "对方离婚带孩一面",
+   "WHY-074": "身份面（未领证同居之女）",
+   "WHY-079": "男友更替／新出现一面"
+  },
+  "ambiguous": [
+   "WHY-075",
+   "QW-013",
+   "WHY-079"
+  ]
+ },
+ "E4_grid_h19_caliber": {
+  "IN": 0,
+  "MIX": 0,
+  "NA_listed": 22,
+  "SEAT": 3,
+  "SEAT_cases": [
+   "GSZ-009",
+   "WHY-075",
+   "QW-013"
+  ],
+  "UND": 0
+ },
+ "E5_subtypes": {
+  "E5-CLAIM": [
+   "QM-001",
+   "QM-002",
+   "QM-003",
+   "QW-016",
+   "QW-017"
+  ],
+  "E5-DIR": [
+   "GSZ-016",
+   "WHY-072",
+   "WHY-074"
+  ],
+  "E5-OMIT": [
+   "QW-015",
+   "WHY-079"
+  ],
+  "E5-TIM": [
+   "GSZ-003",
+   "QM-006",
+   "QM-007",
+   "QM-008",
+   "WHY-073"
+  ]
+ },
+ "REV1_readings_N25": {
+  "A_involved_rate": {
+   "baseline_h20": 0.44,
+   "count": 9,
+   "value": 0.36
+  },
+  "CLAIM_primary_rate": {
+   "baseline_h20": 0.28,
+   "count": 5,
+   "value": 0.2
+  },
+  "OMIT_primary_rate": {
+   "baseline_h20": 0.2,
+   "count": 2,
+   "value": 0.08
+  },
+  "TIM_primary_rate": {
+   "baseline_h20": 0.12,
+   "count": 5,
+   "value": 0.2
+  },
+  "note": "readings only; no REV1 verdict by this seat",
+  "pair_diff": {
+   "baseline_h20": -1.08,
+   "value": -1.01
+  }
+ },
+ "acceptance": {
+  "SE": 0.356,
+  "WTL": "4/3/18",
+  "master_mean": 4.35,
+  "ours_mean": 3.34,
+  "pair_diff": -1.01,
+  "pass": false
+ },
+ "ambiguous": [
+  "WHY-075",
+  "QW-013",
+  "WHY-079"
+ ],
+ "case_set": "holdout21",
+ "diagnosis": "DIAG-H21-fresh-r60",
+ "n": 25,
+ "per_case_primary": {
+  "GSZ-003": "E5-TIM",
+  "GSZ-005": "none",
+  "GSZ-009": "E3",
+  "GSZ-015": "none",
+  "GSZ-016": "E5-DIR",
+  "GSZ-017": "none",
+  "QM-001": "E5-CLAIM",
+  "QM-002": "E5-CLAIM",
+  "QM-003": "E5-CLAIM",
+  "QM-004": "none",
+  "QM-005": "none",
+  "QM-006": "E5-TIM",
+  "QM-007": "E5-TIM",
+  "QM-008": "E5-TIM",
+  "QW-013": "E3",
+  "QW-014": "none",
+  "QW-015": "E5-OMIT",
+  "QW-016": "E5-CLAIM",
+  "QW-017": "E5-CLAIM",
+  "WHY-072": "E5-DIR",
+  "WHY-073": "E5-TIM",
+  "WHY-074": "E5-DIR",
+  "WHY-075": "E3",
+  "WHY-078": "none",
+  "WHY-079": "E5-OMIT"
+ },
+ "per_case_subscores": {
+  "GSZ-003": {
+   "diff": -1.25,
+   "master": {
+    "claims": 2.0,
+    "direction": 2.0,
+    "timing": 1.5
+   },
+   "ours": {
+    "claims": 1.5,
+    "direction": 2.0,
+    "timing": 0.75
+   }
+  },
+  "GSZ-005": {
+   "diff": 2.0,
+   "master": {
+    "claims": 0.5,
+    "direction": 1.0,
+    "timing": 0.0
+   },
+   "ours": {
+    "claims": 1.0,
+    "direction": 1.5,
+    "timing": 1.0
+   }
+  },
+  "GSZ-009": {
+   "diff": -3.25,
+   "master": {
+    "claims": 1.5,
+    "direction": 1.75,
+    "timing": 0.0
+   },
+   "ours": {
+    "claims": 0.0,
+    "direction": 0.0,
+    "timing": 0.0
+   }
+  },
+  "GSZ-015": {
+   "diff": 0.25,
+   "master": {
+    "claims": 2.0,
+    "direction": 2.0,
+    "timing": 0.0
+   },
+   "ours": {
+    "claims": 1.25,
+    "direction": 2.0,
+    "timing": 1.0
+   }
+  },
+  "GSZ-016": {
+   "diff": -2.25,
+   "master": {
+    "claims": 1.75,
+    "direction": 2.0,
+    "timing": 0.0
+   },
+   "ours": {
+    "claims": 0.75,
+    "direction": 0.25,
+    "timing": 0.5
+   }
+  },
+  "GSZ-017": {
+   "diff": 0.0,
+   "master": {
+    "claims": 2.0,
+    "direction": 2.0,
+    "timing": 0.0
+   },
+   "ours": {
+    "claims": 1.0,
+    "direction": 2.0,
+    "timing": 1.0
+   }
+  },
+  "QM-001": {
+   "diff": -1.0,
+   "master": {
+    "claims": 2.0,
+    "direction": 2.0,
+    "timing": 0.0
+   },
+   "ours": {
+    "claims": 1.0,
+    "direction": 1.75,
+    "timing": 0.25
+   }
+  },
+  "QM-002": {
+   "diff": -0.25,
+   "master": {
+    "claims": 1.75,
+    "direction": 2.0,
+    "timing": 2.0
+   },
+   "ours": {
+    "claims": 1.5,
+    "direction": 2.0,
+    "timing": 2.0
+   }
+  },
+  "QM-003": {
+   "diff": -1.0,
+   "master": {
+    "claims": 1.75,
+    "direction": 2.0,
+    "timing": 2.0
+   },
+   "ours": {
+    "claims": 1.0,
+    "direction": 1.75,
+    "timing": 2.0
+   }
+  },
+  "QM-004": {
+   "diff": 0.75,
+   "master": {
+    "claims": 1.75,
+    "direction": 2.0,
+    "timing": 1.5
+   },
+   "ours": {
+    "claims": 2.0,
+    "direction": 2.0,
+    "timing": 2.0
+   }
+  },
+  "QM-005": {
+   "diff": 0.0,
+   "master": {
+    "claims": 2.0,
+    "direction": 2.0,
+    "timing": 2.0
+   },
+   "ours": {
+    "claims": 2.0,
+    "direction": 2.0,
+    "timing": 2.0
+   }
+  },
+  "QM-006": {
+   "diff": -1.75,
+   "master": {
+    "claims": 2.0,
+    "direction": 2.0,
+    "timing": 2.0
+   },
+   "ours": {
+    "claims": 1.5,
+    "direction": 2.0,
+    "timing": 0.75
+   }
+  },
+  "QM-007": {
+   "diff": -1.25,
+   "master": {
+    "claims": 1.75,
+    "direction": 2.0,
+    "timing": 2.0
+   },
+   "ours": {
+    "claims": 1.5,
+    "direction": 2.0,
+    "timing": 1.0
+   }
+  },
+  "QM-008": {
+   "diff": -1.25,
+   "master": {
+    "claims": 1.5,
+    "direction": 2.0,
+    "timing": 2.0
+   },
+   "ours": {
+    "claims": 1.5,
+    "direction": 2.0,
+    "timing": 0.75
+   }
+  },
+  "QW-013": {
+   "diff": -2.5,
+   "master": {
+    "claims": 1.5,
+    "direction": 1.75,
+    "timing": 1.25
+   },
+   "ours": {
+    "claims": 0.5,
+    "direction": 0.5,
+    "timing": 1.0
+   }
+  },
+  "QW-014": {
+   "diff": 0.0,
+   "master": {
+    "claims": 1.5,
+    "direction": 1.75,
+    "timing": 1.25
+   },
+   "ours": {
+    "claims": 1.5,
+    "direction": 1.75,
+    "timing": 1.25
+   }
+  },
+  "QW-015": {
+   "diff": -1.75,
+   "master": {
+    "claims": 1.25,
+    "direction": 1.5,
+    "timing": 1.5
+   },
+   "ours": {
+    "claims": 0.75,
+    "direction": 0.75,
+    "timing": 1.0
+   }
+  },
+  "QW-016": {
+   "diff": -1.25,
+   "master": {
+    "claims": 1.5,
+    "direction": 1.75,
+    "timing": 1.25
+   },
+   "ours": {
+    "claims": 1.0,
+    "direction": 1.25,
+    "timing": 1.0
+   }
+  },
+  "QW-017": {
+   "diff": -2.25,
+   "master": {
+    "claims": 1.25,
+    "direction": 1.75,
+    "timing": 1.25
+   },
+   "ours": {
+    "claims": 0.5,
+    "direction": 0.5,
+    "timing": 1.0
+   }
+  },
+  "WHY-072": {
+   "diff": -3.25,
+   "master": {
+    "claims": 1.75,
+    "direction": 2.0,
+    "timing": 0.0
+   },
+   "ours": {
+    "claims": 0.0,
+    "direction": 0.0,
+    "timing": 0.5
+   }
+  },
+  "WHY-073": {
+   "diff": -1.25,
+   "master": {
+    "claims": 1.5,
+    "direction": 1.75,
+    "timing": 2.0
+   },
+   "ours": {
+    "claims": 1.5,
+    "direction": 2.0,
+    "timing": 0.5
+   }
+  },
+  "WHY-074": {
+   "diff": -3.0,
+   "master": {
+    "claims": 1.5,
+    "direction": 1.75,
+    "timing": 0.0
+   },
+   "ours": {
+    "claims": 0.25,
+    "direction": 0.0,
+    "timing": 0.0
+   }
+  },
+  "WHY-075": {
+   "diff": -3.75,
+   "master": {
+    "claims": 2.0,
+    "direction": 2.0,
+    "timing": 0.0
+   },
+   "ours": {
+    "claims": 0.25,
+    "direction": 0.0,
+    "timing": 0.0
+   }
+  },
+  "WHY-078": {
+   "diff": 4.5,
+   "master": {
+    "claims": 0.0,
+    "direction": 0.0,
+    "timing": 0.0
+   },
+   "ours": {
+    "claims": 1.5,
+    "direction": 2.0,
+    "timing": 1.0
+   }
+  },
+  "WHY-079": {
+   "diff": -0.5,
+   "master": {
+    "claims": 1.5,
+    "direction": 1.75,
+    "timing": 1.25
+   },
+   "ours": {
+    "claims": 1.5,
+    "direction": 1.5,
+    "timing": 1.0
+   }
+  }
+ },
+ "primary_cause_counts": {
+  "全集": {
+   "E3": 3,
+   "E4": 0,
+   "E5": 15,
+   "n": 25,
+   "no_loss_cause": 7
+  },
+  "八字·QW": {
+   "E3": 1,
+   "E4": 0,
+   "E5": 3,
+   "n": 5,
+   "no_loss_cause": 1
+  },
+  "六爻·GSZ": {
+   "E3": 1,
+   "E4": 0,
+   "E5": 2,
+   "n": 6,
+   "no_loss_cause": 3
+  },
+  "六爻·WHY": {
+   "E3": 1,
+   "E4": 0,
+   "E5": 4,
+   "n": 6,
+   "no_loss_cause": 1
+  },
+  "六爻全": {
+   "E3": 2,
+   "E4": 0,
+   "E5": 6,
+   "n": 12,
+   "no_loss_cause": 4
+  },
+  "奇门·QM": {
+   "E3": 0,
+   "E4": 0,
+   "E5": 6,
+   "n": 8,
+   "no_loss_cause": 2
+  },
+  "非六爻": {
+   "E3": 1,
+   "E4": 0,
+   "E5": 9,
+   "n": 13,
+   "no_loss_cause": 3
+  }
+ },
+ "quality_notes": {
+  "QM-004": "section-title outcome info removed from input side by host ruling (seal log s.5)",
+  "QM-007": "input context rewritten per ledger note (seal log s.3)",
+  "QW-017": "thin outcome (seal log s.3)",
+  "QW_segment": "author-selected verified-accurate collection (grade_note)",
+  "WHY-078": "gold master_prediction only yongshen gist, no concrete claim; master scored 0 by both views (REPORT s.1)"
+ },
+ "subscore_recompute": "all 25 ours/master totals match final-scores",
+ "unmeasurable": 0
+}
