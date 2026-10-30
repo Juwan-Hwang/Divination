@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Direction: Donald Trump wins the 2016 US presidential election — and what decides it is Hillary Clinton's email controversy. The Union Square tarot reading (August 2016) names Trump as the winner over Clinton, with the deciding factor being the scandal complex already surrounding Clinton — her emails and the Clinton Foundation — which fatally damages her at the close of the race. Timing: decided at the election of 8 November 2016, with the email issue resurging as the late deciding blow.",
+ "basis": "Western tarot (Waite tradition) applied to a mundane question, as in the source account: the reading's outcome and its named deciding factor are both part of the forecast; no cards are reproduced in the input, so the card-level basis cannot be itemised and confidence is held down accordingly. Input limitation noted: attachments contain no drawn cards. System: Tarot (mundane reading).",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
