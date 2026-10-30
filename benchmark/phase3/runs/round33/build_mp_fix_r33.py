@@ -7,7 +7,8 @@ from pathlib import Path
 
 P3 = Path('benchmark/phase3')
 JD = P3 / 'runs/round33/judging'
-MP_IDS = [f'MP-{i:03d}' for i in range(1, 20)]
+MP_IDS = ['MP-002', 'MP-004', 'MP-005', 'MP-007', 'MP-008',
+          'MP-012', 'MP-017', 'MP-018', 'MP-019']  # the 9 truly mismatched
 
 
 def load_jsonl(path):
@@ -53,9 +54,8 @@ for cid in MP_IDS:
     assert ref is not None, cid
     assert outcome_of(ref) == oc, f'cross-check mismatch {cid}'
     anon = inv[cid]
-    if orig[anon].get('outcome_record') == oc:
-        print(cid, anon, 'orig packet already correct, excluded')
-        continue
+    assert str(orig[anon].get('outcome_record')).startswith(('史载', '书载')), cid
+    assert not any(w in oc for w in ('断言', '应验', '落空', '命中')), cid
     e = dict(orig[anon])
     e['outcome_record'] = oc
     out.append(e)
