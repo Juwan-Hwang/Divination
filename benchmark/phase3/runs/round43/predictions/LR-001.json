@@ -1,0 +1,12 @@
+{
+ "case_id": "LR-001",
+ "prediction_text": "蒋介石终局倾向：不死、得活，事变以释放收束。输入残损：未给任何卦象、课式、三传或出生盘面，无盘可据，只能据占题本身（被扣押、性命受问）作低置信方向判断——断其性命可保、终局获释，时间窗在本月内（事变当月内了局），主坐标不另 pinpoint 到日。",
+ "basis": "输入残损照实注明：本例JSON无attachments、无起卦或排盘原始结果，按纪律不臆补盘面；无据细断一律不报，仅给方向倾向并大幅降置信。非六爻例，trigger三项全false。",
+ "confidence": 0.3,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
