@@ -1,0 +1,15 @@
+{
+ "case_id": "WP-008",
+ "prediction_text": "方向：莫迪领导的BJP/NDA获胜连任。具体断语：NDA取得下院过半席位、莫迪续任总理，胜幅为明确多数而非勉强组阁；应期：计票日2019年5月23日揭晓（窗口为投票结束至计票日，主坐标5月23日）。",
+ "basis": "西洋预言类输入残损：未给任何候选人出生日期、精确出生时间与出生地，无法按kb-snapshot占星篇排本命盘核尊贵相位，basis据此降置信；仅据输入卡事实（在任总理寻求连任、选前评估称odds in Modi's favour）与事实优先序作方向判断。",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western-astrology/prophecy (chart unavailable, factual-prior reading)"
+ ]
+}

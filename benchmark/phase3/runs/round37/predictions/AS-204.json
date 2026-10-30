@@ -1,0 +1,15 @@
+{
+ "case_id": "AS-204",
+ "prediction_text": "Direction: the disease is seated principally in the breast and stomach, and it is a fixed, lingering affliction — curable only slowly and with difficulty, not a swift cure. Saturn in Cancer (signifying breast and stomach) had lately squared the lord of the Ascendant by dexter square, the sixth house is afflicted by a planet in his fall placed therein, the Moon is in the fourth with Saturn, and all the angles are fixed: fixed angles + Saturn give a chronic, settled disease rather than an acute passing one. Timing: month scale — a prolonged course over months, with the lord of Ascendant already separated from Saturn's square indicating the worst onset is past but recovery is slow.",
+ "basis": "Asc Scorpio; 6th afflicted by planet in fall therein; lord Asc lately separated dexter square Saturn in Cancer = breast/stomach; Moon in 4th with Saturn; all angles fixed = fixed disease. Lilly decumbiture/sickness rules: sign of afflicting Saturn localises part (Cancer breast/stomach), fixed signs prolong.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western horary astrology (Lilly)"
+ ]
+}

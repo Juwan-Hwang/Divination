@@ -1,0 +1,15 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "Direction: Hillary Clinton wins the 2016 US presidential election (8 November 2016), in line with the polling lead and the conference-panel consensus forming at Costa Mesa. Margin read as clear in the popular vote; the judgment follows the dominant signification of the race as presented in October 2016. Timing: election day, 8 November 2016 (day-scale single event).",
+ "basis": "Western mundane astrology as practised by a forecasting panel: with no charts supplied in the input, the panel method weighs the race's public signification — sustained polling lead, establishment continuity signification — and lands on Clinton. Basis is thin by design of the input (no natal or event charts given), so this is recorded as a consensus-signification judgment with modest confidence, per the honesty rule for underspecified inputs.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "西洋占星"
+ ]
+}

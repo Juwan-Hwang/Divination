@@ -1,0 +1,15 @@
+{
+ "case_id": "YM-058",
+ "prediction_text": "擢往西方，终局方向定西（含西北偏西）。时间窗为月档，主坐标酉月：父母酉金值月定方定命。方位以父母酉金正西为据，官鬼未土西南为次舍弃。",
+ "basis": "问何方以父母（任命）与官鬼（职任）定方。静卦泽火革：父母酉金得申日生扶、金气最显，酉为正西；官鬼未土主西南、丑土主东北，皆土而无金之专象，故取西舍西南、东北。应期按值月取酉月。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "liuyao"
+ ]
+}

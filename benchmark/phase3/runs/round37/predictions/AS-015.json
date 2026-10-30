@@ -1,0 +1,15 @@
+{
+ "case_id": "AS-015",
+ "prediction_text": "Direction: the husband at sea is ALIVE and well — his significator the Sun is in his hayz and free from all affliction, the strongest single testimony in the figure — and his return home is to be expected rather than news of his death. No precise port or return day is asserted: the given positions are partly garbled (per input note) and do not support a specific place/date for him, so timing is stated only as a months-scale return window. Separately, the figure's Mars-Saturn ill aspect (Mars near the Moon's place ~2d, Saturn ~2d Capricorn, Moon later ~20d) was read by Lilly against the wife herself, pointing to her own fatal crisis on 8 October following — that danger attaches to the wife, not to the husband.",
+ "basis": "7th house taken as woman's Asc in this question; husband sig Sun in hayz free from all affliction = alive/safe; Saturn lord her 6th retrograde = her relapsing illness (context, not husband's state); Mars/Saturn moving to ill aspect with stated degrees = wife's timing testimony. Input explicitly notes positions partly garbled and that husband sig unafflicted + wife's death timing are the two unambiguous points — basis records this residue, confidence lowered, no location invented.",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western horary astrology (Lilly)"
+ ]
+}

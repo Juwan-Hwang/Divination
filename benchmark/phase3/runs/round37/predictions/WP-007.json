@@ -1,0 +1,16 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Direction: Donald Trump wins the 2016 US presidential election (8 November 2016). What decides it, per the reading: the accumulated damage to Clinton from the email controversy and the Clinton Foundation — the scandal burden, already public in August 2016, is the weight that sinks her signification in the final stretch, while Trump's signification remains unencumbered by any equivalent late blow. Timing: election day, 8 November 2016 (day-scale single event).",
+ "basis": "Tarot-informed mundane reading (Waite tradition, western-tarot.md): the input supplies no actual card spread — this is recorded as an input deficiency — so the judgment is made from the reading situation as given: a Union Square tarot consultation in August 2016 whose outcome, as framed by the source report itself ('psychic predicted Trump winning'), turned on Clinton's scandal signification (emails/Foundation, both named in the setting as live controversies). Direction: Trump; deciding factor: Clinton's scandal burden. Confidence lowered because no drawn cards were provided to check card-by-card against Waite meanings.",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "塔罗",
+  "西洋占星"
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "case_id": "WP-009",
+ "prediction_text": "方向：印度队不能夺得2019年板球世界杯冠军。具体断语：印度作为热门可进淘汰赛段（四强量级），但在半决赛/决胜段被淘汰、无缘奖杯；应期：赛事末段2019年7月上中旬（窗口为6月30日小组赛程后至7月14日决赛，主坐标7月9-10日半决赛段）。",
+ "basis": "西洋占星类输入残损：仅给队长Kohli出生年份1988、无精确出生时刻与地点，不能排盘核行运，basis注明并降置信；据输入事实（十队单循环、印度虽为热门但占星师于新书发布场合公开发表预测的语境）与赛事尺度作淘汰赛段落败之断。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western-astrology (chart unavailable, factual-prior reading)"
+ ]
+}
