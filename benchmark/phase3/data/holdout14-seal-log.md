@@ -1,0 +1,3 @@
+# holdout14 封存日志
+
+- 2026-10-30T05:03:11+00:00 封存：40 例（全新 A/A-low；low 污染 38 例＋污染例外 2 例 PU-003/PU-008（high，主持裁定准入、验收须分层报告）：六壬 16＝断案 DA 8＋辨疑 BY 5＋粹言 CY 3、六爻 9＝卜筮全书备选建档 BQ-026…034、测字 CZ 13（余量全取）、八字 2＝PU 例外 2），金标 SHA-256 609732c12630e0b7668dd62bb722625f80e94bf6aa2c94b995a5597c29c529b8，状态未开封。构成推导、选择规则、资格准据、例外注记、判语剥离登记与成色限度见 holdout14/SEALED.md 与 holdout14/BUILD-LOG.md；备选建档见 expansion12/bushi-quanshu-beixuan/BUILD-NOTES.md；封存前编号唯一性审计见 runs/round36/audit-ids-holdout14-report.json。

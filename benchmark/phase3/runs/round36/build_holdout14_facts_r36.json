@@ -1,0 +1,619 @@
+{
+ "composition": {
+  "C_cz": 13,
+  "Y_bq": 9,
+  "B_pu": 2,
+  "L_liuren": 16,
+  "T": 40,
+  "DA": 8,
+  "BY": 5,
+  "CY": 3
+ },
+ "pick_ids": [
+  "DA-015",
+  "DA-016",
+  "DA-017",
+  "DA-019",
+  "DA-020",
+  "DA-021",
+  "DA-022",
+  "DA-023",
+  "BY-007",
+  "BY-008",
+  "BY-009",
+  "BY-010",
+  "BY-011",
+  "CY-005",
+  "CY-006",
+  "CY-008",
+  "BQ-026",
+  "BQ-027",
+  "BQ-028",
+  "BQ-029",
+  "BQ-030",
+  "BQ-031",
+  "BQ-032",
+  "BQ-033",
+  "BQ-034",
+  "PU-003",
+  "PU-008",
+  "CZ-018",
+  "CZ-019",
+  "CZ-020",
+  "CZ-022",
+  "CZ-023",
+  "CZ-024",
+  "CZ-026",
+  "CZ-027",
+  "CZ-028",
+  "CZ-030",
+  "CZ-031",
+  "CZ-032",
+  "CZ-033"
+ ],
+ "picks_by_source": {
+  "DA": [
+   "DA-015",
+   "DA-016",
+   "DA-017",
+   "DA-019",
+   "DA-020",
+   "DA-021",
+   "DA-022",
+   "DA-023"
+  ],
+  "BY": [
+   "BY-007",
+   "BY-008",
+   "BY-009",
+   "BY-010",
+   "BY-011"
+  ],
+  "CY": [
+   "CY-005",
+   "CY-006",
+   "CY-008"
+  ],
+  "BQ": [
+   "BQ-026",
+   "BQ-027",
+   "BQ-028",
+   "BQ-029",
+   "BQ-030",
+   "BQ-031",
+   "BQ-032",
+   "BQ-033",
+   "BQ-034"
+  ],
+  "PU": [
+   "PU-003",
+   "PU-008"
+  ],
+  "CZ": [
+   "CZ-018",
+   "CZ-019",
+   "CZ-020",
+   "CZ-022",
+   "CZ-023",
+   "CZ-024",
+   "CZ-026",
+   "CZ-027",
+   "CZ-028",
+   "CZ-030",
+   "CZ-031",
+   "CZ-032",
+   "CZ-033"
+  ]
+ },
+ "checks": {
+  "DA-015": {
+   "source": "DA",
+   "grade_basis": "A-low",
+   "contamination": "low",
+   "issues": []
+  },
+  "DA-016": {
+   "source": "DA",
+   "grade_basis": "A-low",
+   "contamination": "low",
+   "issues": []
+  },
+  "DA-017": {
+   "source": "DA",
+   "grade_basis": "A-low",
+   "contamination": "low",
+   "issues": []
+  },
+  "DA-019": {
+   "source": "DA",
+   "grade_basis": "A-low",
+   "contamination": "low",
+   "issues": []
+  },
+  "DA-020": {
+   "source": "DA",
+   "grade_basis": "A-low",
+   "contamination": "low",
+   "issues": []
+  },
+  "DA-021": {
+   "source": "DA",
+   "grade_basis": "A-low",
+   "contamination": "low",
+   "issues": []
+  },
+  "DA-022": {
+   "source": "DA",
+   "grade_basis": "A-low",
+   "contamination": "low",
+   "issues": []
+  },
+  "DA-023": {
+   "source": "DA",
+   "grade_basis": "A-low",
+   "contamination": "low",
+   "issues": []
+  },
+  "BY-007": {
+   "source": "BY",
+   "grade_basis": "A-low",
+   "contamination": "low",
+   "issues": []
+  },
+  "BY-008": {
+   "source": "BY",
+   "grade_basis": "A-low",
+   "contamination": "low",
+   "issues": []
+  },
+  "BY-009": {
+   "source": "BY",
+   "grade_basis": "A-low",
+   "contamination": "low",
+   "issues": []
+  },
+  "BY-010": {
+   "source": "BY",
+   "grade_basis": "A-low",
+   "contamination": "low",
+   "issues": []
+  },
+  "BY-011": {
+   "source": "BY",
+   "grade_basis": "A-low",
+   "contamination": "low",
+   "issues": []
+  },
+  "CY-005": {
+   "source": "CY",
+   "grade_basis": "A-low",
+   "contamination": "low",
+   "issues": []
+  },
+  "CY-006": {
+   "source": "CY",
+   "grade_basis": "A-low",
+   "contamination": "low",
+   "issues": []
+  },
+  "CY-008": {
+   "source": "CY",
+   "grade_basis": "A-low",
+   "contamination": "low",
+   "issues": []
+  },
+  "BQ-026": {
+   "source": "BQ",
+   "grade_basis": "A",
+   "contamination": "low",
+   "issues": []
+  },
+  "BQ-027": {
+   "source": "BQ",
+   "grade_basis": "A",
+   "contamination": "low",
+   "issues": []
+  },
+  "BQ-028": {
+   "source": "BQ",
+   "grade_basis": "A",
+   "contamination": "low",
+   "issues": []
+  },
+  "BQ-029": {
+   "source": "BQ",
+   "grade_basis": "A",
+   "contamination": "low",
+   "issues": []
+  },
+  "BQ-030": {
+   "source": "BQ",
+   "grade_basis": "A",
+   "contamination": "low",
+   "issues": []
+  },
+  "BQ-031": {
+   "source": "BQ",
+   "grade_basis": "A",
+   "contamination": "low",
+   "issues": []
+  },
+  "BQ-032": {
+   "source": "BQ",
+   "grade_basis": "A",
+   "contamination": "low",
+   "issues": []
+  },
+  "BQ-033": {
+   "source": "BQ",
+   "grade_basis": "A",
+   "contamination": "low",
+   "issues": []
+  },
+  "BQ-034": {
+   "source": "BQ",
+   "grade_basis": "A",
+   "contamination": "low",
+   "issues": []
+  },
+  "PU-003": {
+   "source": "PU",
+   "grade_basis": "A-low(CENSUS-BZ改判,分级轴)",
+   "contamination": "high",
+   "issues": []
+  },
+  "PU-008": {
+   "source": "PU",
+   "grade_basis": "A-low(CENSUS-BZ改判,分级轴)",
+   "contamination": "high",
+   "issues": []
+  },
+  "CZ-018": {
+   "source": "CZ",
+   "grade_basis": "A-low",
+   "contamination": "low",
+   "issues": []
+  },
+  "CZ-019": {
+   "source": "CZ",
+   "grade_basis": "A-low",
+   "contamination": "low",
+   "issues": []
+  },
+  "CZ-020": {
+   "source": "CZ",
+   "grade_basis": "A-low",
+   "contamination": "low",
+   "issues": []
+  },
+  "CZ-022": {
+   "source": "CZ",
+   "grade_basis": "A-low",
+   "contamination": "low",
+   "issues": []
+  },
+  "CZ-023": {
+   "source": "CZ",
+   "grade_basis": "A",
+   "contamination": "low",
+   "issues": []
+  },
+  "CZ-024": {
+   "source": "CZ",
+   "grade_basis": "A-low",
+   "contamination": "low",
+   "issues": []
+  },
+  "CZ-026": {
+   "source": "CZ",
+   "grade_basis": "A",
+   "contamination": "low",
+   "issues": []
+  },
+  "CZ-027": {
+   "source": "CZ",
+   "grade_basis": "A-low",
+   "contamination": "low",
+   "issues": []
+  },
+  "CZ-028": {
+   "source": "CZ",
+   "grade_basis": "A-low",
+   "contamination": "low",
+   "issues": []
+  },
+  "CZ-030": {
+   "source": "CZ",
+   "grade_basis": "A-low",
+   "contamination": "low",
+   "issues": []
+  },
+  "CZ-031": {
+   "source": "CZ",
+   "grade_basis": "A-low",
+   "contamination": "low",
+   "issues": []
+  },
+  "CZ-032": {
+   "source": "CZ",
+   "grade_basis": "A-low",
+   "contamination": "low",
+   "issues": []
+  },
+  "CZ-033": {
+   "source": "CZ",
+   "grade_basis": "A-low",
+   "contamination": "low",
+   "issues": []
+  }
+ },
+ "triples": {
+  "DA-015": [
+   "徐八公（甲寅生，五十五岁）",
+   "戊申年六月癸亥日未将酉时。甲寅旬，子丑空。",
+   "占宅"
+  ],
+  "DA-016": [
+   "刘将仕（庚午生，四十岁）",
+   "己酉年午月戊申日未将卯时。甲辰旬，寅卯空。",
+   "占宅"
+  ],
+  "DA-017": [
+   "何丞务（丁巳生，五十三岁）",
+   "己酉年三月戊子日戌将巳时。甲申旬，午未空。",
+   "占宅"
+  ],
+  "DA-019": [
+   "王解元（辛未生，三十九岁）",
+   "己酉年三月癸巳日戌将未时。甲申旬，午未空。",
+   "占宅"
+  ],
+  "DA-020": [
+   "何宣义（丁丑生，三十三岁）",
+   "己酉年三月癸巳日戌将酉时。甲申旬，午未空。",
+   "占宅"
+  ],
+  "DA-021": [
+   "林丞务（丙辰生，五十四岁）",
+   "己酉年六月辛卯日午将辰时。甲申旬，午未空。",
+   "占宅"
+  ],
+  "DA-022": [
+   "冯修职（己卯生，三十岁）",
+   "戊申年五月乙酉日申将卯时。甲申旬，午未空。",
+   "占宅"
+  ],
+  "DA-023": [
+   "叶油饼店店主（庚戌生，五十九岁）",
+   "戊申年六月戊辰日未将酉时。甲子旬，戌亥空。",
+   "占宅"
+  ],
+  "BY-007": [
+   "占者本人（寓保康县）",
+   "咸丰丙辰年巳月己酉日亥时",
+   "占保康县可寓否（与人合伙营生可否）"
+  ],
+  "BY-008": [
+   "占者本人（占往江右）",
+   "咸丰甲寅年卯月戊寅日申时",
+   "占往江右（避难迁徙）吉凶"
+  ],
+  "BY-009": [
+   "占者本人（寓袁州）",
+   "咸丰甲寅年未月庚戌日亥时",
+   "占往南省可否"
+  ],
+  "BY-010": [
+   "罗姓（占侄考试）",
+   "咸丰丙辰年戌月己巳日巳时",
+   "罗姓占侄考试（县试/府试/院试/岁考/科考次第）"
+  ],
+  "BY-011": [
+   "占者本人（寓高川）",
+   "同治癸亥年酉月辛卯日申时（寓高川）",
+   "占晴（天气与行程安危）"
+  ],
+  "CY-005": [
+   "任澜泉刺史（自占）",
+   "辛巳年正月丙子日申时亥将",
+   "占今年可升迁否"
+  ],
+  "CY-006": [
+   "任澜泉刺史之弟（任澜泉占）",
+   "辛巳年二月丁亥日午时亥将",
+   "占乃弟在京候选何日可以得缺"
+  ],
+  "CY-008": [
+   "任某刺史",
+   "壬午年二月甲辰日丑时戌将",
+   "占原缺能准否"
+  ],
+  "BQ-026": [
+   "乡人（与另一人同日同卜官事者之一）",
+   "癸巳日",
+   "卜官事（官司/官事结果）|恒"
+  ],
+  "BQ-027": [
+   "占者（未具名）",
+   "五月乙未日",
+   "占财（求财成否）|泰"
+  ],
+  "BQ-028": [
+   "注家本人",
+   "八月庚申日",
+   "卜中秋月（中秋月色/月蚀与否）|家人"
+  ],
+  "BQ-029": [
+   "占者（未具名）",
+   "五月丁丑日",
+   "占晴（天气晴否）|屯"
+  ],
+  "BQ-030": [
+   "占者（未具名）",
+   "辛未日",
+   "占晴（天气晴否）|损"
+  ],
+  "BQ-031": [
+   "占者（未具名）",
+   "五月甲戌日",
+   "占雨（久晴占雨）|屯"
+  ],
+  "BQ-032": [
+   "占者（未具名，卜种水田者）",
+   "乙亥日",
+   "卜种水田（种田可成否）|既济"
+  ],
+  "BQ-033": [
+   "占者（未具名，卜田者）",
+   "辛亥日",
+   "卜田（田之归属/可得否）|观"
+  ],
+  "BQ-034": [
+   "占者（未具名，卜田者）",
+   "癸巳日",
+   "卜田（田可得种否）|颐"
+  ],
+  "PU-003": [
+   "张道陵（张天师）",
+   "不详（《袁氏命谱》为已故历史人物回顾论命，民国年间编撰，序跋署年1938–1946）",
+   "以张道陵（张天师）四柱（甲午丙寅壬戌庚子）论其一生"
+  ],
+  "PU-008": [
+   "吕岩（吕洞宾）",
+   "不详（《袁氏命谱》为已故历史人物回顾论命，民国年间编撰，序跋署年1938–1946）",
+   "以吕岩（吕洞宾）四柱（戊寅丁巳甲子己巳）论其一生"
+  ],
+  "CZ-018": [
+   "一人（问婚姻者；旁有其友）",
+   "原文未记",
+   "书虬字问婚姻及成婚日期"
+  ],
+  "CZ-019": [
+   "一人（与表兄合伙开银店将及三载，欲分账自开）",
+   "原文未记",
+   "以公字问事（心中欲分伙，未明言）"
+  ],
+  "CZ-020": [
+   "一人（求财者，未具名；以『求财』二字代字测）",
+   "原文未记",
+   "云『我欲求财，请测一字』而不书字，程省即以求财二字测之"
+  ],
+  "CZ-022": [
+   "吴友（程省友人）",
+   "原文未记（占时为夜）",
+   "灯下书衡字问行人"
+  ],
+  "CZ-023": [
+   "一人（问内人病者，未具名）",
+   "原文未记",
+   "书芍字问病"
+  ],
+  "CZ-024": [
+   "一人（问六甲者，未具名）",
+   "原文未记",
+   "书球字问六甲"
+  ],
+  "CZ-026": [
+   "富家任事者（问部下负心、主人欲控府当否）",
+   "原文未记",
+   "书恙字问：负心者将控官，当否（如何处置）"
+  ],
+  "CZ-027": [
+   "一人（问府考者，未具名）",
+   "原文未记",
+   "书庆字问府考"
+  ],
+  "CZ-028": [
+   "一朝宦（问婚姻者）",
+   "原文未记",
+   "请程省问婚姻，书卜字"
+  ],
+  "CZ-030": [
+   "一人（以唯字问其舍亲功名）",
+   "原文未记",
+   "书唯字问（舍亲）功名"
+  ],
+  "CZ-031": [
+   "一人（欲寻店面营业者，未具名）",
+   "原文未记",
+   "书高字问：欲寻一店面，生理何如"
+  ],
+  "CZ-032": [
+   "一人（问谋事者，所谋为盐院事）",
+   "原文未记",
+   "书非字问谋事"
+  ],
+  "CZ-033": [
+   "一人（问病者，未具名）",
+   "原文未记",
+   "书焉字问病"
+  ]
+ },
+ "pool_ids_hits": [],
+ "stripped_verdict_tails": {
+  "PU-003": "（结局为道教传说性质，书内具体可分离）",
+  "PU-008": "（结局为传说性质，书内可分离，无确切卒年）",
+  "CZ-018": "（成婚日期与所断尽合）",
+  "CZ-020": "——经营品类、路线、前次亏折、本次合伙均获具体确认。",
+  "CZ-022": "（原文作『次以二人同至』，『以』疑为『日』之讹，转录照原文，校记于此）",
+  "CZ-023": "（与所断豹尾对应）",
+  "CZ-027": "（榜文公布后与所断合）",
+  "CZ-028": "——议婚地点（都中、非本郡、远隔五百余里）与对象门第（大贵）获具体确认。成婚结局未载。"
+ },
+ "kept_reviewed_outcomes": [
+  "CZ-019",
+  "CZ-026",
+  "CZ-030",
+  "CZ-031",
+  "CZ-032",
+  "CZ-033"
+ ],
+ "gold_sha256": "609732c12630e0b7668dd62bb722625f80e94bf6aa2c94b995a5597c29c529b8",
+ "card_notes": {
+  "DA-015": "课盘原文/三传自 scratch-archive/cases_raw.json 原文直录（评注续行已滤除、只留盘列）；grade_note 未入卡",
+  "DA-016": "课盘原文/三传自 scratch-archive/cases_raw.json 原文直录（评注续行已滤除、只留盘列）；grade_note 未入卡",
+  "DA-017": "课盘原文/三传自 scratch-archive/cases_raw.json 原文直录（评注续行已滤除、只留盘列）；grade_note 未入卡",
+  "DA-019": "课盘原文/三传自 scratch-archive/cases_raw.json 原文直录（评注续行已滤除、只留盘列）；grade_note 未入卡",
+  "DA-020": "课盘原文/三传自 scratch-archive/cases_raw.json 原文直录（评注续行已滤除、只留盘列）；grade_note 未入卡",
+  "DA-021": "课盘原文/三传自 scratch-archive/cases_raw.json 原文直录（评注续行已滤除、只留盘列）；grade_note 未入卡",
+  "DA-022": "课盘原文/三传自 scratch-archive/cases_raw.json 原文直录（评注续行已滤除、只留盘列）；grade_note 未入卡",
+  "DA-023": "课盘原文/三传自 scratch-archive/cases_raw.json 原文直录（评注续行已滤除、只留盘列）；grade_note 未入卡",
+  "BY-007": "课式/三传/四课/天地盘自原书排印本 PDF 页图直录（数据角视觉转录，2026-10-30，200dpi）；排印本玄武省作「元」、三传天将按全称记、四课与天地盘天将行照原字（BY-010 四课天将行第三字原字作「龙」）；grade_note/review 未入卡",
+  "BY-008": "课式/三传/四课/天地盘自原书排印本 PDF 页图直录（数据角视觉转录，2026-10-30，200dpi）；排印本玄武省作「元」、三传天将按全称记、四课与天地盘天将行照原字（BY-010 四课天将行第三字原字作「龙」）；grade_note/review 未入卡",
+  "BY-009": "课式/三传/四课/天地盘自原书排印本 PDF 页图直录（数据角视觉转录，2026-10-30，200dpi）；排印本玄武省作「元」、三传天将按全称记、四课与天地盘天将行照原字（BY-010 四课天将行第三字原字作「龙」）；grade_note/review 未入卡",
+  "BY-010": "课式/三传/四课/天地盘自原书排印本 PDF 页图直录（数据角视觉转录，2026-10-30，200dpi）；排印本玄武省作「元」、三传天将按全称记、四课与天地盘天将行照原字（BY-010 四课天将行第三字原字作「龙」）；grade_note/review 未入卡",
+  "BY-011": "课式/三传/四课/天地盘自原书排印本 PDF 页图直录（数据角视觉转录，2026-10-30，200dpi）；排印本玄武省作「元」、三传天将按全称记、四课与天地盘天将行照原字（BY-010 四课天将行第三字原字作「龙」）；grade_note/review 未入卡",
+  "CY-005": "仅干支级建卡（原书有课盘列但转录未录盘字，不臆录）；grade_note 未入卡",
+  "CY-006": "仅干支级建卡（原书有课盘列但转录未录盘字，不臆录）；grade_note 未入卡",
+  "CY-008": "仅干支级建卡（原书有课盘列但转录未录盘字，不臆录）；grade_note 未入卡",
+  "BQ-026": "照 expansion7 inputs 体例建卡（占问背景＋卦象，无断语/结局）；grade_note/comment 未入卡",
+  "BQ-027": "照 expansion7 inputs 体例建卡（占问背景＋卦象，无断语/结局）；grade_note/comment 未入卡",
+  "BQ-028": "照 expansion7 inputs 体例建卡（占问背景＋卦象，无断语/结局）；grade_note/comment 未入卡",
+  "BQ-029": "照 expansion7 inputs 体例建卡（占问背景＋卦象，无断语/结局）；grade_note/comment 未入卡",
+  "BQ-030": "照 expansion7 inputs 体例建卡（占问背景＋卦象，无断语/结局）；grade_note/comment 未入卡",
+  "BQ-031": "照 expansion7 inputs 体例建卡（占问背景＋卦象，无断语/结局）；grade_note/comment 未入卡",
+  "BQ-032": "照 expansion7 inputs 体例建卡（占问背景＋卦象，无断语/结局）；grade_note/comment 未入卡",
+  "BQ-033": "照 expansion7 inputs 体例建卡（占问背景＋卦象，无断语/结局）；grade_note/comment 未入卡",
+  "BQ-034": "照 expansion7 inputs 体例建卡（占问背景＋卦象，无断语/结局）；grade_note/comment 未入卡",
+  "PU-003": "四柱/性别自源行 chart 字段入 attachments；context 原文为空未填；源行 grade_note/review 未入卡",
+  "PU-008": "四柱/性别自源行 chart 字段入 attachments；context 原文为空未填；源行 grade_note/review 未入卡",
+  "CZ-018": "沿原 context 建卡；attachments 剔除 method_hint（断语侧理据）、仅留所测字；源行 grade_note/notes 未入卡",
+  "CZ-019": "沿原 context 建卡；attachments 剔除 method_hint（断语侧理据）、仅留所测字；源行 grade_note/notes 未入卡",
+  "CZ-020": "沿原 context 建卡；attachments 剔除 method_hint（断语侧理据）、仅留所测字；源行 grade_note/notes 未入卡",
+  "CZ-022": "沿原 context 建卡；attachments 剔除 method_hint（断语侧理据）、仅留所测字；源行 grade_note/notes 未入卡",
+  "CZ-023": "沿原 context 建卡；attachments 剔除 method_hint（断语侧理据）、仅留所测字；源行 grade_note/notes 未入卡",
+  "CZ-024": "沿原 context 建卡；attachments 剔除 method_hint（断语侧理据）、仅留所测字；源行 grade_note/notes 未入卡",
+  "CZ-026": "沿原 context 建卡；attachments 剔除 method_hint（断语侧理据）、仅留所测字；源行 grade_note/notes 未入卡",
+  "CZ-027": "沿原 context 建卡；attachments 剔除 method_hint（断语侧理据）、仅留所测字；源行 grade_note/notes 未入卡",
+  "CZ-028": "沿原 context 建卡；attachments 剔除 method_hint（断语侧理据）、仅留所测字；源行 grade_note/notes 未入卡",
+  "CZ-030": "沿原 context 建卡；attachments 剔除 method_hint（断语侧理据）、仅留所测字；源行 grade_note/notes 未入卡",
+  "CZ-031": "沿原 context 建卡；attachments 剔除 method_hint（断语侧理据）、仅留所测字；源行 grade_note/notes 未入卡",
+  "CZ-032": "沿原 context 建卡；attachments 剔除 method_hint（断语侧理据）、仅留所测字；源行 grade_note/notes 未入卡",
+  "CZ-033": "沿原 context 建卡；attachments 剔除 method_hint（断语侧理据）、仅留所测字；源行 grade_note/notes 未入卡"
+ },
+ "excluded_counts": {
+  "dev9": 487,
+  "prior_holdout_ids": 300,
+  "pool_ids": 488
+ }
+}
