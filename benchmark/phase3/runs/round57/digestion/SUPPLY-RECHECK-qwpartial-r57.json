@@ -1,0 +1,583 @@
+{
+ "batch": "Phase3 Round57 开采复核席·QW partial 17 例复核（只核查，不作断不评分）",
+ "prereg_basis": "runs/round57/PREREG.md §4「QW partial 17 复核」：只核 TXT 原文是否实载出生年月日时而一轮漏录——实载者补录升 present 并登记依据；确未载者维持 partial，不许以大运反推补锚（承 DIGEST-bazi-quwei-r56 §四.3）",
+ "source_file": "/home/hatch/workspace/divination/incoming/wanted-books-4/Book/详批命例精解 (曲炜著).txt",
+ "source_sha256": "6da0e3848f04ee00159b13e375a6cde169426c54bf0b0354b165240752e3d37b",
+ "source_sha256_matches_r56_ledger": true,
+ "line_numbering": "TXT 原始为 CRLF/CR 混杂行尾；归一化（\\r\\n、\\r -> \\n）后共 5439 行，本件行号与 R56 台账行号同口径",
+ "r56_ledger": "/home/hatch/workspace/divination/benchmark/phase3/runs/round56/digestion/SUPPLY-MINING-quwei-r56.json",
+ "checked_count": 17,
+ "upgraded_present_count": 0,
+ "maintained_partial_count": 17,
+ "optional_pool_recalc": {
+  "basis_r56": "R56 定版：QW 入账 34＝present 17＋partial 17（SUPPLY-MINING-quwei-r56.md）；全局可选集 8→65（runs/round56/REPORT.md），holdout20 已自可选集封存 25 例",
+  "qw_present_before": 17,
+  "qw_present_after": 17,
+  "qw_partial_after": 17,
+  "optional_pool_increment_from_this_recheck": 0,
+  "optional_pool_total_after": 65,
+  "optional_pool_unused_after_holdout20": 40,
+  "note": "本轮只复算登记、不组集不封存（PREREG §4）；本复核不改变任何既往入账与封存"
+ },
+ "entries": [
+  {
+   "provisional_id": "QW-018",
+   "source": "《详批命例精解》（曲炜著）·面测命例一",
+   "tradition": "bazi",
+   "gender": "男",
+   "pillars": [
+    "辛丑",
+    "己亥",
+    "乙卯",
+    "丙子"
+   ],
+   "r56_birth_info_verbatim": "未载出生日期与时辰（仅记求测日 2002年5月25日；大运 1 岁起、62 年起运可推生年约 1961 年，原文未直载）",
+   "r56_anchor_presence": "partial",
+   "txt_segment_normalized_lines": [
+    4003,
+    4120
+   ],
+   "checked": "篇首命头（4003–4021）逐行读；全篇（4003–4120）关键词扫（出生/生人/生于/农历/阴历/阳历/时辰）＋年月日模式扫＋年·月簇扫",
+   "scan_evidence": {
+    "keyword_hits": [
+     {
+      "line": 4007,
+      "text": "2002年5月25日，一位慕名而来的求测者报上出生时辰，开门见山地让我推断自90年至现在的流年运程，看来是有意来试探一下笔者的预测功底如"
+     },
+     {
+      "line": 4109,
+      "text": "释：流年干杀星及流年支伤官感应到命局，所以有弃政从商之象，2002年壬午，又是一个变化之年，在事业上有动向，有新的投资举措，在今年阴历三月，已经投进去一笔资金，阴历五月。还要有资金投入。"
+     },
+     {
+      "line": 4111,
+      "text": "反馈：“的确有变化，我承包的项目由于领导换届讵要重新收回，现在正在交涉之中。另外，我自己在阴历三月又投资开发了养殖场，在五月的确"
+     }
+    ],
+    "date_pattern_hits": [
+     {
+      "line": 4007,
+      "match": "2002年5月25日",
+      "text": "2002年5月25日，一位慕名而来的求测者报上出生时辰，开门见山地让我推断自90年至现在的流年运程，看来是有意来试探一下笔者的预测功底如"
+     }
+    ]
+   },
+   "finding": "篇首仅记求测日「2002年5月25日」并称求测者「报上出生时辰」（4007），但其所报出生年月日时之值全篇未转录；命头只有干造＋四柱＋大运（1 岁起、62 起运）。全篇年月日模式唯一命中即 4007 的求测日；4109「阴历三月/五月」为 2002 年投资月份，非出生信息。大运可推生年约 1961 年，原文未直载，按写死口径不采。",
+   "verdict": "maintain_partial",
+   "anchor_presence_after": "partial",
+   "birth_info_verbatim_supplement": null,
+   "supplement_basis": null
+  },
+  {
+   "provisional_id": "QW-019",
+   "source": "《详批命例精解》（曲炜著）·面测命例二",
+   "tradition": "bazi",
+   "gender": "女",
+   "pillars": [
+    "癸丑",
+    "戊午",
+    "己丑",
+    "己巳"
+   ],
+   "r56_birth_info_verbatim": "未载出生日期与时辰（坤造，仅载四柱与大运）",
+   "r56_anchor_presence": "partial",
+   "txt_segment_normalized_lines": [
+    4121,
+    4172
+   ],
+   "checked": "篇首命头（4121–4137）逐行读；全篇（4121–4172）三路扫描",
+   "scan_evidence": {
+    "keyword_hits": [],
+    "date_pattern_hits": []
+   },
+   "finding": "命头只有坤造＋四柱＋大运（5 岁起、78 起运）；全篇关键词扫与年月日模式扫均零命中，原文只有四柱、大运与断语/反馈。出生年月日时未载。",
+   "verdict": "maintain_partial",
+   "anchor_presence_after": "partial",
+   "birth_info_verbatim_supplement": null,
+   "supplement_basis": null
+  },
+  {
+   "provisional_id": "QW-020",
+   "source": "《详批命例精解》（曲炜著）·面测命例三",
+   "tradition": "bazi",
+   "gender": "女",
+   "pillars": [
+    "辛亥",
+    "庚子",
+    "乙丑",
+    "丁亥"
+   ],
+   "r56_birth_info_verbatim": "未载出生日期与时辰（坤造，仅载四柱与大运）",
+   "r56_anchor_presence": "partial",
+   "txt_segment_normalized_lines": [
+    4173,
+    4262
+   ],
+   "checked": "篇首命头（4173–4189）逐行读；全篇（4173–4262）三路扫描",
+   "scan_evidence": {
+    "keyword_hits": [],
+    "date_pattern_hits": []
+   },
+   "finding": "命头只有坤造＋四柱＋大运（1 岁起、72 起运）；全篇关键词扫与年月日模式扫均零命中。出生年月日时未载。",
+   "verdict": "maintain_partial",
+   "anchor_presence_after": "partial",
+   "birth_info_verbatim_supplement": null,
+   "supplement_basis": null
+  },
+  {
+   "provisional_id": "QW-021",
+   "source": "《详批命例精解》（曲炜著）·面测命例四",
+   "tradition": "bazi",
+   "gender": "男",
+   "pillars": [
+    "丁未",
+    "癸卯",
+    "丁丑",
+    "辛亥"
+   ],
+   "r56_birth_info_verbatim": "未载出生日期与时辰（干造，仅载四柱与大运）",
+   "r56_anchor_presence": "partial",
+   "txt_segment_normalized_lines": [
+    4263,
+    4378
+   ],
+   "checked": "篇首命头（4263–4277）逐行读；全篇（4263–4378）三路扫描",
+   "scan_evidence": {
+    "keyword_hits": [
+     {
+      "line": 4337,
+      "text": "⑥断95年升职。95年为乙亥，虽然流年支为忌神，但有路线起到好作用，却没有路线起到忌神作用。所以会有喜事发生。95年乙亥生克路线是这样的，流年支与命局形成亥卯未三合局，不管合化成功与否，都是用神木加力，且没有路线克到火(有关生克路线等关键性问题请详细阅读笔者的(《四柱详真》一书，不懂生克路线难以进入命理高层次)。这是一种路线，另一种路线就是流年支亥水生流年干乙木，流年干乙木有生日主丁火，流年支亥水"
+     }
+    ],
+    "date_pattern_hits": []
+   },
+   "finding": "命头只有干造＋四柱＋大运（3 岁起、70 起运）；关键词唯一命中 4337「流年干乙木有生日主丁火」为生克术语，非出生信息；年月日模式零命中。出生年月日时未载。",
+   "verdict": "maintain_partial",
+   "anchor_presence_after": "partial",
+   "birth_info_verbatim_supplement": null,
+   "supplement_basis": null
+  },
+  {
+   "provisional_id": "QW-022",
+   "source": "《详批命例精解》（曲炜著）·面测命例五",
+   "tradition": "bazi",
+   "gender": "女",
+   "pillars": [
+    "庚申",
+    "乙酉",
+    "乙酉",
+    "丁丑"
+   ],
+   "r56_birth_info_verbatim": "未载出生日期与时辰（坤造，仅载四柱与大运）",
+   "r56_anchor_presence": "partial",
+   "txt_segment_normalized_lines": [
+    4379,
+    4516
+   ],
+   "checked": "篇首命头（4379–4393）逐行读；全篇（4379–4516）三路扫描",
+   "scan_evidence": {
+    "keyword_hits": [
+     {
+      "line": 4411,
+      "text": "她说：  “对!对!本来有两个哥，很早就死了，我那个哥死的时候我还没出生呢，现在就剩下一个哥了。”"
+     },
+     {
+      "line": 4513,
+      "text": "反馈：“今年到现在为止(阴历八月)，已经换了两次工作。第一次是在。一家超市做收款员，由于太累了，不干了。后柬给一家个体户卖服装，干不几天又不不了，现在又到这儿工作(指我的咨询中心)。另外在阴历七月买了一台计算机，今年还要打算买房。”"
+     }
+    ],
+    "date_pattern_hits": []
+   },
+   "finding": "命头只有坤造＋四柱＋大运（0 岁起、80 起运）；关键词命中 4411「我还没出生呢」（叙述其兄去世时命主未出生，无日期）与 4513「阴历八月」（当年换工作的月份反馈），均非出生信息；年月日模式零命中。出生年月日时未载。",
+   "verdict": "maintain_partial",
+   "anchor_presence_after": "partial",
+   "birth_info_verbatim_supplement": null,
+   "supplement_basis": null
+  },
+  {
+   "provisional_id": "QW-023",
+   "source": "《详批命例精解》（曲炜著）·面测命例七",
+   "tradition": "bazi",
+   "gender": "男",
+   "pillars": [
+    "庚戌",
+    "壬午",
+    "丁亥",
+    "甲辰"
+   ],
+   "r56_birth_info_verbatim": "未载出生日期与时辰（干造，仅载四柱与大运）",
+   "r56_anchor_presence": "partial",
+   "txt_segment_normalized_lines": [
+    4585,
+    4656
+   ],
+   "checked": "篇首命头（4585–4599）逐行读；全篇（4585–4656）三路扫描",
+   "scan_evidence": {
+    "keyword_hits": [],
+    "date_pattern_hits": []
+   },
+   "finding": "命头只有干造＋四柱＋大运（1 岁起、70 起运）；正文仅另记命主 2001 年来求测（4607），为求测时点非出生信息；关键词扫与年月日模式扫均零命中。出生年月日时未载。",
+   "verdict": "maintain_partial",
+   "anchor_presence_after": "partial",
+   "birth_info_verbatim_supplement": null,
+   "supplement_basis": null
+  },
+  {
+   "provisional_id": "QW-024",
+   "source": "《详批命例精解》（曲炜著）·面测命例八",
+   "tradition": "bazi",
+   "gender": "女",
+   "pillars": [
+    "丁酉",
+    "乙巳",
+    "庚辰",
+    "戊寅"
+   ],
+   "r56_birth_info_verbatim": "未载出生日期；且命主自述时辰不准（寅时或卯时未定，篇中以寅时盘论）",
+   "r56_anchor_presence": "partial",
+   "txt_segment_normalized_lines": [
+    4657,
+    4772
+   ],
+   "checked": "篇首命头（4657–4671）逐行读；时辰专节（4675–4709）逐行读；全篇（4657–4772）三路扫描",
+   "scan_evidence": {
+    "keyword_hits": [
+     {
+      "line": 4675,
+      "text": "此造命主说自己时辰不太准，可能是寅时也可能是卯时。"
+     },
+     {
+      "line": 4677,
+      "text": "若是卯时则是己卯时，但无论是哪个时辰对此命局来说旺衰判断影响不大。"
+     },
+     {
+      "line": 4689,
+      "text": "为了确定命主的具体时辰，笔者这样推断："
+     },
+     {
+      "line": 4691,
+      "text": "“您如果在寅时出生，在92年壬申，脚上会有病伤，而93年癸酉运气平顺，无灾无难；如果您出生在卯时，那么93年癸酉会有病伤之灾或破财，，而92年则乎顺，无灾无难。”"
+     },
+     {
+      "line": 4695,
+      "text": "我说：“那您就是寅时出生!”"
+     },
+     {
+      "line": 4697,
+      "text": "释：笔者之所以选用这样一个例子，是有意让读者掌握在时辰不准的情况下，如何帮助确定具体时辰。"
+     },
+     {
+      "line": 4699,
+      "text": "此造卯时与寅时不清楚，首先要假设如果寅时，会有何动向?是卯时又会有何动向?—般来说动向最明显的流年就是冲。所以用申、酉两年来验证时辰。"
+     },
+     {
+      "line": 4709,
+      "text": "如是卯时则酉年冲克卯木用神，所以酉年会有灾。而申金同样没有路线克用神卯木，所以日主也不会有灾。时辰确定后笔者继续推断：“您第一胎没保住，恐怕有流产、打胎之事。”"
+     },
+     {
+      "line": 4723,
+      "text": "由命局决定的。此遣官星在月支气势上生展土，展土又生日主，这是官气通身，是当官掌权的标志性信息。只是巳火生辰土这气势上相生力度不大，所"
+     },
+     {
+      "line": 4761,
+      "text": "所以笔者推断：“您今年升职有阻力，本来升职条件具备了，但会因种种原因限制，难以落实，在今年阴历六月有机会，但不会有太大的升迁，只"
+     },
+     {
+      "line": 4769,
+      "text": "后来反馈：果然在阴历六月工作方面有好的调动。职位基本没变。"
+     }
+    ],
+    "date_pattern_hits": []
+   },
+   "finding": "命头只有坤造＋四柱（按寅时排）＋大运（10 岁起、67 起运）。原文实载的是时辰不确定性：命主自述「时辰不太准，可能是寅时也可能是卯时」（4675），作者以 92/93 年事验推定「那您就是寅时出生」（4695）——此仅涉时辰一端且系推定，四柱本已按寅排；出生年月日全篇未载（年月日模式零命中；4761/4769「阴历六月」为当年升职月份）。present 定义须出生年月日与时辰原文俱载，年月日缺载即不合，维持 partial。",
+   "verdict": "maintain_partial",
+   "anchor_presence_after": "partial",
+   "birth_info_verbatim_supplement": null,
+   "supplement_basis": null
+  },
+  {
+   "provisional_id": "QW-025",
+   "source": "《详批命例精解》（曲炜著）·面测命例九",
+   "tradition": "bazi",
+   "gender": "女",
+   "pillars": [
+    "庚子",
+    "癸未",
+    "丁未",
+    "庚戌"
+   ],
+   "r56_birth_info_verbatim": "未载出生日期与时辰（坤造，仅载四柱与大运）",
+   "r56_anchor_presence": "partial",
+   "txt_segment_normalized_lines": [
+    4773,
+    4824
+   ],
+   "checked": "篇首命头（4773–4787）逐行读；全篇（4773–4824）三路扫描",
+   "scan_evidence": {
+    "keyword_hits": [],
+    "date_pattern_hits": []
+   },
+   "finding": "命头只有坤造＋四柱＋大运（4 岁起、64 起运）；全篇关键词扫与年月日模式扫均零命中。出生年月日时未载。",
+   "verdict": "maintain_partial",
+   "anchor_presence_after": "partial",
+   "birth_info_verbatim_supplement": null,
+   "supplement_basis": null
+  },
+  {
+   "provisional_id": "QW-026",
+   "source": "《详批命例精解》（曲炜著）·面测命例十",
+   "tradition": "bazi",
+   "gender": "女",
+   "pillars": [
+    "辛丑",
+    "戊戌",
+    "壬辰",
+    "乙巳"
+   ],
+   "r56_birth_info_verbatim": "未载出生日期与时辰（坤造，仅载四柱与大运）",
+   "r56_anchor_presence": "partial",
+   "txt_segment_normalized_lines": [
+    4825,
+    4980
+   ],
+   "checked": "篇首命头（4825–4839）逐行读；全篇（4825–4980）三路扫描",
+   "scan_evidence": {
+    "keyword_hits": [],
+    "date_pattern_hits": []
+   },
+   "finding": "命头只有坤造＋四柱＋大运（6 岁起、67 起运）；全篇关键词扫与年月日模式扫均零命中。出生年月日时未载。",
+   "verdict": "maintain_partial",
+   "anchor_presence_after": "partial",
+   "birth_info_verbatim_supplement": null,
+   "supplement_basis": null
+  },
+  {
+   "provisional_id": "QW-027",
+   "source": "《详批命例精解》（曲炜著）·面测命例十一",
+   "tradition": "bazi",
+   "gender": "女",
+   "pillars": [
+    "辛亥",
+    "丙申",
+    "癸巳",
+    "丙辰"
+   ],
+   "r56_birth_info_verbatim": "未载出生日期与时辰（坤造，仅载四柱与大运）",
+   "r56_anchor_presence": "partial",
+   "txt_segment_normalized_lines": [
+    4981,
+    5072
+   ],
+   "checked": "篇首命头（4981–4995）逐行读；全篇（4981–5072）三路扫描",
+   "scan_evidence": {
+    "keyword_hits": [],
+    "date_pattern_hits": []
+   },
+   "finding": "命头只有坤造＋四柱＋大运（1 岁起、72 起运）；全篇关键词扫与年月日模式扫均零命中。出生年月日时未载。",
+   "verdict": "maintain_partial",
+   "anchor_presence_after": "partial",
+   "birth_info_verbatim_supplement": null,
+   "supplement_basis": null
+  },
+  {
+   "provisional_id": "QW-028",
+   "source": "《详批命例精解》（曲炜著）·面测命例十二",
+   "tradition": "bazi",
+   "gender": "女",
+   "pillars": [
+    "戊午",
+    "癸亥",
+    "甲戌",
+    "丁卯"
+   ],
+   "r56_birth_info_verbatim": "未载出生日期与时辰（坤造，仅载四柱与大运）",
+   "r56_anchor_presence": "partial",
+   "txt_segment_normalized_lines": [
+    5073,
+    5150
+   ],
+   "checked": "篇首命头（5073–5087）逐行读；全篇（5073–5150）三路扫描",
+   "scan_evidence": {
+    "keyword_hits": [
+     {
+      "line": 5107,
+      "text": "接着笔者断她童年时居家出生地情况："
+     }
+    ],
+    "date_pattern_hits": []
+   },
+   "finding": "命头只有坤造＋四柱＋大运（1 岁起、78 起运）；正文仅另记 2002 年命主来求测（5099）。关键词唯一命中 5107「童年时居家出生地情况」为断出生地、无日期；年月日模式唯一命中 5141「2003年四月结婚」为婚期，均非出生信息。出生年月日时未载。",
+   "verdict": "maintain_partial",
+   "anchor_presence_after": "partial",
+   "birth_info_verbatim_supplement": null,
+   "supplement_basis": null
+  },
+  {
+   "provisional_id": "QW-029",
+   "source": "《详批命例精解》（曲炜著）·摘选命例二",
+   "tradition": "bazi",
+   "gender": "女",
+   "pillars": [
+    "戊子",
+    "甲寅",
+    "癸未",
+    "壬子"
+   ],
+   "r56_birth_info_verbatim": "未载出生日期与时辰（坤造，仅载四柱；仅记 99 年己卯冬月十五来中心求测）",
+   "r56_anchor_presence": "partial",
+   "txt_segment_normalized_lines": [
+    5185,
+    5228
+   ],
+   "checked": "篇首命头（5185–5193）逐行读；全篇（5185–5228）三路扫描",
+   "scan_evidence": {
+    "keyword_hits": [],
+    "date_pattern_hits": []
+   },
+   "finding": "命头只有坤造＋四柱（无大运）；原文唯一日期 5195「99年己卯冬月十五，来中心求测」为求测日，非出生日期；关键词扫零命中。出生年月日时未载。",
+   "verdict": "maintain_partial",
+   "anchor_presence_after": "partial",
+   "birth_info_verbatim_supplement": null,
+   "supplement_basis": null
+  },
+  {
+   "provisional_id": "QW-030",
+   "source": "《详批命例精解》（曲炜著）·摘选命例三",
+   "tradition": "bazi",
+   "gender": "女",
+   "pillars": [
+    "辛亥",
+    "甲午",
+    "丙寅",
+    "壬辰"
+   ],
+   "r56_birth_info_verbatim": "未载出生日期与时辰（坤造，仅载四柱与大运；仅记 2001 年来求测）",
+   "r56_anchor_presence": "partial",
+   "txt_segment_normalized_lines": [
+    5229,
+    5274
+   ],
+   "checked": "篇首命头（5229–5245）逐行读；全篇（5229–5274）三路扫描",
+   "scan_evidence": {
+    "keyword_hits": [],
+    "date_pattern_hits": []
+   },
+   "finding": "命头只有坤造＋四柱＋大运（9 岁起、80 起运）；正文仅另记「此造2001年来求测」（5247），为求测时点；关键词扫与年月日模式扫均零命中。出生年月日时未载。",
+   "verdict": "maintain_partial",
+   "anchor_presence_after": "partial",
+   "birth_info_verbatim_supplement": null,
+   "supplement_basis": null
+  },
+  {
+   "provisional_id": "QW-031",
+   "source": "《详批命例精解》（曲炜著）·摘选命例六",
+   "tradition": "bazi",
+   "gender": "男",
+   "pillars": [
+    "乙未",
+    "甲申",
+    "辛酉",
+    "壬辰"
+   ],
+   "r56_birth_info_verbatim": "未载出生日期与时辰（干造，仅载四柱）",
+   "r56_anchor_presence": "partial",
+   "txt_segment_normalized_lines": [
+    5333,
+    5368
+   ],
+   "checked": "篇首命头（5333–5343）逐行读；全篇（5333–5368）三路扫描",
+   "scan_evidence": {
+    "keyword_hits": [],
+    "date_pattern_hits": []
+   },
+   "finding": "命头只有干造＋四柱（无大运）；正文仅另记命主 2002 年夏求测（5345），为求测时点；关键词扫与年月日模式扫均零命中。出生年月日时未载。",
+   "verdict": "maintain_partial",
+   "anchor_presence_after": "partial",
+   "birth_info_verbatim_supplement": null,
+   "supplement_basis": null
+  },
+  {
+   "provisional_id": "QW-032",
+   "source": "《详批命例精解》（曲炜著）·摘选命例七",
+   "tradition": "bazi",
+   "gender": "男",
+   "pillars": [
+    "甲辰",
+    "辛未",
+    "庚申",
+    "壬午"
+   ],
+   "r56_birth_info_verbatim": "未载出生日期与时辰（干造，仅载四柱与大运）",
+   "r56_anchor_presence": "partial",
+   "txt_segment_normalized_lines": [
+    5369,
+    5396
+   ],
+   "checked": "篇首命头（5369–5379）逐行读；全篇（5369–5396）三路扫描",
+   "scan_evidence": {
+    "keyword_hits": [],
+    "date_pattern_hits": []
+   },
+   "finding": "命头只有干造＋四柱＋大运（9 岁起、73 起运）；正文仅另记「命主今年五月来求测」（5381），为求测时点；关键词扫与年月日模式扫均零命中。大运可推生年区间，原文未直载，按写死口径不采。出生年月日时未载。",
+   "verdict": "maintain_partial",
+   "anchor_presence_after": "partial",
+   "birth_info_verbatim_supplement": null,
+   "supplement_basis": null
+  },
+  {
+   "provisional_id": "QW-033",
+   "source": "《详批命例精解》（曲炜著）·摘选命例八·兄造",
+   "tradition": "bazi",
+   "gender": "男",
+   "pillars": [
+    "癸丑",
+    "乙卯",
+    "癸亥",
+    "甲寅"
+   ],
+   "r56_birth_info_verbatim": "未载出生日期与时辰（求测者代报其兄四柱，仅载四柱与大运）",
+   "r56_anchor_presence": "partial",
+   "txt_segment_normalized_lines": [
+    5397,
+    5420
+   ],
+   "checked": "篇首命头（5397–5413）逐行读；全篇（5397–5420）三路扫描",
+   "scan_evidence": {
+    "keyword_hits": [],
+    "date_pattern_hits": []
+   },
+   "finding": "命头只有干（造）＋四柱＋大运（7 岁起、80 起运）；求测者代报其兄四柱（5419 反馈「此造是其哥哥四柱」），所报仅四柱；关键词扫与年月日模式扫均零命中。出生年月日时未载。",
+   "verdict": "maintain_partial",
+   "anchor_presence_after": "partial",
+   "birth_info_verbatim_supplement": null,
+   "supplement_basis": null
+  },
+  {
+   "provisional_id": "QW-034",
+   "source": "《详批命例精解》（曲炜著）·摘选命例八·本人造",
+   "tradition": "bazi",
+   "gender": "男",
+   "pillars": [
+    "甲寅",
+    "辛未",
+    "癸亥",
+    "丙辰"
+   ],
+   "r56_birth_info_verbatim": "未载出生日期与时辰（求测者自报本人四柱，仅载四柱与大运）",
+   "r56_anchor_presence": "partial",
+   "txt_segment_normalized_lines": [
+    5421,
+    5438
+   ],
+   "checked": "本造命头（5421–5435）逐行读；全篇（5421–5438）三路扫描",
+   "scan_evidence": {
+    "keyword_hits": [],
+    "date_pattern_hits": []
+   },
+   "finding": "5421「看完此造求测者又报出一四柱要我预测」，所报只有干＋四柱＋大运（6 岁起、80 起运）；关键词扫与年月日模式扫均零命中。出生年月日时未载。",
+   "verdict": "maintain_partial",
+   "anchor_presence_after": "partial",
+   "birth_info_verbatim_supplement": null,
+   "supplement_basis": null
+  }
+ ]
+}

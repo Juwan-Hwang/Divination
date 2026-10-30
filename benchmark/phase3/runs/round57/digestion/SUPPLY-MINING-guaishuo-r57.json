@@ -1,0 +1,4849 @@
+{
+ "batch": "round57-digestion-liuyao-guaishuo",
+ "provenance": "用户经学校图书馆提供",
+ "redistributable": false,
+ "sources": [
+  "《六爻卦例说真》（王虎应著，文字版PDF 54页，pdftotext全量可提；与派单「扫描本」描述不符，以盘上实测为准，逐例 transcription=verbatim）"
+ ],
+ "rules": "四滤（逐字可转录／独立结局／可分离／非high污染）＋锚点在场（卦名、动爻、世应、六亲纳支、月建日辰）；入账口径承R57 PREREG §4：A级＋low＋锚点present；名案从严（mid/high不入账）；月球例同案冲突照主持先裁",
+ "counts": {
+  "book_cases_titled": 113,
+  "chapter9_ex1_missing": "第九章《六冲辨义》例一在本PDF中缺载（正文自例二起，卷首有「六爻卦例说真（二）」分卷标记）；第十四章「例三」重号（GSZ-088羊肉例与GSZ-089家宅例同标例三，系原书编号重复、非同案）。113为「例」标题实见数",
+  "ledger_entries": 113,
+  "anchor_present": 111,
+  "anchor_partial": 2,
+  "pollution_low": 111,
+  "pollution_mid": 2,
+  "grade_A": 64,
+  "net_eligible_A_low_present": [
+   "GSZ-003",
+   "GSZ-005",
+   "GSZ-009",
+   "GSZ-015",
+   "GSZ-016",
+   "GSZ-017",
+   "GSZ-020",
+   "GSZ-022",
+   "GSZ-023",
+   "GSZ-024",
+   "GSZ-026",
+   "GSZ-028",
+   "GSZ-030",
+   "GSZ-031",
+   "GSZ-032",
+   "GSZ-033",
+   "GSZ-034",
+   "GSZ-038",
+   "GSZ-041",
+   "GSZ-042",
+   "GSZ-043",
+   "GSZ-046",
+   "GSZ-047",
+   "GSZ-049",
+   "GSZ-050",
+   "GSZ-052",
+   "GSZ-053",
+   "GSZ-054",
+   "GSZ-055",
+   "GSZ-058",
+   "GSZ-059",
+   "GSZ-060",
+   "GSZ-061",
+   "GSZ-068",
+   "GSZ-069",
+   "GSZ-074",
+   "GSZ-075",
+   "GSZ-077",
+   "GSZ-078",
+   "GSZ-079",
+   "GSZ-080",
+   "GSZ-081",
+   "GSZ-082",
+   "GSZ-084",
+   "GSZ-086",
+   "GSZ-088",
+   "GSZ-089",
+   "GSZ-091",
+   "GSZ-092",
+   "GSZ-093",
+   "GSZ-094",
+   "GSZ-098",
+   "GSZ-099",
+   "GSZ-100",
+   "GSZ-101",
+   "GSZ-103",
+   "GSZ-104",
+   "GSZ-105",
+   "GSZ-107",
+   "GSZ-108",
+   "GSZ-109",
+   "GSZ-110",
+   "GSZ-111"
+  ],
+  "net_count": 63,
+  "inbook_same_key_groups": {},
+  "moon_case": {
+   "gsz_id": "GSZ-076",
+   "key": "丁丑年癸丑月丙辰日／水雷屯变泽风大过／测月球有水否",
+   "shuo_zhen_outcome": "后探测结果，果然没有在月球表面找到水",
+   "fenlei_outcome": "有待于科学探测证明（据R56台账摘要转述其结局口径；分类版原文为扫描本，本席未直读该页）",
+   "ruling_applied": "R57 PREREG §4主持先裁：冲突及结局方向（未定 vs 已定阴性）→整例不入账、只登记；两版逐字并列于此"
+  },
+  "optional_pool_recalc": {
+   "pool_after_r56": 65,
+   "holdout20_sealed_from_pool": 25,
+   "pool_stock_before_r57_mining": 40,
+   "this_batch_net_new": 63,
+   "pool_after_this_batch": 103,
+   "note": "仅计本席《卦例说真》一批；R57其余席位（WHY待二轮46、QW partial复核、QM续抽）增量由各席台账另计，holdout21构成总复算以主持汇总为准。本批构成：全为六爻、单源（王虎应《卦例说真》）；是否触单源≤50%须与全池同算"
+  }
+ },
+ "entries": [
+  {
+   "provisional_id": "GSZ-001",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第一章《卦由谁来摇》例一",
+   "input_fields": {
+    "question": "无具体所问（来人随便看看，断其生平）",
+    "asked_at": "己卯年丁丑月己卯日",
+    "chart": {
+     "ben_gua": "天泽履",
+     "bian_gua": "",
+     "chart_lines_top_to_bottom": [
+      "勾陈             ▅▅▅▅▅      兄弟戌土",
+      "朱雀   妻财子水  ▅▅▅▅▅    子孙申金    世",
+      "青龙             ▅▅▅▅▅      父母午火",
+      "玄武             ▅▅ ▅▅      兄弟丑土",
+      "白虎             ▅▅▅▅▅      官鬼卯木  应",
+      "螣蛇             ▅▅▅▅▅      父母巳火"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "我见子孙持世，因子孙为快乐之神，断其一生无忧无虑是个乐天派",
+   "outcome_record": "每年有一多半时间在各地拍摄有关民俗、风土人情的内容，然后在日本发表，其作品很受人们的欢迎",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：性格/职业/生平回溯核实，无前向独立结局（承R56分类姻缘回溯例淘汰口径）",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-002",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第一章《卦由谁来摇》例二",
+   "input_fields": {
+    "question": "测家宅不安之原因（韩先生电话求测，王代摇）",
+    "asked_at": "戊寅年庚申月丁酉日",
+    "chart": {
+     "ben_gua": "风雷益",
+     "bian_gua": "水泽节",
+     "chart_lines_top_to_bottom": [
+      "青龙    ▅▅▅▅▅ 兄弟卯木  应  动   父母子水",
+      "玄武    ▅▅▅▅▅ 子孙巳火",
+      "白虎    ▅▅ ▅▅ 妻财未土",
+      "螣蛇    ▅▅ ▅▅ 妻财辰土  世",
+      "勾陈    ▅▅ ▅▅ 兄弟寅木       动  兄弟卯木",
+      "朱雀    ▅▅▅▅▅ 父母子水"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "第一，你最近到外地的一个亲戚家走了一趟，第二你家里近日改造修建时移动过木制东西，由于这些原因造成了你家宅不安",
+   "outcome_record": "最近住在外地的老丈人病了，于是开车一家三口前去探病，由于病情较重，妻子留下照顾老人，自己开车带孩子回家，半路撞倒一辆摩托车，幸好人没伤着，赔了 5 千多元才算了事",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：回溯归因型（已发事件的事后指认），无前向结局",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-003",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第一章《卦由谁来摇》例三",
+   "input_fields": {
+    "question": "问婚姻情况（书店女士，辛丑年生）",
+    "asked_at": "戊寅年癸亥月乙酉日",
+    "chart": {
+     "ben_gua": "天风姤",
+     "bian_gua": "风地观",
+     "chart_lines_top_to_bottom": [
+      "玄武    ▅▅▅▅▅ 父母戌土",
+      "白虎    ▅▅▅▅▅ 兄弟申金",
+      "螣蛇 ▅▅▅▅▅ 官鬼午火 应 动 父母未土",
+      "勾陈 ▅▅▅▅▅ 兄弟酉金      动 妻财卯木",
+      "朱雀 ▅▅▅▅▅ 子孙亥水      动 官鬼巳火",
+      "青龙 ▅▅ ▅▅ 父母丑土 世"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "我最后告说她下个月将和丈夫离婚，十有八九要通过法院才离成",
+   "outcome_record": "最后她通过法院于 1998 年子月离婚",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "金标断语只取前向离婚断语；结婚年/流产等回溯段不入断语",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-004",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第一章《卦由谁来摇》例四",
+   "input_fields": {
+    "question": "问日本首相小渊惠三病倒吉凶（第三者代摇）",
+    "asked_at": "庚辰年己卯月辛卯日",
+    "chart": {
+     "ben_gua": "天火同人",
+     "bian_gua": "火风鼎",
+     "chart_lines_top_to_bottom": [
+      "螣蛇 ▅▅▅▅▅ 子孙戌土 应",
+      "勾陈 ▅▅▅▅▅ 妻财申金       动 子孙未土",
+      "朱雀 ▅▅▅▅▅ 兄弟午火",
+      "青龙 ▅▅▅▅▅ 官鬼亥水 世",
+      "玄武 ▅▅ ▅▅ 子孙丑土       动 官鬼亥水",
+      "白虎 ▅▅▅▅▅ 父母卯木       动 子孙丑土"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "因此断其辰月若是不凶巳月必凶",
+   "outcome_record": "后小渊惠三果于巳月壬申日去世",
+   "outcome_type": "forward",
+   "pollution": "mid",
+   "pollution_note": "污染mid不入账：公众人物、结局（小渊惠三2000年病逝）为公共知识且流传广，名案从严",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "污染mid不入账：公众人物、结局（小渊惠三2000年病逝）为公共知识且流传广，名案从严",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-005",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第二章《进神辨意》例一",
+   "input_fields": {
+    "question": "测工作（约五十男子）",
+    "asked_at": "戊寅年丁巳月己未日",
+    "chart": {
+     "ben_gua": "火泽睽",
+     "bian_gua": "火天大有",
+     "chart_lines_top_to_bottom": [
+      "勾陈       ▅▅▅▅▅ 父母巳火       ▅▅▅▅▅ 父母巳火 应",
+      "朱雀 妻财子水 ▅▅ ▅▅ 兄弟未土        ▅▅ ▅▅ 兄弟未土",
+      "青龙       ▅▅▅▅▅ 子孙酉金 世     ▅▅▅▅▅ 子孙酉金",
+      "玄武       ▅▅ ▅▅ 兄弟丑土    ×→ ▅▅▅▅▅ 兄弟辰土 世",
+      "白虎       ▅▅▅▅▅ 官鬼卯木       ▅▅▅▅▅ 官鬼寅木",
+      "螣蛇       ▅▅▅▅▅ 父母巳火 应     ▅▅▅▅▅ 妻财子水"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "以官为用，休囚入墓，又子孙持世，工作不利之象，于是我断其面临下岗",
+   "outcome_record": "经我预测，其高高兴兴地回单位办退休手续去了",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-006",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第二章《进神辨意》例二",
+   "input_fields": {
+    "question": "测婚姻（马女士）",
+    "asked_at": "巳月已巳日（原文无年柱、巳月与日干支并记）",
+    "chart": {
+     "ben_gua": "雷地豫",
+     "bian_gua": "泽水困",
+     "chart_lines_top_to_bottom": [
+      "勾陈       ▅▅ ▅▅ 妻财戌土",
+      "朱雀       ▅▅ ▅▅ 官鬼申金      动 官鬼酉金",
+      "青龙       ▅▅▅▅▅ 子孙午火 应",
+      "玄武       ▅▅ ▅▅ 兄弟卯木",
+      "白虎       ▅▅ ▅▅ 子孙巳火      动 妻财辰土",
+      "螣蛇 父母子水 ▅▅ ▅▅ 妻财未土 世"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "应爻为夫位，我见忌神午火临之，断她婚姻为老大难",
+   "outcome_record": "她说光这个月提亲的就有三、四个，她想修行，甚至有出家的念头",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "partial",
+   "anchor_missing": "占时仅记「巳月已巳日」，无年柱",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：现状自述核实，无前向结局；兼锚点partial（占时无年柱）",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-007",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第二章《进神辨意》例三",
+   "input_fields": {
+    "question": "测婚（某男）",
+    "asked_at": "丙子年癸巳月乙巳日",
+    "chart": {
+     "ben_gua": "泽风大过",
+     "bian_gua": "乾为天",
+     "chart_lines_top_to_bottom": [
+      "玄武 ▅▅ ▅▅ 妻财未土      动 妻财戌土",
+      "白虎 ▅▅▅▅▅ 官鬼酉金",
+      "螣蛇 ▅▅▅▅▅ 父母亥水 世",
+      "勾陈 ▅▅▅▅▅ 官鬼酉金",
+      "朱雀 ▅▅▅▅▅ 父母亥水",
+      "青龙 ▅▅ ▅▅ 妻财丑土 应 动 父母子水"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "我说他这山望着那山高，意马心猿，和那个也成不了",
+   "outcome_record": "果皆验",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：结局仅「果皆验」概括语，无独立具体结局",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-008",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第二章《进神辨意》例四",
+   "input_fields": {
+    "question": "占金戒指丢失可否找回",
+    "asked_at": "已卯年丙子月丁未日（原文「已卯」）",
+    "chart": {
+     "ben_gua": "雷泽归妹",
+     "bian_gua": "兑为泽",
+     "chart_lines_top_to_bottom": [
+      "青龙 ▅▅ ▅▅ 父母戌土 应",
+      "玄武 ▅▅ ▅▅ 兄弟申金    动 兄弟酉金",
+      "白虎 ▅▅▅▅▅ 官鬼午火",
+      "螣蛇 ▅▅ ▅▅ 父母丑土 世",
+      "勾陈 ▅▅▅▅▅ 妻财卯木",
+      "朱雀 ▅▅▅▅▅ 官鬼巳火"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "卦变六冲，失物难回",
+   "outcome_record": "她找过多次都没有找到",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：反馈只核实丢失经过与多次找寻未果，找回与否未了结",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-009",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第二章《进神辨意》例五",
+   "input_fields": {
+    "question": "射覆：占口袋里是什么",
+    "asked_at": "庚辰年癸未月壬申日",
+    "chart": {
+     "ben_gua": "雷水解",
+     "bian_gua": "泽水困",
+     "chart_lines_top_to_bottom": [
+      "白虎 ▅▅ ▅▅ 妻财戌土",
+      "螣蛇 ▅▅ ▅▅ 官鬼申金 应 动 官鬼酉金",
+      "勾陈 ▅▅▅▅▅ 子孙午火",
+      "朱雀 ▅▅ ▅▅ 子孙午火",
+      "青龙 ▅▅▅▅▅ 妻财辰土 世",
+      "玄武 ▅▅ ▅▅ 兄弟寅木"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "用临螣蛇，其色为黑里透黄的褐色物。用神为孟（寅申巳亥），主物带点尖",
+   "outcome_record": "断完，从口袋里掏出个塑料袋，里边有几个胖大海",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "例末附课堂笔记同卦复述（未月壬申日雷水解变泽水困）为同案重讲，不另计例、不另入账",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-010",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第三章《退神辨义》例一",
+   "input_fields": {
+    "question": "占搞运煤发财否",
+    "asked_at": "已卯年丙寅月乙卯日（原文「已卯」）",
+    "chart": {
+     "ben_gua": "天地否",
+     "bian_gua": "泽地萃",
+     "chart_lines_top_to_bottom": [
+      "玄武       ▅▅▅▅▅ 父母戌土 应 动 父母未土",
+      "白虎       ▅▅▅▅▅ 兄弟申金",
+      "螣蛇       ▅▅▅▅▅ 官鬼午火",
+      "勾陈       ▅▅ ▅▅ 妻财卯木 世",
+      "朱雀       ▅▅ ▅▅ 官鬼巳火",
+      "青龙 子孙子水 ▅▅ ▅▅ 父母未土"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "此卦无财可发，若坚持要做，必会因修车或罚款而损大财",
+   "outcome_record": "",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：原文自承「此卦无反馈」，仅现场核实其买报废车一节",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-011",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第三章《退神辨义》例二",
+   "input_fields": {
+    "question": "测病（某男）",
+    "asked_at": "已卯年丁卯月甲子日（原文「已卯」）",
+    "chart": {
+     "ben_gua": "泽天夬",
+     "bian_gua": "雷天大壮",
+     "chart_lines_top_to_bottom": [
+      "玄武 ▅▅ ▅▅ 兄弟未土",
+      "白虎 ▅▅▅▅▅ 子孙酉金 世 动 子孙申金",
+      "螣蛇 ▅▅▅▅▅ 妻财亥水",
+      "勾陈 ▅▅▅▅▅ 兄弟辰土",
+      "朱雀 ▅▅▅▅▅ 官鬼寅木 应",
+      "青龙 ▅▅▅▅▅ 妻财子水"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "世临白虎动而化退，白虎主伤灾，以退神为应期，断其壬申年有伤灾",
+   "outcome_record": "庚辰年，他的一位邻居来我这里时告诉我，那个男的已于已卯年死了",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "定级B不入账：死亡结局独立存在，然断语只及「凶兆/非常不利」、未明确指向死亡，金标断语可判性不足",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-012",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第三章《退神辨义》例三",
+   "input_fields": {
+    "question": "测与某男感情（某女，丙午年生）",
+    "asked_at": "丙子年癸巳月乙巳日",
+    "chart": {
+     "ben_gua": "山泽损",
+     "bian_gua": "山雷颐",
+     "chart_lines_top_to_bottom": [
+      "玄武 ▅▅▅▅▅ 官鬼寅木 应",
+      "白虎 ▅▅ ▅▅ 妻财子水",
+      "螣蛇 ▅▅ ▅▅ 兄弟戌土",
+      "勾陈 ▅▅ ▅▅ 兄弟丑土 世",
+      "朱雀 ▅▅▅▅▅ 官鬼卯木   动 官鬼寅木",
+      "青龙 ▅▅▅▅▅ 父母巳火"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "我断她以前曾搞过一个对象，是这个男的追的她，但后来因俩人争吵不和，无法相处，男的便离她而去，与另一个女的结婚",
+   "outcome_record": "她说我断得很对，是已巳年结的婚",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：回溯感情史核实，无前向结局",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-013",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第三章《退神辨义》例四",
+   "input_fields": {
+    "question": "测婚（日本久保女士，戊申年生）",
+    "asked_at": "丙子年甲午月丙子日",
+    "chart": {
+     "ben_gua": "泽天夬",
+     "bian_gua": "雷地豫",
+     "chart_lines_top_to_bottom": [
+      "青龙 ▅▅ ▅▅兄弟未土",
+      "玄武 ▅▅▅▅▅子孙酉金 世 动 子孙申金",
+      "白虎 ▅▅▅▅▅妻财亥水",
+      "螣蛇 ▅▅▅▅▅兄弟辰土       动 官鬼卯木",
+      "勾陈 ▅▅▅▅▅官鬼寅木 应 动 父母巳火",
+      "朱雀 ▅▅▅▅▅妻财子水       动 兄弟未土"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "官鬼临应爻，应爻为他处，又临驿马，说明这个男的为远方之人。官鬼寅木动而与妻财亥水相合，说明那个男的另有所爱",
+   "outcome_record": "后听人说，她于 1999 年结婚，定居在中国，乃应世爻旬空，此年冲实",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：1999年结婚系传闻且为叙述者事后应期附会，断时尚无此前向断语；暗恋对象是否即婚配对象原文自承不得而知",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-014",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第三章《退神辨义》例五",
+   "input_fields": {
+    "question": "测病（某女）",
+    "asked_at": "丙子年已亥月丙寅日（原文「已亥」）",
+    "chart": {
+     "ben_gua": "泽风大过",
+     "bian_gua": "雷风恒",
+     "chart_lines_top_to_bottom": [
+      "青龙 ▅▅ ▅▅妻财未土",
+      "玄武 ▅▅▅▅▅官鬼酉金       动 官鬼申金",
+      "白虎 ▅▅▅▅▅父母亥水 世",
+      "螣蛇 ▅▅▅▅▅官鬼酉金",
+      "勾陈 ▅▅▅▅▅父母亥水",
+      "朱雀 ▅▅ ▅▅妻财丑土 应"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "元神官鬼动而化退，金主肺，临五爻，五爻也主肺，化退为肺功能退化，呼吸系统有病",
+   "outcome_record": "",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：原文自承「后未再见面，不知吉凶结果如何」",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-015",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第三章《退神辨义》例六",
+   "input_fields": {
+    "question": "测父病（某男）",
+    "asked_at": "辛巳年（2001年）丁酉月癸未日",
+    "chart": {
+     "ben_gua": "天火同人",
+     "bian_gua": "泽火革",
+     "chart_lines_top_to_bottom": [
+      "白虎 ▅▅▅▅▅ 子孙戌土 应 动 子孙未土",
+      "螣蛇 ▅▅▅▅▅ 妻财申金",
+      "勾陈 ▅▅▅▅▅ 兄弟午火",
+      "朱雀 ▅▅▅▅▅ 官鬼亥水 世",
+      "青龙 ▅▅ ▅▅ 子孙丑土",
+      "玄武 ▅▅▅▅▅ 父母卯木"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "父母卯木月破入日墓，必凶。用神休囚遇死、墓、绝之一者，必为癌症",
+   "outcome_record": "果然是肺癌，99 年得病，虽多方面治疗，无明显效果，医生也说没有希望，现已出院回家疗养",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "诊断核实型（承R56 WHY-067…071肿瘤例净入账先例）",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-016",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第四章《活用空亡》例一",
+   "input_fields": {
+    "question": "测公务员考试结果",
+    "asked_at": "丁丑年辛亥月庚午日",
+    "chart": {
+     "ben_gua": "水风井",
+     "bian_gua": "巽为风",
+     "chart_lines_top_to_bottom": [
+      "螣蛇 ▅▅ ▅▅ 父母子水   动  兄弟卯木",
+      "勾陈 ▅▅▅▅▅ 妻财戌土 世",
+      "朱雀 ▅▅ ▅▅ 官鬼申金",
+      "青龙 ▅▅▅▅▅ 官鬼酉金",
+      "玄武 ▅▅▅▅▅ 父母亥水 应",
+      "白虎 ▅▅ ▅▅ 妻财丑土"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "父母又主录取名单或通知书，亥水空亡，录取通知单上没有他的名字",
+   "outcome_record": "考试成绩下来后，他的分数第一，然在填写自己名字的代码时，不小心写错了，成绩作废，未被录取",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-017",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第四章《活用空亡》例二",
+   "input_fields": {
+    "question": "测婚（某男二十岁）",
+    "asked_at": "丙子年癸巳月丙午日",
+    "chart": {
+     "ben_gua": "山水蒙",
+     "bian_gua": "天风姤",
+     "chart_lines_top_to_bottom": [
+      "青龙      ▅▅▅▅▅ 父母寅木",
+      "玄武      ▅▅ ▅▅ 官鬼子水    动 妻财申金",
+      "白虎 妻财申金 ▅▅ ▅▅ 子孙戌土 世 动 兄弟午火",
+      "螣蛇      ▅▅ ▅▅ 兄弟午火    动 妻财酉金",
+      "勾陈      ▅▅▅▅▅ 子孙辰土",
+      "朱雀      ▅▅ ▅▅ 父母寅木 应"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "应爻空亡，不成之象",
+   "outcome_record": "推断果然正确，是他在追人家，女的是他老乡，死活不愿意，老躲着他，最后没成",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-018",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第四章《活用空亡》例三",
+   "input_fields": {
+    "question": "测钢材生意如何",
+    "asked_at": "丙子年癸己月戊午日（原文月柱作「癸己月」）",
+    "chart": {
+     "ben_gua": "天风姤",
+     "bian_gua": "",
+     "chart_lines_top_to_bottom": [
+      "朱雀      ▅▅▅▅▅ 父母戌土",
+      "青龙      ▅▅▅▅▅ 兄弟申金",
+      "玄武      ▅▅▅▅▅ 官鬼午火 应",
+      "白虎      ▅▅▅▅▅ 兄弟酉金",
+      "螣蛇 妻财寅木 ▅▅▅▅▅ 子孙亥水",
+      "勾陈      ▅▅ ▅▅ 父母丑土 世"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "故断其钢材生意很了，價都存不住 ，供不应求，甚至还有人托关系向他买 钢材",
+   "outcome_record": "结果完全正确",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：结局仅「结果完全正确」概括语",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-019",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第四章《活用空亡》例四",
+   "input_fields": {
+    "question": "测打官司（某女）",
+    "asked_at": "戊寅年已未月丁丑日（原文「已未」）",
+    "chart": {
+     "ben_gua": "雷火丰",
+     "bian_gua": "",
+     "chart_lines_top_to_bottom": [
+      "青龙 ▅▅ ▅▅ 官鬼戌土",
+      "玄武 ▅▅ ▅▅ 父母申金 世",
+      "白虎 ▅▅▅▅▅ 妻财午火",
+      "滕蛇 ▅▅▅▅▅ 兄弟亥水",
+      "勾陈 ▅▅ ▅▅ 官鬼丑土 应",
+      "朱雀 ▅▅▅▅▅ 子孙卯木"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "至申月，应爻出月不破，世爻出空受生，接受对方条件",
+   "outcome_record": "所有推断果验",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：结局仅「所有推断果验」概括语",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-020",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第四章《活用空亡》例五",
+   "input_fields": {
+    "question": "测身体（某女）",
+    "asked_at": "戊寅年甲子月已亥日（原文「已亥」）",
+    "chart": {
+     "ben_gua": "离为火",
+     "bian_gua": "",
+     "chart_lines_top_to_bottom": [
+      "勾陈 ▅▅▅▅▅ 兄弟巳火 世",
+      "朱雀 ▅▅ ▅▅ 子孙未土",
+      "青龙 ▅▅▅▅▅ 妻财酉金",
+      "玄武 ▅▅▅▅▅ 官鬼亥水 应",
+      "白虎 ▅▅ ▅▅ 子孙丑土",
+      "滕蛇 ▅▅▅▅▅ 父母卯木"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "官鬼亥水得日月帮扶极旺，临三爻冲克世爻，三爻为肾，水也主肾，乃是肾水过旺而引起肾病",
+   "outcome_record": "她说自己有肾病三年，多方治疗无效，身上到处是肿块",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "诊断核实型；作者自拟调治法「不到一个星期她的病就好了」一段系作者介入自述，不入断语、结局只取本人自述核实段",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-021",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第四章《活用空亡》例六",
+   "input_fields": {
+    "question": "测婚（某男）",
+    "asked_at": "丁丑年戊申月癸卯日",
+    "chart": {
+     "ben_gua": "泽地萃",
+     "bian_gua": "",
+     "chart_lines_top_to_bottom": [
+      "白虎 ▅▅ ▅▅ 父母未土",
+      "滕蛇 ▅▅▅▅▅ 兄弟酉金 应",
+      "勾陈 ▅▅▅▅▅ 子孙亥水",
+      "朱雀 ▅▅ ▅▅ 妻财卯木",
+      "青龙 ▅▅ ▅▅ 官鬼巳火 世",
+      "玄武 ▅▅ ▅▅ 父母未土"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "应爻暗动克之，应为他人，酉月怕有变故，对象被他人夺走。世临青龙空亡，空不受生，青龙为喜，乃是空欢喜一场",
+   "outcome_record": "以上推断不幸言中",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：结局仅「以上推断不幸言中」概括语",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-022",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第四章《活用空亡》例七",
+   "input_fields": {
+    "question": "单位抓阄分房，测会不会抓上直对楼梯的房子",
+    "asked_at": "丁丑年甲申月乙未日（原文月柱作「甲申月」）",
+    "chart": {
+     "ben_gua": "风水涣",
+     "bian_gua": "天水讼",
+     "chart_lines_top_to_bottom": [
+      "玄武 ▅▅▅▅▅ 父母卯木",
+      "白虎 ▅▅▅▅▅ 兄弟巳火 世",
+      "滕蛇 ▅▅ ▅▅ 子孙未土   动 兄弟午火",
+      "勾陈 ▅▅ ▅▅ 兄弟午火",
+      "朱雀 ▅▅▅▅▅ 子孙辰土 应",
+      "青龙 ▅▅ ▅▅ 父母寅木"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "世爻临之空亡，言求测者的房子不对楼梯",
+   "outcome_record": "下午回去后抓阄，果然抓的是一层的东面，没有对着楼梯",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-023",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第四章《活用空亡》例八",
+   "input_fields": {
+    "question": "测与老婆吵架结果如何",
+    "asked_at": "丁丑年丙午月辛丑日",
+    "chart": {
+     "ben_gua": "雷泽归妹",
+     "bian_gua": "地泽临",
+     "chart_lines_top_to_bottom": [
+      "玄武 ▅▅ ▅▅ 父母戌土 应",
+      "白虎 ▅▅ ▅▅ 兄弟申金",
+      "滕蛇 ▅▅▅▅▅ 官鬼午火   动 父母丑土",
+      "勾陈 ▅▅ ▅▅ 父母丑土 世",
+      "朱雀 ▅▅▅▅▅ 妻财卯木",
+      "青龙 ▅▅▅▅▅ 官鬼巳火"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "用神空亡，出空即回",
+   "outcome_record": "分老婆果然是和他吵架后回了娘家，住院了几天后，气消了一些又回来了",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "结局首字「分」为原文录入讹字（疑「其」），照录登记",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-024",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第四章《活用空亡》例九",
+   "input_fields": {
+    "question": "测儿子考高中如何（某女代占）",
+    "asked_at": "丁丑年丙午月已亥日（原文「已亥」）",
+    "chart": {
+     "ben_gua": "泽地萃",
+     "bian_gua": "火地晋",
+     "chart_lines_top_to_bottom": [
+      "勾陈 ▅▅ ▅▅ 父母未土   动 官鬼巳火",
+      "朱雀 ▅▅▅▅▅ 兄弟酉金 应 动 父母未土",
+      "青龙 ▅▅▅▅▅ 子孙亥水",
+      "玄武 ▅▅ ▅▅ 妻财卯木",
+      "白虎 ▅▅ ▅▅ 官鬼巳火 世",
+      "滕蛇 ▅▅ ▅▅ 父母未土"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "故断其儿子平常学习用功，这次考试成绩也觉得不错，但就是怕差一分考不上",
+   "outcome_record": "后果差一分没考上",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-025",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第五章《月破辨义》例一",
+   "input_fields": {
+    "question": "母测女儿婚姻",
+    "asked_at": "乙亥年癸未月丁卯日",
+    "chart": {
+     "ben_gua": "水火既济",
+     "bian_gua": "水雷屯",
+     "chart_lines_top_to_bottom": [
+      "青龙 ▅▅ ▅▅ 兄弟子水 应",
+      "玄武 ▅▅▅▅▅ 官鬼戌土",
+      "白虎 ▅▅ ▅▅ 父母申金",
+      "螣蛇 ▅▅▅▅▅ 兄弟亥水 世 动 官鬼辰土",
+      "勾陈 ▅▅ ▅▅ 官鬼丑土",
+      "朱雀 ▅▅▅▅▅ 子孙卯木"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "断其本年亥月又可出现一个男朋友，但必须是大人撮合而成",
+   "outcome_record": "",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：回溯段仅「以上推断全部应验」概括语；前向段原文自承「后结果如何，因无信息反馈，不得而知」",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-026",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第五章《月破辨义》例二",
+   "input_fields": {
+    "question": "自测胃病（某男）",
+    "asked_at": "丙子年丙申月壬午日",
+    "chart": {
+     "ben_gua": "天雷无妄",
+     "bian_gua": "风水涣",
+     "chart_lines_top_to_bottom": [
+      "白虎 ▅▅▅▅▅ 妻财戌土",
+      "螣蛇 ▅▅▅▅▅ 官鬼申金",
+      "勾陈 ▅▅▅▅▅ 子孙午火 世 动 妻财未土",
+      "朱雀 ▅▅ ▅▅ 妻财辰土",
+      "青龙 ▅▅ ▅▅ 兄弟寅木    动 妻财辰土",
+      "玄武 ▅▅▅▅▅ 父母子水 应 动 兄弟寅木"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "二爻寅木月破为幽门、十二指肠溃疡",
+   "outcome_record": "果然不是胃病，是幽门和十二指肠溃疡，他怕我不知道这些脏腑的名称故而说成是胃病，治疗时确有副作用",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "诊断核实型；「需到下个月方能痊愈」前向段无反馈，不入断语",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-027",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第五章《月破辨义》例三",
+   "input_fields": {
+    "question": "问生孩子（某女）",
+    "asked_at": "丁丑年甲辰月丁丑日",
+    "chart": {
+     "ben_gua": "山雷颐",
+     "bian_gua": "",
+     "chart_lines_top_to_bottom": [
+      "青龙  ▅▅▅▅▅ 兄弟寅木",
+      "玄武  ▅▅ ▅▅ 父母子水",
+      "白虎  ▅▅ ▅▅ 妻财戌土  世",
+      "塍蛇  ▅▅ ▅▅ 妻财辰土",
+      "勾陈  ▅▅ ▅▅ 兄弟寅木",
+      "朱雀  ▅▅▅▅▅ 父母子水  应"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "子孙入库破而得出，一定顺产。子孙休囚，又在巽宫，巽为女，生女孩的可能性大",
+   "outcome_record": "后于本月良子日巳时产一女婴",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "同案：与《分类占验技法》第八章例七WHY-039三键全合（本变卦＋占月日＋问事），同案只入一例、归属先完成转录之分类版（R56已入账），《说真》版登记异文（见grade_note）",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": false,
+   "fail_reason": "同案去重不入账：与《分类占验技法》第八章例七WHY-039三键同案（丁丑年甲辰月丁丑日、山雷颐静卦、测生孩子），分类版已于R56先完成转录并入账（净入账40内），归属先完成转录者，《说真》版只登记异文",
+   "grade_note": "异文对勘：分类版结局作「本月庚子日巳时安全生下一女孩」，与《说真》版「良子日巳时产一女婴」仅日名一字之异——《说真》「良子日」经对勘可证为「庚子日」录入讹字，照录不改、注于此；顺产/女孩/巳时三项两版一致，无方向冲突",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-028",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第五章《月破辨义》例四",
+   "input_fields": {
+    "question": "测在路边摆地摊如何（某女）",
+    "asked_at": "丁丑年乙巳月丁巳日",
+    "chart": {
+     "ben_gua": "地天泰",
+     "bian_gua": "雷天大壮",
+     "chart_lines_top_to_bottom": [
+      "青龙  ▅▅ ▅▅ 子孙酉金  应",
+      "玄武  ▅▅ ▅▅ 妻财亥水",
+      "白虎  ▅▅ ▅▅ 兄弟丑土      动  父母午火",
+      "塍蛇  ▅▅▅▅▅ 兄弟辰土  世",
+      "勾陈  ▅▅▅▅▅ 官鬼寅木",
+      "朱雀  ▅▅▅▅▅ 妻财子水"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "财临月破，摆之必破财",
+   "outcome_record": "结果不听，租地摊搞夜市，连租金也挣不够，损失数百元后收摊",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-029",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第五章《月破辨义》例五",
+   "input_fields": {
+    "question": "测病（医院老妇）",
+    "asked_at": "庚辰年甲申月丁酉日",
+    "chart": {
+     "ben_gua": "泽天夬",
+     "bian_gua": "泽火革",
+     "chart_lines_top_to_bottom": [
+      "青龙 ▅▅ ▅▅ 兄弟未土",
+      "玄武 ▅▅▅▅▅ 子孙酉金 世",
+      "白虎 ▅▅▅▅▅ 妻财亥水",
+      "塍蛇 ▅▅▅▅▅ 兄弟辰土",
+      "勾陈 ▅▅▅▅▅ 官鬼寅木 应 动 兄弟丑土",
+      "朱雀 ▅▅▅▅▅ 妻财子水"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "断其有头疼病",
+   "outcome_record": "一个星期后再被 请到她家看时，浮肿基本消失",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": false,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "可分离滤：断语、作者建议拔管出院调治、事后传闻（酉月云游郎中一针而愈）交织，断/结局不可干净分离",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-030",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第五章《月破辨义》例六",
+   "input_fields": {
+    "question": "手中打火机突然爆炸，测吉凶（某男）",
+    "asked_at": "庚辰年壬午月已酉日（原文「已酉」）",
+    "chart": {
+     "ben_gua": "风天小畜",
+     "bian_gua": "水天需",
+     "chart_lines_top_to_bottom": [
+      "勾陈 ▅▅▅▅▅ 兄弟卯木      动 父母子水",
+      "朱雀 ▅▅▅▅▅ 子孙巳火",
+      "青龙 ▅▅ ▅▅ 妻财未土 应",
+      "玄武 ▅▅▅▅▅ 妻财辰土",
+      "白虎 ▅▅▅▅▅ 兄弟寅木",
+      "塍蛇 ▅▅▅▅▅ 父母子水 世"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "故断其四天后的子日，他骑的自行车轮胎将会爆胎",
+   "outcome_record": "结果推断内容在子日全部得到验证，自行车后胎放炮，且本人受凉而拉肚子",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-031",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第五章《月破辨义》例七",
+   "input_fields": {
+    "question": "为母测病（铜厂马姓学员，培训班例）",
+    "asked_at": "戊寅年己未月己巳日己巳时（旬空戌亥）",
+    "chart": {
+     "ben_gua": "泽火革",
+     "bian_gua": "泽天夬",
+     "chart_lines_top_to_bottom": [
+      "勾陈 ▅▅ ▅▅ 官鬼未土",
+      "朱雀 ▅▅▅▅▅ 父母酉金",
+      "青龙 ▅▅▅▅▅ 兄弟亥水 世",
+      "玄武 ▅▅▅▅▅ 兄弟亥水      官鬼辰土 （财午）",
+      "白虎 ▅▅ ▅▅ 官鬼丑土 × 子孙寅木",
+      "螣蛇 ▅▅▅▅▅ 子孙卯木 应   兄弟子水"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "当堂断到：你母病无大碍，是内分泌失调，尿上面出了问题",
+   "outcome_record": "答曰：糖尿病。又断说你母亲当月骨折，你家住的是楼房，在第四层或第五层住，你母是在爬第三层楼梯时骨折的",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "诊断核实型；原文同一段落重复排印两次，照录登记；卦盘为现代排盘格式（含干支/神煞栏）",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-032",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第五章《月破辨义》例八",
+   "input_fields": {
+    "question": "儿媳占搬家选日子",
+    "asked_at": "戊寅年庚申月辛卯日",
+    "chart": {
+     "ben_gua": "地雷复",
+     "bian_gua": "震为雷",
+     "chart_lines_top_to_bottom": [
+      "塍蛇 ▅▅ ▅▅ 子孙酉金",
+      "勾陈 ▅▅ ▅▅ 妻财亥水",
+      "朱雀 ▅▅ ▅▅ 兄弟丑土 应 动 父母午火",
+      "青龙 ▅▅ ▅▅ 兄弟辰土",
+      "玄武 ▅▅ ▅▅ 官鬼寅木",
+      "白虎 ▅▅▅▅▅ 妻财子水 世"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "主卦六合，子孙又入墓，必主难产",
+   "outcome_record": "后于丙申日搬家，于戊申日生下一个男孩，生时难产",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "断语生子日期作丁未日、实际戊申日，原文自承「误差了一天」，逐字并列登记",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-033",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第六章《妙用三合局》例一",
+   "input_fields": {
+    "question": "测与某女约会，女方赴约否（胡某）",
+    "asked_at": "丙子年壬辰月已亥日（原文「已亥」）",
+    "chart": {
+     "ben_gua": "风天小畜",
+     "bian_gua": "风水涣",
+     "chart_lines_top_to_bottom": [
+      "勾陈 ▅▅▅▅▅ 兄弟卯木",
+      "朱雀 ▅▅▅▅▅ 子孙巳火",
+      "青龙 ▅▅ ▅▅ 妻财未土 应",
+      "玄武 ▅▅▅▅▅ 妻财辰土    动 子孙午火",
+      "白虎 ▅▅▅▅▅ 兄弟寅木",
+      "塍蛇 ▅▅▅▅▅ 父母子水 世 动 兄弟寅木"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "用神动而克世，书云：用克世人必来，此女一定会赴约",
+   "outcome_record": "后此女果来赴约",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "约会地点（并州饭店门口）断语经胡某当场确认，并入结局段逐字",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-034",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第六章《妙用三合局》例二",
+   "input_fields": {
+    "question": "拉盲人郝金阳先生来省城，测头号（出发）情况",
+    "asked_at": "丁丑年丙午月甲申日",
+    "chart": {
+     "ben_gua": "风火家人",
+     "bian_gua": "风地观",
+     "chart_lines_top_to_bottom": [
+      "玄武 ▅▅▅▅▅ 兄弟卯木",
+      "白虎 ▅▅▅▅▅ 子孙巳火 应",
+      "塍蛇 ▅▅ ▅▅ 妻财未土",
+      "勾陈 ▅▅▅▅▅ 父母亥水    动 兄弟卯木",
+      "朱雀 ▅▅ ▅▅ 妻财丑土 世",
+      "青龙 ▅▅▅▅▅ 兄弟卯木    动 妻财未土"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "故断此次去接郝先生恐怕会在一个三岔路口堵车",
+   "outcome_record": "次日，驱车前去接郝先生，车到半路的一个三岔路口，正逢一大群人聚众闹事，堵塞交通，不能前进",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "题面录入多处讹字（「段建 业」「拉盲人合理师」等），卦盘与断/结局段可逐字转录，照录登记",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-035",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第六章《妙用三合局》例三",
+   "input_fields": {
+    "question": "测事业（在北京的日本人）",
+    "asked_at": "庚辰年（2000年）丙戌月甲子日",
+    "chart": {
+     "ben_gua": "火风鼎",
+     "bian_gua": "火雷噬嗑",
+     "chart_lines_top_to_bottom": [
+      "玄武 ▅▅▅▅▅ 兄弟巳火",
+      "白虎 ▅▅▅▅▅ 子孙未土 应",
+      "塍蛇 ▅▅ ▅▅ 妻财酉金",
+      "勾陈 ▅▅▅▅▅ 妻财酉金     动 子孙辰土",
+      "朱雀 ▅▅ ▅▅ 官鬼亥水 世 动 父母寅木",
+      "青龙 ▅▅▅▅▅ 子孙丑土     动 官鬼子水"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "明年辛巳，冲实世爻，又巳酉丑合成财局生世，2001 年将是三处来财",
+   "outcome_record": "",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：前向段（2001年三处来财/婚期）原文自承「后结果如何，因无再见此人，不得而知」；余为现状核实",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-036",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第六章《妙用三合局》例四",
+   "input_fields": {
+    "question": "测妻子事业流年如何（王某代占）",
+    "asked_at": "已卯年已巳月甲申日（原文「已卯年已巳月」）",
+    "chart": {
+     "ben_gua": "地火明夷",
+     "bian_gua": "离为火",
+     "chart_lines_top_to_bottom": [
+      "玄武 ▅▅ ▅▅ 父母酉金     动 妻财巳火",
+      "白虎 ▅▅ ▅▅ 兄弟亥水",
+      "塍蛇 ▅▅ ▅▅ 官鬼丑土 世 动 父母酉金",
+      "勾陈 ▅▅▅▅▅ 兄弟亥水",
+      "朱雀 ▅▅ ▅▅ 官鬼丑土",
+      "青龙 ▅▅▅▅▅ 子孙卯木 应"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "你爱人的学校有个大的变动，今年学校要扩大，要把其他学校兼并过来",
+   "outcome_record": "后果验",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：兼并段仅「正是此事」现状确认、教高中段结局仅「后果验」概括语",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-037",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第六章《妙用三合局》例五",
+   "input_fields": {
+    "question": "测侄儿耳聋能治好否、有好方法否（李女士）",
+    "asked_at": "戊寅年丙辰月丁亥日",
+    "chart": {
+     "ben_gua": "火泽睽",
+     "bian_gua": "山风蛊",
+     "chart_lines_top_to_bottom": [
+      "青龙 ▅▅▅▅▅ 父母巳火",
+      "玄武 ▅▅ ▅▅ 兄弟未土",
+      "白虎 ▅▅▅▅▅ 子孙酉金 世 动 兄弟戌土",
+      "塍蛇 ▅▅ ▅▅ 兄弟丑土    动 子孙酉金",
+      "勾陈 ▅▅▅▅▅ 官鬼卯木",
+      "朱雀 ▅▅▅▅▅ 父母巳火 应 动 兄弟丑土"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "用神得月来合，必是久病。合神为养地，胎在官鬼卯木，此乃先天性耳聋之信息",
+   "outcome_record": "后喝磁石水后，稍有好转",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：主问「能治好否」无明确结局；病情段为回溯核实，「稍有好转」系作者自荐磁石水之效、非独立结局",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-038",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第七章《半合辨义》例一",
+   "input_fields": {
+    "question": "测带团旅游此行吉凶（作者自占自述）",
+    "asked_at": "丁丑年甲辰月壬寅日",
+    "chart": {
+     "ben_gua": "雷风恒",
+     "bian_gua": "震为雷",
+     "chart_lines_top_to_bottom": [
+      "白虎 ▅▅ ▅▅ 妻财戌土 应",
+      "螣蛇 ▅▅ ▅▅ 官鬼申金",
+      "勾陈 ▅▅▅▅▅ 子孙午火",
+      "朱雀 ▅▅▅▅▅ 官鬼酉金 世 动 妻财辰土",
+      "青龙 ▅▅▅▅▅ 父母亥水   动 兄弟寅木",
+      "玄武 ▅▅ ▅▅ 妻财丑土   动 父母子水"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "五爻官鬼申金暗动，临螣蛇，螣蛇主惊异，变异，路上将有麻烦事发生",
+   "outcome_record": "结果，在五台山区旅游完后，由于下雨从五台山到浑源的路段遭到破坏，不能通车，临时决定放弃去浑源",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "结局段续有客人争吵、旅行社退还部分钱解决，逐字见原文",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-039",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第七章《半合辨义》例二",
+   "input_fields": {
+    "question": "测财运（某女士）",
+    "asked_at": "丁丑年乙巳月丁卯日",
+    "chart": {
+     "ben_gua": "地天泰",
+     "bian_gua": "地泽临",
+     "chart_lines_top_to_bottom": [
+      "青龙 ▅▅ ▅▅ 子孙酉金 应",
+      "玄武 ▅▅ ▅▅ 妻财亥水",
+      "白虎 ▅▅ ▅▅ 兄弟丑土",
+      "螣蛇 ▅▅▅▅▅ 兄弟辰土 世 动 兄弟丑土",
+      "勾陈 ▅▅▅▅▅ 官鬼寅木",
+      "朱雀 ▅▅▅▅▅ 妻财子水"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "一看便知此人挣钱手段高强，是个挣大钱之人",
+   "outcome_record": "",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：全例无结局/反馈段，止于案语疑问",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-040",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第七章《半合辨义》例三",
+   "input_fields": {
+    "question": "测已卯年财运（某男）",
+    "asked_at": "戊寅年甲子月戊子日",
+    "chart": {
+     "ben_gua": "地天泰",
+     "bian_gua": "地水师",
+     "chart_lines_top_to_bottom": [
+      "朱雀 ▅▅ ▅▅ 子孙酉金 应",
+      "青龙 ▅▅ ▅▅ 妻财亥水",
+      "玄武 ▅▅ ▅▅ 兄弟丑土",
+      "白虎 ▅▅▅▅▅ 兄弟辰土 世 动 父母午火",
+      "螣蛇 ▅▅▅▅▅ 官鬼寅木",
+      "勾陈 ▅▅▅▅▅ 妻财子水    动 官鬼寅木"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "世爻动而化空，明年午月即可见财",
+   "outcome_record": "他说已同好几家房地产开发公司签定了合同，明年阳历 6 月等楼房盖好后，由他的公司安装室内卫生洁具",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：反馈仅为已签合同之现状与计划，午月见财之前向结果尚未发生、无回报",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-041",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第七章《半合辨义》例四",
+   "input_fields": {
+    "question": "测妻带小孩回娘家，何日得见小孩（某男）",
+    "asked_at": "丁丑年丙午月甲申日",
+    "chart": {
+     "ben_gua": "天山遁",
+     "bian_gua": "天风姤",
+     "chart_lines_top_to_bottom": [
+      "玄武       ▅▅▅▅▅ 父母戌土",
+      "白虎       ▅▅▅▅▅ 兄弟申金 应",
+      "螣蛇       ▅▅▅▅▅ 官鬼午火",
+      "勾陈       ▅▅▅▅▅ 兄弟申金",
+      "朱雀 妻财寅木 ▅▅ ▅▅ 官鬼午火 世 动 子孙亥水",
+      "青龙 子孙子水 ▅▅ ▅▅ 父母辰土"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "世爻动而化出子孙亥水，必会见面",
+   "outcome_record": "后于丙申日，妻子带小孩回家",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-042",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第七章《半合辨义》例五",
+   "input_fields": {
+    "question": "测侄儿出事吉凶（某男）",
+    "asked_at": "已卯年壬申月丁巳日（原文「已卯」）",
+    "chart": {
+     "ben_gua": "山地剥",
+     "bian_gua": "风地观",
+     "chart_lines_top_to_bottom": [
+      "青龙 ▅▅▅▅▅ 妻财寅木",
+      "玄武 ▅▅ ▅▅ 子孙子水 世 动 官鬼巳火",
+      "白虎 ▅▅ ▅▅ 父母戌土",
+      "螣蛇 ▅▅ ▅▅ 妻财卯木",
+      "勾陈 ▅▅ ▅▅ 官鬼巳火 应",
+      "朱雀 ▅▅ ▅▅ 父母未土"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "子孙临玄武动而化鬼化绝，玄武主偷盗，动而化官鬼，乃与官鬼相见，断因偷盗被公安人员抓获",
+   "outcome_record": "果然其侄儿因偷摩托车被抓",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-043",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第八章《六合辨义》例一",
+   "input_fields": {
+    "question": "射覆：测杯中何物",
+    "asked_at": "丁丑年（97年）戊申月甲申日",
+    "chart": {
+     "ben_gua": "火泽睽",
+     "bian_gua": "火雷噬嗑",
+     "chart_lines_top_to_bottom": [
+      "玄武 ▅▅▅▅▅ 父母巳火",
+      "白虎 ▅▅ ▅▅ 兄弟未土",
+      "塍蛇 ▅▅▅▅▅ 子孙酉金 世",
+      "勾陈 ▅▅ ▅▅ 兄弟丑土",
+      "朱雀 ▅▅▅▅▅ 官鬼卯木     动 官鬼寅木",
+      "青龙 ▅▅▅▅▅ 父母巳火 应"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "综合上述信息，断杯内放着一团叠起来的写有文字的纸",
+   "outcome_record": "结果打开后，里面放着卷成卷的一百元钱",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "射覆揭晓型：断语与实物不尽合属评分事项，不属开采淘汰事由",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-044",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第八章《六合辨义》例二",
+   "input_fields": {
+    "question": "测事业（某女）",
+    "asked_at": "辛巳年辛丑月丙戌日",
+    "chart": {
+     "ben_gua": "水山蹇",
+     "bian_gua": "艮为山",
+     "chart_lines_top_to_bottom": [
+      "青龙        ▅▅ ▅▅ 子孙子水   动 妻财寅木",
+      "玄武        ▅▅▅▅▅ 父母戌土   动 子孙子水",
+      "白虎        ▅▅ ▅▅ 兄弟申金 世",
+      "塍蛇        ▅▅▅▅▅ 兄弟申金",
+      "勾陈 妻财卯木 ▅▅ ▅▅ 官鬼午火",
+      "朱雀        ▅▅ ▅▅ 父母辰土 应"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "子孙发动克官鬼，自己想辞掉现在的工作",
+   "outcome_record": "果如所测，她在一个体的旅行社任副经理，但说了话不算数，工作才能得不到发挥",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：结局段为现状复述（「果如所测」领起），无独立结局事件",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-045",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第八章《六合辨义》例三",
+   "input_fields": {
+    "question": "测住宅风水情况（初中同学）",
+    "asked_at": "酉月乙亥日（无年柱）",
+    "chart": {
+     "ben_gua": "天雷无妄",
+     "bian_gua": "",
+     "chart_lines_top_to_bottom": [
+      "玄武 兄弟戌土″",
+      "白虎 子孙申金″",
+      "腾蛇 父母午火′世",
+      "勾陈 兄弟辰土′",
+      "朱雀 官鬼寅木′",
+      "青龙 妻财子水′应"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "且此房不久将要被拆，不过被拆之后不是要重新盖楼，而是因扩建马路，要拆掉此房",
+   "outcome_record": "结果所断皆验。为二层楼房，原为公家的，自己买下，坐南朝北",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "partial",
+   "anchor_missing": "占时仅月日无年柱；爻位以′″记号标注、无标准爻线与动爻标记",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "锚点partial不入账：占时无年柱、年代框架（79年聚会/19年未见/98年拆迁）关系不清；卦盘爻象以′″记号代线条",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-046",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第八章《六合辨义》例四",
+   "input_fields": {
+    "question": "测所管帐上缺了一笔钱，结果如何（邮政局王女士）",
+    "asked_at": "庚辰年壬午月丁巳日",
+    "chart": {
+     "ben_gua": "山泽损",
+     "bian_gua": "风雷益",
+     "chart_lines_top_to_bottom": [
+      "青龙             ▅▅▅▅▅ 官鬼寅木 应",
+      "玄武             ▅▅ ▅▅ 妻财子水   动  父母己火",
+      "白虎             ▅▅ ▅▅ 兄弟戌土",
+      "塍蛇 子孙申金 ▅▅ ▅▅ 兄弟丑土 世",
+      "勾陈             ▅▅▅▅▅ 官鬼卯木   动  官鬼寅木",
+      "朱雀             ▅▅▅▅▅ 父母巳火"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "财爻子水月破绝于日辰，又动而化绝，此笔钱很难找回",
+   "outcome_record": "果然是帐上一千元的数目核对不上，本人也怀疑是把票单弄丢。最后查不到短缺之钱的下落，只好自认倒霉自己补上",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "同例后段婚姻回溯不入断语",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-047",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第八章《六合辨义》例五",
+   "input_fields": {
+    "question": "测婚（医院赵女士）",
+    "asked_at": "丙子年巳亥月癸酉日（原文月柱作「巳亥月」）",
+    "chart": {
+     "ben_gua": "天泽履",
+     "bian_gua": "泽水困",
+     "chart_lines_top_to_bottom": [
+      "白虎         ▅▅▅▅▅ 兄弟戌土    动 兄弟未土",
+      "塍蛇 妻财子水 ▅▅▅▅▅ 子孙申金 世",
+      "勾陈         ▅▅▅▅▅ 父母午火",
+      "朱雀         ▅▅ ▅▅ 兄弟丑土",
+      "青龙         ▅▅▅▅▅ 官鬼卯木 应",
+      "玄武         ▅▅▅▅▅ 父母巳火    动 官鬼寅木"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "说明她又私订盟约，和另外一个男人同居，卦变六合，二人可成，文书月破，出月不破，即可成",
+   "outcome_record": "此女果然因丈夫有外遇于９４年离婚，目前有一个男的与自己同居，后于庚子月二人正式结婚",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-048",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第八章《六合辨义》例六",
+   "input_fields": {
+    "question": "测一认识女子的相貌（某男）",
+    "asked_at": "庚辰年癸未月癸未日",
+    "chart": {
+     "ben_gua": "水泽节",
+     "bian_gua": "",
+     "chart_lines_top_to_bottom": [
+      "白虎 ▅▅ ▅▅ 兄弟子水",
+      "塍蛇 ▅▅▅▅▅ 官鬼戌土",
+      "勾陈 ▅▅ ▅▅ 父母申金 应",
+      "朱雀 ▅▅ ▅▅ 官鬼丑土",
+      "青龙 ▅▅▅▅▅ 子孙卯木",
+      "玄武 ▅▅▅▅▅ 妻财巳火 世"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "卦得六合，该女为丰满之人",
+   "outcome_record": "结果所断皆验",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：相貌回溯例，结局仅「结果所断皆验」概括语（承R56分类姻缘相貌回溯例淘汰口径）",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-049",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第九章《六冲辨义》例二",
+   "input_fields": {
+    "question": "测其叔家风水（某男）",
+    "asked_at": "丙子年已亥月辛酉日（原文「已亥」）",
+    "chart": {
+     "ben_gua": "水地比",
+     "bian_gua": "坤为地",
+     "chart_lines_top_to_bottom": [
+      "塍蛇 ▅▅ ▅▅ 妻财子水 应",
+      "勾陈 ▅▅▅▅▅ 兄弟戌土     动 妻财亥水",
+      "朱雀 ▅▅ ▅▅ 子孙申金",
+      "青龙 ▅▅ ▅▅ 官鬼卯木 世",
+      "玄武 ▅▅ ▅▅ 父母巳火",
+      "白虎 ▅▅ ▅▅ 兄弟未土"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "父临巳火月破而入墓，一家之主若有病必为心脏病",
+   "outcome_record": "其叔叔已于戌月因心肌梗死而亡",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "风水诊断核实型：大道直冲大门一节亦经本人确认，逐字见原文",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-050",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第九章《六冲辨义》例三",
+   "input_fields": {
+    "question": "测到某婚姻介绍所求对象得否（某男）",
+    "asked_at": "戊寅年辛酉月乙酉日",
+    "chart": {
+     "ben_gua": "地泽临",
+     "bian_gua": "山泽损",
+     "chart_lines_top_to_bottom": [
+      "玄武 ▅▅ ▅▅ 子孙酉金     动 官鬼寅木",
+      "白虎 ▅▅ ▅▅ 妻财亥水 应",
+      "塍蛇 ▅▅ ▅▅ 兄弟丑土",
+      "勾陈 ▅▅ ▅▅ 兄弟丑土",
+      "朱雀 ▅▅▅▅▅ 官鬼卯木 世",
+      "青龙 ▅▅▅▅▅ 父母巳火"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "这个婚姻介绍所将来会被公家取缔",
+   "outcome_record": "后来才知该婚姻介绍所为非法机构，专与一些三陪小姐联系，合谋骗人钱财而被取缔",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "介绍女子索财经过逐字见原文结局段",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-051",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第九章《六冲辨义》例四",
+   "input_fields": {
+    "question": "测与某女关系如何（某男）",
+    "asked_at": "丙子年癸巳月已巳日（原文「已巳」）",
+    "chart": {
+     "ben_gua": "乾为天",
+     "bian_gua": "泽天夬（原文卦名截断作「泽天」）",
+     "chart_lines_top_to_bottom": [
+      "勾陈 ▅▅▅▅▅ 父母戌土 世 动 父母未土",
+      "朱雀 ▅▅▅▅▅ 兄弟申金",
+      "青龙 ▅▅▅▅▅ 官鬼午火",
+      "玄武 ▅▅▅▅▅ 父母辰土 应",
+      "白虎 ▅▅▅▅▅ 妻财寅木",
+      "塍蛇 ▅▅▅▅▅ 子孙子水"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "财爻寅木休囚，元神又绝于日月，卦得六中，冲即为散，此为二人分手之象",
+   "outcome_record": "此男告知，几天前和自己原来相好的一位女人分手",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：分手系占前已发事件之回溯告知，无前向结局",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-052",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第九章《六冲辨义》例五",
+   "input_fields": {
+    "question": "测单位失窃情况（某男）",
+    "asked_at": "丁丑年丁未月辛巳日",
+    "chart": {
+     "ben_gua": "离为火",
+     "bian_gua": "火天大有",
+     "chart_lines_top_to_bottom": [
+      "塍蛇 ▅▅▅▅▅ 兄弟巳火 世",
+      "勾陈 ▅▅ ▅▅ 子孙未土",
+      "朱雀 ▅▅▅▅▅ 妻财酉金",
+      "青龙 ▅▅▅▅▅ 官鬼亥水 应",
+      "玄武 ▅▅ ▅▅ 子孙丑土     动 父母寅木",
+      "白虎 ▅▅▅▅▅ 父母卯木"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "物难回",
+   "outcome_record": "最后此男告知，单位东北方向的大门被贼人撬开，贼人由此进去，把院子里一个办公室的办公用品、写字台、沙发等全部盗走，门也被撬得稀巴烂",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "结局段末「后未找到失物」与断语相应，逐字见原文",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-053",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第九章《六冲辨义》例六",
+   "input_fields": {
+    "question": "测她家房子风水（某女）",
+    "asked_at": "丙子年已亥月丙寅日（原文「已亥」）",
+    "chart": {
+     "ben_gua": "风泽中孚",
+     "bian_gua": "巽为风",
+     "chart_lines_top_to_bottom": [
+      "青龙       ▅▅▅▅▅ 官鬼卯木",
+      "玄武       ▅▅▅▅▅ 父母巳火",
+      "白虎       ▅▅ ▅▅ 兄弟未土 世",
+      "塍蛇 子孙申金 ▅▅ ▅▅ 兄弟丑土     动 子孙酉金",
+      "勾陈       ▅▅▅▅▅ 官鬼卯木",
+      "朱雀       ▅▅▅▅▅ 父母巳火 应 动 兄弟丑土"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "今子孙不旺，又遇墓绝，其子必有肿瘤之类的病",
+   "outcome_record": "果然是旧房子，门与门相对。自觉风水不好，请一走江湖的看过，把房子大加改造不但无效，还被骗去万元之多。小孩得脑瘤，住院手术又花去许多",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "风水诊断核实型",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-054",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十章《秘论十二宫》例一",
+   "input_fields": {
+    "question": "测妻怀孕如何（某男）",
+    "asked_at": "丁丑年壬子月壬辰日",
+    "chart": {
+     "ben_gua": "天泽履",
+     "bian_gua": "天水讼",
+     "chart_lines_top_to_bottom": [
+      "白虎       ▅▅▅▅▅ 兄弟戌土",
+      "塍蛇  妻财子水  ▅▅▅▅▅  子孙申金   世",
+      "勾陈       ▅▅▅▅▅ 父母午火",
+      "朱雀       ▅▅ ▅▅ 兄弟丑土",
+      "青龙       ▅▅▅▅▅ 官鬼卯木    应",
+      "玄武       ▅▅▅▅▅ 父母巳火         动  官鬼寅木"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "怕是妻子要把胎儿堕掉",
+   "outcome_record": "果然是未婚同居，女方怀孕。后到戊寅年卯月，二人因口舌矛盾，女方执意要分手，私自堕胎，不欢而散",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-055",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十章《秘论十二宫》例二",
+   "input_fields": {
+    "question": "测流年运气（某男，公安部门任职）",
+    "asked_at": "戊寅年丁巳月辛巳日",
+    "chart": {
+     "ben_gua": "火山旅",
+     "bian_gua": "离为火",
+     "chart_lines_top_to_bottom": [
+      "塍蛇  ▅▅▅▅▅ 兄弟巳火",
+      "勾陈  ▅▅ ▅▅ 子孙未土",
+      "朱雀  ▅▅▅▅▅ 妻财酉金 应",
+      "青龙  ▅▅▅▅▅ 妻财申金",
+      "玄武  ▅▅ ▅▅ 兄弟午火",
+      "白虎  ▅▅ ▅▅ 子孙辰土 世 动 父母卯木"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "然化出卯木无制，恐亥月卯木得生，那个人又有了撑腰的，再次反攻倒算告之",
+   "outcome_record": "然时至亥月，对方再次告他，司法部门认为公款虽然已退，也还得追究刑事责任，此男于是外逃，至今未归",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-056",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十章《秘论十二宫》例三",
+   "input_fields": {
+    "question": "测工作如何（某女）",
+    "asked_at": "戊寅年戊午月丙午日",
+    "chart": {
+     "ben_gua": "地泽临",
+     "bian_gua": "",
+     "chart_lines_top_to_bottom": [
+      "青龙 ▅▅ ▅▅ 子孙酉金",
+      "玄武 ▅▅ ▅▅ 妻财亥水 应",
+      "白虎 ▅▅ ▅▅ 兄弟丑土",
+      "塍蛇 ▅▅ ▅▅ 兄弟丑土",
+      "勾陈 ▅▅▅▅▅ 官鬼卯木 世",
+      "朱雀 ▅▅▅▅▅ 父母巳火"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "官鬼休囚，死于日月，工作无发展前途",
+   "outcome_record": "此女最后告诉我，她在法院工作，以上所测很符合她的现状",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：结局仅「很符合她的现状」概括语",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-057",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十章《秘论十二宫》例四",
+   "input_fields": {
+    "question": "问友流年（罗先生代占）",
+    "asked_at": "戊寅年卯月庚午日（戌亥空）",
+    "chart": {
+     "ben_gua": "艮为山",
+     "bian_gua": "山地剥",
+     "chart_lines_top_to_bottom": [
+      "塍蛇  ▅▅▅▅▅  官鬼寅木  世",
+      "勾陈  ▅▅ ▅▅ 妻财子水",
+      "朱雀  ▅▅ ▅▅ 兄弟戌土",
+      "青龙  ▅▅▅▅▅  子孙申金  应  动  官鬼卯木",
+      "玄武  ▅▅ ▅▅ 父母午火",
+      "白虎  ▅▅ ▅▅ 兄弟辰土"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "今用神旬空，尚在避空之地，辰月冲实，用神入墓，牢狱之灾必至",
+   "outcome_record": "后找了一个属牛的人帮助，解决了此事",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：结局为当日下午口头更正核实（女人牵连/属牛人解事），「牢狱之灾必至」之前向断语未验、且以解事收束不可判",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-058",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十章《秘论十二宫》例五",
+   "input_fields": {
+    "question": "测风水（某焦碳厂）",
+    "asked_at": "戊寅年已未月庚辰日（原文「已未」）",
+    "chart": {
+     "ben_gua": "风泽中孚",
+     "bian_gua": "天水讼",
+     "chart_lines_top_to_bottom": [
+      "塍蛇             ▅▅▅▅▅  官鬼卯木",
+      "勾陈  妻财子水  ▅▅▅▅▅  父母巳火",
+      "朱雀             ▅▅ ▅▅   兄弟未土   世 动 父母午火",
+      "青龙             ▅▅ ▅▅   兄弟丑土",
+      "玄武             ▅▅▅▅▅   官鬼卯木",
+      "白虎             ▅▅▅▅▅   父母巳火   应 动 官鬼寅木"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "又财爻入墓于日，有死亡事件发生",
+   "outcome_record": "求测者反馈，工厂门朝西南开，工厂经济效益不好，目前处于半停产状态。工厂内的确发生过死伤事件",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "风水诊断核实型；结局段续载伤者一腿一脚、一人被煤压窒息而死，逐字见原文",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-059",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十章《秘论十二宫》例六",
+   "input_fields": {
+    "question": "问小孩身体",
+    "asked_at": "戊寅年甲子月癸巳日",
+    "chart": {
+     "ben_gua": "风火家人",
+     "bian_gua": "巽为风",
+     "chart_lines_top_to_bottom": [
+      "白虎  ▅▅▅▅▅  兄弟卯木",
+      "塍蛇  ▅▅▅▅▅  子孙巳火  应",
+      "勾陈  ▅▅ ▅▅ 妻财未土",
+      "朱雀  ▅▅▅▅▅  父母亥水",
+      "青龙  ▅▅ ▅▅ 妻财丑土   世  动   父母亥水",
+      "玄武  ▅▅▅▅▅  兄弟卯木       动   妻财丑土"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "卦在巽宫，巽为白眼多人，故断小孩白眼珠多。因忌神月建子水为巳火胎地，故断为先天性的",
+   "outcome_record": "反馈说小孩为天生的吊白眼，老是向上翻白眼珠子",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "诊断核实型",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-060",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十章《秘论十二宫》例七",
+   "input_fields": {
+    "question": "测何时有子（某男）",
+    "asked_at": "戊寅年甲子月未日（原文日柱仅记「未日」）",
+    "chart": {
+     "ben_gua": "雷天大壮",
+     "bian_gua": "乾为天",
+     "chart_lines_top_to_bottom": [
+      "玄武  ▅▅ ▅▅ 兄弟戌土        动   兄弟戌土",
+      "白虎  ▅▅ ▅▅ 子孙申金        动   子孙申金",
+      "塍蛇  ▅▅▅▅▅  父母午火  世",
+      "勾陈  ▅▅▅▅▅  兄弟辰土",
+      "朱雀  ▅▅▅▅▅  官鬼寅木",
+      "青龙  ▅▅▅▅▅  妻财子水  应"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "空亡，精子数量少，难以使妻子怀孕，终身难有子女",
+   "outcome_record": "结果此男告诉我，他已结婚好几年了，妻子一直不怀孕。二人到医院一检查是因为他本人精子太少造成的",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "诊断核实型（医院检查为独立核实）；占时日柱干支不全照录登记，月建甲子月在场",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-061",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十章《秘论十二宫》例八",
+   "input_fields": {
+    "question": "问病",
+    "asked_at": "戊寅年丑月丙子日",
+    "chart": {
+     "ben_gua": "山水蒙",
+     "bian_gua": "地水师",
+     "chart_lines_top_to_bottom": [
+      "青龙  ▅▅▅▅▅  父母寅木       动   父母卯木",
+      "玄武  ▅▅ ▅▅ 官鬼子水",
+      "白虎  ▅▅ ▅▅ 子孙戌土   世",
+      "塍蛇  ▅▅ ▅▅ 兄弟午火",
+      "勾陈  ▅▅▅▅▅  子孙辰土",
+      "朱雀  ▅▅ ▅▅ 父母寅木   应"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "必主病在头部，六爻临青龙，青龙主痛，故断头部脑血管出了问题引起头痛",
+   "outcome_record": "反馈因头部血栓引起头痛不止",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "诊断核实型",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-062",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十章《秘论十二宫》例九",
+   "input_fields": {
+    "question": "占流年（某男）",
+    "asked_at": "已卯年丙寅月丙申日（原文「已卯」）",
+    "chart": {
+     "ben_gua": "泽山咸",
+     "bian_gua": "火山旅",
+     "chart_lines_top_to_bottom": [
+      "青龙  ▅▅ ▅▅ 父母未土   应  动   官鬼巳火",
+      "玄武  ▅▅▅▅▅  兄弟酉金       动   父母未土",
+      "白虎  ▅▅▅▅▅  子孙亥水",
+      "塍蛇  ▅▅▅▅▅  兄弟申金  世",
+      "勾陈  ▅▅ ▅▅ 官鬼午火",
+      "朱雀  ▅▅ ▅▅ 父母辰土"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "故断其虽然多得朋友帮助，却也被朋友拖累，从他身上套财，哄骗他",
+   "outcome_record": "反馈说，近年来靠朋友帮忙挣了二十多万元，朋友们见他有了钱便向他借，只借不还",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：流年综合回溯（借财/神经衰弱/便秘皆现状自述），无前向结局",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-063",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十章《秘论十二宫》例十",
+   "input_fields": {
+    "question": "测其老婆儿子吉凶（某男）",
+    "asked_at": "已卯年丁卯月戊辰日（原文「已卯」）",
+    "chart": {
+     "ben_gua": "火泽睽",
+     "bian_gua": "乾为天",
+     "chart_lines_top_to_bottom": [
+      "朱雀             ▅▅▅▅▅   父母巳火",
+      "青龙  妻财子水  ▅▅ ▅▅  兄弟未土        动  子孙申金",
+      "玄武             ▅▅▅▅▅   子孙酉金   世",
+      "白虎             ▅▅ ▅▅   兄弟丑土       动  兄弟辰土",
+      "塍蛇             ▅▅▅▅▅   官鬼卯木",
+      "勾陈             ▅▅▅▅▅   父母巳火   应"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "以这些信息而断，妻子儿子双双入狱",
+   "outcome_record": "此人之妻和儿子果然是因贩毒而于 98 年未月乙卯日双双被捕入狱",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "定级B不入账：入狱系占前（98年）已发事件之回溯；量刑断语（妻死刑）与结果（无期）不合且上诉重审未结、无反馈",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-064",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十章《秘论十二宫》例十一",
+   "input_fields": {
+    "question": "测流年运气（某女）",
+    "asked_at": "已卯年丁卯月甲戌日（原文「已卯」）",
+    "chart": {
+     "ben_gua": "地山谦",
+     "bian_gua": "雷天大壮",
+     "chart_lines_top_to_bottom": [
+      "玄武  ▅▅ ▅▅ 兄弟酉金",
+      "白虎  ▅▅ ▅▅ 子孙亥水         世",
+      "塍蛇  ▅▅ ▅▅ 父母丑土             动   官鬼午火",
+      "勾陈  ▅▅▅▅▅    兄弟申金",
+      "朱雀  ▅▅ ▅▅ 官鬼午火         应 动   妻财寅木",
+      "青龙  ▅▅ ▅▅ 父母辰土             动   子孙子水"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "便直断其弟弟已被公安局抓起来了",
+   "outcome_record": "最后她告诉我其父亲是 93 年因上呼吸道癌去世的",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：流年大包围回溯（弟被抓当场证实/85年结婚/父93年去世皆已发事实），无前向结局",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-065",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十章《秘论十二宫》例十二",
+   "input_fields": {
+    "question": "测婚（长治市某男；刘昌明解析王虎应实例）",
+    "asked_at": "己卯年年庚午月乙巳日（原文「己卯年年」衍字）",
+    "chart": {
+     "ben_gua": "风水涣",
+     "bian_gua": "泽水困",
+     "chart_lines_top_to_bottom": [
+      "玄武          ▄▄▄▄▄ 父母辛卯木        O->   ▄▄   ▄▄ 子孙丁未土",
+      "白虎          ▄▄▄▄▄ 兄弟辛巳火 世            ▄▄▄▄▄ 妻财丁酉金",
+      "螣蛇 妻财己酉金 ▄▄      ▄▄ 子孙辛未土       X->   ▄▄▄▄▄ 官鬼丁亥水 应",
+      "勾陈 官鬼己亥水 ▄▄  ▄▄ 兄弟戊午火      ▄▄ ▄▄ 兄弟戊午火",
+      "朱雀       ▄▄▄▄▄ 子孙戊辰土 应    ▄▄▄▄▄ 子孙戊辰土",
+      "青龙       ▄▄  ▄▄ 父母戊寅木      ▄▄ ▄▄ 父母戊寅木 世"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "综合上述信息，我断到怕是你穿好新衣，摆好酒席要娶新娘了，但你只定了婚，没有领结婚证",
+   "outcome_record": "结果所断完全正确。他告诉我他和那个女的只定了婚没有领结婚证",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": false,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "可分离滤：本例为刘昌明对王虎应原例的解析重构，王氏原断仅片语被引，金标断语非王氏原文、不可分离认定",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-066",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十章《秘论十二宫》例十三",
+   "input_fields": {
+    "question": "问妻子怀孕（友赵先生）",
+    "asked_at": "庚辰年庚辰月壬子日",
+    "chart": {
+     "ben_gua": "艮为山",
+     "bian_gua": "水火既济",
+     "chart_lines_top_to_bottom": [
+      "白虎  ▅▅▅▅▅  官鬼寅木  世  动   妻财子水",
+      "塍蛇  ▅▅ ▅▅ 妻财子水        动   兄弟戌土",
+      "勾陈  ▅▅ ▅▅ 兄弟戌土",
+      "朱雀  ▅▅▅▅▅  子孙申金  应",
+      "青龙  ▅▅ ▅▅ 父母午火",
+      "玄武  ▅▅ ▅▅ 兄弟辰土        动   官鬼卯木"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "初爻 元神临月化回头克，打算在本月之内流产掉",
+   "outcome_record": "结果他说的确如此。妻妇已经怀孕一个月",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：反馈止于流产计划之确认，流产未实际发生回报",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-067",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十章《秘论十二宫》例十四",
+   "input_fields": {
+    "question": "测事业（人称校长的某男）",
+    "asked_at": "庚辰年辛巳月丑日（原文日柱仅记「丑日」）",
+    "chart": {
+     "ben_gua": "风水涣",
+     "bian_gua": "",
+     "chart_lines_top_to_bottom": [
+      "玄武             ▅▅▅▅▅   父母卯木",
+      "白虎             ▅▅▅▅▅   兄弟巳火   世",
+      "塍蛇  妻财酉金 ▅▅ ▅▅   子孙未土",
+      "勾陈  官鬼亥水 ▅▅ ▅▅   兄弟午火",
+      "朱雀             ▅▅▅▅▅   子孙辰土   应",
+      "青龙             ▅▅ ▅▅   父母寅木"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "断其挣钱是流动的，打一枪换一个地方就可以挣钱，若连续不动，固定在某个地方就会赔钱",
+   "outcome_record": "结果，来人说他是部队转业军人，前几年做装潢生意，虽然东奔西跑，但却挣了不少钱",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：职业生涯回溯自述核实，无前向结局",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-068",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十章《秘论十二宫》例十五",
+   "input_fields": {
+    "question": "测侄儿（99年生）的病（某男）",
+    "asked_at": "庚辰年辛巳月壬申日",
+    "chart": {
+     "ben_gua": "天泽履",
+     "bian_gua": "雷火丰",
+     "chart_lines_top_to_bottom": [
+      "白虎  ▅▅▅▅▅ 兄弟戌土        动   兄弟戌土",
+      "塍蛇  ▅▅▅▅▅ 子孙申金  世   动   子孙申金",
+      "勾陈  ▅▅▅▅▅ 父母午火",
+      "朱雀  ▅▅ ▅▅ 兄弟丑土        动   妻财亥水",
+      "青龙  ▅▅▅▅▅ 官鬼卯木  应   动   兄弟丑土",
+      "玄武  ▅▅▅▅▅ 父母巳火"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "综合卦象来看，为先天性脑瘫",
+   "outcome_record": "对方反馈推断很对，为孩子治病已花去 20 多万元了，再无能力治下去",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "诊断核实型；结局段后半涉家属极端言论，与断/结局无关，不录入",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-069",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十一章《隔山化爻》例一",
+   "input_fields": {
+    "question": "测病",
+    "asked_at": "庚辰年庚辰月已酉日（原文「已酉」）",
+    "chart": {
+     "ben_gua": "火地晋",
+     "bian_gua": "泽地萃",
+     "chart_lines_top_to_bottom": [
+      "勾陈 ▅▅▅▅▅ 官鬼己火   动 父母未土",
+      "朱雀 ▅▅ ▅▅ 父母未土   动 兄弟酉金",
+      "青龙 ▅▅▅▅▅ 兄弟酉金 世",
+      "玄武 ▅▅ ▅▅ 妻财卯木",
+      "白牙 ▅▅ ▅▅ 官鬼己火",
+      "螣蛇 ▅▅ ▅▅ 父母未土 应"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "故断主要是有肿块或增生造成的",
+   "outcome_record": "卦主说，由于脖子颈椎增生，胳膊活动都不灵便了，每天痛得难以忍受",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "诊断核实型；卦盘「白牙」「官鬼己火」为原文录入讹字（白虎/巳火），照录登记",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-070",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十一章《隔山化爻》例二",
+   "input_fields": {
+    "question": "测怀孕如何（某男）",
+    "asked_at": "庚辰年壬午月丙申日",
+    "chart": {
+     "ben_gua": "风天小畜",
+     "bian_gua": "火天大有",
+     "chart_lines_top_to_bottom": [
+      "青龙 ▅▅▅▅▅ 兄弟卯木",
+      "玄武 ▅▅▅▅▅ 子孙己火    动 妻财未土",
+      "白虎 ▅▅ ▅▅ 妻财未土 应 动 官鬼酉金",
+      "螣蛇 ▅▅▅▅▅ 妻财辰土",
+      "勾陈 ▅▅▅▅▅ 兄弟寅木",
+      "朱雀 ▅▅▅▅▅ 父母子水 世"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "我说这个孩子生不下来",
+   "outcome_record": "果如所断",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：结局仅「果如所断」概括语",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-071",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十一章《隔山化爻》例三",
+   "input_fields": {
+    "question": "测近日财运（某男）",
+    "asked_at": "庚辰年壬午月辛亥日",
+    "chart": {
+     "ben_gua": "风山渐",
+     "bian_gua": "火水未济",
+     "chart_lines_top_to_bottom": [
+      "螣蛇      ▅▅▅▅▅ 官鬼卯木 应",
+      "勾陈 妻财子水 ▅▅▅▅▅ 父母己火    动 兄弟未土",
+      "朱雀      ▅▅ ▅▅ 兄弟未土    动 子孙酉金",
+      "青龙      ▅▅▅▅▅ 子孙申金 世 动 父母午火",
+      "玄武      ▅▅ ▅▅ 父母午火    动 兄弟辰土",
+      "白虎      ▅▅ ▅▅ 兄弟辰土"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "故断此次求财 中间人隔了好几层，中间人太多求不到财",
+   "outcome_record": "果然如测",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：结局仅「果然如测」概括语",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-072",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十一章《隔山化爻》例四",
+   "input_fields": {
+    "question": "测考试结果如何（某女）",
+    "asked_at": "丙子年癸己月丁己日（原文月日干支多处讹字）",
+    "chart": {
+     "ben_gua": "火水未济",
+     "bian_gua": "山风蛊",
+     "chart_lines_top_to_bottom": [
+      "青龙      ▅▅▅▅▅ 兄弟巳火 应",
+      "玄武      ▅▅ ▅▅ 子孙未土",
+      "白虎      ▅▅▅▅▅ 妻财酉金    动 子孙戌土",
+      "螣蛇 官鬼亥水 ▅▅ ▅▅ 兄弟午火 世 动 妻财酉金",
+      "勾陈      ▅▅▅▅▅ 子孙辰土",
+      "朱雀      ▅▅ ▅▅ 父母寅木"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "考试结果肯定不好",
+   "outcome_record": "",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：全例无结局/反馈段，止于案语设问",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-073",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十一章《隔山化爻》例五",
+   "input_fields": {
+    "question": "测合伙求财",
+    "asked_at": "壬午年甲辰月乙卯日",
+    "chart": {
+     "ben_gua": "火风鼎",
+     "bian_gua": "泽风大过",
+     "chart_lines_top_to_bottom": [
+      "玄武 ▅▅▅▅▅ 兄弟巳火    动 子孙未土",
+      "白虎 ▅▅ ▅▅ 子孙未土 应 动 妻财酉金",
+      "螣蛇 ▅▅▅▅▅ 妻财酉金",
+      "勾陈 ▅▅▅▅▅ 妻财酉金",
+      "朱雀 ▅▅▅▅▅ 官鬼亥水 世",
+      "青龙 ▅▅ ▅▅ 子孙丑土"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "可以断定不是俩人合伙，而是中间还隔一个人",
+   "outcome_record": "",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：原文自承「求财结果如何，因无反馈，不得而知」（中间人一节经卦主确认）",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-074",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十二章《游魂辨义》例一",
+   "input_fields": {
+    "question": "测婚（某男，求测人22岁）",
+    "asked_at": "丁丑年癸丑月已巳日（原文「已巳」）",
+    "chart": {
+     "ben_gua": "山雷颐",
+     "bian_gua": "离为火",
+     "chart_lines_top_to_bottom": [
+      "勾陈  ▅▅▅▅▅  兄弟寅木",
+      "朱雀  ▅▅ ▅▅ 父母子水",
+      "青龙  ▅▅ ▅▅ 妻财戌土   世  动    官鬼酉金",
+      "玄武  ▅▅ ▅▅ 妻财辰土         动   父母亥水",
+      "白虎  ▅▅ ▅▅ 兄弟寅木",
+      "塍蛇  ▅▅▅▅▅  父母子水  应"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "今兄弟寅木休囚不克财，明年兄弟值太岁，与现在的女友必会分手",
+   "outcome_record": "其果然已有女友，于丙子年相识，不久就发生两性关系，后又出现一个女的，遂于 1998 年与原女友分手，和另一女人相好",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-075",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十二章《游魂辨义》例二",
+   "input_fields": {
+    "question": "测与一女搞对象，将来能成夫妻否（某男）",
+    "asked_at": "戊寅年卯月丁巳日",
+    "chart": {
+     "ben_gua": "天风姤（原文作「天风逅」）",
+     "bian_gua": "泽风大过",
+     "chart_lines_top_to_bottom": [
+      "青龙             ▅▅▅▅▅    父母戌土      动 父母未土",
+      "玄武             ▅▅▅▅▅    兄弟酉金",
+      "白虎             ▅▅▅▅▅    官鬼午火   应",
+      "塍蛇             ▅▅▅▅▅    兄弟酉金",
+      "勾陈  妻财寅木 ▅▅▅▅▅   子孙亥水",
+      "朱雀             ▅▅ ▅▅    父母丑土   世"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "元神死绝休囚又变游魂，二人必将分手",
+   "outcome_record": "后果于巳月分手",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-076",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十二章《游魂辨义》例三",
+   "input_fields": {
+    "question": "测月球有水否（报载美国1月8日发射探测器，作者自摇）",
+    "asked_at": "丁丑年癸丑月丙辰日",
+    "chart": {
+     "ben_gua": "水雷屯",
+     "bian_gua": "泽风大过",
+     "chart_lines_top_to_bottom": [
+      "青龙  ▅▅ ▅▅ 兄弟子水",
+      "玄武  ▅▅▅▅▅  官鬼戌土  应",
+      "白虎  ▅▅ ▅▅ 父母申金         动   兄弟亥水",
+      "塍蛇  ▅▅ ▅▅ 官鬼辰土         动   父母酉金",
+      "勾陈  ▅▅ ▅▅ 子孙寅木   世  动    兄弟亥水",
+      "朱雀  ▅▅▅▅▅  兄弟子水        动   官鬼丑土"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "说明月坏表面根本没有一点水，卦变游魂，月球相力小，耗散大，月球上很难有水珠形成",
+   "outcome_record": "后探测结果，果然没有在月球表面找到水",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "mid",
+   "pollution_note": "主持先裁执行（R57 PREREG §4）：与《分类占验技法》月球例同案（丁丑年癸丑月丙辰日、水雷屯变泽风大过），两书结局冲突及方向——分类版作未定、《说真》版作已定阴性——整例不入账只登记；兼污染mid（月球探测为公共科学议题）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "同案（主持先裁）：与《分类占验技法》神秘章月球例同案（本变卦＋占日＋问事三键全合），分类版未入账（R56四滤淘汰挂起）；结局冲突及方向，整例只登记。与WHY-001…071入账例及LY-102…105名案三键无重合",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "主持先裁执行（R57 PREREG §4）：与《分类占验技法》月球例同案（丁丑年癸丑月丙辰日、水雷屯变泽风大过），两书结局冲突及方向——分类版作未定、《说真》版作已定阴性——整例不入账只登记；兼污染mid（月球探测为公共科学议题）",
+   "grade_note": "同案异文并列见 counts.moon_case",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-077",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十二章《游魂辨义》例四",
+   "input_fields": {
+    "question": "测朋友的女儿走失，吉凶如何",
+    "asked_at": "戊寅年甲寅月已酉日（原文「已酉」）",
+    "chart": {
+     "ben_gua": "风水涣",
+     "bian_gua": "天水讼",
+     "chart_lines_top_to_bottom": [
+      "勾陈  ▅▅▅▅▅  父母卯木",
+      "朱雀  ▅▅▅▅▅  兄弟已火  世",
+      "青龙  ▅▅ ▅▅ 子孙未土        动   兄弟午火",
+      "玄武  ▅▅ ▅▅ 兄弟午火",
+      "白虎  ▅▅▅▅▅  子孙辰土  应",
+      "塍蛇  ▅▅ ▅▅ 父母寅木"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "子孙动化午火生，在外很安全；合处逢冲，丑日一定会回来",
+   "outcome_record": "后来朋友女儿果于丑日回来，说是心情不好和朋友一块到北部一百多里以外的温泉去洗澡、散心去了",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-078",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十二章《游魂辨义》例五",
+   "input_fields": {
+    "question": "测去相亲结果如何（某女）",
+    "asked_at": "戊寅年戊午月乙酉日",
+    "chart": {
+     "ben_gua": "天水讼",
+     "bian_gua": "风水涣",
+     "chart_lines_top_to_bottom": [
+      "玄武             ▅▅▅▅▅   子孙戌土",
+      "白虎             ▅▅▅▅▅   妻财申金",
+      "塍蛇             ▅▅▅▅▅   兄弟午火   世 动 子孙未土",
+      "勾陈  官鬼亥水 ▅▅ ▅▅   兄弟午火",
+      "朱雀             ▅▅▅▅▅   子孙辰土",
+      "青龙             ▅▅ ▅▅   父母寅木   应"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "这次相亲怕是连对方的脸都看不到",
+   "outcome_record": "后此女前去相亲，对方果然梳洗打扮了一番，但由于对方胆小，吓得连头也没敢抬，直到相亲结束也没看清对方长得啥样，嫌对方太老实，不愿意",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-079",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十二章《游魂辨义》例六",
+   "input_fields": {
+    "question": "测喂养的鹦鹉飞走会回来否",
+    "asked_at": "已卯年戊辰月丙午日（原文「已卯」）",
+    "chart": {
+     "ben_gua": "乾为天",
+     "bian_gua": "水天需",
+     "chart_lines_top_to_bottom": [
+      "青龙  ▅▅▅▅▅  父母戌土  世  动   子孙子水",
+      "玄武  ▅▅▅▅▅  兄弟申金",
+      "白虎  ▅▅▅▅▅  官鬼午火       动   兄弟申金",
+      "塍蛇  ▅▅▅▅▅  父母辰土  应",
+      "勾陈  ▅▅▅▅▅  妻财寅木",
+      "朱雀  ▅▅▅▅▅  子孙子水"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "子孙子水月克日冲，卦中又有父母爻动克，世克用，难回之象",
+   "outcome_record": "后果未回",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "结局简略（仅「后果未回」）但指向明确、可判",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-080",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十二章《游魂辨义》例七",
+   "input_fields": {
+    "question": "测到某地办培训班如何（一友）",
+    "asked_at": "壬午年壬子月丁巳日",
+    "chart": {
+     "ben_gua": "风泽中孚",
+     "bian_gua": "",
+     "chart_lines_top_to_bottom": [
+      "青龙  ▅▅▅▅▅  官鬼卯木",
+      "玄武  ▅▅▅▅▅  父母巳火",
+      "白虎  ▅▅ ▅▅ 兄弟未土  世",
+      "塍蛇  ▅▅ ▅▅ 兄弟丑土",
+      "勾陈  ▅▅▅▅▅ 官鬼卯木",
+      "朱雀  ▅▅▅▅▅ 父母巳火  应"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "此去不但无财，还要把东西忘在那里",
+   "outcome_record": "果然没有招到学员，回来时，把手机的充电器忘在那里了",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-081",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十三章《归魂辨义》例一",
+   "input_fields": {
+    "question": "测子出国考试可通过否（某女代占）",
+    "asked_at": "戊寅年戊午月甲寅日",
+    "chart": {
+     "ben_gua": "雷天大壮",
+     "bian_gua": "火天大有",
+     "chart_lines_top_to_bottom": [
+      "玄武   ▅▅ ▅▅ 兄弟戌土       动  父母巳火",
+      "白虎   ▅▅ ▅▅ 子孙申金",
+      "塍蛇   ▅▅▅▅▅   父母午火 世",
+      "勾陈   ▅▅▅▅▅   兄弟辰土",
+      "朱雀   ▅▅▅▅▅   官鬼寅木",
+      "青龙   ▅▅▅▅▅   妻财子水 应"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "必因人做手脚而通不过考试",
+   "outcome_record": "后果差 20 分未能出成，但本人觉得分数有些不对，却又无可奈何",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-082",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十三章《归魂辨义》例二",
+   "input_fields": {
+    "question": "测夫运（某女）",
+    "asked_at": "戊寅年壬戌月戊申日",
+    "chart": {
+     "ben_gua": "雷泽归妹",
+     "bian_gua": "",
+     "chart_lines_top_to_bottom": [
+      "朱朱   ▅▅ ▅▅ 父母戌土   应",
+      "青龙   ▅▅ ▅▅ 兄弟申金",
+      "玄武   ▅▅▅▅▅   官鬼午火",
+      "白虎   ▅▅ ▅▅ 父母丑土   世",
+      "塍蛇   ▅▅▅▅▅   妻财卯木",
+      "勾陈   ▅▅▅▅▅   官鬼巳火"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "断其丈夫中在狱中却十分挂念家里，怕有越狱的想法",
+   "outcome_record": "谁知道 其夫于已卯提越狱逃跑回家又被抓回，不但没有减刑，反而加了刑",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "入狱缘由段为当场告知核实；金标断语/结局取越狱前向段",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-083",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十三章《归魂辨义》例三",
+   "input_fields": {
+    "question": "测终身（某女）",
+    "asked_at": "戊寅年癸亥月甲戌日",
+    "chart": {
+     "ben_gua": "地泽临",
+     "bian_gua": "雷泽归妹",
+     "chart_lines_top_to_bottom": [
+      "玄武  ▅▅ ▅▅ 子孙酉金",
+      "白虎  ▅▅ ▅▅ 妻财亥水   应",
+      "塍蛇  ▅▅ ▅▅ 兄弟丑土        动  父母午火",
+      "勾陈  ▅▅ ▅▅ 兄弟丑土",
+      "朱雀  ▅▅▅▅▅  官鬼卯木  世",
+      "青龙  ▅▅▅▅▅  父母巳火"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "断其 88 年结婚",
+   "outcome_record": "以上推断全部正确",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：终身综合回溯，结局仅「以上推断全部正确」概括语",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-084",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十三章《归魂辨义》例四",
+   "input_fields": {
+    "question": "测母亲病（某女代占）",
+    "asked_at": "戊寅年癸亥月戊寅日",
+    "chart": {
+     "ben_gua": "雷天大壮",
+     "bian_gua": "火天大有",
+     "chart_lines_top_to_bottom": [
+      "朱雀  ▅▅ ▅▅ 兄弟戌土      动  父母巳火",
+      "青龙  ▅▅ ▅▅ 子孙申金",
+      "玄武  ▅▅▅▅▅  父母午火  世",
+      "白虎  ▅▅▅▅▅  兄弟辰土",
+      "塍蛇  ▅▅▅▅▅  官鬼寅木",
+      "勾陈  ▅▅▅▅▅  妻财子水  应"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "父母 午火临四爻受月建之克，午火为心脏，四爻又为心脏的爻位，其母亲应有心脏病",
+   "outcome_record": "其母病症果如所测，说是已神经衰弱二十年，有轻微的心肌炎",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "诊断核实型",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-085",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十三章《归魂辨义》例五",
+   "input_fields": {
+    "question": "测婚（某女，乙巳年生）",
+    "asked_at": "已卯年丁卯月甲子日（原文「已卯」）",
+    "chart": {
+     "ben_gua": "风水涣",
+     "bian_gua": "天水讼",
+     "chart_lines_top_to_bottom": [
+      "玄武        ▅▅▅▅▅ 父母卯木",
+      "白虎         ▅▅▅▅▅ 兄弟巳火  世",
+      "塍蛇         ▅▅ ▅▅ 子孙未土      动  兄弟午火",
+      "勾陈   官鬼亥水 ▅▅ ▅▅ 兄弟午火",
+      "朱雀         ▅▅▅▅▅ 子孙辰土  应",
+      "青龙         ▅▅ ▅▅ 父母寅木"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "又卦变归魂，归魂不出家，乃是终身在娘家守老之象",
+   "outcome_record": "此女从 20 岁起不知见过多少男的，始终没成一个，就连恋爱的机会都没有",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：反馈为止于占时之现状自述，「终身无婚」于占时不可验、无后续回报",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-086",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十四章《飞伏的秘密》例一",
+   "input_fields": {
+    "question": "测夫何日归（某女）",
+    "asked_at": "丙子年壬辰月乙酉日",
+    "chart": {
+     "ben_gua": "火山旅",
+     "bian_gua": "艮为山",
+     "chart_lines_top_to_bottom": [
+      "玄武        ▅▅▅▅▅ 兄弟巳火",
+      "白虎        ▅▅ ▅▅ 子孙未土",
+      "塍蛇        ▅▅▅▅▅ 妻财酉金 应 动 子孙戌土",
+      "勾陈 官鬼亥水 ▅▅▅▅▅ 妻财申金",
+      "朱雀        ▅▅ ▅▅ 兄弟午火",
+      "青龙        ▅▅ ▅▅ 子孙辰土 世"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "卦逢六合用神又旺，其丈夫一定会回来，用神伏藏逢出现，丁亥日有可能",
+   "outcome_record": "结果其丈夫于丁亥日亥时回来了，说是心情不好回老家在姐姐家住了几天",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-087",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十四章《飞伏的秘密》例二",
+   "input_fields": {
+    "question": "测手机丢失（某男）",
+    "asked_at": "丁丑年乙巳月壬子日",
+    "chart": {
+     "ben_gua": "天山遁",
+     "bian_gua": "",
+     "chart_lines_top_to_bottom": [
+      "白虎      ▅▅▅▅▅ 父母戌土",
+      "塍蛇      ▅▅▅▅▅ 兄弟申金 应",
+      "勾陈      ▅▅▅▅▅ 官鬼午火",
+      "朱雀      ▅▅▅▅▅ 兄弟申金",
+      "青龙 妻财寅木 ▅▅ ▅▅ 官鬼午火 世",
+      "玄武      ▅▅ ▅▅ 父母辰土"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "以财为用，财不上卦，虽空亡，但得日生，又临青龙伏世下生世爻，失物可找回",
+   "outcome_record": "经公安多方查证，于未月找到了用手机的人，原来是与此男同住一个院子的邻居",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：结局止于找到使用人，其不承认偷窃、手机是否追回与「两个人作案」均未明，断语主旨（可找回）未了结",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-088",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十四章《飞伏的秘密》例三",
+   "input_fields": {
+    "question": "占问羊肉可吃否",
+    "asked_at": "已卯年已巳月庚辰日（原文「已卯年已巳月」）",
+    "chart": {
+     "ben_gua": "天山遁",
+     "bian_gua": "天地否",
+     "chart_lines_top_to_bottom": [
+      "塍蛇      ▅▅▅▅▅ 父母戌土",
+      "勾陈      ▅▅▅▅▅ 兄弟申金 应",
+      "朱雀      ▅▅▅▅▅ 官鬼午火",
+      "青龙      ▅▅▅▅▅ 兄弟申金   动 妻财卯木",
+      "玄武 妻财寅木 ▅▅ ▅▅ 官鬼午火 世",
+      "白虎 子孙子水 ▅▅ ▅▅ 父母辰土"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "进一步可以推断羊是在高山上路边的一个干涸的水池里捡的",
+   "outcome_record": "来人说分析基本正确。该羊肉为整只，是在高山上路边的一个旱井里捡的。吃了羊肉的人平安无事",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "第十四章「例三」重号之第一例（见GSZ-089登记）",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-089",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十四章《飞伏的秘密》例三",
+   "input_fields": {
+    "question": "测家宅（某男）",
+    "asked_at": "丁丑年已酉月乙亥日（原文「已酉」）",
+    "chart": {
+     "ben_gua": "地火明夷",
+     "bian_gua": "",
+     "chart_lines_top_to_bottom": [
+      "玄武      ▅▅ ▅▅ 父母酉金",
+      "白虎      ▅▅ ▅▅ 兄弟亥水",
+      "塍蛇      ▅▅ ▅▅ 官鬼丑土 世",
+      "勾陈 妻财午火 ▅▅▅▅▅ 兄弟亥水",
+      "朱雀        ▅▅ ▅▅ 官鬼丑土",
+      "青龙        ▅▅▅▅▅ 子孙卯木 应"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "断其老婆有妇科病，月经不调",
+   "outcome_record": "此男房子果然是坐北朝南，因地势较低，周围房子盖得高，影响光线，几乎看不到阳光。老婆的确有妇科病，月经不调",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "家宅诊断核实型；原书本例与GSZ-088同标「例三」（第十四章例三重号），系原书编号重复，非两例同案",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-090",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十四章《飞伏的秘密》例四",
+   "input_fields": {
+    "question": "测婚（某男）",
+    "asked_at": "乙亥年（95年）戊子月辛卯日",
+    "chart": {
+     "ben_gua": "雷山小过",
+     "bian_gua": "雷风恒",
+     "chart_lines_top_to_bottom": [
+      "塍蛇        ▅▅ ▅▅ 父母戌土",
+      "勾陈        ▅▅ ▅▅ 兄弟申金",
+      "朱雀        ▅▅▅▅▅ 官鬼午火 世",
+      "青龙        ▅▅▅▅▅ 兄弟申金",
+      "玄武 妻财卯木 ▅▅ ▅▅ 官鬼午火     动 子孙亥水",
+      "白虎        ▅▅ ▅▅ 父母辰土 应"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "综合以上信息，我断其因怀疑老婆有外遇，实际却没有，结果致使二人离婚",
+   "outcome_record": "最后此男告诉我，他老婆是歌团的，个高，很漂亮，脸不黑但有痣。他们是 82 年结的婚，92 年离的",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "同案：与《分类占验技法》第五章应期例四WHY-032三键全合（本变卦＋占月日＋问事），同案只入一例、归属先完成转录之分类版（R56已入账），《说真》版登记异文（见grade_note）",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "定级B不入账：回溯例且结局含关键细节反转（原文：非他怀疑老婆、而老婆怀疑他），叙述者自承「最后也不知真实情况」；另与《分类占验技法》第五章应期例四WHY-032三键同案（分类版R56已入账），《说真》版并登记异文",
+   "grade_note": "异文对勘：分类版结局作「老婆在歌舞团工作，长得又高又漂亮，1982年结婚，1992年离异，赔偿了八万元」，与《说真》版主干一致（歌团/82年婚/92年离/八万元）；《说真》版多载怀疑方向反转一节，分类版无此文，并列登记",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-091",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十四章《飞伏的秘密》例五",
+   "input_fields": {
+    "question": "测自行车丢失（单位某武警）",
+    "asked_at": "乙亥年丙戌月庚寅日",
+    "chart": {
+     "ben_gua": "雷水解",
+     "bian_gua": "泽水困",
+     "chart_lines_top_to_bottom": [
+      "塍蛇        ▅▅ ▅▅ 妻财戌土",
+      "勾陈        ▅▅ ▅▅ 官鬼申金 应 动 官鬼酉金",
+      "朱雀      ▅▅▅▅▅ 子孙午火",
+      "青龙      ▅▅ ▅▅ 子孙午火",
+      "玄武      ▅▅▅▅▅ 妻财辰土 世",
+      "白虎 父母子水 ▅▅ ▅▅ 兄弟寅木"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "世爻妻财辰土月破日克，元神午火又空，破财之象，车子难找回",
+   "outcome_record": "果然是一辆破旧的自行车，被人偷走没有找回",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-092",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十四章《飞伏的秘密》例六",
+   "input_fields": {
+    "question": "老乡几天不见，担心问之如何",
+    "asked_at": "丁丑年甲辰月甲辰日",
+    "chart": {
+     "ben_gua": "水风井",
+     "bian_gua": "天水讼",
+     "chart_lines_top_to_bottom": [
+      "玄武      ▅▅ ▅▅ 父母子水    动 妻财戌土",
+      "白虎      ▅▅▅▅▅ 妻财戌土 世",
+      "塍蛇      ▅▅ ▅▅ 官鬼申金    动 子孙午火",
+      "勾陈      ▅▅▅▅▅ 官鬼酉金    动 子孙午火",
+      "朱雀 兄弟寅木 ▅▅▅▅▅ 父母亥水 应",
+      "青龙      ▅▅ ▅▅ 妻财丑土"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "问其老家是否在东南方，回答说是，故断有可能是回了老家",
+   "outcome_record": "当日午时，接到电话，得知回了老家",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-093",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十五章《三刑辨义》例一",
+   "input_fields": {
+    "question": "自占本年年运（作者本人）",
+    "asked_at": "戊寅年甲寅月壬午日",
+    "chart": {
+     "ben_gua": "天山遁",
+     "bian_gua": "水火既济",
+     "chart_lines_top_to_bottom": [
+      "白虎      ▅▅▅▅▅ 父母戌土    动 子孙子水",
+      "螣蛇      ▅▅▅▅▅ 兄弟申金 应",
+      "勾陈      ▅▅▅▅▅ 官鬼午火    动 兄弟申金",
+      "朱雀      ▅▅▅▅▅ 兄弟申金",
+      "青龙 妻财寅木 ▅▅ ▅▅ 官鬼午火 世",
+      "玄武      ▅▅ ▅▅ 父母辰土    动 妻财卯木"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "今官鬼午火化出申金空亡，申月出空当防",
+   "outcome_record": "结果一进厨房什么也没干，拿起刀来稀里糊涂直接把中指头切了一块，指甲被切三分之一。于是放下刀忙去医院包扎，三月有余方愈",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "结局时点在申月（断语应期），逐字见原文前段",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-094",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十五章《三刑辨义》例二",
+   "input_fields": {
+    "question": "测一亲戚家的孩子吉凶如何（某男）",
+    "asked_at": "丁丑年乙巳月庚申日",
+    "chart": {
+     "ben_gua": "水雷屯",
+     "bian_gua": "",
+     "chart_lines_top_to_bottom": [
+      "塍蛇 ▅▅ ▅▅ 兄弟子水",
+      "勾陈 ▅▅▅▅▅ 官鬼戌土 应",
+      "朱雀 ▅▅ ▅▅ 父母申金",
+      "青龙 ▅▅ ▅▅ 官鬼辰土",
+      "玄武 ▅▅ ▅▅ 子孙寅木 世",
+      "白虎 ▅▅▅▅▅ 兄弟子水"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "断其亲戚家的孩子因偷盗或诈骗已犯刑入狱",
+   "outcome_record": "果然是因偷盗和诈骗入狱，被劳改",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "硬事实核实型（入狱现状）",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-095",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十五章《三刑辨义》例三",
+   "input_fields": {
+    "question": "测婚姻（某女）",
+    "asked_at": "戊寅年丙辰月丁亥日",
+    "chart": {
+     "ben_gua": "地山谦",
+     "bian_gua": "雷火丰",
+     "chart_lines_top_to_bottom": [
+      "青龙 ▅▅ ▅▅ 兄弟酉金",
+      "玄武 ▅▅ ▅▅ 子孙亥水 世",
+      "白虎 ▅▅ ▅▅ 父母丑土    动 官鬼午火",
+      "塍蛇 ▅▅▅▅▅ 兄弟申金",
+      "勾陈 ▅▅ ▅▅ 官鬼午火 应",
+      "朱雀 ▅▅ ▅▅ 父母辰土    动 妻财卯木"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "化出妻财卯木回头克，又官下伏藏的卯木，对应于 1999 年，该年出现，这个男的老婆会发现此事",
+   "outcome_record": "",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：现状段经本人告知核实；前向段（1999年被发现）原文自承「后来结果如何，因无反馈，不得而知」",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-096",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十五章《三刑辨义》例四",
+   "input_fields": {
+    "question": "测晚年生活状况如何（某老妇）",
+    "asked_at": "丙子年癸巳月癸亥日",
+    "chart": {
+     "ben_gua": "水地比",
+     "bian_gua": "风泽中孚",
+     "chart_lines_top_to_bottom": [
+      "白虎 ▅▅ ▅▅ 妻财子水 应 动 官鬼卯木",
+      "塍蛇 ▅▅▅▅▅ 兄弟戌土",
+      "勾陈 ▅▅ ▅▅ 子孙申金",
+      "朱雀 ▅▅ ▅▅ 官鬼卯木 世",
+      "青龙 ▅▅ ▅▅ 父母巳火       动 官鬼卯木",
+      "玄武 ▅▅ ▅▅ 兄弟未土       动 父母巳火"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "断其原丈夫已死，又嫁了一个男的",
+   "outcome_record": "测完后此妇告知，自己原有工作，现已退休，晚年主要是靠退休金生活",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：晚年现状回溯自述核实，无前向结局",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-097",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十五章《三刑辨义》例五",
+   "input_fields": {
+    "question": "测财运（某农民）",
+    "asked_at": "丙子年丙申月庚子日",
+    "chart": {
+     "ben_gua": "风泽中孚",
+     "bian_gua": "风天小畜",
+     "chart_lines_top_to_bottom": [
+      "塍蛇          ▅▅▅▅▅ 官鬼卯木",
+      "勾陈 妻财子水 ▅▅▅▅▅ 父母巳火",
+      "朱雀          ▅▅ ▅▅ 兄弟未土 世",
+      "青龙          ▅▅ ▅▅ 兄弟丑土    动 兄弟辰土",
+      "玄武          ▅▅▅▅▅ 官鬼卯木",
+      "白虎          ▅▅▅▅▅ 父母巳火 应"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "发的是水上的财，而且是一种意想不到的财",
+   "outcome_record": "原来此人 92 年就开始发财了，兄弟 8 人，只有他发了财",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：逐年财运回溯为主；洪水鱼池得财事在叙述时序上属已发/正发事件之复述，非占后独立回报",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-098",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十五章《三刑辨义》例六",
+   "input_fields": {
+    "question": "测子吉凶（某妇女）",
+    "asked_at": "乙亥年已丑月庚午日（原文「已丑」）",
+    "chart": {
+     "ben_gua": "风地观",
+     "bian_gua": "水雷屯",
+     "chart_lines_top_to_bottom": [
+      "塍蛇        ▅▅▅▅▅ 妻财卯木   动 子孙子水",
+      "勾陈        ▅▅▅▅▅ 官鬼巳火",
+      "朱雀        ▅▅ ▅▅ 父母未土 世",
+      "青龙        ▅▅ ▅▅ 妻财卯木",
+      "玄武        ▅▅ ▅▅ 官鬼巳火",
+      "白虎 子孙子水 ▅▅ ▅▅ 父母未土 应 动 子孙子水"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "应临白虎克之，白虎主刀枪，乃是被枪决之象",
+   "outcome_record": "其子果然是犯刑入狱，被判死刑，缓期两年执行",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "结局段续载96年严打重审于巳月枪决、较断语午月应期提前一月，逐字并列登记",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-099",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十五章《三刑辨义》例七",
+   "input_fields": {
+    "question": "测外语书不见，能找到否",
+    "asked_at": "丁丑年丙午月乙酉日",
+    "chart": {
+     "ben_gua": "风天小畜",
+     "bian_gua": "水天需",
+     "chart_lines_top_to_bottom": [
+      "玄武 ▅▅▅▅▅ 兄弟卯木     动 父母子水",
+      "白虎 ▅▅▅▅▅ 子孙巳火",
+      "塍蛇 ▅▅ ▅▅ 妻财未土 应",
+      "勾陈 ▅▅▅▅▅ 妻财辰土",
+      "朱雀 ▅▅▅▅▅ 兄弟寅木",
+      "青龙 ▅▅▅▅▅ 父母子水 世"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "父母子水在初爻，书被藏在比较低的地方",
+   "outcome_record": "结果当日酉时，他在值班室的柜子最底层一团棉花下，找到了书，原来包的书皮被人扯掉了",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-100",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十六章《反吟辨义》例一",
+   "input_fields": {
+    "question": "测搞对象（某男）",
+    "asked_at": "丁丑年（97年）庚戌月戊戌日",
+    "chart": {
+     "ben_gua": "雷地豫",
+     "bian_gua": "雷风恒",
+     "chart_lines_top_to_bottom": [
+      "朱雀 ▅▅ ▅▅ 妻财戌土",
+      "青龙 ▅▅ ▅▅ 官鬼申金",
+      "玄武 ▅▅▅▅▅ 子孙午火 应",
+      "白虎 ▅▅ ▅▅ 兄弟卯木      动 官鬼酉金",
+      "螣蛇 ▅▅ ▅▅ 子孙巳火      动 父母亥水",
+      "勾陈 ▅▅ ▅▅ 妻财未土 世"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "妻财旺相持世，又是六合卦，此婚可成",
+   "outcome_record": "以上所断皆验，二人于 98 年酉月结婚",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "断语领证应期作98戊寅合亥、结局作98年酉月结婚，年份合、月份异，逐字并列登记",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-101",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十六章《反吟辨义》例二",
+   "input_fields": {
+    "question": "测找厂长办事如何",
+    "asked_at": "丙子年（96年）甲午月乙未日",
+    "chart": {
+     "ben_gua": "风火家人",
+     "bian_gua": "地山谦",
+     "chart_lines_top_to_bottom": [
+      "玄武        ▅▅▅▅▅ 兄弟卯木    动 官鬼酉金",
+      "白虎        ▅▅▅▅▅ 子孙巳火 应 动 父母亥水",
+      "螣蛇        ▅▅ ▅▅ 妻财未土",
+      "勾陈 官鬼酉金 ▅▅▅▅▅ 父母亥水",
+      "朱雀        ▅▅ ▅▅ 妻财丑土 世",
+      "青龙        ▅▅▅▅▅ 兄弟卯木    动 妻财辰土"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "应爻动而生世，求其办事，对方肯定答应",
+   "outcome_record": "此人告知，他拿一条烟去找厂长办事，厂长一点也没犹豫就答应了",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-102",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十六章《反吟辨义》例三",
+   "input_fields": {
+    "question": "测与某男关系（某女）",
+    "asked_at": "丁丑年（97年）辛亥月壬戌日",
+    "chart": {
+     "ben_gua": "风天小畜",
+     "bian_gua": "地天泰",
+     "chart_lines_top_to_bottom": [
+      "白虎        ▅▅▅▅▅ 兄弟卯木    动 官鬼酉金",
+      "螣蛇        ▅▅▅▅▅ 子孙巳火    动 父母亥水",
+      "勾陈        ▅▅ ▅▅ 妻财未土 应",
+      "朱雀 官鬼酉金 ▅▅▅▅▅ 妻财辰土",
+      "青龙        ▅▅▅▅▅ 兄弟寅木",
+      "玄武        ▅▅▅▅▅ 父母子水 世"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "应爻临财克世，对方给自己造成很大的经济压力",
+   "outcome_record": "此男果然是她养的一个小白脸，每过一段时间，就以各种借口向她要钱，每年因此耗财一、二十万",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：关系现状回溯核实，无前向结局",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-103",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十六章《反吟辨义》例四",
+   "input_fields": {
+    "question": "电话测老婆哪一天生孩子（某男）",
+    "asked_at": "壬午年（2002年）辛亥月戊申日",
+    "chart": {
+     "ben_gua": "风雷益",
+     "bian_gua": "地泽临",
+     "chart_lines_top_to_bottom": [
+      "螣蛇 ▅▅▅▅▅ 兄弟卯木 应 动 官鬼酉金",
+      "勾陈 ▅▅▅▅▅ 子孙巳火      动 父母亥水",
+      "朱雀 ▅▅ ▅▅ 妻财未土",
+      "青龙 ▅▅ ▅▅ 妻财辰土 世",
+      "玄武 ▅▅ ▅▅ 兄弟寅木      动 兄弟卯木",
+      "白虎 ▅▅▅▅▅ 父母子水"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "用神子孙巳火月破，本月难生，需出月不破，到子月才能生下来",
+   "outcome_record": "后于子月庚申日剖腹产生下一个男孩",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-104",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十六章《反吟辨义》例五",
+   "input_fields": {
+    "question": "测父病（某男）",
+    "asked_at": "壬午年庚戌月辛未日",
+    "chart": {
+     "ben_gua": "天风姤",
+     "bian_gua": "天地否",
+     "chart_lines_top_to_bottom": [
+      "螣蛇 ▅▅▅▅▅ 父母戌土",
+      "勾陈 ▅▅▅▅▅ 兄弟申金",
+      "朱雀 ▅▅▅▅▅ 官鬼午火 应",
+      "青龙 ▅▅▅▅▅ 兄弟酉金      动 妻财卯木",
+      "玄武 ▅▅▅▅▅ 子孙亥水      动 官鬼巳火",
+      "白虎 ▅▅ ▅▅ 父母丑土 世"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "用神在六爻空不受生，六爻主头，卦在乾宫也主头，是头部有病",
+   "outcome_record": "他说他父亲主要是高血压和甲亢，手脚麻木发抖，晚上失眠睡不好觉，每天靠吃安眠药维持",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "诊断核实型；「防丙戌年用神实空为凶」前向段未验，不入断语",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-105",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十七章《伏吟辨义》例一",
+   "input_fields": {
+    "question": "测儿子将来考高中如何（某女士）",
+    "asked_at": "寅年甲寅月癸未日（原文年柱仅作「寅年」）",
+    "chart": {
+     "ben_gua": "雷天大壮",
+     "bian_gua": "地雷复",
+     "chart_lines_top_to_bottom": [
+      "白虎 ▅▅ ▅▅ 兄弟戌土",
+      "螣蛇 ▅▅ ▅▅ 子孙申金",
+      "勾陈 ▅▅▅▅▅ 父母午火 世 动 兄弟丑土",
+      "朱雀 ▅▅▅▅▅ 兄弟辰土     动 兄弟辰土",
+      "青龙 ▅▅▅▅▅ 官鬼寅木     动 官鬼寅木",
+      "玄武 ▅▅▅▅▅ 妻财子水 应"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "断其孩子考高中一次考不上，需留级或补考",
+   "outcome_record": "后庚辰年考高中，其子就在考试的前一天出走了，等找回来，考试时间已过",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "锚点：月建（甲寅月）与日辰（癸未日）在场，年柱简写不碍锚点定式，照录登记",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-106",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十七章《伏吟辨义》例二",
+   "input_fields": {
+    "question": "测流年（某老妇，86岁）",
+    "asked_at": "戊寅年丙辰月癸巳日",
+    "chart": {
+     "ben_gua": "地天泰",
+     "bian_gua": "水雷屯",
+     "chart_lines_top_to_bottom": [
+      "白虎 ▅▅ ▅▅ 子孙酉金 应",
+      "螣蛇 ▅▅ ▅▅ 妻财亥水     动 兄弟戌土",
+      "勾陈 ▅▅ ▅▅ 兄弟丑土",
+      "朱雀 ▅▅▅▅▅ 兄弟辰土 世 动 兄弟辰土",
+      "青龙 ▅▅▅▅▅ 官鬼寅木     动 官鬼寅木",
+      "玄武 ▅▅▅▅▅ 妻财子水"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "忌神动而被合，防申月冲开不利",
+   "outcome_record": "当年腿部莫名其妙地发肿，行走不便，治疗了一个多月才好，但因此了年纪，本人忘 了是几月腿肿的",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：流年回溯自述为主；腿肿月份本人已忘、申月应期未核实",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-107",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十七章《伏吟辨义》例三",
+   "input_fields": {
+    "question": "去取订做的衣服、裁缝不在，看何时人在",
+    "asked_at": "乙亥年癸巳月丙辰日",
+    "chart": {
+     "ben_gua": "雷水解",
+     "bian_gua": "天泽履",
+     "chart_lines_top_to_bottom": [
+      "青龙      ▅▅ ▅▅ 妻财戌土    ×→ 妻财戌土",
+      "玄武      ▅▅ ▅▅ 官鬼申金 应 ×→ 官鬼申金",
+      "白虎      ▅▅▅▅▅ 子孙午火",
+      "螣蛇      ▅▅ ▅▅ 子孙午火",
+      "勾陈      ▅▅▅▅▅ 妻财辰土 世",
+      "朱雀 父母子水 ▅▅ ▅▅ 兄弟寅木    ×→ 子孙巳火"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "父母子水伏而空亡，午时冲出冲实，午时云取定可到手",
+   "outcome_record": "午时去取时，裁缝从柜台底下拿出，因做得不合适，与其发生争执，重新修改后取走",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "断语「午时云取」为原文录入讹字，照录登记",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-108",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十七章《伏吟辨义》例四",
+   "input_fields": {
+    "question": "丢钱，测能找到否（某男）",
+    "asked_at": "丙子年癸巳月甲寅日",
+    "chart": {
+     "ben_gua": "天山遁",
+     "bian_gua": "雷山小过",
+     "chart_lines_top_to_bottom": [
+      "玄武      ▅▅▅▅▅ 父母戌土    ○→ 父母戌土",
+      "白虎      ▅▅▅▅▅ 兄弟申金 应 ○→ 兄弟申金",
+      "螣蛇      ▅▅▅▅▅ 官鬼午火",
+      "勾陈      ▅▅▅▅▅ 兄弟申金",
+      "朱雀 妻财寅木 ▅▅ ▅▅ 官鬼午火 世",
+      "青龙      ▅▅ ▅▅ 父母辰土"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "断钱在办公室的写字台下",
+   "outcome_record": "他马上回到办公室，在写字台下找到了丢失的一百元钱",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-109",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十七章《伏吟辨义》例五",
+   "input_fields": {
+    "question": "测小儿病（某男）",
+    "asked_at": "丙子年庚子月壬午日",
+    "chart": {
+     "ben_gua": "火雷噬嗑",
+     "bian_gua": "乾为天",
+     "chart_lines_top_to_bottom": [
+      "白虎 ▅▅▅▅▅ 子孙巳火",
+      "螣蛇 ▅▅ ▅▅ 妻财未土 世 ×→ 官鬼申金",
+      "勾陈 ▅▅▅▅▅ 官鬼酉金",
+      "朱雀 ▅▅ ▅▅ 妻财辰土    ×→ 妻财辰土",
+      "青龙 ▅▅ ▅▅ 兄弟寅木 应 ×→ 兄弟寅木",
+      "玄武 ▅▅▅▅▅ 父母子水"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "子孙临日不药而愈，无须就医",
+   "outcome_record": "小儿果是吃奶时呛了一下，啼哭不止，疑是肺炎，结果不是",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "诊断核实型",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-110",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十七章《伏吟辨义》例六",
+   "input_fields": {
+    "question": "测工作调动（某女）",
+    "asked_at": "丁丑年丁未月辛未日",
+    "chart": {
+     "ben_gua": "风天小畜",
+     "bian_gua": "天雷无妄",
+     "chart_lines_top_to_bottom": [
+      "螣蛇      ▅▅▅▅▅ 兄弟卯木",
+      "勾陈      ▅▅▅▅▅ 子孙巳火",
+      "朱雀      ▅▅ ▅▅ 妻财未土 应 ×→ 子孙午火",
+      "青龙 官鬼酉金 ▅▅▅▅▅ 妻财辰土   ○→ 妻财辰土",
+      "玄武      ▅▅▅▅▅ 兄弟寅木   ○→ 兄弟寅木",
+      "白虎      ▅▅▅▅▅ 父母子水 世"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "官鬼酉金不上卦，伏在三爻妻财辰土之下，虽得日月相生旺相，伏而被合，又化六冲，难以调动",
+   "outcome_record": "在单位处境正如所测，工作没调动成，后于壬午年内退",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-111",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十八章《论方局》例一",
+   "input_fields": {
+    "question": "电话中测开饭店如何（某女，王代摇）",
+    "asked_at": "已卯年戊辰月辛丑日（原文「已卯」）",
+    "chart": {
+     "ben_gua": "水风井",
+     "bian_gua": "",
+     "chart_lines_top_to_bottom": [
+      "螣蛇 ▅▅ ▅▅ 父母子水",
+      "勾陈 ▅▅▅▅▅ 妻财戌土 世",
+      "朱雀 ▅▅ ▅▅ 官鬼申金",
+      "青龙 ▅▅▅▅▅ 官鬼酉金",
+      "玄武 ▅▅▅▅▅ 父母亥水 应",
+      "白虎 ▅▅ ▅▅ 妻财丑土"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "此卦虽然日月都是妻财，但用神月破，元神休囚不在卦中，定难赢利",
+   "outcome_record": "我劝其别开，但最后还是开了，结果午月因拓宽马路，店面被拆，连本钱都没回来",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": true,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "A",
+   "eligible_net": true,
+   "fail_reason": "",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-112",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十八章《论方局》例二",
+   "input_fields": {
+    "question": "测婚（某女）",
+    "asked_at": "戊寅年庚申月壬辰日",
+    "chart": {
+     "ben_gua": "山风蛊",
+     "bian_gua": "山水蒙",
+     "chart_lines_top_to_bottom": [
+      "白虎 ▅▅▅▅▅ 兄弟寅木 应",
+      "螣蛇 ▅▅ ▅▅ 父母子水",
+      "勾陈 ▅▅ ▅▅ 妻财戌土",
+      "朱雀 ▅▅▅▅▅ 官鬼酉金 世 动 子孙午火",
+      "青龙 ▅▅▅▅▅ 父母亥水",
+      "玄武 ▅▅ ▅▅ 妻财丑土"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "98 年已卯冲开，当有再婚之喜，但官鬼动化回头克，化空，很难有如意婚姻",
+   "outcome_record": "断完问之，其夫果然是被常去她家的同学勾跑了， 88 年结婚，89 年生儿子，94 年丈夫外遇，95 年和她离异。98 年虽有介绍对象的，但不合心意未成",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：主体为婚姻史回溯核实；前向「再婚之喜」未成（仅介绍对象未成），无成立之前向结局",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  },
+  {
+   "provisional_id": "GSZ-113",
+   "tradition": "liuyao",
+   "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十八章《论方局》例三",
+   "input_fields": {
+    "question": "测其母房子何时可以盖好（五台山某女）",
+    "asked_at": "庚辰年癸未月乙未日",
+    "chart": {
+     "ben_gua": "风水涣",
+     "bian_gua": "",
+     "chart_lines_top_to_bottom": [
+      "玄武        ▅▅▅▅▅ 父母卯木",
+      "白虎        ▅▅▅▅▅ 兄弟巳火 世",
+      "螣蛇        ▅▅ ▅▅ 子孙未土",
+      "勾陈 官鬼亥水 ▅▅ ▅▅ 兄弟午火",
+      "朱雀        ▅▅▅▅▅ 子孙辰土 应",
+      "青龙        ▅▅ ▅▅ 父母寅木"
+     ]
+    }
+   },
+   "subject": "",
+   "master_prediction": "我见元神官鬼亥水不在卦中，马上断其母亲连地基还没批下。本年亥月批下，次年巳月动工盖房",
+   "outcome_record": "以上推断全部应验",
+   "outcome_type": "none_or_retrospective",
+   "pollution": "low",
+   "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+   "filters": {
+    "verbatim_transcribable": true,
+    "independent_outcome": false,
+    "separable_prediction_outcome": true,
+    "not_high_pollution": true
+   },
+   "grade": "B",
+   "eligible_net": false,
+   "fail_reason": "独立结局滤：结局仅「以上推断全部应验」概括语，前向盖房时点（亥月批地基/次年巳月动工）无具体反馈",
+   "grade_note": "",
+   "transcription": "verbatim（文字版PDF文字层逐字转录）",
+   "transcription_confidence": "high"
+  }
+ ]
+}
