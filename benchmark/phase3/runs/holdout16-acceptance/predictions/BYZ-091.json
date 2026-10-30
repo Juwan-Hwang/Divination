@@ -4,9 +4,9 @@
  "basis": "systems_used=[大六壬]；戊辰日戌月巳时，甲子旬戌亥空（传支无空），三传官卯朱、鬼寅蛇、兄丑贵。失物门（第六节第2门）合DA-M20类神法：类神在传或加日辰定见、类神所临处为方向——末传丑乘贵人即其据；玄武阴神盘面未给，藏处只给方位层级不给户名（第八节降档）。应期日档，三路取类神逢值丑日，逢冲路未冲丑为备选，出空路无候选。方向以丑宫东北为据。",
  "confidence": 0.6,
  "trigger": {
-  "first": false,
-  "second": false,
-  "third": false,
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
   "reason": ""
  }
 }

@@ -4,9 +4,9 @@
  "basis": "systems_used=[大六壬]；壬午日巳月子时，甲戌旬申酉空，三传官戌白、财午后、子寅合。天时占参照DA-M21取象路与本章类象：雨以水神与龙武为凭，本例皆不入传乘传，依LR-QY-2只作雨据不足之读、不虚构雨期；中传午火临日支旺相主晴热（旺衰以巳月火旺推）。应期日档（近事），三路取末传逢值寅日为验晴坐标，逢冲/出空两路无候选。线性转录据三传首项作断。",
  "confidence": 0.55,
  "trigger": {
-  "first": false,
-  "second": false,
-  "third": false,
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
   "reason": ""
  }
 }
