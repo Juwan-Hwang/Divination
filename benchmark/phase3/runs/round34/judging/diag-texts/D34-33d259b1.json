@@ -1,0 +1,13 @@
+{
+ "case_id": "LR-001",
+ "prediction_text": "方向无据不断：本例无课盘可据，不能断定蒋介石在西安事变中的生死安危终局。仅据占题事实，其人被扣押、确有性命之虞，事态危急；无三传、四课、课式与空亡，六壬生死断无从落点，应期亦无据不报。",
+ "basis": "输入残损：inputs-dev10/LR-001.json 只有人物、背景与问句，无 attachments，无课式、四课、三传、天将、月将、占时干支与空亡。按 kb-snapshot SKILL.md 大六壬节与 chinese-liuren.md 第八节盘面不全规矩，无盘面不臆补天盘、四课与三传，故 systems_used 为空、置信大幅降低，不以占题之外的信息补断。",
+ "confidence": 0.15,
+ "systems_used": [],
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

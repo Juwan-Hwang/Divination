@@ -1,0 +1,13 @@
+{
+ "case_id": "LR-001",
+ "prediction_text": "方向：无据不断——盘面完全缺失，蒋介石此次生死安危无法据盘判定，不作生、死任何一向的断语，亦不给应期。仅就占题事实记：所问为被扣押中最高统帅之安危，属须待盘面（干支、课式、三传、天将、空亡俱全）方能入六壬行人／安危类细断的事件，本卡无一可据，故存疑待补盘。",
+ "basis": "输入残损（照实注明）：inputs-dev10/LR-001.json 只有 subject、context、provenance，无 asked_at 的干支时辰、无课式、无四课、无三传、无天将、无空亡、无月将。依 kb-diag-core SKILL.md 大六壬节与 chinese-liuren.md 第八节『盘面不全时的作断规矩』：三传、课格、空亡皆无即无可据者，干支彼我、生克链、类神、应期三路候选无一可立；不许臆补天盘、课式或自行起课（占时干支本身亦缺，无从起课）。故 systems_used 为空、置信降至最低，不以史事后见或其他体系填补。",
+ "confidence": 0.05,
+ "systems_used": [],
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

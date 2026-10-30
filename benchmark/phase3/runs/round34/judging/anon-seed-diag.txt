@@ -1,0 +1,2 @@
+diag anon_id random seed: 20261035
+method: random.Random(SEED) over entries sorted by (case_id, arm); anon = 'D34-%08x' % rng.getrandbits(32), redraw on collision.

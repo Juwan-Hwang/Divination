@@ -1,0 +1,302 @@
+[
+ {
+  "case_id": "LR-001",
+  "clan": "dev8",
+  "full": 0.0,
+  "core": 0.0,
+  "master": 5.0,
+  "pair_full": -5.0,
+  "pair_core": -5.0,
+  "delta": 0.0
+ },
+ {
+  "case_id": "LR2-013",
+  "clan": "dev8",
+  "full": 5.0,
+  "core": 4.75,
+  "master": 6.0,
+  "pair_full": -1.0,
+  "pair_core": -1.25,
+  "delta": 0.25
+ },
+ {
+  "case_id": "LR2-014",
+  "clan": "dev8",
+  "full": 3.5,
+  "core": 5.0,
+  "master": 5.5,
+  "pair_full": -2.0,
+  "pair_core": -0.5,
+  "delta": -1.5
+ },
+ {
+  "case_id": "LR2-015",
+  "clan": "dev8",
+  "full": 5.0,
+  "core": 5.0,
+  "master": 6.0,
+  "pair_full": -1.0,
+  "pair_core": -1.0,
+  "delta": 0.0
+ },
+ {
+  "case_id": "LR2-016",
+  "clan": "dev8",
+  "full": 3.5,
+  "core": 3.0,
+  "master": 5.0,
+  "pair_full": -1.5,
+  "pair_core": -2.0,
+  "delta": 0.5
+ },
+ {
+  "case_id": "LR2-017",
+  "clan": "dev8",
+  "full": 0.5,
+  "core": 0.5,
+  "master": 6.0,
+  "pair_full": -5.5,
+  "pair_core": -5.5,
+  "delta": 0.0
+ },
+ {
+  "case_id": "LR2-018",
+  "clan": "dev8",
+  "full": 5.0,
+  "core": 5.0,
+  "master": 5.0,
+  "pair_full": 0.0,
+  "pair_core": 0.0,
+  "delta": 0.0
+ },
+ {
+  "case_id": "LR2-019",
+  "clan": "dev8",
+  "full": 3.75,
+  "core": 4.25,
+  "master": 5.75,
+  "pair_full": -2.0,
+  "pair_core": -1.5,
+  "delta": -0.5
+ },
+ {
+  "case_id": "LR2-020",
+  "clan": "dev8",
+  "full": 4.5,
+  "core": 4.5,
+  "master": 3.5,
+  "pair_full": 1.0,
+  "pair_core": 1.0,
+  "delta": 0.0
+ },
+ {
+  "case_id": "LR2-021",
+  "clan": "dev8",
+  "full": 3.25,
+  "core": 3.25,
+  "master": 5.75,
+  "pair_full": -2.5,
+  "pair_core": -2.5,
+  "delta": 0.0
+ },
+ {
+  "case_id": "LR2-022",
+  "clan": "dev8",
+  "full": 6.0,
+  "core": 5.75,
+  "master": 6.0,
+  "pair_full": 0.0,
+  "pair_core": -0.25,
+  "delta": 0.25
+ },
+ {
+  "case_id": "LR2-023",
+  "clan": "dev8",
+  "full": 3.5,
+  "core": 3.5,
+  "master": 6.0,
+  "pair_full": -2.5,
+  "pair_core": -2.5,
+  "delta": 0.0
+ },
+ {
+  "case_id": "LR2-024",
+  "clan": "dev8",
+  "full": 0.0,
+  "core": 0.0,
+  "master": 5.5,
+  "pair_full": -5.5,
+  "pair_core": -5.5,
+  "delta": 0.0
+ },
+ {
+  "case_id": "LR3-002",
+  "clan": "lr3",
+  "full": 3.0,
+  "core": 3.0,
+  "master": 4.5,
+  "pair_full": -1.5,
+  "pair_core": -1.5,
+  "delta": 0.0
+ },
+ {
+  "case_id": "LR3-004",
+  "clan": "lr3",
+  "full": 0.5,
+  "core": 4.25,
+  "master": 3.25,
+  "pair_full": -2.75,
+  "pair_core": 1.0,
+  "delta": -3.75
+ },
+ {
+  "case_id": "LR3-006",
+  "clan": "lr3",
+  "full": 3.5,
+  "core": 3.0,
+  "master": 4.75,
+  "pair_full": -1.25,
+  "pair_core": -1.75,
+  "delta": 0.5
+ },
+ {
+  "case_id": "LR3-008",
+  "clan": "lr3",
+  "full": 2.75,
+  "core": 3.75,
+  "master": 5.0,
+  "pair_full": -2.25,
+  "pair_core": -1.25,
+  "delta": -1.0
+ },
+ {
+  "case_id": "LR3-010",
+  "clan": "lr3",
+  "full": 2.5,
+  "core": 2.5,
+  "master": 3.0,
+  "pair_full": -0.5,
+  "pair_core": -0.5,
+  "delta": 0.0
+ },
+ {
+  "case_id": "LR3-101",
+  "clan": "lr3",
+  "full": 1.0,
+  "core": 1.0,
+  "master": 5.0,
+  "pair_full": -4.0,
+  "pair_core": -4.0,
+  "delta": 0.0
+ },
+ {
+  "case_id": "LR3-104",
+  "clan": "lr3",
+  "full": 3.25,
+  "core": 1.75,
+  "master": 4.0,
+  "pair_full": -0.75,
+  "pair_core": -2.25,
+  "delta": 1.5
+ },
+ {
+  "case_id": "LR3-107",
+  "clan": "lr3",
+  "full": 2.5,
+  "core": 3.5,
+  "master": 4.0,
+  "pair_full": -1.5,
+  "pair_core": -0.5,
+  "delta": -1.0
+ },
+ {
+  "case_id": "LR3-110",
+  "clan": "lr3",
+  "full": 5.25,
+  "core": 5.25,
+  "master": 4.75,
+  "pair_full": 0.5,
+  "pair_core": 0.5,
+  "delta": 0.0
+ },
+ {
+  "case_id": "LR3-112",
+  "clan": "lr3",
+  "full": 1.5,
+  "core": 1.5,
+  "master": 2.25,
+  "pair_full": -0.75,
+  "pair_core": -0.75,
+  "delta": 0.0
+ },
+ {
+  "case_id": "LR3-114",
+  "clan": "lr3",
+  "full": 4.5,
+  "core": 2.0,
+  "master": 4.0,
+  "pair_full": 0.5,
+  "pair_core": -2.0,
+  "delta": 2.5
+ },
+ {
+  "case_id": "LR3-116",
+  "clan": "lr3",
+  "full": 2.0,
+  "core": 2.75,
+  "master": 4.0,
+  "pair_full": -2.0,
+  "pair_core": -1.25,
+  "delta": -0.75
+ },
+ {
+  "case_id": "OC-026",
+  "clan": "dev8",
+  "full": 2.0,
+  "core": 3.0,
+  "master": 6.0,
+  "pair_full": -4.0,
+  "pair_core": -3.0,
+  "delta": -1.0
+ },
+ {
+  "case_id": "OC-027",
+  "clan": "dev8",
+  "full": 3.0,
+  "core": 3.0,
+  "master": 4.75,
+  "pair_full": -1.75,
+  "pair_core": -1.75,
+  "delta": 0.0
+ },
+ {
+  "case_id": "OC-028",
+  "clan": "dev8",
+  "full": 4.5,
+  "core": 4.5,
+  "master": 3.0,
+  "pair_full": 1.5,
+  "pair_core": 1.5,
+  "delta": 0.0
+ },
+ {
+  "case_id": "OC-029",
+  "clan": "dev8",
+  "full": 4.5,
+  "core": 3.0,
+  "master": 5.25,
+  "pair_full": -0.75,
+  "pair_core": -2.25,
+  "delta": 1.5
+ },
+ {
+  "case_id": "OC-030",
+  "clan": "dev8",
+  "full": 3.0,
+  "core": 3.0,
+  "master": 5.5,
+  "pair_full": -2.5,
+  "pair_core": -2.5,
+  "delta": 0.0
+ }
+]
