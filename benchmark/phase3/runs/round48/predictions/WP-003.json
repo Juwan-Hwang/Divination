@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-003",
+ "prediction_text": "Direction: Incumbent Barack Obama is re-elected in 2012, defeating Mitt Romney. Mercury turning retrograde on election day repeats the signature of a confused, delayed count rather than a change of winner; incumbency holds through the muddle, with recount-style disputes and slow reporting but no reversal of the outcome. Timing in days: election 6 November 2012, main coordinate the election-night/next-day count confirming Obama.",
+ "basis": "Western mundane/electional astrology: Mercury retrograde beginning on election day as given in the setting, read as count confusion not incumbent defeat; competitive polling noted as limiting confidence. Method used: western astrology.",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

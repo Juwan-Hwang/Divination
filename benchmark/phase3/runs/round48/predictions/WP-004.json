@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "Direction: The conference panel consensus points to Hillary Clinton winning the 2016 election. A forecasting panel at an international astrology conference, weighing the two charts against the 8 November election, lands by majority on the poll-leading Democrat rather than on the outsider; the panel's collective call is Clinton to become president. Timing in days: election day 8 November 2016, main coordinate that day's result.",
+ "basis": "Western mundane astrology (panel consensus as the master prediction under test): the input identifies only the panel and the poll context, no individual dissenting astrologer is singled out in this case, so the prediction recorded is the panel's majority call. Method used: western astrology.",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
