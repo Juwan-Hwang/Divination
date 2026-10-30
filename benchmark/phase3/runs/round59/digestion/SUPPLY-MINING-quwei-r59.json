@@ -1,0 +1,225 @@
+{
+ "batch": "Phase3 Round59 数据/开采席·QW 未尽面续抽（《详批命例精解》R56 台账未覆盖例面）",
+ "source_file": "/home/hatch/workspace/divination/incoming/wanted-books-4/Book/详批命例精解 (曲炜著).txt",
+ "source_sha256": "6da0e3848f04ee00159b13e375a6cde169426c54bf0b0354b165240752e3d37b",
+ "source_sha256_matches_r56_ledger": true,
+ "provenance": "用户经学校图书馆提供",
+ "redistributable": false,
+ "line_numbering": "TXT 行尾归一化（\\r\\n、\\r -> \\n）后共 5439 行，与 R56 台账／R57 复核同口径",
+ "numbering_note": "派单称新 id 自 QW-018 起；盘面核对：R56 台账 SUPPLY-MINING-quwei-r56.json 已占用 QW-001–QW-034（QW-018–QW-034 为面测／摘选 partial 17 例，R57 SUPPLY-RECHECK 已逐例复核维持 partial），历轮登记档 grep QW-035–QW-038 零命中，故新号自 QW-035 起。此项与派单字面冲突，以盘面为准并登记，提请主持知悉。",
+ "coverage_note": "全书 37 篇 38 造：函测 17 篇（QW-001–017）、面测 12 篇、摘选 8 篇 9 造（QW-018–034 共 34 造入账）；未覆盖面恰为 R56 滤二剔除 4 造（面测命例六、摘选命例一、摘选命例四、摘选命例五），无其他未抽例面（篇目清点：正文篇题行逐行核毕，函测一至十七、面测一至十二、摘选一至八俱全，见 DIGEST-bazi-quwei-r56 §一）。",
+ "count": {
+  "registered": 4,
+  "four_filter_pass_net": 1,
+  "filter2_fail_registered_only": 3,
+  "anchor_present": 0,
+  "anchor_partial": 4,
+  "optional_pool_increment": 0
+ },
+ "entries": [
+  {
+   "provisional_id": "QW-035",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·面测命例六",
+   "input_fields": {
+    "id": "QW-035",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（面测命例六命主）",
+     "basic_info": "男，四柱：戊午 癸亥 乙酉 癸未",
+     "gender": "男",
+     "birth_info_verbatim": "未载出生日期与时辰（面测／摘选诸例通例，承 DIGEST-bazi-quwei-r56 §1.2；本篇命头仅干造／坤造＋四柱，无出生年月日时原文）"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "约2003年以前（原书前言落款 2003 年 9 月；本篇未载求测年份）",
+     "setting": "面测（简测）：求测者当面求测，作者先断六条、命主当场反馈，篇末附「释」逐条讲解（断语与释可分离，outcome 只取反馈与实际情况段）",
+     "attachments": {
+      "pillars": [
+       "戊午",
+       "癸亥",
+       "乙酉",
+       "癸未"
+      ],
+      "day_master": "乙木"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST-bazi-quwei-r56 §1.4）；用户经学校图书馆提供；redistributable=false",
+     "location": "第二部分·面测命例六（TXT 归一化第4517行起）"
+    },
+    "redistributable": false
+   },
+   "master_prediction": "l、父亲是二婚之人，自己有继母，有异腹手足。\n2、兄弟姐妹有损，即有早亡现象。\n3、父亲寿长母寿短，母亲去世得早，不是83年癸亥就是84年甲子去世的。\n4、父亲掌点权，但官不大。\n5、96年当兵，99年退役。\n6、出年时住家房子后面有比较大的水域，例如江河湖海之类；房子右前面有菜园之类田园之地，房子左前而有果树。",
+   "outcome_record": "六条断毕，反馈说真准。\n实际情况是：父亲是当地镇政府副书记。母亲死得早，83年母亲就去世了，当时他6虚岁。后来父亲与他现在的继母结婚，继母过来还带来个男孩，这个男孩比自己大。兄弟姐妹中他身上有一个亲姐姐夭折。的确是96年当兵，99年退役。住家出生地后面就是大海，前面靠右是菜园子，靠左是苹果园。",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某地），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（自选「断准」性质属判级面事项、非污染面，承 R56 DIGEST §四.1）",
+   "anchor_presence": "partial",
+   "anchor_note": "四柱全列＋性别（干造）俱在，但出生年月日时原文未载，时柱无从由出生信息独立复排（面测通例）",
+   "dedup_check": "四柱+性别对勘 inputs-dev12 全部 31 张 BZ 卡：命中 零命中；id 级对勘已用并集 n=976（dev9 键集＋holdout3–21 金标仅取 id 字段＋phase2 splits2 之 holdout2 id）：QW-035 零命中；编号占用核对：QW-001–034 已为 R56 台账占用（QW-018–034 为 partial 17 例、R57 已复核维持），历轮登记档（runs/round5*/digestion/*.md、*.json）grep QW-035–QW-038 零命中，故新号自 QW-035 起（派单「QW-018 起」与盘面占用冲突，以盘面为准并登记）。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；转录误字照录）",
+    "independent_outcome": "pass（反馈后紧接「实际情况是：」一段独立成文，逐项复述可核人事事件并增载断语外细节：父为当地镇政府副书记、母 83 年去世时命主 6 虚岁、继母携一长子改嫁、亲姐姐夭折、96 年当兵 99 年退役、出生地房后大海／右前菜园／左前苹果园）",
+    "separable": "pass（命头四柱在篇首独立成段，断语与反馈在文中分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   },
+   "eligible_net": true,
+   "verdict_note": "四滤全过、净登记入账；锚点 partial，不入可选集（承 R56 锚点口径）。",
+   "filter2_note": "与 R56 剔除登记分歧并列登记：R56 开采件称本篇「反馈仅『六条断毕，反馈说真准』一语，无任何事实复述」——本席回 TXT 原文（归一化第 4553–4555 行）实见该语之后另有「实际情况是：」整段事实复述，R56 登记与原文不合；处置承 WHY-098 先例（R57 复核 R56 风水例二「无应验段」登记有误、按实入账并并列登记）：按原文实据判滤二 pass，R56 原文不动、分歧在此明示，终裁归主持。"
+  },
+  {
+   "provisional_id": "QW-036",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·摘选命例一",
+   "input_fields": {
+    "id": "QW-036",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（摘选命例一命主）",
+     "basic_info": "男，四柱：壬寅 丙午 己丑 丙寅",
+     "gender": "男",
+     "birth_info_verbatim": "未载出生日期与时辰（面测／摘选诸例通例，承 DIGEST-bazi-quwei-r56 §1.2；本篇命头仅干造／坤造＋四柱，无出生年月日时原文）"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "2002年壬午（原文：此造2002年壬午，来中心求测）",
+     "setting": "面测（摘选自作者前书）：命主来中心求测，作者就六亲一事开诚直断，命主当场回应，篇末附「分析」讲解",
+     "attachments": {
+      "pillars": [
+       "壬寅",
+       "丙午",
+       "己丑",
+       "丙寅"
+      ],
+      "day_master": "己土"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST-bazi-quwei-r56 §1.4）；用户经学校图书馆提供；redistributable=false",
+     "location": "第三部分·摘选命例一（TXT 归一化第5159行起）"
+    },
+    "redistributable": false
+   },
+   "master_prediction": "此造2002年壬午，来中心求测，在六亲问题上，笔者开诚布公地说：  “您一生受母亲影响最大，您母亲处处关心你、爱护你，生怕你出了什么事，前前后后总围着你转，本是你妻子应尽的责任和义务你母亲也插手，管你们之间的事。这事儿，该管的管，不该管的她也管，致使婆媳关系不和，您也无奈。这是其一；其二，你母亲出于爱护角度，对你事业前途也是处处干涉，不让你干这，不让你干那，说千这有危险，干那太劳累，到外地又不放心．于是紧紧地把你捆在眼前，生怕你飞走了。你想干的事不能干，你有很多机遇因母亲的阻拦都错过去了．你因此很苦恼。你父亲没有多大能耐，母亲支撑着这个家，家里家外都要忙活，都要说了算。从命局看根本显现不出父亲的作用，因为你偏财星——父亲在命局不现。所以父亲一生对你影响不大……你今天来此是不是想看看你这次机遇能否还会受到母亲的干涉?”",
+   "outcome_record": "一番话语，直入对方心扉：“太对了！你好象认识我一样，好象趴在我家里看着似的，你说得全对!就是为这事，我拿我妈没办法，你看怎么办?”",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某地），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（自选「断准」性质属判级面事项、非污染面，承 R56 DIGEST §四.1）",
+   "anchor_presence": "partial",
+   "anchor_note": "四柱全列＋性别（干造）俱在，但出生年月日时原文未载，无从独立复排（摘选通例；本篇未附大运）",
+   "dedup_check": "四柱+性别对勘 inputs-dev12 全部 31 张 BZ 卡：命中 零命中；id 级对勘已用并集 n=976（dev9 键集＋holdout3–21 金标仅取 id 字段＋phase2 splits2 之 holdout2 id）：QW-036 零命中；编号占用核对：QW-001–034 已为 R56 台账占用（QW-018–034 为 partial 17 例、R57 已复核维持），历轮登记档（runs/round5*/digestion/*.md、*.json）grep QW-035–QW-038 零命中，故新号自 QW-035 起（派单「QW-018 起」与盘面占用冲突，以盘面为准并登记）。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；转录误字照录）",
+    "independent_outcome": "fail（反馈仅「太对了！……你说得全对！就是为这事」式概括确认，母亲干涉、婆媳不和、父无能等事实只存于断语，无命主自述复述的可核结局事件）",
+    "separable": "pass（命头四柱在篇首独立成段，断语与反馈在文中分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   },
+   "eligible_net": false,
+   "verdict_note": "滤二未过，只登记、不入可选集（承 R56 剔除口径复核维持）。",
+   "filter2_note": "与 R56 剔除登记一致，本席回原文（归一化第 5179 行）复核成立：全篇无独立事实复述段。"
+  },
+  {
+   "provisional_id": "QW-037",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·摘选命例四",
+   "input_fields": {
+    "id": "QW-037",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（摘选命例四命主）",
+     "basic_info": "男，四柱：己酉 丁卯 壬子 丙午",
+     "gender": "男",
+     "birth_info_verbatim": "未载出生日期与时辰（面测／摘选诸例通例，承 DIGEST-bazi-quwei-r56 §1.2；本篇命头仅干造／坤造＋四柱，无出生年月日时原文）"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "2002年壬午（原文：这个命主2002年壬午，远道慕名来本中心测运气）",
+     "setting": "面测（摘选自作者前书）：命主远道来中心测运气，作者未析旺衰、据婚姻信息立即直断，命主当场反馈，篇后附讲解",
+     "attachments": {
+      "pillars": [
+       "己酉",
+       "丁卯",
+       "壬子",
+       "丙午"
+      ],
+      "day_master": "壬水"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST-bazi-quwei-r56 §1.4）；用户经学校图书馆提供；redistributable=false",
+     "location": "第三部分·摘选命例四（TXT 归一化第5275行起）"
+    },
+    "redistributable": false
+   },
+   "master_prediction": "您是个早婚的命，婚前你没有乱搞男女关系，夫妻关系以前很好，但后来你有外遇，导致您的婚姻有危机，出现感情纠葛，而且跟你有外遇的这些女人大都是年龄比你妻子小得多，不是比你妻子漂亮就是比你妻子有能力，你这次来八成是为了婚姻之事而来的吧?",
+   "outcome_record": "果然名不虚传!就是为此事而来。我的婚姻状况和你说的一样，你看我该怎样处理?",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某地），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（自选「断准」性质属判级面事项、非污染面，承 R56 DIGEST §四.1）",
+   "anchor_presence": "partial",
+   "anchor_note": "四柱全列＋性别（干造）俱在，但出生年月日时原文未载，无从独立复排（摘选通例；本篇未附大运）",
+   "dedup_check": "四柱+性别对勘 inputs-dev12 全部 31 张 BZ 卡：命中 零命中；id 级对勘已用并集 n=976（dev9 键集＋holdout3–21 金标仅取 id 字段＋phase2 splits2 之 holdout2 id）：QW-037 零命中；编号占用核对：QW-001–034 已为 R56 台账占用（QW-018–034 为 partial 17 例、R57 已复核维持），历轮登记档（runs/round5*/digestion/*.md、*.json）grep QW-035–QW-038 零命中，故新号自 QW-035 起（派单「QW-018 起」与盘面占用冲突，以盘面为准并登记）。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；转录误字照录）",
+    "independent_outcome": "fail（反馈仅「我的婚姻状况和你说的一样」式概括确认，早婚、外遇、婚姻危机等事实只存于断语，无独立结局复述）",
+    "separable": "pass（命头四柱在篇首独立成段，断语与反馈在文中分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   },
+   "eligible_net": false,
+   "verdict_note": "滤二未过，只登记、不入可选集（承 R56 剔除口径复核维持）。",
+   "filter2_note": "与 R56 剔除登记一致，本席回原文（归一化第 5285 行）复核成立。原文「事子」为「妻子」之转录误字，照录（承 DIGEST §1.4）。"
+  },
+  {
+   "provisional_id": "QW-038",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·摘选命例五",
+   "input_fields": {
+    "id": "QW-038",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（摘选命例五命主）",
+     "basic_info": "女，四柱：丁亥 甲辰 辛巳 戊戌",
+     "gender": "女",
+     "birth_info_verbatim": "未载出生日期与时辰（面测／摘选诸例通例，承 DIGEST-bazi-quwei-r56 §1.2；本篇命头仅干造／坤造＋四柱，无出生年月日时原文）"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "2001年春（原文：此造命主2001年春从外地来求测）",
+     "setting": "面测（摘选自作者前书）：命主自外地来求测，作者就婚姻问题断四条，命主当场回应，篇后附长篇讲解与方法论自述",
+     "attachments": {
+      "pillars": [
+       "丁亥",
+       "甲辰",
+       "辛巳",
+       "戊戌"
+      ],
+      "day_master": "辛金"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST-bazi-quwei-r56 §1.4）；用户经学校图书馆提供；redistributable=false",
+     "location": "第三部分·摘选命例五（TXT 归一化第5301行起）"
+    },
+    "redistributable": false
+   },
+   "master_prediction": "1、未婚前先破身，而且这个男的不是自己的丈夫，此男有牢狱之灾，大概因此事使你们无缘夫妻。\n2、你现在的丈夫二生不得志、多忧少乐。\n3、你丈夫不是爱好玄学、数术就是信佛、道之教。你本人也信奉此类之事。\n4、今天您不是为疾病之事而来就是为婚姻或丈夫之事而来。",
+   "outcome_record": "命主听我断完此四条，很是惊讶，说这四条都对，尤其是第一条和第四条，问我是怎么算出来的。她不好意思地告诉我，她和丈夫也在学这个。后来一再要求跟我学预测，我答应了，但由于业务太忙，一直没有让他们过来学。",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某地），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（自选「断准」性质属判级面事项、非污染面，承 R56 DIGEST §四.1）",
+   "anchor_presence": "partial",
+   "anchor_note": "四柱全列＋性别（坤造）俱在，但出生年月日时原文未载，无从独立复排（摘选通例；本篇未附大运）",
+   "dedup_check": "四柱+性别对勘 inputs-dev12 全部 31 张 BZ 卡：命中 零命中；id 级对勘已用并集 n=976（dev9 键集＋holdout3–21 金标仅取 id 字段＋phase2 splits2 之 holdout2 id）：QW-038 零命中；编号占用核对：QW-001–034 已为 R56 台账占用（QW-018–034 为 partial 17 例、R57 已复核维持），历轮登记档（runs/round5*/digestion/*.md、*.json）grep QW-035–QW-038 零命中，故新号自 QW-035 起（派单「QW-018 起」与盘面占用冲突，以盘面为准并登记）。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；转录误字照录）",
+    "independent_outcome": "fail（反馈仅「这四条都对」式概括确认及「她和丈夫也在学这个」一语，未婚先破身、情人牢狱、丈夫不得志等事实无命主复述核对，无独立结局可录）",
+    "separable": "pass（命头四柱在篇首独立成段，断语与反馈在文中分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   },
+   "eligible_net": false,
+   "verdict_note": "滤二未过，只登记、不入可选集（承 R56 剔除口径复核维持）。",
+   "filter2_note": "与 R56 剔除登记一致，本席回原文（归一化第 5321 行）复核成立。"
+  }
+ ]
+}
