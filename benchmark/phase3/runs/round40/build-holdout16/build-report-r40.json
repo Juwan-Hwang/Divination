@@ -1,0 +1,450 @@
+{
+  "counts": {
+    "测字": 20,
+    "辨疑": 10,
+    "预测学": 3,
+    "断案": 7,
+    "total": 40
+  },
+  "gold_sha256": "2040c63e3d3ba6481a84507880eba27a2aae6b7e8b8f78c1327a84c4c35f3e10",
+  "dedup": {
+    "ref_triples": 663,
+    "hits": 0,
+    "weak_hits": 0
+  },
+  "da_parse": {
+    "DA-030": {
+      "title": "30.徐大夫乙丑生占家宅",
+      "三传": "财甲申（合）；子己丑（阴）；兄午（青）",
+      "月将": "子将",
+      "旬空": "甲申旬，午未空",
+      "年命": "本命乙丑",
+      "对勘断语片段": "母当六月亡妻"
+    },
+    "DA-045": {
+      "title": "45.何秀才己未生五十一岁占应试",
+      "三传": "财戊寅（虎）；官辛巳（阴）；兄申（蛇）",
+      "月将": "子将",
+      "旬空": "甲戌旬，申酉空",
+      "年命": "本命己未",
+      "对勘断语片段": "又不中惟令郎"
+    },
+    "DA-106": {
+      "title": "106.王解元辛丑生六十八岁占终身",
+      "三传": "财乙酉（贵）；子未（阴）；兄癸巳（常）",
+      "月将": "子将",
+      "旬空": "甲申旬，午未空",
+      "年命": "本命辛丑",
+      "对勘断语片段": "主外人有服者"
+    },
+    "DA-123": {
+      "title": "123.孔七公戊午生五十二岁占婚",
+      "三传": "父甲申（青）；兄丁亥（常）；子庚寅（后）",
+      "月将": "寅将",
+      "旬空": "甲申旬，午未空",
+      "年命": "本命戊午",
+      "对勘断语片段": "此女清白轻盈"
+    },
+    "DA-136": {
+      "title": "136.张九公癸卯生六十六岁占店业",
+      "三传": "兄甲申（蛇）；子丁亥（勾）；财庚寅（虎）",
+      "月将": "辰将",
+      "旬空": "甲申旬，午未空",
+      "年命": "本命癸卯",
+      "对勘断语片段": "干支上皆盗气"
+    },
+    "DA-165": {
+      "title": "165.孟承务占己亥生十一岁子病",
+      "三传": "财辛巳（阴）；子戊寅（蛇）；兄乙亥（勾）",
+      "月将": "戌将",
+      "旬空": "甲戌旬，申酉空",
+      "年命": "本命己亥",
+      "对勘断语片段": "上热下冷因食"
+    },
+    "DA-205": {
+      "title": "205.童秀才壬戌生四十七岁占讼",
+      "三传": "财丁酉（朱）；官己亥（贵）；子辛丑（阴）",
+      "月将": "午将",
+      "旬空": "甲午旬，辰巳空",
+      "年命": "本命壬戌",
+      "对勘断语片段": "不宜讼必主断"
+    }
+  },
+  "strip_register": {
+    "ZC-070": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "grade_note",
+      "contamination/contamination_reason",
+      "outcome_grade",
+      "holdout_eligible",
+      "notes",
+      "context.attachments.method_hint（空值）"
+    ],
+    "ZC-071": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "grade_note",
+      "contamination/contamination_reason",
+      "outcome_grade",
+      "holdout_eligible",
+      "notes",
+      "context.attachments.method_hint（空值）"
+    ],
+    "ZC-075": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "grade_note",
+      "contamination/contamination_reason",
+      "outcome_grade",
+      "holdout_eligible",
+      "notes",
+      "context.attachments.method_hint（空值）"
+    ],
+    "ZC-077": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "grade_note",
+      "contamination/contamination_reason",
+      "outcome_grade",
+      "holdout_eligible",
+      "notes",
+      "context.attachments.method_hint（空值）"
+    ],
+    "ZC-079": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "grade_note",
+      "contamination/contamination_reason",
+      "outcome_grade",
+      "holdout_eligible",
+      "notes",
+      "context.attachments.method_hint（空值）"
+    ],
+    "ZC-081": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "grade_note",
+      "contamination/contamination_reason",
+      "outcome_grade",
+      "holdout_eligible",
+      "notes",
+      "context.attachments.method_hint（空值）"
+    ],
+    "ZC-082": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "grade_note",
+      "contamination/contamination_reason",
+      "outcome_grade",
+      "holdout_eligible",
+      "notes",
+      "context.attachments.method_hint（空值）"
+    ],
+    "ZC-083": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "grade_note",
+      "contamination/contamination_reason",
+      "outcome_grade",
+      "holdout_eligible",
+      "notes",
+      "context.attachments.method_hint（空值）"
+    ],
+    "ZC-084": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "grade_note",
+      "contamination/contamination_reason",
+      "outcome_grade",
+      "holdout_eligible",
+      "notes",
+      "context.attachments.method_hint（空值）"
+    ],
+    "ZC-085": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "grade_note",
+      "contamination/contamination_reason",
+      "outcome_grade",
+      "holdout_eligible",
+      "notes",
+      "context.attachments.method_hint（空值）"
+    ],
+    "ZC-090": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "grade_note",
+      "contamination/contamination_reason",
+      "outcome_grade",
+      "holdout_eligible",
+      "notes",
+      "context.attachments.method_hint（空值）"
+    ],
+    "ZC-091": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "grade_note",
+      "contamination/contamination_reason",
+      "outcome_grade",
+      "holdout_eligible",
+      "notes",
+      "context.attachments.method_hint（空值）"
+    ],
+    "ZC-092": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "grade_note",
+      "contamination/contamination_reason",
+      "outcome_grade",
+      "holdout_eligible",
+      "notes",
+      "context.attachments.method_hint（空值）"
+    ],
+    "ZC-093": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "grade_note",
+      "contamination/contamination_reason",
+      "outcome_grade",
+      "holdout_eligible",
+      "notes",
+      "context.attachments.method_hint（空值）"
+    ],
+    "ZC-097": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "grade_note",
+      "contamination/contamination_reason",
+      "outcome_grade",
+      "holdout_eligible",
+      "notes",
+      "context.attachments.method_hint（空值）"
+    ],
+    "ZC-108": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "grade_note",
+      "contamination/contamination_reason",
+      "outcome_grade",
+      "holdout_eligible",
+      "notes",
+      "context.attachments.method_hint（空值）"
+    ],
+    "ZC-118": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "grade_note",
+      "contamination/contamination_reason",
+      "outcome_grade",
+      "holdout_eligible",
+      "notes",
+      "context.attachments.method_hint（空值）"
+    ],
+    "ZC-123": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "grade_note",
+      "contamination/contamination_reason",
+      "outcome_grade",
+      "holdout_eligible",
+      "notes",
+      "context.attachments.method_hint（空值）"
+    ],
+    "ZC-125": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "grade_note",
+      "contamination/contamination_reason",
+      "outcome_grade",
+      "holdout_eligible",
+      "notes",
+      "context.attachments.method_hint（空值）"
+    ],
+    "ZC-133": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "grade_note",
+      "contamination/contamination_reason",
+      "outcome_grade",
+      "holdout_eligible",
+      "notes",
+      "context.attachments.method_hint（空值）"
+    ],
+    "BYZ-016": [
+      "master_predictions（金标侧，本轮回原书补录）",
+      "outcome（金标侧）",
+      "grade_note",
+      "contamination",
+      "outcome_grade",
+      "seal_eligible",
+      "seal_fail_reasons",
+      "chart（台账课名概要，不入卡；卡载回源全式）"
+    ],
+    "BYZ-026": [
+      "master_predictions（金标侧，本轮回原书补录）",
+      "outcome（金标侧）",
+      "grade_note",
+      "contamination",
+      "outcome_grade",
+      "seal_eligible",
+      "seal_fail_reasons",
+      "chart（台账课名概要，不入卡；卡载回源全式）"
+    ],
+    "BYZ-029": [
+      "master_predictions（金标侧，本轮回原书补录）",
+      "outcome（金标侧）",
+      "grade_note",
+      "contamination",
+      "outcome_grade",
+      "seal_eligible",
+      "seal_fail_reasons",
+      "chart（台账课名概要，不入卡；卡载回源全式）"
+    ],
+    "BYZ-030": [
+      "master_predictions（金标侧，本轮回原书补录）",
+      "outcome（金标侧）",
+      "grade_note",
+      "contamination",
+      "outcome_grade",
+      "seal_eligible",
+      "seal_fail_reasons",
+      "chart（台账课名概要，不入卡；卡载回源全式）"
+    ],
+    "BYZ-043": [
+      "master_predictions（金标侧，本轮回原书补录）",
+      "outcome（金标侧）",
+      "grade_note",
+      "contamination",
+      "outcome_grade",
+      "seal_eligible",
+      "seal_fail_reasons",
+      "chart（台账课名概要，不入卡；卡载回源全式）"
+    ],
+    "BYZ-049": [
+      "master_predictions（金标侧，本轮回原书补录）",
+      "outcome（金标侧）",
+      "grade_note",
+      "contamination",
+      "outcome_grade",
+      "seal_eligible",
+      "seal_fail_reasons",
+      "chart（台账课名概要，不入卡；卡载回源全式）"
+    ],
+    "BYZ-070": [
+      "master_predictions（金标侧，本轮回原书补录）",
+      "outcome（金标侧）",
+      "grade_note",
+      "contamination",
+      "outcome_grade",
+      "seal_eligible",
+      "seal_fail_reasons",
+      "chart（台账课名概要，不入卡；卡载回源全式）"
+    ],
+    "BYZ-091": [
+      "master_predictions（金标侧，本轮回原书补录）",
+      "outcome（金标侧）",
+      "grade_note",
+      "contamination",
+      "outcome_grade",
+      "seal_eligible",
+      "seal_fail_reasons",
+      "chart（台账课名概要，不入卡；卡载回源全式）"
+    ],
+    "BYZ-101": [
+      "master_predictions（金标侧，本轮回原书补录）",
+      "outcome（金标侧）",
+      "grade_note",
+      "contamination",
+      "outcome_grade",
+      "seal_eligible",
+      "seal_fail_reasons",
+      "chart（台账课名概要，不入卡；卡载回源全式）"
+    ],
+    "BYZ-106": [
+      "master_predictions（金标侧，本轮回原书补录）",
+      "outcome（金标侧）",
+      "grade_note",
+      "contamination",
+      "outcome_grade",
+      "seal_eligible",
+      "seal_fail_reasons",
+      "chart（台账课名概要，不入卡；卡载回源全式）"
+    ],
+    "YXS-017": [
+      "master_predictions（金标侧，本轮回原书补录）",
+      "outcome（金标侧）",
+      "grade_note",
+      "contamination",
+      "outcome_grade",
+      "seal_eligible",
+      "seal_fail_reasons",
+      "chart（台账课名概要，不入卡；卡载回源全式）",
+      "disposition"
+    ],
+    "YXS-018": [
+      "master_predictions（金标侧，本轮回原书补录）",
+      "outcome（金标侧）",
+      "grade_note",
+      "contamination",
+      "outcome_grade",
+      "seal_eligible",
+      "seal_fail_reasons",
+      "chart（台账课名概要，不入卡；卡载回源全式）",
+      "disposition"
+    ],
+    "YXS-019": [
+      "master_predictions（金标侧，本轮回原书补录）",
+      "outcome（金标侧）",
+      "grade_note",
+      "contamination",
+      "outcome_grade",
+      "seal_eligible",
+      "seal_fail_reasons",
+      "chart（台账课名概要，不入卡；卡载回源全式）",
+      "disposition"
+    ],
+    "DA-030": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "holdout_eligible",
+      "库存行无课式字段：课盘/三传/月将/旬空自 cases_raw 底本逐例补录"
+    ],
+    "DA-045": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "holdout_eligible",
+      "库存行无课式字段：课盘/三传/月将/旬空自 cases_raw 底本逐例补录"
+    ],
+    "DA-106": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "holdout_eligible",
+      "库存行无课式字段：课盘/三传/月将/旬空自 cases_raw 底本逐例补录"
+    ],
+    "DA-123": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "holdout_eligible",
+      "库存行无课式字段：课盘/三传/月将/旬空自 cases_raw 底本逐例补录"
+    ],
+    "DA-136": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "holdout_eligible",
+      "库存行无课式字段：课盘/三传/月将/旬空自 cases_raw 底本逐例补录"
+    ],
+    "DA-165": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "holdout_eligible",
+      "库存行无课式字段：课盘/三传/月将/旬空自 cases_raw 底本逐例补录"
+    ],
+    "DA-205": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "holdout_eligible",
+      "库存行无课式字段：课盘/三传/月将/旬空自 cases_raw 底本逐例补录"
+    ]
+  }
+}
