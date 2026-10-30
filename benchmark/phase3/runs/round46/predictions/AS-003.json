@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-003",
+ "prediction_text": "会买成：能与卖家成交，且能及时筹到购房款。卖家主星太阳落七宫得接纳、十一宫主（希望）兼七宫主、金星入旺近七宫头并拱四宫主土星（房屋主星），成交象成；但二宫主水星逆行主钱款迟滞、六个月内自有资金不能调用，故过程有拖延与临时筹措/借措，最终在付款期限前凑齐。价格由卖家初索£530往下谈而非照价全付。应期为月档，窗口数月内，主坐标在资金到期凑齐之时而非问时即付。",
+ "basis": "systems_used=['horary (Lilly)']; Sun seller in 7th received, Venus applying trine Saturn lord 4th, lord 7th = lord 11th, Moon translating light support purchase; Mercury lord 2nd retrograde is stated debility for money timing — it delays and forces raising money rather than negating, because the Venus-Saturn perfection for the houses is unprohibited in given data. Timing scale months (purchase + 6-month money constraint stated in setting); main coordinate = completion before payment falls due; immediate-payment route discarded due Mercury retrograde.",
+ "confidence": 0.74,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

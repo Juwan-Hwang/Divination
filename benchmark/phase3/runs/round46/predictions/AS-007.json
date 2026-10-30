@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-007",
+ "prediction_text": "沃勒（Waller）胜、霍普顿（Hopton）败：月亮擢升与木星同在、太阳（沃勒助力主星）在十宫正居擢升19°白羊，主沃勒一方星体强旺得位；霍普顿主星土星陷落、焦伤于日光下、无相位、流浪无援，九宫仅火星与南交点主对方无后援。胜负就在交战当日（1644年3月29日）分晓，霍普顿军败退失地。应期日档，主坐标当日会战结果。",
+ "basis": "systems_used=['horary (Lilly, war question)']; Asc/Moon/Jupiter/Venus assigned Waller, Saturn lord 7th Hopton per input; Moon exalted with Jupiter and Sun lord of Waller's substance in 10th in exact exaltation degree vs Saturn sub radiis, in fall, peregrine, no aspect, no supplies in 9th — one-sided testimonies. Battle-day question = day scale.",
+ "confidence": 0.88,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

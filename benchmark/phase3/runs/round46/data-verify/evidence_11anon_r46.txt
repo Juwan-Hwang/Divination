@@ -1,0 +1,155 @@
+
+===== LY-259 [anon=P3-067512dc] =====
+META: {"tradition": "liuyao", "contamination": "low"}
+JUDGE-REASON(judgeX/judgeX-block1.jsonl): 所断不可附葬，结局主安坟而愈及子年迁冢合葬，似与题面不对应，照结局计低分
+JUDGE-REASON(judgeY/judgeY-block1.jsonl): 方向偏反：断不可附葬，结局安坟而愈、终在子年迁冢合葬他处，仅终有迁改一节近似；子月巳日与子年迁改尺度偏
+QUESTION: 占以父柩附葬祖塋
+SETTING: 問以父柩附葬祖塋可否
+PROV: {"book": "《增刪卜易》", "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）", "url": "https://zh.wikisource.org/wiki/增刪卜易", "page": "卷之四·新亡附葬祖塋章第一百三十"}
+OUTCOME(manifest): 數月後不斷曰﹕腰疼欲死﹐欲遷其墳。予曰﹕墳不必遷﹐卦中世爻被克﹐幸而旺相﹐土來克水﹐命道安土神則吉﹐果於安墳而愈。予曰﹕目下𨿽不遷改﹐終有遷改。彼曰﹕何也﹖予曰﹕化六沖不久之象。果於子年死母﹐起此冢合葬於他處也。
+-- SRC benchmark/phase3/expansion/zengshan/answers.jsonl
+    statement_excerpt=斷曰﹕世爻被克﹐不宜附葬之。
+    key_assertions=世爻被克，斷不宜附葬；後仍附葬，腰疼欲死，命道安土神則吉，果於安墳而愈；化六沖不久之象，斷目下雖不遷改、終有遷改
+    description=數月後不斷曰﹕腰疼欲死﹐欲遷其墳。予曰﹕墳不必遷﹐卦中世爻被克﹐幸而旺相﹐土來克水﹐命道安土神則吉﹐果於安墳而愈。予曰﹕目下𨿽不遷改﹐終有遷改。彼曰﹕何也﹖予曰﹕化六沖不久之象。果於子年死母﹐起此冢合葬於他處也。
+    comment=原文應驗段「數月後不斷曰﹕腰疼欲死」語意欠通，疑有訛字，照錄；outcome 為原文 4511 行應驗全段
+
+===== LY-510 [anon=P3-2d0fbe81] =====
+META: {"tradition": "liuyao", "contamination": "low"}
+JUDGE-REASON(judgeX/judgeX-block1.jsonl): 结局游川广黔、十余载后致书入华山不知终，技艺立身与财薄成家均未证
+JUDGE-REASON(judgeY/judgeY-block1.jsonl): 方向反：断技艺立身财薄可保，结局游川广黔十余载后入华山不知所终，立身落点未见（结局与题面似不对应，照常按结局评分并注明）；结局无可核时点，timing记1
+QUESTION: 占終身除功名外何事可爲
+SETTING: 四十三歲、妻亡無子者占終身除功名外何事可為
+PROV: {"book": "《增刪卜易》", "edition": "維基文庫本（錄入者整理本，未排版/未校對，見 pending 校勘說明）", "url": "https://zh.wikisource.org/wiki/增刪卜易", "page": "卷之三·終身財福章第三十七"}
+OUTCOME(manifest): 後聞此人遊川廣塡黔﹐及至十餘載之後﹐致書於家。竟入華山﹐不知所終。
+-- SRC benchmark/phase3/expansion3/cases.jsonl
+    question=占終身除功名外何事可爲
+    statement_excerpt=斷曰﹕財星伏於二爻﹐又值空亡﹐正所謂內外無財﹐伏又空﹐財莫能聚﹐且喜子孫獨破遇靑龍﹐𨿽不持世﹐亦主淸高﹐生平非義不取﹐不以富貴關心。彼曰﹕祖有恩蔭﹐讓與弟承襲﹐令欲挾會徧遊﹐取樂山水﹐可能如願否﹖予曰﹕亥水子孫變鬼﹐財爻又空﹐子死妻空﹐絕俗離羣之事﹐如有此志﹐此卦驗之幾矣。彼曰﹕予年四十有三﹐自二十一歲妻亡之後﹐竟未續弦﹐子女皆無。予曰﹕卦之相合﹐必如其願。
+    key_assertions=財伏而空，斷財莫能聚；子孫獨發遇靑龍，主清高、非義不取；問挾志遊歷、絕俗離羣可能如願，斷如有此志、此卦驗之幾矣；結局：後聞遊川廣滇黔十餘載，致書於家，竟入華山不知所終
+    description=後聞此人遊川廣塡黔﹐及至十餘載之後﹐致書於家。竟入華山﹐不知所終。
+    comment=終身類：以志向斷語與後來行跡對讀（與終身兌例同體）。
+
+===== YM-030 [anon=P3-4f823cb1] =====
+META: {"tradition": "liuyao", "contamination": "low"}
+JUDGE-REASON(judgeX/judgeX-block2.jsonl): 断胎安无虞，结局败血三日后完胎似胎不保，方向反；似不对应处照结局评
+JUDGE-REASON(judgeY/judgeY-block2.jsonl): 断胎安即安，实败血三日后完胎，近段不安；三日在旬窗内
+QUESTION: 占孕（胎安否）
+SETTING: 程良玉《易冒》卷六·胎产章第五十二所举占例
+PROV: {"book": "《易冒》（清）程良玉撰", "edition": "华龄出版社2016年《四库存目纳甲汇刊（五）·校正全本易冒》（（清）程良玉撰，郑同校；ISBN 978-7-5169-0727-6）扫描PDF，用户经学校图书馆提供", "license_note": "内部研究使用", "page": "卷六·胎产章第五十二，书页96（PDF第112页）"}
+OUTCOME(manifest): 败血三日后复完胎。
+-- SRC benchmark/phase3/expansion8/yimao/cases.jsonl
+    question=占孕（胎安否）
+    statement_excerpt=如申建辛亥日，占孕得兑之困
+    key_assertions=有败血之象，三日后可复完胎
+    description=败血三日后复完胎。
+    comment=转录方式：页图视觉转录（transcription=visual），置信度高；疑难字见BUILD-REPORT。
+
+===== LY-513 [anon=P3-6a26e97d] =====
+META: {"tradition": "liuyao", "contamination": "low"}
+JUDGE-REASON(judgeX/judgeX-block2.jsonl): 结局子年病、丑年蛊病终，与功名虚名断似不对应，照结局评，仅子年窗界巧合
+JUDGE-REASON(judgeY/judgeY-block2.jsonl): 预测为终身虚名无实授，结局为子年病丑年蛊终，与题面似不对应照常评分
+QUESTION: 占終身功名
+SETTING: 占終身功名（業已援例）
+PROV: {"book": "《增刪卜易》", "edition": "維基文庫本（錄入者整理本，未排版/未校對，見 pending 校勘說明）", "url": "https://zh.wikisource.org/wiki/增刪卜易", "page": "卷之三·終身功名有無章第三十八"}
+OUTCOME(manifest): 至子年得病﹐丑年得蠱病而終。
+-- SRC benchmark/phase3/expansion3/cases.jsonl
+    question=占終身功名
+    statement_excerpt=斷曰﹕𨿽是爻逢六合﹐嫌其子孫持世﹐官逢月破﹐勿想成名﹐彼曰﹕業已援例。予曰﹕費盡萬金﹐終難食祿。
+    key_assertions=子孫持世、官逢月破，斷勿想成名；費盡萬金，終難食祿；結局：子年得病，丑年得蠱病而終
+    description=至子年得病﹐丑年得蠱病而終。
+    comment=功名斷語之驗否只能由終身結局間接推知（原文未明記其未食祿），判讀粒度弱，僅入 dev-add。
+
+===== LR3-002 [anon=P3-95fedd19] =====
+META: {"tradition": "liuren", "contamination": "low"}
+JUDGE-REASON(judgeX/judgeX-block3.jsonl): 出师无功撤回一节合，然保身而退与结局退位不合；结局与题面似不对应，照常按结局评分
+JUDGE-REASON(judgeY/judgeY-block3.jsonl): 出师无功退合，仅撤回剿贼且太岁受克退位；午月坐标未核
+QUESTION: 奉命出师江东，此行吉凶若何？
+SETTING: 有人代占一位总镇奉命出师之事。
+PROV: {"book": "《大六壬占验指南》·仕宦门·占总镇奉命出师"}
+OUTCOME(manifest): 仅撤回剿贼；庚辰太岁受克、退位。
+-- SRC benchmark/phase3/expansion9/liuren-chen1/cases.jsonl
+    statement_excerpt=春得炎上进气，又合元首三奇，高爵宰官不复言矣。但干败支墓且乘火鬼，天魁合中犯煞，透易旅之九三旅焚其次，丧其童仆，贞厉。不惟兴师无济，且有他虞。即官至卯年亦不见利。由卯上乘白虎驿马，名为回马。虽是剥官之煞，幸结木局生起初传官星，故仅撤回剿贼。
+    key_assertions=兴师无济、且有他虞；官至卯年亦不见利；仅撤回剿贼（不致更重之祸）；庚辰退位
+    description=断尾自载应验：仅撤回剿贼；庚辰太岁受克、退位俱验。撤回事与庚辰退位两项均以确指事件/时点表述，附于断语之末（同 LR2-024 短承口径）。
+
+===== AS-015 [anon=P3-bb07f436] =====
+META: {"tradition": "horary", "contamination": "low"}
+JUDGE-REASON(judgeX/judgeX-block3.jsonl): 主断夫活平安将归未见结局记载，结局仅载问者10月8日卒；附带问者病缠一节仅概合
+JUDGE-REASON(judgeY/judgeY-block3.jsonl): 断海上丈夫活着将归，结局仅载问者本人10月8日卒，夫归未核且附带病断不合；结局与题面似不对应，仅注明照评
+QUESTION: A woman asked of her husband at sea: if alive, where, and when shall he return?
+SETTING: She asked Lilly about her absent husband; Lilly judged both the husband's state and, from the same figure, her own fate
+PROV: {"book": "William Lilly, Christian Astrology (1647), Book II", "edition": "1647 first edition (Internet Archive scan OCR); wording cross-checked against the 1852 Zadkiel edition where noted", "url": "https://archive.org/details/christian-astrology-1647", "page": "Book II, Chap. LXXI 'A woman asked of her Husband at Sea, if alive, where, when return?'"}
+OUTCOME(manifest): Confirmed in the text: 'in truth she died the eighth of October, upon which day Mars and [the other significator] were in the eighth degree...'.
+-- SRC: NO MATCH in allowed files
+
+===== BQ-017 [anon=P3-c1ce508d] =====
+META: {"tradition": "六爻", "contamination": "low"}
+JUDGE-REASON(judgeX/judgeX-block3.jsonl): 祸及身合，然祸源为妇人非倭逼近，受害程度未分载；结局无可核时点，结局与题面似不对应，照常按结局评分
+JUDGE-REASON(judgeY/judgeY-block3.jsonl): 避乱偏凶合果被妇人引祸及身；应期未载；结局无可核时点
+QUESTION: 避乱（倭乱中避祸安否）
+SETTING: 避乱（倭乱中避祸安否）
+PROV: {"book": "《卜筮全书》", "edition": "华龄出版社2016年《四库存目纳甲汇刊（六）·校正全本卜筮全书》（（明）姚际隆撰，郑同校；ISBN 978-7-5169-0728-3）扫描PDF，用户经学校图书馆提供", "page": "印刷页289（PDF第306页）（卷十二·避乱）", "claimed_source": "避乱章序自述：「因录已验之卦爻，为决当今之倭寇」「因以平日所验者，录述此篇，以为卜倭张本」——本章诸例为注家自编已验之占"}
+OUTCOME(manifest): 「果被妇人引祸及已」——其人果然因妇人招致祸事及身。
+-- SRC benchmark/phase3/expansion7/bushi-quanshu/cases.jsonl
+    question=避乱（倭乱中避祸安否）
+    statement_excerpt=「六爻安静又无官鬼，岂非吉兆？殊不知本宫巳亥，鬼伏于六三空亡爻下，既已透出，又遇申日提起，且又冲克世爻，所谓变吉为凶，盖申金乃离宫妻财故也。」（断为表面吉、实则祸由妇人而至）
+    key_assertions=变吉为凶；祸因妇人（妻财）而起
+    description=「果被妇人引祸及已」——其人果然因妇人招致祸事及身。
+    comment=原文起首作「且如甲申日」，然避乱章序明言本章皆「已验之卦爻/平日所验者」，且结局以「果被」实叙，故按实占收录；此点在 BUILD-REPORT 中披露。
+
+===== LY-623 [anon=P3-d5450052] =====
+META: {"tradition": "liuyao", "contamination": "low"}
+JUDGE-REASON(judgeX/judgeX-block4.jsonl): 断父外任平安吉向，结局苗独作乱地方惊险异常，与平安断相左；应期月档与辰年午年之实不合。此行结局与题面似不对应，照常按结局评分
+JUDGE-REASON(judgeY/judgeY-block4.jsonl): 断父平安吉向，结局记苗乱地方不祥惊险异常，仅父后续任官一线近合；结局与题面似不对应，照常按结局评
+QUESTION: 占父外任平安
+SETTING: 
+PROV: {"work": "增刪卜易", "edition": "維基文库本（錄入者整理本，未排版/未校對）", "page": "卷之一·反伏章第二十五", "url": "https://zh.wikisource.org/wiki/增刪卜易", "language": "zh-Hant"}
+OUTCOME(manifest): 後知苗獨作亂，地方不祥，驚險異常，寅年占卦，辰年缺歸，午年又官者，
+-- SRC benchmark/phase3/expansion4/cases.jsonl
+    question=占父外任平安
+    statement_excerpt=巳火日辰生父母，當許在任平安，獨憂卦得伏吟，乃是不祥之象，任上必有事故，不得意以呻吟也。予曰：伏吟欲歸而不能，辰年可歸，
+    key_assertions=
+    description=後知苗獨作亂，地方不祥，驚險異常，寅年占卦，辰年缺歸，午年又官者，
+
+===== LY-504 [anon=P3-db256d63] =====
+META: {"tradition": "liuyao", "contamination": "low"}
+JUDGE-REASON(judgeX/judgeX-block4.jsonl): 断目下不升、辰月定局，结局三月行文拿问其侄，三月即辰月应期合；结局与题面似不对应（所记为侄被拿问而非升否本身），照常按结局评分，负向合而升否未直载
+JUDGE-REASON(judgeY/judgeY-block4.jsonl): 不升负向近合，三月即辰月与主坐标辰月合；然结局记将军之侄被拿问，主体似不对应，照常按结局评
+QUESTION: 占目下功名升否
+SETTING: 將軍之侄（四十九歲）占目下功名能否升遷
+PROV: {"book": "《增刪卜易》", "edition": "維基文庫本（錄入者整理本，未排版/未校對，見 pending 校勘說明）", "url": "https://zh.wikisource.org/wiki/增刪卜易", "page": "卷之二·兩現章第三十二"}
+OUTCOME(manifest): 及至三月將軍之侄因昔年因陳不前﹐都中有人報出行文拿問﹔
+-- SRC benchmark/phase3/expansion3/cases.jsonl
+    question=占目下功名升否
+    statement_excerpt=予曰﹕離變震卦﹐六沖而變六沖﹐世爻化墓入墓﹐亥水官星動化回頭之克﹐大凶之兆﹐勿望升遷﹐且防刑獄。將軍曰﹕此吾侄也。曾在二十九歲於都門向爾占過﹐許之四十九歲有險。今年四十九歲﹐有何險處﹖予曰﹐旣是卦之前後照應﹐目下諸事更宜愼之。
+    key_assertions=離變震，六沖而變六沖，世爻化墓，官星亥水動化回頭之克；斷勿望升遷、且防刑獄；後都中行文拿問
+    description=及至三月將軍之侄因昔年因陳不前﹐都中有人報出行文拿問﹔
+    comment=結局與 LY-507 同載於卷末應驗總述行，分句切取，各歸其例。
+
+===== LY-205 [anon=P3-e6359271] =====
+META: {"tradition": "liuyao", "contamination": "low"}
+JUDGE-REASON(judgeX/judgeX-block4.jsonl): 断终身财福平薄以职事自立，结局午年保举为科里之官，职事一节部分合而财福未被结局记载；此行结局与题面（财福）似不对应，照常按结局评分；最好年主坐标丑年与午年保举不合
+JUDGE-REASON(judgeY/judgeY-block4.jsonl): 终身职事自立近合，午年保举为科里之官与不主发福量级不尽合；丑年主坐标误作午年
+QUESTION: 占終身財福
+SETTING: 問終身財福，自言功名之念已滅
+PROV: {"book": "《增刪卜易》", "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）", "url": "https://zh.wikisource.org/wiki/增刪卜易", "page": "卷之三·終身財福章第三十七"}
+OUTCOME(manifest): 果於午年保舉﹐𨿽非科甲﹐身爲科裏之官﹐此豈可謂父母持身辛勤勞碌耶﹖
+-- SRC benchmark/phase3/expansion/zengshan/answers.jsonl
+    statement_excerpt=予曰﹕世臨日建月建生身﹐必主顯貴中舉﹐巳午年富貴逼人來也。
+    key_assertions=卦中財福不旺，而官父兩旺；世臨日建月建生身，必主顯貴中舉；斷巳午年富貴逼人
+    description=果於午年保舉﹐𨿽非科甲﹐身爲科裏之官﹐此豈可謂父母持身辛勤勞碌耶﹖
+
+===== LY-458 [anon=P3-eb10e763] =====
+META: {"tradition": "liuyao", "contamination": "low"}
+JUDGE-REASON(judgeX/judgeX-block4.jsonl): 断母近期不归卯月始有归望，结局只记后果在外平安，归否未被记载、平安亦非所断；此行结局与题面似不对应，照常按结局评分；结局无可核时点，timing记1
+JUDGE-REASON(judgeY/judgeY-block4.jsonl): 断母近期不来，结局仅记在外平安，归否未核；结局无可核时点，timing记1
+QUESTION: 占母在外何時來
+SETTING: 占母在外何時來（原文辨明：此問來否、非問平安）
+PROV: {"book": "《增刪卜易》", "edition": "維基文庫本（錄入者整理本，未排版/未校對，見 pending 校勘說明）", "url": "https://zh.wikisource.org/wiki/增刪卜易", "page": "卷之四·行人章第九十四"}
+OUTCOME(manifest): 後果在外平安。
+-- SRC benchmark/phase3/expansion2/zengshan/answers.jsonl
+    statement_excerpt=只可斷用神伏藏也﹐克而不來﹐六合沖亦不來﹐
+    key_assertions=用神伏藏受克，不來；六合沖亦不來
+    description=後果在外平安。
+    comment=應驗為母在外平安而未歸，與斷語「不來」合。
+
+DONE 39 files scanned

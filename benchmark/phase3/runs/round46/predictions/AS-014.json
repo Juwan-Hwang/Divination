@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-014",
+ "prediction_text": "偷钱的不是问者所疑的两个女人/仆人：火星（上升主、疑中女仆之象）与土星（另一被疑者）皆居自界自脸，按Lilly规则被排除为贼星。真贼是水星所象之人——水星居角宫、无本质尊贵、与土星成贴合相并刑火星：一个年轻的男子（水星与月亮皆呈男性象）、文字/跑腿/经手文书或出入宅内办事的青年人。钱难追回齐全：月亮贴近日光而离去、水星受土火夹制，至多追回小部分或只查明其人。应期：查明其人在旬月内，追回不报确定日期。",
+ "basis": "systems_used=['horary (Lilly, theft Fig.18)']; significator selection follows input's own exclusions: Mars and Saturn refused as thief significators because in own terms/face; Mercury in angle with no essential dignity, partile conjunct Saturn, square Mars taken as thief; Moon in masculine sign + Mercury conjunct masculine planets = male, Mercury = young/literary/errand-running person. Recovery testimonies weak (Moon close to Sun separating, Mercury afflicted) hence at most partial.",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

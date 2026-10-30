@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-013",
+ "prediction_text": "方向：工党在 2024 年 7 月 4 日英国大选中获胜，斯塔默任首相。断语：工党以大幅优势（下议院过半且领先显著）终结保守党执政，苏纳克的保守党惨败；选举时太阳巨蟹只作时令背景，不改民调所示方向。应期：2024-07-04 当日计票定局，主坐标 4 July 2024。",
+ "basis": "systems_used=['western-astrology/event-context']；输入残损：无候选人出生盘，仅给民调约二十点领先与巨蟹太阳时令；事实优先序下民调差距量级与终局同级（大幅胜），占星时令只作旁注，basis 注明无盘面。",
+ "confidence": 0.8,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

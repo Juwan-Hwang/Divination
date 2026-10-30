@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-004",
+ "prediction_text": "传闻不实：国王并未攻下剑桥。问者一方主星擢升强旺，王方（七宫主）入弱且受克、正在入陷；各宫头皆变动宫、月亮落陷无所喜之宫，主谣言无根、事体虚浮。此报为假消息，不久即被证伪，应期为日档（战时近讯），窗口数日内，主坐标为随后确讯到达之日，不以日程细钉（输入未给相位度数）。",
+ "basis": "systems_used=['horary (Lilly, rumour chapter)']; Lilly rumour rules: moveable angles, Moon cadent in sign she delights not in, Saturn/Mars vitiating 10th/7th cusps argue falsity/instability; lady of Ascendant in exaltation vs lord 7th entering fall and afflicted decides direction false. Sun on Asc cusp corroborates Parliament side. No degrees given, so timing only day-scale window, no invented date.",
+ "confidence": 0.85,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

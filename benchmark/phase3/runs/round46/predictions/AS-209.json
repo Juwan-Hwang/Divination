@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-209",
+ "prediction_text": "分开断：(1)国王会从爱尔兰 procur 到援军、且会对议会造成损害，但援力有限而迟：国王主星月亮在巨蟹自宫落十宫、增光、除迟行外无凶；十一宫（援助宫）主太阳擢升落七宫、正入相临十一宫头（尚差6°）并对冲上升（议会），主援军之事在推进、终有兵力自爱尔兰来助王并伤及议会一方，差6°主其事尚需时日而非即到。(2)王后自北方进军：她的主星土星正换宫入白羊入陷，主进军后处境转弱、不昌盛，进军可成行而难言得利；月亮距土星拱相尚差3至4°，国王与王后将在该拱相完善时相会，应期月档，窗口数月内，主坐标约3至4个月量级内会合之时。",
+ "basis": "systems_used=['horary (Lilly, two war questions one figure)']; Q1: King = Moon in Cancer own house in 10th increasing light; Sun lord 11th (aid) exalted in 7th applying cusp 11th wanting 6deg, opposition Asc (Parliament) = Irish aid procured in part, harmful to Parliament, delayed by 6deg want. Q2: Queen Saturn changing sign into Aries fall = advance but declining fortune/not prosper; Moon wanting 3-4deg of trine Saturn = meeting at perfection, month scale ~3-4 units. Each sub-question judged separately with its own significators.",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

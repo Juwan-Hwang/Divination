@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-009",
+ "prediction_text": "方向：印度队不能赢得 2019 世界杯冠军（negative）。断语：印度进四强量级即止步，半决赛前后出局，冠军旁落；科利领军的热门身份不转化为冠军。应期：赛事窗口 2019-05-30 至 07-14，主坐标为半决赛阶段（7 月上旬）出局点。",
+ "basis": "systems_used=['western-astrology/event-context']；输入残损：仅给科利出生年（1988，无月日时地），无本命盘可排，按精通检查表缺精确时间不得臆造宫位；仅据赛事结构（十队单循环后淘汰赛、热门承压）作低置信事件断，basis 注明依据不足并降置信。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

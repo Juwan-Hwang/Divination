@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "Donald Trump will win the 2016 US presidential election (8 November 2016), defeating Hillary Clinton despite trailing in most polls — an upset result driven by Electoral College geography rather than the national popular vote, which Clinton may carry. Timing: called on election night 8–9 November 2016.",
+ "basis": "systems_used:['Western mundane/political astrology (independent judgement)']; Input supplies polling context only, no charts — poll lead treated as context not outcome per fact-priority; no panel vote count given in input and none fabricated.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

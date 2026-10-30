@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-012",
+ "prediction_text": "方向：拜登赢得选举并实际就任总统。断语：计票后特朗普阵营不服、就邮寄选票与结果兴讼争议，交接一度僵持，但终局不改——拜登于 2021-01-20 就职；国家随后进入争议未息、两派对立加深的后段。应期：窗口 2020-11-03 至 2021-01-20，主坐标 20 January 2021 就职落定。",
+ "basis": "systems_used=['western-astrology/event-context']；输入残损：无星盘数据，仅有选前民调与败方可能不认输的题面事实；按两段式：近段（计票与争议）乱而远段（就任）定，终局单一方向为拜登胜且就任，basis 注明无盘据、据事实链推断并降置信。",
+ "confidence": 0.64,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

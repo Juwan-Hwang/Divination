@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Donald Trump will win the 2016 US presidential election. What decides it: Clinton's email controversy and Clinton Foundation questions fatally erode trust among late-deciding voters, and Trump carries the decisive swing states / Electoral College on 8 November 2016 even while Clinton leads in national polling and may win the popular vote. (Tarot method note: no cards were supplied in the input and no spread can be drawn from the frozen input alone, so this is a mundane-astrology/context judgement, not a card reading; no card faces are fabricated.)",
+ "basis": "systems_used:['Western mundane/political astrology','tarot: NOT used — no draw available from input, explicitly not fabricated']; Input残损注明:塔罗个案无牌面附件,按纪律没抽牌不说牌,故改以公开争点与选举结构落断并降置信; deciding factor named per question (email/Foundation trust issue + Electoral College).",
+ "confidence": 0.53,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

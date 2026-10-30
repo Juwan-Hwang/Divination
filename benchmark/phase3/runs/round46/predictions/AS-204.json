@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-204",
+ "prediction_text": "病位在胸与胃（上腹胸口一带）：上升主刚分离土星的顺刑，土星当时在巨蟹正主胸、胃。病性为土星性的寒郁/忧郁质壅滞——六宫内有入陷行星 afflict 六宫、月亮在四宫与土星同在、四角宫皆固定，主病势沉、缠绵固定，不是急发即解之病。可治性低：只能长期调治缓图，短期内难断痊愈，近段（本病程内）以持重拖延为主；远段无明确转愈触发（无动转吉象在输入中），一段终局：久病难速愈，照通则i明言远段无据不报速愈。应期以月档计病程。",
+ "basis": "systems_used=['horary (Lilly, sickness/decumbiture)']; afflicted part from Saturn in Cancer = breast and stomach, Asc lord lately separated dexter square of Saturn; 6th house afflicted by planet in fall therein + Moon in 4th with Saturn + all angles fixed = fixed, chronic, melancholic disease, difficult cure. No benefic application/recovery testimony supplied, so no invented recovery date; two-stage check done: near stage chronic persistence, far stage no trigger in given data — stated as一段终局远段无据.",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

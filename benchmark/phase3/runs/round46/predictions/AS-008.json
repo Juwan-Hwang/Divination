@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-008",
+ "prediction_text": "埃塞克斯能攻下雷丁（Reading）：其主星火星得月亮接纳（火星居月宫、月居火星界脸）且近Regulus落十宫，虽入陷但有接纳补强；守城方/城镇四宫主土星入陷，城镇弹药粮食主星木星金星虽在五宫但不足以久守。城将交付/出降而非长期围困不下，应期为旬月内，主坐标1643年4月末城降之时（输入背景所载交付日在4月27日前后，年份印刷有1643/1644之争，照实在basis注明）。过程为围而后降，埃塞克斯得城。",
+ "basis": "systems_used=['horary (Lilly, siege question)']; Mars lord Scorpio Asc for Essex in reception with Moon near Regulus in 10th outweighs Mars in fall; Saturn lord 4th for governor/town in fall weakens defence; Moon void then applying sextile Mars (long-ascension equivalence noted in input) gives eventual delivery. Year ambiguity 1643 vs 1644 in input/setting noted — prediction uses month-end April delivery window without asserting the disputed year as certain. Timing scale weeks/month (siege).",
+ "confidence": 0.76,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

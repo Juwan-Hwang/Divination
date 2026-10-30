@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-005",
+ "prediction_text": "Donald Trump will win the 2016 US presidential election, defeating Hillary Clinton. The same astrologer who correctly picked Trump early for the Republican nomination is followed here on the general election as well: Trump, not the poll favourite, takes the White House on 8 November 2016, again with the Electoral College rather than a popular-vote majority as the deciding mechanism.",
+ "basis": "systems_used:['Western mundane/political astrology (independent judgement)']; Input gives the panellist's earlier correct nomination call as track-record context; no charts supplied, none fabricated.",
+ "confidence": 0.57,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

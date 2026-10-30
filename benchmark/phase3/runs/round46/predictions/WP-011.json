@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-011",
+ "prediction_text": "方向：拜登赢得 2020 美国总统选举，特朗普连任失败。断语：题面所举特朗普木星二宫照十宫、太阳居十宫的强势配置只主其声势与选票基本盘，不足以翻转终局；拜登当选。应期：2020-11-03 选举，窗口 11 月 3–7 日，主坐标 7 November 2020。",
+ "basis": "systems_used=['western-astrology/vedic-context']；输入给特朗普单方吉配置，易致单边拔高，按等级校准：单颗吉星照事业宫无全盘尊贵与行运互证，不许升格为胜选终局；结合 WP 同题事实（民调、在任者疫情受挫已恢复竞选）定拜登胜，basis 注明配置只调量级不翻方向。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

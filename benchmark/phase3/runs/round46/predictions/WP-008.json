@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-008",
+ "prediction_text": "方向：现任总理莫迪领导的 BJP/NDA 获胜连任。断语：BJP 单独过半、NDA 以明显优势组阁，莫迪连任总理，国大党联盟远不能翻盘。应期（时间窗）：计票日 2019-05-23 结果定局，窗口为 5 月 23 日当日，主坐标 23 May 2019。",
+ "basis": "systems_used=['western-astrology/event-context']；输入残损：无任何出生盘/事件盘数据，仅有选举时程与双方阵营事实，按事实优先序以在任者优势与反对派整合不足定方向，占星仅作弱旁证，故置信不拔高。basis 注明：无盘面可排，事件级断语落到胜方与过半形态。",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

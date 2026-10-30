@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-002",
+ "prediction_text": "Barack Obama will win the 2008 US presidential election (defeating John McCain), taking office in January 2009. The Saturn–Uranus opposition exact on Election Day signifies the break with the old order: the change candidate, not the establishment continuity candidate, prevails. Timing: decided 4 November 2008. Confidence moderate-high; the result is clear-cut enough to be called on election night rather than a prolonged recount-level stalemate.",
+ "basis": "systems_used:['Western mundane/political astrology (election-day configuration)']; No candidate birth charts supplied in input — chart-level detail not fabricated; judgement rests on the stated Election-Day Saturn-Uranus opposition and the change-vs-continuity structure of the race as given.",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

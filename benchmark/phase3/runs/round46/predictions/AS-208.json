@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-208",
+ "prediction_text": "鲁珀特亲王在此战事中得不到荣誉，反被埃塞克斯占上风：鲁珀特主星太阳流浪且在固定宫入弱（detriment），埃塞克斯主星金星与土星接纳且金星处置鲁珀特的主星，金星与月亮又从不利方向临十宫头——强弱与处置权全在对方。鲁珀特的结局是名声受挫、军事上受制于人、无功而退，不会靠这场战争压倒埃塞克斯。应期以月档计（战局进程），窗口为此后数月战局内，主坐标不钉具体日（输入未给完善度数）。",
+ "basis": "systems_used=['horary (Lilly, war/honour)']; Rupert signified by 10th and its lord Sun peregrine and in detriment in fixed sign; Essex Venus in reception with Saturn and disposing Rupert's significator, Venus dexter aspect and Moon sinister aspect to 10th cusp both against Rupert's honour. No degrees for timing, month-scale campaign window only.",
+ "confidence": 0.8,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

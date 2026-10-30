@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-010",
+ "prediction_text": "方向：民主党拜登赢得 2020 美国总统选举（特朗普落败）。断语：拜登以选举人票过半当选，民调领先最终兑现，三位占星者内部分歧不改变终局。应期：选举日 2020-11-03 后数日内定局，窗口 11 月 3–7 日，主坐标 7 November 2020 前后宣布胜方。",
+ "basis": "systems_used=['western-astrology/vedic-context']；输入残损：仅注记拜登天蝎上升（吠陀口径），无完整星盘与相位数据，不臆补盘面；据题面三人分歧并列、民调事实优先序定终局，分歧在 basis 留痕：盘据不足、只取方向。",
+ "confidence": 0.63,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

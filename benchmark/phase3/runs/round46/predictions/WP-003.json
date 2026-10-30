@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-003",
+ "prediction_text": "Barack Obama will be re-elected in 2012, defeating Mitt Romney and winning a second term. Mercury retrograde beginning on Election Day (6 November 2012) points to counting/communications glitches and delayed calls in places, but does not reverse the outcome: the incumbent retains the presidency. Timing: result on/just after 6 November 2012.",
+ "basis": "systems_used:['Western mundane/political astrology']; No natal charts in input, noted; Mercury-retrograde effect limited to process noise per classical election reading, not outcome reversal.",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-010",
+ "prediction_text": "仆人往西去、偏南：其主星水星在西方星座、南象限，月亮出逃时及现时皆在西方星座，同指西方（微偏南）。人能找回/会回来：仆主星与上升主星正趋成拱自角宫发出、月亮在二宫居自宫、太阳在二宫与十一宫行星成完善相位，主其人自回或被人送回，不是永逃。应期日档，窗口数日内，主坐标为拱相完善的数日内归回/被寻获之时（输入未给度数，不虚报具体日数）。",
+ "basis": "systems_used=['horary (Lilly, fugitive servant ch.)']; Mercury peculiar significator of servant in western sign south quarter + Moon western at flight and still = direction west inclining south; servant significator and lord Asc hastening to trine out of angles + Moon in 2nd in own house = return/recovery. Degrees not supplied, so day-scale window only, main coordinate stated as trine perfection without invented day count.",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
