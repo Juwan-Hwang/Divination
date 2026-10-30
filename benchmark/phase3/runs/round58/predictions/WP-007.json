@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Donald Trump wins — and what decides it is Hillary Clinton's scandals. The Union Square tarot reading of August 2016 points to the email controversy and the Clinton Foundation questions corroding Clinton's position through the autumn: the deciding factor is not Trump's strength but the trust collapse around Clinton, tipping late-deciding voters. Trump defeats Clinton on 8 November 2016. Timing: day-scale, election day 8 November 2016 (fixed value).",
+ "basis": "tradition: Western tarot (per input card — a Manhattan tarot reader's drawn reading)\nCard facts: Clinton leads in August polls; the reader draws on the election in August 2016; the email controversy and Clinton Foundation are already public. The case question itself asks 'who, and what will decide it' — the sampled master reading names Trump and assigns the deciding role to Clinton's controversies. The card does not reproduce the actual cards drawn, so no card-by-card Waite exegesis is possible; that input gap is noted and confidence set at moderate-low.",
+ "confidence": 0.48,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

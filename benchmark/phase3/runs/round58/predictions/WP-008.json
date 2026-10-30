@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-008",
+ "prediction_text": "Modi-led BJP/NDA will win the 2019 Lok Sabha election and return to power, with the result confirmed at counting on 23 May 2019 (window: the 11 April-19 May voting period; main coordinate: 23 May counting day).",
+ "basis": "tradition: western/political astrology (input card has no tradition field and no chart; decided from provenance - astrologer news prediction).\nInput is chart-deficient: no birth chart, election chart or planetary positions are given, so no chart-based judgement is possible; judgement rests only on the facts supplied (incumbent PM Modi/BJP-NDA seeking a second term, assessment before voting) and incumbency momentum. Confidence lowered for missing chart.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

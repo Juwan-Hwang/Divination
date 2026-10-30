@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-003",
+ "prediction_text": "Barack Obama is re-elected, defeating Mitt Romney on 6 November 2012. Mercury turning retrograde on election day signals a repeat/return of the existing state of affairs rather than a change of administration — the incumbent stays. The race looks competitive in polling but the result holds for Obama. Timing: day-scale, 6 November 2012 (fixed value).",
+ "basis": "tradition: Western mundane/election astrology (per input card)\nCard facts: incumbent president running for re-election, competitive polls, Mercury retrograde beginning on election day. In election-astrology convention Mercury retrograde on the day favours the status quo/incumbent and muddles the challenger's surge. No natal charts given; call rests on incumbency plus the election-day configuration stated in the card.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

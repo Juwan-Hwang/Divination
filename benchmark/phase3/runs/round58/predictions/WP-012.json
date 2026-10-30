@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-012",
+ "prediction_text": "Joe Biden will win the 2020 US election and, after a contested and delayed count/dispute period, will actually take the presidency; what follows for the country is a polarised, unsettled aftermath rather than a clean transfer (window: from 3 November 2020 through the inauguration in January 2021; main coordinate: Biden's inauguration, 20 January 2021).",
+ "basis": "tradition: western/political astrology (input card has no tradition field and no chart; decided from provenance - news-report prediction on election eve).\nInput is chart-deficient: no chart data at all. Judgement rests on supplied facts: Biden leads in most polls on the eve, while mail-in voting disputes and warnings the loser may not accept the result point to a win followed by contest and division, not a smooth handover. Confidence lowered for missing chart.",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

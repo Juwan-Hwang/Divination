@@ -1,0 +1,12 @@
+{
+ "case_id": "YY2-004",
+ "prediction_text": "盘面残损，无从定断。本例输入卡本卦名原书版面即缺字（『得□之大壮』），chart_lines 与 moving_lines 均为 null：本卦不明则本宫、世应、六亲、动爻皆无从定，变卦大壮一侧亦系于本宫五行，不能单独成盘。按纪律不臆补：寿数长短、限关年份一概不报。仅记已知事实：占时为丙寅年丙申月丁巳日丙午时，旬空子丑（丁巳日推算复原）。俟盘面补全后另断。",
+ "basis": "tradition: liuyao（卡面自带 tradition=liuyao）。输入残损注记（照实）：attachments.hexagram 本卦缺字、chart_lines_top_to_bottom=null、moving_lines=null，卡面 completion_grade 已明载『不可补』（校正全本版面即缺字、异文查无）。无盘可装：用神、旺衰、动化、四路合参、应期三步皆无从执行，逐项记『无从执行』而非略过。卦名不作吉凶据（L1-37），不据变卦『大壮』之名下任何寿数断语。confidence 取低值仅表残损程度，非对寿数的判断。disputed=true：盘面本身不可定。",
+ "confidence": 0.1,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "本卦缺字、盘面 null 不可补，无盘可断，故 disputed=true；changed_main/reserve_used 无从谈起为 false。"
+ }
+}

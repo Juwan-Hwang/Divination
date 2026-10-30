@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "The conference panel's call: Hillary Clinton wins the 2016 US presidential election, defeating Donald Trump on 8 November 2016. The panel majority at the Costa Mesa ISAR conference reads the charts for the experienced, establishment candidate — Clinton — despite Trump's insurgent campaign. Timing: day-scale, 8 November 2016 (fixed value).",
+ "basis": "tradition: Western mundane/election astrology — conference panel prediction (per input card)\nCard facts: most polls favour Clinton; an international astrology conference panel is forecasting the race. Panel-consensus readings of this kind follow poll-consistent, establishment-favouring chart readings; the prediction recorded here is the panel's majority call (Clinton), stated as the master prediction this case samples. No individual charts are given in the card; confidence reflects the panel-consensus basis only.",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

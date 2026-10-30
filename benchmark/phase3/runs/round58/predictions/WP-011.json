@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-011",
+ "prediction_text": "Donald Trump will win re-election in the 2020 US presidential election on 3 November 2020 (window: election week from 3 November; main coordinate: 3 November 2020).",
+ "basis": "tradition: Vedic astrology (input card has no tradition field; setting supplies a Vedic chart fragment for Trump).\nThe only chart anchor supplied is specific and favourable to the incumbent: Jupiter in Trump's second house aspecting the tenth house, where the Sun is placed - a wealth/status planet aspecting the house of office with the Sun (authority) in it. Fact-priority: this case-specific chart fragment is taken over generic polling context, which this card does not supply. Confidence lowered because only a fragment, not a full chart, is given.",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

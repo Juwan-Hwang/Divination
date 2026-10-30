@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-009",
+ "prediction_text": "India will NOT win the 2019 Cricket World Cup; despite favourite status they will fall short in the knockout stage, with the tournament decided by 14 July 2019 (window: 30 May-14 July; main coordinate: the semi-final/final week in early-mid July).",
+ "basis": "tradition: western/Vedic sports astrology (input card has no tradition field and no chart; decided from provenance - astrologer book-launch prediction).\nInput is chart-deficient: no team/captain chart data beyond Kohli born 1988, no planetary positions. Favourite status alone is treated as insufficient under fact-priority: a ten-team round-robin plus knockouts makes the favourite's path fragile, and the supplied framing (a book of predictions launched promotionally) supports a contrarian non-win call rather than a title. Confidence low for missing chart.",
+ "confidence": 0.42,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

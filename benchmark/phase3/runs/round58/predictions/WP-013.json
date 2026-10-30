@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-013",
+ "prediction_text": "Labour under Keir Starmer will win the UK general election of 4 July 2024 by a large margin, and Starmer will become Prime Minister (window: election day; main coordinate: 4 July 2024).",
+ "basis": "tradition: western astrology (input card has no tradition field; provenance is an astrologer's prediction post, and the setting notes the election falls in the Sun sign Cancer).\nInput is chart-deficient: no candidate charts or transits are given. Judgement rests on supplied facts: Labour leads the governing Conservatives by roughly twenty points and the incumbent PM is damaged by the D-Day memorial episode; a twenty-point lead at this stage supports a decisive Labour victory, stated at that level only. Confidence reflects fact strength, lowered for missing chart.",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
