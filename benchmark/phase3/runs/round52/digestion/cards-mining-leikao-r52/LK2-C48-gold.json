@@ -1,0 +1,33 @@
+{
+ "contamination_reason": "竇參為唐貞元名相，其拜相屬可先驗知悉的史實一側，污染不低；但本夢軼事出宣室志筆記系統，非正史本傳主幹定本敘事，未至 high。R51 登記原作 mid-high，按本輪四檔（high/mid/low-mid/low）作 mid（偏高一端）。",
+ "contamination_suggestion": "mid",
+ "context": "正元中，栩國竇參為御史中丞，嘗一夕夢德宗召對於便殿，以錦半臂賜之。",
+ "grade_reason": "客解逐字獨立成句，指向股肱之位（宰相職）；結局為獨立句，具時限（明日）與確切官名（中書侍郎平章事），非確認式；夢者自念誤解與客解並錄可分離，輸入/金標可分離。",
+ "grade_suggestion": "A",
+ "id": "LK2-C48",
+ "license_status": "古典文本公有領域（明張鳳翼輯《夢占類考》）；掃描底本僅內部研究用",
+ "master_predictions": [
+  {
+   "date": null,
+   "direction": null,
+   "key_assertions": [],
+   "master": "客（無名，竇參之客）",
+   "source": "《夢占類考》卷六帷服部引宣室志",
+   "statement_excerpt": "半臂者，被股肱之衣也。今公夢天子賜之，豈非上將以股肱之位而委公乎？",
+   "tradition": "mengzhan"
+  }
+ ],
+ "notes": "結構：夢者先自念一解（誤：給半祿致政），客解為金標斷面，自念只照錄於 passage_full、不入輸入。字讀：年號原書作「正元」（貞元）照錄；R51 待核「栩國」二字 R52 視覺讀定為栩國；「大邑」之大字字形近太，依 R51 登記作大，列待核候主持裁。",
+ "outcome": {
+  "description": "明日果拜中書侍郎平章事。",
+  "verified_by": "原文結局文本（逐字）"
+ },
+ "passage_full": "正元中，栩國竇參為御史中丞，嘗一夕夢德宗召對於便殿，以錦半臂賜之。默念曰：臂者庇也，大邑所庇吾身也；今夢半臂者，上以其叨居顯位，將給半祿，俾我致政乎。客有解曰：半臂者，被股肱之衣也；今公夢天子賜之，豈非上將以股肱之位而委公乎？明日果拜中書侍郎平章事。宣室志",
+ "provenance": "《夢占類考》卷六帷服部「半臂賜錦半臂」條，PDF 199 左；底本 incoming/wanted-books-3/Book/梦占类考 (（明）张凤翼辑).pdf（438 頁）；原書標出處宣室志；transcription=visual（R52 回原頁 300dpi 視覺覆核）；登記出處 runs/round51/digestion/REGISTER-leikao-cont-r51.md LK2-C48 條",
+ "question": "竇參此夢主何應，其官位將如何？",
+ "record_status": "candidate-r52-mining",
+ "redistributable": false,
+ "setting": "唐正元中·便殿；夢占（夢天子賜衣物待解）",
+ "subject": "竇參，唐正元中御史中丞；夢者本人",
+ "tradition": "mengzhan"
+}

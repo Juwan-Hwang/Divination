@@ -1,0 +1,30 @@
+{
+ "stage": "stage2-card-selfcheck",
+ "seat": "leikao-cont-r52-second-seat",
+ "new_candidates_registered": [
+  "LK2-C52",
+  "LK2-C53",
+  "LK2-C54"
+ ],
+ "new_cards_built": [],
+ "reason_no_cards": "no candidate met A-grade + low contamination + separable threshold (C52 in-pool duplicate XJ47-147/mid-high, C53 A/mid, C54 B/high)",
+ "input_card_ids_present_in_dir": [
+  "LK2-C48",
+  "LK2-C51"
+ ],
+ "per_card": {
+  "LK2-C48": {
+   "file": "/home/hatch/workspace/divination/benchmark/phase3/runs/round52/digestion/cards-mining-leikao-r52/LK2-C48-input.json",
+   "hits": [],
+   "hit_count": 0,
+   "built_by_this_seat": false
+  },
+  "LK2-C51": {
+   "file": "/home/hatch/workspace/divination/benchmark/phase3/runs/round52/digestion/cards-mining-leikao-r52/LK2-C51-input.json",
+   "hits": [],
+   "hit_count": 0,
+   "built_by_this_seat": false
+  }
+ },
+ "total_hits": 0
+}

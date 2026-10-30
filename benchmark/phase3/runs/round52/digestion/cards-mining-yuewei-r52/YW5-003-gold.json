@@ -1,0 +1,33 @@
+{
+  "id": "YW5-003",
+  "tradition": "qian",
+  "subject": "侍姬郭氏（纪昀侍姬）",
+  "context": "纪昀在西域时，侍姬郭氏已病瘵。郭氏祈签于关帝，问尚能与纪昀相见否；时门人邱二田在寓闻之，曾就签语有所评断。",
+  "question": "郭氏祈签所问为何？邱二田就签语所下评断为何？",
+  "setting": "清·乾隆间；纪昀在西域，郭氏病中于关帝前祈签问相见，邱二田在寓解签",
+  "provenance": "《阅微草堂笔记》·卷十二·槐西杂志二(5)；在线全文实取 arteducation 分页站卷十二(5) https://www.arteducation.com.tw/guwen/bookv_17127.html；transcription=online-verbatim；访问日期 2026-10-31",
+  "redistributable": false,
+  "license_status": "古典文本公有领域；在线转录站条款未明，内部研究用",
+  "record_status": "candidate-r52-mining",
+  "notes": "tradition 代码「qian」为签占暂定码：既有卡 tradition 代码集（至 R51）未见签占先例，请主持定码后回填。同条前段卢暉吉推命一案另建 YW5-002。",
+  "master_predictions": [
+    {
+      "master": "邱二田（纪昀门人；签为郭氏自祈于关帝）",
+      "date": null,
+      "tradition": "qian",
+      "direction": null,
+      "key_assertions": [],
+      "source": "《阅微草堂笔记》·卷十二·槐西杂志二",
+      "statement_excerpt": "得一签曰：喜鹊檐前报好音，知君千里有归心，绣帏重结鸳鸯带，叶落霜雕寒色侵。（邱二田解）见则必见，然末句非吉语也。"
+    }
+  ],
+  "outcome": {
+    "description": "后余辛卯六月还，姬病良已，至九月，忽转剧，日渐沈绵，遂以不起。（纪昀后题其遗事诗注：姬以三月三十日亡。）",
+    "verified_by": "原文结局文本（逐字；相见与病卒两项独立事件）"
+  },
+  "passage_full": "余在西域时，姬已病瘵，祈签关帝，问尚能相见否？得一签曰：喜鹊檐前报好音，知君千里有归心，绣帏重结鸳鸯带，叶落霜雕寒色侵。谓余即当以秋冬归，意甚喜，时门人邱二田在寓闻之，曰：见则必见，然末句非吉语也。后余辛卯六月还，姬病良已，至九月，忽转剧，日渐沈绵，遂以不起。",
+  "grade_suggestion": "A",
+  "grade_reason": "签诗逐字可录、解者邱二田具名且判语逐字（见则必见、末句非吉语）；结局两项独立对应：辛卯六月还而相见（应必见）、九月病转剧遂不起（应末句非吉）。",
+  "contamination_suggestion": "low-mid",
+  "contamination_reason": "从严两点：对象同 YW5-002（纪昀侍姬）自 mid 起评；签诗本身为关帝灵签通行签文（今通行本第七十一签，签文文本广见流传）——但签文只在金标侧，输入侧不含；本案问事、邱二田解语与结局组合 2026-10-31 检索零个案命中，据此降一档至 low-mid；入账与否候主持终裁。"
+}
