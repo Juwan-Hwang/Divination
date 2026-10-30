@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-012",
+ "prediction_text": "断：求不到这个 parsonage（教职圣俸），此番谋求落空，不必强求。七项负证齐全：九宫主木星（圣俸主星）与上升主、月亮皆无相位，无传光、无集光、无互容，上升主与月亮亦不在九宫；土星在上升内阻碍全问（infortuning the question），金星居七宫冲上升主他人阻挠。此为终局单判：不成，无侥幸后段。应期不另给——终局为不成，应期只落在问后此次谋求周期内即见落空（月档内）。",
+ "basis": "输入卡 tradition 字段：horary；实际所用体系：西洋古典卜卦占星（horary，Lilly 九宫圣俸法）。\n依据：卡面明列 Lilly 七项负证（无 aspect、无 translation、无 collection、无 reception、主星不在九宫、土星伤上升、金星在七冲上升），按 Lilly 法负证全齐即判不得。部分行星字形 OCR 残损，但负证结构完整，置信不因此大降。",
+ "confidence": 0.86,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-004",
+ "prediction_text": "断：传闻不实——国王并未攻下剑桥（Cambridge）。四角皆变动主事虚浮易散；问者一方主星（上升主）居擢升得势，对方（七宫主，国王一方）入弱（fall）且受克，主王军无此胜绩；月亮陷宫居其不喜之座，消息本身无根。应期：日档，数日内即可证伪、无需久等。",
+ "basis": "输入卡 tradition 字段：未标注；实际所用体系：西洋古典卜卦占星（horary，Lilly 传闻真伪章）。\n依据：全角变动；土星伤十宫头、火星伤七宫头；月亮 cadent 且居不喜之座；上升主擢升、七宫主入 fall 受 affliction——按 Lilly  rumour 章，强弱倒置于传闻所指一方，判传闻为假。具体日期未给，盘面仅文字要点，置信据此微调。",
+ "confidence": 0.8,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

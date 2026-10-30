@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-205",
+ "prediction_text": "断：病人会死，此病不治。病性为固定、土性、忧郁（melancholic）的沉寒痼疾——六宫固定受伤、六宫主居固定土座忧郁之座，太阳（时光）与六宫主土星在固定宫成 perfect 冲，上升被八宫主（部分）本体所伤，月亮近南交点（Cauda）在上升受克：生气诸主同伤、死宫主临身，按 Lilly 病占为 mortal 之局。应期：月档（固定宫主慢），先定月不报日——问后数周至数月内为危期，主坐标落在月亮、太阳冲土星一线走完的当月内。",
+ "basis": "输入卡 tradition 字段：horary；实际所用体系：西洋古典卜卦占星（horary 病占生死，Lilly Chap.XLVI，1645年7月16日盘）。\n依据：上升受八宫主本体伤、六宫固定受克、六宫主固定土座、日土固定冲、月近 Cauda 在上升受 affliction——五项同指不治。上升星座字形 OCR 损坏未断言，已注明；不影响主星链判断。",
+ "confidence": 0.8,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

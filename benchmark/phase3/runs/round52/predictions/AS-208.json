@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-208",
+ "prediction_text": "断：Prince Rupert 在此战事中得不到荣誉，反会被 Essex 一方压过／ worst（吃败仗、失势）。Rupert 以十宫及其主太阳为星，太阳 peregrine 且入弱（detriment）居固定座，主其人有名位无实力、进退失据；Essex 以对宫主金星为星，金星与土星互容且支配 Rupert 的太阳，主 Essex 得势并反制 Rupert。后续：Rupert 声势渐衰、在英战事无大功而终局落败离场。应期：月／年档，此问后一个战季内（数月）即见其被 Essex 压过之局，后段以年内论衰。",
+ "basis": "输入卡 tradition 字段：horary；实际所用体系：西洋古典卜卦占星（horary，Lilly Chap.LXXXV 战事荣誉占，转宫十宫取贵人）。\n依据：太阳（Rupert 星）peregrine、detriment、固定；金星（Essex 星）与土星 reception 并 dispose 太阳；月亮 sinister 相十宫头、金星 dexter 相十宫头同指十宫（Rupert 位）受制于 Essex 一方。问时据卡内证约1642年11–12月（Edgehill 后一月余）。",
+ "confidence": 0.73,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

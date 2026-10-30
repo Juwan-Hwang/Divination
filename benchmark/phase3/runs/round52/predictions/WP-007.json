@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Direction: Donald Trump wins the 2016 US presidential election. What decides it: Hillary Clinton's scandals — the email controversy and the Clinton Foundation — fatally undermine her; a late scandal blow in the closing phase of the campaign swings the result to Trump, who wins despite trailing in most August polls.",
+ "basis": "Input card tradition field: not labelled (no such field); system actually used: Tarot (Waite/RWS) as framed by the card, with the card faces not supplied.\nInput limitation stated plainly: the card says a tarot reader drew cards in Union Square in August 2016 but does not list the cards drawn, so no card-by-card Waite reading is possible and none is fabricated; the prediction is therefore made at reduced confidence from the reading's framing in the card — the question asks who wins and what decides it, and the only deciding factors the card itself puts in play are Clinton's email controversy and the Clinton Foundation, read as the campaign's fatal burden, pointing to a Trump win decided by scandal.",
+ "confidence": 0.45,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

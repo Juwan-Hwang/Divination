@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-007",
+ "prediction_text": "断：Waller 一方胜，Hopton 一方败（当日 Cheriton 交战，胜负当日见分晓）。我方主星月亮擢升合木星、太阳（其资助／部众主）居十宫正在擢升正度（白羊19°），主势盛兵强；敌方主星土星（七宫主）入弱、焦伤（sub radiis）、无定位、无任何相位，又无后援（九宫仅火星与南交点）——主 Hopton 孤弱无援、必败。应期：日档，即交战当日（1644年3月29日）。",
+ "basis": "输入卡 tradition 字段：horary；实际所用体系：西洋古典卜卦占星（horary，Lilly 战阵胜负法）。\n依据：问者方以上升、月亮、木星、金星为用，月亮擢升合木星、太阳居十宫擢升正度；敌方土星 fall、sub radiis、peregrine、无相位、九宫无援——强弱悬殊，方向单判 Waller 胜。",
+ "confidence": 0.86,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
