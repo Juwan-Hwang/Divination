@@ -229,7 +229,7 @@
   "LY-405": 0.25,
   "LY-406": 0.0,
   "LY-407": 0.0,
-  "LY-408": 4.0,
+  "LY-408": 4.5,
   "LY-411": 0.25,
   "LY-413": 4.25,
   "LY-415": 0.0,
@@ -335,7 +335,7 @@
   "LY-626": 4.0,
   "LY-627": 0.0,
   "LY-628": 4.5,
-  "LY-629": 1.5,
+  "LY-629": 4.0,
   "MH-001": 5.75,
   "MH-002": 6.0,
   "MH-003": 3.5,
@@ -1866,8 +1866,8 @@
   "LY-408": {
    "direction": 2.0,
    "claims": 1.5,
-   "timing": 0.5,
-   "total": 4.0
+   "timing": 1.0,
+   "total": 4.5
   },
   "LY-411": {
    "direction": 0.0,
@@ -2500,10 +2500,10 @@
    "total": 4.5
   },
   "LY-629": {
-   "direction": 0.0,
-   "claims": 0.5,
+   "direction": 2.0,
+   "claims": 1.0,
    "timing": 1.0,
-   "total": 1.5
+   "total": 4.0
   },
   "MH-001": {
    "direction": 2.0,
@@ -3419,51 +3419,51 @@
   "headline": {
    "all": {
     "n": 487,
-    "pair_diff": -1.109,
+    "pair_diff": -1.103,
     "SE": 0.101,
-    "ours_mean": 3.553,
+    "ours_mean": 3.56,
     "master_mean": 4.662,
     "W": 141,
-    "T": 35,
-    "L": 311,
-    "W/T/L": "141/35/311"
+    "T": 36,
+    "L": 310,
+    "W/T/L": "141/36/310"
    },
    "low_contamination": {
     "n": 378,
-    "pair_diff": -1.687,
+    "pair_diff": -1.679,
     "SE": 0.101,
-    "ours_mean": 3.204,
+    "ours_mean": 3.212,
     "master_mean": 4.891,
     "W": 71,
-    "T": 25,
-    "L": 282,
-    "W/T/L": "71/25/282"
+    "T": 26,
+    "L": 281,
+    "W/T/L": "71/26/281"
    },
-   "ours_pass_ge4": 266,
+   "ours_pass_ge4": 267,
    "n": 487
   },
   "families": {
    "liuyao_dev8_c_segment": {
     "n": 246,
-    "pair_diff": -1.763,
+    "pair_diff": -1.751,
     "SE": 0.133,
-    "ours_mean": 3.068,
+    "ours_mean": 3.08,
     "master_mean": 4.831,
     "W": 48,
-    "T": 19,
-    "L": 179,
-    "W/T/L": "48/19/179"
+    "T": 20,
+    "L": 178,
+    "W/T/L": "48/20/178"
    },
    "liuyao_all": {
     "n": 309,
-    "pair_diff": -1.781,
+    "pair_diff": -1.771,
     "SE": 0.115,
-    "ours_mean": 3.088,
+    "ours_mean": 3.098,
     "master_mean": 4.869,
     "W": 57,
-    "T": 24,
-    "L": 228,
-    "W/T/L": "57/24/228"
+    "T": 25,
+    "L": 227,
+    "W/T/L": "57/25/227"
    },
    "liuyao_zh": {
     "n": 16,
@@ -3478,14 +3478,14 @@
    },
    "liuyao_combined": {
     "n": 325,
-    "pair_diff": -1.749,
+    "pair_diff": -1.74,
     "SE": 0.112,
-    "ours_mean": 3.118,
+    "ours_mean": 3.127,
     "master_mean": 4.867,
     "W": 62,
-    "T": 26,
-    "L": 237,
-    "W/T/L": "62/26/237"
+    "T": 27,
+    "L": 236,
+    "W/T/L": "62/27/236"
    },
    "liuren_dev8": {
     "n": 18,
@@ -3678,14 +3678,14 @@
    },
    "liuyao": {
     "n": 309,
-    "pair_diff": -1.781,
+    "pair_diff": -1.771,
     "SE": 0.115,
-    "ours_mean": 3.088,
+    "ours_mean": 3.098,
     "master_mean": 4.869,
     "W": 57,
-    "T": 24,
-    "L": 228,
-    "W/T/L": "57/24/228"
+    "T": 25,
+    "L": 227,
+    "W/T/L": "57/25/227"
    },
    "meihua": {
     "n": 8,
@@ -3945,18 +3945,18 @@
    "a_all": {
     "seg": {
      "n": 487,
-     "pair_diff": -1.109,
+     "pair_diff": -1.103,
      "SE": 0.101,
-     "ours_mean": 3.553,
+     "ours_mean": 3.56,
      "master_mean": 4.662,
      "W": 141,
-     "T": 35,
-     "L": 311,
-     "W/T/L": "141/35/311"
+     "T": 36,
+     "L": 310,
+     "W/T/L": "141/36/310"
     },
     "line": -1.371,
     "stands": true,
-    "margin": 0.262
+    "margin": 0.268
    },
    "b_guardrails": {
     "bazi_all": {
@@ -4028,18 +4028,18 @@
    "c_liuyao_dev8_single": {
     "seg": {
      "n": 246,
-     "pair_diff": -1.763,
+     "pair_diff": -1.751,
      "SE": 0.133,
-     "ours_mean": 3.068,
+     "ours_mean": 3.08,
      "master_mean": 4.831,
      "W": 48,
-     "T": 19,
-     "L": 179,
-     "W/T/L": "48/19/179"
+     "T": 20,
+     "L": 178,
+     "W/T/L": "48/20/178"
     },
     "line": -1.93,
     "stands": true,
-    "margin": 0.167,
+    "margin": 0.179,
     "fuse_line": -2.255,
     "fuse_triggered": false
    },
@@ -4125,8 +4125,8 @@
       "judgeY_total": 3.5,
       "abs_delta": 3.5,
       "double_view_mean_total": 1.75,
-      "arbitration_total": 4.0,
-      "final_total": 4.0,
+      "arbitration_total": 4.5,
+      "final_total": 4.5,
       "rule": "arbitration replaces double-view mean (analyze_r39 merge_views code rule)"
      },
      {
@@ -4136,8 +4136,8 @@
       "judgeY_total": 4.5,
       "abs_delta": 3.5,
       "double_view_mean_total": 2.75,
-      "arbitration_total": 1.5,
-      "final_total": 1.5,
+      "arbitration_total": 4.0,
+      "final_total": 4.0,
       "rule": "arbitration replaces double-view mean (analyze_r39 merge_views code rule)"
      }
     ]
