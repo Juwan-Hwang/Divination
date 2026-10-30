@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-007",
+ "prediction_text": "断：Waller 一方获胜，Hopton 败。Waller 方诸星极强：月亮擢升与木星同行、其资助/部属之主太阳居十宫且正落擢升正度（白羊 19°）；Hopton 之主土星则匿光（sub radiis）、落陷、无相位、无力，且九宫内除火星与南交点外空虚——其补给未备。胜负在交战当日（1644年3月29日）即分。方向：Waller 胜（positive 于 Waller）。",
+ "basis": "卡面 tradition：horary；实际所用体系：Lilly 古典卜卦占星（战争占，整宫制）。依据：双方主星尊贵强弱悬殊对比（擢升+角宫 vs 落陷+匿光+无相位）定胜负；九宫虚主对方援军/补给不至。卡面残损：全盘未给，仅散文关键位置。",
+ "confidence": 0.85,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

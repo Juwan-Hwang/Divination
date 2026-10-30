@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-008",
+ "prediction_text": "方向：现任总理莫迪领导的 BJP/NDA 获胜连任。具体断语：BJP 仍为议会第一大党、NDA 合计过半，莫迪开启第二任期；反对党国大党席位有回升但不足以组阁。应期：计票日 2019 年 5 月 23 日揭晓（事件窗 2019 年 4–5 月投票期，主坐标 5 月 23 日）。置信：中。",
+ "basis": "卡面未标注 tradition/system 字段。实际所用体系：西洋占星/政治占断框架（依 SKILL 路由，选举胜负类），但卡面未给任何候选人出生盘、选举日星盘，无盘可排——输入残损：缺出生日期时间地点与星盘数据，无法按 references/western-astro-numerology-runes.md 排盘回扣星体宫位，只能据卡面事实（在任者求连任、选前形势）作低置信方向判断，并按通则(e)事实优先序取与事实相合之象。应验对象：BJP/NDA 与莫迪本人，同一。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

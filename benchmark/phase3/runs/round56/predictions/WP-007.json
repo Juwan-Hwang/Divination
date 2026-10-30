@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Direction: Donald Trump wins the 2016 election, and what decides it is Hillary Clinton's email/Foundation controversy. The tarot reader's call, as framed by the card's own question ('what will decide it'), points to the scandal returning as the late decisive blow to Clinton — a damaging revelation/renewed investigation in the final stretch before 8 November 2016 swings the outcome to Trump. Timing: decided in the closing phase of the campaign, late October to election day 8 November 2016 (day/month scale).",
+ "basis": "卡面未标注 tradition/system 字段；实际所用体系：Tarot (Waite/RWS) as the card's stated method. Input severely residual: the card gives NO drawn cards, spread, positions or reversals — a Waite reading cannot be reconstructed and no card meanings are invented here, per the tarot reference (no reading without the actual draw). The prediction therefore rests only on card facts: the question's own framing asking what will decide it, and the setting's pointed inclusion of the Clinton email controversy and Clinton Foundation as already-public controversies in August 2016 — under fact-priority these are the operative anchors. Confidence substantially lowered for the missing spread.",
+ "confidence": 0.42,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

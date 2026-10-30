@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-004",
+ "prediction_text": "断：传闻不实——国王并未攻下剑桥。四角皆变动宫、月亮落陷无喜之座、占问方（议会）命主擢升有力，而对方（国王方）七宫主正入弱位受克：谣言占的标准凶象齐备，消息属虚报，不必据此行动。方向：传闻为假（negative 于传闻真实性）。",
+ "basis": "卡面未标注 tradition/system 字段；实际所用体系：Lilly 古典卜卦占星（horary 谣言占门，整宫制）。依据：Lilly 谣言占判据——角宫变动、月亮陷落无力主传闻虚浮；对方主星入弱受克主其事不成。卡面残损：全盘未给，仅散文关键位置，据此作断。",
+ "confidence": 0.78,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

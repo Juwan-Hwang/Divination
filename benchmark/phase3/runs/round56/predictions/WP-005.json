@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-005",
+ "prediction_text": "Direction: Donald Trump wins the 2016 US presidential election. The subject of this card is the one panel astrologer who, against a 17-candidate Republican field, had already picked Trump for the nomination — the same contrarian read is carried through to the general election: Trump, not the polling favourite Clinton, takes the White House on 8 November 2016 (day scale, given). The astrologer's earlier against-the-field accuracy is the card's signal that this out-of-consensus call is the prediction to record.",
+ "basis": "卡面未标注 tradition/system 字段；实际所用体系：Western mundane/election astrology (individual forecaster as subject). Distinction from the panel-consensus card: this card's setting singles out one astrologer's demonstrated contrarian hit (Trump as nominee from a 17-person field); per fact-priority, that individual track record, not the majority/polling position, is the operative fact for this case. Input residual: no charts and no quoted wording of the astrologer's general-election call are given, hence confidence held below 0.6.",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

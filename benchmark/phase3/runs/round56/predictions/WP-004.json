@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "Direction: The Costa Mesa conference panel's consensus prediction is Hillary Clinton to win the 2016 US presidential election over Donald Trump. The panel majority aligns with the polling favourite (Clinton); the forecast is a Clinton victory declared on/after election day, 8 November 2016 (day scale, given). This records the panel-as-subject's collective call, which is what the card asks.",
+ "basis": "卡面未标注 tradition/system 字段；实际所用体系：Western mundane/election astrology (panel consensus as the subject). Input residual: the card gives no charts, no individual panellists' votes and no vote split; the only hard facts are that most polls favour Clinton and that a forecasting panel was held. A conference panel consensus in that setting most plausibly ratifies the frontrunner. Confidence lowered: the panel's exact split is not in the card and cannot be reconstructed from the method references.",
+ "confidence": 0.48,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

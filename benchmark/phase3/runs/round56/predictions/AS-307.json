@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-307",
+ "prediction_text": "受访职业占星师群体表态以哈里斯占多数：主流断语为哈里斯赢得 2024 年美国总统选举（多位占星师各自以选举盘/候选人行运指向女性候选人当选），少数表态特朗普者不居主流。专访整体结论方向：哈里斯胜。应期：2024 年 11 月 5 日选举定局。",
+ "basis": "卡面 tradition=astrology；实际所用体系：西洋占星（选举预测，多人表态聚合）。输入残损严重：卡面无各占星师原文与盘面，仅有 HuffPost 专题背景；以群体多数取向为复现方向，置信低。",
+ "confidence": 0.42,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "非六爻（astrology），三项全 false。"
+ }
+}
