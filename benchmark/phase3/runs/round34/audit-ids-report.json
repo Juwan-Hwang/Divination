@@ -1,0 +1,2769 @@
+{
+ "files_scanned": 3814,
+ "ids_with_outcome": 1256,
+ "conflict_ids_total": 22,
+ "conflict_ids": {
+  "MP-001": [
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "MP-002": [
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "MP-003": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "MP-004": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "MP-005": [
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "MP-006": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "MP-007": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "MP-008": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "MP-009": [
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "MP-010": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "MP-011": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "MP-012": [
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "MP-013": [
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "MP-014": [
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "MP-015": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "MP-016": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "MP-017": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "MP-018": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "MP-019": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "MP-020": [
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl"
+  ],
+  "MP-021": [
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl"
+  ],
+  "MP-022": [
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl"
+  ]
+ },
+ "benign_multi_source_ids": 832,
+ "dev9_conflict_ids": {
+  "MP-001": [
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "MP-002": [
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "MP-003": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "MP-004": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "MP-005": [
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "MP-006": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "MP-007": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "MP-008": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "MP-009": [
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "MP-010": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "MP-011": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "MP-012": [
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "MP-013": [
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "MP-014": [
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "MP-015": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "MP-016": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "MP-017": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "MP-018": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "MP-019": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ]
+ },
+ "dev9_multi_source": {
+  "AS-001": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "AS-002": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "AS-003": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "AS-004": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl",
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/legacy-devadd/roster-legacy.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "AS-005": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "AS-007": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "AS-008": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "AS-009": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "AS-010": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl",
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/legacy-devadd/roster-legacy.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "AS-011": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "AS-012": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "AS-013": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "AS-014": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl",
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/legacy-devadd/roster-legacy.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "AS-015": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl",
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/legacy-devadd/roster-legacy.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "AS-204": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl"
+  ],
+  "AS-205": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl"
+  ],
+  "AS-206": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl"
+  ],
+  "AS-207": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl"
+  ],
+  "AS-208": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl"
+  ],
+  "AS-209": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl"
+  ],
+  "AS-210": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl"
+  ],
+  "AS-211": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl"
+  ],
+  "AS-212": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl"
+  ],
+  "AS-213": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl"
+  ],
+  "AS-215": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl"
+  ],
+  "AS-301": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "AS-302": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl",
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/legacy-devadd/roster-legacy.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "AS-303": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "AS-304": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl",
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/legacy-devadd/roster-legacy.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "AS-305": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "AS-306": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "AS-307": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "BQ-001": [
+   "benchmark/phase3/expansion7/bushi-quanshu/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "BQ-010": [
+   "benchmark/phase3/expansion7/bushi-quanshu/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "BQ-011": [
+   "benchmark/phase3/expansion7/bushi-quanshu/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "BQ-012": [
+   "benchmark/phase3/expansion7/bushi-quanshu/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "BQ-013": [
+   "benchmark/phase3/expansion7/bushi-quanshu/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "BQ-014": [
+   "benchmark/phase3/expansion7/bushi-quanshu/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "BQ-015": [
+   "benchmark/phase3/expansion7/bushi-quanshu/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "BQ-016": [
+   "benchmark/phase3/expansion7/bushi-quanshu/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "BQ-017": [
+   "benchmark/phase3/expansion7/bushi-quanshu/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "BQ-018": [
+   "benchmark/phase3/expansion7/bushi-quanshu/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "BQ-019": [
+   "benchmark/phase3/expansion7/bushi-quanshu/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "BQ-020": [
+   "benchmark/phase3/expansion7/bushi-quanshu/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "BQ-021": [
+   "benchmark/phase3/expansion7/bushi-quanshu/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "BQ-022": [
+   "benchmark/phase3/expansion7/bushi-quanshu/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "BQ-023": [
+   "benchmark/phase3/expansion7/bushi-quanshu/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "BQ-024": [
+   "benchmark/phase3/expansion7/bushi-quanshu/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "BQ-025": [
+   "benchmark/phase3/expansion7/bushi-quanshu/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "BZ-016": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl",
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/legacy-devadd/roster-legacy.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "BZ-019": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl",
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/legacy-devadd/roster-legacy.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "BZ-020": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "BZ-021": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl",
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/legacy-devadd/roster-legacy.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "BZ-022": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "BZ-023": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl",
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/legacy-devadd/roster-legacy.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "BZ-024": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "BZ-025": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "BZ-026": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "BZ-027": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl",
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/legacy-devadd/roster-legacy.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "BZ-028": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "BZ-029": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "BZ-030": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "BZ-031": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "BZ-032": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl",
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/legacy-devadd/roster-legacy.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "BZ-033": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "BZ-034": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "BZ-035": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "BZ-036": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "BZ-037": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl",
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/legacy-devadd/roster-legacy.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "BZ-038": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl",
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/legacy-devadd/roster-legacy.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "BZ-039": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "BZ-040": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "BZ-041": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "BZ-042": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "BZ-104": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "BZ-105": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "BZ-301": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "BZ-302": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "BZ-303": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "BZ-304": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "DT-001": [
+   "benchmark/phase3/expansion8/duanyi-tianji/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "DT-002": [
+   "benchmark/phase3/expansion8/duanyi-tianji/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "DT-003": [
+   "benchmark/phase3/expansion8/duanyi-tianji/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "DT-004": [
+   "benchmark/phase3/expansion8/duanyi-tianji/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "DT-005": [
+   "benchmark/phase3/expansion8/duanyi-tianji/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "DT-006": [
+   "benchmark/phase3/expansion8/duanyi-tianji/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "DT-007": [
+   "benchmark/phase3/expansion8/duanyi-tianji/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "LR-001": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "LR2-013": [
+   "benchmark/phase3/expansion7/liuren/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "LR2-014": [
+   "benchmark/phase3/expansion7/liuren/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "LR2-015": [
+   "benchmark/phase3/expansion7/liuren/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "LR2-016": [
+   "benchmark/phase3/expansion7/liuren/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "LR2-017": [
+   "benchmark/phase3/expansion7/liuren/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "LR2-018": [
+   "benchmark/phase3/expansion7/liuren/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "LR2-019": [
+   "benchmark/phase3/expansion7/liuren/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "LR2-020": [
+   "benchmark/phase3/expansion7/liuren/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "LR2-021": [
+   "benchmark/phase3/expansion7/liuren/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "LR2-022": [
+   "benchmark/phase3/expansion7/liuren/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "LR2-023": [
+   "benchmark/phase3/expansion7/liuren/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "LR2-024": [
+   "benchmark/phase3/expansion7/liuren/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "LR3-002": [
+   "benchmark/phase3/diagnosis-liuren/R30-fresh-cases.jsonl",
+   "benchmark/phase3/expansion9/liuren-chen1/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "LR3-004": [
+   "benchmark/phase3/diagnosis-liuren/R30-fresh-cases.jsonl",
+   "benchmark/phase3/expansion9/liuren-chen1/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "LR3-006": [
+   "benchmark/phase3/diagnosis-liuren/R30-fresh-cases.jsonl",
+   "benchmark/phase3/expansion9/liuren-chen1/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "LR3-008": [
+   "benchmark/phase3/diagnosis-liuren/R30-fresh-cases.jsonl",
+   "benchmark/phase3/expansion9/liuren-chen1/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "LR3-010": [
+   "benchmark/phase3/diagnosis-liuren/R30-fresh-cases.jsonl",
+   "benchmark/phase3/expansion9/liuren-chen1/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "LR3-101": [
+   "benchmark/phase3/diagnosis-liuren/R30-fresh-cases.jsonl",
+   "benchmark/phase3/expansion9/liuren-chen2/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "LR3-104": [
+   "benchmark/phase3/diagnosis-liuren/R30-fresh-cases.jsonl",
+   "benchmark/phase3/expansion9/liuren-chen2/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "LR3-107": [
+   "benchmark/phase3/diagnosis-liuren/R30-fresh-cases.jsonl",
+   "benchmark/phase3/expansion9/liuren-chen2/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "LR3-110": [
+   "benchmark/phase3/diagnosis-liuren/R30-fresh-cases.jsonl",
+   "benchmark/phase3/expansion9/liuren-chen2/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "LR3-112": [
+   "benchmark/phase3/diagnosis-liuren/R30-fresh-cases.jsonl",
+   "benchmark/phase3/expansion9/liuren-chen2/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "LR3-114": [
+   "benchmark/phase3/diagnosis-liuren/R30-fresh-cases.jsonl",
+   "benchmark/phase3/expansion9/liuren-chen2/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "LR3-116": [
+   "benchmark/phase3/diagnosis-liuren/R30-fresh-cases.jsonl",
+   "benchmark/phase3/expansion9/liuren-chen2/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "LY-001": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl",
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/legacy-devadd/roster-legacy.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "LY-002": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "LY-003": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "LY-004": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "LY-005": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "LY-006": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "LY-007": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "LY-008": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "LY-009": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "LY-01": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "LY-010": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl",
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/legacy-devadd/roster-legacy.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "LY-011": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl",
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/legacy-devadd/roster-legacy.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "LY-012": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "LY-013": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "LY-014": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl",
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/legacy-devadd/roster-legacy.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "LY-015": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "LY-016": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl",
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/legacy-devadd/roster-legacy.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "LY-017": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "LY-018": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "LY-019": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "LY-021": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "LY-022": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "LY-023": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "LY-024": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl",
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/legacy-devadd/roster-legacy.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "LY-025": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl",
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/legacy-devadd/roster-legacy.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "LY-026": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "LY-027": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "LY-028": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "LY-029": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "LY-030": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "LY-031": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl",
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/legacy-devadd/roster-legacy.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "LY-032": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "LY-033": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl",
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/legacy-devadd/roster-legacy.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "LY-034": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "LY-035": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "LY-036": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl",
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/legacy-devadd/roster-legacy.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "LY-102": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "LY-103": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl",
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/legacy-devadd/roster-legacy.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "LY-104": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "LY-105": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl",
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/legacy-devadd/roster-legacy.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "LY-202": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-203": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-204": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-205": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-206": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-207": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-208": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-210": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-211": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-212": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-215": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-216": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-217": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-218": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-219": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-220": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-221": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-222": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-227": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-228": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-230": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-231": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-232": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-234": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-235": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-237": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-240": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-241": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-242": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-243": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-244": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-245": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-246": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-249": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-250": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-251": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-252": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-253": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-254": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-255": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-259": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/zengshan/answers.jsonl"
+  ],
+  "LY-301": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/bushi/answers.jsonl"
+  ],
+  "LY-304": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/bushi/answers.jsonl"
+  ],
+  "LY-305": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/bushi/answers.jsonl"
+  ],
+  "LY-306": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/bushi/answers.jsonl"
+  ],
+  "LY-307": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/bushi/answers.jsonl"
+  ],
+  "LY-309": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/bushi/answers.jsonl"
+  ],
+  "LY-311": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/bushi/answers.jsonl"
+  ],
+  "LY-312": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/bushi/answers.jsonl"
+  ],
+  "LY-314": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/bushi/answers.jsonl"
+  ],
+  "LY-315": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/bushi/answers.jsonl"
+  ],
+  "LY-318": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/bushi/answers.jsonl"
+  ],
+  "LY-319": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/bushi/answers.jsonl"
+  ],
+  "LY-320": [
+   "benchmark/phase3/data/dev-new-answers.jsonl",
+   "benchmark/phase3/data/roster3.jsonl",
+   "benchmark/phase3/expansion/bushi/answers.jsonl"
+  ],
+  "LY-322": [
+   "benchmark/phase3/expansion2/bushi/answers.jsonl",
+   "benchmark/phase3/expansion2/bushi/roster-part.jsonl",
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-323": [
+   "benchmark/phase3/expansion2/bushi/answers.jsonl",
+   "benchmark/phase3/expansion2/bushi/roster-part.jsonl",
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-324": [
+   "benchmark/phase3/expansion2/bushi/answers.jsonl",
+   "benchmark/phase3/expansion2/bushi/roster-part.jsonl",
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-325": [
+   "benchmark/phase3/expansion2/bushi/answers.jsonl",
+   "benchmark/phase3/expansion2/bushi/roster-part.jsonl",
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-328": [
+   "benchmark/phase3/expansion2/bushi/answers.jsonl",
+   "benchmark/phase3/expansion2/bushi/roster-part.jsonl",
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-329": [
+   "benchmark/phase3/expansion2/bushi/answers.jsonl",
+   "benchmark/phase3/expansion2/bushi/roster-part.jsonl",
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-330": [
+   "benchmark/phase3/expansion2/bushi/answers.jsonl",
+   "benchmark/phase3/expansion2/bushi/roster-part.jsonl",
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-331": [
+   "benchmark/phase3/expansion2/bushi/answers.jsonl",
+   "benchmark/phase3/expansion2/bushi/roster-part.jsonl",
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-332": [
+   "benchmark/phase3/expansion2/bushi/answers.jsonl",
+   "benchmark/phase3/expansion2/bushi/roster-part.jsonl",
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-333": [
+   "benchmark/phase3/expansion2/bushi/answers.jsonl",
+   "benchmark/phase3/expansion2/bushi/roster-part.jsonl",
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-335": [
+   "benchmark/phase3/expansion2/bushi/answers.jsonl",
+   "benchmark/phase3/expansion2/bushi/roster-part.jsonl",
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-336": [
+   "benchmark/phase3/expansion2/bushi/answers.jsonl",
+   "benchmark/phase3/expansion2/bushi/roster-part.jsonl",
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-338": [
+   "benchmark/phase3/expansion2/bushi/answers.jsonl",
+   "benchmark/phase3/expansion2/bushi/roster-part.jsonl",
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-339": [
+   "benchmark/phase3/expansion2/bushi/answers.jsonl",
+   "benchmark/phase3/expansion2/bushi/roster-part.jsonl",
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-340": [
+   "benchmark/phase3/expansion2/bushi/answers.jsonl",
+   "benchmark/phase3/expansion2/bushi/roster-part.jsonl",
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-342": [
+   "benchmark/phase3/expansion2/bushi/answers.jsonl",
+   "benchmark/phase3/expansion2/bushi/roster-part.jsonl",
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-344": [
+   "benchmark/phase3/expansion2/bushi/answers.jsonl",
+   "benchmark/phase3/expansion2/bushi/roster-part.jsonl",
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-402": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-403": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-404": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-405": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-406": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-407": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-408": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-411": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-413": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-415": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-416": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-417": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-418": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-421": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-423": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-424": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-425": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-426": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-427": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-428": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-429": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-430": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-432": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-433": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-434": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-436": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-437": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-439": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-440": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-441": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-442": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-443": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-445": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-446": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-449": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-451": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-452": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-454": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-455": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-457": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-458": [
+   "benchmark/phase3/expansion2/dev-add-answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/answers.jsonl",
+   "benchmark/phase3/expansion2/zengshan/roster-part.jsonl",
+   "benchmark/phase3/roster4-additions.jsonl"
+  ],
+  "LY-501": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/holdout5/test_gold.jsonl",
+   "benchmark/phase3/roster6-additions.jsonl"
+  ],
+  "LY-502": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/holdout5/test_gold.jsonl",
+   "benchmark/phase3/roster6-additions.jsonl"
+  ],
+  "LY-503": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/expansion3/dev-add-answers.jsonl",
+   "benchmark/phase3/roster5-additions.jsonl"
+  ],
+  "LY-504": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/holdout5/test_gold.jsonl",
+   "benchmark/phase3/roster6-additions.jsonl"
+  ],
+  "LY-505": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/holdout5/test_gold.jsonl",
+   "benchmark/phase3/roster6-additions.jsonl"
+  ],
+  "LY-506": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/holdout5/test_gold.jsonl",
+   "benchmark/phase3/roster6-additions.jsonl"
+  ],
+  "LY-507": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/holdout5/test_gold.jsonl",
+   "benchmark/phase3/roster6-additions.jsonl"
+  ],
+  "LY-508": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/holdout5/test_gold.jsonl",
+   "benchmark/phase3/roster6-additions.jsonl"
+  ],
+  "LY-509": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/holdout5/test_gold.jsonl",
+   "benchmark/phase3/roster6-additions.jsonl"
+  ],
+  "LY-510": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/holdout5/test_gold.jsonl",
+   "benchmark/phase3/roster6-additions.jsonl"
+  ],
+  "LY-511": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/holdout5/test_gold.jsonl",
+   "benchmark/phase3/roster6-additions.jsonl"
+  ],
+  "LY-512": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/holdout5/test_gold.jsonl",
+   "benchmark/phase3/roster6-additions.jsonl"
+  ],
+  "LY-513": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/expansion3/dev-add-answers.jsonl",
+   "benchmark/phase3/roster5-additions.jsonl"
+  ],
+  "LY-514": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/holdout5/test_gold.jsonl",
+   "benchmark/phase3/roster6-additions.jsonl"
+  ],
+  "LY-515": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/holdout5/test_gold.jsonl",
+   "benchmark/phase3/roster6-additions.jsonl"
+  ],
+  "LY-516": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/holdout5/test_gold.jsonl",
+   "benchmark/phase3/roster6-additions.jsonl"
+  ],
+  "LY-517": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/holdout5/test_gold.jsonl",
+   "benchmark/phase3/roster6-additions.jsonl"
+  ],
+  "LY-518": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/holdout5/test_gold.jsonl",
+   "benchmark/phase3/roster6-additions.jsonl"
+  ],
+  "LY-519": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/holdout5/test_gold.jsonl",
+   "benchmark/phase3/roster6-additions.jsonl"
+  ],
+  "LY-520": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/holdout5/test_gold.jsonl",
+   "benchmark/phase3/roster6-additions.jsonl"
+  ],
+  "LY-521": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/holdout5/test_gold.jsonl",
+   "benchmark/phase3/roster6-additions.jsonl"
+  ],
+  "LY-522": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/holdout5/test_gold.jsonl",
+   "benchmark/phase3/roster6-additions.jsonl"
+  ],
+  "LY-523": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/holdout5/test_gold.jsonl",
+   "benchmark/phase3/roster6-additions.jsonl"
+  ],
+  "LY-524": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/holdout5/test_gold.jsonl",
+   "benchmark/phase3/roster6-additions.jsonl"
+  ],
+  "LY-525": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/expansion3/dev-add-answers.jsonl",
+   "benchmark/phase3/roster5-additions.jsonl"
+  ],
+  "LY-526": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/holdout5/test_gold.jsonl",
+   "benchmark/phase3/roster6-additions.jsonl"
+  ],
+  "LY-527": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/holdout5/test_gold.jsonl",
+   "benchmark/phase3/roster6-additions.jsonl"
+  ],
+  "LY-528": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/holdout5/test_gold.jsonl",
+   "benchmark/phase3/roster6-additions.jsonl"
+  ],
+  "LY-529": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/expansion3/dev-add-answers.jsonl",
+   "benchmark/phase3/roster5-additions.jsonl"
+  ],
+  "LY-530": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/expansion3/dev-add-answers.jsonl",
+   "benchmark/phase3/roster5-additions.jsonl"
+  ],
+  "LY-531": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/expansion3/dev-add-answers.jsonl",
+   "benchmark/phase3/roster5-additions.jsonl"
+  ],
+  "LY-532": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/expansion3/dev-add-answers.jsonl",
+   "benchmark/phase3/roster5-additions.jsonl"
+  ],
+  "LY-533": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/expansion3/dev-add-answers.jsonl",
+   "benchmark/phase3/roster5-additions.jsonl"
+  ],
+  "LY-534": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/expansion3/dev-add-answers.jsonl",
+   "benchmark/phase3/roster5-additions.jsonl"
+  ],
+  "LY-535": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/expansion3/dev-add-answers.jsonl",
+   "benchmark/phase3/roster5-additions.jsonl"
+  ],
+  "LY-536": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/expansion3/dev-add-answers.jsonl",
+   "benchmark/phase3/roster5-additions.jsonl"
+  ],
+  "LY-537": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/expansion3/dev-add-answers.jsonl",
+   "benchmark/phase3/roster5-additions.jsonl"
+  ],
+  "LY-538": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/expansion3/dev-add-answers.jsonl",
+   "benchmark/phase3/roster5-additions.jsonl"
+  ],
+  "LY-539": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/expansion3/dev-add-answers.jsonl",
+   "benchmark/phase3/roster5-additions.jsonl"
+  ],
+  "LY-540": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/expansion3/dev-add-answers.jsonl",
+   "benchmark/phase3/roster5-additions.jsonl"
+  ],
+  "LY-541": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/expansion3/dev-add-answers.jsonl",
+   "benchmark/phase3/roster5-additions.jsonl"
+  ],
+  "LY-542": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/expansion3/dev-add-answers.jsonl",
+   "benchmark/phase3/roster5-additions.jsonl"
+  ],
+  "LY-543": [
+   "benchmark/phase3/expansion3/cases.jsonl",
+   "benchmark/phase3/expansion3/dev-add-answers.jsonl",
+   "benchmark/phase3/roster5-additions.jsonl"
+  ],
+  "LY-601": [
+   "benchmark/phase3/expansion4/cases.jsonl",
+   "benchmark/phase3/holdout6/test_gold.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "LY-602": [
+   "benchmark/phase3/expansion4/cases.jsonl",
+   "benchmark/phase3/holdout6/test_gold.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "LY-603": [
+   "benchmark/phase3/expansion4/cases.jsonl",
+   "benchmark/phase3/holdout6/test_gold.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "LY-604": [
+   "benchmark/phase3/expansion4/cases.jsonl",
+   "benchmark/phase3/holdout6/test_gold.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "LY-605": [
+   "benchmark/phase3/expansion4/cases.jsonl",
+   "benchmark/phase3/holdout6/test_gold.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "LY-606": [
+   "benchmark/phase3/expansion4/cases.jsonl",
+   "benchmark/phase3/holdout6/test_gold.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "LY-607": [
+   "benchmark/phase3/expansion4/cases.jsonl",
+   "benchmark/phase3/holdout6/test_gold.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "LY-608": [
+   "benchmark/phase3/expansion4/cases.jsonl",
+   "benchmark/phase3/holdout6/test_gold.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "LY-609": [
+   "benchmark/phase3/expansion4/cases.jsonl",
+   "benchmark/phase3/holdout6/test_gold.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "LY-610": [
+   "benchmark/phase3/expansion4/cases.jsonl",
+   "benchmark/phase3/holdout6/test_gold.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "LY-611": [
+   "benchmark/phase3/expansion4/cases.jsonl",
+   "benchmark/phase3/holdout6/test_gold.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "LY-612": [
+   "benchmark/phase3/expansion4/cases.jsonl",
+   "benchmark/phase3/holdout6/test_gold.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "LY-613": [
+   "benchmark/phase3/expansion4/cases.jsonl",
+   "benchmark/phase3/holdout6/test_gold.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "LY-614": [
+   "benchmark/phase3/expansion4/cases.jsonl",
+   "benchmark/phase3/holdout6/test_gold.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "LY-615": [
+   "benchmark/phase3/expansion4/cases.jsonl",
+   "benchmark/phase3/holdout6/test_gold.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "LY-616": [
+   "benchmark/phase3/expansion4/cases.jsonl",
+   "benchmark/phase3/holdout6/test_gold.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "LY-617": [
+   "benchmark/phase3/expansion4/cases.jsonl",
+   "benchmark/phase3/holdout6/test_gold.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "LY-618": [
+   "benchmark/phase3/expansion4/cases.jsonl",
+   "benchmark/phase3/holdout6/test_gold.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "LY-619": [
+   "benchmark/phase3/expansion4/cases.jsonl",
+   "benchmark/phase3/holdout6/test_gold.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "LY-620": [
+   "benchmark/phase3/expansion4/cases.jsonl",
+   "benchmark/phase3/expansion4/dev-add-answers.jsonl",
+   "benchmark/phase3/roster6-additions.jsonl"
+  ],
+  "LY-621": [
+   "benchmark/phase3/expansion4/cases.jsonl",
+   "benchmark/phase3/expansion4/dev-add-answers.jsonl",
+   "benchmark/phase3/roster6-additions.jsonl"
+  ],
+  "LY-622": [
+   "benchmark/phase3/expansion4/cases.jsonl",
+   "benchmark/phase3/holdout6/test_gold.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "LY-623": [
+   "benchmark/phase3/expansion4/cases.jsonl",
+   "benchmark/phase3/holdout6/test_gold.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "LY-624": [
+   "benchmark/phase3/expansion4/cases.jsonl",
+   "benchmark/phase3/holdout6/test_gold.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "LY-625": [
+   "benchmark/phase3/expansion4/cases.jsonl",
+   "benchmark/phase3/holdout6/test_gold.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "LY-626": [
+   "benchmark/phase3/expansion4/cases.jsonl",
+   "benchmark/phase3/expansion4/dev-add-answers.jsonl",
+   "benchmark/phase3/roster6-additions.jsonl"
+  ],
+  "LY-627": [
+   "benchmark/phase3/expansion4/cases.jsonl",
+   "benchmark/phase3/expansion4/dev-add-answers.jsonl",
+   "benchmark/phase3/roster6-additions.jsonl"
+  ],
+  "LY-628": [
+   "benchmark/phase3/expansion4/cases.jsonl",
+   "benchmark/phase3/expansion4/dev-add-answers.jsonl",
+   "benchmark/phase3/roster6-additions.jsonl"
+  ],
+  "LY-629": [
+   "benchmark/phase3/expansion4/cases.jsonl",
+   "benchmark/phase3/expansion4/dev-add-answers.jsonl",
+   "benchmark/phase3/roster6-additions.jsonl"
+  ],
+  "MH-001": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl",
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/legacy-devadd/roster-legacy.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "MH-002": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "MH-003": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl",
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/legacy-devadd/roster-legacy.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "MH-006": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "MH-007": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "MH-008": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "MH-009": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "MH-010": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "MP-001": [
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "MP-002": [
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "MP-003": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "MP-004": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "MP-005": [
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "MP-006": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "MP-007": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part1.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "MP-008": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "MP-009": [
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "MP-010": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "MP-011": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "MP-012": [
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "MP-013": [
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "MP-014": [
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "MP-015": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "MP-016": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "MP-017": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "MP-018": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "MP-019": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion12/natal-batch2/cases-reviewed.jsonl",
+   "benchmark/phase3/expansion12/natal-batch2/cases.jsonl",
+   "benchmark/phase3/expansion6/modern-cn/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "OC-001": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/classical-other/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "OC-002": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/classical-other/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "OC-003": [
+   "benchmark/phase3/expansion6/classical-other/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "OC-004": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/classical-other/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "OC-005": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/classical-other/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "OC-006": [
+   "benchmark/phase3/expansion6/classical-other/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "OC-007": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/classical-other/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "OC-008": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/classical-other/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "OC-009": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/classical-other/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "OC-010": [
+   "benchmark/phase3/expansion6/classical-other/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "OC-011": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/classical-other/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "OC-012": [
+   "benchmark/phase3/expansion6/classical-other/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "OC-013": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/classical-other/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "OC-014": [
+   "benchmark/phase3/expansion6/classical-other/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "OC-015": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/classical-other/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "OC-016": [
+   "benchmark/phase3/expansion6/classical-other/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "OC-017": [
+   "benchmark/phase3/expansion6/classical-other/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "OC-018": [
+   "benchmark/phase3/expansion6/classical-other/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "OC-019": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/classical-other/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "OC-020": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/classical-other/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "OC-021": [
+   "benchmark/phase3/expansion6/classical-other/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "OC-022": [
+   "benchmark/phase3/expansion6/classical-other/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "OC-023": [
+   "benchmark/phase3/expansion6/classical-other/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "OC-024": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/classical-other/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "OC-025": [
+   "benchmark/phase3/expansion6/classical-other/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "OC-026": [
+   "benchmark/phase3/expansion6/classical-other/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "OC-027": [
+   "benchmark/phase3/expansion6/classical-other/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "OC-028": [
+   "benchmark/phase3/expansion6/classical-other/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "OC-029": [
+   "benchmark/phase3/expansion6/classical-other/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "OC-030": [
+   "benchmark/phase3/expansion6/classical-other/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "WP-001": [
+   "benchmark/phase3/expansion6/modern-west/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "WP-002": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/modern-west/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "WP-003": [
+   "benchmark/phase3/expansion6/modern-west/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "WP-004": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/modern-west/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "WP-005": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/modern-west/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "WP-006": [
+   "benchmark/phase3/expansion6/modern-west/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "WP-007": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/modern-west/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "WP-008": [
+   "benchmark/phase3/expansion6/modern-west/cases.jsonl",
+   "benchmark/phase3/holdout8/test_gold.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "WP-009": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/modern-west/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "WP-010": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/modern-west/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "WP-011": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/modern-west/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "WP-012": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/modern-west/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "WP-013": [
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/modern-west/cases.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "YM-002": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-003": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-004": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-005": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-007": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-008": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-009": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-010": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-012": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-013": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-014": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-015": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-017": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-018": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-019": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-020": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-022": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-023": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-024": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-025": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-027": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-028": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-029": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-030": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-032": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-033": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-034": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-035": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-037": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-038": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-039": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-040": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-042": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-043": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-044": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-045": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-047": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-048": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-049": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-050": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-052": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-053": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-054": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-055": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-057": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-058": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-059": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-060": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-062": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-063": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-064": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-065": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-067": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-068": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-069": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YM-070": [
+   "benchmark/phase3/expansion8/yimao/cases.jsonl",
+   "benchmark/phase3/roster9-additions.jsonl"
+  ],
+  "YY-006": [
+   "benchmark/phase3/expansion7/yiyin/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "YY-010": [
+   "benchmark/phase3/expansion7/yiyin/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "YY-011": [
+   "benchmark/phase3/expansion7/yiyin/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "YY-012": [
+   "benchmark/phase3/expansion7/yiyin/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "YY-013": [
+   "benchmark/phase3/expansion7/yiyin/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "YY-014": [
+   "benchmark/phase3/expansion7/yiyin/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "YY-015": [
+   "benchmark/phase3/expansion7/yiyin/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "YY-016": [
+   "benchmark/phase3/expansion7/yiyin/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "YY-017": [
+   "benchmark/phase3/expansion7/yiyin/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "YY-018": [
+   "benchmark/phase3/expansion7/yiyin/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "YY-019": [
+   "benchmark/phase3/expansion7/yiyin/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "YY-020": [
+   "benchmark/phase3/expansion7/yiyin/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "YY-021": [
+   "benchmark/phase3/expansion7/yiyin/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "YY-022": [
+   "benchmark/phase3/expansion7/yiyin/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "YY-023": [
+   "benchmark/phase3/expansion7/yiyin/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "YY-024": [
+   "benchmark/phase3/expansion7/yiyin/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "YY2-001": [
+   "benchmark/phase3/expansion7/yiyin2/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "YY2-002": [
+   "benchmark/phase3/expansion7/yiyin2/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "YY2-003": [
+   "benchmark/phase3/expansion7/yiyin2/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "YY2-004": [
+   "benchmark/phase3/expansion7/yiyin2/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "YY2-005": [
+   "benchmark/phase3/expansion7/yiyin2/cases.jsonl",
+   "benchmark/phase3/roster8-additions.jsonl"
+  ],
+  "ZY-001": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl",
+   "benchmark/phase3/data/dev7-baseline-build/packet-part2.json",
+   "benchmark/phase3/data/dev7-baseline-build/packet.json",
+   "benchmark/phase3/expansion6/legacy-devadd/roster-legacy.jsonl",
+   "benchmark/phase3/roster7-additions.jsonl"
+  ],
+  "ZY-002": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "ZY-003": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ],
+  "ZY-004": [
+   "benchmark/dual-axis/grading/outcome-availability.jsonl",
+   "benchmark/phase2/data/roster.jsonl"
+  ]
+ }
+}
