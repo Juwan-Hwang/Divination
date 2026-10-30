@@ -1,0 +1,15 @@
+{
+ "case_id": "WP-003",
+ "prediction_text": "Direction: Barack Obama wins re-election in the 2012 US presidential election, defeating Mitt Romney on 6 November 2012. A close, contested count with Mercury retrograde beginning on election day causing delays/confusion in reporting, but the incumbent retains the White House. Confidence moderate-high.",
+ "basis": "Western election astrology: incumbent advantage as framed by the panel context in the provenance; Mercury retrograde on election day read as count confusion/delay, not as reversal of the winner. No charts supplied in input; no house-level detail claimed.",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "西洋占星"
+ ]
+}

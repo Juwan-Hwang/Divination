@@ -1,0 +1,15 @@
+{
+ "case_id": "WP-008",
+ "prediction_text": "方向：莫迪领导的 BJP/NDA 获胜连任。依据输入标题所示占者判断与在任优势，NDA 跨过多数线、莫迪续任总理，国大党反对阵营不能翻盘。应期（月档内日点）：计票日 2019-05-23 定胜负，窗口为 2019-04-11 至 05-23 投票期，主坐标 05-23。",
+ "basis": "西洋/印度占星事件占无候选人出生时刻与出生地，输入残损：不能排本命盘，只能据输入所给情境事实（在任总理谋连任、投票与计票日期）及 provenance 标题『Odds in PM Modi's favour』所示占者口径落断，事实优先于星象发挥，故降置信。无具体星体×宫位×尊贵×相位可回扣，不臆补盘面。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western_astrology"
+ ]
+}

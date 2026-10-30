@@ -1,0 +1,15 @@
+{
+ "case_id": "WP-009",
+ "prediction_text": "方向：印度队不能夺得 2019 世界杯冠军。印度可进淘汰赛段（半决赛量级）但止步于此，不举杯。应期：赛期 2019-05-30 至 07-14 窗口内，主坐标 2019-07-14 决赛日定冠军不属印度。",
+ "basis": "输入残损：只给队长 Kohli 出生年份 1988、无出生日期时刻地点，不能排盘。输入 provenance URL 题名已明示该占星师断语为印度不会夺冠（team-india-wont-win），且情境称印度为热门之一——热门而被占者独排，按占者原断口径取负向，不以赔率热门改断，降置信。",
+ "confidence": 0.64,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western_astrology"
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Direction: Donald Trump wins the 2016 US presidential election. What decides it: Hillary Clinton's email controversy and Clinton Foundation questions eroding trust among late-deciding voters — the scandal/trust issue, not policy, is the deciding factor named in the reading, producing a late swing to Trump despite Clinton's August poll lead. Confidence moderate.",
+ "basis": "Tarot reading context (Manhattan tarot reader, August 2016, cards drawn on the election — no card list supplied in input, so no card-by-card claims are made). Deciding-factor detail is constrained to controversies already public in the input setting (emails, Foundation), per fact-priority: no invented later events.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "塔罗",
+  "西洋占星"
+ ]
+}

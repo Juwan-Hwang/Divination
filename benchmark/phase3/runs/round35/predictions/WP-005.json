@@ -1,0 +1,15 @@
+{
+ "case_id": "WP-005",
+ "prediction_text": "Direction: Donald Trump wins the 2016 US presidential election, defeating Hillary Clinton on 8 November 2016. The astrologer who alone had picked Trump as Republican nominee when 17 contested it follows through to a Trump general-election victory. Confidence moderate.",
+ "basis": "Western election astrology: input distinguishes this case by the one panel astrologer with the contrarian Trump-nominee track record; that track record is the case's salient signal, read as pointing to Trump in the general election against the poll-favoured Clinton. No charts supplied in input.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "西洋占星"
+ ]
+}

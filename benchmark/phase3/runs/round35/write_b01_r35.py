@@ -1,0 +1,52 @@
+import json, os
+base = os.path.expanduser("~/workspace/divination/benchmark/phase3/runs/round35/predictions")
+os.makedirs(base, exist_ok=True)
+T = {"changed_main": False, "reserve_used": False, "disputed": False, "reason": ""}
+S = ["horary astrology"]
+P = {
+"AS-001": ("儿子不在主人家，而在母亲自己的家里/已回到母亲住处：五宫主木星（儿子）落在上升角上、与问者一侧相近，月亮在双鱼入相六合四宫主土星（母亲的居所），指向儿子与母亲居所相连。母亲与儿子指示星将成三合于7月25日下午2时，主坐标即该日该时——母亲届时将见到儿子或确切得知他就在自家。应期单位为日，依据为输入所给三合完善时刻。置信分层：方向中高，时刻依所给成相点。",
+ "Asc Libra Venus querent; Jupiter lord 5th in Ascendant angular; Moon Pisces applying sextile Saturn lord 4th (mother's dwelling); mother-son significators perfect trine 25 July 2pm as stated in input. Whole-sign horary per Lilly, significator placement + applying aspect.", 0.62),
+"AS-002": ("会富有，且财富能持续终身。得财主路是婚姻：二宫主兼七宫主火星落上升近角宿、又是福点之主，财随婚姻来到本人身上；其次是本业/地位，木星擢升且近天顶在十宫、十宫主月亮入相合上升主金星。时间以年档计：月亮距合金星尚差6°27'，主坐标约6年半、窗口6–7年内致富。持续性由二宫头与福点同在固定星座保证，断为长久不散的小至大富（固定、无冲破，足级给长久）。",
+ "Mars lord 2nd and 7th and lord of Part of Fortune in Asc near Spica; Jupiter exalted angular near MC; Moon lady 10th applying conj Venus lady Asc wanting 6d27m; 2nd cusp and Part of Fortune in fixed signs = wealth by marriage first, trade/honour second, durable.", 0.66),
+"AS-003": ("能买成Master B.的房子，交易能成、钱也能赶上。卖主太阳在七宫受金星接纳（擢升近七宫头），七宫主又是十一宫主（本人希望），金星入相三合四宫主土星（房子本身）是成交主线。阻力在二宫主水星逆行：自有钱款一时收不回、付款会拖、价钱要磨（卖方初开价530镑不会轻松照付）。应期以月档计：窗口在数月内、约六个月钱款可调期之内成事，主张拖延而非告吹。",
+ "Sun seller in 7th received by Venus exalted near 7th cusp; lord 7th = lord 11th; Venus applying trine Saturn lord 4th (houses); Mercury lord 2nd retrograde = money delayed not denied; Saturn lord 4th no major debility except retro/cadent.", 0.72),
+"AS-004": ("传闻是假的：国王并未攻下剑桥。四角皆为本位星座主传闻多变易灭，十宫头受土星损害、七宫头受火星损害，月亮落陷无所喜，上升主（问者/议会一方）擢升得力，而七宫主（国王一方）正入弱且受克——王方无此胜。应期以日档计：本位角动得快，数日内消息即证伪/消散。",
+ "All angles moveable = rumour unstable/false; Saturn vitiating 10th cusp, Mars 7th cusp; Moon cadent in sign she delights not in; lady of Asc in exaltation vs lord 7th entering fall and afflicted. Lilly rumour chapter testimonies.", 0.78),
+"AS-005": ("船没有沉，还活着（在水上/已得安全），只是受过惊险。月亮为上升主、在金牛擢升落十一宫，入相三合七宫太阳与水星且只差分数即成、又近木星，是保存与喜讯之象；土星在十一宫刑上升近距，只主曾遇危险、船体受逼/有损耗之惊，不主沉没，南交点在九宫主航程有险。方位沿其本航向西班牙海岸一线、西向七宫一侧寻消息。应期以日档计：三合只差数分，窗口数日内、主坐标为最近数日即有确实消息到伦敦。",
+ "Cancer Asc ship body square Saturn in Aries 11th = danger/damage; Moon lady Asc exalted Taurus 11th applying trine Sun/Mercury in 7th wanting minutes, near Jupiter = preservation and imminent news; Cauda in 9th voyage peril overcome.", 0.63),
+"AS-007": ("Waller一方胜，Hopton败。Waller以升、月亮、木星、金星为凭：月亮擢升与木星同在，太阳（Waller的财力/助军之主）在十宫且正得19°白羊擢升度；月亮快速增光。Hopton的土星为七宫主，落陷、游离无本位尊贵、被太阳光束压制、无任何入相，且其补给一侧空虚（九宫只有火星与南交点）——无援无粮。应期以日档计：图即交战当日29 March 1644立，主坐标当日分胜负，Hopton退败。",
+ "Moon exalted with Jupiter, Sun lord of Waller's substance in 10th in exact exaltation degree for Waller; Saturn lord 7th for Hopton sub radiis, in fall, peregrine, no aspect, square 7th cusp, no supplies in 9th except Mars/Cauda.", 0.84),
+"AS-008": ("Essex能拿下Reading，城终将交出。Essex指示星火星虽在弱位却整体被加强、且与月亮互容（火星在月亮之家、月亮在火星界/面近轩辕十四又在十宫），月亮虽空亡后入相与火星成相（长升宫内六合等同刑之连结），主事情先滞后通。四宫主土星（守将）落弱，主守方无力；国王太阳在七宫固定宫主王军在场相持，故不是速克。应期以月档内日计：围困至四月下旬，主坐标约27 April城交付/投降，多半议降而非强攻屠城。",
+ "Mars significator of Essex fortified and in reception with Moon in 10th near Regulus; Moon void then applying to Mars in long-ascension signs; Saturn lord 4th for governor in fall; Sun King in 7th fixed = delay; Jupiter/Venus in 5th = town provisions sustain a siege for a time.", 0.70),
+"AS-009": ("狗能找回。寻向：往城内偏西、南方一季偏西之处找（狗指示星在西向星座、南季而趋西）。狗仍在伦敦：其指示星与上升同三方属性，主未出城。太阳月亮在八宫、月亮在日光下，主狗被遮藏、在暗处/人家收留遮蔽，不是明摆街头。应期以日档计：太阳于下周一入相与上升主土星成相，主坐标下周一找回/得消息。",
+ "6th house dog; dog significator in western sign southern quarter verging west, same triplicity as Asc (London); Moon airy under beams, Sun/Moon in 8th = hidden/concealed; Sun on following Monday applying dexter aspect to Saturn lord Asc = recovery timing.", 0.64),
+"AS-010": ("仆人往西边、偏南一带去了；且会回来/被寻回，不会久失。仆人指示星水星在西向星座、南季，逃时月亮亦在西向星座且仍同宫，主方向西而偏南。返回据：月亮在二宫自宫得位，太阳在二宫与十一宫星成完好相位，仆人指示星与上升主正趋向从角宫成三合——角宫三合主事近而速。应期以日档计：窗口为离开后数日内，主坐标在一周内返回或被带回。",
+ "Mercury servant significator in western sign south quarter; Moon at flight and still in western sign; Moon in 2nd in own house; servant significator and lord Asc hastening to trine out of angles = swift return/recovery.", 0.66),
+"AS-011": ("这门亲事能重新撮合并办成，只是须男方先开口、且靠中间人传光。女士太阳为升主，男士土星为七主，土星与火星合于固定土宫南角主旧怨与体面僵持；月亮空亡入相对冲太阳主先有阻隔。但木星擢升入相六合七主土星、并把土星之力转交升主太阳，其间无禁止/截断/挫败，相位于6月27日完善，这是成事主链；金星与月亮、太阳与金星的接纳助女士体面下台。应期以日档计：男方宜于6月19日近午先行动，主坐标6月27日议定/成局。",
+ "Jupiter exalted applying sextile Saturn lord 7th transferring Saturn's virtue to Sun lord Asc, no prohibition/abscission/frustration, perfecting 27 June; receptions Venus-Moon and Sun-Venus; Moon void/opposition Sun and Saturn-Mars fixed conjunction = obstacles first. Input gives 19 June advice timing.", 0.72),
+"AS-012": ("得不到这个教区/圣俸，不要指望。七项否定齐备：土星在上升受损污染全问，九宫主木星与升主无相、月亮与之亦无相，升主与月亮都不在九宫，无传光、无集光、无接纳；月亮离三合而入相对冲三宫主水星，主消息/同辈从中作梗，七宫金星对冲上升主有公开对手。结论为明确不成，强行追求只落空。应期：无成事应期，落空在本轮求职进程内见分晓（月档）。",
+ "Saturn impedited in Asc; Jupiter lord 9th in no aspect with lord Asc nor Moon; neither in 9th; no translation/collection/reception; Moon separating trine applying opposition Mercury lord 3rd; Venus in 7th opposing Asc. Lilly's seven negative testimonies.", 0.86),
+"AS-013": ("失鱼可找回大部/有望寻回，东西没有被运远。赃物水星在双鱼（潮湿之象），福点巨蟹、贼星木星天蝎皆水象，月亮金牛在地下，主鱼藏在潮湿低洼、近水、贴地遮盖之处——即仓房/驳船一带近水低处，不必远追。贼以七宫头上唯一游离而在角宫的木星论：一个表面体面、木星型的人（壮健/有身份感、与货物或仓储往来有关者），得手于夜仓被劫。寻回据：二宫主水星虽陷弱却在自界，又得月亮（福点之主）六合入相、并与福点三合。应期以日档计：数日内在近水仓房一带查低处可得。",
+ "Jupiter only peregrine planet in angle on 7th cusp in Scorpio moist = thief significator; Mercury goods in Pisces moist, Part Fortune Cancer moist, Moon Taurus under earth = goods hidden low/moist near water; Mercury lord 2nd fall/detriment but own terms, sextile Moon lady of Fortune and trine Fortune = recovery testimonies.", 0.58),
+"AS-014": ("偷钱的不是所怀疑的两个女仆，而是水星所指的男子：年轻/机敏、与账目文书或跑腿经手有关的男子（水星在角宫、无本位尊贵、与土星合相并刑火星）。被疑二人所以排除：火星（女仆）与土星虽被指，却各在自界自面，不取作贼星；月亮在阳性星座入相火星、水星所合土星火星皆阳性，主贼为男性，且可能与一土星型年长男子有牵连。赃款去向：水星在角宫主钱未远离原处、事可追查；但输入未给二宫主与福点的完整寻回链，故只断可经此人追回线索、全部原数追回把握不足。置信分层：贼人判断中等，追回判断低。",
+ "Asc Scorpio; Mars lord Asc in own terms/face refused as thief, Saturn in 7th in own term/face passed by; Mercury angular no essential dignity conj Saturn square Mars taken as thief; Moon masculine applying Mars and Mercury with masculine planets = male thief. Input lacks full 2nd-lord/Fortune recovery chain - recovery downgraded, noted in basis.", 0.52),
+"AS-015": ("在海上的丈夫还活着且平安无大碍：丈夫指示星太阳得其hayz（得时得位）、全然不受克害，主人安全、未遭海难。方位只可定到他在外海/异地平安处，输入未给太阳星座宫位全貌，不臆报具体海岸。归期：输入无两指示星入相度数，归期不可定点，只断他将平安返航、时间在数月尺度。反而妻子自身堪忧：其六宫主土星逆行主病反复，火星土星趋向凶相并牵月亮位置，输入明言其死期自图定在次临的10月8日——主断以丈夫生还为正、妻子病危在秋为副，勿混。",
+ "Husband significator Sun in hayz free from all affliction = alive and safe (input states this unambiguously); Saturn lord wife's 6th retrograde = relapsing illness; Mars/Saturn moving to ill aspect with Moon positions; input states wife's death timed 8 October following. Positions partly garbled - timing/port not invented, confidence lowered.", 0.55),
+"AS-204": ("病在胸胃：土星当时在巨蟹（主胸与胃），升主刚离土星的右刑，月亮在四宫与土星同在，六宫受一落弱之星所害，四角皆固定。病性为寒冷忧郁（土星性）的壅滞之疾，落在胸口与胃脘，进退缓慢。固定角主病势固着、不易速愈：断为可治但缠绵难拔、须久治，不是旦夕痊可之症；若问速愈则答不能速愈。应期以月档计，主转机在月亮/升主脱离土星凶系之后的数月尺度，无日级坐标可给（输入未给度数）。",
+ "Asc Scorpio; 6th afflicted by planet in fall therein; lord Asc lately separated dexter square Saturn in Cancer signifying breast/stomach; Moon in 4th with Saturn; all angles fixed = fixed, Saturnine cold-melancholic disease of breast/stomach, slow. Planet names/degrees incomplete in input - noted, confidence lowered.", 0.52),
+"AS-205": ("病人会死、病不可救回。上升被一兼主八宫之星以本体临宫最重地损害，六宫固定且受害，六宫主在固定土性忧郁星座，太阳（时光）与六宫主土星在固定星座成完好对冲，月亮近龙尾且在上升受害——生气被八宫、六宫、土星三路同压，无救星入相解围。病为土星性固定土象的忧郁壅塞重疾。应期以月档计、先不落日：固定星座主拖延，危机在当前对冲成象之本月尺度内，主窗口数周至一月内见终局。",
+ "Asc most afflicted by corporal presence of planet partly lord 8th; 6th sign fixed afflicted, lord 6th in fixed earthly melancholy sign; Sun perfect opposition Saturn lord 6th in fixed signs; Moon near Cauda and afflicted in Asc. Multiple unrelieved death testimonies in Lilly sickness chapter.", 0.82),
+"AS-206": ("她能嫁给所慕的那个男子，但要经过波折与中间人传光。女方水星逆行又在日光下，主她势弱心悔；男方指示星（七宫主木星）在擢升、近六合金星，主男方条件高、且曾与另一女子纠缠，这是阻力。成事主链是传光：月亮离木星之刑、把木星之光以三合带给上升主水星，两指示星本体虽只成半六合（不成正式相望），靠月亮转交才接通——故断经第三者/Jupiter型中介说合后成婚。应期以月档计：数月内议成，无确切度数不报日。",
+ "Mercury significatrix retro under beams; quesited significator (Jupiter, lord 7th) in exaltation near sextile Venus; significators in semi-sextile in good houses (no proper aspect alone); Moon separating square Jupiter carrying his light by trine to Mercury lord Asc = translation of light perfecting the match despite his high terms/other tampering in setting.", 0.66),
+"AS-207": ("坎特伯雷大主教劳德将死于暴力处决——刀斧之刑（斩首之象），不是在狱中自然病死。以九宫头为其命宫，宫主土星落陷、久逆、又在全图十二宫（囚禁/暗敌），主其人已囚而势绝；月亮离土星入相太阳（太阳近八宫头、在火象、入相对冲火星），火星为其主宰星且在风象人形星座，月亮距合火星之体尚差7°：火星主铁刃、风象人形主公开由人行刑、斩落之象最合。应期尺度以月档计，7°取约数月量级作窗口，主坐标不另报日（输入未给问时）。",
+ "9th cusp taken as his Asc; Saturn lord thereof in fall long retro in 12th of figure = imprisoned and ruined; Moon separating Saturn applying Sun near 8th cusp, Sun fiery applying opposition Mars his dispositor, Mars in airy humane sign, Moon wanting 7 degrees of Mars body = violent death by blade/executioner.", 0.74),
+"AS-208": ("鲁珀特亲王不会在此战中得荣誉，也不会压倒Essex伯爵；占上风的是Essex。鲁珀特以十宫及其主太阳论，太阳游离且在固定星座落陷（水瓶陷位），其主宰又被对方收管：Essex的金星（对宫之主）与土星互容、且金星管制鲁珀特的太阳，金星又以右相临十宫头，月亮以左相临十宫头——十宫（其荣誉）受对方之星左右。断为鲁珀特声名受挫、出师无功或败绩，Essex保住地面与优势。应期以月档计：Edgehill之后数月的冬季战局内见挫。",
+ "Rupert by 10th and lord Sun peregrine in detriment in fixed sign; Essex Venus lady opposite house in reception with Saturn, Venus disposing Rupert's Sun; Moon sinister aspect to 10th cusp and Venus dexter aspect to 10th cusp = honour controlled/afflicted by opponent.", 0.70),
+"AS-209": ("两问分断。其一，国王能从爱尔兰征得援军来对议会，但迟缓：国王月亮在巨蟹十宫自宫、增光、无凶害，只病在行动迟缓，主其事终成而慢；十一宫（援助）主太阳在七宫擢升、正趋向十一宫头尚差6°、且正对冲上升（议会），主援军得力并将与议会为敌。应期以月档计，6°约六个月量级援军成行。其二，王后会进军南下与国王相会，但进军后运势转落、不算昌盛：王后指示星土星正换宫入白羊落陷，主移动本身即入弱地；月亮距三合土星尚差3–4°，主坐标约3–4个月内夫妻/两军相会，会后王后一侧势衰而非大胜。",
+ "King Moon in Cancer 10th own house increasing light void of infelicity except slowness; Sun lord 11th (aid) in 7th exalted applying 11th cusp wanting 6 degrees, opposition Asc Parliament; Queen significatrix Saturn lord 4th (7th from 10th) removing into Aries his fall; Moon wanting 3-4 degrees of trine Saturn = meeting timing.", 0.62),
+}
+for cid,(text,basis,conf) in P.items():
+    rec={"case_id":cid,"prediction_text":text,"basis":basis,"confidence":conf,"trigger":dict(T),"systems_used":list(S)}
+    with open(os.path.join(base,cid+".json"),"w",encoding="utf-8") as f:
+        json.dump(rec,f,ensure_ascii=False,indent=1)
+print(len(P))

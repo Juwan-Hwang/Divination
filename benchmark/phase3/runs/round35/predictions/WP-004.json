@@ -1,0 +1,15 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "Direction: The conference panel predicts Hillary Clinton will win the 2016 US presidential election, defeating Donald Trump on 8 November 2016. This records the panel's consensus forecast (Clinton victory). Confidence moderate (as a record of the panel prediction).",
+ "basis": "Western election astrology panel context: input states most polls favour Clinton and the setting is the panel's forecast; the case asks who will win as predicted by this panel source. No individual charts supplied. Prediction text deliberately framed as the panel's predicted winner.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "西洋占星"
+ ]
+}

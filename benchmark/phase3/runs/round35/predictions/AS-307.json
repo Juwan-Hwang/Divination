@@ -1,0 +1,15 @@
+{
+ "case_id": "AS-307",
+ "prediction_text": "公开预测复原方向：受访的美国职业占星师群体多数表态哈里斯赢得 2024 年美国总统选举——即该专题的群体主断为哈里斯胜、特朗普败，少数持相反或保留意见。应期即 2024 年 11 月 5 日投票日见分晓。",
+ "basis": "输入只有专题形式（2024 年 10 月 HuffPost 采访多位选举占星师公开表态）与发问背景，无逐人原文、无星盘，属残损输入。本断按『群体多数一边』复原为哈里斯一边，个体分布无据，已降置信并明记残损。动化方向：不适用。反转条件：不适用。",
+ "confidence": 0.45,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western astrology"
+ ]
+}

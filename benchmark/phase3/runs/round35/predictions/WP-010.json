@@ -1,0 +1,15 @@
+{
+ "case_id": "WP-010",
+ "prediction_text": "方向：拜登（Joe Biden）赢得 2020 美国总统选举、击败在任的特朗普。战况胶着、部分州计票拖延，但最终 Electoral College 胜者为拜登。应期：2020-11-03 投票日为窗口起点，窗口约一周，主坐标 2020-11-07 前后计票明朗定胜。",
+ "basis": "输入残损：无两候选人完整出生盘，只给访谈所用吠陀口径下拜登天蝎上升一項，且明言三位占星师彼此分歧。本例按该组访谈中以拜登星盘立论的一路与选前民调领先事实合参取拜登；分歧本身使置信下调。不臆补未给的特朗普盘面细节（彼属另一案例切片）。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western_astrology"
+ ]
+}

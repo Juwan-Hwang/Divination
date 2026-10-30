@@ -1,0 +1,15 @@
+{
+ "case_id": "WP-013",
+ "prediction_text": "方向：工党（Labour）在 2024-07-04 英国大选中获胜，斯塔默（Keir Starmer）出任首相，保守党下野，且为幅度明显的胜利（工党议席过半数较多）。应期：日档，2024-07-04 投票当日夜间计票定胜，主坐标 2024-07-04。",
+ "basis": "输入残损：无斯塔默/苏纳克出生盘，只给情境事实——工党民调领先约二十个百分点、仓促大选、选举落在巨蟹座太阳 signo 一项，及 provenance 条目标题『Labour Wins the 2024 UK Election』所示占者条目。事实（二十点领先）与占者条目同向，按事实优先序取工党胜，星象只作旁注，置信因无盘下调但方向证据强。",
+ "confidence": 0.74,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western_astrology"
+ ]
+}
