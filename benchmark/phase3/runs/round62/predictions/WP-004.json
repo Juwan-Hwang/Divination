@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "Prediction: Hillary Clinton wins the 2016 US presidential election. The forecasting panel's consensus, aligned with the polling lead Clinton holds through October, favours the Democrat; no chart feature supplied in the material overturns the favourite. Decided 8 November 2016 (unit: day; election day fixed by the question).",
+ "basis": "tradition=western-astrology（输入卡无tradition字段，据题面体裁自决）\nsystems_used=西洋占星·世运/选举占星（外行星配置＋周期指数＋题面所载盘面线索）\nMaterial as given: an international astrology conference election panel (Costa Mesa, October 2016); most polls favour Clinton. Method note: this seat follows the panel-consensus reading that the source presents — the panel's collective judgement is the master signal for this card, and no contrary chart datum is supplied in the card to set against it (fact-priority: only card-carried facts may be used; none supplied for the other side). Timing: day scale (single-day event). R61-REV1-2: primary path = panel consensus; second path = polling-favourite corroboration; both point to Clinton, single coordinate retained. R61-REV1-4: winner-only claim, no sub-claims to grade.",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

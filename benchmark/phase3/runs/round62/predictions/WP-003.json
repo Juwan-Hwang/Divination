@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-003",
+ "prediction_text": "Prediction: Barack Obama is re-elected in 2012, in a close and messy count. Mercury turning retrograde on Election Day (6 November 2012) repeats the signature of disputed, delayed tallies — expect recount-level confusion and a result contested past election night — but retrograde disturbance of the count does not overturn the incumbent's underlying position. Winner: Obama (unit: day; election day fixed by the question).",
+ "basis": "tradition=western-astrology（输入卡无tradition字段，据题面体裁自决）\nsystems_used=西洋占星·世运/选举占星（外行星配置＋周期指数＋题面所载盘面线索）\nChart clue as given: Mercury retrograde begins on election day. Election-astrology reading: Mercury Rx on the day governs the counting process (delays, errors, disputes — the 2000 precedent), i.e. it describes the manner of the result more than its direction; direction is read from incumbency plus the absence of any stronger displacement signature in the material given. Fact-priority: polling shows a competitive race — hence 'close' is retained as a graded claim (pointer: competitive polling + Rx count signature, 2 pointers). R61-REV1-2: primary path = Mercury Rx (process); second path = incumbency/default direction; the two address different layers (manner vs winner) and do not conflict; winner coordinate retained. R61-REV1-4: 'recount-level confusion' is a state-class claim with 1 pointer (Mercury Rx) — phrased as expectation, not certainty, granularity already softened.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

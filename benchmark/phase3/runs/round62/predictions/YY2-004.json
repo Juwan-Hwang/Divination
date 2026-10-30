@@ -1,0 +1,12 @@
+{
+  "case_id": "YY2-004",
+  "prediction_text": "方向：无据不断（盘面残损）。具体断语：输入卡载本卦名原书版面即缺字（『得□之大壮』），chart_lines_top_to_bottom与moving_lines均为null——本卦不明则本宫、世应、六亲、用神皆无从定，任何寿限方向与年份都属臆补，本席不落寿数断语。仅记已知事实：占时丙寅年丙申月丁巳日丙午时，变卦为坤宫雷天大壮，旬空子丑。应期：无盘可推，不报应期。此例待盘面补全后另占另断。",
+  "basis": "tradition=liuyao\nsystems_used: 六爻纳甲（因盘面残损未能执行）\n输入残损注记（照实，依输入卡notes.completion_grade）：chart_lines_top_to_bottom grade为『不可补』——本卦名原书版面即缺字，本卦不明则本宫、世应、六亲、动爻皆无从定，变卦大壮一侧六亲亦系于本宫五行不能单独成盘；moving_lines同为不可补。已查校正全本与合集异文未得补（卡内自述）。\n处置：按纪律『输入残损照实注明并降置信、不臆补』——不装卦、不定用神、不走决策序，置信0.15。动化方向/反转条件/四路合参：均无盘可核，明写不适用。\nR61-REV1-2/-3：无应期断语，明写无应期、R61-REV1-2/-3不适用。\nR61-REV1-4：无具体断项，明写无具体断项、R61-REV1-4不适用。",
+  "confidence": 0.15,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": "盘面残损不可成盘，无从判定三项，as实记false并在reason与basis注明残损"
+  }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-005",
+ "prediction_text": "Prediction: Donald Trump wins the 2016 US presidential election. The panel astrologer who alone picked Trump as Republican nominee when 17 Republicans still contested it — the one demonstrated forecasting edge in this material — is followed here against the polling consensus: the same disruption signature that carried the nomination carries the general election. Decided 8 November 2016 (unit: day; election day fixed by the question).",
+ "basis": "tradition=western-astrology（输入卡无tradition字段，据题面体裁自决）\nsystems_used=西洋占星·世运/选举占星（外行星配置＋周期指数＋题面所载盘面线索）\nMaterial as given: same election and panel as the companion card, plus one discriminating fact — a panel astrologer had earlier, against a 17-candidate field, correctly picked Trump for the nomination. Method: when a source contains one forecaster with a demonstrated against-consensus hit on this very cycle, that forecaster's line outweighs panel consensus and polls (track-record weighting). Fact-priority: polls favour Clinton — recorded, and explicitly set aside with the reason stated (the nominee call is the stronger signal). R61-REV1-2: primary path = forecaster track record; second path = disruption-signature continuity from nomination to general; both converge on Trump. R61-REV1-4: winner-only claim.",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

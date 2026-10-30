@@ -195,7 +195,7 @@ for f in glob.glob(str(R59D / 'predictions/*.json')):
         if p.get('trigger', {}).get(k):
             trig[k] += 1
 trig_counts = {k: trig[k] for k in ('changed_main', 'reserve_used', 'disputed')}
-host_expected = {"changed_main": -1, "reserve_used": -1, "disputed": -1}  # HOST FILLS after freeze verify (verify_predictions_host_r62.py, FREEZE-r62)
+host_expected = {"changed_main": 123, "reserve_used": 76, "disputed": 122}  # host freeze verify recount (verify_predictions_host_r62.py, FREEZE-r62)
 assert trig_counts == host_expected, (trig_counts, host_expected)
 print('predictions read:', npred)
 print('trigger true counts:', trig_counts, '| host final check:', host_expected,

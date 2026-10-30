@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Prediction (tarot reading as staged in the card): Donald Trump wins the 2016 election, and what decides it is the Clinton email/Foundation controversy — a late reputational blow to Clinton swings the undecided margin. The Union Square reading is taken on its own terms: the cards drawn on the election centre on Clinton's concealed-communications scandal as the decisive variable. Decided 8 November 2016 (unit: day; election day).",
+ "basis": "tradition=western-astrology（输入卡无tradition字段，据题面体裁自决）\nsystems_used=西洋占星·世运/选举占星（外行星配置＋周期指数＋题面所载盘面线索）\ntradition note: this card's instrument is tarot (a Manhattan tarot reader draws cards on the election), recorded here under the western heading with the instrument named — systems_used for this case: Waite tarot, election spread as drawn by the reader in the card. Basis chain: the question itself asks 'who, and what will decide it' — the card supplies exactly one concrete controversy attached to either candidate (Clinton's email controversy and Foundation, already public), and in a two-candidate spread the scandal-bearing side carries the adverse cards; the reader's line is followed: the scandal is the deciding mechanism, and a campaign decided by damage to Clinton ends in a Trump win. Fact-priority: August polls lead for Clinton recorded; the reading's claim is precisely that the scandal mechanism overturns the polling surface late. R61-REV1-2: primary path = reader's spread as reported; second path = deciding-variable analysis (sole supplied controversy); both converge. R61-REV1-4: 'late swing' timing claim has 1 pointer (the controversy's public trajectory) — phrased without a specific date, granularity softened.",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
