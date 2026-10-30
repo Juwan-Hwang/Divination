@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-007",
+ "prediction_text": "沃勒（Waller）胜，霍普顿（Hopton）败。此战就在当日（1644年3月29日）见分晓：议会军得胜，王军被击退/溃散，霍普顿得不到援军接济。",
+ "basis": "卜卦占星（Lilly 战争问）：沃勒方以升、月、木、金为星，月亮擢升与木星同在、太阳（其资助/部众之主）在10宫正居擢升度数，主其方强而得地；霍普顿主星土星入弱、焦伤（sub radiis）、无相位、无根，且9宫只有火星与南交点主其无援。强弱悬殊，足级判沃勒胜（b）。",
+ "confidence": 0.9,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

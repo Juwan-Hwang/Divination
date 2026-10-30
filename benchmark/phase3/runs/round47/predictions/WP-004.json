@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "The Costa Mesa ISAR election panel's consensus call: Hillary Clinton wins the 2016 US presidential election (8 November 2016), defeating Donald Trump. The panel majority aligns with the polling favourite; the deciding signature is read as the established, experienced candidate prevailing over the insurgent — a Saturnian continuity result rather than an Uranian upset.",
+ "basis": "Western mundane astrology, panel-consensus level: the input frames an international conference forecasting panel with Clinton favoured by most polls; absent any supplied chart or card data in the input, the panel-level prediction is recorded as the majority/favourite call. Input残损 noted: no configuration, charts or votes breakdown is given in the case file, so this is a direction-only call at panel level and confidence is held at 0.5.",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

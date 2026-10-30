@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-304",
+ "prediction_text": "Kamala Harris will win the 2024 US presidential election, narrowly / by a close Electoral College margin over Donald Trump, despite a neck-and-neck popular contest. Result known 5-6 November 2024 (the election itself is the time coordinate).",
+ "basis": "Modern election astrology, no chart/candidate charts in input (residual, confidence lowered); asked 2024-09-09 with polls close, astrologer's public pick required a single winner.",
+ "confidence": 0.38,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-306",
+ "prediction_text": "The Democratic nominee will change and Donald Trump will win: Biden, whose age/state is already questioned, will drop out / be replaced (Harris stepping in as nominee), and Trump will then win the November 2024 election. Time window: nominee change in summer 2024 (main change by July), election decided 5 November 2024.",
+ "basis": "Vedic astrology video 2024-06-02, no chart in input (residual, confidence lowered); question explicitly includes candidate replacement, asked while Biden still candidate and Harris not yet nominee.",
+ "confidence": 0.45,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

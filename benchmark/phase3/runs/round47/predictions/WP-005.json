@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-005",
+ "prediction_text": "Donald Trump wins the 2016 US presidential election (8 November 2016). The panel astrologer who had already, against a 17-candidate field, picked Trump for the Republican nomination follows the same signature through to the general election: the outsider's momentum carries the White House despite Clinton leading most polls — an upset result decided against the polling consensus.",
+ "basis": "Western mundane astrology, individual-forecaster level: the case distinguishes this forecaster by an earlier verified against-the-field call (Trump as nominee from 17 Republicans), which is the only forecaster-specific evidence supplied; consistency of that reading is extended to the general election per the question. No charts are supplied in the input, so no planetary detail is fabricated; confidence held at 0.5 in explicit contrast with the panel-consensus case (WP-004).",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

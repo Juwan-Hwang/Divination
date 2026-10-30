@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Donald Trump wins the 2016 US presidential election — and what decides it is Hillary Clinton's scandal burden: the email controversy and Clinton Foundation questions corrode her support through the autumn, and a late-breaking scandal development in the final stretch (an October-surprise style revelation) tips the undecided voters. The Manhattan tarot reading's thrust: Clinton's cards are undermined by hidden/secret material coming to light, while Trump's momentum builds to an election-day upset on 8 November 2016.",
+ "basis": "Tarot per kb (Waite Pictorial Key as standard): the input supplies no actual drawn cards — input残损: the spread/cards drawn in Union Square are not recorded in the case file, so no card-by-card Waite reading can be reconstructed and none is fabricated. The call is made at narrative level from the stated setting (a consulted tarot reader; the email/Foundation controversies already public and identified in the question as candidate deciding factors) and the 'what will decide it' framing, which points at the scandal line rather than policy or polling. Confidence lowered for the missing spread.",
+ "confidence": 0.45,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

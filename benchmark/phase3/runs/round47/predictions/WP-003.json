@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-003",
+ "prediction_text": "Barack Obama is re-elected on 6 November 2012, defeating Mitt Romney. The Mercury retrograde beginning on Election Day does not change the winner but marks the count: expect a confused, delayed or disputed-feeling election night, with early calls questioned and results clarified only after recount-style scrutiny — yet the incumbent ultimately holds the White House.",
+ "basis": "Western mundane astrology applied to the stated configuration: Mercury retrograde stationing on election day classically signifies vote-count confusion and reversed early impressions (the 2000 precedent type), bearing on process rather than outcome; incumbency plus a merely 'competitive' polling field gives no mundane signature strong enough to overturn the sitting president. No candidate charts supplied; process-vs-outcome split follows the kb rule that each claim must trace to the supplied configuration, confidence moderated.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
