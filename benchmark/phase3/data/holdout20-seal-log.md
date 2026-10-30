@@ -63,3 +63,33 @@
 - holdout20 自本日志落盘起封存；本轮不开封、不作任何验收预演。金标只许评审角于开封轮打开。
 - 开封条件（写死）：(1) 开封轮＝封存后首个平台全立轮（最早 R57）；开封轮预注册先行（本集现无已知污染口径冲突例；§五.1 断语补录/裁定须于开封前完成并登记）。(2) 开封执行照 R56 PREREG §3：全新盲测席（方法自选/混用、每例记 systems_used；本集无奇门例、不受奇门章节接入影响）→双视评审→仲裁→E3/E4/E5 诊断。(3) 三判据照 R42 PREREG §8：全集均分＞大师、低污染配对胜多于负、低污染配对差为正（本集全 low，三判据同集判读）；达标→打包 final-skill-v2（2.0.0）＋FINAL-REPORT-v2.md 收官；未达标→标已用、诊断后续链。
 - 本回传不作封存依据，以盘上文件＋主持验封（第三道扫描＋金标 SHA 双读）为准；§五.1 补录若致金标字节变动，须重算 SHA 并在本日志追加记录、原 SHA 作废留痕。
+
+## §六 补录记录（R56 并入数据席，2026-10-31）
+
+- **补录来源与口径**：断语逐字文本来自补录件 `runs/round56/digestion/SUPPLY-GOLD-SUPPLEMENT-r56.json`（摘要 `digestion/SUPPLY-GOLD-SUPPLEMENT-r56.md`），由 R56 补录席自原书补录——QW 12 例出曲炜《详批命例精解》（TXT 文本层逐字，transcription=verbatim）、WHY 5 例出王虎应《六爻分类占验技法》（扫描本多模态读图转录，transcription=visual）；补录席不作断、不评分。并入由本轮新写脚本 `runs/round56/merge_gold_supplement_r56.py` 执行：对 17 例（QW-001–012、WHY-003/015/021/030/067）逐例把金标 `master_prediction` 由 null 改为补录逐字文本，并在该行 `grade_note` 末尾追加补录登记句（逐例 transcription/confidence 见下表）；其余 8 例与全部其他字段（outcome_record、pollution、grade 等）一字不动。脚本断言全过：改前 17 例 master_prediction 全为 null、改后 25 例全非空、行数 25、id 集不变、outcome_record 逐行与改前哈希一致。
+- **17 例逐例 transcription/confidence**：
+
+| case_id | transcription | confidence |
+|---|---|---|
+| QW-001 | verbatim | 0.95 |
+| QW-002 | verbatim | 0.95 |
+| QW-003 | verbatim | 0.95 |
+| QW-004 | verbatim | 0.95 |
+| QW-005 | verbatim | 0.95 |
+| QW-006 | verbatim | 0.95 |
+| QW-007 | verbatim | 0.95 |
+| QW-008 | verbatim | 0.95 |
+| QW-009 | verbatim | 0.9 |
+| QW-010 | verbatim | 0.9 |
+| QW-011 | verbatim | 0.95 |
+| QW-012 | verbatim | 0.95 |
+| WHY-003 | visual | 0.95 |
+| WHY-015 | visual | 0.95 |
+| WHY-021 | visual | 0.95 |
+| WHY-030 | visual | 0.88 |
+| WHY-067 | visual | 0.95 |
+
+- **金标 SHA-256 变更**：旧 SHA `de1d72f264d19572595b55da4efdf7e36b361dc07f35474c7bc1046a0872f218` → 新 SHA `763df064302a4156599985afc3224340f9cc73f953f0f8404f4cb68322586137`（并入脚本 hashlib 输出与脚本外独立 `sha256sum` 实测双读一致；旧 SHA 作废留痕）。
+- **挂起两项**：(1) WHY-003 应验后回卦补解未计入断语——原书印刷 p14 页首应验后回卦补解一段（释巳时散雾起风之应期）属应验后解说，补录时未计入断语，挂起待裁。(2) WHY-030 一字置信 0.8——断语「求求懷」首字字形作「求」、连用词义存疑，该字置信约 0.8（全例 confidence=0.88），该行 grade_note 已另注此项。
+- **状态变更**：「已建集、待补录」→「封存成立（待主持第三道验封＋SHA 双读定版）」。§五.1 断语补录前置至此完成；第三道验封（主持对输入卡内容级复扫）与金标 SHA 主持双读仍待主持执行，本席不冒充其结论。
+- **开封条件**：承 ADDENDUM §四不变（开封轮＝封存后首个平台全立轮、最早 R57；开封执行与三判据照原条）。
