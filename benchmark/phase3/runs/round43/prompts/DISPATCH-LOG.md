@@ -26,3 +26,11 @@
 
 - JX1 cf12fdc4（块 1）｜JX2 d69927cf（块 2）｜JX3 2952fd87（块 3）｜JX4 34aa116f（块 4）
 - JY1 d20ec4c5（块 1）｜JY2 2ccd828f（块 2）｜JY3 85a2d339（块 3）｜JY4 fa1590bf（块 4）
+
+8/8 席回盘且逐席自验全过；merge（merge_judge_views_r43.py）双视各 487、anon 集与 mapping 全等，**分歧 0 例（|Δtotal|≥3 者无）→ 无仲裁席**（双视 |Δ| 分布：＝0 者 245、(0,1) 152、[1,2) 86、[2,3) 4）。分析 analyze_r43.py 产 final-scores.json（analysis_r43 节）与 diagnosis/lr-negatives-dev43.json（六壬负例 26/30）。平台判读见 REPORT.md §5：三项全不立。平台检查点提交 bdc15c23。
+
+事件附记：JY2 席自报 LY-436 结局记录与题面不对位（预测为晴雨断、结局记录为人事结局），席位按材料原样评 0/0/0；主持处置：本轮分数照旧，LY-436 结局对位核查入 R44 数据议程（与 R32 待核同型处置）。JX3 席自报提取输出曾短暂重定向 /tmp 后自删无残留，记入 REPORT ADDENDUM。
+
+## W 监测第六轮（平台后，独立诊断席）
+
+- 诊断席：agent 2c3d1d30（未兼任本轮任何席）。材料：round43/diagnosis/lr-negatives-dev43.json（26 例）＋W-CHARTER §3＋前轮同型件。产出：diagnosis/DIAG-LR-weight-dev43.md。
