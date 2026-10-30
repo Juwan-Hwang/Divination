@@ -1,0 +1,12 @@
+{
+ "case_id": "MP-016",
+ "prediction_text": "特朗普胜出2024年美国大选：以「相」字问卜，胶着选情下断共和党特朗普险胜哈里斯、当选总统。应期：2024年11月5日投票日定局（月档）。",
+ "basis": "tradition：自决 modern-prediction（卡面无 tradition/system 字段，依据卡面提问与情境自决）\nsystems_used：[\"modern-prediction\"]\n输入残损：卡面无 tradition/system 字段、无卦盘/牌面/命盘等任何占具数据，仅有当事人基本信息与提问时点情境；不臆补盘面，按卡面事实（民调、声势、时点进程）作形势判读，置信已降。systems 记为 modern-master-context-reading（自决）。\n卡面情境：投票前一周、民调互有领先；测字占具仅记所问为『相』字、无拆字数据随卡（残损已记于 basis 首段），形势判读定特朗普险胜，量级为险胜非大胜。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

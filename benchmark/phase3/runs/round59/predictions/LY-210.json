@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-210",
+ "prediction_text": "方向：寿元中上，不主短寿；辰卯之年为体况关口，可过。应期（年档）：以卯年为留意之年，主坐标卯年。",
+ "basis": "tradition：liuyao（输入卡 tradition/system 字段）\nsystems_used：六爻纳甲\n占寿以世爻兄弟未土为用：辰月土相、乙卯日木克土为一压；父母巳火五爻动化未土，原神父母动而生世、且化神即世土同气，源续生身；世动化子孙酉金，福神化出。原神动生世压过日克一项，寿按中上断，日克只留关口之戒。对象复述：应验对象为占问者本人。动化方向：动化方向已核（巳化未、未化酉）；反转条件不成立。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "disputed：寿题盘据有限，原神生世与日克并见，置信压低。"
+ }
+}

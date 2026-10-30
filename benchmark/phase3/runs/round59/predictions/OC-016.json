@@ -1,0 +1,12 @@
+{
+ "case_id": "OC-016",
+ "prediction_text": "方向：以命学立身、清贵而非富贵。庚金日主卯月、子水伤官、辰亥根库、辛庚比劫并透，聪明绝顶、文章口才成名，职业即以命理/著述立身，一生衣食丰厚、名满南北而官位无缘；晚年著述声望不衰，安稳终老，寿数中上。",
+ "basis": "tradition：bazi（卡面无tradition字段，依据卡面四柱自决）\nsystems_used：八字子平（调候、格局、旺衰、大运流年）；四柱辛亥辛卯庚子庚辰：伤官佩印式清贵、比劫旺主同行竞争，财星木旺而身可任，故富次于名。命师自造，仅按盘面断，不因身份拔高。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

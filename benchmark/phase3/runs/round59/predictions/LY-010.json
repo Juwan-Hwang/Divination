@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-010",
+ "prediction_text": "方向：考试得中。应期（月/日档，试事近而以化神填实取日）：窗口至戌土填实，主坐标戌日见分晓/得中讯。",
+ "basis": "tradition：liuyao（输入卡 tradition/system 字段）\nsystems_used：六爻纳甲\n用神父母两现：世爻父母未土发动、父母丑土静；取动者未土，临巳月火生、旺相，动化戌土为化进神，文书进益。官鬼巳火初爻动化寅木回头生，名位之神得生。世父化进与官得回头生同向，终局取中。动化方向：动化方向已核（未化戌进、巳化寅回头生）；反转条件不成立。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "disputed：父母两现，取动爻未土为主用神、丑土为应验旁参。"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-216",
+ "prediction_text": "方向：仆人确有为祸之心且将发作，不可不防。应期（日档）：窗口至寅日，主坐标寅日——兄弟寅木值日，祸端见形。",
+ "basis": "tradition：liuyao（输入卡 tradition/system 字段）\nsystems_used：六爻纳甲\n世爻妻财辰土二爻动化兄弟寅木，世化兄弟主身边亲信之人转而劫害；初爻兄弟寅木动化父母子水，兄弟两现发动，仆役（兄弟/奴仆之象）动而不安。未月丙子日，寅木得子日水生有气。兄动+世化兄，断仆人为祸属实将发。对象复述：应验对象为占问者之仆人。动化方向：动化方向已核（辰化寅、寅化子）；反转条件不成立。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：世爻化兄弟使主断落于仆人变心为祸。"
+ }
+}

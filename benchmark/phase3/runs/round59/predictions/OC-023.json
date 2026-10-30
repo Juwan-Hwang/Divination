@@ -1,0 +1,12 @@
+{
+ "case_id": "OC-023",
+ "prediction_text": "方向：钟下所覆为一件圆形/环形金属或玉质器物，且不完好——有缺损/破裂之象。更具体断：为带孔或中空的圆器（如环、镜、钱币类），其一处已残破，完好与否答：不完好。",
+ "basis": "tradition：meihua（卡面无tradition字段，依据卡面卦象火风鼎变雷风恒自决）\nsystems_used：梅花易数射覆取象；鼎卦象圆器鼎足、中虚可覆藏，变恒主旧物久置；鼎上火下风、器有火炼金属之象，卦中爻动主残缺，故断圆器而破。无更多盘面，置信低、不臆补物主信息。",
+ "confidence": 0.3,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

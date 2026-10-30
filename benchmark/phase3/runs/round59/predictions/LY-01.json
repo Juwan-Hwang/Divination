@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-01",
+ "prediction_text": "方向：文书可得领。应期（日档，候文书为近事）：窗口为本旬内，主坐标午日——父母午火出空填实之日得领。",
+ "basis": "tradition：liuyao（输入卡 tradition/system 字段）\nsystems_used：六爻纳甲\n用神父母不上卦、变爻无父母，日月卯/辰皆非父母之亲，故取伏神父母午火（伏二爻兄弟丑土下）；午未空，伏神午火值旬空。伏神得卯月木生、飞神丑土休囚不压，飞伏判待出（中档）：飞不压、伏得月生，待出空填实。空在此只记应期不作凶权。动化方向：静卦无动化；反转条件不成立。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "reserve_used：用神取伏神父母午火。"
+ }
+}

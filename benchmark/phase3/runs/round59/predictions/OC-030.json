@@ -1,0 +1,12 @@
+{
+ "case_id": "OC-030",
+ "prediction_text": "方向：两问分断——淮扬巡按差不可复（negative），吏书缺可照旧（positive）。初传癸巳太常主旧制典章，中传丙戌六合主文书和合存续，终传辛卯太阴主暗中保留。断：巡按差废而不复、复设之议无下文；吏书之缺则照旧保留、人得留任或按旧例补上。应期：当年内两事各定（月档）。",
+ "basis": "tradition：liuren（卡面无tradition字段，依据卡面课式三传自决）\nsystems_used：大六壬（课格、三传天将链、空亡）；课式重审铸印：铸印主印信职缺之存立，六合太阴护『缺』而不护『复差』，故两问一否一可，不许混作一断。盘面只有课式三传月将，守界作断。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

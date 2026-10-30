@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-015",
+ "prediction_text": "断：这一年年景凶歉——雨水过多成灾（水鬼与雨父俱动伤世），五谷收成差（妻财伏藏不现，主田禾无收、粮价上涨），是歉收备荒之年。应期（年档，问一岁年时）：全年为窗口，主坐标取夏秋雨汛最盛之季（水鬼、雨父动象应验之时），水患与歉收在此季落定；人事上宜早储粮防汛，不可指望秋成。",
+ "basis": "tradition：六爻（卡面 tradition 字段）\nsystems_used：六爻纳甲（世爻为本地军民年景、父母主雨、官鬼主灾、妻财为五谷之用神，伏神合参）\n盘面残损：原文记本卦蒙、变卦中孚、水鬼与应上父爻俱动伤克世爻、妻财伏藏，无全盘，chart_complete=false。水鬼（水灾之鬼）与应上父母（雨）俱动伤克世爻，主当年雨水成灾伤及本地；妻财（五谷收成之用神）伏藏不现，主收成无着、谷价腾贵。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "妻财伏藏、用伏神（财伏）定收成之断，故 reserve_used=true；主断未由变卦中孚改向，changed_main=false；信号无对冲，disputed=false。"
+ }
+}

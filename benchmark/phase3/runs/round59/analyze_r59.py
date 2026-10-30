@@ -28,7 +28,7 @@ pair diff, trigger counts recomputed from runs/round59/predictions/,
 double-view |Delta| distribution, mengzhan chapter variable footprint
 recomputed on round59 predictions (s.9b mechanism of R49), and the
 liuren negative-case list for the W-monitoring seat
-(diagnosis/lr-negatives-dev58.json).
+(diagnosis/lr-negatives-dev59.json).
 final-scores.json keeps the R39 structure (ours_axis2 / ours_sub) and
 adds an analysis_r58 section carrying every read with n and SE.
 Assertions: 487-case full coverage, double-view key sets equal,
@@ -148,7 +148,7 @@ print('\n== 3. (c) liuyao dev8: SINGLE round (PREREG s.1) ==')
 c44 = seg(liuyao8, ours, master)
 plat_c = c44['pair_diff'] >= -1.93
 fuse_fact = c44['pair_diff'] < -2.255
-print('R58 single:', c44)
+print('R59 single:', c44)
 print('(c) STANDS (single >= -1.93):', plat_c, '| fuse fact (< -2.255):', fuse_fact)
 
 print('\n== 4. family reads ==')
@@ -195,7 +195,7 @@ for f in glob.glob(str(R59D / 'predictions/*.json')):
         if p.get('trigger', {}).get(k):
             trig[k] += 1
 trig_counts = {k: trig[k] for k in ('changed_main', 'reserve_used', 'disputed')}
-host_expected = {}  # HOST FILLS after freeze verify (verify_predictions_host_r59.py)
+host_expected = {"changed_main": 53, "reserve_used": 30, "disputed": 47}  # host freeze verify recount (verify_predictions_host_r59.py, FREEZE-r59)
 assert trig_counts == host_expected, (trig_counts, host_expected)
 print('predictions read:', npred)
 print('trigger true counts:', trig_counts, '| host final check:', host_expected,

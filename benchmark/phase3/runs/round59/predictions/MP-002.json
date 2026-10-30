@@ -1,0 +1,12 @@
+{
+ "case_id": "MP-002",
+ "prediction_text": "蔡英文连任前景吉、民进党赢：眼前虽处地方大败后的低谷，猪年内其运势回升、党内出线之争最终仍归蔡英文出战，年底选战后来居上胜选连任。应期：2020年1月大选定局（年档）。",
+ "basis": "tradition：自决 modern-prediction（卡面无 tradition/system 字段，依据卡面提问与情境自决）\nsystems_used：[\"modern-prediction\"]\n输入残损：卡面无 tradition/system 字段、无卦盘/牌面/命盘等任何占具数据，仅有当事人基本信息与提问时点情境；不臆补盘面，按卡面事实（民调、声势、时点进程）作形势判读，置信已降。systems 记为 modern-master-context-reading（自决）。\n卡面情境：2019年1月、九合一惨败后民调低谷、党内换人未定；判读取「低谷为时点象而非终局象」——现任掌握行政资源与出线主动权，终局方向定为胜选连任，并写明党内先定于蔡出战这一前段。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

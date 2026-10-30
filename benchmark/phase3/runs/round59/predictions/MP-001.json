@@ -1,0 +1,12 @@
+{
+ "case_id": "MP-001",
+ "prediction_text": "蔡英文胜选连任：蔡得票在八百万票量级、韩国瑜在五百五十万票量级，差距二百万票以上（约二百五十万票上下）；立委民进党单独过半、约六十席上下，国民党三十余席，宋楚瑜得票最低、亲民党立委席次有限。应期：2020年1月11日投票日开票定局（年/月档，以投票日为应点）。",
+ "basis": "tradition：自决 modern-prediction（卡面无 tradition/system 字段，依据卡面提问与情境自决）\nsystems_used：[\"modern-prediction\"]\n输入残损：卡面无 tradition/system 字段、无卦盘/牌面/命盘等任何占具数据，仅有当事人基本信息与提问时点情境；不臆补盘面，按卡面事实（民调、声势、时点进程）作形势判读，置信已降。systems 记为 modern-master-context-reading（自决）。\n卡面情境：辩论结束、选战最后两周，三方竞逐；以执政现任在末段民调与组织面占先的形势定蔡胜、且差距非小胜而属大差距量级，逐项落到胜者、票差量级与立委过半三项。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

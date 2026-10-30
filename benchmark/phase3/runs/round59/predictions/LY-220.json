@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-220",
+ "prediction_text": "方向：兄弟可和好、且得相济。应期（日档）：窗口至申日，主坐标申日——父母化出兄弟申金值日，和局定。",
+ "basis": "tradition：liuyao（输入卡 tradition/system 字段）\nsystems_used：六爻纳甲\n兄弟酉金为用，申月临月建旺相；父母未土五爻动化兄弟申金，长辈/文书之神动而化出兄弟本身，主有长辈或文书促成和好、且化神与用神同类相济。世爻父母辰土土生金助用。用旺+父化兄，断和好得济。对象复述：应验对象为占问者之兄弟。动化方向：动化方向已核（未化申）；反转条件不成立。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：父母动化兄弟，主断以化神定和好得济。"
+ }
+}

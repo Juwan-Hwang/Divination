@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-305",
+ "prediction_text": "断：在势均力敌的盘面下勉强取一：Donald Trump（特朗普）以极小差距险胜，赢下2024年大选。胜负差距极窄，个别摇摆州以微弱票数定乾坤，计票过程紧绷、对方阵营一度不认输态势明显。应期（日档）：主坐标取2024年11月5—6日，结果在此窗内见分晓。此断为两可盘面中的单边取舍，置信仅0.50，若错亦只错在毫厘之判。",
+ "basis": "tradition：astrology（卡面无 tradition 字段，据选举占星自决；卡面自承盘面势均力敌、极难判断）\nsystems_used：western electional astrology（西洋选举占星）\n输入残损：卡面未附选举日星盘与两候选人行运数据（attachments 为空），且原作者自承势均力敌，置信压至中位下限。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

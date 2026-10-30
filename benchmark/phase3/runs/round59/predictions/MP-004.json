@@ -1,0 +1,12 @@
+{
+ "case_id": "MP-004",
+ "prediction_text": "蔡英文当选连任：2020年大选由蔡英文胜出，韩国瑜落败。应期：2020年1月11日投票日定局（月档）。",
+ "basis": "tradition：自决 modern-prediction（卡面无 tradition/system 字段，依据卡面提问与情境自决）\nsystems_used：[\"modern-prediction\"]\n输入残损：卡面无 tradition/system 字段、无卦盘/牌面/命盘等任何占具数据，仅有当事人基本信息与提问时点情境；不臆补盘面，按卡面事实（民调、声势、时点进程）作形势判读，置信已降。systems 记为 modern-master-context-reading（自决）。\n卡面情境明载多项民调韩国瑜持续落后蔡英文、距投票约两个月；形势判读从民调定胜者为蔡英文，方向单一、不作两可。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

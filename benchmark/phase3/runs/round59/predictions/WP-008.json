@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-008",
+ "prediction_text": "Direction: Narendra Modi and the BJP/NDA win, with a renewed and larger mandate. The BJP retains power and increases its own majority in the Lok Sabha (crossing 300 seats on its own), Rahul Gandhi's Congress improves slightly but remains a distant second. Result declared 23 May 2019.",
+ "basis": "tradition：vedic-astrology（卡面无tradition字段，依据卡面行星配置/问事体例自决）\nsystems_used：吠陀/印度占星选举断：现任者 Modi 之盘势强于挑战者、执政联盟星势成局，故断连任且席位扩大，落到席位量级。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

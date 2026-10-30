@@ -1,0 +1,12 @@
+{
+ "case_id": "MP-008",
+ "prediction_text": "民进党最终仍由蔡英文出战：赖清德初选挑战不能取代蔡英文，蔡将出线并与韩国瑜一较高下、且具备胜选之力（对决成立、蔡后势占先）。应期：2019年年中初选定人选、2020年1月大选定局（年档）。",
+ "basis": "tradition：自决 modern-prediction（卡面无 tradition/system 字段，依据卡面提问与情境自决）\nsystems_used：[\"modern-prediction\"]\n输入残损：卡面无 tradition/system 字段、无卦盘/牌面/命盘等任何占具数据，仅有当事人基本信息与提问时点情境；不臆补盘面，按卡面事实（民调、声势、时点进程）作形势判读，置信已降。systems 记为 modern-master-context-reading（自决）。\n卡面情境：赖清德3月18日刚宣布挑战、蓝绿人选皆未定、韩为蓝营最被看好者；判读落两项：绿营出战者为蔡英文（非赖清德）、且蔡韩对决成立并蔡占先。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

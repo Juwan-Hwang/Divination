@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-035",
+ "prediction_text": "方向：父将归，归期近。应期（日档）：窗口数日内，主坐标午日——变爻父母午火值日，父抵家。",
+ "basis": "tradition：liuyao（输入卡 tradition/system 字段）\nsystems_used：六爻纳甲\n行人以父母为用：父母不上本卦六爻，变爻有父母午火（四爻兄弟戌土动化父母午火），按黄金策次序变爻有用神不取伏神，即以变爻午火为用。巳月火旺、午火旺相有气，动爻化出用神主行人已在归途、将至。丙申日金不克火旺之父。对象复述：应验对象为占问者之父。动化方向：动化方向已核（戌化午、子化申）；反转条件不成立。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "reserve_used：用神取变爻父母午火（变爻优先于伏神）。"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-007",
+ "prediction_text": "断：Waller 胜，Hopton 败——当日 Alresford/Cheriton 一战，议会军 Waller 一方得胜，Hopton 一方被击退失利。应期即占问当日（日档，问当日会战胜负），无待后日：月亮快速增光、离金星11°，主胜势当日即分，Hopton 无援军可恃，败局当日落定。",
+ "basis": "tradition：horary（卡面 tradition 字段）\nsystems_used：horary（Lilly 古典卜卦）\n盘面：上升、月亮、木星、金星归 Waller 一方；土星为七宫主归 Hopton。月亮擢升与木星同在；太阳为 Waller 资财/助力之主，居十宫正当擢升之度（白羊19°）；对方仅火星与南交点在九宫，无后援之象；Hopton 之主星土星为日光所掩（sub radiis）、居陷落、无相位、游离无根，又四分七宫头。两方强弱悬殊：一方主星擢升居角得助，一方主星陷落无援。",
+ "confidence": 0.8,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

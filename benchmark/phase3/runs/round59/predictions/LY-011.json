@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-011",
+ "prediction_text": "方向：母亲能来，路远而迟。应期（日档）：窗口至化神填实，主坐标戌日——父母未土化戌填实之日抵达或定行期。",
+ "basis": "tradition：liuyao（输入卡 tradition/system 字段）\nsystems_used：六爻纳甲\n用神父母两现：五爻父母未土发动（未月土旺）、世爻父母辰土静；取动者未土为主，化戌土为化进，行人有趋近之象。初爻子孙子水动不碍父母主线。千里之程以化进填实定点，不以速至论。对象复述：应验对象为占问者之母，非其妹。动化方向：动化方向已核（未化戌进）；反转条件不成立。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "disputed：父母两现，取动爻未土为主用神。"
+ }
+}

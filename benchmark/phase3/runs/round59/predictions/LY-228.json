@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-228",
+ "prediction_text": "方向：不得差。无得差应期；官星月破，待寅木填实之月（主坐标寅月）方有另谋之机，本问以不得收。",
+ "basis": "tradition：liuyao（输入卡 tradition/system 字段）\nsystems_used：六爻纳甲\n差事以官鬼寅木为用，居应爻静：申月金旺冲寅为月破，官星月破无力；世爻子孙酉金临申月旺相，子孙旺静克官之势成局。戊寅日官临日建只救一时、不救月破。用神月破+福神旺克，断不得差。动化方向：静卦无动化；反转条件不成立。",
+ "confidence": 0.64,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-103",
+ "prediction_text": "方向：当晚雨会停。应期（时档，当晚近事取时）：窗口当晚数时内，主坐标申时前后停雨。",
+ "basis": "tradition：liuyao（输入卡无 tradition/system 字段，依纳甲装卦与六爻题面自决）\nsystems_used：六爻纳甲\n天时以子孙为晴神：子孙未土五爻动化子孙申金，晴神动而化进连绵；兄弟午火二爻动化官鬼亥水，午火为云雨之动化出水象只主前段余雨。午月丙辰日火土之势，子孙土金相继发动主雨收。晴神动化为主线，断当晚停。动化方向：动化方向已核（未化申、午化亥）；反转条件不成立。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

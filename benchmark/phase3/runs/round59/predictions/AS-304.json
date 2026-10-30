@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-304",
+ "prediction_text": "断：2024年美国总统选举由 Donald Trump（特朗普）胜出，击败民主党候选人当选。选情虽胶着、选前民调接近，但终局方向在挑战者一方的动能与破坏旧局之象更强，在位阵营守不住。应期（日档，问选举结果）：结果于2024年11月5日投票日后数日内明朗，主坐标取选举日当晚至次日，胜负即分，不致拖入长期争议才见分晓。",
+ "basis": "tradition：astrology（卡面无 tradition 字段，据选举占星自决）\nsystems_used：western electional/mundane astrology（西洋选举占星）\n输入残损：卡面未附候选人本命盘与选举日星盘（attachments 为空），按选举占星通则（在位方行运受克、新星势头与火象动能）作断并降置信。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

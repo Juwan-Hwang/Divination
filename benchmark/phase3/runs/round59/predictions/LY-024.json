@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-024",
+ "prediction_text": "方向：子病可愈。应期（日档）：窗口至亥水值日，主坐标亥日——忌神化出之水生用之日，病转轻。",
+ "basis": "tradition：liuyao（输入卡 tradition/system 字段）\nsystems_used：六爻纳甲\n代占以子孙卯木为用，居初爻，丁卯日临日建有气；忌神父母申金四爻动本克卯木，然化出亥水回头生申而亥水转生卯木，忌神之克被化神截断转为连生，救应成立。酉月金克木只调量级。用神临日+化神生用，终局取愈。对象复述：应验对象为占问者之子。动化方向：动化方向已核（申化亥，亥生卯）；反转条件成立于救应链，故主断由危转愈。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：父母申金动化亥水，克用之忌神化出生用之神，主断随之改定为愈。"
+ }
+}

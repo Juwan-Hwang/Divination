@@ -1,0 +1,12 @@
+{
+ "case_id": "MP-018",
+ "prediction_text": "方向：不能当选（negative）。曾俊华虽民望为候选人中最高，但民望不等于选委会票源，最终败于获北京支持的对手，止于陪跑。应期：2017年3月26日投票日落败揭晓。",
+ "basis": "tradition：相法（卡面无tradition字段，依据《睇相王》睇相栏目自决）\nsystems_used：面相/气色相法＋选情事实核对；事实优先序：卡面明言传媒普遍指对手获北京支持、选情占优，选委会小圈子选举票源结构压过公众民望，相法所见贵气不足以登顶，故断不当选。",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

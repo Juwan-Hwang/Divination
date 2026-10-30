@@ -1,0 +1,12 @@
+{
+ "case_id": "YY-015",
+ "prediction_text": "求财可得：妻财临月持世、子孙生财，断得财。应期单位日：窗口为旬内，主坐标未日（世妻财未土逢值之日）。",
+ "basis": "tradition：liuyao（依据：输入卡 tradition 字段为 liuyao）\nsystems_used：[\"liuyao\"]\n求财以妻财己未土世、庚辰土三爻为用，己丑月土旺临月、癸卯日木克土为日克而月旺不倒，世未逢丑月冲为月冲旺财主财动。子孙巳火上爻生财（火生土）原神有气，兄弟寅木应克财而丑月囚。静卦噬嗑。四路：本气＋／元忌仇0／动化0／不计；合参得向。求财对表：财太旺重叠须待入墓——未入戌墓为备选，舍弃理由为世财逢值未日先到且子孙生财链成，先取逢值；戌日入墓只作收藏备选入reasoning。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

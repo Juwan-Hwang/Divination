@@ -1,0 +1,12 @@
+{
+ "case_id": "MP-010",
+ "prediction_text": "郭台铭若参选不能当选：2024年当选之相不在郭台铭，其参选至多搅动选局；最有当选之相者为民进党赖清德一路。应期：2024年1月大选定局（年档）。",
+ "basis": "tradition：自决 modern-prediction（卡面无 tradition/system 字段，依据卡面提问与情境自决）\nsystems_used：[\"modern-prediction\"]\n输入残损：卡面无 tradition/system 字段、无卦盘/牌面/命盘等任何占具数据，仅有当事人基本信息与提问时点情境；不臆补盘面，按卡面事实（民调、声势、时点进程）作形势判读，置信已降。systems 记为 modern-master-context-reading（自决）。\n卡面情境：2023年1月、各党人选未定、多人被点名；判读落两项：郭台铭不当选、当选相在赖清德，方向单一。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-012",
+ "prediction_text": "方向：店可开、开之有利。开张应期（日档）：窗口内取戌日开张为宜（世财化戌填实），主坐标戌日。",
+ "basis": "tradition：liuyao（输入卡 tradition/system 字段）\nsystems_used：六爻纳甲\n用神妻财世爻未土临未月月建、旺相，发动化戌土化进，财源进益；子孙巳火动为财源，虽化子水回头克而巳火旺于未月余气、源受制只主进货/货源一度受阻，不翻财旺化进之主线。官鬼酉金动化申退，不为大害。动化方向：动化方向已核（未化戌进、巳化子回头克）；反转条件部分成立仅降格货源一项，不反终局。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

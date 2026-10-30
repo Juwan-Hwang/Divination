@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-012",
+ "prediction_text": "Direction: Biden wins the election and does take the presidency — but only after a contested aftermath. Trump refuses to concede, alleges fraud over mail-in voting, and pursues legal challenges; the transfer is delayed and turbulent, with civil unrest, yet Biden is inaugurated in January 2021 and Trump leaves office. Two-stage: near stage disputed count and litigation (Nov-Dec 2020), far stage confirmed transfer (Jan 2021).",
+ "basis": "tradition：western-astrology（卡面无tradition字段，依据卡面行星配置/问事体例自决）\nsystems_used：西洋占星 mundane：选举日与就职日行运分段读，近段主争议、远段主秩序落定，远段触发为就职日太阳行运成局，故两段俱报而终局单判 Biden 就任。",
+ "confidence": 0.63,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

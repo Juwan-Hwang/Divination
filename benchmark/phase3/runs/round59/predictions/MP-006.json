@@ -1,0 +1,12 @@
+{
+ "case_id": "MP-006",
+ "prediction_text": "韩国瑜63岁运势走低、总统之路受阻难成：民调下滑之势在运势上同向，选战愈后段愈不利，终局难登大位。应期：2020年1月大选定局（年档）。",
+ "basis": "tradition：自决 modern-prediction（卡面无 tradition/system 字段，依据卡面提问与情境自决）\nsystems_used：[\"modern-prediction\"]\n输入残损：卡面无 tradition/system 字段、无卦盘/牌面/命盘等任何占具数据，仅有当事人基本信息与提问时点情境；不臆补盘面，按卡面事实（民调、声势、时点进程）作形势判读，置信已降。systems 记为 modern-master-context-reading（自决）。\n卡面情境：提名约两个月、民调自8月持续下滑；形势判读以已成趋势的下滑定其总统之路不成，落到败选终局。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

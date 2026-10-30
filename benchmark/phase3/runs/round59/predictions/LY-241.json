@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-241",
+ "prediction_text": "方向：我方鹌鹑胜。应期（日档）：当日即分胜负，主坐标当日。",
+ "basis": "tradition：liuyao（输入卡 tradition/system 字段）\nsystems_used：六爻纳甲\n斗胜以世应分主客：世爻子孙申金，巳月虽火旺，戊申日临日建有气，且申金克应爻官鬼卯木，世克应为胜象；父母午火二爻动本克申金，然化出妻财亥水回头克午火，克世之动自解。世临日+克应+忌动自解，断我方胜。对象复述：应验对象为占问者一方之鹌鹑。动化方向：动化方向已核（午化亥回头克）；反转条件成立于忌神自解，故主断取胜。",
+ "confidence": 0.63,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：父母午火动化亥水回头自克，克世之忌自解，主断改定为胜。"
+ }
+}

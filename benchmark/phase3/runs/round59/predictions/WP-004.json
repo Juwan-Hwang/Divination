@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "Direction: Donald Trump wins (upset). Against the polling consensus favouring Hillary Clinton, the conference-panel weight of chart evidence points to Trump: Clinton's chart carries the heavier affliction into 8 November 2016, and Trump takes the Electoral College while likely losing the popular vote. Decider: late-campaign damage to Clinton's standing.",
+ "basis": "tradition：western-astrology（卡面无tradition字段，依据卡面行星配置/问事体例自决）\nsystems_used：西洋占星选举占星 panel 体例：以候选人本命与选举日行运对决、民调只作背景事实不作锚点；断冷门胜出并注明票数结构（选举人票胜、普选票负）。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

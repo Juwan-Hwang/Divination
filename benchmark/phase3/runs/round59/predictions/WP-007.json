@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Direction: Donald Trump wins, and what decides it is Hillary Clinton herself — her email controversy and Clinton Foundation entanglements destroying trust at the decisive moment. The cards point to a hidden/buried liability around the woman candidate surfacing late, a male outsider taking the prize on 8 November 2016, and Clinton winning the popular vote but losing where it counts.",
+ "basis": "tradition：tarot（卡面无tradition字段，依据卡面『tarot reader draws cards』自决）\nsystems_used：塔罗（Waite 牌义体例）＋时事事实核对；占题自带锚点即已公开的电邮与基金会争议，按事实优先序落为『决定因素』，断语落到人物与事件级。卡面未给具体牌面，残损处注明、置信相应下调。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

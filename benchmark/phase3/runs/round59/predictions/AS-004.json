@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-004",
+ "prediction_text": "断：消息不实——国王并未攻下剑桥（Cambridge）。此报属流传之虚闻：四角变动、月亮陷落无力，皆主传闻无根；国王一方主星入陷受克，无攻取之象。问者一方主星居擢升，形势仍在其手。应期（日档，问战时传闻真伪）：数日内当有确讯辟此谣，不必待久。",
+ "basis": "tradition：horary（卡面无 tradition 字段，据 Lilly 卜卦图自决）\nsystems_used：horary（Lilly 古典卜卦）\n盘面：四角皆变动星座，土星伤十宫头、火星伤七宫头；月亮陷落于不喜之星座；太阳临上升头；问者一方（议会）主星居擢升之尊，七宫主（国王一方）正入陷落且受克。传闻类占以角之变动与月亮陷落主其事虚浮无根，对方主星入陷更主国王一方并未得手。",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

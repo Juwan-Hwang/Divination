@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-208",
+ "prediction_text": "方向：终身功名有，官位可保可得而以迟静为主。应期（年档）：酉年官星值年为得官/升定之年，主坐标酉年。",
+ "basis": "tradition：liuyao（输入卡 tradition/system 字段）\nsystems_used：六爻纳甲\n静卦山风蛊，官鬼酉金居世：戌月土生金相、戊辰日土生金，官星得月日双生、旺相有根；父母亥子两现生官之源在。静卦官旺无动，主功名有而动静迟缓、守成得官。动化方向：静卦无动化；反转条件不成立。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

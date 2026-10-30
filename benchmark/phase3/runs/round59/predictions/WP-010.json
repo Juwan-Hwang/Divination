@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-010",
+ "prediction_text": "Direction: Joe Biden wins. Despite the three Vedic astrologers disagreeing among themselves, the balance of chart evidence — Biden's Scorpio-Ascendant chart receiving the stronger dasha/transit support into 3 November 2020 — gives Biden the presidency, narrowly in the decisive states, after a delayed count.",
+ "basis": "tradition：vedic-astrology（卡面无tradition字段，依据卡面行星配置/问事体例自决）\nsystems_used：吠陀占星：三家分歧并列呈现后由算者自决，取 Biden 盘面行运较强一路；Trump 之木星相位只主声势不主终胜。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

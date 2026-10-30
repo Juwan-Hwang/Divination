@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-231",
+ "prediction_text": "方向：在任平安，无大祸；世化鬼只是虚惊。应期（年档）：酉年/酉月留心，主坐标酉月——化鬼之神值时，谨慎可过。",
+ "basis": "tradition：liuyao（输入卡 tradition/system 字段）\nsystems_used：六爻纳甲\n世爻妻财戌土四爻动化官鬼酉金，即占题所忧世化鬼：戌土化酉金为泄化，酉金不克世土、只泄其气，主虚惊耗神而非克身之祸；寅月壬午日，世土得午火生扶有气。世旺有扶+化神只泄不克，断平安、化鬼不作凶论。对象复述：应验对象为在任之占问者本人。动化方向：动化方向已核（戌化酉为泄化非回头克）；反转条件不成立。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "disputed：世化鬼之象与占问者自忧并列，本断按化神生克自决为泄化虚惊。"
+ }
+}

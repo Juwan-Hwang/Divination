@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-217",
+ "prediction_text": "方向：所定之罪不重，不至死罪/重刑，属轻罪或可解之罪。应期（日档）：窗口至酉日，主坐标酉日——子孙酉金值日，罪名见分晓。",
+ "basis": "tradition：liuyao（输入卡 tradition/system 字段）\nsystems_used：六爻纳甲\n定罪以官鬼卯木为用：上爻官鬼卯木动化子孙酉金，官化子孙（解罪福神）且酉金回头克卯木，罪神动而自解、自克；父母巳火五爻动化妻财亥水，文书之神动转财路。未月癸亥日亥水生卯只调量级。官化子孙为主线，断罪轻可解。动化方向：动化方向已核（卯化酉回头克而亲转子孙、巳化亥）；反转条件成立于罪神自解，故主断取轻。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：官鬼化子孙回头克，主断由定罪转轻罪可解。"
+ }
+}

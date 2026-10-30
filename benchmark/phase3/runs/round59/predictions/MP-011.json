@@ -1,0 +1,12 @@
+{
+ "case_id": "MP-011",
+ "prediction_text": "三组胜算排序：赖清德（民进党）第一、侯友宜（国民党）第二、柯文哲（民众党）第三；当选者为赖清德。应期：2024年1月13日投票日定局（月档）。",
+ "basis": "tradition：自决 modern-prediction（卡面无 tradition/system 字段，依据卡面提问与情境自决）\nsystems_used：[\"modern-prediction\"]\n输入残损：卡面无 tradition/system 字段、无卦盘/牌面/命盘等任何占具数据，仅有当事人基本信息与提问时点情境；不臆补盘面，按卡面事实（民调、声势、时点进程）作形势判读，置信已降。systems 记为 modern-master-context-reading（自决）。\n卡面情境：蓝白合破局、三脚督确立、距投票47天；排序依据三脚督下绿营基本盘最稳、在野分票之形势，逐组给出名次而非仅报胜者。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

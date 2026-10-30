@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-010",
+ "prediction_text": "断：这场官司打不赢、也难了结——终局不利。父母（状纸文书之用神）空亡，告状无凭、证据不立；本卦蒙之变未济，未济者事终不成，官司将拖延悬置、耗财费时而无胜果。应期（月档，问诉讼成败）：窗口为本季之内，主坐标取父母出空填实之月——届时亦只是文书稍立、案情稍明，终局方向不变，仍以败诉/不了了之收场，宜早谋和解止损。",
+ "basis": "tradition：六爻（卡面 tradition 字段）\nsystems_used：六爻纳甲（用神世应、空亡与变卦终局合参）\n盘面残损：原文记本卦蒙、变卦未济、父母空亡，无全盘、无确切日期，chart_complete=false。诉讼以父母为文书状纸/官凭之用神，父母空亡主凭据落空、无文书之力；变卦未济为六十四卦之终而事未成之象，官司终局未济。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "本卦蒙只主蒙昧未明，终局由变卦未济定为不成事，故 changed_main=true；未用伏神，reserve_used=false；信号无对冲争议，disputed=false。"
+ }
+}

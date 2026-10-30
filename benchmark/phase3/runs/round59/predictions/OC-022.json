@@ -1,0 +1,12 @@
+{
+ "case_id": "OC-022",
+ "prediction_text": "方向：科名无缘、以命学立身。乙木日主酉月、巳火伤官、丁食戊财、寅根，屡试功名不第为定局——官星金藏巳酉而不透、伤官见官意象，主与科场体制相忤；转而承命学世家之业，以著述卜筮成名立身，一生清贫丰名、晚年桃李著述终老。",
+ "basis": "tradition：bazi（卡面无tradition字段，依据卡面四柱自决）\nsystems_used：八字子平（调候、格局、旺衰、大运流年）；四柱辛巳丁酉乙巳戊寅＋安命甲午、大运丙申起（卡面）：伤官旺、官星被伤，科第降格依据在此；食伤生财转业立身为正路。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-025",
+ "prediction_text": "方向：雪止放晴。应期（日档）：窗口一二日内，主坐标子日——子孙子水值日，晴象定。",
+ "basis": "tradition：liuyao（输入卡 tradition/system 字段）\nsystems_used：六爻纳甲\n天时以子孙为晴神、父母为云雪：妻财卯木上爻动化子孙子水，子月、己亥日水旺，化出之晴神临月得势；父母未土世爻休囚，云雪之神无力续落。化神值子日即晴定，主坐标取子日。动化方向：动化方向已核（卯化子）；反转条件不成立。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

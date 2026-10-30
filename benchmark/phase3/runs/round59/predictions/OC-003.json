@@ -1,0 +1,12 @@
+{
+ "case_id": "OC-003",
+ "prediction_text": "方向：富贵名高、晚年退守。庚金生午月官杀火旺、卯木财星两见、己印化杀，商界领袖级巨富、名位显于沪上；中年火金交战有经营起伏与身体火炎之疾，晚年印运得安、急流勇退可保富终老。",
+ "basis": "tradition：bazi（卡面无tradition字段，依据卡面四柱自决）\nsystems_used：八字子平（调候、格局、旺衰、大运流年）；四柱丁卯丙午庚午己卯：官杀旺而印透，杀印相生转贵于商；财多耗金，故富大于官、晚年宜退。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

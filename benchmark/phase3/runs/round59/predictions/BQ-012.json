@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-012",
+ "prediction_text": "断：倭寇不来——本期无寇犯之祸。官鬼（寇患之用神）衰弱安静，既无动象又无旺气，寇势不成、不至本地。应期（日档，问寇来否）：窗口为占问（丙子日）后一旬之内，主坐标即此旬——旬内无警，可安居备耕，不必迁避；若有风声皆虚惊。",
+ "basis": "tradition：六爻（卡面 tradition 字段）\nsystems_used：六爻纳甲（官鬼用神旺衰静动）\n盘面残损：原文只记卦名噬嗑与鬼爻衰静，无全盘，chart_complete=false。卜寇以官鬼为寇患之神，鬼爻衰而安静、不动不旺，是无寇至之正象；噬嗑虽有颐中有物、梗阻之象，然鬼衰静则梗不在寇。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

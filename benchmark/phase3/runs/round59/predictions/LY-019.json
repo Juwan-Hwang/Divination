@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-019",
+ "prediction_text": "方向：小舟可过关，有盘查惊扰而无阻滞扣留，终得放行。应期（日档）：窗口当日，主坐标申时/申日之交——子孙申金值时放行。",
+ "basis": "tradition：liuyao（输入卡无 tradition/system 字段，依纳甲装卦与六爻题面自决）\nsystems_used：六爻纳甲\n世爻官鬼卯木（关卡/盘查之神兼世）发动化子孙申金，世化子孙主关阻化为解脱；四爻子孙申金动克官鬼，制阻之神发动。卯木得戊子日水生有气，化申虽为回头克象，子孙两现发动以制官为主线，断有惊无阻。动化方向：动化方向已核（卯化申、申化亥）；反转条件不成立（子孙动制官为终局据）。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：世化子孙与子孙动制官使初判之阻转为放行，主断随动化改定。"
+ }
+}

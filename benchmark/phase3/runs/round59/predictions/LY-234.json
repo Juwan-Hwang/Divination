@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-234",
+ "prediction_text": "方向：父可起用，期在子月。应期（月档）：窗口至子月，主坐标子月——初爻父母化出官鬼子水值月，起用定音。",
+ "basis": "tradition：liuyao（输入卡 tradition/system 字段）\nsystems_used：六爻纳甲\n代占以父母为用，两现皆动：上爻父母卯木动化子孙未土（入墓之化）、初爻父母寅木动化官鬼子水。起用以官为终点，初爻父化官一路指向起用本身；卯月壬辰日父母木旺有气。上爻化墓主一路线之迟滞，初爻化官主起用之成，两路分判、以化官路定应期子月。对象复述：应验对象为占问者之父。动化方向：动化方向已核（卯化未、寅化子）；反转条件不成立。",
+ "confidence": 0.57,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "disputed：父母两现两动，一化墓一化官，分路取舍留痕。"
+ }
+}

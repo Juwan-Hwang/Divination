@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-005",
+ "prediction_text": "Direction: Donald Trump wins. The astrologer who alone picked Trump as Republican nominee out of 17 contenders follows the same chart logic to its conclusion: Trump defeats Hillary Clinton on 8 November 2016 via the Electoral College, in the cycle's biggest forecasting upset.",
+ "basis": "tradition：western-astrology（卡面无tradition字段，依据卡面行星配置/问事体例自决）\nsystems_used：西洋占星选举占星：同一算者前后两断同源（提名断已验其法），延续其取舍断 Trump 终胜；与 WP-004 独立同向，属多路收敛。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

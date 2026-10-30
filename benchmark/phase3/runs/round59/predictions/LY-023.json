@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-023",
+ "prediction_text": "方向：母病重危，不治倾向。近段即危，危期在巳午火值之日（日档窗口至午日，主坐标巳日）。",
+ "basis": "tradition：liuyao（输入卡 tradition/system 字段）\nsystems_used：六爻纳甲\n代占以父母巳火为用：未月土泄、丁亥日水克，父母休囚受日克、无动爻生扶；原神官鬼卯木静而不动，生扶不力且卯木本身兼病神之属。世爻子孙酉金动化寅木，子孙动本可制官，化寅木反生巳火之力微而生官之嫌并存，不成救应全链。用神休囚+日月克泄无救，近段断危。对象复述：应验对象为占问者之母。动化方向：动化方向已核（酉化寅）；反转条件不成立。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

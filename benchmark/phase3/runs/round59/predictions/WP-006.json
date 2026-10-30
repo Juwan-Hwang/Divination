@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-006",
+ "prediction_text": "Direction: Britain votes Leave. The 23 June 2016 referendum returns a Leave majority, narrowly (roughly 52-48), despite February polls showing Stay ahead — the large undecided bloc breaks disproportionately for Leave under the Uranus-Ceres conjunction in Aries on referendum day, a signature of abrupt national self-assertion and rupture with the existing order.",
+ "basis": "tradition：western-astrology（卡面无tradition字段，依据卡面行星配置/问事体例自决）\nsystems_used：西洋占星 mundane astrology：英国 1066/1801/1922 国家盘与公投日天王星突发性合相主决裂，未决选民为关键变量，故断窄幅脱欧。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

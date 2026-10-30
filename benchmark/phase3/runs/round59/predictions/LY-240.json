@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-240",
+ "prediction_text": "方向：借贷难成，纵得亦复失/被劫。无成事应期；兄动之日（日档主坐标酉日）为耗财见形之日。",
+ "basis": "tradition：liuyao（输入卡 tradition/system 字段）\nsystems_used：六爻纳甲\n妻财卯木二爻动化寅木化退，财动而退减；兄弟酉金五爻动化申金，劫财之神发动——兄动劫财+财化退，借贷门类双凶叠加。未月丁卯日财临日建只救量级、不救动化主线。终局断难成。动化方向：动化方向已核（卯化寅退、酉化申）；反转条件不成立。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：财化退与兄动劫财使主断落于难成，临日建之财只调量级。"
+ }
+}

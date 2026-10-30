@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-203",
+ "prediction_text": "方向：终身财福中平偏上，农人可得殷实之财。应期（年档）：财应在午年/午月——世化妻财午火值时之年为得财高峰。",
+ "basis": "tradition：liuyao（输入卡 tradition/system 字段）\nsystems_used：六爻纳甲\n世爻官鬼丑土四爻动化妻财午火回头生，世动化财且化神午火临丙子日之午月月建、旺相，财自世化出而有根；子孙卯木应爻生财之源在。世土午月旺相，化财得月扶，终身财福按中平偏上断。动化方向：动化方向已核（丑化午回头生且亲转妻财）；反转条件不成立。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：世爻动化妻财，主断以化出之财神定终身财福。"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-205",
+ "prediction_text": "方向：终身财福中下，得财迟滞、守成而已。应期（年档）：卯年财神得值之年为相对得财之年，主坐标卯年。",
+ "basis": "tradition：liuyao（输入卡 tradition/system 字段）\nsystems_used：六爻纳甲\n妻财卯木为用：巳月火旺泄木、己丑日土旺，财休囚无气，静守世爻父母丑土之下无动源生扶；官鬼午火四爻动化父母丑土，动爻不生财反入劳碌之土。财休囚+无原神发动，终身财福按中下断。动化方向：动化方向已核（午化丑）；反转条件不成立。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

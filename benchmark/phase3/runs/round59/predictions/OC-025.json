@@ -1,0 +1,12 @@
+{
+ "case_id": "OC-025",
+ "prediction_text": "方向：应验（positive）。椅底预书之事届期验之成真：到预书所记年月日，椅子果被坐破——由一位体量较重/急坐之客坐塌椅面，应验时间与预书所记日期相合。",
+ "basis": "tradition：meihua（卡面无tradition字段，依据邵雍预言成例体例自决）\nsystems_used：梅花易数预言验占；占题本身即问预书是否应验，按邵雍成例体例与『预书必验』的占题锚点断其应验，应验对象为邵家之椅、承受对象为坐椅之客，对象已对齐。卡面无具体日期数字，不臆补。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

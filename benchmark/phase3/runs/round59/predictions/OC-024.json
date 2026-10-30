@@ -1,0 +1,12 @@
+{
+ "case_id": "OC-024",
+ "prediction_text": "方向：葬事可成、资费有着落。无资营葬之困将由这位远道来访的青年秀士（即邵雍本人一系的来访者）与易者旧交出资相助而解，棺殓得以办成，不至停柩。应期：来访后数日内筹措、当月内成葬。",
+ "basis": "tradition：meihua（卡面无tradition字段，依据邵雍梅花易数成例体例自决）\nsystems_used：梅花易数/周易占断互参；遗书预言来访者可托身后事即占题自带锚点，事实优先序下取『来人即资助者』一读，断葬资由访者与旧交凑成。卡面无卦象盘面，残损处已注明并降置信。",
+ "confidence": 0.45,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

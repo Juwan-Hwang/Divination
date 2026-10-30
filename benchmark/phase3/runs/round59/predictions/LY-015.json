@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-015",
+ "prediction_text": "方向：升迁可成，但迟而多周折。应期（月档，升迁取月）：窗口两月内，主坐标丑月——官鬼丑土值月之时定局。",
+ "basis": "tradition：liuyao（输入卡 tradition/system 字段）\nsystems_used：六爻纳甲\n用神官鬼两现皆静：丑土、辰土，未月土旺、官星有气；父母酉金上爻动化卯木、兄弟亥水动化巳火，文书虽动而化卯与酉金相冲，主文书往返反复，故成而迟。世爻妻财午火临甲午日生官，世官相生为助。动化方向：动化方向已核（酉化卯、亥化巳皆非回头生克用神主线）；反转条件不成立。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "disputed：官鬼两现皆静，旺衰互比定丑土为主、辰土旁参。"
+ }
+}

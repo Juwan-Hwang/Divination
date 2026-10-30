@@ -1,0 +1,12 @@
+{
+ "case_id": "MP-014",
+ "prediction_text": "此届大选对特朗普不利：确诊之病可愈出院、不至危殆，但病情打乱选战节奏、选情受挫，11月3日大选特朗普落败、拜登胜出。应期：2020年11月3日投票日定局（月档）。",
+ "basis": "tradition：自决 modern-prediction（卡面无 tradition/system 字段，依据卡面提问与情境自决）\nsystems_used：[\"modern-prediction\"]\n输入残损：卡面无 tradition/system 字段、无卦盘/牌面/命盘等任何占具数据，仅有当事人基本信息与提问时点情境；不臆补盘面，按卡面事实（民调、声势、时点进程）作形势判读，置信已降。systems 记为 modern-master-context-reading（自决）。\n卡面情境：确诊翌日、距投票约一个月；判读分病与选两项：病项定可愈（短期出院量级）、选项目定不利落败，两项对象同为特朗普本人、已分写。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

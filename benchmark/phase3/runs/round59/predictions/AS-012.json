@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-012",
+ "prediction_text": "断：求不到这个 parsonage（教职圣俸）——此行必空。主星与九宫主全无相位容纳，又无传光集光，纵勉强奔走亦不得；且金星在七宫对冲上升、土星临上升受阻，主途中反有阻挠与难堪。劝其罢手：应期上无成期可指（月档内亦无成相之路），强求只徒耗资费颜面。",
+ "basis": "tradition：horary（卡面 tradition 字段）\nsystems_used：horary（Lilly 古典卜卦，九宫圣职类）\n盘面：土星受阻临上升，先伤此问；九宫主木星（圣职/教职之主星）与上升主、与月亮皆无相位；上升主与月亮皆不在九宫；主星之间无传光、无集光、无容纳；月亮离三合而应用对冲三宫主水星；金星在七宫对冲上升。Lilly 自列七条否定 testimony 俱全——求圣职类占最忌主星无交涉，此问交涉全无。",
+ "confidence": 0.8,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

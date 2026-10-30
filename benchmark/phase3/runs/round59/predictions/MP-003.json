@@ -1,0 +1,12 @@
+{
+ "case_id": "MP-003",
+ "prediction_text": "韩国瑜会参选2020年总统：就任市长未久即挡不住劝进声势，年内将表态参选，并赢得国民党提名出战。应期：2019年年内表态并完成提名（年档）。",
+ "basis": "tradition：自决 modern-prediction（卡面无 tradition/system 字段，依据卡面提问与情境自决）\nsystems_used：[\"modern-prediction\"]\n输入残损：卡面无 tradition/system 字段、无卦盘/牌面/命盘等任何占具数据，仅有当事人基本信息与提问时点情境；不臆补盘面，按卡面事实（民调、声势、时点进程）作形势判读，置信已降。systems 记为 modern-master-context-reading（自决）。\n卡面情境：韩流正盛、就任仅两周已起攻大位之猜；以声势进程定「会参选」且非陪跑、直取提名，落到参选与提名两项具体结果。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

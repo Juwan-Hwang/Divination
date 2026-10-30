@@ -1,0 +1,12 @@
+{
+ "case_id": "MP-015",
+ "prediction_text": "特朗普较拜登有利：2024龙年特朗普运势强于拜登，拜登一侧有健康与选情变数，大选竞争以特朗普占先、终局特朗普胜出。应期：2024年11月大选定局（年档）。",
+ "basis": "tradition：自决 modern-prediction（卡面无 tradition/system 字段，依据卡面提问与情境自决）\nsystems_used：[\"modern-prediction\"]\n输入残损：卡面无 tradition/system 字段、无卦盘/牌面/命盘等任何占具数据，仅有当事人基本信息与提问时点情境；不臆补盘面，按卡面事实（民调、声势、时点进程）作形势判读，置信已降。systems 记为 modern-master-context-reading（自决）。\n卡面情境：2024年2月农历新年专访、预期二人再度对决；判读比较两人龙年运势强弱，定特朗普占先并落到胜出终局。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

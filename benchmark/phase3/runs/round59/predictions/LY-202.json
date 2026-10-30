@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-202",
+ "prediction_text": "方向：终身财福薄，仅得糊口之资，行医亦难致富。等级：小康以下、终身劳碌得财有限（年档表达，无具体应期年，主看财神无气）。",
+ "basis": "tradition：liuyao（输入卡 tradition/system 字段）\nsystems_used：六爻纳甲\n终身以妻财子水为用：静卦雷天大壯，财居应爻，寅月木旺泄水、乙巳日火旺水绝，财休囚临绝无气；世爻父母午火临日月之火，劳碌之身；子孙申金静虽生财而静弱。财无气+静卦无动源，终身财福按弱级断。动化方向：静卦无动化；反转条件不成立。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

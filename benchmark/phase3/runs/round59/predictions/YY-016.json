@@ -1,0 +1,12 @@
+{
+ "case_id": "YY-016",
+ "prediction_text": "父病凶危、难愈：官鬼化进主病进、父母伏弱，终局断不治倾向。应期单位日：窗口为旬内，主坐标申日（官鬼申金逢值、病势进逼之危期）。",
+ "basis": "tradition：liuyao（依据：输入卡 tradition 字段为 liuyao）\nsystems_used：[\"liuyao\"]\n子占父以父母为用：解卦无父母，初爻兄弟寅木下伏父母子水（输入卡明载），子水戊寅月木泄休、辛未日土。飞兄弟寅木泄伏（水生木）且寅临月旺飞旺泄伏。五爻官鬼申金应动化官鬼酉金，申酉金序进为化进，病象化进主病势进逼；原神火子孙午火两现克金有救一分，然午火寅月相静/四爻午静不发动。伏神待出弱。四路：本气−／元忌仇−（鬼化进）／动化−／不计；合参凶向。对象复述：主语为父本人，非子。疾病对表取鬼逢值申日为危期。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "父母伏藏（输入卡hidden_lines明载），走伏神判别，故 reserve_used=true。"
+ }
+}

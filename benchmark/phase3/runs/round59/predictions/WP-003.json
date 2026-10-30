@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-003",
+ "prediction_text": "Direction: Barack Obama is re-elected. Incumbent Obama defeats Mitt Romney on 6 November 2012 despite the Mercury-retrograde Election Day causing counting delays, disputes and confusion in the process. Result: Obama wins both the Electoral College and the popular vote; the retrograde shows in the mechanics, not in overturning the outcome.",
+ "basis": "tradition：western-astrology（卡面无tradition字段，依据卡面行星配置/问事体例自决）\nsystems_used：西洋占星选举占星：现任者盘面优势未被挑战者压过；水逆当日只主流程混乱与迟滞，按事实优先序不许以水逆翻转终局。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

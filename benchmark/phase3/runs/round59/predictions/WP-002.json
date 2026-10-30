@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-002",
+ "prediction_text": "Direction: Barack Obama wins. Obama first clinches the Democratic nomination, then defeats John McCain in the 4 November 2008 general election. The Saturn-Uranus opposition exact on Election Day marks the fall of the old order/incumbent party and the election of the insurgent, change-bearing candidate. Margin: a clear, not razor-thin, victory.",
+ "basis": "tradition：western-astrology（卡面无tradition字段，依据卡面行星配置/问事体例自决）\nsystems_used：西洋占星选举占星：土天对冲为政权更替与反建制签名，现任执政党候选人麦凯恩承土星旧秩序之压，奥巴马承天王星变革之象，故断变天。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
