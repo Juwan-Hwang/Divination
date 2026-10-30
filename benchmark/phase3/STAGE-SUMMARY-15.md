@@ -27,3 +27,7 @@
 ## 四、本任提交链
 
 4d6a674 试点预注册 → bda4207 普查定稿 → c7e5ef2 试点 NO-GO 定稿（phase3-input-audit-pilot）→ cecf553 R32 预注册（phase3-round32-prereg）→ ab4c5fa 盲测冻结（phase3-round32-blind-frozen）→ be46d3e R32 定稿（phase3-round32）→ be2b5fc holdout11 开封 → 7930feb 验收包冻结 → 6060d35 验收未达标（phase3-holdout11-acceptance）。HEAD 在本总结提交。
+
+## 勘误（定稿后补）
+
+§一第 2 条「本任未见隔离自报」有误，应以 runs/round32/ADDENDUM-isolation-disclosures.md 为准：六席盲测席自报定稿后元数据级接触（B02/B08/B10/B15/B16/B23），主持核算无一例预测可能受污染、R32 与 holdout11 全部判读维持；派单教训（校验禁止通配 glob）已登记于该补遗，请下一任并入派单卫生清单。
