@@ -1,0 +1,291 @@
+{
+  "round": "R42",
+  "seat": "D3 build/seal",
+  "gate": {
+    "used_union": {
+      "holdout3_17_gold_ids": 460,
+      "dev9_ids": 487,
+      "union": 871,
+      "overlap": 76
+    },
+    "pool_accounting": {
+      "zc_candidates_r41_total": 29,
+      "holdout17_zc_selected_from_r41": [
+        "ZC-134",
+        "ZC-135",
+        "ZC-136",
+        "ZC-137",
+        "ZC-138",
+        "ZC-140",
+        "ZC-141",
+        "ZC-142",
+        "ZC-147",
+        "ZC-148",
+        "ZC-151",
+        "ZC-152",
+        "ZC-153",
+        "ZC-155",
+        "ZC-159",
+        "ZC-161",
+        "ZC-162"
+      ],
+      "r41_unselected_derived": [
+        "ZC-139",
+        "ZC-143",
+        "ZC-144",
+        "ZC-145",
+        "ZC-146",
+        "ZC-149",
+        "ZC-150",
+        "ZC-154",
+        "ZC-156",
+        "ZC-157",
+        "ZC-158",
+        "ZC-160"
+      ],
+      "inventory_list_from_task_and_h17_seal_log": [
+        "ZC-139",
+        "ZC-143",
+        "ZC-144",
+        "ZC-145",
+        "ZC-146",
+        "ZC-149",
+        "ZC-150",
+        "ZC-154",
+        "ZC-156",
+        "ZC-157",
+        "ZC-158",
+        "ZC-160"
+      ],
+      "inventory_equals_r41_unselected": true,
+      "r42_new": [
+        "ZC-163",
+        "ZC-164",
+        "ZC-165"
+      ],
+      "fresh_available_union": [
+        "ZC-139",
+        "ZC-143",
+        "ZC-144",
+        "ZC-145",
+        "ZC-146",
+        "ZC-149",
+        "ZC-150",
+        "ZC-154",
+        "ZC-156",
+        "ZC-157",
+        "ZC-158",
+        "ZC-160",
+        "ZC-163",
+        "ZC-164",
+        "ZC-165"
+      ],
+      "fresh_available_count": 15,
+      "task_stated_pool_count": 27,
+      "pool_count_discrepancy": "派单「库存12＋R41新核未选12＋新增3＝27」中前两项经实核为同一集合（zc-candidates-r41.jsonl 29 行－h17 已入选 17 行＝12 行，与 h17 封存日志 §五留库存 12 例逐 id 全等），重复计数 12；ZC-RECHECK-R42 的 Z＝35 为累计合规数（32＋3），未扣 holdout17 已用 20 例。另 ZC-122 台账为 A-low 但经 R41 普查身份未定旗标排除（ZC-CENSUS-R41 §三），不计入。"
+    },
+    "c_required": 20,
+    "fresh_zc_available": 15,
+    "verdict": "FAIL",
+    "shortage": 5,
+    "note": "新鲜可用 15＜20：若强行组集，须复用已用例（违例级零复用）、降级/旗标例（违全 A-low；ZC-122 旗标排除在案）或他源填数（违 PREREG §4.2 不以他源破上限填数），三路皆禁。PREREG §4.2 第二档（13≤Z≤19 → C＝Z、L＝Z、T＝2Z）以何 Z 口径适用、ZC-164 在不足数时是否仍列备选末位，均属主持裁决事项，本席不自改构成。"
+  },
+  "scan_stage1_candidate_prep": {
+    "method": "字段名黑名单先行拦截（scan_field_names），再内容级扫描（scan_content）",
+    "per_id": {
+      "ZC-139": {
+        "fieldname_hits": [],
+        "content_hits": []
+      },
+      "ZC-143": {
+        "fieldname_hits": [],
+        "content_hits": []
+      },
+      "ZC-144": {
+        "fieldname_hits": [],
+        "content_hits": []
+      },
+      "ZC-145": {
+        "fieldname_hits": [],
+        "content_hits": []
+      },
+      "ZC-146": {
+        "fieldname_hits": [],
+        "content_hits": []
+      },
+      "ZC-149": {
+        "fieldname_hits": [],
+        "content_hits": []
+      },
+      "ZC-150": {
+        "fieldname_hits": [],
+        "content_hits": []
+      },
+      "ZC-154": {
+        "fieldname_hits": [],
+        "content_hits": []
+      },
+      "ZC-156": {
+        "fieldname_hits": [],
+        "content_hits": []
+      },
+      "ZC-157": {
+        "fieldname_hits": [],
+        "content_hits": []
+      },
+      "ZC-158": {
+        "fieldname_hits": [],
+        "content_hits": []
+      },
+      "ZC-160": {
+        "fieldname_hits": [],
+        "content_hits": []
+      },
+      "ZC-163": {
+        "fieldname_hits": [],
+        "content_hits": []
+      },
+      "ZC-164": {
+        "fieldname_hits": [],
+        "content_hits": []
+      },
+      "ZC-165": {
+        "fieldname_hits": [],
+        "content_hits": []
+      },
+      "DA-134": {
+        "fieldname_hits": [],
+        "content_hits": []
+      },
+      "DA-145": {
+        "fieldname_hits": [],
+        "content_hits": []
+      },
+      "DA-152": {
+        "fieldname_hits": [],
+        "content_hits": []
+      },
+      "DA-159": {
+        "fieldname_hits": [],
+        "content_hits": []
+      },
+      "DA-167": {
+        "fieldname_hits": [],
+        "content_hits": []
+      },
+      "DA-185": {
+        "fieldname_hits": [],
+        "content_hits": []
+      },
+      "DA-206": {
+        "fieldname_hits": [],
+        "content_hits": []
+      },
+      "BYZ-078": {
+        "fieldname_hits": [],
+        "content_hits": []
+      },
+      "BYZ-107": {
+        "fieldname_hits": [],
+        "content_hits": []
+      },
+      "BYZ-114": {
+        "fieldname_hits": [],
+        "content_hits": []
+      },
+      "CY-034": {
+        "fieldname_hits": [
+          [
+            "/chart/三传/断语线索",
+            "断语"
+          ]
+        ],
+        "content_hits": [
+          [
+            "/chart/三传/断语线索",
+            "L1",
+            "断曰",
+            "断曰：银信已到家（旺神乘青龙"
+          ]
+        ]
+      },
+      "CY-040": {
+        "fieldname_hits": [
+          [
+            "/chart/三传/断语线索",
+            "断语"
+          ]
+        ],
+        "content_hits": [
+          [
+            "/chart/三传/断语线索",
+            "L1",
+            "断曰",
+            "断曰：课得吊客、未传生助初鬼"
+          ]
+        ]
+      },
+      "CY-047": {
+        "fieldname_hits": [
+          [
+            "/chart/三传/断语线索",
+            "断语"
+          ]
+        ],
+        "content_hits": [
+          [
+            "/chart/三传/断语线索",
+            "L1",
+            "断曰",
+            "断曰：七月当有出狱之兆（天赦"
+          ]
+        ]
+      },
+      "CY-061": {
+        "fieldname_hits": [
+          [
+            "/chart/三传/断语线索",
+            "断语"
+          ]
+        ],
+        "content_hits": [
+          [
+            "/chart/三传/断语线索",
+            "L1",
+            "断曰",
+            "断曰：此必钱也、其数二十有八"
+          ]
+        ]
+      },
+      "CY-010": {
+        "fieldname_hits": [],
+        "content_hits": []
+      },
+      "CY-011": {
+        "fieldname_hits": [],
+        "content_hits": []
+      }
+    }
+  },
+  "material_gaps": [
+    "BYZ 序4–7（BYZ-018/019/020/025，承 SUPPLY-R42 §二.2 排序外原序）：runs/round41/data-verify/da-byz-candidates-r41.jsonl 无候选行（该文件 BYZ 仅含 R41 候选 10 例），建卡级材料须回原书页图逐例制备（体例同 R41 候选制备），本轮未制备。",
+    "CY 序5–6（CY-010/011，承 SUPPLY-R42 §三.1 排序外原序）：runs/round41/data-verify/yxs-candidates-r41.jsonl 无候选行（仅含候选 10 例），expansion12/liuren-cuiyan/cases-munong.jsonl 台账行无课式字段，建卡级材料须回 render 页图逐字转录课盘列（承 h17 裁定二体例），本轮未制备。"
+  ],
+  "scan_stage2_card_selfcheck": "未执行：构成门不过、未建卡，无卡可扫（PREREG §5 第二道以建卡为前提）",
+  "scan_stage3_host_verify": "主持验封道，非本席执行",
+  "remediation": [
+    {
+      "ids": [
+        "CY-034",
+        "CY-040",
+        "CY-047",
+        "CY-061"
+      ],
+      "stage": "第一道（候选制备期）",
+      "finding": "yxs-candidates-r41.jsonl 四行 input_side.chart.三传.断语线索 子字段：字段名黑名单命中（断语）＋内容 L1 命中（断曰）各 1/例——即 h17 污染事件的同一带入路径，本轮于制备期被拦截。",
+      "disposition": "建卡时该子字段整项不入卡（断语只许入金标侧，PREREG §5 制备纪律）；本轮未建卡，拦截事实在此存证，组集重开时按此执行并于建卡自校验（第二道）复扫零命中为准。"
+    }
+  ],
+  "gold_sha256": null,
+  "outputs_written": []
+}
