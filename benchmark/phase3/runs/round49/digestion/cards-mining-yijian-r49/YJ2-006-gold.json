@@ -1,0 +1,33 @@
+{
+  "id": "YJ2-006",
+  "tradition": "yizhan",
+  "subject": "范之才，郎官，以言巢湖有鼎非是被责；占者邵南",
+  "context": "邵南至通州，范之才以言巢湖有鼎非是被责，来问休咎。",
+  "question": "被责之后，前景休咎如何？何时何任？",
+  "setting": "北宋宣和年间·通州；占法为筮（原文未载卦象）",
+  "provenance": "《夷坚志》·甲志卷四·邵南神术；在线全文实取 hugbear 全文单页 L184–186 https://www.hugbear.net/hugbear/viewinfobook555.html；transcription=online-verbatim；访问日期 2026-10-30",
+  "record_status": "candidate-r49-mining",
+  "redistributable": false,
+  "license_status": "古典文本公有领域；在线转录站条款未明，内部研究用",
+  "notes": "本卡自《邵南神术》整条剥离范之才前断一案；范氏后断（来日拜命）与邵南自筮死各另立卡（YJ2-007、YJ2-008），三键以时间/所问分。",
+  "master_predictions": [
+    {
+      "master": "邵南",
+      "date": null,
+      "tradition": "yizhan",
+      "direction": null,
+      "key_assertions": [],
+      "source": "《夷坚志》·甲志卷四·邵南神术",
+      "statement_excerpt": "更十年当于婺女相见。／作郡守也。"
+    }
+  ],
+  "outcome": {
+    "description": "后范罪抆拭。果得婺。闻南在杭。使召之。时相去九年矣。南不肯往。……既度岁遂行。",
+    "verified_by": "原文结局文本（逐字）"
+  },
+  "passage_full": "南昔至通州。郎官范之才。以言巢湖有鼎非是被责。来问休咎。南曰。更十年当于婺女相见。范曰。量移邪。曰。作郡守也。后范罪抆拭。果得婺。闻南在杭。使召之。时相去九年矣。南不肯往。复书曰。昔年虽有约。然吾自筮二人入城而不出。若往必死。范连遣使赍酒醴。请意益勤。既度岁遂行。",
+  "grade_suggestion": "A",
+  "grade_reason": "断语具名可逐字录，含十年之期、相见之地（婺女）与职任性质（郡守）；结局为独立事件文本（罪抆拭果得婺、相去九年召之、度岁遂行相见），逐项对应；可剥离。",
+  "contamination_suggestion": "low",
+  "contamination_reason": "2026-10-30 以「范之才 邵南 婺州 龙图阁」检索零个案命中（返回全为无关人物页）；对象范之才无独立条目。"
+}

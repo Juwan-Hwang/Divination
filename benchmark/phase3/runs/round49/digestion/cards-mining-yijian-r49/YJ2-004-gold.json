@@ -1,0 +1,33 @@
+{
+  "id": "YJ2-004",
+  "tradition": "yizhan",
+  "subject": "蔡嶷（蔡文饶，尚书），帅杭；占者邵南",
+  "context": "蔡嶷帅杭，州治夜火之后，蔡素不喜卜筮，仍试呼邵南询己之前景。",
+  "question": "十五日内职任有何变动？",
+  "setting": "北宋宣和四年十二月·杭州；占法为筮（原文未载卦象）",
+  "provenance": "《夷坚志》·甲志卷四·邵南神术；在线全文实取 hugbear 全文单页 L184–186 https://www.hugbear.net/hugbear/viewinfobook555.html；transcription=online-verbatim；访问日期 2026-10-30",
+  "record_status": "candidate-r49-mining",
+  "redistributable": false,
+  "license_status": "古典文本公有领域；在线转录站条款未明，内部研究用",
+  "notes": "本卡自《邵南神术》整条剥离蔡嶷一案；断语「别京」二字照 hugbear 现行转录逐字，点校本或作他字，采用前建议复核。",
+  "master_predictions": [
+    {
+      "master": "邵南",
+      "date": null,
+      "tradition": "yizhan",
+      "direction": null,
+      "key_assertions": [],
+      "source": "《夷坚志》·甲志卷四·邵南神术",
+      "statement_excerpt": "十五日内当移官别京。"
+    }
+  ],
+  "outcome": {
+    "description": "居二日。适为言者论击。罢为提举南京鸿庆宫。未几。又落龙图阁直学士。如期拜命。",
+    "verified_by": "原文结局文本（逐字）"
+  },
+  "passage_full": "蔡素不喜卜筮。试呼询之。对曰。十五日内当移官别京。蔡曰。得非分司乎。何遽也。居二日。适为言者论击。罢为提举南京鸿庆宫。未几。又落龙图阁直学士。如期拜命。",
+  "grade_suggestion": "A",
+  "grade_reason": "断语具名可逐字录，含期限（十五日）与移官断面；结局为独立事件文本（居二日被论击罢为提举南京鸿庆宫、未几落龙图阁直学士），含具体新职；可剥离。",
+  "contamination_suggestion": "mid",
+  "contamination_reason": "对象蔡嶷为尚书、帅臣级史载人物，故不予 low；本案断语细节未见个案转述页（与 YJ2-003 同轮检索面零命中），不予 high。"
+}

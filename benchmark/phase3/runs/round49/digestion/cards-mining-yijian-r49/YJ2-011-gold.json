@@ -1,0 +1,33 @@
+{
+  "id": "YJ2-011",
+  "tradition": "fangji",
+  "subject": "杨忱（司理）之女，年十六七岁，暴得疾；占者/断者杨望才",
+  "context": "忱一女年十六七岁，暴得疾，更数医不効。杨望才在狱中告忱以病因与治法，称须待己受杖后以符治之。",
+  "question": "女病病因为何？可否平安？",
+  "setting": "南宋·蜀地；断法原文未名（望诊式直断＋符治）",
+  "provenance": "《夷坚志》·丙志·杨抽马；在线全文实取 hugbear 全文单页 L2488–2490 https://www.hugbear.net/hugbear/viewinfobook555.html；transcription=online-verbatim；访问日期 2026-10-30",
+  "record_status": "candidate-r49-mining",
+  "redistributable": false,
+  "license_status": "古典文本公有领域；在线转录站条款未明，内部研究用",
+  "notes": "本卡自《杨抽马》整条剥离杨忱女病案；断语中「某药」原文即以某字代药名（非转录缺失），逐字保留；本案兼含符治，归型（占断/方技）请主持裁定。",
+  "master_predictions": [
+    {
+      "master": "杨望才",
+      "date": null,
+      "tradition": "fangji",
+      "direction": null,
+      "key_assertions": [],
+      "source": "《夷坚志》·丙志·杨抽马",
+      "statement_excerpt": "公女久病。医陈生用某药。李生用某药。皆非是。此独后庭朴树内蛇祟尔。急屏去药。须我受杖了。为以符治之。女当平安。"
+    }
+  ],
+  "outcome": {
+    "description": "忱归语其妻。且疑且信。盖常见小蛇延缘树间。而所说易医用药。皆不妄。后杨受杖归。书符遗忱。使挂于树。女即洒然。",
+    "verified_by": "原文结局文本（逐字）"
+  },
+  "passage_full": "忱一女年十六七岁。暴得疾。更数医不効。则又告之曰、公女久病。医陈生用某药。李生用某药。皆非是。此独后庭朴树内蛇祟尔。急屏去药。须我受杖了。为以符治之。女当平安。勿忧也。忱归语其妻。且疑且信。盖常见小蛇延缘树间。而所说易医用药。皆不妄。后杨受杖归。书符遗忱。使挂于树。女即洒然。",
+  "grade_suggestion": "A",
+  "grade_reason": "断语具名可逐字录，含病因（后庭朴树内蛇祟）、前医用药之否断与女当平安之断面；结局为独立事件文本（杨受杖归书符挂树、女即洒然），含处置与痊愈；可剥离。",
+  "contamination_suggestion": "low",
+  "contamination_reason": "与 YJ2-010 同轮检索零个案命中；对象为地方官员之女，无流传记载。"
+}

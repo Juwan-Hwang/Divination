@@ -1,0 +1,33 @@
+{
+  "id": "YJ2-009",
+  "tradition": "fangji",
+  "subject": "杨望才居舍南大木下之行人（县人，通称）；占者杨望才（杨抽马）",
+  "context": "杨望才，字希吕，蜀州江原人，以术闻，蜀人目为杨抽马，谓与人抽检禄马也。其居舍南有大木，蔽芾数丈。杨忽书楬于门示警，县人皆相戒勿敢往。",
+  "question": "行人过此木下安危如何？",
+  "setting": "南宋·蜀州江原；占法原文未名（书楬预示）",
+  "provenance": "《夷坚志》·丙志·杨抽马；在线全文实取 hugbear 全文单页 L2488–2490 https://www.hugbear.net/hugbear/viewinfobook555.html；transcription=online-verbatim；访问日期 2026-10-30",
+  "record_status": "candidate-r49-mining",
+  "redistributable": false,
+  "license_status": "古典文本公有领域；在线转录站条款未明，内部研究用",
+  "notes": "本卡自《杨抽马》整条剥离书楬大木一案；体系记 fangji（方技预示，原文未名占式），归池口径请主持裁定。",
+  "master_predictions": [
+    {
+      "master": "杨望才",
+      "date": null,
+      "tradition": "fangji",
+      "direction": null,
+      "key_assertions": [],
+      "source": "《夷坚志》·丙志·杨抽马",
+      "statement_excerpt": "明日午未间。行人不可过此。过则遇奇祸。"
+    }
+  ],
+  "outcome": {
+    "description": "如期、木自拔仆地。盈塞街中。而两旁屋瓦略不损。",
+    "verified_by": "原文结局文本（逐字）"
+  },
+  "passage_full": "其居舍南大木蔽芾数丈。忽书楬于门曰、明日午未间。行人不可过此。过则遇奇祸。县人皆相戒。勿敢往。如期、木自拔仆地。盈塞街中。而两旁屋瓦略不损。",
+  "grade_suggestion": "A",
+  "grade_reason": "断语具名可逐字录，含时段（明日午未间）与过则遇祸之断面；结局为独立事件文本（如期木自拔仆地盈塞街中、两旁屋瓦略不损），为具体物理事件而非确认式零内容；可剥离。",
+  "contamination_suggestion": "low",
+  "contamination_reason": "2026-10-30 以「杨抽马 杨望才 夷坚志」检索，仅见书目级/全文站页面，零个案转述；占者杨望才无独立条目。"
+}

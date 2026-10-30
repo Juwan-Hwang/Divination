@@ -1,0 +1,33 @@
+{
+  "id": "YJ2-007",
+  "tradition": "yizhan",
+  "subject": "范之才，时守婺州；占者邵南（至婺为客）",
+  "context": "邵南至婺，范之才喜甚。邵南通夕细推之后，复谒屏人而语，催其遣健步者出城迎取文书。",
+  "question": "拜命之命何时至？所授何职？",
+  "setting": "南宋初年·婺州；占法为推/筮（原文称「细推之」）",
+  "provenance": "《夷坚志》·甲志卷四·邵南神术；在线全文实取 hugbear 全文单页 L184–186 https://www.hugbear.net/hugbear/viewinfobook555.html；transcription=online-verbatim；访问日期 2026-10-30",
+  "record_status": "candidate-r49-mining",
+  "redistributable": false,
+  "license_status": "古典文本公有领域；在线转录站条款未明，内部研究用",
+  "notes": "本卡自《邵南神术》整条剥离范之才后断一案，与 YJ2-006 同人异时异问，三键不撞；断语中自断死期句属邵南自断，另立 YJ2-008，本卡金标以范氏任命断面为断语主体、自断句并载于 passage_full。",
+  "master_predictions": [
+    {
+      "master": "邵南",
+      "date": null,
+      "tradition": "yizhan",
+      "direction": null,
+      "key_assertions": [],
+      "source": "《夷坚志》·甲志卷四·邵南神术",
+      "statement_excerpt": "公来日当拜命。／告命且至。偶使人未到城二十里。为石踠足。"
+    }
+  ],
+  "outcome": {
+    "description": "范即命一卒曰。去城二十里外。遇持文字者。急携来。……移时所遣卒流汗而至。拜庭下。大呼曰。贺龙图。取而观之。乃除直龙图阁告也。",
+    "verified_by": "原文结局文本（逐字）"
+  },
+  "passage_full": "一日又至。曰。某昨通夕不寐。细推之。公来日当拜命。然某适当死。使巳时至。犹及旅贺公。迁延可至午。缓则无及矣。范曰。先生何遽至此。来日复谒范。屏人语曰。告命且至。偶使人未到城二十里。为石踠足。愿选一健步者往取之。范曰。某备位郡守。无故为此举。岂不为邦人所笑。兼邸报尚未闻。不应如是之速。曰。某忍死相待。何惜此。范即命一卒曰。去城二十里外。遇持文字者。急携来。遂解带款语。令具食。移时所遣卒流汗而至。拜庭下。大呼曰。贺龙图。取而观之。乃除直龙图阁告也。时王黼为相。促告命付婺州回兵。仍令兼程而进。故外不及知。",
+  "grade_suggestion": "A",
+  "grade_reason": "断语具名可逐字录，含期限（来日）与拜命断面；结局为独立事件文本（所遣卒携告命至，乃除直龙图阁告），含具体职名；可剥离。",
+  "contamination_suggestion": "low",
+  "contamination_reason": "与 YJ2-006 同轮检索零个案命中；本断细节（城外二十里石踠足之使）尤冷僻，无转述页。"
+}

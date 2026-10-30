@@ -1,0 +1,33 @@
+{
+  "id": "YJ2-008",
+  "tradition": "yizhan",
+  "subject": "邵南本人（自占）；时应范之才之召将赴婺州",
+  "context": "范之才守婺，闻邵南在杭使召之，相去约定之期已九年。邵南自筮得入城不出口，复书辞行，终以范请益勤，度岁遂行，至婺后通夕细推自断死期。",
+  "question": "此行赴婺，自身生死如何？死于何时？",
+  "setting": "南宋初年·杭州至婺州；占法为自筮（原文称「吾自筮」「细推之」）",
+  "provenance": "《夷坚志》·甲志卷四·邵南神术；在线全文实取 hugbear 全文单页 L184–186 https://www.hugbear.net/hugbear/viewinfobook555.html；transcription=online-verbatim；访问日期 2026-10-30",
+  "record_status": "candidate-r49-mining",
+  "redistributable": false,
+  "license_status": "古典文本公有领域；在线转录站条款未明，内部研究用",
+  "notes": "本卡自《邵南神术》整条剥离邵南自占死期一案；与 YJ2-007 同场异问（三键：对象为邵南本人、所问为自身生死），不重复计同一断面。",
+  "master_predictions": [
+    {
+      "master": "邵南",
+      "date": null,
+      "tradition": "yizhan",
+      "direction": null,
+      "key_assertions": [],
+      "source": "《夷坚志》·甲志卷四·邵南神术",
+      "statement_excerpt": "吾自筮二人入城而不出。若往必死。／公来日当拜命。然某适当死。使巳时至。犹及旅贺公。迁延可至午。缓则无及矣。"
+    }
+  ],
+  "outcome": {
+    "description": "少顷。南促馔遂食。食已。范入谢亲。南趋至客次。使下帘。……良久方出。急召南。已坐逝矣。",
+    "verified_by": "原文结局文本（逐字）"
+  },
+  "passage_full": "复书曰。昔年虽有约。然吾自筮二人入城而不出。若往必死。范连遣使赍酒醴。请意益勤。既度岁遂行。……一日又至。曰。某昨通夕不寐。细推之。公来日当拜命。然某适当死。使巳时至。犹及旅贺公。迁延可至午。缓则无及矣。……少顷。南促馔遂食。食已。范入谢亲。南趋至客次。使下帘。戒曰。诸人敢至此者。当白龙图挞治。范家人喜抃。争捧觞为寿。良久方出。急召南。已坐逝矣。南在杭与家君善。尝欲以其书传授。家君不领。南无子。既死。其学遂绝云。",
+  "grade_suggestion": "A",
+  "grade_reason": "断语具名（自占）可逐字录，含入城不出之断与死期在拜命当日、巳午时限；结局为独立事件文本（告命到后食已、趋客次坐逝），逐项对应；可剥离。自占/自解型照通常口径（承 R47 PREREG §1⑦）。",
+  "contamination_suggestion": "low",
+  "contamination_reason": "占者邵南本为冷僻术士，SS-001 同轮已评 low；本轮各检索式均零个案命中，无本案转述页。"
+}

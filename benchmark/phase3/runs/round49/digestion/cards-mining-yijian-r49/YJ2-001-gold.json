@@ -1,0 +1,33 @@
+{
+  "id": "YJ2-001",
+  "tradition": "yizhan",
+  "subject": "胡少汲（胡直孺），以秘阁修撰为两浙转运使；占者邵南",
+  "context": "宣和四年，邵南游临安。胡少汲闻其名，召使筮之问自身职任前景。邵南，严州人，邃于遁甲，占筮如神。",
+  "question": "六十日内职任有何变动？",
+  "setting": "北宋宣和四年·临安；占法为筮（原文未载卦象）",
+  "provenance": "《夷坚志》·甲志卷四·邵南神术；在线全文实取 hugbear 全文单页 L184–186 https://www.hugbear.net/hugbear/viewinfobook555.html；transcription=online-verbatim；访问日期 2026-10-30",
+  "record_status": "candidate-r49-mining",
+  "redistributable": false,
+  "license_status": "古典文本公有领域；在线转录站条款未明，内部研究用",
+  "notes": "本卡自《邵南神术》整条剥离胡少汲一案；同条其余子案另卡或登记于 MINING-yijian-peel-r49.md。断语「作大漕」与结局「代发运使」之职名出入照原文逐字，主持裁定时请留意。",
+  "master_predictions": [
+    {
+      "master": "邵南",
+      "date": null,
+      "tradition": "yizhan",
+      "direction": null,
+      "key_assertions": [],
+      "source": "《夷坚志》·甲志卷四·邵南神术",
+      "statement_excerpt": "六十日内仍旧职作大漕。替姓陈人。"
+    }
+  ],
+  "outcome": {
+    "description": "才五十七日。发运使陈亨伯被召。少汲代焉。",
+    "verified_by": "原文结局文本（逐字）"
+  },
+  "passage_full": "宣和四年。游临安。胡尚书少汲直孺以秘阁修撰为两浙转运使。闻其名。召使筮之。曰。六十日内仍旧职作大漕。替姓陈人。……才五十七日。发运使陈亨伯被召。少汲代焉。",
+  "grade_suggestion": "A",
+  "grade_reason": "断语具名可逐字录，含期限（六十日）、新职与所替之人姓氏；结局为独立事件文本（五十七日陈亨伯被召、少汲代焉），期限与替人逐项对应；可剥离。",
+  "contamination_suggestion": "mid",
+  "contamination_reason": "对象胡直孺为尚书级史载人物，模型或知其仕历大势，故不予 low；本案断语原文与五十七日细节，2026-10-30 以「胡少汲 邵南 六十日 陈亨伯 发运」检索零个案命中（返回全为无关页），不予 high。"
+}

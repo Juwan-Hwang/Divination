@@ -1,0 +1,33 @@
+{
+  "id": "YJ2-010",
+  "tradition": "fangji",
+  "subject": "杨忱（司理）群从兄弟四人；占者杨望才",
+  "context": "司理杨忱夜定杨望才之狱（杨以左道惑众执送狱）。其后杨望才他日与忱谈及忱家前景。",
+  "question": "明年杨忱家中有何喜事？应于何人？",
+  "setting": "南宋·成都/蜀地；占法原文未名（杨以术预言）",
+  "provenance": "《夷坚志》·丙志·杨抽马；在线全文实取 hugbear 全文单页 L2488–2490 https://www.hugbear.net/hugbear/viewinfobook555.html；transcription=online-verbatim；访问日期 2026-10-30",
+  "record_status": "candidate-r49-mining",
+  "redistributable": false,
+  "license_status": "古典文本公有领域；在线转录站条款未明，内部研究用",
+  "notes": "本卡自《杨抽马》整条剥离杨忱家及第一案；与同条杨忱女病案（YJ2-011）同人异事，三键不撞。",
+  "master_predictions": [
+    {
+      "master": "杨望才",
+      "date": null,
+      "tradition": "fangji",
+      "direction": null,
+      "key_assertions": [],
+      "source": "《夷坚志》·丙志·杨抽马",
+      "statement_excerpt": "明年君家有喜。名连望字者、四人及第。"
+    }
+  ],
+  "outcome": {
+    "description": "明年。忱群从兄弟类试。果四人中选。曰从望。民望、松望、泰望。",
+    "verified_by": "原文结局文本（逐字）"
+  },
+  "passage_full": "他日又谓忱曰、明年君家有喜。名连望字者、四人及第。……明年。忱群从兄弟类试。果四人中选。曰从望。民望、松望、泰望。",
+  "grade_suggestion": "A",
+  "grade_reason": "断语具名可逐字录，含年份（明年）、人数（四人）与姓名标志（名连望字）；结局为独立事件文本（明年类试果四人中选并逐名列出从望、民望、松望、泰望），逐项对应；可剥离。",
+  "contamination_suggestion": "low",
+  "contamination_reason": "2026-10-30 以「杨望才 杨忱 望 及第 蛇祟 符」检索零个案命中（返回全为无关人物页）；杨忱为地方司理，无独立条目。"
+}
