@@ -21,7 +21,7 @@ double-view mean (all four sub-scores). Applied as in R40.
 Segment definitions verbatim from analyze_r39/r40 (host-meta
 traditions: 'bazi' = BZ 29, '八字' = natal 26, dev8 subsets via
 master-baseline-dev8; liuren family = traditions 'liuren' + '六壬').
-Side reads: bazi-all / bazi-natal timing sub-item means R50 vs R49
+Side reads: bazi-all / bazi-natal timing sub-item means R51 vs R50
 (R50 baseline taken from runs/round50/final-scores.json side-read
 values; no other-round judging/predictions opened), overlay-16 mean
 pair diff, trigger counts recomputed from runs/round51/predictions/,
@@ -148,7 +148,7 @@ print('\n== 3. (c) liuyao dev8: SINGLE round (PREREG s.1) ==')
 c44 = seg(liuyao8, ours, master)
 plat_c = c44['pair_diff'] >= -1.93
 fuse_fact = c44['pair_diff'] < -2.255
-print('R50 single:', c44)
+print('R51 single:', c44)
 print('(c) STANDS (single >= -1.93):', plat_c, '| fuse fact (< -2.255):', fuse_fact)
 
 print('\n== 4. family reads ==')
@@ -231,16 +231,16 @@ lr_guard_fact = lr_merged['pair_diff'] < -2.550
 print('bazi all:', g_bazi['pair_diff'], '< -0.816 -> BZ-FY falsified:', bz_guard_fail)
 print('liuren merged:', lr_merged['pair_diff'], '< -2.550 -> liuren continued-deterioration fact:', lr_guard_fact)
 
-print('\n== 9. side reads: bazi timing movement R49 -> R50 ==')
+print('\n== 9. side reads: bazi timing movement R50 -> R51 ==')
 prev_final = json.load(open(R50_FINAL))
-prev_timing = prev_final['analysis_r49']['appendix']['bazi_timing_side_read_vs_r48']
+prev_timing = prev_final['analysis_r50']['appendix']['bazi_timing_side_read_vs_r49']
 timing_reads = {}
 for label, ids in (('bazi-all(29)', by_trad('bazi')), ('bazi-natal(26)', by_trad('八字'))):
-    t50 = sum(ours_sub[c]['timing'] for c in ids) / len(ids)
-    t49v = prev_timing[label]['timing_mean_r49']
-    timing_reads[label] = {'timing_mean_r50': round(t50, 3), 'timing_mean_r49': round(t49v, 3),
-                           'delta': round(t50 - t49v, 3), 'n': len(ids)}
-    print(f'{label}: timing mean R50 {t50:.3f} vs R49 {t49v:.3f} | delta {t50 - t49v:+.3f}')
+    t51 = sum(ours_sub[c]['timing'] for c in ids) / len(ids)
+    t50v = prev_timing[label]['timing_mean_r50']
+    timing_reads[label] = {'timing_mean_r51': round(t51, 3), 'timing_mean_r50': round(t50v, 3),
+                           'delta': round(t51 - t50v, 3), 'n': len(ids)}
+    print(f'{label}: timing mean R51 {t51:.3f} vs R50 {t50v:.3f} | delta {t51 - t50v:+.3f}')
 
 print('\n== 9b. side read: mengzhan chapter variable footprint (R49 s.9b mechanism) ==')
 mz_cases = []
@@ -255,7 +255,7 @@ dream_trad = {tr: sum(1 for c in all_ids if meta[c]['tradition'] == tr)
 mengzhan_read = {'predictions_citing_mengzhan': mz_cases,
                  'n_citing': len(mz_cases),
                  'dev_traditions_containing_dream_char': dream_trad,
-                 'note': ('Footprint side read only; R50 is a zero-change round; '
+                 'note': ('Footprint side read only; R51 is a zero-change round; '
                           'footprint is a side read only and carries no verdict; the '
                           'mengzhan chapter effectiveness test still awaits fresh '
                           'dream cases at acceptance.')}
@@ -268,7 +268,7 @@ print('(a)', plat_a, '| (b)', plat_b, '| (c)', plat_c, '| ALL STAND:', plat_a an
 
 # ---------------- write final-scores.json (R39 structure + R50 section) ----------------
 analysis = {
-    'round': 50,
+    'round': 51,
     'prereg_source': 'runs/round51/PREREG.md s.1 (platform lines and attribution guardrails)',
     'arbitration_rule': ('Per analyze_r39.py merge_views code rule, when |X-Y|>=3 the '
                          'arbitration record replaces the double-view mean. Applied per '
@@ -294,7 +294,7 @@ analysis = {
                                  'margin': round(c44['pair_diff'] - (-1.93), 3),
                                  'fuse_line': -2.255, 'fuse_triggered': fuse_fact},
         'all_stand': plat_a and plat_b and plat_c},
-    'guardrails_r50_attribution': {
+    'guardrails_r51_attribution': {
         'note': 'Separate from platform verdict (R51 PREREG s.1).',
         'bazi_bzfy_falsification': {'seg': g_bazi, 'threshold': -0.816,
                                     'condition': 'pair_diff < -0.816',
@@ -313,7 +313,7 @@ analysis = {
                                     'arbitration_detail': arb_detail},
         'overlay16_mean_pair_diff': ov_mean,
         'mengzhan_variable_side_read': mengzhan_read,
-        'bazi_timing_side_read_vs_r49': timing_reads},
+        'bazi_timing_side_read_vs_r50': timing_reads},
 }
 final = {'ours_axis2': {c: ours[c] for c in all_ids},
          'ours_sub': {c: ours_sub[c] for c in all_ids},
@@ -330,7 +330,7 @@ for c in liuren_all:
                     'in_dev8': c in dev8_set,
                     'ours': ours[c], 'master': master[c]['total'], 'pair_diff': d})
 neg.sort(key=lambda r: r['case_id'])
-lr_doc = {'round': 50,
+lr_doc = {'round': 51,
           'definition': ("host-meta tradition in ('liuren','六壬'); pair_diff = final ours "
                          "(arbitration-merged) - master-baseline-dev9 total; listed iff < 0"),
           'n_liuren_total': len(liuren_all), 'n_negative': len(neg),
