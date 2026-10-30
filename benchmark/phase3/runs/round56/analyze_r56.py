@@ -28,7 +28,7 @@ pair diff, trigger counts recomputed from runs/round56/predictions/,
 double-view |Delta| distribution, mengzhan chapter variable footprint
 recomputed on round56 predictions (s.9b mechanism of R49), and the
 liuren negative-case list for the W-monitoring seat
-(diagnosis/lr-negatives-dev55.json).
+(diagnosis/lr-negatives-dev56.json).
 final-scores.json keeps the R39 structure (ours_axis2 / ours_sub) and
 adds an analysis_r56 section carrying every read with n and SE.
 Assertions: 487-case full coverage, double-view key sets equal,
@@ -231,16 +231,16 @@ lr_guard_fact = lr_merged['pair_diff'] < -2.550
 print('bazi all:', g_bazi['pair_diff'], '< -0.816 -> BZ-FY falsified:', bz_guard_fail)
 print('liuren merged:', lr_merged['pair_diff'], '< -2.550 -> liuren continued-deterioration fact:', lr_guard_fact)
 
-print('\n== 9. side reads: bazi timing movement R54 -> R56 ==')
+print('\n== 9. side reads: bazi timing movement R55 -> R56 ==')
 prev_final = json.load(open(PREV_FINAL))
-prev_timing = prev_final['analysis_r54']['appendix']['bazi_timing_side_read_vs_r53']
+prev_timing = prev_final['analysis_r55']['appendix']['bazi_timing_side_read_vs_r54']
 timing_reads = {}
 for label, ids in (('bazi-all(29)', by_trad('bazi')), ('bazi-natal(26)', by_trad('八字'))):
     t52 = sum(ours_sub[c]['timing'] for c in ids) / len(ids)
-    t51v = prev_timing[label]['timing_mean_r54']
-    timing_reads[label] = {'timing_mean_r56': round(t52, 3), 'timing_mean_r54': round(t51v, 3),
+    t51v = prev_timing[label]['timing_mean_r55']
+    timing_reads[label] = {'timing_mean_r56': round(t52, 3), 'timing_mean_r55': round(t51v, 3),
                            'delta': round(t52 - t51v, 3), 'n': len(ids)}
-    print(f'{label}: timing mean R54 {t52:.3f} vs R53 {t51v:.3f} | delta {t52 - t51v:+.3f}')
+    print(f'{label}: timing mean R56 {t52:.3f} vs R55 {t51v:.3f} | delta {t52 - t51v:+.3f}')
 
 print('\n== 9b. side read: mengzhan chapter variable footprint (R49 s.9b mechanism) ==')
 mz_cases = []
@@ -255,7 +255,7 @@ dream_trad = {tr: sum(1 for c in all_ids if meta[c]['tradition'] == tr)
 mengzhan_read = {'predictions_citing_mengzhan': mz_cases,
                  'n_citing': len(mz_cases),
                  'dev_traditions_containing_dream_char': dream_trad,
-                 'note': ('Footprint side read only; R54 is a zero-change round; '
+                 'note': ('Footprint side read only; R56 is a zero-change round; '
                           'footprint is a side read only and carries no verdict; the '
                           'mengzhan chapter effectiveness test still awaits fresh '
                           'dream cases at acceptance.')}
@@ -268,7 +268,7 @@ print('(a)', plat_a, '| (b)', plat_b, '| (c)', plat_c, '| ALL STAND:', plat_a an
 
 # ---------------- write final-scores.json (R39 structure + R54 section) ----------------
 analysis = {
-    'round': 55,
+    'round': 56,
     'prereg_source': 'runs/round56/PREREG.md s.1 (platform lines and attribution guardrails)',
     'arbitration_rule': ('Per analyze_r39.py merge_views code rule, when |X-Y|>=3 the '
                          'arbitration record replaces the double-view mean. Applied per '
@@ -313,7 +313,7 @@ analysis = {
                                     'arbitration_detail': arb_detail},
         'overlay16_mean_pair_diff': ov_mean,
         'mengzhan_variable_side_read': mengzhan_read,
-        'bazi_timing_side_read_vs_r54': timing_reads},
+        'bazi_timing_side_read_vs_r55': timing_reads},
 }
 final = {'ours_axis2': {c: ours[c] for c in all_ids},
          'ours_sub': {c: ours_sub[c] for c in all_ids},
@@ -330,14 +330,14 @@ for c in liuren_all:
                     'in_dev8': c in dev8_set,
                     'ours': ours[c], 'master': master[c]['total'], 'pair_diff': d})
 neg.sort(key=lambda r: r['case_id'])
-lr_doc = {'round': 55,
+lr_doc = {'round': 56,
           'definition': ("host-meta tradition in ('liuren','六壬'); pair_diff = final ours "
                          "(arbitration-merged) - master-baseline-dev9 total; listed iff < 0"),
           'n_liuren_total': len(liuren_all), 'n_negative': len(neg),
           'negatives': neg}
 (R56D / 'diagnosis').mkdir(exist_ok=True)
-json.dump(lr_doc, open(R56D / 'diagnosis/lr-negatives-dev55.json', 'w'), ensure_ascii=False, indent=1)
-print('lr-negatives-dev55.json written: negatives', len(neg), '/', len(liuren_all))
+json.dump(lr_doc, open(R56D / 'diagnosis/lr-negatives-dev56.json', 'w'), ensure_ascii=False, indent=1)
+print('lr-negatives-dev56.json written: negatives', len(neg), '/', len(liuren_all))
 
 print('\n== SUMMARY ==')
 print(json.dumps({'platform_a': plat_a, 'platform_b': plat_b, 'platform_c': plat_c,

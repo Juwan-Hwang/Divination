@@ -1,0 +1,640 @@
+{
+  "round": 56,
+  "set": "holdout20",
+  "built_by": "建集数据席（R56）",
+  "ruling": "runs/round56/PREREG-ADDENDUM-1.md",
+  "T": 25,
+  "order": [
+    "QW-001",
+    "QW-002",
+    "QW-003",
+    "QW-004",
+    "QW-005",
+    "QW-006",
+    "QW-007",
+    "QW-008",
+    "QW-009",
+    "QW-010",
+    "QW-011",
+    "QW-012",
+    "WHY-003",
+    "WHY-015",
+    "WHY-021",
+    "WHY-030",
+    "WHY-067",
+    "YJ2-012",
+    "YJ-001",
+    "YJ-004",
+    "YJ-006",
+    "CZ2-001",
+    "CZ2-002",
+    "CZ2-003",
+    "CZ2-006"
+  ],
+  "composition": {
+    "by_source": {
+      "曲炜《详批命例精解》": 12,
+      "王虎应《六爻分类占验技法》": 5,
+      "《夷坚志》": 4,
+      "《春渚紀聞》": 4
+    },
+    "by_tradition": {
+      "bazi": 12,
+      "liuyao": 5,
+      "fangji": 1,
+      "mengzhan": 6,
+      "xiangshu": 1
+    },
+    "non_yijian": 21,
+    "note": "逐卡 tradition 从候选登记逐字：bazi 12、liuyao 5、mengzhan 6、fangji 1、xiangshu 1；ADDENDUM-1 §二体系构成行作六爻 9/梦占 3，与逐卡登记不一致（YJ-001/004/006 登记 mengzhan、YJ2-012 登记 fangji），本席从逐卡登记、差异标旗于封存日志"
+  },
+  "zero_reuse_recheck": {
+    "holdout2_ids": 29,
+    "holdout3_19_gold_ids": 515,
+    "dev9_ids": 487,
+    "used_union": 926,
+    "method": "只对 id 集（phase2/splits2.json、holdout3–19 test_gold.jsonl 仅取 id 字段、data/master-baseline-dev9.json 键集）；未打开任何已封存集金标正文做内容比对（holdout19 金标正文未开、仅取 id）",
+    "selected_hit_count": 0
+  },
+  "input_field_whitelist": [
+    "id",
+    "tradition",
+    "subject",
+    "context",
+    "question",
+    "setting",
+    "provenance",
+    "redistributable",
+    "license_status",
+    "anchors"
+  ],
+  "qw010_rewrite": {
+    "rule": "输入侧卫生：台账 setting 原文嵌成色限度句、含 R42 §5 二级标记「结局」；限度由金标 grade_note（outcome_note）全文承载，输入侧删该句（承 holdout19 YJ2-007 附条件改写先例，改写前后对照存证）",
+    "before_context_input_side": "函测：命主为 1986 年生少年（求测时约十六岁），父母为其求测；反馈所及仅少年期事件，非一生结局，入账时如实标此限度",
+    "after_context_input_side": "函测：命主为 1986 年生少年（求测时约十六岁），父母为其求测",
+    "note": "被删限度句原文另在台账 outcome_note 与本卡金标 grade_note 中逐字并存"
+  },
+  "cz2001_rewrite": {
+    "rule": "输入侧卫生：候选卡 question 原文含 R42 §5 二级标记「結局」（问句用词、非结局内容泄露）；输入侧改写一词，改写前后对照存证（承 holdout19 YJ2-007 先例），原候选卡文件不动",
+    "before_question_input_side": "禱夢所問：去留當如何，此任結局如何？",
+    "after_question_input_side": "禱夢所問：去留當如何，此任後事如何？"
+  },
+  "cz2006_rewrite": {
+    "rule": "输入侧卫生：候选卡 question 原文含 R42 §5 二级标记「應驗」（问句用词）；输入侧改写为「主何吉凶」，改写前后对照存证，原候选卡文件不动",
+    "before_question_input_side": "請言此先墓主何應驗？",
+    "after_question_input_side": "請言此先墓主何吉凶？"
+  },
+  "strip_register": {
+    "QW-001": [
+      "pollution/pollution_note/anchor_presence/anchor_note/dedup_check/filters/outcome_record（台账管理与金标侧字段，不入输入卡）；input_fields 之 id/tradition 与 subject/context/provenance 嵌套子字段经字段映射摊平入卡（子字段文本逐字）"
+    ],
+    "QW-002": [
+      "pollution/pollution_note/anchor_presence/anchor_note/dedup_check/filters/outcome_record（台账管理与金标侧字段，不入输入卡）；input_fields 之 id/tradition 与 subject/context/provenance 嵌套子字段经字段映射摊平入卡（子字段文本逐字）"
+    ],
+    "QW-003": [
+      "pollution/pollution_note/anchor_presence/anchor_note/dedup_check/filters/outcome_record（台账管理与金标侧字段，不入输入卡）；input_fields 之 id/tradition 与 subject/context/provenance 嵌套子字段经字段映射摊平入卡（子字段文本逐字）"
+    ],
+    "QW-004": [
+      "pollution/pollution_note/anchor_presence/anchor_note/dedup_check/filters/outcome_record（台账管理与金标侧字段，不入输入卡）；input_fields 之 id/tradition 与 subject/context/provenance 嵌套子字段经字段映射摊平入卡（子字段文本逐字）"
+    ],
+    "QW-005": [
+      "pollution/pollution_note/anchor_presence/anchor_note/dedup_check/filters/outcome_record（台账管理与金标侧字段，不入输入卡）；input_fields 之 id/tradition 与 subject/context/provenance 嵌套子字段经字段映射摊平入卡（子字段文本逐字）"
+    ],
+    "QW-006": [
+      "pollution/pollution_note/anchor_presence/anchor_note/dedup_check/filters/outcome_record（台账管理与金标侧字段，不入输入卡）；input_fields 之 id/tradition 与 subject/context/provenance 嵌套子字段经字段映射摊平入卡（子字段文本逐字）"
+    ],
+    "QW-007": [
+      "pollution/pollution_note/anchor_presence/anchor_note/dedup_check/filters/outcome_record（台账管理与金标侧字段，不入输入卡）；input_fields 之 id/tradition 与 subject/context/provenance 嵌套子字段经字段映射摊平入卡（子字段文本逐字）"
+    ],
+    "QW-008": [
+      "pollution/pollution_note/anchor_presence/anchor_note/dedup_check/filters/outcome_record（台账管理与金标侧字段，不入输入卡）；input_fields 之 id/tradition 与 subject/context/provenance 嵌套子字段经字段映射摊平入卡（子字段文本逐字）"
+    ],
+    "QW-009": [
+      "pollution/pollution_note/anchor_presence/anchor_note/dedup_check/filters/outcome_record（台账管理与金标侧字段，不入输入卡）；input_fields 之 id/tradition 与 subject/context/provenance 嵌套子字段经字段映射摊平入卡（子字段文本逐字）"
+    ],
+    "QW-010": [
+      "pollution/pollution_note/anchor_presence/anchor_note/dedup_check/filters/outcome_record（台账管理与金标侧字段，不入输入卡）；input_fields 之 id/tradition 与 subject/context/provenance 嵌套子字段经字段映射摊平入卡（子字段文本逐字）"
+    ],
+    "QW-011": [
+      "pollution/pollution_note/anchor_presence/anchor_note/dedup_check/filters/outcome_record（台账管理与金标侧字段，不入输入卡）；input_fields 之 id/tradition 与 subject/context/provenance 嵌套子字段经字段映射摊平入卡（子字段文本逐字）"
+    ],
+    "QW-012": [
+      "pollution/pollution_note/anchor_presence/anchor_note/dedup_check/filters/outcome_record（台账管理与金标侧字段，不入输入卡）；input_fields 之 id/tradition 与 subject/context/provenance 嵌套子字段经字段映射摊平入卡（子字段文本逐字）"
+    ],
+    "WHY-003": [
+      "pollution/anchor_presence/anchor_missing/dedup_check/transcription/outcome_type/outcome_record（台账管理与金标侧字段，不入输入卡）；台账 input_fields 无 context/setting/provenance 独立字段，context 由 asked_at＋书名组写、setting/provenance 由台账 source 逐字承接，组写口径登记于构建报告"
+    ],
+    "WHY-015": [
+      "pollution/anchor_presence/anchor_missing/dedup_check/transcription/outcome_type/outcome_record（台账管理与金标侧字段，不入输入卡）；台账 input_fields 无 context/setting/provenance 独立字段，context 由 asked_at＋书名组写、setting/provenance 由台账 source 逐字承接，组写口径登记于构建报告"
+    ],
+    "WHY-021": [
+      "pollution/anchor_presence/anchor_missing/dedup_check/transcription/outcome_type/outcome_record（台账管理与金标侧字段，不入输入卡）；台账 input_fields 无 context/setting/provenance 独立字段，context 由 asked_at＋书名组写、setting/provenance 由台账 source 逐字承接，组写口径登记于构建报告"
+    ],
+    "WHY-030": [
+      "pollution/anchor_presence/anchor_missing/dedup_check/transcription/outcome_type/outcome_record（台账管理与金标侧字段，不入输入卡）；台账 input_fields 无 context/setting/provenance 独立字段，context 由 asked_at＋书名组写、setting/provenance 由台账 source 逐字承接，组写口径登记于构建报告"
+    ],
+    "WHY-067": [
+      "pollution/anchor_presence/anchor_missing/dedup_check/transcription/outcome_type/outcome_record（台账管理与金标侧字段，不入输入卡）；台账 input_fields 无 context/setting/provenance 独立字段，context 由 asked_at＋书名组写、setting/provenance 由台账 source 逐字承接，组写口径登记于构建报告"
+    ],
+    "YJ2-012": [
+      "record_status（管理字段，剥离）",
+      "notes（管理字段，剥离）",
+      "master_predictions/outcome/passage_full/grade_*/contamination_*（金标侧，不入输入卡）"
+    ],
+    "YJ-001": [
+      "language（管理字段，剥离）",
+      "notes（管理字段，剥离）",
+      "record_status（管理字段，剥离）",
+      "master_predictions/outcome/passage_full/grade_*/contamination_*（金标侧，不入输入卡）"
+    ],
+    "YJ-004": [
+      "language（管理字段，剥离）",
+      "notes（管理字段，剥离）",
+      "record_status（管理字段，剥离）",
+      "master_predictions/outcome/passage_full/grade_*/contamination_*（金标侧，不入输入卡）"
+    ],
+    "YJ-006": [
+      "language（管理字段，剥离）",
+      "notes（管理字段，剥离）",
+      "record_status（管理字段，剥离）",
+      "master_predictions/outcome/passage_full/grade_*/contamination_*（金标侧，不入输入卡）"
+    ],
+    "CZ2-001": [
+      "master_predictions/outcome/passage_full/grade_*/contamination_*（金标侧，不入输入卡）"
+    ],
+    "CZ2-002": [
+      "master_predictions/outcome/passage_full/grade_*/contamination_*（金标侧，不入输入卡）"
+    ],
+    "CZ2-003": [
+      "master_predictions/outcome/passage_full/grade_*/contamination_*（金标侧，不入输入卡）"
+    ],
+    "CZ2-006": [
+      "anchor_check（管理字段，剥离）",
+      "master_predictions/outcome/passage_full/grade_*/contamination_*（金标侧，不入输入卡）"
+    ]
+  },
+  "field_mapping_notes": {
+    "QW-001": "subject←name_or_desc＋basic_info；context←context.setting；question←context.question；setting←source＋context.asked_at；provenance←provenance.book＋location＋edition；anchors←subject.birth_info_verbatim/gender＋context.attachments",
+    "QW-002": "subject←name_or_desc＋basic_info；context←context.setting；question←context.question；setting←source＋context.asked_at；provenance←provenance.book＋location＋edition；anchors←subject.birth_info_verbatim/gender＋context.attachments",
+    "QW-003": "subject←name_or_desc＋basic_info；context←context.setting；question←context.question；setting←source＋context.asked_at；provenance←provenance.book＋location＋edition；anchors←subject.birth_info_verbatim/gender＋context.attachments",
+    "QW-004": "subject←name_or_desc＋basic_info；context←context.setting；question←context.question；setting←source＋context.asked_at；provenance←provenance.book＋location＋edition；anchors←subject.birth_info_verbatim/gender＋context.attachments",
+    "QW-005": "subject←name_or_desc＋basic_info；context←context.setting；question←context.question；setting←source＋context.asked_at；provenance←provenance.book＋location＋edition；anchors←subject.birth_info_verbatim/gender＋context.attachments",
+    "QW-006": "subject←name_or_desc＋basic_info；context←context.setting；question←context.question；setting←source＋context.asked_at；provenance←provenance.book＋location＋edition；anchors←subject.birth_info_verbatim/gender＋context.attachments",
+    "QW-007": "subject←name_or_desc＋basic_info；context←context.setting；question←context.question；setting←source＋context.asked_at；provenance←provenance.book＋location＋edition；anchors←subject.birth_info_verbatim/gender＋context.attachments",
+    "QW-008": "subject←name_or_desc＋basic_info；context←context.setting；question←context.question；setting←source＋context.asked_at；provenance←provenance.book＋location＋edition；anchors←subject.birth_info_verbatim/gender＋context.attachments",
+    "QW-009": "subject←name_or_desc＋basic_info；context←context.setting；question←context.question；setting←source＋context.asked_at；provenance←provenance.book＋location＋edition；anchors←subject.birth_info_verbatim/gender＋context.attachments",
+    "QW-010": "subject←name_or_desc＋basic_info；context←context.setting；question←context.question；setting←source＋context.asked_at；provenance←provenance.book＋location＋edition；anchors←subject.birth_info_verbatim/gender＋context.attachments",
+    "QW-011": "subject←name_or_desc＋basic_info；context←context.setting；question←context.question；setting←source＋context.asked_at；provenance←provenance.book＋location＋edition；anchors←subject.birth_info_verbatim/gender＋context.attachments",
+    "QW-012": "subject←name_or_desc＋basic_info；context←context.setting；question←context.question；setting←source＋context.asked_at；provenance←provenance.book＋location＋edition；anchors←subject.birth_info_verbatim/gender＋context.attachments",
+    "WHY-003": "question←input_fields.question；anchors←input_fields.chart 全列＋asked_at；setting/provenance←台账 source 逐字；context←asked_at 与书名组写（台账无 context 原文）",
+    "WHY-015": "question←input_fields.question；anchors←input_fields.chart 全列＋asked_at；setting/provenance←台账 source 逐字；context←asked_at 与书名组写（台账无 context 原文）",
+    "WHY-021": "question←input_fields.question；anchors←input_fields.chart 全列＋asked_at；setting/provenance←台账 source 逐字；context←asked_at 与书名组写（台账无 context 原文）",
+    "WHY-030": "question←input_fields.question；anchors←input_fields.chart 全列＋asked_at；setting/provenance←台账 source 逐字；context←asked_at 与书名组写（台账无 context 原文）",
+    "WHY-067": "question←input_fields.question；anchors←input_fields.chart 全列＋asked_at；setting/provenance←台账 source 逐字；context←asked_at 与书名组写（台账无 context 原文）",
+    "YJ-001": "候选卡 context 为嵌套 dict：context/question 均取其 question 子字段逐字（梦象全叙即在该子字段、为锚点本体），setting←asked_at＋setting 子字段逐字拼接",
+    "YJ-004": "候选卡 context 为嵌套 dict：context/question 均取其 question 子字段逐字（梦象全叙即在该子字段、为锚点本体），setting←asked_at＋setting 子字段逐字拼接",
+    "YJ-006": "候选卡 context 为嵌套 dict：context/question 均取其 question 子字段逐字（梦象全叙即在该子字段、为锚点本体），setting←asked_at＋setting 子字段逐字拼接"
+  },
+  "master_prediction_gap": {
+    "cases": [
+      "QW-001",
+      "QW-002",
+      "QW-003",
+      "QW-004",
+      "QW-005",
+      "QW-006",
+      "QW-007",
+      "QW-008",
+      "QW-009",
+      "QW-010",
+      "QW-011",
+      "QW-012",
+      "WHY-003",
+      "WHY-015",
+      "WHY-021",
+      "WHY-030",
+      "WHY-067"
+    ],
+    "count": 17,
+    "reason": "QW/WHY 开采台账（SUPPLY-MINING-quwei/wanghuying-r56.json）未单列断语逐字字段：QW outcome_record 为断语释义与反馈合录、多例仅录反馈段；WHY outcome_record 仅录应验情况。该 17 例金标 master_prediction 置 null 并逐例 grade_note 明示，不臆补、不以结局文冒充断语；提请主持自原书补录后方可开封判读。YJ/CZ2 8 例断语逐字完具（候选金标 statement_excerpt）。"
+  },
+  "scan_stage1_candidate_prep": {
+    "QW-001": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "source": "runs/round56/digestion/SUPPLY-MINING-quwei-r56.json input_fields"
+    },
+    "QW-002": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "source": "runs/round56/digestion/SUPPLY-MINING-quwei-r56.json input_fields"
+    },
+    "QW-003": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "source": "runs/round56/digestion/SUPPLY-MINING-quwei-r56.json input_fields"
+    },
+    "QW-004": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "source": "runs/round56/digestion/SUPPLY-MINING-quwei-r56.json input_fields"
+    },
+    "QW-005": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "source": "runs/round56/digestion/SUPPLY-MINING-quwei-r56.json input_fields"
+    },
+    "QW-006": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "source": "runs/round56/digestion/SUPPLY-MINING-quwei-r56.json input_fields"
+    },
+    "QW-007": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "source": "runs/round56/digestion/SUPPLY-MINING-quwei-r56.json input_fields"
+    },
+    "QW-008": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "source": "runs/round56/digestion/SUPPLY-MINING-quwei-r56.json input_fields"
+    },
+    "QW-009": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "source": "runs/round56/digestion/SUPPLY-MINING-quwei-r56.json input_fields"
+    },
+    "QW-010": {
+      "content_hits": [
+        [
+          "/context/setting",
+          "L2",
+          "结局",
+          "所及仅少年期事件，非一生结局，入账时如实标此限度"
+        ]
+      ],
+      "fieldname_hits": [],
+      "source": "runs/round56/digestion/SUPPLY-MINING-quwei-r56.json input_fields"
+    },
+    "QW-011": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "source": "runs/round56/digestion/SUPPLY-MINING-quwei-r56.json input_fields"
+    },
+    "QW-012": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "source": "runs/round56/digestion/SUPPLY-MINING-quwei-r56.json input_fields"
+    },
+    "WHY-003": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "source": "runs/round56/digestion/SUPPLY-MINING-wanghuying-r56.json input_fields"
+    },
+    "WHY-015": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "source": "runs/round56/digestion/SUPPLY-MINING-wanghuying-r56.json input_fields"
+    },
+    "WHY-021": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "source": "runs/round56/digestion/SUPPLY-MINING-wanghuying-r56.json input_fields"
+    },
+    "WHY-030": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "source": "runs/round56/digestion/SUPPLY-MINING-wanghuying-r56.json input_fields"
+    },
+    "WHY-067": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "source": "runs/round56/digestion/SUPPLY-MINING-wanghuying-r56.json input_fields"
+    },
+    "YJ2-012": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "source": "runs/round49/digestion/cards-mining-yijian-r49/YJ2-012-input.json"
+    },
+    "YJ-001": {
+      "content_hits": [
+        [
+          "/notes/comment",
+          "L2",
+          "结局",
+          "叙次序如此），解者断语与结局在金标侧。原叙为 hug"
+        ]
+      ],
+      "fieldname_hits": [],
+      "source": "runs/round47/digestion/cards-mining-yijian/YJ-001-input.json"
+    },
+    "YJ-004": {
+      "content_hits": [
+        [
+          "/notes/comment",
+          "L2",
+          "结局",
+          "卡；输入侧互不含对方断语结局。"
+        ]
+      ],
+      "fieldname_hits": [],
+      "source": "runs/round47/digestion/cards-mining-yijian/YJ-004-input.json"
+    },
+    "YJ-006": {
+      "content_hits": [
+        [
+          "/notes/comment",
+          "L2",
+          "结局",
+          "长子断语与当夜分囚击死等结局在金标侧。解者为长子，无"
+        ]
+      ],
+      "fieldname_hits": [],
+      "source": "runs/round47/digestion/cards-mining-yijian/YJ-006-input.json"
+    },
+    "CZ2-001": {
+      "content_hits": [
+        [
+          "/question",
+          "L2",
+          "結局",
+          "夢所問：去留當如何，此任結局如何？"
+        ]
+      ],
+      "fieldname_hits": [],
+      "source": "runs/round51/digestion/cards-mining-chunzhu-r51/inputs/CZ2-001.json"
+    },
+    "CZ2-002": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "source": "runs/round51/digestion/cards-mining-chunzhu-r51/inputs/CZ2-002.json"
+    },
+    "CZ2-003": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "source": "runs/round51/digestion/cards-mining-chunzhu-r51/inputs/CZ2-003.json"
+    },
+    "CZ2-006": {
+      "content_hits": [
+        [
+          "/question",
+          "L2",
+          "應驗",
+          "請言此先墓主何應驗？"
+        ]
+      ],
+      "fieldname_hits": [],
+      "source": "runs/round53/digestion/cards-mining-chunzhu-r53/inputs/CZ2-006.json"
+    }
+  },
+  "scan_stage1_disposition": {
+    "QW-001": {
+      "hit_fields": [],
+      "disposition": "零命中"
+    },
+    "QW-002": {
+      "hit_fields": [],
+      "disposition": "零命中"
+    },
+    "QW-003": {
+      "hit_fields": [],
+      "disposition": "零命中"
+    },
+    "QW-004": {
+      "hit_fields": [],
+      "disposition": "零命中"
+    },
+    "QW-005": {
+      "hit_fields": [],
+      "disposition": "零命中"
+    },
+    "QW-006": {
+      "hit_fields": [],
+      "disposition": "零命中"
+    },
+    "QW-007": {
+      "hit_fields": [],
+      "disposition": "零命中"
+    },
+    "QW-008": {
+      "hit_fields": [],
+      "disposition": "零命中"
+    },
+    "QW-009": {
+      "hit_fields": [],
+      "disposition": "零命中"
+    },
+    "QW-010": {
+      "hit_fields": [
+        "context"
+      ],
+      "disposition": "命中落在输入侧正文字段，经附条件改写处置（见报告 qw010_rewrite/cz2001_rewrite/cz2006_rewrite 前后对照存证），改写后第二道复扫零命中放行"
+    },
+    "QW-011": {
+      "hit_fields": [],
+      "disposition": "零命中"
+    },
+    "QW-012": {
+      "hit_fields": [],
+      "disposition": "零命中"
+    },
+    "WHY-003": {
+      "hit_fields": [],
+      "disposition": "零命中"
+    },
+    "WHY-015": {
+      "hit_fields": [],
+      "disposition": "零命中"
+    },
+    "WHY-021": {
+      "hit_fields": [],
+      "disposition": "零命中"
+    },
+    "WHY-030": {
+      "hit_fields": [],
+      "disposition": "零命中"
+    },
+    "WHY-067": {
+      "hit_fields": [],
+      "disposition": "零命中"
+    },
+    "YJ2-012": {
+      "hit_fields": [],
+      "disposition": "零命中"
+    },
+    "YJ-001": {
+      "hit_fields": [
+        "notes"
+      ],
+      "disposition": "命中字段均为将被整项剥离的管理字段（notes），整项剥离不入卡；剥离后第二道复扫零命中放行"
+    },
+    "YJ-004": {
+      "hit_fields": [
+        "notes"
+      ],
+      "disposition": "命中字段均为将被整项剥离的管理字段（notes），整项剥离不入卡；剥离后第二道复扫零命中放行"
+    },
+    "YJ-006": {
+      "hit_fields": [
+        "notes"
+      ],
+      "disposition": "命中字段均为将被整项剥离的管理字段（notes），整项剥离不入卡；剥离后第二道复扫零命中放行"
+    },
+    "CZ2-001": {
+      "hit_fields": [
+        "question"
+      ],
+      "disposition": "命中落在输入侧正文字段，经附条件改写处置（见报告 qw010_rewrite/cz2001_rewrite/cz2006_rewrite 前后对照存证），改写后第二道复扫零命中放行"
+    },
+    "CZ2-002": {
+      "hit_fields": [],
+      "disposition": "零命中"
+    },
+    "CZ2-003": {
+      "hit_fields": [],
+      "disposition": "零命中"
+    },
+    "CZ2-006": {
+      "hit_fields": [
+        "question"
+      ],
+      "disposition": "命中落在输入侧正文字段，经附条件改写处置（见报告 qw010_rewrite/cz2001_rewrite/cz2006_rewrite 前后对照存证），改写后第二道复扫零命中放行"
+    }
+  },
+  "scan_stage2_card_selfcheck": {
+    "QW-001": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "QW-002": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "QW-003": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "QW-004": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "QW-005": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "QW-006": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "QW-007": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "QW-008": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "QW-009": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "QW-010": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "QW-011": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "QW-012": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "WHY-003": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "WHY-015": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "WHY-021": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "WHY-030": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "WHY-067": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "YJ2-012": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "YJ-001": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "YJ-004": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "YJ-006": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "CZ2-001": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "CZ2-002": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "CZ2-003": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "CZ2-006": {
+      "content_hits": [],
+      "fieldname_hits": []
+    }
+  },
+  "scan_stage2_total_hits": 0,
+  "scan_stage3_host_verify": "主持验封道，非本席执行——留位：主持以独立脚本对 holdout20/inputs/ 全部输入卡复扫，零命中方许封存日志落「验封通过」",
+  "markers_source": "标记集逐字复制 runs/round42/PREREG.md §5（LEVEL1/LEVEL2/FIELD_BLACKLIST，见脚本头注释）",
+  "gold_sha256": "de1d72f264d19572595b55da4efdf7e36b361dc07f35474c7bc1046a0872f218",
+  "gold_sha256_sha256sum": "de1d72f264d19572595b55da4efdf7e36b361dc07f35474c7bc1046a0872f218",
+  "gold_sha256_double_read_match": true,
+  "outputs_written": [
+    "holdout20/inputs/QW-001.json",
+    "holdout20/inputs/QW-002.json",
+    "holdout20/inputs/QW-003.json",
+    "holdout20/inputs/QW-004.json",
+    "holdout20/inputs/QW-005.json",
+    "holdout20/inputs/QW-006.json",
+    "holdout20/inputs/QW-007.json",
+    "holdout20/inputs/QW-008.json",
+    "holdout20/inputs/QW-009.json",
+    "holdout20/inputs/QW-010.json",
+    "holdout20/inputs/QW-011.json",
+    "holdout20/inputs/QW-012.json",
+    "holdout20/inputs/WHY-003.json",
+    "holdout20/inputs/WHY-015.json",
+    "holdout20/inputs/WHY-021.json",
+    "holdout20/inputs/WHY-030.json",
+    "holdout20/inputs/WHY-067.json",
+    "holdout20/inputs/YJ2-012.json",
+    "holdout20/inputs/YJ-001.json",
+    "holdout20/inputs/YJ-004.json",
+    "holdout20/inputs/YJ-006.json",
+    "holdout20/inputs/CZ2-001.json",
+    "holdout20/inputs/CZ2-002.json",
+    "holdout20/inputs/CZ2-003.json",
+    "holdout20/inputs/CZ2-006.json",
+    "holdout20/test_gold.jsonl"
+  ]
+}

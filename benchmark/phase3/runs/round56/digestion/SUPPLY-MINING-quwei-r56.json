@@ -1,0 +1,1612 @@
+{
+ "batch": "Phase3 Round56 消化席·八字组·曲炜《详批命例精解》成例开采",
+ "source_file": "/home/hatch/workspace/divination/incoming/wanted-books-4/Book/详批命例精解 (曲炜著).txt",
+ "source_sha256": "6da0e3848f04ee00159b13e375a6cde169426c54bf0b0354b165240752e3d37b",
+ "provenance": "用户经学校图书馆提供",
+ "redistributable": false,
+ "count": 34,
+ "entries": [
+  {
+   "provisional_id": "QW-001",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·函测命例一",
+   "input_fields": {
+    "id": "QW-001",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（函测命例一命主）",
+     "basic_info": "女，四柱：甲辰 己巳 癸亥 壬子",
+     "gender": "女",
+     "birth_info_verbatim": "坤：六四年四月初三子时生人"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "约2003年以前（原书前言落款 2003 年 9 月；各例求测年份原文有载者已入 setting）",
+     "setting": "函测：命主以信函提供生辰，作者仅凭四柱书面批命、无任何已知信息，命主事后逐项反馈",
+     "attachments": {
+      "pillars": [
+       "甲辰",
+       "己巳",
+       "癸亥",
+       "壬子"
+      ],
+      "day_master": "癸水"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST 登记）；用户经学校图书馆提供；redistributable=false",
+     "location": "第一部分·函测命例一（TXT 第161行起）"
+    },
+    "redistributable": false
+   },
+   "outcome_record": "释：兄弟姐妹数目看干透支藏数目，兄弟姐妹有损，主要依据两点：一是年支辰土藏的比劫被本气克；二是月柱有七杀，因月柱是兄弟姐妹宫，应是比、劫呆的地方，而本造比劫的克星居兄弟宫，兄弟姐妹必然受克。反馈：兄弟姐妹5个，有两个夭折。／l、86年丙寅，不是有婚恋之喜，便是财上或工作上得益。释：原局日支逢巳冲，86年丙寅，合日支亥，解了冲这一病，况寅木藏有正官星戊土令入日支夫妻宫，此年日主正值婚龄，所以推断有婚恋之喜。命主反馈：此年结婚。／87年丁卯生子女的可能性很大，不然工作、事业方面也会有变化。释：卯木为食伤星，为女命的子女星，子卯相刑，牵动时柱子女宫，星官同动，生子女的迹象最明显。又卯辰相害，牵动了官星，官星代表工作事业，所以推断也可能是工作方面的变化。命主反馈：此年生女儿。",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某市/某省），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（书本身属作者自选「断准」案例，此为判级面事项、非污染面，已在 DIGEST 中另注）",
+   "anchor_presence": "present",
+   "anchor_note": "四柱全列＋性别＋出生年月日与时辰原文俱载，可独立复排",
+   "dedup_check": "零命中（四柱+性别全同者无）｜对勘集：inputs-dev12 全部 31 张 BZ 卡（四柱+性别逐卡比对）＋holdout19-seal-log.md 构成表（holdout19 共 25 例，体系为 mengzhan/fangji/yizhan/xiangshu/dunjia/zeri/ming/fuji，无 bazi 例）；已用 901 例并集（holdout2–18＋dev9）金标正文按纪律未打开、仅 id 级存在，本席内容级对勘以 inputs-dev12 题面为准，已在登记件中声明此限度。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；个别转录误字照录并在 DIGEST 登记）",
+    "independent_outcome": "pass（反馈中有命主自述复述的可核人事事件，非纯断语）",
+    "separable": "pass（命头四柱在篇首独立成段，反馈与断语在文中分行分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   }
+  },
+  {
+   "provisional_id": "QW-002",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·函测命例二",
+   "input_fields": {
+    "id": "QW-002",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（函测命例二命主）",
+     "basic_info": "女，四柱：庚戌 乙酉 丁未 丙午",
+     "gender": "女",
+     "birth_info_verbatim": "坤：70年8月24日午时生人(阴历)"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "约2003年以前（原书前言落款 2003 年 9 月；各例求测年份原文有载者已入 setting）",
+     "setting": "函测：仅凭四柱书面批命，命主事后逐项反馈",
+     "attachments": {
+      "pillars": [
+       "庚戌",
+       "乙酉",
+       "丁未",
+       "丙午"
+      ],
+      "day_master": "丁火"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST 登记）；用户经学校图书馆提供；redistributable=false",
+     "location": "第一部分·函测命例二（TXT 第429行起）"
+    },
+    "redistributable": false
+   },
+   "outcome_record": "反馈：父辈有钱，家庭条件很好，母亲很早就去世了。／反馈：兄弟姐妹四人，有一个姐姐5岁时得病死了。／反馈：因上一年有外遇被丈夫得知，夫妻打得厉害，闹离婚。／反馈：此年由于上半年效益不好，基本上是赔钱，所以下半年转租出去，不干了。",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某市/某省），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（书本身属作者自选「断准」案例，此为判级面事项、非污染面，已在 DIGEST 中另注）",
+   "anchor_presence": "present",
+   "anchor_note": "四柱全列＋性别＋出生年月日与时辰原文俱载，可独立复排",
+   "dedup_check": "零命中（四柱+性别全同者无）｜对勘集：inputs-dev12 全部 31 张 BZ 卡（四柱+性别逐卡比对）＋holdout19-seal-log.md 构成表（holdout19 共 25 例，体系为 mengzhan/fangji/yizhan/xiangshu/dunjia/zeri/ming/fuji，无 bazi 例）；已用 901 例并集（holdout2–18＋dev9）金标正文按纪律未打开、仅 id 级存在，本席内容级对勘以 inputs-dev12 题面为准，已在登记件中声明此限度。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；个别转录误字照录并在 DIGEST 登记）",
+    "independent_outcome": "pass（反馈中有命主自述复述的可核人事事件，非纯断语）",
+    "separable": "pass（命头四柱在篇首独立成段，反馈与断语在文中分行分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   }
+  },
+  {
+   "provisional_id": "QW-003",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·函测命例三",
+   "input_fields": {
+    "id": "QW-003",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（函测命例三命主）",
+     "basic_info": "男，四柱：甲午 丁卯 壬午 乙巳",
+     "gender": "男",
+     "birth_info_verbatim": "男：一九五四年二月二十三巳时生人"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "约2003年以前（原书前言落款 2003 年 9 月；各例求测年份原文有载者已入 setting）",
+     "setting": "函测：仅凭四柱书面批命，命主事后逐项反馈；原书自注 2002 年以后运程未得反馈、未释断",
+     "attachments": {
+      "pillars": [
+       "甲午",
+       "丁卯",
+       "壬午",
+       "乙巳"
+      ],
+      "day_master": "壬水"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST 登记）；用户经学校图书馆提供；redistributable=false",
+     "location": "第一部分·函测命例三（TXT 第655行起）"
+    },
+    "redistributable": false
+   },
+   "outcome_record": "命主反馈：17岁参军。／反馈：此年结婚。／实际：此年命主既升了职，也得了个儿子。／反馈：此年没有感情风波，但母亲病逝，花破费不少。／反馈：此年投资虾场，结果虾大半都死了，赔了近20万元。／实际：命宅此年决定不再养虾，改养蟹子。结果还是竹篮打水一场空。又赔了近10万。",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某市/某省），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（书本身属作者自选「断准」案例，此为判级面事项、非污染面，已在 DIGEST 中另注）",
+   "anchor_presence": "present",
+   "anchor_note": "四柱全列＋性别＋出生年月日与时辰原文俱载，可独立复排",
+   "dedup_check": "零命中（四柱+性别全同者无）｜对勘集：inputs-dev12 全部 31 张 BZ 卡（四柱+性别逐卡比对）＋holdout19-seal-log.md 构成表（holdout19 共 25 例，体系为 mengzhan/fangji/yizhan/xiangshu/dunjia/zeri/ming/fuji，无 bazi 例）；已用 901 例并集（holdout2–18＋dev9）金标正文按纪律未打开、仅 id 级存在，本席内容级对勘以 inputs-dev12 题面为准，已在登记件中声明此限度。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；个别转录误字照录并在 DIGEST 登记）",
+    "independent_outcome": "pass（反馈中有命主自述复述的可核人事事件，非纯断语）",
+    "separable": "pass（命头四柱在篇首独立成段，反馈与断语在文中分行分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   }
+  },
+  {
+   "provisional_id": "QW-004",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·函测命例四",
+   "input_fields": {
+    "id": "QW-004",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（函测命例四命主）",
+     "basic_info": "女，四柱：丙戌 丙申 丁巳 辛丑",
+     "gender": "女",
+     "birth_info_verbatim": "女：一九四六年七月十五丑时生人"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "约2003年以前（原书前言落款 2003 年 9 月；各例求测年份原文有载者已入 setting）",
+     "setting": "函测：仅凭四柱书面批命，命主事后逐项反馈",
+     "attachments": {
+      "pillars": [
+       "丙戌",
+       "丙申",
+       "丁巳",
+       "辛丑"
+      ],
+      "day_master": "丁火"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST 登记）；用户经学校图书馆提供；redistributable=false",
+     "location": "第一部分·函测命例四（TXT 第887行起）"
+    },
+    "redistributable": false
+   },
+   "outcome_record": "反馈：父亲死得早。／反馈：到目前为止没有生过孩子。／反馈：71年结婚。72、73年有过怀孕经历，但孩子都保不住，老是流产。后来到处医疗，也无效，反而再也不怀孕了。／反馈：此年因乳腺瘤开刀手术。",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某市/某省），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（书本身属作者自选「断准」案例，此为判级面事项、非污染面，已在 DIGEST 中另注）",
+   "anchor_presence": "present",
+   "anchor_note": "四柱全列＋性别＋出生年月日与时辰原文俱载，可独立复排",
+   "dedup_check": "零命中（四柱+性别全同者无）｜对勘集：inputs-dev12 全部 31 张 BZ 卡（四柱+性别逐卡比对）＋holdout19-seal-log.md 构成表（holdout19 共 25 例，体系为 mengzhan/fangji/yizhan/xiangshu/dunjia/zeri/ming/fuji，无 bazi 例）；已用 901 例并集（holdout2–18＋dev9）金标正文按纪律未打开、仅 id 级存在，本席内容级对勘以 inputs-dev12 题面为准，已在登记件中声明此限度。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；个别转录误字照录并在 DIGEST 登记）",
+    "independent_outcome": "pass（反馈中有命主自述复述的可核人事事件，非纯断语）",
+    "separable": "pass（命头四柱在篇首独立成段，反馈与断语在文中分行分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   }
+  },
+  {
+   "provisional_id": "QW-005",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·函测命例五",
+   "input_fields": {
+    "id": "QW-005",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（函测命例五命主）",
+     "basic_info": "女，四柱：甲辰 己巳 辛未 庚寅",
+     "gender": "女",
+     "birth_info_verbatim": "坤：女：一九六四年四月十一寅时生人"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "约2003年以前（原书前言落款 2003 年 9 月；各例求测年份原文有载者已入 setting）",
+     "setting": "函测：仅凭四柱书面批命，命主事后逐项反馈",
+     "attachments": {
+      "pillars": [
+       "甲辰",
+       "己巳",
+       "辛未",
+       "庚寅"
+      ],
+      "day_master": "辛金"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST 登记）；用户经学校图书馆提供；redistributable=false",
+     "location": "第一部分·函测命例五（TXT 第1135行起）"
+    },
+    "redistributable": false
+   },
+   "outcome_record": "反馈：多次流产，刮过宫。／反馈：此年五一结婚，腊月生了个儿子。／反馈：此年冬命主的儿子遭车祸丧生。／反馈：此年离婚。",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某市/某省），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（书本身属作者自选「断准」案例，此为判级面事项、非污染面，已在 DIGEST 中另注）",
+   "anchor_presence": "present",
+   "anchor_note": "四柱全列＋性别＋出生年月日与时辰原文俱载，可独立复排",
+   "dedup_check": "零命中（四柱+性别全同者无）｜对勘集：inputs-dev12 全部 31 张 BZ 卡（四柱+性别逐卡比对）＋holdout19-seal-log.md 构成表（holdout19 共 25 例，体系为 mengzhan/fangji/yizhan/xiangshu/dunjia/zeri/ming/fuji，无 bazi 例）；已用 901 例并集（holdout2–18＋dev9）金标正文按纪律未打开、仅 id 级存在，本席内容级对勘以 inputs-dev12 题面为准，已在登记件中声明此限度。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；个别转录误字照录并在 DIGEST 登记）",
+    "independent_outcome": "pass（反馈中有命主自述复述的可核人事事件，非纯断语）",
+    "separable": "pass（命头四柱在篇首独立成段，反馈与断语在文中分行分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   }
+  },
+  {
+   "provisional_id": "QW-006",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·函测命例六",
+   "input_fields": {
+    "id": "QW-006",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（函测命例六命主）",
+     "basic_info": "男，四柱：戊寅 乙卯 癸卯 壬子",
+     "gender": "男",
+     "birth_info_verbatim": "男：1938年阳历3月12日子时生人(夜子时11：00一12：00)"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "约2003年以前（原书前言落款 2003 年 9 月；各例求测年份原文有载者已入 setting）",
+     "setting": "函测：仅凭四柱书面批命；本例反馈较他例稀疏，作者自注 1999、2000、2002 年未得具体反馈",
+     "attachments": {
+      "pillars": [
+       "戊寅",
+       "乙卯",
+       "癸卯",
+       "壬子"
+      ],
+      "day_master": "癸水"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST 登记）；用户经学校图书馆提供；redistributable=false",
+     "location": "第一部分·函测命例六（TXT 第1451行起）"
+    },
+    "redistributable": false
+   },
+   "outcome_record": "反馈：肝功不太好，肾虚严重。脾胃方面问题不大。／l、98年戊寅，在工作上有变动。释：天千透出官星，说明此年发生的事与官星所代表的事有关，流年地支为伤官，代表变化，所以推断会有工作变化。反馈：此年职位有调整。／4、2001年辛巳，地支为喜用，天干为枭印，所以在工作职位上应有升迁变动之事，在财上也应有所增益。反馈：此年升职。／反馈：有过桃色新闻。",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某市/某省），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（书本身属作者自选「断准」案例，此为判级面事项、非污染面，已在 DIGEST 中另注）",
+   "anchor_presence": "present",
+   "anchor_note": "四柱全列＋性别＋出生年月日与时辰原文俱载，可独立复排",
+   "dedup_check": "零命中（四柱+性别全同者无）｜对勘集：inputs-dev12 全部 31 张 BZ 卡（四柱+性别逐卡比对）＋holdout19-seal-log.md 构成表（holdout19 共 25 例，体系为 mengzhan/fangji/yizhan/xiangshu/dunjia/zeri/ming/fuji，无 bazi 例）；已用 901 例并集（holdout2–18＋dev9）金标正文按纪律未打开、仅 id 级存在，本席内容级对勘以 inputs-dev12 题面为准，已在登记件中声明此限度。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；个别转录误字照录并在 DIGEST 登记）",
+    "independent_outcome": "pass（反馈中有命主自述复述的可核人事事件，非纯断语）",
+    "separable": "pass（命头四柱在篇首独立成段，反馈与断语在文中分行分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   },
+   "outcome_note": "结局成色：薄——可核事件仅职位调整（1998）、升职（2001）、肝肾病症与桃色新闻数项，无婚育死丧类结局"
+  },
+  {
+   "provisional_id": "QW-007",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·函测命例七",
+   "input_fields": {
+    "id": "QW-007",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（函测命例七命主）",
+     "basic_info": "男，四柱：癸丑 乙卯 辛亥 己丑",
+     "gender": "男",
+     "birth_info_verbatim": "男：1973年阴历2月12日丑时生人"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "约2003年以前（原书前言落款 2003 年 9 月；各例求测年份原文有载者已入 setting）",
+     "setting": "函测：仅凭四柱书面批命，命主事后逐项反馈",
+     "attachments": {
+      "pillars": [
+       "癸丑",
+       "乙卯",
+       "辛亥",
+       "己丑"
+      ],
+      "day_master": "辛金"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST 登记）；用户经学校图书馆提供；redistributable=false",
+     "location": "第一部分·函测命例七（TXT 第1595行起，正文标题无▲标记）"
+    },
+    "redistributable": false
+   },
+   "outcome_record": "反馈：此年开出租车，财运还可以，比96年是强一些，但由于车子手续不全，经常被抓。／反馈：此年结婚。／反馈：此年肺病特别严重。",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某市/某省），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（书本身属作者自选「断准」案例，此为判级面事项、非污染面，已在 DIGEST 中另注）",
+   "anchor_presence": "present",
+   "anchor_note": "四柱全列＋性别＋出生年月日与时辰原文俱载，可独立复排",
+   "dedup_check": "零命中（四柱+性别全同者无）｜对勘集：inputs-dev12 全部 31 张 BZ 卡（四柱+性别逐卡比对）＋holdout19-seal-log.md 构成表（holdout19 共 25 例，体系为 mengzhan/fangji/yizhan/xiangshu/dunjia/zeri/ming/fuji，无 bazi 例）；已用 901 例并集（holdout2–18＋dev9）金标正文按纪律未打开、仅 id 级存在，本席内容级对勘以 inputs-dev12 题面为准，已在登记件中声明此限度。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；个别转录误字照录并在 DIGEST 登记）",
+    "independent_outcome": "pass（反馈中有命主自述复述的可核人事事件，非纯断语）",
+    "separable": "pass（命头四柱在篇首独立成段，反馈与断语在文中分行分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   }
+  },
+  {
+   "provisional_id": "QW-008",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·函测命例八",
+   "input_fields": {
+    "id": "QW-008",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（函测命例八命主）",
+     "basic_info": "男，四柱：乙未 庚辰 甲辰 辛未",
+     "gender": "男",
+     "birth_info_verbatim": "男：1955年阴历3月21日未时生人"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "约2003年以前（原书前言落款 2003 年 9 月；各例求测年份原文有载者已入 setting）",
+     "setting": "函测：仅凭四柱书面批命，命主事后逐项反馈；命主为某省作协一办公室主任（匿名）",
+     "attachments": {
+      "pillars": [
+       "乙未",
+       "庚辰",
+       "甲辰",
+       "辛未"
+      ],
+      "day_master": "甲木"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST 登记）；用户经学校图书馆提供；redistributable=false",
+     "location": "第一部分·函测命例八（TXT 第1741行起）"
+    },
+    "redistributable": false
+   },
+   "outcome_record": "反馈：这几年炒股发了不少财。／反馈：此二年财运不好，破耗较多，为父亲治病花钱，父亲去世也耗费钱财等等。／反馈：每年为儿子读书就得花掉十余万。",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某市/某省），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（书本身属作者自选「断准」案例，此为判级面事项、非污染面，已在 DIGEST 中另注）",
+   "anchor_presence": "present",
+   "anchor_note": "四柱全列＋性别＋出生年月日与时辰原文俱载，可独立复排",
+   "dedup_check": "零命中（四柱+性别全同者无）｜对勘集：inputs-dev12 全部 31 张 BZ 卡（四柱+性别逐卡比对）＋holdout19-seal-log.md 构成表（holdout19 共 25 例，体系为 mengzhan/fangji/yizhan/xiangshu/dunjia/zeri/ming/fuji，无 bazi 例）；已用 901 例并集（holdout2–18＋dev9）金标正文按纪律未打开、仅 id 级存在，本席内容级对勘以 inputs-dev12 题面为准，已在登记件中声明此限度。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；个别转录误字照录并在 DIGEST 登记）",
+    "independent_outcome": "pass（反馈中有命主自述复述的可核人事事件，非纯断语）",
+    "separable": "pass（命头四柱在篇首独立成段，反馈与断语在文中分行分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   }
+  },
+  {
+   "provisional_id": "QW-009",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·函测命例九",
+   "input_fields": {
+    "id": "QW-009",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（函测命例九命主）",
+     "basic_info": "女，四柱：庚戌 丙戌 甲申 辛未",
+     "gender": "女",
+     "birth_info_verbatim": "坤：1970年阴历10月2日下午2点生人"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "约2003年以前（原书前言落款 2003 年 9 月；各例求测年份原文有载者已入 setting）",
+     "setting": "函测：仅凭四柱书面批命，命主事后逐项反馈；命主在某省纪委工作（匿名）",
+     "attachments": {
+      "pillars": [
+       "庚戌",
+       "丙戌",
+       "甲申",
+       "辛未"
+      ],
+      "day_master": "甲木"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST 登记）；用户经学校图书馆提供；redistributable=false",
+     "location": "第一部分·函测命例九（TXT 第1873行起）"
+    },
+    "redistributable": false
+   },
+   "outcome_record": "反馈：74、75年，弟弟有病，导致伤残。77年自己有病(大肠之病)，影响学业，成绩下滑，由原来前几名，一下落到后几名。／反馈：此年毕业，毕业当年年底结婚。／反馈：96年怀孕，97年生了个男孩。／反馈：此年的确是吉顺之年，丈夫开了个武警培训班，效益相当可观。自己事业财运也狠顺利，提了个副科长。",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某市/某省），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（书本身属作者自选「断准」案例，此为判级面事项、非污染面，已在 DIGEST 中另注）",
+   "anchor_presence": "present",
+   "anchor_note": "四柱全列＋性别＋出生年月日与时辰原文俱载，可独立复排",
+   "dedup_check": "零命中（四柱+性别全同者无）｜对勘集：inputs-dev12 全部 31 张 BZ 卡（四柱+性别逐卡比对）＋holdout19-seal-log.md 构成表（holdout19 共 25 例，体系为 mengzhan/fangji/yizhan/xiangshu/dunjia/zeri/ming/fuji，无 bazi 例）；已用 901 例并集（holdout2–18＋dev9）金标正文按纪律未打开、仅 id 级存在，本席内容级对勘以 inputs-dev12 题面为准，已在登记件中声明此限度。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；个别转录误字照录并在 DIGEST 登记）",
+    "independent_outcome": "pass（反馈中有命主自述复述的可核人事事件，非纯断语）",
+    "separable": "pass（命头四柱在篇首独立成段，反馈与断语在文中分行分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   }
+  },
+  {
+   "provisional_id": "QW-010",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·函测命例十",
+   "input_fields": {
+    "id": "QW-010",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（函测命例十命主）",
+     "basic_info": "男，四柱：丙寅 辛丑 庚申 壬午",
+     "gender": "男",
+     "birth_info_verbatim": "男：一九八六年十二月十二日午时生人"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "约2003年以前（原书前言落款 2003 年 9 月；各例求测年份原文有载者已入 setting）",
+     "setting": "函测：命主为 1986 年生少年（求测时约十六岁），父母为其求测；反馈所及仅少年期事件，非一生结局，入账时如实标此限度",
+     "attachments": {
+      "pillars": [
+       "丙寅",
+       "辛丑",
+       "庚申",
+       "壬午"
+      ],
+      "day_master": "庚金"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST 登记）；用户经学校图书馆提供；redistributable=false",
+     "location": "第一部分·函测命例十（TXT 第2107行起）"
+    },
+    "redistributable": false
+   },
+   "outcome_record": "2、孩子94年12月开始走第一步大运，此步运程，运支冲到日支，运支为偏财，偏财为父，说明父母有分离之兆。尤其98年是虎年，又行虎运，又生于虎年，三个虎冲日支，此年不利父母，父母有感情失和，分道扬镳之象。对孩子来说是一个家庭动荡、变化之年。反馈：此年父母离婚。／5、2002年壬午，总体来说比较好，学业上会长进，会成为一名优秀学生或班干部。释：流年支为官星午火喜用，官主名气、地位、职位，学生在读书期间，这官自然代表班干部、奖状等。反馈：此年被评上班长，在学习上也很好，还得了奖。",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某市/某省），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（书本身属作者自选「断准」案例，此为判级面事项、非污染面，已在 DIGEST 中另注）",
+   "anchor_presence": "present",
+   "anchor_note": "四柱全列＋性别＋出生年月日与时辰原文俱载，可独立复排",
+   "dedup_check": "零命中（四柱+性别全同者无）｜对勘集：inputs-dev12 全部 31 张 BZ 卡（四柱+性别逐卡比对）＋holdout19-seal-log.md 构成表（holdout19 共 25 例，体系为 mengzhan/fangji/yizhan/xiangshu/dunjia/zeri/ming/fuji，无 bazi 例）；已用 901 例并集（holdout2–18＋dev9）金标正文按纪律未打开、仅 id 级存在，本席内容级对勘以 inputs-dev12 题面为准，已在登记件中声明此限度。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；个别转录误字照录并在 DIGEST 登记）",
+    "independent_outcome": "pass（反馈中有命主自述复述的可核人事事件，非纯断语）",
+    "separable": "pass（命头四柱在篇首独立成段，反馈与断语在文中分行分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   },
+   "outcome_note": "结局成色：受限——命主未成年，可核事件仅 1998 年父母离婚、2002 年被评上班长及幼年肺炎等少年期事项"
+  },
+  {
+   "provisional_id": "QW-011",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·函测命例十一",
+   "input_fields": {
+    "id": "QW-011",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（函测命例十一命主）",
+     "basic_info": "男，四柱：戊申 丁巳 辛丑 己丑",
+     "gender": "男",
+     "birth_info_verbatim": "干：1968年五月初五丑时生人"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "约2003年以前（原书前言落款 2003 年 9 月；各例求测年份原文有载者已入 setting）",
+     "setting": "函测：仅凭四柱书面批命，命主事后逐项反馈",
+     "attachments": {
+      "pillars": [
+       "戊申",
+       "丁巳",
+       "辛丑",
+       "己丑"
+      ],
+      "day_master": "辛金"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST 登记）；用户经学校图书馆提供；redistributable=false",
+     "location": "第一部分·函测命例十一（TXT 第2279行起）"
+    },
+    "redistributable": false
+   },
+   "outcome_record": "反馈：正是91年结的婚，95年生第一胎为儿子。／实际：肺炎，差点死去。／实际：此年命主荣升校长。",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某市/某省），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（书本身属作者自选「断准」案例，此为判级面事项、非污染面，已在 DIGEST 中另注）",
+   "anchor_presence": "present",
+   "anchor_note": "四柱全列＋性别＋出生年月日与时辰原文俱载，可独立复排",
+   "dedup_check": "零命中（四柱+性别全同者无）｜对勘集：inputs-dev12 全部 31 张 BZ 卡（四柱+性别逐卡比对）＋holdout19-seal-log.md 构成表（holdout19 共 25 例，体系为 mengzhan/fangji/yizhan/xiangshu/dunjia/zeri/ming/fuji，无 bazi 例）；已用 901 例并集（holdout2–18＋dev9）金标正文按纪律未打开、仅 id 级存在，本席内容级对勘以 inputs-dev12 题面为准，已在登记件中声明此限度。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；个别转录误字照录并在 DIGEST 登记）",
+    "independent_outcome": "pass（反馈中有命主自述复述的可核人事事件，非纯断语）",
+    "separable": "pass（命头四柱在篇首独立成段，反馈与断语在文中分行分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   }
+  },
+  {
+   "provisional_id": "QW-012",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·函测命例十二",
+   "input_fields": {
+    "id": "QW-012",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（函测命例十二命主）",
+     "basic_info": "男，四柱：癸卯 辛酉 壬午 戊申",
+     "gender": "男",
+     "birth_info_verbatim": "男：63年8月19(阴历)申时生人"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "约2003年以前（原书前言落款 2003 年 9 月；各例求测年份原文有载者已入 setting）",
+     "setting": "函测：仅凭四柱书面批命，命主事后逐项反馈",
+     "attachments": {
+      "pillars": [
+       "癸卯",
+       "辛酉",
+       "壬午",
+       "戊申"
+      ],
+      "day_master": "壬水"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST 登记）；用户经学校图书馆提供；redistributable=false",
+     "location": "第一部分·函测命例十二（TXT 第2481行起）"
+    },
+    "redistributable": false
+   },
+   "outcome_record": "实际日主早年丧父，母现在仍健在。以上批断反馈都正确。／第一胎为女孩，孩子多动，顽皮。实际的确如此。／实际此年竞争包厂。日主最终获胜，得到承包权。／实际：此年日主正式接手此厂开始创业。",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某市/某省），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（书本身属作者自选「断准」案例，此为判级面事项、非污染面，已在 DIGEST 中另注）",
+   "anchor_presence": "present",
+   "anchor_note": "四柱全列＋性别＋出生年月日与时辰原文俱载，可独立复排",
+   "dedup_check": "零命中（四柱+性别全同者无）｜对勘集：inputs-dev12 全部 31 张 BZ 卡（四柱+性别逐卡比对）＋holdout19-seal-log.md 构成表（holdout19 共 25 例，体系为 mengzhan/fangji/yizhan/xiangshu/dunjia/zeri/ming/fuji，无 bazi 例）；已用 901 例并集（holdout2–18＋dev9）金标正文按纪律未打开、仅 id 级存在，本席内容级对勘以 inputs-dev12 题面为准，已在登记件中声明此限度。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；个别转录误字照录并在 DIGEST 登记）",
+    "independent_outcome": "pass（反馈中有命主自述复述的可核人事事件，非纯断语）",
+    "separable": "pass（命头四柱在篇首独立成段，反馈与断语在文中分行分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   }
+  },
+  {
+   "provisional_id": "QW-013",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·函测命例十三",
+   "input_fields": {
+    "id": "QW-013",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（函测命例十三命主）",
+     "basic_info": "女，四柱：丁未 戊申 壬申 甲辰",
+     "gender": "女",
+     "birth_info_verbatim": "出生日期：六七年八月初二辰时生人（篇首坤造）"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "约2003年以前（原书前言落款 2003 年 9 月；各例求测年份原文有载者已入 setting）",
+     "setting": "函测：仅凭四柱书面批命，命主事后逐项反馈",
+     "attachments": {
+      "pillars": [
+       "丁未",
+       "戊申",
+       "壬申",
+       "甲辰"
+      ],
+      "day_master": "壬水"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST 登记）；用户经学校图书馆提供；redistributable=false",
+     "location": "第一部分·函测命例十三（TXT 第2719行起）"
+    },
+    "redistributable": false
+   },
+   "outcome_record": "反馈：实际初中毕业。／实际：共6个兄弟姐妹，死一个，异腹手足一个。／实际：此年上半年谈了一个物件，未成。下半年与退役军人结识，年底结婚。／实际：弟弟犯法，被判刑入狱。",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某市/某省），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（书本身属作者自选「断准」案例，此为判级面事项、非污染面，已在 DIGEST 中另注）",
+   "anchor_presence": "present",
+   "anchor_note": "四柱全列＋性别＋出生年月日与时辰原文俱载，可独立复排",
+   "dedup_check": "零命中（四柱+性别全同者无）｜对勘集：inputs-dev12 全部 31 张 BZ 卡（四柱+性别逐卡比对）＋holdout19-seal-log.md 构成表（holdout19 共 25 例，体系为 mengzhan/fangji/yizhan/xiangshu/dunjia/zeri/ming/fuji，无 bazi 例）；已用 901 例并集（holdout2–18＋dev9）金标正文按纪律未打开、仅 id 级存在，本席内容级对勘以 inputs-dev12 题面为准，已在登记件中声明此限度。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；个别转录误字照录并在 DIGEST 登记）",
+    "independent_outcome": "pass（反馈中有命主自述复述的可核人事事件，非纯断语）",
+    "separable": "pass（命头四柱在篇首独立成段，反馈与断语在文中分行分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   }
+  },
+  {
+   "provisional_id": "QW-014",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·函测命例十四",
+   "input_fields": {
+    "id": "QW-014",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（函测命例十四命主）",
+     "basic_info": "男，四柱：壬寅 乙巳 戊午 辛酉",
+     "gender": "男",
+     "birth_info_verbatim": "出生日期：(男)农历1962年4月17酉时生人"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "约2003年以前（原书前言落款 2003 年 9 月；各例求测年份原文有载者已入 setting）",
+     "setting": "函测：仅凭四柱书面批命，命主事后逐项反馈",
+     "attachments": {
+      "pillars": [
+       "壬寅",
+       "乙巳",
+       "戊午",
+       "辛酉"
+      ],
+      "day_master": "戊土"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST 登记）；用户经学校图书馆提供；redistributable=false",
+     "location": "第一部分·函测命例十四（TXT 第3003行起）"
+    },
+    "redistributable": false
+   },
+   "outcome_record": "反馈：18岁当兵，为陆军。28岁搞房地产开发。以前是在国营企业，现在个人搞房地产开发，是个私营企业老板。／反馈：打经济官司破大财。／反馈：投资了一个新项目，都已经开工了，但被人告了，说是非法用地，勒令禁止开工。因此造成巨大损失。",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某市/某省），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（书本身属作者自选「断准」案例，此为判级面事项、非污染面，已在 DIGEST 中另注）",
+   "anchor_presence": "present",
+   "anchor_note": "四柱全列＋性别＋出生年月日与时辰原文俱载，可独立复排",
+   "dedup_check": "零命中（四柱+性别全同者无）｜对勘集：inputs-dev12 全部 31 张 BZ 卡（四柱+性别逐卡比对）＋holdout19-seal-log.md 构成表（holdout19 共 25 例，体系为 mengzhan/fangji/yizhan/xiangshu/dunjia/zeri/ming/fuji，无 bazi 例）；已用 901 例并集（holdout2–18＋dev9）金标正文按纪律未打开、仅 id 级存在，本席内容级对勘以 inputs-dev12 题面为准，已在登记件中声明此限度。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；个别转录误字照录并在 DIGEST 登记）",
+    "independent_outcome": "pass（反馈中有命主自述复述的可核人事事件，非纯断语）",
+    "separable": "pass（命头四柱在篇首独立成段，反馈与断语在文中分行分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   }
+  },
+  {
+   "provisional_id": "QW-015",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·函测命例十五",
+   "input_fields": {
+    "id": "QW-015",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（函测命例十五命主）",
+     "basic_info": "女，四柱：己酉 丁丑 辛亥 丁酉",
+     "gender": "女",
+     "birth_info_verbatim": "坤：一九六九年十二月二十四日酉时生人"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "约2003年以前（原书前言落款 2003 年 9 月；各例求测年份原文有载者已入 setting）",
+     "setting": "函测：仅凭四柱书面批命，命主事后逐项反馈",
+     "attachments": {
+      "pillars": [
+       "己酉",
+       "丁丑",
+       "辛亥",
+       "丁酉"
+      ],
+      "day_master": "辛金"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST 登记）；用户经学校图书馆提供；redistributable=false",
+     "location": "第一部分·函测命例十五（TXT 第3229行起）"
+    },
+    "redistributable": false
+   },
+   "outcome_record": "反馈：此年结婚。／反馈：97年生子，剖腹产。／反馈：此年丧父，为父亲花费较大，但自己财运较好。／反馈：此年哥哥摊官司坐牢，自己跟着找人上火，母亲经受不了打击，也病了，这二年自己感觉太累，为家庭事烦透了心。",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某市/某省），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（书本身属作者自选「断准」案例，此为判级面事项、非污染面，已在 DIGEST 中另注）",
+   "anchor_presence": "present",
+   "anchor_note": "四柱全列＋性别＋出生年月日与时辰原文俱载，可独立复排",
+   "dedup_check": "零命中（四柱+性别全同者无）｜对勘集：inputs-dev12 全部 31 张 BZ 卡（四柱+性别逐卡比对）＋holdout19-seal-log.md 构成表（holdout19 共 25 例，体系为 mengzhan/fangji/yizhan/xiangshu/dunjia/zeri/ming/fuji，无 bazi 例）；已用 901 例并集（holdout2–18＋dev9）金标正文按纪律未打开、仅 id 级存在，本席内容级对勘以 inputs-dev12 题面为准，已在登记件中声明此限度。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；个别转录误字照录并在 DIGEST 登记）",
+    "independent_outcome": "pass（反馈中有命主自述复述的可核人事事件，非纯断语）",
+    "separable": "pass（命头四柱在篇首独立成段，反馈与断语在文中分行分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   }
+  },
+  {
+   "provisional_id": "QW-016",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·函测命例十六",
+   "input_fields": {
+    "id": "QW-016",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（函测命例十六命主）",
+     "basic_info": "男，四柱：庚子 戊子 壬申 乙巳",
+     "gender": "男",
+     "birth_info_verbatim": "出生日期：60年农历10月22日上午11点前（篇首干造）"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "约2003年以前（原书前言落款 2003 年 9 月；各例求测年份原文有载者已入 setting）",
+     "setting": "函测：仅凭四柱书面批命，命主事后逐年反馈（本例反馈最密，逐年财运数额俱载）",
+     "attachments": {
+      "pillars": [
+       "庚子",
+       "戊子",
+       "壬申",
+       "乙巳"
+      ],
+      "day_master": "壬水"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST 登记）；用户经学校图书馆提供；redistributable=false",
+     "location": "第一部分·函测命例十六（TXT 第3531行起，正文标题无▲标记）"
+    },
+    "redistributable": false
+   },
+   "outcome_record": "反馈：第一胎是男孩，孩子多病，并有先天性残疾，妻子也有流产。／反馈：此年结婚，花了不少钱。／反馈：一此年发大财，挣了15万元，在那时挣15万可算爆发了，在做生意过程中，认识了一位北方女子，产生了感情。／反馈：此年又添加了一套新设备，婚姻方面不顺，离婚了。／反馈：此年挣了l00万。",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某市/某省），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（书本身属作者自选「断准」案例，此为判级面事项、非污染面，已在 DIGEST 中另注）",
+   "anchor_presence": "present",
+   "anchor_note": "四柱全列＋性别＋出生年月日与时辰原文俱载，可独立复排",
+   "dedup_check": "零命中（四柱+性别全同者无）｜对勘集：inputs-dev12 全部 31 张 BZ 卡（四柱+性别逐卡比对）＋holdout19-seal-log.md 构成表（holdout19 共 25 例，体系为 mengzhan/fangji/yizhan/xiangshu/dunjia/zeri/ming/fuji，无 bazi 例）；已用 901 例并集（holdout2–18＋dev9）金标正文按纪律未打开、仅 id 级存在，本席内容级对勘以 inputs-dev12 题面为准，已在登记件中声明此限度。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；个别转录误字照录并在 DIGEST 登记）",
+    "independent_outcome": "pass（反馈中有命主自述复述的可核人事事件，非纯断语）",
+    "separable": "pass（命头四柱在篇首独立成段，反馈与断语在文中分行分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   }
+  },
+  {
+   "provisional_id": "QW-017",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·函测命例十七",
+   "input_fields": {
+    "id": "QW-017",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（函测命例十七命主）",
+     "basic_info": "男，四柱：戊申 壬戌 庚午 丙子",
+     "gender": "男",
+     "birth_info_verbatim": "男：1968年9月初6子时生人"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "约2003年以前（原书前言落款 2003 年 9 月；各例求测年份原文有载者已入 setting）",
+     "setting": "函测：仅凭四柱书面批命；本例仅流年段有反馈，作者自注其中两年「至今没有反馈」",
+     "attachments": {
+      "pillars": [
+       "戊申",
+       "壬戌",
+       "庚午",
+       "丙子"
+      ],
+      "day_master": "庚金"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST 登记）；用户经学校图书馆提供；redistributable=false",
+     "location": "第一部分·函测命例十七（TXT 第3841行起，正文标题无▲标记）"
+    },
+    "redistributable": false
+   },
+   "outcome_record": "反馈：此年丧父，帮朋友打架将人打成重伤，招来官司，后来托人花了两万元才将此事暂时平息下来。／反馈：此年春去年之事，被打之人不服，又赶上“严打”之际，人家又上告，所以整天官司缠身，到处躲避。",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某市/某省），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（书本身属作者自选「断准」案例，此为判级面事项、非污染面，已在 DIGEST 中另注）",
+   "anchor_presence": "present",
+   "anchor_note": "四柱全列＋性别＋出生年月日与时辰原文俱载，可独立复排",
+   "dedup_check": "零命中（四柱+性别全同者无）｜对勘集：inputs-dev12 全部 31 张 BZ 卡（四柱+性别逐卡比对）＋holdout19-seal-log.md 构成表（holdout19 共 25 例，体系为 mengzhan/fangji/yizhan/xiangshu/dunjia/zeri/ming/fuji，无 bazi 例）；已用 901 例并集（holdout2–18＋dev9）金标正文按纪律未打开、仅 id 级存在，本席内容级对勘以 inputs-dev12 题面为准，已在登记件中声明此限度。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；个别转录误字照录并在 DIGEST 登记）",
+    "independent_outcome": "pass（反馈中有命主自述复述的可核人事事件，非纯断语）",
+    "separable": "pass（命头四柱在篇首独立成段，反馈与断语在文中分行分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   },
+   "outcome_note": "结局成色：薄——可核事件集中于某年丧父、打架致人重伤招官司花两万元平息、次年严打官司缠身数项"
+  },
+  {
+   "provisional_id": "QW-018",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·面测命例一",
+   "input_fields": {
+    "id": "QW-018",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（面测命例一命主）",
+     "basic_info": "男，四柱：辛丑 己亥 乙卯 丙子",
+     "gender": "男",
+     "birth_info_verbatim": "未载出生日期与时辰（仅记求测日 2002年5月25日；大运 1 岁起、62 年起运可推生年约 1961 年，原文未直载）"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "约2003年以前（原书前言落款 2003 年 9 月；各例求测年份原文有载者已入 setting）",
+     "setting": "面测：求测者当面报出生时辰（原文未录其值），命其推断 1990 年至当时流年运程，逐年当面反馈",
+     "attachments": {
+      "pillars": [
+       "辛丑",
+       "己亥",
+       "乙卯",
+       "丙子"
+      ],
+      "day_master": "乙木"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST 登记）；用户经学校图书馆提供；redistributable=false",
+     "location": "第二部分·面测命例一（TXT 第4003行起）"
+    },
+    "redistributable": false
+   },
+   "outcome_record": "反馈：  “由副主任升为正主任。”／反馈：此年无婚灾，由于工作需要到孤岛领人创业，夫妻分居与同事某女有性关系。／反馈：“98年主持农产品开发，结果天气原因，颗粒无收，使政府赔了68万。”",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某市/某省），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（书本身属作者自选「断准」案例，此为判级面事项、非污染面，已在 DIGEST 中另注）",
+   "anchor_presence": "partial",
+   "anchor_note": "四柱全列＋性别（干造）俱在，但出生年月日时原文未载，时柱无从由出生信息独立复排",
+   "dedup_check": "零命中（四柱+性别全同者无）｜对勘集：inputs-dev12 全部 31 张 BZ 卡（四柱+性别逐卡比对）＋holdout19-seal-log.md 构成表（holdout19 共 25 例，体系为 mengzhan/fangji/yizhan/xiangshu/dunjia/zeri/ming/fuji，无 bazi 例）；已用 901 例并集（holdout2–18＋dev9）金标正文按纪律未打开、仅 id 级存在，本席内容级对勘以 inputs-dev12 题面为准，已在登记件中声明此限度。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；个别转录误字照录并在 DIGEST 登记）",
+    "independent_outcome": "pass（反馈中有命主自述复述的可核人事事件，非纯断语）",
+    "separable": "pass（命头四柱在篇首独立成段，反馈与断语在文中分行分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   }
+  },
+  {
+   "provisional_id": "QW-019",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·面测命例二",
+   "input_fields": {
+    "id": "QW-019",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（面测命例二命主）",
+     "basic_info": "女，四柱：癸丑 戊午 己丑 己巳",
+     "gender": "女",
+     "birth_info_verbatim": "未载出生日期与时辰（坤造，仅载四柱与大运）"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "约2003年以前（原书前言落款 2003 年 9 月；各例求测年份原文有载者已入 setting）",
+     "setting": "面测（简测）：当面简测，命主当面反馈",
+     "attachments": {
+      "pillars": [
+       "癸丑",
+       "戊午",
+       "己丑",
+       "己巳"
+      ],
+      "day_master": "己土"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST 登记）；用户经学校图书馆提供；redistributable=false",
+     "location": "第二部分·面测命例二（TXT 第4121行起，简测）"
+    },
+    "redistributable": false
+   },
+   "outcome_record": "反馈：早年家庭条件较好，得父母之力，得姐姐之力，经常得到姐姐支助。自己现在没做什么，由丈夫在外挣钱养活自己，自己的任务就是抚养孩子。现在钱财不缺，日子过得比较安逸。／反馈：这年我给人代办出国手续，赚了不少钱。下半年丈夫也出国，得两年后才能回来。",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某市/某省），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（书本身属作者自选「断准」案例，此为判级面事项、非污染面，已在 DIGEST 中另注）",
+   "anchor_presence": "partial",
+   "anchor_note": "四柱全列＋性别俱在，出生年月日时未载，无从独立复排",
+   "dedup_check": "零命中（四柱+性别全同者无）｜对勘集：inputs-dev12 全部 31 张 BZ 卡（四柱+性别逐卡比对）＋holdout19-seal-log.md 构成表（holdout19 共 25 例，体系为 mengzhan/fangji/yizhan/xiangshu/dunjia/zeri/ming/fuji，无 bazi 例）；已用 901 例并集（holdout2–18＋dev9）金标正文按纪律未打开、仅 id 级存在，本席内容级对勘以 inputs-dev12 题面为准，已在登记件中声明此限度。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；个别转录误字照录并在 DIGEST 登记）",
+    "independent_outcome": "pass（反馈中有命主自述复述的可核人事事件，非纯断语）",
+    "separable": "pass（命头四柱在篇首独立成段，反馈与断语在文中分行分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   },
+   "outcome_note": "原文断语处「2001年壬午」干支与年份不合（壬午为 2002 年），疑转录或原文笔误，照录不改"
+  },
+  {
+   "provisional_id": "QW-020",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·面测命例三",
+   "input_fields": {
+    "id": "QW-020",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（面测命例三命主）",
+     "basic_info": "女，四柱：辛亥 庚子 乙丑 丁亥",
+     "gender": "女",
+     "birth_info_verbatim": "未载出生日期与时辰（坤造，仅载四柱与大运）"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "约2003年以前（原书前言落款 2003 年 9 月；各例求测年份原文有载者已入 setting）",
+     "setting": "面测（简测）：当面简测，命主当面反馈",
+     "attachments": {
+      "pillars": [
+       "辛亥",
+       "庚子",
+       "乙丑",
+       "丁亥"
+      ],
+      "day_master": "乙木"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST 登记）；用户经学校图书馆提供；redistributable=false",
+     "location": "第二部分·面测命例三（TXT 第4173行起，简测）"
+    },
+    "redistributable": false
+   },
+   "outcome_record": "对方反馈：  “我已经离婚了，能看出是哪一年吗?”／对方反馈：  “呀!太对了，我到现在的确没有一个稳定的住处，到哪都是家，哪也不是自己的家，总是飘飘泊泊的。我结婚多年也没有孩子，老是不能怀孕，就有一次好不容易怀上了，不知怎的又掉了。”／反馈：“我给人作中介代销水泥，又开饭店、养虾……做了很多生意，不断改变行业，反正我看什么赚钱就干什么，没有固定的事业。今儿干这",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某市/某省），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（书本身属作者自选「断准」案例，此为判级面事项、非污染面，已在 DIGEST 中另注）",
+   "anchor_presence": "partial",
+   "anchor_note": "四柱全列＋性别俱在，出生年月日时未载，无从独立复排",
+   "dedup_check": "零命中（四柱+性别全同者无）｜对勘集：inputs-dev12 全部 31 张 BZ 卡（四柱+性别逐卡比对）＋holdout19-seal-log.md 构成表（holdout19 共 25 例，体系为 mengzhan/fangji/yizhan/xiangshu/dunjia/zeri/ming/fuji，无 bazi 例）；已用 901 例并集（holdout2–18＋dev9）金标正文按纪律未打开、仅 id 级存在，本席内容级对勘以 inputs-dev12 题面为准，已在登记件中声明此限度。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；个别转录误字照录并在 DIGEST 登记）",
+    "independent_outcome": "pass（反馈中有命主自述复述的可核人事事件，非纯断语）",
+    "separable": "pass（命头四柱在篇首独立成段，反馈与断语在文中分行分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   }
+  },
+  {
+   "provisional_id": "QW-021",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·面测命例四",
+   "input_fields": {
+    "id": "QW-021",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（面测命例四命主）",
+     "basic_info": "男，四柱：丁未 癸卯 丁丑 辛亥",
+     "gender": "男",
+     "birth_info_verbatim": "未载出生日期与时辰（干造，仅载四柱与大运）"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "约2003年以前（原书前言落款 2003 年 9 月；各例求测年份原文有载者已入 setting）",
+     "setting": "面测：作者当面断六条，命主一次性汇总反馈（六条事实在反馈中逐项复述）",
+     "attachments": {
+      "pillars": [
+       "丁未",
+       "癸卯",
+       "丁丑",
+       "辛亥"
+      ],
+      "day_master": "丁火"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST 登记）；用户经学校图书馆提供；redistributable=false",
+     "location": "第二部分·面测命例四（TXT 第4263行起）"
+    },
+    "redistributable": false
+   },
+   "outcome_record": "对方反馈：“此六条条条准确：我不是老大，身上的确有个哥；我的血压不正常，有高血压病不假；我已经离了两次婚，确实以后所找的对象一个不如一个；我得母亲之力，母亲现在还健在，父亲90年去世；我有一个孩子都四岁了不会走路，而且智力上有缺欠；95年升职，升为某钢厂副厂长之职。看来八字这东西真准，一切都是命中注定的。”",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某市/某省），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（书本身属作者自选「断准」案例，此为判级面事项、非污染面，已在 DIGEST 中另注）",
+   "anchor_presence": "partial",
+   "anchor_note": "四柱全列＋性别俱在，出生年月日时未载，无从独立复排",
+   "dedup_check": "零命中（四柱+性别全同者无）｜对勘集：inputs-dev12 全部 31 张 BZ 卡（四柱+性别逐卡比对）＋holdout19-seal-log.md 构成表（holdout19 共 25 例，体系为 mengzhan/fangji/yizhan/xiangshu/dunjia/zeri/ming/fuji，无 bazi 例）；已用 901 例并集（holdout2–18＋dev9）金标正文按纪律未打开、仅 id 级存在，本席内容级对勘以 inputs-dev12 题面为准，已在登记件中声明此限度。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；个别转录误字照录并在 DIGEST 登记）",
+    "independent_outcome": "pass（反馈中有命主自述复述的可核人事事件，非纯断语）",
+    "separable": "pass（命头四柱在篇首独立成段，反馈与断语在文中分行分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   }
+  },
+  {
+   "provisional_id": "QW-022",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·面测命例五",
+   "input_fields": {
+    "id": "QW-022",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（面测命例五命主）",
+     "basic_info": "女，四柱：庚申 乙酉 乙酉 丁丑",
+     "gender": "女",
+     "birth_info_verbatim": "未载出生日期与时辰（坤造，仅载四柱与大运）"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "约2003年以前（原书前言落款 2003 年 9 月；各例求测年份原文有载者已入 setting）",
+     "setting": "面测：命主为作者咨询中心打字员（吉林市人），闲时当面求测，逐项当面反馈",
+     "attachments": {
+      "pillars": [
+       "庚申",
+       "乙酉",
+       "乙酉",
+       "丁丑"
+      ],
+      "day_master": "乙木"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST 登记）；用户经学校图书馆提供；redistributable=false",
+     "location": "第二部分·面测命例五（TXT 第4379行起）"
+    },
+    "redistributable": false
+   },
+   "outcome_record": "反馈：“我8岁上学，是87年上学。”／反馈：  “太对了，2000年运气挺好的，我在大连开发区找到一份工作，还在那儿交了个男朋友。”／反馈：  “2002年，大连那份工作不干了，来到瓦房店，所以住处也随着改变了，开始学计算机、找些零活干干。”",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某市/某省），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（书本身属作者自选「断准」案例，此为判级面事项、非污染面，已在 DIGEST 中另注）",
+   "anchor_presence": "partial",
+   "anchor_note": "四柱全列＋性别俱在，出生年月日时未载，无从独立复排",
+   "dedup_check": "零命中（四柱+性别全同者无）｜对勘集：inputs-dev12 全部 31 张 BZ 卡（四柱+性别逐卡比对）＋holdout19-seal-log.md 构成表（holdout19 共 25 例，体系为 mengzhan/fangji/yizhan/xiangshu/dunjia/zeri/ming/fuji，无 bazi 例）；已用 901 例并集（holdout2–18＋dev9）金标正文按纪律未打开、仅 id 级存在，本席内容级对勘以 inputs-dev12 题面为准，已在登记件中声明此限度。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；个别转录误字照录并在 DIGEST 登记）",
+    "independent_outcome": "pass（反馈中有命主自述复述的可核人事事件，非纯断语）",
+    "separable": "pass（命头四柱在篇首独立成段，反馈与断语在文中分行分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   }
+  },
+  {
+   "provisional_id": "QW-023",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·面测命例七",
+   "input_fields": {
+    "id": "QW-023",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（面测命例七命主）",
+     "basic_info": "男，四柱：庚戌 壬午 丁亥 甲辰",
+     "gender": "男",
+     "birth_info_verbatim": "未载出生日期与时辰（干造，仅载四柱与大运）"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "约2003年以前（原书前言落款 2003 年 9 月；各例求测年份原文有载者已入 setting）",
+     "setting": "面测：命主 2001 年来中心求测，作者边断边听反馈",
+     "attachments": {
+      "pillars": [
+       "庚戌",
+       "壬午",
+       "丁亥",
+       "甲辰"
+      ],
+      "day_master": "丁火"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST 登记）；用户经学校图书馆提供；redistributable=false",
+     "location": "第二部分·面测命例七（TXT 第4585行起）"
+    },
+    "redistributable": false
+   },
+   "outcome_record": "对方说：“是我奶奶在79年去世的。”／反馈：“这年找到一个好工作，工作上很顺心如意，但这年母亲也去世了。”／反馈：“96年辞职不干，入股到朋友酒店之中，结果生意不景气赔了六、七万元。”",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某市/某省），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（书本身属作者自选「断准」案例，此为判级面事项、非污染面，已在 DIGEST 中另注）",
+   "anchor_presence": "partial",
+   "anchor_note": "四柱全列＋性别俱在，出生年月日时未载，无从独立复排",
+   "dedup_check": "零命中（四柱+性别全同者无）｜对勘集：inputs-dev12 全部 31 张 BZ 卡（四柱+性别逐卡比对）＋holdout19-seal-log.md 构成表（holdout19 共 25 例，体系为 mengzhan/fangji/yizhan/xiangshu/dunjia/zeri/ming/fuji，无 bazi 例）；已用 901 例并集（holdout2–18＋dev9）金标正文按纪律未打开、仅 id 级存在，本席内容级对勘以 inputs-dev12 题面为准，已在登记件中声明此限度。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；个别转录误字照录并在 DIGEST 登记）",
+    "independent_outcome": "pass（反馈中有命主自述复述的可核人事事件，非纯断语）",
+    "separable": "pass（命头四柱在篇首独立成段，反馈与断语在文中分行分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   }
+  },
+  {
+   "provisional_id": "QW-024",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·面测命例八",
+   "input_fields": {
+    "id": "QW-024",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（面测命例八命主）",
+     "basic_info": "女，四柱：丁酉 乙巳 庚辰 戊寅",
+     "gender": "女",
+     "birth_info_verbatim": "未载出生日期；且命主自述时辰不准（寅时或卯时未定，篇中以寅时盘论）"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "约2003年以前（原书前言落款 2003 年 9 月；各例求测年份原文有载者已入 setting）",
+     "setting": "面测：当面求测，逐项当面反馈，末条为事后（后来）反馈",
+     "attachments": {
+      "pillars": [
+       "丁酉",
+       "乙巳",
+       "庚辰",
+       "戊寅"
+      ],
+      "day_master": "庚金"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST 登记）；用户经学校图书馆提供；redistributable=false",
+     "location": "第二部分·面测命例八（TXT 第4657行起）"
+    },
+    "redistributable": false
+   },
+   "outcome_record": "对方反馈：  “我92年脚被车压伤住院近一个月，93年平顺，没有什么大事。”／反馈：“第一胎没要，打胎了。”／反馈：“对!这两年确实不错，财运挺好的，99年买的房予，这一点没错。”／后来反馈：果然在阴历六月工作方面有好的调动。职位基本没变。",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某市/某省），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（书本身属作者自选「断准」案例，此为判级面事项、非污染面，已在 DIGEST 中另注）",
+   "anchor_presence": "partial",
+   "anchor_note": "四柱全列＋性别俱在，但出生日期未载且时辰命主自述不准（寅/卯两可），时柱不可复排",
+   "dedup_check": "零命中（四柱+性别全同者无）｜对勘集：inputs-dev12 全部 31 张 BZ 卡（四柱+性别逐卡比对）＋holdout19-seal-log.md 构成表（holdout19 共 25 例，体系为 mengzhan/fangji/yizhan/xiangshu/dunjia/zeri/ming/fuji，无 bazi 例）；已用 901 例并集（holdout2–18＋dev9）金标正文按纪律未打开、仅 id 级存在，本席内容级对勘以 inputs-dev12 题面为准，已在登记件中声明此限度。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；个别转录误字照录并在 DIGEST 登记）",
+    "independent_outcome": "pass（反馈中有命主自述复述的可核人事事件，非纯断语）",
+    "separable": "pass（命头四柱在篇首独立成段，反馈与断语在文中分行分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   }
+  },
+  {
+   "provisional_id": "QW-025",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·面测命例九",
+   "input_fields": {
+    "id": "QW-025",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（面测命例九命主）",
+     "basic_info": "女，四柱：庚子 癸未 丁未 庚戌",
+     "gender": "女",
+     "birth_info_verbatim": "未载出生日期与时辰（坤造，仅载四柱与大运）"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "约2003年以前（原书前言落款 2003 年 9 月；各例求测年份原文有载者已入 setting）",
+     "setting": "面测：作者当面断五条，命主一次性汇总反馈（事实在反馈中复述）",
+     "attachments": {
+      "pillars": [
+       "庚子",
+       "癸未",
+       "丁未",
+       "庚戌"
+      ],
+      "day_master": "丁火"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST 登记）；用户经学校图书馆提供；redistributable=false",
+     "location": "第二部分·面测命例九（TXT 第4773行起）"
+    },
+    "redistributable": false
+   },
+   "outcome_record": "反馈：命主父辈及祖上贫穷，得不到祖上和父母之力，父亲蹲过监狱。一生来自家庭方面压力很大，自己为家庭和兄弟姐妹方面花了不少钱，也操了不少心，只有她付出没有得到回报。因这些事造成身体不好血压不正常，及经常头昏头痛。87年离的婚，离婚后身无分文，背井离乡到外地谋生。所以在34岁以前的确是多灾多难，34岁以后渐渐好转了，现在对比以前来说好多了，一年可收入万余元。",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某市/某省），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（书本身属作者自选「断准」案例，此为判级面事项、非污染面，已在 DIGEST 中另注）",
+   "anchor_presence": "partial",
+   "anchor_note": "四柱全列＋性别俱在，出生年月日时未载，无从独立复排",
+   "dedup_check": "零命中（四柱+性别全同者无）｜对勘集：inputs-dev12 全部 31 张 BZ 卡（四柱+性别逐卡比对）＋holdout19-seal-log.md 构成表（holdout19 共 25 例，体系为 mengzhan/fangji/yizhan/xiangshu/dunjia/zeri/ming/fuji，无 bazi 例）；已用 901 例并集（holdout2–18＋dev9）金标正文按纪律未打开、仅 id 级存在，本席内容级对勘以 inputs-dev12 题面为准，已在登记件中声明此限度。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；个别转录误字照录并在 DIGEST 登记）",
+    "independent_outcome": "pass（反馈中有命主自述复述的可核人事事件，非纯断语）",
+    "separable": "pass（命头四柱在篇首独立成段，反馈与断语在文中分行分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   }
+  },
+  {
+   "provisional_id": "QW-026",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·面测命例十",
+   "input_fields": {
+    "id": "QW-026",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（面测命例十命主）",
+     "basic_info": "女，四柱：辛丑 戊戌 壬辰 乙巳",
+     "gender": "女",
+     "birth_info_verbatim": "未载出生日期与时辰（坤造，仅载四柱与大运）"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "约2003年以前（原书前言落款 2003 年 9 月；各例求测年份原文有载者已入 setting）",
+     "setting": "面测：当面求测逐年试断听反馈；篇中风水类反馈作者自承系据反馈反推、非八字所断，本卡 outcome 不取该段，只取事业财运逐年反馈",
+     "attachments": {
+      "pillars": [
+       "辛丑",
+       "戊戌",
+       "壬辰",
+       "乙巳"
+      ],
+      "day_master": "壬水"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST 登记）；用户经学校图书馆提供；redistributable=false",
+     "location": "第二部分·面测命例十（TXT 第4825行起）"
+    },
+    "redistributable": false
+   },
+   "outcome_record": "反馈：“94年开始养车拉土石方工程，95年、96年财运确实很好。\"／反馈：“99年下岗了，到现在没找到工作，丈夫事业方面也不好，找不到活干，挣不到钱还破费了不少钱。”／后来反馈： “2002年借母亲钱，又买了辆大货车，财运总体来说还可以。”",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某市/某省），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（书本身属作者自选「断准」案例，此为判级面事项、非污染面，已在 DIGEST 中另注）",
+   "anchor_presence": "partial",
+   "anchor_note": "四柱全列＋性别俱在，出生年月日时未载，无从独立复排",
+   "dedup_check": "零命中（四柱+性别全同者无）｜对勘集：inputs-dev12 全部 31 张 BZ 卡（四柱+性别逐卡比对）＋holdout19-seal-log.md 构成表（holdout19 共 25 例，体系为 mengzhan/fangji/yizhan/xiangshu/dunjia/zeri/ming/fuji，无 bazi 例）；已用 901 例并集（holdout2–18＋dev9）金标正文按纪律未打开、仅 id 级存在，本席内容级对勘以 inputs-dev12 题面为准，已在登记件中声明此限度。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；个别转录误字照录并在 DIGEST 登记）",
+    "independent_outcome": "pass（反馈中有命主自述复述的可核人事事件，非纯断语）",
+    "separable": "pass（命头四柱在篇首独立成段，反馈与断语在文中分行分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   }
+  },
+  {
+   "provisional_id": "QW-027",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·面测命例十一",
+   "input_fields": {
+    "id": "QW-027",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（面测命例十一命主）",
+     "basic_info": "女，四柱：辛亥 丙申 癸巳 丙辰",
+     "gender": "女",
+     "birth_info_verbatim": "未载出生日期与时辰（坤造，仅载四柱与大运）"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "约2003年以前（原书前言落款 2003 年 9 月；各例求测年份原文有载者已入 setting）",
+     "setting": "面测：当面求测，逐项当面反馈",
+     "attachments": {
+      "pillars": [
+       "辛亥",
+       "丙申",
+       "癸巳",
+       "丙辰"
+      ],
+      "day_master": "癸水"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST 登记）；用户经学校图书馆提供；redistributable=false",
+     "location": "第二部分·面测命例十一（TXT 第4981行起）"
+    },
+    "redistributable": false
+   },
+   "outcome_record": "反馈：“我的确现在有个女儿，在未生这个女儿之前确实也流过产，流产孩子性别不太清楚。这事你也能看出?很多人都不知道。\"／反馈：“97年开始确实有个要好的，98年改行开婚纱影楼。”／反馈：“2000年，财运确实不错，买了一辆货车，这一年除去花销净剩10万元左右；2001年这一年财运最好，盈利四十万，确实比2002年强，更比2000年好。2002年买了一套房子，同时也买了一辆轿车，另外还投资了一个项目，在一家新建的商场里买了个摊位，搞服装批发。”",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某市/某省），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（书本身属作者自选「断准」案例，此为判级面事项、非污染面，已在 DIGEST 中另注）",
+   "anchor_presence": "partial",
+   "anchor_note": "四柱全列＋性别俱在，出生年月日时未载，无从独立复排",
+   "dedup_check": "零命中（四柱+性别全同者无）｜对勘集：inputs-dev12 全部 31 张 BZ 卡（四柱+性别逐卡比对）＋holdout19-seal-log.md 构成表（holdout19 共 25 例，体系为 mengzhan/fangji/yizhan/xiangshu/dunjia/zeri/ming/fuji，无 bazi 例）；已用 901 例并集（holdout2–18＋dev9）金标正文按纪律未打开、仅 id 级存在，本席内容级对勘以 inputs-dev12 题面为准，已在登记件中声明此限度。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；个别转录误字照录并在 DIGEST 登记）",
+    "independent_outcome": "pass（反馈中有命主自述复述的可核人事事件，非纯断语）",
+    "separable": "pass（命头四柱在篇首独立成段，反馈与断语在文中分行分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   }
+  },
+  {
+   "provisional_id": "QW-028",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·面测命例十二",
+   "input_fields": {
+    "id": "QW-028",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（面测命例十二命主）",
+     "basic_info": "女，四柱：戊午 癸亥 甲戌 丁卯",
+     "gender": "女",
+     "birth_info_verbatim": "未载出生日期与时辰（坤造，仅载四柱与大运）"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "约2003年以前（原书前言落款 2003 年 9 月；各例求测年份原文有载者已入 setting）",
+     "setting": "面测：命主 2002 年当面求测；篇中居所环境类反馈（果园、河流、山形等）属环境核对，outcome 只取人事事件（姐姐溺亡、家中盖房、考上职高）",
+     "attachments": {
+      "pillars": [
+       "戊午",
+       "癸亥",
+       "甲戌",
+       "丁卯"
+      ],
+      "day_master": "甲木"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST 登记）；用户经学校图书馆提供；redistributable=false",
+     "location": "第二部分·面测命例十二（TXT 第5073行起）"
+    },
+    "redistributable": false
+   },
+   "outcome_record": "反馈：在家的左面确实有_条大河在房子左后方拐弯。有个姐姐掉进这条大河里淹死了。／反馈：93年家中盖房子。／反馈：自己考上瓦房店市一所幼儿职高学校，姐姐也在瓦房店上班。父亲为了姊妹俩住得方便，相互有个照应，就在瓦房店市内买了一套房子。",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某市/某省），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（书本身属作者自选「断准」案例，此为判级面事项、非污染面，已在 DIGEST 中另注）",
+   "anchor_presence": "partial",
+   "anchor_note": "四柱全列＋性别俱在，出生年月日时未载，无从独立复排",
+   "dedup_check": "零命中（四柱+性别全同者无）｜对勘集：inputs-dev12 全部 31 张 BZ 卡（四柱+性别逐卡比对）＋holdout19-seal-log.md 构成表（holdout19 共 25 例，体系为 mengzhan/fangji/yizhan/xiangshu/dunjia/zeri/ming/fuji，无 bazi 例）；已用 901 例并集（holdout2–18＋dev9）金标正文按纪律未打开、仅 id 级存在，本席内容级对勘以 inputs-dev12 题面为准，已在登记件中声明此限度。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；个别转录误字照录并在 DIGEST 登记）",
+    "independent_outcome": "pass（反馈中有命主自述复述的可核人事事件，非纯断语）",
+    "separable": "pass（命头四柱在篇首独立成段，反馈与断语在文中分行分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   }
+  },
+  {
+   "provisional_id": "QW-029",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·摘选命例二",
+   "input_fields": {
+    "id": "QW-029",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（摘选命例二命主）",
+     "basic_info": "女，四柱：戊子 甲寅 癸未 壬子",
+     "gender": "女",
+     "birth_info_verbatim": "未载出生日期与时辰（坤造，仅载四柱；仅记 99 年己卯冬月十五来中心求测）"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "约2003年以前（原书前言落款 2003 年 9 月；各例求测年份原文有载者已入 setting）",
+     "setting": "面测（摘选）：命主当面自述核对（丈夫残疾、确有外人等事实由命主自述复述）",
+     "attachments": {
+      "pillars": [
+       "戊子",
+       "甲寅",
+       "癸未",
+       "壬子"
+      ],
+      "day_master": "癸水"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST 登记）；用户经学校图书馆提供；redistributable=false",
+     "location": "第三部分·摘选命例二（TXT 第5185行起；摘自作者《四柱信息取象》《四柱详真》）"
+    },
+    "redistributable": false
+   },
+   "outcome_record": "话说到此，此女态度马上来了一个二百八十度大转弯，很恭敬地放低声音：“先生说得太对了，我丈夫脚有残疾，早年为了能进城，违心嫁给他，心里老是不平衡。所以老是跟他吵闹找别扭，让他跟我离婚，可他老实巴交的，就不跟我恼，来个不吱声，我没折，看在孩子面子上，也就凑合着过",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某市/某省），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（书本身属作者自选「断准」案例，此为判级面事项、非污染面，已在 DIGEST 中另注）",
+   "anchor_presence": "partial",
+   "anchor_note": "四柱全列＋性别俱在，出生年月日时未载，无从独立复排",
+   "dedup_check": "零命中（四柱+性别全同者无）｜对勘集：inputs-dev12 全部 31 张 BZ 卡（四柱+性别逐卡比对）＋holdout19-seal-log.md 构成表（holdout19 共 25 例，体系为 mengzhan/fangji/yizhan/xiangshu/dunjia/zeri/ming/fuji，无 bazi 例）；已用 901 例并集（holdout2–18＋dev9）金标正文按纪律未打开、仅 id 级存在，本席内容级对勘以 inputs-dev12 题面为准，已在登记件中声明此限度。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；个别转录误字照录并在 DIGEST 登记）",
+    "independent_outcome": "pass（反馈中有命主自述复述的可核人事事件，非纯断语）",
+    "separable": "pass（命头四柱在篇首独立成段，反馈与断语在文中分行分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   }
+  },
+  {
+   "provisional_id": "QW-030",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·摘选命例三",
+   "input_fields": {
+    "id": "QW-030",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（摘选命例三命主）",
+     "basic_info": "女，四柱：辛亥 甲午 丙寅 壬辰",
+     "gender": "女",
+     "birth_info_verbatim": "未载出生日期与时辰（坤造，仅载四柱与大运；仅记 2001 年来求测）"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "约2003年以前（原书前言落款 2003 年 9 月；各例求测年份原文有载者已入 setting）",
+     "setting": "面测（摘选）：作者断 1995–2000 逐年财运，求测者一次性反馈逐年核实",
+     "attachments": {
+      "pillars": [
+       "辛亥",
+       "甲午",
+       "丙寅",
+       "壬辰"
+      ],
+      "day_master": "丙火"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST 登记）；用户经学校图书馆提供；redistributable=false",
+     "location": "第三部分·摘选命例三（TXT 第5229行起；摘自作者前书）"
+    },
+    "redistributable": false
+   },
+   "outcome_record": "求测者反馈：事实正是如此，95年财运不错，的确升职。96年得小姑子(丈夫的妹妹)之力，搞服装生意，赚了不少钱；97年买房子花耗很大。98、99年财运一般，没挣多少钱，也没赔钱。2000年破财一万余元，生意不景气。",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某市/某省），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（书本身属作者自选「断准」案例，此为判级面事项、非污染面，已在 DIGEST 中另注）",
+   "anchor_presence": "partial",
+   "anchor_note": "四柱全列＋性别俱在，出生年月日时未载，无从独立复排",
+   "dedup_check": "零命中（四柱+性别全同者无）｜对勘集：inputs-dev12 全部 31 张 BZ 卡（四柱+性别逐卡比对）＋holdout19-seal-log.md 构成表（holdout19 共 25 例，体系为 mengzhan/fangji/yizhan/xiangshu/dunjia/zeri/ming/fuji，无 bazi 例）；已用 901 例并集（holdout2–18＋dev9）金标正文按纪律未打开、仅 id 级存在，本席内容级对勘以 inputs-dev12 题面为准，已在登记件中声明此限度。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；个别转录误字照录并在 DIGEST 登记）",
+    "independent_outcome": "pass（反馈中有命主自述复述的可核人事事件，非纯断语）",
+    "separable": "pass（命头四柱在篇首独立成段，反馈与断语在文中分行分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   }
+  },
+  {
+   "provisional_id": "QW-031",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·摘选命例六",
+   "input_fields": {
+    "id": "QW-031",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（摘选命例六命主）",
+     "basic_info": "男，四柱：乙未 甲申 辛酉 壬辰",
+     "gender": "男",
+     "birth_info_verbatim": "未载出生日期与时辰（干造，仅载四柱）"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "约2003年以前（原书前言落款 2003 年 9 月；各例求测年份原文有载者已入 setting）",
+     "setting": "面测（摘选）：命主 2002 年夏当面求测，逐项当面反馈",
+     "attachments": {
+      "pillars": [
+       "乙未",
+       "甲申",
+       "辛酉",
+       "壬辰"
+      ],
+      "day_master": "辛金"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST 登记）；用户经学校图书馆提供；redistributable=false",
+     "location": "第三部分·摘选命例六（TXT 第5333行起；摘自作者前书）"
+    },
+    "redistributable": false
+   },
+   "outcome_record": "对方反馈说：“你说得二点都不差，我七岁丧父，第二年母亲带着一岁半的弟弟，嫁到邻村姓侯的家里。爷爷在我13岁就去世了，奶奶在我21岁也去世了。妻子85年因病也没了。妻子临死前也没给我留下一男半女的。”／对方反馈：“我们兄弟姐妹五个，有一个过继出去，为了家产到现在都不和气，大家见面就象仇人似的…”",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某市/某省），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（书本身属作者自选「断准」案例，此为判级面事项、非污染面，已在 DIGEST 中另注）",
+   "anchor_presence": "partial",
+   "anchor_note": "四柱全列＋性别俱在，出生年月日时未载，无从独立复排",
+   "dedup_check": "零命中（四柱+性别全同者无）｜对勘集：inputs-dev12 全部 31 张 BZ 卡（四柱+性别逐卡比对）＋holdout19-seal-log.md 构成表（holdout19 共 25 例，体系为 mengzhan/fangji/yizhan/xiangshu/dunjia/zeri/ming/fuji，无 bazi 例）；已用 901 例并集（holdout2–18＋dev9）金标正文按纪律未打开、仅 id 级存在，本席内容级对勘以 inputs-dev12 题面为准，已在登记件中声明此限度。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；个别转录误字照录并在 DIGEST 登记）",
+    "independent_outcome": "pass（反馈中有命主自述复述的可核人事事件，非纯断语）",
+    "separable": "pass（命头四柱在篇首独立成段，反馈与断语在文中分行分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   }
+  },
+  {
+   "provisional_id": "QW-032",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·摘选命例七",
+   "input_fields": {
+    "id": "QW-032",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（摘选命例七命主）",
+     "basic_info": "男，四柱：甲辰 辛未 庚申 壬午",
+     "gender": "男",
+     "birth_info_verbatim": "未载出生日期与时辰（干造，仅载四柱与大运）"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "约2003年以前（原书前言落款 2003 年 9 月；各例求测年份原文有载者已入 setting）",
+     "setting": "面测（摘选）：命主当面求测（今年五月），测祖上段逐项反馈；篇中 94 年甲戌原文误作「甲戊」，照录",
+     "attachments": {
+      "pillars": [
+       "甲辰",
+       "辛未",
+       "庚申",
+       "壬午"
+      ],
+      "day_master": "庚金"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST 登记）；用户经学校图书馆提供；redistributable=false",
+     "location": "第三部分·摘选命例七（TXT 第5369行起；正文标题误作「面测命例七」，据目录与所在部分定为摘选命例七）"
+    },
+    "redistributable": false
+   },
+   "outcome_record": "此造命主今年五月来求测，在测祖上时笔者说：“你家祖上有些财产，但到父辈财产散尽，祖上留给你的财产虽有些，但微微了了。(年干为喜用但力量不大，被月干劫)”对方反馈：“的确祖上挺有钱的，父辈时被抄家，大多财产被抄走，留给我的有些金银首饰，是奶奶结婚时的嫁妆。’’",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某市/某省），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（书本身属作者自选「断准」案例，此为判级面事项、非污染面，已在 DIGEST 中另注）",
+   "anchor_presence": "partial",
+   "anchor_note": "四柱全列＋性别俱在，出生年月日时未载，无从独立复排",
+   "dedup_check": "零命中（四柱+性别全同者无）｜对勘集：inputs-dev12 全部 31 张 BZ 卡（四柱+性别逐卡比对）＋holdout19-seal-log.md 构成表（holdout19 共 25 例，体系为 mengzhan/fangji/yizhan/xiangshu/dunjia/zeri/ming/fuji，无 bazi 例）；已用 901 例并集（holdout2–18＋dev9）金标正文按纪律未打开、仅 id 级存在，本席内容级对勘以 inputs-dev12 题面为准，已在登记件中声明此限度。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；个别转录误字照录并在 DIGEST 登记）",
+    "independent_outcome": "pass（反馈中有命主自述复述的可核人事事件，非纯断语）",
+    "separable": "pass（命头四柱在篇首独立成段，反馈与断语在文中分行分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   }
+  },
+  {
+   "provisional_id": "QW-033",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·摘选命例八·兄造",
+   "input_fields": {
+    "id": "QW-033",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（摘选命例八·兄造命主）",
+     "basic_info": "男，四柱：癸丑 乙卯 癸亥 甲寅",
+     "gender": "男",
+     "birth_info_verbatim": "未载出生日期与时辰（求测者代报其兄四柱，仅载四柱与大运）"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "约2003年以前（原书前言落款 2003 年 9 月；各例求测年份原文有载者已入 setting）",
+     "setting": "面测（摘选）：黑龙江求测者携其兄四柱来测，作者断 95、96 年官非牢狱，求测者当面反馈核实",
+     "attachments": {
+      "pillars": [
+       "癸丑",
+       "乙卯",
+       "癸亥",
+       "甲寅"
+      ],
+      "day_master": "癸水"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST 登记）；用户经学校图书馆提供；redistributable=false",
+     "location": "第三部分·摘选命例八（TXT 第5397行起）前造；摘自作者前书"
+    },
+    "redistributable": false
+   },
+   "outcome_record": "八字一排，我略加分析便直言：“此造日主旺食伤更旺，食神心性转化为伤官心性，此人争强好胜，贪图享受，伤官旺而无制，法律意识淡泊，且胆大妄为，目无法纪，定有官非牢狱之灾。\"求测者问：“你看哪年会有官非牢狱之灾?\"我见此造行癸丑大运天干透比劫，给日主加力，95年乙亥、96年丙子，方方面面都合日主比劫及伤官加力，更增强违法犯罪气息，尤其96年丙子，岁运命局形成亥子丑三会水局成功，日主食伤旺而无制，岁君丙火虽为第一层次，但身坐截脚无根，力量很小，不足以泄旺木之气，所以断95、96年定有官非牢狱之灾，尤其是96年更为严重。求测者反馈：此造是其哥哥四柱，95年犯法被拘留，，96年杀人在逃，至今无下落。",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某市/某省），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（书本身属作者自选「断准」案例，此为判级面事项、非污染面，已在 DIGEST 中另注）",
+   "anchor_presence": "partial",
+   "anchor_note": "四柱全列＋性别（兄）俱在，出生年月日时未载，无从独立复排",
+   "dedup_check": "零命中（四柱+性别全同者无）｜对勘集：inputs-dev12 全部 31 张 BZ 卡（四柱+性别逐卡比对）＋holdout19-seal-log.md 构成表（holdout19 共 25 例，体系为 mengzhan/fangji/yizhan/xiangshu/dunjia/zeri/ming/fuji，无 bazi 例）；已用 901 例并集（holdout2–18＋dev9）金标正文按纪律未打开、仅 id 级存在，本席内容级对勘以 inputs-dev12 题面为准，已在登记件中声明此限度。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；个别转录误字照录并在 DIGEST 登记）",
+    "independent_outcome": "pass（反馈中有命主自述复述的可核人事事件，非纯断语）",
+    "separable": "pass（命头四柱在篇首独立成段，反馈与断语在文中分行分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   }
+  },
+  {
+   "provisional_id": "QW-034",
+   "tradition": "bazi",
+   "source": "《详批命例精解》（曲炜著）·摘选命例八·本人造",
+   "input_fields": {
+    "id": "QW-034",
+    "tradition": "bazi",
+    "subject": {
+     "name_or_desc": "匿名求测者（摘选命例八·本人造命主）",
+     "basic_info": "男，四柱：甲寅 辛未 癸亥 丙辰",
+     "gender": "男",
+     "birth_info_verbatim": "未载出生日期与时辰（求测者自报本人四柱，仅载四柱与大运）"
+    },
+    "context": {
+     "question": "断此命造（一生格局、吉凶与运程）",
+     "asked_at": "约2003年以前（原书前言落款 2003 年 9 月；各例求测年份原文有载者已入 setting）",
+     "setting": "面测（摘选）：求测者继而自报本人四柱，作者断 95、96 年官非牢狱，求测者当面自述核实",
+     "attachments": {
+      "pillars": [
+       "甲寅",
+       "辛未",
+       "癸亥",
+       "丙辰"
+      ],
+      "day_master": "癸水"
+     }
+    },
+    "provenance": {
+     "book": "《详批命例精解》（曲炜著）",
+     "edition": "TXT 转录本（转录出处不明，繁简混排、有转录误字，详见 DIGEST 登记）；用户经学校图书馆提供；redistributable=false",
+     "location": "第三部分·摘选命例八（TXT 第5397行起）后造；摘自作者前书"
+    },
+    "redistributable": false
+   },
+   "outcome_record": "八字一排，还没有排大运，我就说：“哟!伤官旺透，日主也旺，枭制不住伤官，又是法律意识淡泊者，此入一生官非牢狱之灾难免，不过此造要比上一个轻些，原因是命局伤官虽旺透，但总还有枭神牵制一下，只是制力量不是太大，逢帮扶日主和食伤的比劫运便会有官非之灾。”对方故意反问：  “会吗?你看哪年能有官非牢狱之灾?”我说：“等我排完大运再回答。\"我排完大运，见日主从16周岁90年行癸酉大运，干透比肩，干支都给日主加力，酉辰有合金之势，酉全又不克寅木，所以伤官力最在此步运程中，不但无损反而得运干比肩生更旺，看来此步运程定会有事，且在95年乙亥、96年丙子二年，又是比劫、食伤旺地，定会有官非之事。于是我直言说；一‘这个八字我断定，95、96年定会有官非牢狱之灾！”求测者见我如此肯定，便竖起大拇指说：“你真行!这一趟我没自来，这就是我本人的八字，95年我犯事被拘留过，96年又犯事被抓……”",
+   "pollution": "low",
+   "pollution_note": "命主均为匿名当代求测者（姓名、单位皆未具名或仅称某市/某省），无公开记载与百科条目可检索，非通行名案；原书为命理从业者自选案例集，污染按 low 登记（书本身属作者自选「断准」案例，此为判级面事项、非污染面，已在 DIGEST 中另注）",
+   "anchor_presence": "partial",
+   "anchor_note": "四柱全列＋性别俱在，出生年月日时未载，无从独立复排",
+   "dedup_check": "零命中（四柱+性别全同者无）｜对勘集：inputs-dev12 全部 31 张 BZ 卡（四柱+性别逐卡比对）＋holdout19-seal-log.md 构成表（holdout19 共 25 例，体系为 mengzhan/fangji/yizhan/xiangshu/dunjia/zeri/ming/fuji，无 bazi 例）；已用 901 例并集（holdout2–18＋dev9）金标正文按纪律未打开、仅 id 级存在，本席内容级对勘以 inputs-dev12 题面为准，已在登记件中声明此限度。",
+   "filters": {
+    "verbatim_transcribable": "pass（TXT 文本层，四柱/断语/反馈俱可逐字转录；个别转录误字照录并在 DIGEST 登记）",
+    "independent_outcome": "pass（反馈中有命主自述复述的可核人事事件，非纯断语）",
+    "separable": "pass（命头四柱在篇首独立成段，反馈与断语在文中分行分段，可分离建卡）",
+    "pollution_non_high": "pass（low）"
+   }
+  }
+ ]
+}

@@ -1,0 +1,2205 @@
+{
+ "batch": "round56-digestion-liuyao-wanghuying",
+ "provenance": "用户经学校图书馆提供",
+ "redistributable": false,
+ "sources": [
+  "《六爻分类占验技法》（王虎应著，扫描本，transcription=visual）",
+  "《六爻卦例说真》（王虎应著，文字版；本轮完成断法提炼，成例开采未及，见摘要）"
+ ],
+ "rules": "四滤（逐字可转录／独立结局／可分离／非high污染）＋锚点在场（卦名、动爻、世应、六亲纳支、月建日辰）；入账口径承R56 PREREG §2：A级＋low＋锚点present",
+ "counts": {
+  "ledger_entries": 71,
+  "anchor_present": 52,
+  "anchor_partial": 19,
+  "pollution_low": 43,
+  "pollution_mid": 28,
+  "net_eligible_A_low_present": [
+   "WHY-003",
+   "WHY-004",
+   "WHY-005",
+   "WHY-006",
+   "WHY-007",
+   "WHY-008",
+   "WHY-009",
+   "WHY-010",
+   "WHY-011",
+   "WHY-012",
+   "WHY-015",
+   "WHY-016",
+   "WHY-021",
+   "WHY-022",
+   "WHY-023",
+   "WHY-024",
+   "WHY-025",
+   "WHY-026",
+   "WHY-027",
+   "WHY-028",
+   "WHY-030",
+   "WHY-031",
+   "WHY-032",
+   "WHY-033",
+   "WHY-034",
+   "WHY-035",
+   "WHY-036",
+   "WHY-037",
+   "WHY-038",
+   "WHY-039",
+   "WHY-040",
+   "WHY-041",
+   "WHY-042",
+   "WHY-043",
+   "WHY-044",
+   "WHY-067",
+   "WHY-068",
+   "WHY-069",
+   "WHY-070",
+   "WHY-071"
+  ],
+  "net_count": 40
+ },
+ "entries": [
+  {
+   "provisional_id": "WHY-001",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第一章 例一（印刷p9-11）",
+   "input_fields": {
+    "question": "测本日气温（前晚预报急剧下降）",
+    "asked_at": "戌月戊辰日（2001年11月1日早上）",
+    "chart": {
+     "ben_gua": "山天大畜",
+     "bian_gua": "",
+     "moving_lines": "卦盘扫描斑驳，动爻未全辨",
+     "chart_lines_top_to_bottom": [
+      "父母午火（伏二爻，不上卦）",
+      "兄弟戌土（得月比扶、日辰冲之暗动）"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "判断主气温下降（父母午火伏藏日月不生扶、火入墓力弱）。应验：当日气温下降（书中以判断应验收束，细节从略）",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "anchor_presence": "partial",
+   "anchor_missing": "本卦六爻全列与变卦未全辨（扫描斑驳），仅记伏神与关键动爻",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-002",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第一章 例二（印刷p11）",
+   "input_fields": {
+    "question": "测次日天气",
+    "asked_at": "戌月辛酉日",
+    "chart": {
+     "ben_gua": "水地比",
+     "bian_gua": "泽地萃",
+     "moving_lines": "卦盘部分可辨，动爻未全辨",
+     "chart_lines_top_to_bottom": [
+      "（全列部分可辨）"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "书中定位为伏藏、月破、暗动、飞伏、应期综合练习例，次日天气应验（细节从略）",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "anchor_presence": "partial",
+   "anchor_missing": "六爻全列未全辨",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-003",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第一章「父母也有雾」例一（印刷p12-14）",
+   "input_fields": {
+    "question": "测次日天气",
+    "asked_at": "酉月庚戌日",
+    "chart": {
+     "ben_gua": "山天遁",
+     "bian_gua": "离为火",
+     "moving_lines": "上爻父母辰土×动、二爻兄弟申金○动",
+     "chart_lines_top_to_bottom": [
+      "螣蛇 父母戌土",
+      "勾陈 兄弟申金○ 应",
+      "朱雀 官鬼午火",
+      "青龙 兄弟申金",
+      "玄武 官鬼午火 世",
+      "白虎 父母辰土×"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：第二天起来外面到处是雾，直到上午十点半左右雾才渐渐散去，并开始有大风（西北风）",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-004",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第一章 例二（印刷p14）",
+   "input_fields": {
+    "question": "测次日天气",
+    "asked_at": "戌月甲戌日",
+    "chart": {
+     "ben_gua": "山风蛊",
+     "bian_gua": "山天大畜",
+     "moving_lines": "初爻妻财丑土×独发",
+     "chart_lines_top_to_bottom": [
+      "玄武 兄弟寅木 应",
+      "白虎 父母子水",
+      "螣蛇 妻财戌土",
+      "勾陈 官鬼酉金 世",
+      "朱雀 父母亥水",
+      "青龙 妻财丑土×"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：第二天天空晴朗无云，地面有雾，未时出现薄云",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-005",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第一章「金空则鸣」例一（印刷p15-16）",
+   "input_fields": {
+    "question": "测次日天气",
+    "asked_at": "辰月己卯日（原文作辰日己卯日）",
+    "chart": {
+     "ben_gua": "泽风大过",
+     "bian_gua": "水地比",
+     "moving_lines": "四爻父母亥水○世、三爻官鬼酉金○、二爻父母亥水○",
+     "chart_lines_top_to_bottom": [
+      "勾陈 妻财未土",
+      "朱雀 官鬼酉金",
+      "青龙 父母亥水○ 世",
+      "玄武 官鬼酉金○",
+      "白虎 父母亥水○",
+      "螣蛇 妻财丑土 应"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：上午晴，下午申时转阴，电闪雷鸣，下起了大雨，雨越下越大，一直下到第二天早晨",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-006",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第一章「金空则鸣」例二（印刷p16-17）",
+   "input_fields": {
+    "question": "测次日天气",
+    "asked_at": "辰月乙亥日",
+    "chart": {
+     "ben_gua": "雷风恒",
+     "bian_gua": "震为雷",
+     "moving_lines": "三爻官鬼酉金○世、二爻父母亥水○、初爻妻财丑土×",
+     "chart_lines_top_to_bottom": [
+      "玄武 妻财戌土 应",
+      "白虎 官鬼申金",
+      "螣蛇 子孙巳火",
+      "勾陈 官鬼酉金○ 世",
+      "朱雀 父母亥水○",
+      "青龙 妻财丑土×"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：下午申时天空聚来浓云，云深处传来阵阵雷声，好像要下雨，但最终一滴雨也没下；酉时浓云散去，恢复晴朗",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-007",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第一章「顺风和逆风」例一（印刷p17-18）",
+   "input_fields": {
+    "question": "测乘船过河吉凶（兼断顺逆风）",
+    "asked_at": "申月己酉日",
+    "chart": {
+     "ben_gua": "风火家人",
+     "bian_gua": "水火既济",
+     "moving_lines": "上爻兄弟卯木○独发",
+     "chart_lines_top_to_bottom": [
+      "勾陈 兄弟卯木○",
+      "朱雀 子孙巳火 应",
+      "青龙 妻财未土",
+      "玄武 父母亥水",
+      "白虎 妻财丑土 世",
+      "螣蛇 兄弟卯木"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：船在中途果遇逆风，但风不大，船儿有些摇晃，平安到了河对岸",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-008",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第一章「顺风和逆风」例二（印刷p18-19）",
+   "input_fields": {
+    "question": "日本学生测本日外出清理环境垃圾自身吉凶",
+    "asked_at": "卯月癸未日",
+    "chart": {
+     "ben_gua": "风雷益",
+     "bian_gua": "水泽节",
+     "moving_lines": "上爻兄弟卯木○应、二爻兄弟寅木×",
+     "chart_lines_top_to_bottom": [
+      "白虎 兄弟卯木○ 应",
+      "螣蛇 子孙巳火",
+      "勾陈 妻财未土",
+      "朱雀 妻财辰土 世",
+      "青龙 兄弟寅木×",
+      "玄武 父母子水"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：在湖畔清理垃圾，从早到晚顶风工作，风又大又冷",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-009",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第一章「五行」例一（印刷p19-20）",
+   "input_fields": {
+    "question": "测次日天气",
+    "asked_at": "午月戊寅日",
+    "chart": {
+     "ben_gua": "天风姤",
+     "bian_gua": "风天小畜",
+     "moving_lines": "四爻官鬼午火○应、初爻父母丑土×世",
+     "chart_lines_top_to_bottom": [
+      "朱雀 父母戌土",
+      "青龙 兄弟申金",
+      "玄武 官鬼午火○ 应",
+      "白虎 兄弟酉金",
+      "螣蛇 子孙亥水",
+      "勾陈 父母丑土× 世"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：第二天丑时开始下雨，雨越下越大，雷雨交加并吹起强风，酉时雷雨又来，一直到戌时方止（原文有时段细节）",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-010",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第一章「五行」例二（印刷p21）",
+   "input_fields": {
+    "question": "测本日天气",
+    "asked_at": "午月戊寅日",
+    "chart": {
+     "ben_gua": "雷风恒",
+     "bian_gua": "雷天大壮",
+     "moving_lines": "初爻妻财丑土×独发",
+     "chart_lines_top_to_bottom": [
+      "朱雀 妻财戌土 应",
+      "青龙 官鬼申金",
+      "玄武 子孙午火",
+      "白虎 官鬼酉金 世",
+      "螣蛇 父母亥水",
+      "勾陈 妻财丑土×"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：上午晴，未时末开始转阴下雨，申时转入蒙蒙细雨，远处有雷声，酉时雨变大",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-011",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第一章「被测日辰」例一（印刷p21-22）",
+   "input_fields": {
+    "question": "测次日天气",
+    "asked_at": "辰月丙戌日",
+    "chart": {
+     "ben_gua": "水风井",
+     "bian_gua": "巽为风",
+     "moving_lines": "上爻父母子水×独发",
+     "chart_lines_top_to_bottom": [
+      "青龙 父母子水×",
+      "玄武 妻财戌土 世",
+      "白虎 官鬼申金",
+      "螣蛇 官鬼酉金",
+      "勾陈 父母亥水 应",
+      "朱雀 妻财丑土"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：电视天气预报为晴转阴；实际第二天上午阴，九点左右下起了小雨，不久即止，下午阴，且有风吹",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-012",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第一章「被测日辰」例二（印刷p23）",
+   "input_fields": {
+    "question": "测次日天气",
+    "asked_at": "辰月己丑日",
+    "chart": {
+     "ben_gua": "雷火丰",
+     "bian_gua": "雷山小过",
+     "moving_lines": "初爻子孙卯木○独发",
+     "chart_lines_top_to_bottom": [
+      "勾陈 官鬼戌土",
+      "朱雀 父母申金 世",
+      "青龙 妻财午火",
+      "玄武 兄弟亥水",
+      "白虎 官鬼丑土 应",
+      "螣蛇 子孙卯木○"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：电视天气预报为阴天；实际上第二天上午晴，下午也晴，但非大晴，天空有一些浮云",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-013",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第二章 例一（印刷p29-30）",
+   "input_fields": {
+    "question": "摇卦预测中国及周边国家一个月以内的地震情况（预测地山西）",
+    "asked_at": "1996年5月4日（丙子年癸巳月辛酉日）",
+    "chart": {
+     "ben_gua": "地天泰",
+     "bian_gua": "地雷复",
+     "moving_lines": "三爻兄弟辰土○世、二爻官鬼寅木○",
+     "chart_lines_top_to_bottom": [
+      "螣蛇 子孙酉金 应",
+      "勾陈 妻财亥水",
+      "朱雀 兄弟丑土",
+      "青龙 兄弟辰土○ 世",
+      "玄武 官鬼寅木○",
+      "白虎 妻财子水"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：西南方向，7月2日（庚子日）云南省发生5.2级地震，5月3日（辛丑日）西藏发生6级地震；西北方向，6月1日（己巳日）甘肃发生5.4级地震；东南方向，6月12日（庚辰日）菲律宾发生7.4级地震，7月17日（乙酉日）又发生7.2级地震；东北方向，6月10日（戊寅日）阿留申群岛发生7.6和7.3级地震",
+   "outcome_type": "forward",
+   "pollution": "mid",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-014",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第二章 例二（印刷p31-32）",
+   "input_fields": {
+    "question": "摇卦测一个月以内中国的地震情况",
+    "asked_at": "1996年7月12日（丙子年乙未月庚戌日）",
+    "chart": {
+     "ben_gua": "艮为山",
+     "bian_gua": "雷山小过",
+     "moving_lines": "上爻官鬼寅木○世、四爻兄弟戌土×",
+     "chart_lines_top_to_bottom": [
+      "螣蛇 官鬼寅木○ 世",
+      "勾陈 妻财子水",
+      "朱雀 兄弟戌土×",
+      "青龙 子孙申金 应",
+      "玄武 父母午火",
+      "白虎 兄弟辰土"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：东北方向，7月16日（甲寅日）堪察加半岛发生7.3级地震；西南方向发生5.3级地震，8月6日（乙亥日）斐济发生7.1级地震；东南方向，7月22日（庚申日）印度尼西亚发生7.1级地震，7月30日（戊辰日）台湾发生5.3级地震；西藏7月31日（己巳日）发生5.7级地震（方向吻合、时间不吻合，作者自注）",
+   "outcome_type": "forward",
+   "pollution": "mid",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-015",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第二章 例三（印刷p33）",
+   "input_fields": {
+    "question": "测太原市本年内有无地震",
+    "asked_at": "未月丙子日（1996年夏）",
+    "chart": {
+     "ben_gua": "水火既济",
+     "bian_gua": "泽火革",
+     "moving_lines": "四爻父母申金×独发",
+     "chart_lines_top_to_bottom": [
+      "青龙 兄弟子水 应",
+      "玄武 官鬼戌土",
+      "白虎 父母申金×",
+      "螣蛇 子孙亥水 世",
+      "勾陈 官鬼丑土",
+      "朱雀 子孙卯木"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：果然平安无事，没有发生地震，本年内没有地震",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-016",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第二章 例四（印刷p34）",
+   "input_fields": {
+    "question": "测太原市当年内有无地震",
+    "asked_at": "1997年3月26日（丁丑年癸卯月丁卯日）",
+    "chart": {
+     "ben_gua": "泽天夬",
+     "bian_gua": "兑为泽",
+     "moving_lines": "三爻兄弟辰土○独发",
+     "chart_lines_top_to_bottom": [
+      "青龙 兄弟未土",
+      "玄武 子孙酉金 世",
+      "白虎 妻财亥水",
+      "螣蛇 兄弟辰土○",
+      "勾陈 官鬼寅木 应",
+      "朱雀 妻财子水"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：丑月丁巳日太原市发生有感地震",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-017",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第二章 例五（印刷p35-36）",
+   "input_fields": {
+    "question": "测中国及其周边国家近期会有地震吗（预测地山西）",
+    "asked_at": "1996年8月13日（申月壬午日）",
+    "chart": {
+     "ben_gua": "风水涣",
+     "bian_gua": "天山遁",
+     "moving_lines": "四爻子孙未土×、三爻兄弟午火×、二爻子孙辰土○应",
+     "chart_lines_top_to_bottom": [
+      "白虎 父母卯木",
+      "螣蛇 兄弟巳火 世",
+      "勾陈 子孙未土×",
+      "朱雀 兄弟午火×",
+      "青龙 子孙辰土○ 应",
+      "玄武 父母寅木"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：东南方向，9月6日（丙子日）台湾发生7.1级和5.5级地震；西北方向，8月22日（辛卯日）青海发生5.1级地震；西南方向，9月25日（乙丑日）云南发生7级地震",
+   "outcome_type": "forward",
+   "pollution": "mid",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-018",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第二章 例六（印刷p37-38）",
+   "input_fields": {
+    "question": "测山西省境内当年有没有地震",
+    "asked_at": "1998年2月27日（丁丑年壬寅月庚子日）",
+    "chart": {
+     "ben_gua": "泽山咸",
+     "bian_gua": "天地否",
+     "moving_lines": "上爻父母未土×应、三爻兄弟申金○世",
+     "chart_lines_top_to_bottom": [
+      "螣蛇 父母未土× 应",
+      "勾陈 兄弟酉金",
+      "朱雀 子孙亥水",
+      "青龙 兄弟申金○ 世",
+      "玄武 官鬼午火",
+      "白虎 父母辰土"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：丁巳日在省会太原发生有感地震（原文称与例四信息一致）",
+   "outcome_type": "forward",
+   "pollution": "mid",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-019",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第二章 例七（印刷p37-38）",
+   "input_fields": {
+    "question": "预测日本近期会有地震吗（指地而占）",
+    "asked_at": "1997年3月27日（丁丑年癸卯月辛酉日）",
+    "chart": {
+     "ben_gua": "地泽临",
+     "bian_gua": "兑为泽",
+     "moving_lines": "五爻妻财亥水×应、四爻兄弟丑土×",
+     "chart_lines_top_to_bottom": [
+      "螣蛇 子孙酉金",
+      "勾陈 妻财亥水× 应",
+      "朱雀 兄弟丑土×",
+      "青龙 兄弟丑土",
+      "玄武 官鬼卯木 世",
+      "白虎 父母巳火"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：日本鹿儿岛三月二十六日发生6.3级地震，四月三日发生5.5级地震，五月五日发生4.9级地震",
+   "outcome_type": "forward",
+   "pollution": "mid",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-020",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第二章 例八（印刷p38-40）",
+   "input_fields": {
+    "question": "预测2001年日本的地震情况（指地而占）",
+    "asked_at": "戌月丁未日（2000年秋，西安）",
+    "chart": {
+     "ben_gua": "离为火",
+     "bian_gua": "山雷颐",
+     "moving_lines": "四爻妻财酉金○、三爻官鬼亥水○应",
+     "chart_lines_top_to_bottom": [
+      "朱雀 兄弟巳火 世",
+      "青龙 子孙未土",
+      "玄武 妻财酉金○",
+      "白虎 官鬼亥水○ 应",
+      "螣蛇 子孙丑土",
+      "勾陈 父母卯木"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：2001年1月4日日本新潟县发生5.3级地震，三月二十四日广岛发生6.4级地震，三月二十六日岩手县发生6.3级地震，十二月二日岩手县发生6.3级地震，十二月十八日鹿儿岛奄美群岛附近发生4.3级地震，十二月二十一日冲绳县南部海域发生7.3级和4.3级地震",
+   "outcome_type": "forward",
+   "pollution": "mid",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-021",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第三章 火山例一（印刷p43-44）",
+   "input_fields": {
+    "question": "预测日本白根山当年会不会发生火山爆发",
+    "asked_at": "未月庚戌日（1996年7月12日）",
+    "chart": {
+     "ben_gua": "风山渐",
+     "bian_gua": "风雷益",
+     "moving_lines": "三爻子孙申金○世、初爻兄弟辰土×",
+     "chart_lines_top_to_bottom": [
+      "螣蛇 官鬼卯木 应",
+      "勾陈 父母巳火",
+      "朱雀 兄弟未土",
+      "青龙 子孙申金○ 世",
+      "玄武 父母午火",
+      "白虎 兄弟辰土×"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：1996年白根山没有发生火山喷发",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-022",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第三章 水灾例一（印刷p44-46）",
+   "input_fields": {
+    "question": "测太原市会不会发生水灾",
+    "asked_at": "未月丙子日（1997年秋）",
+    "chart": {
+     "ben_gua": "水火既济",
+     "bian_gua": "雷火丰",
+     "moving_lines": "五爻官鬼戌土○、四爻父母申金×",
+     "chart_lines_top_to_bottom": [
+      "青龙 兄弟子水 应",
+      "玄武 官鬼戌土○",
+      "白虎 父母申金×",
+      "螣蛇 兄弟亥水 世",
+      "勾陈 官鬼丑土",
+      "朱雀 子孙卯木"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：雨一直不停地下，到了申月突然增大，果如所测发生了大水，郊区数间房屋被洪水冲倒，一辆公共汽车也被水冲走，造成重大经济损失",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-023",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第三章 水灾例二（印刷p46）",
+   "input_fields": {
+    "question": "测中国南方会发生水灾否",
+    "asked_at": "1998年5月30日（戊寅年丁巳月丁丑日）",
+    "chart": {
+     "ben_gua": "雷山小过",
+     "bian_gua": "地水师",
+     "moving_lines": "四爻官鬼午火○世、三爻兄弟申金○、二爻官鬼午火×",
+     "chart_lines_top_to_bottom": [
+      "青龙 父母戌土",
+      "玄武 兄弟申金",
+      "白虎 官鬼午火○ 世",
+      "螣蛇 兄弟申金○",
+      "勾陈 官鬼午火×",
+      "朱雀 父母辰土 应"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：午月长江下游发生了特大洪水",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-024",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第三章 水灾例三（印刷p47）",
+   "input_fields": {
+    "question": "预测抗洪何时结束（长江特大洪水期间，授课时学生请测）",
+    "asked_at": "申月丙申日（1998年夏）",
+    "chart": {
+     "ben_gua": "天雷无妄",
+     "bian_gua": "泽雷随",
+     "moving_lines": "上爻妻财戌土○独发",
+     "chart_lines_top_to_bottom": [
+      "青龙 妻财戌土○",
+      "玄武 官鬼申金",
+      "白虎 子孙午火 世",
+      "螣蛇 妻财辰土",
+      "勾陈 兄弟寅木",
+      "朱雀 父母子水 应"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：九月四日（申月甲寅日）江泽民宣布抗洪胜利，九月十一日（酉月辛酉日）湖北省结束抗洪工作",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-025",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第三章 火灾例一（印刷p48）",
+   "input_fields": {
+    "question": "预测太原市近期有无重大火灾",
+    "asked_at": "1997年4月27日（卯月甲戌日）",
+    "chart": {
+     "ben_gua": "地风升",
+     "bian_gua": "地山谦",
+     "moving_lines": "二爻父母亥水○应",
+     "chart_lines_top_to_bottom": [
+      "玄武 官鬼酉金",
+      "白虎 父母亥水",
+      "螣蛇 妻财丑土 世",
+      "勾陈 官鬼酉金",
+      "朱雀 父母亥水○ 应",
+      "白虎 妻财丑土"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：四月十二日太原市西铭煤矿发生瓦斯爆炸，引起火灾，造成三十九人死亡",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-026",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第三章 火灾例二（印刷p49）",
+   "input_fields": {
+    "question": "又测太原市还会发生火灾吗",
+    "asked_at": "1997年4月17日（辰月己丑日）",
+    "chart": {
+     "ben_gua": "雷风恒",
+     "bian_gua": "泽风大过",
+     "moving_lines": "五爻官鬼申金×独发",
+     "chart_lines_top_to_bottom": [
+      "勾陈 妻财戌土 应",
+      "朱雀 官鬼申金×",
+      "青龙 子孙午火",
+      "玄武 官鬼酉金 世",
+      "白虎 父母亥水",
+      "螣蛇 妻财丑土"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：五月二十五日（巳月丁卯日）太原市钢铁公司的一个附属肉类加工厂发生特大火灾，造成经济损失高达二亿元，致使保险公司破产",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-027",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第三章 火灾例三（印刷p50）",
+   "input_fields": {
+    "question": "一人测当前运气（断中虑其家中火灾）",
+    "asked_at": "未月甲午日",
+    "chart": {
+     "ben_gua": "火风鼎",
+     "bian_gua": "山火贲",
+     "moving_lines": "四爻妻财酉金○、三爻官鬼亥水○世、初爻子孙丑土×",
+     "chart_lines_top_to_bottom": [
+      "玄武 兄弟巳火",
+      "白虎 子孙未土 应",
+      "螣蛇 妻财酉金○",
+      "勾陈 妻财酉金",
+      "朱雀 官鬼亥水○ 世",
+      "青龙 子孙丑土×"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：此人壬子日在邻居家打麻将大赢，家中却因漏电发生火灾，幸亏发现及时，没有造成大的损失",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-028",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第四章 地球末日例（印刷p53-54）",
+   "input_fields": {
+    "question": "摇卦测1999年地球的命运（《诸世纪》末日预言）",
+    "asked_at": "1998年7月27日（未月乙亥日）",
+    "chart": {
+     "ben_gua": "水地比",
+     "bian_gua": "水天需",
+     "moving_lines": "三爻官鬼卯木×世、二爻父母巳火×、初爻兄弟未土×",
+     "chart_lines_top_to_bottom": [
+      "玄武 妻财子水 应",
+      "白虎 兄弟戌土",
+      "螣蛇 子孙申金",
+      "勾陈 官鬼卯木× 世",
+      "朱雀 父母巳火×",
+      "青龙 兄弟未土×"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：1999年果然是一个地震和火灾的多发年份，但地球没有出现所谓的大劫难",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-029",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第四章 笔仙例（印刷p55-57）",
+   "input_fields": {
+    "question": "测三天后辰时真的会在我面前出现蛇吗（笔仙预言验证）",
+    "asked_at": "未月壬寅日",
+    "chart": {
+     "ben_gua": "离为火",
+     "bian_gua": "火山旅",
+     "moving_lines": "（静卦变旅由二爻子孙丑土动？卦盘动爻标记未全辨）",
+     "chart_lines_top_to_bottom": [
+      "白虎 兄弟巳火 世",
+      "螣蛇 子孙未土",
+      "勾陈 妻财酉金",
+      "朱雀 官鬼亥水 应",
+      "青龙 子孙丑土",
+      "玄武 父母卯木"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：预测是正确的，蛇没有出现",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "anchor_presence": "partial",
+   "anchor_missing": "动爻标记未全辨",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-030",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第五章 应期例二（印刷p81）",
+   "input_fields": {
+    "question": "五十岁左右男子问婚姻（断其结婚与妻私奔年份）",
+    "asked_at": "1995年11月7日（乙亥年丙戌月壬寅日）",
+    "chart": {
+     "ben_gua": "风雷益",
+     "bian_gua": "风泽中孚",
+     "moving_lines": "二爻兄弟寅木×独发",
+     "chart_lines_top_to_bottom": [
+      "白虎 兄弟卯木 应",
+      "螣蛇 子孙巳火",
+      "勾陈 妻财未土",
+      "朱雀 妻财辰土 世",
+      "青龙 兄弟寅木×",
+      "玄武 父母子水"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况（推断果然应验）：其于1982年结婚；妻子于1988年与人私奔",
+   "outcome_type": "retrodiction",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-031",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第五章 应期例三（印刷p82）",
+   "input_fields": {
+    "question": "某女（1967年生）测何时成婚",
+    "asked_at": "1995年11月13日（乙亥年丁亥月戊申日）",
+    "chart": {
+     "ben_gua": "天泽履",
+     "bian_gua": "风天小畜",
+     "moving_lines": "四爻父母午火○、三爻兄弟丑土×",
+     "chart_lines_top_to_bottom": [
+      "朱雀 兄弟戌土",
+      "青龙 子孙申金 世",
+      "玄武 父母午火○",
+      "朱雀 兄弟丑土×",
+      "螣蛇 官鬼卯木 应",
+      "勾陈 父母巳火"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：本人喜欢一个男孩子，已确定恋爱关系，但遭到父母和姐妹们反对，嫌对方工资低；后与其分手，父母做主于1996年巳月和另一男的结婚",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-032",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第五章 应期例四（印刷p83-84）",
+   "input_fields": {
+    "question": "年近四十男子求测夫妻缘分",
+    "asked_at": "1995年12月26日（乙亥年戊子月辛卯日）",
+    "chart": {
+     "ben_gua": "雷山小过",
+     "bian_gua": "雷风恒",
+     "moving_lines": "二爻官鬼午火×独发",
+     "chart_lines_top_to_bottom": [
+      "螣蛇 父母戌土",
+      "勾陈 兄弟申金",
+      "朱雀 官鬼午火 世",
+      "青龙 兄弟申金",
+      "玄武 官鬼午火×",
+      "白虎 父母辰土 应"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：此男子的老婆在歌舞团工作，长得又高又漂亮，二人在1982年结婚；因感情破裂，于1992年离异，赔偿了八万元",
+   "outcome_type": "retrodiction",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-033",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第五章 应期例五（印刷p85）",
+   "input_fields": {
+    "question": "某女（1964年生）测夫妻缘分",
+    "asked_at": "1996年3月8日（丙子年辛卯月甲寅日）",
+    "chart": {
+     "ben_gua": "风水涣",
+     "bian_gua": "巽为风",
+     "moving_lines": "三爻兄弟午火×独发",
+     "chart_lines_top_to_bottom": [
+      "玄武 父母卯木",
+      "白虎 兄弟巳火 世",
+      "勾陈 子孙未土",
+      "朱雀 兄弟午火×",
+      "青龙 子孙辰土 应",
+      "玄武 父母寅木"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：此女1992年与一个老家的邻居结婚，对方是个二婚；后夫妻不和，于1994年离婚",
+   "outcome_type": "retrodiction",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-034",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第五章 应期例六（印刷p86-87）",
+   "input_fields": {
+    "question": "某男测何时结婚",
+    "asked_at": "1996年11月4日（丙子年戊戌月乙巳日）",
+    "chart": {
+     "ben_gua": "风泽中孚",
+     "bian_gua": "水雷屯",
+     "moving_lines": "上爻官鬼卯木○、二爻官鬼卯木○",
+     "chart_lines_top_to_bottom": [
+      "玄武 官鬼卯木○",
+      "白虎 父母巳火",
+      "螣蛇 兄弟未土 世",
+      "勾陈 兄弟丑土",
+      "朱雀 官鬼卯木○",
+      "青龙 父母巳火 应"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：该人1995年曾有过一个恋人，处了两个月就被对方甩掉；1999年开始第三次恋爱，二人一见钟情同居在一起，辛巳年（2001年）发现怀孕，慌忙举行了婚礼，同年十一月生下一个女儿",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-035",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第八章 例一（印刷p131-132）",
+   "input_fields": {
+    "question": "某男结婚六年妻子一直未孕，测何时有孩子",
+    "asked_at": "乙亥年癸未月乙巳日",
+    "chart": {
+     "ben_gua": "泽风大过",
+     "bian_gua": "雷山小过",
+     "moving_lines": "五爻官鬼酉金○、二爻父母亥水○",
+     "chart_lines_top_to_bottom": [
+      "玄武 妻财未土",
+      "白虎 官鬼酉金○",
+      "螣蛇 父母亥水 世",
+      "勾陈 官鬼酉金",
+      "朱雀 父母亥水○",
+      "青龙 妻财丑土 应"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：其妻1999年怀孕，但不久流产；2000年再一次怀孕，于2001年辰月生下一个男孩",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-036",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第八章 例四（印刷p133-134）",
+   "input_fields": {
+    "question": "广东某女测什么时候能有孩子",
+    "asked_at": "庚辰年丁亥月己卯日",
+    "chart": {
+     "ben_gua": "风水涣",
+     "bian_gua": "天雷无妄",
+     "moving_lines": "四爻子孙未土×独发",
+     "chart_lines_top_to_bottom": [
+      "勾陈 父母卯木",
+      "朱雀 兄弟巳火 世",
+      "青龙 子孙未土×",
+      "玄武 兄弟午火",
+      "白虎 子孙辰土 应",
+      "螣蛇 父母寅木"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：她和丈夫一起到医院检查，查得丈夫小时候睾丸受过伤，精子成活不了，无法使她怀孕",
+   "outcome_type": "retrodiction",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-037",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第八章 例五（印刷p134）",
+   "input_fields": {
+    "question": "某女测生孩子（断产期与性别）",
+    "asked_at": "乙亥年庚辰月庚寅日",
+    "chart": {
+     "ben_gua": "火地晋",
+     "bian_gua": "火泽睽",
+     "moving_lines": "三爻官鬼巳火×、初爻父母未土×应",
+     "chart_lines_top_to_bottom": [
+      "螣蛇 官鬼巳火",
+      "勾陈 父母未土",
+      "朱雀 兄弟酉金 世",
+      "青龙 妻财卯木",
+      "玄武 官鬼巳火×",
+      "白虎 父母未土× 应"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：六月十五日（午月丁丑日）子时，生一女孩",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-038",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第八章 例六（印刷p135-136）",
+   "input_fields": {
+    "question": "某女测生孩子吉凶和性别",
+    "asked_at": "乙亥年甲申月丙申日",
+    "chart": {
+     "ben_gua": "山风蛊",
+     "bian_gua": "地风升",
+     "moving_lines": "上爻兄弟寅木○独发",
+     "chart_lines_top_to_bottom": [
+      "青龙 兄弟寅木○",
+      "玄武 父母子水",
+      "白虎 妻财戌土",
+      "螣蛇 官鬼酉金 世",
+      "勾陈 父母亥水",
+      "朱雀 妻财丑土 应"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：一九九六年二月五日刚交节令第二天，生了个男孩，生时难产",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-039",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第八章 例七（印刷p136）",
+   "input_fields": {
+    "question": "某女测生孩子",
+    "asked_at": "丁丑年甲辰月丁丑日",
+    "chart": {
+     "ben_gua": "山雷颐",
+     "bian_gua": "",
+     "moving_lines": "静卦（子孙巳火伏五爻父母子水下）",
+     "chart_lines_top_to_bottom": [
+      "青龙 兄弟寅木",
+      "玄武 父母子水",
+      "白虎 妻财戌土 世",
+      "螣蛇 妻财辰土",
+      "勾陈 兄弟寅木",
+      "朱雀 父母子水 应"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：本月庚子日巳时安全生下一女孩（应子孙胎日及用神伏藏出现之时）",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-040",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第八章 例八（印刷p137）",
+   "input_fields": {
+    "question": "某男测侄女生孩子以及小孩的吉凶",
+    "asked_at": "戊寅年己未月癸亥日",
+    "chart": {
+     "ben_gua": "地雷复",
+     "bian_gua": "地山谦",
+     "moving_lines": "三爻兄弟辰土×、初爻妻财子水○世",
+     "chart_lines_top_to_bottom": [
+      "白虎 子孙酉金",
+      "螣蛇 妻财亥水",
+      "勾陈 兄弟丑土 应",
+      "朱雀 兄弟辰土×",
+      "青龙 官鬼寅木",
+      "玄武 妻财子水○ 世"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：此人侄女于当月辛未日生了一个女孩，生时难产（应子孙养地）",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-041",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第八章 例九（印刷p137-138）",
+   "input_fields": {
+    "question": "某男测妻子生孩子",
+    "asked_at": "丙子年癸巳月己酉日",
+    "chart": {
+     "ben_gua": "泽地萃",
+     "bian_gua": "泽山咸",
+     "moving_lines": "三爻妻财卯木×独发",
+     "chart_lines_top_to_bottom": [
+      "勾陈 父母未土",
+      "朱雀 兄弟酉金 应",
+      "青龙 子孙亥水",
+      "玄武 妻财卯木×",
+      "白虎 官鬼巳火 世",
+      "螣蛇 父母未土"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况（判断内嵌）：亥月乙卯日剖腹产生下一个男孩",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-042",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第八章 例十（印刷p138）",
+   "input_fields": {
+    "question": "某男问妻子已怀孕五个月胎儿不见动静，何时胎动",
+    "asked_at": "丙子年甲午月壬寅日",
+    "chart": {
+     "ben_gua": "坤为地",
+     "bian_gua": "地雷复",
+     "moving_lines": "初爻兄弟未土×独发",
+     "chart_lines_top_to_bottom": [
+      "白虎 子孙酉金 世",
+      "螣蛇 妻财亥水",
+      "勾陈 兄弟丑土",
+      "朱雀 官鬼卯木 应",
+      "青龙 父母巳火",
+      "玄武 兄弟未土×"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：果如所测，未月胎动",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-043",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第八章 例十一（印刷p139）",
+   "input_fields": {
+    "question": "某男怀疑同居女友怀孕，测是否怀孕",
+    "asked_at": "丙子年己亥月己巳日",
+    "chart": {
+     "ben_gua": "地风升",
+     "bian_gua": "雷天大壮",
+     "moving_lines": "四爻妻财丑土×世",
+     "chart_lines_top_to_bottom": [
+      "勾陈 官鬼酉金",
+      "朱雀 父母亥水",
+      "青龙 妻财丑土× 世",
+      "玄武 官鬼酉金",
+      "白虎 父母亥水",
+      "螣蛇 妻财丑土 应"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：到医院检查发现怀孕，二人没有打算马上结婚，于是做了流产手术",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-044",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第八章 例十二（印刷p140）",
+   "input_fields": {
+    "question": "某男测妻子第三胎是男是女（前已生两女）",
+    "asked_at": "辛巳年庚寅月丙午日",
+    "chart": {
+     "ben_gua": "山地剥",
+     "bian_gua": "泽水困",
+     "moving_lines": "上爻妻财寅木○、五爻子孙子水×世、四爻父母戌土×、二爻官鬼巳火×应",
+     "chart_lines_top_to_bottom": [
+      "青龙 妻财寅木○",
+      "玄武 子孙子水× 世",
+      "白虎 父母戌土×",
+      "螣蛇 妻财卯木",
+      "勾陈 官鬼巳火× 应",
+      "朱雀 父母未土"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：于子月丁未日生下一个女孩",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-045",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第九章 一日例二（印刷p145）",
+   "input_fields": {
+    "question": "测第二天日本股票尼森（音译名）的价格变化",
+    "asked_at": "戌月丙寅日",
+    "chart": {
+     "ben_gua": "火泽睽",
+     "bian_gua": "火水未济",
+     "moving_lines": "初爻父母巳火○应（用神妻财子水伏五爻兄弟未土下）",
+     "chart_lines_top_to_bottom": [
+      "青龙 父母巳火",
+      "玄武 兄弟未土",
+      "白虎 子孙酉金 世",
+      "螣蛇 兄弟丑土",
+      "勾陈 官鬼卯木",
+      "朱雀 父母巳火○ 应"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：第二天尼森股票从三百四十五日元下跌到三百三十九日元",
+   "outcome_type": "forward",
+   "pollution": "mid",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）",
+   "pollution_note": "地震、尼森股票等系列为王虎应流传较广的名案，网络多有转载，污染从严定mid"
+  },
+  {
+   "provisional_id": "WHY-046",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第九章 一日例三（印刷p146）",
+   "input_fields": {
+    "question": "测第二天日本股票尼森（音译名）的价格变化",
+    "asked_at": "戌月丁卯日",
+    "chart": {
+     "ben_gua": "兑为泽",
+     "bian_gua": "地泽临",
+     "moving_lines": "五爻兄弟酉金○、四爻子孙亥水○",
+     "chart_lines_top_to_bottom": [
+      "青龙 父母未土 世",
+      "玄武 兄弟酉金○",
+      "白虎 子孙亥水○",
+      "螣蛇 父母丑土 应",
+      "勾陈 妻财卯木",
+      "朱雀 官鬼巳火"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：第二日尼森股票从三百三十九日元下跌到三百三十八日元",
+   "outcome_type": "forward",
+   "pollution": "mid",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）",
+   "pollution_note": "地震、尼森股票等系列为王虎应流传较广的名案，网络多有转载，污染从严定mid"
+  },
+  {
+   "provisional_id": "WHY-047",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第九章 一日例四（印刷p146）",
+   "input_fields": {
+    "question": "测第二日尼森股票的变化情况",
+    "asked_at": "戌月戊辰日",
+    "chart": {
+     "ben_gua": "风天小畜",
+     "bian_gua": "",
+     "moving_lines": "静卦（用神取月破之妻财辰土）",
+     "chart_lines_top_to_bottom": [
+      "朱雀 兄弟卯木",
+      "青龙 子孙巳火",
+      "玄武 妻财未土 应",
+      "白虎 妻财辰土",
+      "螣蛇 兄弟寅木",
+      "勾陈 父母子水 世"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：第二天尼森股票从三百三十八日元下跌到三百三十五日元",
+   "outcome_type": "forward",
+   "pollution": "mid",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）",
+   "pollution_note": "地震、尼森股票等系列为王虎应流传较广的名案，网络多有转载，污染从严定mid"
+  },
+  {
+   "provisional_id": "WHY-048",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第九章 一日例五（印刷p147）",
+   "input_fields": {
+    "question": "测第二天日本股票尼森（音译名）的价格变化",
+    "asked_at": "戌月辛未日",
+    "chart": {
+     "ben_gua": "雷火丰",
+     "bian_gua": "雷山小过",
+     "moving_lines": "初爻子孙卯木○独发",
+     "chart_lines_top_to_bottom": [
+      "勾陈 官鬼戌土",
+      "朱雀 父母申金 世",
+      "青龙 妻财午火",
+      "玄武 兄弟亥水",
+      "白虎 官鬼丑土 应",
+      "螣蛇 子孙卯木○"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：第二天尼森股票仍为三百三十五日元，没有变化",
+   "outcome_type": "forward",
+   "pollution": "mid",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）",
+   "pollution_note": "地震、尼森股票等系列为王虎应流传较广的名案，网络多有转载，污染从严定mid"
+  },
+  {
+   "provisional_id": "WHY-049",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第九章 一日例六（印刷p148）",
+   "input_fields": {
+    "question": "森田先生摇卦测尼森股票第二天的变化情况",
+    "asked_at": "戌月辛未日",
+    "chart": {
+     "ben_gua": "兑为泽",
+     "bian_gua": "地泽临",
+     "moving_lines": "上爻父母未土×世、三爻父母丑土×应",
+     "chart_lines_top_to_bottom": [
+      "青龙 父母未土× 世",
+      "玄武 兄弟酉金",
+      "白虎 子孙亥水",
+      "螣蛇 父母丑土× 应",
+      "勾陈 妻财卯木",
+      "朱雀 官鬼巳火"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：价位保持在三百三十五日元，没有变化",
+   "outcome_type": "forward",
+   "pollution": "mid",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）",
+   "pollution_note": "地震、尼森股票等系列为王虎应流传较广的名案，网络多有转载，污染从严定mid"
+  },
+  {
+   "provisional_id": "WHY-050",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第九章 一日例七（印刷p148-149）",
+   "input_fields": {
+    "question": "测第二天尼森股票变化情况",
+    "asked_at": "戌月壬申日",
+    "chart": {
+     "ben_gua": "山水蒙",
+     "bian_gua": "",
+     "moving_lines": "静卦（妻财酉金伏四爻子孙戌土下）",
+     "chart_lines_top_to_bottom": [
+      "父母寅木",
+      "官鬼子水",
+      "子孙戌土 世（下伏妻财酉金）",
+      "兄弟午火",
+      "子孙辰土",
+      "父母寅木 应"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：尼森股票从三百三十五日元升到三百四十日元",
+   "outcome_type": "forward",
+   "pollution": "mid",
+   "anchor_presence": "partial",
+   "anchor_missing": "卦盘六神列未辨出",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）",
+   "pollution_note": "地震、尼森股票等系列为王虎应流传较广的名案，网络多有转载，污染从严定mid"
+  },
+  {
+   "provisional_id": "WHY-051",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第九章 一日例八（印刷p149）",
+   "input_fields": {
+    "question": "测第二天尼森股票变化情况",
+    "asked_at": "戌月癸酉日",
+    "chart": {
+     "ben_gua": "乾为天",
+     "bian_gua": "天风姤",
+     "moving_lines": "初爻子孙子水○独发",
+     "chart_lines_top_to_bottom": [
+      "父母戌土 世",
+      "兄弟申金",
+      "官鬼午火",
+      "父母辰土 应",
+      "妻财寅木",
+      "子孙子水○"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：第二天尼森股票从三百四十日元跌到三百三十五日元",
+   "outcome_type": "forward",
+   "pollution": "mid",
+   "anchor_presence": "partial",
+   "anchor_missing": "卦盘六神列未辨出",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）",
+   "pollution_note": "地震、尼森股票等系列为王虎应流传较广的名案，网络多有转载，污染从严定mid"
+  },
+  {
+   "provisional_id": "WHY-052",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第九章 一日例九（印刷p149-150）",
+   "input_fields": {
+    "question": "测第二天尼森股票变化情况",
+    "asked_at": "亥月甲戌日",
+    "chart": {
+     "ben_gua": "火地晋",
+     "bian_gua": "天水讼",
+     "moving_lines": "五爻父母未土×、三爻官鬼巳火×",
+     "chart_lines_top_to_bottom": [
+      "勾陈 官鬼巳火",
+      "朱雀 父母未土×",
+      "青龙 兄弟酉金 世",
+      "玄武 妻财卯木",
+      "白虎 官鬼巳火×",
+      "螣蛇 父母未土 应"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：尼森股票从三百三十五日元跌到了三百二十七日元",
+   "outcome_type": "forward",
+   "pollution": "mid",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）",
+   "pollution_note": "地震、尼森股票等系列为王虎应流传较广的名案，网络多有转载，污染从严定mid"
+  },
+  {
+   "provisional_id": "WHY-053",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第九章 一日例十（印刷p150）",
+   "input_fields": {
+    "question": "测次日尼森股票变化情况",
+    "asked_at": "亥月乙亥日",
+    "chart": {
+     "ben_gua": "山水蒙",
+     "bian_gua": "震为雷（原文作艮为雷/震为雷，卦名有一字未全辨）",
+     "moving_lines": "上爻父母寅木○、四爻子孙戌土×世、三爻子孙辰土○、初爻父母寅木×应",
+     "chart_lines_top_to_bottom": [
+      "父母寅木○",
+      "官鬼子水",
+      "子孙戌土× 世（下伏妻财酉金）",
+      "兄弟午火",
+      "子孙辰土○",
+      "父母寅木× 应"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：股票没有涨跌",
+   "outcome_type": "forward",
+   "pollution": "mid",
+   "anchor_presence": "partial",
+   "anchor_missing": "变卦名一字未全辨、六神列未辨出",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）",
+   "pollution_note": "地震、尼森股票等系列为王虎应流传较广的名案，网络多有转载，污染从严定mid"
+  },
+  {
+   "provisional_id": "WHY-054",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第九章 一日例十一（印刷p151）",
+   "input_fields": {
+    "question": "测次日尼森股票变化情况",
+    "asked_at": "亥月壬午日",
+    "chart": {
+     "ben_gua": "泽风大过",
+     "bian_gua": "泽水困",
+     "moving_lines": "（用神妻财子水伏五爻子孙申金下；动爻标记未全辨）",
+     "chart_lines_top_to_bottom": [
+      "兄弟戌土",
+      "子孙申金 世",
+      "父母午火",
+      "兄弟丑土",
+      "官鬼卯木 应",
+      "父母巳火"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：尼森股票从一千四百一十日元下跌到一千四百零八日元",
+   "outcome_type": "forward",
+   "pollution": "mid",
+   "anchor_presence": "partial",
+   "anchor_missing": "动爻标记与六神列未全辨",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）",
+   "pollution_note": "地震、尼森股票等系列为王虎应流传较广的名案，网络多有转载，污染从严定mid"
+  },
+  {
+   "provisional_id": "WHY-055",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第九章 一日例十二（印刷p151）",
+   "input_fields": {
+    "question": "测次日尼森股票变化情况",
+    "asked_at": "辰月癸丑日",
+    "chart": {
+     "ben_gua": "天泽履",
+     "bian_gua": "",
+     "moving_lines": "静卦（官鬼酉金独发于三爻，原文标记）",
+     "chart_lines_top_to_bottom": [
+      "妻财未土",
+      "官鬼酉金",
+      "父母亥水 世",
+      "官鬼酉金○",
+      "父母亥水",
+      "妻财丑土 应"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：尼森股票从三百十二日元下跌到三百零七日元",
+   "outcome_type": "forward",
+   "pollution": "mid",
+   "anchor_presence": "partial",
+   "anchor_missing": "六神列未辨出",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）",
+   "pollution_note": "地震、尼森股票等系列为王虎应流传较广的名案，网络多有转载，污染从严定mid"
+  },
+  {
+   "provisional_id": "WHY-056",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第九章 一日例十三（印刷p152）",
+   "input_fields": {
+    "question": "测本日尼森股票变化情况",
+    "asked_at": "辰月乙卯日",
+    "chart": {
+     "ben_gua": "水风井",
+     "bian_gua": "天水讼",
+     "moving_lines": "上爻父母子水×、四爻官鬼申金×、三爻官鬼酉金○",
+     "chart_lines_top_to_bottom": [
+      "父母子水×",
+      "妻财戌土 世",
+      "官鬼申金×",
+      "官鬼酉金○",
+      "父母亥水 应",
+      "妻财丑土"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：股票从一千四百零八日元下跌到一千三百六十八日元",
+   "outcome_type": "forward",
+   "pollution": "mid",
+   "anchor_presence": "partial",
+   "anchor_missing": "六神列未辨出",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）",
+   "pollution_note": "地震、尼森股票等系列为王虎应流传较广的名案，网络多有转载，污染从严定mid"
+  },
+  {
+   "provisional_id": "WHY-057",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第九章 一日例十四（印刷p152）",
+   "input_fields": {
+    "question": "测本日尼森股票变化情况",
+    "asked_at": "辰月丙辰日",
+    "chart": {
+     "ben_gua": "水泽节",
+     "bian_gua": "水地比",
+     "moving_lines": "二爻子孙卯木○、初爻妻财巳火○世",
+     "chart_lines_top_to_bottom": [
+      "兄弟子水",
+      "官鬼戌土",
+      "父母申金 应",
+      "官鬼丑土",
+      "子孙卯木○",
+      "妻财巳火○ 世"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：尼森股票从一千三百六十八日元涨到一千三百九十九日元",
+   "outcome_type": "forward",
+   "pollution": "mid",
+   "anchor_presence": "partial",
+   "anchor_missing": "六神列未辨出",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）",
+   "pollution_note": "地震、尼森股票等系列为王虎应流传较广的名案，网络多有转载，污染从严定mid"
+  },
+  {
+   "provisional_id": "WHY-058",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第九章 一日例十五（印刷p153）",
+   "input_fields": {
+    "question": "测当日新日铁股票变化情况",
+    "asked_at": "亥月己卯日",
+    "chart": {
+     "ben_gua": "雷水解",
+     "bian_gua": "雷风恒",
+     "moving_lines": "三爻子孙午火×",
+     "chart_lines_top_to_bottom": [
+      "妻财戌土",
+      "官鬼申金 应",
+      "子孙午火",
+      "子孙午火×",
+      "妻财辰土 世",
+      "兄弟寅木"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：下跌五日元",
+   "outcome_type": "forward",
+   "pollution": "mid",
+   "anchor_presence": "partial",
+   "anchor_missing": "六神列未辨出；结局仅记跌幅未记基价",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）",
+   "pollution_note": "地震、尼森股票等系列为王虎应流传较广的名案，网络多有转载，污染从严定mid"
+  },
+  {
+   "provisional_id": "WHY-059",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第九章 一周例一（印刷p154）",
+   "input_fields": {
+    "question": "测下周尼森股票变化（逐日断涨跌）",
+    "asked_at": "戌月己巳日",
+    "chart": {
+     "ben_gua": "坎为水",
+     "bian_gua": "水地比",
+     "moving_lines": "二爻官鬼辰土○独发",
+     "chart_lines_top_to_bottom": [
+      "兄弟子水 世",
+      "官鬼戌土",
+      "父母申金",
+      "妻财午火 应",
+      "官鬼辰土○",
+      "子孙寅木"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：星期一壬申日，股票持续在三百三十五日元没有变化；星期二癸酉日，从三百三十五日元上升到三百四十日元；星期三甲戌日，从三百四十日元下降到三百三十五日元；星期四乙亥日，从三百三十五日元下降到三百二十七日元；星期五丙子日，股票没有变化",
+   "outcome_type": "forward",
+   "pollution": "mid",
+   "anchor_presence": "partial",
+   "anchor_missing": "六神列未辨出",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）",
+   "pollution_note": "地震、尼森股票等系列为王虎应流传较广的名案，网络多有转载，污染从严定mid"
+  },
+  {
+   "provisional_id": "WHY-060",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第九章 一周例二（印刷p155-156）",
+   "input_fields": {
+    "question": "测本周尼森股票变化情况（逐日断涨跌）",
+    "asked_at": "子月甲寅日",
+    "chart": {
+     "ben_gua": "风雷益",
+     "bian_gua": "天火同人",
+     "moving_lines": "四爻妻财未土×、三爻妻财辰土×世",
+     "chart_lines_top_to_bottom": [
+      "兄弟卯木 应",
+      "子孙巳火",
+      "妻财未土×",
+      "妻财辰土× 世",
+      "兄弟寅木",
+      "父母子水"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：星期一甲寅，股票从四百六十四日元下跌到四百四十四日元；星期二乙卯，从四百四十四日元下跌到四百二十日元；星期三丙辰，继续下跌（至四百日元一带）；星期四丁巳，上升到四百零四日元；星期五戊午，从四百零四日元下跌到三百九十四日元（周三、周四个别数字扫描辨认置信度中）",
+   "outcome_type": "forward",
+   "pollution": "mid",
+   "anchor_presence": "partial",
+   "anchor_missing": "六神列未辨出；应验数字两处辨认置信度中",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）",
+   "pollution_note": "地震、尼森股票等系列为王虎应流传较广的名案，网络多有转载，污染从严定mid"
+  },
+  {
+   "provisional_id": "WHY-061",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第九章 一周例三（印刷p156）",
+   "input_fields": {
+    "question": "预测山西汾酒股票一周的涨跌情况（逐日断）",
+    "asked_at": "申月己亥日",
+    "chart": {
+     "ben_gua": "火泽睽",
+     "bian_gua": "雷泽归妹",
+     "moving_lines": "上爻父母巳火○独发",
+     "chart_lines_top_to_bottom": [
+      "父母巳火○",
+      "兄弟未土",
+      "子孙酉金 世",
+      "兄弟丑土",
+      "官鬼卯木",
+      "父母巳火 应"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：星期一，股票从六点七元升到七点零二元；星期二，从七点零二元升到七点一五元；星期三，从七点一五元跌到七点一四元；星期四，从七点一四元跌到七点一三元；星期五，从七点一三元跌到七点一零元",
+   "outcome_type": "forward",
+   "pollution": "mid",
+   "anchor_presence": "partial",
+   "anchor_missing": "六神列未辨出",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）",
+   "pollution_note": "地震、尼森股票等系列为王虎应流传较广的名案，网络多有转载，污染从严定mid"
+  },
+  {
+   "provisional_id": "WHY-062",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第九章 一周例四（印刷p157-158）",
+   "input_fields": {
+    "question": "预测下周汾酒股票变化情况（逐日断）",
+    "asked_at": "申月癸卯日",
+    "chart": {
+     "ben_gua": "乾为天",
+     "bian_gua": "天风姤",
+     "moving_lines": "初爻子孙子水○独发",
+     "chart_lines_top_to_bottom": [
+      "父母戌土 世",
+      "兄弟申金",
+      "官鬼午火",
+      "父母辰土 应",
+      "妻财寅木",
+      "子孙子水○"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：星期一，股票从七元升到七点一一元；星期二，从七点一一元升到七点六二元；星期三，从七点六二元跌到七点五三元；星期四，从七点五三元跌到七点五零元；星期五，从七点五零元跌到七点四八元",
+   "outcome_type": "forward",
+   "pollution": "mid",
+   "anchor_presence": "partial",
+   "anchor_missing": "六神列未辨出",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）",
+   "pollution_note": "地震、尼森股票等系列为王虎应流传较广的名案，网络多有转载，污染从严定mid"
+  },
+  {
+   "provisional_id": "WHY-063",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第九章 买卖例一（印刷p158）",
+   "input_fields": {
+    "question": "测购得的股票什么时候卖出最好",
+    "asked_at": "申月甲午日",
+    "chart": {
+     "ben_gua": "泽水困",
+     "bian_gua": "坎为水",
+     "moving_lines": "四爻子孙亥水○应",
+     "chart_lines_top_to_bottom": [
+      "父母未土",
+      "兄弟酉金",
+      "子孙亥水○ 应",
+      "官鬼午火",
+      "父母辰土",
+      "妻财寅木 世"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：从第二天开始股票出现下跌，一路走低",
+   "outcome_type": "forward",
+   "pollution": "mid",
+   "anchor_presence": "partial",
+   "anchor_missing": "六神列未辨出；结局为方向性记录无数字",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）",
+   "pollution_note": "地震、尼森股票等系列为王虎应流传较广的名案，网络多有转载，污染从严定mid"
+  },
+  {
+   "provisional_id": "WHY-064",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第九章 买卖例二（印刷p159-160）",
+   "input_fields": {
+    "question": "测手中的股票何时卖出为佳",
+    "asked_at": "子月庚辰日",
+    "chart": {
+     "ben_gua": "火雷噬嗑",
+     "bian_gua": "雷火丰",
+     "moving_lines": "上爻子孙巳火○、三爻妻财辰土×",
+     "chart_lines_top_to_bottom": [
+      "子孙巳火○",
+      "妻财未土 世",
+      "官鬼酉金",
+      "妻财辰土×",
+      "兄弟寅木 应",
+      "父母子水"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：此人当日以五点四十元的价格卖出获利；此后股票下跌到四元多，一直没有升高等",
+   "outcome_type": "forward",
+   "pollution": "mid",
+   "anchor_presence": "partial",
+   "anchor_missing": "六神列未辨出",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）",
+   "pollution_note": "地震、尼森股票等系列为王虎应流传较广的名案，网络多有转载，污染从严定mid"
+  },
+  {
+   "provisional_id": "WHY-065",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第九章 买卖例三（印刷p160）",
+   "input_fields": {
+    "question": "一人测购买某股票什么时间买入最好",
+    "asked_at": "戌月乙酉日",
+    "chart": {
+     "ben_gua": "泽水困",
+     "bian_gua": "雷水解",
+     "moving_lines": "五爻兄弟酉金○独发",
+     "chart_lines_top_to_bottom": [
+      "父母未土",
+      "兄弟酉金○",
+      "子孙亥水 应",
+      "官鬼午火",
+      "父母辰土",
+      "妻财辰土 世"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：果如所测，股票在亥月上升，此人获利许多",
+   "outcome_type": "forward",
+   "pollution": "mid",
+   "anchor_presence": "partial",
+   "anchor_missing": "六神列未辨出；结局为方向性记录",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）",
+   "pollution_note": "地震、尼森股票等系列为王虎应流传较广的名案，网络多有转载，污染从严定mid"
+  },
+  {
+   "provisional_id": "WHY-066",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第九章 买卖例四（印刷p160）",
+   "input_fields": {
+    "question": "一人测手中所持股票什么时候卖出为佳",
+    "asked_at": "戌月壬午日",
+    "chart": {
+     "ben_gua": "山天大畜",
+     "bian_gua": "乾为天",
+     "moving_lines": "五爻妻财子水×应、四爻兄弟戌土×",
+     "chart_lines_top_to_bottom": [
+      "官鬼寅木",
+      "妻财子水× 应",
+      "兄弟戌土×",
+      "兄弟辰土",
+      "官鬼寅木 世",
+      "妻财子水"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：此人甲申日以六点六元卖出获利；丙戌日开始股票下跌，再没有升到六元以上",
+   "outcome_type": "forward",
+   "pollution": "mid",
+   "anchor_presence": "partial",
+   "anchor_missing": "六神列未辨出",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）",
+   "pollution_note": "地震、尼森股票等系列为王虎应流传较广的名案，网络多有转载，污染从严定mid"
+  },
+  {
+   "provisional_id": "WHY-067",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第十一章 肿瘤例一（印刷p187）",
+   "input_fields": {
+    "question": "某男测父病（断癌种与凶年）",
+    "asked_at": "1995年子月壬午日",
+    "chart": {
+     "ben_gua": "水火既济",
+     "bian_gua": "风雷益",
+     "moving_lines": "上爻兄弟子水×应、三爻兄弟亥水○世",
+     "chart_lines_top_to_bottom": [
+      "白虎 兄弟子水× 应",
+      "螣蛇 官鬼戌土",
+      "勾陈 父母申金",
+      "朱雀 兄弟亥水○ 世",
+      "青龙 官鬼丑土",
+      "玄武 子孙卯木"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：其父于丙子年（1996年）巳月而亡（断为膀胱癌、用神逢死地之年必凶）",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-068",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第十一章 肿瘤例二（印刷p188）",
+   "input_fields": {
+    "question": "某女电话求测己病（作者代摇）",
+    "asked_at": "卯月甲申日",
+    "chart": {
+     "ben_gua": "泽山咸",
+     "bian_gua": "",
+     "moving_lines": "静卦",
+     "chart_lines_top_to_bottom": [
+      "玄武 父母未土 应",
+      "白虎 兄弟酉金",
+      "螣蛇 子孙亥水",
+      "勾陈 兄弟申金 世",
+      "朱雀 官鬼午火",
+      "青龙 父母辰土"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：果然在前一天（癸未日）腹痛，到医院查得为子宫瘤，后服中药而愈",
+   "outcome_type": "retrodiction",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-069",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第十一章 肿瘤例三（印刷p188）",
+   "input_fields": {
+    "question": "某男自测病（断癌种）",
+    "asked_at": "辰月庚戌日",
+    "chart": {
+     "ben_gua": "山火贲",
+     "bian_gua": "风雷益",
+     "moving_lines": "五爻妻财子水×、三爻妻财亥水○",
+     "chart_lines_top_to_bottom": [
+      "螣蛇 官鬼寅木",
+      "勾陈 妻财子水×",
+      "朱雀 兄弟戌土 应",
+      "青龙 妻财亥水○",
+      "玄武 兄弟丑土",
+      "白虎 官鬼卯木 世"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：果然是鼻癌，手术后正在维持中",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-070",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第十一章 肿瘤例四（印刷p189）",
+   "input_fields": {
+    "question": "测叔叔病之吉凶",
+    "asked_at": "庚辰年丑月丙申日",
+    "chart": {
+     "ben_gua": "地风升",
+     "bian_gua": "雷山小过",
+     "moving_lines": "四爻妻财丑土×世、二爻父母亥水○",
+     "chart_lines_top_to_bottom": [
+      "青龙 官鬼酉金",
+      "玄武 父母亥水",
+      "白虎 妻财丑土× 世",
+      "螣蛇 官鬼酉金",
+      "勾陈 父母亥水○",
+      "朱雀 妻财丑土 应"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：后因骨癌死于辛巳年寅月丙辰日",
+   "outcome_type": "forward",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  },
+  {
+   "provisional_id": "WHY-071",
+   "tradition": "liuyao",
+   "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第十一章 肿瘤例五（印刷p190）",
+   "input_fields": {
+    "question": "某男测母病（断癌种）",
+    "asked_at": "2001年酉月庚子日",
+    "chart": {
+     "ben_gua": "风泽中孚",
+     "bian_gua": "风水涣",
+     "moving_lines": "五爻父母巳火○应",
+     "chart_lines_top_to_bottom": [
+      "螣蛇 官鬼卯木",
+      "勾陈 父母巳火○ 应",
+      "朱雀 兄弟未土 世",
+      "青龙 兄弟丑土",
+      "玄武 官鬼卯木",
+      "白虎 父母巳火"
+     ]
+    }
+   },
+   "subject": "",
+   "outcome_record": "应验情况：其母果然是食道癌（最后结果如何，因没再见此人面，不得而知）",
+   "outcome_type": "retrodiction",
+   "pollution": "low",
+   "anchor_presence": "present",
+   "anchor_missing": "",
+   "dedup_check": "与已用901例并集id表、inputs-dev12全部224个LY题面（卦名+变卦+日期）及王虎应名案LY-102…LY-105逐项对勘：本变卦与占日组合无重合，非同案",
+   "transcription": "visual（扫描本多模态读图转录）"
+  }
+ ]
+}

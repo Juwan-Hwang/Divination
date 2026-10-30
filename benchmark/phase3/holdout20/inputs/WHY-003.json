@@ -1,0 +1,25 @@
+{
+  "id": "WHY-003",
+  "tradition": "liuyao",
+  "subject": "求测者（台账 subject 为空、原书未具名）",
+  "context": "占时：酉月庚戌日；《六爻分类占验技法》分类占验例",
+  "question": "测次日天气",
+  "setting": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第一章「父母也有雾」例一（印刷p12-14）",
+  "provenance": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第一章「父母也有雾」例一（印刷p12-14）；底本为用户经学校图书馆提供之扫描本，redistributable=false",
+  "redistributable": false,
+  "license_status": "现代版权文本（扫描本），内部研究用",
+  "anchors": {
+    "asked_at": "酉月庚戌日",
+    "ben_gua": "山天遁",
+    "bian_gua": "离为火",
+    "moving_lines": "上爻父母辰土×动、二爻兄弟申金○动",
+    "chart_lines_top_to_bottom": [
+      "螣蛇 父母戌土",
+      "勾陈 兄弟申金○ 应",
+      "朱雀 官鬼午火",
+      "青龙 兄弟申金",
+      "玄武 官鬼午火 世",
+      "白虎 父母辰土×"
+    ]
+  }
+}
