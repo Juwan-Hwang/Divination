@@ -1,0 +1,60 @@
+{
+ "batches": {
+  "H1": [
+   "YB-021",
+   "YB-006",
+   "YB-018",
+   "YB-010",
+   "YB-017",
+   "YB-011",
+   "ZG-001",
+   "YB-009",
+   "YB-008",
+   "ZG-002",
+   "YB-020",
+   "ZG-003",
+   "YB-016"
+  ],
+  "H2": [
+   "YB-014",
+   "YB-001",
+   "YB-012",
+   "YB-013",
+   "YB-002",
+   "YB-015",
+   "YB-005",
+   "YB-019",
+   "YB-004",
+   "YB-003",
+   "YB-007",
+   "YB-022"
+  ]
+ },
+ "input_paths": {
+  "YB-014": "benchmark/phase3/expansion10/yilin-buyi-zongduan/inputs/YB-014.json",
+  "YB-015": "benchmark/phase3/expansion10/yilin-buyi-zongduan/inputs/YB-015.json",
+  "YB-016": "benchmark/phase3/expansion10/yilin-buyi-zongduan/inputs/YB-016.json",
+  "YB-017": "benchmark/phase3/expansion10/yilin-buyi-zongduan/inputs/YB-017.json",
+  "YB-018": "benchmark/phase3/expansion10/yilin-buyi-zongduan/inputs/YB-018.json",
+  "YB-019": "benchmark/phase3/expansion10/yilin-buyi-zongduan/inputs/YB-019.json",
+  "YB-020": "benchmark/phase3/expansion10/yilin-buyi-zongduan/inputs/YB-020.json",
+  "YB-021": "benchmark/phase3/expansion10/yilin-buyi-zongduan/inputs/YB-021.json",
+  "YB-022": "benchmark/phase3/expansion10/yilin-buyi-zongduan/inputs/YB-022.json",
+  "YB-001": "benchmark/phase3/expansion10/yilin-buyi/inputs/YB-001.json",
+  "YB-002": "benchmark/phase3/expansion10/yilin-buyi/inputs/YB-002.json",
+  "YB-003": "benchmark/phase3/expansion10/yilin-buyi/inputs/YB-003.json",
+  "YB-004": "benchmark/phase3/expansion10/yilin-buyi/inputs/YB-004.json",
+  "YB-005": "benchmark/phase3/expansion10/yilin-buyi/inputs/YB-005.json",
+  "YB-006": "benchmark/phase3/expansion10/yilin-buyi/inputs/YB-006.json",
+  "YB-007": "benchmark/phase3/expansion10/yilin-buyi/inputs/YB-007.json",
+  "YB-008": "benchmark/phase3/expansion10/yilin-buyi/inputs/YB-008.json",
+  "YB-009": "benchmark/phase3/expansion10/yilin-buyi/inputs/YB-009.json",
+  "YB-010": "benchmark/phase3/expansion10/yilin-buyi/inputs/YB-010.json",
+  "YB-011": "benchmark/phase3/expansion10/yilin-buyi/inputs/YB-011.json",
+  "YB-012": "benchmark/phase3/expansion10/yilin-buyi/inputs/YB-012.json",
+  "YB-013": "benchmark/phase3/expansion10/yilin-buyi/inputs/YB-013.json",
+  "ZG-001": "benchmark/phase3/expansion11/bushi-zhengzong/inputs/ZG-001.json",
+  "ZG-002": "benchmark/phase3/expansion11/bushi-zhengzong/inputs/ZG-002.json",
+  "ZG-003": "benchmark/phase3/expansion11/bushi-zhengzong/inputs/ZG-003.json"
+ }
+}
