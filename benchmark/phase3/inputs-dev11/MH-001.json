@@ -1,0 +1,37 @@
+{
+ "id": "MH-001",
+ "system": "meihua",
+ "master": "邵雍（傳世文本托名）",
+ "era": "托名北宋（文本明代編集流傳）",
+ "subject": {
+  "name_or_desc": "占例所涉人/物（見 context）",
+  "gender": null
+ },
+ "context": {
+  "question": "觀梅占：二雀爭枝墜地，佔其兆",
+  "asked_at": "辰年十二月十七日申時",
+  "setting": "辰年十二月十七日申時，邵雍（康節先生）偶觀梅，見二雀爭枝墜地，曰「不動不占，不因事不占」而占之",
+  "attachments": {
+   "casting_method": "梅花易數（先天數/後天端法，詳見 method_detail）",
+   "method_detail": "年月日時起卦：辰年五數＋十二月十二數＋十七日十七數＝三十四，除八餘二屬兌為上卦；加申時九數總四十三，除八餘三為離作下卦；總數除六餘一為初爻動",
+   "hexagram": "澤火革，初爻動，變澤山咸；互見乾、巽"
+  }
+ },
+ "provenance": {
+  "book": "《梅花易數》",
+  "edition": "維基文库本",
+  "url": "https://zh.wikisource.org/wiki/梅花易數",
+  "page": "卷一·象數易理篇之二（占例）"
+ },
+ "license_status": "public-domain",
+ "redistributable": true,
+ "language": "zh-Hant",
+ "notes": {
+  "tags": [
+   "famous",
+   "disputed"
+  ],
+  "comment": "《梅花易數》托名宋·邵雍，邵雍真著無此書，通行本係後世（明）編集流傳；大師歸屬以傳世文本所題為準，出處真偽照實標注。 本例過於著名，模型可能已背誦，評分應降權。",
+  "cross_ref": null
+ }
+}

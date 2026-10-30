@@ -1,0 +1,65 @@
+{
+  "id": "LY-611",
+  "tradition": "六爻",
+  "subject": "弟被訟吉凶",
+  "context": {
+    "caster_or_relation": "一人",
+    "question": "占弟被訟吉凶",
+    "category": "官非",
+    "asked_at": "午月丁未日",
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": {
+      "original_name": "澤水困",
+      "changed_name": "雷風恆",
+      "palace": "兌宮",
+      "kongwang": "寅卯",
+      "chart_lines": [
+        "父母未土⚋　　父母戌土⚋",
+        "兄弟酉金○　　兄弟申金⚋",
+        "子孫亥水⚊應　官鬼午火⚊",
+        "官鬼午火ㄨ　　兄弟酉金⚊",
+        "父母辰土⚊　　子孫亥水⚊",
+        "妻財寅木⚋世　父母丑土⚋"
+      ],
+      "moving_lines": "三爻官鬼午火ㄨ動、五爻兄弟酉金○動",
+      "date_ganzhi": "午月丁未日"
+    }
+  },
+  "provenance": {
+    "work": "增刪卜易",
+    "edition": "維基文库本（錄入者整理本，未排版/未校對）",
+    "page": "卷之一·月將章第十六",
+    "url": "https://zh.wikisource.org/wiki/增刪卜易",
+    "language": "zh-Hant"
+  },
+  "language": "zh-Hant",
+  "notes": {
+    "completion_grade": {
+      "source_locator": "《增刪卜易》維基文库本（錄入者整理本，未排版/未校對）卷之一·月將章第十六；例首：「又如：午月丁未日占弟被訟吉凶得困卦變雷風恆卦」",
+      "fields": {
+        "palace": {
+          "grade": "推算复原",
+          "basis": "原書未另標宮名；由本卦「澤水困」按標準八宮定宮為兌宮（世在初爻、應在四爻，與原書裝卦表世應標記互證一致）。"
+        },
+        "kongwang": {
+          "grade": "推算复原",
+          "basis": "原書未另標空亡；由直載日干支「丁未」按旬空規則推得寅卯。"
+        },
+        "chart_lines": {
+          "grade": "直载",
+          "basis": "既有逐爻表本批回原書（維基文库本同章）裝卦表逐行核對一致，未改動一字；並經標準納甲引擎反驗全合。"
+        },
+        "moving_lines": {
+          "grade": "直载",
+          "basis": "原書裝卦表動爻記號（○/ㄨ）明載；並經本變卦爻象差復核一致。"
+        },
+        "date_ganzhi": {
+          "grade": "直载",
+          "basis": "原書例首明載「午月丁未」，定位：《增刪卜易》維基文库本（錄入者整理本，未排版/未校對）卷之一·月將章第十六；例首：「又如：午月丁未日占弟被訟吉凶得困卦變雷風恆卦」。與 inputs8 asked_at 一致，今按 inputs9 體例另立盤面日期鍵。"
+        }
+      },
+      "completed_by": "phase3 inputs10 C轨数据角补录（2026-10-30，LY-6xx组）",
+      "scope_note": "仅补 context.hexagram 盘面事实字段；题面文字与既有字段一字未改（LY-620/621 的 palace/kongwang 原为「原文未記」占位值，属补录本身改值，已逐项注明）。"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+ "id": "BQ-022",
+ "tradition": "六爻",
+ "subject": {
+  "name_or_desc": "注家本人所种棉花",
+  "gender": null
+ },
+ "context": {
+  "question": "卜棉花（棉作长势与天时）",
+  "asked_at": "丙子日",
+  "setting": "卜棉花（棉作长势与天时）",
+  "attachments": {
+   "casting_method": "六爻纳甲（原书只记月日与卦象，未记起卦工具）",
+   "hexagram": "无妄 之 讼",
+   "chart_excerpt": "原文：「得元妄之讼卦，应爻冲克世爻」——「元妄」为本版刻字，当作「无妄」",
+   "chart_complete": false,
+   "completeness_basis": "原文记本卦（刻作元妄、无妄）、变卦讼、应冲世，无全盘"
+  }
+ },
+ "provenance": {
+  "book": "《卜筮全书》",
+  "edition": "华龄出版社2016年《四库存目纳甲汇刊（六）·校正全本卜筮全书》（（明）姚际隆撰，郑同校；ISBN 978-7-5169-0728-3）扫描PDF，用户经学校图书馆提供",
+  "page": "印刷页227（PDF第244页）（卷十·神作）",
+  "claimed_source": "书中注家所记实占（神作注文，无另引出处）"
+ },
+ "language": "zh-Hans"
+}

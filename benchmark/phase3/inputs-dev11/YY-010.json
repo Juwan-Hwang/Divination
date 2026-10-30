@@ -1,0 +1,33 @@
+{
+  "id": "YY-010",
+  "tradition": "liuyao",
+  "subject": {
+    "name_or_desc": "妻（夫在外，未具名）",
+    "gender": null
+  },
+  "context": {
+    "question": "妻占夫回（归期，行人占）",
+    "asked_at": "庚寅年丁亥月甲辰日",
+    "setting": "妻占夫回（归期，行人占）",
+    "attachments": {
+      "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+      "hexagram": "巽宫：风火家人 之 巽宫：风雷益",
+      "moving_lines": "三爻父母己亥水动化妻财庚辰土",
+      "chart_lines_top_to_bottom": [
+        "兄弟辛卯木",
+        "子孙辛巳火 应",
+        "妻财辛未土",
+        "父母己亥水（动）",
+        "妻财己丑土 世",
+        "兄弟己卯木"
+      ]
+    }
+  },
+  "provenance": {
+    "book": "《易隐》（清）曹九锡撰",
+    "edition": "华龄出版社2016年《四库存目纳甲汇刊（四）·校正全本易隐》（（清）曹九锡撰，郑同校；ISBN 978-7-5169-0726-9）扫描PDF，用户经学校图书馆提供",
+    "license_note": "内部研究使用",
+    "page": "卷六·行人占第二十七「附：断例」，书页168–169（PDF第180–181页）"
+  },
+  "language": "zh-Hant"
+}

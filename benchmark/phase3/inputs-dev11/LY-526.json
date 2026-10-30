@@ -1,0 +1,33 @@
+{
+ "id": "LY-526",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占擇某日入宅是否有礙父母",
+  "asked_at": "子月丁酉日",
+  "setting": "占擇定之日入宅是否有礙父母",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "澤地萃（靜卦）",
+   "moving_lines": "無動爻（靜卦）",
+   "chart_lines_top_to_bottom": [
+    "父母未土⚋",
+    "兄弟酉金⚊應",
+    "子孫亥水⚊",
+    "妻財卯木⚋",
+    "官鬼巳火⚋世",
+    "父母未土⚋"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文庫本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之四·入宅六親凶吉章第一百十一"
+ },
+ "language": "zh-Hant"
+}

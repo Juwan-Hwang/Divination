@@ -1,0 +1,62 @@
+{
+  "id": "LY-305",
+  "tradition": "liuyao",
+  "subject": {
+    "name_or_desc": "求測者/所占之人（原書多未具名）",
+    "gender": null
+  },
+  "context": {
+    "question": "占岳母近病",
+    "asked_at": "原文未明記月日",
+    "setting": "為岳母占近病吉凶",
+    "attachments": {
+      "casting_method": "六爻納甲（以錢代蓍）",
+      "hexagram": "地水師之地風升（坎宮，空亡申酉）",
+      "yongshen": "父母酉金為用神",
+      "chart_note": "在線本裝卦表為雙欄排版經 OCR 轉錄後行序錯亂，逐爻裝卦未能可靠還原；本條只錄可由卦名、卦宮、空亡與斷語互證的資訊，逐爻表不錄。",
+      "chart_lines_top_to_bottom": [
+        "父母酉金⚋應　父母酉金⚋",
+        "兄弟亥水⚋　兄弟亥水⚋",
+        "官鬼丑土⚋　官鬼丑土⚋",
+        "妻財午火ㄨ世　父母酉金⚊",
+        "官鬼辰土⚊　兄弟亥水⚊",
+        "子孫寅木⚋　官鬼丑土⚋"
+      ],
+      "moving_lines": "三爻妻財午火ㄨ（世）動",
+      "date_ganzhi": "酉月庚辰日",
+      "空亡": "申酉"
+    }
+  },
+  "provenance": {
+    "book": "《卜筮正宗》",
+    "edition": "華夏大易學社（cnddy.com）在线全本（據通行本錄入，裝卦表 OCR 有錯亂，見 SOURCES 說明）",
+    "url": "https://www.cnddy.com/1759.html",
+    "page": "卷十三、十四·十八問答附占驗·第七問（旬空）"
+  },
+  "language": "zh-Hant",
+  "notes": {
+    "completion_grade": {
+      "source_locator": "《卜筮正宗》校正全本卷十三·第七问附占验例049，书页216（PDF页231）",
+      "fields": {
+        "chart_lines_top_to_bottom": {
+          "grade": "直载",
+          "basis": "原书装卦表明载逐爻六亲、地支五行、爻象、世应与动爻记号（○/×及化爻地支），定位：《卜筮正宗》校正全本卷十三·第七问附占验例049，书页216（PDF页231）。变卦栏非动爻行原书未逐行印出，其六亲地支由变卦纳甲依本宫五行配定，此部分属推算复原（标准纳甲确定性推得）。"
+        },
+        "moving_lines": {
+          "grade": "直载",
+          "basis": "原书装卦表动爻记号（○/×）及化爻地支明载；并经本变卦爻象差复核一致。"
+        },
+        "date_ganzhi": {
+          "grade": "直载",
+          "basis": "原书例首明载「酉月庚辰日」。inputs8 asked_at 原作未明记，系在线本漏录。"
+        },
+        "空亡": {
+          "grade": "推算复原",
+          "basis": "原书未另标空亡；由直载日干支「庚辰」按旬空规则推得（庚辰所属旬空申酉），与 inputs8 卦名括注所载空亡互证一致。"
+        }
+      },
+      "completed_by": "phase3 inputs9 C轨数据角补录（2026-10-30）",
+      "scope_note": "仅补 attachments 盘面事实字段；题面文字与既有字段一字未改。"
+    }
+  }
+}

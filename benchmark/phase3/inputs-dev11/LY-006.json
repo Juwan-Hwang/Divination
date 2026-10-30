@@ -1,0 +1,28 @@
+{
+ "uid": "LY-006",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）"
+ },
+ "context": {
+  "question": "占求婚成否",
+  "asked_at": "卯月乙丑日",
+  "setting": "問求婚能否成功",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "山火賁之水地比（卦名原文未直書，據所附裝卦推得）",
+   "moving_lines": "初爻父母子水○、四爻官鬼酉金○、五爻妻財未土ㄨ（世）動、上爻子孫巳火○動",
+   "chart_lines_top_to_bottom": [
+    "子孫巳火○　　父母子水⚋",
+    "妻財未土ㄨ世　妻財戌土⚊",
+    "官鬼酉金○　　官鬼申金⚋",
+    "妻財辰土⚋　　兄弟卯木⚋",
+    "兄弟寅木⚋應　子孫巳火⚋",
+    "父母子水○　　妻財未土⚋"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》"
+ }
+}

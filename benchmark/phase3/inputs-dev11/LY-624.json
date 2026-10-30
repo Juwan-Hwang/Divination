@@ -1,0 +1,70 @@
+{
+  "id": "LY-624",
+  "tradition": "六爻",
+  "subject": "求財（兩占合斷）",
+  "context": {
+    "caster_or_relation": "一人",
+    "question": "占求財",
+    "category": "財運",
+    "asked_at": "辰月乙卯日",
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": {
+      "original_name": "風火家人",
+      "changed_name": "山火賁",
+      "palace": "巽宮",
+      "kongwang": "子丑",
+      "chart_lines": [
+        "兄弟卯木⚊　　兄弟寅木⚊",
+        "子孫巳火○應　父母子水⚋",
+        "妻財未土⚋　　妻財戌土⚋",
+        "父母亥水⚊　　父母亥水⚊",
+        "妻財丑土⚋世　妻財丑土⚋",
+        "兄弟卯木⚊　　兄弟卯木⚊"
+      ],
+      "moving_lines": "五爻子孫巳火○（應）動",
+      "hidden_lines": "三爻父母亥水下伏官鬼酉金",
+      "date_ganzhi": "辰月乙卯日"
+    }
+  },
+  "provenance": {
+    "work": "增刪卜易",
+    "edition": "維基文库本（錄入者整理本，未排版/未校對）",
+    "page": "卷之一·旬空章第二十六",
+    "url": "https://zh.wikisource.org/wiki/增刪卜易",
+    "language": "zh-Hant"
+  },
+  "language": "zh-Hant",
+  "notes": {
+    "completion_grade": {
+      "source_locator": "《增刪卜易》維基文库本（錄入者整理本，未排版/未校對）卷之一·旬空章第二十六；例首：「如辰月乙卯日占求財得家人之賁（同例再占暌之損不在本條範圍）」",
+      "fields": {
+        "palace": {
+          "grade": "推算复原",
+          "basis": "原書未另標宮名；由本卦「風火家人」按標準八宮定宮為巽宮（世在二爻、應在五爻，與原書裝卦表世應標記互證一致）。"
+        },
+        "kongwang": {
+          "grade": "推算复原",
+          "basis": "原書未另標空亡；由直載日干支「乙卯」按旬空規則推得子丑。"
+        },
+        "chart_lines": {
+          "grade": "直载",
+          "basis": "既有逐爻表本批回原書（維基文库本同章）裝卦表逐行核對一致，未改動一字；並經標準納甲引擎反驗全合。"
+        },
+        "moving_lines": {
+          "grade": "直载",
+          "basis": "原書裝卦表動爻記號（○/ㄨ）明載；並經本變卦爻象差復核一致。"
+        },
+        "hidden_lines": {
+          "grade": "推算复原",
+          "basis": "本卦六親缺官鬼不現；按伏神規則取本宮首卦（巽宮首卦）同位之爻伏於本卦同位爻下，標準規則確定性推得。原書裝卦表未印伏神欄。"
+        },
+        "date_ganzhi": {
+          "grade": "直载",
+          "basis": "原書例首明載「辰月乙卯」，定位：《增刪卜易》維基文库本（錄入者整理本，未排版/未校對）卷之一·旬空章第二十六；例首：「如辰月乙卯日占求財得家人之賁（同例再占暌之損不在本條範圍）」。與 inputs8 asked_at 一致，今按 inputs9 體例另立盤面日期鍵。"
+        }
+      },
+      "completed_by": "phase3 inputs10 C轨数据角补录（2026-10-30，LY-6xx组）",
+      "scope_note": "仅补 context.hexagram 盘面事实字段；题面文字与既有字段一字未改（LY-620/621 的 palace/kongwang 原为「原文未記」占位值，属补录本身改值，已逐项注明）。"
+    }
+  }
+}

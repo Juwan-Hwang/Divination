@@ -1,0 +1,33 @@
+{
+ "id": "LY-515",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占夫婦將來和好否",
+  "asked_at": "酉月辛巳日",
+  "setting": "夫婦目下不和，占將來能否和好",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "地天泰（靜卦）",
+   "moving_lines": "無動爻（靜卦）",
+   "chart_lines_top_to_bottom": [
+    "子孫酉金⚋應",
+    "妻財亥水⚋",
+    "兄弟丑土⚋",
+    "兄弟辰土⚊世",
+    "官鬼寅木⚊",
+    "妻財子水⚊"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文庫本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之三·夫婦章第四十三"
+ },
+ "language": "zh-Hant"
+}

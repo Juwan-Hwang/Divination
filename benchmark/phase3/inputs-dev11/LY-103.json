@@ -1,0 +1,56 @@
+{
+  "id": "LY-103",
+  "subject": {
+    "name_or_desc": "北京朋友（儿童音乐会主办方相关人）",
+    "basic_info": "王虎应刚抵西藏酒店下榻，北京朋友来电：当晚要举办儿童音乐会，北京正在下雨，问雨会不会停"
+  },
+  "context": {
+    "question": "问当晚雨会不会停",
+    "asked_at": "午月丙辰日（年份不详）",
+    "setting": "午月丙辰日，占问当晚天气，数小时内即可验证",
+    "attachments": {
+      "ben_gua": "火山旅",
+      "bian_gua": "天风姤",
+      "date_ganzhi": "午月丙辰日",
+      "source": "王虎应《六爻预测自修宝典》测天气例一，Scribd影印本 https://www.scribd.com/document/829859310/",
+      "chart_lines_top_to_bottom": [
+        "兄弟巳火⚊　子孙戌土⚊",
+        "子孙未土ㄨ　妻财申金⚊",
+        "妻财酉金⚊应　兄弟午火⚊",
+        "妻财申金⚊　妻财酉金⚊",
+        "兄弟午火ㄨ　官鬼亥水⚊",
+        "子孙辰土⚋世　子孙丑土⚋"
+      ],
+      "moving_lines": "二爻兄弟午火ㄨ动、五爻子孙未土ㄨ动",
+      "空亡": "子丑"
+    }
+  },
+  "provenance": {
+    "book": "《六爻预测自修宝典》",
+    "edition": "",
+    "url": "https://www.scribd.com/document/829859310/",
+    "page": "王虎应《六爻预测自修宝典》测天气例一，Scribd影印本 https://www.scribd.com/document/829859310/"
+  },
+  "language": "zh-Hant",
+  "notes": {
+    "completion_grade": {
+      "source_locator": "《六爻预测自修宝典》本地无藏；据 inputs8 已载本变卦名（火山旅之天风姤）与日期（午月丙辰日）",
+      "fields": {
+        "chart_lines_top_to_bottom": {
+          "grade": "推算复原",
+          "basis": "《六爻预测自修宝典》本地无藏；据 inputs8 已载本变卦名（火山旅之天风姤）与日期（午月丙辰日），由标准纳甲（定宫、纳甲、世应、六亲配五行）确定性推得全盘；动爻由本变卦爻象差定。"
+        },
+        "moving_lines": {
+          "grade": "推算复原",
+          "basis": "本变卦爻象差确定性推得。"
+        },
+        "空亡": {
+          "grade": "推算复原",
+          "basis": "由已载日干支「丙辰」按旬空规则推得戌亥。"
+        }
+      },
+      "completed_by": "phase3 inputs9 C轨数据角补录（2026-10-30，顺手组：与LY-104同法）",
+      "scope_note": "仅补 attachments 盘面事实字段；题面文字与既有字段一字未改。"
+    }
+  }
+}
