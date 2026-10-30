@@ -18,3 +18,11 @@
 - JX1 7702f8ed｜JX2 411f1496｜JX3 f29ecea2｜JX4 24628817
 - JY1 7c090f5b｜JY2 73217d2c｜JY3 bcebf4d2｜JY4 a0a9aa9e
 - H17-BUILD 2f207cb3
+- 平台仲裁 ARB 2fe254c1（YM-030／LY-526 两例）
+- W 监测席 WM41 a0c2900d
+
+## holdout17 验收席（目录 runs/holdout17-acceptance/）
+- 盲测 H17-CZ bbf8eed8｜H17-LR 54934638
+- CY 卡污染补救席 91d65a04（剥离断语 309 字＋封存日志勘误）
+- 盲测补测 H17-CY d3aa342d（全新席，剥离后重测）
+- 评审 JO1 f133b0e6｜JO2 fa930d0a｜JM1 5d152393｜JM2 071394e2

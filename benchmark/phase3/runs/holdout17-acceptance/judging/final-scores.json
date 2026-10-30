@@ -1,0 +1,386 @@
+{
+ "ours": {
+  "BYZ-017": 0.25,
+  "BYZ-023": 1.75,
+  "BYZ-028": 0.25,
+  "BYZ-032": 0.5,
+  "BYZ-037": 3.25,
+  "BYZ-046": 4.5,
+  "BYZ-052": 4.0,
+  "CY-009": 5.0,
+  "CY-013": 2.0,
+  "CY-017": 1.25,
+  "CY-023": 5.0,
+  "CY-027": 1.25,
+  "CY-030": 4.25,
+  "DA-032": 2.75,
+  "DA-040": 1.0,
+  "DA-052": 1.5,
+  "DA-058": 3.0,
+  "DA-109": 1.0,
+  "DA-125": 0.0,
+  "DA-128": 2.25,
+  "ZC-072": 5.5,
+  "ZC-073": 1.25,
+  "ZC-130": 4.5,
+  "ZC-134": 1.75,
+  "ZC-135": 6.0,
+  "ZC-136": 3.5,
+  "ZC-137": 2.75,
+  "ZC-138": 5.0,
+  "ZC-140": 5.0,
+  "ZC-141": 1.5,
+  "ZC-142": 3.5,
+  "ZC-147": 0.0,
+  "ZC-148": 4.5,
+  "ZC-151": 5.5,
+  "ZC-152": 5.5,
+  "ZC-153": 5.5,
+  "ZC-155": 4.5,
+  "ZC-159": 2.0,
+  "ZC-161": 4.5,
+  "ZC-162": 4.0
+ },
+ "master": {
+  "BYZ-017": 5.5,
+  "BYZ-023": 4.5,
+  "BYZ-028": 4.5,
+  "BYZ-032": 5.75,
+  "BYZ-037": 5.0,
+  "BYZ-046": 5.25,
+  "BYZ-052": 3.0,
+  "CY-009": 5.0,
+  "CY-013": 5.5,
+  "CY-017": 4.75,
+  "CY-023": 5.0,
+  "CY-027": 4.5,
+  "CY-030": 2.75,
+  "DA-032": 5.5,
+  "DA-040": 5.0,
+  "DA-052": 6.0,
+  "DA-058": 5.75,
+  "DA-109": 6.0,
+  "DA-125": 6.0,
+  "DA-128": 4.5,
+  "ZC-072": 4.0,
+  "ZC-073": 6.0,
+  "ZC-130": 4.0,
+  "ZC-134": 3.5,
+  "ZC-135": 5.5,
+  "ZC-136": 4.0,
+  "ZC-137": 4.0,
+  "ZC-138": 5.0,
+  "ZC-140": 4.0,
+  "ZC-141": 4.0,
+  "ZC-142": 5.0,
+  "ZC-147": 4.0,
+  "ZC-148": 4.75,
+  "ZC-151": 4.0,
+  "ZC-152": 4.0,
+  "ZC-153": 4.0,
+  "ZC-155": 4.0,
+  "ZC-159": 4.0,
+  "ZC-161": 4.0,
+  "ZC-162": 3.75
+ },
+ "main_caliber_low40": {
+  "n": 40,
+  "ours_mean": 3.025,
+  "master_mean": 4.631,
+  "pair_diff": -1.606,
+  "SE": 0.362,
+  "W/T/L": "12/3/25",
+  "criteria": {
+   "(i) ours_mean > master_mean": false,
+   "(ii) paired W > L": false,
+   "(iii) diff > 0 and diff/SE >= 1": false
+  },
+  "PASS": false
+ },
+ "full40": {
+  "n": 40,
+  "ours_mean": 3.025,
+  "master_mean": 4.631,
+  "pair_diff": -1.606,
+  "SE": 0.362,
+  "W/T/L": "12/3/25",
+  "criteria": {
+   "(i) ours_mean > master_mean": false,
+   "(ii) paired W > L": false,
+   "(iii) diff > 0 and diff/SE >= 1": false
+  },
+  "PASS": false
+ },
+ "segments": {
+  "cezi-ZC": {
+   "n": 20,
+   "ours_mean": 3.812,
+   "master_mean": 4.275,
+   "pair_diff": -0.463,
+   "SE": 0.406,
+   "W/T/L": "10/1/9"
+  },
+  "liuren-BYZ": {
+   "n": 7,
+   "ours_mean": 2.071,
+   "master_mean": 4.786,
+   "pair_diff": -2.714,
+   "SE": 0.897,
+   "W/T/L": "1/0/6"
+  },
+  "liuren-CY": {
+   "n": 6,
+   "ours_mean": 3.125,
+   "master_mean": 4.583,
+   "pair_diff": -1.458,
+   "SE": 0.905,
+   "W/T/L": "1/2/3"
+  },
+  "liuren-DA": {
+   "n": 7,
+   "ours_mean": 1.643,
+   "master_mean": 5.536,
+   "pair_diff": -3.893,
+   "SE": 0.52,
+   "W/T/L": "0/0/7"
+  },
+  "liuren-all20": {
+   "n": 20,
+   "ours_mean": 2.237,
+   "master_mean": 4.987,
+   "pair_diff": -2.75,
+   "SE": 0.484,
+   "W/T/L": "2/2/16"
+  }
+ },
+ "cz_qx_guardrail": {
+  "segment": "cezi-ZC",
+  "n": 20,
+  "pair_diff": -0.463,
+  "SE": 0.406,
+  "falsify_below": -1.963,
+  "no_worse_from": -1.613,
+  "tier": "未见恶化",
+  "action": "只登记，不作增益宣称"
+ },
+ "low_pollution": {
+  "gold_file": "benchmark/phase3/holdout17/test_gold.jsonl",
+  "contamination_counts": {
+   "low": 40
+  },
+  "outcome_grade_counts": {
+   "A-low": 40
+  },
+  "low_n": 40,
+  "non_low_ids": [],
+  "low_subset_equals_full_set": true
+ },
+ "max_abs_view_diff": {
+  "ours": 2,
+  "master": 1.5
+ },
+ "disputes_ours": [],
+ "disputes_master": [],
+ "per_case": {
+  "BYZ-017": {
+   "ours": 0.25,
+   "master": 5.5,
+   "diff": -5.25
+  },
+  "BYZ-023": {
+   "ours": 1.75,
+   "master": 4.5,
+   "diff": -2.75
+  },
+  "BYZ-028": {
+   "ours": 0.25,
+   "master": 4.5,
+   "diff": -4.25
+  },
+  "BYZ-032": {
+   "ours": 0.5,
+   "master": 5.75,
+   "diff": -5.25
+  },
+  "BYZ-037": {
+   "ours": 3.25,
+   "master": 5.0,
+   "diff": -1.75
+  },
+  "BYZ-046": {
+   "ours": 4.5,
+   "master": 5.25,
+   "diff": -0.75
+  },
+  "BYZ-052": {
+   "ours": 4.0,
+   "master": 3.0,
+   "diff": 1.0
+  },
+  "CY-009": {
+   "ours": 5.0,
+   "master": 5.0,
+   "diff": 0.0
+  },
+  "CY-013": {
+   "ours": 2.0,
+   "master": 5.5,
+   "diff": -3.5
+  },
+  "CY-017": {
+   "ours": 1.25,
+   "master": 4.75,
+   "diff": -3.5
+  },
+  "CY-023": {
+   "ours": 5.0,
+   "master": 5.0,
+   "diff": 0.0
+  },
+  "CY-027": {
+   "ours": 1.25,
+   "master": 4.5,
+   "diff": -3.25
+  },
+  "CY-030": {
+   "ours": 4.25,
+   "master": 2.75,
+   "diff": 1.5
+  },
+  "DA-032": {
+   "ours": 2.75,
+   "master": 5.5,
+   "diff": -2.75
+  },
+  "DA-040": {
+   "ours": 1.0,
+   "master": 5.0,
+   "diff": -4.0
+  },
+  "DA-052": {
+   "ours": 1.5,
+   "master": 6.0,
+   "diff": -4.5
+  },
+  "DA-058": {
+   "ours": 3.0,
+   "master": 5.75,
+   "diff": -2.75
+  },
+  "DA-109": {
+   "ours": 1.0,
+   "master": 6.0,
+   "diff": -5.0
+  },
+  "DA-125": {
+   "ours": 0.0,
+   "master": 6.0,
+   "diff": -6.0
+  },
+  "DA-128": {
+   "ours": 2.25,
+   "master": 4.5,
+   "diff": -2.25
+  },
+  "ZC-072": {
+   "ours": 5.5,
+   "master": 4.0,
+   "diff": 1.5
+  },
+  "ZC-073": {
+   "ours": 1.25,
+   "master": 6.0,
+   "diff": -4.75
+  },
+  "ZC-130": {
+   "ours": 4.5,
+   "master": 4.0,
+   "diff": 0.5
+  },
+  "ZC-134": {
+   "ours": 1.75,
+   "master": 3.5,
+   "diff": -1.75
+  },
+  "ZC-135": {
+   "ours": 6.0,
+   "master": 5.5,
+   "diff": 0.5
+  },
+  "ZC-136": {
+   "ours": 3.5,
+   "master": 4.0,
+   "diff": -0.5
+  },
+  "ZC-137": {
+   "ours": 2.75,
+   "master": 4.0,
+   "diff": -1.25
+  },
+  "ZC-138": {
+   "ours": 5.0,
+   "master": 5.0,
+   "diff": 0.0
+  },
+  "ZC-140": {
+   "ours": 5.0,
+   "master": 4.0,
+   "diff": 1.0
+  },
+  "ZC-141": {
+   "ours": 1.5,
+   "master": 4.0,
+   "diff": -2.5
+  },
+  "ZC-142": {
+   "ours": 3.5,
+   "master": 5.0,
+   "diff": -1.5
+  },
+  "ZC-147": {
+   "ours": 0.0,
+   "master": 4.0,
+   "diff": -4.0
+  },
+  "ZC-148": {
+   "ours": 4.5,
+   "master": 4.75,
+   "diff": -0.25
+  },
+  "ZC-151": {
+   "ours": 5.5,
+   "master": 4.0,
+   "diff": 1.5
+  },
+  "ZC-152": {
+   "ours": 5.5,
+   "master": 4.0,
+   "diff": 1.5
+  },
+  "ZC-153": {
+   "ours": 5.5,
+   "master": 4.0,
+   "diff": 1.5
+  },
+  "ZC-155": {
+   "ours": 4.5,
+   "master": 4.0,
+   "diff": 0.5
+  },
+  "ZC-159": {
+   "ours": 2.0,
+   "master": 4.0,
+   "diff": -2.0
+  },
+  "ZC-161": {
+   "ours": 4.5,
+   "master": 4.0,
+   "diff": 0.5
+  },
+  "ZC-162": {
+   "ours": 4.0,
+   "master": 3.75,
+   "diff": 0.25
+  }
+ }
+}
