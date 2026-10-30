@@ -1,0 +1,43 @@
+final-scores.json written: n = 487 | disputes: ['YM-064']
+
+== 1. headline ==
+ALL(487): {'n': 487, 'pair_diff': -1.243, 'SE': 0.1, 'ours_mean': 3.419, 'master_mean': 4.662, 'W': 124, 'T': 28, 'L': 335, 'W/T/L': '124/28/335'} | (a) >= -1.371 -> True
+low-contamination: {'n': 378, 'pair_diff': -1.79, 'SE': 0.101, 'ours_mean': 3.101, 'master_mean': 4.891, 'W': 59, 'T': 19, 'L': 300, 'W/T/L': '59/19/300'}
+ours pass: 235 / 487
+
+== 2. platform (b) guardrails ==
+(b) bazi: {'n': 29, 'pair_diff': -0.466, 'SE': 0.266, 'ours_mean': 4.034, 'master_mean': 4.5, 'W': 10, 'T': 2, 'L': 17, 'W/T/L': '10/2/17'} >= -0.449 -> False
+(b) bazi-natal: {'n': 26, 'pair_diff': 0.827, 'SE': 0.343, 'ours_mean': 4.837, 'master_mean': 4.01, 'W': 19, 'T': 0, 'L': 7, 'W/T/L': '19/0/7'} >= +0.290 -> True
+(b) horary: {'n': 25, 'pair_diff': -0.36, 'SE': 0.256, 'ours_mean': 4.72, 'master_mean': 5.08, 'W': 11, 'T': 2, 'L': 12, 'W/T/L': '11/2/12'} >= -0.760 -> True
+(b) liuren dev8: {'n': 18, 'pair_diff': -2.25, 'SE': 0.527, 'ours_mean': 3.056, 'master_mean': 5.306, 'W': 2, 'T': 0, 'L': 16, 'W/T/L': '2/0/16'} >= -2.593 -> True
+
+== 3. (c) liuyao dev8: SINGLE round (PREREG s.2; pooling voided by s.6) ==
+R37 single: {'n': 246, 'pair_diff': -1.864, 'SE': 0.13, 'ours_mean': 2.967, 'master_mean': 4.831, 'W': 39, 'T': 13, 'L': 194, 'W/T/L': '39/13/194'}
+(c) STANDS (single >= -1.93): True | fuse fact (< -2.255): False
+
+== 4. liuren family reads (platform run, report-only) ==
+dev8 clan(18): {'n': 18, 'pair_diff': -2.25, 'SE': 0.527, 'ours_mean': 3.056, 'master_mean': 5.306, 'W': 2, 'T': 0, 'L': 16, 'W/T/L': '2/0/16'}
+LR3 clan(12): {'n': 12, 'pair_diff': -1.208, 'SE': 0.451, 'ours_mean': 2.833, 'master_mean': 4.042, 'W': 2, 'T': 1, 'L': 9, 'W/T/L': '2/1/9'}
+merged(30): {'n': 30, 'pair_diff': -1.833, 'SE': 0.371, 'ours_mean': 2.967, 'master_mean': 4.8, 'W': 4, 'T': 1, 'L': 25, 'W/T/L': '4/1/25'}
+
+== 5. overlay 16 ==
+overlay16 mean pair: 1.672
+
+== 6. prediction meta ==
+systems_used: {'liuyao': 157, '六爻': 93, '六爻纳甲': 74, '八字': 50, '大六壬': 29, 'western horary astrology (Lilly)': 20, '现代形势研判（事实优先）': 16, '梅花易数': 11, '西洋占星': 7, '西洋卜卦占星 (horary, Lilly 古典规则)': 4, 'yijing': 4, '西洋占星 (选举预测)': 3, '风水': 2, '形势判断': 2, 'western-astrology (chart unavailable, factual-prior reading)': 2, 'vedic-astrology (as framed in input)': 2, '西洋占星 (古典事件盘, Lilly 规则)': 1, '西洋占星 (世界/时政 mundane)': 1, '西洋占星 (时政预测)': 1, '西洋/吠陀占星 (时政预测, 盘面缺失)': 1, '吠陀占星 (vedic, 选举预测)': 1, '周易筮占 (蓍筮, 卦象/卦变取断)': 1, '塔罗': 1, '八字年命+形势判断': 1, '形势判断（四柱缺失）': 1, '测字': 1, 'western-astrology/prophecy (chart unavailable, factual-prior reading)': 1, 'western-prophecy/astrology (chart unavailable, factual-prior reading)': 1}
+trigger true counts: {'changed_main': 37, 'reserve_used': 51, 'disputed': 82}
+
+== 7. attribution guardrails (PREREG s.2; later rounds only) ==
+bazi all: -0.466 < -0.617 -> BZ-YN falsified/rollback: False
+liuren merged: -1.833 < -2.375 -> LR-QY cumulative-deterioration fact: False
+
+== 8. s.7 side reads: bazi timing movement R36 -> R37 ==
+bazi-all(29): timing mean R37 0.914 vs R36 1.052 | delta -0.138 (paired total diff this round in seg reads above)
+bazi-natal(26): timing mean R37 1.298 vs R36 1.163 | delta +0.135 (paired total diff this round in seg reads above)
+
+== PLATFORM ==
+(a) True | (b) False | (c) True | ALL STAND: False
+NOTE: no sealed set exists to open this round (PREREG s.3); platform verdict is registration-only.
+
+== SUMMARY ==
+{"platform_a": true, "platform_b": false, "platform_c": true, "platform_all": false, "a_pair_diff": -1.243, "c_single_r37": -1.864, "c_fuse_fact": false, "guardrail_bz_rollback": false, "guardrail_lr_deterioration_fact": false}
