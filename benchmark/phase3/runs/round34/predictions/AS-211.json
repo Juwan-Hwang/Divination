@@ -1,0 +1,15 @@
+{
+ "case_id": "AS-211",
+ "prediction_text": "方向:马可寻回(正)。第十二宫(马之主星)逆行且疾行合求测者第二宫(财物宫)主星——马之主星主动走向财物宫,主马自己回来或被人送回/在财物处寻回;方向:向西——十二宫星座、其主星所在星座诸证俱指西,马往西去、亦当往西寻。应期:主星逆行合相在即,数日内(以日计)有消息或寻回。第七宫受克主有经手/骑走之人,但不阻寻回。",
+ "basis": "Lilly卜卦占星失物/牲畜例:lord of 12th significator of horse,retrograde hastening to conj lord of 2nd + Moon in 2nd + 二逆行星近二宫头,为失物归财物宫、可复得之象;方位以诸证 plurality full west 定西。输入无完整盘面度数,据 key_positions 作断。",
+ "confidence": 0.7,
+ "systems_used": [
+  "horary astrology"
+ ],
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

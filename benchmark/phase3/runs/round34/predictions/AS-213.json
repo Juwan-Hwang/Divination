@@ -1,0 +1,15 @@
+{
+ "case_id": "AS-213",
+ "prediction_text": "方向:往东去;可追回/将被捉回(正于可复获)。第十二宫宫头射手、囚犯主星木星在狮子、天区与月所在星座四证一致向东,人往东走无疑;月近上升主其人未远、行踪近在占者一侧;月已别三合木星转而 applying 冲太阳且两曜俱在角宫,主其人将暴露于光天化日之下而被拿获。应期:以日计,数日内被获或有确讯,方位只认正东一带。",
+ "basis": "Lilly卜卦占星逃亡例:方位以 cusp of 12th、significator Jupiter 所在、quarter、Moon 所在四证 unanimously eastward 定东;Moon neer Asc 主未远;Moon sep trine Jupiter、apply opp Sun in angles 主暴露被获。输入无完整盘面,据 key_positions 作断。",
+ "confidence": 0.6,
+ "systems_used": [
+  "horary astrology"
+ ],
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

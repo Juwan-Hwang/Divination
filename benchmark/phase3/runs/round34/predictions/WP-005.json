@@ -1,0 +1,15 @@
+{
+ "case_id": "WP-005",
+ "prediction_text": "Direction (this one panellist): Donald Trump wins the 2016 US presidential election, defeating Hillary Clinton on 8 November 2016 (single timing coordinate) — an upset against the August–October polling lead. This is the same astrologer who, when 17 Republicans still contested, had already picked Trump to take the Republican nomination; the specific call here extends that Trump judgement to the general election itself.",
+ "basis": "Western astrology, individual-panellist reading as framed in the input: the distinguishing fact supplied is this astrologer's earlier against-the-field Trump nomination pick, which identifies his 2016 line as pro-Trump rather than the panel consensus; factual priority is given to that supplied track record over the generic poll-following reading. No chart is supplied in the input; no chart detail invented. Kept deliberately distinct from the panel-consensus case.",
+ "confidence": 0.6,
+ "systems_used": [
+  "西洋占星"
+ ],
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

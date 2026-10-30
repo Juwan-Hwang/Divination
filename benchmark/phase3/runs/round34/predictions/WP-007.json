@@ -1,0 +1,15 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Direction: Donald Trump wins the 2016 US presidential election, defeating Hillary Clinton on 8 November 2016 (single timing coordinate). What decides it, on this reading, is Clinton's scandal burden — the email controversy and Clinton Foundation questions already public in August 2016 — which drags her campaign down in the closing phase and hands the election to Trump despite her polling lead.",
+ "basis": "Tarot reading as framed in the input: a Manhattan tarot reader drew cards on the election in August 2016; the actual cards drawn are not supplied in the input (input damaged in that respect — no spread is invented and no Waite card meanings are fabricated for unseen cards). The prediction therefore rests on the reading's reported line plus factual priority: the two named public controversies (emails, Foundation) are the deciding variable the reading points to. Confidence reduced for the missing spread.",
+ "confidence": 0.6,
+ "systems_used": [
+  "塔罗"
+ ],
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

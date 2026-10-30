@@ -1,0 +1,13 @@
+{
+ "case_id": "WP-009",
+ "prediction_text": "方向：印度不夺冠。India队止步于淘汰赛阶段、无缘捧杯，决赛日(2019年7月14日)前即出局；应期以月档计，窗口为5月30日至7月14日赛期，主坐标为半决赛阶段出局。",
+ "basis": "输入残损：仅有问事与赛期背景，无队长/球员星盘数据与起卦盘面可据，systems_used为空、置信下调。仅据输入事实：印度虽列热门，热门不等于夺冠，断语落到事件级为无缘冠军、淘汰赛出局；应期合(a)(k)月档表达。",
+ "confidence": 0.52,
+ "systems_used": [],
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

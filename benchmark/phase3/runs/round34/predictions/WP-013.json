@@ -1,0 +1,13 @@
+{
+ "case_id": "WP-013",
+ "prediction_text": "方向：工党胜选。Labour在2024年7月4日大选中获胜，Keir Starmer出任首相，保守党下野；应期以月档计，窗口为2024年7月，主坐标为7月4日投票日当夜确认工党胜。",
+ "basis": "输入残损：仅有民调与时事背景，无星盘盘面可据，systems_used为空、置信下调。据输入事实：工党领先约二十分、执政党因D-Day事件受挫，事实优先序(e)下取工党胜且为明确换届，非小胜含糊断。应期合(a)(k)月档。",
+ "confidence": 0.6,
+ "systems_used": [],
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

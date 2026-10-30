@@ -1,0 +1,13 @@
+{
+ "case_id": "WP-008",
+ "prediction_text": "方向：莫迪胜选连任。BJP/NDA赢得2019年大选，Narendra Modi续任总理；应期以月档计，主坐标为2019年5月23日计票日确认胜局，窗口为4月11日至5月23日投票计票全程。",
+ "basis": "输入残损：仅有问事、日期与选情背景，无任何星盘/卦盘/牌面可据，systems_used为空、置信下调。仅据输入事实作断：现任者选前占优之背景与一事一断的事件尺度；应期合通则(a)(k)月档、先定窗口后定主坐标(计票日)。不臆补盘面。",
+ "confidence": 0.55,
+ "systems_used": [],
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

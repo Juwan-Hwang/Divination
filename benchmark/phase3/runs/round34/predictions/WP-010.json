@@ -1,0 +1,13 @@
+{
+ "case_id": "WP-010",
+ "prediction_text": "方向：拜登胜选。Joe Biden赢得2020年美国总统选举、击败现任Trump入主白宫；应期以月档计，窗口为2020年11月，主坐标为11月3日投票日后计票确认拜登胜。",
+ "basis": "输入残损：仅有问事、民调背景与Biden天蝎上升之提示，无完整星盘度数可据，systems_used为空、置信下调。据输入事实：民调利拜登、其上升提示为本题所附唯一盘面线索，取拜登胜；三位占者互歧已在basis注明，本文取与民调及所附上升线索同向一路。应期合(a)(k)月档。",
+ "confidence": 0.52,
+ "systems_used": [],
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

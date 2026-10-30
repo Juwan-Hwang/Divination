@@ -1,0 +1,13 @@
+{
+ "case_id": "MP-004",
+ "prediction_text": "方向：蔡英文当选连任，韩国瑜落败。占时多项民调已显示韩持续落后且差距未收窄，剩约两个月无足够翻盘变量，2020年1月11日由蔡胜出，差距为明显差距而非险胜。",
+ "basis": "输入残损：无出生年月日时、无起卦／排盘记录，仅有出生年与占时情景事实，无法立八字、紫微或六爻盘面，故systems_used为空；断语只据输入给定的民调、声势与时局事实按事实优先序落断，置信相应下调。",
+ "confidence": 0.82,
+ "systems_used": [],
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

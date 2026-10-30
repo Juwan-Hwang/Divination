@@ -1,0 +1,15 @@
+{
+ "case_id": "AS-212",
+ "prediction_text": "方向:非中邪/非巫蛊(负于所问『是否被蛊』)。月冲土星且两星分居六、十二宫只是起疑之象,不足定蛊:上升、上升主星与月皆不受第十二宫主星克害,蛊之主星无力落到病人身上;月冲土星后转而 applying 上升主星、且该主星在地平线上、向天顶上升,主病情属自然之病、医药外另有转机,不是巫蛊作祟。时间窗:月成相后数周内病势见分晓、向愈侧转,但原病本身缠绵,非速愈。",
+ "basis": "Lilly卜卦占星疾病/巫蛊例:定蛊须 Asc/lord/Moon 受 lord of 12th 克害,本盘三者皆不受克,故否定蛊;Moon opp Saturn in 6/12 只作 suspicion;Moon 其后 apply lord of Asc、主星 above earth ascending 为自然病可转之象。输入无完整盘面,据 key_positions 作断。",
+ "confidence": 0.75,
+ "systems_used": [
+  "horary astrology"
+ ],
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

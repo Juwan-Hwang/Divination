@@ -1,0 +1,13 @@
+{
+  "case_id": "YY2-004",
+  "prediction_text": "方向：不定——盘面残损，无从起断，不臆断寿数长短与终期。具体断语：本卦名原书缺字、六爻盘面与动爻均无载，仅知变卦为雷天大壮、占时丙寅年丙申月丁巳日丙午时、空亡子丑；在此残损下任何寿限年数、限期年份或吉凶方向均为臆补，故不给应期坐标，只断『无盘可据、寿数不可定』。若日后补得本卦全盘，须重起完整六爻程序再断。",
+  "basis": "输入残损如实注明：inputs-dev10/YY2-004.json中hexagram为『（本卦名原书缺字）之雷天大壮』，chart_lines_top_to_bottom=null、moving_lines=null；其notes.completion_grade明载chart与moving_lines为『不可补』——本卦不明则本宫、世应、六亲、动爻皆无从定，变卦大壮一侧六亲亦系于本宫五行不能单独成盘。空亡子丑仅由日干支丁巳推算复原，不足以定用神。故按冻结提示『无盘面可据时systems_used为空、输入残损照实注明并降置信，不臆补』处理：不取用神、不走旺衰/决策序、不给应期三步（无候选可列），置信大幅降低。",
+  "confidence": 0.1,
+  "systems_used": [],
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": "盘面残损无从起断，三项均无从触发，故全false；reason仅留此残损说明。"
+  }
+}

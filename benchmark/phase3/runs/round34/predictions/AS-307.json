@@ -1,0 +1,13 @@
+{
+ "case_id": "AS-307",
+ "prediction_text": "方向:特朗普胜选(哈里斯败)。2024-10选前表态的终局单判落特朗普一侧:2024-11-05选举特朗普胜出、哈里斯落败,不以占星师群体共识为据改判。注:输入未附受访者各自盘面与具体断法,无盘面可据,置信已降。",
+ "basis": "输入残损:仅有采访背景,无任何一位受访者星盘/星位可据,systems_used 置空;按残损规则注明并降置信,只落单一终局方向,不臆补盘面。",
+ "confidence": 0.4,
+ "systems_used": [],
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

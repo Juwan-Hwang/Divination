@@ -1,0 +1,15 @@
+{
+ "case_id": "WP-002",
+ "prediction_text": "Direction: Barack Obama wins the 2008 US presidential election. He first secures the Democratic nomination over Hillary Clinton, then defeats John McCain in the general election of 4 November 2008 (that date is the single timing coordinate). The Saturn–Uranus opposition beginning on Election Day signals the change candidate prevailing over the establishment candidate — a generational/political turnover, not a narrow hold for the status quo.",
+ "basis": "Western mundane/election astrology as framed in the input: the only configuration supplied is Saturn opposition Uranus beginning on Election Day, last seen 45 years earlier, which in mundane reading marks upheaval and the challenger/new-force victory; the input setting (Obama leading the nomination race in May 2008) supplies the factual constraint. No candidate natal charts are supplied, so no chart detail is invented and confidence is held at moderate.",
+ "confidence": 0.66,
+ "systems_used": [
+  "西洋占星"
+ ],
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
