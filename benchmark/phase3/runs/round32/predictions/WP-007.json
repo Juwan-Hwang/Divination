@@ -1,0 +1,15 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Direction: Donald Trump wins the 2016 US presidential election (8 November 2016). What decides it, on the tarot reading: Hillary Clinton's own controversies — the email affair and the Clinton Foundation questions, both already public in August 2016 — fatally damage her at the close of the race; the cards point to the scandal burden, not policy or turnout mechanics, as the decisive factor, with a late-turning revelation/disclosure atmosphere around Clinton sealing Trump's victory despite his trailing in the August polls. Timing window: the outcome turns in the final stretch of the campaign (autumn 2016) and is decided on election day, 8 November 2016.",
+ "basis": "Tarot (case framed as a Union Square tarot consultation, August 2016). Input limitation, recorded plainly: the input supplies no actual cards drawn, no spread and no positions, so a Waite card-by-card verification is impossible and no card meanings are invented here; the direction and deciding-factor call rest on the case framing in the input (including its provenance link describing a Trump-win prediction) and on the public controversies named in the setting. Confidence lowered for the missing spread.",
+ "confidence": 0.52,
+ "systems_used": [
+  "塔罗"
+ ],
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

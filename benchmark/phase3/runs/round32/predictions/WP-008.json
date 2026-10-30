@@ -1,0 +1,16 @@
+{
+ "case_id": "WP-008",
+ "prediction_text": "Modi / BJP-led NDA will win the 2019 Lok Sabha election and Modi will retain the prime ministership for a second term, with a clear parliamentary majority rather than a hung result. Direction: incumbent victory. Timing window: the counting day, 23 May 2019, is the decisive point; main coordinate 23 May 2019.",
+ "basis": "Western/election-context reading only from the input facts: incumbent Modi seeking a second term before any votes are cast, opposition led by Rahul Gandhi, no birth chart or casting data supplied in the input, so no chart-specific claim is made. Incumbency and the pre-vote setting as given favour the incumbent; confidence limited by absence of chart data.",
+ "confidence": 0.72,
+ "systems_used": [
+  "western_astrology",
+  "election_context"
+ ],
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

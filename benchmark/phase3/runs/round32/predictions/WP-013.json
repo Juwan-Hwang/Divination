@@ -1,0 +1,16 @@
+{
+ "case_id": "WP-013",
+ "prediction_text": "Labour under Keir Starmer will win the UK general election of 4 July 2024, defeating the governing Conservatives under Rishi Sunak, with a large Labour majority. Direction: Labour victory / change of government. Timing window: election day itself; main coordinate 4 July 2024.",
+ "basis": "Input facts are one-directional: Labour leads by roughly twenty points in the polls and the incumbent prime minister has been criticised for leaving the D-Day memorial early. The note that the election falls in Cancer supplies no countervailing chart data for Sunak. Large poll lead at this late stage supports a decisive Labour win, not a narrow one.",
+ "confidence": 0.85,
+ "systems_used": [
+  "western_astrology",
+  "election_context"
+ ],
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

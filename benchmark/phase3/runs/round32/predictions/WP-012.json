@@ -1,0 +1,16 @@
+{
+ "case_id": "WP-012",
+ "prediction_text": "Biden will win the 2020 election and will ultimately actually take the presidency, but Trump/the losing side will dispute and refuse to accept the result cleanly, so what follows for the country is deep division, contestation and unrest rather than a smooth transition - the country does not literally break up, but is sharply polarised. Direction: Biden wins and assumes office after dispute. Timing window: election 3 November 2020 through the January 2021 inauguration; main coordinate the January 2021 transfer of power.",
+ "basis": "Input asks three distinct things (win, actually take office, what follows) and its setting stresses mail-in voting disputes and warnings the loser may not accept the result, with Biden leading in most polls on the eve of the election. Answering each part separately: poll lead gives the win, the dispute warning gives a contested aftermath, but no fact given supports the loser ultimately retaining the presidency.",
+ "confidence": 0.6,
+ "systems_used": [
+  "western_astrology",
+  "election_context"
+ ],
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

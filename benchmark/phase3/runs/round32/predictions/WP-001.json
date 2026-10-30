@@ -1,0 +1,15 @@
+{
+ "case_id": "WP-001",
+ "prediction_text": "Direction: Yes — a major collective affliction in 2020–2021, specifically a global pandemic of epidemic disease. The Jupiter–Saturn–Pluto conjunction exact in early 2020, with five outer planets compressed within about 100 degrees and the cyclical index at its 21st-century low, is the classic mundane signature of mass affliction; the comparable historical clusters (1918, 1954, 1968, 1982) coincided with influenza pandemics, 1918 being the catastrophic precedent. Timing window: onset as the conjunction perfects in early 2020, with the affliction running through 2020–2021 (month/year scale, main coordinate the early-2020 conjunction). Severity is at the high end of the scale — worldwide spread and heavy mortality, not a localised outbreak.",
+ "basis": "Western mundane astrology: outer-planet clustering and cyclical-index low as given in the input configuration; historical analogue years supplied in the setting (1918/1954/1968/1982) all pandemic years, taken as the calibration set. No birth chart is involved; judgement rests on the stated configuration alone, per the mundane-astrology section of the astro reference (event-level, configuration-based).",
+ "confidence": 0.75,
+ "systems_used": [
+  "西洋占星"
+ ],
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

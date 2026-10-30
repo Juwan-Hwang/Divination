@@ -1,0 +1,15 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "Direction: Hillary Clinton wins the 2016 US presidential election (8 November 2016) — this is the conference panel's majority judgement. Reading the candidates' charts against the election-day sky, the panel at the Costa Mesa international astrology conference favours Clinton over Donald Trump, in line with the polling lead she held when the panel sat in October 2016: the verdict delivered is a Clinton victory and a first woman president, reached by consensus/majority of the forecasting panel rather than by a lone dissenting voice. Timing: decided on election day, 8 November 2016.",
+ "basis": "Western astrology (mundane/election panel): the case is framed as a conference panel forecast (provenance: ISAR conference report, October 2016); the panel-level judgement is reported, distinct from any single panellist's separate call (cf. the companion case singling out one panellist). Input supplies no charts or vote split, so the panel's delivered majority verdict is predicted as Clinton, matching the poll-favoured reading; the missing vote split is noted as an input limitation and confidence is moderated.",
+ "confidence": 0.55,
+ "systems_used": [
+  "西洋占星"
+ ],
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

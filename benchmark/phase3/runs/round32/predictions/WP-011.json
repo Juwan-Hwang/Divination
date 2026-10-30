@@ -1,0 +1,15 @@
+{
+ "case_id": "WP-011",
+ "prediction_text": "Donald Trump will win re-election in the 2020 US presidential election. Direction: incumbent victory for Trump over Biden. Timing window: election 3 November 2020; main coordinate 3 November 2020.",
+ "basis": "This case's distinguishing input is Trump's Vedic chart: Jupiter in the second house aspecting the tenth house where the Sun is placed - a strong career/power configuration as presented - plus his recovery from COVID-19 in time to campaign. That chart detail is the only case-specific astrological evidence supplied here and it points to the incumbent retaining power; it is weighed above the general election setting, hence lower confidence.",
+ "confidence": 0.55,
+ "systems_used": [
+  "vedic_astrology"
+ ],
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

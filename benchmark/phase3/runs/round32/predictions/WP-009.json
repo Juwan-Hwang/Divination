@@ -1,0 +1,16 @@
+{
+ "case_id": "WP-009",
+ "prediction_text": "India will NOT win the 2019 Cricket World Cup. Direction: negative for an India title - India will go deep as favourites (semi-final stage) but will be eliminated before lifting the trophy. Timing window: the knockout stage 9-14 July 2019; main coordinate the semi-final stage in that window.",
+ "basis": "Input gives no natal chart for Kohli/Dhoni beyond Kohli born 1988 and no casting; favourites in a ten-team round-robin in England/Wales still face a single knockout elimination risk, which is the decisive structure given. No chart data to support a title claim; basis limited to tournament format and the question as posed, so confidence is moderate-low.",
+ "confidence": 0.58,
+ "systems_used": [
+  "western_astrology",
+  "sports_context"
+ ],
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
