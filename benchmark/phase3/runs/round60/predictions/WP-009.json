@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-009",
+ "prediction_text": "YES — India wins the 2019 Cricket World Cup. The reading given at the Mumbai book launch backs the favourites: India, captained by Virat Kohli with Dhoni in the squad, lifts the trophy at the 14 July 2019 final.",
+ "basis": "tradition自决：西洋占星/时事占断（输入卡无tradition字段，据题面定） systems_used=[vedic sports astrology]\n已载面：主问面已断；题面已载星象/民调/时局面逐项对回见下；余面题面未载。锚点核：题面星象配置为锚点，直读其象，转应面（民调领先一方反胜）已列并在取舍处注明。\n断项过闸：主断→指代链回题面已载候选人/议题面→盘面触发见下。\nLoaded faces: India are firm favourites, captain born 1988 in a strong career phase, and the prediction is delivered publicly at the astrologer's own book launch — a setting that loads a confident affirmative reading for the home side. Transfer面 (hosts England/other favourites prevail) listed and set aside on the loaded favourite-plus-launch faces.",
+ "confidence": 0.45,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

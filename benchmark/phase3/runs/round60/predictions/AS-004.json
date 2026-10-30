@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-004",
+ "prediction_text": "断：传闻不实——国王并未攻下剑桥。此为消息真伪问：四角皆变动宫主事态浮而不定，月亮陷落宫且无所喜，国王一方（七宫主）正入落陷受克，主其方无此等得手；问者一方指示星（上升主）居擢升，主议会一方势强。应期：本题问已发生之事之真伪，无未来应期可报，断语只定真伪本身（假报），后续剑桥不因此报而失守。",
+ "basis": "tradition=horary（输入卡无 tradition 字段，据题面 Lilly 消息真伪占自决）\nsystems_used: horary (Lilly, Chap. XXXI reports/rumours)\n已载面表：主问面（传闻真伪）已断为假；关系面（王军/议会）已断强弱对照；应期面题面未载未来时点，注记无应期。断项过闸：传闻假→七宫主入落陷受克＋月亮陷落，保留；议会方强→上升主擢升，保留。双闸已过。",
+ "confidence": 0.82,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

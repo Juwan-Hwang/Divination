@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-007",
+ "prediction_text": "断：Waller 胜，Hopton 败。此战问：Waller 一方得上升、月亮、木星、金星，月亮擢升且与木星同在，太阳（其资财助力主）居十宫正得擢升之度（白羊19°）；Hopton 指示星土星居落陷、日光之下、无定位、无任何相位，且九宫仅火星与南交点（其援军未备）。应期：图为交战当日所立，即日决出胜负，主坐标为1644年3月29日当日，Hopton 军溃退。",
+ "basis": "tradition=horary（输入卡 tradition=horary）\nsystems_used: horary (Lilly, war question)\n已载面表：主问面（两军谁胜）已断；关系面（两军主将）已断对照；应期面（当日交战）已断；余面题面未载。断项过闸：Waller胜→月擢升合木星＋太阳擢升居十宫，保留；Hopton败→土星落陷焦伤无相位，保留。双闸已过。",
+ "confidence": 0.85,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

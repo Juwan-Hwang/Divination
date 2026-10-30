@@ -1,0 +1,12 @@
+{
+ "case_id": "MP-002",
+ "prediction_text": "蔡英文连任前景由谷底回升、最终连任成功：2019年猪年内先经历党内挑战与低谷，年中后运势转强，气势压过对手而赢得2020大选。时间窗：2019年内定于一尊，2020年1月胜选。",
+ "basis": "tradition=未载于卡（现代大师运势类）\nsystems_used: bazi-shengxiao-yunshi, factual-context\n卡面无盘面；依2019年1月时点（地方败选低谷）作两段式：近段弱、远段回升，翻转据为 incumbent 资源与对手整合未成之形势。输入无占具，置信下调。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

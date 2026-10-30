@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-541",
+ "prediction_text": "往前处脱货有利可得利：妻财未土应爻动、巳月火生土旺，化子孙午火回头生财（火生土），货有人要、价可成。应期定日档：窗口数日内，主坐标午日——化神子孙午火逢值，买方/成交应期。",
+ "basis": "tradition=liuyao（输入卡自带）\nsystems_used: liuyao\n用神妻财两现，未土动者为主、辰土静者次；动而回头生为得利主象。动化方向复核：午火→未土为生。应期：化神逢值午取中；财逢值未只作备选入reasoning故舍其作主坐标。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

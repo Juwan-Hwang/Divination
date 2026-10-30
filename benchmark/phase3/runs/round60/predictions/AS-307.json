@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-307",
+ "prediction_text": "断：HuffPost 所访美国职业占星师群体的多数表态为哈里斯胜选：2024年大选将由哈里斯击败特朗普，成为美国首位女总统。群体判读的共同理由形态为选举日星象与哈里斯本命/行运的吉象多于对手。胜负形态：占星师群体同时多断过程不顺——计票争议、结果迟迟难定或败方不认输之扰（推测：过程形态各受访者口径不一，此句综合推测）。应期：单点事件，11月5日投票。输入残损：题面未载各位占星师盘面依据，只能按群体多数表态作断，置信下调。",
+ "basis": "tradition=astrology（输入卡 tradition=astrology）\nsystems_used: western-astrology (election astrologers panel)\n已载面表：主问面（选举赢家）已断为群体多数之哈里斯；过程形态面降格推测；应期面投票日单点。断项过闸：哈里斯胜→指回主问面，触发为题面所载专题采访「请其公开表态赢家」之体例与占星圈主流，保留但降置信。双闸已过（弱证据留痕）。",
+ "confidence": 0.4,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

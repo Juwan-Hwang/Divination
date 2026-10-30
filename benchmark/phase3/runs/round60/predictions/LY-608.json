@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-608",
+ "prediction_text": "求财必得：静卦火天大有，妻财寅木临寅月建旺相，世爻父母辰土克财可取，大有主丰收之象。财已临值，得财在近。应期定日档：窗口本旬内，主坐标亥日——亥水合寅木之财，财合到手之期（逢值寅日为财现之始，只定窗口不作主坐标）。",
+ "basis": "tradition=六爻（输入卡自带）\nsystems_used: liuyao\n用神妻财寅木临月建，静卦无动扰，世克财为可得。应期三路：逢合亥取中作主坐标；逢值寅定窗口；冲实一路无空破对象故无候选，已明记。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

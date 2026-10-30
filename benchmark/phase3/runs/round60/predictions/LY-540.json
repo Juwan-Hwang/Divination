@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-540",
+ "prediction_text": "随官上任先成后变：官鬼卯木持世、卯月临旺，上任本身可成；但官动化子孙酉金回头克（金克木），任上不久即生变故/被掣而难久安。终局单一判为不利（不得久任）。应期定月档：窗口在卯月内，主坐标酉日——回头克之化神逢值时变象应。",
+ "basis": "tradition=liuyao（输入卡自带）\nsystems_used: liuyao\n用神官鬼卯木世旺临月；动化回头克为终局转负触发，父母巳火动化亥水亦回头克，文书/依托同弱。动化方向已复核：酉金→卯木为克。应期：化神逢值酉取中，官逢值卯只主到任（近段）不主终局故舍。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

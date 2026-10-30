@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-013",
+ "prediction_text": "Winner: Labour under Keir Starmer. Labour wins the UK general election of 4 July 2024 with a large parliamentary majority; the governing Conservatives under Rishi Sunak are heavily defeated and lose power.",
+ "basis": "tradition自决：西洋占星/时事占断（输入卡无tradition字段，据题面定） systems_used=[mundane astrology + loaded polling face]\n已载面：主问面已断；题面已载星象/民调/时局面逐项对回见下；余面题面未载。锚点核：题面星象配置为锚点，直读其象，转应面（民调领先一方反胜）已列并在取舍处注明。\n断项过闸：主断→指代链回题面已载候选人/议题面→盘面触发见下。\nLoaded faces: Labour leads by roughly twenty points — a margin no loaded chart face in the card contradicts; Sunak's D-Day early-departure gaffe is loaded as a further drag on the incumbent. Scale is a single election day; no transfer face in the card supports a Conservative hold.",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-602",
+ "prediction_text": "求财可得而迟、先破后得：妻财卯木逢酉月冲为月破，财先受损；日辰亥水生财有源，初爻官鬼巳火动化妻财寅木（寅空待实），财路终通。应期定日档：窗口至卯日一轮内，主坐标卯日——月破之财填实之日得财。",
+ "basis": "tradition=六爻（输入卡自带）\nsystems_used: liuyao\n用神妻财卯木月破，按决策序不径断无财：得日生、且有动爻化财之路。兄弟酉金动主先有劫分之耗。应期：填实卯取中（月破喜填）；化财寅木出空一路与尺度同为备选，舍弃理由为寅空待出空较卯填实为迟。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

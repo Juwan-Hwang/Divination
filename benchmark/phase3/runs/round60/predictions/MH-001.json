@@ -1,0 +1,12 @@
+{
+ "case_id": "MH-001",
+ "prediction_text": "观梅占断：明日辰时，有少女来园折花，园人驱赶，少女惊避坠地伤及股部（腿股之伤），无大碍而有惊伤之应。体兑金、用离火克体主折伤之象，变咸艮土生体，故伤而不重、惊后得安。时间窗：次日辰时为主坐标（日内时档）。",
+ "basis": "tradition=meihua（输入卡 system/tradition 与卦象自带）\nsystems_used: meihua\n泽火革初爻动：下卦离为用、上卦兑为体，火克金主克伤；互乾巽主少女与花木之象（兑为少女、巽为花木/股），变艮土生兑金主伤轻得止。断语密度：人物（少女）、物品（花枝）、应期数字（明日辰时）俱落。置信因本例过于著名、卡面自注可能背诵污染而下调。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

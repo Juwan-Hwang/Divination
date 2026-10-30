@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-604",
+ "prediction_text": "兄可得救、免于重罪坐实：兄弟丑土应爻动，虽卯月受克休囚，却化父母午火回头生（火生土），救生之机在动化；子孙酉金为解救之神虽旬空，待出空可用。应期定日档：窗口旬内，主坐标酉日——子孙酉金出空逢值，救应落实、罪得减免之期。",
+ "basis": "tradition=六爻（输入卡自带）\nsystems_used: liuyao\n用神兄弟丑土动而回头生，按化进退复核不因休囚径断无救。子孙空而有待出之路（空待填实）。对象复核：受救者为兄，兄弟爻对回。应期：子孙出空逢值酉取中；化神逢值午主生机初现、尺度在前，只入reasoning故舍。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "MP-013",
+ "prediction_text": "柯文哲无总统命：2018年市长连任可险胜过关（差距极小），但2024年总统大选将落败、得票居第三。时间窗：2018年11月险胜连任，2024年1月败选定局。",
+ "basis": "tradition=未载于卡（现代大师命人类）\nsystems_used: bazi-shengxiao-yunshi, factual-context\n两段式：近段（2018连任）窄幅过关、远段（2024总统）无命败落，触发为其运势高点在市长任内耗尽。无命盘字段，置信下调。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

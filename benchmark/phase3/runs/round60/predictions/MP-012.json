@@ -1,0 +1,12 @@
+{
+ "case_id": "MP-012",
+ "prediction_text": "赖清德/萧美琴一组最有机会、当选下届正副总统：塔罗与圣卦同指赖组居首，侯组次之、柯组再次。2024年1月13日开票定局。",
+ "basis": "tradition=未载于卡（卡面载塔罗及文王圣卦占测）\nsystems_used: tarot, liuyao-context, factual-context\n卡面明载占测方式为塔罗及文王圣卦，惟无牌面/卦象字段，属输入残损；依同日同题形势作断并降置信。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

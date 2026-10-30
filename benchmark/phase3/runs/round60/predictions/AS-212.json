@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-212",
+ "prediction_text": "断：此病非巫蛊所致，是自然之病，先前药物无效只因不对症。疑蛊之象本在：月亮趋对冲土星、两星分居六宫与十二宫，足生疑心；然定蛊须看十二宫主之克——上升、上升主与月亮俱不受十二宫主之害，蛊证不立。月亮过对冲后转而入相上升主，上升主在地平之上、正向天顶上升，主病势将转、病人向愈。应期双层：日档偏周，窗口为问后一两周，主坐标为月亮过冲土星并接上升主之数日内见明显转机，其后渐复。本题应验跨度近病取日档，依据为病程问近事转归。",
+ "basis": "tradition=horary（输入卡 tradition=horary）\nsystems_used: horary (Lilly, Chap. XCIV if bewitched)\n已载面表：主问面（是否中蛊）已断为否；次面（病可否转好）已断；应期面日档。断项过闸：非蛊→十二宫主不克上升/月亮三处，保留；转愈→月过冲后入相上升主，保留。双闸已过。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

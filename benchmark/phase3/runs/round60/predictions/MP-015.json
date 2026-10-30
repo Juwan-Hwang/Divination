@@ -1,0 +1,12 @@
+{
+ "case_id": "MP-015",
+ "prediction_text": "2024龙年特朗普较拜登有利：特朗普属狗逢龙年虽有冲太岁之扰，气势与选战动能仍强于年事已高的拜登，年末大选竞争以特朗普占上风、胜算较高。时间窗：2024年11月大选见分晓。",
+ "basis": "tradition=未载于卡（现代大师生肖流年类，CNN专访）\nsystems_used: bazi-shengxiao-yunshi, factual-context\n以生肖流年与两人年龄/声势对比作断；卡面时点（2024年2月）拜登尚未退选，属时点不确定因素，已注记并降置信。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

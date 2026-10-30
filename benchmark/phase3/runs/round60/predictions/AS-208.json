@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-208",
+ "prediction_text": "断：Rupert 王子在此战事中得不到荣光，反将为 Essex 所制、声名与兵势俱损。Rupert 以十宫及太阳为指示：太阳无定位、居失位（detriment）固定宫，主其本人根基虚浮；Essex 指示星金星与土星互容、且金星支配 Rupert 之指示星，又金星对十宫尖成 dexter 相、月亮对十宫尖成 sinister 相——十宫（其荣誉宫）受制于对方之星。应期：本题问一段战事进程之荣辱，月档尺度，窗口为 Edgehill 后数月，主坐标为其后一季内败象坐实（兵败/退却/失援），终局为不得志而离场损名。",
+ "basis": "tradition=horary（输入卡 tradition=horary）\nsystems_used: horary (Lilly, Chap. LXXXV war/honour)\n已载面表：主问面（得荣抑或被制＋终局如何）已断；关系面（Essex 对照）已断；应期面月档。断项过闸：不得荣→太阳无定位失位，保留；为Essex所制→金星支配其指示星＋互容土星，保留。双闸已过。",
+ "confidence": 0.75,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

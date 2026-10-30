@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-304",
+ "prediction_text": "断：2024年美国总统选举，哈里斯（Kamala Harris）将击败特朗普当选。此断取选前占星圈主流判读：选举日与候选人行运对照下，哈里斯一方得势之象强于特朗普，女性候选人首度登顶成真。胜负形态：非压倒性大胜，关键摇摆州定胜负，计票胶着至选举夜深段方明朗（推测：票差形态题面无据，此句推测）。应期：单点事件，2024年11月5日投票日见分晓。输入残损：题面未载占星师所用盘面与候选人星盘数据，置信下调。",
+ "basis": "tradition=astrology（输入卡无 tradition 字段，据题面占星师 X 平台公开发布自决）\nsystems_used: western-astrology (election prediction)\n已载面表：主问面（选举结果）已断；票差形态面降格推测；应期面为投票日单点。断项过闸：哈里斯胜→指回主问面，触发为选前职业占星圈多数判读之公开体例（题面所示发布渠道），无盘面复核，保留但降置信。双闸已过（弱证据留痕）。",
+ "confidence": 0.4,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

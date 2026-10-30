@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "Winner: Hillary Clinton (Democrat). The panel consensus reading gives the 8 November 2016 election to Clinton over Donald Trump, in line with her polling lead.",
+ "basis": "tradition自决：西洋占星/时事占断（输入卡无tradition字段，据题面定） systems_used=[western mundane astrology]\n已载面：主问面已断；题面已载星象/民调/时局面逐项对回见下；余面题面未载。锚点核：题面星象配置为锚点，直读其象，转应面（民调领先一方反胜）已列并在取舍处注明。\n断项过闸：主断→指代链回题面已载候选人/议题面→盘面触发见下。\nInput loads no individual astrologer's dissenting chart work for this case — only the conference panel setting and Clinton's polling lead. Panel/majority mundane readings follow the frontrunner absent a loaded contrary signature. This case is kept distinct from WP-005/WP-007, whose inputs load a specific contrary reader.",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

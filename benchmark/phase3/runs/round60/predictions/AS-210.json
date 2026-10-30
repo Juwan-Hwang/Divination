@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-210",
+ "prediction_text": "断：此绅士能得所求之职（preferment），但功劳须归一位土星型贵人而非他所倚的那位「太阳型朋友」。月亮居十宫（职位宫）、入相三合土星，土星在上升有擢升之位、与上升主金星互容相接——职位经一位年高庄重之人之手可到。反面面：十一宫主太阳居七宫正对上升且伴南交点，主其所托之友虚浮有欺、不可恃，恃之反误事。应期双层：月档，窗口为问后数月，主坐标取月亮三合土星成相所指之期（数月内）任命落定。",
+ "basis": "tradition=horary（输入卡 tradition=horary）\nsystems_used: horary (Lilly, Chap. LXXXVI preferment)\n已载面表：主问面（能否得职）已断；关系面（所托友人）已断为不可恃；应期面月档。断项过闸：得职→月居十宫三合土星＋互容金星，保留；假朋友→太阳十一宫主对上升伴南交，保留。双闸已过。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

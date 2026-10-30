@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-213",
+ "prediction_text": "断：逃囚向正东而去，且可被追回。行向面四证齐指东：十二宫星座（人马）、木星（囚之指示星）所在狮子、所在象限与月亮星座，众口一词主东。追回面：月亮近上升、离三合木星而入相对太阳（角宫对冲主暴露于光天化日），木星居八宫、木星与水星成相——主其行踪将被揭出、终被擒回。应期双层：日档，窗口为逃后数日，主坐标为月亮对冲太阳成相之数日内被擒或确讯至，不至远逃脱网。",
+ "basis": "tradition=horary（输入卡 tradition=horary）\nsystems_used: horary (Lilly, Chap. XCV escaped prisoner)\n已载面表：主问面（行向＋可否追回）已断；应期面日档。断项过闸：向东→四证齐东，保留；可追回→月冲日在角宫＋木星八宫，保留。双闸已过。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

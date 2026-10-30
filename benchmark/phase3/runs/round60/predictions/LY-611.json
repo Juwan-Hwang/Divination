@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-611",
+ "prediction_text": "弟被讼不利、败诉受责之象：官鬼午火三爻动临午月建旺，火克兄弟酉金用神，讼势压人；兄弟酉金五爻动化申金为化退，弟一方势退。应期定日档：窗口本旬内，主坐标午日——官鬼午火逢值，判决/处分落定之期。",
+ "basis": "tradition=六爻（输入卡自带）\nsystems_used: liuyao\n用神兄弟酉金，午月受克休囚而动化退（酉→申按序后退）；官鬼动而临月旺克用。对象复述：被讼者为弟，兄弟爻对回。化退合判：用神休囚无生扶+化退，权重高档。应期：官逢值午取中。",
+ "confidence": 0.63,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "MP-004",
+ "prediction_text": "蔡英文当选连任：2019年11月时点断2020年1月11日由蔡英文胜出，韩国瑜落败。胜负差距为明显差距，非胶着险胜。",
+ "basis": "tradition=未载于卡（现代大师命人类）\nsystems_used: factual-context, bazi-shengxiao-yunshi\n卡面载多项民调韩持续落后，与运势判断同向，两路收敛故置信略升；无盘面字段已注记。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

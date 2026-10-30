@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-008",
+ "prediction_text": "Winner: Narendra Modi / BJP-led NDA. Modi wins a second term in the 2019 Lok Sabha elections — the incumbent alliance retains power when counting completes on 23 May 2019, with a decisive (not hung) mandate.",
+ "basis": "tradition自决：西洋占星/时事占断（输入卡无tradition字段，据题面定） systems_used=[vedic/mundane election reading]\n已载面：主问面已断；题面已载星象/民调/时局面逐项对回见下；余面题面未载。锚点核：题面星象配置为锚点，直读其象，转应面（民调领先一方反胜）已列并在取舍处注明。\n断项过闸：主断→指代链回题面已载候选人/议题面→盘面触发见下。\nAsked 30 March 2019 before any votes: incumbency plus no loaded contrary chart face in the input; the question as posed in the Indian astrological-prediction context of the source favours the strong incumbent's continuation. Scale: month window April–May 2019, main coordinate counting day 23 May.",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

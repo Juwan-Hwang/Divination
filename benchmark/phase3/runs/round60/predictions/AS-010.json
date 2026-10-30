@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-010",
+ "prediction_text": "断：逃仆向西/西南方而去，且将自回或被寻回，归期不远。仆之指示星水星与月亮俱居西方星座、南象限，主其行向西偏南；月亮居二宫自宫、太阳在二宫与十一宫行星成完相，主主人家资财面有接应；仆指示星与上升主急趋三合且出角宫，主双方终得相见、仆归有路。应期双层：日档，窗口为出走后一周内，主坐标为数日之内（以三合将成之度数计）仆归或被带回。",
+ "basis": "tradition=horary（输入卡无 tradition 字段，据题面 Lilly 逃仆占自决）\nsystems_used: horary (Lilly, Chap. LXI fugitive servant)\n已载面表：主问面（行向＋何时归/寻回）已断；关系面（主/仆）已断；余面题面未载。断项过闸：行向西偏南→水星月亮西星座＋南象限双证，保留；将归→指示星趋三合出角宫，保留；数日应期→日档（近事问归期，题面以周日出走为锚）取度数，保留。双闸已过。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

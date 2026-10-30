@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-539",
+ "prediction_text": "雨将止：父母卯木伏而旬空，雨象伏空无力续；子孙丑土动化巳火、妻财酉金动，晴象（子孙）发动。应期定日档：窗口一至二日内，主坐标巳日——化出子孙巳火逢值主晴，届时雨止放晴。",
+ "basis": "tradition=liuyao（输入卡自带）\nsystems_used: liuyao\n天时占：父母为雨、子孙为晴。父母卯伏初爻下且寅卯空；子孙动。应期三路：化神逢值巳日取中；父母出空寅卯日主雨再现与终局晴向相悖故舍；填实同理舍。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

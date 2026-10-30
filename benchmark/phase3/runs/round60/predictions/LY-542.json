@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-542",
+ "prediction_text": "此坟地不宜葬：世爻兄弟卯木动化官鬼酉金回头克世（金克木），五爻子孙巳火动化父母亥水回头克（水克火），主象与安葬之象俱受克。地虽经地师称美，卦象主葬后不安、有克应于家。终局判不宜。应期定月档：窗口卯月内，主坐标酉日——克世化神逢值，克应之期。",
+ "basis": "tradition=liuyao（输入卡自带）\nsystems_used: liuyao\n占坟以世与父母为承受对象，对象复核：克应落于葬家本人一方。两动爻皆回头克（方向逐对复核：酉金克卯木、亥水克巳火）。应期：化神逢值酉取中；世逢值卯与终局方向相悖故舍。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-012",
+ "prediction_text": "断：倭寇不来，此番警讯为虚惊。得《噬嗑》而官鬼爻（寇之指代）衰而安静：鬼衰无力、静而不动，主寇无犯境之势、亦无潜动之谋。噬嗑本有「梗在喉」之小阻象，只主地方盘查戒备之扰，不成寇祸。应期：日档，窗口为占后旬内，主坐标为旬内无警即坐实不来（静爻逢值逢冲三路中，冲实一路无候选因鬼本不空不伏，取逢值之日为验点）。",
+ "basis": "tradition=六爻（输入卡 tradition=六爻）\nsystems_used: liuyao (噬嗑）\n已载面表：主问面（倭寇来否）已断；应期面日档。断项过闸：寇不来→官鬼衰静，保留。输入残损：原文只记卦名与鬼衰静、无全盘，置信下调。双闸已过。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "静卦无变（changed_main=false）；未用伏神储备（reserve_used=false）；证词同向（disputed=false）。"
+ }
+}

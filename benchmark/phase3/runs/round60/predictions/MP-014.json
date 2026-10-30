@@ -1,0 +1,12 @@
+{
+ "case_id": "MP-014",
+ "prediction_text": "大选对特朗普不利：新冠病情可渡过、能出院续选，但选情受住院打乱且运势走低，11月3日将败于拜登、无缘连任。时间窗：病程以周计转安，选败于11月3日定局。",
+ "basis": "tradition=未载于卡（现代大师运势类）\nsystems_used: bazi-shengxiao-yunshi, factual-context\n两轴分断：病情轴可愈、选情轴败落，不相混。无盘面，置信下调。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
