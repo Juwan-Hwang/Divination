@@ -20,3 +20,11 @@ def crop(src, name, box_frac, out_name, scale=2):
 
 # 289 right half = first leaf of spread (right side of image), where 失墨蒙責 sits per R53
 crop(os.path.join(SRC53, "lk-289-289.png"), "289", (0.50, 0.10, 1.0, 0.95), "shimo_p289_righthalf_r54.png", scale=1)
+
+# C61 candidate: p339 left leaf, 二棺自天而落 (middle band) + 芻狗 tail above
+crop(os.path.join(SRC54, "lk-339-339.png"), "339L", (0.0, 0.08, 0.52, 0.72), "c61_erguan_p339_left_r54.png", scale=2)
+# C62 candidate: p346 right leaf lower (大墳露棺 start) and left leaf upper (聞淵解 + 結局)
+crop(os.path.join(SRC54, "lk-346-346.png"), "346R", (0.50, 0.30, 1.0, 0.97), "c62_dafen_p346_right_r54.png", scale=2)
+crop(os.path.join(SRC54, "lk-346-346.png"), "346L", (0.0, 0.08, 0.52, 0.62), "c62_dafen_p346_left_r54.png", scale=2)
+# also p339 right leaf for 芻狗 full + 二棺 header context
+crop(os.path.join(SRC54, "lk-339-339.png"), "339R", (0.48, 0.08, 1.0, 0.97), "c61_ctx_p339_right_r54.png", scale=2)
