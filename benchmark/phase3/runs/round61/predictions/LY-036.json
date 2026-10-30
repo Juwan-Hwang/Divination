@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-036",
+ "prediction_text": "盘面残损，无法定官鬼用神：方向不定，倾向不成/不顺；应期不予定点。",
+ "basis": "tradition=liuyao（输入卡 tradition 字段）\nsystems_used: liuyao\n用神：以官鬼为用神；盘面解析失败，输入残损注明、降置信，不臆补。卦：地澤臨之風澤中孚（坤宮，空亡申酉）；占时：本月（據應驗「果於本月」，月名原文未記）；问：占升選",
+ "confidence": 0.25,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "盘面解析失败，用神不定"
+ }
+}

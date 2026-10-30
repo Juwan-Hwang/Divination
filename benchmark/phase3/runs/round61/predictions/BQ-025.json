@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-025",
+ "prediction_text": "断：这窝蜜蜂养不住、也养不出利：蜂群会不安、飞逃散失或病亡，终致空箱无收。应期以月为单位：窗口在八月占后一两月内，主坐标兄鬼逢值之时（近月内）蜂群先出逃散之事，其后纵留残蜂也成不了气候。",
+ "basis": "tradition=六爻\nsystems_used: 六爻纳甲（残盘）\n依据：输入残损——只有屯之坤与「兄鬼发动、卦无财」及五爻螣蛇鬼动之自述，无全盘，chart_complete=false，已注明并降置信。养蜂求利以妻财为用神，卦中无财主无利可图根源缺失；兄弟与官鬼同动，兄弟主耗损惊散、官鬼临螣蛇主怪异不安，蜂群得此最忌。对象核对：断在新收养的蜜蜂群本身。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main:变卦坤未改变兄鬼发动、卦无财之主断，故false；reserve_used:未用备路，故false；disputed:题面证词无冲突，故false。"
+ }
+}

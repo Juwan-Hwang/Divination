@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-010",
+ "prediction_text": "断：这场官司打不赢——文书证据落空（父母空亡）、终局未济，诉讼以不成或败诉收场，最好息讼和解。应期以旬为单位（日档尺度）：窗口在父母出空填实之前后见分晓，主坐标本旬出空之日官司定局、对己不利。",
+ "basis": "tradition=六爻\nsystems_used: 六爻纳甲（残盘）\n依据：输入残损——只有本卦蒙、变卦未济与「父母空亡」一句，无全盘无日期，chart_complete=false，已注明并降置信。诉讼以父母为文书诉状、官鬼为官断；父母空亡主诉状文书落空、无凭无据，变未济主事情终究不成。对象核对：断在谈朝辅这场官司本身。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main:变卦未济主事情终不成、为终局方向所据；reserve_used:未用伏神/卦辞备路，只据题面父母空亡一据作断，故false；disputed:题面证词无冲突，故false。"
+ }
+}

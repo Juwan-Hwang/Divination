@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-305",
+ "prediction_text": "断：在势均力敌中险判特朗普胜出。两人得票接近、关键摇摆州以小差距定胜负，最终特朗普以选举人票过线当选，哈里斯以微弱差距落败。应期以日为单位：2024年11月5日后数日内定局。",
+ "basis": "tradition=astrology（输入卡无tradition字段，据选举占星题面自决）\nsystems_used: western-astrology（西洋占星，选举日盘+候选人行运）\n依据：输入卡残损——卡上自述原作者亦称盘面势均力敌极难判断，且未给任何星位。按选举占星通例在势均力敌时取挑战者动能与选举日月亮/上升所落一方为决胜手：本届挑战者一方（特朗普）的竞选动能与关键州势头占先。按残损规矩注明并降置信，置信只给0.50。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

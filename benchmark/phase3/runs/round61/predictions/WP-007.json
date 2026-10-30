@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Prediction: Donald Trump wins the 2016 US presidential election of 8 November 2016. What decides it: the Clinton email controversy — already a public controversy at the time of the reading (August 2016) — returns in the final stretch of the campaign as the decisive blow to Clinton, moving late-deciding voters and suppressing her margin in the decisive states; Trump wins through the Electoral College while Clinton likely leads the popular vote. Direction single and final: Trump, decided by the late email-story resurgence rather than by the debates or the conventions. Timing: the deciding development falls in the last two weeks before 8 November (the question's own time window). The card states a tarot reader drew cards on the election but does not record the spread; no spread is fabricated here — the call is made on the card's stated facts, with the email controversy as the named decisive variable.",
+ "basis": "tradition=western tarot election reading (per card genre) — spread not recorded in card\nsystems_used: fact-priority event judgement (tarot spread absent from card; declared, not fabricated)\nFaces in card: question (winner 2016, and what decides it); race facts (Clinton leads most August polls); controversy face (Clinton email controversy and Clinton Foundation already public in August 2016). Deficiency noted: the drawn cards are not in the card, so no Waite card-by-card derivation is possible; per protocol this is declared and the prediction rests on the card's facts, with the decisive-variable clause answering the question's second half. Anchor treatment: the August polling lead is the face reading; its reversal is adopted with reason stated (a live, unresolved controversy over the front-runner is the classic late-campaign reversal vector, and the question itself asks what will decide the race).",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

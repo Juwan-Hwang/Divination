@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-012",
+ "prediction_text": "断：倭寇不来，此番只是虚惊。应期以日为单位：窗口为占后一旬内无寇至，主坐标丙子日后数日内警报自消、并无寇踪。",
+ "basis": "tradition=六爻\nsystems_used: 六爻纳甲（残盘）\n依据：输入残损——只有卦名噬嗑与「鬼爻衰静」，无全盘，chart_complete=false，已注明并降置信。卜寇以官鬼为寇贼之用神，鬼爻衰弱又安静不动，主寇势弱而无来犯之动，噬嗑卦体亦主虚张声势终须咬开疑团。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main:无变卦记载，故false；reserve_used:只据鬼爻衰静一据作断未用备路，故false；disputed:题面证词无冲突，故false。"
+ }
+}

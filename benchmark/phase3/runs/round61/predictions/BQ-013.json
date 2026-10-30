@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-013",
+ "prediction_text": "断：久雨不会马上停，雨势成局还要再下，短期盼晴落空。应期以日为单位：窗口为合局未散之数日，主坐标待局逢冲散之日（约三五日后、辰戌冲动一带）才转晴，先雨后晴。",
+ "basis": "tradition=六爻\nsystems_used: 六爻纳甲（残盘）\n依据：输入残损——只有随之咸与「申子两爻俱动、与日辰申合成父局」，无全盘，chart_complete=false，已注明并降置信。占雨晴以父母为雨之用神，申子动而与日辰合成父母水局，主雨势成局、云雨正盛，局未逢冲开不得晴。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main:变卦咸未改变父局主雨之判断，故false；reserve_used:只据申子动合父局作断未用备路，故false；disputed:题面证词无内在冲突，故false。"
+ }
+}

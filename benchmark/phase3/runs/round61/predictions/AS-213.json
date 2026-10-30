@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-213",
+ "prediction_text": "断：逃犯往东边逃了。他藏不久：行踪会败露、终将被抓回（不会长期逍遥在外）。应期以日为单位，窗口为占问后数日至数周，主坐标其被发现拿获在月内见分晓。",
+ "basis": "tradition=horary\nsystems_used: horary（西洋卜卦占星，Lilly古典规则）\n依据：逃犯以12宫头射手与木星（在狮子）为用神，12宫星座、木星所在星座、天象象限、月亮所在星座四证一致指东方；月亮近上升、离木星三合而将冲角宫的太阳，主其行踪将被照见曝光；木星与水星有相位主消息走漏。木星居8宫为其不利之象。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

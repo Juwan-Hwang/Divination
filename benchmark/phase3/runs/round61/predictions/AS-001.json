@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-001",
+ "prediction_text": "断：儿子不在主人家，而在母亲自己家里（或已回到母亲一方住处）。母子主星三合将成，应期以日为单位：窗口为占问后数日至7月25日，主坐标7月25日前后母子相见或确切消息落实，儿子归到母亲身边。",
+ "basis": "tradition=horary（输入卡无tradition字段，据Lilly卜卦题面体裁自决）\nsystems_used: horary（西洋卜卦占星，Lilly古典规则）\n依据：子之主星木星（5宫主）落命宫（东方角），主子亲近求问者一方之宫位；月亮在双鱼27°将六合4宫主土星（母之居所主星），母子主星三合将于7月25日14时成相。对象核对：断在儿子身上，非母。盘面仅Lilly散文所述位置、非全盘，置信降格。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

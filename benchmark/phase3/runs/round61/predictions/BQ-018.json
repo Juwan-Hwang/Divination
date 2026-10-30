@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-018",
+ "prediction_text": "断：大凶——避祸失败，占者本人将直接受害，轻则伤财伤身、重则性命堪忧，无人无力能救。应期以日为单位：窗口为占后旬内，主坐标世爻出空或鬼爻逢值之日祸事落实，须以最坏打算立即远走。",
+ "basis": "tradition=六爻\nsystems_used: 六爻纳甲（残盘）\n依据：输入残损——只有损之临与「日辰扶助、官鬼动克世爻、并无救制、世坐空亡」，无全盘，chart_complete=false，已注明并降置信。鬼动克世而日辰反扶动鬼、卦中无子孙制鬼之救，世爻又坐空亡主本人无根无依——避乱占最凶格局之一。对象核对：克世，断在占者本人。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main:变卦临未改变鬼动克世无救之主断，故false；reserve_used:未用备路，只据题面明载三据，故false；disputed:日辰扶助指扶鬼（题面连下文读为扶助动鬼）、与世空无救同向主凶，无冲突，故false。"
+ }
+}

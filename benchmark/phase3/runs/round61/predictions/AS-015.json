@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-015",
+ "prediction_text": "断：丈夫还活着，人平安，在海上航程中或已靠港，正往归途上，只是归期迟延、一时无信。应期以月为单位：窗口为占问后数月内，主坐标其航程靠港后消息先到、人随后数月内归家。附带一笔（推测：）：妇人自身病势沉重反复，恐等不到丈夫归来便先有性命之忧。",
+ "basis": "tradition=horary（输入卡无tradition字段，据Lilly卜卦题面体裁自决）\nsystems_used: horary（西洋卜卦占星，Lilly古典规则）\n依据：丈夫用神太阳处于其hayz（得时得位）且全然不受克害，古典法主远行在外之人平安活着、无性命之虞；盘中无丈夫主星入8宫或受凶克之证，故不主死讯。妇人自身6宫主土星逆行主其病反复缠绵，此为次面、只作附带。盘面部分字形OCR讹误，置信降格。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

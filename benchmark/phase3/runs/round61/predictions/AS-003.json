@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-003",
+ "prediction_text": "断：这笔房屋买卖能成，Lilly能买下Master B.的房子。过程有钱款迟滞：自有资金半年内难调用，须借贷或分期周转方能按时凑足，但最终能赶在付款期限内办妥。应期以月为单位，主坐标约数月内（半年内）成交过户，价格经商谈后低于最初要价530镑成交。",
+ "basis": "tradition=horary\nsystems_used: horary（西洋卜卦占星，Lilly古典规则）\n依据：卖方主星太阳在7宫受金星（擢升）接纳，7宫主兼11宫（希望）主；金星将三合4宫主土星（房屋本身），主交易与房屋相合而成；2宫主水星逆行主钱一时调不回、须迟滞数月，非不成之象；土星为4宫主，除逆行陷落外无大凶。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

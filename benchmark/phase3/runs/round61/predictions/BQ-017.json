@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-017",
+ "prediction_text": "断：避乱不成，祸会找上门——眼下无事是假象，伏着的寇祸已被申日提起，此人不能安居原处、须立即远避，否则本人受害。应期以日为单位：窗口为占后数日内，主坐标申日提起后三五日内祸事临头。",
+ "basis": "tradition=六爻\nsystems_used: 六爻纳甲（残盘，伏神取断）\n依据：输入残损——只有卦名涣与「六爻安静无官鬼、鬼伏六三空亡下、遇申日提起、冲克世爻」，无全盘，chart_complete=false，已注明并降置信。避乱占表面安静无鬼最易误判平安，但伏鬼藏于空亡爻下、逢申日被提起透出且冲克世爻，按伏神逢值逢冲出空之法，潜伏之祸已被日辰引爆、直冲占者本人。对象核对：冲世，断在占者本人。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "changed_main:无变卦，故false；reserve_used:主断正出自伏神（鬼伏六三空亡下逢申日提起）这一伏神备路，故true；disputed:安静无鬼为表象、伏鬼被提为里据，两者为表里而非证词冲突，里据已明载，故false。"
+ }
+}

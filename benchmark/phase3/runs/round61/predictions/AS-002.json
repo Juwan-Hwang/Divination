@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-002",
+ "prediction_text": "断：此人会致富，且主要靠自己的经营本事自立发家，不必靠婚姻带来财富。财富非骤至：应期以年为单位，月亮距合金星6°27′主约六至七年内（约1640年前后）家业明显立起；福点与2宫俱固定，故富后能守、财富持续不坠。",
+ "basis": "tradition=horary（输入卡无tradition字段，据Lilly卜卦题面体裁自决）\nsystems_used: horary（西洋卜卦占星，Lilly古典规则）\n依据：木星擢升于巨蟹且近天顶（10宫）为显贵强证；2宫主兼福点主火星落命宫近角宿一（Spica）主富；福点落固定星座在火星界内、2宫头固定星座主财富积聚而持久；月亮（10宫主）离金牛六合火星、合金星尚差6°27′主积年渐成。",
+ "confidence": 0.75,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

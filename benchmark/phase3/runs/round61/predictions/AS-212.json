@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-212",
+ "prediction_text": "断：不是被巫术所害。此病是自然之病（土星寒冷忧郁之气积滞，药不对症才久治无效），换方调治后能渐好。应期以月为单位：窗口为随后数周至数月，主坐标月亮过冲土星之期（近数周）病势先有一阵反复，其后转入恢复。",
+ "basis": "tradition=horary\nsystems_used: horary（西洋卜卦占星，Lilly古典规则）\n依据：月亮将冲土星、两星分居6宫12宫只是起疑之象；决定性规则是上升、命主星、月亮皆未被12宫主所伤，故按Lilly法不构成中邪/被巫之证；月亮冲土星之后转而趋合命主星，命主星在地平线上向天顶上升，主病人元气上行、病情向愈。",
+ "confidence": 0.75,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

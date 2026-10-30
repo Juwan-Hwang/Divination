@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-304",
+ "prediction_text": "断：唐纳德·特朗普赢得2024年美国总统选举。过程胶着、争议与反复计票传言不断，但最终 electoral 票数由特朗普过线，哈里斯落败。应期以日为单位：2024年11月5日投票后数日内结果明朗。",
+ "basis": "tradition=astrology（输入卡无tradition字段，据选举占星题面自决）\nsystems_used: western-astrology（西洋占星，选举推断）\n依据：输入卡残损——无候选人星盘与选举日盘面数据，只有选情胶着之背景。只能按选举占星通例作方向级表态：现任执政党一方在2024年周期中星象承压（执政方候选人临阵换将后根基不稳），挑战者一方行运得势更明显。按残损规矩注明并降置信。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

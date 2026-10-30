@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-021",
+ "prediction_text": "断：这季禾稻长势受灾、收成受损，是歉象不是丰象：先有病虫或涝滞之患（酉官），入夏后转旱热伤苗（二爻受克）。应期以月为单位：窗口在四月占后至夏间，主坐标午月火旺之时禾苗受损最显，秋收明显减产。",
+ "basis": "tradition=六爻\nsystems_used: 六爻纳甲（残盘）\n依据：输入残损——只有大过之困与「酉官动变午火、日辰带财克制二爻」，无全盘，chart_complete=false，已注明并降置信。卜禾以子孙/妻财为禾稼收成，官鬼动主灾害病患；二爻为田禾之位受日辰带财克制，主苗根受损；官动化午火主灾转为旱热或火燥伤禾。大过卦体主过载难支。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main:酉官动变午火给出灾变性质与时点、为断语所据，故true；reserve_used:未用备路，故false；disputed:题面证词无冲突，故false。"
+ }
+}

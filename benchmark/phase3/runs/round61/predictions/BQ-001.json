@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-001",
+ "prediction_text": "断：父亲寿数已尽，这次复苏只是回光返照，能短暂开口说话而后复绝。应期以日为单位：窗口为占问（三月十三日）后数日内，主坐标三日内气绝身故，不会拖过本旬。",
+ "basis": "tradition=筮占\nsystems_used: 六爻纳甲（残盘）＋周易卦象\n依据：输入残损——原文只有本卦兑、变卦履与断语援引之象（兑上天下土、庚辛日本宫火、兑变乾），无六爻全盘，chart_complete=false，已注明并降置信。兑为口为言主一时复苏能言，变乾为天主魂归于天、本宫火克金（兑）主寿数被克绝；父卧疾三年又气尽复苏，象主回光而非转愈。对象核对：断在父亲本人，非求卜者。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "changed_main:变卦履/变乾为天主终局取断；reserve_used:无六爻全盘，退用卦象与本宫、庚辛日等题面自述之象作断；disputed:题面证词无内在冲突，故false。"
+ }
+}

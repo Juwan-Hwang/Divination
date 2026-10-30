@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-022",
+ "prediction_text": "断：这季棉花种得不利：长势或收成受外来冲克（天时不顺加人事相争），收成打折，且过程里会有一场口舌争执。应期以月为单位：窗口在本季棉作期内，主坐标应爻逢值之月（近一两月内）冲克之事先见，秋收见歉。",
+ "basis": "tradition=六爻\nsystems_used: 六爻纳甲（残盘）\n依据：输入残损严重——只有无妄之讼与「应爻冲克世爻」一句，无全盘无用神状态，chart_complete=false，已注明并降置信至0.50。应冲克世主外来力量（天时、旁人、田主一方）与种棉者正面相冲，事不顺遂；变讼主其后还有口舌争讼之尾。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main:变卦讼未改变应冲克世之主断，故false；reserve_used:题面只有一据、别无备路可用，已在basis注明残损并降置信，故false；disputed:题面证词无冲突，故false。"
+ }
+}

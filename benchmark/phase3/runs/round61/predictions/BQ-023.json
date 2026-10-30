@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-023",
+ "prediction_text": "断：这块田租不稳、种不成：田主一方会变卦（另许他人或收回），租约落空，占者白忙一场，不要先下种备料。应期以旬为单位（日档尺度）：窗口在父母爻出空填实之前，主坐标出空之日（本旬内）田主变卦的消息落实。",
+ "basis": "tradition=六爻\nsystems_used: 六爻纳甲（残盘）\n依据：输入残损——只有姤之乾与「世上父动化空」，且无月日，chart_complete=false，已注明并降置信。租田种麦以父母为田契、田主文书之用神，父母恰临世爻发动却化空亡，主契约田主之事动而落空——田的归属许诺不实、文书成空。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main:世上父母动化空直接决定租田终局落空，故true；reserve_used:未用备路，故false；disputed:题面证词无冲突，故false。"
+ }
+}

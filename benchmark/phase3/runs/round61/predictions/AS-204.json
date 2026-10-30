@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-204",
+ "prediction_text": "断：病在胸胃之间，是凝结成块的沉重之疾（胸胃部硬结肿块一类，带土星寒湿凝滞之性），不是一时外感。此病难治：四角固定、土星压命，断为缠绵难愈、药力难达根，纵一时缓和也易复发，终局不乐观。应期以月为单位，病程以数月计拖延，无速愈之期。",
+ "basis": "tradition=horary\nsystems_used: horary（西洋卜卦占星，Lilly古典规则，decumbiture式病占）\n依据：上升天蝎；6宫被一颗落陷之星占据所伤、命主星刚离土星之刑，土星在巨蟹主胸与胃，月亮在4宫与土星同在，四角皆固定。土星寒冷凝滞在巨蟹所主部位，主胸胃间有凝结硬块之患；角固定主病势缠绵难动。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

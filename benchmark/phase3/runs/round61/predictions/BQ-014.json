@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-014",
+ "prediction_text": "断：飓风不会立刻停，但已被合住、势头在收，占后一两日内渐止；行程可行而迟——人先被困住，等风止后才能动身。应期以日为单位：窗口为占后数日，主坐标应爻逢冲开之日（约两三日后）风止启程。",
+ "basis": "tradition=六爻\nsystems_used: 六爻纳甲（残盘）\n依据：输入残损——只有困之震与「兄弟、父母俱动，合住应爻」，无全盘，chart_complete=false，已注明并降置信。父母主风雨、兄弟主风势劫滞，两爻俱动主风一时未止；然动爻合住应爻主风势与行程同被合绊、势将困住渐收；困卦本身亦主受困待通。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "changed_main:变卦震未改变应爻被合住之主断，故false；reserve_used:只据题面兄父动合应作断未用备路，故false；disputed:兄父俱动主风未止与合住应爻主被绊止两面相抵，故true。"
+ }
+}

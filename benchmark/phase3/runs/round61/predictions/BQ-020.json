@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-020",
+ "prediction_text": "断：长子与弟弟都有险，长子（子孙爻受刑冲）伤得更重，弟弟（兄弟爻被克）次之——两人不能算平安，须防伤病甚至性命之失。应期以日为单位：窗口为占后旬内，主坐标子孙爻逢冲刑之日长子之厄最先落实。",
+ "basis": "tradition=六爻\nsystems_used: 六爻纳甲（残盘）\n依据：输入残损——只有大壮之小过与「日辰妻财生扶动爻、刑冲子孙、又克兄弟」，无全盘，chart_complete=false，已注明并降置信。避难占子弟安否：子孙爻即长子之用神、兄弟爻即弟之用神，两爻一被刑冲一被克，皆受实伤；财虽生扶动爻却正是生克害之源。对象逐名核对：子孙对长子、兄弟对弟，不混作占者本人。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "changed_main:变卦小过未改变子孙兄弟受克之主断，故false；reserve_used:未用备路，故false；disputed:日辰财生扶动爻似吉与刑冲子孙、克兄弟实凶方向相抵，故true。"
+ }
+}

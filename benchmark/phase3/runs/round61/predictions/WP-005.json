@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-005",
+ "prediction_text": "Prediction: Donald Trump wins the 2016 US presidential election of 8 November 2016, defeating Hillary Clinton. Direction single and final: Trump. The distinguishing fact in this card is that one panel astrologer had already, against a 17-candidate Republican field, picked Trump for the nomination — the forecaster who read the Trump phenomenon correctly at its hardest-to-read stage is the signal this card isolates, and this prediction follows that line to its conclusion: the same candidacy that broke the nomination race breaks the general election, again against the polling consensus (Electoral College win; popular vote may go the other way). Timing unit: election day (fixed by the question).",
+ "basis": "tradition=western political astrology panel question (per card genre) — no chart data supplied in card\nsystems_used: fact-priority event judgement centred on the card's one differentiating fact (the panellist's earlier against-the-field Trump nomination call)\nFaces in card: question (winner 2016); race facts (Clinton vs Trump, most polls favour Clinton); differentiating fact (one panellist previously picked Trump as Republican nominee from a 17-candidate field). No chart/configuration is supplied and none is fabricated. Anchor treatment: 'most polls favour Clinton' is the face reading; the reversal (polls understate the outsider) is adopted here, with the reason stated — the card itself foregrounds a forecaster whose Trump reading already outperformed consensus once in this cycle.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

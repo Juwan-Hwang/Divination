@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-014",
+ "prediction_text": "断：偷钱的不是那两个被怀疑的女人，而是一个男人——年轻、身分近仆役或常在屋内走动的男子（水星型人物）。钱已被动用一部分，只能追回一部分、全数追回无望。应期以日为单位，窗口为随后数日，主坐标盘查对质后一周内人赃见分晓。",
+ "basis": "tradition=horary（输入卡无tradition字段，据Lilly卜卦题面体裁自决）\nsystems_used: horary（西洋卜卦占星，Lilly古典规则）\n依据：火星（命主、被疑女仆之象）与土星（另一被疑者）皆在自界自面，按Lilly规则不得取为贼星、嫌疑洗清；水星在角宫、无任何本质尊贵、与土星同宫且刑火星，取为真贼用神；水星合土星刑火星、月亮在阳性星座将合火星、月近太阳，诸象俱指男性。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

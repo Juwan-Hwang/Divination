@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-011",
+ "prediction_text": "断：这门婚事能挽回并办成。关键在男方先迈步：约6月19日近午时由男方主动示好重启接触，6月27日前后双方主星成相、婚议正式定下，其后成婚。应期以日为单位，主坐标6月27日定局。",
+ "basis": "tradition=horary（输入卡无tradition字段，据Lilly卜卦题面体裁自决）\nsystems_used: horary（西洋卜卦占星，Lilly古典规则）\n依据：木星擢升将六合7宫主土星（男方），并把土星之光传递给命主太阳（女方），中间无禁止、截断或挫败，相位于6月27日成正，主有尊贵第三方撮合传递、婚事可再接上；月亮虽虚空离男方主星、后冲太阳主先有僵局，然传递链完整压过之。",
+ "confidence": 0.75,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

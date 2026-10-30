@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-010",
+ "prediction_text": "断：仆人往西边偏南方向去了，去得不远。此人能找回，且多半自己回来或被人送回，应期以日为单位：窗口为占问后数日（一周内），主坐标两主星三合成相之日人归。",
+ "basis": "tradition=horary（输入卡无tradition字段，据Lilly卜卦题面体裁自决）\nsystems_used: horary（西洋卜卦占星，Lilly古典规则）\n依据：仆人以水星为专用神（月亮为仆人通主），水星在西方星座、南象限主其往西偏南而去；出走时月亮在西方星座且仍在原星座主去向未远未改；仆人主星与命主星将从角宫成三合，主双方重新相合、人将归回。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

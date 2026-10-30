@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-015",
+ "prediction_text": "断：这一年是歉收之年，且主水灾伤禾：雨水过多成涝、五谷收成明显低于常年，局部有水患淹田。应期以年为单位：主坐标夏秋雨季（水鬼与父爻所主之时）灾情最显，秋收见歉。",
+ "basis": "tradition=六爻\nsystems_used: 六爻纳甲（残盘）\n依据：输入残损——只有蒙之中孚与「水鬼与应上父爻俱动伤克世爻、妻财又伏」，无全盘，chart_complete=false，已注明并降置信。卜年时以妻财为五谷之用神，财伏藏不现主收成无着；水鬼动主水患，父母（雨）动主雨水过盛，两动同伤世主一岁天时伤稼。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main:变卦中孚未改变水鬼父动伤世、财伏之主断，故false；reserve_used:财伏为题面明载、非自取备路，故false；disputed:题面证词同向主凶无冲突，故false。"
+ }
+}

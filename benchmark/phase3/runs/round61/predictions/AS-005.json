@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-005",
+ "prediction_text": "断：船没有沉，尚在海上活着，只是受了损伤惊险。船当在西班牙海岸一带（往返航路上靠岸或入港避险）。消息将到：应期以日为单位，月亮三合仅差数分主消息极近，窗口为数日之内，主坐标占问后数日得船之确信。",
+ "basis": "tradition=horary\nsystems_used: horary（西洋卜卦占星，Lilly古典规则）\n依据：上升巨蟹象船体，土星在白羊11宫刑上升主船曾遇险受损；然命主月亮在金牛擢升、将三合7宫太阳水星（仅差数分）且近木星，主船尚存且得救助；月亮强而吉相将成是「船活」主证，土星之刑只主损伤惊险。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

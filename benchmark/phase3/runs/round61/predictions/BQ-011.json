@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-011",
+ "prediction_text": "断：官司对周焚松不利但不至大败：先受官非冲克之惊扰责罚，终靠破财打点与日辰之扶得解，免去重罪大祸。应期以日为单位：窗口为占后旬月内，主坐标财动生官、事情在破财之后本旬内了结。",
+ "basis": "tradition=六爻\nsystems_used: 六爻纳甲（残盘）\n依据：输入残损——只有离之贲与「日辰扶起、官鬼冲克世爻、财爻又动」，无全盘，chart_complete=false，已注明并降置信。官鬼冲克世主官非祸患压身；日辰扶起被冲之世主有外力救应不至倾覆；财爻动主须破财或以财通关。三据相争，按扶救在日辰、冲克在官鬼，断为有祸而得解。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "changed_main:变卦贲未改变官鬼冲世之主断方向，故false；reserve_used:只据题面三据作断未用备路，故false；disputed:日辰扶起与官鬼冲克世、财爻动三据方向相抵，证词相争，故true。"
+ }
+}

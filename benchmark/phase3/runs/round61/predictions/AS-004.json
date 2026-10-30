@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-004",
+ "prediction_text": "断：消息不实——国王并未攻下剑桥（Cambridge）。此系流传的假报，剑桥仍在议会一方手中，不必因此惊动行止。应期以日为单位，随后数日内即有确实消息证伪此说。",
+ "basis": "tradition=horary（输入卡无tradition字段，据Lilly卜卦题面体裁自决）\nsystems_used: horary（西洋卜卦占星，Lilly古典规则）\n依据：四角皆变动星座主消息虚浮无根；月亮陷落于不喜之星座主传闻无实；命主星（议会一方）在擢升位主己方强；7宫主（国王一方）入弱且受困，主对方并无新得之城。传闻占以主星受困、月亮无力为假消息之据。",
+ "confidence": 0.8,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

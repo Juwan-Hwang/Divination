@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-215",
+ "prediction_text": "断：Essex这次西征以失败收场，而且是惨败：军队将在西部遭受重大损失（被围、被歼或被迫投降一路），资财辎重尽失，他本人声名扫地、勉强脱身而归，此后一蹶不振。应期以月为单位，主坐标出征后两三个月内（1644年夏末秋初）败局落定。",
+ "basis": "tradition=horary\nsystems_used: horary（西洋卜卦占星，Lilly古典规则，事件盘）\n依据：上升水瓶，南交点居上升主此行自带损耗；命主土星游荡且落陷居2宫主兵力资财根基虚弱；月亮失势（detriment）离土星三合而将刑火星（其2宫与9宫主：资财、助力、行程），主出征后资财助力俱伤；福点受7宫主（敌人）支配，主敌方得势。凶证成串、无吉星救应。",
+ "confidence": 0.85,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

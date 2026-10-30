@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-012",
+ "prediction_text": "Prediction, in the question's three parts: (1) Joe Biden wins the 2020 US election of 3 November 2020. (2) Biden actually takes the presidency — after a delayed, disputed count (mail-in ballots make election night inconclusive), he is confirmed and inaugurated on schedule in January 2021. (3) What follows for the country: the loser, Donald Trump, refuses a clean concession and contests the result through recounts, lawsuits and pressure on state processes; a period of institutional stress and public unrest follows, including a serious flashpoint around the January certification/inauguration period in Washington — but the transfer of power is completed and the constitutional process holds. Direction single and final on each part: Biden wins, Biden takes office, transfer completed under stress. Timing units: election day for the win; the certification-to-inauguration window (December 2020–20 January 2021) for the aftermath, as the question's own frame implies.",
+ "basis": "tradition=western political astrology / election aftermath assessment (per card genre: eve-of-election news report) — no chart data supplied in card\nsystems_used: fact-priority event judgement across the question's three stated faces (no chart available; none fabricated)\nFaces in card: three-part question (winner / who actually takes the presidency / what follows); race facts (Biden leads most polls on the eve); process facts (mail-in voting disputes; warnings the loser may not accept the result — both supplied in the card and used as the derivation base for parts 2 and 3). The aftermath reading is anchored strictly on those two supplied process facts rather than on any invented configuration: a pre-announced non-acceptance posture plus a slow mail-in count yields a contested-but-completed transfer as the centred outcome. Confidence split reflected in the single figure: high on the winner, moderate on the severity of the flashpoint.",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

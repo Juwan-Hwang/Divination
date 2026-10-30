@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-211",
+ "prediction_text": "断：马能找回，它往西边去了（Henley以西方向）。马没有远走他方，多半在西边不远处被人收留或自行徘徊，将被送回或寻回、归入主人家。应期以日为单位，窗口为占问后数日内，主坐标一周内马有着落。",
+ "basis": "tradition=horary\nsystems_used: horary（西洋卜卦占星，Lilly古典规则）\n依据：马之用神12宫主逆行且正趋合求问者2宫（家财）主星，月亮身居2宫，另有两颗逆行星近2宫头——逆行主返回、诸星聚于财宫主马归主人之手；12宫星座与12宫主所在星座多数证词俱指西方，主马往西去；7宫受困只主途中有些惊扰。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

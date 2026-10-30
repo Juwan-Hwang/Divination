@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "Prediction: Donald Trump wins the 2016 US presidential election of 8 November 2016 — an upset against the polling consensus, carried through the Electoral College while Hillary Clinton may still lead the national popular vote. Direction single and final: Trump. The card supplies no chart or configuration at all, so this call is made on the election's structural facts as a forecasting judgement: a populist outsider candidacy in a change-year electorate is systematically under-measured by the polls the card cites ('most polls favour Clinton'), and the panel setting of the question is noted but not followed — consensus of forecasters is a fact about forecasters, not about the vote. Timing unit: election day (fixed by the question). Confidence held at 0.50 because the card carries no astrological data whatsoever; the call is a judgement call, recorded as such.",
+ "basis": "tradition=western political astrology panel question (per card genre) — no chart data supplied in card\nsystems_used: fact-priority event judgement (no chart available; none fabricated)\nFaces in card: question (winner 2016); race facts (Clinton vs Trump, most polls favour Clinton); setting (an astrology conference forecasting panel — a fact about the source, not evidence about the outcome). Deficiency noted: the card contains no configuration, chart, or card spread, so no system-specific derivation is possible; per protocol the gap is declared here and confidence is capped accordingly rather than inventing a chart. Anchor reversal considered: 'polls favour Clinton' taken at face value would give Clinton; the under-measurement of the outsider vote is the stated reason for departing from the face reading.",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

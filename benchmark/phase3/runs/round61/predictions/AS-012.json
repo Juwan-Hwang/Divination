@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-012",
+ "prediction_text": "断：他得不到所求的教区牧师职位（parsonage）。任他如何奔走请托，此职终归他人，他只能另谋生计。应期以月为单位，本轮任命定期内（数月内）即见落空，无翻盘点。",
+ "basis": "tradition=horary\nsystems_used: horary（西洋卜卦占星，Lilly古典规则）\n依据：土星在命宫受困败问；9宫主（教职）木星与命主星、月亮皆无相位；命主与月亮皆不在9宫；主星间无传递、无聚光、无接纳——Lilly自列七条否定证词俱全；月亮离三合而将冲3宫主水星、7宫金星冲上升，皆主求谋被拒。",
+ "confidence": 0.85,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

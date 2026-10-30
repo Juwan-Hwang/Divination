@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-016",
+ "prediction_text": "断：这一年倭乱严重，寇真会大来，地方军民要受实害（伤亡与财物破耗）。应期以月为单位（年档尺度）：窗口在午月（火鬼当令）乱势最炽，主坐标午月寇大至；化酉主入秋酉月乱势才渐收或再有一警，全年不算太平。",
+ "basis": "tradition=六爻\nsystems_used: 六爻纳甲（残盘）\n依据：输入残损——只有困之大过与「六三午火鬼动化酉金、兄弟带刑克世」，无全盘，chart_complete=false，已注明并降置信。卜乱以官鬼为寇，午火鬼发动主乱起而炽，化出酉金主乱势延至酉方/酉时；兄弟带刑克世主军民人等受刑伤克害。大过卦体主栋梁挠折、非常之祸。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main:六三午火鬼动化酉金给出乱炽与延至酉的终局走向、为断语所据，故true；reserve_used:未用备路，故false；disputed:题面证词无冲突，故false。"
+ }
+}

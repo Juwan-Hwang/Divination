@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-208",
+ "prediction_text": "断：Rupert在这场战争里得不到荣耀，反被Essex压过——他会吃败仗、损兵失势，名声受挫，最终在这场内战中潦倒收场（离英他去）。Essex一方占上风。应期以年为单位，随后一两年内其败象与失势陆续见分晓。",
+ "basis": "tradition=horary\nsystems_used: horary（西洋卜卦占星，Lilly古典规则）\n依据：Rupert以10宫及其主太阳为用神，太阳游荡且失势（detriment）于固定星座，主其无根无荣；Essex用神金星接纳土星且支配Rupert之用神，金星又顺相照10宫头、月亮逆相照10宫头，主Essex一方反客为主、压过其声势。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

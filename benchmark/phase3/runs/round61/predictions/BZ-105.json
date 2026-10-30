@@ -1,0 +1,12 @@
+{
+ "case_id": "BZ-105",
+ "prediction_text": "军职武贵、回溯有伤病与变动格（回溯验证例）：丙火生戌月得午刃、寅甲生扶，身旺，壬子官杀冲刃、庚财透，主军职出身、性刚行伍（与命主军官身份合）；回溯断过去：子午冲被流年引动之年（子年/午年一类）主一场伤病或手术之灾，另一官杀得用之年主职务升迁/调动之喜——两段经历一凶一吉、皆已在求测前发生。应期尺度：年档回溯，先定年不细化月日。",
+ "basis": "tradition=bazi\nsystems_used: bazi\n四柱壬寅庚戌丙子甲午：丙火旺刃，子午冲在日时主位为全局动点，过去年份之验即由此冲与官杀流年引动推出；本例 case_type=retrodiction（输入卡注明），断语按回溯体裁落年档。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

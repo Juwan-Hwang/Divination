@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-024",
+ "prediction_text": "断：这场鸡瘟压不住，鸡会大批死亡，只剩少数能活下来（子孙得日扶保种不绝）。应期以日为单位：窗口为占后数日内，主坐标七月内鬼爻当值之日死亡最集中，其后瘟势才退。",
+ "basis": "tradition=六爻\nsystems_used: 六爻纳甲（残盘）\n依据：输入残损——只有噬嗑之颐与「日辰并起子孙」，及注家自述四爻螣蛇鬼动之据，无全盘，chart_complete=false，已注明并降置信。畜禽以子孙为用神，子孙得日辰并起本主有救；但官鬼临螣蛇发动主瘟疫怪异之气正盛，鬼动终能伤子孙，救应只够保住少数。对象核对：断在所养之鸡本身，非主人。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "changed_main:变卦颐未改变鬼动主瘟之主断，故false；reserve_used:未用备路，故false；disputed:日辰并起子孙似主有救与四爻螣蛇鬼动主瘟害两据相抵，故true。"
+ }
+}
