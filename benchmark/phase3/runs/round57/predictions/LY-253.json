@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-253",
+ "prediction_text": "吃人参不好/不宜：断父病不宜服人参，参助痰火反害；若服之反剧。主不用参、另寻化痰之治。",
+ "basis": "tradition: liuyao（六爻，输入卡 tradition=liuyao 自决）\n子占父病用神父母未土上爻动化戌土（化进/化比和），寅月丁卯日未土休；世爻官鬼巳火为病，子孙亥水四爻克鬼本为药效象。人参为补气之品属父母/土象：用神父母动而卯木月日克土、父母化戌与世鬼巳火相生链（土生？火生土、参补反助鬼火痰势），且子孙亥水被父母动土克——药（子孙）受克，主参不利病、服之助痰。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "补参利害两读（补气扶正 vs 助痰）存争 disputed；依父母动克子孙药爻定不宜 changed_main"
+ }
+}

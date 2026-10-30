@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-301",
+ "prediction_text": "妻在家不安/有不安之象：断妻在家不平安，有病忧或惊扰；两爻齐动伏吟之卦（豫之否）主呻吟不安，应在戌日/申日见信。卦为伏吟例（provenance示第六问伏吟），财戌用神动、官申动同宫反复主家内不安。",
+ "basis": "tradition: liuyao（六爻，输入卡 tradition=liuyao 自决）\n用神妻财戌土上爻动、官鬼申金五爻动，雷地豫之天地否两爻动而宫位反复为伏吟象，主痛苦呻吟、事不顺遂；寅月乙卯日戌土休、卯戌合财主妻被合绊，世爻财未土。逐爻表OCR错乱残损（原卡自注），仅据卦名/用神/动爻/空亡子丑断，降置信。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "伏吟动爻定不安 changed_main；逐爻残损且伏/反吟口径存争 disputed，已注残损降置信"
+ }
+}

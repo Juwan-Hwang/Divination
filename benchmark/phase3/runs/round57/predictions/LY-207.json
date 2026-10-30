@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-207",
+ "prediction_text": "正面偏中（终身功名有、位至中级）：占功名官鬼丑土世四爻动化午火妻财，官动化财主位带禄、辰月土旺官有根，化午火回头生官（午生丑）位进有生；父母酉金静囚、兄弟亥水两现静。官旺动回生终局有功名，等级中级（官化财主禄位非清贵高位，化财调级依据写明）。应期年档：主坐标午年——化神逢值之年位禄最显；窗口火年段。置信中。",
+ "basis": "tradition: liuyao（据输入卡 tradition/system 字段）\n官丑土世辰月旺动化午财回头生，动化吉向；原神财午化出即源；子孙卯木应静不克官（卯辰月相克土力弱）。终局正面。应期年档午年。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main:官化财回头生主导；reserve_used:用神现卦；disputed:取用唯一"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-234",
+ "prediction_text": "父起用有望但迟：断父亲可起用，应期在卯木逢值/寅卯之月或亥子水生木之期；中途多番周折（四爻齐动），非即时。",
+ "basis": "tradition: liuyao（六爻，输入卡 tradition=liuyao 自决）\n用神父母两现：上爻父母卯木动化子孙未土（父母化子孙、退/泄象），初爻父母寅木动化官鬼子水（父化官为起用正象——父母化官鬼主文书转为官职）。卯月壬辰日父母临月旺。四动纷纭主事多周折：三爻兄弟午火动、四爻子孙未土动皆扰，然初父化官一路为起用主线，应期待寅卯值期。",
+ "confidence": 0.59,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "四爻齐动两父两化方向不一存争 disputed；主断取初爻父母化官为主线 changed_main"
+ }
+}

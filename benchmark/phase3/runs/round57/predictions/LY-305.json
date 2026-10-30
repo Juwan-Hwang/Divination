@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-305",
+ "prediction_text": "岳母近病凶险：断病势重、有危；父母酉金用神旬空申酉且临应动？世爻财午火动克父母金，用神空而受世动克，主凶多吉少，防申酉日/出空反剧之期。",
+ "basis": "tradition: liuyao（六爻，输入卡 tradition=liuyao 自决）\n用神父母酉金上爻应、旬空申酉正空，酉月庚辰日父母临月却旬空为有气无实；三爻妻财午火世动克酉金父母（财动克父于病占大忌），变升卦。父母空+动财克，病危象。逐爻表OCR残损原卡自注，据用神/空亡/动爻断，降置信。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "妻财午火世动克父母用神定凶，changed_main"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-212",
+ "prediction_text": "索债可得、但不宜成非（厮闹）：断渡江索债能得财（或得部分/得约），若厮闹争斗反坏事；应期在寅卯日或辰日，债于数日内有着落。",
+ "basis": "tradition: liuyao（六爻，输入卡 tradition=liuyao 自决）\n用神妻财：世爻妻财辰土，卦中财两现（辰、未）；二爻兄弟寅木动克世财本主劫财阻碍，然兄弟动化卯木、卯月寅日兄弟虽旺却化进而被财？兄弟动主有人争/欲闹，变中孚主诚信和解。财临世、得月日土木之气不空不破，故可得；兄弟动警示成非不利。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "二爻兄弟动克财为关键动变，主断兼依其化卯与财持世，故changed_main"
+ }
+}

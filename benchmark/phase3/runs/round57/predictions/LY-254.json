@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-254",
+ "prediction_text": "此医不可用/医不好：断所问之医治不好杨梅疮，不宜托付；另择医。应防卯日病情反复。",
+ "basis": "tradition: liuyao（六爻，输入卡 tradition=liuyao 自决）\n占医以子孙为医/药、官鬼为病：世爻子孙申金（医）申月癸卯日旺；然二爻官鬼卯木应动化父母巳火、初爻父母巳火动化兄弟未土——官鬼卯木临日旺动为病势强，父母动主医之方药？父母巳火动克子孙申金之医（巳申合克），医被病方牵制、鬼动化父主病转文书缠绵。子孙世虽旺却受合克，医难奏效。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "官鬼与父母齐动克制子孙医爻定不可用，changed_main"
+ }
+}

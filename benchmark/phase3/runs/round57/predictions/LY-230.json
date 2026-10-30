@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-230",
+ "prediction_text": "补官应期：断于午日或寅日补官（官鬼午火动化妻财寅木，寅午相生、出空逢值之日），迟不过寅午之月；问何日则主午日最切、寅日次之。",
+ "basis": "tradition: liuyao（六爻，输入卡 tradition=liuyao 自决）\n用神官鬼午火二爻动化妻财寅木：戌月辛酉日，午火休囚、寅木亦泄，官动化财主以财动/俸禄相随而官动有变；初爻父母辰土动生？父母为任命文书，辰土动化子孙子水回头克文书有阻。官动待值：午火逢午日值、逢寅日合生，故应期寅午。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "官鬼午火动化寅木定应期主据，changed_main"
+ }
+}

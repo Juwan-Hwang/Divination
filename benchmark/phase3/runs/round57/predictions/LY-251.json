@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-251",
+ "prediction_text": "子病可愈、近病无危：断子病将愈，应期在酉日或午日（子孙值/官退之日），数日内见好。",
+ "basis": "tradition: liuyao（六爻，输入卡 tradition=liuyao 自决）\n代占子病用神子孙午火四？子孙午火三爻，申月庚寅日子孙得寅木日生旺；三爻官鬼酉金世动化子孙午火——鬼动化子孙为病退正象（化福、化子孙克鬼），世鬼化孙主病去。子孙旺、鬼化孙，故可愈。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "官鬼世动化子孙为病愈主据，changed_main"
+ }
+}

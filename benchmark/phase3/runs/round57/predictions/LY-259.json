@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-259",
+ "prediction_text": "父柩附葬祖茔不宜/不可：断附葬不利，初爻世财动化兄弟未土主与祖茔气脉相争，附之生事；另择葬地为宜。",
+ "basis": "tradition: liuyao（六爻，输入卡 tradition=liuyao 自决）\n附葬以父母为茔/父柩、世为子：地雷复之坤，初爻妻财子水世动化兄弟未土，子月丙申日子水旺动化未土墓主入墓受阻；父母不现于卦（六爻无父母，父母伏藏）为茔象无着，兄弟丑土应克世财。父母缺现参伏 reserve；世动化墓、应兄阻隔，故不宜附葬。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": true,
+  "disputed": true,
+  "reason": "父母缺现参伏 reserve_used；世动化墓 changed_main；附葬吉凶兼看世应两读 disputed"
+ }
+}

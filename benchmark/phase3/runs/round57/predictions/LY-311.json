@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-311",
+ "prediction_text": "子病可愈但反复：断子病能愈，子孙申金用神动化午火回头克为‘先危后解’——防午日病情一转，终局向愈；应期在申日（子孙值日）或辰日出空。",
+ "basis": "tradition: liuyao（六爻，输入卡 tradition=liuyao 自决）\n用神子孙申金三爻应动化父母午火回头克，寅月甲午日子孙休、午火临日克金势急；二爻父母午火动生？父母动克子孙亦忌。然子孙动本身主病有转机、申金得辰土初？兄弟辰土。空亡辰巳。子孙动化回克例多主病反复而根在动：申逢申日值、午火退后（申酉日）见愈。故先危后愈。逐爻OCR残损原卡自注，降置信。",
+ "confidence": 0.54,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "子孙动化回头克愈/凶两读 disputed；依动爻值期定向 changed_main"
+ }
+}

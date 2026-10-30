@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-304",
+ "prediction_text": "妻病愈期：断妻病可愈，愈日在卯日（用神妻财卯木出空之日）——用神旬空，须待出空逢值，应期主卯日、次寅日。",
+ "basis": "tradition: liuyao（六爻，输入卡 tradition=liuyao 自决）\n用神妻财卯木三爻静而旬空寅卯（空亡寅卯、用神正落空），午月癸丑日卯木休；四爻子孙亥水动生妻财卯木（子孙为医药福神动来生用），病可愈但用神空须出空：卯日出空逢值即愈。子孙动生用为愈之据。",
+ "confidence": 0.63,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "子孙亥水动生空用神定‘可愈待出空’，changed_main；应期依出空法"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-243",
+ "prediction_text": "女家占婚不成/难成：断此婚多变、终难谐；三爻齐动主反复，官鬼世动化兄弟主争竞阻隔，婚事拖延后散。",
+ "basis": "tradition: liuyao（六爻，输入卡 tradition=liuyao 自决）\n女家占以官鬼为夫：官鬼卯木世动化兄弟丑土（夫化兄弟主另有争/退悔），寅月丙午日卯木旺动却化土耗；五爻妻财亥水动化兄弟戌土、三爻兄弟丑土动——兄弟两动主阻婚争夺，财动化兄主聘财生争。世官化兄、兄爻重重，婚难成。",
+ "confidence": 0.64,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "官鬼世动化兄弟为不成主据，changed_main"
+ }
+}

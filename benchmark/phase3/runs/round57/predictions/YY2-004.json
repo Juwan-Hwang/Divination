@@ -1,0 +1,12 @@
+{
+ "case_id": "YY2-004",
+ "prediction_text": "输入残损，只能给低置信暂断：寿数中平，关口留意子丑之年。原卡明载本卦名原书缺字、moving_lines 与 chart_lines 均缺，仅知变为坤宫雷天大壮（四世）、空亡子丑、占时丙寅年丙申月丁巳日丙午时。无世应六亲全盘，不许臆补装卦。仅据变卦大壮四世体与空亡子丑：寿关暂系于空亡填实之子年、丑年。方向暂判中平（非长非夭），置信 0.25，待盘面补全须重断。",
+ "basis": "tradition: liuyao（输入卡自带）\n输入残损照实注明：本卦名缺字、动爻与盘面全缺，无法执行用神旺衰与动化判据链，按冻结提示降置信不臆补，故 disputed=true。应期仅按空亡填实一路暂系子丑年，其余两路（逢值、冲实）因无盘面无候选，明写无候选理由为盘面缺失。",
+ "confidence": 0.25,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "无动爻数据，无从论动化翻转，changed_main=false；未用伏神；盘面残损致断法争议未决，故 disputed=true。"
+ }
+}

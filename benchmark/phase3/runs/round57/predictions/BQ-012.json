@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-012",
+ "prediction_text": "方向：倭寇不来。噬嗑静卦，官鬼（寇贼之象）衰而安静，不动不旺，主寇势虚弱、无力来犯，本期沿海无倭寇入犯之事。应期以月为尺度：丙子日所在本旬本月内皆无寇警，不必以日守候。置信中高。",
+ "basis": "tradition: 六爻\n原文只记卦名噬嗑与鬼爻衰静，无全盘，chart_complete=false；贼寇题以鬼爻为用，衰静即不来，此为题面明征，余不臆补。按本席操作口径留痕（方法文本无成文定义，主持注记已明示定义债挂账）：changed_main 指本卦有动爻致变卦（题面记有「之」变卦）、reserve_used 指本断另用了题面之外的备用取用法、disputed 指盘面残缺或取用有争点。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "题面只记噬嗑本卦、无变卦故 changed_main=false；reserve_used=false；无全盘故 disputed=true。"
+ }
+}

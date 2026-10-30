@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-309",
+ "prediction_text": "将来有官：断将来能有官（官可得），但须待午未出空/官星巳火逢生之期，中年后或逢午年火旺之时；非即时。",
+ "basis": "tradition: liuyao（六爻，输入卡 tradition=liuyao 自决）\n用神官鬼巳火初爻动化妻财寅木（官动化财主官随俸动、有职之象），空亡午未、世爻父母未土动而落空化戌土；亥月己丑日巳火休囚。官动虽化财（化退财非化鬼），父母世动化进（未化戌比助）主根基进。官星动待寅木生火：寅日/寅卯年为起期。世空须出空后官事才实。",
+ "confidence": 0.57,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "官动化财吉凶两读（官化财主得职俸 vs 化泄主官散）disputed；依动变定向 changed_main"
+ }
+}

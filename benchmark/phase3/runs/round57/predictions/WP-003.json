@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-003",
+ "prediction_text": "断奥巴马连任成功：2012年11月6日大选，现任总统奥巴马击败罗姆尼，连任美国总统。选举日水星逆行开始——主重演与旧局延续，选情虽胶着、计票或有反复传闻，终局仍是现任者守住白宫，不出现政党轮替。应期以日为单位：2012年11月6日投票日定局。",
+ "basis": "tradition=western mundane astrology（输入卡无独立tradition字段，据provenance与所附星象配置自决；首行）\n世运占星：水星逆行于选举日主『回到旧状/重数旧票』，历史上同象多利现任与既有格局，不利易主。事实约束：奥巴马为现任、民调胶着——逆行象与守成结论同向，故断连任而非轮替。置信0.55：逆行亦可解作计票混乱，仅以终局方向落断。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

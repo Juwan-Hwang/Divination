@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-016",
+ "prediction_text": "方向：这一年倭乱凶险、为患不轻。困之大过，六三午火官鬼发动化出酉金、兄弟带刑克世：鬼动主寇乱兴起、化金主兵器金革之灾，兄弟刑克世主军民人财受损；变卦大过主事势过重、栋桡之象，断是年倭寇来犯且造成明显杀伤与地方损失，非虚惊。转折应期以月为尺度：鬼化酉金，至酉月（秋）乱势见分晓/渐平，之前夏间最烈。置信中。",
+ "basis": "tradition: 六爻\n原文记困之大过、六三午火鬼动化酉金、兄弟带刑克世，无全盘，chart_complete=false；以鬼动化金、兄刑克世断乱烈。动化方向：鬼化金不为退象（金为兵象），与终局同向，不翻初判。按本席操作口径留痕（方法文本无成文定义，主持注记已明示定义债挂账）：changed_main 指本卦有动爻致变卦（题面记有「之」变卦）、reserve_used 指本断另用了题面之外的备用取用法、disputed 指盘面残缺或取用有争点。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "题面记困之大过有变卦故 changed_main=true；reserve_used=false；无全盘故 disputed=true。"
+ }
+}

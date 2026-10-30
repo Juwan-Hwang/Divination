@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-001",
+ "prediction_text": "方向：父寿不久——此次气尽复苏是回光之象，能再言语/进食只是短暂回苏，寿数以日计，不以月计。兑为口、为言，变乾为天、为终，本宫火见庚辛日金旺克之，主残年之火被金收尽；断其父在复苏后数日内（十日以内量级）即卒，家人当预备后事而非庆愈。应期：日尺度，主坐标在复苏后数日、逢土日（戌日量级）前后。置信中低（残盘，见 basis）。",
+ "basis": "tradition: 筮占\n输入残损说明：原文无六爻全盘，只有本卦兑、变卦履与断语援引的卦象（本宫火、兑口言、变乾为天），chart_complete=false；只能据卦象与辞象作断，置信下调。非六爻纳甲全盘例，故 trigger 三项全 false。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

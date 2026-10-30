@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "断希拉里·克林顿获胜（大会占星师主流之断）：2016年11月8日大选，民主党克林顿击败共和党特朗普当选——Costa Mesa国际占星大会选举预报团的主流共识取克林顿胜，与当时多数民调同向。应期以日为单位：2016年11月8日投票日定局。",
+ "basis": "tradition=western mundane astrology（输入卡无独立tradition字段，据provenance与所附星象配置自决；首行）\n本例所问为会议预报团之集体断语：团内多数占星师循常规指标（民调领先方、女性候选人之月亮象等）取克林顿。按本批设定，本例取大会主流共识一路；个别异议者之路留待同题另一例（WP-005）分断，两例不混。置信0.50：团内并非一致、且民调同向有群体偏差之险。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

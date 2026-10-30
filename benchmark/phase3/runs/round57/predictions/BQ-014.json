@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-014",
+ "prediction_text": "方向：飓风一时不止、归乡行程受阻，要迟行。困之震，兄弟、父母俱动——父母主风雨、兄弟主风劫，二者齐动主风雨交加未歇；又合住应爻，主行程与归期被绊住，急行不得。待合被冲开、父兄之动势衰，风才止、路才通。应期以日为尺度：丁亥日后数日仍阻，逢冲合之日（冲开合住应爻之日）为可启程主坐标，窗口约在一旬之内。置信中低（残盘）。",
+ "basis": "tradition: 六爻\n原文记困之震、兄父俱动合应，无全盘，chart_complete=false；天时门类父母主风雨、合应主行程受绊，据明征断，置信下调。按本席操作口径留痕（方法文本无成文定义，主持注记已明示定义债挂账）：changed_main 指本卦有动爻致变卦（题面记有「之」变卦）、reserve_used 指本断另用了题面之外的备用取用法、disputed 指盘面残缺或取用有争点。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "题面记困之震有变卦故 changed_main=true；reserve_used=false；无全盘故 disputed=true。"
+ }
+}

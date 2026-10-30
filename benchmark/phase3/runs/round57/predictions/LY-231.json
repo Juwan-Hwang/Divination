@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-231",
+ "prediction_text": "在任流年平安：断本年虽世化官鬼有惊，但无大祸、在任可安；防在戌日/秋月小忧（罢免谣言/疾病），终局平安。",
+ "basis": "tradition: liuyao（六爻，输入卡 tradition=liuyao 自决）\n世爻妻财戌土动化官鬼酉金——世化鬼求测者自忧；寅月壬午日，戌土得午火日生、寅戌拱火，世旺化酉金得土生，官鬼酉金为变出之官非真克世之鬼，且子孙？卦中子孙不现。上爻兄弟寅木临月克世被午火泄。世旺动化官主职位变动之象而非灾，午火日扶世，故平安、或有升调动静。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "世化官鬼吉凶两读（化鬼主灾 vs 化官主职变）存争 disputed；主断仍以变爻定向故changed_main=True"
+ }
+}

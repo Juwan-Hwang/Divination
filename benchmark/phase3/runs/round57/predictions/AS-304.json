@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-304",
+ "prediction_text": "方向：特朗普赢得2024年美国总统选举。9月胶着民调之下，断语落向共和党候选人一方：其胜出靠关键摇摆州翻红而非普选票大胜，选情在选前最后阶段向其倾斜。应期以日为尺度：2024年11月5日投票日见分晓。置信低（见 basis 残损说明）。",
+ "basis": "tradition: astrology（输入卡无 tradition 字段，依来源判为 astrology）\n输入残损说明：输入卡未附候选人星盘、行运或原帖条目，无盘可据；只能给方向断，置信下调，不臆补盘面。",
+ "confidence": 0.35,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

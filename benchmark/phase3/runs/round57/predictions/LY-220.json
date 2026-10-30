@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-220",
+ "prediction_text": "兄弟可和好、亦得济：断兄弟能言归于好且有相助得济之事，应期在未日/戌日或秋后土金之期。",
+ "basis": "tradition: liuyao（六爻，输入卡 tradition=liuyao 自决）\n用神兄弟酉金在三爻，申月丙辰日金旺土生，兄弟旺相；五爻父母未土动生兄弟酉金（父母动相生、又主长辈/文书调和），变乾为天纯阳和合。世爻父母辰土与兄酉合金合，世兄相合主和好得济。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "父母未土动生用神兄弟为和好主据，changed_main（动爻生用神定向）"
+ }
+}

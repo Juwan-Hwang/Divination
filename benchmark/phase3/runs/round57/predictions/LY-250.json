@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-250",
+ "prediction_text": "夫不再往他省、将直接归到：断夫不会再往他省去，就此归家；到日在子日或亥日（水值/合期），近在数日。",
+ "basis": "tradition: liuyao（六爻，输入卡 tradition=liuyao 自决）\n妻占夫用神官鬼寅木二爻静，亥月甲子日寅亥合官主夫被合住不行远；五爻子孙申金动克官为阻行之力（动克官主行程止），初爻妻财子水应动化兄弟丑土、子水临日主音信/人归水期。官合于日、行爻受克，故不往他省而归，应期子亥日。",
+ "confidence": 0.61,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "子孙动克官止其行程+财应动化定归期，changed_main"
+ }
+}

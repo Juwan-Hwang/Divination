@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-228",
+ "prediction_text": "得差有望：断能得差（差使可成），应期在酉日/亥子日，世子孙酉金临日月旺、官鬼寅木应爻得生之时可定。",
+ "basis": "tradition: liuyao（六爻，输入卡 tradition=liuyao 自决）\n占得差以官鬼为差：官鬼寅木在五？应爻官鬼寅木，申月戊寅日官鬼临日建旺、世爻子孙酉金（申月酉日气）虽克官为忌，然夬卦静无动克，官临日旺于应、父母？卦中无父母为凭据之缺。官旺临日、世不应克之发动，故差可得，应期近在寅日已临、定于酉亥之日。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "静卦无动；官鬼与世子孙相克关系有两读，故disputed；不用变与伏"
+ }
+}

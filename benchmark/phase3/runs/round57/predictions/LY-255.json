@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-255",
+ "prediction_text": "衙宇后沟不宜从后流、修沟后亦不佳：初占鼎静卦主‘不动为宜’，再占修沟后财未动化官申主修后反生官非耗损；合断：不宜修沟改流，修之无升迁之益反添不利。",
+ "basis": "tradition: liuyao（六爻，输入卡 tradition=liuyao 自决）\n初占火风鼎静卦：官鬼亥水世、子孙丑土应，静主现状可安、改动无据。再占噬嗑之无妄：五爻妻财未土世动化官鬼申金——财化官鬼主修沟耗财生官忧，戌月己亥日未土？变无妄主无妄之灾。两占合断不宜修。输入为同卡双占并列（静卦6行+再占6行），照实合断。",
+ "confidence": 0.59,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "双占同卡合断口径存争 disputed；再占财动化官为修后不利主据 changed_main"
+ }
+}

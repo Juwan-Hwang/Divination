@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-203",
+ "prediction_text": "正面偏中（财福可得、功名带财）：占财福世官鬼丑土四爻动化午火妻财，世动化财主因位得财、丑土午月？土相动化午火回头生世（午生丑）且化出财神，世化财回生为得财主象；父母酉金、兄弟亥水两现静。官化财终局财福成，量级中（财午火午月旺足，然世土化火泄稍耗）。应期年档：终身题主坐标午年——财逢值之年得财最盛；窗口为行至火年段。置信中。",
+ "basis": "tradition: liuyao（据输入卡 tradition/system 字段）\n世官丑动化午财，动化方向：午火→丑土为生（回头生）且化神即财，两吉同爻；原神子孙卯木应静生午财有源。终局正面。应期终身年档取午年。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main:世官化财回头生主导；reserve_used:用神现卦（化财）；disputed:取用以世化财已留痕"
+ }
+}

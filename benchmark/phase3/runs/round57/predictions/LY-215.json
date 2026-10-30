@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-215",
+ "prediction_text": "流年凶多吉少：断本年有破财、是非与病灾之象，尤忌春夏之交；下半年稍缓亦不作吉断。",
+ "basis": "tradition: liuyao（六爻，输入卡 tradition=liuyao 自决）\n流年以世爻妻财辰土为身：五爻子孙巳火动、四爻妻财未土动、二爻兄弟寅木动，三动齐发；兄弟寅木动克世财主破财争竞，财未动化官鬼酉金主财去生忧/因财致祸，子孙动化财本可生财却在寅月丁卯日木旺火泄。世受兄克、财化鬼，流年不利。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "三爻齐动且财化官鬼主定凶象，changed_main"
+ }
+}

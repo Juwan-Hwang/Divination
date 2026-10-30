@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-249",
+ "prediction_text": "父归期：断父将归、归期在午日或巳午之日（父母午火值日），迟不过一旬；静卦父母旺相人安。",
+ "basis": "tradition: liuyao（六爻，输入卡 tradition=liuyao 自决）\n行人以父母为用：父母两现——三爻父母午火、初爻父母巳火，天泽履静卦；丑月庚午日午火父母临日建值日主行人即动身/到门，巳火得丑月？世爻子孙申金生？父母临日不空，归期主午日（已临日则即日/次午日）。",
+ "confidence": 0.64,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "静卦依父母临日值期断归，不用变伏"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-237",
+ "prediction_text": "谒见可得见：断出行能见贵人，且见面有益（同人静卦世应相生）；应期近在卯日/亥日，无需久候。",
+ "basis": "tradition: liuyao（六爻，输入卡 tradition=liuyao 自决）\n谒贵以父母/官鬼为贵人：天火同人静卦，官鬼亥水持世，父母卯木初爻生？世官同体主自身与贵气相接；应爻子孙戌土克世官为小阻，申月丁卯日卯木临日父母旺、戌土月？子孙戌得申月泄。世官亥水得申金月生（五爻财申生世？妻财申金生官亥）主贵人有意接见，故可得见。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "静卦依世官得月生与父母临日断之，不用变伏"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-219",
+ "prediction_text": "父寿有忧、非长久安泰：断父亲寿元受克，近防酉日/申酉月之期，寿象不佳但未至即时大限，主‘有病灾之忧、寿不永’。",
+ "basis": "tradition: liuyao（六爻，输入卡 tradition=liuyao 自决）\n占父寿用神父母亥水：父母在二爻静，巳月亥水休囚且巳亥冲月破之象（月冲为破），四爻妻财未土动克亥水父母（财动克父），变姤卦。父母月破又受动财克，元神官鬼酉金虽临日可生父仅缓之，故父寿有忧。",
+ "confidence": 0.64,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "妻财未土动克父母用神为定断主据，changed_main"
+ }
+}

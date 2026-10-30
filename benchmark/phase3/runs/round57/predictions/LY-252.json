@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-252",
+ "prediction_text": "子病凶险：断子病沉重、有危象，子孙不现（伏藏）官鬼两重临世应，静卦无福神发动来救，主凶多吉少；防在申日/午火冲期病情转剧。",
+ "basis": "tradition: liuyao（六爻，输入卡 tradition=liuyao 自决）\n用神子孙不现于六爻（天山遯六爻父母兄弟官鬼而无子孙），子孙伏藏不出为大忌；官鬼午火两现、一临世爻，申月壬子日午火休囚却子午冲动世鬼，兄弟申金应爻。无子孙制鬼、鬼临世，静卦无动来救，病凶。子孙伏藏未载伏位，依例应启用伏神参断故reserve_used=True。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "子孙缺现、参伏神 reserve_used；静卦无动变 changed_main=False"
+ }
+}

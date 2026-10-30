@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-013",
+ "prediction_text": "方向：久雨不会马上放晴，雨还要续下。随之咸，申、子两爻俱动与日辰申字合成父母局——天时占父母主雨，雨象成局得势，主雨势成团、短期内停不了；待局被冲散（逢辰/冲局之日）才有转晴之机。应期以日为尺度：甲申日后数日内仍雨，转晴窗口在冲散父局之日（辰日量级）前后。置信中。",
+ "basis": "tradition: 六爻\n原文记随之咸、申子动合父局，无全盘，chart_complete=false；天时门类以父母为雨象（门类读法），父局成即雨续。动化方向与终局同向。按本席操作口径留痕（方法文本无成文定义，主持注记已明示定义债挂账）：changed_main 指本卦有动爻致变卦（题面记有「之」变卦）、reserve_used 指本断另用了题面之外的备用取用法、disputed 指盘面残缺或取用有争点。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "题面记随之咸有变卦故 changed_main=true；reserve_used=false；无全盘故 disputed=true。"
+ }
+}

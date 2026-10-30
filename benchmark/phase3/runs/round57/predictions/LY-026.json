@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-026",
+ "prediction_text": "正面（有雨、雨量中等）：天时占父母申金为雨用静，巳月火克金囚、日寅木，子孙卯木初爻动化辰土官鬼，子孙（晴神）动化土，土生金父母主晴神退而雨神得生；兄弟亥水世旺临？巳月亥水囚但亥为雨象静。子孙化土生父，雨源得续。应期双层：窗口为三日内（日档），主坐标申日——父母逢值之日得雨。置信中。",
+ "basis": "tradition: liuyao（据输入卡 tradition/system 字段）\n父母申金雨用囚静；子孙卯木动化辰土，辰土→申金为生，晴神化生雨神，雨可期；官鬼在初化出主雷象。原神？父母之源土在化神得力。应期逢值申日为主，填实辰日舍（化神值日只主云聚）。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main:子孙化土生父母主导转雨；reserve_used:用神现卦；disputed:取用唯一"
+ }
+}

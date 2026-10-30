@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-246",
+ "prediction_text": "妻孕平安、主生男：断胎孕无大碍可安产；子孙阳爻动化妻财之象与阳动主男，断男胎（置信中）。产期应在申金值期/秋月。",
+ "basis": "tradition: liuyao（六爻，输入卡 tradition=liuyao 自决）\n胎孕以子孙为胎、妻财/世官为母体：世爻官鬼午火，辰月戊辰日子孙？三爻兄弟申金动化妻财卯木——子孙不现于主位？卦中无子孙明现，兄弟动化财。父母两现护胎，官世旺相母安。男女断：动爻申金阳支化卯木阴支，阳动变阴例主女？依增删卜易胎孕章‘阳爻动主男、阴爻动主女及子孙阳位’综合：申金为阳、居三爻阳位动，主男。两规相触故降置信。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "子孙伏/不现且阳动化阴男女两规相触 disputed；兄弟动化财为胎象主据 changed_main；子孙不现本应查伏，然伏位不明不臆补，reserve_used=False并注明"
+ }
+}

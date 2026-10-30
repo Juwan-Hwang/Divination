@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-217",
+ "prediction_text": "定罪不重：断所定之罪为轻罪/可解，不至重刑；应期在卯日或亥子日见分晓，有转轻之机。",
+ "basis": "tradition: liuyao（六爻，输入卡 tradition=liuyao 自决）\n以官鬼为罪名/官府：上爻官鬼卯木动化子孙酉金——鬼化子孙，子孙克鬼主罪解减轻；五爻父母巳火动化妻财亥水，父母为案卷文书，化财回头克？巳火未月亥日，父母动主文书已动而有变。世爻兄弟未土，鬼卯与世未半合主牵连在身但化福解之，故罪轻。",
+ "confidence": 0.63,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "官鬼动化子孙为定罪轻重主据，changed_main"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-222",
+ "prediction_text": "子嗣难再有：断今后再生子嗣希望甚微；失散之子亦无归象，主‘无所出’之断。或至多迟而难成，不作有子断。",
+ "basis": "tradition: liuyao（六爻，输入卡 tradition=liuyao 自决）\n用神子孙酉金在上爻静，地雷复静卦无动；申月辛卯日，酉金临月旺似有气，然子孙居上爻远、卦中子孙仅一现且与世财子水不相生接，兄弟丑辰两重阻隔（兄持应、兄多主耗散/阻子），复卦一阳来复仅旧子之象已过。静卦用神不发、兄弟重重，主不再生。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "静卦无动变，依用神子孙静而受兄隔断之，不用变爻与伏神"
+ }
+}

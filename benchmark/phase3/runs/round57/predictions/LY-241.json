@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-241",
+ "prediction_text": "斗鹌鹑我方胜：断世方鹌鹑胜、应方败；子孙申金持世临月日旺是胜负主据。",
+ "basis": "tradition: liuyao（六爻，输入卡 tradition=liuyao 自决）\n胜负以世应分主客：世爻子孙申金，巳月戊申日子孙临日建、得巳申合？申金巳月虽合中带克然临日旺；应爻官鬼卯木休囚受巳火泄、又被世申金克（世克应）。二爻父母午火动克世子孙为隐患，午火化妻财亥水回头克、动化败解患。故世胜。",
+ "confidence": 0.63,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "父母午火动化亥水回头克、其患自解为胜负转折，changed_main"
+ }
+}

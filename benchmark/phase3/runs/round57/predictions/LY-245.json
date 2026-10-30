@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-245",
+ "prediction_text": "有子之女命断：断木命（子孙卯木应爻/寅木变出）之女能有子——即命带木（或生于寅卯木旺之命）者可出子嗣；金水土命者难。应验主在寅卯年月。",
+ "basis": "tradition: liuyao（六爻，输入卡 tradition=liuyao 自决）\n子嗣以子孙为用：子孙卯木初爻应静、申月丁丑日卯木休囚被月克；二爻官鬼丑土动化子孙寅木——动化子孙指出子出于此路：化出寅木子孙，故主寅卯木命之女有子。世兄弟亥水生子孙木亦助。官动化孙为定位何命的关键。",
+ "confidence": 0.57,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "‘何命’以化出寅木子孙定位木命，命理对应口径存争 disputed；依动化定 changed_main"
+ }
+}

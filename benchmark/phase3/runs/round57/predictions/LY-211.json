@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-211",
+ "prediction_text": "凶、寿不久：断其寿元有限，近月内（酉月/申酉之期）有大限之危，不作长寿断。",
+ "basis": "tradition: liuyao（六爻，输入卡 tradition=liuyao 自决）\n世爻子孙子水持世动而化兄弟申金、又被寅月克泄？子水在寅月休、酉日生扶仅一时；五爻父母戌土动克世子水、四爻父母戌土动、初爻父母未土动，三父齐动克子孙（占寿以世与子孙为元神寿基），剥之无妄又主灾非。寿基受群土围克，凶。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "世爻子孙动化且受多爻父母动克，主断依动变定凶，故changed_main；寿数具体年数无据存争，disputed"
+ }
+}

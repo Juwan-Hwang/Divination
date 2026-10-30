@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-235",
+ "prediction_text": "借贷不得/难得：断借贷无着、求财落空，即使开口亦被推托；不作得财断。",
+ "basis": "tradition: liuyao（六爻，输入卡 tradition=liuyao 自决）\n求财以妻财为用：火地晋静卦，妻财卯木三爻， 未月丁？日（日辰一字残损、原卡作丁□日）卯木休囚入未月墓、世爻兄弟酉金克财（兄持世克财主求财被劫/自阻），应爻父母未土又为财墓。财入墓、兄持世，静卦无子孙生财，故不得。日辰残损已注记、降置信。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "静卦依财入墓兄持世断之；日辰一字残损不影响月建判断，不用变伏"
+ }
+}

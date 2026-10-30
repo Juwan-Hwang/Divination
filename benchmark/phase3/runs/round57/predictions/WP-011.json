@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-011",
+ "prediction_text": "方向：现任总统特朗普连任胜出（险胜）。应期：2020-11-03 选举及随后计票，主坐标选举周内定胜负。",
+ "basis": "tradition: western/political astrology（输入卡无 tradition 字段，按选举/赛事占星题材自决；输入残损：无星盘、无行运数据，仅据题面事实作情境判断并降置信）；本卡唯一给出的盘面锚点全在特朗普一方：木星居二宫相照十宫、十宫有太阳，主权位与声势得吉曜照临，故按本卡所据之盘断特朗普。仅单方盘象、无拜登盘对照，置信下调。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "非六爻，三项全 false"
+ }
+}

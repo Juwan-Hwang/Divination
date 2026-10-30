@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-244",
+ "prediction_text": "夫妻不和将来难复合、终至离散：断和好无望，后续愈闹愈离，应在申日/子水之期见分晓（或秋冬之交决裂）。",
+ "basis": "tradition: liuyao（六爻，输入卡 tradition=liuyao 自决）\n女占夫用神官鬼寅木二爻静，巳月己亥日寅亥合，官被日合似有牵连；然四爻子孙申金动克官鬼寅木（子孙克夫星、巳申刑合），初爻妻财子水世？应爻财子水动化兄弟丑土，世爻子孙申金动主自身决意去夫。子孙动克官、世应动摇，主离散。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "子孙申金动克官鬼夫星定离散，changed_main"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-240",
+ "prediction_text": "借贷可得但打折/迟得：断能借到、数额或有不足，应期在卯日（财值日）或寅日；兄弟动主中间有人分/争，须防借后生争。",
+ "basis": "tradition: liuyao（六爻，输入卡 tradition=liuyao 自决）\n用神妻财卯木二爻动化寅木（化退），未月丁卯日财临日建旺，动而化退主先许后减；五爻兄弟酉金动克财主劫夺分财，世爻父母未土为财墓又生兄。财临日动本可得，化退+兄动故得而不足、迟延。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "妻财动化退与兄弟动克财同定‘得而不足’，changed_main"
+ }
+}

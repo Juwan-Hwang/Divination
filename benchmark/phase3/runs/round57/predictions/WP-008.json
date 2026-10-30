@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-008",
+ "prediction_text": "方向：现任总理莫迪领导的 BJP/NDA 获胜并连任，单独/联盟取得组阁多数。应期：计票日 2019-05-23 见分晓，窗口为投票期 4/11–5/19 之后计票当日，主坐标 5月23日。",
+ "basis": "tradition: western/political astrology（输入卡无 tradition 字段，按选举/赛事占星题材自决；输入残损：无星盘、无行运数据，仅据题面事实作情境判断并降置信）；现任优势、莫迪竞逐第二任期、反对党由拉胡尔·甘地领衔但题面无可比声势数据。无盘面，等级只断到胜选连任，不拔高到具体席位。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "非六爻，三项全 false"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-227",
+ "prediction_text": "乡试不利/不中：前后两占同断不第；再占父母巳火动化官鬼寅木亦主文书转空，断本次乡试落榜，下科再图。",
+ "basis": "tradition: liuyao（六爻，输入卡 tradition=liuyao 自决）\n初占兑为泽静卦六冲，父母未土世、父母丑土应，官鬼巳火二爻——六冲卦主散、功名难成；再占临之师，初爻父母巳火动化官鬼寅木，父母为文章/榜文，午月丙辰日巳火旺动化寅木回头生似佳，然化官鬼主名次化为虚衔、且世爻官鬼卯木与父母动爻相生链断于辰土兄，榜文动而化鬼多主有惊无喜。两占合参以初占六冲不中为主。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "双占同卡（静卦+再占并列），再占父母动化鬼为据 changed_main；两占权重存争 disputed"
+ }
+}

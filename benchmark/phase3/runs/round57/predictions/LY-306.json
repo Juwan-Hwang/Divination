@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-306",
+ "prediction_text": "尸首可见：断弟尸首可得见，应日在寅日（官鬼寅木出空逢值之日）或卯日；子月内、逢寅卯木日浮见/寻得。",
+ "basis": "tradition: liuyao（六爻，输入卡 tradition=liuyao 自决）\n占尸首用神官鬼寅木二爻静而旬空寅卯，子月乙巳日寅木休囚落空；静卦无动，空用神待出空逢值：寅日值、卯日实，故可见于寅卯日。官鬼虽空不破（巳日不冲寅），出空即见。父母伏于官下（伏父母巳火）参之 reserve。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "静卦依空用神出空法定见期；官下伏父母参断 reserve_used"
+ }
+}

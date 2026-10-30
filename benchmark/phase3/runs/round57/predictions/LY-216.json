@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-216",
+ "prediction_text": "仆人为祸之说不实/祸不成：断仆役虽有变心之迹但成祸有限，不宜无实迹重治；防在辰日/土日小口舌，不酿大祸。",
+ "basis": "tradition: liuyao（六爻，输入卡 tradition=liuyao 自决）\n占仆为祸以官鬼/应爻参看：应爻官鬼申金静而未月土生、不得日冲；二爻妻财辰土动世爻？世为妻财辰土动化兄弟寅木，初爻兄弟寅木动化父母子水——动爻财兄相战主猜疑财物纠葛，然官鬼不发、子孙午火两现克鬼，鬼受制，故祸不成。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "世应与鬼爻静动关系有两读（鬼静受制 vs 兄动主变心），disputed；主断依财兄动变，changed_main"
+ }
+}

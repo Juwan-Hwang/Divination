@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-012",
+ "prediction_text": "方向：拜登胜选且最终实际就任总统；落败方不认输，选后有争议、诉讼与动荡期。应期：2020-11-03 选举定胜负，2021年1月就职为实际掌权主坐标。",
+ "basis": "tradition: western/political astrology（输入卡无 tradition 字段，按选举/赛事占星题材自决；输入残损：无星盘、无行运数据，仅据题面事实作情境判断并降置信）；拜登民调领先为方向据；题面明示邮寄投票争议与败方可能不接受结果，故断胜负与就任分离、选后纷争为第二段。就任段触发为题面争议结构本身。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "非六爻，三项全 false"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-221",
+ "prediction_text": "夫妻难偕老：断中途有离散/丧隔之忧，不能白头；变数应在午火之期或子午冲之年（世应冲动之期）。",
+ "basis": "tradition: liuyao（六爻，输入卡 tradition=liuyao 自决）\n占偕老男以妻财为妻、世应长久看：世爻子孙午火动化妻财未土，应爻父母子水动化妻财未土，世应俱动而同化财未——看似归一，然子水应动回头？子水巳月休、丁未日，子未相害，世午与应子相冲（子午冲）主夫妻冲克；财戌上爻、财辰三爻两现而世化财主妻象入世却逢冲害，老来冲克难偕。",
+ "confidence": 0.57,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "世应俱动且子午冲害，两读（同化未土主归一 vs 冲害主离散）存争 disputed；主断依世应动冲 changed_main"
+ }
+}

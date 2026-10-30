@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-242",
+ "prediction_text": "自占婚可成：断此婚能成，妻财应爻动来就世之象；应期在戌日或丑戌之期，成婚顺遂度中上。",
+ "basis": "tradition: liuyao（六爻，输入卡 tradition=liuyao 自决）\n男占婚用神妻财：上爻妻财戌土应动化子孙巳火（财动化子孙主婚后子嗣/和乐），子月癸酉日戌土得？财戌动临应来生世？世爻官鬼酉金临日，财土生世金主妻就夫。财动在应、世旺临日，婚成。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "妻财应爻动生世定成婚，changed_main"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-001",
+ "prediction_text": "方向：儿子不在主人处，而在母亲自己家里。子的征象星木星（五宫主）落上升宫（母亲所在/其家），月亮趋合四宫主土星（母亲居所），主子已回到或正处母亲家中；应期以日为尺度：母子征象成三合所指的7月25日下午前后相见/得确信。置信中高。",
+ "basis": "tradition: horary（输入卡无 tradition 字段，依 Lilly 卜卦盘面与问题内容判为 horary）\n五宫主木星入上升=子在求问者处；月亮趋六合四宫主（宅）指向母亲居所；不取主人家一解，因子的征象不落主人相关宫位。",
+ "confidence": 0.75,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-013",
+ "prediction_text": "方向：工党在 2024-07-04 大选中获胜，斯塔默出任首相，保守党下野。应期：选举日 7月4日当晚见分晓，主坐标选举日。",
+ "basis": "tradition: western/political astrology（输入卡无 tradition 字段，按选举/赛事占星题材自决；输入残损：无星盘、无行运数据，仅据题面事实作情境判断并降置信）；工党民调领先约二十个百分点、执政党首相因提前离开纪念仪式受批评，势差悬殊；选举落在巨蟹座太阳期不改此势差。",
+ "confidence": 0.75,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "非六爻，三项全 false"
+ }
+}
