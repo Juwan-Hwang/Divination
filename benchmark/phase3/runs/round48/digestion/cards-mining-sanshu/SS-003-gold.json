@@ -1,0 +1,33 @@
+{
+  "id": "SS-003",
+  "tradition": "yizhan",
+  "subject": "佚名讼者（以墓域兴讼者，姓名原文未具）；占者镇江丹阳人王浪仙，精于易数",
+  "context": "有以墓域讼者求决于王浪仙；首筮得贲卦；讼不如意，逾月再来求决，复筮得蒙卦。",
+  "question": "墓域之讼胜负何如？",
+  "setting": "南宋·镇江；首筮遇贲、复筮遇蒙（卦象为刺激材料入输入侧）",
+  "provenance": "《夷坚志》·丁志卷一·王浪仙；在线全文实取 hugbear 全文单页 L3448–3450 https://www.hugbear.net/hugbear/viewinfobook555.html；transcription=online-verbatim；访问日期 2026-10-30",
+  "record_status": "candidate-r48-mining",
+  "redistributable": false,
+  "license_status": "古典文本公有领域；在线转录站条款未明，内部研究用",
+  "notes": "同条另有杭守召命子案（断语含「某月某日」原文即阙具体日期），不另建卡，登记于报告。",
+  "master_predictions": [
+    {
+      "master": "王浪仙",
+      "date": null,
+      "tradition": "yizhan",
+      "direction": null,
+      "key_assertions": [],
+      "source": "《夷坚志》·丁志卷一·王浪仙",
+      "statement_excerpt": "（首筮遇贲）为坟欠土。此不胜之兆。／（复筮遇蒙）冢上有草。当即日得直。"
+    }
+  ],
+  "outcome": {
+    "description": "既而尽然。",
+    "verified_by": "原文结局文本（逐字）"
+  },
+  "passage_full": "王浪仙。镇江丹阳人。精于易数。……有以墓域讼者求决。其卦遇贲。曰。为坟欠土。此不胜之兆。客唯唯而退。既而不胜。逾月复来。曰。某事已再理。幸先生决之。又筮之遇蒙。曰。冢上有草。当即日得直。客曰。前欠土。今有草得非无土耶。浪仙曰。非也。始之欠。今之有。时焉耳。又何疑。既而尽然。",
+  "grade_suggestion": "B",
+  "grade_reason": "断语具名可逐字录、两段可剥离；但结局原文仅「既而尽然」四字，为确认式表述、无具体事件/官职/数字内容，按 R47 XJ47-036 先例（确认式零内容判 B）判 B，只登记候选、预期不入账。",
+  "contamination_suggestion": "low",
+  "contamination_reason": "占者、对象均冷僻无流传；2026-10-30 以「为坟欠土」检索未见本案转述页。"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "SS-004",
+  "tradition": "fuji",
+  "subject": "姚安公（纪容舒，纪昀之父）未第时",
+  "context": "姚安公未第时遇扶乩者，先问有无功名，乩判后又问登第在何年。纪昀自记家事。",
+  "question": "有无功名？登第在何年？",
+  "setting": "清·纪昀家居时；扶乩判语为乩笔书面判语（非梦中告语）",
+  "provenance": "《阅微草堂笔记》·卷四·滦阳消夏录四；在线全文实取 arteducation 分页站卷四(1) L5 https://www.arteducation.com.tw/guwen/bookv_17085.html；transcription=online-verbatim；访问日期 2026-10-30",
+  "record_status": "candidate-r48-mining",
+  "redistributable": false,
+  "license_status": "古典文本公有领域；在线转录站条款未明，内部研究用",
+  "notes": "归型单注：乩判为神降笔之书面判语，非 R47 PREREG §1⑦ 所指梦中告语型；本席按通常口径建卡，「一萬年」为待解隐语（经万寿科解码），输入侧只入所问、乩判与解码不入输入侧，与 §1⑦ 隐语待解型边界一致，请主持裁定归型。「癸巳」原文如此（繁体在线转录）。",
+  "master_predictions": [
+    {
+      "master": "扶乩者（佚名）",
+      "date": null,
+      "tradition": "fuji",
+      "direction": null,
+      "key_assertions": [],
+      "source": "《阅微草堂笔记》·卷四·滦阳消夏录四",
+      "statement_excerpt": "前程萬里。／登第卻須候一萬年。"
+    }
+  ],
+  "outcome": {
+    "description": "及癸巳萬壽科登第。方悟萬年之說。後官雲南姚安府知府。乞養歸。遂未再出。並前程萬里之說亦驗。",
+    "verified_by": "原文结局文本（逐字）"
+  },
+  "passage_full": "姚安公未第時。遇扶乩者。問有無功名。判曰。前程萬里。公喜。又問登第何年。判曰。登第卻須候一萬年。公不覺失笑。私謂乩不過偶然語耳。前程萬里已屬妄談。況萬年之說乎。意興索然。遂不復問。及癸巳萬壽科登第。方悟萬年之說。後官雲南姚安府知府。乞養歸。遂未再出。並前程萬里之說亦驗。乃知神靈前知。非虛語也。",
+  "grade_suggestion": "A",
+  "grade_reason": "乩判断语具名（扶乩者）可逐字录；结局为独立事件文本（癸巳万寿科登第、官云南姚安府知府），含科年与官职；断语与结局可剥离成卡。",
+  "contamination_suggestion": "mid",
+  "contamination_reason": "出自纪昀自记其父事、《阅微》名篇流传面广，不敢称 low；2026-10-30 以乩判原句「登第卻須候一萬年」精确检索，未见本案转述页（返回为扶乩通论条目），案体细节未见流传，故不予 high，判 mid 待主持核定。"
+}
