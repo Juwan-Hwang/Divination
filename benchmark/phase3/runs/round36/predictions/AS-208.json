@@ -1,0 +1,15 @@
+{
+ "case_id": "AS-208",
+ "prediction_text": "鲁伯特不会在此战中得荣誉，反会被埃塞克斯占上风，其势将衰。鲁伯特以第10宫及其主太阳为征，太阳peregrine且居弱（detriment）固定星座，主本人无力得名；埃塞克斯征星金星（对宫主）与土星互容且金星处置鲁伯特的主星，月亮以左相刑第10宫头、金星亦以顺相临第10宫头，皆主荣誉宫被对方所制。时间窗为问后数月内（月档），鲁伯特声望受挫、军事上吃亏成为定局；远段无翻转触发，不报其后翻身。",
+ "basis": "主星尊贵对比（peregrine+detriment vs 互容处置对方主星）定方向。输入日期据内证推为1642年11–12月，非题面明示，已注明。",
+ "confidence": 0.74,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western horary astrology (Lilly)"
+ ]
+}

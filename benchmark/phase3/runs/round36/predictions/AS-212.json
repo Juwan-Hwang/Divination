@@ -1,0 +1,15 @@
+{
+ "case_id": "AS-212",
+ "prediction_text": "方向：非巫术所害（对「是否被巫」为 negative），病为自然之病且可向愈。月亮趋冲土星、两星分居六/十二宫只构成嫌疑表象；但上升、上升主与月亮皆未受十二宫主克害，巫害主证不成立。月亮冲土星之后转趋合上升主，上升主在地平面上且向天顶上升——病势过冲土星之关后转机，病人渐起。具体：药石无效是病程/土星沉重之象，不是巫。应期以日/月尺度：月亮过冲土星并成合上升主的本月窗内见转好，主坐标取月合上升主之期。",
+ "basis": "卜卦占星病占/巫疑：以 Asc/lord/Moon 是否被 lord 12th afflicted 为巫害判据，输入明言三者皆未受十二宫主克害，故嫌疑（Moon opp Saturn in 6/12）不成立；Moon applying to lord Asc 且上升主 above earth ascending 为转愈据。1646日期残缺、无全盘，残损已注。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ]
+}

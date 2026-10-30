@@ -1,0 +1,65 @@
+#!/usr/bin/env python3
+"""R36 host tooling: build the explicit outcome source manifest.
+
+Per R36 PREREG s.0/s.4: the manifest is the ONLY outcome source the R36
+judging-packet builder may read. Construction:
+  base  = runs/round35/judging/outcome-manifest.json (verified R35 manifest,
+          itself reconstructed from R33 official packets, overlay-16 applied,
+          plus the 9 MP corrections)
+  apply = benchmark/phase3/data/outcome-errata-overlay.json in its CURRENT
+          on-disk state (16 entries; R36 s.6.2 data-verify rulings added
+          none — overlay-proposals.json is an empty array, VERDICTS.md in
+          runs/round36/data-verify/). Every overlay corrected_outcome is
+          substituted over the base and then asserted verbatim in the result.
+Assertions: 487 unique cases; overlay size reported; all overlay texts
+verbatim in the output manifest.
+No rglob / tree search anywhere.
+Output: runs/round36/judging/outcome-manifest.json
+"""
+import json
+from pathlib import Path
+
+R36 = Path(__file__).resolve().parent
+P3 = R36.parents[1]
+R35_MANIFEST = P3 / "runs" / "round35" / "judging" / "outcome-manifest.json"
+OVERLAY_PATH = P3 / "data" / "outcome-errata-overlay.json"
+OUT = R36 / "judging" / "outcome-manifest.json"
+
+
+def main():
+    base = json.loads(R35_MANIFEST.read_text(encoding="utf-8"))
+    cases = dict(base["cases"])
+    assert len(cases) == 487, len(cases)
+
+    overlay_raw = json.loads(OVERLAY_PATH.read_text(encoding="utf-8"))
+    overlay = {k: (v["corrected_outcome"] if isinstance(v, dict) else v)
+               for k, v in overlay_raw.items() if k != "_comment"}
+    print(f"overlay entries: {len(overlay)}")
+
+    changed = []
+    for cid, corr in overlay.items():
+        assert cid in cases, f"overlay case not in pool: {cid}"
+        if cases[cid] != corr:
+            changed.append(cid)
+        cases[cid] = corr
+    for cid, corr in overlay.items():
+        assert cases[cid] == corr, f"overlay mismatch {cid}"
+    print(f"overlay applied; entries differing from R35 manifest: {changed}")
+
+    out = {
+        "_provenance": (
+            "Built 2026-10-30 for R36 from runs/round35/judging/"
+            "outcome-manifest.json with data/outcome-errata-overlay.json "
+            f"({len(overlay)} entries) applied verbatim; R36 s.6.2 additions "
+            f"substituted for: {changed}. Authoritative for R36 packet "
+            "building; no tree search permitted."
+        ),
+        "cases": cases,
+    }
+    OUT.write_text(json.dumps(out, ensure_ascii=False, indent=1),
+                   encoding="utf-8")
+    print(f"wrote {OUT} with {len(cases)} cases")
+
+
+if __name__ == "__main__":
+    main()

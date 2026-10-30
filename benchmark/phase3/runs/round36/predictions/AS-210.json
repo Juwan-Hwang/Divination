@@ -1,0 +1,15 @@
+{
+ "case_id": "AS-210",
+ "prediction_text": "方向：能得此职/晋升（positive），但经假友之手有阻滞与失望成分。月亮在第十宫（职位宫）入庙位趋合土星三合，土星在上升得擢升、与金星（求测者主星）互容接纳——求测者与职位主星双向接纳且月亮传光至十宫主，是得职的正断。具体：职可到手，须经那位太阳型朋友居间，然日居七宫冲上升且带龙尾、日又主十一宫（朋友宫），此友言行有损、不可全信，得职过程有对立与拖延。应期以月/旬尺度：月亮趋合土星成相的旬内至一月窗内落定，主坐标取窗口内月亮成三合后入十宫应期约数周内。置信中高。",
+ "basis": "卜卦占星整宫制，依输入卡 key_positions：Asc+Venus=求测者，10宫=职位；Moon in 10th applying trine Saturn, Saturn exalted in Asc, mutual reception Venus-Saturn 为得职主证；Sun in 7th opp Asc with Tail, lord 11th 为假友压制依据，只降顺遂度不翻方向。输入无完整盘面与精确日期，残损已注。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ]
+}

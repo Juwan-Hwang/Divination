@@ -1,0 +1,15 @@
+{
+ "case_id": "AS-010",
+ "prediction_text": "仆人向西而去（西方偏南象限），且会回来/被找回，时间不远。仆人主星水星在西方星座南象限，月亮出逃时亦在西方同座主方向一致向西；仆人主星与上升主自角宫外入相成三合，主坐标为数日内（日档）人归或被带回。主人方上升、上升主与月亮同宫主寻索有力，第2宫月亮居自宫、太阳与第11宫行星成完相主得旁人相助寻回。",
+ "basis": "方向据水星与月亮的西方/南象限；归期据主星间入相三合，尺度定为日。输入未给提问日期，应期只给日窗不给公历日。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western horary astrology (Lilly)"
+ ]
+}

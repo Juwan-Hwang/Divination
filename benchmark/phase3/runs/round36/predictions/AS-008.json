@@ -1,0 +1,15 @@
+{
+ "case_id": "AS-008",
+ "prediction_text": "埃塞克斯能攻下雷丁，城将交付而非久围不下。埃塞克斯主星火星（上升天蝎主）与月亮互容，月亮入相与火星成相（长上升星座折为刑意仍主事成）；守城方第4宫主土星入弱，城主受困。时间窗至4月末，主坐标4月27日前后城方交付/投降；城内军需（第5宫木金）尚在，故以受降得城为主、非饿降于一时。",
+ "basis": "主星互容与入相主成，守方主星入弱主守不住；太阳（王方）居第7固定只主拖延至交付节点。输入年份OCR有1643/1644歧异，不影响方向、已降置信。",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western horary astrology (Lilly)"
+ ]
+}

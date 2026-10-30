@@ -1,0 +1,15 @@
+{
+ "case_id": "WP-003",
+ "prediction_text": "Direction: Barack Obama is re-elected on 6 November 2012, defeating Mitt Romney. Incumbency holds: the challenger does not displace the sitting president in this cycle. Mercury turning retrograde on Election Day warns of counting friction — slow returns, disputed tallies in a close state, and a late night before the result settles — but it does not reverse the outcome; the result is confirmed without a prolonged legal deadlock. Margin: competitive but clear in the Electoral College, narrower in the popular mood than 2008. Timing: decided on election night 6–7 November 2012 (day-scale, question is day-scaled).",
+ "basis": "Western mundane/election astrology panel-style judgment from the supplied facts: incumbent advantage plus Mercury-retrograde-on-Election-Day read as procedural friction rather than outcome reversal (distinguished from a full recount crisis by absence of any other supplied affliction). No charts supplied; none invented.",
+ "confidence": 0.64,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "西方占星"
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "case_id": "AS-304",
+ "prediction_text": "方向：哈里斯胜选（positive 于哈里斯）。具体：哈里斯赢得总统选举，选举人票取得过半且优势不止于一州之差的量级，成为美国首位女总统。应期以日档中的选举日为锚（问事本身以2024-11-05投票日为尺度）：结果在投票日及随后数日计票窗内落定，主坐标取2024年11月5日投票日。输入无两候选人出生盘/行运数据，残损，置信中低。",
+ "basis": "输入残损：仅问事、2024-09-09时点与胶着选情，无本命盘、行运与星位附件，不臆补盘面。按mundane/选举占星在势均时取气势与 incumbency 替代者（执政党候选人）一线作方向断，并注记输入中provenance标题行本身载有该占者主断哈里斯胜的表述，与本断同向。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western-astrology"
+ ]
+}

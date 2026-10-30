@@ -1,0 +1,15 @@
+{
+ "case_id": "AS-211",
+ "prediction_text": "方向：马可找回（positive，可复得）。十二宫主（马之主星）逆行且急趋合求测者二宫主（二宫为其财物宫），月亮亦在二宫、二宫尖附近有二逆行星——马之主星回向财物宫，是失物回主之象。具体：马往西行（十二宫星座、其主星所在星座与众证皆主西，方位取西），人马终归至主人财物范围，多为自行/被人送回近处。应期以日尺度：逆行趋合二宫主成合的数日内，窗口数日，主坐标取趋合最近之日。",
+ "basis": "卜卦占星：lord 12th（horse）retrograde hastening to conj lord 2nd（substance），Moon in 2nd，两逆行星近2宫尖，主复得；sign of 12th 与主星所在皆 west，众证主西定方位。七宫受克只主曾有窃/他人因素，不翻复得。输入无日期全盘，残损已注。",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ]
+}

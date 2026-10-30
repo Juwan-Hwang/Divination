@@ -1,0 +1,15 @@
+{
+ "case_id": "WP-009",
+ "prediction_text": "方向：印度队不能夺冠。断语：印度队止步于淘汰赛阶段（半决赛量级），不捧杯；冠军旁落他队。应期：2019年7月14日决赛日揭晓，时间窗为5月30日至7月14日赛期，主坐标7月14日。",
+ "basis": "输入无印度队/队长本命盘数据，仅队长生年1988与赛前热门情境。热门过盛而无盘面支持足级夺冠，按古典占星『无据不升格』降格：热门只支持深轮次、不支持夺冠。输入残损：无星盘，降置信。应期月档，主坐标决赛日。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "非六爻，三项全false"
+ },
+ "systems_used": [
+  "western_astrology"
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "case_id": "AS-307",
+ "prediction_text": "方向：受访职业占星师群体主流意见指向哈里斯胜选（positive 于哈里斯）。具体：多数表态者判哈里斯赢，特朗普一方为少数意见；胜负差距被普遍判为接近。应期：2024-11-05投票日及计票数日窗内落定，主坐标取投票日。输入无任何一位占星师的盘面/星位与逐人表态明细，残损严重，置信低。",
+ "basis": "输入残损：仅有2024-10 HuffPost群体采访设定，无逐人断语、无盘面，不臆补个人依据。按群体表态题的性质以『主流共识方向』作断（执政党女性候选人一线），并明注此为共识层断语、非单盘断。",
+ "confidence": 0.45,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western-astrology"
+ ]
+}

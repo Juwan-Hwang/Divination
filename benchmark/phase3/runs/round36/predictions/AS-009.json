@@ -1,0 +1,15 @@
+{
+ "case_id": "AS-009",
+ "prediction_text": "狗能找回：往城的西方偏南（西区向南一带）去找。狗主星（第6宫及其主）落在西方星座、南象限偏西，与上升同三方性（主仍在伦敦本地），且入相三合第6宫头；月亮在风象被日光压只主一时无讯。下周一太阳以顺相入相上升主土星，主坐标为下周一前后得狗/有人送回。近段无讯、远段于周一落点寻回，两段触发为太阳入相土星。",
+ "basis": "方向取狗主星所在象限（西、南偏西）；寻回取其三合6宫头与周一太阳入相求测主星。输入若干符号OCR残损，据散文要点作断并降置信。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western horary astrology (Lilly)"
+ ]
+}

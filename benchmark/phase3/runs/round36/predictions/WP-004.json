@@ -1,0 +1,15 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "Direction: Hillary Clinton wins the 8 November 2016 election and becomes the first woman President of the United States, defeating Donald Trump. This is the conference panel consensus judgment: the Democrat's chart-side indications and the prevailing polling agree, and the panel majority settles on Clinton. The win is carried through the established electoral map rather than by a populist upset; expect a clear Electoral College result on election night. Timing: decided 8 November 2016 (day-scale, question is day-scaled).",
+ "basis": "Western mundane/election astrology, panel-consensus form as posed by the prompt (international conference forecasting panel, October 2016, polls favouring Clinton supplied as facts). Recorded as the panel's collective call; no individual charts supplied in input.",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "西方占星"
+ ]
+}

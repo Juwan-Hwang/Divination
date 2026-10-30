@@ -1,0 +1,15 @@
+{
+ "case_id": "AS-213",
+ "prediction_text": "方向：逃犯向东行，且可被追回（recoverable，positive 于追回）。十二宫尖射手、其主木星在狮子，十二宫星座、木星所在、月亮所在与天象四分方众证一致主东。具体：人未远遁他方，月亮近上升主其行踪近在明处；月亮离木星三合而趋冲太阳、两曜皆在角宫，终被发现/拿获。木星在八宫主追索中有惊险与耗费。应期以日尺度：月亮趋冲太阳成相的数日内为主窗，主坐标取月冲日之日。",
+ "basis": "卜卦占星行人/逃犯：以12宫尖与Jupiter表逃犯，四项方位证据 unanimously eastward 定东；Moon neer Asc、sep trine Jupiter、apply opp Sun in angles 主行踪显露可获；Jupiter in 8th 降顺遂度。输入无日期全盘，残损已注。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "horary"
+ ]
+}

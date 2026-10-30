@@ -1,0 +1,15 @@
+{
+ "case_id": "WP-013",
+ "prediction_text": "方向：工党大胜。断语：斯塔默领导的工党赢得2024年7月4日大选、组建政府，斯塔默任首相；保守党大败下野。应期：2024年7月4日选举日当夜计票落定，主坐标7月4日。",
+ "basis": "情境：工党民调领先约20个百分点，执政党首相又因提前离开纪念活动受重创，挑战者势位压倒性占优；选举落在巨蟹座太阳期仅作背景标注、不作主据。输入无星盘，以情境强弱落断，领先幅度足级故断大胜。应期日档（单日选举）。",
+ "confidence": 0.78,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "非六爻，三项全false"
+ },
+ "systems_used": [
+  "western_astrology"
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "case_id": "MP-004",
+ "prediction_text": "断为蔡英文当选连任。应期即2020年1月11日投票日，事件终局单点。置信分层：方向高。",
+ "basis": "输入残损注明：无卦象盘面，仅据情境作断并降置信。依据事实（通则e）：问时多项民调显示韩国瑜持续落后，距投票仅约两月，落后幅度已非单一事件可翻；形势收敛于蔡。等级按民调差距足级断蔡胜，不无据降格为险胜（通则b）。",
+ "confidence": 0.75,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "形势占"
+ ]
+}

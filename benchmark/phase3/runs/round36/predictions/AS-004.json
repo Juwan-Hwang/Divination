@@ -1,0 +1,15 @@
+{
+ "case_id": "AS-004",
+ "prediction_text": "传闻为假：国王并未攻下剑桥。四宫角皆动、月亮陷于角后且无所悦之座、土火分别伤第10与第7宫头皆主谣言无根；求测方（议会方）上升主擢升强，对方第7宫主入弱且受克。故剑桥未失守，消息属虚报，应期即当下可否定、无待后续。",
+ "basis": "Lilly谣言章法：角动、月亮衰弱无力传真，敌方主星入陷受克而我方主星擢升。输入仅散文要点，无完整盘面，据给定证词作断。",
+ "confidence": 0.8,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western horary astrology (Lilly)"
+ ]
+}

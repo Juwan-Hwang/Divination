@@ -1,0 +1,15 @@
+{
+ "case_id": "AS-012",
+ "prediction_text": "得不到这个教区职位，求之必败。七项负证齐备：土星受阻居上升伤问事；职位主星木星（第9宫主）与上升主、月亮皆无相位，无传光、无集光、无容纳，上升主与月亮亦不在第9宫；月亮离三合而入相冲第3宫主水星，金星居第7冲上升。主星与所求全程无连接，终局单判为不成，劝阻亦无效、强求只落空。",
+ "basis": "Lilly本人列举的无相位/无容纳/无传光负证即否定判据。输入个别行星符号OCR残损，但七项负证文字明确，不影响方向。",
+ "confidence": 0.9,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ },
+ "systems_used": [
+  "western horary astrology (Lilly)"
+ ]
+}

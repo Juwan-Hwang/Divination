@@ -1,0 +1,15 @@
+{
+ "case_id": "WP-010",
+ "prediction_text": "方向：拜登获胜。断语：民主党拜登击败现任特朗普，当选下任美国总统。应期：2020年11月3日选举日后数日内由计票定局，时间窗11月3日至11月中旬，主坐标11月上旬计票落定之时。",
+ "basis": "情境给定拜登天蝎上升（吠陀口径标注）且民调领先，挑战者势位与民调同向指向拜登；三位占星师内部有分歧已如实计入不确定性。输入残损：无完整星盘，仅上升星座与民调情境，降置信。应期月档内以日计。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "非六爻，三项全false"
+ },
+ "systems_used": [
+  "western_astrology"
+ ]
+}
