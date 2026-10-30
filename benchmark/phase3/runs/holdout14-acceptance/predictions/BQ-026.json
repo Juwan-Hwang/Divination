@@ -1,0 +1,15 @@
+{
+ "case_id": "BQ-026",
+ "prediction_text": "方向：正面，官事可解、此乡人无罪获胜一面。恒卦官鬼带刑持世本主官刑压身，喜癸巳日克去官鬼，又应爻生世得对方/外助，刑鬼被日克去则官事松解，不至坐罪受刑。应期：官事属月档而日克已现，窗口本月内，主坐标巳日（日辰克鬼之日）为转松主点，后续以巳日所应在近旬内落定。置信分层：方向较可信，胜负程度只断得解、不拔高为大胜。",
+ "basis": "六爻官事：输入残损，无全盘，仅据原文自述象——恒卦官鬼带刑持世、日克去之、应生世。按用神官鬼受日克去、应生世作解。门类应期对表：官事不在已核对表条内明写对表无此门类，按日克解法取期。trigger：无变卦记载故changed_main=false，未见伏神取用reserve_used=false，断语自述象明确disputed=false。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "恒卦原文未记变卦，无变卦故changed_main为false；未动用伏神；自述象明确无取用争议"
+ },
+ "systems_used": [
+  "六爻"
+ ]
+}
