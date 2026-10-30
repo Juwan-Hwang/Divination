@@ -1,0 +1,12 @@
+{
+ "case_id": "YY2-004",
+ "prediction_text": "不可定终局寿数——本例盘面残损到无法按六爻作断：本卦名原书缺字、动爻与全盘爻线俱缺，只知变卦为雷天大壮。仅以变象作最弱备用参考：大壮主壮盛、无即时衰败之象，故倾向『不主旋即终局、寿事尚非眼前立断之局』，但寿年长短、终期年份一概无据不报，应期无据不报（不以变卦一象臆定年数）。此条为残损降格断语，非完整六爻终局断。",
+ "basis": "输入卡 tradition=liuyao；实际所用体系=六爻纳甲（寿数占），但盘面残损、只能退用变卦象作备用参考。\n输入残损（照实注明）：输入卡 notes 明载本卦名版面即缺字（得□之大壮），chart_lines_top_to_bottom 与 moving_lines 均『不可补』保持 null；本宫、世应、六亲、动爻、用神皆无从定，空亡子丑仅由日干支推算复原。\n因用神（世爻）无从枚举，旺衰、空墓伏化决策序、应期三步均无盘可走——不是走完后无候选，而是输入本身缺盘；按规不臆补本卦、不虚构动爻与寿数。\n故 changed_main 无从谈翻转、置 false；reserve_used 置 true（主盘缺失、仅以变卦大壮之象作备用参考）；disputed 置 true（盘面残损存疑）。置信大幅下调至 0.15。",
+ "confidence": 0.15,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": true,
+  "reason": "本卦缺字、全盘与动爻不可补，主盘不存在；reserve_used=true 指仅以变卦大壮象作备用参考，disputed=true 指盘面残损存疑，changed_main=false 指无完整初判可供翻转。"
+ }
+}

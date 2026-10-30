@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-208",
+ "prediction_text": "方向：鲁珀特亲王不会由此战得荣誉，反会被埃塞克斯占上风（worsted）。鲁珀特以10宫及其主太阳为征象，太阳无定位且失势（detriment）在固定星座，主其名声与局面俱弱受制；埃塞克斯以对宫之主金星为征象，金星与土星接纳、且由金星定位鲁珀特的太阳，主主动权在埃塞克斯一方；月亮以左相刑10宫头、金星又以右相临10宫头，皆不利亲王。后果为受挫失面、局面被对方压住，非身死之断。以月为单位，其军事声势在随后数月内走低，主坐标在数月尺度。",
+ "basis": "输入卡 tradition：horary；实际所用体系：horary（Lilly 古典卜卦占星，整宫制）\n按Lilly战争荣誉占（Chap. LXXXV）：双方征象星尊贵对比——太阳peregrine＋detriment对比金星得接纳且定位对方主星，取金星方胜。等级只断失荣受制，不拔高到死伤（无8宫死征链）。",
+ "confidence": 0.8,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

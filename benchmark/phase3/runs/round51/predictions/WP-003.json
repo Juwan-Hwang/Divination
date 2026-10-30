@@ -1,0 +1,12 @@
+{
+  "case_id": "WP-003",
+  "prediction_text": "Direction: Barack Obama is re-elected. Prediction: incumbent Obama defeats Mitt Romney in the general election of 6 November 2012. Mercury turning retrograde on Election Day signifies delay, recount-talk and disputed/inconclusive early returns — confusion in the counting — but not reversal of the result: after the retrograde noise, Obama's win stands confirmed.",
+  "basis": "Input card tradition: no tradition field present on the card (field absent, noted as-is); system actually used: Western astrology (election forecasting consensus as reported by the cited astrology news report).\nCard facts: incumbent running for re-election, competitive polling, Mercury retrograde beginning on election day itself. In election-astrology practice, Mercury retrograde on the day is read for mechanical/counting confusion and a contested narrative (the 2000 precedent), while incumbency plus a merely competitive — not adverse — chart picture keeps the incumbent ahead. The layered reading therefore separates process (messy, delayed, disputed at first) from outcome (Obama retains the presidency), rather than letting the retrograde flip the winner.",
+  "confidence": 0.64,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": ""
+  }
+}

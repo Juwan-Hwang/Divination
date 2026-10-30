@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-009",
+ "prediction_text": "方向：印度队夺冠。具体断语：印度进入淘汰赛后段并最终捧杯，队长 Kohli 率队在决赛取胜。应期/时间窗：决赛日 2019年7月14日揭晓，单位为日。",
+ "basis": "本例输入卡 tradition=未标注（输入卡无 tradition 字段）；实际所用体系=西方/印度时政占星式赛事判断（无盘面数据，按事实优先序）。\n输入残损：无星盘、无卦象，只有背景：印度被视为夺冠热门之一、占星者刚发布板球预测新书。按(e)以给定强势事实为准取热门方夺冠；无盘可核，置信低。",
+ "confidence": 0.4,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-416",
+ "prediction_text": "断迎请父王灵柩终得允准，但迟滞往返、非一次即成。再占兄弟亥水持世动化申金回头生，世得生扶主事可成；父母多现而动线在财/兄，文书允令须经周折。应期以月档论，允信在申月/申日一线，主坐标取申日。盘面双卦混排残损，置信下调。",
+ "basis": "输入卡 tradition=liuyao；实际所用体系：六爻纳甲（迎请允否，父母为灵柩/文书允令）。\n输入卡 tradition=liuyao。附件chart_lines共12行，初占与再占两卦混排、初占卦名未直书，属盘面残损，照实注明不臆补：仅据再占泽火革之既济可读部分作断。二爻财寅动化父母丑、四爻兄亥世动化父母申，动化父母主允令文书化出；兄化申回头生世有力。父母多现取舍存疑。对象：所请为父王灵柩迎请允否。",
+ "confidence": 0.45,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": true,
+  "reason": "changed_main:主用神父母为化出而非动化主爻故false；reserve_used:父母多现取舍故true；disputed:双卦12行混排、初占卦名缺故true"
+ }
+}

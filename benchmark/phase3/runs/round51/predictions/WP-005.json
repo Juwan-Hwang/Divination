@@ -1,0 +1,12 @@
+{
+  "case_id": "WP-005",
+  "prediction_text": "Direction: Donald Trump wins the 2016 US presidential election. Prediction: the panel astrologer singled out in this case — the one who, against the field, had earlier picked Trump to win the Republican nomination when 17 Republicans still contested it — again goes against consensus and picks Trump to defeat Hillary Clinton on 8 November 2016, notwithstanding Clinton's polling lead.",
+  "basis": "Input card tradition: no tradition field present on the card (field absent, noted as-is); system actually used: Western astrology (individual election forecaster's reading within the same ISAR panel coverage).\nThe case is constructed around one forecaster with a demonstrated against-consensus hit on this exact candidate earlier in the same cycle (picking Trump as nominee from a 17-candidate field). The evidential logic of the case is track-record-based: a reader who correctly called the nomination upset on Trump is presented making the parallel general-election call, and the card's emphasis (singling him out from the panel) marks his verdict — Trump — as the prediction to record, distinct from the panel consensus recorded in the companion case. Polls favouring Clinton are card context, and this forecaster's defining trait in the card is discounting them.",
+  "confidence": 0.58,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": ""
+  }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-402",
+ "prediction_text": "断自陈不利、陈而不允。自陈文书虽动，官鬼辰土动化丑土退神、主事退减，妻财午火持世动化亥水回头克、自身受压，上陈反招驳阻，终局为不成。应期以月档论，本月内即见驳回之信。",
+ "basis": "输入卡 tradition=liuyao；实际所用体系：六爻纳甲（自陈/官讼类，看父母文书与官鬼）。\n酉月甲辰日。三爻妻财午火世动化亥水回头克；二爻官鬼辰土动化丑土，辰→丑为化退神，主官事退减不进；初爻子孙寅木动化卯木化进，子孙进旺克官、主驳斥之力增。此章进退神主题正合：官退、福进克官，自陈难允。动化定性优先于静态；反转扫查无全链翻转。终局单判negative向。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main:官鬼化退直接改变终局故true；reserve_used:未用伏神/次用神故false；disputed:盘面完整无争议故false"
+ }
+}
