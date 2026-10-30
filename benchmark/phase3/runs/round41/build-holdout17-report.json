@@ -1,0 +1,443 @@
+{
+  "counts": {
+    "测字": 20,
+    "断案": 7,
+    "辨疑": 7,
+    "粹言": 6,
+    "total": 40
+  },
+  "ids": [
+    "ZC-134",
+    "ZC-135",
+    "ZC-136",
+    "ZC-137",
+    "ZC-138",
+    "ZC-140",
+    "ZC-141",
+    "ZC-142",
+    "ZC-147",
+    "ZC-148",
+    "ZC-151",
+    "ZC-152",
+    "ZC-153",
+    "ZC-155",
+    "ZC-159",
+    "ZC-161",
+    "ZC-162",
+    "ZC-072",
+    "ZC-073",
+    "ZC-130",
+    "DA-032",
+    "DA-040",
+    "DA-052",
+    "DA-058",
+    "DA-109",
+    "DA-125",
+    "DA-128",
+    "BYZ-017",
+    "BYZ-023",
+    "BYZ-028",
+    "BYZ-032",
+    "BYZ-037",
+    "BYZ-046",
+    "BYZ-052",
+    "CY-009",
+    "CY-013",
+    "CY-017",
+    "CY-023",
+    "CY-027",
+    "CY-030"
+  ],
+  "gold_sha256": "32e2b1425f98dd8eaa55f71ebe625e9f1d4f7a33f51bab10b7058dc770a70ea7",
+  "da_verify": {
+    "DA-032": {
+      "三传复核": "合",
+      "断语窗口": "主宅后东厕水"
+    },
+    "DA-040": {
+      "三传复核": "合",
+      "断语窗口": "自身为酒所败"
+    },
+    "DA-052": {
+      "三传复核": "合",
+      "断语窗口": "课名出户占试"
+    },
+    "DA-058": {
+      "三传复核": "合",
+      "断语窗口": "内主陈姓人不"
+    },
+    "DA-109": {
+      "三传复核": "合",
+      "断语窗口": "令堂所葬之地"
+    },
+    "DA-125": {
+      "三传复核": "合",
+      "断语窗口": "干支中末俱见"
+    },
+    "DA-128": {
+      "三传复核": "合",
+      "断语窗口": "若继子便是一"
+    }
+  },
+  "grade_register": {
+    "ZC-134": "测字：断语/结局视觉转录（transcription=visual，置信 中，据候选行）",
+    "ZC-135": "测字：断语/结局视觉转录（transcription=visual，置信 中高，据候选行）",
+    "ZC-136": "测字：断语/结局视觉转录（transcription=visual，置信 中高，据候选行）",
+    "ZC-137": "测字：断语/结局视觉转录（transcription=visual，置信 中，据候选行）",
+    "ZC-138": "测字：断语/结局视觉转录（transcription=visual，置信 中高，据候选行）",
+    "ZC-140": "测字：断语/结局视觉转录（transcription=visual，置信 中，据候选行）",
+    "ZC-141": "测字：断语/结局视觉转录（transcription=visual，置信 中高，据候选行）",
+    "ZC-142": "测字：断语/结局视觉转录（transcription=visual，置信 中高，据候选行）",
+    "ZC-147": "测字：断语/结局视觉转录（transcription=visual，置信 高，据候选行）",
+    "ZC-148": "测字：断语/结局视觉转录（transcription=visual，置信 高，据候选行）",
+    "ZC-151": "测字：断语/结局视觉转录（transcription=visual，置信 高，据候选行）",
+    "ZC-152": "测字：断语/结局视觉转录（transcription=visual，置信 高，据候选行）",
+    "ZC-153": "测字：断语/结局视觉转录（transcription=visual，置信 高，据候选行）",
+    "ZC-155": "测字：断语/结局视觉转录（transcription=visual，置信 高，据候选行）",
+    "ZC-159": "测字：断语/结局视觉转录（transcription=visual，置信 中，据候选行）",
+    "ZC-161": "测字：断语/结局视觉转录（transcription=visual，置信 高，据候选行）",
+    "ZC-162": "测字：断语/结局视觉转录（transcription=visual，置信 中，据候选行）",
+    "ZC-072": "测字：库存台账例（R38/R39 视觉转录），断验俱全",
+    "ZC-073": "测字：库存台账例（R38/R39 视觉转录），断验俱全",
+    "ZC-130": "测字：库存台账例（R38/R39 视觉转录），断验俱全",
+    "DA-032": "甲（底本全课式可直读；本脚本对 cases_raw 复核三传一致、断语窗口命中「主宅后东厕水」）",
+    "DA-040": "甲（底本全课式可直读；本脚本对 cases_raw 复核三传一致、断语窗口命中「自身为酒所败」）",
+    "DA-052": "甲（底本全课式可直读；本脚本对 cases_raw 复核三传一致、断语窗口命中「课名出户占试」）",
+    "DA-058": "甲（底本全课式可直读；本脚本对 cases_raw 复核三传一致、断语窗口命中「内主陈姓人不」）",
+    "DA-109": "甲（底本全课式可直读；本脚本对 cases_raw 复核三传一致、断语窗口命中「令堂所葬之地」）",
+    "DA-125": "甲（底本全课式可直读；本脚本对 cases_raw 复核三传一致、断语窗口命中「干支中末俱见」）",
+    "DA-128": "甲（底本全课式可直读；本脚本对 cases_raw 复核三传一致、断语窗口命中「若继子便是一」）",
+    "BYZ-017": "甲（原页全式可直读，据候选行回源对勘登记）",
+    "BYZ-023": "甲（原页全式可直读，据候选行回源对勘登记）",
+    "BYZ-028": "甲（原页全式可直读，据候选行回源对勘登记）",
+    "BYZ-032": "甲（原页全式可直读，据候选行回源对勘登记）",
+    "BYZ-037": "甲（原页全式可直读，据候选行回源对勘登记）",
+    "BYZ-046": "甲（原页全式可直读，据候选行回源对勘登记）",
+    "BYZ-052": "甲（原页全式可直读，据候选行回源对勘登记）",
+    "CY-009": "甲（R41 回源页图转录：无未决项：课盘列全录、四课互证全合；原书体例无独立三传栏/天将列，三传字见盘列、断语线索照候选行登记）",
+    "CY-013": "甲（R41 回源页图转录：无未决项：课盘列全录、四课互证全合；原书体例无独立三传栏/天将列，同 CY-009 注）",
+    "CY-017": "甲（R41 回源页图转录：无未决项：课盘列全录、四课互证全合；原书体例无独立三传栏/天将列，同 CY-009 注）",
+    "CY-023": "甲（R41 回源页图转录：无未决项：课盘列全录、四课互证全合；原书体例无独立三传栏/天将列，同 CY-009 注）",
+    "CY-027": "甲（R41 回源页图转录：课盘列全录、四课字全合；三课午/戌在刊印列中上下读序与盘式分位以复原互证后定，已逐项标明）",
+    "CY-030": "乙（R41 回源页图转录：残损/未决三项：①验语尾字残（候选行已登记，结局仅「果」字起、到任日文残）；②一课（丑/壬）、二课（卯/丑）分位未能确指，干字形近「甲」待核；③课盘列余字已逐字转录、四课后两对可确指）"
+  },
+  "strip_register": {
+    "ZC-134": [
+      "gold_material.master_prediction（金标侧）",
+      "gold_material.outcome（金标侧）",
+      "compliance.outcome_grade/contamination/rationale（金标侧）",
+      "dedup_key",
+      "transcription_confidence（席位元数据）"
+    ],
+    "ZC-135": [
+      "gold_material.master_prediction（金标侧）",
+      "gold_material.outcome（金标侧）",
+      "compliance.outcome_grade/contamination/rationale（金标侧）",
+      "dedup_key",
+      "transcription_confidence（席位元数据）"
+    ],
+    "ZC-136": [
+      "gold_material.master_prediction（金标侧）",
+      "gold_material.outcome（金标侧）",
+      "compliance.outcome_grade/contamination/rationale（金标侧）",
+      "dedup_key",
+      "transcription_confidence（席位元数据）"
+    ],
+    "ZC-137": [
+      "gold_material.master_prediction（金标侧）",
+      "gold_material.outcome（金标侧）",
+      "compliance.outcome_grade/contamination/rationale（金标侧）",
+      "dedup_key",
+      "transcription_confidence（席位元数据）"
+    ],
+    "ZC-138": [
+      "gold_material.master_prediction（金标侧）",
+      "gold_material.outcome（金标侧）",
+      "compliance.outcome_grade/contamination/rationale（金标侧）",
+      "dedup_key",
+      "transcription_confidence（席位元数据）"
+    ],
+    "ZC-140": [
+      "gold_material.master_prediction（金标侧）",
+      "gold_material.outcome（金标侧）",
+      "compliance.outcome_grade/contamination/rationale（金标侧）",
+      "dedup_key",
+      "transcription_confidence（席位元数据）"
+    ],
+    "ZC-141": [
+      "gold_material.master_prediction（金标侧）",
+      "gold_material.outcome（金标侧）",
+      "compliance.outcome_grade/contamination/rationale（金标侧）",
+      "dedup_key",
+      "transcription_confidence（席位元数据）"
+    ],
+    "ZC-142": [
+      "gold_material.master_prediction（金标侧）",
+      "gold_material.outcome（金标侧）",
+      "compliance.outcome_grade/contamination/rationale（金标侧）",
+      "dedup_key",
+      "transcription_confidence（席位元数据）"
+    ],
+    "ZC-147": [
+      "gold_material.master_prediction（金标侧）",
+      "gold_material.outcome（金标侧）",
+      "compliance.outcome_grade/contamination/rationale（金标侧）",
+      "dedup_key",
+      "transcription_confidence（席位元数据）"
+    ],
+    "ZC-148": [
+      "gold_material.master_prediction（金标侧）",
+      "gold_material.outcome（金标侧）",
+      "compliance.outcome_grade/contamination/rationale（金标侧）",
+      "dedup_key",
+      "transcription_confidence（席位元数据）"
+    ],
+    "ZC-151": [
+      "gold_material.master_prediction（金标侧）",
+      "gold_material.outcome（金标侧）",
+      "compliance.outcome_grade/contamination/rationale（金标侧）",
+      "dedup_key",
+      "transcription_confidence（席位元数据）"
+    ],
+    "ZC-152": [
+      "gold_material.master_prediction（金标侧）",
+      "gold_material.outcome（金标侧）",
+      "compliance.outcome_grade/contamination/rationale（金标侧）",
+      "dedup_key",
+      "transcription_confidence（席位元数据）"
+    ],
+    "ZC-153": [
+      "gold_material.master_prediction（金标侧）",
+      "gold_material.outcome（金标侧）",
+      "compliance.outcome_grade/contamination/rationale（金标侧）",
+      "dedup_key",
+      "transcription_confidence（席位元数据）"
+    ],
+    "ZC-155": [
+      "gold_material.master_prediction（金标侧）",
+      "gold_material.outcome（金标侧）",
+      "compliance.outcome_grade/contamination/rationale（金标侧）",
+      "dedup_key",
+      "transcription_confidence（席位元数据）"
+    ],
+    "ZC-159": [
+      "gold_material.master_prediction（金标侧）",
+      "gold_material.outcome（金标侧）",
+      "compliance.outcome_grade/contamination/rationale（金标侧）",
+      "dedup_key",
+      "transcription_confidence（席位元数据）"
+    ],
+    "ZC-161": [
+      "gold_material.master_prediction（金标侧）",
+      "gold_material.outcome（金标侧）",
+      "compliance.outcome_grade/contamination/rationale（金标侧）",
+      "dedup_key",
+      "transcription_confidence（席位元数据）"
+    ],
+    "ZC-162": [
+      "gold_material.master_prediction（金标侧）",
+      "gold_material.outcome（金标侧）",
+      "compliance.outcome_grade/contamination/rationale（金标侧）",
+      "dedup_key",
+      "transcription_confidence（席位元数据）"
+    ],
+    "ZC-072": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "grade_note",
+      "contamination/contamination_reason",
+      "outcome_grade",
+      "holdout_eligible",
+      "notes",
+      "context.attachments.method_hint（空值）"
+    ],
+    "ZC-073": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "grade_note",
+      "contamination/contamination_reason",
+      "outcome_grade",
+      "holdout_eligible",
+      "notes",
+      "context.attachments.method_hint（空值）"
+    ],
+    "ZC-130": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "grade_note",
+      "contamination/contamination_reason",
+      "outcome_grade",
+      "holdout_eligible",
+      "notes",
+      "context.attachments.method_hint（空值）"
+    ],
+    "DA-032": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "grade_note_stock（金标侧）",
+      "outcome_grade_stock/compliance/dedup/grade/grade_evidence（席位元数据）",
+      "notes（席位元数据）",
+      "chart.四课说明/四课干支校验（席位元数据）"
+    ],
+    "DA-040": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "grade_note_stock（金标侧）",
+      "outcome_grade_stock/compliance/dedup/grade/grade_evidence（席位元数据）",
+      "notes（席位元数据）",
+      "chart.四课说明/四课干支校验（席位元数据）"
+    ],
+    "DA-052": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "grade_note_stock（金标侧）",
+      "outcome_grade_stock/compliance/dedup/grade/grade_evidence（席位元数据）",
+      "notes（席位元数据）",
+      "chart.四课说明/四课干支校验（席位元数据）"
+    ],
+    "DA-058": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "grade_note_stock（金标侧）",
+      "outcome_grade_stock/compliance/dedup/grade/grade_evidence（席位元数据）",
+      "notes（席位元数据）",
+      "chart.四课说明/四课干支校验（席位元数据）"
+    ],
+    "DA-109": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "grade_note_stock（金标侧）",
+      "outcome_grade_stock/compliance/dedup/grade/grade_evidence（席位元数据）",
+      "notes（席位元数据）",
+      "chart.四课说明/四课干支校验（席位元数据）"
+    ],
+    "DA-125": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "grade_note_stock（金标侧）",
+      "outcome_grade_stock/compliance/dedup/grade/grade_evidence（席位元数据）",
+      "notes（席位元数据）",
+      "chart.四课说明/四课干支校验（席位元数据）"
+    ],
+    "DA-128": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "grade_note_stock（金标侧）",
+      "outcome_grade_stock/compliance/dedup/grade/grade_evidence（席位元数据）",
+      "notes（席位元数据）",
+      "chart.四课说明/四课干支校验（席位元数据）"
+    ],
+    "BYZ-017": [
+      "master_predictions（金标侧）",
+      "outcome/outcome_original（金标侧）",
+      "grade_note_stock（金标侧）",
+      "outcome_grade_stock/compliance/dedup/grade/grade_evidence（席位元数据）",
+      "notes（席位元数据）",
+      "chart.月将/旬空（原书未单列、推得注记，不入卡）"
+    ],
+    "BYZ-023": [
+      "master_predictions（金标侧）",
+      "outcome/outcome_original（金标侧）",
+      "grade_note_stock（金标侧）",
+      "outcome_grade_stock/compliance/dedup/grade/grade_evidence（席位元数据）",
+      "notes（席位元数据）",
+      "chart.月将/旬空（原书未单列、推得注记，不入卡）"
+    ],
+    "BYZ-028": [
+      "master_predictions（金标侧）",
+      "outcome/outcome_original（金标侧）",
+      "grade_note_stock（金标侧）",
+      "outcome_grade_stock/compliance/dedup/grade/grade_evidence（席位元数据）",
+      "notes（席位元数据）",
+      "chart.月将/旬空（原书未单列、推得注记，不入卡）"
+    ],
+    "BYZ-032": [
+      "master_predictions（金标侧）",
+      "outcome/outcome_original（金标侧）",
+      "grade_note_stock（金标侧）",
+      "outcome_grade_stock/compliance/dedup/grade/grade_evidence（席位元数据）",
+      "notes（席位元数据）",
+      "chart.月将/旬空（原书未单列、推得注记，不入卡）"
+    ],
+    "BYZ-037": [
+      "master_predictions（金标侧）",
+      "outcome/outcome_original（金标侧）",
+      "grade_note_stock（金标侧）",
+      "outcome_grade_stock/compliance/dedup/grade/grade_evidence（席位元数据）",
+      "notes（席位元数据）",
+      "chart.月将/旬空（原书未单列、推得注记，不入卡）"
+    ],
+    "BYZ-046": [
+      "master_predictions（金标侧）",
+      "outcome/outcome_original（金标侧）",
+      "grade_note_stock（金标侧）",
+      "outcome_grade_stock/compliance/dedup/grade/grade_evidence（席位元数据）",
+      "notes（席位元数据）",
+      "chart.月将/旬空（原书未单列、推得注记，不入卡）"
+    ],
+    "BYZ-052": [
+      "master_predictions（金标侧）",
+      "outcome/outcome_original（金标侧）",
+      "grade_note_stock（金标侧）",
+      "outcome_grade_stock/compliance/dedup/grade/grade_evidence（席位元数据）",
+      "notes（席位元数据）",
+      "chart.月将/旬空（原书未单列、推得注记，不入卡）"
+    ],
+    "CY-009": [
+      "gold_side.master_predictions（金标侧）",
+      "gold_side.outcome（金标侧）",
+      "gold_side.grade_note/contamination_rationale（金标侧）",
+      "compliance/freshness_check/holdout_eligible_inventory（席位元数据）",
+      "input_side.课式成色/残损登记（席位元数据，成色结论已改按 R41 回源转录实况登记）"
+    ],
+    "CY-013": [
+      "gold_side.master_predictions（金标侧）",
+      "gold_side.outcome（金标侧）",
+      "gold_side.grade_note/contamination_rationale（金标侧）",
+      "compliance/freshness_check/holdout_eligible_inventory（席位元数据）",
+      "input_side.课式成色/残损登记（席位元数据，成色结论已改按 R41 回源转录实况登记）"
+    ],
+    "CY-017": [
+      "gold_side.master_predictions（金标侧）",
+      "gold_side.outcome（金标侧）",
+      "gold_side.grade_note/contamination_rationale（金标侧）",
+      "compliance/freshness_check/holdout_eligible_inventory（席位元数据）",
+      "input_side.课式成色/残损登记（席位元数据，成色结论已改按 R41 回源转录实况登记）"
+    ],
+    "CY-023": [
+      "gold_side.master_predictions（金标侧）",
+      "gold_side.outcome（金标侧）",
+      "gold_side.grade_note/contamination_rationale（金标侧）",
+      "compliance/freshness_check/holdout_eligible_inventory（席位元数据）",
+      "input_side.课式成色/残损登记（席位元数据，成色结论已改按 R41 回源转录实况登记）"
+    ],
+    "CY-027": [
+      "gold_side.master_predictions（金标侧）",
+      "gold_side.outcome（金标侧）",
+      "gold_side.grade_note/contamination_rationale（金标侧）",
+      "compliance/freshness_check/holdout_eligible_inventory（席位元数据）",
+      "input_side.课式成色/残损登记（席位元数据，成色结论已改按 R41 回源转录实况登记）"
+    ],
+    "CY-030": [
+      "gold_side.master_predictions（金标侧）",
+      "gold_side.outcome（金标侧）",
+      "gold_side.grade_note/contamination_rationale（金标侧）",
+      "compliance/freshness_check/holdout_eligible_inventory（席位元数据）",
+      "input_side.课式成色/残损登记（席位元数据，成色结论已改按 R41 回源转录实况登记）"
+    ]
+  },
+  "zc_unselected_inventory": [
+    "ZC-139",
+    "ZC-143",
+    "ZC-144",
+    "ZC-145",
+    "ZC-146",
+    "ZC-149",
+    "ZC-150",
+    "ZC-154",
+    "ZC-156",
+    "ZC-157",
+    "ZC-158",
+    "ZC-160"
+  ]
+}
