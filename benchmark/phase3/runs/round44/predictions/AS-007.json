@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-007",
+ "prediction_text": "断：Waller 胜，Hopton 败，就在当日（1644 年 3 月 29 日）这场交锋见分晓。Waller 一方主星齐强：月亮擢升且与木星同在，太阳（其资财／助军之主）居十宫且正居擢升度数 19° 白羊；Hopton 主星土星为七宫主，陷于日光之下（sub radiis）、居陷落、无任何相位、游离无援，九宫只有火星与南交——无后援接应。此为单日胜负之问，应期即当日，无两段。",
+ "basis": "卜卦占星（Lilly 战争问）：以升＋月＋木金为 Waller 方、七宫主土星为 Hopton 方；一方主星擢升居角、一方主星落陷焦伤无相，胜负判据齐备且同向。输入为 Lilly 散文位置。",
+ "confidence": 0.82,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

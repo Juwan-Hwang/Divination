@@ -1,0 +1,12 @@
+{
+  "case_id": "WP-008",
+  "prediction_text": "Direction: Narendra Modi and the BJP-led NDA win the 2019 Lok Sabha election and Modi returns as Prime Minister for a second term. The result is settled at the counting on 23 May 2019; no change of government. Timing window: the voting/counting window itself, 11 April-23 May 2019, main coordinate 23 May 2019 (counting day). Confidence 0.52, lowered because no chart data of any candidate is supplied in the input.",
+  "basis": "Method: mundane/political assessment by factual priority (SKILL general rule (e): given facts constrain the reading). Input supplies no birth date/time/place for Modi or Gandhi and no election chart, so no natal/horary chart can be cast from the input; this is recorded as input deficiency and confidence is lowered, nothing is invented. Usable facts in the input: Modi is the incumbent Prime Minister seeking a second term, the assessment is made before any votes are cast, and no adverse fact (e.g. a stated opposition poll lead) is given. Incumbency with no contrary factual signal is taken as the stronger side. Non-liuyao case: trigger all false.",
+  "confidence": 0.52,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": ""
+  }
+}

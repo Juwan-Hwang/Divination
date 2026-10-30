@@ -1,0 +1,12 @@
+{
+  "case_id": "WP-012",
+  "prediction_text": "Direction, in the three parts asked: (1) Joe Biden wins the 3 November 2020 election vote; (2) Biden is also the one who actually takes the presidency (inaugurated January 2021) - the win is not overturned; (3) what follows for the country is a contested, bitter aftermath: the loser does not promptly accept the result, disputes over mail-in voting turn into legal/political challenges and a period of division and unrest, before the transfer proceeds. Timing window: 3 November 2020 to the January 2021 inauguration, main coordinate 20 January 2021 (transfer of office). Confidence 0.65.",
+  "basis": "Method: mundane assessment by factual priority (rule (e)); no chart is supplied in the input, so no chart claim is made. Supplied facts: Biden leads in most polls on the eve of the election (supports part 1); the campaign is already marked by disputes over mail-in voting and explicit warnings that the loser may not accept the result (supports part 3, a non-acceptance/contest aftermath, stated as an event-level outcome rather than vague turmoil). No supplied fact supports the result being overturned, so part 2 follows part 1: the winner takes office after the contest. Non-liuyao case: trigger all false.",
+  "confidence": 0.65,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": ""
+  }
+}

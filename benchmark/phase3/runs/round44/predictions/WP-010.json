@@ -1,0 +1,12 @@
+{
+  "case_id": "WP-010",
+  "prediction_text": "Direction: Joe Biden wins the 2020 US presidential election of 3 November 2020, defeating incumbent Donald Trump; Trump does not retain the presidency. Timing window: election and its immediate counting period, main coordinate 3 November 2020 (election day). Confidence 0.60.",
+  "basis": "Method: mundane assessment by factual priority (rule (e)); no usable candidate chart is supplied (only Biden's Vedic Scorpio Ascendant is mentioned, with no full chart for either man, and the input itself records that the three astrologers interviewed disagree among themselves, so no chart line is treated as decisive). The decisive supplied fact is that polls favour Biden on 28 October 2020, six days before the vote; incumbency is the counterweight but is not supported by any supplied chart or polling fact. Facts over chart fragments: Biden. Non-liuyao case: trigger all false.",
+  "confidence": 0.6,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": ""
+  }
+}

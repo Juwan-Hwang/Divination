@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-005",
+ "prediction_text": "Direction: Donald Trump wins the 2016 election (8 November 2016) — an upset over Hillary Clinton. This is the dissenting panellist's call: the same astrologer who alone picked Trump out of the 17-man Republican field for the nomination follows that signature through to the general election and picks Trump to take the White House, against the polls and against the panel majority. Single outcome: Trump, not Clinton.",
+ "basis": "Western mundane astrology, individual-dissenter case: the setting's distinguishing fact is this panellist's earlier correct contrarian nomination pick on Trump, which is the basis for crediting his general-election call separately from the WP-004 panel consensus. Method: follow the candidate-specific signature that produced the nomination call rather than the majority/polling reading.",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

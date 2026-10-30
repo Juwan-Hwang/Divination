@@ -1,0 +1,12 @@
+{
+  "case_id": "WP-013",
+  "prediction_text": "Direction: Labour under Keir Starmer wins the UK general election of 4 July 2024; the governing Conservatives under Rishi Sunak lose power, and the win is a large one (a roughly twenty-point poll lead converts into a decisive Labour majority rather than a narrow result). Timing window: the snap-election window, main coordinate 4 July 2024 (polling day). Confidence 0.75.",
+  "basis": "Method: mundane assessment by factual priority (rule (e)); the only astrological datum supplied is that the election falls in the Sun sign Cancer, which carries no directional weight for party outcome and is not used. Directional supplied facts all point one way: Labour leads the governing Conservatives by roughly twenty points in the polls, and the incumbent Prime Minister has drawn criticism for leaving the D-Day memorial service early (incumbent-side damage, no offsetting Labour adverse fact supplied). A lead of that size six weeks... (asked 18 June, election 4 July) is taken at full grade per calibration rule (b): no downgrade without a stated suppressing fact. Non-liuyao case: trigger all false.",
+  "confidence": 0.75,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": ""
+  }
+}

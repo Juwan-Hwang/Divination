@@ -1,0 +1,12 @@
+{
+  "case_id": "WP-009",
+  "prediction_text": "Direction: India win the 2019 Cricket World Cup (tournament 30 May-14 July 2019 in England and Wales), i.e. the Kohli-led favourite side takes the trophy rather than falling in the knockouts. Timing window: the tournament window, main coordinate the final on 14 July 2019. Confidence 0.50, the lowest band: the input gives only Kohli's birth year (1988) and no birth date/time/place or match chart, so this rests on the stated tournament standing alone.",
+  "basis": "Method: mundane assessment by factual priority (rule (e)). Input deficiency recorded: subject is described only as the India team captained by Virat Kohli (born 1988) with Dhoni in the squad; no precise birth data and no chart are supplied, so no astrological chart can be computed and no chart-based claim is made. The one directional fact supplied is that India are regarded as one of the firm favourites in a ten-team round-robin; on facts alone the favourite side is taken to convert. Confidence capped at 0.50 for the missing chart. Non-liuyao case: trigger all false.",
+  "confidence": 0.5,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": ""
+  }
+}

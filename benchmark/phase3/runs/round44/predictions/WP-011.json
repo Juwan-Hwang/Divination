@@ -1,0 +1,12 @@
+{
+  "case_id": "WP-011",
+  "prediction_text": "Direction: Donald Trump wins the 2020 US presidential election of 3 November 2020 and is re-elected, defeating Joe Biden. Timing window: the election/counting window, main coordinate 3 November 2020 (election day). Confidence 0.52, low: the case rests on a single supplied chart configuration for Trump and no polling fact is supplied in this input.",
+  "basis": "Method: Vedic mundane reading restricted to the chart fact actually supplied, plus factual priority (rule (e)). The input supplies one concrete configuration and no other directional fact: in Trump's Vedic chart Jupiter sits in the second house aspecting the tenth house, where the Sun is placed - a benefic aspect onto the house of office/status with the Sun (authority) placed there, read as strength for holding high office. No poll lead for either side is stated in this input (unlike a bare incumbency note), and Trump's recent COVID illness is stated as recovered enough to campaign, so it is not taken as a disabling fact. On the supplied evidence alone the office-holder's chart strength is taken to prevail. Non-liuyao case: trigger all false.",
+  "confidence": 0.52,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": ""
+  }
+}
