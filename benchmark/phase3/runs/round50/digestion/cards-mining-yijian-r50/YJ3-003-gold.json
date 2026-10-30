@@ -1,0 +1,33 @@
+{
+  "id": "YJ3-003",
+  "tradition": "fangji",
+  "subject": "青田县吏留光（已殁未葬）与其弟留矩；占者处州道士范子珉，谈人意外事时时奇中",
+  "context": "青田县吏留光死，家贫未能葬，殡于城隍祠前。次年冢为雨所坏，露棺一角。范子珉过其旁。留光之弟矩亦为县吏。",
+  "question": "留光殡后之事如何？",
+  "setting": "南宋·青田县城隍祠前；方技谶语（原文未名占式）",
+  "provenance": "《夷坚志》·丙志卷六·范子珉（hugbear 页内标头位次为卷六 chunk）；在线全文实取 hugbear 全文单页，本地文本行 L1451–1452（work-yijian-r50/yijian-text-lines.txt） https://www.hugbear.net/hugbear/viewinfobook555.html；transcription=online-verbatim；访问日期 2026-10-30",
+  "record_status": "candidate-r50-mining",
+  "redistributable": false,
+  "license_status": "古典文本公有领域；在线转录站条款未明，内部研究用",
+  "notes": "本卡自《范子珉》整条剥离留光冢一案。断语对留光之棺而发，其实指对象为其弟留矩，对象归属（留光/留矩）请主持裁定。原文「?殡」之问号为 hugbear 转录缺字标记，在背景段、非断语结局核心句。",
+  "master_predictions": [
+    {
+      "master": "范子珉",
+      "date": null,
+      "tradition": "fangji",
+      "direction": null,
+      "key_assertions": [],
+      "source": "《夷坚志》·丙志卷六·范子珉（hugbear 页内标头位次为卷六 chunk）",
+      "statement_excerpt": "勿悲恼。更三日有亲人伴汝矣。"
+    }
+  ],
+  "outcome": {
+    "description": "时光弟矩亦为吏。果以后三日暴死。诸子幼。群胥为葬于光冢之侧云。",
+    "verified_by": "原文结局文本（逐字）"
+  },
+  "passage_full": "青田县吏留光死。家贫未能葬。?殡于城隍祠前。次年。冢为雨所坏。露棺一角。范过其旁。取瓦砾敲之曰。勿悲恼。更三日有亲人伴汝矣。时光弟矩亦为吏。果以后三日暴死。诸子幼。群胥为葬于光冢之侧云。",
+  "grade_suggestion": "A",
+  "grade_reason": "断语具名（范子珉）可逐字录，含期限（三日）与事件性质（亲人伴冢）断面；结局为独立事件文本（弟矩三日后暴死、葬于光冢之侧），期限与事件逐项对应；可剥离成卡。",
+  "contamination_suggestion": "low",
+  "contamination_reason": "2026-10-30 以「范子珉 留光 更三日有亲人伴汝 夷坚志」检索零个案命中（返回全为无关人物页）；留光、留矩为县吏，无独立条目。"
+}

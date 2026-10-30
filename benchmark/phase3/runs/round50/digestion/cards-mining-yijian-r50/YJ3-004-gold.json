@@ -1,0 +1,33 @@
+{
+  "id": "YJ3-004",
+  "tradition": "fangji",
+  "subject": "婺州赤松观道士施某与弟子一人；占者处州道士范子珉",
+  "context": "赤松观前横小溪，往来病涉。观中道士施某与弟子一人捐橐中钱为石桥，工役已具，将兴工。范子珉时在观中。",
+  "question": "施某建此石桥，吉凶如何？",
+  "setting": "南宋·婺州赤松观；方技谶语（原文未名占式）",
+  "provenance": "《夷坚志》·丙志卷六·范子珉（hugbear 页内标头位次为卷六 chunk）；在线全文实取 hugbear 全文单页，本地文本行 L1451–1452（work-yijian-r50/yijian-text-lines.txt） https://www.hugbear.net/hugbear/viewinfobook555.html；transcription=online-verbatim；访问日期 2026-10-30",
+  "record_status": "candidate-r50-mining",
+  "redistributable": false,
+  "license_status": "古典文本公有领域；在线转录站条款未明，内部研究用",
+  "notes": "本卡自《范子珉》整条剥离石桥一案。断语含赠物之语、结局与之对应，断语两段并录于 statement_excerpt。对象施某原文未具名（只称「道士姓施者」），以描述立卡，承 YJ2-012 先例。",
+  "master_predictions": [
+    {
+      "master": "范子珉",
+      "date": null,
+      "tradition": "fangji",
+      "direction": null,
+      "key_assertions": [],
+      "source": "《夷坚志》·丙志卷六·范子珉（hugbear 页内标头位次为卷六 chunk）",
+      "statement_excerpt": "勿为此桥。君将不利。／我恰有红合子两个。将持赠君。以助费施。"
+    }
+  ],
+  "outcome": {
+    "description": "后三月。桥成。二道士继死。匠师舆两红棺以敛云。",
+    "verified_by": "原文结局文本（逐字）"
+  },
+  "passage_full": "观前横小溪。往来病涉。道士姓施者。与弟子一人。捐橐中钱为石桥。工役已具。范曰。勿为此桥。君将不利。施君曰。吾以私钱为济众事。何不可之有。卒为之。范亦不强止。笑谓之曰。如此亦大好。我恰有红合子两个。将持赠君。以助费施。敬谢曰。诺。不知何物也。他日复至。无所携。施以为请。曰。吾既许子矣。必不妄言。后三月。桥成。二道士继死。匠师舆两红棺以敛云。",
+  "grade_suggestion": "A",
+  "grade_reason": "断语具名可逐字录，含凶断（君将不利）与红合子之赠两断面；结局为独立事件文本（桥成后三月、二道士继死、两红棺以敛），与两断面逐项对应；可剥离成卡。",
+  "contamination_suggestion": "low",
+  "contamination_reason": "2026-10-30 以「范子珉 石桥 红合子 红棺 道士 夷坚」检索零个案命中（仅见书目级《夷坚志》全文站与无关页）；施某无名无条目。"
+}

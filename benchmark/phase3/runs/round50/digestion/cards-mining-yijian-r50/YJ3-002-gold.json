@@ -1,0 +1,33 @@
+{
+  "id": "YJ3-002",
+  "tradition": "xiangshu",
+  "subject": "邵武市中乐声所主之事；占者郡武俞翁，善相人，尤能听器物声验吉凶",
+  "context": "俞翁尝入市，闻市中乐声，停而听之而占。",
+  "question": "此乐声主何吉凶？",
+  "setting": "北宋·邵武泰宁；相术（听声占）",
+  "provenance": "《夷坚志》·甲志卷九·俞翁相人（hugbear 页内标头位次为卷九 chunk）；在线全文实取 hugbear 全文单页，本地文本行 L413–414（work-yijian-r50/yijian-text-lines.txt） https://www.hugbear.net/hugbear/viewinfobook555.html；transcription=online-verbatim；访问日期 2026-10-30",
+  "record_status": "candidate-r50-mining",
+  "redistributable": false,
+  "license_status": "古典文本公有领域；在线转录站条款未明，内部研究用",
+  "notes": "本卡自《俞翁相人》整条剥离闻乐声一案（同条水声田易主一案结局为「已而果然」确认式，只登记不建卡）。断语后原文有俞翁自释五行之语（「日在子。又属水」云云），属解码自述、未入输入侧，金标 passage_full 并载。",
+  "master_predictions": [
+    {
+      "master": "俞翁",
+      "date": null,
+      "tradition": "xiangshu",
+      "direction": null,
+      "key_assertions": [],
+      "source": "《夷坚志》·甲志卷九·俞翁相人（hugbear 页内标头位次为卷九 chunk）",
+      "statement_excerpt": "金声亢。其有兵。当在申酉间。然我无伤。兵四人当溺死。"
+    }
+  ],
+  "outcome": {
+    "description": "至期、果有戍卒自汀州还。过市群饮。争倡女。抽戈相戕。度不自安。乘暮乱流而渡。正春涛怒涨。溺死果四人。",
+    "verified_by": "原文结局文本（逐字）"
+  },
+  "passage_full": "又尝入市闻乐声。曰、金声亢。其有兵。当在申酉间。然我无伤。兵四人当溺死。至期、果有戍卒自汀州还。过市群饮。争倡女。抽戈相戕。度不自安。乘暮乱流而渡。正春涛怒涨。溺死果四人。或问其故。曰、日在子。又属水。水旺于子。金至此死焉。",
+  "grade_suggestion": "A",
+  "grade_reason": "断语具名可逐字录，含兵事、时窗（申酉间）、人数（四人）、死法（溺）四项具体断面；结局为独立事件文本（戍卒争倡抽戈、暮渡溺死四人），逐项对应；可剥离成卡。",
+  "contamination_suggestion": "low",
+  "contamination_reason": "2026-10-30 以「俞翁 水流悲 田将易主 金声亢 兵四人 溺死 夷坚」检索零个案命中（返回全为无关页）；对象为无名戍卒群体事件，俞翁无独立条目。"
+}

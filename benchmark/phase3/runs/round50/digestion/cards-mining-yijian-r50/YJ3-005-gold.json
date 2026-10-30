@@ -1,0 +1,33 @@
+{
+  "id": "YJ3-005",
+  "tradition": "ming",
+  "subject": "王垂（字仲共，南城人）与同年乡人江秉钧；占者术士史言，以命术有声",
+  "context": "绍兴乙丑，王垂赴省试、既廷对，与同年乡人江秉钧同往谒术士史言。此为二人第二次谒史言。",
+  "question": "二子科级高下如何？",
+  "setting": "南宋绍兴乙丑·临安；禄命（推五行）",
+  "provenance": "《夷坚志》·丁志卷十九·史言命术（hugbear 页内标头位次为卷十九 chunk）；在线全文实取 hugbear 全文单页，本地文本行 L2427–2428（work-yijian-r50/yijian-text-lines.txt） https://www.hugbear.net/hugbear/viewinfobook555.html；transcription=online-verbatim；访问日期 2026-10-30",
+  "record_status": "candidate-r50-mining",
+  "redistributable": false,
+  "license_status": "古典文本公有领域；在线转录站条款未明，内部研究用",
+  "notes": "本卡自《史言命术》整条剥离王、江复谒一案（同条首谒诸案结局为总括式验语，只登记不建卡）。江秉钧断面为已事揭示型断语，与王垂科级断同卡并录，判级请主持复核。",
+  "master_predictions": [
+    {
+      "master": "史言",
+      "date": null,
+      "tradition": "ming",
+      "direction": null,
+      "key_assertions": [],
+      "source": "《夷坚志》·丁志卷十九·史言命术（hugbear 页内标头位次为卷十九 chunk）",
+      "statement_excerpt": "二君复何问。岂非欲知高下耶。然科级皆不高。王君尚可居黄甲。更有一说。江君生乙巳。带格角杀。必过房义养者。"
+    }
+  ],
+  "outcome": {
+    "description": "暨唱名。王第四甲。江末等。盖江本甘氏子。来为江翁后云。",
+    "verified_by": "原文结局文本（逐字）"
+  },
+  "passage_full": "既廷对。又与同年乡人江秉钧往谒。史已不忆前事。独云、二君复何问。岂非欲知高下耶。然科级皆不高。王君尚可居黄甲。更有一说。江君生乙巳。带格角杀。必过房义养者。二人相顾叹异。盖江本甘氏子。来为江翁后云。暨唱名。王第四甲。江末等。史生之精妙如此。",
+  "grade_suggestion": "A",
+  "grade_reason": "断语具名（史言）可逐字录，含王居黄甲、江过房义养两项具体断面；结局为独立文本（唱名王第四甲、江末等；江本甘氏子来为江翁后），两断面逐项对应；可剥离成卡。",
+  "contamination_suggestion": "low",
+  "contamination_reason": "2026-10-30 以「史言命术 王垂 江秉钧 格角杀 过房 夷坚志」检索零个案命中（返回全为命理通论与无关页）；史言、王垂、江秉钧均无独立条目。"
+}

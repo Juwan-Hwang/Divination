@@ -1,0 +1,33 @@
+{
+  "id": "YJ3-001",
+  "tradition": "xiangshu",
+  "subject": "叶恪，邵武泰宁人，少不学，叶祖洽之父；相者为郡武俞翁，善相人、能听器物声验吉凶",
+  "context": "叶恪尝过俞翁之门，时县之士子群集于翁门请相，翁遍相众士子。",
+  "question": "叶恪年寿与官位所至如何？",
+  "setting": "北宋·邵武泰宁；相术（相人）",
+  "provenance": "《夷坚志》·甲志卷九·俞翁相人（hugbear 页内标头位次为卷九 chunk）；在线全文实取 hugbear 全文单页，本地文本行 L413–414（work-yijian-r50/yijian-text-lines.txt） https://www.hugbear.net/hugbear/viewinfobook555.html；transcription=online-verbatim；访问日期 2026-10-30",
+  "record_status": "candidate-r50-mining",
+  "redistributable": false,
+  "license_status": "古典文本公有领域；在线转录站条款未明，内部研究用",
+  "notes": "本卡自《俞翁相人》整条剥离叶恪一案（同条叶祖洽主案 R48 已以 high 只登记，本子案对象为其父叶恪本人）。",
+  "master_predictions": [
+    {
+      "master": "俞翁",
+      "date": null,
+      "tradition": "xiangshu",
+      "direction": null,
+      "key_assertions": [],
+      "source": "《夷坚志》·甲志卷九·俞翁相人（hugbear 页内标头位次为卷九 chunk）",
+      "statement_excerpt": "此人年六十。当官七品。服银绯。"
+    }
+  ],
+  "outcome": {
+    "description": "恪后以子贵。封累朝请郎。赐朱绂。正年六十云。",
+    "verified_by": "原文结局文本（逐字）"
+  },
+  "passage_full": "祖洽父恪少不学。尝过翁门。县之士子群集。无一可翁意。独指恪曰、此人年六十。当官七品。服银绯。众皆怃然。恪后以子贵。封累朝请郎。赐朱绂。正年六十云。",
+  "grade_suggestion": "A",
+  "grade_reason": "断语具名（俞翁）可逐字录，含年岁（六十）、品级（七品）、服色三项具体断面；结局为独立事件文本（封朝请郎、赐朱绯、正年六十），逐项对应；可剥离成卡。",
+  "contamination_suggestion": "low",
+  "contamination_reason": "2026-10-30 以「俞翁相人 叶恪 年六十 官七品 银绯 夷坚志」检索零个案命中（返回全为无关人物页）；叶恪无独立条目。注：结局「以子贵」系于其子叶祖洽（状元）登第，子之名气是否升档请主持复核。"
+}
