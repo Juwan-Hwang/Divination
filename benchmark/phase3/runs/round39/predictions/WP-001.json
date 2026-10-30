@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-001",
+ "prediction_text": "Direction: Yes — the 2020–2021 period holds a major collective affliction, and its form is epidemic disease: a large-scale pandemic, most plausibly a respiratory/influenza-type pandemic with mass mortality, centred on 2020 and extending into 2021. Basis in the given configuration: the Jupiter–Saturn–Pluto conjunction exact in early 2020 with all five outer planets compressed within about 100 degrees drives the cyclical index to its lowest reading of the 21st century, and the comparable past clusters supplied in the brief coincide with 1918, 1954, 1968 and 1982 — a sequence dominated by pandemic influenza years (1918 above all). Timing window: onset/peak in 2020 (conjunction exact), affliction tail through 2021. Severity graded at the top of the mundane scale — a once-in-a-century collective health crisis, not a localised outbreak — matching the lowest-index configuration rather than a mild seasonal event (the mild 2009 H1N1 surge is the contrast case given, and this configuration is far heavier).",
+ "basis": "Western mundane astrology: outer-planet clustering + Jupiter-Saturn-Pluto conjunction + cyclical-index minimum, read against the historical cluster years supplied in the input (1918/1954/1968/1982). No birth chart is involved; no Liuyao used, trigger all false per instructions. Assessment follows the configuration as given in the input attachments; no external lookup performed.",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

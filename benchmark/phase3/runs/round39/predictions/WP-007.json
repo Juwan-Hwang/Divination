@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Direction: Donald Trump wins the 2016 US presidential election — and what decides it is Hillary Clinton's email controversy. As framed by the August 2016 Union Square tarot consultation reported here: Clinton leads in August polls, but the reading's deciding factor is the scandal load she carries (the private-server emails and the Clinton Foundation questions, both already public in the brief); the late-campaign resurfacing of the email issue in the final stretch is what tips a close race to Trump. Timing of the deciding turn: the closing weeks before 8 November 2016 (an October-stage revival of the email story), not the August position. Confidence 0.55: a street tarot reading is a weak instrument and is graded as such; the call is nonetheless committed singly to Trump, with the email controversy named as the decisive variable, as the question demands.",
+ "basis": "Tarot-based election reading as sourced in the input (The Tab, 26 Aug 2016), Waite-framework interpretive stance; deciding-variable identification follows the controversies named in the input setting. No cards were drawn by this seat — the case asks for the reported reader's verdict, reconstructed from the brief; that limitation is stated. No Liuyao used, trigger all false.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

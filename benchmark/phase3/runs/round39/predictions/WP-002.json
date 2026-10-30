@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-002",
+ "prediction_text": "Direction: Barack Obama wins the 2008 US presidential election (the change candidate defeats John McCain). Deciding signature in the brief: Saturn moves into opposition with Uranus beginning on Election Day itself, a configuration last seen 45 years earlier — Saturn (the old order, age, the establishment incumbent party) opposed by Uranus (rupture, youth, insurgent change) reads for the fall of the Saturnian candidate and the victory of the Uranian one; McCain, the older establishment figure, carries the Saturn side of the aspect. Timing: decided on 4 November 2008, with the opposition exact at the vote — no prolonged reversal indicated. Margin graded as a clear win rather than a disputed squeaker, on the strength of an exact election-day aspect.",
+ "basis": "Western (mundane/electional) astrology reading of the Saturn-Uranus opposition as supplied in the input setting; candidates and dates taken solely from the input. No Liuyao used, trigger all false.",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

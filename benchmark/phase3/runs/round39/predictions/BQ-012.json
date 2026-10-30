@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-012",
+ "prediction_text": "断：倭寇不来（negative on invasion）。丙子日占得《噬嗑》：官鬼爻衰弱且安静，鬼为寇贼之象，衰静则贼势无力、没有发动来犯之机，本轮只是虚惊、防备可松。应期以月档计（问一时段内来否）：窗口为问后本月内，主坐标至本月终了无寇至，即验此断；月内若有警讯亦只是传闻，不成实际进犯。",
+ "basis": "六爻纳甲：倭寇类以官鬼为寇贼用神，鬼衰静为不来之主证，卦名噬嗑只作背景不凭卦名断（依库内『不泥卦名、单看用爻』之诫）。输入残损：chart_complete=false，无全盘、无月建，只有『鬼爻衰静』一据；应期三路无空墓伏可取，冲实／填实／逢值三路皆无具体候选，故按所问尺度以月窗封顶、不硬报某日，已注明无候选之路。trigger 三项均未触发，理由见 trigger.reason。",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main=false：主用神官鬼（寇贼）自始未更换；reserve_used=false：官鬼已上卦，未动用伏神备用取用；disputed=false：现有唯一主证鬼衰静方向单一，无相互冲突的动化或救应证言可争。"
+ }
+}

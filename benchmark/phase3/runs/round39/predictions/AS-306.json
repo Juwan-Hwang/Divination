@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-306",
+ "prediction_text": "断：2024 年大选先有候选人更替、后由特朗普胜出（Trump wins after a candidate change）。民主党方面：拜登将退出竞选、由哈里斯接棒成为候选人，更替发生在 2024 年夏季，主坐标为 7 月前后正式换人；终局：唐纳德·特朗普赢得 2024 年 11 月大选、重返白宫。此为其 2024 年 6 月 2 日视频发布的完整走向断语。",
+ "basis": "吠陀占星（vedic-astrology）选举预测口径。输入残损：只有视频发布日期（2024-06-02，当时哈里斯尚未成为候选人）与问题范围，无星盘、无大运（dasha）数据、无原文论据；更替与赢家两段按问题自带的时间纵深分段给出，各段只能依其体系框架推定并降置信。非六爻例 trigger 三项全 false。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

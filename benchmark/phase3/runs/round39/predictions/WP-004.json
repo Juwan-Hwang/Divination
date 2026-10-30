@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "Direction: Hillary Clinton wins the 2016 US presidential election, defeating Donald Trump — this is the consensus call of the Costa Mesa ISAR election panel as reported. The panel majority, in line with the polling lead Clinton holds in October 2016 as given in the brief, reads the chart evidence for the Democrat; the reported panel verdict is therefore recorded as Clinton. Timing: decided 8 November 2016. Confidence held at moderate (0.55): the source is a panel consensus reported second-hand, and panel consensus in election forecasting is a weaker instrument than a single practitioner's committed chart judgement — a limitation stated openly rather than smoothed over.",
+ "basis": "Western astrology panel consensus as characterised in the input provenance (LA Times ISAR conference report, October 2016). Prediction records the panel's majority direction. No chart data beyond the input setting was available; no external lookup. No Liuyao used, trigger all false.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-005",
+ "prediction_text": "Direction: Donald Trump wins the 2016 US presidential election, defeating Hillary Clinton. Ground for breaking with the polling-favoured consensus: the one panel astrologer singled out in this brief had already, when 17 Republicans still contested the nomination, picked Trump to become the Republican nominee — a long-shot call that landed; a practitioner whose contrarian Trump reading has already been validated once in this cycle is followed here on the general election as well, over the majority who favour Clinton. Timing: decided 8 November 2016. Confidence moderate (0.55): this rests on one astrologer's track record within the cycle as given in the input, against polls and panel majority, and that evidential thinness is stated plainly.",
+ "basis": "Western astrology, single-practitioner judgement weighted by the in-cycle validated nomination call described in the input setting, contrasted with WP-004's panel-consensus source. Facts used are only those in the input. No Liuyao used, trigger all false.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

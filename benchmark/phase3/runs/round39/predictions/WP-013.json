@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-013",
+ "prediction_text": "方向：工党获胜、保守党下台。断语：Keir Starmer 领导的工党赢得 2024 年 7 月 4 日英国大选并组阁，Starmer 任首相；执政的保守党（Sunak）败选失去政权。应期：2024 年 7 月 4 日选举日当夜至次日凌晨计票定局（主坐标 7 月 4 日）。置信中：题面民调差距约二十个百分点为强据；选举落在巨蟹座（太阳）只作时令旁注，不作翻转据。",
+ "basis": "输入残损：未给 Starmer/Sunak 出生盘或选举时刻盘，只给题面事实。按事实优先序：工党领先约 20 点、执政党又因 D-Day 纪念提前离场受批评，势已一边倒；「选举在巨蟹座」为唯一占星提示，巨蟹主家国/民心转向，与变天方向同向不悖，故取工党胜。非六爻，trigger 全 false。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

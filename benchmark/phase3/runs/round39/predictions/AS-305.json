@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-305",
+ "prediction_text": "断：卡玛拉·哈里斯以极小差距赢得 2024 年美国总统选举（Harris wins, narrow）。盘面势均力敌、为近年最难判断的一次，但天平最终倾向哈里斯一方；胜负在选举日（2024 年 11 月 5 日）计票中以少数关键州的窄幅差距定出，主坐标为选举日后数日内确认哈里斯胜选。此为其选前撰文分析的最终倾向方向。",
+ "basis": "现代西洋占星选举预测（Astrology King）：选举日星盘与两候选人行运互参。输入残损：只有选前时点与『自承盘面势均力敌、极难判断』的背景，无任何星盘与行运数据，其本人既言难判，最终倾向只能低置信给出。非六爻例 trigger 三项全 false。",
+ "confidence": 0.38,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
