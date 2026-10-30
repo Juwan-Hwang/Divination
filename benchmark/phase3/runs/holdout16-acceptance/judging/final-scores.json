@@ -1,0 +1,386 @@
+{
+ "ours": {
+  "BYZ-016": 1.75,
+  "BYZ-026": 0.5,
+  "BYZ-029": 3.0,
+  "BYZ-030": 2.5,
+  "BYZ-043": 3.25,
+  "BYZ-049": 4.5,
+  "BYZ-070": 0.5,
+  "BYZ-091": 1.0,
+  "BYZ-101": 4.25,
+  "BYZ-106": 3.5,
+  "DA-030": 0.75,
+  "DA-045": 2.75,
+  "DA-106": 1.0,
+  "DA-123": 4.0,
+  "DA-136": 1.0,
+  "DA-165": 1.5,
+  "DA-205": 0.5,
+  "YXS-017": 2.5,
+  "YXS-018": 1.25,
+  "YXS-019": 1.75,
+  "ZC-070": 3.25,
+  "ZC-071": 0.0,
+  "ZC-075": 6.0,
+  "ZC-077": 4.5,
+  "ZC-079": 3.5,
+  "ZC-081": 5.0,
+  "ZC-082": 4.75,
+  "ZC-083": 3.0,
+  "ZC-084": 4.25,
+  "ZC-085": 4.5,
+  "ZC-090": 6.0,
+  "ZC-091": 5.0,
+  "ZC-092": 4.75,
+  "ZC-093": 1.0,
+  "ZC-097": 4.5,
+  "ZC-108": 6.0,
+  "ZC-118": 5.0,
+  "ZC-123": 0.5,
+  "ZC-125": 3.75,
+  "ZC-133": 3.75
+ },
+ "master": {
+  "BYZ-016": 3.5,
+  "BYZ-026": 6.0,
+  "BYZ-029": 6.0,
+  "BYZ-030": 3.5,
+  "BYZ-043": 5.75,
+  "BYZ-049": 4.0,
+  "BYZ-070": 6.0,
+  "BYZ-091": 3.5,
+  "BYZ-101": 4.0,
+  "BYZ-106": 3.75,
+  "DA-030": 5.75,
+  "DA-045": 5.0,
+  "DA-106": 5.5,
+  "DA-123": 6.0,
+  "DA-136": 4.5,
+  "DA-165": 6.0,
+  "DA-205": 6.0,
+  "YXS-017": 4.5,
+  "YXS-018": 4.5,
+  "YXS-019": 3.5,
+  "ZC-070": 6.0,
+  "ZC-071": 4.0,
+  "ZC-075": 6.0,
+  "ZC-077": 4.0,
+  "ZC-079": 5.75,
+  "ZC-081": 5.0,
+  "ZC-082": 4.0,
+  "ZC-083": 6.0,
+  "ZC-084": 4.75,
+  "ZC-085": 3.5,
+  "ZC-090": 5.75,
+  "ZC-091": 3.75,
+  "ZC-092": 4.0,
+  "ZC-093": 3.5,
+  "ZC-097": 4.0,
+  "ZC-108": 5.75,
+  "ZC-118": 4.0,
+  "ZC-123": 4.0,
+  "ZC-125": 4.0,
+  "ZC-133": 6.0
+ },
+ "main_caliber_low40": {
+  "n": 40,
+  "ours_mean": 3.019,
+  "master_mean": 4.775,
+  "pair_diff": -1.756,
+  "SE": 0.325,
+  "W/T/L": "11/2/27",
+  "criteria": {
+   "(i) ours_mean > master_mean": false,
+   "(ii) paired W > L": false,
+   "(iii) diff > 0 and diff/SE >= 1": false
+  },
+  "PASS": false
+ },
+ "full40": {
+  "n": 40,
+  "ours_mean": 3.019,
+  "master_mean": 4.775,
+  "pair_diff": -1.756,
+  "SE": 0.325,
+  "W/T/L": "11/2/27",
+  "criteria": {
+   "(i) ours_mean > master_mean": false,
+   "(ii) paired W > L": false,
+   "(iii) diff > 0 and diff/SE >= 1": false
+  },
+  "PASS": false
+ },
+ "segments": {
+  "cezi-ZC": {
+   "n": 20,
+   "ours_mean": 3.95,
+   "master_mean": 4.688,
+   "pair_diff": -0.738,
+   "SE": 0.384,
+   "W/T/L": "9/2/9"
+  },
+  "liuren-BYZ": {
+   "n": 10,
+   "ours_mean": 2.475,
+   "master_mean": 4.6,
+   "pair_diff": -2.125,
+   "SE": 0.677,
+   "W/T/L": "2/0/8"
+  },
+  "liuren-YXS": {
+   "n": 3,
+   "ours_mean": 1.833,
+   "master_mean": 4.167,
+   "pair_diff": -2.333,
+   "SE": 0.464,
+   "W/T/L": "0/0/3"
+  },
+  "liuren-DA": {
+   "n": 7,
+   "ours_mean": 1.643,
+   "master_mean": 5.536,
+   "pair_diff": -3.893,
+   "SE": 0.511,
+   "W/T/L": "0/0/7"
+  },
+  "liuren-all20": {
+   "n": 20,
+   "ours_mean": 2.087,
+   "master_mean": 4.862,
+   "pair_diff": -2.775,
+   "SE": 0.42,
+   "W/T/L": "2/0/18"
+  }
+ },
+ "cz_qx_guardrail": {
+  "segment": "cezi-ZC",
+  "n": 20,
+  "pair_diff": -0.738,
+  "SE": 0.384,
+  "falsify_below": -1.963,
+  "no_worse_from": -1.613,
+  "tier": "未见恶化",
+  "action": "只登记，不作增益宣称"
+ },
+ "low_pollution": {
+  "gold_file": "benchmark/phase3/holdout16/test_gold.jsonl",
+  "contamination_counts": {
+   "low": 40
+  },
+  "outcome_grade_counts": {
+   "A-low": 40
+  },
+  "low_n": 40,
+  "non_low_ids": [],
+  "low_subset_equals_full_set": true
+ },
+ "max_abs_view_diff": {
+  "ours": 1.5,
+  "master": 0.5
+ },
+ "disputes_ours": [],
+ "disputes_master": [],
+ "per_case": {
+  "BYZ-016": {
+   "ours": 1.75,
+   "master": 3.5,
+   "diff": -1.75
+  },
+  "BYZ-026": {
+   "ours": 0.5,
+   "master": 6.0,
+   "diff": -5.5
+  },
+  "BYZ-029": {
+   "ours": 3.0,
+   "master": 6.0,
+   "diff": -3.0
+  },
+  "BYZ-030": {
+   "ours": 2.5,
+   "master": 3.5,
+   "diff": -1.0
+  },
+  "BYZ-043": {
+   "ours": 3.25,
+   "master": 5.75,
+   "diff": -2.5
+  },
+  "BYZ-049": {
+   "ours": 4.5,
+   "master": 4.0,
+   "diff": 0.5
+  },
+  "BYZ-070": {
+   "ours": 0.5,
+   "master": 6.0,
+   "diff": -5.5
+  },
+  "BYZ-091": {
+   "ours": 1.0,
+   "master": 3.5,
+   "diff": -2.5
+  },
+  "BYZ-101": {
+   "ours": 4.25,
+   "master": 4.0,
+   "diff": 0.25
+  },
+  "BYZ-106": {
+   "ours": 3.5,
+   "master": 3.75,
+   "diff": -0.25
+  },
+  "DA-030": {
+   "ours": 0.75,
+   "master": 5.75,
+   "diff": -5.0
+  },
+  "DA-045": {
+   "ours": 2.75,
+   "master": 5.0,
+   "diff": -2.25
+  },
+  "DA-106": {
+   "ours": 1.0,
+   "master": 5.5,
+   "diff": -4.5
+  },
+  "DA-123": {
+   "ours": 4.0,
+   "master": 6.0,
+   "diff": -2.0
+  },
+  "DA-136": {
+   "ours": 1.0,
+   "master": 4.5,
+   "diff": -3.5
+  },
+  "DA-165": {
+   "ours": 1.5,
+   "master": 6.0,
+   "diff": -4.5
+  },
+  "DA-205": {
+   "ours": 0.5,
+   "master": 6.0,
+   "diff": -5.5
+  },
+  "YXS-017": {
+   "ours": 2.5,
+   "master": 4.5,
+   "diff": -2.0
+  },
+  "YXS-018": {
+   "ours": 1.25,
+   "master": 4.5,
+   "diff": -3.25
+  },
+  "YXS-019": {
+   "ours": 1.75,
+   "master": 3.5,
+   "diff": -1.75
+  },
+  "ZC-070": {
+   "ours": 3.25,
+   "master": 6.0,
+   "diff": -2.75
+  },
+  "ZC-071": {
+   "ours": 0.0,
+   "master": 4.0,
+   "diff": -4.0
+  },
+  "ZC-075": {
+   "ours": 6.0,
+   "master": 6.0,
+   "diff": 0.0
+  },
+  "ZC-077": {
+   "ours": 4.5,
+   "master": 4.0,
+   "diff": 0.5
+  },
+  "ZC-079": {
+   "ours": 3.5,
+   "master": 5.75,
+   "diff": -2.25
+  },
+  "ZC-081": {
+   "ours": 5.0,
+   "master": 5.0,
+   "diff": 0.0
+  },
+  "ZC-082": {
+   "ours": 4.75,
+   "master": 4.0,
+   "diff": 0.75
+  },
+  "ZC-083": {
+   "ours": 3.0,
+   "master": 6.0,
+   "diff": -3.0
+  },
+  "ZC-084": {
+   "ours": 4.25,
+   "master": 4.75,
+   "diff": -0.5
+  },
+  "ZC-085": {
+   "ours": 4.5,
+   "master": 3.5,
+   "diff": 1.0
+  },
+  "ZC-090": {
+   "ours": 6.0,
+   "master": 5.75,
+   "diff": 0.25
+  },
+  "ZC-091": {
+   "ours": 5.0,
+   "master": 3.75,
+   "diff": 1.25
+  },
+  "ZC-092": {
+   "ours": 4.75,
+   "master": 4.0,
+   "diff": 0.75
+  },
+  "ZC-093": {
+   "ours": 1.0,
+   "master": 3.5,
+   "diff": -2.5
+  },
+  "ZC-097": {
+   "ours": 4.5,
+   "master": 4.0,
+   "diff": 0.5
+  },
+  "ZC-108": {
+   "ours": 6.0,
+   "master": 5.75,
+   "diff": 0.25
+  },
+  "ZC-118": {
+   "ours": 5.0,
+   "master": 4.0,
+   "diff": 1.0
+  },
+  "ZC-123": {
+   "ours": 0.5,
+   "master": 4.0,
+   "diff": -3.5
+  },
+  "ZC-125": {
+   "ours": 3.75,
+   "master": 4.0,
+   "diff": -0.25
+  },
+  "ZC-133": {
+   "ours": 3.75,
+   "master": 6.0,
+   "diff": -2.25
+  }
+ }
+}
