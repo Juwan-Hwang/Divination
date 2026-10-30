@@ -1,0 +1,17 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "Direction: Hillary Clinton wins the 2016 US presidential election. Specifics: the conference panel consensus follows the prevailing indicators — Clinton, the experienced establishment candidate leading in most polls, defeats Donald Trump on 8 November 2016 and becomes the first woman US president. Timing: decided 8 November 2016. This records the panel's collective judgement as reported from the Costa Mesa ISAR conference: a Clinton victory, expected to be clear rather than a narrow upset.",
+ "basis": {
+  "systems_used": [
+   "Western astrology (mundane/electional, panel consensus)"
+  ],
+  "notes": "Input describes an international astrology conference election panel in October 2016 with polls favouring Clinton and gives no individual dissenting pick in this case file (the dissenting panellist is the separate WP-005 file). Panel-consensus reading therefore follows the majority indicators as presented. Recorded as the panel prediction, confidence moderate."
+ },
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

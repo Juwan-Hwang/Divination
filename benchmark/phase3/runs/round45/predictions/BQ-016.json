@@ -1,0 +1,17 @@
+{
+ "case_id": "BQ-016",
+ "prediction_text": "方向：其年倭乱实有、寇来犯境（positive on乱作/negative于民，终局取『乱实有』一边）。困之大过，六三午火官鬼发动——官鬼为寇贼，动则寇势发动、不是虚惊；鬼化出酉金（火鬼化金为财象），主寇为掠财而来、劫掠之象；兄弟带刑克世，主同辈军民受劫、本地有破耗伤损。大过主事过其极，此乱规模不小。具体断语：甲寅年内倭寇将侵扰本地，劫掠破财、军民受损，须实备不虚防。应期：年档（年时倭乱以年为尺度），窗口为甲寅年内，主坐标取午火鬼当令之午月（夏）为寇势最烈之时，化神酉月（秋）为掠财之象转验之候——二者中以午月为主坐标，酉月只作化神验期留记。动化方向：午火鬼动化酉金、化出财象,定性主寇动为掠; 反转条件：鬼动有力、无鬼被制空破之据见于残盘，不翻转。",
+ "basis": {
+  "systems_used": [
+   "六爻纳甲 (年时/兵寇)"
+  ],
+  "reasoning": "Chart incomplete (困之大过+六三午火鬼动化酉+兄弟带刑克世). 鬼动 vs BQ-012鬼衰静 opposite testimony -> opposite verdict, consistent method. 动化方向核对: 午火官鬼化酉金, 火克金故酉为鬼之财, 主掠财. Trigger changed_main: 动爻鬼化出之神参与主断但终局仍由本爻鬼动定, 未改定主用 -> false, reason留痕; disputed false."
+ },
+ "confidence": 0.63,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main=false: 终局由本爻午火鬼动定,化酉只定掠财所指、未改定主断方向; reserve_used=false: 未用伏神; disputed=false: 鬼动、兄刑克世同向主乱,无相争信号."
+ }
+}

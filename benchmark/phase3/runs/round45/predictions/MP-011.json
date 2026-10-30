@@ -1,0 +1,18 @@
+{
+ "case_id": "MP-011",
+ "prediction_text": "方向：胜算排序为赖萧第一、侯赵第二、柯吴第三。断语：三脚督终局由赖清德/萧美琴以相对多数当选，得票约四成上下；侯友宜/赵少康居次、与赖差距为个位数至约十个百分点量级；柯文哲/吴欣盈第三，得票约两成半上下、不致垫底崩盘但无胜机。应期：2024年1月13日开票即定。",
+ "basis": {
+  "systems_used": [
+   "modern-politics-situation",
+   "mingli-fact-priority"
+  ],
+  "reasoning": "无排盘原件，以占时事实收束：蓝白合11月23日破局、三脚督确立、在野分裂而执政阵营整合完成，分裂结构直接决定相对多数归属。排序逐组落断并给量级，不作仅报第一名的单点断。"
+ },
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "case_id": "AS-013",
+ "prediction_text": "方向：赃物（鱼货）在近水潮湿处（仓库/水边一带），可寻回至少一部分，但非全数无损。贼象：唯一在角宫游离的木星压七宫头、居天蝎水象——贼为木星型之人（中等身量、与水上/仓储往来相关者嫌疑最重，细节因盘面不全只定到此层）。依据：货物征象水星在双鱼水象、福点在巨蟹水象，三处同主水；水星虽陷弱却居自界，得月亮（福点主）六合与福点三合之救，故不主全失。应期（日档）：报失后数日内沿水边仓库追查为主坐标窗口。置信中。",
+ "basis": {
+  "systems_used": [
+   "western-horary-astrology (Lilly)"
+  ],
+  "reasoning": "Jupiter peregrine angular on 7th cusp in moist Scorpio=thief; Mercury goods in Pisces, Fortune in Cancer (moist), Mercury in own terms with Moon sextile & Fortune trine -> partial recovery, goods near water.",
+  "input_note": "只有散文位置、无天盘全图；贼人身份只断到类型层，不臆补姓名。"
+ },
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

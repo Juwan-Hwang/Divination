@@ -1,0 +1,18 @@
+{
+ "case_id": "AS-207",
+ "prediction_text": "方向：坎特伯雷大主教将死于暴力横死——由人手执刃的公开处决（斩首型），非病死狱中。依据：以九宫头为其上升，其主土星落陷久逆且居全盘十二宫（囚禁）主其身陷囹圄而无救；月亮离土星趋日近八宫头，日居火象趋冲火星（其主星），火星居风象人形星座主刃由人手，月亮距火星尚7°。应期（月档）：窗口以月计，主坐标约7个时间单位（月量级）内行刑。置信中高。",
+ "basis": {
+  "systems_used": [
+   "western-horary-astrology (Lilly)"
+  ],
+  "reasoning": "Derived Asc (9th cusp) lord Saturn in fall long retro in 12th; Moon to Sun near 8th; Sun fiery opp Mars; Mars in airy humane sign -> violent death by weapon at man's hand, execution.",
+  "input_note": "全盘上升度数未给，只据所给散文链作断。"
+ },
+ "confidence": 0.75,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

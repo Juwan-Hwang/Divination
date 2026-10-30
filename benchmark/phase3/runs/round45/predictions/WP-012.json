@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-012",
+ "prediction_text": "Joe Biden will win the 3 November 2020 election and will actually take the presidency (inaugurated January 2021), but the aftermath will be contested and turbulent: Trump will refuse to accept the result, mail-in voting disputes and legal/political challenges will drag on for weeks, and the country will pass through a period of division and unrest before the transfer of power is completed.",
+ "basis": "systems_used: western mundane election reading of the stated eve-of-election facts. Polls favour Biden; the setting's own warnings (mail-in disputes, loser may not accept the result) are taken as the chart-of-the-moment's signature for the aftermath: a Biden win on the count, a contested and disorderly transition, eventual transfer of power on schedule in January 2021. Two-stage reading per the longitudinal structure of the question: near stage = disputed count and non-concession; far stage = Biden seated as president amid a divided country. Input limitation noted: no chart supplied.",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

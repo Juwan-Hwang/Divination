@@ -1,0 +1,17 @@
+{
+ "case_id": "BQ-012",
+ "prediction_text": "方向：倭寇不来（negative on来犯，即本地无犯）。噬嗑卦中鬼爻衰而静——官鬼在此为寇贼之象，衰静则寇无力、不发动，无来犯之势。具体断语：此问所虑之倭寇不会来犯本地，属虚惊戒备，无劫掠破城之应。应期：日档（近事戒备以日/旬为尺度），窗口为问后一旬内，主坐标以一旬为界——旬内鬼爻衰静无动象，断旬内不来；旬外不妄延断。动化方向：卦无动爻见于残盘、鬼爻静而不动，无动化可定；反转条件：无冲起/引拨类信号见于残盘，不翻转。",
+ "basis": {
+  "systems_used": [
+   "六爻纳甲"
+  ],
+  "reasoning": "Chart incomplete (噬嗑+鬼爻衰静 only). 用神/忌象: 寇以官鬼为象, 衰静=无力不动, 直接定不来. No moving line -> changed_main false; no伏神; no competing testimony in残盘 -> disputed false."
+ },
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main=false: 无动爻/变卦改定主断; reserve_used=false: 未用伏神; disputed=false: 鬼爻衰静单一证词,无相争信号."
+ }
+}

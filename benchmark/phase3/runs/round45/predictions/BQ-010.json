@@ -1,0 +1,17 @@
+{
+ "case_id": "BQ-010",
+ "prediction_text": "方向：诉讼不成、对占者不利（negative，终局单一）。蒙之未济：未济主事终不成；父母为空亡——父母为状纸、文书、证据，空亡则文书落空、无据可恃，官司失所凭。具体断语：此讼或被驳回、或拖延后不了了之，谈朝辅一方占不到胜诉结果，且有耗费无功之象。应期：月档（诉讼进程以月计、无全盘日支可推日），窗口为问后数月内，主坐标取父母出空填实之月为文书见分晓之时——然填实亦只主文书有着落，不改未济之终局方向。动化方向：本卦蒙变为未济、终局取未济之不成象；反转条件：无原神生扶类反转信号齐备，不翻转。",
+ "basis": {
+  "systems_used": [
+   "六爻纳甲"
+  ],
+  "reasoning": "Chart incomplete (only 蒙之未济+父母空亡, no full盘/no date) - noted, confidence lowered. 用神取舍: 诉讼以父母(文书)与官鬼并参, 父母空亡为决定性弱证; 变卦未济定终局不成. 动化方向：变卦未济主终局不成之定性；反转条件：源绝/化退化绝诸征无从在残盘核得齐备，记未齐备、不翻转. Trigger: changed_main=true because终局由变卦未济主导改定; no伏神 used; no disputed competing lines in残盘."
+ },
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main=true: 终局方向由变卦未济(不成)主导改定，故记true并在此留痕; reserve_used=false: 未取伏神; disputed=false: 残盘内无相争之取用/断法分歧."
+ }
+}

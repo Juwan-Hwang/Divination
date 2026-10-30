@@ -1,0 +1,26 @@
+{
+ "case_id": "LY-534",
+ "confidence": 0.64,
+ "prediction_text": "终局单一方向：不利（negative）——具题（上题本）不可强行，行之恐见驳生事。父母巳火为题本文书用神，五爻动，申月囚弱、戊辰日辰土泄之，动化妻财子水回头克，化神子水申月相旺，文书动而被旺水克回；官鬼卯木两现申月休死，承受题本之上位无力。世爻兄弟未土静只主同僚牵连之量级。应期（日档，近具题）：窗口为旬内，主坐标巳日（父母逢值、化克显应之日）。此问单点可否，无近远两段，终局即不利。",
+ "basis": {
+  "systems_used": [
+   "liuyao"
+  ],
+  "yongshen": "父母巳火（五爻，动）为用神；官卯两现为参",
+  "wangshuai": "巳火申月囚、日泄休囚；官卯申月死",
+  "donghua_check": "动化方向：化神子水→父母巳火：克，回头克无解；方向定性：凶向",
+  "reversal_check": "反转条件：无吉向可反转；源绝不论（原神金静未动）",
+  "four_roads": "四路：本气-／元忌仇-／动化-／世应不计；合参方向：败",
+  "timing_steps": "定尺度日档；三路：冲实申冲巳候选舍、填实无空、逢值巳日取中",
+  "category_table": "门类应期对表：无具题专条，明写对表无此门类，按三步原序",
+  "object_alignment": "所问对象具题者本人之事；用神父母巳；应验对象同一",
+  "reversal_scan": "三信号俱无全成立，初判维持。与LY-518同盘异问，本例独立按具题门类判读",
+  "notes": ""
+ },
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main=false:父衰化克初判即不利；reserve_used=false:用神现卦；disputed=false:取用已决"
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "case_id": "MP-003",
+ "prediction_text": "方向：会参选。断语：韩国瑜不会安于高雄市长一任——2019年内将被韩流声势与党内期待推上总统之路，年中前后表态松动并进入国民党初选，最迟2019年7月前后参选定案、获得提名角逐2020。应期以月档表达：2019年春夏间（主坐标2019年7月）成局。",
+ "basis": {
+  "systems_used": [
+   "modern-politics-situation",
+   "mingli-fact-priority"
+  ],
+  "reasoning": "无命盘/卦盘原件，以占时事实收束：就任仅两周韩流正盛、外界已直攻大位相询，声势本身即推力；市长蜜月与总统声量同向，无退路信号。只断参选与提名，不在此例断其当选与否（问题所问仅参选）。"
+ },
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "case_id": "AS-205",
+ "prediction_text": "方向：病人将不治而死（终局单判为凶）。依据多重同向：上升受八宫主实体压临、六宫固定受克、六宫主居固定土性忧郁星座、日（时光）与六宫主土星在固定宫成全冲、月亮近南交点（Cauda）且在上升受克——生气诸星皆陷于死宫与凶主之下，无救应。病性为固定土性的郁结/忧郁重症。应期（月档内周级）：窗口1645年7月下旬至数周内，主坐标以日土冲相已全、月近交点之势断凶在近数周。置信高。",
+ "basis": {
+  "systems_used": [
+   "western-horary-astrology (Lilly)"
+  ],
+  "reasoning": "Asc afflicted by L8 corporeal, 6th fixed afflicted, L6 in fixed earth melancholy, Sun perfect opp Saturn L6 in fixed signs, Moon near Cauda afflicted in Asc -> death testimonies overwhelming.",
+  "input_note": "上升星座字形残损未断言，已注明；死断只据未残损的五项凶据。"
+ },
+ "confidence": 0.8,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

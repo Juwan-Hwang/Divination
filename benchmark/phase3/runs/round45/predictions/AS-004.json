@@ -1,0 +1,18 @@
+{
+ "case_id": "AS-004",
+ "prediction_text": "方向：消息不实——国王并未攻下剑桥。依据：四角皆变动宫主事不稳、月亮落陷失意、七宫主（王方）入弱且受克，而上升主（问者/议会方）在擢升强位；土星坏十宫头、火星坏七宫头只主谣言与纷扰、不成占领之实。应期不适用远期：此为真伪单点问，断即以当下为准，数日内自见分晓。置信高。",
+ "basis": {
+  "systems_used": [
+   "western-horary-astrology (Lilly)"
+  ],
+  "reasoning": "Moveable angles, Moon cadent afflicted, L7 in fall afflicted vs lady of Asc exalted -> rumour false per Lilly rumour chapter testimonies.",
+  "input_note": "仅散文位置，无全图。"
+ },
+ "confidence": 0.8,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

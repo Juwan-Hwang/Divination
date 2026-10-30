@@ -1,0 +1,18 @@
+{
+ "case_id": "AS-009",
+ "prediction_text": "方向：狗能找回。寻向：往城的西方偏南（western sign, southern quarter verging west）一带找，狗仍在伦敦城内（狗征象星与上升同三方性、入拱六宫头，主未出城、未远走）。依据：六宫及其主为狗征象，月亮在风象星座且在日光下主一时难见；日将于下周一入相上升主土星，应期（日档）窗口数日至一周、主坐标下周一前后得狗/得确讯。置信中。",
+ "basis": {
+  "systems_used": [
+   "western-horary-astrology (Lilly)"
+  ],
+  "reasoning": "Dog significator west/south-west, same triplicity as Asc (London), applying trine cusp 6th -> recoverable in city; Sun applying Saturn on Monday -> timing marker.",
+  "input_note": "数处字形OCR残损，已注明；方向与可寻回只据未残损的散文断据。"
+ },
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

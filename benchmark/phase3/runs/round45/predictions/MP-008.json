@@ -1,0 +1,18 @@
+{
+ "case_id": "MP-008",
+ "prediction_text": "方向：蔡英文出线，并与韩国瑜对决且占上风。断语：民进党不会换将——蔡英文将击败赖清德的初选挑战、代表民进党出战2020，与国民党韩国瑜一较高下，且对决中蔡居优势一方、最终胜面大于韩。应期以月档表达：初选结果2019年年中（主坐标2019年6月）揭晓，对决终局2020年1月。",
+ "basis": {
+  "systems_used": [
+   "modern-politics-situation",
+   "mingli-fact-priority"
+  ],
+  "reasoning": "无卦盘原件，以占时事实收束：赖3月18日登记挑战、蔡3月表态连任，在任总统握党机器与初选规则优势，挑战者掀翻在任者门槛极高。问题两问（谁出战、蔡能否与韩对决）逐项作答：蔡出线、对决占上风。"
+ },
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

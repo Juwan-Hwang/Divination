@@ -1,0 +1,17 @@
+{
+ "case_id": "BQ-014",
+ "prediction_text": "方向：飓风短期不止、行程不可行（negative，终局单一）。困之震，兄弟、父母俱动且合住应爻——父母主风雨，父母动则风未止；应爻被合住，主所往之处/行程被绊住，此时强行返乡不得顺行。具体断语：注家此行须停，待风止后再走；强行则中途受阻。应期：日档，窗口为问后一旬内，主坐标取冲开合住应爻之日为风止可行之候（残盘未给应爻地支，不臆报具体支日，只定『冲合之日』一档）；近段（数日内）风势续作、远段合开后风止行成，远段触发为合住被冲开这一盘面条件。动化方向：兄父俱动合应、定性主绊住不行；反转条件：无解合信号已成于残盘，不翻转。",
+ "basis": {
+  "systems_used": [
+   "六爻纳甲 (天时/行程)"
+  ],
+  "reasoning": "Chart incomplete (困之震+兄父动合应, no应爻支) - timing therefore kept at mechanism level (冲合之日) without inventing a支, confidence lowered. 父母动=风雨未止; 合住应=行程绊. Trigger all false with reasons in trigger.reason."
+ },
+ "confidence": 0.48,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main=false: 主断由兄父动合应定,变卦震未改定终局; reserve_used=false: 未用伏神; disputed=false: 风未止与行绊两证同向,无相争信号."
+ }
+}

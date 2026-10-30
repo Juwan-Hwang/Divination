@@ -1,0 +1,17 @@
+{
+ "case_id": "AS-304",
+ "prediction_text": "方向：唐纳德·特朗普赢得2024年美国总统选举（共和党胜）。选情表面胶着、普选票差距不大，但选举人票由特朗普取得过半而定局，哈里斯败选。应期：月档，窗口主坐标为2024年11月5日投票日见分晓（计票或延至次日）。具体应象：胜负关键在摇摆州成串倒向共和党，非一州之差的悬案式拖延。此断无两候选人星盘数据在输入内，仅按问时情景作事件级断，置信中低。",
+ "basis": {
+  "systems_used": [
+   "western astrology (election, no chart data in input)"
+  ],
+  "reasoning": "输入残损：no birth charts/transits supplied. Event-level call from情景 only; confidence lowered accordingly. Timing month-scale, election day as主坐标 per question's own date."
+ },
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

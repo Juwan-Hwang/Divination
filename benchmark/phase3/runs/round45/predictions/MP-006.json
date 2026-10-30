@@ -1,0 +1,18 @@
+{
+ "case_id": "MP-006",
+ "prediction_text": "方向：运势由盛转衰，总统之路不成。断语：韩国瑜2020年（63岁）行衰运——2020年1月总统大选落败，且败后政治声势续挫、市长本职亦生风波，不属可东山再起的短挫。应期以年/月档表达：衰象自2019年8月民调下滑已起，终局落在2020年1月，其后数月余波未平。",
+ "basis": {
+  "systems_used": [
+   "modern-politics-situation",
+   "mingli-fact-priority"
+  ],
+  "reasoning": "无命盘原件（仅出生年与年龄），以占时事实为主并注明残损、置信下调：setting明载民调自8月起下滑、提名已两月而势颓，趋势方向明确。运势断语与趋势同向同级：大选落败足级，余波只写声势续挫不虚构具体事件。"
+ },
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

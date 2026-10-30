@@ -1,0 +1,17 @@
+{
+ "case_id": "AS-302",
+ "prediction_text": "方向：未来六个月（2020年10月至2021年4月）疫苗前景向好但疫情先恶化后缓和（先负后正，终局偏正）。具体断语：六个月内将有疫苗传出高效消息并获批启用（主时点在2020年11月至12月），2021年初开始接种；但冬季病例先冲高、封锁收紧，疫苗供应与接种速度有限，年内（至2021年4月）不能终结疫情，只能令局势转入可控下降通道。应期：月档，窗口为六个月，主坐标取2020年12月为疫苗落地之月。",
+ "basis": {
+  "systems_used": [
+   "western astrology (mundane, no chart data in input)"
+  ],
+  "reasoning": "输入残损：no chart positions given, only情景（三期试验进行中）. Prediction at event level from情景 constraints (phase-III status implies readout/approval within months; winter seasonality implies先升). Confidence lowered, no fabricated ephemeris."
+ },
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

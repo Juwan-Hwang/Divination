@@ -1,0 +1,17 @@
+{
+ "case_id": "AS-212",
+ "prediction_text": "方向：非中邪/非巫术所致（negative on bewitched）。虽月亮趋冲土星、二星分居六、十二宫貌似可疑，但上升、上升主与月亮皆未被第十二宫主所克——Lilly定巫术须十二宫主克上升/命主/月亮，此决定性证词不成立，故不作中邪断。病为自然之病、药不对症而久不效。转归：月亮冲土星后转而入相上升主，上升主在地平上且趋天顶，病势将转好转。应期：月档，窗口为问后一月内，主坐标取月亮过冲土星并成相上升主之后，病人见起色；近段药石无功、远段渐愈（远段触发：月亮行程由冲土星转为顺合命主）。",
+ "basis": {
+  "systems_used": [
+   "horary (Lilly classical)"
+  ],
+  "reasoning": "Witchcraft testimony requires lord 12 afflicting Asc/lord/Moon - explicitly absent in input; Moon applying to lord of Asc above earth ascending to meridian = recovery testimony. Object check (f): subject is the patient, verdict on patient not querents."
+ },
+ "confidence": 0.8,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

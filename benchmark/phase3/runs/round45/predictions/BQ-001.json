@@ -1,0 +1,17 @@
+{
+ "case_id": "BQ-001",
+ "prediction_text": "方向：父寿不久、复苏只是回光返照（negative）。父卧疾三年、昨日气尽复苏，兑卦上缺、为口为言，气自口散之象已成；兑变履、又变乾为天，本宫火在庚辛日克金——生气已泄、难再续养。具体断语：父亲将于数日内辞世，不以月计。应期：日档（近死之问以日为尺度，依据为气尽复苏属旦夕之变），窗口为问后五日内，主坐标取第三日为最危之日；不断具体时辰（盘面残损、无六爻全盘）。承受与应验对象同为占者之父，已逐名对回。",
+ "basis": {
+  "systems_used": [
+   "蓍筮/周易卦象 (兑之履), 纳甲本宫参断"
+  ],
+  "reasoning": "Input chart_complete=false: only 本卦兑、变卦履及断语援引之象 (本宫火、兑口、变乾) given, no full六爻盘 - noted, confidence lowered, no盘 fabricated. Traditional 筮占 (not labelled 六爻 in tradition field) so trigger all false per随单条款 (非六爻三项全false). Direction from兑上缺气散+久病气尽复苏情景 (事实优先序 e)."
+ },
+ "confidence": 0.45,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

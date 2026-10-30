@@ -1,0 +1,18 @@
+{
+ "case_id": "AS-206",
+ "prediction_text": "方向：能嫁所望之人，但须迟、须费周折，非顺遂即成。依据：问者征象水星逆行且焦伤（under sunbeams）主其自身势弱、心意反复、事有退意；对方征象居擢升强位且近六合金星主其有意；两征象星成半六合且同居好宫，月亮离木星刑而以三合传光至上升主水星——传光补通弱相，故终局归成。压级依据即水星逆行焦伤，故等级只断『迟成』不作『速成美满』。应期（年档内月级）：窗口1646年内，主坐标以月亮传光成三合后数月议定。置信中。",
+ "basis": {
+  "systems_used": [
+   "western-horary-astrology (Lilly)"
+  ],
+  "reasoning": "Querent Mercury retro combust weak vs quesited exalted near Venus sextile; significators semi-sextile in good houses; Moon translation Jupiter->Mercury by trine bridges -> marriage effected with delay.",
+  "input_note": "日期仅年份1646、其余OCR不全；应期只给年内月级窗口。"
+ },
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

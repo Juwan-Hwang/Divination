@@ -1,0 +1,18 @@
+{
+ "case_id": "AS-008",
+ "prediction_text": "方向：埃塞克斯能攻下雷丁，城将交付/陷落。依据：上升主火星（埃塞克斯）虽落陷却得月亮接纳（火星居月宫、月在火星界与面、近狮心居十宫）而有力，四宫主土星（守将）落陷弱，城方弹药粮草（五宫主木星与金星在五宫）终不支强攻。应期（月档）：窗口围城后约一月内，主坐标4月下旬城交付。近段围困僵持、远段以交付收局，两段同向归于攻克。置信中高。",
+ "basis": {
+  "systems_used": [
+   "western-horary-astrology (Lilly)"
+  ],
+  "reasoning": "Mars L(Asc Scorpio) received by Moon in 10th by Regulus despite fall; Saturn L4 (governor) in fall; town's resources insufficient -> town delivered.",
+  "input_note": "年份OCR作1644而史实围城1643，已注明；不据年份作断，只据盘面强弱。"
+ },
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

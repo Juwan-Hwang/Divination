@@ -1,0 +1,17 @@
+{
+ "case_id": "AS-306",
+ "prediction_text": "方向：2024年大选将先发生民主党候选人更替、终局由唐纳德·特朗普胜出。具体断语：时任总统拜登不能以候选人身份走完选程——年中（夏季）退下，民主党改由副总统哈里斯接棒参选；更替带来一波声势，但不足以翻盘，特朗普最终赢得选举人票入主白宫。应期：月档，更替主坐标在2024年夏季（7月前后），胜负主坐标为2024年11月投票日。此断以吠陀框架作年内事件断，输入未附任何星盘度数，不臆造盘面，置信中等偏低。",
+ "basis": {
+  "systems_used": [
+   "vedic astrology (no chart data in input)"
+  ],
+  "reasoning": "输入残损：no chart supplied. Key event-level content required by question itself is the候选人更替 element: at asked_at (2024-06-02) Biden's age/condition already publicly questioned per basic_info, so a mid-course replacement is the情景-supported specific call; final winner called Trump. Confidence lowered for missing chart."
+ },
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

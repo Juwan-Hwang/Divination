@@ -1,0 +1,18 @@
+{
+ "case_id": "MP-004",
+ "prediction_text": "方向：蔡英文当选连任。断语：2020年1月11日蔡英文击败韩国瑜连任成功，且非险胜——民调领先在最后两个月不会被翻盘，韩支持度持续落后之势直贯开票。应期以月档表达：终局2020年1月投票日。",
+ "basis": {
+  "systems_used": [
+   "modern-politics-situation",
+   "mingli-fact-priority"
+  ],
+  "reasoning": "无卦盘原件，以占时给定事实为准：setting明载多项民调显示韩持续落后、选战仅余约两个月，落后幅度与剩余时间不匹配翻盘所需。事实优先序下取蔡当选足级，不以无据变数降格为五五波。"
+ },
+ "confidence": 0.75,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

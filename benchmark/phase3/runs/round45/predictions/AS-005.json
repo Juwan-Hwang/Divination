@@ -1,0 +1,18 @@
+{
+ "case_id": "AS-005",
+ "prediction_text": "方向：船未沉、尚存活（living），人船平安可望。依据：上升巨蟹示船体，上升主月亮在金牛擢升居十一宫，入拱七宫日、水且近木星，无凶克船体之重伤；土星刑上升只主惊险延误，南交点在九宫主远航有损耗消息之扰，不主沉没。方位/消息：船应在西班牙海岸一带贸易水域返程消息可达；月亮距成拱仅数分，应期（日档，近事消息尺度）窗口数日、主坐标近日内即有确讯。置信高。",
+ "basis": {
+  "systems_used": [
+   "western-horary-astrology (Lilly)"
+  ],
+  "reasoning": "Moon lady Asc exalted applying trine Sun/Mercury near Jupiter = ship safe; Saturn square Asc = peril/delay not loss; minutes to perfection = news in days.",
+  "input_note": "仅散文位置，无全图与确切日期。"
+ },
+ "confidence": 0.75,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "case_id": "AS-204",
+ "prediction_text": "方向（两段式）：病位在胸腹/胃（breast & stomach）——土星当时在巨蟹主胸胃、上升主新离土星刑、月亮在四宫与土星同在，六宫有落陷星坐守。病性为固定、久滞之郁结类（四角皆固定主病程缠绵）。近段：不主速愈，病情持重；远段触发为上升主已离土星刑（峰已过），故不下死断，断为可治而慢、须久调才收功，短期内勿望痊愈。应期（月档）：转机以月计，主坐标数月后渐轻。置信中。",
+ "basis": {
+  "systems_used": [
+   "western-horary-astrology (Lilly)"
+  ],
+  "reasoning": "Scorpio Asc, 6th afflicted by planet in fall, LAsc separated from Saturn square (Saturn in Cancer=breast/stomach), Moon in 4th with Saturn, fixed angles -> chronic chest/stomach disease, slow difficult cure, not fatal peak (separation).",
+  "input_note": "decumbiture类问，无起问日期；应期只给月档。"
+ },
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

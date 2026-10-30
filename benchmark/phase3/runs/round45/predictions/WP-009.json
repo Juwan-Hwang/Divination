@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-009",
+ "prediction_text": "India will NOT win the 2019 Cricket World Cup. India will go deep into the tournament on the strength of the squad (Kohli/Dhoni) and reach the semi-finals, but will fall in the knockout stage and not lift the trophy on 14 July 2019.",
+ "basis": "systems_used: western mundane/sports astrology reading of the stated context (no chart supplied). Fact-priority: 'one of the firm favourites' in a ten-team round-robin is a strong-but-not-decisive position; favourite status alone does not carry the final, and the knockout format is where the favourite's run is most exposed. Input limitation noted: no chart data in the case file, so this is a low-confidence directional call only.",
+ "confidence": 0.45,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "case_id": "MP-010",
+ "prediction_text": "方向：赖清德最有当选之相，郭台铭不能当选。断语：2024年大选的当选相在民进党赖清德一侧；郭台铭纵使参选亦无当选之局——或整合在野失败、或独立参选分票，终局得票不成气候，2024年1月由赖清德一系当选。应期以年/月档表达：人选与整合于2023年内见分晓，终局2024年1月投票日。",
+ "basis": {
+  "systems_used": [
+   "modern-politics-situation",
+   "mingli-fact-priority"
+  ],
+  "reasoning": "无命盘原件（仅郭出生年与身高），以形势明理收束并降置信：占时各党人选未定，被点名者中赖为执政党接班人、组织与基本盘最整，郭2019年初选出局后退党的整合成本最高。问题两问逐项答：最有相者赖，郭参选不能当选。"
+ },
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "case_id": "AS-015",
+ "prediction_text": "方向：海上丈夫活着、平安，其征象太阳处 hayz 且全无受克，此为盘中最明确之据。将归，但归期不近：盘面后段火土趋凶相、土星主问者六宫逆行主其自身久病反复（此为附带断语：问者本人病势缠绵、勿以夫归即愈作断）。应期（月档）：窗口以月计，主坐标数月后得归讯/归期，确切月点因盘面字形残损不强定。置信中下。",
+ "basis": {
+  "systems_used": [
+   "western-horary-astrology (Lilly)"
+  ],
+  "reasoning": "Husband's Sun in hayz free from all affliction = alive & safe (input states unambiguously); garbled later positions prevent precise timing -> month-scale window only.",
+  "input_note": "盘面多处OCR残损，已降置信并注明；只对未残损的『太阳无克』一条下强断。"
+ },
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

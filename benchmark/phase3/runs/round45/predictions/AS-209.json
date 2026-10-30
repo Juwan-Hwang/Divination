@@ -1,0 +1,18 @@
+{
+ "case_id": "AS-209",
+ "prediction_text": "方向分两问：(1)国王能招来外援兵力（含爱尔兰方向之助）以图伤议会——月亮为王征居巨蟹自宫居十宫、光增无凶克，王势本身不弱；十一宫（援助宫）主太阳擢升居七宫趋十一宫头（尚差6°），主援将至而迟。(2)王后自北进军：其征象土星为四宫主正移宫入白羊落陷，主进军终入弱境、不昌盛；月亮距三合土星尚3–4°，王与后相会应期（月档）主坐标约3–4个月量级内相会，会而后势不振。综合：援与会皆有其事，然援迟、后弱，不足以扭转王方颓势之全貌只断到盘面所及。置信中。",
+ "basis": {
+  "systems_used": [
+   "western-horary-astrology (Lilly)"
+  ],
+  "reasoning": "King Moon in Cancer own house 10th strong; Sun L11 exalted in 7th applying 11th cusp wanting 6d -> aid procured but delayed; Queen Saturn entering fall in Aries -> advance without prosperity; Moon wanting 3-4d of trine Saturn -> meeting in 3-4 units (months).",
+  "input_note": "一盘两问，逐问分断；日期未给，应期以相对月档表达。"
+ },
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

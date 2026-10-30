@@ -1,0 +1,17 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Direction: Donald Trump wins the 2016 US presidential election, and what decides it is Hillary Clinton's email controversy and the Clinton Foundation scandal. Specifics: the tarot reading drawn in August 2016 points to the Democratic frontrunner being fatally damaged by her own concealed-communications/record problem — the email affair (with the Foundation questions attached) is the decisive factor that sinks Clinton despite her poll lead; Trump, the disruptive outsider, takes the election of 8 November 2016. Timing: decided 8 November 2016, with the email issue resurfacing as the late, decisive blow in the closing phase of the campaign.",
+ "basis": {
+  "systems_used": [
+   "Western tarot"
+  ],
+  "notes": "Input states a Manhattan tarot reader drew cards on the election in August 2016 and that Clinton's email controversy and Foundation were already public — the file's question explicitly asks both winner and deciding factor, and the only candidate-specific liabilities supplied in the file are Clinton's email/Foundation issues, read as the deciding damage. The actual drawn cards are not reproduced in the input; that absence is noted here and confidence is held below the astrology files — no card identities have been invented."
+ },
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

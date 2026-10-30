@@ -1,0 +1,18 @@
+{
+ "case_id": "MP-012",
+ "prediction_text": "方向：赖清德/萧美琴组最有机会当选。断语：三组之中下届正副总统落于赖萧配——2024年1月13日以相对多数胜出，侯赵配次之、柯吴配再次，赖萧胜局在投票前最后阶段不会被整合变数翻转（三脚督已定、无弃保足以改局）。应期即投票日。",
+ "basis": {
+  "systems_used": [
+   "tarot-situation-reading",
+   "mingli-fact-priority"
+  ],
+  "reasoning": "原问以塔罗及文王圣卦占测为背景，但输入未给牌面/卦盘原件，本席不臆补盘面，注明残损并以三脚督形势明理收束、置信相应下调：蓝白破局后在野分票、绿营单一整合，机会最大一组为赖萧，方向与MP-011同日情境互参一致。"
+ },
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

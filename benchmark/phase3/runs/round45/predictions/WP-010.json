@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-010",
+ "prediction_text": "Joe Biden will win the 2020 US presidential election on 3 November 2020 and become the next president, defeating incumbent Donald Trump.",
+ "basis": "systems_used: western (Vedic-frame) mundane election reading as framed in the input. The input itself notes the three interviewed astrologers disagree; taking the foregrounded chart fact (Biden's Scorpio Ascendant in the Vedic reckoning used) together with the stated polling lead for Biden, the balance of the given evidence points to the challenger. Input limitation noted: no full charts supplied, only the one Ascendant detail, confidence moderate.",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

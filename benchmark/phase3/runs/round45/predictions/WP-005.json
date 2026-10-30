@@ -1,0 +1,17 @@
+{
+ "case_id": "WP-005",
+ "prediction_text": "Direction: Donald Trump wins the 2016 US presidential election. Specifics: the panellist who alone had correctly picked Trump to win the Republican nomination out of a 17-candidate field follows the same judgement through to the general election — Trump defeats Hillary Clinton on 8 November 2016, an upset against the poll-favoured candidate, and becomes president. Timing: decided 8 November 2016. Deciding character: the outsider's disruptive chart signature prevails over the establishment frontrunner, against the conference majority view.",
+ "basis": {
+  "systems_used": [
+   "Western astrology (mundane/electional, individual forecaster)"
+  ],
+  "notes": "Input distinguishes this case from WP-004 solely by the one panellist's earlier correct call of Trump as nominee from 17 Republicans; that track-record signal is the file's operative fact and is read as that forecaster's general-election pick being Trump. No other data differs between the two files."
+ },
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

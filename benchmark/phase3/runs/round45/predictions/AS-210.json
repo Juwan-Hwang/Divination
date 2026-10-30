@@ -1,0 +1,17 @@
+{
+ "case_id": "AS-210",
+ "prediction_text": "方向：能得此职（positive）。月亮居第十宫（职位宫）且入相拱在上升得擢升之土星，土星与求测者主星金星互容接纳——职位与求测者两相接纳、事可成；土星又主第四宫，主结局落地。成职不靠那位太阳型的『假朋友』：太阳主第十一宫、在第七宫冲上升且带龙尾，此友帮衬无力甚至暗中为碍，勿恃之。应期：月档，土星主事主迟，窗口为问后数月内，主坐标取月亮拱土星成相后土星所主之月（迟而稳得，非旬日速得）。等级：得职足级，不断仅得虚名。",
+ "basis": {
+  "systems_used": [
+   "horary (Lilly classical)"
+  ],
+  "reasoning": "Moon in 10th applying trine Saturn exalted in Asc, mutual reception Venus-Saturn = perfection testimony per Lilly preferment chapter rules; Sun lord 11th afflicted in 7th opp Asc with Cauda = pretended friend testimony, secondary only. Timing scale: month per 通则(k)终局/仕途类先月档; no degrees given in input, so no day-level date asserted."
+ },
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

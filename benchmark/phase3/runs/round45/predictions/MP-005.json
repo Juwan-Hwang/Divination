@@ -1,0 +1,18 @@
+{
+ "case_id": "MP-005",
+ "prediction_text": "方向：胜出机会低，最终落败。断语：韩国瑜初选胜出是其声势顶点，此后只下不上——以市长身分参选的正当性质疑与施政检视将持续削弱其支持，2020年1月大选由蔡英文胜出，韩落败且差距非些微。应期以月档表达：衰势贯穿2019年下半年，终局2020年1月。",
+ "basis": {
+  "systems_used": [
+   "modern-politics-situation",
+   "mingli-fact-priority"
+  ],
+  "reasoning": "无卦盘原件，以形势明理收束：占时初选刚落幕、声势处高点，但高点即初选封闭竞争之果，大选扩及中间选民后落跑负累放大。按事实优先，不以占时一时声量作当选断；方向取先盛后衰、终局落败。"
+ },
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "case_id": "BQ-013",
+ "prediction_text": "方向：久雨难晴、短期内雨势仍盛（negative on晴）。随之咸，申、子两爻俱动，与日辰申合而成父母局——父母为雨之用神，动而成局且得日辰助，雨象成势正旺，晴之子孙象不见于残盘。具体断语：雨还要下，不会在一两日内放晴；行人行程、晾晒农事皆须按连雨防备。应期分两段：近段雨盛难晴，窗口为问后数日；远段转晴须待父母局被冲开之时，主坐标取冲申之寅日为转晴候选（申子局以寅冲申松动），窗口以旬为上限。动化方向：申子动合父局、定性主雨势成局向盛；反转条件：无子孙动来制雨之信号见于残盘，不翻转。",
+ "basis": {
+  "systems_used": [
+   "六爻纳甲 (天时)"
+  ],
+  "reasoning": "天时占: 父母主雨, 子孙主晴. 申子两动+日辰申成父局 = rain testimony dominant. Two-stage per (i): near段雨, far段转晴 triggered by冲开父局 (寅冲申) - trigger named. Chart incomplete, no full盘, confidence moderate-low. Trigger: changed_main false (终局雨断由本卦动爻父局定,变咸未改定), reserve false, disputed false."
+ },
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main=false: 主断由本卦申子动成父局定,变卦咸未改定终局; reserve_used=false: 未用伏神; disputed=false: 雨象单一成局,无相争信号."
+ }
+}

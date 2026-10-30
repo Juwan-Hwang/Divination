@@ -1,0 +1,18 @@
+{
+ "case_id": "AS-012",
+ "prediction_text": "方向：求不到所望的教职（parsonage/benefice）， pressed 再追亦不成。依据（七重否证同向）：土星受阻居上升坏问事；九宫主木星与上升主、与月亮皆无相位；上升主与月亮皆不在九宫；征象星间无传光、无集光、无接纳；月亮离三合而趋冲三宫主水星；金星在七宫冲上升。此为无路可通之盘，不降格留余地。应期不报：终局为不成，无成事应期。置信高。",
+ "basis": {
+  "systems_used": [
+   "western-horary-astrology (Lilly)"
+  ],
+  "reasoning": "All seven negative testimonies enumerated in input: no aspect/reception/translation/collection, Saturn impedited in Asc -> benefice denied.",
+  "input_note": "个别行星字形OCR残损，但七项否证文字完整，不影响终局。"
+ },
+ "confidence": 0.85,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "case_id": "AS-010",
+ "prediction_text": "方向：仆人向西/西南方（western sign, south quarter）逃去；能回来/能被寻回，不至久失。依据：水星为此盘仆人特取征象星与月亮（仆人通征）同在西方星座，月亮当时与现时同座主未远；月亮在二宫居自宫、日与十一宫星成全相，仆星与上升主急趋成拱出角宫，主归期不远、归途有成。应期（日档）：窗口逃后数日至一周，主坐标数日内有踪/归讯。置信中高。",
+ "basis": {
+  "systems_used": [
+   "western-horary-astrology (Lilly)"
+  ],
+  "reasoning": "Mercury+Moon west/south -> direction west-southwest; significator and LAsc hastening to trine out of angles, Moon in own house 2nd -> return/recovery soon.",
+  "input_note": "提问日期未给，应期以相对日档表达。"
+ },
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

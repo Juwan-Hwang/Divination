@@ -1,0 +1,18 @@
+{
+ "case_id": "AS-007",
+ "prediction_text": "方向：沃勒（Sir William Waller，议会军）胜，霍普顿（Sir Ralph Hopton，王军）败。依据：上升、月亮、木星、金星皆属沃勒一方，月亮擢升与木星同在、日（沃勒财力/援军主）在十宫正值擢升19°白羊；霍普顿征象土星在七宫主位却落陷、被日光掩（sub radiis）、游离无相、无援（九宫仅火星与南交点，无现成接济）。应期即交战当日（1644年3月29日）分胜负，无远段。置信高。",
+ "basis": {
+  "systems_used": [
+   "western-horary-astrology (Lilly)"
+  ],
+  "reasoning": "Waller significators dignified/angular/exalted vs Hopton Saturn in fall, sub radiis, peregrine, unaspected, no supplies -> decisive Waller victory (Cheriton).",
+  "input_note": "盘面为散文摘录，方位以所给强弱对比作断。"
+ },
+ "confidence": 0.85,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

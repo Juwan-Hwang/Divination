@@ -1,0 +1,18 @@
+{
+ "case_id": "AS-208",
+ "prediction_text": "方向：鲁珀特亲王不得此战之荣，反将被埃塞克斯压过、声名受损。依据：鲁珀特以十宫及其主太阳为征，太阳游离且居弱（detriment）固定宫、且受金星（埃塞克斯，七宫对宫主）支配——主导权在对方手里；金星与土星接纳并以相位临十宫头，月亮以左相临十宫，皆助埃方。后续：其势渐衰，所问『何所终』断为名位受挫、终为对方所制之局，非凯旋之命。应期（月档）：Edgehill后一月余所问，窗口随后数月内战局续挫为主坐标。置信中高。",
+ "basis": {
+  "systems_used": [
+   "western-horary-astrology (Lilly)"
+  ],
+  "reasoning": "Rupert Sun (L10) peregrine in detriment disposed by Venus (Essex); Venus in reception with Saturn aspecting 10th cusp, Moon sinister to 10th -> Essex prevails, Rupert worsted.",
+  "input_note": "提问确切日期未给，以Edgehill后约一月为背景锚。"
+ },
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

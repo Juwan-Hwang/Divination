@@ -1,0 +1,17 @@
+{
+ "case_id": "AS-213",
+ "prediction_text": "方向：逃犯向东去，且将被寻回/拿获（positive on recoverable）。第十二宫尖射手、木星在狮子、天象四分方与月亮所在星座四证一致主东——人往东边去。月亮近上升，主其人离出走地不远、行踪易露；月亮离相拱木星后趋冲太阳、二星皆居角宫，冲太阳主被照见、被发现，难以久藏。木星在第八宫，其人处境困窘、有伤病/资源断绝之迫，跑不远。应期：日档，窗口为问后数日内，主坐标取月亮冲太阳成相之日，其人被发现或拿获，地点在东边近处。",
+ "basis": {
+  "systems_used": [
+   "horary (Lilly classical)"
+  ],
+  "reasoning": "Unanimous eastward testimonies for direction; Moon near Asc + applying opposition Sun in angles = discovery/visibility; Jupiter in 8th weakens fugitive's resources. Timing day-scale for escaped prisoner pursuit."
+ },
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

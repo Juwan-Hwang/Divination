@@ -1,0 +1,18 @@
+{
+ "case_id": "AS-003",
+ "prediction_text": "方向：能买成——会与卖方成交并及时筹到购房款，虽钱一度迟滞。依据：金星入六合/拱四宫主土星（房屋），七宫主兼十一宫主（希望）主事，月亮以刑相传光（长上升星座之刑不作真阻）；二宫主水星逆行只主款项迟到（与题面自有款半年不能调用相合），不主不成。谈判上卖方初价£530有还价余地，最终价低于初索。应期（月档）：窗口半年内，主坐标约6个月款齐成交。置信中高。",
+ "basis": {
+  "systems_used": [
+   "western-horary-astrology (Lilly)"
+  ],
+  "reasoning": "Venus trine Saturn L4; L7=L11; Moon translation; Mercury L2 retrograde=delay not denial, matching stated 6-month money lock.",
+  "input_note": "上升度数OCR残损，已在basis注明；不据残损度数作断。"
+ },
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

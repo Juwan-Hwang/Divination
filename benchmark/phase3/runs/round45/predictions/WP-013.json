@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-013",
+ "prediction_text": "Labour under Keir Starmer will win the UK general election of 4 July 2024, and Starmer will become Prime Minister; the governing Conservatives under Rishi Sunak will lose power, falling to a heavily reduced seat count.",
+ "basis": "systems_used: western mundane election reading of the stated facts. Fact-priority dominates: a sustained ~20-point Labour polling lead plus a governing party damaged by the D-Day early-departure episode gives no mundane basis for an incumbent hold; the Cancer-season election timing in the input is noted but does not outweigh the stated facts. Input limitation noted: no chart supplied, but the factual signal in the input is one-directional, hence higher confidence.",
+ "confidence": 0.75,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

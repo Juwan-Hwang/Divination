@@ -1,0 +1,17 @@
+{
+ "case_id": "BQ-015",
+ "prediction_text": "方向：该年为歉年、水患伤稼（negative）。蒙之中孚，水鬼（官鬼属水）与应上父母俱动、同伤克世爻——官鬼水动主水涝疫患之扰，父母动主雨水过多，两动克世主年景压在一地军民身上；妻财伏藏不出，财为五谷收成，伏则收成之象伏而不显、难以丰登。具体断语：戊午年风雨不调，以雨涝伤稼为主象，粮食歉收、民财困窘，无丰年之象；不直断绝收大饥（世虽受克、残盘无世空破死绝之据，等级止于歉收困窘）。应期：年档（年时之问以年为尺度），窗口为该年之内，主坐标取夏秋雨水最盛之季为涝象最验之时。动化方向：水鬼与父动克世、定性主涝歉；反转条件：财伏无飞开/引拨齐备之据见于残盘，不翻转。",
+ "basis": {
+  "systems_used": [
+   "六爻纳甲 (年时)"
+  ],
+  "reasoning": "Chart incomplete. 年时占以世为一地/占者一方, 财为谷食伏藏, 鬼水+父(雨)动克世. Reserve: 妻财伏藏 was actually used as a断语依据 (财伏主收成不显) -> reserve_used=true. 等级校准(b): no空破死绝据, stop at歉收. Trigger disputed false: three testimonies concur negative."
+ },
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "changed_main=false: 主断由本卦鬼父动克世定,变卦中孚未改定; reserve_used=true: 妻财伏藏(伏神)被实际取作收成不显之断据; disputed=false: 鬼、父、财伏三证同向主歉,无相争信号."
+ }
+}

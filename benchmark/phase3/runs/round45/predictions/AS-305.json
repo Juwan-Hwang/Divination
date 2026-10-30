@@ -1,0 +1,17 @@
+{
+ "case_id": "AS-305",
+ "prediction_text": "方向：唐纳德·特朗普险胜2024年美国总统选举。盘面/选情势均力敌、极难判断为实情——普选层面哈里斯可接近甚至占先，但选举人团结果倒向特朗普，靠少数摇摆州的窄幅多数定局。应期：月档，主坐标2024年11月5日投票日，个别州计票拖至次日方全定。此断自承两可之间取一边，置信低；输入未附选举日星盘与候选人行运原文，不臆造度数。",
+ "basis": {
+  "systems_used": [
+   "western astrology (election chart reading, data not in input)"
+  ],
+  "reasoning": "输入残损：setting itself states盘面势均力敌、极难判断 and gives no positions. I keep that difficulty in the verdict (narrow win, split popular/electoral signal) rather than a confident landslide call; confidence 0.48 reflects near-toss-up."
+ },
+ "confidence": 0.48,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

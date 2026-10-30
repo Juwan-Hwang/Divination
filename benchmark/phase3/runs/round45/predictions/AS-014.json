@@ -1,0 +1,18 @@
+{
+ "case_id": "AS-014",
+ "prediction_text": "方向：偷钱者不是问者所疑的两名女仆，而是水星所示的男子——年轻、灵巧、近身往来之人（水星在角宫无尊贵、合土星刑火星，月亮在阳性星座趋火星，三处同指男性）。所疑二人（火星、土星所示者）因各居自界自面被排除。追回：月亮近太阳离相、水星受合刑之困，断钱难以全数追回，至多得回一部分/查明而财不全归。应期（月档）：查明在数周内，主坐标以月亮趋火星成相之期为讯至之时。置信中。",
+ "basis": {
+  "systems_used": [
+   "western-horary-astrology (Lilly)"
+  ],
+  "reasoning": "Mars & Saturn refused as thief significators (own term/face); Mercury angular without dignity conj Saturn square Mars taken; masculine testimonies -> male thief, not suspected women; afflicted Moon/Mercury -> full recovery denied.",
+  "input_note": "上升天蝎由输入给定；贼人细节只据所给相位。"
+ },
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
