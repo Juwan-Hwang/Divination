@@ -1,0 +1,509 @@
+{
+ "overlap_overlay": [],
+ "entries": [
+  {
+   "case_id": "AS-002",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 48,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "AS-015",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 44,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "AS-204",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 18,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "AS-211",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 69,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "AS-302",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 32,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "AS-305",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 13,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "BQ-001",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 49,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "BZ-021",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 58,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "BZ-022",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 31,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "BZ-023",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 17,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "BZ-024",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 14,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "BZ-026",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 7,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "BZ-028",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 20,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "BZ-031",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 51,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "BZ-032",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 11,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "BZ-033",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 14,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "BZ-034",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 17,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "BZ-037",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 8,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "BZ-038",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 7,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "BZ-039",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 7,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "BZ-040",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 41,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "BZ-104",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 9,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "BZ-302",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 9,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "BZ-303",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 45,
+   "n_substrings": 3
+  },
+  {
+   "case_id": "LR2-013",
+   "type": "A(b)",
+   "action": "stripped",
+   "removed_chars": 22,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "LR2-014",
+   "type": "A(b)",
+   "action": "stripped",
+   "removed_chars": 16,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "LR2-015",
+   "type": "A(b)",
+   "action": "stripped",
+   "removed_chars": 18,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "LR2-016",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 14,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "LR2-017",
+   "type": "A(b)",
+   "action": "stripped",
+   "removed_chars": 17,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "LR2-018",
+   "type": "A(b)",
+   "action": "stripped",
+   "removed_chars": 42,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "LR2-019",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 19,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "LR2-020",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 76,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "LR2-021",
+   "type": "A(b)",
+   "action": "stripped",
+   "removed_chars": 26,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "LR2-022",
+   "type": "A(b)",
+   "action": "stripped",
+   "removed_chars": 25,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "LR2-023",
+   "type": "A(b)",
+   "action": "stripped",
+   "removed_chars": 27,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "LR2-024",
+   "type": "A(b)",
+   "action": "host-ruling-candidate-strip",
+   "removed_chars": 35,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "LR3-002",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 54,
+   "n_substrings": 3
+  },
+  {
+   "case_id": "LR3-004",
+   "type": "A(b)",
+   "action": "stripped",
+   "removed_chars": 38,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "LR3-006",
+   "type": "A(b)",
+   "action": "stripped",
+   "removed_chars": 34,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "LR3-008",
+   "type": "A(b)",
+   "action": "stripped",
+   "removed_chars": 45,
+   "n_substrings": 2
+  },
+  {
+   "case_id": "LR3-010",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 34,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "LR3-101",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 41,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "LR3-104",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 23,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "LR3-107",
+   "type": "A(b)",
+   "action": "stripped",
+   "removed_chars": 48,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "LR3-110",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 50,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "LR3-114",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 52,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "LR3-116",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 65,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "MH-001",
+   "type": "A(b)",
+   "action": "stripped",
+   "removed_chars": 25,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "OC-001",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 36,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "OC-004",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 13,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "OC-006",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 19,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "OC-007",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 16,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "OC-008",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 18,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "OC-010",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 41,
+   "n_substrings": 2
+  },
+  {
+   "case_id": "OC-012",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 10,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "OC-013",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 24,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "OC-015",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 57,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "OC-016",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 22,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "OC-017",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 13,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "OC-018",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 28,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "OC-019",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 13,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "OC-020",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 13,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "OC-021",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 23,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "OC-022",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 21,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "OC-023",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 70,
+   "n_substrings": 2
+  },
+  {
+   "case_id": "OC-024",
+   "type": "A(b)",
+   "action": "stripped",
+   "removed_chars": 18,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "OC-025",
+   "type": "A(a)",
+   "action": "stripped",
+   "removed_chars": 6,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "OC-026",
+   "type": "A(b)",
+   "action": "stripped",
+   "removed_chars": 14,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "OC-027",
+   "type": "A(b)",
+   "action": "stripped",
+   "removed_chars": 10,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "OC-028",
+   "type": "A(b)",
+   "action": "stripped",
+   "removed_chars": 10,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "OC-029",
+   "type": "A(b)",
+   "action": "stripped",
+   "removed_chars": 12,
+   "n_substrings": 1
+  },
+  {
+   "case_id": "OC-030",
+   "type": "A(b)",
+   "action": "stripped",
+   "removed_chars": 25,
+   "n_substrings": 1
+  }
+ ]
+}
