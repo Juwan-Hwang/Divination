@@ -1,0 +1,1832 @@
+[
+ {
+  "idx": 0,
+  "anon_id": "P3-8a088d8c",
+  "case_id": "LY-623",
+  "prediction_text": "终局单一方向：父在外任平安无恙（positive）。父母戌土上爻发动，得癸巳日火生，申月土休而有日生扶，父之本象有气得生；动化戌土同支（伏吟之化，不进不退），主其人安于任所、行止少动，非凶化。官鬼午火四爻应位申月囚而旬空（午未空），任上官事暂悬、无进无退，但官鬼囚空不克父母，不作灾断；子孙亥水三爻申月相，福神相静守下。近段无音信之速达，远段父母逢值之期信至。应期双层：窗口为申月后数月内，窗口内主坐标为戌月——父母戌土逢值之月，音信定期。承受与应验对象同为父本人。",
+  "outcome_record": "後知苗獨作亂，地方不祥，驚險異常，寅年占卦，辰年缺歸，午年又官者，",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 1,
+  "anon_id": "P3-8a6517ba",
+  "case_id": "YM-047",
+  "prediction_text": "子病凶重、终局不愈偏危（negative）。官鬼午火两现、世临午火且午火临日月旺建，病势炽旺；用神子孙只在初爻父母动化中出现，化出子水旬空又逢午日冲破，医药无根难救。近段病旺药空、病情急重，远段子孙虽逢填实之期却仍囚于巳月、无根不改危局。应期尺度为日档（近病急症）：窗口为占日起至子日，主坐标为子日——子孙填实却逢冲破之期，为病势危重转折点而非愈期。",
+  "outcome_record": "及癸亥日而亡。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 2,
+  "anon_id": "P3-8a840edf",
+  "case_id": "BZ-025",
+  "prediction_text": "以技艺名满天下之造：主不以官位终身，转以艺术/文化成就登顶、受官方与民间同尊，名望逾于权位。丁火生戌月，甲印双透、卯印时临，酉财独清，癸杀透时被印化——印重身旺、杀印相生而印主文艺师承，主得名师正传、以文艺立身；戌中辛与酉财主其艺能生名利。运程木火运印比助艺为成名段，中年金水运财杀至则名利双收而转受官方礼遇；终局：艺坛宗师级名望、寿长善终。",
+  "outcome_record": "史实：梅兰芳为京剧宗师（伶王），后任中国京剧院院长、中国文联副主席等职，确非以伶官终身；1961年卒于北京",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 3,
+  "anon_id": "P3-8aa41610",
+  "case_id": "MP-007",
+  "prediction_text": "断韩国瑜2019年运势先盛后衰：上半年人气达顶并将参选总统，下半年声势转折向下，问鼎总统最终不成。2019年本身是其声势顶点年而非登顶大位年。应期以年档计：转折点在2019年下半年。",
+  "outcome_record": "韩国瑜2019年7月赢得党内初选，但2020年1月总统大选大败，未能登顶",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 4,
+  "anon_id": "P3-8adc2774",
+  "case_id": "BQ-024",
+  "prediction_text": "负面：瘟中之鸡多难保全，以死伤为主。噬嗑之颐，乙巳日日辰并起子孙，子孙为六畜之用神本得日助有一线生机；但四爻螣蛇官鬼发动临怪，鬼动主瘟病正发、螣蛇主怪异缠扰，病势压过子孙之助——终局鸡群死损居多，纵有个别存活亦非全保。应期双层：窗口为七日内（日档，禽瘟近事），主坐标为四爻鬼动逢值之日（支未明，止于窗口内鬼值日）。近段子孙得日助可暂撑、远段鬼动临怪主病发夺命，终局按(l)合成单一负面。",
+  "outcome_record": "「果应不死，后因夜啼而妻病作」——鸡果不死，后因鸡夜啼而占者之妻病作。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 5,
+  "anon_id": "P3-8b5bf572",
+  "case_id": "YM-034",
+  "prediction_text": "占有花：痘将发，且顺出可愈。官鬼卯木临日发动主痘发之象，子孙申金旺相持世主痘顺药力足。应期单位为日：窗口卯日起一旬内，主坐标戌日（官动逢合戌、痘发最显之日）。近段卯辰间见点，远段戌日发透后转顺。终局单一方向：发痘而顺（吉向）。主语复述：痘落所占孩童本人。",
+  "outcome_record": "当日见标。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 6,
+  "anon_id": "P3-8b6e50bc",
+  "case_id": "WP-006",
+  "prediction_text": "Direction: Yes — Britain votes to Leave the European Union in the 23 June 2016 referendum. Leave wins narrowly despite February polls showing Stay ahead with many undecideds; the Uranus–Ceres conjunction at 23° Aries on referendum day marks the rupture/separation outcome. Confidence moderate-high.",
+  "outcome_record": "On 23 June 2016 the UK voted Leave by 51.9% to 48.1%; the UK left the EU on 31 January 2020. Scotland has not become independent.",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 7,
+  "anon_id": "P3-8bc0043b",
+  "case_id": "LY-006",
+  "prediction_text": "方向：求婚可成，终局为成（单一终局），过程多波折。用神妻财未土持世而动，卯月未土得卯半合，动化戌土同类归实，世财相合主动可成；然动爻四见乱动，应爻兄弟寅木卯月旺相克世财主对方家/媒间阻力，官鬼酉金动而旬空（甲戌旬申酉空，推导旬）化申退主男方名分一节虚浮待实。近段议婚反复，远段触发为世财化戌与卯戌合，指向议定。应期定月档：窗口在当年内，主坐标取戌月——世财化神逢值兼合处定亲。对象对齐：所问对象为婚事/女方，用神妻财未土，应验对象为女方与婚约本身。",
+  "outcome_record": "果於午日允婚",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 8,
+  "anon_id": "P3-8bcd6752",
+  "case_id": "LY-211",
+  "prediction_text": "终局单一方向：negative（寿元偏凶、限期不远）。世爻子孙子水五爻发动化兄弟申金回头生，根未全断，故不断即时之绝；但初爻父母未土、四爻父母戌土两土齐动克世水，寿限受两重土克压制，等级按有克无全救降为『限近而非猝绝』。应期年档（寿元问年尺度）：窗口为世动逢合逢值之年一带，主坐标取丑年（子丑合、世动逢合，门类应期对表寿元门首选『动而逢合逢值之年』）；防土旺克水之岁加重。近段尚可支撑、远段以合值之年为限为过程依据，终局合成偏凶一端。",
+  "outcome_record": "果卒於卯年﹐乃應戌土逢合之年而克世也。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 9,
+  "anon_id": "P3-8bd02568",
+  "case_id": "AS-211",
+  "prediction_text": "终局单判：马可找回。十二宫主（马之主星）逆行且正趋合求测者二宫主（二宫为其财物宫），月亮亦在二宫、二宫头附近另有两颗逆行星，多重证据同指马自行／被人送回而归入主人财物之下，非永久失脱。去向：十二宫星座与其主星所在星座众证皆主西，马往西边去，应向西寻、亦自西边回。应期尺度为日档：窗口为数日内，主坐标取十二宫主与二宫主合相完成所指之日，不另报第二日期。",
+  "outcome_record": "'and indeed the Horse did come home three dayes after, and had been full West. However, I judged the Horse would have been at home a day sooner' — recovery and direction as judged, timing one day later than judged; the horse came home Wednesday or Thursday the 13th or 14th of January, 'and it was very true' of those who rode him away.",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 10,
+  "anon_id": "P3-8bd44dc7",
+  "case_id": "MP-016",
+  "prediction_text": "断特朗普胜出2024美国大选：以『相』字问卜，特朗普一方得相、胜哈里斯，当选总统。应期以日档计：2024年11月5日投票日见分晓，主坐标投票日，选举人票过半定局。",
+  "outcome_record": "特朗普当选第47任总统，选举人票312张",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 11,
+  "anon_id": "P3-8c6e8ae2",
+  "case_id": "MP-017",
+  "prediction_text": "方向：女性出任。下一任香港行政长官为女性，具体落到时任政务司司长林郑月娥身上——曾俊华虽已辞职备选、男性候选声势在前，但选举由1,194人选举委员会投票、非普选民望决定，且林郑在梁振英宣布不连任后改口重新考虑参选，正是获支持入局的信号。应期：单位月，2017年3月26日投票日即揭晓，窗口为2017年3月内、主坐标3月26日。",
+  "outcome_record": "林郑月娥（女性）于2017-03-26以777票当选第五任香港特首，为香港首位女性特首",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 12,
+  "anon_id": "P3-8ccc3ff0",
+  "case_id": "MP-012",
+  "prediction_text": "断赖清德萧美琴一组最有机会当选下届正副总统：三组中赖萧胜出，侯赵第二、柯吴第三。应期以日档计：2024年1月13日投票日定局。",
+  "outcome_record": "赖清德、萧美琴当选第16任正副总统",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 13,
+  "anon_id": "P3-8d1cbde7",
+  "case_id": "LY-522",
+  "prediction_text": "方向：不利破耗（negative）——买马往南发卖不得利：财爻逢日冲破、原神动而化合绊住，马到南方价折本亏。应期：日档，窗口卯日至辰日，主坐标卯日（妻财酉金逢卯冲破、损应之日）。",
+  "outcome_record": "後果買馬七十餘匹﹐一路多死﹐僅存二十八匹﹐幸而得價不然大虧其本。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 14,
+  "anon_id": "P3-8dc21ac5",
+  "case_id": "LY-520",
+  "prediction_text": "方向：无利（negative）——收货囤货不得利，兄旺劫财、财休囚静守，囤之只见压本耗损。应期：月档，窗口寅月至卯月，主坐标卯月（兄弟木旺极、财土受克见损之月）。",
+  "outcome_record": "後來存貨堆積四年﹐朽壞大半﹐大虧其本。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 15,
+  "anon_id": "P3-8dc25565",
+  "case_id": "LY-314",
+  "prediction_text": "终局单一方向：病非鬼神重祟作祸（正向偏安）。官鬼酉金伏于三爻妻财辰土之下，飞神辰土临日建而生伏，本有伏官之象，但全卦静、无动爻引拨，伏官不出、不成实祸；五爻子孙巳火静临、能克官鬼，医药福神在位制鬼。断语落点：不须以驱祟为先，病当从医药调治；若必指所伏之鬼，其象为酉金之官伏辰土之下、得土生而静伏，仅属潜伏未发之象。应期（日尺度）：窗口为占后一旬内，主坐标取辰日——伏神飞神辰土逢值、伏官之象得显而可判明实无大祟。",
+  "outcome_record": "彼曰：果有觀音軸藏於廚中，後送至寺內，病愈；七月庚辰日再得此卦，有銅達摩祖師在匣中，送於寺內，其痛亦愈",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 16,
+  "anon_id": "P3-8f270a2e",
+  "case_id": "BQ-001",
+  "prediction_text": "终局单判（问父寿）：父寿已极，昨日气尽复苏是回光之象，不是转安之兆，寿数以日计不以月计。兑为口、为言，变履而化乾为天：先有开口留话／交代之象，其后即辞世。应期按通则（k）定为日档（近病问寿、尺度在日）：窗口为旬内，主坐标取再逢庚辛金日（兑金值日）一档，不并陈第二主坐标——父于旬内、主坐标所指庚辛日前后辞世，断语对象只落其父本人。",
+  "outcome_record": "求卜者当场自述：父卧疾三年，昨日鸡鸣时气尽、举家大哭，父忽惊寤自言「我死，有三尺人来迎，欲升天，闻哭声，遂坠地」，与占断「父已亡、当上天、闻哭声、忽复苏、而有言」全合；「更三日，当永去」一条，原文以「果如言」结。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 17,
+  "anon_id": "P3-8f31fa8b",
+  "case_id": "LY-249",
+  "prediction_text": "断父必归：父母午火临日建而静，行人用神旺而有气、归象已定，只是静待逢冲而动身。应期以日为尺度，窗口在本旬内，主坐标取子日（冲午之日）父至家。",
+  "outcome_record": "果於申時到。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 18,
+  "anon_id": "P3-8f36e629",
+  "case_id": "LY-029",
+  "prediction_text": "终局单判：可愈（negative向转为有救，非不治）。自占病，世爻亥水月破、日克，近段病势重、见沉困；原神官鬼酉金发动生世且化未土回头生，远段有救应之路，病可渐退而愈。应期双层：窗口为出巳月后一个月内，主坐标亥日（亥水逢值、填实月破之支）。",
+  "outcome_record": "果卒於卯日（應卯日者，沖去原神、忌神共來克害）",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 19,
+  "anon_id": "P3-90bc9c28",
+  "case_id": "LY-202",
+  "prediction_text": "终局：财福中平偏薄（negative偏弱，非贫绝）。静卦雷天大壮，世爻父母午火得寅月木生、巳日临扶，自身立业有气；然妻财子水应爻休囚、逢巳日冲破，子孙申金福神被寅月冲破，财源与福源俱弱。终身靠自力劳作（意欲行医正合世旺自立）得温饱小康，大富无份。应期（年档）：窗口以年计，主坐标子年（妻财子水逢值逢生之年，财福转旺之期）。",
+  "outcome_record": "後果於寅年醫好富翁﹐厚贈讀書。午年一榜﹐富翁及親友又贈﹐援例縣令﹐未幾丁艱﹐及至補缺未幾﹐裏誤而歸﹐囊筐消然。應寅年者﹐寅年而實空。應午年發者﹐世爻而值年月﹐功名反覆而不久者﹐六沖之卦也。宦囊消索者﹐子水財爻絕於日也﹔",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 20,
+  "anon_id": "P3-90c46884",
+  "case_id": "LY-445",
+  "prediction_text": "占何日雨（三占合断）：有雨，应在卯日。初占父母卯木临旬空而动——雨亲动而逢空，待实空逢值而应；三占官鬼寅木空动、父母午火静而未月相，两占雨象同指木支值日。窗口为本旬之内（丙午日起九日内），主坐标卯日（父母卯木逢值填实之日）降雨落定；寅日只主阴云聚、未成雨。二占离为火静卦原文未附装卦，无从合勘，只以初、三两占定断，已降置信。",
+  "outcome_record": "果於寅日云卯日大雨辰日大晴。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 21,
+  "anon_id": "P3-90f002e0",
+  "case_id": "YM-002",
+  "prediction_text": "方向（单一终局）：兄弟之病可愈、不至不起。近段病势仍缠（兄弟午火得月合、病未即解），远段原神父母卯木发动生火、妻财申金动而化出子孙未土（医药之神现于变爻）制官鬼之水，鬼亥水旬空又在未月属死、静而不克用，源未绝故转愈。应期（日档，近病以日为尺度）：窗口自占日起一旬内，主坐标午日——用神兄弟午火逢值、月合待值而实，病见转愈。对象复述：愈否、病势主语均为占者之兄弟本人。",
+  "outcome_record": "后至酉月丁亥日，其病不治。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 22,
+  "anon_id": "P3-91b18044",
+  "case_id": "YY-018",
+  "prediction_text": "方向：夫病可愈（终局单判偏愈）。具体断语（主语逐条对回夫）：夫之用神官鬼巳火二爻应位，巳火戊寅月相、戊寅日日支寅木生扶，用神有气；原神妻财寅木上爻临月临日旺，生官有源。忌神子孙子水五爻世位发动克官，然子水寅月休、动化官鬼巳火——子化官为忌化用，其克力转而化出用神本身，且化神巳火得月日生扶有力，近段夫病有子水之扰（寒水之象），远段忌力化用、夫病转安。应期（日档，近病）：窗口为寅月内一旬，主坐标巳日（夫用神逢值之日见愈）。置信分层：愈方向中高置信。",
+  "outcome_record": "果死也。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 23,
+  "anon_id": "P3-92836747",
+  "case_id": "MH-006",
+  "prediction_text": "方向：老人凶象（negative）——老人短期内有跌伤之灾，忧色有据，非无故之忧。具体断语三条：① 对象：即途中所遇往巽方（东南行）的老人本人，应验不落旁人；② 事象：出行途中跌仆伤腿股（巽为股、为长木之象，体木受乾金克，主下肢筋腿之伤），伤在腿足一带、需扶持休养量级，非即时生死之断；③ 应期：窗口为当日起四日内，主坐标为第四日（四爻动之数定点）。量级守恒：以伤灾论，不放大为必死。",
+  "outcome_record": "果五日，此老赴席，因魚骨鯁而終",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 24,
+  "anon_id": "P3-9305fdb4",
+  "case_id": "DT-001",
+  "prediction_text": "负向：父病危重、不治倾向。父母子水为用，伏于初爻寅木之下不出，春月休囚又受未日土克、飞神寅木泄之，根气弱；原神官鬼申金虽独发动来生父爻，但申金春囚、且卦中子孙午火现而克金，救力被截，近段病势沉伏昏滞，远段原神续生不足、难转安。应期日档：窗口旬内数日，主坐标子日（子水填实逢值之日为转折/危期坐标，若届时仍不出伏则凶象坐实）。终局单判为不愈。",
+  "outcome_record": "以后果无事（父病无事）。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 25,
+  "anon_id": "P3-938072cb",
+  "case_id": "YM-054",
+  "prediction_text": "次女痘症凶险、终局难愈偏危（negative）。用神子孙卯木初爻临卯月旺建而发动，本有生气，却动化官鬼辰土——福化鬼、木化土泄气，化神又临丙辰日建有力，痘毒化病势坐实。近段子旺尚可支撑，远段化鬼逢值之期痘发转重、险象显。应期尺度为日档（痘症近病）：窗口为占日起数日内，主坐标为辰日——化鬼辰土逢值（占日即临）之危重转折点。",
+  "outcome_record": "次女无事；其后少男亦痘。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 26,
+  "anon_id": "P3-944e634a",
+  "case_id": "AS-008",
+  "prediction_text": "Essex能拿下Reading，城终将交出。Essex指示星火星虽在弱位却整体被加强、且与月亮互容（火星在月亮之家、月亮在火星界/面近轩辕十四又在十宫），月亮虽空亡后入相与火星成相（长升宫内六合等同刑之连结），主事情先滞后通。四宫主土星（守将）落弱，主守方无力；国王太阳在七宫固定宫主王军在场相持，故不是速克。应期以月档内日计：围困至四月下旬，主坐标约27 April城交付/投降，多半议降而非强攻屠城。",
+  "outcome_record": "Confirmed in the text: 'The Town was delivered for the Parliament's use the 27th of April... three days after the time limited by me was expired; but the very Monday before, being eight days after the Figure set, they began to treat.' Lilly adds the King's relief was beaten back at Caversham Bridge, the Governor (Aston) was hurt in the head (as Saturn in Pisces(?) afflicted by Mars denoted), and they did not want ammunition, as Venus in the 5th signified. See the year flag in inputs (1643 historically; OCR prints 1644).",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 27,
+  "anon_id": "P3-945980b3",
+  "case_id": "BZ-037",
+  "prediction_text": "方向：军政首脑格、位极而起落大。乙木生卯月得禄、亥卯拱旺，身强；己财透月、壬印透时、午火食神坐时支泄秀生财：身旺任财、食伤生财而财可生官（官金虽不现原局，运至金地即成权位），以军政起家位至总理／执政级元首级权位。其黄金时代落在火金相继之运：输入所记民七至民九（1918–1920）正值其权位顶峰一带与此理相合——火运泄秀生财、金运官星到位为峰值窗口；此前木水运比印助旺主根基与蛰伏，此后运退则权位速落、晚景平淡。财旺身强，富随权聚而权去财散。子女食伤午火，子辈平常。病位木旺水缩：肝胆、眼目与心血（午火受亥水遥制），晚防肝与心脑血管。",
+  "outcome_record": "史实：段祺瑞三任国务总理、1924-1926任临时执政（韦书成于1963年，「未执政」一语与史实不合，疑指其执政不稳/未久安，或版本文字之异——本数据集如实标为已知偏差点）；1918-1920确为其权势黄金期，与韦断三年相合；1936年卒",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 28,
+  "anon_id": "P3-946fa118",
+  "case_id": "AS-009",
+  "prediction_text": "狗能找回。寻向：往城内偏西、南方一季偏西之处找（狗指示星在西向星座、南季而趋西）。狗仍在伦敦：其指示星与上升同三方属性，主未出城。太阳月亮在八宫、月亮在日光下，主狗被遮藏、在暗处/人家收留遮蔽，不是明摆街头。应期以日档计：太阳于下周一入相与上升主土星成相，主坐标下周一找回/得消息。",
+  "outcome_record": "Confirmed in the text: a gentleman of the querent's acquaintance, coming by accident to see a friend in Long Acre, found the dog tied up under a table, knew it to be the querent's, and sent it home that same Monday about ten in the morning — 'to my very great credit.'",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 29,
+  "anon_id": "P3-968f1565",
+  "case_id": "LY-017",
+  "prediction_text": "正向：升迁可成。官鬼巳火持世临日建，任命文书父母未土发动化进（未化戌土序进），文书推进、官位得临日之扶；原神妻财卯木月破为唯一弱项，只压量级——升幅/实授之实偏薄、须待原神填实方全实。应期（月档）：窗口为占后一月量级，主坐标戌月——父母化进之神戌土填实之月为任命落实应点；戌日只作窗内近候选入 reasoning。终局单一：升。",
+  "outcome_record": "果升於卯月",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 30,
+  "anon_id": "P3-96a3ae95",
+  "case_id": "YY-023",
+  "prediction_text": "方向：说情难脱罪（终局偏不能脱、仍禁系）。具体断语：讼者世爻子孙酉金四爻（子孙为解脱之神），酉金丙子月休、丁卯日卯冲酉——休囚无根逢冲按日破，世/解神受冲破，主脱罪之力自伤；官鬼卯木二爻子月水生、临卯日旺，罪/官一线旺而有据；上爻父母巳火（按通例装卦作动）动化兄弟戌土、戌为火墓，父母文书/说情文书动化入墓，主托情文书入墓难通。纵有说情，只许减轻/迟滞，不许断脱罪出狱。应期（日档转月内）：窗口为子月内，主坐标酉日（世神逢值再定/复核之日，届时仍以不定脱为断）。置信分层：因题面动爻原文与装卦不合（见basis），全体降置信至低。",
+  "outcome_record": "后果然。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 31,
+  "anon_id": "P3-9915fac4",
+  "case_id": "YM-065",
+  "prediction_text": "仆将到、迟在一旬内（positive）。所占之仆行动有阻：妻财卯木三爻动而化兄弟申金回头克，途中受阻反复；父母戌土四动化兄弟酉金，酉临占日，文书/行踪之讯已动。子孙子水持世为仆辈之象，巳月囚而得酉金生，人在途可至。应期尺度为日档（问仆何日到，近事应日）：窗口为占日起一旬内，主坐标为申日——三爻化神兄弟申金逢值、行动落实之日，仆到。对象复述：到者为所占之仆本人。",
+  "outcome_record": "后及甲寅日乃至。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 32,
+  "anon_id": "P3-999f35d3",
+  "case_id": "LY-028",
+  "prediction_text": "正向（脱讼向，轻级）：弟弟被讼有惊险、有破耗牵连，但终可脱讼、不至重罪入狱。官鬼午火临月动而克用为近段之压；然官鬼动化兄弟酉金即用神之亲（官动化用），讼事之力转而归于弟身自解；用神兄弟酉金动化申金退，得未日土生，退主讼势渐消。应期（月档，讼事以月为量级）：窗口为占后一月内，主坐标酉日——用神逢值、兼官鬼化神逢值之日为脱讼应点。分层：主语逐条为弟弟本人；世爻妻财寅木逢空一节只主占问者一方耗费牵心，不并入弟之讼终局。",
+  "outcome_record": "果至午年甲月而被重刑",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 33,
+  "anon_id": "P3-9a3f62e4",
+  "case_id": "LY-454",
+  "prediction_text": "正向：道考可取中，名次在前列而非末取。父母申金持世发动、化酉金化进，文章与功名之象俱动；官鬼戌土临日辰。应期为日档：窗口为发案前数日，主坐标取申日（父母动爻逢值之日）见榜次。",
+  "outcome_record": "果取案首。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 34,
+  "anon_id": "P3-9ad99da3",
+  "case_id": "LY-339",
+  "prediction_text": "终局单一方向：自去寻父能寻回（正向）。两卦合断同指：初占妻财寅木二爻动而化出父母丑土，财动化父、寻人之路化出父星；再占世爻兄弟亥水四爻动而化出父母申金，世（自去寻者）动化父——两卦皆以动爻化出父母为收束，父星两见于化神，寻回之象互证。初占父母另两现：辰土世爻临辰月旺、未土五爻，父星本旺有气、人尚在而可寻；再占父母酉金五爻虽巳月休囚受克，主父处境弱、在外受困，量级上寻回费力而非寻不回。应期（月尺度转日坐标，行人类）：窗口为复占后一月内，主坐标取申日——再占化神父母申金逢值、父星得位而寻见之日。",
+  "outcome_record": "果于申年八月寻父回家．",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 35,
+  "anon_id": "P3-9c548bb2",
+  "case_id": "LY-014",
+  "prediction_text": "正向：求财可得。妻财两现，取临月建之应爻未土为主用——财旺临月而静，主财有着、量实；旬空之辰土财保留应验位，主另有一笔迟财待出空。应期（月档）：窗口为未月内，主坐标未日——主用神妻财未土逢值之日得财到手；辰日（空财出空填实）只入 reasoning 作应验位候选。终局单一：得财。",
+  "outcome_record": "果得於辰日（辰土出空之日）",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 36,
+  "anon_id": "P3-9dcf41b6",
+  "case_id": "LY-426",
+  "prediction_text": "开店贸易终局为得利（正向），但利迟而薄、且后段惹是非：妻财亥水虽空，须待出空后才见实利，窗口为本旬出空前后十日内，主坐标亥日（财逢值填实之日）利始落袋；先期只是客源虚动、无现利可收。子孙持世发动本主财源有动，然其化出官鬼寅木，后段防官非口舌与公门牵连，得利后勿张扬惹讼。动化方向：世爻子孙酉金→官鬼寅木（化神寅木不回头生克世金，金克木为本爻克化神），定性为财源动而化鬼、只调量级不翻得利方向；反转条件：源绝三征与化退化绝无生扶两路俱不成立，不反转。",
+  "outcome_record": "果於八月﹐因子賭博送官﹐子受杖刑而死。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 37,
+  "anon_id": "P3-9e47bda2",
+  "case_id": "LY-517",
+  "prediction_text": "方向：成（positive）——捐纳援例可入仕。财动生官、官旺发动，援例之费能打通关节而得职；等级只断入仕得缺，不拔高至显要。应期：月档，窗口巳月至申月，主坐标巳月（官申动而逢合之期，合动则事就）。",
+  "outcome_record": "後竟納之﹐名敗身喪。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 38,
+  "anon_id": "P3-a090897a",
+  "case_id": "YM-068",
+  "prediction_text": "逃婢可寻获、匿处主东南方近宅（positive，可获）。捕逃以妻财丁巳火为逃者之用，巳火持世而甲午旬空，逃者藏匿不出、方位随用支巳主东南；官鬼丑土三爻临辛丑日建，捕力临日有据，内卦近位主匿不远。应期尺度为日档（捕逃近事）：窗口为占日起至亥日，主坐标为亥日——亥冲巳、冲空冲世之日，婢被寻出获回。对象复述：被寻者为逃婢本人，匿处指其藏身处。",
+  "outcome_record": "而不知已堕于井。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 39,
+  "anon_id": "P3-a0dc9fba",
+  "case_id": "LY-027",
+  "prediction_text": "正向（临危可救回）：弟弟之病虽已临危，可救、不主夭亡。原神父母申金临日发动、化出兄弟亥水即用神本身——生源临日动而直接化用，绝处逢生之链成立；用神兄弟亥水得申日长生之生、有根可承。近段危象在官鬼土旺克水，远段据原神化用链断救应续入。应期（日档，近病临危）：窗口为占后一旬内，主坐标亥日——用神逢值之日为脱危转机应点；申日（原神逢值化用）已临占日、作窗界。分层：主语逐条为弟弟本人。",
+  "outcome_record": "果於本日酉時，得名醫救活，亥日痊愈",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 40,
+  "anon_id": "P3-a1996869",
+  "case_id": "OC-011",
+  "prediction_text": "方向：才艺成名极早、情劫致命、早逝无中年。己土生巳月印旺得生，庚辛食伤两透吐秀——主演艺天赋与银幕名声，少女即红；然乙杀透时、亥亥财旺冲巳印，财杀交攻而印根被冲，感情婚姻为全局破口：乙木夫星坐亥财、与食伤名气相战，主因情事与舆论受困、婚姻对象拖累。运程：庚辰运童年食神运起艺，己卯运（少女至二十余岁）卯杀合戌、亥卯助杀，名盛而情困极重；1935乙亥年杀财两透、亥冲巳印根断，寿关于此——年二十四五自毁早逝。性情：敏感多情、外柔内拗，易陷抑郁绝境。病位：巳亥冲——心肾、血分与精神情志为病字落处。子女缘未及展开。",
+  "outcome_record": "阮玲玉于1935年3月8日在上海自杀身亡，年25岁，死因与感情纠纷及舆论压力相关。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 41,
+  "anon_id": "P3-a1dfed64",
+  "case_id": "YM-044",
+  "prediction_text": "妻病可愈、终局向安（positive）。病神官鬼卯木旬空又逢酉月冲破，病势无根；医药子孙酉金临月旺相、持世发动且化戌土回头生，救应旺动有力，妻身得治。近段病象空破而虚浮，远段待妻财伏神逢值出现而身安。应期尺度为日档（近病）：窗口为占日起至子日一旬内，主坐标为子日——届时伏财子水逢值出现、福神续力，妻病转安痊愈。",
+  "outcome_record": "及冬病愈。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 42,
+  "anon_id": "P3-a2f65768",
+  "case_id": "BZ-301",
+  "prediction_text": "方向：衰败走向——至2022年进入明显衰亡阶段：失去执政地位、组织分裂与支持度崩落到历史低点，属阶段性灭亡（作为执政党的生命终结）而非组织字面消散。此后数年仍以在野残存，无力回主政。时间窗：衰势在2016–2020间已成形，2022年为衰亡阶段的确认点／低谷坐标。置信低：输入残损严重——无任何四柱、起运或排盘数据（仅有1912年建党谱系与2011年发问时点），无法按八字正法排盘立运，本断只能据发问时点与问题尺度作阶段方向判断，不臆补盘面。",
+  "outcome_record": "国民党在2022年九合一地方选举大胜（21县市长中赢得13席，含台北市长），其后持续正常运作至今，并未灭亡",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 43,
+  "anon_id": "P3-a4386c4f",
+  "case_id": "LY-254",
+  "prediction_text": "断此医不可用、用之无效，宜另觅医：应爻为医人，官鬼卯木临日而动化巳火旬空，医人之力化空落空；世持子孙申金临月旺，求测者自有福神药缘，不在此医。应期以日为尺度，窗口在本旬内，主坐标取巳日（应爻化神填实之日）即见此医无效之实。",
+  "outcome_record": "卯辰日服藥還保平常﹐巳日忽然變癥﹐徧身疼痛難當﹐病人著急而問予曰﹕可傷命否﹖予曰﹕世值日建﹐何如傷命﹖快服解藥﹐過此巳午日則止疼矣﹐卽服解藥至申日其病如常",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 44,
+  "anon_id": "P3-a4c48ab8",
+  "case_id": "OC-030",
+  "prediction_text": "方向：二事皆可成。淮扬巡按差可复，吏书缺可照旧。课得重审铸印，铸印主印信复铸、差缺重立，为复设类占之吉格；三传巳（太常）—戌（六合）—卯（太阴），太常发用主旧制常典恢复，六合中传主议合而成，太阴末传主暗中定局。应期以月档论：议复在本年春季内定局，主坐标取巳日/巳月太常值位之期，二缺存废以照旧复设收束。置信中高。",
+  "outcome_record": "未几，工科上疏题复巡按差，巡方官复设；吏书缺未复。原文以「以四课不全，故占二得一」收束，应验段独立。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 45,
+  "anon_id": "P3-a4df0842",
+  "case_id": "OC-016",
+  "prediction_text": "方向：以术数立名、名大于富、中上善终。庚金生卯月财旺，辛劫两透，子亥伤官水旺，辰印为根——伤官生财、劫财分财之局：主聪明以口才技艺（命理）谋生，青年戊子运伤官印并行即成名于沪上（命师声名峰值段在戊子、丁亥运，约二十至四十余岁）。财：卯财旺而劫透两辛，一生财来财去、因同业竞争与人情分夺破耗，积蓄中上而非巨富。官位无缘，贵在行业名望。晚年乙酉运财坐劫刃，仍业旧艺、声名在而财守，寿七十余善终。子女：官杀火只藏亥，子女缘薄而有。病位：金水旺木财受泄——肺、肾水与肝胆为病位，晚年忌寒湿之疾。",
+  "outcome_record": "韦千里终身以职业命师与著述为业，未入仕途显贵，晚年居香港，1988年卒。其一生轨迹与自断「笔耕终身、富贵无望」相合。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 46,
+  "anon_id": "P3-a62212ec",
+  "case_id": "BZ-021",
+  "prediction_text": "极贵威权之造：主以军政起家、位至首脑、权倾一时。己土生戌月比印得势，巳午火印生身，身旺极强；庚金伤官双透泄秀生威，丁印制伤护格——伤官佩印、身旺任泄，主谋略与统御俱全。大运初金水泄耗平常，廿九丁未、卅九丙午火土运印比助身任事为一生极盛段；四九乙巳后木渐克土，权位渐生波澜，晚岁癸卯运木土相战，威权退而困守。终局：一生极贵，盛极在中年火土运，晚景由盛转守。",
+  "outcome_record": "史实：蒋介石1927年起主政南京国民政府，丙午大运（约1926-1935，虚岁40-49）正值其北伐成功、权位鼎盛期；1949年（甲辰运末/乙巳运）败退台湾，与韦氏「甲辰运解组归田」之断在大陆政权层面相应（其本人未归田，退守台湾续任，此为本例已知偏差点，盲测比对时须注明）；1975年卒于台北",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 47,
+  "anon_id": "P3-a629e38c",
+  "case_id": "YM-009",
+  "prediction_text": "方向（单一终局）：摇会可得——此会归占者。用神妻财午火持世、辰月相而得寅日木生，原神子孙寅木临日建在初爻生财，忌神兄弟亥水辰月死而静、劫财无力，会财可入手。应期（日档）：窗口本旬（甲寅旬）内，主坐标午日——妻财午火逢值，会银到手/摇得此会。",
+  "outcome_record": "在癸亥日摇会，反不得。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 48,
+  "anon_id": "P3-a69005b6",
+  "case_id": "LR3-107",
+  "prediction_text": "方向：此人偏阴私不实之辈，来意须防，交之偏凶。三传子亥皆水乘天后、太阴，末传戌土乘玄武——三将皆阴，退茹递退主行藏退缩暗昧；戌为河魁主欺诈，玄武主盗贼遗亡阴私。子亥水虽生甲木日干，表面亲和，实主以柔暗相结、言不由衷，可能与妇人阴私或财物暗失牵连。应期定日档：窗口在占后数日，主坐标取戌日——末传玄武逢值见其行藏。",
+  "outcome_record": "后知为荆州知府王承曾，甲戌进士，以失城逮问，贼破燕京始出。科第（甲戌进士）、王姓、荆州知府、以失城逮问（获罪朝廷）、京破始出（无大咎得脱）均于应验段揭明。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 49,
+  "anon_id": "P3-a6afbd6b",
+  "case_id": "BZ-030",
+  "prediction_text": "方向：文政显贵、位至中枢，非武职亦非巨富。丁火生子月壬官当令，时透乙印、坐卯印、临巳火禄地，杀印相生而身得火根，较同日他造更偏文治与财经行政：官至院部级、最高可到阁揆／副阁揆级或大都市市长级，靠学识与行政资历上位。中年丙午、丁未一带火运为高峰运段（约四十至六十岁间最显），木运为其前导上升期；晚行水金运官星虽旺而身渐不任，宜退守清望。财星酉金孤悬，富在俸禄与地位不在商产。子女官星得令有成。病位水克火：心目、血压与肾寒，晚年防心脑血管。",
+  "outcome_record": "史实：俞鸿钧官至行政院长、上海市长、中央银行总裁；1960年卒",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 50,
+  "anon_id": "P3-a766a8d8",
+  "case_id": "YM-069",
+  "prediction_text": "方向：子未远走、可寻见（终局偏成）。具体断语：出走之子匿于西方至西南方近处——用神子孙酉金临应、上爻，所临酉支主西，本卦外卦坤主西南，两路同指西侧；地天泰六合、子孙酉与世爻辰土辰酉合，子被合住未远行，多在近处人家/土垣附近藏匿，非远逃。应期（日档，逃亡近事以日计）：窗口为占后一旬内，主坐标酉日（用神逢值、合神值日而见）。置信分层：方向中置信，方位两源同指较可恃，具体藏处为推测层。",
+  "outcome_record": "而不知相遇于岳家。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 51,
+  "anon_id": "P3-a837835d",
+  "case_id": "YM-060",
+  "prediction_text": "升擢向西方（positive）。静卦山雷颐，官鬼不上卦，伏于三爻妻财戌土之下，伏官酉金临酉月建旺气、飞神戌土生伏，伏而有力易出；方位随伏官之支，酉主正西。应期尺度为月档：窗口至辰月，主坐标为辰月——辰冲飞神戌土、伏官出现之月，擢往西方任所。",
+  "outcome_record": "后擢西北。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 52,
+  "anon_id": "P3-a8b756ff",
+  "case_id": "OC-026",
+  "prediction_text": "方向：功名可得，昆弟皆有喜。己亥日占，初四日课得涉害曲直，三传未（青龙）—亥（螣蛇）—卯（玄武）成亥卯未三合木局，曲直主木旺成局、青龙发用主功名喜信。今年功名有成：一人先得、一人随得，名次不至榜首而皆入选之象。应期以月档论：应在春季木旺得局之月内见榜信，亥卯未合局逢卯月/木日为窗口内主坐标。置信中。",
+  "outcome_record": "后知来占者为赵忻城昆弟；果于是年六月奉诏进京，授京营提督，甲申年又升京营戎政。应验段独立载于原文断语之后。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 53,
+  "anon_id": "P3-a98237b0",
+  "case_id": "LY-402",
+  "prediction_text": "方向：自陳無效、不成（負向）。陳狀達不到取效之果，官長一邊勢在退減，陳者自身反有受壓之象。應期雙層：窗口為本旬內（甲辰旬），窗口內主座標為丑日——官鬼辰土化退之化神丑土填實之日，退象落定、自陳見分曉（單位：日；近事申辯日尺度）。",
+  "outcome_record": "果於次年革職拿問。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 54,
+  "anon_id": "P3-a9f93dc5",
+  "case_id": "AS-215",
+  "prediction_text": "终局单判：此次西征败局收场，无功名之成。上升主土星无根无力（peregrine）且落陷居第二宫，月亮居弱地（detriment），龙尾居上升，多重凶象同集于主将本人；月亮别土星之三合后转向刑火星（其二宫与九宫主：财物、助力、远行），主军资与援助受损、远行生祸；福点又受第七宫主（敌方主星）支配，主运气与战利反归敌手。断语落事件级：出征无决定性胜利，反遭挫败、损兵失资，主将声誉受损，结局为被迫收束／失利而归，不主凯旋。应期尺度为月档：窗口为出征后数月内，主坐标取月亮刑火星所指之转折月，不报具体日。",
+  "outcome_record": "'The issue is this (for I write to Posterity): he prospered in the beginning, and I was daily by men of good quality and of authority jeered at, and derided for my former prediction... But behold, the eighth of September following came sad news, that the second of September this worthy man had surrendered all his Ammunition to his Majesty, having onely Quarter for his Souldiers' — the Lostwithiel surrender, 2 September 1644.",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 55,
+  "anon_id": "P3-aa2c3032",
+  "case_id": "LY-516",
+  "prediction_text": "方向明确：升迁得山东之缺，不得真定。初爻官鬼巳火发动化妻财寅木，寅木为东方之支、且回头生官，动官化出之方象指向东方山东；父母戌、丑两现为任命文书俱在。应期为月档：窗口为占后数月内，主坐标取寅月（官鬼化神寅木逢值之月）为得山东缺之期。",
+  "outcome_record": "果得眞定。又有以初爻爲內地﹐以五爻六爻爲邊缺。應初爻者﹐世與官星皆在初爻者是也。應五六爻者﹐或世在五爻﹐官在六爻﹔或世在六爻﹐官在五爻﹔戌土官星持世﹐同在五爻六爻是也。若在二三四爻以五行決之。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 56,
+  "anon_id": "P3-ab9c0dc6",
+  "case_id": "LY-227",
+  "prediction_text": "终局单一方向：positive（乡试有望中式，迟而后成）。初占六冲只主先阻先散，再占父母巳火发动化官鬼寅木回头生父、父化官成局，文书与功名两线在再占接通，按再占终局断可中。应期月档（发案尺度）：窗口为父母动逢值逢合之期，主坐标取巳月/巳支期（父母巳火逢值；功名发案对表『动者逢值逢合之日』，尺度按乡试发案取月档，主坐标为巳支月）；亥合只作备选入依据。",
+  "outcome_record": "果得成名。凡得六沖卦﹐官父世爻俱旺者﹐不必再占﹐竟許必得。如父旺者﹐須再占一卦﹐再得吉者﹐以吉斷之﹐後卦凶者﹐卽以凶推。凡得六合卦﹐亦要官父世爻得地﹐有一失陷不遇生扶者﹐𨿽六合亦無益矣。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 57,
+  "anon_id": "P3-abac09f0",
+  "case_id": "LY-607",
+  "prediction_text": "弟癌症临危，终局凶向难愈：近段父母申金动化兄弟亥水回头生、又得申日生扶，病势可暂稳一程；远段官鬼戌丑土旺克亥水、病已临危之事实在前，续命之力不敌病势，远段转危。危期尺度日档近病：窗口旬内，主坐标戌日——官鬼戌土逢值克用之日为转危应点。",
+  "outcome_record": "果於本日酉時遇名醫救活也，至己亥日以全生。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 58,
+  "anon_id": "P3-abc88861",
+  "case_id": "LY-102",
+  "prediction_text": "终局单判：病有救、可治（positive），且卦象不支持恶性脑瘤之实：官鬼子水为病，戌月休囚、又逢丑日合住，病爻无力；子孙辰土发动克子水制鬼，福神动而化巳火回头生，医药得力；世爻子孙戌土临月旺相，病人根气未亏。近段昏倒病势见重，远段复查当推翻或修正脑瘤诊断、转保守治疗而安。应期双层：窗口三日之内，主坐标寅日（上爻父母寅木动爻逢值、消息/复查定论之日）。对象复述：病势、愈否主语均为患者本人。",
+  "outcome_record": "第二天手术前再次检查，发现不是脑瘤，而是血管堵塞引起，钻孔放血后即愈（书内自述，与医院原诊断相反且被复查证实，是本卷可证伪性最强的占例之一）",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 59,
+  "anon_id": "P3-abfafd2f",
+  "case_id": "LY-342",
+  "prediction_text": "方向：今日無人還銀（負向，就所問『今日』而言）。銀子今日不到手，欠者一方今日不來還。應期雙層：窗口為數日內至出墓之日，窗口內主座標為戌日——妻財亥水入辰月之墓，戌沖辰開墓之日始有還銀之望（單位：日；近事日尺度）。",
+  "outcome_record": "果于本日巳时还一半，乙酉日巳时还清一半者．",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 60,
+  "anon_id": "P3-acb6dafa",
+  "case_id": "LY-009",
+  "prediction_text": "负向（终局单一）：母亲血崩难止、病势危重难愈。近段崩漏仍不止、元气续耗；远段无有力救应续入，医药（子孙戌土动而逢空）见效甚微。用神父母卯木虽临日辰，终不敌旺相忌神申金动克。应期（月档，先定终局再定应期）：窗口为占后一月内，主坐标申月日量级取申日——忌神妻财申金逢值克用之期为危重应点；冲去申金之寅日只作解法候选入 reasoning，不作主坐标。分层：主断语落于母亲本人（承受对象=应验对象=母）；子孙两爻之应只主医药无力，不转断他人。",
+  "outcome_record": "果卒於丑月",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 61,
+  "anon_id": "P3-acca023c",
+  "case_id": "LY-307",
+  "prediction_text": "断必有雨：父母未土为雨用，两现同支、临未月建而旺、又得戌日扶，雨象极盛；子孙（主晴）不上卦，晴象无力压雨。应期以日为尺度，窗口在三日内，主坐标取丑日（冲未动雨之日）雨至，雨势不小。",
+  "outcome_record": "果至其日申酉時得雨五寸",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 62,
+  "anon_id": "P3-ad3f92f9",
+  "case_id": "LY-543",
+  "prediction_text": "兵到可避得免，一家宜向南避（子孙午火方位），忌往西、西北官鬼申戌之方，忌北向父母子水空陷之处。应期尺度日档（兵临即时）：窗口当日即动，主坐标卯日（占日乙卯当日）——即日南避为应点，迟则官鬼申金临月之势压近。",
+  "outcome_record": "彼回即领家眷往东去，后来覆我曰平安，惟其弟牵念父母往探之，行至半途遭害矣．",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 63,
+  "anon_id": "P3-ada819d5",
+  "case_id": "LY-603",
+  "prediction_text": "自占病凶向，病重难愈：世爻父母亥水月破、休囚受日克，病神官鬼酉金动而得回头生，近段即危、远段无有力药神续救，终局按重危不治一边断（等级：重危难愈，不直断具体死日）。危期尺度日档近病：窗口旬内，主坐标未日——土克水之克神逢值（化神未土同指），病势转危在此日一带。",
+  "outcome_record": "果卒於癸卯日，應卯日者沖去元神之日也。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 64,
+  "anon_id": "P3-ade41d4b",
+  "case_id": "AS-208",
+  "prediction_text": "鲁珀特亲王不会在此战中得荣誉，也不会压倒Essex伯爵；占上风的是Essex。鲁珀特以十宫及其主太阳论，太阳游离且在固定星座落陷（水瓶陷位），其主宰又被对方收管：Essex的金星（对宫之主）与土星互容、且金星管制鲁珀特的太阳，金星又以右相临十宫头，月亮以左相临十宫头——十宫（其荣誉）受对方之星左右。断为鲁珀特声名受挫、出师无功或败绩，Essex保住地面与优势。应期以月档计：Edgehill之后数月的冬季战局内见挫。",
+  "outcome_record": "Mixed, and recorded with Lilly's own correction: 'I positively affirmed, Rupert should never prevaile against the valiant Essex, &c., nor did he'; of the custody judgment, 'an errour in part I confess it was, yet... it was very neer truth, for in 1646 he was besieged in Oxford, and after surrender thereof... he was then at the mercy of the Parliament, and in their mercy: but they... let him depart... and so he escaped.'",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 65,
+  "anon_id": "P3-ae61fb24",
+  "case_id": "LY-455",
+  "prediction_text": "正向而量级受压：岁考可入等第，列中上等（二等前列上下），不到案首一等之首。官鬼酉金申月旺相、五爻发动化未土回头生，功名主线强；但妻财未土上爻动克世父母亥水，文章有瑕、名次被压一档。应期为日档：窗口为考后数日，主坐标取酉日（官鬼逢值之日）定等第。",
+  "outcome_record": "後果取超等補稟。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 66,
+  "anon_id": "P3-ae9ec87f",
+  "case_id": "WP-004",
+  "prediction_text": "Direction: The conference panel predicts Hillary Clinton will win the 2016 US presidential election, defeating Donald Trump on 8 November 2016. This records the panel's consensus forecast (Clinton victory). Confidence moderate (as a record of the panel prediction).",
+  "outcome_record": "Donald Trump won the 2016 election in the Electoral College (304 pledged electoral votes) despite losing the popular vote, and became president.",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 67,
+  "anon_id": "P3-afba26e9",
+  "case_id": "LY-417",
+  "prediction_text": "方向：女病可愈（正向）。應期雙層：窗口為本旬至次旬初數日內，窗口內主座標為未日——主用子孫未土逢值之日，化進之勢落定、病見轉愈（單位：日；近病日尺度）。近段：病仍纏擾（次占子孫亥水受日克化空）；遠段：主占子孫化進且化神臨日，觸發為五爻子孫未土動化戌土進神，病向愈。",
+  "outcome_record": "果於寅日全愈。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 68,
+  "anon_id": "P3-b07e37ff",
+  "case_id": "BQ-025",
+  "prediction_text": "负面：新收养蜜蜂养不住、无利且有损。屯之坤，兄弟与官鬼俱发动，卦中又无妻财——兄动主耗散争扰、鬼动主病害惊扰，无财主无蜜可收、无利可图，蜂群主飞失/病损/渐散，终局以散失无获收。应期双层：窗口为八月本月内（月档，仲月养蜂事），主坐标为兄鬼动爻逢值之日（支未明，止于窗口内动爻值日）。",
+  "outcome_record": "「未半日，群蜂满身攒聚，惊惶无措」——占后不到半日，群蜂满身攒聚，占者惊惶无措。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 69,
+  "anon_id": "P3-b0aa557f",
+  "case_id": "LY-606",
+  "prediction_text": "兄官事不利难脱，凶向：兄弟申金旬空又逢日冲、月内死绝无气，官鬼有气在位；官动化父母辰土只主文书转圜、量级减轻，不翻脱罪终局。应期尺度日档近事见分晓：窗口本旬内，主坐标申日——兄弟申金填实出空之日，官事结果在此日见定。",
+  "outcome_record": "後因父年八十，援例恩畱免死。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 70,
+  "anon_id": "P3-b0b6fee0",
+  "case_id": "LR3-104",
+  "prediction_text": "方向：上疏偏凶，疏不被纳、主勾连稽留之祸。初传酉金父母乘勾陈生日干而带斗讼勾连，中传丑土官鬼乘太常克癸水日干主官意压身，末传巳火妻财乘贵人只主终有贵人留余地、保人不至大祸；从革金局主革变肃杀，绝嗣主后续断绝。朱雀、天空奏书正神不入传，奏达无凭。应期定月档：窗口至巳丑之月，主坐标取巳月——末传逢值见旨意向背。",
+  "outcome_record": "后果以上章荐人，下狱拟配。上疏后下狱拟配，与「得罪君相、于公不利」对应。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 71,
+  "anon_id": "P3-b1b355da",
+  "case_id": "AS-209",
+  "prediction_text": "两问分断。其一，国王能从爱尔兰征得援军来对议会，但迟缓：国王月亮在巨蟹十宫自宫、增光、无凶害，只病在行动迟缓，主其事终成而慢；十一宫（援助）主太阳在七宫擢升、正趋向十一宫头尚差6°、且正对冲上升（议会），主援军得力并将与议会为敌。应期以月档计，6°约六个月量级援军成行。其二，王后会进军南下与国王相会，但进军后运势转落、不算昌盛：王后指示星土星正换宫入白羊落陷，主移动本身即入弱地；月亮距三合土星尚差3–4°，主坐标约3–4个月内夫妻/两军相会，会后王后一侧势衰而非大胜。",
+  "outcome_record": "'The truth is, he had Irish Forces came over, which much hardned the hearts of the English against him, but time cut them off... at the Siege of Nantwich, by valiant Fairfax'; 'The truth is, she met him about the 14. of July 1443 [sic — misprint for 1643] in Warwick-shire'; and at the April aspect, 'about Nottingham she lost some Forces'.",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 72,
+  "anon_id": "P3-b22b8d76",
+  "case_id": "LY-016",
+  "prediction_text": "负向（轻级）：当日见官受审不利——世爻官鬼午火逢日辰子水冲克而无气，主当日受冲受责、有惊有压，不至重罪入狱之级：子孙子水临日辰为解神临日，事终有解、责轻可了。应期（日档，所问即当日见官）：窗口为当日，主坐标子日（占日当天）即应。终局单一：见官不利而轻、可解脱。",
+  "outcome_record": "果於本日見官責杖二十",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 73,
+  "anon_id": "P3-b2500f4c",
+  "case_id": "YM-004",
+  "prediction_text": "方向（单一终局）：子病可愈、不死，但愈迟——子孙伏藏待出，近段病仍沉，远段伏神得日生与动爻生扶而出、病退。应期（日档，近病）：窗口一旬内，主坐标子日——伏神子孙子水逢值而出，病见转机向愈。对象复述：愈否主语均为占者之子本人。输入残损：原书未记月建，旺衰缺月一层，置信下调。",
+  "outcome_record": "后至亥令而痊。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 74,
+  "anon_id": "P3-b2646ab5",
+  "case_id": "LY-610",
+  "prediction_text": "官之升迁难成，凶向：世官寅木临月虽旺，子孙申金临日发动克官、又逢申日冲世，剥官之势叠加，升迁此轮落空。应期尺度月档（升迁以月为度）：窗口寅月内见定，主坐标辰日——子孙申金化神兄弟辰土填实之日，剥官定局在此日一带（日档坐标落月窗内）。",
+  "outcome_record": "果於三月升任云南太守，卽升者乃因爻得水局生扶，應三月者辰土出空之月也，應云南者，世與官星皆在六爻之故耳。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 75,
+  "anon_id": "P3-b2e54ed6",
+  "case_id": "YY-013",
+  "prediction_text": "方向：求财难得、得亦复失（终局偏败）。具体断语：用神妻财亥水五爻应位发动，本为财动可求，然亥水动化父母巳火、亥巳相冲化冲散，且兄弟丑土两现克财（土克水），财动而被冲克两路夹击，主财到手边又因费用/文书（化父母）散去，净得无几。上爻子孙酉金动化官鬼卯木，原神动而不化财、反化官，财源转成官费/手续之耗。应期（日档）：窗口为卯月内一旬，主坐标巳日（化神值日、冲散见破耗之日）。置信分层：难得方向中高置信，破耗具体名目为推测层。",
+  "outcome_record": "次日戊申，财爻绝处逢生，方入手也。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 76,
+  "anon_id": "P3-b30b90a4",
+  "case_id": "AS-205",
+  "prediction_text": "病人会死、病不可救回。上升被一兼主八宫之星以本体临宫最重地损害，六宫固定且受害，六宫主在固定土性忧郁星座，太阳（时光）与六宫主土星在固定星座成完好对冲，月亮近龙尾且在上升受害——生气被八宫、六宫、土星三路同压，无救星入相解围。病为土星性固定土象的忧郁壅塞重疾。应期以月档计、先不落日：固定星座主拖延，危机在当前对冲成象之本月尺度内，主窗口数周至一月内见终局。",
+  "outcome_record": "Of the disease: 'all which was true'; of the event: 'The sick dyed the 28th of July following' — twelve days after the figure of 16 July 1645.",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 77,
+  "anon_id": "P3-b37e8036",
+  "case_id": "LY-324",
+  "prediction_text": "终局单一方向：友父之病危重、终局不愈（负向）。父母申金为用，四爻发动却化出妻财午火，午火克申金——用神动化回头克，克神午火得辰月土泄有限、火气有根，回头克无解（无冲午合午之爻解克）；甲寅日又冲申金，动爻逢日冲、病体受激。五爻官鬼戌土应动化父母申金，病邪动而化向用神、病势缠身不解。近段寅日冲父病转急，远段待午火回头克应时病危。应期（日尺度，近病）：窗口为占后一旬内，主坐标取午日——化神午火逢值、回头克落实之日为危期。",
+  "outcome_record": "后果午时寿终．",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 78,
+  "anon_id": "P3-b3ed5d96",
+  "case_id": "MH-007",
+  "prediction_text": "断少年之喜在婚事定亲：终吉。少年喜形于色而自言无喜，实有婚聘之喜将成——有束帛一类聘礼送至、亲事议定，归于家人之喜。应期以日档计：窗口旬内，主坐标五日（动爻五、束帛之约在近旬落定）；先小吝（当下口头否认、礼数未备）后终吉，非财喜官喜，而是婚喜。",
+  "outcome_record": "至期，果然定親",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 79,
+  "anon_id": "P3-b525f0b9",
+  "case_id": "BQ-011",
+  "prediction_text": "终局单判：此官讼凶多吉少，占者一边吃亏落败。官鬼冲克世爻主官势压身、祸自官来；财爻又动，财动生鬼，等于以钱财资敌、破财而鬼势更旺，主破财消灾或赔钱了事；幸日辰有扶起之力，不至最惨一档——降格依据即在此：有日扶，故断败而有缓冲、破财可了，不直断重罪入狱一级。应期按通则（k）定为月档：窗口为数月内，主坐标取官鬼逢值之月一档为祸应之时，不并陈第二主坐标。",
+  "outcome_record": "「果被妇人执罪」——周焚松果被一妇人告发/执罪。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 80,
+  "anon_id": "P3-b6588020",
+  "case_id": "LY-246",
+  "prediction_text": "断孕为男胎，母子平安：子孙午火伏于三爻兄弟申金之下，午火为阳爻子孙，主男；伏神辰月相气、飞神发动遮压松动，胎象可出而安，妻位虽有化克小扰不至伤胎。产期以月为尺度，窗口在临产之月，主坐标取午月（子孙午火逢值之月）分娩。",
+  "outcome_record": "果於壬申日生女﹐產母平安。覺子曰﹕占妻平安及占男女﹐原宜分占﹐彼若閒時而問兼問者﹐還可同斷﹐若在臨產危急時而問者﹐切不可以男女而斷。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 81,
+  "anon_id": "P3-b660923e",
+  "case_id": "LY-505",
+  "prediction_text": "正向偏迟：府尊能复职，三占合看官星屡现、三占官鬼申金动化酉金化进，复职之机在后段落实，非卯月即时。应期为月档：窗口为占后数月内，主坐标取申月（官鬼逢值之月）复职见定。初占再占官静而旺弱参半，只作迟象量级，不翻三占化进主向。",
+  "outcome_record": "又本府府尊命下﹐不準復職﹐後援刑例果於巳年補陜慶陽府知府。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 82,
+  "anon_id": "P3-b7f8b00f",
+  "case_id": "MP-018",
+  "prediction_text": "方向：负面，曾俊华不能当选。曾俊华民望为候选人中最高，但特首由选举委员会产生、北京支持取向决定成败，传媒已指林郑获北京支持占优，曾俊华属陪跑；民望高只成声势、不成票数。最终由林郑月娥当选。应期：单位月，窗口2017年3月、主坐标2017年3月26日投票日落败揭晓。",
+  "outcome_record": "林郑月娥以777票当选，曾俊华得365票落选",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 83,
+  "anon_id": "P3-b82a29da",
+  "case_id": "YM-007",
+  "prediction_text": "方向（单一终局）：出门之子尚存、生还向——子孙现于变爻亥水，申月得金生、相而有气，又近子日水扶，不作已亡断。近段音讯未通、家中悬念，远段得消息/人归。应期（日档转旬窗）：窗口一旬余内，主坐标亥日——变爻子孙亥水逢值，消息至/人归以此为期。对象复述：存亡主语为占者之子本人。",
+  "outcome_record": "（亥月甲辰日）子孙反得平安而归。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 84,
+  "anon_id": "P3-b8dff968",
+  "case_id": "AS-011",
+  "prediction_text": "这门亲事能重新撮合并办成，只是须男方先开口、且靠中间人传光。女士太阳为升主，男士土星为七主，土星与火星合于固定土宫南角主旧怨与体面僵持；月亮空亡入相对冲太阳主先有阻隔。但木星擢升入相六合七主土星、并把土星之力转交升主太阳，其间无禁止/截断/挫败，相位于6月27日完善，这是成事主链；金星与月亮、太阳与金星的接纳助女士体面下台。应期以日档计：男方宜于6月19日近午先行动，主坐标6月27日议定/成局。",
+  "outcome_record": "Confirmed in the text: 'My counsel was followed, and the issue was thus: By the Gentleman's means and procurement, the matter was brought on again, the Match effected, and all within twenty days following, to the content of the sorrowful (but as to me unthankful) Lady.'",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 85,
+  "anon_id": "P3-b9876e5d",
+  "case_id": "LY-501",
+  "prediction_text": "正向偏迟：候文书可得领，但须待伏神父母出伏，非即日。父母巳火伏于妻财亥水之下，得卯月木生而有气，日辰辰土克飞神亥水、飞压得松。应期为日档：窗口为数日内，主坐标取巳日（伏父母逢值之日）领得文书。",
+  "outcome_record": "果得於甲午日。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 86,
+  "anon_id": "P3-ba4bbc37",
+  "case_id": "LY-614",
+  "prediction_text": "终局单一方向：兄病可愈、不致命（positive）。近段：占时申月内病势仍重、缠绵受克，官鬼戌土发动克用神兄弟子水，医药子孙寅木空亡死于申月，药力暂不到位，近段凶险勿轻心。远段：原神父母申金临月建旺而发动生子水，救源未断；官鬼戌土动化父母申金，化神申金转生用神，病势化出救神；子孙寅木出空得药后转机立见，远段向愈。应期双层：窗口为本旬十日内（寅卯出空之旬），窗口内主坐标为寅日——寅日填实子孙医药、又以木克官鬼土为解法，两路合流定愈期主点。病位不妄断：取象爻位与五行两路未成完整交集，只断病势层级。",
+  "outcome_record": "至戊申日沈屙復起，其可謂之蛇動死，虎動主喪耶？",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 87,
+  "anon_id": "P3-ba54c779",
+  "case_id": "LY-333",
+  "prediction_text": "终局单一方向：子久病不愈、病势危重（负向）。子孙申金为用（子病以子孙为子本人之星兼福神），申金在寅月被月建寅木冲破——月破；又值甲午日午火克金，用神月破而受日克、休囚无气。生金之原神兄弟土爻：辰土三爻旬空、戌土上爻静而受寅木克，原神空静无力续生，源弱近绝。世爻父母午火临旺克申金，克用之力在世。久病用神破败无救，近段寅月内病沉，远段无原神续命之路。应期（日尺度转月内）：窗口为占后一月内，主坐标取申日——用神逢值而值其月破之支，破象落实、病转危之日。",
+  "outcome_record": "果死于本日辰时．",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 88,
+  "anon_id": "P3-ba7a940b",
+  "case_id": "OC-009",
+  "prediction_text": "方向：贵显——以外交立身至顶层（受输入残损限制，只定到此层级）。命主已历任驻外使节与内阁职务（输入给定事实），据此一生仕途主线为外交顶层与阁员级、国际声望高；财富居显宦之厚、婚姻与仕途行运细节因四柱缺失不定。应期/时间窗：只能定在中年段（约三十至五十岁）为历任要职的高峰窗口，运名与流年无法定点。晚年方向为退居著述、以元老声望终，寿数不定点。",
+  "outcome_record": "顾维钧外交生涯长达数十年，历任驻美大使、国联要职、国际法院法官等；其妻黄蕙兰与其婚姻于1950年代结束（离婚）；1985年卒于纽约，享年97岁。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 89,
+  "anon_id": "P3-bb2814b4",
+  "case_id": "LY-255",
+  "prediction_text": "断后沟从后流宜、修沟之后反吉：再占世爻妻财未土发动化官鬼申金——财动化官，修举之后官星化出临世线，连任不得升之局有转机，修后官运向好。应期以月为尺度，窗口在数月内，主坐标取申月（化官申金逢值之月）见升转消息。",
+  "outcome_record": "後於申年升任﹐應申年者﹐值官之年也。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 90,
+  "anon_id": "P3-bbc835f4",
+  "case_id": "OC-015",
+  "prediction_text": "方向：君主贵极、一生稳位善终于七十上下。甲木生巳月，辛官透月，子印坐时，辰丑财印之根并存——食神月令而官印相生，主守成之君：即位在中年丙子运（食印并行、官印得子水润局），此为一生峰值段（登位与稳位）。早年庚辰至戊寅运财食交见为王储历练段。晚年乙亥运亥冲巳月令食神，君位仍在而体势转衰，1930年代中段、年七十左右为寿关，病终方向在肺/呼吸系统（巳火受亥冲、金官受损，病字落巳与辛）。子女：官杀为子星辛透，承继有续、王位有传。破耗之因：财星辰丑厚而身任，一生无财破，耗在王室典礼与战争年代之国事。",
+  "outcome_record": "乔治五世青年时环游世界、任海军军官，1891年患伤寒，1892年长兄阿尔伯特·维克多逝世，1910年（庚戌）登基，1936年1月20日崩。事历大势与韦氏所论多合，但韦文「辛亥年（1911）登基、47岁」与史实（1910年登基、时年44/45岁）有出入。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 91,
+  "anon_id": "P3-bc32248c",
+  "case_id": "DT-004",
+  "prediction_text": "正向偏弱：子病可愈、但须防反复。子孙为用，两现戌土（应）与丑土（二爻动），秋月土相有气；丑土发动克世爻官鬼亥水，子孙制鬼、医药得力，是愈之主线。然日辰庚寅木克子孙土，官鬼亥水持世得秋金生而旺，病势本重，近段仍缠；远段待子孙填实制鬼之期转安。应期日档：窗口旬内，主坐标丑日（动用神逢值、制鬼之日）。终局单判为可愈，等级只到可愈、不作速愈。",
+  "outcome_record": "其子果死（原文作『其子果死不救』）。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 92,
+  "anon_id": "P3-bc8ab36e",
+  "case_id": "WP-013",
+  "prediction_text": "方向：工党（Labour）在 2024-07-04 英国大选中获胜，斯塔默（Keir Starmer）出任首相，保守党下野，且为幅度明显的胜利（工党议席过半数较多）。应期：日档，2024-07-04 投票当日夜间计票定胜，主坐标 2024-07-04。",
+  "outcome_record": "Labour won the 4 July 2024 general election in a landslide (411 seats); Keir Starmer became Prime Minister, ending fourteen years of Conservative government.",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 93,
+  "anon_id": "P3-bc92230f",
+  "case_id": "LR2-022",
+  "prediction_text": "负向极重：弟观初之病必危、三日内死象。课得重审兼铸印，铸印入疾病门格义反转——疾病门成文：课得铸印占病不吉、三日必死，不许以铸印在仕宦章奏门的迁擢吉义作愈读。三传巳火乘天空、戌土乘螣蛇、卯木乘太常，与铸印构成巳戌卯全合；丁日据之，传中无子孙福德加临年命之实据可抵死格。应期日档：窗口三日内，主坐标巳日（初传发用逢值、铸印炉火应期坐标），三日为成例尺度上限。终局断死，不留愈期。",
+  "outcome_record": "张友不言而去。顷焉一人至复占（白虎发用、丧吊全逢，三日内死者），张友又请吕纯阳下降判白数合于数，果三日死。同日复占与扶乩复核均同断，结局「果三日死」载原文。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 94,
+  "anon_id": "P3-bcdf88ab",
+  "case_id": "OC-025",
+  "prediction_text": "方向：应验。椅底预书之事届期必验——到预书所记年月日，椅子将被坐破，破在坐者压坐之时，应验对象即邵家此椅本身，非他椅、非人身之灾。具体：物品=自家之椅，事件=届期坐破，与预书文字一一对应。置信中高。",
+  "outcome_record": "届期果有道者来访，坐破其椅，与预书相合。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 95,
+  "anon_id": "P3-bd11c74a",
+  "case_id": "BZ-016",
+  "prediction_text": "大贵至极之造，一生格局最高一档：主登极位、威权独揽、寿数绵长。庚金生酉月当令而旺，辛劫助身，丙丁官杀齐透炼金——金旺得火炼成大器，官杀炼而不伤身（有辛金比劫分杀、午子中癸水调候），为金火既济、真贵之局；中年以后金水木运迭行，权位与寿元俱足，终局为帝王级贵命，晚景不坠。",
+  "outcome_record": "史实：弘历1735年即位为乾隆帝，在位60年（实际掌权63年余），1799年卒，享寿87岁，为中国历史上最长寿、实际掌权最久的皇帝，统治期为康乾盛世后期",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 96,
+  "anon_id": "P3-be92ef4f",
+  "case_id": "BZ-039",
+  "prediction_text": "方向：文名与清望并重的政坛长青格。甲木生辰月，戊己财土双透围木，甲根在卯、印在子壬：财旺身偏弱而印星壬子得申金生源，成财印交战中印能化申杀生身之局——以文章、书法与清节立名，官至监察／考试级院长级清要高位且任期极久，靠资望而非实权兵财。中年行水木运（印比扶身任财）为高峰运段，声名官位俱在此立；早年土金运财杀压身最辛苦，晚年木火运清望著述、寿高。财旺主早年家计与人事耗费多。子女官杀申金得辰土生，子女有成而缘分聚少。病位土旺木受克、水土交战：脾胃、肝胆与肾水，晚防脾胃与筋骨。",
+  "outcome_record": "史实：于右任官至监察院院长（任职31年），书法宗师，一生以公务与文字劳碌著称；1964年卒于台北——与韦断相合",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 97,
+  "anon_id": "P3-bec2f1da",
+  "case_id": "MH-002",
+  "prediction_text": "方向：花事败象（negative）——此圃牡丹盛极而损，短期内遭摧折凋落，非久盛之数。具体断语三条：① 应验对象即所观牡丹花本身：花将被风雨或人为摧折、瓣落枝损（物品/对象具体）；② 损不至全圃尽毁：体巽木三月春旺能任其克，主损在当盛之花数朵至一丛、旁枝可存（数量/程度具体）；③ 应期：窗口为当日起三日内，主坐标为次日（用克体速应、变鼎火旺于春木生火泄秀而速败）。量级守恒：所问只及花事，只断花之荣枯，不及人事吉凶。",
+  "outcome_record": "次日午時，果有貴官觀牡丹，二馬相齧，群至花間馳驟，花盡為之踐毀",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 98,
+  "anon_id": "P3-bf51e17d",
+  "case_id": "MP-010",
+  "prediction_text": "断郭台铭无当选之相、不会当选2024总统：被点名者中最有当选之相者为赖清德。郭台铭即使投入参选亦难整合在野、最终不会登记到底或参选亦落败，不成局。应期以年档计：2024年1月投票见终局。",
+  "outcome_record": "国民党2023-05-17征召侯友宜而非郭台铭；郭台铭独立参选连署后于2023-11-24宣布退选，未成为候选人；2024-01-13赖清德当选总统",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 99,
+  "anon_id": "P3-bfbb2e18",
+  "case_id": "BZ-028",
+  "prediction_text": "军政高贵之造：主以杀印相生成军中显职，位至方面统帅/副统帅级，权位仅次于最高一档。丁火生子月，壬杀当令透月，丁卯日印坐支，甲印透时、辰土食神制杀有分——杀旺有甲卯双印化之、辰食制之，杀印相生格成，主儒将型权贵（能文能武、得长官倚重）。运程木火运印比扶身化杀为升段，金水运杀重身危防起落，晚运转火土得安。终局：一生高位显宦、善终，贵级定为次极品（印根在支、身不算极旺，不作最高一档）。",
+  "outcome_record": "史实：陈诚官至中华民国副总统、行政院长，为三人中位望最高者——与韦氏以时辰分贵贱、许陈诚为最贵相合；1965年卒",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 100,
+  "anon_id": "P3-c052e04c",
+  "case_id": "LY-033",
+  "prediction_text": "终局单判：自病可愈（positive），进程偏迟。世爻官鬼亥水得戊子日之扶，妻财申金原神发动、化未土回头生金，原神有源生世；唯申化未土临旬空，原神之力待实，近段病势缠绵，远段实空之后渐愈。应期双层：窗口本旬之内，主坐标亥日（世爻亥水逢值之日）。对象复述：愈否主语为占者本人。",
+  "outcome_record": "至立春日果死",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 101,
+  "anon_id": "P3-c0565918",
+  "case_id": "DT-005",
+  "prediction_text": "正向：子病可愈。子孙亥水为用居应爻，冬月水旺有根；五爻兄弟酉金独发，金生水，原神一系发动来生用神，医药与生机同到。官鬼午火冬月休囚，克金之力弱、病势不旺，日辰戌土虽克亥水，只作近段一层压制，待水值之期即解。近段病仍在身，远段原神生用不绝、转愈。应期日档：窗口旬内数日，主坐标亥日（用神逢值之日为愈期主坐标）。终局单判为愈。",
+  "outcome_record": "果然无事（子病无事）。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 102,
+  "anon_id": "P3-c0dbdbc9",
+  "case_id": "MP-013",
+  "prediction_text": "断柯文哲没有总统命（至少2024年不当选）：2018年台北市长连任可惊险过关、小胜连任成功；2024年总统大选会参选并取得可观票数居第三，成为关键少数，惟不当选总统。应期分段以年档计：2018年11月连任应点、2024年1月总统落败应点。",
+  "outcome_record": "柯文哲2018年以3,254票险胜连任；2024年总统大选得票第三落选；2024年8-9月因京华城案遭羈押禁见",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 103,
+  "anon_id": "P3-c111a796",
+  "case_id": "AS-015",
+  "prediction_text": "在海上的丈夫还活着且平安无大碍：丈夫指示星太阳得其hayz（得时得位）、全然不受克害，主人安全、未遭海难。方位只可定到他在外海/异地平安处，输入未给太阳星座宫位全貌，不臆报具体海岸。归期：输入无两指示星入相度数，归期不可定点，只断他将平安返航、时间在数月尺度。反而妻子自身堪忧：其六宫主土星逆行主病反复，火星土星趋向凶相并牵月亮位置，输入明言其死期自图定在次临的10月8日——主断以丈夫生还为正、妻子病危在秋为副，勿混。",
+  "outcome_record": "Confirmed in the text: 'in truth she died the eighth of October, upon which day Mars and [the other significator] were in the eighth degree...' — within days of the window Lilly had named.",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 104,
+  "anon_id": "P3-c13ceb4d",
+  "case_id": "YM-013",
+  "prediction_text": "方向（单一终局）：妻病不愈——病势凶向。近段独发之妻财子水动而逢巳日冲、午月囚，病在当日/数日内转危；远段原神子孙金伏藏不出、土忌两现静压，源迟而救弱，终局按不愈合成（通则 l 单判）。应期（日档，近病）：窗口三日内，主坐标巳日——占日巳正冲用神子水、又值化神巳火，危象应于此日。对象复述：愈否、病势主语均为占者之妻本人。",
+  "outcome_record": "后待丙子日而死。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 105,
+  "anon_id": "P3-c17af7c8",
+  "case_id": "LY-105",
+  "prediction_text": "终局单判：母亲之病可转安、可愈（positive），近段沉重、远段见救。父母午火为用，午月临建旺相，虽入壬戌日之墓，旺相非真墓，只主昏沉困顿；父母动化子孙申金，子孙为医药，申金又动化兄弟戌土回头生，药力有续，子孙动可制官鬼寅木之病。应期双层：窗口本旬之内，主坐标申日（子孙申金逢值、药力制病之日）。对象复述：愈否、病势主语均为母亲本人，不回收到占者。",
+  "outcome_record": "网友后回报：经医院检查其母为胃癌初期，因发现早，手术效果不错，正在恢复（论坛帖内反馈，二手）",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 106,
+  "anon_id": "P3-c3257dae",
+  "case_id": "YM-062",
+  "prediction_text": "得会可成、近在数日（positive）。妻财午火三爻得寅月卯日木生旺相，财气在卦；上爻官鬼戌土发动化出妻财巳火，官化财、化神得木月日生扶，财自官动而出，会款有着。应期尺度为日档（近事得会）：窗口为占日起至巳日，主坐标为巳日——化出妻财巳火逢值之日得会。",
+  "outcome_record": "其后午月方获。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 107,
+  "anon_id": "P3-c36ef406",
+  "case_id": "LY-605",
+  "prediction_text": "父官事重罪难脱，凶向：父母未土两现俱动、其一化回头克，妻财卯木旺动克父，拟罪难免；变爻子孙亥水为一线救象，只主量级或有减轻，不按免罪断。应期尺度月档：窗口卯月内，主坐标卯日——妻财卯木逢值、回头克父之化神同支，定谳见分晓在此日一带。",
+  "outcome_record": "果至重刑。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 108,
+  "anon_id": "P3-c414ac67",
+  "case_id": "LY-252",
+  "prediction_text": "断子病可愈、无大碍：子孙子水临日建为用（用神不上卦而日辰恰为子孙亲，即以日月为用），旺相有力；病鬼午火两现休囚、又受日辰子水直克，病受制而轻。应期以日为尺度，窗口在二日内，主坐标取亥日（子孙同亲逢值续旺之日）病愈。",
+  "outcome_record": "果於本日愈。覺子曰﹕如占自身及兄弟妻兒者﹐此法是也﹐若占父母之災﹐官鬼爲父母之元神﹐豈宜子動而傷耶﹖妻占夫宜鬼爲用神﹐又豈子動以傷官耶﹖不惟不能解憂反添優也。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 109,
+  "anon_id": "P3-c5161cfb",
+  "case_id": "LY-508",
+  "prediction_text": "负向偏耗：终身财福薄，财来财去、守不住。因赌致贫者世持兄弟辰土发动化丑土化退，兄弟主劫财耗财且世即劫神；妻财亥水、子水虽旺有子孙酉金生源，终被世兄动克。应期为年档：窗口为终身运程，主坐标取丑年（兄弟化神逢值之年）为耗财见底、其后才有小复之转机；终局等级止于勉强复起小康边沿，不复旧日家业。",
+  "outcome_record": "後從當夫頭死於丑年。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 110,
+  "anon_id": "P3-c58b22c5",
+  "case_id": "BZ-036",
+  "prediction_text": "方向：以文名世的学术宗师格，官位次之、清贫不掩大名。癸水生丑月，时透庚印、申金印根生水，月透乙食神、卯木食根泄秀，成印旺食秀：学问渊深、自成一家，著述与讲学名满天下，带革命／思想先驱之气（食神吐秀不服官管），仕途官星戊土合癸而克泄交杂，只到议员、教职级清位，不成大吏。中年行木火运（食伤财星，泄秀生财）为声名与著作高峰运段，早年金水运印比过旺主困学与坎坷，晚年土运官来合身多病扰。财星火藏申辰不显，终身不富、靠著作版税与讲学。子女食伤木旺透，子女／门生众多而有成——以门生承继其学为主象。病位土克水、木泄：肾水、脾胃与肝木郁结，晚防中风／脑系（癸水受土围）。",
+  "outcome_record": "史实：章太炎为国学大师、革命家，富名而不富财；1903年苏报案系狱（己巳运前后，原书作六载，史载下狱三年、系狱前后牵连较久，此年数有出入，盲测比对须注）；1936年卒于苏州",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 111,
+  "anon_id": "P3-c5cf6c85",
+  "case_id": "LY-335",
+  "prediction_text": "终局单一方向：延请此师训子可久、师能久任（正向）。应爻父母戌土为师（输入定应父为用），戌土巳月得火生而相、静而有气，师位稳；世爻妻财卯木三爻发动化父母辰土，世动化向父母一亲，己方尊师向学之象；卯木与戌土六合（卯戌合），世应相合主两方相投、契约可久。下三爻三动虽多，官鬼巳火动化妻财寅木回头生、父母未土动化子孙，皆不克应父戌土。应期（月尺度）：窗口为占后一月内，主坐标取戌日——应父逢值、世应合意落实、定聘之日。",
+  "outcome_record": "后至午月子水逄月破，其子病故，即辞师矣．",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 112,
+  "anon_id": "P3-c66ea696",
+  "case_id": "LY-626",
+  "prediction_text": "终局单一方向：子病危重、不治倾向（negative）。泽风大过静卦：用神子孙（火）不上卦，按震宫首卦同位伏于三爻父母亥水之下，伏神午火酉月囚、壬辰日泄、又临午未旬空，飞神亥水酉月相而旺、水克火压伏——伏神休囚、值空、被旺相飞神克，无用之象叠全。病之官鬼酉金两现、临酉月建旺，克伐之势当令；生子孙火之兄弟木亦不上卦、伏而临绝，救源同样伏绝。近段病势即重，远段伏神填实出空之期为定局之期、仍以凶论。应期双层：窗口为本旬十日内，窗口内主坐标为午日——伏神午火填实出空之日，病情见分晓、凶应定期。病位不妄断：静卦无动克之爻、六神未录，病位三路不全，只断病势。承受与应验对象同为病子本人。",
+  "outcome_record": "果死於午日午時，此謂伏無提拔也．",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 113,
+  "anon_id": "P3-c751cee2",
+  "case_id": "AS-013",
+  "prediction_text": "失鱼可找回大部/有望寻回，东西没有被运远。赃物水星在双鱼（潮湿之象），福点巨蟹、贼星木星天蝎皆水象，月亮金牛在地下，主鱼藏在潮湿低洼、近水、贴地遮盖之处——即仓房/驳船一带近水低处，不必远追。贼以七宫头上唯一游离而在角宫的木星论：一个表面体面、木星型的人（壮健/有身份感、与货物或仓储往来有关者），得手于夜仓被劫。寻回据：二宫主水星虽陷弱却在自界，又得月亮（福点之主）六合入相、并与福点三合。应期以日档计：数日内在近水仓房一带查低处可得。",
+  "outcome_record": "Confirmed in the text: Lilly took out a warrant, kept it private until Sunday 18th, searched only that one house, and 'found part of my fish in water, part eaten, part not consumed; all confessed' — including seven Portugal onions the thief's wife had unknowingly made into pottage.",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 114,
+  "anon_id": "P3-c75c833e",
+  "case_id": "LY-007",
+  "prediction_text": "方向：去迎可遇，终局为遇（单一终局）。用神父母戌土五爻动、临丙戌日建旺相，戌土生世爻兄弟申金主父行在途且向子而来；世爻申金动化酉金化进主迎者进而有功。父动化未土为化退一节，主父行程稍退迟，故非即日遇、须待化神之期。应期定日档（迎人近事本为日尺度）：窗口在占后旬内，主坐标取未日——父化神逢值、且未出甲申旬空（午未空）转入新旬得实之日途中相遇；戌日父逢值为备选，舍弃理由为戌日父化退未实、行程未抵。对象复述：所问对象为父，用神父母戌土，应验对象为父本人，世为去迎之子本人。",
+  "outcome_record": "果得遇於未日",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 115,
+  "anon_id": "P3-c7fe914e",
+  "case_id": "OC-004",
+  "prediction_text": "方向：仕途贵显而以文名外交见长。乙木生卯月得禄，癸印透月，丙丁食伤并透，木旺印秀食伤吐秀——主学问、外交辞令之贵，官至驻外公使/内阁阁员级。高峰在庚子、己亥官印运（中年官印相生、外交建树最著）。晚年戊戌、丁酉运财食交见，渐退闲居著述，际遇平顺，寿七十余善终。子女：食伤为女命外推不合，本男命以官杀藏巳丑，子女平常有成。病位：木旺水印——肝胆与眼目、神经衰弱方向为弱点。破耗之因：财星弱藏，一生不以财显，耗在宦游迁转，无巨破。",
+  "outcome_record": "颜惠庆1933年（癸酉）出任驻苏联大使，与断语所指年份、职务相合；后任驻美大使等职，1950年卒于上海。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 116,
+  "anon_id": "P3-c9024c50",
+  "case_id": "AS-007",
+  "prediction_text": "Waller一方胜，Hopton败。Waller以升、月亮、木星、金星为凭：月亮擢升与木星同在，太阳（Waller的财力/助军之主）在十宫且正得19°白羊擢升度；月亮快速增光。Hopton的土星为七宫主，落陷、游离无本位尊贵、被太阳光束压制、无任何入相，且其补给一侧空虚（九宫只有火星与南交点）——无援无粮。应期以日档计：图即交战当日29 March 1644立，主坐标当日分胜负，Hopton退败。",
+  "outcome_record": "Confirmed in the text: 'It appeared, by a letter from the army on that same Friday, that our generals took on the previous day 120 commanders and gentlemen, 560 common soldiers, and much ammunition.' (Historically: the Battle of Cheriton, 29 March 1644, was a Parliamentarian victory.)",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 117,
+  "anon_id": "P3-c96e7297",
+  "case_id": "MP-006",
+  "prediction_text": "断韩国瑜2020年运势低迷、总统之路断：63岁之年先遭大选落败，其后市长职位亦受罢免冲击，政治声势大幅折损，非东山再起之年。应期以年档计：2020年1月败选为第一应点，年中罢免危机为第二应点。",
+  "outcome_record": "韩国瑜2020年败选，同年6月6日再被罢免高雄市长职务",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 118,
+  "anon_id": "P3-c9a73fd5",
+  "case_id": "LY-539",
+  "prediction_text": "雨将止、转晴。应期尺度日档（问何日雨止、即时天时）：窗口一至二日内，主坐标巳日——子孙化神巳火逢值之日，雨止见晴。",
+  "outcome_record": "后至甲日，其雨更大，卯日大晴",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 119,
+  "anon_id": "P3-ca28cf4b",
+  "case_id": "BZ-020",
+  "prediction_text": "贵而任事之造：主入仕掌兵刑实权、官至显任，名望与著述留世，中贵偏上而非极品。庚金生丑月，壬癸伤食并透、丙杀透时，寅午戌三合火局之势（寅午半合戌）杀旺，赖丑戌印土化杀生身——杀印相生格成，主以武职/刑名典兵得位；伤官透干主才学著述。运程火土运助杀印为佳，金水运泄秀亦利著述；晚运防伤官见官之扰，量级下调一档。终局：显宦一生、寿中上。",
+  "outcome_record": "史实/原书自载：万民英为明代官员、术数家，官至礼部/刑部系统清台之职（据《三命通会》自述与易县其墓志记载，卒于万历癸卯年即1583年，享年82岁）；其自记丁巳运癸亥年罢官丧母、戊午运甲戌年遭火灾，皆为本人亲历自证之应期",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 120,
+  "anon_id": "P3-cac1ad08",
+  "case_id": "LR3-002",
+  "prediction_text": "方向：出师偏吉、先难后成，非无功而返之局。初传午火官鬼乘贵人主奉命正当、军令出于上命；中传寅木乘勾陈主江东田土道路勾连迟滞、途中遇缠斗阻滞；末传戌土乘太常、戌土生辛金日干，主粮饷印绶后援归结、终得保全并有功名封赏一阶之象。应期定月档：窗口为占后春至夏火土旺之期，主坐标取午月——火局逢值见战局分晓，戌月为封赏归结备选不作主坐标。",
+  "outcome_record": "断尾自载应验：仅撤回剿贼；庚辰太岁受克、退位俱验。撤回事与庚辰退位两项均以确指事件/时点表述，附于断语之末（同 LR2-024 短承口径）。",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ },
+ {
+  "idx": 121,
+  "anon_id": "P3-cade4683",
+  "case_id": "LY-542",
+  "prediction_text": "此坟地不利、不可葬，凶向：重价买得、地师称美，卦象却世与子孙双双动化回头克，葬之恐损后人福泽，不按美地断。应期（若强葬之应验尺度）：月档，窗口以酉月为险窗，主坐标酉月——世化官鬼酉金逢值、回头克应之月；本断主旨为不可葬，非断葬期。",
+  "outcome_record": "后竟葬之．四年内，二子一女并自身相继而卒．",
+  "pred_keys": [
+   "case_id",
+   "prediction_text",
+   "basis",
+   "confidence",
+   "trigger",
+   "systems_used"
+  ]
+ }
+]
