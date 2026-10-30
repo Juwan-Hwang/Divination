@@ -1,0 +1,32 @@
+{
+ "id": "HZ-001",
+ "subject": {
+  "name_or_desc": "占者（未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占雨（问雨之有无与应时）",
+  "asked_at": "六月甲辰日（年不详）",
+  "setting": "《火珠林》第五十六章「占天道晴雨」问答体：设问「壬癸动雨要言克日定时取验，如何？」而举此占为例，例中先实录应验、后陈断理",
+  "attachments": {
+   "casting_method": "liuyao（火珠林法，以钱代蓍）",
+   "hexagram": "乾之大壮",
+   "moving_lines": "九五动（原文：「第五爻申亲爻动」）",
+   "chart_lines_top_to_bottom": [
+    "父母戌土 世",
+    "兄弟申金",
+    "官鬼午火",
+    "父母辰土 应",
+    "妻财寅木",
+    "子孙子水"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "火珠林",
+  "edition": "《六爻古籍合集》（666周易网编，现代排印电子本）内《火珠林》段，题（宋）麻衣道人著；incoming登记#1，用户经学校图书馆提供，2026-10-29",
+  "license_note": "内部研究使用（redistributable=false）",
+  "page": "第五十六章「占天道晴雨」，合集PDF第1443页末至第1444页首；转录方式 visual（220dpi渲染逐字视觉核读），transcription=visual，置信度 high（现代排印字）"
+ },
+ "language": "zh-Hans（合集现代排印简体）"
+}
