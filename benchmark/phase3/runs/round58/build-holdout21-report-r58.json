@@ -1,0 +1,695 @@
+{
+  "round": 58,
+  "set": "holdout21",
+  "built_by": "建集数据席（R58）",
+  "ruling": "runs/round58/PREREG-ADDENDUM.md",
+  "T": 25,
+  "order": [
+    "GSZ-003",
+    "GSZ-005",
+    "GSZ-009",
+    "GSZ-015",
+    "GSZ-016",
+    "GSZ-017",
+    "WHY-072",
+    "WHY-073",
+    "WHY-074",
+    "WHY-075",
+    "WHY-078",
+    "WHY-079",
+    "QW-013",
+    "QW-014",
+    "QW-015",
+    "QW-016",
+    "QW-017",
+    "QM-001",
+    "QM-002",
+    "QM-003",
+    "QM-004",
+    "QM-005",
+    "QM-006",
+    "QM-007",
+    "QM-008"
+  ],
+  "composition": {
+    "by_source": {
+      "王虎应《六爻卦例说真》": 6,
+      "王虎应《六爻分类占验技法》（二轮）": 6,
+      "曲炜《详批命例精解》": 5,
+      "杜新会《奇门遁甲现代实例精解》": 5,
+      "张志春《神奇之门——奇门遁甲大解谜》": 3
+    },
+    "by_tradition": {
+      "liuyao": 12,
+      "bazi": 5,
+      "qimen": 8
+    },
+    "non_liuyao": 13,
+    "non_yijian": 25,
+    "max_single_source": 6
+  },
+  "eligibility_assertions": {
+    "GSZ-003": {
+      "grade": "A",
+      "pollution": "low",
+      "anchor_presence": "present",
+      "eligible_net": true,
+      "master_prediction_nonempty": true,
+      "pass": true,
+      "basis": "SUPPLY-MINING-guaishuo-r57.json 台账逐字"
+    },
+    "GSZ-005": {
+      "grade": "A",
+      "pollution": "low",
+      "anchor_presence": "present",
+      "eligible_net": true,
+      "master_prediction_nonempty": true,
+      "pass": true,
+      "basis": "SUPPLY-MINING-guaishuo-r57.json 台账逐字"
+    },
+    "GSZ-009": {
+      "grade": "A",
+      "pollution": "low",
+      "anchor_presence": "present",
+      "eligible_net": true,
+      "master_prediction_nonempty": true,
+      "pass": true,
+      "basis": "SUPPLY-MINING-guaishuo-r57.json 台账逐字"
+    },
+    "GSZ-015": {
+      "grade": "A",
+      "pollution": "low",
+      "anchor_presence": "present",
+      "eligible_net": true,
+      "master_prediction_nonempty": true,
+      "pass": true,
+      "basis": "SUPPLY-MINING-guaishuo-r57.json 台账逐字"
+    },
+    "GSZ-016": {
+      "grade": "A",
+      "pollution": "low",
+      "anchor_presence": "present",
+      "eligible_net": true,
+      "master_prediction_nonempty": true,
+      "pass": true,
+      "basis": "SUPPLY-MINING-guaishuo-r57.json 台账逐字"
+    },
+    "GSZ-017": {
+      "grade": "A",
+      "pollution": "low",
+      "anchor_presence": "present",
+      "eligible_net": true,
+      "master_prediction_nonempty": true,
+      "pass": true,
+      "basis": "SUPPLY-MINING-guaishuo-r57.json 台账逐字"
+    },
+    "WHY-072": {
+      "grade": "A",
+      "pollution": "low",
+      "anchor_presence": "present",
+      "eligible_net": true,
+      "master_prediction_nonempty": true,
+      "pass": true,
+      "basis": "SUPPLY-MINING-wanghuying-r57-r2.json 台账逐字"
+    },
+    "WHY-073": {
+      "grade": "A",
+      "pollution": "low",
+      "anchor_presence": "present",
+      "eligible_net": true,
+      "master_prediction_nonempty": true,
+      "pass": true,
+      "basis": "SUPPLY-MINING-wanghuying-r57-r2.json 台账逐字"
+    },
+    "WHY-074": {
+      "grade": "A",
+      "pollution": "low",
+      "anchor_presence": "present",
+      "eligible_net": true,
+      "master_prediction_nonempty": true,
+      "pass": true,
+      "basis": "SUPPLY-MINING-wanghuying-r57-r2.json 台账逐字"
+    },
+    "WHY-075": {
+      "grade": "A",
+      "pollution": "low",
+      "anchor_presence": "present",
+      "eligible_net": true,
+      "master_prediction_nonempty": true,
+      "pass": true,
+      "basis": "SUPPLY-MINING-wanghuying-r57-r2.json 台账逐字"
+    },
+    "WHY-078": {
+      "grade": "A",
+      "pollution": "low",
+      "anchor_presence": "present",
+      "eligible_net": true,
+      "master_prediction_nonempty": true,
+      "pass": true,
+      "basis": "SUPPLY-MINING-wanghuying-r57-r2.json 台账逐字"
+    },
+    "WHY-079": {
+      "grade": "A",
+      "pollution": "low",
+      "anchor_presence": "present",
+      "eligible_net": true,
+      "master_prediction_nonempty": true,
+      "pass": true,
+      "basis": "SUPPLY-MINING-wanghuying-r57-r2.json 台账逐字"
+    },
+    "QW-013": {
+      "grade": "A（附则 §一全例 A 级；台账 filters 四项 pass、holdout20 同源 QW-001–012 已以 A 级建卡）",
+      "pollution": "low",
+      "anchor_presence": "present",
+      "eligible_net": "台账无 eligible_net 字段；以 filters 四 pass＋附则选集写定为准",
+      "master_prediction_nonempty": true,
+      "master_prediction_source": "data/holdout21-gold-supplement.md 补录件逐字（字数自检 2151／登记 2151，含换行口径相符）",
+      "outcome_crosscheck": "台账 outcome_record 各段逐段见于补录件结局块，一致",
+      "pass": true,
+      "basis": "SUPPLY-MINING-quwei-r56.json 台账＋holdout21-gold-supplement.md"
+    },
+    "QW-014": {
+      "grade": "A（附则 §一全例 A 级；台账 filters 四项 pass、holdout20 同源 QW-001–012 已以 A 级建卡）",
+      "pollution": "low",
+      "anchor_presence": "present",
+      "eligible_net": "台账无 eligible_net 字段；以 filters 四 pass＋附则选集写定为准",
+      "master_prediction_nonempty": true,
+      "master_prediction_source": "data/holdout21-gold-supplement.md 补录件逐字（字数自检 3305／登记 3305，含换行口径相符）",
+      "outcome_crosscheck": "台账 outcome_record 各段逐段见于补录件结局块，一致",
+      "pass": true,
+      "basis": "SUPPLY-MINING-quwei-r56.json 台账＋holdout21-gold-supplement.md"
+    },
+    "QW-015": {
+      "grade": "A（附则 §一全例 A 级；台账 filters 四项 pass、holdout20 同源 QW-001–012 已以 A 级建卡）",
+      "pollution": "low",
+      "anchor_presence": "present",
+      "eligible_net": "台账无 eligible_net 字段；以 filters 四 pass＋附则选集写定为准",
+      "master_prediction_nonempty": true,
+      "master_prediction_source": "data/holdout21-gold-supplement.md 补录件逐字（字数自检 3069／登记 3069，含换行口径相符）",
+      "outcome_crosscheck": "台账 outcome_record 各段逐段见于补录件结局块，一致",
+      "pass": true,
+      "basis": "SUPPLY-MINING-quwei-r56.json 台账＋holdout21-gold-supplement.md"
+    },
+    "QW-016": {
+      "grade": "A（附则 §一全例 A 级；台账 filters 四项 pass、holdout20 同源 QW-001–012 已以 A 级建卡）",
+      "pollution": "low",
+      "anchor_presence": "present",
+      "eligible_net": "台账无 eligible_net 字段；以 filters 四 pass＋附则选集写定为准",
+      "master_prediction_nonempty": true,
+      "master_prediction_source": "data/holdout21-gold-supplement.md 补录件逐字（字数自检 3649／登记 3649，含换行口径相符）",
+      "outcome_crosscheck": "台账 outcome_record 各段逐段见于补录件结局块，一致",
+      "pass": true,
+      "basis": "SUPPLY-MINING-quwei-r56.json 台账＋holdout21-gold-supplement.md"
+    },
+    "QW-017": {
+      "grade": "A（附则 §一全例 A 级；台账 filters 四项 pass、holdout20 同源 QW-001–012 已以 A 级建卡）",
+      "pollution": "low",
+      "anchor_presence": "present",
+      "eligible_net": "台账无 eligible_net 字段；以 filters 四 pass＋附则选集写定为准",
+      "master_prediction_nonempty": true,
+      "master_prediction_source": "data/holdout21-gold-supplement.md 补录件逐字（字数自检 1550／登记 1550，含换行口径相符）",
+      "outcome_crosscheck": "台账 outcome_record 各段逐段见于补录件结局块，一致",
+      "pass": true,
+      "basis": "SUPPLY-MINING-quwei-r56.json 台账＋holdout21-gold-supplement.md"
+    },
+    "QM-001": {
+      "grade": "A（QM 复核件 eligible_optional=true；台账建池口径A 级入账，附则 §一全例 A 级）",
+      "pollution": "low",
+      "anchor_presence": "present",
+      "eligible_optional_review": true,
+      "master_prediction_nonempty": true,
+      "pass": true,
+      "basis": "SUPPLY-MINING-qimen-r56.json 台账＋QM-REVIEW-r58.json 复核件"
+    },
+    "QM-002": {
+      "grade": "A（QM 复核件 eligible_optional=true；台账建池口径A 级入账，附则 §一全例 A 级）",
+      "pollution": "low",
+      "anchor_presence": "present",
+      "eligible_optional_review": true,
+      "master_prediction_nonempty": true,
+      "pass": true,
+      "basis": "SUPPLY-MINING-qimen-r56.json 台账＋QM-REVIEW-r58.json 复核件"
+    },
+    "QM-003": {
+      "grade": "A（QM 复核件 eligible_optional=true；台账建池口径A 级入账，附则 §一全例 A 级）",
+      "pollution": "low",
+      "anchor_presence": "present",
+      "eligible_optional_review": true,
+      "master_prediction_nonempty": true,
+      "pass": true,
+      "basis": "SUPPLY-MINING-qimen-r56.json 台账＋QM-REVIEW-r58.json 复核件"
+    },
+    "QM-004": {
+      "grade": "A（QM 复核件 eligible_optional=true；台账建池口径A 级入账，附则 §一全例 A 级）",
+      "pollution": "low",
+      "anchor_presence": "present",
+      "eligible_optional_review": true,
+      "master_prediction_nonempty": true,
+      "pass": true,
+      "basis": "SUPPLY-MINING-qimen-r56.json 台账＋QM-REVIEW-r58.json 复核件"
+    },
+    "QM-005": {
+      "grade": "A（QM 复核件 eligible_optional=true；台账建池口径A 级入账，附则 §一全例 A 级）",
+      "pollution": "low",
+      "anchor_presence": "present",
+      "eligible_optional_review": true,
+      "master_prediction_nonempty": true,
+      "pass": true,
+      "basis": "SUPPLY-MINING-qimen-r56.json 台账＋QM-REVIEW-r58.json 复核件"
+    },
+    "QM-006": {
+      "grade": "A（QM 复核件 eligible_optional=true；台账建池口径A 级入账，附则 §一全例 A 级）",
+      "pollution": "low",
+      "anchor_presence": "present",
+      "eligible_optional_review": true,
+      "master_prediction_nonempty": true,
+      "pass": true,
+      "basis": "SUPPLY-MINING-qimen-r56.json 台账＋QM-REVIEW-r58.json 复核件"
+    },
+    "QM-007": {
+      "grade": "A（QM 复核件 eligible_optional=true；台账建池口径A 级入账，附则 §一全例 A 级）",
+      "pollution": "low",
+      "anchor_presence": "present",
+      "eligible_optional_review": true,
+      "master_prediction_nonempty": true,
+      "pass": true,
+      "basis": "SUPPLY-MINING-qimen-r56.json 台账＋QM-REVIEW-r58.json 复核件"
+    },
+    "QM-008": {
+      "grade": "A（QM 复核件 eligible_optional=true；台账建池口径A 级入账，附则 §一全例 A 级）",
+      "pollution": "low",
+      "anchor_presence": "present",
+      "eligible_optional_review": true,
+      "master_prediction_nonempty": true,
+      "pass": true,
+      "basis": "SUPPLY-MINING-qimen-r56.json 台账＋QM-REVIEW-r58.json 复核件"
+    }
+  },
+  "eligibility_all_pass": true,
+  "zero_reuse_recheck": {
+    "sources": {
+      "phase2_splits2_holdout2": 29,
+      "holdout3_20_gold_ids": 540,
+      "holdout2_20_input_card_ids": 381,
+      "dev_pool_ids_dev9keys_plus_dev_input_dirs": 488
+    },
+    "used_union": 952,
+    "method": "只对 id 集（phase2/splits2.json holdout2、holdout3–20 test_gold.jsonl 仅取 id 字段、holdout2–20 inputs 与 *-inputs 目录文件名、data/master-baseline-dev9.json 键集＋inputs-dev9/10/11/12 与 inputs 目录文件名）；未打开任何已封存集金标正文做内容比对",
+    "selected_hit_count": 0,
+    "selected_hits": []
+  },
+  "input_field_whitelist": [
+    "id",
+    "tradition",
+    "subject",
+    "context",
+    "question",
+    "setting",
+    "provenance",
+    "redistributable",
+    "license_status",
+    "anchors"
+  ],
+  "qm007_rewrite": {
+    "before_context_input_side": "1996年5月9日下午4点20分，小郑来测侄子摔伤（尾椎骨摔伤、大小便失禁、已手术）之预后与出院时间；伤情细节为张断后由小郑证实者（「从电线杆上掉下来、把尾椎骨摔伤了」），不入输入侧背景以免泄断。",
+    "after_context_input_side": "1996年5月9日下午4点20分，小郑来测侄子摔伤之预后与出院时间。",
+    "rule": "台账 context 自带「不入输入侧背景以免泄断」注记、台账 notes 同旨；删张断后证实之伤情细节与注记句，对照存证，原台账不动"
+  },
+  "strip_register": {
+    "GSZ-003": [
+      "pollution/pollution_note/anchor_presence/anchor_missing/dedup_check/filters/outcome_type/outcome_record/master_prediction（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "GSZ-005": [
+      "pollution/pollution_note/anchor_presence/anchor_missing/dedup_check/filters/outcome_type/outcome_record/master_prediction（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "GSZ-009": [
+      "pollution/pollution_note/anchor_presence/anchor_missing/dedup_check/filters/outcome_type/outcome_record/master_prediction（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "GSZ-015": [
+      "pollution/pollution_note/anchor_presence/anchor_missing/dedup_check/filters/outcome_type/outcome_record/master_prediction（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "GSZ-016": [
+      "pollution/pollution_note/anchor_presence/anchor_missing/dedup_check/filters/outcome_type/outcome_record/master_prediction（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "GSZ-017": [
+      "pollution/pollution_note/anchor_presence/anchor_missing/dedup_check/filters/outcome_type/outcome_record/master_prediction（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "WHY-072": [
+      "pollution/pollution_note/anchor_presence/anchor_missing/dedup_check/filters/outcome_type/outcome_record/master_prediction（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "WHY-073": [
+      "pollution/pollution_note/anchor_presence/anchor_missing/dedup_check/filters/outcome_type/outcome_record/master_prediction（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "WHY-074": [
+      "pollution/pollution_note/anchor_presence/anchor_missing/dedup_check/filters/outcome_type/outcome_record/master_prediction（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "WHY-075": [
+      "pollution/pollution_note/anchor_presence/anchor_missing/dedup_check/filters/outcome_type/outcome_record/master_prediction（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "WHY-078": [
+      "pollution/pollution_note/anchor_presence/anchor_missing/dedup_check/filters/outcome_type/outcome_record/master_prediction（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "WHY-079": [
+      "pollution/pollution_note/anchor_presence/anchor_missing/dedup_check/filters/outcome_type/outcome_record/master_prediction（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "QW-013": [
+      "pollution/pollution_note/anchor_presence/anchor_note/dedup_check/filters/outcome_record（台账管理与金标侧字段，不入输入卡）；input_fields 之 id/tradition 与 subject/context/provenance 嵌套子字段经字段映射摊平入卡（子字段文本逐字）"
+    ],
+    "QW-014": [
+      "pollution/pollution_note/anchor_presence/anchor_note/dedup_check/filters/outcome_record（台账管理与金标侧字段，不入输入卡）；input_fields 之 id/tradition 与 subject/context/provenance 嵌套子字段经字段映射摊平入卡（子字段文本逐字）"
+    ],
+    "QW-015": [
+      "pollution/pollution_note/anchor_presence/anchor_note/dedup_check/filters/outcome_record（台账管理与金标侧字段，不入输入卡）；input_fields 之 id/tradition 与 subject/context/provenance 嵌套子字段经字段映射摊平入卡（子字段文本逐字）"
+    ],
+    "QW-016": [
+      "pollution/pollution_note/anchor_presence/anchor_note/dedup_check/filters/outcome_record（台账管理与金标侧字段，不入输入卡）；input_fields 之 id/tradition 与 subject/context/provenance 嵌套子字段经字段映射摊平入卡（子字段文本逐字）"
+    ],
+    "QW-017": [
+      "pollution/pollution_note/anchor_presence/anchor_note/dedup_check/filters/outcome_record（台账管理与金标侧字段，不入输入卡）；input_fields 之 id/tradition 与 subject/context/provenance 嵌套子字段经字段映射摊平入卡（子字段文本逐字）"
+    ],
+    "QM-001": [
+      "pollution/pollution_reason/anchor_presence/anchor_note/dedup_check/notes/master_prediction_verbatim/outcome_record（台账管理与金标侧字段，不入输入卡）；input_fields 之 querent/caster/question/context/cast_time/board 经字段映射入卡"
+    ],
+    "QM-002": [
+      "pollution/pollution_reason/anchor_presence/anchor_note/dedup_check/notes/master_prediction_verbatim/outcome_record（台账管理与金标侧字段，不入输入卡）；input_fields 之 querent/caster/question/context/cast_time/board 经字段映射入卡"
+    ],
+    "QM-003": [
+      "pollution/pollution_reason/anchor_presence/anchor_note/dedup_check/notes/master_prediction_verbatim/outcome_record（台账管理与金标侧字段，不入输入卡）；input_fields 之 querent/caster/question/context/cast_time/board 经字段映射入卡"
+    ],
+    "QM-004": [
+      "pollution/pollution_reason/anchor_presence/anchor_note/dedup_check/notes/master_prediction_verbatim/outcome_record（台账管理与金标侧字段，不入输入卡）；input_fields 之 querent/caster/question/context/cast_time/board 经字段映射入卡"
+    ],
+    "QM-005": [
+      "pollution/pollution_reason/anchor_presence/anchor_note/dedup_check/notes/master_prediction_verbatim/outcome_record（台账管理与金标侧字段，不入输入卡）；input_fields 之 querent/caster/question/context/cast_time/board 经字段映射入卡"
+    ],
+    "QM-006": [
+      "pollution/pollution_reason/anchor_presence/anchor_note/dedup_check/notes/master_prediction_verbatim/outcome_record（台账管理与金标侧字段，不入输入卡）；input_fields 之 querent/caster/question/context/cast_time/board 经字段映射入卡"
+    ],
+    "QM-007": [
+      "pollution/pollution_reason/anchor_presence/anchor_note/dedup_check/notes/master_prediction_verbatim/outcome_record（台账管理与金标侧字段，不入输入卡）；input_fields 之 querent/caster/question/context/cast_time/board 经字段映射入卡"
+    ],
+    "QM-008": [
+      "pollution/pollution_reason/anchor_presence/anchor_note/dedup_check/notes/master_prediction_verbatim/outcome_record（台账管理与金标侧字段，不入输入卡）；input_fields 之 querent/caster/question/context/cast_time/board 经字段映射入卡"
+    ]
+  },
+  "field_mapping_notes": {
+    "GSZ-003": "question←input_fields.question；context←asked_at＋书名组写（台账无 context 原文，承 holdout20 WHY 组写先例）；setting/provenance←台账 source 逐字；anchors←asked_at＋input_fields.chart 全列逐字",
+    "GSZ-005": "question←input_fields.question；context←asked_at＋书名组写（台账无 context 原文，承 holdout20 WHY 组写先例）；setting/provenance←台账 source 逐字；anchors←asked_at＋input_fields.chart 全列逐字",
+    "GSZ-009": "question←input_fields.question；context←asked_at＋书名组写（台账无 context 原文，承 holdout20 WHY 组写先例）；setting/provenance←台账 source 逐字；anchors←asked_at＋input_fields.chart 全列逐字",
+    "GSZ-015": "question←input_fields.question；context←asked_at＋书名组写（台账无 context 原文，承 holdout20 WHY 组写先例）；setting/provenance←台账 source 逐字；anchors←asked_at＋input_fields.chart 全列逐字",
+    "GSZ-016": "question←input_fields.question；context←asked_at＋书名组写（台账无 context 原文，承 holdout20 WHY 组写先例）；setting/provenance←台账 source 逐字；anchors←asked_at＋input_fields.chart 全列逐字",
+    "GSZ-017": "question←input_fields.question；context←asked_at＋书名组写（台账无 context 原文，承 holdout20 WHY 组写先例）；setting/provenance←台账 source 逐字；anchors←asked_at＋input_fields.chart 全列逐字",
+    "WHY-072": "question←input_fields.question；context←asked_at＋书名组写（台账无 context 原文，承 holdout20 WHY 组写先例）；setting/provenance←台账 source 逐字；anchors←asked_at＋input_fields.chart 全列逐字（含 moving_lines/fu_shen）",
+    "WHY-073": "question←input_fields.question；context←asked_at＋书名组写（台账无 context 原文，承 holdout20 WHY 组写先例）；setting/provenance←台账 source 逐字；anchors←asked_at＋input_fields.chart 全列逐字（含 moving_lines/fu_shen）",
+    "WHY-074": "question←input_fields.question；context←asked_at＋书名组写（台账无 context 原文，承 holdout20 WHY 组写先例）；setting/provenance←台账 source 逐字；anchors←asked_at＋input_fields.chart 全列逐字（含 moving_lines/fu_shen）",
+    "WHY-075": "question←input_fields.question；context←asked_at＋书名组写（台账无 context 原文，承 holdout20 WHY 组写先例）；setting/provenance←台账 source 逐字；anchors←asked_at＋input_fields.chart 全列逐字（含 moving_lines/fu_shen）",
+    "WHY-078": "question←input_fields.question；context←asked_at＋书名组写（台账无 context 原文，承 holdout20 WHY 组写先例）；setting/provenance←台账 source 逐字；anchors←asked_at＋input_fields.chart 全列逐字（含 moving_lines/fu_shen）",
+    "WHY-079": "question←input_fields.question；context←asked_at＋书名组写（台账无 context 原文，承 holdout20 WHY 组写先例）；setting/provenance←台账 source 逐字；anchors←asked_at＋input_fields.chart 全列逐字（含 moving_lines/fu_shen）",
+    "QW-013": "subject←name_or_desc＋basic_info；context←context.setting；question←context.question；setting←source＋context.asked_at；provenance←provenance.book＋location＋edition；anchors←subject.birth_info_verbatim/gender＋context.attachments（birth 四元组＋sex，承 holdout20 QW 口径）",
+    "QW-014": "subject←name_or_desc＋basic_info；context←context.setting；question←context.question；setting←source＋context.asked_at；provenance←provenance.book＋location＋edition；anchors←subject.birth_info_verbatim/gender＋context.attachments（birth 四元组＋sex，承 holdout20 QW 口径）",
+    "QW-015": "subject←name_or_desc＋basic_info；context←context.setting；question←context.question；setting←source＋context.asked_at；provenance←provenance.book＋location＋edition；anchors←subject.birth_info_verbatim/gender＋context.attachments（birth 四元组＋sex，承 holdout20 QW 口径）",
+    "QW-016": "subject←name_or_desc＋basic_info；context←context.setting；question←context.question；setting←source＋context.asked_at；provenance←provenance.book＋location＋edition；anchors←subject.birth_info_verbatim/gender＋context.attachments（birth 四元组＋sex，承 holdout20 QW 口径）",
+    "QW-017": "subject←name_or_desc＋basic_info；context←context.setting；question←context.question；setting←source＋context.asked_at；provenance←provenance.book＋location＋edition；anchors←subject.birth_info_verbatim/gender＋context.attachments（birth 四元组＋sex，承 holdout20 QW 口径）",
+    "QM-001": "subject←input_fields.querent；question/context←input_fields 逐字；setting←source.book/author/section＋cast_time_verbatim 组写；anchors←cast_time_verbatim＋board/boards 全载逐字（局式逐字：header_verbatim＋九宫 palaces＋center_palace_5）",
+    "QM-002": "subject←input_fields.querent；question/context←input_fields 逐字；setting←source.book/author/section＋cast_time_verbatim 组写；anchors←cast_time_verbatim＋board/boards 全载逐字（局式逐字：header_verbatim＋九宫 palaces＋center_palace_5）",
+    "QM-003": "subject←input_fields.querent；question/context←input_fields 逐字；setting←source.book/author/section＋cast_time_verbatim 组写；anchors←cast_time_verbatim＋board/boards 全载逐字（局式逐字：header_verbatim＋九宫 palaces＋center_palace_5）",
+    "QM-004": "subject←input_fields.querent；question/context←input_fields 逐字；setting←source.book/author/section＋cast_time_verbatim 组写；anchors←cast_time_verbatim＋board/boards 全载逐字（局式逐字：header_verbatim＋九宫 palaces＋center_palace_5）",
+    "QM-005": "subject←input_fields.querent；question/context←input_fields 逐字；setting←source.book/author/section＋cast_time_verbatim 组写；anchors←cast_time_verbatim＋board/boards 全载逐字（局式逐字：header_verbatim＋九宫 palaces＋center_palace_5）",
+    "QM-006": "subject←input_fields.querent；question/context←input_fields 逐字；setting←source.book/author/section＋cast_time_verbatim 组写；anchors←cast_time_verbatim＋board/boards 全载逐字（局式逐字：header_verbatim＋九宫 palaces＋center_palace_5）",
+    "QM-007": "subject←input_fields.querent；question/context←input_fields 逐字；setting←source.book/author/section＋cast_time_verbatim 组写；anchors←cast_time_verbatim＋board/boards 全载逐字（局式逐字：header_verbatim＋九宫 palaces＋center_palace_5）",
+    "QM-008": "subject←input_fields.querent；question/context←input_fields 逐字；setting←source.book/author/section＋cast_time_verbatim 组写；anchors←cast_time_verbatim＋board/boards 全载逐字（局式逐字：header_verbatim＋九宫 palaces＋center_palace_5）"
+  },
+  "scan1_verbatim_fragment": {
+    "method": "每例 master_prediction 与 outcome_record 的特征片段（标点分句整句（≥8 字）＋去空白 12 字滑动窗口全集）对该例输入卡全文本逐字子串扫描，零命中方落盘；落盘后对盘上文件重行仍零命中",
+    "per_case": {
+      "GSZ-003": {
+        "fragment_count": 25,
+        "hits": []
+      },
+      "GSZ-005": {
+        "fragment_count": 33,
+        "hits": []
+      },
+      "GSZ-009": {
+        "fragment_count": 36,
+        "hits": []
+      },
+      "GSZ-015": {
+        "fragment_count": 53,
+        "hits": []
+      },
+      "GSZ-016": {
+        "fragment_count": 54,
+        "hits": []
+      },
+      "GSZ-017": {
+        "fragment_count": 27,
+        "hits": []
+      },
+      "WHY-072": {
+        "fragment_count": 106,
+        "hits": []
+      },
+      "WHY-073": {
+        "fragment_count": 230,
+        "hits": []
+      },
+      "WHY-074": {
+        "fragment_count": 167,
+        "hits": []
+      },
+      "WHY-075": {
+        "fragment_count": 105,
+        "hits": []
+      },
+      "WHY-078": {
+        "fragment_count": 116,
+        "hits": []
+      },
+      "WHY-079": {
+        "fragment_count": 187,
+        "hits": []
+      },
+      "QW-013": {
+        "fragment_count": 2224,
+        "hits": []
+      },
+      "QW-014": {
+        "fragment_count": 3434,
+        "hits": []
+      },
+      "QW-015": {
+        "fragment_count": 3175,
+        "hits": []
+      },
+      "QW-016": {
+        "fragment_count": 3821,
+        "hits": []
+      },
+      "QW-017": {
+        "fragment_count": 1629,
+        "hits": []
+      },
+      "QM-001": {
+        "fragment_count": 50,
+        "hits": []
+      },
+      "QM-002": {
+        "fragment_count": 137,
+        "hits": []
+      },
+      "QM-003": {
+        "fragment_count": 125,
+        "hits": []
+      },
+      "QM-004": {
+        "fragment_count": 203,
+        "hits": []
+      },
+      "QM-005": {
+        "fragment_count": 105,
+        "hits": []
+      },
+      "QM-006": {
+        "fragment_count": 180,
+        "hits": []
+      },
+      "QM-007": {
+        "fragment_count": 112,
+        "hits": []
+      },
+      "QM-008": {
+        "fragment_count": 155,
+        "hits": []
+      }
+    },
+    "total_hits": 0
+  },
+  "scan_marker_selfcheck": {
+    "method": "h20 第二道口径：R42 PREREG §5 内容级一级/二级标记＋字段名黑名单＋禁用键集对 25 张输入卡全字段递归扫描",
+    "per_case": {
+      "GSZ-003": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "GSZ-005": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "GSZ-009": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "GSZ-015": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "GSZ-016": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "GSZ-017": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "WHY-072": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "WHY-073": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "WHY-074": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "WHY-075": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "WHY-078": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "WHY-079": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "QW-013": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "QW-014": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "QW-015": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "QW-016": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "QW-017": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "QM-001": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "QM-002": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "QM-003": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "QM-004": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "QM-005": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "QM-006": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "QM-007": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "QM-008": {
+        "content_hits": [],
+        "fieldname_hits": []
+      }
+    },
+    "total_hits": 0
+  },
+  "scan2_semantic_spotcheck": "见封存日志登记名单（建集席逐例读卡人工核）",
+  "scan3_host_rescan": "主持验封道，非本席执行——留位：主持以独立脚本对 holdout21/inputs/ 全部输入卡复扫，零命中方许封存日志落「验封通过」",
+  "gold_sha256": "ea4d9315bfffd2f02fc7aed8f9e6a2ac04924bfa89d4545e08830287e447fb72",
+  "gold_sha256_sha256sum": "ea4d9315bfffd2f02fc7aed8f9e6a2ac04924bfa89d4545e08830287e447fb72",
+  "gold_sha256_double_read_match": true,
+  "kb_snapshot": {
+    "dir": "runs/round58/kb-snapshot-holdout21/",
+    "file_count": 21,
+    "sha256_list": "runs/round58/kb-snapshot-holdout21/sha256.txt",
+    "files": [
+      "SKILL.md",
+      "VALIDATION.md",
+      "VERIFY-LOG.txt",
+      "references/MANIFEST.md",
+      "references/PROTOCOL.md",
+      "references/README.md",
+      "references/calibration.md",
+      "references/chinese-bazi-ziwei.md",
+      "references/chinese-cezi.md",
+      "references/chinese-liuren.md",
+      "references/chinese-liuyao-meihua.md",
+      "references/chinese-mengzhan.md",
+      "references/chinese-qimen.md",
+      "references/chinese-yijing.md",
+      "references/chinese-ziwei.md",
+      "references/lifekline-method.md",
+      "references/western-astro-numerology-runes.md",
+      "references/western-tarot.md",
+      "tools/cast_iching.py",
+      "tools/draw_runes.py",
+      "tools/draw_tarot.py"
+    ]
+  },
+  "outputs_written": [
+    "holdout21/inputs/GSZ-003.json",
+    "holdout21/inputs/GSZ-005.json",
+    "holdout21/inputs/GSZ-009.json",
+    "holdout21/inputs/GSZ-015.json",
+    "holdout21/inputs/GSZ-016.json",
+    "holdout21/inputs/GSZ-017.json",
+    "holdout21/inputs/WHY-072.json",
+    "holdout21/inputs/WHY-073.json",
+    "holdout21/inputs/WHY-074.json",
+    "holdout21/inputs/WHY-075.json",
+    "holdout21/inputs/WHY-078.json",
+    "holdout21/inputs/WHY-079.json",
+    "holdout21/inputs/QW-013.json",
+    "holdout21/inputs/QW-014.json",
+    "holdout21/inputs/QW-015.json",
+    "holdout21/inputs/QW-016.json",
+    "holdout21/inputs/QW-017.json",
+    "holdout21/inputs/QM-001.json",
+    "holdout21/inputs/QM-002.json",
+    "holdout21/inputs/QM-003.json",
+    "holdout21/inputs/QM-004.json",
+    "holdout21/inputs/QM-005.json",
+    "holdout21/inputs/QM-006.json",
+    "holdout21/inputs/QM-007.json",
+    "holdout21/inputs/QM-008.json",
+    "holdout21/test_gold.jsonl"
+  ]
+}

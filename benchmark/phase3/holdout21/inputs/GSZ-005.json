@@ -1,0 +1,24 @@
+{
+  "id": "GSZ-005",
+  "tradition": "liuyao",
+  "subject": "求测者（台账 subject 为空、原书未具名）",
+  "context": "占时：戊寅年丁巳月己未日；《六爻卦例说真》卦例",
+  "question": "测工作（约五十男子）",
+  "setting": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第二章《进神辨意》例一",
+  "provenance": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第二章《进神辨意》例一；底本为用户经学校图书馆提供，redistributable=false",
+  "redistributable": false,
+  "license_status": "现代版权文本（文字版PDF），内部研究用",
+  "anchors": {
+    "asked_at": "戊寅年丁巳月己未日",
+    "ben_gua": "火泽睽",
+    "bian_gua": "火天大有",
+    "chart_lines_top_to_bottom": [
+      "勾陈       ▅▅▅▅▅ 父母巳火       ▅▅▅▅▅ 父母巳火 应",
+      "朱雀 妻财子水 ▅▅ ▅▅ 兄弟未土        ▅▅ ▅▅ 兄弟未土",
+      "青龙       ▅▅▅▅▅ 子孙酉金 世     ▅▅▅▅▅ 子孙酉金",
+      "玄武       ▅▅ ▅▅ 兄弟丑土    ×→ ▅▅▅▅▅ 兄弟辰土 世",
+      "白虎       ▅▅▅▅▅ 官鬼卯木       ▅▅▅▅▅ 官鬼寅木",
+      "螣蛇       ▅▅▅▅▅ 父母巳火 应     ▅▅▅▅▅ 妻财子水"
+    ]
+  }
+}

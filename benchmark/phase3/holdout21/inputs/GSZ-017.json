@@ -1,0 +1,24 @@
+{
+  "id": "GSZ-017",
+  "tradition": "liuyao",
+  "subject": "求测者（台账 subject 为空、原书未具名）",
+  "context": "占时：丙子年癸巳月丙午日；《六爻卦例说真》卦例",
+  "question": "测婚（某男二十岁）",
+  "setting": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第四章《活用空亡》例二",
+  "provenance": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第四章《活用空亡》例二；底本为用户经学校图书馆提供，redistributable=false",
+  "redistributable": false,
+  "license_status": "现代版权文本（文字版PDF），内部研究用",
+  "anchors": {
+    "asked_at": "丙子年癸巳月丙午日",
+    "ben_gua": "山水蒙",
+    "bian_gua": "天风姤",
+    "chart_lines_top_to_bottom": [
+      "青龙      ▅▅▅▅▅ 父母寅木",
+      "玄武      ▅▅ ▅▅ 官鬼子水    动 妻财申金",
+      "白虎 妻财申金 ▅▅ ▅▅ 子孙戌土 世 动 兄弟午火",
+      "螣蛇      ▅▅ ▅▅ 兄弟午火    动 妻财酉金",
+      "勾陈      ▅▅▅▅▅ 子孙辰土",
+      "朱雀      ▅▅ ▅▅ 父母寅木 应"
+    ]
+  }
+}
