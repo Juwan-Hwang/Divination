@@ -1,0 +1,36 @@
+{"id": "AS-012", "file": "AS-012.json", "field": "context.setting", "patterns": ["en-outcome-event"], "value": "He had lately lost the benefit of some good place in the Commonwealth and was solicitous how to live in his former credit; he pressed his suit for the parsonage despite Lilly's advice"}
+{"id": "AS-014", "file": "AS-014.json", "field": "context.setting", "patterns": ["en-outcome-event"], "value": "Question of theft: who is the thief, and shall the money be recovered?"}
+{"id": "AS-213", "file": "AS-213.json", "field": "context.setting", "patterns": ["en-outcome-event"], "value": "The prisoner had broken out of prison; the querent asked which way he had gone and whether he would be recovered."}
+{"id": "AS-302", "file": "AS-302.json", "field": "provenance.book", "patterns": ["url-slug-prediction"], "value": "英国《镜报》2020-10-19报道，经 mediclife 等转载 https://mediclife.net/news/british-astrologer-who-predicted-coronavirus/173316"}
+{"id": "AS-302", "file": "AS-302.json", "field": "provenance.url", "patterns": ["url-slug-prediction"], "value": "https://mediclife.net/news/british-astrologer-who-predicted-coronavirus/173316"}
+{"id": "AS-303", "file": "AS-303.json", "field": "context.asked_at", "patterns": ["zh-verification"], "value": "2024-06（事前，Moneycontrol于结果前报道）"}
+{"id": "AS-303", "file": "AS-303.json", "field": "provenance.page", "patterns": ["zh-verification"], "value": "2024-06（事前，Moneycontrol于结果前报道）"}
+{"id": "AS-304", "file": "AS-304.json", "field": "provenance.book", "patterns": ["en-prediction-outcome", "url-slug-prediction"], "value": "其X（推特）账号原文，后经 Timesnownews 报道引录 https://www.timesnownews.com/viral/what-happened-to-the-astrologer-who-predicted-kamala-harris-would-win-the-us-elections-become-the-first-brahmin-woman-president-with-306-seats-article-115083422"}
+{"id": "AS-304", "file": "AS-304.json", "field": "provenance.url", "patterns": ["en-prediction-outcome", "url-slug-prediction"], "value": "https://www.timesnownews.com/viral/what-happened-to-the-astrologer-who-predicted-kamala-harris-would-win-the-us-elections-become-the-first-brahmin-woman-president-with-306-seats-article-115083422"}
+{"id": "AS-306", "file": "AS-306.json", "field": "provenance.book", "patterns": ["url-slug-prediction"], "value": "其YouTube视频（2024-06-02）；PRWeb 2024-11通稿 https://www.prweb.com/releases/trump-will-be-crowned---indian-origin-us-based-astrologer-predicted-this-in-june-2024-302299787.html"}
+{"id": "AS-307", "file": "AS-307.json", "field": "provenance.book", "patterns": ["en-prediction-outcome", "url-slug-prediction"], "value": "HuffPost专题（镜像页）https://axonghoi.io.vn/were-election-astrologers-heres-who-we-predict-will-win-the-2024-race/"}
+{"id": "BQ-024", "file": "BQ-024.json", "field": "context.attachments.chart_excerpt", "patterns": ["zh-later-outcome"], "value": "原文：「卜得噬嗑之颐卦，日辰并起子孙」；注家后验之理：「孟月四爻……正临怪爻发动」（螣蛇鬼动）"}
+{"id": "BZ-016", "file": "BZ-016.json", "field": "context.setting", "patterns": ["zh-later-outcome"], "value": "清雍正帝第四子弘历，生于王府，断时（任氏注书时）其后来为帝之事于命例语境中作为已知贵造引用——注意：此例为事后引用型成例，盲测时只能给四柱与时代背景，不得给身份"}
+{"id": "BZ-035", "file": "BZ-035.json", "field": "context.setting", "patterns": ["zh-verification"], "value": "命主李鸿章，晚清重臣；与崇祯造同为曲直从旺，一清一浊，结局悬殊，韦氏引《滴天髓》「从神又有吉和凶」论之"}
+{"id": "BZ-105", "file": "BZ-105.json", "field": "context.setting", "patterns": ["zh-verification"], "value": "1985年该军官向邵伟华求测运程；邵先就其柱中断其过去两个年份的经历以验盘。注意：此例属「测过去」的回溯验证，非未来预测"}
+{"id": "LR2-013", "file": "LR2-013.json", "field": "context.setting", "patterns": ["zh-verification"], "value": "沈云生被京营曹大司礼参劾，索占回奏结果。"}
+{"id": "LY-033", "file": "LY-033.json", "field": "context.asked_at", "patterns": ["zh-verification"], "value": "原文未明記月日（斷語及應驗涉立春、正月）"}
+{"id": "LY-036", "file": "LY-036.json", "field": "context.asked_at", "patterns": ["zh-verification"], "value": "本月（據應驗「果於本月」，月名原文未記）"}
+{"id": "LY-103", "file": "LY-103.json", "field": "context.setting", "patterns": ["zh-verification"], "value": "午月丙辰日，占问当晚天气，数小时内即可验证"}
+{"id": "LY-105", "file": "LY-105.json", "field": "context.setting", "patterns": ["zh-later-outcome"], "value": "2005年前后，网友得知交流对象是王虎应学生，请其代看母亲身体；学生把握不准，转请王虎应指教。占时：乙酉年壬午月壬戌日（子丑空）丙午时"}
+{"id": "LY-402", "file": "LY-402.json", "field": "context.setting", "patterns": ["zh-later-outcome"], "value": "占自陳（向上申辯）之後果"}
+{"id": "LY-523", "file": "LY-523.json", "field": "context.setting", "patterns": ["zh-directional"], "value": "兄病危篤、醫家不治，弟迎卜者到宅占兄病"}
+{"id": "MH-001", "file": "MH-001.json", "field": "notes.comment", "patterns": ["zh-later-outcome"], "value": "《梅花易數》托名宋·邵雍，邵雍真著無此書，通行本係後世（明）編集流傳；大師歸屬以傳世文本所題為準，出處真偽照實標注。 本例過於著名，模型可能已背誦，評分應降權。"}
+{"id": "MH-003", "file": "MH-003.json", "field": "notes.comment", "patterns": ["zh-later-outcome"], "value": "《梅花易數》托名宋·邵雍，邵雍真著無此書，通行本係後世（明）編集流傳；大師歸屬以傳世文本所題為準，出處真偽照實標注。 本例過於著名，模型可能已背誦，評分應降權。"}
+{"id": "OC-007", "file": "OC-007.json", "field": "context.asked_at", "patterns": ["zh-directional"], "value": "1931年（辛未）命主逝世后，友人持年庚来询"}
+{"id": "OC-011", "file": "OC-011.json", "field": "context.asked_at", "patterns": ["zh-directional"], "value": "1935年命主逝世后，友人嘱推"}
+{"id": "OC-011", "file": "OC-011.json", "field": "context.setting", "patterns": ["zh-directional"], "value": "命主为当红电影明星，新近逝世，问者欲验推断。"}
+{"id": "WP-003", "file": "WP-003.json", "field": "provenance.work", "patterns": ["en-prediction-outcome"], "value": "Astrology News Service, 'Panel of Astrologers Predicts Obama Victory', May 2012 (New Orleans)"}
+{"id": "WP-003", "file": "WP-003.json", "field": "provenance.url", "patterns": ["en-prediction-outcome"], "value": "https://astrologynewsservice.com/news/panel-of-astrologers-predicts-obama-victory/"}
+{"id": "WP-004", "file": "WP-004.json", "field": "provenance.url", "patterns": ["en-prediction-outcome"], "value": "http://en.prothomalo.com/amp/story/international/Astrologers-predict-who-is-going-to-win-White"}
+{"id": "WP-004", "file": "WP-004.json", "field": "provenance.page", "patterns": ["en-prediction-outcome"], "value": "Prothom Alo, 'Astrologers predict who is going to win White House race', published 08 Nov 2016, 14:24"}
+{"id": "WP-005", "file": "WP-005.json", "field": "provenance.work", "patterns": ["en-prediction-outcome"], "value": "Los Angeles Times ISAR report via Prothom Alo, 'Astrologers predict who is going to win White House race', 8 Nov 2016"}
+{"id": "WP-005", "file": "WP-005.json", "field": "provenance.url", "patterns": ["en-prediction-outcome"], "value": "http://en.prothomalo.com/amp/story/international/Astrologers-predict-who-is-going-to-win-White"}
+{"id": "WP-007", "file": "WP-007.json", "field": "provenance.url", "patterns": ["en-prediction-outcome", "url-slug-prediction"], "value": "https://thetab.com/us/2016/08/26/new-york-psychic-predicted-trump-winning-election-50290"}
+{"id": "WP-011", "file": "WP-011.json", "field": "context.setting", "patterns": ["en-outcome-event"], "value": "Incumbent Republican President Donald Trump seeks re-election against Democrat Joe Biden; the election is on 3 November 2020. Trump recently tested positive for COVID-19 and has recovered enough to campaign. In Trump's Vedic chart Jupiter sits in the second house aspecting the tenth, where the Sun is placed."}
+{"id": "YY-006", "file": "YY-006.json", "field": "context.setting", "patterns": ["zh-later-outcome"], "value": "英宗北狩，命全寅筮之：车驾何时旋归、归后处境如何、能否复辟（朝廷占·古占验）"}
