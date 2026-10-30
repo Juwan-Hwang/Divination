@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-002",
+ "prediction_text": "Barack Obama wins the 2008 presidential election. The challenger, not the establishment candidate, takes the White House: the Saturn–Uranus opposition perfecting on Election Day itself reads as the old order (Saturn — the incumbent party, the older candidate) confronted and displaced by the insurgent change candidate (Uranus). Expect a clear, not razor-thin, result on 4 November 2008, carried by younger and first-time voters; the generational-change signature is the deciding factor.",
+ "basis": "Western mundane astrology (election-day configuration reading, per packaged western-astro reference). No tradition field in input; not liuyao, trigger all false. Facts given: Obama leads the Democratic race, McCain is the presumptive Republican nominee, and Saturn comes into opposition with Uranus beginning on Election Day — a configuration the input notes was last seen 45 years earlier (the mid-1960s upheaval cycle). In mundane reading an exact Saturn–Uranus opposition on the day itself is a contest signature resolved toward Uranus when the challenger embodies it; Saturn's side (incumbent party, age, establishment) is the one being opposed and broken. No candidates' natal data supplied, so the call rests on the election-day configuration alone — confidence moderate.",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

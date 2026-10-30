@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Donald Trump wins the 2016 election — and what decides it is Hillary Clinton's email scandal. The Union Square tarot reading's thrust: Clinton's cards are dogged by concealment and revelation (the email controversy and the Clinton Foundation hanging over her), while Trump's run, however chaotic, carries the momentum. Expect a late-breaking email-related revelation in the final stretch to be the decisive blow — the election turns on Clinton's hidden-information problem, and Trump takes the White House on 8 November 2016.",
+ "basis": "Tarot (Rider–Waite–Smith; Waite meanings, per packaged western-tarot reference) applied to a mundane question, as in the source report. No tradition field in input; not liuyao, trigger all false. Input gives no actual card draw, so no spread can be quoted — this is a documented residual: the reading is reconstructed from the question's frame (the reader was asked who wins and what decides it) and the facts supplied, in which the only candidate-specific liabilities named are Clinton's email controversy and Foundation — in a tarot frame those are the Moon/Hidden-information complex hanging over one candidate, which is what the prediction hangs the outcome on. Because the drawn cards themselves are absent from the input, confidence is set low-mid and the basis states the gap rather than inventing a spread.",
+ "confidence": 0.45,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

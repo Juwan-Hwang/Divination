@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "Hillary Clinton wins the 2016 presidential election. This is the conference-panel call (the majority reading reported from the Costa Mesa election panel): Clinton becomes the first woman president, in line with the polling lead she holds through October. Expect the result on 8 November 2016 to confirm the consensus — a Clinton victory, with the popular-vote and electoral outcomes pointing the same way, rather than an upset.",
+ "basis": "Western mundane astrology (panel-consensus election reading, as reported). No tradition field in input; not liuyao, trigger all false. Given facts: Clinton faces Trump on 8 November 2016, most polls favour Clinton, and an international astrology conference panel is convened on the election. Where a panel is the source and no dissenting configuration is supplied, the deliverable prediction is the panel's majority conclusion, which tracks the frontrunner: nothing in the supplied setting (no election-day affliction, no challenger-favouring configuration) supports overturning the polling favourite. This case is read as the panel-consensus instance; the separate one-astrologer instance is WP-005. Confidence held at mid-range because panel consensus in election years is a soft instrument.",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

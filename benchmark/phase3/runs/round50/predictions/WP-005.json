@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-005",
+ "prediction_text": "Donald Trump wins the 2016 presidential election. This is the call of the one panel astrologer who, when 17 Republicans still contested the nomination, had already picked Trump to become the Republican nominee against the whole field — the same chart judgement extends through November: Trump, not Clinton, takes the White House on 8 November 2016, in an upset of the polling consensus, most plausibly via an Electoral College path while the popular vote runs closer or the other way.",
+ "basis": "Western mundane astrology (individual practitioner's election reading). No tradition field in input; not liuyao, trigger all false. The discriminating fact supplied for this instance: the astrologer in question demonstrated the cycle's key contrarian call — selecting Trump as nominee out of a 17-candidate field when that was a fringe position. A reader whose method resolved the nomination correctly against consensus is, on the evidence given, reading a Trump signature the consensus instruments miss; extending that same reading to the general election gives Trump the win. This is deliberately split from the panel-consensus instance (WP-004): same election, different source and different prediction, per the two reports' provenance. Confidence mid-range — single-practitioner contrarian call.",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

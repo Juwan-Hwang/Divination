@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-003",
+ "prediction_text": "Barack Obama is re-elected on 6 November 2012; Mitt Romney does not take the White House. The Mercury retrograde station beginning on Election Day does not change the winner — its signature falls on the process instead: expect delayed counts, disputed or slow-reported results in places, and some voting confusion on the day, echoing 2000 in procedure but not in outcome. The incumbent holds; the result is confirmed after a messy count rather than overturned by it.",
+ "basis": "Western mundane astrology (election-day configuration reading). No tradition field in input; not liuyao, trigger all false. Given facts: incumbent president standing for re-election in a competitive race, and a Mercury retrograde period beginning on election day itself. Mundane convention: a Mercury station on election day afflicts communications, counts and announcements (process), not the identity of the winner; incumbency in mundane terms is the Saturnian status-quo position and is displaced only by a stronger affliction signature, which the supplied configuration does not contain. No natal charts supplied, so the winner call rests on incumbency plus the election-day signature — confidence moderate.",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
