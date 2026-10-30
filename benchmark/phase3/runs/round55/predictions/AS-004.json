@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-004",
+ "prediction_text": "传闻不实：国王并未攻下 Cambridge。问者／议会一方 significatrix 在擢升而强，对方（国王一方）七宫主入陷落而受克；四角皆变动、月亮 cadent 且在其不喜之星座，皆主谣言无根、事不久移。时间窗：即时／数日内即知其伪，无攻陷之事。",
+ "basis": "卡面未标注 tradition/system 字段；实际所用体系：西洋卜卦占星（horary，Lilly 古典规则，谣言真伪门）。\n谣言门以角宫与月亮状态验真伪：角皆 moveable、月亮 cadent 且不得意，主虚浮不实；上升主（议会方）擢升强旺，七宫主（国王方）入 fall 受 affliction，两方强弱与『国王已取城』相反，故断伪报。应期单位日（战时谣言属近事日档），依据为月亮 cadent 与变动角主速散。",
+ "confidence": 0.85,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": "WP-007",
+  "prediction_text": "Direction: Donald Trump wins the 2016 US presidential election. What decides it: Hillary Clinton's trust/scandal burden — the email controversy and Clinton Foundation questions named on the card — collapsing her support late in the race; the reading is that character/trust, not policy or turnout mechanics, is the deciding factor, and it breaks against Clinton. Confidence: low-moderate (the drawn cards themselves are not recorded on the card).",
+  "basis": "卡面未标注 tradition/system 字段; system actually used: tarot (Waite tradition per method file). MAJOR ANCHOR DEFECT: the card states a tarot reader drew cards on the election in August 2016 but does not record which cards were drawn — the actual tarot anchor is missing from the input, so no card-by-card delineation can honestly be given and none is invented. The prediction is therefore made only from what the card does supply: the question's own framing ('what will decide it') plus the setting's explicit singling-out of Clinton's email controversy and the Clinton Foundation as live public controversies, which in a Waite-style narrative read function as the reversed-trust / judgement-clouded theme of the spread. Confidence is substantially lowered for the missing cards, per the rule against fabricating a cast.",
+  "confidence": 0.38,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": ""
+  }
+}

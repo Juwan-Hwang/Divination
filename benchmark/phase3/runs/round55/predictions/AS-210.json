@@ -1,0 +1,12 @@
+{
+  "case_id": "AS-210",
+  "prediction_text": "断：能得此官职/优缺（positive）。月亮在第十宫（官位宫）入庙位而向在上升得擢升的土星作三合，且金星（求测者主星）与土星互容接纳——官位之星与求测者主星双向接纳又月亮传光，是授职成局之象；虽太阳（第十一宫主、所谓朋友）在第七宫对冲上升又带龙尾，主那位太阳型的朋友靠不住、会在对面作梗或假意相助，终局仍由土星接纳定成。应期：单位月；窗口为占后1至3个月，主坐标约第2个月月亮三合土星之应点前后授职见分晓。",
+  "basis": "卡面 tradition=horary；实际所用体系：Lilly古典卜卦占星（整宫、七政尊贵与接纳）。依据卡面 key_positions：Moon in 10th applying trine Saturn exalted in Asc, Venus-Saturn mutual reception, Saturn lord 4th主终局；反证 Sun lord 11th in 7th opp Asc cum Cauda只压量级（朋友不可靠）不翻成局，按 calibration 古典规则与 SKILL 卜卦路由作断。卡面未给完整星盘与相位度数，应期只能定月尺度，已降置信于应期部分。",
+  "confidence": 0.78,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": ""
+  }
+}

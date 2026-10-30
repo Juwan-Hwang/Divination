@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-008",
+ "prediction_text": "方向：莫迪领导的 BJP/NDA 获胜连任。BJP 本身可过半、NDA 以明显多数组阁，莫迪续任总理；应期为既定计票日——窗口 2019-04-11 至 05-23 投票计票期，主坐标 2019-05-23 计票揭晓。置信中高。",
+ "basis": "卡面未标注 tradition/system 字段；实际所用体系：卡面事实优先的选举研判（无出生盘/星盘输入，不强排占星盘）。依据：现任总理莫迪求连任、卡面无在野党领先之事实，事实优先序下取 incumbent 强势一方；输入残损：无任何星盘、行运或起卦数据，置信据此封顶。",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

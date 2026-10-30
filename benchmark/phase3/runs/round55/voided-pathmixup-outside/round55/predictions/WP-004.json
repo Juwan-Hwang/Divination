@@ -1,0 +1,12 @@
+{
+  "case_id": "WP-004",
+  "prediction_text": "Direction: Hillary Clinton wins the 2016 US presidential election. The Costa Mesa conference forecasting panel's consensus follows the prevailing astrological and polling read of October 2016 and names Clinton as the winner over Donald Trump. Confidence: moderate-low (panel-consensus call, aligned with the polls stated on the card).",
+  "basis": "卡面未标注 tradition/system 字段; system actually used: western astrology (conference election-forecasting panel, as framed on the card). The card supplies no chart, configuration or cards — the only anchors are the setting facts: most polls favour Clinton, and a professional astrologers' panel is convening specifically to forecast the result. A panel consensus formed in that evidential environment is read as landing on the favoured, establishment candidate, Clinton. Because the card gives no delineable chart data, no chart-based reasoning is fabricated; confidence is lowered for the missing anchor.",
+  "confidence": 0.48,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": ""
+  }
+}

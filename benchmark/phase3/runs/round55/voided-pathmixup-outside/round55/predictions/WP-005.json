@@ -1,0 +1,12 @@
+{
+  "case_id": "WP-005",
+  "prediction_text": "Direction: Donald Trump wins the 2016 US presidential election. This is the call of the one panel astrologer singled out on the card — the astrologer who had already, against a 17-candidate field, correctly picked Trump as the Republican nominee; that same reader's general-election call is read as staying with Trump over Hillary Clinton. Confidence: moderate-low.",
+  "basis": "卡面未标注 tradition/system 字段; system actually used: western astrology (individual election forecast within the ISAR panel, as framed on the card). The card distinguishes this case from a generic panel consensus by one fact only: a specific panel astrologer had earlier in the cycle picked Trump as nominee when 17 Republicans still contested it. The subject of this case is therefore that astrologer's forecast, and a reader whose cycle-long read has been Trump does not switch to Clinton at the final step; the prediction follows that through-line. No chart data is supplied on the card and none is invented; confidence lowered for the missing chart anchor.",
+  "confidence": 0.48,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": ""
+  }
+}
