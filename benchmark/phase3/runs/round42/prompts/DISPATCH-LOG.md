@@ -27,3 +27,8 @@
 - 平台评审双视 8 席（JX1–4／JY1–4）、仲裁席（按需）、分析脚本（runs/round42 内新写唯一名）
 - W 监测席（平台定稿后，DIAG-LR-weight-dev42）
 - holdout18 验收席（平台全立后：盲测 2 席＋评审 4 席，体例承 h17）
+
+## 评审与验收席（2026-10-30 主持追加二）
+- 平台评审双视 8 席：JX1 b082ea1c｜JX2 35c0c4a8｜JX3 390f9c11｜JX4 ba5c113e｜JY1 9e05f9d5｜JY2 b13090cf｜JY3 fd1e7d6a｜JY4 4b734a50；仲裁 1 例（YM-030）64b9f5f6。平台三项全立，提交 2e44de9f。
+- W 监测席（第五轮）f47793a4 → diagnosis/DIAG-LR-weight-dev42.md（附读，冻结维持）。
+- holdout18 验收盲测：ACZ b862dc8b（测字 15）｜ALR 373a486f（六壬 15）；验收评审 JO1 c5e8b43f｜JO2 3fa74cfd｜JM1 85c64204｜JM2 ef558245，双侧零争议无仲裁。验收未达标，holdout18 标已用。
