@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-003",
+ "prediction_text": "Direction: Barack Obama is re-elected in 2012; Mitt Romney loses. Specifics: the incumbent holds the White House on 6 November 2012, but the Mercury retrograde station beginning on election day marks a messy count — reporting confusion, contested narratives and delayed clarity in places — without overturning the result; the final certified outcome stands for Obama. Margin grade: competitive but decisive enough to survive the retrograde noise (no 2000-style reversal is predicted). Timing: single-date event, 6 November 2012 (day-scale per the question), with the counting/clarity tail running into the following days of the retrograde period.",
+ "basis": "tradition/system: not labelled on the input card; system actually used: Western mundane/electional astrology.\nBasis: card-given facts — incumbent president running, Romney presumptive nominee, competitive polling, Mercury retrograde beginning on election day. Electional convention: a retrograde station on the day afflicts process (counting, communications) rather than reversing an otherwise-settled direction; incumbency plus no afflicting configuration against the incumbent on the card supports retention. No natal charts are supplied, so the call rests on the mundane signature and the stated race facts only, and confidence is graded accordingly.",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

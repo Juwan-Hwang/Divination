@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-211",
+ "prediction_text": "方向：可寻回（positive）——马可复得。十二宫主（马之征象）逆行且急趋合求问者二宫主（二宫为其财物宫），月亮亦在二宫、二宫头近旁另有二逆行星，皆主失物回归财主之手、自行/被人送回。具体断语：马往西方去（十二宫星座、其主所在星座及多项证词齐指西，为全盘 plurality），寻回方向主西；应期单位日/旬，窗口为问后旬内，主坐标取十二宫主合二宫主完成之时（无度数不可定确日）。七宫受克主曾被他人牵走/经手，然终归本主。",
+ "basis": "tradition: horary（卡面 tradition=horary）；实际所用体系：Lilly 古典卜卦占星，失物门。依据：lord 12th retrograde hastening to conj lord 2nd, Moon in 2nd, testimonies full west。输入残损：无完整盘面度数，应期降格为旬窗。",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

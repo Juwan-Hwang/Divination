@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-004",
+ "prediction_text": "消息不实：国王并未攻下剑桥（Cambridge）。剑桥仍在议会一方手中，国王一方标志星入弱受克、无取城之力。此为单点真伪问，无近远两段。应期：消息在旬月内即被证伪，主坐标为随后数日内传来的确报。置信：假消息方向高。",
+ "basis": "tradition：未标注（卡面无 tradition/system 字段）；实际所用体系：horary（Lilly 卜卦占星，古典整宫、七政尊贵/接纳/月亮应用）。 依据：四角皆变动，土星败10宫头、火星败7宫头，月亮陷宫且在不喜之星座，太阳临上升头；问者方上升主擢升强旺，对方（国王方）7宫主入弱且受克。卜卦问谣言：月陷宫、凶星败角宫头为谣言虚妄之象。",
+ "confidence": 0.8,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

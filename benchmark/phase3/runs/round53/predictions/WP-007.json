@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Direction: Donald Trump wins the 2016 election, and what decides it is Hillary Clinton's trust collapse over the email controversy and the Clinton Foundation. Specifics: the Manhattan tarot reading of August 2016 points away from the polling favourite — Clinton's campaign is fatally weighed down by the already-public email/Foundation controversies (the card-given facts the reading fastens on), late-campaign damage from that quarter breaks her lead, and Trump takes the White House on 8 November 2016. Timing: decided across the autumn campaign, main coordinate election day 8 November 2016 (day-scale per the question). Confidence is explicitly reduced: the card states that cards were drawn but does not transcribe a single card face, so no Waite card-by-card reading can honestly be reconstructed — this call rests on the reading's reported thrust and the card-given controversy facts, not on invented card faces.",
+ "basis": "tradition/system: not labelled on the input card; system actually used: Tarot (Rider-Waite-Smith / Waite Pictorial Key), with input damage declared.\nInput damage: the card records that a tarot reader was consulted and drew cards in August 2016, but gives no spread, no card names and no reversed/upright states. Per the frozen method, Waite readings must rest on actual drawn faces; none are available, so no faces are fabricated and confidence is cut. What can be used honestly: the question, the date, the polling facts, and the card's own emphasis that Clinton's email controversy and the Clinton Foundation were already public — under the fact-priority rule those facts bound the reading's decisive-factor claim. The companion panel cases (WP-004/WP-005) are not imported into this call.",
+ "confidence": 0.45,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

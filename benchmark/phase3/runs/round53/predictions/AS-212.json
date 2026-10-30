@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-212",
+ "prediction_text": "方向：非巫蛊（negative to bewitched）——不是被下蛊/巫术所害，是自然之病。虽月亮趋冲土星、二星分居六、十二宫曾惹巫蛊之疑，但上升、上升主与月亮皆不受十二宫主克害，巫蛊门证词不成立，不可按巫蛊断。具体：月亮冲土星后转而施相于上升主，上升主在地平线上、向天顶上升，主病势有转机、病人渐起；近段仍重（土星踞六宫头、其主在十二宫，药石曾无效、缠绵），远段转愈之触发为月亮成相上升主。应期单位月，窗口问后一月内见转机，主坐标取月成相上升主之时（无度数不细化到日）。",
+ "basis": "tradition: horary（卡面 tradition=horary）；实际所用体系：Lilly 古典卜卦占星，疾病/巫蛊门。依据卡面：neither Asc nor its lord nor Moon afflicted by lord 12th; Moon after opp Saturn applies to lord Asc above earth ascending to meridian。对象复核：断语承受对象与应验对象均为病人本人。输入残损：日期 OCR 不清、无度数。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
