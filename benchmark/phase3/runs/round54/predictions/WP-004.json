@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "Direction: The conference panel's consensus prediction is Hillary Clinton to win the 2016 US presidential election over Donald Trump, decided 8 November 2016 (single dated event, day scale) — i.e. the panel majority calls it for Clinton, in line with the polls.",
+ "basis": "tradition/system: not labelled on the card (no tradition/system field); system actually used: Western astrology (conference election panel consensus).\nBasis: this card asks for the panel's call as a body: card facts are that most polls favour Clinton and an international astrology conference panel is forecasting the race. Panel-consensus forecasts of this kind track the conventional indicators and the majority of panellists; on the facts supplied the consensus call is Clinton. This card is kept distinct from WP-005, which isolates a single panellist with a contrary track record. No individual charts are supplied on the card.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

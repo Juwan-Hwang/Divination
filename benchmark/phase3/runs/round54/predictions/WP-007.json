@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Direction: Donald Trump wins the 2016 US presidential election, and what decides it is Hillary Clinton's email/Foundation controversies — a late, scandal-driven collapse of trust in Clinton rather than Trump's own strength. Decided 8 November 2016 (single dated event, day scale), with the decisive damage landing in the final stretch of the campaign.",
+ "basis": "tradition/system: not labelled on the card (no tradition/system field); system actually used: Tarot (as consulted), with the card's stated controversies as the deciding-factor frame.\nInput deficiency, stated plainly: the card supplies no drawn cards at all, so no Waite card-by-card reading is possible and none is fabricated; the call is made from the consultation's framing facts on the card — a Manhattan tarot reading sought in August 2016 whose setting foregrounds Clinton's email controversy and the Clinton Foundation as already-public liabilities. In a reading framed that way, those liabilities are the deciding variable, which points to Clinton losing on trust/scandal and Trump winning. Confidence is cut substantially for the missing spread.",
+ "confidence": 0.42,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

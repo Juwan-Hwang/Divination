@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-002",
+ "prediction_text": "Direction: Barack Obama wins the 2008 US presidential election. The change candidate defeats John McCain in the general election of 4 November 2008 (decided on election day, day scale as the question is a single dated event). Saturn–Uranus opposition beginning on Election Day favours the insurgent/change side over the establishment incumbent party.",
+ "basis": "tradition/system: not labelled on the card (no tradition/system field); system actually used: Western electional/mundane astrology.\nBasis: card facts — Obama leads the Democratic contest in May 2008, McCain is the presumptive Republican nominee, and Saturn (establishment, ruling party) comes into opposition with Uranus (change, insurgency) beginning on Election Day, a configuration last seen 45 years earlier at a time of upheaval. In electional doctrine an exact Saturn–Uranus opposition on the day breaks for change of ruling party. No candidate charts are supplied on the card, so the call rests on the mundane configuration plus the primary-season standing; confidence held at moderate for that reason.",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-215",
+ "prediction_text": "方向：败——此次西征无功无荣，结局是损兵失利、声名受损的失败（negative）。具体断语：上升主土星失势（peregrine）且落陷居第二宫，军资/给养与自身根基俱弱；龙尾居上升主出征本身带损耗之象；月亮居 detriment 且离土星三合后转刑火星（其第二宫与第九宫主，主军资、援军、友军与行程），途中先尚有旧援，随后在军资与援应上出事，终以挫败收场，并有被敌方占上风之势——福点由第七宫主（敌方 significator）所主宰，利在敌不在己。应期：单位为月——窗口为出征后数月内，主坐标取月亮刑火星所主的转折期，出征当季之内即见败局，不待经年。",
+ "basis": "tradition/system：horary（卡面自带 tradition=horary，Lilly 事件盘/古典卜卦占星）\n依据：上升水瓶，上升主土星 peregrine 且 in fall 在第二宫——本人与军资俱无力；南交点（龙尾）在上升为出征损耗之强证；月亮 detriment、separating 土星三合（旧支持已过）而 applying square 火星，火星为其二宫（军资）与九宫（远行/援应）主，转折触发明确；福点 dispositor 为七宫主即敌方 significator，利归敌。等级校准：多重 affliction 同向叠加且无接纳救应，故按足级断败而不作保守降格。输入残损：无完整度数，应期只定月量级。",
+ "confidence": 0.85,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
