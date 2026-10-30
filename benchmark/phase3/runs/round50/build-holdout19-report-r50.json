@@ -1,0 +1,827 @@
+{
+  "round": 50,
+  "set": "holdout19",
+  "built_by": "组集数据席（R50）",
+  "ruling": "runs/round50/PREREG-ADDENDUM-1.md",
+  "T": 25,
+  "order": [
+    "SS-001",
+    "SS-005",
+    "YJ2-005",
+    "YJ2-006",
+    "YJ2-007",
+    "YJ2-009",
+    "YJ2-010",
+    "YJ3-001",
+    "YJ3-002",
+    "YJ3-003",
+    "YJ3-004",
+    "YJ3-005",
+    "YW3-001",
+    "XJ47-047",
+    "XJ47-092",
+    "XJ47-289",
+    "XJ47-373",
+    "XJ47-386",
+    "XJ47-442",
+    "XJ47-500",
+    "XJ47-502",
+    "LK-058",
+    "LK-046",
+    "LK-054",
+    "YZ-C019"
+  ],
+  "composition": {
+    "non_dream": [
+      "SS-001",
+      "SS-005",
+      "YJ2-005",
+      "YJ2-006",
+      "YJ2-007",
+      "YJ2-009",
+      "YJ2-010",
+      "YJ3-001",
+      "YJ3-002",
+      "YJ3-003",
+      "YJ3-004",
+      "YJ3-005",
+      "YW3-001"
+    ],
+    "dream": [
+      "XJ47-047",
+      "XJ47-092",
+      "XJ47-289",
+      "XJ47-373",
+      "XJ47-386",
+      "XJ47-442",
+      "XJ47-500",
+      "XJ47-502",
+      "LK-058",
+      "LK-046",
+      "LK-054",
+      "YZ-C019"
+    ],
+    "by_source": {
+      "夷坚志": 12,
+      "阅微草堂笔记": 1,
+      "夢林玄解": 8,
+      "夢占類考": 3,
+      "夢占逸旨": 1
+    },
+    "by_tradition": {
+      "yizhan": 3,
+      "dunjia": 1,
+      "zeri": 1,
+      "fangji": 4,
+      "xiangshu": 2,
+      "ming": 1,
+      "fuji": 1,
+      "mengzhan": 12
+    },
+    "dream_share": "12/25 = 48.0%",
+    "yijian_share": "12/25 = 48.0%"
+  },
+  "fallback": {
+    "triggered": false,
+    "removed_case": null,
+    "buildability": {
+      "XJ47-047": {
+        "statement_verbatim_present": true,
+        "outcome_verbatim_present": true,
+        "buildable": true
+      },
+      "XJ47-092": {
+        "statement_verbatim_present": true,
+        "outcome_verbatim_present": true,
+        "buildable": true
+      },
+      "XJ47-289": {
+        "statement_verbatim_present": true,
+        "outcome_verbatim_present": true,
+        "buildable": true
+      },
+      "XJ47-373": {
+        "statement_verbatim_present": true,
+        "outcome_verbatim_present": true,
+        "buildable": true
+      },
+      "XJ47-386": {
+        "statement_verbatim_present": true,
+        "outcome_verbatim_present": true,
+        "buildable": true
+      },
+      "XJ47-442": {
+        "statement_verbatim_present": true,
+        "outcome_verbatim_present": true,
+        "buildable": true
+      },
+      "XJ47-500": {
+        "statement_verbatim_present": true,
+        "outcome_verbatim_present": true,
+        "buildable": true
+      },
+      "XJ47-502": {
+        "statement_verbatim_present": true,
+        "outcome_verbatim_present": true,
+        "buildable": true
+      },
+      "LK-058": {
+        "statement_verbatim_present": true,
+        "outcome_verbatim_present": true,
+        "buildable": true
+      },
+      "LK-046": {
+        "statement_verbatim_present": true,
+        "outcome_verbatim_present": true,
+        "buildable": true
+      },
+      "LK-054": {
+        "statement_verbatim_present": true,
+        "outcome_verbatim_present": true,
+        "buildable": true
+      },
+      "YZ-C019": {
+        "statement_verbatim_present": true,
+        "outcome_verbatim_present": true,
+        "buildable": true
+      }
+    },
+    "note": "梦占 12 例断语与结局均有登记逐字文本（逐例见 buildability 与各卡 grade_note 之限度登记：XJ47-092/289/442/502 结局为登记「逐字要點」、YZ-C019 断语尾二字 □□ 挂起且结局仅纲目级二字——均属有逐字文本而 成色受限，非「无逐字文本」，不构成回退触发）"
+  },
+  "zero_reuse_recheck": {
+    "holdout2_ids": 29,
+    "holdout3_18_gold_ids": 490,
+    "dev9_ids": 487,
+    "used_union": 901,
+    "method": "只对 id 集（phase2/splits2.json、holdout3–18 test_gold.jsonl 仅取 id 字段、data/master-baseline-dev9.json 键集）；未打开任何已封存集金标正文做内容比对",
+    "selected_hit_count": 0,
+    "fallback_pool_hit_count": 0
+  },
+  "input_field_whitelist": [
+    "id",
+    "tradition",
+    "subject",
+    "context",
+    "question",
+    "setting",
+    "provenance",
+    "redistributable",
+    "license_status"
+  ],
+  "strip_register": {
+    "SS-001": [
+      "record_status（管理字段，剥离）",
+      "notes（管理字段，剥离）",
+      "record_status（金标侧，不入输入卡）",
+      "notes（金标侧，不入输入卡）",
+      "master_predictions（金标侧，不入输入卡）",
+      "outcome（金标侧，不入输入卡）",
+      "passage_full（金标侧，不入输入卡）",
+      "grade_suggestion（金标侧，不入输入卡）",
+      "grade_reason（金标侧，不入输入卡）",
+      "contamination_suggestion（金标侧，不入输入卡）",
+      "contamination_reason（金标侧，不入输入卡）"
+    ],
+    "SS-005": [
+      "record_status（管理字段，剥离）",
+      "notes（管理字段，剥离）",
+      "record_status（金标侧，不入输入卡）",
+      "notes（金标侧，不入输入卡）",
+      "master_predictions（金标侧，不入输入卡）",
+      "outcome（金标侧，不入输入卡）",
+      "passage_full（金标侧，不入输入卡）",
+      "grade_suggestion（金标侧，不入输入卡）",
+      "grade_reason（金标侧，不入输入卡）",
+      "contamination_suggestion（金标侧，不入输入卡）",
+      "contamination_reason（金标侧，不入输入卡）"
+    ],
+    "YJ2-005": [
+      "record_status（管理字段，剥离）",
+      "notes（管理字段，剥离）",
+      "record_status（金标侧，不入输入卡）",
+      "notes（金标侧，不入输入卡）",
+      "master_predictions（金标侧，不入输入卡）",
+      "outcome（金标侧，不入输入卡）",
+      "passage_full（金标侧，不入输入卡）",
+      "grade_suggestion（金标侧，不入输入卡）",
+      "grade_reason（金标侧，不入输入卡）",
+      "contamination_suggestion（金标侧，不入输入卡）",
+      "contamination_reason（金标侧，不入输入卡）"
+    ],
+    "YJ2-006": [
+      "record_status（管理字段，剥离）",
+      "notes（管理字段，剥离）",
+      "record_status（金标侧，不入输入卡）",
+      "notes（金标侧，不入输入卡）",
+      "master_predictions（金标侧，不入输入卡）",
+      "outcome（金标侧，不入输入卡）",
+      "passage_full（金标侧，不入输入卡）",
+      "grade_suggestion（金标侧，不入输入卡）",
+      "grade_reason（金标侧，不入输入卡）",
+      "contamination_suggestion（金标侧，不入输入卡）",
+      "contamination_reason（金标侧，不入输入卡）"
+    ],
+    "YJ2-007": [
+      "record_status（管理字段，剥离）",
+      "notes（管理字段，剥离）",
+      "record_status（金标侧，不入输入卡）",
+      "notes（金标侧，不入输入卡）",
+      "master_predictions（金标侧，不入输入卡）",
+      "outcome（金标侧，不入输入卡）",
+      "passage_full（金标侧，不入输入卡）",
+      "grade_suggestion（金标侧，不入输入卡）",
+      "grade_reason（金标侧，不入输入卡）",
+      "contamination_suggestion（金标侧，不入输入卡）",
+      "contamination_reason（金标侧，不入输入卡）"
+    ],
+    "YJ2-009": [
+      "record_status（管理字段，剥离）",
+      "notes（管理字段，剥离）",
+      "record_status（金标侧，不入输入卡）",
+      "notes（金标侧，不入输入卡）",
+      "master_predictions（金标侧，不入输入卡）",
+      "outcome（金标侧，不入输入卡）",
+      "passage_full（金标侧，不入输入卡）",
+      "grade_suggestion（金标侧，不入输入卡）",
+      "grade_reason（金标侧，不入输入卡）",
+      "contamination_suggestion（金标侧，不入输入卡）",
+      "contamination_reason（金标侧，不入输入卡）"
+    ],
+    "YJ2-010": [
+      "record_status（管理字段，剥离）",
+      "notes（管理字段，剥离）",
+      "record_status（金标侧，不入输入卡）",
+      "notes（金标侧，不入输入卡）",
+      "master_predictions（金标侧，不入输入卡）",
+      "outcome（金标侧，不入输入卡）",
+      "passage_full（金标侧，不入输入卡）",
+      "grade_suggestion（金标侧，不入输入卡）",
+      "grade_reason（金标侧，不入输入卡）",
+      "contamination_suggestion（金标侧，不入输入卡）",
+      "contamination_reason（金标侧，不入输入卡）"
+    ],
+    "YJ3-001": [
+      "record_status（管理字段，剥离）",
+      "notes（管理字段，剥离）",
+      "record_status（金标侧，不入输入卡）",
+      "notes（金标侧，不入输入卡）",
+      "master_predictions（金标侧，不入输入卡）",
+      "outcome（金标侧，不入输入卡）",
+      "passage_full（金标侧，不入输入卡）",
+      "grade_suggestion（金标侧，不入输入卡）",
+      "grade_reason（金标侧，不入输入卡）",
+      "contamination_suggestion（金标侧，不入输入卡）",
+      "contamination_reason（金标侧，不入输入卡）"
+    ],
+    "YJ3-002": [
+      "record_status（管理字段，剥离）",
+      "notes（管理字段，剥离）",
+      "record_status（金标侧，不入输入卡）",
+      "notes（金标侧，不入输入卡）",
+      "master_predictions（金标侧，不入输入卡）",
+      "outcome（金标侧，不入输入卡）",
+      "passage_full（金标侧，不入输入卡）",
+      "grade_suggestion（金标侧，不入输入卡）",
+      "grade_reason（金标侧，不入输入卡）",
+      "contamination_suggestion（金标侧，不入输入卡）",
+      "contamination_reason（金标侧，不入输入卡）"
+    ],
+    "YJ3-003": [
+      "record_status（管理字段，剥离）",
+      "notes（管理字段，剥离）",
+      "record_status（金标侧，不入输入卡）",
+      "notes（金标侧，不入输入卡）",
+      "master_predictions（金标侧，不入输入卡）",
+      "outcome（金标侧，不入输入卡）",
+      "passage_full（金标侧，不入输入卡）",
+      "grade_suggestion（金标侧，不入输入卡）",
+      "grade_reason（金标侧，不入输入卡）",
+      "contamination_suggestion（金标侧，不入输入卡）",
+      "contamination_reason（金标侧，不入输入卡）"
+    ],
+    "YJ3-004": [
+      "record_status（管理字段，剥离）",
+      "notes（管理字段，剥离）",
+      "record_status（金标侧，不入输入卡）",
+      "notes（金标侧，不入输入卡）",
+      "master_predictions（金标侧，不入输入卡）",
+      "outcome（金标侧，不入输入卡）",
+      "passage_full（金标侧，不入输入卡）",
+      "grade_suggestion（金标侧，不入输入卡）",
+      "grade_reason（金标侧，不入输入卡）",
+      "contamination_suggestion（金标侧，不入输入卡）",
+      "contamination_reason（金标侧，不入输入卡）"
+    ],
+    "YJ3-005": [
+      "record_status（管理字段，剥离）",
+      "notes（管理字段，剥离）",
+      "record_status（金标侧，不入输入卡）",
+      "notes（金标侧，不入输入卡）",
+      "master_predictions（金标侧，不入输入卡）",
+      "outcome（金标侧，不入输入卡）",
+      "passage_full（金标侧，不入输入卡）",
+      "grade_suggestion（金标侧，不入输入卡）",
+      "grade_reason（金标侧，不入输入卡）",
+      "contamination_suggestion（金标侧，不入输入卡）",
+      "contamination_reason（金标侧，不入输入卡）"
+    ],
+    "YW3-001": [
+      "record_status（管理字段，剥离）",
+      "notes（管理字段，剥离）",
+      "record_status（金标侧，不入输入卡）",
+      "notes（金标侧，不入输入卡）",
+      "master_predictions（金标侧，不入输入卡）",
+      "outcome（金标侧，不入输入卡）",
+      "passage_full（金标侧，不入输入卡）",
+      "grade_suggestion（金标侧，不入输入卡）",
+      "grade_reason（金标侧，不入输入卡）",
+      "contamination_suggestion（金标侧，不入输入卡）",
+      "contamination_reason（金标侧，不入输入卡）"
+    ],
+    "XJ47-047": [
+      "（自登记建卡，无候选卡管理字段；斷語/結局/判級/污染/三鍵等登記側內容一律不入輸入卡，只入金標）"
+    ],
+    "XJ47-092": [
+      "（自登记建卡，无候选卡管理字段；斷語/結局/判級/污染/三鍵等登記側內容一律不入輸入卡，只入金標）"
+    ],
+    "XJ47-289": [
+      "（自登记建卡，无候选卡管理字段；斷語/結局/判級/污染/三鍵等登記側內容一律不入輸入卡，只入金標）"
+    ],
+    "XJ47-373": [
+      "（自登记建卡，无候选卡管理字段；斷語/結局/判級/污染/三鍵等登記側內容一律不入輸入卡，只入金標）"
+    ],
+    "XJ47-386": [
+      "（自登记建卡，无候选卡管理字段；斷語/結局/判級/污染/三鍵等登記側內容一律不入輸入卡，只入金標）"
+    ],
+    "XJ47-442": [
+      "（自登记建卡，无候选卡管理字段；斷語/結局/判級/污染/三鍵等登記側內容一律不入輸入卡，只入金標）"
+    ],
+    "XJ47-500": [
+      "（自登记建卡，无候选卡管理字段；斷語/結局/判級/污染/三鍵等登記側內容一律不入輸入卡，只入金標）"
+    ],
+    "XJ47-502": [
+      "（自登记建卡，无候选卡管理字段；斷語/結局/判級/污染/三鍵等登記側內容一律不入輸入卡，只入金標）"
+    ],
+    "LK-058": [
+      "（自登记建卡，无候选卡管理字段；斷語/結局/判級/污染/三鍵等登記側內容一律不入輸入卡，只入金標）"
+    ],
+    "LK-046": [
+      "（自登记建卡，无候选卡管理字段；斷語/結局/判級/污染/三鍵等登記側內容一律不入輸入卡，只入金標）"
+    ],
+    "LK-054": [
+      "（自登记建卡，无候选卡管理字段；斷語/結局/判級/污染/三鍵等登記側內容一律不入輸入卡，只入金標）"
+    ],
+    "YZ-C019": [
+      "（自登记建卡，无候选卡管理字段；斷語/結局/判級/污染/三鍵等登記側內容一律不入輸入卡，只入金標）"
+    ]
+  },
+  "yj2_007_rewrite": {
+    "rule": "ADDENDUM-1 附条件：输入侧按转录规格 v1 改写为纯背景（去掉原卡 context 中断语指向成分）",
+    "before_context_input_side": "邵南至婺，范之才喜甚。邵南通夕细推之后，复谒屏人而语，催其遣健步者出城迎取文书。",
+    "after_context_input_side": "邵南至婺州，時范之才守婺州，邵南為其客，范之才喜其至。范之才以拜命之事問邵南，邵南通夕細推之。",
+    "note": "被改原文（before）原样留存于此与金标侧 context；改写只及输入卡 context，subject/question/setting/provenance 不动"
+  },
+  "gold_deviations": [
+    "YW3-001 金标 grade_suggestion 由候选卡 B 改为主持改判 A（ADDENDUM-1），grade_reason 尾部并记改判出处"
+  ],
+  "scan_stage1_candidate_prep": {
+    "SS-001": {
+      "content_hits": [
+        [
+          "/notes",
+          "L2",
+          "结局",
+          "南批语为断语、侄书所报为结局。"
+        ]
+      ],
+      "fieldname_hits": [],
+      "source": "runs/round48/digestion/cards-mining-sanshu/SS-001-input.json"
+    },
+    "SS-005": {
+      "content_hits": [
+        [
+          "/notes",
+          "L2",
+          "结局",
+          "如「次顺某日」），断语与结局核心句清晰；如主持采用，"
+        ]
+      ],
+      "fieldname_hits": [],
+      "source": "runs/round48/digestion/cards-mining-sanshu/SS-005-input.json"
+    },
+    "YJ2-005": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "source": "runs/round49/digestion/cards-mining-yijian-r49/YJ2-005-input.json"
+    },
+    "YJ2-006": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "source": "runs/round49/digestion/cards-mining-yijian-r49/YJ2-006-input.json"
+    },
+    "YJ2-007": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "source": "runs/round49/digestion/cards-mining-yijian-r49/YJ2-007-input.json"
+    },
+    "YJ2-009": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "source": "runs/round49/digestion/cards-mining-yijian-r49/YJ2-009-input.json"
+    },
+    "YJ2-010": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "source": "runs/round49/digestion/cards-mining-yijian-r49/YJ2-010-input.json"
+    },
+    "YJ3-001": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "source": "runs/round50/digestion/cards-mining-yijian-r50/YJ3-001-input.json"
+    },
+    "YJ3-002": {
+      "content_hits": [
+        [
+          "/notes",
+          "L2",
+          "果然",
+          "声田易主一案结局为「已而果然」确认式，只登记不建卡）"
+        ],
+        [
+          "/notes",
+          "L2",
+          "结局",
+          "一案（同条水声田易主一案结局为「已而果然」确认式，只"
+        ]
+      ],
+      "fieldname_hits": [],
+      "source": "runs/round50/digestion/cards-mining-yijian-r50/YJ3-002-input.json"
+    },
+    "YJ3-003": {
+      "content_hits": [
+        [
+          "/notes",
+          "L2",
+          "结局",
+          "字标记，在背景段、非断语结局核心句。"
+        ]
+      ],
+      "fieldname_hits": [],
+      "source": "runs/round50/digestion/cards-mining-yijian-r50/YJ3-003-input.json"
+    },
+    "YJ3-004": {
+      "content_hits": [
+        [
+          "/notes",
+          "L2",
+          "结局",
+          "桥一案。断语含赠物之语、结局与之对应，断语两段并录于"
+        ]
+      ],
+      "fieldname_hits": [],
+      "source": "runs/round50/digestion/cards-mining-yijian-r50/YJ3-004-input.json"
+    },
+    "YJ3-005": {
+      "content_hits": [
+        [
+          "/notes",
+          "L1",
+          "验语",
+          "同条首谒诸案结局为总括式验语，只登记不建卡）。江秉钧"
+        ],
+        [
+          "/notes",
+          "L2",
+          "结局",
+          "江复谒一案（同条首谒诸案结局为总括式验语，只登记不建"
+        ]
+      ],
+      "fieldname_hits": [],
+      "source": "runs/round50/digestion/cards-mining-yijian-r50/YJ3-005-input.json"
+    },
+    "YW3-001": {
+      "content_hits": [
+        [
+          "/notes",
+          "L2",
+          "结局",
+          "（四日后辰巳间南门外），结局为届期遣役侦视的独立事件"
+        ]
+      ],
+      "fieldname_hits": [],
+      "source": "runs/round50/digestion/cards-mining-yuewei-r50/YW3-001-input.json"
+    },
+    "XJ47-047": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "source": "登记件自建 input_side（本脚本 DREAM_DATA）"
+    },
+    "XJ47-092": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "source": "登记件自建 input_side（本脚本 DREAM_DATA）"
+    },
+    "XJ47-289": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "source": "登记件自建 input_side（本脚本 DREAM_DATA）"
+    },
+    "XJ47-373": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "source": "登记件自建 input_side（本脚本 DREAM_DATA）"
+    },
+    "XJ47-386": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "source": "登记件自建 input_side（本脚本 DREAM_DATA）"
+    },
+    "XJ47-442": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "source": "登记件自建 input_side（本脚本 DREAM_DATA）"
+    },
+    "XJ47-500": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "source": "登记件自建 input_side（本脚本 DREAM_DATA）"
+    },
+    "XJ47-502": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "source": "登记件自建 input_side（本脚本 DREAM_DATA）"
+    },
+    "LK-058": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "source": "登记件自建 input_side（本脚本 DREAM_DATA）"
+    },
+    "LK-046": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "source": "登记件自建 input_side（本脚本 DREAM_DATA）"
+    },
+    "LK-054": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "source": "登记件自建 input_side（本脚本 DREAM_DATA）"
+    },
+    "YZ-C019": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "source": "登记件自建 input_side（本脚本 DREAM_DATA）"
+    }
+  },
+  "scan_stage1_disposition": {
+    "SS-001": {
+      "hit_fields": [
+        "notes"
+      ],
+      "disposition": "命中字段均为管理字段（notes），整项剥离不入卡；剥离后第二道复扫零命中放行"
+    },
+    "SS-005": {
+      "hit_fields": [
+        "notes"
+      ],
+      "disposition": "命中字段均为管理字段（notes），整项剥离不入卡；剥离后第二道复扫零命中放行"
+    },
+    "YJ2-005": {
+      "hit_fields": [],
+      "disposition": "零命中"
+    },
+    "YJ2-006": {
+      "hit_fields": [],
+      "disposition": "零命中"
+    },
+    "YJ2-007": {
+      "hit_fields": [],
+      "disposition": "零命中"
+    },
+    "YJ2-009": {
+      "hit_fields": [],
+      "disposition": "零命中"
+    },
+    "YJ2-010": {
+      "hit_fields": [],
+      "disposition": "零命中"
+    },
+    "YJ3-001": {
+      "hit_fields": [],
+      "disposition": "零命中"
+    },
+    "YJ3-002": {
+      "hit_fields": [
+        "notes"
+      ],
+      "disposition": "命中字段均为管理字段（notes），整项剥离不入卡；剥离后第二道复扫零命中放行"
+    },
+    "YJ3-003": {
+      "hit_fields": [
+        "notes"
+      ],
+      "disposition": "命中字段均为管理字段（notes），整项剥离不入卡；剥离后第二道复扫零命中放行"
+    },
+    "YJ3-004": {
+      "hit_fields": [
+        "notes"
+      ],
+      "disposition": "命中字段均为管理字段（notes），整项剥离不入卡；剥离后第二道复扫零命中放行"
+    },
+    "YJ3-005": {
+      "hit_fields": [
+        "notes"
+      ],
+      "disposition": "命中字段均为管理字段（notes），整项剥离不入卡；剥离后第二道复扫零命中放行"
+    },
+    "YW3-001": {
+      "hit_fields": [
+        "notes"
+      ],
+      "disposition": "命中字段均为管理字段（notes），整项剥离不入卡；剥离后第二道复扫零命中放行"
+    },
+    "XJ47-047": {
+      "hit_fields": [],
+      "disposition": "零命中"
+    },
+    "XJ47-092": {
+      "hit_fields": [],
+      "disposition": "零命中"
+    },
+    "XJ47-289": {
+      "hit_fields": [],
+      "disposition": "零命中"
+    },
+    "XJ47-373": {
+      "hit_fields": [],
+      "disposition": "零命中"
+    },
+    "XJ47-386": {
+      "hit_fields": [],
+      "disposition": "零命中"
+    },
+    "XJ47-442": {
+      "hit_fields": [],
+      "disposition": "零命中"
+    },
+    "XJ47-500": {
+      "hit_fields": [],
+      "disposition": "零命中"
+    },
+    "XJ47-502": {
+      "hit_fields": [],
+      "disposition": "零命中"
+    },
+    "LK-058": {
+      "hit_fields": [],
+      "disposition": "零命中"
+    },
+    "LK-046": {
+      "hit_fields": [],
+      "disposition": "零命中"
+    },
+    "LK-054": {
+      "hit_fields": [],
+      "disposition": "零命中"
+    },
+    "YZ-C019": {
+      "hit_fields": [],
+      "disposition": "零命中"
+    }
+  },
+  "scan_stage2_card_selfcheck": {
+    "SS-001": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "SS-005": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "YJ2-005": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "YJ2-006": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "YJ2-007": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "YJ2-009": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "YJ2-010": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "YJ3-001": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "YJ3-002": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "YJ3-003": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "YJ3-004": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "YJ3-005": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "YW3-001": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "XJ47-047": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "XJ47-092": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "XJ47-289": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "XJ47-373": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "XJ47-386": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "XJ47-442": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "XJ47-500": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "XJ47-502": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "LK-058": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "LK-046": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "LK-054": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "YZ-C019": {
+      "content_hits": [],
+      "fieldname_hits": []
+    }
+  },
+  "scan_stage2_total_hits": 0,
+  "scan_stage3_host_verify": "主持验封道，非本席执行——留位：主持以独立脚本对 holdout19/inputs/ 全部输入卡复扫，零命中方许封存日志落「验封通过」",
+  "markers_source": "标记集逐字复制 runs/round42/PREREG.md §5（LEVEL1/LEVEL2/FIELD_BLACKLIST，见脚本头注释）",
+  "gold_sha256": "ed29f3a855bbb73980e4d79552842dab268af2941087489b97dc52c6e6349d8b",
+  "gold_sha256_sha256sum": "ed29f3a855bbb73980e4d79552842dab268af2941087489b97dc52c6e6349d8b",
+  "gold_sha256_double_read_match": true,
+  "outputs_written": [
+    "holdout19/inputs/SS-001.json",
+    "holdout19/inputs/SS-005.json",
+    "holdout19/inputs/YJ2-005.json",
+    "holdout19/inputs/YJ2-006.json",
+    "holdout19/inputs/YJ2-007.json",
+    "holdout19/inputs/YJ2-009.json",
+    "holdout19/inputs/YJ2-010.json",
+    "holdout19/inputs/YJ3-001.json",
+    "holdout19/inputs/YJ3-002.json",
+    "holdout19/inputs/YJ3-003.json",
+    "holdout19/inputs/YJ3-004.json",
+    "holdout19/inputs/YJ3-005.json",
+    "holdout19/inputs/YW3-001.json",
+    "holdout19/inputs/XJ47-047.json",
+    "holdout19/inputs/XJ47-092.json",
+    "holdout19/inputs/XJ47-289.json",
+    "holdout19/inputs/XJ47-373.json",
+    "holdout19/inputs/XJ47-386.json",
+    "holdout19/inputs/XJ47-442.json",
+    "holdout19/inputs/XJ47-500.json",
+    "holdout19/inputs/XJ47-502.json",
+    "holdout19/inputs/LK-058.json",
+    "holdout19/inputs/LK-046.json",
+    "holdout19/inputs/LK-054.json",
+    "holdout19/inputs/YZ-C019.json",
+    "holdout19/test_gold.jsonl"
+  ]
+}
