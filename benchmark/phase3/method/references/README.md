@@ -44,6 +44,7 @@
 - `chinese-liuren.md` 大六壬（起课与九宗取传、课格、十二天将、类神总表、分类占断、应期推法、盘面不全作断规矩）
 - `chinese-bazi-ziwei.md` 八字、紫微，附奇门/六壬/风水定位
 - `chinese-ziwei.md` 紫微斗数专章（《紫微斗数全书》提炼：安星逐诀、庙旺、十四主星断语、格局、四化歌、分类与行限断法，2026-10-30 提炼批次入账）
+- `chinese-qimen.md` 奇门遁甲断法（张志春《神奇之门》为主干、杜新会《奇门遁甲现代实例精解》为补编，两书同源不作双重互证；排局默认拆补法；R57 接入、效力自 R58 起算）
 - `western-tarot.md` 塔罗（78 牌总表、Waite 位序凯尔特十字）
 - `western-astro-numerology-runes.md` 占星、数字命理、卢恩，附地占/水晶占/书占背景
 - `lifekline-method.md` AI 八字应用 lifekline 的方法解剖与我们的改进路线

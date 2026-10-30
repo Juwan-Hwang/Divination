@@ -22,7 +22,7 @@ status: validated-final
 - 类型4 参照源：Swiss Ephemeris 数据（随 swisseph 仓）、寿星天文历、6tail lunar 数据层。
 - 类型5 现代整理：`references/lifekline-method.md`、各篇知识库文末的流派节。
 - 类型6 数据集（外部资产，见 `VALIDATION.md` 外部资产清单第 6 项）：本地机器可读 JSON（hexagrams-64.json、tarot-78.json、runes-24.json、ganzhi-jieqi.json）、tarot-json（MIT）、tarot-api、godcong-yi（MIT）；**大师验证集**（统一 Schema 见其 SCHEMA.md：subject + master_predictions[] 为核心；dev=校准开放、test=留出封存于 holdout/，划分见 splits.json；分卷 chinese-natal/、western/、modern-masters/ 为收集层候选池）。
-- 知识库正文：`references/README.md`（总则与自决表）、`references/chinese-yijing.md`、`references/chinese-liuyao-meihua.md`、`references/chinese-liuren.md`、`references/chinese-bazi-ziwei.md`、`references/chinese-ziwei.md`、`references/western-tarot.md`、`references/western-astro-numerology-runes.md`、`references/calibration.md`（对标基准+实测+分歧默认表）、`references/MANIFEST.md`（总清单+失败清单+暂不采用清单）、`references/chinese-mengzhan.md`（梦占断法：逸旨内篇为主干、玄解补编、敦煌源流）。
+- 知识库正文：`references/README.md`（总则与自决表）、`references/chinese-yijing.md`、`references/chinese-liuyao-meihua.md`、`references/chinese-liuren.md`、`references/chinese-bazi-ziwei.md`、`references/chinese-ziwei.md`、`references/western-tarot.md`、`references/western-astro-numerology-runes.md`、`references/calibration.md`（对标基准+实测+分歧默认表）、`references/MANIFEST.md`（总清单+失败清单+暂不采用清单）、`references/chinese-mengzhan.md`（梦占断法：逸旨内篇为主干、玄解补编、敦煌源流）、`references/chinese-qimen.md`（奇门遁甲断法：张志春《神奇之门》为主干、杜新会《奇门遁甲现代实例精解》为补编，两书同源不作双重互证；排局默认拆补法）。
 - 随机工具（必须用，随机源只许 secrets）：`tools/cast_iching.py`（铜钱起卦）、`tools/draw_tarot.py`（抽 1/3/10）、`tools/draw_runes.py`（抽 1/3，仅符名学习与仪式复现）。
 - 评测：协议正本 `references/PROTOCOL.md`；评测脚本、种子题卡（input/answer 分离）与迭代记录为外部资产（见 `VALIDATION.md` 外部资产清单第 7 项）。
 
@@ -50,6 +50,7 @@ status: validated-final
 - **紫微**：iztro 排盘（农历换算注明）→ 命宫手算公式复核 → 三合为体、四化为用；四化版本在盘后一句话注明全书系。安星逐诀、庙旺、十四主星断语、格局、四化歌、分类与行限断法见 `references/chinese-ziwei.md`（《紫微斗数全书》提炼章）；该章与本节或 bazi-ziwei 章冲突登记未裁决者，作断时在 basis 注明取舍。
 - **测字**：以求测者所给一字为占（取字须当场、无字不造）→ 按 `references/chinese-cezi.md` 拆字取象（全体/分体/增损笔）→ 字象五行与时令旺衰合参 → 结合所问门类落事件级断语，应期合通则（a）（h）；字义双关与拆法分歧并列写明取舍，不许一字多拆各取所需。
 - **梦占**：以求测者所梦为占（述梦问事、无梦不造）→ 按 `references/chinese-mengzhan.md` 先分类六梦与感变成因 → 合岁时五行王相休囚死 → 随人判读落事件级断语，辞条只作末位参照，应期合通则（a）（h）；梦报告真伪先辨（伪梦之戒），命中五不占者明写不占之由。
+- **奇门**：问时（或事件时，见章 §八 C-QM5 登记）起时盘 → 排局默认拆补法（置闰/茅山为备选、用备选须盘后一句话注明）→ 定用神落宫（求测者与所测事分定）→ 宫内天地人神四层格局与宫间生克、旺衰空墓合参 → 应期照章 §八（法窍三原则＋十三法）；细节查 chinese-qimen.md。
 - **塔罗**：定牌阵 → `tools/draw_tarot.py` 抽牌 → 牌义只以 Waite《Pictorial Key》原文为准（本地全文），关键词表（tarot-78.json）只作索引；凯尔特十字用 Waite 位序；逆位默认启用。
 - **占星**：pyswisseph/Swiss Ephemeris 算星历（注明数据档位：.se1 弧秒级/Moshier 弧分级）→ 宫位制按默认 → 断语逐条回扣 星体×宫位×星座×尊贵×相位。
 - **数字命理/卢恩**：数字命理只按可复现算法给民俗参考并声明无原典依据；卢恩只用符名训诂与 Tacitus 记载，不用空白符文与现代抽符断语（暂不采用清单）。
