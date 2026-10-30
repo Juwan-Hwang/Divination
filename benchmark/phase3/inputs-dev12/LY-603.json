@@ -1,0 +1,65 @@
+{
+  "id": "LY-603",
+  "tradition": "六爻",
+  "subject": "自占病吉凶",
+  "context": {
+    "caster_or_relation": "野鶴老人自占",
+    "question": "自占病",
+    "category": "疾病",
+    "asked_at": "巳月乙未日",
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": {
+      "original_name": "澤風大過",
+      "changed_name": "火風鼎",
+      "palace": "震宮",
+      "kongwang": "辰巳",
+      "chart_lines": [
+        "妻財未土ㄨ　　子孫巳火⚊",
+        "官鬼酉金○　　妻財未土⚋",
+        "父母亥水⚊世　官鬼酉金⚊",
+        "官鬼酉金⚊　　官鬼酉金⚊",
+        "父母亥水⚊　　父母亥水⚊",
+        "妻財丑土⚋應　妻財丑土⚋"
+      ],
+      "moving_lines": "五爻官鬼酉金○動、上爻妻財未土ㄨ動",
+      "date_ganzhi": "巳月乙未日"
+    }
+  },
+  "provenance": {
+    "work": "增刪卜易",
+    "edition": "維基文库本（錄入者整理本，未排版/未校對）",
+    "page": "卷之一·元神忌神衰旺章第十",
+    "url": "https://zh.wikisource.org/wiki/增刪卜易",
+    "language": "zh-Hant"
+  },
+  "language": "zh-Hant",
+  "notes": {
+    "completion_grade": {
+      "source_locator": "《增刪卜易》維基文库本（錄入者整理本，未排版/未校對）卷之一·元神忌神衰旺章第十；例首：「例：巳月乙未日自占病得澤風大過變火風鼎卦」",
+      "fields": {
+        "palace": {
+          "grade": "推算复原",
+          "basis": "原書未另標宮名；由本卦「澤風大過」按標準八宮定宮為震宮（世在四爻、應在初爻，與原書裝卦表世應標記互證一致）。"
+        },
+        "kongwang": {
+          "grade": "推算复原",
+          "basis": "原書未另標空亡；由直載日干支「乙未」按旬空規則推得辰巳。"
+        },
+        "chart_lines": {
+          "grade": "直载",
+          "basis": "既有逐爻表本批回原書（維基文库本同章）裝卦表逐行核對一致，未改動一字；並經標準納甲引擎反驗全合。"
+        },
+        "moving_lines": {
+          "grade": "直载",
+          "basis": "原書裝卦表動爻記號（○/ㄨ）明載；並經本變卦爻象差復核一致。"
+        },
+        "date_ganzhi": {
+          "grade": "直载",
+          "basis": "原書例首明載「巳月乙未」，定位：《增刪卜易》維基文库本（錄入者整理本，未排版/未校對）卷之一·元神忌神衰旺章第十；例首：「例：巳月乙未日自占病得澤風大過變火風鼎卦」。與 inputs8 asked_at 一致，今按 inputs9 體例另立盤面日期鍵。"
+        }
+      },
+      "completed_by": "phase3 inputs10 C轨数据角补录（2026-10-30，LY-6xx组）",
+      "scope_note": "仅补 context.hexagram 盘面事实字段；题面文字与既有字段一字未改（LY-620/621 的 palace/kongwang 原为「原文未記」占位值，属补录本身改值，已逐项注明）。"
+    }
+  }
+}

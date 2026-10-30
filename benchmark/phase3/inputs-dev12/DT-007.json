@@ -1,0 +1,32 @@
+{
+  "id": "DT-007",
+  "tradition": "liuyao",
+  "subject": {
+    "name_or_desc": "某家（占家宅者，未具名）",
+    "gender": null
+  },
+  "context": {
+    "question": "占家宅吉凶",
+    "asked_at": "春正月戊戌日（年不详，明万历刊本原例）",
+    "setting": "一日，春正月戊戌日占家宅。",
+    "attachments": {
+      "casting_method": "六爻纳甲（铜钱摇卦）",
+      "hexagram": "火水未济",
+      "moving_lines": "四爻玄武妻财己酉金发动",
+      "chart_lines_top_to_bottom": [
+        "兄弟己巳火 应 朱雀",
+        "子孙己未土 青龙",
+        "妻财己酉金 玄武（动）",
+        "兄弟戊午火 世 白虎",
+        "子孙戊辰土 腾蛇",
+        "父母戊寅木 勾陈"
+      ],
+      "hidden_spirit": null
+    }
+  },
+  "provenance": {
+    "book": "《断易天机》",
+    "edition": "《断易天机》明万历丁酉（1597）刊本扫描PDF（370页，用户经学校图书馆提供，2026-10-29）；图解本《图解易经六十四卦：断易天机》（汤梓顺、韩铭生注译，辽宁大学出版社1993）EPUB仅作定位与文本层辅助，例文以明刊本为准",
+    "page": "卷二·经验卦例第十三例，明刊本PDF第65页"
+  }
+}

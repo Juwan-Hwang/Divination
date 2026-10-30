@@ -1,0 +1,70 @@
+{
+  "id": "LY-615",
+  "tradition": "六爻",
+  "subject": "出門與嫁女",
+  "context": {
+    "caster_or_relation": "一人",
+    "question": "占出門",
+    "category": "出行",
+    "asked_at": "申月丙子日",
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": {
+      "original_name": "地火明夷",
+      "changed_name": "雷山小過",
+      "palace": "坎宮",
+      "kongwang": "申酉",
+      "chart_lines": [
+        "父母酉金⚋　　官鬼戌土⚋",
+        "兄弟亥水⚋　　父母申金⚋",
+        "官鬼丑土ㄨ世　妻財午火⚊",
+        "兄弟亥水⚊　　父母申金⚊",
+        "官鬼丑土⚋　　妻財午火⚋",
+        "子孫卯木○應　官鬼辰土⚋"
+      ],
+      "moving_lines": "初爻子孫卯木○（應）動、四爻官鬼丑土ㄨ（世）動",
+      "hidden_lines": "三爻兄弟亥水下伏妻財午火",
+      "date_ganzhi": "申月丙子日"
+    }
+  },
+  "provenance": {
+    "work": "增刪卜易",
+    "edition": "維基文库本（錄入者整理本，未排版/未校對）",
+    "page": "卷之一·六合章第十九",
+    "url": "https://zh.wikisource.org/wiki/增刪卜易",
+    "language": "zh-Hant"
+  },
+  "language": "zh-Hant",
+  "notes": {
+    "completion_grade": {
+      "source_locator": "《增刪卜易》維基文库本（錄入者整理本，未排版/未校對）卷之一·六合章第十九；例首：「如申月丙子日占出門，得明夷小過」",
+      "fields": {
+        "palace": {
+          "grade": "推算复原",
+          "basis": "原書未另標宮名；由本卦「地火明夷」按標準八宮定宮為坎宮（世在四爻、應在初爻，與原書裝卦表世應標記互證一致）。"
+        },
+        "kongwang": {
+          "grade": "推算复原",
+          "basis": "原書未另標空亡；由直載日干支「丙子」按旬空規則推得申酉。"
+        },
+        "chart_lines": {
+          "grade": "直载",
+          "basis": "既有逐爻表本批回原書（維基文库本同章）裝卦表逐行核對一致，未改動一字；並經標準納甲引擎反驗全合。"
+        },
+        "moving_lines": {
+          "grade": "直载",
+          "basis": "原書裝卦表動爻記號（○/ㄨ）明載；並經本變卦爻象差復核一致。"
+        },
+        "hidden_lines": {
+          "grade": "推算复原",
+          "basis": "本卦六親缺妻財不現；按伏神規則取本宮首卦（坎宮首卦）同位之爻伏於本卦同位爻下，標準規則確定性推得。原書裝卦表未印伏神欄。"
+        },
+        "date_ganzhi": {
+          "grade": "直载",
+          "basis": "原書例首明載「申月丙子」，定位：《增刪卜易》維基文库本（錄入者整理本，未排版/未校對）卷之一·六合章第十九；例首：「如申月丙子日占出門，得明夷小過」。與 inputs8 asked_at 一致，今按 inputs9 體例另立盤面日期鍵。"
+        }
+      },
+      "completed_by": "phase3 inputs10 C轨数据角补录（2026-10-30，LY-6xx组）",
+      "scope_note": "仅补 context.hexagram 盘面事实字段；题面文字与既有字段一字未改（LY-620/621 的 palace/kongwang 原为「原文未記」占位值，属补录本身改值，已逐项注明）。"
+    }
+  }
+}

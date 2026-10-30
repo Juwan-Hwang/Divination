@@ -1,0 +1,33 @@
+{
+ "id": "LY-243",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "女家代占婚",
+  "asked_at": "寅月丙午日",
+  "setting": "女家代占婚",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "地澤臨之水火既濟",
+   "moving_lines": "五爻妻財亥水ㄨ動、三爻兄弟丑土ㄨ動、二爻官鬼卯木○動",
+   "chart_lines_top_to_bottom": [
+    "子孫酉金⚋　　妻財子水⚋",
+    "妻財亥水ㄨ應　兄弟戌土⚊",
+    "兄弟丑土⚋　　子孫申金⚋",
+    "兄弟丑土ㄨ　　妻財亥水⚊",
+    "官鬼卯木○世　兄弟丑土⚋",
+    "父母巳火⚊　　官鬼卯木⚊"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之四·婚姻章第八十二"
+ },
+ "language": "zh-Hant"
+}

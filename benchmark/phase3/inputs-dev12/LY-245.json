@@ -1,0 +1,33 @@
+{
+ "id": "LY-245",
+ "tradition": "liuyao",
+ "subject": {
+  "name_or_desc": "求測者（原書多未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占何命者有子（因有妾多，問何命之女有子）",
+  "asked_at": "申月丁丑日",
+  "setting": "求測者妾多無子，問何命之女能有子",
+  "attachments": {
+   "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+   "hexagram": "澤火革之澤天夬",
+   "moving_lines": "二爻官鬼丑土ㄨ動",
+   "chart_lines_top_to_bottom": [
+    "官鬼未土⚋　　官鬼未土⚋",
+    "父母酉金⚊　　父母酉金⚊",
+    "兄弟亥水⚊世　兄弟亥水⚊",
+    "兄弟亥水⚊　　官鬼辰土⚊",
+    "官鬼丑土ㄨ　　子孫寅木⚊",
+    "子孫卯木⚊應　兄弟子水⚊"
+   ]
+  }
+ },
+ "provenance": {
+  "book": "《增刪卜易》",
+  "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+  "url": "https://zh.wikisource.org/wiki/增刪卜易",
+  "page": "卷之四·此婚子嗣有無章第八十三"
+ },
+ "language": "zh-Hant"
+}

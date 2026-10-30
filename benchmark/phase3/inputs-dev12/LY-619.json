@@ -1,0 +1,65 @@
+{
+  "id": "LY-619",
+  "tradition": "六爻",
+  "subject": "父出外一載無音信",
+  "context": {
+    "caster_or_relation": "一人",
+    "question": "占父出外一載無音",
+    "category": "親屬",
+    "asked_at": "丑月丁酉日",
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": {
+      "original_name": "風水渙",
+      "changed_name": "坎爲水",
+      "palace": "離宮",
+      "kongwang": "辰巳",
+      "chart_lines": [
+        "父母卯木○　　官鬼子水⚋",
+        "兄弟巳火⚊世　子孫戌土⚊",
+        "子孫未土⚋　　妻財申金⚋",
+        "兄弟午火⚋　　兄弟午火⚋",
+        "子孫辰土⚊應　子孫辰土⚊",
+        "父母寅木⚋　　父母寅木⚋"
+      ],
+      "moving_lines": "上爻父母卯木○動",
+      "date_ganzhi": "丑月丁酉日"
+    }
+  },
+  "provenance": {
+    "work": "增刪卜易",
+    "edition": "維基文库本（錄入者整理本，未排版/未校對）",
+    "page": "卷之一·動散章第二十三",
+    "url": "https://zh.wikisource.org/wiki/增刪卜易",
+    "language": "zh-Hant"
+  },
+  "language": "zh-Hant",
+  "notes": {
+    "completion_grade": {
+      "source_locator": "《增刪卜易》維基文库本（錄入者整理本，未排版/未校對）卷之一·動散章第二十三；例首：「如丑月丁酉日占父出外一載無音得風水渙變坎卦」",
+      "fields": {
+        "palace": {
+          "grade": "推算复原",
+          "basis": "原書未另標宮名；由本卦「風水渙」按標準八宮定宮為離宮（世在五爻、應在二爻，與原書裝卦表世應標記互證一致）。"
+        },
+        "kongwang": {
+          "grade": "推算复原",
+          "basis": "原書未另標空亡；由直載日干支「丁酉」按旬空規則推得辰巳。"
+        },
+        "chart_lines": {
+          "grade": "直载",
+          "basis": "既有逐爻表本批回原書（維基文库本同章）裝卦表逐行核對一致，未改動一字；並經標準納甲引擎反驗全合。"
+        },
+        "moving_lines": {
+          "grade": "直载",
+          "basis": "原書裝卦表動爻記號（○/ㄨ）明載；並經本變卦爻象差復核一致。"
+        },
+        "date_ganzhi": {
+          "grade": "直载",
+          "basis": "原書例首明載「丑月丁酉」，定位：《增刪卜易》維基文库本（錄入者整理本，未排版/未校對）卷之一·動散章第二十三；例首：「如丑月丁酉日占父出外一載無音得風水渙變坎卦」。與 inputs8 asked_at 一致，今按 inputs9 體例另立盤面日期鍵。"
+        }
+      },
+      "completed_by": "phase3 inputs10 C轨数据角补录（2026-10-30，LY-6xx组）",
+      "scope_note": "仅补 context.hexagram 盘面事实字段；题面文字与既有字段一字未改（LY-620/621 的 palace/kongwang 原为「原文未記」占位值，属补录本身改值，已逐项注明）。"
+    }
+  }
+}

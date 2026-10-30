@@ -1,0 +1,37 @@
+{
+ "id": "MH-003",
+ "system": "meihua",
+ "master": "邵雍（傳世文本托名）",
+ "era": "托名北宋（文本明代編集流傳）",
+ "subject": {
+  "name_or_desc": "占例所涉人/物（見 context）",
+  "gender": null
+ },
+ "context": {
+  "question": "鄰夜扣門借物占：借何物",
+  "asked_at": "冬夕酉時（干支原文未記）",
+  "setting": "冬夕酉時，邵雍擁爐，有人扣門：一扣一聲而止，繼又扣五聲，且言借物；先生令勿言，令其子先占所借何物",
+  "attachments": {
+   "casting_method": "梅花易數（先天數/後天端法，詳見 method_detail）",
+   "method_detail": "聞聲占：扣一聲屬乾為上卦，五聲屬巽為下卦；一乾五巽共六數加酉時十數總十六，除六餘四為四爻動",
+   "hexagram": "天風姤，四爻動，變巽為風；互見重乾"
+  }
+ },
+ "provenance": {
+  "book": "《梅花易數》",
+  "edition": "維基文库本",
+  "url": "https://zh.wikisource.org/wiki/梅花易數",
+  "page": "卷一·象數易理篇之二（占例）"
+ },
+ "license_status": "public-domain",
+ "redistributable": true,
+ "language": "zh-Hant",
+ "notes": {
+  "tags": [
+   "famous",
+   "disputed"
+  ],
+  "comment": "《梅花易數》托名宋·邵雍，邵雍真著無此書，通行本係後世（明）編集流傳；大師歸屬以傳世文本所題為準，出處真偽照實標注。 本例過於著名，模型可能已背誦，評分應降權。",
+  "cross_ref": null
+ }
+}

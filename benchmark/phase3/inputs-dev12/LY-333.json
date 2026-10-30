@@ -1,0 +1,62 @@
+{
+  "id": "LY-333",
+  "tradition": "liuyao",
+  "subject": {
+    "name_or_desc": "求测者/所占之人（原书多未具名）",
+    "gender": null
+  },
+  "context": {
+    "question": "占子久病",
+    "asked_at": "原文未明记月日",
+    "setting": "占子久病吉凶",
+    "attachments": {
+      "casting_method": "六爻纳甲（以钱代蓍）",
+      "hexagram": "雷天大壮（坤宫，空亡辰巳）",
+      "yongshen": "子孙申金为用神",
+      "chart_note": "在线本装卦表为双栏排版经 OCR 转录后行序错乱，逐爻装卦未能可靠还原；本条只录可由卦名、卦宫、空亡与断语互证的信息，逐爻表不录。",
+      "chart_lines_top_to_bottom": [
+        "兄弟戌土⚋",
+        "子孫申金⚋",
+        "父母午火⚊世",
+        "兄弟辰土⚊",
+        "官鬼寅木⚊",
+        "妻財子水⚊應"
+      ],
+      "moving_lines": "無動爻（靜卦）",
+      "date_ganzhi": "寅月甲午日",
+      "空亡": "辰巳"
+    }
+  },
+  "provenance": {
+    "book": "《卜筮正宗》",
+    "edition": "华夏大易学社（cnddy.com）在线全本（据通行本录入，页面字形为简体，节录照页面；装卦表 OCR 有错乱，见 GRADING 说明）",
+    "url": "https://www.cnddy.com/1759.html",
+    "page": "卷十三、十四·十八问答附占验·第十三问（六冲六合）"
+  },
+  "language": "zh-Hant",
+  "notes": {
+    "completion_grade": {
+      "source_locator": "《卜筮正宗》校正全本卷十四·第十三问附占驗例100，書頁237（PDF頁252）",
+      "fields": {
+        "chart_lines_top_to_bottom": {
+          "grade": "直載",
+          "basis": "原書裝卦表明載逐爻六親、地支五行、爻象、世應與動爻記號（○/×及化爻地支），定位：《卜筮正宗》校正全本卷十四·第十三问附占驗例100，書頁237（PDF頁252）。變卦欄非動爻行原書未逐行印出，其六親地支由變卦納甲依本宮五行配定，此部分屬推算復原（標準納甲確定性推得）。 note_原書旁注：初爻妻財子水旁原書注「冲动」（日冲暗动，非摇动爻）（裝卦表旁注屬盤面事實，非斷語）。"
+        },
+        "moving_lines": {
+          "grade": "直載",
+          "basis": "原書裝卦表無動爻記號（○/×），靜卦；初爻妻財子水旁原書注「冲動」，乃日辰冲動（暗動）之注，非搖卦動爻，不列入 moving_lines。"
+        },
+        "date_ganzhi": {
+          "grade": "直載",
+          "basis": "原書例首明載「寅月甲午日」。inputs8 asked_at 原作未明記（或僅記月/年），係在線本漏錄。"
+        },
+        "空亡": {
+          "grade": "推算復原",
+          "basis": "原書未另標空亡；由直載日干支「甲午」按旬空規則推得（甲午所屬旬空辰巳），與 inputs8 卦名括注所載空亡互證一致。"
+        }
+      },
+      "completed_by": "phase3 inputs10 C軌數據角補錄（2026-10-30，卜筮正宗第十二至十七問組）",
+      "scope_note": "僅補 attachments 盤面事實字段；題面文字與既有字段一字未改。"
+    }
+  }
+}
