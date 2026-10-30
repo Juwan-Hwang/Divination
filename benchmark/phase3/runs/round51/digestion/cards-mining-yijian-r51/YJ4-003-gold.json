@@ -1,0 +1,34 @@
+{
+  "id": "YJ4-003",
+  "tradition": "xiangshu",
+  "subject": "何希深（何逢原），金部郎中，入蜀十年持使者节、还朝未半年；相者王廷（王铁面）",
+  "context": "干道三年，周元特邀王廷至局中相见，何希深适在坐，请王廷相。",
+  "question": "何希深迁转与休咎如何？",
+  "setting": "南宋干道三年·临安；相术（相人）",
+  "provenance": "《夷坚志》·丙志卷十七·王铁面（hugbear 页内标头位次为卷十七 chunk）；在线全文实取 hugbear 全文单页，本地文本行 L1787–1788（benchmark/phase3/runs/round50/digestion/work-yijian-r50/yijian-text-lines.txt） https://www.hugbear.net/hugbear/viewinfobook555.html；访问日期 2026-10-30（R50 实取落盘），R51 于 2026-10-31 回读本地落盘件逐字核；transcription=online-verbatim",
+  "redistributable": false,
+  "license_status": "古典文本公有领域；在线转录站条款未明，内部研究用",
+  "record_status": "candidate-r51-mining",
+  "notes": "本卡自《王铁面》整条剥离何希深一案（同段并载说明同 YJ4-001）。断语两层：席间明断作监司，复密谓周元特言其明年禄尽，两层并录于 statement_excerpt。",
+  "transcription": "online-verbatim",
+  "master_predictions": [
+    {
+      "master": "王廷",
+      "date": null,
+      "tradition": "xiangshu",
+      "direction": null,
+      "key_assertions": [],
+      "source": "《夷坚志》·丙志卷十七·王铁面（hugbear 页内标头位次为卷十七 chunk）",
+      "statement_excerpt": "何郎中当作监司。何公明年禄尽。岂特一去邪。"
+    }
+  ],
+  "outcome": {
+    "description": "希深出为福建提刑。次年卒。",
+    "verified_by": "原文结局文本（逐字）"
+  },
+  "passage_full": "周元特权兵部侍郎。欲求去。邀之至局中。廷曰、冬季当迁。异时典州未晚也。户部郎中莫子蒙。□金部郎中何希深逢原适在坐。廷曰、更一月、莫郎中当带职帅边。何郎中当作监司。元特曰、吾方求退。固无至冬迁之理。莫郎中纵补外。未应得职名。何郎中入蜀十年。持使者节多矣。还朝未半年。何由便去。廷曰、我信吾术尔。无柰公所言人事何也。密谓元特曰、何公明年禄尽。岂特一去邪。廷留数日。即归乡。至七月六日、予忝掖垣之拜。二十二日、直院落权字。与所指两日不少差。子蒙以八月除直徽猷阁帅淮东。希深出为福建提刑。次年卒。元特以十一月拜吏部。又二年乃为太平州。皆如其言。",
+  "grade_suggestion": "A",
+  "grade_reason": "断语具名可逐字录，含作监司与明年禄尽两项断面；结局为独立事件文本（出为福建提刑、次年卒），两断面逐项对应；可剥离成卡。",
+  "contamination_suggestion": "low",
+  "contamination_reason": "2026-10-31 以「王廷 王铁面 莫子蒙 带职帅边 何希深 福建提刑 夷坚」检索零个案命中（返回全为无关人物页）；何希深无独立条目。"
+}

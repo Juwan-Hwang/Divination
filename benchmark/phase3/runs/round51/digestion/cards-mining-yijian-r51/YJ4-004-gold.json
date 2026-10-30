@@ -1,0 +1,34 @@
+{
+  "id": "YJ4-004",
+  "tradition": "xiangshu",
+  "subject": "徐吉卿（徐嚞），侍郎，绍兴三十一年以宫观居衢；相者王廷（王铁面），与吉卿同为衢人",
+  "context": "绍兴三十一年，徐吉卿宫观在衢，王廷见之而相。",
+  "question": "徐吉卿复出之事如何？",
+  "setting": "南宋绍兴三十一年·衢州；相术（相人）",
+  "provenance": "《夷坚志》·丙志卷十七·王铁面（hugbear 页内标头位次为卷十七 chunk）；在线全文实取 hugbear 全文单页，本地文本行 L1787–1788（benchmark/phase3/runs/round50/digestion/work-yijian-r50/yijian-text-lines.txt） https://www.hugbear.net/hugbear/viewinfobook555.html；访问日期 2026-10-30（R50 实取落盘），R51 于 2026-10-31 回读本地落盘件逐字核；transcription=online-verbatim",
+  "redistributable": false,
+  "license_status": "古典文本公有领域；在线转录站条款未明，内部研究用",
+  "record_status": "candidate-r51-mining",
+  "notes": "本卡自《王铁面》整条剥离徐吉卿一案。断语含召用时窗（六十日）与两项验征（骨肉凶讣、登高颠坠），结局逐项载于 passage_full。",
+  "transcription": "online-verbatim",
+  "master_predictions": [
+    {
+      "master": "王廷",
+      "date": null,
+      "tradition": "xiangshu",
+      "direction": null,
+      "key_assertions": [],
+      "source": "《夷坚志》·丙志卷十七·王铁面（hugbear 页内标头位次为卷十七 chunk）",
+      "statement_excerpt": "公从今六十日当召用。一月后得五百里外骨肉间凶讣。继有登高颠坠之厄。则吾言应矣。"
+    }
+  ],
+  "outcome": {
+    "description": "已而吉卿长女嫁马希言者。卒于临安。吉卿因省先茔。登山而跌。碍树间不至损。会朝廷择使出疆。趣召之。日月皆吻合。",
+    "verified_by": "原文结局文本（逐字）"
+  },
+  "passage_full": "徐吉卿嚞侍郎。绍兴三十一年。宫观在衢。廷见之曰、公从今六十日当召用。吉卿曰、与汝乡里。勿见戏。廷曰、廷平生不谀人。安得此。姑以二事验之。一月后得五百里外骨肉间凶讣。继有登高颠坠之厄。则吾言应矣。已而吉卿长女嫁马希言者。卒于临安。吉卿因省先茔。登山而跌。碍树间不至损。会朝廷择使出疆。趣召之。日月皆吻合。",
+  "grade_suggestion": "A",
+  "grade_reason": "断语具名可逐字录，含召用时窗（六十日）与凶讣、颠坠两项验征断面；结局为独立事件文本（长女卒于临安、省茔登山而跌、朝廷趣召），逐项对应；可剥离成卡。",
+  "contamination_suggestion": "low",
+  "contamination_reason": "2026-10-31 以「徐吉卿 王廷 六十日当召用 登高颠坠 夷坚志」检索零个案命中（返回全为诗词与无关页）；徐吉卿无独立条目。"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "YJ4-001",
+  "tradition": "xiangshu",
+  "subject": "周元特，权兵部侍郎；相者王廷（三衢人，善相人，不妄许与，士大夫目为王铁面）",
+  "context": "干道三年王廷至临安。周元特欲求去，邀王廷至局中相见，同席有户部郎中莫子蒙、金部郎中何希深。",
+  "question": "周元特去留与迁转如何？",
+  "setting": "南宋干道三年·临安；相术（相人）",
+  "provenance": "《夷坚志》·丙志卷十七·王铁面（hugbear 页内标头位次为卷十七 chunk）；在线全文实取 hugbear 全文单页，本地文本行 L1787–1788（benchmark/phase3/runs/round50/digestion/work-yijian-r50/yijian-text-lines.txt） https://www.hugbear.net/hugbear/viewinfobook555.html；访问日期 2026-10-30（R50 实取落盘），R51 于 2026-10-31 回读本地落盘件逐字核；transcription=online-verbatim",
+  "redistributable": false,
+  "license_status": "古典文本公有领域；在线转录站条款未明，内部研究用",
+  "record_status": "candidate-r51-mining",
+  "notes": "本卡自《王铁面》整条剥离周元特一案（同条局中段三案并载：周元特、莫子蒙、何希深同段受相、结局同段并记，三卡 passage 同段、断语与结局各取本案句）。R50 曾将本条以「法术叙事」首段判读带过，本轮全文精读复核为相术连载，详见 MINING-yijian-cont-r51.md §2 C-1。",
+  "transcription": "online-verbatim",
+  "master_predictions": [
+    {
+      "master": "王廷",
+      "date": null,
+      "tradition": "xiangshu",
+      "direction": null,
+      "key_assertions": [],
+      "source": "《夷坚志》·丙志卷十七·王铁面（hugbear 页内标头位次为卷十七 chunk）",
+      "statement_excerpt": "冬季当迁。异时典州未晚也。"
+    }
+  ],
+  "outcome": {
+    "description": "元特以十一月拜吏部。又二年乃为太平州。皆如其言。",
+    "verified_by": "原文结局文本（逐字）"
+  },
+  "passage_full": "周元特权兵部侍郎。欲求去。邀之至局中。廷曰、冬季当迁。异时典州未晚也。户部郎中莫子蒙。□金部郎中何希深逢原适在坐。廷曰、更一月、莫郎中当带职帅边。何郎中当作监司。元特曰、吾方求退。固无至冬迁之理。莫郎中纵补外。未应得职名。何郎中入蜀十年。持使者节多矣。还朝未半年。何由便去。廷曰、我信吾术尔。无柰公所言人事何也。密谓元特曰、何公明年禄尽。岂特一去邪。廷留数日。即归乡。至七月六日、予忝掖垣之拜。二十二日、直院落权字。与所指两日不少差。子蒙以八月除直徽猷阁帅淮东。希深出为福建提刑。次年卒。元特以十一月拜吏部。又二年乃为太平州。皆如其言。",
+  "grade_suggestion": "A",
+  "grade_reason": "断语具名（王廷）可逐字录，含迁转时窗（冬季）与后典州两项断面；结局为独立事件文本（十一月拜吏部、二年后为太平州），逐项对应；可剥离成卡。",
+  "contamination_suggestion": "low",
+  "contamination_reason": "2026-10-31 以「王铁面 王廷 相人 周元特 冬季当迁 夷坚志」检索零个案命中（返回全为明代同号异人页与无关页）；王廷、周元特均无独立条目。"
+}

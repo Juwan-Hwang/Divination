@@ -1,0 +1,34 @@
+{
+  "id": "YJ4-011",
+  "tradition": "ming",
+  "subject": "叶德孚，建安人，得将仕郎、参选；占者蜀人韩慥，以问命为业",
+  "context": "绍兴八年叶德孚获乡荐、结婚宗室，得将仕郎；明年参选，以七月二日谒韩慥问命。",
+  "question": "叶德孚前程如何？",
+  "setting": "南宋绍兴九年七月；禄命（问命）",
+  "provenance": "《夷坚志》·丁志卷六·叶德孚（hugbear 页内标头位次为卷六 chunk）；在线全文实取 hugbear 全文单页，本地文本行 L2060–2061（benchmark/phase3/runs/round50/digestion/work-yijian-r50/yijian-text-lines.txt） https://www.hugbear.net/hugbear/viewinfobook555.html；访问日期 2026-10-30（R50 实取落盘），R51 于 2026-10-31 回读本地落盘件逐字核；transcription=online-verbatim",
+  "redistributable": false,
+  "license_status": "古典文本公有领域；在线转录站条款未明，内部研究用",
+  "record_status": "candidate-r51-mining",
+  "notes": "本卡自《叶德孚》整条剥离韩慥问命一案。占者韩慥与 R50 只登记《汤史二相》条为同一人（彼条对象为著名宰相判 high 只登记），本案对象叶德孚冷僻，三键（占者＋对象＋所问）不撞。断语两层：初谒言前程俟过立秋别论，复诣明言过不得立秋；statement_excerpt 取复诣决断层，初谒层并载于 passage_full。输入侧背景止于初谒问命，叶氏家世叙事中涉祖母者为条首背景、与断语结局无涉，未入输入卡以免冗载。",
+  "transcription": "online-verbatim",
+  "master_predictions": [
+    {
+      "master": "韩慥",
+      "date": null,
+      "tradition": "ming",
+      "direction": null,
+      "key_assertions": [],
+      "source": "《夷坚志》·丁志卷六·叶德孚（hugbear 页内标头位次为卷六 chunk）",
+      "statement_excerpt": "记得此月初曾看前一命。但过不得立秋。此日不死。吾不谈命。"
+    }
+  ],
+  "outcome": {
+    "description": "竟以立秋日死。",
+    "verified_by": "原文结局文本（逐字）"
+  },
+  "passage_full": "明年参选。以七月二日。谒蜀人韩慥问命。韩曰。必作官人。不读书亦可。若询前程。俟过二十二日立秋。别相访。当细为君说。叶大怒。几欲棰辱之。同坐黄德琬劝使去。后十六日叶得病。即呕血。始以为忧。同行乡僧来货茶。与之同岁。乃令具两命。复诣韩。韩曰。记得此月初曾看前一命。但过不得立秋。此日不死。吾不谈命。僧归不敢言。叶病中时时哀呜曰。告婆婆。当以钱奉还。愿乞命归乡。勿陵迟我。竟以立秋日死。",
+  "grade_suggestion": "A",
+  "grade_reason": "断语具名（韩慥）可逐字录，含死期时点（过不得立秋）之决断断面；结局为独立事件文本（竟以立秋日死），时点逐字对应；可剥离成卡。",
+  "contamination_suggestion": "low",
+  "contamination_reason": "2026-10-31 以「韩慥 叶德孚 立秋 问命 夷坚志」检索零个案命中（返回全为同名异人页与无关页）；叶德孚无独立条目。"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "YJ4-007",
+  "tradition": "xiangshu",
+  "subject": "王浚明之妻宋氏；相者王廷（王铁面），王浚明过姑苏时见廷请相",
+  "context": "王廷过姑苏见王浚明，王浚明请相，妻宋氏窥于屏间闻之。",
+  "question": "王浚明伉俪安危如何？",
+  "setting": "南宋·姑苏；相术（相人）",
+  "provenance": "《夷坚志》·丙志卷十七·王铁面（hugbear 页内标头位次为卷十七 chunk）；在线全文实取 hugbear 全文单页，本地文本行 L1787–1788（benchmark/phase3/runs/round50/digestion/work-yijian-r50/yijian-text-lines.txt） https://www.hugbear.net/hugbear/viewinfobook555.html；访问日期 2026-10-30（R50 实取落盘），R51 于 2026-10-31 回读本地落盘件逐字核；transcription=online-verbatim",
+  "redistributable": false,
+  "license_status": "古典文本公有领域；在线转录站条款未明，内部研究用",
+  "record_status": "candidate-r51-mining",
+  "notes": "本卡自《王铁面》整条剥离王浚明妻一案。原文「见王浚明□曰」有一转录缺字方框，在王浚明答语处、非断语与结局核心句，passage_full 照录。结局句首「果」为叙事衔接、其下腹痛卧疾而亡为具体事件，非确认式零内容。",
+  "transcription": "online-verbatim",
+  "master_predictions": [
+    {
+      "master": "王廷",
+      "date": null,
+      "tradition": "xiangshu",
+      "direction": null,
+      "key_assertions": [],
+      "source": "《夷坚志》·丙志卷十七·王铁面（hugbear 页内标头位次为卷十七 chunk）",
+      "statement_excerpt": "将罹伉俪之戚。自此贤合虽小疾。亦宜善为之防。"
+    }
+  ],
+  "outcome": {
+    "description": "未几、果以腹痛卧疾。讫不起。",
+    "verified_by": "原文结局文本（逐字）"
+  },
+  "passage_full": "又过姑苏。见王浚明□曰、将罹伉俪之戚。自此贤合虽小疾。亦宜善为之防。浚明不敢答。妻宋氏、窥于屏间。闻之。击屏风怒骂而入。未几、果以腹痛卧疾。讫不起。",
+  "grade_suggestion": "A",
+  "grade_reason": "断语具名可逐字录，含伉俪之戚与妻小疾宜防两项断面；结局为独立事件文本（妻宋氏未几以腹痛卧疾而亡），对应明确；可剥离成卡。",
+  "contamination_suggestion": "low",
+  "contamination_reason": "2026-10-31 以「王浚明 王廷 伉俪之戚 贤合 小疾 夷坚志」检索零个案命中（返回全为同名异人页与无关页）；王浚明无独立条目。"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "YJ4-008",
+  "tradition": "xiangshu",
+  "subject": "叶议，处州青田秀才，家贫母老，侨寄萧山尉家；相者三衢柴生，能相手纹、谈祸福",
+  "context": "绍兴二年，叶议相依潘绂、闾丘观二尉，日饭尉家、夜寝僧舍；柴生至，视叶议手纹而相。",
+  "question": "叶议近时祸福如何？",
+  "setting": "南宋绍兴二年·萧山；相术（相手纹）",
+  "provenance": "《夷坚志》·丙志卷五·叶议秀才（hugbear 页内标头位次为卷五 chunk）；在线全文实取 hugbear 全文单页，本地文本行 L1428–1429（benchmark/phase3/runs/round50/digestion/work-yijian-r50/yijian-text-lines.txt） https://www.hugbear.net/hugbear/viewinfobook555.html；访问日期 2026-10-30（R50 实取落盘），R51 于 2026-10-31 回读本地落盘件逐字核；transcription=online-verbatim",
+  "redistributable": false,
+  "license_status": "古典文本公有领域；在线转录站条款未明，内部研究用",
+  "record_status": "candidate-r51-mining",
+  "notes": "本卡自《叶议秀才》整条剥离柴生相手纹一案。条内后段女巫通鬼、盗自言见鬼诸段为死后附带叙事，不属断语与结局核心，未入 passage_full（passage 迄叶议被杀句止），如实登记。",
+  "transcription": "online-verbatim",
+  "master_predictions": [
+    {
+      "master": "柴生",
+      "date": null,
+      "tradition": "xiangshu",
+      "direction": null,
+      "key_assertions": [],
+      "source": "《夷坚志》·丙志卷五·叶议秀才（hugbear 页内标头位次为卷五 chunk）",
+      "statement_excerpt": "君色殊不佳。法当杀人。否则为人所杀。近三日事尔。切勿妄出。"
+    }
+  ],
+  "outcome": {
+    "description": "越三日薄暮。二尉留与饮。中夕醉归。同室僧已寝。一盗在外。尾其后以入。发箧有声。僧觉之。潜起。将取杖击盗。正与盗遇。盗以刃伤僧。僧绝叫而走。叶熟睡。闻呼声。蹶然起。盗适当前。叶急持其袂。盗虑不得脱。掣其肘曰。放我。不然。将杀汝。叶醉甚。持之愈急。盗恐众至。乃剚刃而去。叶即死。",
+    "verified_by": "原文结局文本（逐字）"
+  },
+  "passage_full": "时三衢柴生。能相手纹。谈祸福。视叶手。惊曰。君色殊不佳。法当杀人。否则为人所杀。近三日事尔。切勿妄出。正恐不得免焉。叶素怯懦。且方侨寄为客。与人未款曲。度必无如是事。姑应曰。诺。越三日薄暮。二尉留与饮。中夕醉归。同室僧已寝。一盗在外。尾其后以入。发箧有声。僧觉之。潜起。将取杖击盗。正与盗遇。盗以刃伤僧。僧绝叫而走。叶熟睡。闻呼声。蹶然起。盗适当前。叶急持其袂。盗虑不得脱。掣其肘曰。放我。不然。将杀汝。叶醉甚。持之愈急。盗恐众至。乃剚刃而去。叶即死。",
+  "grade_suggestion": "A",
+  "grade_reason": "断语具名（柴生，能相手纹）可逐字录，含杀人/为人所杀二择断面与三日时窗；结局为独立事件文本（越三日夜盗入、叶持盗袂被剚刃而死），二择后项与时窗逐项对应；可剥离成卡。",
+  "contamination_suggestion": "low",
+  "contamination_reason": "2026-10-31 以「叶议秀才 柴生 相手纹 法当杀人 三日 夷坚志」检索零个案命中（返回全为现代新闻噪声）；叶议、柴生均无独立条目。"
+}

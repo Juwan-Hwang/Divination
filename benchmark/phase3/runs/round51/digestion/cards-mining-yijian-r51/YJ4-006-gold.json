@@ -1,0 +1,34 @@
+{
+  "id": "YJ4-006",
+  "tradition": "xiangshu",
+  "subject": "镇江金山寺主僧（原文未具名，以描述立卡）；相者王廷（王铁面）",
+  "context": "干道三年王廷至镇江，金山寺主僧方入院，王廷见之而相。",
+  "question": "主僧近日行止吉凶如何？",
+  "setting": "南宋干道三年·镇江金山寺；相术（相人）",
+  "provenance": "《夷坚志》·丙志卷十七·王铁面（hugbear 页内标头位次为卷十七 chunk）；在线全文实取 hugbear 全文单页，本地文本行 L1787–1788（benchmark/phase3/runs/round50/digestion/work-yijian-r50/yijian-text-lines.txt） https://www.hugbear.net/hugbear/viewinfobook555.html；访问日期 2026-10-30（R50 实取落盘），R51 于 2026-10-31 回读本地落盘件逐字核；transcription=online-verbatim",
+  "redistributable": false,
+  "license_status": "古典文本公有领域；在线转录站条款未明，内部研究用",
+  "record_status": "candidate-r51-mining",
+  "notes": "本卡自《王铁面》整条剥离金山主僧一案（镇江段同段并载说明同 YJ4-005）。对象原文未具名，以描述立卡（承 YJ3-004、YJ2-012 先例）。断语两层：即日游行二百里，及行前复决「至彼且复来、来之日有小惊恼然不关身」，并录于 statement_excerpt。",
+  "transcription": "online-verbatim",
+  "master_predictions": [
+    {
+      "master": "王廷",
+      "date": null,
+      "tradition": "xiangshu",
+      "direction": null,
+      "key_assertions": [],
+      "source": "《夷坚志》·丙志卷十七·王铁面（hugbear 页内标头位次为卷十七 chunk）",
+      "statement_excerpt": "即日游行二百里。至彼且复来。来之日有小惊恼。然不关身也。"
+    }
+  ],
+  "outcome": {
+    "description": "甫二日。方务德自建康遣信招之。遂行。求决于廷。廷曰、至彼且复来。来之日有小惊恼。然不关身也。及归。方弛担。而西津火。寺之僦舍十余家焚焉。",
+    "verified_by": "原文结局文本（逐字）"
+  },
+  "passage_full": "其见予之岁。尝至镇江。谓通判毛钦望曰、君终任造朝。得一虚名郡守。金山主僧方入院。廷曰、即日游行二百里。僧殊不信。甫二日。方务德自建康遣信招之。遂行。求决于廷。廷曰、至彼且复来。来之日有小惊恼。然不关身也。及归。方弛担。而西津火。寺之僦舍十余家焚焉。钦望秩满得全州。不及赴而致仕。",
+  "grade_suggestion": "A",
+  "grade_reason": "断语具名可逐字录，含行程（二百里）、往返与归途小惊恼不关身三项断面；结局为独立事件文本（方务德遣信招行、归时西津火焚僦舍十余家而人无恙），逐项对应；可剥离成卡。",
+  "contamination_suggestion": "low",
+  "contamination_reason": "2026-10-31 以「王铁面 毛钦望 虚名郡守 全州 金山主僧 夷坚」检索零个案命中（返回全为无关页）；主僧无名、无独立条目。"
+}
