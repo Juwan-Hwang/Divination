@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-005",
+ "prediction_text": "【所用之法】Western mundane/political astrology (individual panel astrologer reading, as sourced)。Direction: Donald Trump wins the 2016 US presidential election. The astrologer singled out in the brief — the one who had already, against a 17-candidate field, picked Trump for the Republican nomination — follows that same contrarian line through to the general election and calls the presidency for Trump, against the polling consensus. Timing定值: 8 November 2016 (day-scale, single dated event).",
+ "basis": "The brief's distinguishing fact is the point of this case: one panel astrologer had demonstrated form on exactly this candidate by naming Trump as nominee when 17 Republicans still contested it. A reader with a proven, candidate-specific track record inside the same cycle is weighted above the anonymous panel consensus (compare WP-004's contrary sourcing); no chart or configuration is supplied in the input, so the断 rests on that documented form plus the brief's facts, and confidence is held at 0.5 for the盘面缺位. Do not merge this with WP-004: the two cases source different readers on the same election.",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

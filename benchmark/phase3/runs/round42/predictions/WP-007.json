@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "【所用之法】Tarot (reader's draw as sourced; cards not reproduced in input)。Direction: Donald Trump wins the 2016 election — and what decides it is Clinton's trust/scandal burden. The reading as sourced points to the email controversy and the Clinton Foundation questions corroding Clinton's position through the autumn, so that a race she leads in August is lost on credibility, not on policy; the decisive factor is the scandal drip, culminating near the vote. Timing: decided at the 8 November 2016 election (day-scale定值), with the corrosive phase across autumn 2016 (window).",
+ "basis": "Input残损 (须明记): the input states a tarot reader drew cards in Union Square Park in August 2016 but does not reproduce the cards drawn; per discipline I do not invent a spread or card positions. The断 therefore rests on the sourced reading's frame as given in the brief — the question itself asks 'what will decide it', and the brief foregrounds exactly two candidate-deciders, both on Clinton's side (email controversy, Clinton Foundation), already public in August 2016. A reading that returns the polling leader would make that framing pointless; the sourced reading's line is that those controversies are the deciding weight, which entails the Trump outcome. Cards缺位, confidence cut to 0.4.",
+ "confidence": 0.4,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

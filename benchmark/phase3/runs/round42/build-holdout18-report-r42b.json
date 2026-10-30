@@ -1,0 +1,548 @@
+{
+  "round": "R42",
+  "seat": "D4 build/seal (continuation after HOST-RULING-H18-COMPOSITION)",
+  "composition": {
+    "T": 30,
+    "测字": [
+      "ZC-139",
+      "ZC-143",
+      "ZC-144",
+      "ZC-145",
+      "ZC-146",
+      "ZC-149",
+      "ZC-150",
+      "ZC-154",
+      "ZC-156",
+      "ZC-157",
+      "ZC-158",
+      "ZC-160",
+      "ZC-163",
+      "ZC-164",
+      "ZC-165"
+    ],
+    "断案DA": [
+      "DA-134",
+      "DA-145",
+      "DA-152",
+      "DA-159",
+      "DA-167"
+    ],
+    "辨疑BYZ": [
+      "BYZ-078",
+      "BYZ-107",
+      "BYZ-114",
+      "BYZ-018",
+      "BYZ-019"
+    ],
+    "粹言CY": [
+      "CY-034",
+      "CY-040",
+      "CY-047",
+      "CY-061",
+      "CY-010"
+    ]
+  },
+  "gate_recheck": {
+    "holdout3_17_gold_ids": 460,
+    "dev9_ids": 487,
+    "union": 871,
+    "selected_intersection_with_used_union": 0,
+    "all_A_low": true,
+    "all_low": true
+  },
+  "scan_stage1_candidate_prep": "承前席 build-holdout18-report.json（D3）：31 例已扫，CY-034/040/047/061 四例「三传.断语线索」子字段制备期拦截、整项不入卡；本席新制备三例补扫见 scan_stage1_new_prep",
+  "scan_stage1_new_prep": {
+    "BYZ-018": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "BYZ-019": {
+      "content_hits": [],
+      "fieldname_hits": []
+    },
+    "CY-010": {
+      "content_hits": [],
+      "fieldname_hits": []
+    }
+  },
+  "scan_stage2_card_selfcheck": {
+    "method": "scan_content_markers_r42.py 对 30 张输入卡全字段递归扫描（内容级＋字段名黑名单）",
+    "per_id": {
+      "ZC-139": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "ZC-143": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "ZC-144": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "ZC-145": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "ZC-146": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "ZC-149": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "ZC-150": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "ZC-154": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "ZC-156": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "ZC-157": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "ZC-158": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "ZC-160": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "ZC-163": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "ZC-164": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "ZC-165": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "DA-134": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "DA-145": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "DA-152": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "DA-159": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "DA-167": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "BYZ-078": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "BYZ-107": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "BYZ-114": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "BYZ-018": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "BYZ-019": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "CY-034": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "CY-040": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "CY-047": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "CY-061": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "CY-010": {
+        "content_hits": [],
+        "fieldname_hits": []
+      }
+    },
+    "total_hits": 0
+  },
+  "scan_stage3_host_verify": "主持验封道，非本席执行",
+  "da_verify": {
+    "DA-134": {
+      "三传复核": "合",
+      "断语窗口": "此占要问妻家"
+    },
+    "DA-145": {
+      "三传复核": "合",
+      "断语窗口": "如何染得许多"
+    },
+    "DA-152": {
+      "三传复核": "合",
+      "断语窗口": "出行半路而归"
+    },
+    "DA-159": {
+      "三传复核": "合",
+      "断语窗口": "本主行人来盖"
+    },
+    "DA-167": {
+      "三传复核": "合",
+      "断语窗口": "为不正阴人所"
+    }
+  },
+  "grade_register": {
+    "ZC-139": "测字：断语/结局视觉转录（transcription=visual，置信 中高，据候选行）",
+    "ZC-143": "测字：断语/结局视觉转录（transcription=visual，置信 中，据候选行）",
+    "ZC-144": "测字：断语/结局视觉转录（transcription=visual，置信 中高，据候选行）",
+    "ZC-145": "测字：断语/结局视觉转录（transcription=visual，置信 中高，据候选行）",
+    "ZC-146": "测字：断语/结局视觉转录（transcription=visual，置信 中高，据候选行）",
+    "ZC-149": "测字：断语/结局视觉转录（transcription=visual，置信 中高，据候选行）",
+    "ZC-150": "测字：断语/结局视觉转录（transcription=visual，置信 高，据候选行）",
+    "ZC-154": "测字：断语/结局视觉转录（transcription=visual，置信 中高，据候选行）",
+    "ZC-156": "测字：断语/结局视觉转录（transcription=visual，置信 中高，据候选行）",
+    "ZC-157": "测字：断语/结局视觉转录（transcription=visual，置信 中，据候选行）",
+    "ZC-158": "测字：断语/结局视觉转录（transcription=visual，置信 高，据候选行）",
+    "ZC-160": "测字：断语/结局视觉转录（transcription=visual，置信 中，据候选行）",
+    "ZC-163": "测字：断语/结局视觉转录（transcription=visual，置信 中高，据候选行）",
+    "ZC-164": "测字：断语/结局视觉转录（transcription=visual，置信 中高，据候选行）；ZC-164 判级倚 ZC-153 先例（承主持两裁定，见金标 grade_note）",
+    "ZC-165": "测字：断语/结局视觉转录（transcription=visual，置信 高，据候选行）",
+    "DA-134": "甲（底本全课式可直读；本脚本对 cases_raw 复核三传一致、断语窗口命中「此占要问妻家」；天盘加临表方阵解析经四课链校验合）",
+    "DA-145": "甲（底本全课式可直读；本脚本对 cases_raw 复核三传一致、断语窗口命中「如何染得许多」；天盘加临表方阵解析经四课链校验合）",
+    "DA-152": "甲（底本全课式可直读；本脚本对 cases_raw 复核三传一致、断语窗口命中「出行半路而归」；天盘加临表方阵解析经四课链校验合）",
+    "DA-159": "甲（底本全课式可直读；本脚本对 cases_raw 复核三传一致、断语窗口命中「本主行人来盖」；天盘加临表方阵解析经四课链校验合）",
+    "DA-167": "甲（底本全课式可直读；本脚本对 cases_raw 复核三传一致、断语窗口命中「为不正阴人所」；天盘加临表方阵解析经四课链校验合）",
+    "BYZ-078": "甲（原页全式可直读，据候选行回原书对勘登记）",
+    "BYZ-107": "甲（原页全式可直读，据候选行回原书对勘登记）",
+    "BYZ-114": "甲（原页全式可直读，据候选行回原书对勘登记）",
+    "BYZ-018": "甲（原页全式可直读，本席回原书页图逐例制备：题面/课式/正议/案验逐项对勘台账相符）",
+    "BYZ-019": "甲（原页全式可直读，本席回原书页图逐例制备：题面/课式/正议/案验逐项对勘台账相符）",
+    "CY-034": "甲（R42 回源页图转录：无未决项：课盘列全录、四课互证全合；原书体例无独立三传栏/天将列）",
+    "CY-040": "甲（R42 回源页图转录：无未决项：课盘列全录、四课互证全合；原书体例无独立三传栏/天将列）",
+    "CY-047": "乙（R42 回源页图转录：未决一项：一课下神戊字形近戌未能确指（四课以常法复原为准）；课盘列余字已逐字转录。原书体例无独立三传栏/天将列）",
+    "CY-061": "乙（R42 回源页图转录：未决一项：一课下神戊字形近戌未能确指（四课以常法复原为准）；全书末叶仅上叶、本例完整在叶内。原书体例无独立三传栏/天将列）",
+    "CY-010": "乙（R42 回源页图转录：未决两项：①一课下神乙字未能确指；②盘列中段亥字两见、列位未能确指。课盘列余字已逐字转录。原书体例无独立三传栏/天将列）"
+  },
+  "residual_register": {
+    "ZC-139": "不适用（残损代码为六壬规格 v1 第 7 项）",
+    "ZC-143": "不适用（残损代码为六壬规格 v1 第 7 项）",
+    "ZC-144": "不适用（残损代码为六壬规格 v1 第 7 项）",
+    "ZC-145": "不适用（残损代码为六壬规格 v1 第 7 项）",
+    "ZC-146": "不适用（残损代码为六壬规格 v1 第 7 项）",
+    "ZC-149": "不适用（残损代码为六壬规格 v1 第 7 项）",
+    "ZC-150": "不适用（残损代码为六壬规格 v1 第 7 项）",
+    "ZC-154": "不适用（残损代码为六壬规格 v1 第 7 项）",
+    "ZC-156": "不适用（残损代码为六壬规格 v1 第 7 项）",
+    "ZC-157": "不适用（残损代码为六壬规格 v1 第 7 项）",
+    "ZC-158": "不适用（残损代码为六壬规格 v1 第 7 项）",
+    "ZC-160": "不适用（残损代码为六壬规格 v1 第 7 项）",
+    "ZC-163": "不适用（残损代码为六壬规格 v1 第 7 项）",
+    "ZC-164": "不适用（残损代码为六壬规格 v1 第 7 项）",
+    "ZC-165": "不适用（残损代码为六壬规格 v1 第 7 项）",
+    "DA-134": "R-KM（课名底本未载）",
+    "DA-145": "R-KM（课名底本未载）",
+    "DA-152": "R-KM（课名底本未载）",
+    "DA-159": "R-KM（课名底本未载）；R-NM（占者本命未给、行人年命明载）",
+    "DA-167": "R-KM（课名底本未载）",
+    "BYZ-078": "R-NM（年命未单列）、R-TP（天盘表为结构化推定）、R-YJ（月将/旬空推定）",
+    "BYZ-107": "R-NM（年命未单列）、R-TP（天盘表为结构化推定）、R-YJ（月将/旬空推定）；R-OT（四课上神格读「巳」与天盘轮转推值「午」差一宫、月将推定值与占月常例不合：候选转录存疑两项照录登记，天盘表以干上/支上双证的轮转值为准）",
+    "BYZ-114": "R-NM（年命未单列）、R-TP（天盘表为结构化推定）、R-YJ（月将/旬空推定）；R-OT（四课上神格读「丑」与天盘轮转推值「寅」差一宫：候选转录存疑照录登记，天盘表以干上/支上双证的轮转值为准）",
+    "BYZ-018": "R-NM（年命未单列）、R-TP（天盘表为结构化推定）、R-YJ（月将/旬空推定）",
+    "BYZ-019": "R-NM（年命未单列）、R-TP（天盘表为结构化推定）、R-YJ（月将/旬空推定）",
+    "CY-034": "R-KM（原书无课名）、R-NM（年命未载）、R-TP（天盘为复原值）、R-3C（无独立三传栏）、R-YJ（旬空推定；月将例头明载）",
+    "CY-040": "R-KM（原书无课名）、R-NM（年命未载）、R-TP（天盘为复原值）、R-3C（无独立三传栏）、R-YJ（旬空推定；月将例头明载）",
+    "CY-047": "R-KM（原书无课名）、R-NM（年命未载）、R-TP（天盘为复原值）、R-3C（无独立三传栏）、R-YJ（旬空推定；月将例头明载）；R-OT（一课下神干字形近未确指）",
+    "CY-061": "R-KM（原书无课名）、R-NM（年命未载）、R-TP（天盘为复原值）、R-3C（无独立三传栏）、R-YJ（旬空推定；月将例头明载）；R-OT（一课下神干字形近未确指）",
+    "CY-010": "R-KM（原书无课名）、R-NM（年命未载）、R-TP（天盘为复原值）、R-3C（无独立三传栏）、R-YJ（旬空推定；月将例头明载）；R-OT（一课下神干字形近未确指）"
+  },
+  "strip_register": {
+    "ZC-139": [
+      "gold_material.master_prediction（金标侧）",
+      "gold_material.outcome（金标侧）",
+      "compliance.outcome_grade/contamination/rationale（金标侧）",
+      "dedup_key",
+      "transcription_confidence（席位元数据）"
+    ],
+    "ZC-143": [
+      "gold_material.master_prediction（金标侧）",
+      "gold_material.outcome（金标侧）",
+      "compliance.outcome_grade/contamination/rationale（金标侧）",
+      "dedup_key",
+      "transcription_confidence（席位元数据）"
+    ],
+    "ZC-144": [
+      "gold_material.master_prediction（金标侧）",
+      "gold_material.outcome（金标侧）",
+      "compliance.outcome_grade/contamination/rationale（金标侧）",
+      "dedup_key",
+      "transcription_confidence（席位元数据）"
+    ],
+    "ZC-145": [
+      "gold_material.master_prediction（金标侧）",
+      "gold_material.outcome（金标侧）",
+      "compliance.outcome_grade/contamination/rationale（金标侧）",
+      "dedup_key",
+      "transcription_confidence（席位元数据）"
+    ],
+    "ZC-146": [
+      "gold_material.master_prediction（金标侧）",
+      "gold_material.outcome（金标侧）",
+      "compliance.outcome_grade/contamination/rationale（金标侧）",
+      "dedup_key",
+      "transcription_confidence（席位元数据）"
+    ],
+    "ZC-149": [
+      "gold_material.master_prediction（金标侧）",
+      "gold_material.outcome（金标侧）",
+      "compliance.outcome_grade/contamination/rationale（金标侧）",
+      "dedup_key",
+      "transcription_confidence（席位元数据）"
+    ],
+    "ZC-150": [
+      "gold_material.master_prediction（金标侧）",
+      "gold_material.outcome（金标侧）",
+      "compliance.outcome_grade/contamination/rationale（金标侧）",
+      "dedup_key",
+      "transcription_confidence（席位元数据）"
+    ],
+    "ZC-154": [
+      "gold_material.master_prediction（金标侧）",
+      "gold_material.outcome（金标侧）",
+      "compliance.outcome_grade/contamination/rationale（金标侧）",
+      "dedup_key",
+      "transcription_confidence（席位元数据）"
+    ],
+    "ZC-156": [
+      "gold_material.master_prediction（金标侧）",
+      "gold_material.outcome（金标侧）",
+      "compliance.outcome_grade/contamination/rationale（金标侧）",
+      "dedup_key",
+      "transcription_confidence（席位元数据）"
+    ],
+    "ZC-157": [
+      "gold_material.master_prediction（金标侧）",
+      "gold_material.outcome（金标侧）",
+      "compliance.outcome_grade/contamination/rationale（金标侧）",
+      "dedup_key",
+      "transcription_confidence（席位元数据）"
+    ],
+    "ZC-158": [
+      "gold_material.master_prediction（金标侧）",
+      "gold_material.outcome（金标侧）",
+      "compliance.outcome_grade/contamination/rationale（金标侧）",
+      "dedup_key",
+      "transcription_confidence（席位元数据）"
+    ],
+    "ZC-160": [
+      "gold_material.master_prediction（金标侧）",
+      "gold_material.outcome（金标侧）",
+      "compliance.outcome_grade/contamination/rationale（金标侧）",
+      "dedup_key",
+      "transcription_confidence（席位元数据）"
+    ],
+    "ZC-163": [
+      "gold_material.master_prediction（金标侧）",
+      "gold_material.outcome（金标侧）",
+      "compliance.outcome_grade/contamination/rationale（金标侧）",
+      "dedup_key",
+      "transcription_confidence（席位元数据）"
+    ],
+    "ZC-164": [
+      "gold_material.master_prediction（金标侧）",
+      "gold_material.outcome（金标侧）",
+      "compliance.outcome_grade/contamination/rationale（金标侧）",
+      "dedup_key",
+      "transcription_confidence（席位元数据）"
+    ],
+    "ZC-165": [
+      "gold_material.master_prediction（金标侧）",
+      "gold_material.outcome（金标侧）",
+      "compliance.outcome_grade/contamination/rationale（金标侧）",
+      "dedup_key",
+      "transcription_confidence（席位元数据）"
+    ],
+    "DA-134": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "grade_note_stock（金标侧）",
+      "outcome_grade_stock/compliance/dedup/grade/grade_evidence（席位元数据）",
+      "notes（席位元数据）",
+      "chart.四课说明/四课干支校验（席位元数据）"
+    ],
+    "DA-145": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "grade_note_stock（金标侧）",
+      "outcome_grade_stock/compliance/dedup/grade/grade_evidence（席位元数据）",
+      "notes（席位元数据）",
+      "chart.四课说明/四课干支校验（席位元数据）"
+    ],
+    "DA-152": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "grade_note_stock（金标侧）",
+      "outcome_grade_stock/compliance/dedup/grade/grade_evidence（席位元数据）",
+      "notes（席位元数据）",
+      "chart.四课说明/四课干支校验（席位元数据）"
+    ],
+    "DA-159": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "grade_note_stock（金标侧）",
+      "outcome_grade_stock/compliance/dedup/grade/grade_evidence（席位元数据）",
+      "notes（席位元数据）",
+      "chart.四课说明/四课干支校验（席位元数据）"
+    ],
+    "DA-167": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "grade_note_stock（金标侧）",
+      "outcome_grade_stock/compliance/dedup/grade/grade_evidence（席位元数据）",
+      "notes（席位元数据）",
+      "chart.四课说明/四课干支校验（席位元数据）"
+    ],
+    "BYZ-078": [
+      "master_predictions（金标侧）",
+      "outcome/outcome_original（金标侧）",
+      "grade_note_stock（金标侧）",
+      "outcome_grade_stock/compliance/dedup/grade/grade_evidence（席位元数据）",
+      "notes（席位元数据）",
+      "chart.月将/旬空（原书未单列、推得注记；规格 v1 下以推定值单列入卡并标来源）",
+      "chart.四课（候选行作「见课式原文四课格」，规格 v1 下以格读独立字段入卡）"
+    ],
+    "BYZ-107": [
+      "master_predictions（金标侧）",
+      "outcome/outcome_original（金标侧）",
+      "grade_note_stock（金标侧）",
+      "outcome_grade_stock/compliance/dedup/grade/grade_evidence（席位元数据）",
+      "notes（席位元数据）",
+      "chart.月将/旬空（原书未单列、推得注记；规格 v1 下以推定值单列入卡并标来源）",
+      "chart.四课（候选行作「见课式原文四课格」，规格 v1 下以格读独立字段入卡）"
+    ],
+    "BYZ-114": [
+      "master_predictions（金标侧）",
+      "outcome/outcome_original（金标侧）",
+      "grade_note_stock（金标侧）",
+      "outcome_grade_stock/compliance/dedup/grade/grade_evidence（席位元数据）",
+      "notes（席位元数据）",
+      "chart.月将/旬空（原书未单列、推得注记；规格 v1 下以推定值单列入卡并标来源）",
+      "chart.四课（候选行作「见课式原文四课格」，规格 v1 下以格读独立字段入卡）"
+    ],
+    "BYZ-018": [
+      "master_predictions（金标侧，本席自原页正议转录）",
+      "outcome/outcome_original（金标侧，本席自原页案验转录）",
+      "台账 outcome 摘录与 grade_note（席位元数据）",
+      "chart 课名字符串（台账仅存课名，已升全式转录）"
+    ],
+    "BYZ-019": [
+      "master_predictions（金标侧，本席自原页正议转录）",
+      "outcome/outcome_original（金标侧，本席自原页案验转录）",
+      "台账 outcome 摘录与 grade_note（席位元数据）",
+      "chart 课名字符串（台账仅存课名，已升全式转录）"
+    ],
+    "CY-034": [
+      "gold_side.master_predictions（金标侧）",
+      "gold_side.outcome（金标侧）",
+      "gold_side.grade_note/contamination_rationale（金标侧）",
+      "compliance/freshness_check/holdout_eligible_inventory（席位元数据）",
+      "input_side.chart.三传.断语线索（子字段整项不入卡，第一道已拦截、断语只入金标侧）",
+      "input_side.chart.四课.干上核对（席位校验元数据，涉断语内容不入卡）",
+      "input_side.课式成色/残损登记（席位元数据，成色结论已改按 R42 回源转录实况登记）"
+    ],
+    "CY-040": [
+      "gold_side.master_predictions（金标侧）",
+      "gold_side.outcome（金标侧）",
+      "gold_side.grade_note/contamination_rationale（金标侧）",
+      "compliance/freshness_check/holdout_eligible_inventory（席位元数据）",
+      "input_side.chart.三传.断语线索（子字段整项不入卡，第一道已拦截、断语只入金标侧）",
+      "input_side.chart.四课.干上核对（席位校验元数据，涉断语内容不入卡）",
+      "input_side.课式成色/残损登记（席位元数据，成色结论已改按 R42 回源转录实况登记）"
+    ],
+    "CY-047": [
+      "gold_side.master_predictions（金标侧）",
+      "gold_side.outcome（金标侧）",
+      "gold_side.grade_note/contamination_rationale（金标侧）",
+      "compliance/freshness_check/holdout_eligible_inventory（席位元数据）",
+      "input_side.chart.三传.断语线索（子字段整项不入卡，第一道已拦截、断语只入金标侧）",
+      "input_side.chart.四课.干上核对（席位校验元数据，涉断语内容不入卡）",
+      "input_side.课式成色/残损登记（席位元数据，成色结论已改按 R42 回源转录实况登记）"
+    ],
+    "CY-061": [
+      "gold_side.master_predictions（金标侧）",
+      "gold_side.outcome（金标侧）",
+      "gold_side.grade_note/contamination_rationale（金标侧）",
+      "compliance/freshness_check/holdout_eligible_inventory（席位元数据）",
+      "input_side.chart.三传.断语线索（子字段整项不入卡，第一道已拦截、断语只入金标侧）",
+      "input_side.chart.四课.干上核对（席位校验元数据，涉断语内容不入卡）",
+      "input_side.课式成色/残损登记（席位元数据，成色结论已改按 R42 回源转录实况登记）"
+    ],
+    "CY-010": [
+      "master_predictions（金标侧）",
+      "outcome（金标侧）",
+      "grade_note/contamination_rationale（金标侧）",
+      "holdout_eligible（席位元数据）",
+      "候选文件无行：建卡级材料由本席自 cases-munong.jsonl 台账行＋render 页图转录制备"
+    ]
+  },
+  "gold_sha256": "7d3ce87104c236b3431dbea110f6cc30d5857d0e9bb901093488f94759de0057",
+  "gold_sha256_sha256sum": "7d3ce87104c236b3431dbea110f6cc30d5857d0e9bb901093488f94759de0057",
+  "gold_sha256_double_read_match": true,
+  "outputs_written": [
+    "holdout18/inputs/ZC-139.json",
+    "holdout18/inputs/ZC-143.json",
+    "holdout18/inputs/ZC-144.json",
+    "holdout18/inputs/ZC-145.json",
+    "holdout18/inputs/ZC-146.json",
+    "holdout18/inputs/ZC-149.json",
+    "holdout18/inputs/ZC-150.json",
+    "holdout18/inputs/ZC-154.json",
+    "holdout18/inputs/ZC-156.json",
+    "holdout18/inputs/ZC-157.json",
+    "holdout18/inputs/ZC-158.json",
+    "holdout18/inputs/ZC-160.json",
+    "holdout18/inputs/ZC-163.json",
+    "holdout18/inputs/ZC-164.json",
+    "holdout18/inputs/ZC-165.json",
+    "holdout18/inputs/DA-134.json",
+    "holdout18/inputs/DA-145.json",
+    "holdout18/inputs/DA-152.json",
+    "holdout18/inputs/DA-159.json",
+    "holdout18/inputs/DA-167.json",
+    "holdout18/inputs/BYZ-078.json",
+    "holdout18/inputs/BYZ-107.json",
+    "holdout18/inputs/BYZ-114.json",
+    "holdout18/inputs/BYZ-018.json",
+    "holdout18/inputs/BYZ-019.json",
+    "holdout18/inputs/CY-034.json",
+    "holdout18/inputs/CY-040.json",
+    "holdout18/inputs/CY-047.json",
+    "holdout18/inputs/CY-061.json",
+    "holdout18/inputs/CY-010.json",
+    "holdout18/test_gold.jsonl",
+    "data/holdout18-seal-log.md",
+    "runs/round42/build-holdout18-report-r42b.json"
+  ]
+}
