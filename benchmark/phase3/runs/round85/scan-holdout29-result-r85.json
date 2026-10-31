@@ -1,0 +1,261 @@
+{
+  "set": "holdout29",
+  "scanner": "scan_holdout29_r85.py（独立复扫，第二道）",
+  "marker_set_source": "R42 PREREG §5（一级/二级，逐字承之）",
+  "ids": [
+    "DA-025",
+    "CYJ-001",
+    "BY-012",
+    "DA-033",
+    "CYJ-002",
+    "BY-014",
+    "DA-034",
+    "CYJ-004",
+    "BY-015",
+    "DA-035",
+    "CYJ-005",
+    "BY-016",
+    "DA-037",
+    "ZW-004",
+    "ZW-005",
+    "ZW-006",
+    "ZW-007",
+    "ZW-008",
+    "ZW-009",
+    "ZW-010",
+    "ZW-011",
+    "ZW-012",
+    "ZW-013",
+    "ZW-014",
+    "ZW-015",
+    "ZW-016",
+    "DS-063"
+  ],
+  "totals": {
+    "marker": 0,
+    "fieldname": 0,
+    "banned": 0,
+    "outcome_frag": 0,
+    "master_frag": 0
+  },
+  "per_case": {
+    "DA-025": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": []
+    },
+    "CYJ-001": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": []
+    },
+    "BY-012": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": []
+    },
+    "DA-033": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": []
+    },
+    "CYJ-002": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": []
+    },
+    "BY-014": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": []
+    },
+    "DA-034": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": []
+    },
+    "CYJ-004": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": []
+    },
+    "BY-015": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": []
+    },
+    "DA-035": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": []
+    },
+    "CYJ-005": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": []
+    },
+    "BY-016": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": []
+    },
+    "DA-037": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": []
+    },
+    "ZW-004": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": []
+    },
+    "ZW-005": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": []
+    },
+    "ZW-006": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": []
+    },
+    "ZW-007": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": []
+    },
+    "ZW-008": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": []
+    },
+    "ZW-009": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": []
+    },
+    "ZW-010": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": []
+    },
+    "ZW-011": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": []
+    },
+    "ZW-012": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": []
+    },
+    "ZW-013": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": []
+    },
+    "ZW-014": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": []
+    },
+    "ZW-015": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": []
+    },
+    "ZW-016": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": []
+    },
+    "DS-063": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": []
+    }
+  },
+  "pass": true,
+  "failures": []
+}
