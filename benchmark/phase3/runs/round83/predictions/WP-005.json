@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-005",
+ "prediction_text": "Direction: Donald Trump wins the 2016 presidential election. The one panel astrologer who, back when seventeen Republicans still contested the nomination, singled out Trump to become the Republican nominee reads the same figure through to November: the outsider who defied the field defies the polls as well, and defeats Hillary Clinton on 8 November 2016 despite most polls favouring her (card fact). A reader already proven right against consensus on this candidate is followed against consensus again. Confidence: moderate.",
+ "basis": "Card carries no tradition/system field; the card distinguishes one panel astrologer by a verified prior call (picked Trump as nominee from a 17-candidate field) from the general panel; decided by western mundane astrology, weighting the demonstrated track record on this exact candidate as the operative signal. systems_used=[western mundane astrology]. No chart data is reproduced on the card; the discriminating fact supplied is the astrologer's earlier against-consensus success on Trump, which is treated as the basis for following that reader's line to its conclusion (nominee → president). Calibration §10 scan: claim 'Trump wins' → limiting signal: polls on the card favour Clinton, so the claim is expressly bounded as an against-consensus call resting on one reader's record, with no margin or map claims attached; no limiting signal narrows the winner claim itself. Calibration §8: no quantity claim made.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

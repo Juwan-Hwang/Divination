@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-002",
+ "prediction_text": "Direction: Barack Obama wins the 2008 presidential election. Saturn moves into opposition with Uranus beginning on Election Day itself — the old order (Saturn) challenged by the insurgent force of change (Uranus), a configuration last seen 45 years earlier in another era-breaking period. In mundane terms the aspect favours the candidate who embodies change over the candidate of continuity: Obama, the younger challenger running on 'change', defeats John McCain, the establishment figure of the incumbent party. The victory is decisive enough to be known on election night/the following day (4–5 November 2008), not a prolonged disputed count. Confidence: moderate-high.",
+ "basis": "Card carries no tradition/system field; question is a dated mundane election query with one configuration given on the card (Saturn opposite Uranus from Election Day, last seen 45 years earlier), decided by western mundane astrology. systems_used=[western mundane astrology]. No birth charts are supplied on the card, so no natal claims are made; the call rests on the election-day configuration plus the card's facts (Obama leads for the nomination on a change platform; McCain is the incumbent party's presumptive nominee). Calibration §10 scan: claim 'decisive, known election night' → limiting signal: a Saturn–Uranus opposition can also signify a contested, grinding count, so the claim is bounded — result clear within the immediate election window, no claim made about popular-vote margin; claim 'Obama wins' → no limiting signal in the given configuration (Uranus rising against Saturn supports the challenger), unmodified. Calibration §8: no quantity/margin claim is made, so no scale band is set beyond the win itself.",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

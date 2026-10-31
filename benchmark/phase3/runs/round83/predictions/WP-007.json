@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Direction: Donald Trump wins the 2016 election — and what decides it is Hillary Clinton's email controversy. The Union Square tarot reading (August 2016, Clinton ahead in most polls) turns on the scandal cards around Clinton: the email affair and the Foundation questions (both already public, card facts) are not background noise but the deciding weight; a late resurgence of the email story in the final stretch breaks Clinton's lead, and Trump takes the election on 8 November 2016. Timing: the decisive turn falls in the last two weeks before election day. Confidence: low-moderate (single-reader street reading; the 'what decides it' element is the stronger half of the call).",
+ "basis": "Card carries no tradition/system field; the card specifies a tarot reader consulted in Manhattan's Union Square Park who drew cards on the election (Aug 2016) — no card faces are reproduced on the input card, so the spread itself cannot be re-read and no specific Waite card meanings are fabricated. systems_used=[tarot (Waite tradition, per skill default)]. Input limitation stated plainly: the drawn cards are not on the card, so this prediction rests on the question's own structure ('who wins, and what will decide it') and the card's facts (Clinton leading in polls; email controversy and Foundation already public) — the deciding-factor claim is therefore weighted higher than the winner claim, and overall confidence is lowered accordingly rather than padded. Calibration §10 scan: claim 'Trump wins' → limiting signal: absence of the actual spread bounds this to the weaker half of the prediction, stated as such; claim 'email controversy decides it' → bounded to a late-campaign resurgence (stage bound: final two weeks), not asserted as a constant effect across the whole campaign. Calibration §8: no margin/scale claim made.",
+ "confidence": 0.4,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

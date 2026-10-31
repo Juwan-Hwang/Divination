@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "Direction: Hillary Clinton wins the 2016 presidential election. The forecasting panel convened at the international astrology conference in Costa Mesa reads the race for the Democrat: Clinton, the experienced establishment figure favoured by most polls (card fact), takes the White House over Donald Trump on 8 November 2016. The panel's collective judgment aligns with the polling picture rather than against it. Confidence: moderate (panel consensus plus polling concurrence, though election panels have missed before).",
+ "basis": "Card carries no tradition/system field; the card frames the source as an international astrology conference election forecasting panel (Costa Mesa, Oct 2016) with most polls favouring Clinton; decided by western mundane astrology as practised by such panels (consensus of practitioners reading the candidates' charts and election-day figures). systems_used=[western mundane astrology]. No individual chart data is reproduced on the card, so the prediction follows the panel format itself: the consensus call. Calibration §10 scan: claim 'Clinton wins' → limiting signal: the card notes a competitive, polarised race and gives no chart data, so no margin, map, or state-by-state claims are made — the claim is bounded to the winner only; no other specific claims advanced. Calibration §8: no quantity claim (no electoral-vote or margin figure) is made.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

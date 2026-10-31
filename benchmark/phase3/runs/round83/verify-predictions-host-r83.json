@@ -1,0 +1,37 @@
+{
+ "want": 487,
+ "files": 487,
+ "missing": [],
+ "extra": [],
+ "bad": [],
+ "trigger_counts": {
+  "changed_main": 24,
+  "reserve_used": 37,
+  "disputed": 65
+ },
+ "trigger_reasons_nonempty": 255,
+ "tradition_flag_candidates": [
+  {
+   "case_id": "AS-307",
+   "kind": "card_has_field_but_first_line_unmarked",
+   "card_tradition": "astrology",
+   "card_system": null,
+   "first_line": "卡面未标注 tradition 字段，按题面体裁自决"
+  },
+  {
+   "case_id": "LY-001",
+   "kind": "card_has_field_but_first_line_unmarked",
+   "card_tradition": null,
+   "card_system": "liuyao",
+   "first_line": "system＝liuyao（卡面载 system 字段，值 liuyao，首行逐字照录；卡面无 tradition 字段）"
+  },
+  {
+   "case_id": "ZY-001",
+   "kind": "card_has_field_but_first_line_unmarked",
+   "card_tradition": null,
+   "card_system": "yijing",
+   "first_line": "卡面未标注 tradition 字段，按题面体裁自决（卡面另载 system＝yijing）；systems_used：周易文本占（蓍筮、朱熹读辞规则）。"
+  }
+ ],
+ "claim_group_candidates": []
+}

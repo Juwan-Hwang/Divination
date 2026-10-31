@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-003",
+ "prediction_text": "Direction: Barack Obama is re-elected on 6 November 2012 — but the count is messy. Mercury turns retrograde on election day itself, the classic signature of a confused, glitch-ridden tally: machine failures, long lines, delayed reporting and post-election disputes over the numbers, echoing the 2000 Mercury-retrograde election's chaos. The incumbent nevertheless emerges the winner once the count settles; the retrograde mars the process, not the final outcome. Timing: result direction apparent within days of 6 November, full clarity only as Mercury moves forward again later in November. Confidence: moderate.",
+ "basis": "Card carries no tradition/system field; dated mundane election query whose card supplies one operative configuration (Mercury retrograde beginning on election day, 6 Nov 2012) and the fact of a competitive race with an incumbent seeking re-election; decided by western mundane astrology. systems_used=[western mundane astrology]. No candidate charts are given on the card; the outcome call weighs incumbency (card fact) against the retrograde signature, which in the 2000 precedent disrupted the count without ultimately reversing who took office — hence process-chaos is predicted, outcome-reversal is not. Calibration §10 scan: claim 'Obama re-elected' → limiting signal: Mercury retrograde bounds the manner of the win (disputed/glitched count), not its direction — claim rewritten with that condition bound attached; claim 'clarity later in November' → stage-bounded to Mercury's forward motion, no exact day asserted. Calibration §8: no margin/scale claim made.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
