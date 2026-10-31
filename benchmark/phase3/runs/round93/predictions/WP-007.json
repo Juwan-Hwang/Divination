@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Direction: Donald Trump wins the 2016 election, and what decides it is Hillary Clinton's email controversy. The Union Square tarot reading (August 2016) points to the challenger prevailing, with the decisive variable being the damage from Clinton's emails/Foundation controversies breaking late against her — the election turns on that scandal line rather than on policy or turnout mechanics (day-coordinate: 8 November 2016).",
+ "basis": "Card carries no tradition/system field; decided from the card's genre: a tarot reading reported in news media. Card note: no card spread is reproduced on the input card — input limitation recorded as残损 on the instrument face: no Waite card-by-card reading can be performed, so the verdict rests on the card's framing facts alone and confidence is cut accordingly. Card facts: Clinton leads August polls; the reader is consulted on who wins and what decides it; the email controversy and Foundation are already public — the question's second limb ('what will decide it') directs attention to the scandal line the card itself supplies. Faces: winner decided; decider decided (email controversy); spread face — no data, not reported. [Section-8 workload audit] Work lines: scandal-decider line (acting on: outcome via late break;助成 Trump; strongest among card-supplied lines); polling-lead line (助成 Clinton, outweighed as it predates the decider's effect). Main line认定: decider line. Band: outright win attributed to the email issue; no margin asserted.",
+ "confidence": 0.48,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

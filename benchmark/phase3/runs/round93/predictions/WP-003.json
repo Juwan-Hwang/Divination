@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-003",
+ "prediction_text": "Direction: Barack Obama wins re-election in 2012. The incumbent defeats Mitt Romney on 6 November 2012; the Mercury retrograde beginning on Election Day signifies recount-style confusion and delayed clarity in the count rather than a change of government (day-coordinate: the election itself).",
+ "basis": "Card carries no tradition/system field; decided from the card's genre: election forecasting report. Card facts: incumbent president running, presumptive challenger set, polling competitive, Mercury retrograde starts on election day. Incumbency plus a merely competitive (not leading) challenger leaves the burden of displacement unmet; the retrograde is read to the counting process, not the outcome — that scoping is stated here so the timing symbol is not silently flipped into an outcome reversal. Faces: winner decided; process face (confused/delayed count) decided as secondary. [Section-8 workload audit] Work lines: incumbency line (助成 Obama, strongest); retrograde-disruption line (压制 clarity of process only, scoped). Main line认定: incumbency line. Band: a clear-enough win after a messy count; no popular-vote margin asserted.",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

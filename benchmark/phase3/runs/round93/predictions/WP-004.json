@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "Direction: Hillary Clinton wins the 2016 US presidential election, as the Costa Mesa conference panel's consensus reading holds. She defeats Donald Trump on 8 November 2016 despite most of the campaign's turbulence; the panel majority reads the charts for the experienced establishment candidate over the insurgent (day-coordinate: the election itself).",
+ "basis": "Card carries no tradition/system field; decided from the card's genre: a conference panel forecasting report — the unit of prediction is the panel's collective verdict, and the card frames it as a panel event. Card facts: polls favour Clinton; the panel convenes to forecast. The panel-consensus form of the source means the majority reading is the prediction to record; no individual dissent is itemised on the card, so none is invented. Faces: winner decided; decider face not itemised on card — not reported. [Section-8 workload audit] Work lines: panel-majority line (acting on: recorded verdict;助成 Clinton; strongest by source form); polling-frontrunner line (助成, secondary). Main line认定: panel-majority line. Band: outright panel call for Clinton; no state-by-state detail asserted.",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
