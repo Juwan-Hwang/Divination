@@ -1,0 +1,175 @@
+{
+  "seat": "R78 holdout23 封存裁处执行席",
+  "script": "runs/round78/amend_holdout23_r78.py",
+  "gold_sha_before": "301d37d56c6b5fe88ad5d0f6bc022b3efba5bdbb443fee8e6cce7c7741cbe55e",
+  "gold_sha_after_hashlib": "b31afb4e59da75e89be5353d9405554cd3b449563a84b42e76b29ad4fbab60ad",
+  "gold_sha_after_sha256sum": "b31afb4e59da75e89be5353d9405554cd3b449563a84b42e76b29ad4fbab60ad",
+  "gold_bytes_after": 34272,
+  "gold_rows_after": [
+    "DS-013",
+    "DS-014",
+    "DS-015",
+    "DS-016",
+    "DS-017",
+    "DS-018",
+    "GSZ-028",
+    "GSZ-030",
+    "GSZ-031",
+    "GSZ-032",
+    "GSZ-033",
+    "QM-015",
+    "QM-016",
+    "QM-018",
+    "QM-019",
+    "QM-020",
+    "QM-204",
+    "QM-205",
+    "QM-304",
+    "QM-305",
+    "QM-306",
+    "ZCB-006",
+    "ZCB-007",
+    "ZCB-008",
+    "ZCB-009",
+    "ZCB-010",
+    "ZCB-011"
+  ],
+  "item1_DS-013": {
+    "deleted_string": "、做功等级大的四柱",
+    "occurrences_in_file": 2,
+    "setting_before": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第一节二、做功等级大的四柱·例六（印刷p.88／PDF112）",
+    "setting_after": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第一节二·例六（印刷p.88／PDF112）",
+    "provenance_before": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第一节二、做功等级大的四柱·例六（印刷p.88／PDF112）；底本为用户经学校图书馆提供，redistributable=false",
+    "provenance_after": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第一节二·例六（印刷p.88／PDF112）；底本为用户经学校图书馆提供，redistributable=false",
+    "subject_unchanged": true,
+    "other_fields_byte_identical_except_two": true
+  },
+  "item2_DS-014": {
+    "deleted_string": "、普通四柱",
+    "occurrences_in_file": 2,
+    "setting_before": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第一节二、普通四柱·例五（印刷p.91／PDF115）",
+    "setting_after": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第一节二·例五（印刷p.91／PDF115）",
+    "provenance_before": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第一节二、普通四柱·例五（印刷p.91／PDF115）；底本为用户经学校图书馆提供，redistributable=false",
+    "provenance_after": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第一节二·例五（印刷p.91／PDF115）；底本为用户经学校图书馆提供，redistributable=false",
+    "subject_unchanged": true,
+    "other_fields_byte_identical_except_two": true
+  },
+  "item3_DS-015": {
+    "ledger_source_verbatim": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第一节二、差命·例五（印刷p.92／PDF116）",
+    "title_locations_neutralized": [
+      "setting",
+      "provenance"
+    ],
+    "card_setting_after": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第一节二·例五（印刷p.92／PDF116）",
+    "card_provenance_after": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第一节二·例五（印刷p.92／PDF116）；底本为用户经学校图书馆提供，redistributable=false",
+    "gold_provenance_unnneutralized": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第一节二、差命·例五（印刷p.92／PDF116）；底本为用户经学校图书馆提供，redistributable=false",
+    "eligibility_recheck_pass": true,
+    "zero_reuse": {
+      "used_union_total": 1004,
+      "used_sources": {
+        "dev9_baseline_keys": 487,
+        "dev_pool_with_input_dirs": 488,
+        "phase2_splits2_holdout2": 29,
+        "holdout3_22_gold_ids": 592,
+        "gold_per_set": {
+          "holdout3": 27,
+          "holdout4": 25,
+          "holdout5": 25,
+          "holdout6": 23,
+          "holdout7": 1,
+          "holdout8": 28,
+          "holdout9": 28,
+          "holdout10": 29,
+          "holdout11": 25,
+          "holdout12": 49,
+          "holdout13": 40,
+          "holdout14": 40,
+          "holdout15": 40,
+          "holdout16": 40,
+          "holdout17": 40,
+          "holdout18": 30,
+          "holdout19": 25,
+          "holdout20": 25,
+          "holdout21": 25,
+          "holdout22": 27
+        },
+        "holdout2_22_input_card_ids": 433,
+        "toplevel_inputs6_10_card_ids": 412,
+        "used_union_total": 1004
+      },
+      "DS-015_in_used_union": false,
+      "conclusion": "零命中"
+    }
+  },
+  "item3_DS-019": {
+    "card_deleted_exact_path": "/home/hatch/workspace/divination/benchmark/phase3/holdout23/inputs/DS-019.json",
+    "gold_row_deleted": true
+  },
+  "item4_ZCB": "ZCB-006/ZCB-007/ZCB-011 照建不动、标旗维持；裁处理由原文已记入封存日志 §八.1 第 4 项",
+  "changed_card_rescan": {
+    "DS-013": {
+      "whitelist_keyorder_ok": true,
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "master_fragment_hits": [],
+      "outcome_fragment_hits": [],
+      "short_substring_info": [],
+      "pass": true
+    },
+    "DS-014": {
+      "whitelist_keyorder_ok": true,
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "master_fragment_hits": [],
+      "outcome_fragment_hits": [],
+      "short_substring_info": [],
+      "pass": true
+    },
+    "DS-015": {
+      "whitelist_keyorder_ok": true,
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "master_fragment_hits": [],
+      "outcome_fragment_hits": [],
+      "short_substring_info": [],
+      "pass": true
+    }
+  },
+  "full_rescan_totals": {
+    "marker_hits": 0,
+    "fieldname_hits": 0,
+    "banned_key_hits": 0,
+    "outcome_fragment_hits": 0,
+    "master_fragment_hits_noncezi": 0,
+    "master_fragment_hits_cezi": {
+      "ZCB-011": [
+        "子勿死，邊吉乃周字也"
+      ]
+    },
+    "whitelist_failures": []
+  },
+  "full_rescan_failures": [],
+  "composition": {
+    "by_source": {
+      "段建业《段氏理象学》": 6,
+      "王虎应《六爻卦例说真》": 5,
+      "张志春《开悟之门》": 5,
+      "刘文元《奇门启悟》": 2,
+      "石建国《奇门遁甲最新实例解析》": 3,
+      "《字触补》（《四库未收书辑刊》陆辑第拾捌册）": 6
+    },
+    "by_tradition": {
+      "bazi": 6,
+      "liuyao": 5,
+      "qimen": 10,
+      "cezi": 6
+    },
+    "T": 27,
+    "assertions_all_pass": true
+  },
+  "seal_log_size_before": 22545,
+  "seal_log_size_after": 33411
+}

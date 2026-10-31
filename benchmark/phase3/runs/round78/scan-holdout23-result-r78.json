@@ -1,0 +1,267 @@
+{
+  "scan": "holdout23 独立复扫（第二道）",
+  "ids": [
+    "DS-013",
+    "DS-014",
+    "DS-016",
+    "DS-017",
+    "DS-018",
+    "DS-019",
+    "QM-015",
+    "QM-016",
+    "QM-018",
+    "QM-019",
+    "QM-020",
+    "QM-204",
+    "QM-205",
+    "QM-304",
+    "QM-305",
+    "QM-306",
+    "ZCB-006",
+    "ZCB-007",
+    "ZCB-008",
+    "ZCB-009",
+    "ZCB-010",
+    "ZCB-011",
+    "GSZ-028",
+    "GSZ-030",
+    "GSZ-031",
+    "GSZ-032",
+    "GSZ-033"
+  ],
+  "per_case": {
+    "DS-013": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": [],
+      "short_substring_info": []
+    },
+    "DS-014": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": [],
+      "short_substring_info": []
+    },
+    "DS-016": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": [],
+      "short_substring_info": []
+    },
+    "DS-017": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": [],
+      "short_substring_info": []
+    },
+    "DS-018": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": [],
+      "short_substring_info": []
+    },
+    "DS-019": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": [],
+      "short_substring_info": []
+    },
+    "QM-015": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": [],
+      "short_substring_info": []
+    },
+    "QM-016": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": [],
+      "short_substring_info": []
+    },
+    "QM-018": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": [],
+      "short_substring_info": []
+    },
+    "QM-019": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": [],
+      "short_substring_info": []
+    },
+    "QM-020": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": [],
+      "short_substring_info": []
+    },
+    "QM-204": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": [],
+      "short_substring_info": []
+    },
+    "QM-205": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": [],
+      "short_substring_info": []
+    },
+    "QM-304": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": [],
+      "short_substring_info": []
+    },
+    "QM-305": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": [],
+      "short_substring_info": []
+    },
+    "QM-306": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": [],
+      "short_substring_info": []
+    },
+    "ZCB-006": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": [],
+      "short_substring_info": [
+        "從墓田，其必以酒溺乎",
+        "而從墓田，其必以酒溺"
+      ]
+    },
+    "ZCB-007": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": [],
+      "short_substring_info": [
+        "言午為許，神已許之矣"
+      ]
+    },
+    "ZCB-008": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": [],
+      "short_substring_info": []
+    },
+    "ZCB-009": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": [],
+      "short_substring_info": [
+        "虞去上半，下男字也"
+      ]
+    },
+    "ZCB-010": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": [],
+      "short_substring_info": []
+    },
+    "ZCB-011": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": [
+        "子勿死，邊吉乃周字也"
+      ],
+      "short_substring_info": [
+        "子勿死，邊吉乃周字也"
+      ]
+    },
+    "GSZ-028": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": [],
+      "short_substring_info": []
+    },
+    "GSZ-030": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": [],
+      "short_substring_info": []
+    },
+    "GSZ-031": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": [],
+      "short_substring_info": []
+    },
+    "GSZ-032": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": [],
+      "short_substring_info": []
+    },
+    "GSZ-033": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "outcome_fragment_hits": [],
+      "master_fragment_hits": [],
+      "short_substring_info": []
+    }
+  },
+  "failures": [],
+  "total_marker_hits": 0,
+  "total_fieldname_hits": 0,
+  "total_banned_key_hits": 0,
+  "total_outcome_fragment_hits": 0,
+  "pass": true
+}
