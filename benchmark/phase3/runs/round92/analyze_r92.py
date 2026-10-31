@@ -195,7 +195,7 @@ for f in glob.glob(str(R91D / 'predictions/*.json')):
         if p.get('trigger', {}).get(k):
             trig[k] += 1
 trig_counts = {k: trig[k] for k in ('changed_main', 'reserve_used', 'disputed')}
-host_expected = (17, 43, 44)  # host freeze verify recount (verify_predictions_host_r92.py, FREEZE-r92)
+host_expected = {'changed_main': 17, 'reserve_used': 43, 'disputed': 44}  # host freeze verify recount (verify_predictions_host_r92.py, FREEZE-r92)
 assert host_expected is None or trig_counts == host_expected, (trig_counts, host_expected)
 print('predictions read:', npred)
 print('trigger true counts:', trig_counts, '| host final check:', host_expected,

@@ -1,0 +1,98 @@
+== 0. merge ==
+disputes (|dTotal|>=3): ['LR2-013', 'LY-539'] | arbitration applied (replaces mean): {'LR2-013': 3, 'LY-539': 5}
+
+== 1. headline ==
+ALL(487): {'n': 487, 'pair_diff': -1.099, 'SE': 0.108, 'ours_mean': 3.564, 'master_mean': 4.662, 'W': 135, 'T': 49, 'L': 303, 'W/T/L': '135/49/303'} | (a) >= -1.371 -> True
+low-contamination: {'n': 378, 'pair_diff': -1.72, 'SE': 0.105, 'ours_mean': 3.171, 'master_mean': 4.891, 'W': 65, 'T': 36, 'L': 277, 'W/T/L': '65/36/277'}
+ours pass: 266 / 487
+
+== 2. platform (b) guardrails ==
+(b) bazi: {'n': 29, 'pair_diff': 0.103, 'SE': 0.307, 'ours_mean': 4.603, 'master_mean': 4.5, 'W': 12, 'T': 5, 'L': 12, 'W/T/L': '12/5/12'} >= -0.449 -> True | margin 0.552
+(b) bazi-natal: {'n': 26, 'pair_diff': 0.779, 'SE': 0.386, 'ours_mean': 4.788, 'master_mean': 4.01, 'W': 17, 'T': 1, 'L': 8, 'W/T/L': '17/1/8'} >= +0.290 -> True | margin 0.489
+(b) horary: {'n': 25, 'pair_diff': -0.52, 'SE': 0.231, 'ours_mean': 4.56, 'master_mean': 5.08, 'W': 4, 'T': 8, 'L': 13, 'W/T/L': '4/8/13'} >= -0.760 -> True | margin 0.24
+(b) liuren dev8: {'n': 18, 'pair_diff': -2.417, 'SE': 0.508, 'ours_mean': 2.889, 'master_mean': 5.306, 'W': 2, 'T': 0, 'L': 16, 'W/T/L': '2/0/16'} >= -2.600 -> True | margin 0.183
+
+== 3. (c) liuyao dev8: SINGLE round (PREREG s.1) ==
+R92 single: {'n': 246, 'pair_diff': -1.774, 'SE': 0.133, 'ours_mean': 3.057, 'master_mean': 4.831, 'W': 43, 'T': 24, 'L': 179, 'W/T/L': '43/24/179'}
+(c) STANDS (single >= -1.93): True | fuse fact (< -2.255): False
+
+== 4. family reads ==
+liuyao_dev8_c_segment : {'n': 246, 'pair_diff': -1.774, 'SE': 0.133, 'ours_mean': 3.057, 'master_mean': 4.831, 'W': 43, 'T': 24, 'L': 179, 'W/T/L': '43/24/179'} 
+liuyao_all : {'n': 309, 'pair_diff': -1.752, 'SE': 0.116, 'ours_mean': 3.117, 'master_mean': 4.869, 'W': 55, 'T': 28, 'L': 226, 'W/T/L': '55/28/226'} 
+liuyao_zh : {'n': 16, 'pair_diff': -1.703, 'SE': 0.521, 'ours_mean': 3.125, 'master_mean': 4.828, 'W': 2, 'T': 3, 'L': 11, 'W/T/L': '2/3/11'} 
+liuyao_combined : {'n': 325, 'pair_diff': -1.75, 'SE': 0.113, 'ours_mean': 3.117, 'master_mean': 4.867, 'W': 57, 'T': 31, 'L': 237, 'W/T/L': '57/31/237'} 
+liuren_dev8 : {'n': 18, 'pair_diff': -2.417, 'SE': 0.508, 'ours_mean': 2.889, 'master_mean': 5.306, 'W': 2, 'T': 0, 'L': 16, 'W/T/L': '2/0/16'} 
+liuren_lr3_new : {'n': 12, 'pair_diff': -0.917, 'SE': 0.555, 'ours_mean': 3.125, 'master_mean': 4.042, 'W': 4, 'T': 0, 'L': 8, 'W/T/L': '4/0/8'} 
+liuren_merged : {'n': 30, 'pair_diff': -1.817, 'SE': 0.395, 'ours_mean': 2.983, 'master_mean': 4.8, 'W': 6, 'T': 0, 'L': 24, 'W/T/L': '6/0/24'} 
+liuren_en : {'n': 25, 'pair_diff': -1.88, 'SE': 0.454, 'ours_mean': 2.9, 'master_mean': 4.78, 'W': 5, 'T': 0, 'L': 20, 'W/T/L': '5/0/20'} 
+liuren_zh : {'n': 5, 'pair_diff': -1.5, 'SE': 0.762, 'ours_mean': 3.4, 'master_mean': 4.9, 'W': 1, 'T': 0, 'L': 4, 'W/T/L': '1/0/4'} 
+bazi_all : {'n': 29, 'pair_diff': 0.103, 'SE': 0.307, 'ours_mean': 4.603, 'master_mean': 4.5, 'W': 12, 'T': 5, 'L': 12, 'W/T/L': '12/5/12'} 
+bazi_natal : {'n': 26, 'pair_diff': 0.779, 'SE': 0.386, 'ours_mean': 4.788, 'master_mean': 4.01, 'W': 17, 'T': 1, 'L': 8, 'W/T/L': '17/1/8'} 
+horary : {'n': 25, 'pair_diff': -0.52, 'SE': 0.231, 'ours_mean': 4.56, 'master_mean': 5.08, 'W': 4, 'T': 8, 'L': 13, 'W/T/L': '4/8/13'} 
+meihua_en : {'n': 8, 'pair_diff': -2.188, 'SE': 0.845, 'ours_mean': 3.5, 'master_mean': 5.688, 'W': 2, 'T': 0, 'L': 6, 'W/T/L': '2/0/6'} 
+meihua_zh : {'n': 3, 'pair_diff': -0.167, 'SE': 0.441, 'ours_mean': 4.5, 'master_mean': 4.667, 'W': 1, 'T': 1, 'L': 1, 'W/T/L': '1/1/1'} 
+meihua_merged : {'n': 11, 'pair_diff': -1.636, 'SE': 0.675, 'ours_mean': 3.773, 'master_mean': 5.409, 'W': 3, 'T': 1, 'L': 7, 'W/T/L': '3/1/7'} 
+cezi_dev : {'n': 1, 'pair_diff': 1.5, 'SE': 0.0, 'ours_mean': 6.0, 'master_mean': 4.5, 'W': 1, 'T': 0, 'L': 0, 'W/T/L': '1/0/0'} | ids ['MP-016']
+per-tradition (all):
+  astrology {'n': 4, 'pair_diff': 2.0, 'SE': 1.061, 'ours_mean': 3.75, 'master_mean': 1.75, 'W': 4, 'T': 0, 'L': 0, 'W/T/L': '4/0/0'}
+  bazi {'n': 29, 'pair_diff': 0.103, 'SE': 0.307, 'ours_mean': 4.603, 'master_mean': 4.5, 'W': 12, 'T': 5, 'L': 12, 'W/T/L': '12/5/12'}
+  fengshui {'n': 2, 'pair_diff': 3.5, 'SE': 2.5, 'ours_mean': 5.0, 'master_mean': 1.5, 'W': 2, 'T': 0, 'L': 0, 'W/T/L': '2/0/0'}
+  horary {'n': 25, 'pair_diff': -0.52, 'SE': 0.231, 'ours_mean': 4.56, 'master_mean': 5.08, 'W': 4, 'T': 8, 'L': 13, 'W/T/L': '4/8/13'}
+  liuren {'n': 25, 'pair_diff': -1.88, 'SE': 0.454, 'ours_mean': 2.9, 'master_mean': 4.78, 'W': 5, 'T': 0, 'L': 20, 'W/T/L': '5/0/20'}
+  liuyao {'n': 309, 'pair_diff': -1.752, 'SE': 0.116, 'ours_mean': 3.117, 'master_mean': 4.869, 'W': 55, 'T': 28, 'L': 226, 'W/T/L': '55/28/226'}
+  meihua {'n': 8, 'pair_diff': -2.188, 'SE': 0.845, 'ours_mean': 3.5, 'master_mean': 5.688, 'W': 2, 'T': 0, 'L': 6, 'W/T/L': '2/0/6'}
+  mundane-astrology {'n': 6, 'pair_diff': 1.417, 'SE': 0.828, 'ours_mean': 5.917, 'master_mean': 4.5, 'W': 5, 'T': 1, 'L': 0, 'W/T/L': '5/1/0'}
+  tarot {'n': 1, 'pair_diff': 0.5, 'SE': 0.0, 'ours_mean': 6.0, 'master_mean': 5.5, 'W': 1, 'T': 0, 'L': 0, 'W/T/L': '1/0/0'}
+  vedic-astrology {'n': 9, 'pair_diff': 3.139, 'SE': 0.794, 'ours_mean': 5.444, 'master_mean': 2.306, 'W': 9, 'T': 0, 'L': 0, 'W/T/L': '9/0/0'}
+  yijing {'n': 4, 'pair_diff': -0.75, 'SE': 0.433, 'ours_mean': 4.125, 'master_mean': 4.875, 'W': 0, 'T': 2, 'L': 2, 'W/T/L': '0/2/2'}
+  八字 {'n': 26, 'pair_diff': 0.779, 'SE': 0.386, 'ours_mean': 4.788, 'master_mean': 4.01, 'W': 17, 'T': 1, 'L': 8, 'W/T/L': '17/1/8'}
+  六壬 {'n': 5, 'pair_diff': -1.5, 'SE': 0.762, 'ours_mean': 3.4, 'master_mean': 4.9, 'W': 1, 'T': 0, 'L': 4, 'W/T/L': '1/0/4'}
+  六爻 {'n': 16, 'pair_diff': -1.703, 'SE': 0.521, 'ours_mean': 3.125, 'master_mean': 4.828, 'W': 2, 'T': 3, 'L': 11, 'W/T/L': '2/3/11'}
+  塔罗/文王圣卦（易经） {'n': 1, 'pair_diff': 1.25, 'SE': 0.0, 'ours_mean': 6.0, 'master_mean': 4.75, 'W': 1, 'T': 0, 'L': 0, 'W/T/L': '1/0/0'}
+  梅花 {'n': 3, 'pair_diff': -0.167, 'SE': 0.441, 'ours_mean': 4.5, 'master_mean': 4.667, 'W': 1, 'T': 1, 'L': 1, 'W/T/L': '1/1/1'}
+  测字/姓名学 {'n': 1, 'pair_diff': 1.5, 'SE': 0.0, 'ours_mean': 6.0, 'master_mean': 4.5, 'W': 1, 'T': 0, 'L': 0, 'W/T/L': '1/0/0'}
+  紫微斗数 {'n': 1, 'pair_diff': 6.0, 'SE': 0.0, 'ours_mean': 6.0, 'master_mean': 0.0, 'W': 1, 'T': 0, 'L': 0, 'W/T/L': '1/0/0'}
+  紫微斗数/风水 {'n': 1, 'pair_diff': 1.5, 'SE': 0.0, 'ours_mean': 4.5, 'master_mean': 3.0, 'W': 1, 'T': 0, 'L': 0, 'W/T/L': '1/0/0'}
+  通灵/观相 {'n': 1, 'pair_diff': 4.75, 'SE': 0.0, 'ours_mean': 5.5, 'master_mean': 0.75, 'W': 1, 'T': 0, 'L': 0, 'W/T/L': '1/0/0'}
+  铁版神数/八字/紫微斗数 {'n': 1, 'pair_diff': 5.5, 'SE': 0.0, 'ours_mean': 6.0, 'master_mean': 0.5, 'W': 1, 'T': 0, 'L': 0, 'W/T/L': '1/0/0'}
+  面相/紫微斗數 {'n': 1, 'pair_diff': 5.0, 'SE': 0.0, 'ours_mean': 6.0, 'master_mean': 1.0, 'W': 1, 'T': 0, 'L': 0, 'W/T/L': '1/0/0'}
+  面相（体相/法令纹） {'n': 2, 'pair_diff': 2.625, 'SE': 2.375, 'ours_mean': 6.0, 'master_mean': 3.375, 'W': 2, 'T': 0, 'L': 0, 'W/T/L': '2/0/0'}
+  风水/八字 {'n': 1, 'pair_diff': 2.0, 'SE': 0.0, 'ours_mean': 6.0, 'master_mean': 4.0, 'W': 1, 'T': 0, 'L': 0, 'W/T/L': '1/0/0'}
+  风水/八字（五行） {'n': 1, 'pair_diff': 6.0, 'SE': 0.0, 'ours_mean': 6.0, 'master_mean': 0.0, 'W': 1, 'T': 0, 'L': 0, 'W/T/L': '1/0/0'}
+  风水/紫微斗数 {'n': 1, 'pair_diff': 1.0, 'SE': 0.0, 'ours_mean': 6.0, 'master_mean': 5.0, 'W': 1, 'T': 0, 'L': 0, 'W/T/L': '1/0/0'}
+  风水/面相 {'n': 1, 'pair_diff': 1.5, 'SE': 0.0, 'ours_mean': 6.0, 'master_mean': 4.5, 'W': 1, 'T': 0, 'L': 0, 'W/T/L': '1/0/0'}
+  鸟卦 {'n': 1, 'pair_diff': 5.0, 'SE': 0.0, 'ours_mean': 5.5, 'master_mean': 0.5, 'W': 1, 'T': 0, 'L': 0, 'W/T/L': '1/0/0'}
+  鸟卦（签诗） {'n': 1, 'pair_diff': 0.5, 'SE': 0.0, 'ours_mean': 6.0, 'master_mean': 5.5, 'W': 1, 'T': 0, 'L': 0, 'W/T/L': '1/0/0'}
+
+== 5. overlay 16 ==
+overlay16 mean pair: 2.609
+
+== 6. prediction meta: trigger recount ==
+predictions read: 487
+trigger true counts: {'changed_main': 17, 'reserve_used': 43, 'disputed': 44} | host final check: {'changed_main': 17, 'reserve_used': 43, 'disputed': 44} | match: True
+
+== 7. double-view consistency ==
+|dTotal| exact distribution: {0: 313, 1: 153, 2: 19, 3: 2}
+|dTotal| bins: {'==0': 313, '(0,1)': 0, '[1,2)': 153, '[2,3)': 19, '>=3 (disputed)': 2}
+arbitration detail: [{'case_id': 'LR2-013', 'anon_id': 'P3-f21e5383', 'judgeX_total': 5, 'judgeY_total': 2, 'abs_delta': 3, 'double_view_mean_total': 3.5, 'arbitration_total': 3.0, 'final_total': 3.0, 'rule': 'arbitration replaces double-view mean (analyze_r39 merge_views code rule)'}, {'case_id': 'LY-539', 'anon_id': 'P3-fac31ee3', 'judgeX_total': 5, 'judgeY_total': 2, 'abs_delta': 3, 'double_view_mean_total': 3.5, 'arbitration_total': 5.0, 'final_total': 5.0, 'rule': 'arbitration replaces double-view mean (analyze_r39 merge_views code rule)'}]
+
+== 8. attribution guardrails (PREREG s.1) ==
+bazi all: 0.103 < -0.816 -> BZ-FY falsified: False
+liuren merged: -1.817 < -2.550 -> liuren continued-deterioration fact: False
+
+== 9. side reads: bazi timing movement R91 -> R92 ==
+bazi-all(29): timing mean R92 1.000 vs R91 1.034 | delta -0.034
+bazi-natal(26): timing mean R92 1.212 vs R91 1.327 | delta -0.115
+
+== 9b. side read: mengzhan chapter variable footprint (R49 s.9b mechanism) ==
+predictions citing mengzhan chapter: 1 ['LY-451']
+dev traditions containing dream char: {}
+
+== PLATFORM ==
+(a) True | (b) True | (c) True | ALL STAND: True
+
+final-scores.json written: n = 487 | disputes: ['LR2-013', 'LY-539']
+lr-negatives-dev92.json written: negatives 24 / 30
+
+== SUMMARY ==
+{"platform_a": true, "platform_b": true, "platform_c": true, "platform_all": true, "a_pair_diff": -1.099, "c_single_r92": -1.774, "c_fuse_fact": false, "guardrail_bz_falsified": false, "guardrail_lr_deterioration_fact": false}
