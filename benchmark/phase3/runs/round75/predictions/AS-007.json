@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-007",
+ "prediction_text": "断：Waller 胜，Hopton 败。此战即问卦当日（1644年3月29日）交锋，主坐标即当日：议会军得胜，王军被逐退。置信高。",
+ "basis": "tradition: horary\n已载面：主问=两军孰胜；应期面=当日交锋。Waller 方：上升、月亮、木星、金星，月在金牛擢升与木星同在，日（其助力主）居十宫正得擢升度19°白羊；Hopton 方七宫主土星没光、入弱、无相位、陷弱无援，九宫只有火星南交（无后援）。断项过闸：Waller 胜→月擢升合木星＋日擢升双强指针保留；Hopton 败→土星入弱没光保留。R61复推：初推日擢升度定当日；复推以月 swift 增光核之，同为日档当日，二路同点。",
+ "confidence": 0.8,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

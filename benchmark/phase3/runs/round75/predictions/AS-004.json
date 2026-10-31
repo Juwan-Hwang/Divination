@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-004",
+ "prediction_text": "断：谣言不实——国王并未攻取 Cambridge。议会一方之象强（问者主星擢升），王方七宫主入弱受困；应期以日为单位，数日内后续消息即证其虚，城仍在议会手。置信高。",
+ "basis": "卡面未标注 tradition 字段；本例题面为 Lilly 谣言真伪之问，按 horary 体裁自决。\n已载面：主问=谣言真伪；对象面=Cambridge 城。诸角变动、月亮落陷无所喜之宫主谣言无根；上升主（问者/议会方）擢升强，七宫主（王方）入弱受 affliction——攻取之说与盘面正反。断项过闸：谣言虚→月落陷无据＋王方主星入弱双指针，保留。R61复推：初推以月无力定数日证虚；复推以七宫主入弱核之，同指王方无此功，二路同向，保留日档。",
+ "confidence": 0.75,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

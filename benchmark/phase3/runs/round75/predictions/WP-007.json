@@ -1,0 +1,12 @@
+{
+  "case_id": "WP-007",
+  "prediction_text": "Direction: Donald Trump wins, and the Clinton controversies decide it. The Union Square tarot reading (August 2016) points against the poll leader: Trump's path runs through Hillary Clinton's email controversy and Clinton Foundation questions, which keep eroding her through the autumn and prove decisive in the 8 November 2016 result — a late-breaking scandal/shakeup in the final stretch is what tips it. Timing: decided on Election Day, 8 November 2016, with the deciding damage landing in the final weeks.",
+  "basis": "The card carries no tradition/system field; decided by genre as a tarot election reading (snapshot western-tarot reference, Waite meanings), the card stating a tarot reader was consulted and drew cards on the election.\nFaces listed: main question and its rider (what will decide it) both answered; the card's stated facts that Clinton's email controversy and the Clinton Foundation are already public controversies are the trigger for naming them as the deciding factor — no other deciding factor is supplied by the card. Polls-lead face listed and answered against, as a tarot reading that merely echoed the polls would make the card's controversy facts pointless. Card-level detail: the card does not reproduce the actual spread drawn, so no individual card meanings are claimed — this input gap is noted here and confidence held at 0.52. Anchor check: no verbal/numeric anchor beyond the named controversies, read straight.",
+  "confidence": 0.52,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": ""
+  }
+}
