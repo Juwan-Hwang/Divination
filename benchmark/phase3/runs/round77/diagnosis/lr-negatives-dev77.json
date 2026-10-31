@@ -1,0 +1,192 @@
+{
+ "round": 77,
+ "definition": "host-meta tradition in ('liuren','六壬'); pair_diff = final ours (arbitration-merged) - master-baseline-dev9 total; listed iff < 0",
+ "n_liuren_total": 30,
+ "n_negative": 23,
+ "negatives": [
+  {
+   "case_id": "LR2-013",
+   "tradition": "liuren",
+   "in_dev8": true,
+   "ours": 4.0,
+   "master": 6.0,
+   "pair_diff": -2.0
+  },
+  {
+   "case_id": "LR2-014",
+   "tradition": "liuren",
+   "in_dev8": true,
+   "ours": 4.25,
+   "master": 5.5,
+   "pair_diff": -1.25
+  },
+  {
+   "case_id": "LR2-015",
+   "tradition": "liuren",
+   "in_dev8": true,
+   "ours": 0.0,
+   "master": 6.0,
+   "pair_diff": -6.0
+  },
+  {
+   "case_id": "LR2-016",
+   "tradition": "liuren",
+   "in_dev8": true,
+   "ours": 3.75,
+   "master": 5.0,
+   "pair_diff": -1.25
+  },
+  {
+   "case_id": "LR2-017",
+   "tradition": "liuren",
+   "in_dev8": true,
+   "ours": 0.0,
+   "master": 6.0,
+   "pair_diff": -6.0
+  },
+  {
+   "case_id": "LR2-018",
+   "tradition": "liuren",
+   "in_dev8": true,
+   "ours": 2.0,
+   "master": 5.0,
+   "pair_diff": -3.0
+  },
+  {
+   "case_id": "LR2-019",
+   "tradition": "liuren",
+   "in_dev8": true,
+   "ours": 4.5,
+   "master": 5.75,
+   "pair_diff": -1.25
+  },
+  {
+   "case_id": "LR2-021",
+   "tradition": "liuren",
+   "in_dev8": true,
+   "ours": 1.75,
+   "master": 5.75,
+   "pair_diff": -4.0
+  },
+  {
+   "case_id": "LR2-022",
+   "tradition": "liuren",
+   "in_dev8": true,
+   "ours": 0.0,
+   "master": 6.0,
+   "pair_diff": -6.0
+  },
+  {
+   "case_id": "LR2-023",
+   "tradition": "liuren",
+   "in_dev8": true,
+   "ours": 2.25,
+   "master": 6.0,
+   "pair_diff": -3.75
+  },
+  {
+   "case_id": "LR2-024",
+   "tradition": "liuren",
+   "in_dev8": true,
+   "ours": 4.0,
+   "master": 5.5,
+   "pair_diff": -1.5
+  },
+  {
+   "case_id": "LR3-002",
+   "tradition": "liuren",
+   "in_dev8": false,
+   "ours": 3.5,
+   "master": 4.5,
+   "pair_diff": -1.0
+  },
+  {
+   "case_id": "LR3-006",
+   "tradition": "liuren",
+   "in_dev8": false,
+   "ours": 4.25,
+   "master": 4.75,
+   "pair_diff": -0.5
+  },
+  {
+   "case_id": "LR3-008",
+   "tradition": "liuren",
+   "in_dev8": false,
+   "ours": 0.0,
+   "master": 5.0,
+   "pair_diff": -5.0
+  },
+  {
+   "case_id": "LR3-010",
+   "tradition": "liuren",
+   "in_dev8": false,
+   "ours": 1.75,
+   "master": 3.0,
+   "pair_diff": -1.25
+  },
+  {
+   "case_id": "LR3-101",
+   "tradition": "liuren",
+   "in_dev8": false,
+   "ours": 3.25,
+   "master": 5.0,
+   "pair_diff": -1.75
+  },
+  {
+   "case_id": "LR3-107",
+   "tradition": "liuren",
+   "in_dev8": false,
+   "ours": 2.0,
+   "master": 4.0,
+   "pair_diff": -2.0
+  },
+  {
+   "case_id": "LR3-112",
+   "tradition": "liuren",
+   "in_dev8": false,
+   "ours": 0.5,
+   "master": 2.25,
+   "pair_diff": -1.75
+  },
+  {
+   "case_id": "LR3-116",
+   "tradition": "liuren",
+   "in_dev8": false,
+   "ours": 0.0,
+   "master": 4.0,
+   "pair_diff": -4.0
+  },
+  {
+   "case_id": "OC-026",
+   "tradition": "六壬",
+   "in_dev8": true,
+   "ours": 0.0,
+   "master": 6.0,
+   "pair_diff": -6.0
+  },
+  {
+   "case_id": "OC-027",
+   "tradition": "六壬",
+   "in_dev8": true,
+   "ours": 2.5,
+   "master": 4.75,
+   "pair_diff": -2.25
+  },
+  {
+   "case_id": "OC-029",
+   "tradition": "六壬",
+   "in_dev8": true,
+   "ours": 3.0,
+   "master": 5.25,
+   "pair_diff": -2.25
+  },
+  {
+   "case_id": "OC-030",
+   "tradition": "六壬",
+   "in_dev8": true,
+   "ours": 3.25,
+   "master": 5.5,
+   "pair_diff": -2.25
+  }
+ ]
+}
