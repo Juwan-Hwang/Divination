@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-012",
+ "prediction_text": "方向：倭寇不来犯，本轮无寇警。噬嗑卦中官鬼爻衰弱又安静——鬼为寇患之神，衰静则贼势无力、无发动之机，寇不至。应期：此为来否单点问，窗口为占后本旬本月之内皆无犯境之事，主坐标不出丙子日占后一月，不另造具体犯境日期（无犯即无应期日）。",
+ "basis": "tradition=六爻\nsystems_used: 六爻纳甲（残盘）\n依据：寇患取官鬼为用，鬼衰静为无寇之正断，单证而明确。第八节功量核：无量级类断项、R80-REV1不适用。输入残损：chart_complete=false，只记卦名与鬼爻衰静，已注明并降置信。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "鬼爻衰静单证定无寇，主断未变更、无预备线、两路无争议，三项皆false。"
+ }
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": "WP-003",
+  "prediction_text": "Direction: Barack Obama is re-elected. Obama defeats Mitt Romney on 6 November 2012 and wins a second term; the Mercury retrograde beginning on Election Day produces counting confusion, delayed calls in places and post-election disputes over the process, but does not overturn the incumbent's victory. Margin band: competitive but decisive in the electoral college.",
+  "basis": "卡面未标注 tradition 字段 (no tradition/system field on card); decided by card genre as western electional astrology.\nsystems_used=['western astrology (election forecasting)']。Card facts May 2012: incumbent Obama vs presumptive nominee Romney, polling competitive, Mercury retrograde begins on Election Day itself. Incumbency is the strongest mundane-election factor absent a major affliction to the incumbent's significators in the card as given; Mercury retrograde on the day classically signifies recounts, delays and communications muddle in the count — a process affliction, not a result reversal. Hence: Obama holds, process messy. Sec.8: assisting lines — incumbency continuity 1, absence of stated incumbent affliction 1; suppressing — competitive polling 1; main line = incumbency; band = re-election with comfortable electoral margin, popular vote close.",
+  "confidence": 0.62,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": ""
+  }
+}

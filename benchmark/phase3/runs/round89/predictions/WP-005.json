@@ -1,0 +1,12 @@
+{
+  "case_id": "WP-005",
+  "prediction_text": "Direction: Donald Trump wins. The panellist singled out in this card — the one who, against a 17-candidate Republican field, had already picked Trump to become the Republican nominee — calls the general election for Trump as well: Trump defeats Hillary Clinton on 8 November 2016 despite trailing in most polls. The deciding factor per this reading is the same anti-establishment momentum that carried his nomination.",
+  "basis": "卡面未标注 tradition 字段 (no tradition/system field on card); decided by card genre as western astrology (individual panellist forecast).\nsystems_used=['western astrology (individual forecaster track-record reading)']。Card setting deliberately differs from the generic panel card: it foregrounds one panellist's demonstrated contrarian hit — picking Trump as nominee when 17 Republicans contested it. In benchmark reading, a card that isolates a forecaster by a successful unorthodox call signals that forecaster's continued contrarian line as the prediction to record: he does not revert to the polling favourite at the final step. Hence Trump wins, polls notwithstanding. Sec.8 magnitude: no margin claim beyond direction; assisting line = forecaster's prior contrarian accuracy 1; suppressing line = October polling for Clinton 1; main line = forecaster continuity; band = upset-win band, margin unspecified.",
+  "confidence": 0.5,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": ""
+  }
+}

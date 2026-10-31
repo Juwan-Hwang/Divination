@@ -1,0 +1,23 @@
+{
+ "want": 487,
+ "files": 487,
+ "missing": [],
+ "extra": [],
+ "bad": [],
+ "trigger_counts": {
+  "changed_main": 36,
+  "reserve_used": 41,
+  "disputed": 56
+ },
+ "trigger_reasons_nonempty": 248,
+ "tradition_flag_candidates": [
+  {
+   "case_id": "OC-019",
+   "kind": "card_no_field_but_first_line_claims_card_value",
+   "card_tradition": null,
+   "card_system": null,
+   "first_line": "卡面未标注 tradition 字段，本例据卡面四柱以八字自决（卡面明示另书所载四柱全异、本例以徐乐吾书为准，本断只用卡面所载癸巳丙辰壬申癸卯）。"
+  }
+ ],
+ "claim_group_candidates": []
+}

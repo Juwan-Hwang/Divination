@@ -1,0 +1,12 @@
+{
+  "case_id": "WP-007",
+  "prediction_text": "Direction: Donald Trump wins, and Clinton's email controversy decides it. The Union Square tarot reading of August 2016 calls the election for Trump; the deciding factor named is Hillary Clinton's email/Foundation controversies resurfacing late to break her lead — a late-October scandal shock that moves undecided voters. Election day: 8 November 2016; the deciding blow lands in the final two weeks.",
+  "basis": "卡面未标注 tradition 字段 (no tradition/system field on card); decided by card genre as tarot (Waite tradition).\nsystems_used=['tarot (Waite)']。Card facts: August 2016, Clinton leads most polls; a Manhattan tarot reader is consulted and draws cards on the election; the question explicitly asks 'what will decide it', and the setting pre-loads exactly two candidate deciding factors — the email controversy and the Clinton Foundation, both already public. Under fact-priority (通则e), the deciding factor must be drawn from the card's given facts, and a reader who names a scandal-driven late break is necessarily calling the election against the scandal-burdened candidate: a Clinton win decided by her own email scandal is incoherent. Hence the reading's logic: Trump wins, decided by the email controversy striking late. Sec.8 magnitude: direction plus deciding-factor claim only; assisting lines — question's own 'what decides it' framing, two pre-loaded Clinton-side liabilities (2); suppressing — August polling lead (1); main line = scandal-decides line; band = Trump win via late break, margin unspecified.",
+  "confidence": 0.52,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": ""
+  }
+}

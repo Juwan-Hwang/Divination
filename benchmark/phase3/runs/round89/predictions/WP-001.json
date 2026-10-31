@@ -1,0 +1,12 @@
+{
+  "case_id": "WP-001",
+  "prediction_text": "Direction: yes — a major collective affliction, specifically a pandemic. The 2020–2021 period holds a worldwide epidemic disease event of historic scale (a respiratory plague comparable in collective impact to 1918), peaking in 2020 with mass illness, mortality and social shutdown, and still weighing on 2021. Timing window: onset and peak within 2020, centred on the early-2020 Jupiter–Saturn–Pluto conjunction; this is a disease affliction, not primarily a war or famine.",
+  "basis": "卡面未标注 tradition 字段 (no tradition/system field on card); decided by card genre as western mundane astrology.\nsystems_used=['western mundane astrology']。Card-given configuration: Jupiter–Saturn–Pluto conjunction exact early 2020, five outer planets within ~100 degrees, cyclical index at its 21st-century low, with past comparable clusters coinciding with 1918, 1954, 1968 and 1982 — of those precedents 1918 and 1968 are pandemic years, and Saturn–Pluto in mundane doctrine signifies mass mortality and plague. Saturn (restriction) conjunct Pluto (mass death) with Jupiter amplifying scale: the configuration points to epidemic disease as the affliction type, amplified to global scale. Magnitude accounting per calibration sec.8 (R80-REV1): work lines — Saturn-Pluto mass-mortality line, Jupiter amplification line, cyclical-index century-low line (3 assisting, 0 suppressing for severity); main line = Saturn-Pluto conjunction; band = historic-scale pandemic band, no downgrading per the no-suppression rule.",
+  "confidence": 0.7,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": ""
+  }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-013",
+ "prediction_text": "方向：工党在 2024 年 7 月 4 日英国大选中大胜，Keir Starmer 出任首相。断语：保守党在 Rishi Sunak 领导下惨败、下野，工党取得下议院大幅多数单独执政。应期：单位日，2024 年 7 月 4 日投票日当夜至次日凌晨揭晓，主坐标 7 月 4 日。",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决\nsystems_used: western mundane astrology 题裁 + 事实优先序（卡面仅记选举日在巨蟹座，无完整盘面，不臆补）\n卡面事实：工党民调领先约二十个百分点、Sunak 因提前离开 D-Day 纪念活动受批评——事实面差距过大，非星象细节所能翻转。第八节功量核算：量级为多数幅度带——助成工党线：民调二十分差（强）、执政党失误累积（中）；压制线：无可指认之保守党回升线；主线为民调差线，定带为『大幅多数』带且无压制线，按估低防线不低于带中位，断大胜而非险胜。",
+ "confidence": 0.85,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

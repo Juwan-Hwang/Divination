@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-021",
+ "prediction_text": "近日无雨、旱象持续：雨神父母休囚不动，子孙晴神化出临日月旺势，断无雨。应期（日档）：窗口五日内无雨，主坐标亥日——父母亥水逢值之日方为最早雨机，此前皆晴旱。",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决：liuyao（六爻纳甲）\n天时以父母为雨神：父母亥水两现皆静，午月水休、戊午日火旺，雨神无气不动；世爻妻财丑土动化午火子孙，午火临月临日旺，晴神当权。友人主旱象与盘面合，取旱断。systems_used:[liuyao]。R80-REV1第八节：无量级类断项、R80-REV1不适用。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

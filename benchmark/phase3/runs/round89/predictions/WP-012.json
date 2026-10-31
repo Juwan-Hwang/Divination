@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-012",
+ "prediction_text": "方向：Biden 赢得选举并最终实际就任总统，Trump 不获连任。断语：计票后 Trump 一方拒绝认输、就邮寄投票与计票提出争议与法律挑战，过渡期出现抗议与社会撕裂、局势一度紧张，但结果不被推翻；Biden 于 2021 年 1 月 20 日就职，美国进入持续对立与修复期。应期：单位月，先定胜负于 2020 年 11 月，再定就任主坐标 2021 年 1 月 20 日。",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决\nsystems_used: western mundane astrology 题裁 + 事实优先序\n卡面事实：选前民调 Biden 领先；竞选已现邮寄投票争议与『败者可能不接受结果』之警告——题目本身分三问（谁胜选、谁实际执政、国家后续），按通则(i)分段：近段胜选属 Biden，远段执政仍属 Biden，中间争议为过程而非终局翻转，远段触发即卡面明示的争议伏笔。第八节：分配类断项（胜选与执政归属）逐方对读——Biden 方助成线为民调与计票面，Trump 方仅争议线不成胜选功量，分配方向与相对强弱同向，两问同归 Biden。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

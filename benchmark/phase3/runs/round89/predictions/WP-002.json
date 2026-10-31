@@ -1,0 +1,12 @@
+{
+  "case_id": "WP-002",
+  "prediction_text": "Direction: Barack Obama wins. Obama defeats John McCain in the general election of 4 November 2008 and becomes President; the Saturn–Uranus opposition exact on Election Day breaks for the challenger/change candidate rather than the older establishment figure. Margin band: a clear, not razor-thin, victory (electoral-college comfortable).",
+  "basis": "卡面未标注 tradition 字段 (no tradition/system field on card); decided by card genre as western electional/mundane astrology.\nsystems_used=['western astrology (election forecasting)']。Card facts as of 20 May 2008: Obama leads Clinton for the nomination but has not clinched; McCain is the presumptive Republican nominee; Saturn opposes Uranus from Election Day, a configuration last seen ~45 years earlier (1960s upheaval cycle). Saturn-Uranus opposition signifies old order versus disruptive change; in an election chart it favours the insurgent/change candidacy over the Saturnian elder (McCain, the older candidate and party of incumbency). Hence Obama. Sec.8 magnitude note: no count-type claim beyond margin band; band set by opposition's decisive-break symbolism — clear-win band, not landslide band (suppressing line: Obama had not yet clinched nomination, race still forming).",
+  "confidence": 0.62,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": ""
+  }
+}
