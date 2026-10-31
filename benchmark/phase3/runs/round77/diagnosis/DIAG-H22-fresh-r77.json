@@ -1,0 +1,625 @@
+{
+ "diagnosis": "DIAG-H22-fresh-r77",
+ "case_set": "holdout22",
+ "n": 27,
+ "per_case_primary": {
+  "DS-004": "E3",
+  "DS-005": "E5-CLAIM",
+  "DS-006": "E5-CLAIM",
+  "DS-007": "E3",
+  "DS-008": "E5-DIR",
+  "DS-009": "E5-TIM",
+  "DS-010": "none",
+  "DS-011": "E5-TIM",
+  "DS-012": "E5-DIR",
+  "GSZ-022": "none",
+  "GSZ-023": "none",
+  "GSZ-024": "E5-DIR",
+  "GSZ-026": "E5-CLAIM",
+  "QM-011": "none",
+  "QM-012": "E5-DIR",
+  "QM-013": "E5-TIM",
+  "QM-014": "E5-CLAIM",
+  "QM-201": "E5-DIR",
+  "QM-202": "E5-DIR",
+  "QM-203": "E5-DIR",
+  "QM-301": "none",
+  "QM-302": "E5-TIM",
+  "QM-303": "E5-TIM",
+  "ZCB-001": "none",
+  "ZCB-002": "E3",
+  "ZCB-004": "E5-TIM",
+  "ZCB-005": "none"
+ },
+ "per_case_subscores": {
+  "DS-004": {
+   "diff": -3.25,
+   "ours": {
+    "direction": 1.25,
+    "claims": 0.75,
+    "timing": 0.75
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 2.0
+   }
+  },
+  "DS-005": {
+   "diff": -0.25,
+   "ours": {
+    "direction": 1.5,
+    "claims": 1.0,
+    "timing": 1.0
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 1.75,
+    "timing": 0.0
+   }
+  },
+  "DS-006": {
+   "diff": -1.25,
+   "ours": {
+    "direction": 1.5,
+    "claims": 1.0,
+    "timing": 1.5
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 1.75,
+    "timing": 1.5
+   }
+  },
+  "DS-007": {
+   "diff": -4.0,
+   "ours": {
+    "direction": 0.0,
+    "claims": 0.0,
+    "timing": 0.5
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 1.0
+   }
+  },
+  "DS-008": {
+   "diff": -1.25,
+   "ours": {
+    "direction": 0.5,
+    "claims": 0.5,
+    "timing": 0.5
+   },
+   "master": {
+    "direction": 1.5,
+    "claims": 0.75,
+    "timing": 0.5
+   }
+  },
+  "DS-009": {
+   "diff": -2.5,
+   "ours": {
+    "direction": 1.0,
+    "claims": 0.5,
+    "timing": 0.25
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 1.75,
+    "timing": 0.5
+   }
+  },
+  "DS-010": {
+   "diff": 0.25,
+   "ours": {
+    "direction": 1.75,
+    "claims": 1.0,
+    "timing": 0.5
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 1.0,
+    "timing": 0.0
+   }
+  },
+  "DS-011": {
+   "diff": -1.75,
+   "ours": {
+    "direction": 1.5,
+    "claims": 1.25,
+    "timing": 1.0
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 2.0
+   }
+  },
+  "DS-012": {
+   "diff": -2.5,
+   "ours": {
+    "direction": 0.0,
+    "claims": 0.25,
+    "timing": 1.0
+   },
+   "master": {
+    "direction": 1.5,
+    "claims": 1.25,
+    "timing": 1.0
+   }
+  },
+  "GSZ-022": {
+   "diff": 0.5,
+   "ours": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 1.0
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 0.0
+   }
+  },
+  "GSZ-023": {
+   "diff": 0.0,
+   "ours": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 1.0
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 1.0
+   }
+  },
+  "GSZ-024": {
+   "diff": -2.75,
+   "ours": {
+    "direction": 0.0,
+    "claims": 0.0,
+    "timing": 0.5
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 1.25,
+    "timing": 0.0
+   }
+  },
+  "GSZ-026": {
+   "diff": -2.0,
+   "ours": {
+    "direction": 0.5,
+    "claims": 0.5,
+    "timing": 1.0
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 0.0
+   }
+  },
+  "QM-011": {
+   "diff": 0.25,
+   "ours": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 2.0
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 1.75,
+    "timing": 2.0
+   }
+  },
+  "QM-012": {
+   "diff": -6.0,
+   "ours": {
+    "direction": 0.0,
+    "claims": 0.0,
+    "timing": 0.0
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 2.0
+   }
+  },
+  "QM-013": {
+   "diff": -1.5,
+   "ours": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 1.0
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 2.0
+   }
+  },
+  "QM-014": {
+   "diff": -0.75,
+   "ours": {
+    "direction": 1.5,
+    "claims": 1.0,
+    "timing": 1.75
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 1.5
+   }
+  },
+  "QM-201": {
+   "diff": -2.75,
+   "ours": {
+    "direction": 0.0,
+    "claims": 0.5,
+    "timing": 0.0
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 1.25,
+    "timing": 0.0
+   }
+  },
+  "QM-202": {
+   "diff": -3.0,
+   "ours": {
+    "direction": 0.0,
+    "claims": 0.5,
+    "timing": 1.5
+   },
+   "master": {
+    "direction": 1.5,
+    "claims": 1.5,
+    "timing": 2.0
+   }
+  },
+  "QM-203": {
+   "diff": -2.5,
+   "ours": {
+    "direction": 0.5,
+    "claims": 1.0,
+    "timing": 1.0
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 1.75,
+    "timing": 1.25
+   }
+  },
+  "QM-301": {
+   "diff": 0.0,
+   "ours": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 1.5
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 1.5
+   }
+  },
+  "QM-302": {
+   "diff": -0.25,
+   "ours": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 1.25
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 1.75,
+    "timing": 1.75
+   }
+  },
+  "QM-303": {
+   "diff": -1.25,
+   "ours": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 1.25
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 2.0
+   }
+  },
+  "ZCB-001": {
+   "diff": 1.5,
+   "ours": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 1.0
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 0.0
+   }
+  },
+  "ZCB-002": {
+   "diff": -2.0,
+   "ours": {
+    "direction": 0.25,
+    "claims": 0.25,
+    "timing": 1.0
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 0.0
+   }
+  },
+  "ZCB-004": {
+   "diff": -1.5,
+   "ours": {
+    "direction": 1.5,
+    "claims": 1.5,
+    "timing": 1.0
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 2.0
+   }
+  },
+  "ZCB-005": {
+   "diff": 0.5,
+   "ours": {
+    "direction": 2.0,
+    "claims": 2.0,
+    "timing": 1.0
+   },
+   "master": {
+    "direction": 2.0,
+    "claims": 1.5,
+    "timing": 1.0
+   }
+  }
+ },
+ "primary_cause_counts": {
+  "全集": {
+   "n": 27,
+   "E3": 3,
+   "E4": 0,
+   "E5": 17,
+   "no_loss_cause": 7
+  },
+  "八字·DS": {
+   "n": 9,
+   "E3": 2,
+   "E4": 0,
+   "E5": 6,
+   "no_loss_cause": 1
+  },
+  "奇门·QM": {
+   "n": 10,
+   "E3": 0,
+   "E4": 0,
+   "E5": 8,
+   "no_loss_cause": 2
+  },
+  "测字·ZCB": {
+   "n": 4,
+   "E3": 1,
+   "E4": 0,
+   "E5": 1,
+   "no_loss_cause": 2
+  },
+  "六爻·GSZ": {
+   "n": 4,
+   "E3": 0,
+   "E4": 0,
+   "E5": 2,
+   "no_loss_cause": 2
+  },
+  "非六爻": {
+   "n": 23,
+   "E3": 3,
+   "E4": 0,
+   "E5": 15,
+   "no_loss_cause": 5
+  }
+ },
+ "E5_subtypes": {
+  "E5-DIR": [
+   "DS-008",
+   "DS-012",
+   "GSZ-024",
+   "QM-012",
+   "QM-201",
+   "QM-202",
+   "QM-203"
+  ],
+  "E5-CLAIM": [
+   "DS-005",
+   "DS-006",
+   "GSZ-026",
+   "QM-014"
+  ],
+  "E5-TIM": [
+   "DS-009",
+   "DS-011",
+   "QM-013",
+   "QM-302",
+   "QM-303",
+   "ZCB-004"
+  ],
+  "E5-OMIT": []
+ },
+ "E3_layer_h19_caliber": {
+  "A_main": {
+   "count": 3,
+   "share": 0.111,
+   "SE_pp": 6.0,
+   "cases": [
+    "DS-004",
+    "DS-007",
+    "ZCB-002"
+   ]
+  },
+  "A_involved": {
+   "count": 7,
+   "share": 0.259,
+   "SE_pp": 8.4,
+   "cases": [
+    "DS-004",
+    "DS-007",
+    "ZCB-002",
+    "QM-014",
+    "QM-201",
+    "QM-202",
+    "QM-203"
+   ]
+  },
+  "A_sub_cases": {
+   "QM-014": "病因面（肝火攻头、轻微积水或积血压迫视神经）未入列",
+   "QM-201": "先行细断面（女方公职、能歌善舞、右脸黑痣、好胜霸道等）未入列，结局未载",
+   "QM-202": "脐带绕颈面未入列",
+   "QM-203": "被撞摔倒、动胎气见红一面未入列"
+  },
+  "ambiguous": [
+   "DS-004",
+   "DS-005",
+   "DS-007",
+   "DS-009",
+   "GSZ-026"
+  ]
+ },
+ "E4_grid_h19_caliber": {
+  "IN": 0,
+  "SEAT": 3,
+  "MIX": 0,
+  "UND": 0,
+  "NA_listed": 24,
+  "SEAT_cases": [
+   "DS-004",
+   "DS-007",
+   "ZCB-002"
+  ]
+ },
+ "acceptance": {
+  "ours_mean": 3.13,
+  "master_mean": 4.611,
+  "pair_diff": -1.481,
+  "SE": 0.316,
+  "WTL": "5/2/20",
+  "pass": false,
+  "segments": {
+   "bazi_DS": {
+    "n": 9,
+    "pair_diff": -1.833,
+    "SE": 0.458,
+    "WTL": "1/0/8"
+   },
+   "qimen_QM": {
+    "n": 10,
+    "pair_diff": -1.775,
+    "SE": 0.594,
+    "WTL": "1/1/8"
+   },
+   "cezi_ZCB": {
+    "n": 4,
+    "pair_diff": -0.375,
+    "SE": 0.826,
+    "WTL": "2/0/2"
+   },
+   "liuyao_GSZ": {
+    "n": 4,
+    "pair_diff": -1.062,
+    "SE": 0.78,
+    "WTL": "1/1/2"
+   }
+  }
+ },
+ "REV1_verdict_N27": {
+  "N": 27,
+  "TIM_primary": {
+   "count": 6,
+   "rate": 0.222,
+   "threshold_count_max": 2,
+   "verdict": "不立"
+  },
+  "CLAIM_primary": {
+   "count": 4,
+   "rate": 0.148,
+   "threshold_count_max": 3,
+   "verdict": "不立"
+  },
+  "TIM_plus_CLAIM": {
+   "count": 10,
+   "rate": 0.37,
+   "threshold_count_max": 6,
+   "verdict": "不立"
+  },
+  "OMIT_guardrail": {
+   "count": 0,
+   "rate": 0.0,
+   "threshold_count_max": 4,
+   "verdict": "立（未破线）"
+  },
+  "pair_diff_guardrail": {
+   "value": -1.481,
+   "guardrail_min": -1.366,
+   "verdict": "不立（破护栏）",
+   "falsify_line": -1.722,
+   "falsified": false
+  },
+  "falsify_checks": {
+   "TIM_rate_ge_0.280_count_ge_8": false,
+   "CLAIM_rate_ge_0.280_count_ge_8": false,
+   "pair_diff_le_-1.722": false
+  },
+  "conclusion": "判读不成立",
+  "conclusion_basis": "主指标三项全不立（TIM 6＞2、CLAIM 4＞3、合计 10＞6）且护栏②总配对差 −1.481＜−1.366 破线；反向证伪三项均未触发（TIM 6＜8、CLAIM 4＜8、总配对差 −1.481＞−1.722），故非证伪。",
+  "appendix": {
+   "DIR_count": 7,
+   "A_involved": {
+    "count": 7,
+    "rate": 0.259,
+    "overflow_line": 0.44,
+    "overflow": false
+   },
+   "qimen_direction_below_1.75": {
+    "count": 5,
+    "cases": [
+     "QM-012",
+     "QM-014",
+     "QM-201",
+     "QM-202",
+     "QM-203"
+    ],
+    "threshold": 2,
+    "review": "段别有害信号成立登记：奇门段 direction＜1.75 共 5 例（QM-012／201/202/203 为终局方向全反或核心反、QM-014 为 1.50），集中于开悟病占与启悟婚／胎产例；石建国三例 direction 均 2.00。只触发复核、不自动回滚（照定版口径）。"
+   }
+  }
+ },
+ "ambiguous": [
+  "DS-004",
+  "DS-005",
+  "DS-007",
+  "DS-009",
+  "GSZ-026"
+ ],
+ "ambiguous_notes": {
+  "DS-004": "主导面取暗财／处分事件面则 E3，取财面已入列而读反则近 E5-CLAIM；本席按事件面从未入列取 E3。",
+  "DS-005": "差仅 −0.25，CLAIM（附加断项未印证）与「无单项主因」两读并存；本席按 claims 为最大分项差取 CLAIM。",
+  "DS-007": "寿损面未入列取 E3，取终局方向（正面有职对横死）则近 E5-DIR；本席按主导面本体取 E3。",
+  "DS-009": "运序峰谷反转取 TIM，量级上限（小富对亿）一读近 CLAIM；本席按 O 双视同指峰值低谷反转取 TIM。",
+  "GSZ-026": "病名断项被推翻取 CLAIM，特定病位取象面（寅木月破指幽门）未入列一读近 E3；本席按病位面已以脾胃区入列、断名被推翻取 CLAIM。"
+ },
+ "unmeasurable": 0,
+ "quality_notes": {
+  "DS_segment": "DS 9 例为作者自选案例集、「断准」选择偏倚逐例载金标 grade_note，照实登记于成色层、不预占主码（封存日志 §三／§九.3）；DS-011 卡面节题已经主持裁处中性化（封存日志 §九.1）。",
+  "ZCB-004": "输入卡拆分过程末段应期断语已经主持附条件改写删除（封存日志 §三），编码时卡内无该段。",
+  "QM-012": "我方 basis 自注震 3 宫神位转录与巽 4 同作白虎之疑、不涉用神宫，只登记、不涉主码。"
+ },
+ "subscore_recompute": "all 27 ours/master totals match final-scores (script assertions passed)"
+}
