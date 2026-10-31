@@ -1,0 +1,4385 @@
+{
+ "P3-0009041c": {
+  "anon_id": "P3-0009041c",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 2,
+  "total": 5.5,
+  "pass": true,
+  "reason": "断出空之日愈，结局明载出空之日而愈，主坐标与机制同向命中；远段午年出花而死未在断语内，故claims不给满分。"
+ },
+ "P3-000a04d3": {
+  "anon_id": "P3-000a04d3",
+  "direction": 0,
+  "claims": 0,
+  "timing": 2,
+  "total": 2,
+  "pass": false,
+  "reason": "断父病可愈，结局明载至其日而死，方向与断语全反；但死亡正落在所断日期坐标上，timing按坐标命中计。"
+ },
+ "P3-02c757c0": {
+  "anon_id": "P3-02c757c0",
+  "direction": 0,
+  "claims": 0,
+  "timing": 0,
+  "total": 0,
+  "pass": false,
+  "reason": "断其子将来有功名、戌年落实，结局其子未年而死，方向、断语、年份俱不合。"
+ },
+ "P3-02e4b767": {
+  "anon_id": "P3-02e4b767",
+  "direction": 0.5,
+  "claims": 0.5,
+  "timing": 1,
+  "total": 2.0,
+  "pass": false,
+  "reason": "断风不即止、持续数日，结局当日辰时即止息，仅数日窗口下限勉强相及，方向与持续断语基本不合。"
+ },
+ "P3-034c7f74": {
+  "anon_id": "P3-034c7f74",
+  "direction": 1.5,
+  "claims": 1,
+  "timing": 0,
+  "total": 2.5,
+  "pass": false,
+  "reason": "断能见煤方向合，结局次年清明后始见煤；所断辰日旬内应期与次年相去甚远。"
+ },
+ "P3-03f71998": {
+  "anon_id": "P3-03f71998",
+  "direction": 2,
+  "claims": 2,
+  "timing": 1.5,
+  "total": 5.5,
+  "pass": true,
+  "reason": "断拜登获胜、选举人票过半，结局拜登306票当选并就职；结果明朗时点与数日窗口大致合，timing稍降。"
+ },
+ "P3-0421c525": {
+  "anon_id": "P3-0421c525",
+  "direction": 1.5,
+  "claims": 1,
+  "timing": 1.5,
+  "total": 4.0,
+  "pass": true,
+  "reason": "断转晴，结局次日晴而还雨，晴曾应验但不稳；次日落在窗口内、近主坐标。"
+ },
+ "P3-047557e2": {
+  "anon_id": "P3-047557e2",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "断巨富，结局自载最盛财产以美金亿计，大富主断命中；各运细节结局未备，claims不给满分；峰值运结局无可核时点，timing记1。"
+ },
+ "P3-052ef1eb": {
+  "anon_id": "P3-052ef1eb",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 0.5,
+  "total": 4.0,
+  "pass": true,
+  "reason": "断数日内放晴，结局丙申日大晴，方向合；主坐标丁巳日未中，秋成断语结局未载。"
+ },
+ "P3-05d3965c": {
+  "anon_id": "P3-05d3965c",
+  "direction": 0,
+  "claims": 0.5,
+  "timing": 0,
+  "total": 0.5,
+  "pass": false,
+  "reason": "分占断子病可愈，结局其子八月惊风后死于卯日，子断方向反；母病面结局未明载，仅给少量claims。"
+ },
+ "P3-06e3095b": {
+  "anon_id": "P3-06e3095b",
+  "direction": 1.5,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.0,
+  "pass": true,
+  "reason": "断养蜂有患害惊扰，结局占后半日群蜂满身攒聚、惊惶无措，患象命中；养蜂终局结局未载，月档坐标只部分合。"
+ },
+ "P3-0724c885": {
+  "anon_id": "P3-0724c885",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 0.5,
+  "total": 4.0,
+  "pass": true,
+  "reason": "断夫归到，结局果于巳日到，归向命中；主坐标申日未中，不往他处一节未核。"
+ },
+ "P3-078359e1": {
+  "anon_id": "P3-078359e1",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "断所租田落空、田主另属，结局正月果被原主回赎，方向主断命中；应期只给机制无具名月份，timing部分计。"
+ },
+ "P3-07d13152": {
+  "anon_id": "P3-07d13152",
+  "direction": 0,
+  "claims": 0.5,
+  "timing": 0,
+  "total": 0.5,
+  "pass": false,
+  "reason": "断赌钱可赢，结局果输不多，方向反；因争钱而散与财局纷争略相关，仅少量claims。"
+ },
+ "P3-07effcec": {
+  "anon_id": "P3-07effcec",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 0.5,
+  "total": 4.0,
+  "pass": true,
+  "reason": "断久病凶、难愈转重，结局卒于申日，凶向命中；主坐标午月未中，时点尺度偏移。"
+ },
+ "P3-0834c113": {
+  "anon_id": "P3-0834c113",
+  "direction": 0.5,
+  "claims": 1,
+  "timing": 0,
+  "total": 1.5,
+  "pass": false,
+  "reason": "断可随官上任终成，结局虽曾得缺，终局七月城破与官府一同被害，与成局终局大相径庭；戌日坐标未应。"
+ },
+ "P3-0a769cbd": {
+  "anon_id": "P3-0a769cbd",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 0.5,
+  "total": 4.0,
+  "pass": true,
+  "reason": "断夫病可愈而迟，结局戊申日而愈，方向合；主坐标辰日未中。"
+ },
+ "P3-0a7c8319": {
+  "anon_id": "P3-0a7c8319",
+  "direction": 2,
+  "claims": 2,
+  "timing": 1,
+  "total": 5,
+  "pass": true,
+  "reason": "断夫病危重终可愈，结局后病得起，方向与转愈断语命中；结局无可核时点，timing记1。"
+ },
+ "P3-0bafbb95": {
+  "anon_id": "P3-0bafbb95",
+  "direction": 2,
+  "claims": 2,
+  "timing": 2,
+  "total": 6,
+  "pass": true,
+  "reason": "断辰日得财，结局果得于辰日，三项全中。"
+ },
+ "P3-0c153d25": {
+  "anon_id": "P3-0c153d25",
+  "direction": 2,
+  "claims": 2,
+  "timing": 2,
+  "total": 6,
+  "pass": true,
+  "reason": "断婶母病危重难治、丑日危期，结局果于丑日酉时卒，三项全中。"
+ },
+ "P3-0d414c9b": {
+  "anon_id": "P3-0d414c9b",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 0.5,
+  "total": 4.0,
+  "pass": true,
+  "reason": "断女病可愈而迟，结局果于寅日全愈，方向合；主坐标辰日未中。"
+ },
+ "P3-0d5e27b9": {
+  "anon_id": "P3-0d5e27b9",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 0,
+  "total": 3.5,
+  "pass": false,
+  "reason": "断家宅不平安有病伤破耗，结局午月一家数口回禄俱死，灾向命中且量级更重；主坐标寅月未中。"
+ },
+ "P3-0f538219": {
+  "anon_id": "P3-0f538219",
+  "direction": 0,
+  "claims": 0,
+  "timing": 0,
+  "total": 0,
+  "pass": false,
+  "reason": "断此婚可成、己卯日落实，结局此占所问之婚未成、两家各与他人婚配，全反。"
+ },
+ "P3-0f964703": {
+  "anon_id": "P3-0f964703",
+  "direction": 1.5,
+  "claims": 1,
+  "timing": 1,
+  "total": 3.5,
+  "pass": false,
+  "reason": "承接标注当年脱险与病可愈方向部分相合，结局另载壬午春死与儿妇妊性别语；愈期结局无可核时点，timing记1。"
+ },
+ "P3-103e8c12": {
+  "anon_id": "P3-103e8c12",
+  "direction": 0,
+  "claims": 0,
+  "timing": 0,
+  "total": 0,
+  "pass": false,
+  "reason": "断本届乡试难中落榜，结局果得成名，全反。"
+ },
+ "P3-107a4189": {
+  "anon_id": "P3-107a4189",
+  "direction": 2,
+  "claims": 2,
+  "timing": 2,
+  "total": 6,
+  "pass": true,
+  "reason": "断赖清德当选、郭台铭无国民党提名且独立难以为继，结局国民党征召侯友宜、郭独立后退选、赖当选，逐条命中，投票日坐标合。"
+ },
+ "P3-1082084f": {
+  "anon_id": "P3-1082084f",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1.5,
+  "total": 5.0,
+  "pass": true,
+  "reason": "断妻病可愈，结局次日退灾不药而愈；愈速于所断之迟，次日近寅卯窗口，timing部分降。"
+ },
+ "P3-1096e197": {
+  "anon_id": "P3-1096e197",
+  "direction": 1.5,
+  "claims": 1.5,
+  "timing": 0,
+  "total": 3.0,
+  "pass": false,
+  "reason": "断牛十日内被宰杀，结局后二十日人买此牛杀以犒众，事件命中而时限逾窗一倍。"
+ },
+ "P3-10ab0546": {
+  "anon_id": "P3-10ab0546",
+  "direction": 2,
+  "claims": 2,
+  "timing": 2,
+  "total": 6,
+  "pass": true,
+  "reason": "断柯文哲2018险胜连任、2024总统第三落选，结局逐项皆然且票差险胜，日期坐标合。"
+ },
+ "P3-122ca9b1": {
+  "anon_id": "P3-122ca9b1",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "断能致富凭贸易自营，结局载其得大 fortuna、贸易成功，方向主断命中；年期与守成结局无可核时点，timing记1。"
+ },
+ "P3-12330d61": {
+  "anon_id": "P3-12330d61",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "断富而兼名、商界领袖终身，结局虞洽卿为总商会会长级闻人、78岁卒，方向合；子女病位未核、峰值运结局无可核时点，timing记1。"
+ },
+ "P3-125cae96": {
+  "anon_id": "P3-125cae96",
+  "direction": 0,
+  "claims": 0,
+  "timing": 0,
+  "total": 0,
+  "pass": false,
+  "reason": "断母血崩可止转安，结局果卒于丑月，全反。"
+ },
+ "P3-1287b67f": {
+  "anon_id": "P3-1287b67f",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1.5,
+  "total": 5.0,
+  "pass": true,
+  "reason": "断乔治五世君位稳固、约七十岁前后终，结局1910登基、1936年崩（约七十岁），方向与寿限合；运段未核。"
+ },
+ "P3-12f47d94": {
+  "anon_id": "P3-12f47d94",
+  "direction": 2,
+  "claims": 1,
+  "timing": 2,
+  "total": 5,
+  "pass": true,
+  "reason": "断身命不佳、多灾难贵、子年为关口，结局戊子年季秋为贼所杀，子年坐标正中；死厄量级重于断语所限，claims降。"
+ },
+ "P3-14a91917": {
+  "anon_id": "P3-14a91917",
+  "direction": 2,
+  "claims": 2,
+  "timing": 0.5,
+  "total": 4.5,
+  "pass": true,
+  "reason": "断夫病凶险难愈，结局果本日午时死，凶向与病情断语命中；主坐标辰日未确中，仅当日尺度部分计。"
+ },
+ "P3-16ad3335": {
+  "anon_id": "P3-16ad3335",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "断功名终可成而迟绕，结局历任通州、擢大司农大司马，成局命中；未年坐标结局无可核时点，timing记1。"
+ },
+ "P3-179f53ef": {
+  "anon_id": "P3-179f53ef",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "断功名可成，结局五月高迁，方向合；主坐标未月差一月，量级亦高于所断，timing部分计。"
+ },
+ "P3-18acd1fd": {
+  "anon_id": "P3-18acd1fd",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 0,
+  "total": 3.5,
+  "pass": false,
+  "reason": "断有雨而主申日，结局辰日天变、巳日大雨，雨向命中而主坐标未中。"
+ },
+ "P3-19069e73": {
+  "anon_id": "P3-19069e73",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 0,
+  "total": 3.5,
+  "pass": false,
+  "reason": "断可蒙赦，结局次年辰月蒙赦而出，方向命中；所断未月内时限全错。"
+ },
+ "P3-1952cec7": {
+  "anon_id": "P3-1952cec7",
+  "direction": 2,
+  "claims": 2,
+  "timing": 1.5,
+  "total": 5.5,
+  "pass": true,
+  "reason": "断段祺瑞贵显至总理/执政级、1918–1920黄金期、寿七十余，结局三任总理并任临时执政、黄金期与卒年皆合；峰值运坐标大致对应，timing稍降。"
+ },
+ "P3-1962c94d": {
+  "anon_id": "P3-1962c94d",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "断父官事重罪难免，结局果至重刑，方向主断命中；定罪日期结局无可核时点，timing记1。"
+ },
+ "P3-1adaf73a": {
+  "anon_id": "P3-1adaf73a",
+  "direction": 2,
+  "claims": 2,
+  "timing": 1.5,
+  "total": 5.5,
+  "pass": true,
+  "reason": "断吴国桢位至省市长级、火运峰值、后去职移居海外、寿八十上下，结局上海市长与台湾省主席任期、1953辞职赴美、1984卒皆合；转折运干支与结局注记略有出入，timing稍降。"
+ },
+ "P3-1b020d82": {
+  "anon_id": "P3-1b020d82",
+  "direction": 0.5,
+  "claims": 0.5,
+  "timing": 0,
+  "total": 1.0,
+  "pass": false,
+  "reason": "断仆人将归且三日内到，结局仅载午月中途过害、归否未明，所断归期与归向皆无印证且时点全错。"
+ },
+ "P3-1bb5b187": {
+  "anon_id": "P3-1bb5b187",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 0,
+  "total": 3.5,
+  "pass": false,
+  "reason": "断悔婚可复成，结局次岁寅年三月复成婚，方向命中；所断酉月秋月应期全错。"
+ },
+ "P3-1c059e8f": {
+  "anon_id": "P3-1c059e8f",
+  "direction": 1,
+  "claims": 0.5,
+  "timing": 0,
+  "total": 1.5,
+  "pass": false,
+  "reason": "断本年破财争竞不利，结局七月地震房塌人口被伤而本人得免，年内灾变仅方向粗合；破财争竞断语未应、卯月坐标未中。"
+ },
+ "P3-1c2638c5": {
+  "anon_id": "P3-1c2638c5",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "断远行求财可得，结局乙卯日起程、寅卯月满载而归，得财命中；成行日为卯日非所断寅日，timing部分计。"
+ },
+ "P3-1c3351a4": {
+  "anon_id": "P3-1c3351a4",
+  "direction": 2,
+  "claims": 1,
+  "timing": 1,
+  "total": 4,
+  "pass": true,
+  "reason": "断尚小云列名旦前列、名高运平，结局四大名旦之一合；其子皆京剧名家与所断子女承继力平常相左；峰值运结局无可核时点，timing记1。"
+ },
+ "P3-1cb38ad5": {
+  "anon_id": "P3-1cb38ad5",
+  "direction": 0,
+  "claims": 0,
+  "timing": 0,
+  "total": 0,
+  "pass": false,
+  "reason": "断候选可得缺、申日见分晓，结局第二年寅月没有中榜，全反。"
+ },
+ "P3-1ce3ecd6": {
+  "anon_id": "P3-1ce3ecd6",
+  "direction": 1.5,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.0,
+  "pass": true,
+  "reason": "断Rupert不得胜Essex、屡遭挫败，结局自承其从未胜Essex且1646被围牛津投降后获释，混合记载下主断大体命中；时窗延至1646，timing部分计。"
+ },
+ "P3-1dde80d5": {
+  "anon_id": "P3-1dde80d5",
+  "direction": 1.5,
+  "claims": 1,
+  "timing": 1,
+  "total": 3.5,
+  "pass": false,
+  "reason": "断子平安、为人留住于相识人家，结局残句载相遇于岳家，安危与落点粗合；寻见时点结局未载、无可核时点，timing记1。"
+ },
+ "P3-1fa5b483": {
+  "anon_id": "P3-1fa5b483",
+  "direction": 2,
+  "claims": 2,
+  "timing": 2,
+  "total": 6,
+  "pass": true,
+  "reason": "断病人将死于一月内，结局问后十二日（7月28日）身故且病状记载为真，三项全中。"
+ },
+ "P3-1fbd2024": {
+  "anon_id": "P3-1fbd2024",
+  "direction": 2,
+  "claims": 1,
+  "timing": 0,
+  "total": 3,
+  "pass": false,
+  "reason": "断子将归，结局果于午年午月到家，归向命中；所断子日日窗全错。"
+ },
+ "P3-20162196": {
+  "anon_id": "P3-20162196",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 0,
+  "total": 3.5,
+  "pass": false,
+  "reason": "断其得不到所求教区圣俸、强行终落空，结局其希望被一封信击碎，方向主断命中；预测断语本身无应期，timing记0。"
+ },
+ "P3-2060c975": {
+  "anon_id": "P3-2060c975",
+  "direction": 2,
+  "claims": 2,
+  "timing": 1,
+  "total": 5,
+  "pass": true,
+  "reason": "断毕万仕晋贵显、受封立家、后嗣昌大，结局受魏地为大夫、子孙蕃昌终成魏国，逐条命中；应期只到年段且结局无具体年份，timing部分计。"
+ },
+ "P3-20b77e73": {
+  "anon_id": "P3-20b77e73",
+  "direction": 2,
+  "claims": 2,
+  "timing": 2,
+  "total": 6,
+  "pass": true,
+  "reason": "断十七日内婚聘定、主第十七日，结局至期果然定亲，三项全中。"
+ },
+ "P3-21286946": {
+  "anon_id": "P3-21286946",
+  "direction": 0.5,
+  "claims": 0.5,
+  "timing": 0,
+  "total": 1.0,
+  "pass": false,
+  "reason": "断母亲能来、戌月为至期，结局仅载次年三月妹至，母至一事无印证且时点不合。"
+ },
+ "P3-213641bd": {
+  "anon_id": "P3-213641bd",
+  "direction": 0,
+  "claims": 0,
+  "timing": 2,
+  "total": 2,
+  "pass": false,
+  "reason": "断岳母病转安、酉日为主坐标，结局果于乙酉日卯时而死，方向全反；但日期坐标正中，timing按坐标命中计。"
+ },
+ "P3-21f6497c": {
+  "anon_id": "P3-21f6497c",
+  "direction": 2,
+  "claims": 2,
+  "timing": 1.5,
+  "total": 5.5,
+  "pass": true,
+  "reason": "断张学良早贵承业、中年幽困、晚年长寿，结局1934重掌兵权、1936西安事变后长期软禁、2001年百岁卒，逐段命中；运档与具体年份只大致对应，timing稍降。"
+ },
+ "P3-22c0b8c0": {
+  "anon_id": "P3-22c0b8c0",
+  "direction": 1,
+  "claims": 1,
+  "timing": 1,
+  "total": 3,
+  "pass": false,
+  "reason": "断母病不危重可治可安，结局胃癌初期经手术效果不错正在恢复，可治面粗合；癌症性质与病位断语未中；结局无可核时点，timing记1。"
+ },
+ "P3-23446db0": {
+  "anon_id": "P3-23446db0",
+  "direction": 2,
+  "claims": 2,
+  "timing": 2,
+  "total": 6,
+  "pass": true,
+  "reason": "断疫苗六个月内突破、11–12月获批接种、疫情后退转地方性，结局12月2日获批、12月8日接种、其后全球普及且病毒转地方性流行，三项全中。"
+ },
+ "P3-2489fc7d": {
+  "anon_id": "P3-2489fc7d",
+  "direction": 2,
+  "claims": 2,
+  "timing": 2,
+  "total": 6,
+  "pass": true,
+  "reason": "断韩国瑜将参选并于2019年7月前后取得国民党提名，结局4月表态、7月赢初选成候选人，逐条命中。"
+ },
+ "P3-2514c152": {
+  "anon_id": "P3-2514c152",
+  "direction": 2,
+  "claims": 2,
+  "timing": 1,
+  "total": 5,
+  "pass": true,
+  "reason": "断梅兰芳艺坛宗师、不以伶人终身，结局京剧宗师并任京剧院院长、文联副主席，逐条命中；峰值运结局无可核时点，timing记1。"
+ },
+ "P3-254493a1": {
+  "anon_id": "P3-254493a1",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "断邻人借斧，结局果借斧，物品主断命中；用途数量未见结局明载、时点结局无可核，timing记1。"
+ },
+ "P3-254abecd": {
+  "anon_id": "P3-254abecd",
+  "direction": 1,
+  "claims": 1,
+  "timing": 1.5,
+  "total": 3.5,
+  "pass": false,
+  "reason": "断考秩中平不至降黜，结局次年孟夏得上上卷，不降一面合而等第远高于所断；孟夏即巳月与主坐标月支合，timing部分计。"
+ },
+ "P3-25949226": {
+  "anon_id": "P3-25949226",
+  "direction": 0,
+  "claims": 0,
+  "timing": 0,
+  "total": 0,
+  "pass": false,
+  "reason": "断子病凶危难愈，结局后至亥令而痊，全反。"
+ },
+ "P3-25fab1f0": {
+  "anon_id": "P3-25fab1f0",
+  "direction": 2,
+  "claims": 2,
+  "timing": 2,
+  "total": 6,
+  "pass": true,
+  "reason": "断升迁须候辰年，结局果辰年调河南、十月开督府、一年两调一升，三项全中。"
+ },
+ "P3-27cef8ee": {
+  "anon_id": "P3-27cef8ee",
+  "direction": 2,
+  "claims": 2,
+  "timing": 1.5,
+  "total": 5.5,
+  "pass": true,
+  "reason": "断当晚雨停可办音乐会，结局书内自述果然应验、当晚雨停会成；酉时细点未核，timing稍降。"
+ },
+ "P3-280b4553": {
+  "anon_id": "P3-280b4553",
+  "direction": 0,
+  "claims": 0.5,
+  "timing": 0,
+  "total": 0.5,
+  "pass": false,
+  "reason": "断父音信可得、亥月至，结局后果无音讯、四年后始知父遇害，方向与时点皆不合，仅远年得讯一面少量claims。"
+ },
+ "P3-2822ebeb": {
+  "anon_id": "P3-2822ebeb",
+  "direction": 1,
+  "claims": 1,
+  "timing": 0,
+  "total": 2,
+  "pass": false,
+  "reason": "断开店不得利且生财链转官非牵连，结局开店面无记载、旁及八月因子赌博送官子受杖刑而死，官非面粗合；亥月坐标未中。"
+ },
+ "P3-2828dfca": {
+  "anon_id": "P3-2828dfca",
+  "direction": 2,
+  "claims": 2,
+  "timing": 2,
+  "total": 6,
+  "pass": true,
+  "reason": "断店可开得利、戌日开张，结局果开市于戌日、至今兴盛丰隆，三项全中。"
+ },
+ "P3-282c7938": {
+  "anon_id": "P3-282c7938",
+  "direction": 1.5,
+  "claims": 1,
+  "timing": 0,
+  "total": 2.5,
+  "pass": false,
+  "reason": "断买豆得利但利薄，结局虽误一月且涉官府，后果得厚利，得利方向合而量级断语反、亥日坐标未中。"
+ },
+ "P3-28702e3f": {
+  "anon_id": "P3-28702e3f",
+  "direction": 2,
+  "claims": 2,
+  "timing": 1.5,
+  "total": 5.5,
+  "pass": true,
+  "reason": "断不支持脑瘤、次日复查改诊、病与水液血脉相关可解，结局次日复查为血管堵塞、钻孔放血即愈，逐条命中；寅日细点未核，timing稍降。"
+ },
+ "P3-29346926": {
+  "anon_id": "P3-29346926",
+  "direction": 2,
+  "claims": 2,
+  "timing": 2,
+  "total": 6,
+  "pass": true,
+  "reason": "断去迎可遇、未日相遇，结局果得遇于未日，三项全中。"
+ },
+ "P3-2957b746": {
+  "anon_id": "P3-2957b746",
+  "direction": 2,
+  "claims": 2,
+  "timing": 2,
+  "total": 6,
+  "pass": true,
+  "reason": "断文书可得领、午日主坐标，结局果得于甲午日，三项全中。"
+ },
+ "P3-29d985dd": {
+  "anon_id": "P3-29d985dd",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "断树十日内被伐，结局果十日伐树起公榭，事件命中在窗口末日；主坐标第四日未中，timing部分计。"
+ },
+ "P3-29fe3974": {
+  "anon_id": "P3-29fe3974",
+  "direction": 0,
+  "claims": 0,
+  "timing": 0,
+  "total": 0,
+  "pass": false,
+  "reason": "断戚氏定罪无出狱开豁之机，结局六月热审豁罪谪戍、后升参将，全反。"
+ },
+ "P3-2b65e4b5": {
+  "anon_id": "P3-2b65e4b5",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "断妻病可愈，结局当月病愈，方向命中；壬午日主坐标未见核实，timing部分计。"
+ },
+ "P3-2bba46cb": {
+  "anon_id": "P3-2bba46cb",
+  "direction": 0,
+  "claims": 0,
+  "timing": 0,
+  "total": 0,
+  "pass": false,
+  "reason": "断官可得有升迁、巳月落定，结局后逢亥令解组（卸任），方向反且时点冲位不合。"
+ },
+ "P3-2bca2704": {
+  "anon_id": "P3-2bca2704",
+  "direction": 0,
+  "claims": 0,
+  "timing": 0,
+  "total": 0,
+  "pass": false,
+  "reason": "断摇会可得、午日到手，结局在癸亥日摇会反不得，全反。"
+ },
+ "P3-2cdbf388": {
+  "anon_id": "P3-2cdbf388",
+  "direction": 2,
+  "claims": 2,
+  "timing": 2,
+  "total": 6,
+  "pass": true,
+  "reason": "断父寿安稳、母寿堪忧且子年为大限，结局三十余年后父甚健、堂（母）果终于子年，三项全中。"
+ },
+ "P3-2e61b63d": {
+  "anon_id": "P3-2e61b63d",
+  "direction": 0,
+  "claims": 0,
+  "timing": 0,
+  "total": 0,
+  "pass": false,
+  "reason": "断求财可得小利，结局后果全无，全反。"
+ },
+ "P3-2fa09ba8": {
+  "anon_id": "P3-2fa09ba8",
+  "direction": 1.5,
+  "claims": 1,
+  "timing": 0,
+  "total": 2.5,
+  "pass": false,
+  "reason": "断茔地可用，结局本岁不得、来春正月方就地于南山，地终用一面合；所断本月戊午日全错。"
+ },
+ "P3-30ad2717": {
+  "anon_id": "P3-30ad2717",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 0.5,
+  "total": 4.0,
+  "pass": true,
+  "reason": "断将来有功名只到佐贰级，结局官至府佐、未年出仕、戌年升任，量级主断命中；午年主坐标与各应年不合，仅年档尺度部分计。"
+ },
+ "P3-3216eeac": {
+  "anon_id": "P3-3216eeac",
+  "direction": 2,
+  "claims": 2,
+  "timing": 1.5,
+  "total": 5.5,
+  "pass": true,
+  "reason": "断马可找回且往正西，结局马三日后自归、曾在正西，逐条命中；原断自承迟一日，timing稍降。"
+ },
+ "P3-3220745e": {
+  "anon_id": "P3-3220745e",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "断许世英贵至阁揆而任短、寿七十余，结局1925–1926任国务总理、1964年卒年71，方向主断命中；峰值运与任期对应只大致可核，timing部分计。"
+ },
+ "P3-32898dfd": {
+  "anon_id": "P3-32898dfd",
+  "direction": 2,
+  "claims": 1,
+  "timing": 1,
+  "total": 4,
+  "pass": true,
+  "reason": "断往粤带货得利而货宜金类、量级小利，结局买翠毛等归俱得大利，得利合而货类与量级不合；结局无可核时点，timing记1。"
+ },
+ "P3-32ac27e6": {
+  "anon_id": "P3-32ac27e6",
+  "direction": 0,
+  "claims": 0,
+  "timing": 0,
+  "total": 0,
+  "pass": false,
+  "reason": "预测明示盘面残损、存疑不报终局、无应期，结局虽载故期，无任何可印证断语；预测断语本身无应期，timing记0。"
+ },
+ "P3-32ce5056": {
+  "anon_id": "P3-32ce5056",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "断父将归，结局果于申时到，归向命中且在五日窗内早至；主坐标子日未中，timing部分计。"
+ },
+ "P3-32fdb9cd": {
+  "anon_id": "P3-32fdb9cd",
+  "direction": 2,
+  "claims": 2,
+  "timing": 2,
+  "total": 6,
+  "pass": true,
+  "reason": "断韩国瑜不当选、蔡英文连任、2020年1月11日投票，结局韩得552万票败选、落后约265万票，三项全中。"
+ },
+ "P3-33e306f6": {
+  "anon_id": "P3-33e306f6",
+  "direction": 2,
+  "claims": 2,
+  "timing": 1,
+  "total": 5,
+  "pass": true,
+  "reason": "断终身无大财仅衣食小财，结局二十五至五十余岁一事无成、后因贫困，方向断语命中；戌年坐标结局无可核时点，timing记1。"
+ },
+ "P3-34f6ac6e": {
+  "anon_id": "P3-34f6ac6e",
+  "direction": 2,
+  "claims": 2,
+  "timing": 2,
+  "total": 6,
+  "pass": true,
+  "reason": "断有雨、丑日主坐标，结局果至其日申酉时得雨五寸，三项全中。"
+ },
+ "P3-356c2a99": {
+  "anon_id": "P3-356c2a99",
+  "direction": 0.5,
+  "claims": 1,
+  "timing": 0,
+  "total": 1.5,
+  "pass": false,
+  "reason": "断本月偏吉得财，结局辛丑日因一言触怒上司几乎危殆幸得解救，官压官非一面合而吉向与得财不合；亥日坐标未中。"
+ },
+ "P3-358477ea": {
+  "anon_id": "P3-358477ea",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "断迎请可允，结局申月所请准、酉岁迎灵而归，允归命中；所断酉日以酉岁应、尺度偏移，timing部分计。"
+ },
+ "P3-36bcf6f9": {
+  "anon_id": "P3-36bcf6f9",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 0.5,
+  "total": 4.0,
+  "pass": true,
+  "reason": "断子病重难愈，结局果死于卯日，负向命中；危期主坐标酉日未中，卯日仅居窗口之首，timing部分计。"
+ },
+ "P3-3739b19e": {
+  "anon_id": "P3-3739b19e",
+  "direction": 2,
+  "claims": 2,
+  "timing": 2,
+  "total": 6,
+  "pass": true,
+  "reason": "断弟病可救、亥日痊愈，结局本日酉时得名医救活、亥日痊愈，三项全中。"
+ },
+ "P3-3753ef8b": {
+  "anon_id": "P3-3753ef8b",
+  "direction": 0,
+  "claims": 0,
+  "timing": 0.5,
+  "total": 0.5,
+  "pass": false,
+  "reason": "断此番升迁难成，结局辰年调河南、十月而升督府，方向全反；仅辰字时点部分相及。"
+ },
+ "P3-3759bb94": {
+  "anon_id": "P3-3759bb94",
+  "direction": 2,
+  "claims": 2,
+  "timing": 2,
+  "total": 6,
+  "pass": true,
+  "reason": "断缪斌先贵后败终局凶、受累于吴、有性命忧、应在四十年代中段，结局其妻请吴稚晖说情反启蒋疑、1946被枪决，逐条命中。"
+ },
+ "P3-377e30e7": {
+  "anon_id": "P3-377e30e7",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "断韦千里以术成名、未入仕贵、晚年客居异乡，结局终身职业命师著述、晚年居香港，方向主断命中；峰值运结局无可核时点，timing记1。"
+ },
+ "P3-37a298ce": {
+  "anon_id": "P3-37a298ce",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 0,
+  "total": 3.5,
+  "pass": false,
+  "reason": "断病重难愈，结局后卒于六月，负向命中；寅日主坐标未中。"
+ },
+ "P3-382eace3": {
+  "anon_id": "P3-382eace3",
+  "direction": 2,
+  "claims": 2,
+  "timing": 1,
+  "total": 5,
+  "pass": true,
+  "reason": "断袁树珊科第无缘、转以术数著述成一代名家，结局屡试不第、以行医命卜著述立身为最具影响命学著述家之一，逐条命中；峰值运结局无可核时点，timing记1。"
+ },
+ "P3-3a856185": {
+  "anon_id": "P3-3a856185",
+  "direction": 1,
+  "claims": 1,
+  "timing": 1,
+  "total": 3,
+  "pass": false,
+  "reason": "断升任方位正西，结局后擢西北，升任合而方位只部分合；酉月坐标结局无可核时点，timing记1。"
+ },
+ "P3-3a8d6ad8": {
+  "anon_id": "P3-3a8d6ad8",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "断得会可得、午日主坐标，结局其后午月方获，得会命中而日坐标延为月，timing部分计。"
+ },
+ "P3-3b268042": {
+  "anon_id": "P3-3b268042",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "断荀慧生列名旦前列、早困中兴，结局创荀派为四大名旦之一，方向主断命中；峰值运结局无可核时点，timing记1。"
+ },
+ "P3-3b44846d": {
+  "anon_id": "P3-3b44846d",
+  "direction": 2,
+  "claims": 2,
+  "timing": 2,
+  "total": 6,
+  "pass": true,
+  "reason": "断英国公投Leave获胜，结局2016年6月23日Leave以51.9%获胜、其后脱欧，日期坐标正中。"
+ },
+ "P3-3bcc7a19": {
+  "anon_id": "P3-3bcc7a19",
+  "direction": 1,
+  "claims": 1,
+  "timing": 0,
+  "total": 2,
+  "pass": false,
+  "reason": "断自占病可愈、午日退减，结局胸部有肿瘤、戌日接受手术而愈否未载，病灶存在一面粗合，愈向无印证且时点不合。"
+ },
+ "P3-3c73f8bd": {
+  "anon_id": "P3-3c73f8bd",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 0,
+  "total": 3.5,
+  "pass": false,
+  "reason": "断病势凶险近段难愈，结局果卒于癸卯日，凶向命中；巳日主坐标未中。"
+ },
+ "P3-3c7942b0": {
+  "anon_id": "P3-3c7942b0",
+  "direction": 0,
+  "claims": 0,
+  "timing": 0,
+  "total": 0,
+  "pass": false,
+  "reason": "断自占近病可愈、辰日愈期，结局至立春日果死，全反。"
+ },
+ "P3-3cd4ca2b": {
+  "anon_id": "P3-3cd4ca2b",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 0.5,
+  "total": 4.0,
+  "pass": true,
+  "reason": "断父病可愈，结局果于申酉日愈，方向命中；主坐标子日未中，timing部分计。"
+ },
+ "P3-3e569e18": {
+  "anon_id": "P3-3e569e18",
+  "direction": 1.5,
+  "claims": 1,
+  "timing": 0,
+  "total": 2.5,
+  "pass": false,
+  "reason": "断偷钱者为年轻男子而非所疑女仆、钱大部难追，结局证实其人无误且钱于三日内返还，人断命中而追回量级与一至两月时限皆不合。"
+ },
+ "P3-3e7daa1c": {
+  "anon_id": "P3-3e7daa1c",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "断传闻不实、国王未攻取剑桥，结局剑桥在内战中从未被王方攻取、始终为议会重镇，方向主断命中；证伪时点结局无可核，timing记1。"
+ },
+ "P3-3f323ef1": {
+  "anon_id": "P3-3f323ef1",
+  "direction": 2,
+  "claims": 2,
+  "timing": 1.5,
+  "total": 5.5,
+  "pass": true,
+  "reason": "断乡试可中，结局秋试春试连捷连中，方向断语命中且超出一试；酉月主坐标与秋试时段大致合，timing稍降。"
+ },
+ "P3-405f2c73": {
+  "anon_id": "P3-405f2c73",
+  "direction": 1.5,
+  "claims": 1.5,
+  "timing": 0.5,
+  "total": 3.5,
+  "pass": false,
+  "reason": "断回奏得达、劾案可解且有迁转，结局先罚俸、秋升闽抚、寻授两广总督，终局迁转命中而罚俸与无碍断语有出入；卯日二月坐标未中，timing部分计。"
+ },
+ "P3-40dd4f2e": {
+  "anon_id": "P3-40dd4f2e",
+  "direction": 1.5,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.0,
+  "pass": true,
+  "reason": "断此去渡江索债有险不宜行，结局今晨大船江心覆没、留者得免，江险实况与趋避主旨合；索债本问无结局、卯日细点未核，timing部分计。"
+ },
+ "P3-4135cd7c": {
+  "anon_id": "P3-4135cd7c",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "断久雨不止，结局雨果不止，方向主断命中；辰日雨盛细点结局无可核时点，timing记1。"
+ },
+ "P3-418b9a31": {
+  "anon_id": "P3-418b9a31",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 0.5,
+  "total": 4.0,
+  "pass": true,
+  "reason": "断复卜有子，结局子寅年连生二男，得子命中且量级过之；所断亥年坐标差一年，timing部分计。"
+ },
+ "P3-42b6e342": {
+  "anon_id": "P3-42b6e342",
+  "direction": 2,
+  "claims": 2,
+  "timing": 2,
+  "total": 6,
+  "pass": true,
+  "reason": "断Trump赢2016大选，结局Trump以选举人票获胜成为总统，日期坐标合。"
+ },
+ "P3-4301d18a": {
+  "anon_id": "P3-4301d18a",
+  "direction": 0.5,
+  "claims": 0.5,
+  "timing": 0.5,
+  "total": 1.5,
+  "pass": false,
+  "reason": "断新加坡疫情5–6月拐点受控、管控可放松，结局4–6月正是本地最严重阶段并实施阻断措施，与主断相反；仅全球延续一面粗合。"
+ },
+ "P3-438d0e14": {
+  "anon_id": "P3-438d0e14",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "断考选有成授文职，结局果考入都察院系统、历转巡抚都御史，方向命中而品级高于所断中下层；卯月坐标结局未载月份，timing部分计。"
+ },
+ "P3-440261cf": {
+  "anon_id": "P3-440261cf",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "断兄重罪可得救，结局后蒙恩免死，方向主断命中；午月坐标结局无可核时点，timing记1。"
+ },
+ "P3-441bdef2": {
+  "anon_id": "P3-441bdef2",
+  "direction": 2,
+  "claims": 2,
+  "timing": 2,
+  "total": 6,
+  "pass": true,
+  "reason": "断蔡英文连任且为明确差距、2020年1月11日投票，结局蔡以817万票连任当选，三项全中。"
+ },
+ "P3-451505a6": {
+  "anon_id": "P3-451505a6",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "断仆人确有欲害主之实，结局转述二人原欲害主而逃、因外出不能相害，害心一面命中；应期结局无可核时点，timing记1。"
+ },
+ "P3-451c6819": {
+  "anon_id": "P3-451c6819",
+  "direction": 0,
+  "claims": 0,
+  "timing": 0,
+  "total": 0,
+  "pass": false,
+  "reason": "断父病不死可愈而迟、亥日转势，结局果死于卯年卯月卯日卯时，全反。"
+ },
+ "P3-459250ec": {
+  "anon_id": "P3-459250ec",
+  "direction": 2,
+  "claims": 1,
+  "timing": 2,
+  "total": 5,
+  "pass": true,
+  "reason": "方向中：全球流行病主导与三月暴发、市场混乱均合；claims：三月段验，余月子断语未被结局记载故不满分；timing：三月主段命中"
+ },
+ "P3-46dabb02": {
+  "anon_id": "P3-46dabb02",
+  "direction": 1.5,
+  "claims": 1,
+  "timing": 1,
+  "total": 3.5,
+  "pass": false,
+  "reason": "方向中：结局含同行字样但语义未明；claims：同行部分合、迟滞未载；timing：结局无可核时点"
+ },
+ "P3-4773e5ce": {
+  "anon_id": "P3-4773e5ce",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1.5,
+  "total": 5.0,
+  "pass": true,
+  "reason": "方向中：兄病终愈合；claims：子时退灾、次日起床合，危笃过程未载；timing：子字合而时与日单位异"
+ },
+ "P3-48e1c3cd": {
+  "anon_id": "P3-48e1c3cd",
+  "direction": 2,
+  "claims": 2,
+  "timing": 2,
+  "total": 6,
+  "pass": true,
+  "reason": "方向中：蔡胜连任大胜全合；claims：票差约265万、民进党61席、国民党38席逐条合；timing：投票日揭晓即应期"
+ },
+ "P3-4911ff86": {
+  "anon_id": "P3-4911ff86",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 0.5,
+  "total": 4.0,
+  "pass": true,
+  "reason": "方向中：囤货不利大亏合；claims：堆积朽坏大亏本合、细节未尽载；timing：主坐标卯月与四年堆积不合"
+ },
+ "P3-4916f624": {
+  "anon_id": "P3-4916f624",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：鸡被烹合；claims：烹鸡验、他鸡无殃未载；timing：十日窗内而主坐标第四日未中"
+ },
+ "P3-4964a86b": {
+  "anon_id": "P3-4964a86b",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 0.5,
+  "total": 4.0,
+  "pass": true,
+  "reason": "方向中：不宜葬合；claims：葬后二子一女及自身相继卒合子孙不安；timing：卯至酉月窗与四年内不合"
+ },
+ "P3-4978fe83": {
+  "anon_id": "P3-4978fe83",
+  "direction": 1.5,
+  "claims": 1,
+  "timing": 0.5,
+  "total": 3.0,
+  "pass": false,
+  "reason": "方向中：无雨见日部分合而本日晴过强；claims：阴云后见日仅部分合；timing：大晴在次日、非本日主坐标"
+ },
+ "P3-4a03ecd5": {
+  "anon_id": "P3-4a03ecd5",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 0,
+  "total": 3.5,
+  "pass": false,
+  "reason": "方向中：病危难愈终卒合；claims：危重合、延捱未载；timing：主坐标未日与卒于卯日不合"
+ },
+ "P3-4a54ed2e": {
+  "anon_id": "P3-4a54ed2e",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：法学名家院长级贵显合；claims：晚年著述、高寿合，子女病位未载；timing：运段坐标与结局无从核对"
+ },
+ "P3-4a8d1d62": {
+  "anon_id": "P3-4a8d1d62",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 2,
+  "total": 5.5,
+  "pass": true,
+  "reason": "方向中：预书届期成真合；claims：椅被来访者坐破合、道者未预断；timing：届期即预书之日命中"
+ },
+ "P3-4b42680b": {
+  "anon_id": "P3-4b42680b",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1.5,
+  "total": 5.0,
+  "pass": true,
+  "reason": "方向中：莫迪NDA胜选连任合；claims：303席过半、胜势明确合，国大党回升未载；timing：五月窗合、主坐标计票日结局未直载"
+ },
+ "P3-4b8ab785": {
+  "anon_id": "P3-4b8ab785",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 2,
+  "total": 5.5,
+  "pass": true,
+  "reason": "方向中：曾俊华落选合；claims：对手林郑777票胜出合，民望与中央支持未载；timing：投票日揭晓即应期"
+ },
+ "P3-4c42f7d0": {
+  "anon_id": "P3-4c42f7d0",
+  "direction": 1.5,
+  "claims": 1,
+  "timing": 0,
+  "total": 2.5,
+  "pass": false,
+  "reason": "方向中：结局仅总承时点、事件未分载；claims：具体借贷退减未分载核验；timing：主坐标寅日与辰日不合"
+ },
+ "P3-4c69ccdf": {
+  "anon_id": "P3-4c69ccdf",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：倭寇不来合；claims：不至合、风雨之苦未预断；timing：结局无可核时点"
+ },
+ "P3-4cc1580c": {
+  "anon_id": "P3-4cc1580c",
+  "direction": 0,
+  "claims": 0,
+  "timing": 0,
+  "total": 0,
+  "pass": false,
+  "reason": "方向中：能到任与结局病死相反；claims：到任与东方分发均无验、反被病死推翻；timing：卯日数日内与七月病死不合"
+ },
+ "P3-4d334f12": {
+  "anon_id": "P3-4d334f12",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：院长级贵显合；claims：任监察院长31年、书法宗师合，峰值运未载；timing：运段坐标无从核对"
+ },
+ "P3-4d63ac96": {
+  "anon_id": "P3-4d63ac96",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：求财迟得合；claims：得财合、先破后成未载；timing：五日窗内而主坐标卯日未中、实寅日"
+ },
+ "P3-4d834225": {
+  "anon_id": "P3-4d834225",
+  "direction": 2,
+  "claims": 1,
+  "timing": 2,
+  "total": 5,
+  "pass": true,
+  "reason": "方向中：明日有雨合；claims：有雨合而量级断小到中、实大雨不合；timing：次日命中"
+ },
+ "P3-4dfeee0a": {
+  "anon_id": "P3-4dfeee0a",
+  "direction": 1.5,
+  "claims": 1,
+  "timing": 2,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：痘发合、可愈未载；claims：当日见痘合、顺透可愈未载；timing：当日即主坐标命中"
+ },
+ "P3-4e5f5457": {
+  "anon_id": "P3-4e5f5457",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 2,
+  "total": 5.5,
+  "pass": true,
+  "reason": "方向中：子病难愈合；claims：危重终死合、病位未载；timing：午日午时死与主坐标午日命中"
+ },
+ "P3-4e7d412a": {
+  "anon_id": "P3-4e7d412a",
+  "direction": 2,
+  "claims": 1,
+  "timing": 1,
+  "total": 4,
+  "pass": true,
+  "reason": "方向中：说情难成脱罪不得、结局总承果然；claims：具体断语未分载故不满分；timing：结局无可核时点"
+ },
+ "P3-50922b82": {
+  "anon_id": "P3-50922b82",
+  "direction": 1,
+  "claims": 0.5,
+  "timing": 1,
+  "total": 2.5,
+  "pass": false,
+  "reason": "方向中：北来之害合北行反弱、避西北得安未载；claims：烧村焚屋未预断；timing：结局无可核时点"
+ },
+ "P3-51112f59": {
+  "anon_id": "P3-51112f59",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：地下无财合；claims：掘缸尽瓦屑泥土无财逐项合、光象解未载；timing：结局无可核时点"
+ },
+ "P3-51351573": {
+  "anon_id": "P3-51351573",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1.5,
+  "total": 5.0,
+  "pass": true,
+  "reason": "方向中：子不在主家而在母家合；claims：在家得见合、3时与断2时近；timing：同日下午、时点差一时"
+ },
+ "P3-517889cc": {
+  "anon_id": "P3-517889cc",
+  "direction": 1,
+  "claims": 0.5,
+  "timing": 1,
+  "total": 2.5,
+  "pass": false,
+  "reason": "方向中：官位变动与劾势仅弱合；claims：赴京另补非劾发动之明载；timing：结局无可核时点"
+ },
+ "P3-51b9e3fa": {
+  "anon_id": "P3-51b9e3fa",
+  "direction": 1,
+  "claims": 1,
+  "timing": 1,
+  "total": 3,
+  "pass": false,
+  "reason": "方向中：主线求官成否未载、母凶合；claims：母未度九十终89合，余事多未见预断；timing：母事应期无可核年份"
+ },
+ "P3-520d4a59": {
+  "anon_id": "P3-520d4a59",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：子病可愈合；claims：无事合、先压后解过程未载；timing：结局无可核时点"
+ },
+ "P3-527d60d6": {
+  "anon_id": "P3-527d60d6",
+  "direction": 0.5,
+  "claims": 0.5,
+  "timing": 2,
+  "total": 3.0,
+  "pass": false,
+  "reason": "方向中：断衰退探底、实地方大胜不合，仅地方有斩获弱合；claims：地方小胜量级错、大胜13席反之；timing：2022年窗即题面年命中"
+ },
+ "P3-52bbd01f": {
+  "anon_id": "P3-52bbd01f",
+  "direction": 0,
+  "claims": 0,
+  "timing": 0,
+  "total": 0,
+  "pass": false,
+  "reason": "方向中：断可成行、实未去且女死相反；claims：无险阻与女死辰日相反；timing：未日成行与辰日女死不合"
+ },
+ "P3-53333c73": {
+  "anon_id": "P3-53333c73",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：子病危重难愈合；claims：果死不救合；timing：结局无可核时点"
+ },
+ "P3-5343f778": {
+  "anon_id": "P3-5343f778",
+  "direction": 2,
+  "claims": 2,
+  "timing": 2,
+  "total": 6,
+  "pass": true,
+  "reason": "方向中：老人饮食之灾合；claims：老人本、食鱼鲠喉、五日三条逐项合；timing：第五日命中"
+ },
+ "P3-536f0cc2": {
+  "anon_id": "P3-536f0cc2",
+  "direction": 0,
+  "claims": 0,
+  "timing": 0,
+  "total": 0,
+  "pass": false,
+  "reason": "方向中：断终身财福可得、实子年破败相反；claims：蝗尽瘟疫与中等衣食相反；timing：主坐标午年与子年灾应不合"
+ },
+ "P3-53f23258": {
+  "anon_id": "P3-53f23258",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：外交贵显久长合；claims：使节国联国际法院、晚年海外高寿、婚姻结束合，财富未载；timing：运档无具体坐标可核"
+ },
+ "P3-540e1d32": {
+  "anon_id": "P3-540e1d32",
+  "direction": 2,
+  "claims": 1,
+  "timing": 1,
+  "total": 4,
+  "pass": true,
+  "reason": "方向中：会试连捷、结局总承果然；claims：具体断语未分载故不满分；timing：结局无可核时点"
+ },
+ "P3-5436e31c": {
+  "anon_id": "P3-5436e31c",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 2,
+  "total": 5.5,
+  "pass": true,
+  "reason": "方向中：求财可得合；claims：甲寅得之合、小得量级未载；timing：寅日主坐标命中"
+ },
+ "P3-5484e76d": {
+  "anon_id": "P3-5484e76d",
+  "direction": 0.5,
+  "claims": 0,
+  "timing": 0,
+  "total": 0.5,
+  "pass": false,
+  "reason": "方向中：母病可愈未被结局记载、结局转记其子惊风；claims：母愈断语无验；timing：巳日主坐标与八月其子事不合"
+ },
+ "P3-55b3180d": {
+  "anon_id": "P3-55b3180d",
+  "direction": 1,
+  "claims": 0.5,
+  "timing": 1.5,
+  "total": 3.0,
+  "pass": false,
+  "reason": "方向中：无成局之雨弱合、晴与星辰无光不合；claims：云气一面弱合；timing：当日戌时在日档窗内"
+ },
+ "P3-56293b09": {
+  "anon_id": "P3-56293b09",
+  "direction": 1,
+  "claims": 1,
+  "timing": 1,
+  "total": 3,
+  "pass": false,
+  "reason": "方向中：题保伸一面合、终削职与功名可保不合；claims：蒙题保合、准行未果；timing：八月削职与酉月坐标近而事反、只记窗近"
+ },
+ "P3-578330dd": {
+  "anon_id": "P3-578330dd",
+  "direction": 0.5,
+  "claims": 0,
+  "timing": 0,
+  "total": 0.5,
+  "pass": false,
+  "reason": "方向中：仕途一面未载、晚年安稳寿中上与刺杀身亡相反；claims：无大破与被刺杀相反；timing：甲运刺杀与断甲运后安稳相反"
+ },
+ "P3-583385d8": {
+  "anon_id": "P3-583385d8",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 0.5,
+  "total": 4.0,
+  "pass": true,
+  "reason": "方向中：弟兄将到合；claims：到合、途程细节未载；timing：数日窗内而主坐标酉日未中"
+ },
+ "P3-5836c4d9": {
+  "anon_id": "P3-5836c4d9",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：可考列前名合；claims：取案首合靠前断、优等合；timing：结局无可核时点"
+ },
+ "P3-588cddc3": {
+  "anon_id": "P3-588cddc3",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 0,
+  "total": 3.5,
+  "pass": false,
+  "reason": "方向中：出仕迟得合；claims：辰年得选合迟象；timing：主坐标亥年与辰年不合、亦出亥子窗"
+ },
+ "P3-59130d16": {
+  "anon_id": "P3-59130d16",
+  "direction": 0,
+  "claims": 0,
+  "timing": 0,
+  "total": 0,
+  "pass": false,
+  "reason": "方向中：小厮病可愈与结局被论革职无对应、愈象无验；claims：病退断语未被记载；timing：申日数日内与七月革职不合"
+ },
+ "P3-593d93c7": {
+  "anon_id": "P3-593d93c7",
+  "direction": 0,
+  "claims": 0,
+  "timing": 0,
+  "total": 0,
+  "pass": false,
+  "reason": "方向中：断求财不得破耗、实次日得财相反；claims：得财与不得相反；timing：主坐标寅日与次日甲辰得不合"
+ },
+ "P3-594dfb02": {
+  "anon_id": "P3-594dfb02",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：家宅火灾合；claims：火情合、火势有限人宅可保未载；timing：窗起午日合而主坐标未日未中、实甲午日火"
+ },
+ "P3-59608a3a": {
+  "anon_id": "P3-59608a3a",
+  "direction": 1,
+  "claims": 0.5,
+  "timing": 2,
+  "total": 3.5,
+  "pass": false,
+  "reason": "方向中：索价终局未被记载、仅午月有事；claims：房价断语无验；timing：午月主坐标与覆舟事同月命中"
+ },
+ "P3-59ce35b2": {
+  "anon_id": "P3-59ce35b2",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：子病危难愈合；claims：申时去世合危重；timing：一旬窗内、主坐标午日未直中"
+ },
+ "P3-5a1a4366": {
+  "anon_id": "P3-5a1a4366",
+  "direction": 1.5,
+  "claims": 1,
+  "timing": 0.5,
+  "total": 3.0,
+  "pass": false,
+  "reason": "方向中：不宜附葬后不安合；claims：腰疼不安、终迁改部分合，安坟而愈未预断；timing：子月巳日与数月后及子年迁不合"
+ },
+ "P3-5a9310e0": {
+  "anon_id": "P3-5a9310e0",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 0.5,
+  "total": 4.0,
+  "pass": true,
+  "reason": "方向中：狱中终脱解合；claims：壬戌日赦入赦内合、阴私未载；timing：本旬窗近而主坐标辛亥日未中"
+ },
+ "P3-5acbb5d3": {
+  "anon_id": "P3-5acbb5d3",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 0,
+  "total": 3.5,
+  "pass": false,
+  "reason": "方向中：母子平安合；claims：生男平安合、惊耗未载；timing：主坐标乙酉日与九月己卯日不合"
+ },
+ "P3-5ae4a171": {
+  "anon_id": "P3-5ae4a171",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：父官事凶难脱合；claims：后果斩合重罪断；timing：结局无可核时点"
+ },
+ "P3-5b1950c4": {
+  "anon_id": "P3-5b1950c4",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 0.5,
+  "total": 4.0,
+  "pass": true,
+  "reason": "方向中：夫近病可愈合；claims：全愈合、入墓昏重未载；timing：本旬窗内而主坐标戌日未中、实己巳日"
+ },
+ "P3-5b42bbe4": {
+  "anon_id": "P3-5b42bbe4",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：兄官事终救免合；claims：援例恩留免死合、机制未预断；timing：结局无可核时点"
+ },
+ "P3-5c8d5b02": {
+  "anon_id": "P3-5c8d5b02",
+  "direction": 0,
+  "claims": 0,
+  "timing": 1,
+  "total": 1,
+  "pass": false,
+  "reason": "方向中：断难偕老分离、实夫妻同庚寿八旬偕老相反；claims：分离断语全反；timing：结局无可核时点"
+ },
+ "P3-5d37d766": {
+  "anon_id": "P3-5d37d766",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 0.5,
+  "total": 4.0,
+  "pass": true,
+  "reason": "方向中：将有官迟得合；claims：巳年得县缺合；timing：亥年起数年宽窗弱合、主坐标寅年未中"
+ },
+ "P3-5dea1473": {
+  "anon_id": "P3-5dea1473",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：位至主席级而寿不永合；claims：任主席病逝合，病位断脾胃与脑溢血不合；timing：险年运段坐标无从核对"
+ },
+ "P3-5e67d5e1": {
+  "anon_id": "P3-5e67d5e1",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 2,
+  "total": 5.5,
+  "pass": true,
+  "reason": "方向中：才高命薄寿短合；claims：41岁病逝、名士自放未任显职合，子女病位未载；timing：寿约41主坐标命中"
+ },
+ "P3-5e6ca2e6": {
+  "anon_id": "P3-5e6ca2e6",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：此讼败不成合；claims：讼终未成合、文书无力未分载；timing：结局无可核时点"
+ },
+ "P3-5f640513": {
+  "anon_id": "P3-5f640513",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：考试可中合；claims：寅日揭榜中第八名合中、名次未预断；timing：窗内寅日而主坐标戌日未中"
+ },
+ "P3-5fc284ca": {
+  "anon_id": "P3-5fc284ca",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 2,
+  "total": 5.5,
+  "pass": true,
+  "reason": "方向中：楼市先扬后抑合；claims：2021高位后跌四成、24后低迷合，火业未载；timing：见顶窗与2024转势点命中"
+ },
+ "P3-6078cbec": {
+  "anon_id": "P3-6078cbec",
+  "direction": 1,
+  "claims": 0.5,
+  "timing": 2,
+  "total": 3.5,
+  "pass": false,
+  "reason": "方向中：终身贫薄未被记载、仅丑年夫死；claims：贫断语无验；timing：丑年主坐标命中"
+ },
+ "P3-610d1587": {
+  "anon_id": "P3-610d1587",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：位极人臣贵显合；claims：直隶总督北洋大臣大学士合，峰值运未载；timing：运段坐标无从核对"
+ },
+ "P3-6149a425": {
+  "anon_id": "P3-6149a425",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 2,
+  "total": 5.5,
+  "pass": true,
+  "reason": "方向中：无性命之虞生还获释合；claims：未受伤害平安抵南京合；timing：1936年12月25日、在十二月窗内命中"
+ },
+ "P3-625d04d7": {
+  "anon_id": "P3-625d04d7",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 0,
+  "total": 3.5,
+  "pass": false,
+  "reason": "方向中：子久病不利凶合；claims：死于本日合沉重；timing：主坐标申月与本日死不合"
+ },
+ "P3-628ae301": {
+  "anon_id": "P3-628ae301",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：重辟难全脱只到减等合；claims：开豁谪戍合减等谪戍断；timing：结局无可核时点"
+ },
+ "P3-637b6392": {
+  "anon_id": "P3-637b6392",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：出行得见贵人合；claims：见官财利得意合、书信通意未载；timing：结局无可核时点（仅言出空之日、无干支）"
+ },
+ "P3-63966028": {
+  "anon_id": "P3-63966028",
+  "direction": 0,
+  "claims": 0,
+  "timing": 2,
+  "total": 2,
+  "pass": false,
+  "reason": "方向中：断哈里斯胜、实特朗普胜相反；claims：险胜与落败断语全反；timing：选举日应期本身命中"
+ },
+ "P3-640ff8f7": {
+  "anon_id": "P3-640ff8f7",
+  "direction": 2,
+  "claims": 1,
+  "timing": 1,
+  "total": 4,
+  "pass": true,
+  "reason": "方向中：船未沉存活合；claims：在西部港口弱合西班牙沿海、消息得实合，险损未载；timing：结局无可核时点"
+ },
+ "P3-651039ac": {
+  "anon_id": "P3-651039ac",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 0.5,
+  "total": 4.0,
+  "pass": true,
+  "reason": "方向中：可迁合；claims：季冬始升合迁；timing：主坐标辰月与季冬不合"
+ },
+ "P3-6593b32c": {
+  "anon_id": "P3-6593b32c",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：文名大成官贵有限合；claims：国学大师、系狱、富名不富财合，峰值运未载；timing：运段坐标无从逐一核对"
+ },
+ "P3-6606a5ba": {
+  "anon_id": "P3-6606a5ba",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 2,
+  "total": 5.5,
+  "pass": true,
+  "reason": "方向中：财可得合；claims：甲辰日到手合；timing：辰日主坐标命中"
+ },
+ "P3-664da22d": {
+  "anon_id": "P3-664da22d",
+  "direction": 1,
+  "claims": 0.5,
+  "timing": 1,
+  "total": 2.5,
+  "pass": false,
+  "reason": "方向中：有擢任合、方位断西南与河南中土不合；claims：擢合而方错；timing：结局无可核时点"
+ },
+ "P3-6676ab97": {
+  "anon_id": "P3-6676ab97",
+  "direction": 1.5,
+  "claims": 1.5,
+  "timing": 1.5,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：升而复失一面合、断难成过强；claims：本月升山东、未及一载复任江西合反复；timing：本月窗命中"
+ },
+ "P3-6766bcfe": {
+  "anon_id": "P3-6766bcfe",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：出商子难归伤亡合；claims：果死不还合；timing：结局无可核时点"
+ },
+ "P3-684d6892": {
+  "anon_id": "P3-684d6892",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 2,
+  "total": 5.5,
+  "pass": true,
+  "reason": "方向中：2020-21大流行合；claims：全球流行、世卫大流行宣告合，死亡限制细节未分载；timing：2020 onset与延续2021命中"
+ },
+ "P3-68aecb2a": {
+  "anon_id": "P3-68aecb2a",
+  "direction": 1.5,
+  "claims": 1,
+  "timing": 0,
+  "total": 2.5,
+  "pass": false,
+  "reason": "方向中：痘将发合、可愈未载；claims：次年二月始痘合发；timing：五日窗与次年二月相去甚远"
+ },
+ "P3-6993351d": {
+  "anon_id": "P3-6993351d",
+  "direction": 0,
+  "claims": 0.5,
+  "timing": 0,
+  "total": 0.5,
+  "pass": false,
+  "reason": "方向中：主断银钱与实物牛黄不合；claims：贵重小物一面弱合；timing：预测断语本身无应期"
+ },
+ "P3-69c39e1b": {
+  "anon_id": "P3-69c39e1b",
+  "direction": 0,
+  "claims": 0,
+  "timing": 0,
+  "total": 0,
+  "pass": false,
+  "reason": "方向中：断自病可愈、实是夕遂卒相反；claims：迟愈断语全反；timing：午日愈期与是夕卒不合"
+ },
+ "P3-6a37843d": {
+  "anon_id": "P3-6a37843d",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：非巫蛊自然病而好转合；claims：改方后三周康复合、非祟未分载；timing：数日转机与三周康复尺度近而未中"
+ },
+ "P3-6c5c05b5": {
+  "anon_id": "P3-6c5c05b5",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 0.5,
+  "total": 4.0,
+  "pass": true,
+  "reason": "方向中：自病可愈合；claims：卯月病愈合；timing：主坐标辰日与卯月愈尺度不合"
+ },
+ "P3-6cb52753": {
+  "anon_id": "P3-6cb52753",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 0.5,
+  "total": 4.0,
+  "pass": true,
+  "reason": "方向中：失散子有相逢望合；claims：次年六月父子相逢合、得子一面未分；timing：主坐标酉月与六月不合、数月窗亦逾"
+ },
+ "P3-6d012023": {
+  "anon_id": "P3-6d012023",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：有雨合；claims：雨合、连日晴热近段未载；timing：窗内戌日而主坐标亥日未中"
+ },
+ "P3-6d1e658d": {
+  "anon_id": "P3-6d1e658d",
+  "direction": 1.5,
+  "claims": 1,
+  "timing": 1,
+  "total": 3.5,
+  "pass": false,
+  "reason": "方向中：祸非倭寇而自内合大向；claims：官兵之祸与断乡里子弟引动不尽同；timing：结局无可核时点"
+ },
+ "P3-6d40022d": {
+  "anon_id": "P3-6d40022d",
+  "direction": 0.5,
+  "claims": 0.5,
+  "timing": 0,
+  "total": 1.0,
+  "pass": false,
+  "reason": "方向中：断兄病可愈、实戊申日沉疴复起不合；claims：缠绵沉重一面合；timing：主坐标寅日与戊申复起不合"
+ },
+ "P3-6f3efac4": {
+  "anon_id": "P3-6f3efac4",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：独掌一方军政数十年合；claims：统治山西38年、寿七十余合，峰值运未载；timing：运段坐标无从核对"
+ },
+ "P3-6fb02e97": {
+  "anon_id": "P3-6fb02e97",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：父近病可愈合；claims：丑日起床合愈；timing：本旬窗内而主坐标未日未中"
+ },
+ "P3-6fe25262": {
+  "anon_id": "P3-6fe25262",
+  "direction": 1.5,
+  "claims": 1,
+  "timing": 0,
+  "total": 2.5,
+  "pass": false,
+  "reason": "方向中：梦主凶病厄合向；claims：成痨而死合病厄、断等级未至绝偏轻；timing：数日辰日与九月成痨腊月死不合"
+ },
+ "P3-702cfd87": {
+  "anon_id": "P3-702cfd87",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：出门子尚在世平安合；claims：平安而归合、音讯一面合；timing：亥月合而主坐标亥日未中、实甲辰日"
+ },
+ "P3-71601e8f": {
+  "anon_id": "P3-71601e8f",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：差复而缺不复双向合；claims：巡按复设、吏书未复逐项合，改置形态未载；timing：结局无可核时点（仅言未几）"
+ },
+ "P3-724bfc7b": {
+  "anon_id": "P3-724bfc7b",
+  "direction": 1.5,
+  "claims": 1,
+  "timing": 0.5,
+  "total": 3.0,
+  "pass": false,
+  "reason": "方向中：鬼神为祸合向；claims：神像藏置送寺后愈合、金属铜像一验，先亡阴祟未合；timing：主坐标酉日与庚辰日再验不合"
+ },
+ "P3-72970171": {
+  "anon_id": "P3-72970171",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1.5,
+  "total": 5.0,
+  "pass": true,
+  "reason": "方向中：Laud死于斩首合；claims：公开利刃处决合、非病死合；timing：次年一月十日约在六至八月窗内近主坐标"
+ },
+ "P3-72b40737": {
+  "anon_id": "P3-72b40737",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 2,
+  "total": 5.5,
+  "pass": true,
+  "reason": "方向中：Obama连任胜Romney合；claims：332对206合、计数纷扰未载；timing：2012年11月6日选举日命中"
+ },
+ "P3-73a2cebb": {
+  "anon_id": "P3-73a2cebb",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：极贵人君高寿合；claims：在位60年寿87合，运段子女未载；timing：运档坐标无从核对"
+ },
+ "P3-741f9ac7": {
+  "anon_id": "P3-741f9ac7",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：上书不成合；claims：不准合、驳责之虞未分载；timing：结局无可核时点"
+ },
+ "P3-745cf4a1": {
+  "anon_id": "P3-745cf4a1",
+  "direction": 1,
+  "claims": 0.5,
+  "timing": 1,
+  "total": 2.5,
+  "pass": false,
+  "reason": "方向中：有升任合、方位断西北与齐地不合；claims：擢合而方错；timing：结局无可核时点"
+ },
+ "P3-749b0229": {
+  "anon_id": "P3-749b0229",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：上疏获谴合；claims：下狱拟配合谴责降罚；timing：结局无可核时点"
+ },
+ "P3-74beec52": {
+  "anon_id": "P3-74beec52",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：先盛后衰合；claims：晚年下野、寿六十余合，贫病客死未尽载；timing：运段坐标无从核对"
+ },
+ "P3-74d2bf1e": {
+  "anon_id": "P3-74d2bf1e",
+  "direction": 0,
+  "claims": 0,
+  "timing": 1,
+  "total": 1,
+  "pass": false,
+  "reason": "方向中：断夫病可愈、实果死相反；claims：转安断语全反；timing：结局无可核时点"
+ },
+ "P3-7504588c": {
+  "anon_id": "P3-7504588c",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：妻病可愈合；claims：甲申日愈合；timing：本旬窗内而主坐标子日未中"
+ },
+ "P3-7569964d": {
+  "anon_id": "P3-7569964d",
+  "direction": 2,
+  "claims": 2,
+  "timing": 2,
+  "total": 6,
+  "pass": true,
+  "reason": "方向中：Trump胜2016合；claims：胜选、Comey信件late-October升级主导末段逐项合；timing：11月8日与末周坐标命中"
+ },
+ "P3-76809512": {
+  "anon_id": "P3-76809512",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 0,
+  "total": 3.5,
+  "pass": false,
+  "reason": "方向中：茔地可觅得合；claims：五月始得、九月葬朱村合得地；timing：主坐标甲寅日旬内与五月得不合"
+ },
+ "P3-76ba636e": {
+  "anon_id": "P3-76ba636e",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1.5,
+  "total": 5.0,
+  "pass": true,
+  "reason": "方向中：有雨合；claims：酉日天变、戌日而雨合雨来；timing：数日窗内、雨晚主坐标一日"
+ },
+ "P3-76d5045b": {
+  "anon_id": "P3-76d5045b",
+  "direction": 1.5,
+  "claims": 1,
+  "timing": 0.5,
+  "total": 3.0,
+  "pass": false,
+  "reason": "方向中：财福不厚合终局、过程有厚赠一榜；claims：以医得赠、终囊空合，县令一程未预断；timing：主坐标申年与寅午年事不合"
+ },
+ "P3-77ba2732": {
+  "anon_id": "P3-77ba2732",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1.5,
+  "total": 5.0,
+  "pass": true,
+  "reason": "方向中：婚事挽回成就合；claims：由男方促成、成就合，具体日期未载；timing：二十日内成就与主坐标窗近合"
+ },
+ "P3-782960fe": {
+  "anon_id": "P3-782960fe",
+  "direction": 0,
+  "claims": 0,
+  "timing": 0,
+  "total": 0,
+  "pass": false,
+  "reason": "方向中：断求财不成得而复失、实次日入手相反；claims：绝处逢生入手与落空相反；timing：主坐标巳日与次日戊申不合"
+ },
+ "P3-78637f9a": {
+  "anon_id": "P3-78637f9a",
+  "direction": 0,
+  "claims": 0,
+  "timing": 0,
+  "total": 0,
+  "pass": false,
+  "reason": "方向中：断重辟难免出狱无望、实开豁谪戍后复职相反；claims：开豁之路断无、实有；timing：三月内定罪与五月开豁不合"
+ },
+ "P3-78959a78": {
+  "anon_id": "P3-78959a78",
+  "direction": 0,
+  "claims": 0,
+  "timing": 0,
+  "total": 0,
+  "pass": false,
+  "reason": "方向中：断本月晴燥少雨、结局载午年子月死、主题无对应；claims：晴雨断语无验；timing：本月亥日与午年子月不合"
+ },
+ "P3-78b37758": {
+  "anon_id": "P3-78b37758",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1.5,
+  "total": 5.0,
+  "pass": true,
+  "reason": "方向中：子将归合；claims：归合；timing：申至酉窗内、主坐标酉日近中"
+ },
+ "P3-78f5d90c": {
+  "anon_id": "P3-78f5d90c",
+  "direction": 0.5,
+  "claims": 0.5,
+  "timing": 1,
+  "total": 2.0,
+  "pass": false,
+  "reason": "方向中：断可得利、实改买棉花亏折相反，仅分耗退减弱合；claims：亏折与得利降等不合；timing：结局无可核时点"
+ },
+ "P3-7aa96b6e": {
+  "anon_id": "P3-7aa96b6e",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：入宅无碍父母安合；claims：照行平安十七载合；timing：结局无可核时点"
+ },
+ "P3-7aadf66a": {
+  "anon_id": "P3-7aadf66a",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：久雪转晴合；claims：酉时雾散天开合晴；timing：数日窗内而主坐标午日未中"
+ },
+ "P3-7b100528": {
+  "anon_id": "P3-7b100528",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：武贵军阀首领、晚年落拓合；claims：桂系首领都督巡阅、下野合，峰值运未载；timing：运段坐标无从核对"
+ },
+ "P3-7b15313a": {
+  "anon_id": "P3-7b15313a",
+  "direction": 0,
+  "claims": 0,
+  "timing": 0,
+  "total": 0,
+  "pass": false,
+  "reason": "方向中：断父凶险归望渺、实二月得意而回相反；claims：凶讯断语全反；timing：主坐标戌月与二月回不合"
+ },
+ "P3-7b37fd2e": {
+  "anon_id": "P3-7b37fd2e",
+  "direction": 2,
+  "claims": 1,
+  "timing": 0.5,
+  "total": 3.5,
+  "pass": false,
+  "reason": "方向中：小舟可过关合；claims：过关合、先阻一程与并无阻滞不合；timing：主坐标子日与卯日过关不合"
+ },
+ "P3-7b93f2fa": {
+  "anon_id": "P3-7b93f2fa",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：会试可中合；claims：中探花合中且名次高、未预断；timing：结局无可核时点"
+ },
+ "P3-7bddbef0": {
+  "anon_id": "P3-7bddbef0",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1,
+  "total": 4.5,
+  "pass": true,
+  "reason": "方向中：可以补官合；claims：得升合、文书迟一步弱合；timing：两月宽窗近、主坐标戌月与冬月未中"
+ },
+ "P3-7da5a4da": {
+  "anon_id": "P3-7da5a4da",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 2,
+  "total": 5.5,
+  "pass": true,
+  "reason": "方向中：夫归合；claims：己酉日回合；timing：酉日主坐标命中"
+ },
+ "P3-7dfe80be": {
+  "anon_id": "P3-7dfe80be",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 1.5,
+  "total": 5.0,
+  "pass": true,
+  "reason": "方向中：女子折花坠伤合；claims：邻女折花坠地伤股逐项合、无大碍未载；timing：次晚与次日白天近、时段差半日"
+ },
+ "P3-7e1e5671": {
+  "anon_id": "P3-7e1e5671",
+  "direction": 2,
+  "claims": 1,
+  "timing": 1,
+  "total": 4,
+  "pass": true,
+  "reason": "方向中：延师不能久合；claims：子病故后辞师合不久、龃龉因未合；timing：一两月窗内午月、主坐标戌月未中"
+ },
+ "P3-7e420705": {
+  "anon_id": "P3-7e420705",
+  "direction": 2,
+  "claims": 1.5,
+  "timing": 0,
+  "total": 3.5,
+  "pass": false,
+  "reason": "方向中：开店不宜、开后亏损合；claims：病、财物被盗尽鸣官合受损；timing：日档酉日与六月八月事不合"
+ },
+ "P3-7ea0608f": {
+  "anon_id": "P3-7ea0608f",
+  "direction": 1.5,
+  "claims": 1,
+  "timing": 1,
+  "total": 3.5,
+  "pass": false,
+  "reason": "方向中：僧道清修一途合向；claims：入华山合清修、医药技艺未载、无厚财弱合；timing：结局无可核时点（仅十余载后）"
+ },
+ "P3-7ec0d075": {
+  "anon_id": "P3-7ec0d075",
+  "direction": 1.0,
+  "claims": 1.0,
+  "timing": 1.0,
+  "total": 3.0,
+  "pass": false,
+  "reason": "结局仅载劝散，经调停止争一面合，胜负得利未载；结局无可核时点"
+ },
+ "P3-7ec5dd04": {
+  "anon_id": "P3-7ec5dd04",
+  "direction": 1.5,
+  "claims": 1.0,
+  "timing": 0.0,
+  "total": 2.5,
+  "pass": false,
+  "reason": "不准复职合主断，然其后巳年补知府与议息不合；应期酉月与巳年不合"
+ },
+ "P3-7ee613cb": {
+  "anon_id": "P3-7ee613cb",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 0.0,
+  "total": 3.5,
+  "pass": false,
+  "reason": "开铺不利应验，伙计盗尽致分文不复合耗损盗失断；六月八月与辰日坐标不合"
+ },
+ "P3-7f8b3cdb": {
+  "anon_id": "P3-7f8b3cdb",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 2.0,
+  "total": 5.5,
+  "pass": true,
+  "reason": "临危得救合，亥日全生正中主坐标亥日"
+ },
+ "P3-7ff184f5": {
+  "anon_id": "P3-7ff184f5",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "夫归应验；结局仅载是日乃至，与巳日坐标无从对核"
+ },
+ "P3-80d34411": {
+  "anon_id": "P3-80d34411",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 0.0,
+  "total": 3.5,
+  "pass": false,
+  "reason": "父病不愈终绝合负向；然绝于下岁孟春，与本旬辰日坐标全不合"
+ },
+ "P3-812469b2": {
+  "anon_id": "P3-812469b2",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "商界领袖与子女三十余合富名多子断；卒年结局自载不详，结局无可核时点"
+ },
+ "P3-8157c944": {
+  "anon_id": "P3-8157c944",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "妻病不治本月亡合负向；丁巳日主坐标未获逐日核验，仅月内粗合"
+ },
+ "P3-82229817": {
+  "anon_id": "P3-82229817",
+  "direction": 1.5,
+  "claims": 1.5,
+  "timing": 0.5,
+  "total": 3.5,
+  "pass": false,
+  "reason": "宅安而一笔财物失窃合，贼果来偷；然时点二月壬辰日与正月戊申日坐标不合"
+ },
+ "P3-82f864d4": {
+  "anon_id": "P3-82f864d4",
+  "direction": 0.0,
+  "claims": 0.0,
+  "timing": 1.0,
+  "total": 1.0,
+  "pass": false,
+  "reason": "结局载婚事终成两方称意，与嫁不成数月冷散正反；结局无可核时点"
+ },
+ "P3-83373ba8": {
+  "anon_id": "P3-83373ba8",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "丑年发迹合正向；丑年在窗口内而未年主坐标未中"
+ },
+ "P3-837ef39d": {
+  "anon_id": "P3-837ef39d",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "所占之疾不死合可愈断（后溺水系别事）；愈之时点未载，结局无可核时点"
+ },
+ "P3-8380e56e": {
+  "anon_id": "P3-8380e56e",
+  "direction": 0.0,
+  "claims": 0.0,
+  "timing": 2.0,
+  "total": 2.0,
+  "pass": false,
+  "reason": "断可愈而果卒，方向断语全反；然卒于丁亥日，亥日坐标本身命中"
+ },
+ "P3-83d80dfb": {
+  "anon_id": "P3-83d80dfb",
+  "direction": 1.5,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.0,
+  "pass": true,
+  "reason": "因人言请告而去合口舌文书起事而仕变断；结局无可核时点"
+ },
+ "P3-849f2b93": {
+  "anon_id": "P3-849f2b93",
+  "direction": 0.0,
+  "claims": 0.0,
+  "timing": 0.0,
+  "total": 0.0,
+  "pass": false,
+  "reason": "断可解不至重害，果下狱至申年重刑，正反；酉日坐标亦不合"
+ },
+ "P3-8552bd8d": {
+  "anon_id": "P3-8552bd8d",
+  "direction": 0.0,
+  "claims": 0.0,
+  "timing": 0.0,
+  "total": 0.0,
+  "pass": false,
+  "reason": "断子病危重难愈，果午日起床病愈，正反；亥日危期坐标不合"
+ },
+ "P3-85a5fabb": {
+  "anon_id": "P3-85a5fabb",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "子病无事合可愈断；结局无可核时点，乙巳日坐标未核"
+ },
+ "P3-8687706f": {
+  "anon_id": "P3-8687706f",
+  "direction": 1.5,
+  "claims": 1.0,
+  "timing": 0.0,
+  "total": 2.5,
+  "pass": false,
+  "reason": "寿终合寿促负向，然四月癸卯日故与亥年主坐标全不合"
+ },
+ "P3-886dcb04": {
+  "anon_id": "P3-886dcb04",
+  "direction": 0.5,
+  "claims": 0.5,
+  "timing": 1.0,
+  "total": 2.0,
+  "pass": false,
+  "reason": "马多死仅存廿八匹、幸得价不然大亏，得利断仅边缘成立；结局无可核时点"
+ },
+ "P3-893ff9ca": {
+  "anon_id": "P3-893ff9ca",
+  "direction": 0.0,
+  "claims": 1.0,
+  "timing": 0.0,
+  "total": 1.0,
+  "pass": false,
+  "reason": "断可治非必死，果次年八月十四日亡；胸部心口痛一面合病位断"
+ },
+ "P3-89ea866a": {
+  "anon_id": "P3-89ea866a",
+  "direction": 0.0,
+  "claims": 0.0,
+  "timing": 1.0,
+  "total": 1.0,
+  "pass": false,
+  "reason": "断鸡多死，果鸡不死，正反，妻病作非所断；结局无可核时点"
+ },
+ "P3-8a191443": {
+  "anon_id": "P3-8a191443",
+  "direction": 1.0,
+  "claims": 1.0,
+  "timing": 2.0,
+  "total": 4.0,
+  "pass": true,
+  "reason": "妻卒于丙子年正中子年寿限主坐标；然长寿主断本身未获核验"
+ },
+ "P3-8ab71f33": {
+  "anon_id": "P3-8ab71f33",
+  "direction": 2.0,
+  "claims": 1.0,
+  "timing": 1.0,
+  "total": 4.0,
+  "pass": true,
+  "reason": "自病不久愈合主断；然妻九月死与妻仅受累断不合；愈时点未载，结局无可核时点"
+ },
+ "P3-8b45ec2c": {
+  "anon_id": "P3-8b45ec2c",
+  "direction": 1.5,
+  "claims": 1.0,
+  "timing": 1.0,
+  "total": 3.5,
+  "pass": false,
+  "reason": "父次日苏醒不药而愈与提气向愈粗合，然不药而愈使参效未证；未日主坐标未核"
+ },
+ "P3-8be725c7": {
+  "anon_id": "P3-8be725c7",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "财政首长级与晚年退居美国合大贵显断；运段峰值坐标无从对核"
+ },
+ "P3-8c03c21b": {
+  "anon_id": "P3-8c03c21b",
+  "direction": 0.5,
+  "claims": 1.0,
+  "timing": 0.0,
+  "total": 1.5,
+  "pass": false,
+  "reason": "所覆乃玉绦环而非炊食器物，物类错；破损带伤一面合；预测断语本身无应期"
+ },
+ "P3-8c492a0c": {
+  "anon_id": "P3-8c492a0c",
+  "direction": 1.0,
+  "claims": 1.0,
+  "timing": 1.0,
+  "total": 3.0,
+  "pass": false,
+  "reason": "遇兵不能进合受阻一面，然及京授巡抚与不得新任实职反，母寿终与病重非寿终反；行程结局无可核时点"
+ },
+ "P3-8c6a4eeb": {
+  "anon_id": "P3-8c6a4eeb",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "少年泳坛冠军、晚景飘零合早盛晚淡之弧；运段坐标无从逐项对核"
+ },
+ "P3-8c846401": {
+  "anon_id": "P3-8c846401",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "一冬果获大利合获利断，量级大于所断中等；结局无可核时点"
+ },
+ "P3-8c900cbe": {
+  "anon_id": "P3-8c900cbe",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 0.0,
+  "total": 3.5,
+  "pass": false,
+  "reason": "升迁可成合；果升卯月，在酉至戌月窗口之外，主坐标不中"
+ },
+ "P3-8cab3e20": {
+  "anon_id": "P3-8cab3e20",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "reason": "南旋、锢南内、夺门复辟三事全合，结局并载年月日悉符其占"
+ },
+ "P3-8d87d394": {
+  "anon_id": "P3-8d87d394",
+  "direction": 0.0,
+  "claims": 0.0,
+  "timing": 1.0,
+  "total": 1.0,
+  "pass": false,
+  "reason": "断特朗普连任获胜，果败选离任，正反；结局无可核时点（就断语落定日而言）"
+ },
+ "P3-8f0783bc": {
+  "anon_id": "P3-8f0783bc",
+  "direction": 0.0,
+  "claims": 0.0,
+  "timing": 0.0,
+  "total": 0.0,
+  "pass": false,
+  "reason": "断可愈，果死于戌月丁亥日，正反；未日坐标不合"
+ },
+ "P3-8f686d62": {
+  "anon_id": "P3-8f686d62",
+  "direction": 0.0,
+  "claims": 0.0,
+  "timing": 1.0,
+  "total": 1.0,
+  "pass": false,
+  "reason": "断将和好，果生离，正反；结局无可核时点"
+ },
+ "P3-8fcbdd68": {
+  "anon_id": "P3-8fcbdd68",
+  "direction": 0.0,
+  "claims": 0.0,
+  "timing": 0.0,
+  "total": 0.0,
+  "pass": false,
+  "reason": "断借贷难成，果得财，正反；辰日与卯日主坐标不合"
+ },
+ "P3-901da5d7": {
+  "anon_id": "P3-901da5d7",
+  "direction": 0.0,
+  "claims": 0.0,
+  "timing": 1.0,
+  "total": 1.0,
+  "pass": false,
+  "reason": "主问次女无事，与痘病凶险防转重正反；结局无可核时点"
+ },
+ "P3-90599b51": {
+  "anon_id": "P3-90599b51",
+  "direction": 1.5,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.0,
+  "pass": true,
+  "reason": "长子被掳死于非命合长子应重断，弟得归与弟亦受克不合；结局无可核时点"
+ },
+ "P3-90b334a8": {
+  "anon_id": "P3-90b334a8",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "伪满虚位、终为平民、寿六十一合贵极不能守断；子女病位未核，运年坐标无从对核"
+ },
+ "P3-9118b0a4": {
+  "anon_id": "P3-9118b0a4",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 0.5,
+  "total": 4.0,
+  "pass": true,
+  "reason": "升山东后未及一载复任江西，升迁与反复两面合；本月得报早于巳月主坐标"
+ },
+ "P3-91295391": {
+  "anon_id": "P3-91295391",
+  "direction": 0.0,
+  "claims": 0.0,
+  "timing": 1.0,
+  "total": 1.0,
+  "pass": false,
+  "reason": "断克林顿胜，果特朗普胜选，正反；结局无可核时点"
+ },
+ "P3-91494237": {
+  "anon_id": "P3-91494237",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 0.0,
+  "total": 3.5,
+  "pass": false,
+  "reason": "父五月方归合将归断；然归期与旬内戌日主坐标全不合"
+ },
+ "P3-91737558": {
+  "anon_id": "P3-91737558",
+  "direction": 1.0,
+  "claims": 1.0,
+  "timing": 1.0,
+  "total": 3.0,
+  "pass": false,
+  "reason": "产母平安合胎安断，然生女与生男断反；壬申日得申支而申月主坐标仅部分合"
+ },
+ "P3-92e3bda3": {
+  "anon_id": "P3-92e3bda3",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "夫死合病难愈危向断；结局无可核时点，未日坐标未核"
+ },
+ "P3-9550ff0c": {
+  "anon_id": "P3-9550ff0c",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "reason": "2020败选与年中罢免下台两断全合，元月与年中坐标皆中"
+ },
+ "P3-95b2a54c": {
+  "anon_id": "P3-95b2a54c",
+  "direction": 1.5,
+  "claims": 1.0,
+  "timing": 0.0,
+  "total": 2.5,
+  "pass": false,
+  "reason": "被论宦囊消索合官运不佳，然在巳年而非未月主坐标"
+ },
+ "P3-96cf8887": {
+  "anon_id": "P3-96cf8887",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 2.0,
+  "total": 5.5,
+  "pass": true,
+  "reason": "本日见官责杖二十合当日受责断，子日当日主坐标命中"
+ },
+ "P3-96ee10d7": {
+  "anon_id": "P3-96ee10d7",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "果于本日愈合可愈断；然愈在本日而非辰日主坐标，窗口内早应"
+ },
+ "P3-9811f180": {
+  "anon_id": "P3-9811f180",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 0.0,
+  "total": 3.5,
+  "pass": false,
+  "reason": "子病不愈而亡合负向；癸亥日与寅日主坐标不合"
+ },
+ "P3-985965b0": {
+  "anon_id": "P3-985965b0",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "申年八月寻父回家合可寻回断；申支合而年与日尺度异，主坐标部分合"
+ },
+ "P3-98871ef7": {
+  "anon_id": "P3-98871ef7",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 1.5,
+  "total": 5.5,
+  "pass": true,
+  "reason": "赖萧一组当选、他组落败全合；投票日坐标与事件日合，结局文未重载日期"
+ },
+ "P3-992d03c3": {
+  "anon_id": "P3-992d03c3",
+  "direction": 1.0,
+  "claims": 1.0,
+  "timing": 0.0,
+  "total": 2.0,
+  "pass": false,
+  "reason": "妻三月去世，病忧一面合然有忧无危断被结局推翻；戌日坐标不合"
+ },
+ "P3-9967a470": {
+  "anon_id": "P3-9967a470",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "地产大王、无亲生子女多义子合巨富断；寿约六十余与史实不合，峰值运无从对核"
+ },
+ "P3-996f243e": {
+  "anon_id": "P3-996f243e",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 0.5,
+  "total": 4.0,
+  "pass": true,
+  "reason": "谒贵果得见合；丙子日与酉日主坐标不合，仅窗口内近应"
+ },
+ "P3-99ab37c2": {
+  "anon_id": "P3-99ab37c2",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "reason": "元月十一日败选与六月罢免通过两断全合，主坐标双中"
+ },
+ "P3-9a723470": {
+  "anon_id": "P3-9a723470",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "Waller一方胜、Hopton败合；交战分晓在前一日与当日坐标部分合"
+ },
+ "P3-9a983ccd": {
+  "anon_id": "P3-9a983ccd",
+  "direction": 1.5,
+  "claims": 1.0,
+  "timing": 1.0,
+  "total": 3.5,
+  "pass": false,
+  "reason": "父终绝于亥月合不治终局，然目下果愈与近段危笃不合；亥支合而月日尺度异"
+ },
+ "P3-9ab28abd": {
+  "anon_id": "P3-9ab28abd",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 0.0,
+  "total": 3.5,
+  "pass": false,
+  "reason": "巳年承袭世职合将来有官断；卯年主坐标不中"
+ },
+ "P3-9c25f653": {
+  "anon_id": "P3-9c25f653",
+  "direction": 1.5,
+  "claims": 1.0,
+  "timing": 1.0,
+  "total": 3.5,
+  "pass": false,
+  "reason": "服药一夜次日愈合转安，然所用药与附子对应未明；三日窗口内应、子日主坐标未核"
+ },
+ "P3-9c2b1566": {
+  "anon_id": "P3-9c2b1566",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 0.0,
+  "total": 3.5,
+  "pass": false,
+  "reason": "甲午榜中式合功名可成断；寅年主坐标不中"
+ },
+ "P3-9ccc56e3": {
+  "anon_id": "P3-9ccc56e3",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "至扬州遇抢、抽兵而退合勤王不利受挫断；结局无可核时点"
+ },
+ "P3-9d222f52": {
+  "anon_id": "P3-9d222f52",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "父数日内辞世经承接标注果如言合寿尽断；辛日主坐标未逐日核验"
+ },
+ "P3-9e5baded": {
+  "anon_id": "P3-9e5baded",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 0.0,
+  "total": 3.5,
+  "pass": false,
+  "reason": "卯年入临巳年初任县令合功名出仕断；申年主坐标不中"
+ },
+ "P3-9e9d68aa": {
+  "anon_id": "P3-9e9d68aa",
+  "direction": 2.0,
+  "claims": 1.0,
+  "timing": 1.0,
+  "total": 4.0,
+  "pass": true,
+  "reason": "果被妇人执罪合官讼有祸断；破财一面未载；结局无可核时点"
+ },
+ "P3-9efebcbe": {
+  "anon_id": "P3-9efebcbe",
+  "direction": 2.0,
+  "claims": 1.0,
+  "timing": 1.0,
+  "total": 4.0,
+  "pass": true,
+  "reason": "连生二子合有子断；木命之女一面未载；结局无可核时点"
+ },
+ "P3-9f1bea5e": {
+  "anon_id": "P3-9f1bea5e",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.5,
+  "total": 5.0,
+  "pass": true,
+  "reason": "自缢煤山、寿三十余、国破身亡合凶终断；乙酉运坐标与殁年粗合"
+ },
+ "P3-9f92b63c": {
+  "anon_id": "P3-9f92b63c",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 0.5,
+  "total": 4.0,
+  "pass": true,
+  "reason": "子丁卯日至合必归断；酉日主坐标不中，仅旬内近应"
+ },
+ "P3-9fe2695b": {
+  "anon_id": "P3-9fe2695b",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 0.0,
+  "total": 3.5,
+  "pass": false,
+  "reason": "果卒于卯年合寿限负向；午年主坐标不中"
+ },
+ "P3-a0112a80": {
+  "anon_id": "P3-a0112a80",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "其女不死合女病可愈主断（中男病亡系旁及）；女愈时点未载，结局无可核时点"
+ },
+ "P3-a0349e93": {
+  "anon_id": "P3-a0349e93",
+  "direction": 1.5,
+  "claims": 1.0,
+  "timing": 0.0,
+  "total": 2.5,
+  "pass": false,
+  "reason": "丙戌年发乡科合功名可成，然非占问当年；酉月主坐标不合"
+ },
+ "P3-a07e1147": {
+  "anon_id": "P3-a07e1147",
+  "direction": 2.0,
+  "claims": 1.0,
+  "timing": 1.0,
+  "total": 4.0,
+  "pass": true,
+  "reason": "今日还银合，然本日仅还一半、余于乙酉日，与今日落实断部分合"
+ },
+ "P3-a0c70ecb": {
+  "anon_id": "P3-a0c70ecb",
+  "direction": 2.0,
+  "claims": 1.0,
+  "timing": 1.0,
+  "total": 4.0,
+  "pass": true,
+  "reason": "中途发财合可得财断；利薄分耗一面未载；结局无可核时点"
+ },
+ "P3-a13a455f": {
+  "anon_id": "P3-a13a455f",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "皓首无成合终身无功名断；结局无可核时点"
+ },
+ "P3-a1f2a26c": {
+  "anon_id": "P3-a1f2a26c",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "雨至己酉日方霁合数日后转晴断；酉支合而丁酉主坐标干支未全中"
+ },
+ "P3-a2711394": {
+  "anon_id": "P3-a2711394",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "官至副总统行政院长正中副首脑级上限断；运段峰值坐标无从对核"
+ },
+ "P3-a4632884": {
+  "anon_id": "P3-a4632884",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "reason": "女性政务司长一系以777票于3月26日当选特首，全合"
+ },
+ "P3-a46a304d": {
+  "anon_id": "P3-a46a304d",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.5,
+  "total": 5.0,
+  "pass": true,
+  "reason": "果得于丑日，丑支与丑月主坐标合、冬窗内迟得亦合"
+ },
+ "P3-a69e9350": {
+  "anon_id": "P3-a69e9350",
+  "direction": 0.0,
+  "claims": 0.0,
+  "timing": 1.0,
+  "total": 1.0,
+  "pass": false,
+  "reason": "仅撤回剿贼并载退位，与建功得地而还正反；结局无可核时点"
+ },
+ "P3-a6ba8f15": {
+  "anon_id": "P3-a6ba8f15",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 0.5,
+  "total": 4.0,
+  "pass": true,
+  "reason": "父己亥日到家合能归断；未日主坐标不中"
+ },
+ "P3-a80127fc": {
+  "anon_id": "P3-a80127fc",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 0.0,
+  "total": 3.5,
+  "pass": false,
+  "reason": "尸首终浮起得见合可见断；然在丑月壬申日，远在窗口之外，寅日坐标不中"
+ },
+ "P3-a86e4648": {
+  "anon_id": "P3-a86e4648",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "子年建功卯年得意而归合在世与卯支归讯坐标，然归以年计非月计"
+ },
+ "P3-a8ac4a1a": {
+  "anon_id": "P3-a8ac4a1a",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "reason": "工党压倒性胜选、斯塔默任首相合，7月4日选举日坐标命中"
+ },
+ "P3-a90d4639": {
+  "anon_id": "P3-a90d4639",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "穆姜薨于东宫终未得出合幽禁终身断；身终年段坐标无具体年可核"
+ },
+ "P3-a919228b": {
+  "anon_id": "P3-a919228b",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "田氏后嗣终代齐有国合后嗣兴起断；敬仲本人宾王一面未载，年档坐标无从对核"
+ },
+ "P3-a91ec67d": {
+  "anon_id": "P3-a91ec67d",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.5,
+  "total": 5.0,
+  "pass": true,
+  "reason": "果三日死合大凶三日内死断；庚寅日主坐标未逐日核验，窗口命中"
+ },
+ "P3-a9b317b7": {
+  "anon_id": "P3-a9b317b7",
+  "direction": 0.0,
+  "claims": 0.0,
+  "timing": 1.0,
+  "total": 1.0,
+  "pass": false,
+  "reason": "断父病危重难愈，果无事，正反；结局无可核时点"
+ },
+ "P3-a9b4a40c": {
+  "anon_id": "P3-a9b4a40c",
+  "direction": 0.0,
+  "claims": 0.0,
+  "timing": 0.0,
+  "total": 0.0,
+  "pass": false,
+  "reason": "断功名难成无下文，果次年冬推补兵部职，正反；卯月坐标不合"
+ },
+ "P3-a9b87300": {
+  "anon_id": "P3-a9b87300",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "获奇功功名保全合可保断；结局无可核时点，戌月坐标未核"
+ },
+ "P3-aac82a64": {
+  "anon_id": "P3-aac82a64",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 1.5,
+  "total": 5.5,
+  "pass": true,
+  "reason": "蔡英文赢初选并大胜当选合；初选年中与元月当选坐标与事件合，结局文未重载日期"
+ },
+ "P3-aade1fd7": {
+  "anon_id": "P3-aade1fd7",
+  "direction": 1.5,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.0,
+  "pass": true,
+  "reason": "一一果然总承且改向后葬后大发合吉断；未年主坐标未核，结局无可核时点"
+ },
+ "P3-aafdef09": {
+  "anon_id": "P3-aafdef09",
+  "direction": 1.0,
+  "claims": 1.0,
+  "timing": 1.0,
+  "total": 3.0,
+  "pass": false,
+  "reason": "其人后以失城逮问合有案在身一面，阴私盗失一面未证；结局无可核时点"
+ },
+ "P3-ab48b0ed": {
+  "anon_id": "P3-ab48b0ed",
+  "direction": 1.5,
+  "claims": 1.0,
+  "timing": 0.5,
+  "total": 3.0,
+  "pass": false,
+  "reason": "辰年缺归午年又官侧证父平安，然辰支以年应非日、且久任无变动断与归官不合"
+ },
+ "P3-ab4fdffb": {
+  "anon_id": "P3-ab4fdffb",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "危机后存续而未再现大振合难复旧盛断；结局无可核时点（就运段坐标而言）"
+ },
+ "P3-ac845e3e": {
+  "anon_id": "P3-ac845e3e",
+  "direction": 2.0,
+  "claims": 1.0,
+  "timing": 1.0,
+  "total": 4.0,
+  "pass": true,
+  "reason": "后三日寻得马合可寻回断；东南方向一面未载；巳日主坐标未逐日核验"
+ },
+ "P3-ad37c22e": {
+  "anon_id": "P3-ad37c22e",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "称雄东北、皇姑屯被炸身亡合一方统帅暴终断；癸酉运坐标无从对核"
+ },
+ "P3-ae0e8def": {
+  "anon_id": "P3-ae0e8def",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 2.0,
+  "total": 5.5,
+  "pass": true,
+  "reason": "次日卯时云开日出，次日即子日主坐标，晴断命中"
+ },
+ "P3-b018bf8e": {
+  "anon_id": "P3-b018bf8e",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "次日用针而愈合危症可愈断；申日主坐标未逐日核验，旬内近应"
+ },
+ "P3-b04424af": {
+  "anon_id": "P3-b04424af",
+  "direction": 1.5,
+  "claims": 1.0,
+  "timing": 1.0,
+  "total": 3.5,
+  "pass": false,
+  "reason": "逾三四日亢旱难用合禾受灾负向，然收成终局未载；月内时点粗合"
+ },
+ "P3-b0503c62": {
+  "anon_id": "P3-b0503c62",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "彼曰果一一无错总承合吉多于凶可用断，然断面未分载；结局无可核时点"
+ },
+ "P3-b16119e6": {
+  "anon_id": "P3-b16119e6",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "后果削职合大计不利防降谪断；结局无可核时点，亥月坐标未核"
+ },
+ "P3-b22a9fb2": {
+  "anon_id": "P3-b22a9fb2",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.5,
+  "total": 5.0,
+  "pass": true,
+  "reason": "次日巳时允婚、夫妻白头合可成断；次日在窗口内近戌日主坐标"
+ },
+ "P3-b2870f98": {
+  "anon_id": "P3-b2870f98",
+  "direction": 2.0,
+  "claims": 1.0,
+  "timing": 1.0,
+  "total": 4.0,
+  "pass": true,
+  "reason": "随营立功官至元戎将军合有功名断，然远超所断中等守成量级；结局无可核时点"
+ },
+ "P3-b2929bf2": {
+  "anon_id": "P3-b2929bf2",
+  "direction": 1.0,
+  "claims": 1.0,
+  "timing": 1.5,
+  "total": 3.5,
+  "pass": false,
+  "reason": "女寅日到合到京与寅日坐标，然雪中被劫银与路途平安无劫断反"
+ },
+ "P3-b2a1c609": {
+  "anon_id": "P3-b2a1c609",
+  "direction": 1.5,
+  "claims": 1.0,
+  "timing": 0.0,
+  "total": 2.5,
+  "pass": false,
+  "reason": "父果于寅年起用合起用终局，然远迟于半年亥月主坐标"
+ },
+ "P3-b2b8d62f": {
+  "anon_id": "P3-b2b8d62f",
+  "direction": 0.5,
+  "claims": 0.5,
+  "timing": 1.0,
+  "total": 2.0,
+  "pass": false,
+  "reason": "结局仅载母在外平安，来否未载，所断不来一面无从核验；结局无可核时点"
+ },
+ "P3-b2fb3975": {
+  "anon_id": "P3-b2fb3975",
+  "direction": 1.5,
+  "claims": 1.0,
+  "timing": 1.0,
+  "total": 3.5,
+  "pass": false,
+  "reason": "五人被盗而死合行有劫损负向，然死与所断险量止于伤损反；结局无可核时点"
+ },
+ "P3-b37783c7": {
+  "anon_id": "P3-b37783c7",
+  "direction": 0.5,
+  "claims": 0.5,
+  "timing": 1.0,
+  "total": 2.0,
+  "pass": false,
+  "reason": "结局未载和好面，所断和好得济无从核验；结局无可核时点"
+ },
+ "P3-b52217d2": {
+  "anon_id": "P3-b52217d2",
+  "direction": 0.5,
+  "claims": 0.5,
+  "timing": 1.0,
+  "total": 2.0,
+  "pass": false,
+  "reason": "婢已堕于井，北方近水匿处断仅近水一面松合、匿藏难获本质不合；结局无可核时点"
+ },
+ "P3-b5722141": {
+  "anon_id": "P3-b5722141",
+  "direction": 1.5,
+  "claims": 1.5,
+  "timing": 1.5,
+  "total": 4.5,
+  "pass": true,
+  "reason": "三周内应验、假朋友被揭合得职经阻断；得职以总承语带过，数周窗口合"
+ },
+ "P3-b61cd23b": {
+  "anon_id": "P3-b61cd23b",
+  "direction": 1.0,
+  "claims": 1.0,
+  "timing": 1.0,
+  "total": 3.0,
+  "pass": false,
+  "reason": "果取超等补廪，入等第合而难居一等断被超等推翻；结局无可核时点"
+ },
+ "P3-b625fe47": {
+  "anon_id": "P3-b625fe47",
+  "direction": 0.0,
+  "claims": 0.0,
+  "timing": 1.0,
+  "total": 1.0,
+  "pass": false,
+  "reason": "断哈里斯胜，果特朗普明确胜出，正反；结局无可核时点"
+ },
+ "P3-b694dd04": {
+  "anon_id": "P3-b694dd04",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.5,
+  "total": 5.0,
+  "pass": true,
+  "reason": "后果午时寿终合难愈断，午支与午日主坐标合、时日尺度异"
+ },
+ "P3-b72814ff": {
+  "anon_id": "P3-b72814ff",
+  "direction": 0.0,
+  "claims": 0.0,
+  "timing": 0.0,
+  "total": 0.0,
+  "pass": false,
+  "reason": "断文书办不成，果于子日成就，正反；午日坐标不合"
+ },
+ "P3-b776e7ca": {
+  "anon_id": "P3-b776e7ca",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "葬后未出三年二子皆发科甲合后代福泽断；戌年主坐标未核，三年窗内应"
+ },
+ "P3-b790ca4f": {
+  "anon_id": "P3-b790ca4f",
+  "direction": 1.5,
+  "claims": 1.0,
+  "timing": 0.5,
+  "total": 3.0,
+  "pass": false,
+  "reason": "未及成婚终不成合主断，然聘定于四月与难缔合部分反；卯月主坐标未中"
+ },
+ "P3-b7f02c47": {
+  "anon_id": "P3-b7f02c47",
+  "direction": 0.0,
+  "claims": 0.0,
+  "timing": 1.0,
+  "total": 1.0,
+  "pass": false,
+  "reason": "断终身财福中平富足，果十余载贫寒淡泊，正反；结局无可核时点"
+ },
+ "P3-b8677dec": {
+  "anon_id": "P3-b8677dec",
+  "direction": 1.5,
+  "claims": 1.0,
+  "timing": 0.5,
+  "total": 3.0,
+  "pass": false,
+  "reason": "五月下狱合自陈难遂负向且量级更重；巳日主坐标未中，仅月内近应"
+ },
+ "P3-b95abc5b": {
+  "anon_id": "P3-b95abc5b",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "题果不准行合具题不成断；结局无可核时点，亥月坐标未核"
+ },
+ "P3-b98a7729": {
+  "anon_id": "P3-b98a7729",
+  "direction": 0.0,
+  "claims": 0.0,
+  "timing": 0.0,
+  "total": 0.0,
+  "pass": false,
+  "reason": "断子痘终可愈，果戊申日病变不治，正反；甲寅日坐标不合"
+ },
+ "P3-b99570bb": {
+  "anon_id": "P3-b99570bb",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "reason": "元卒得立为嗣为卫灵公合立元不立絷断；议立当期坐标无日期可核"
+ },
+ "P3-ba21fff6": {
+  "anon_id": "P3-ba21fff6",
+  "direction": 1.0,
+  "claims": 1.0,
+  "timing": 0.5,
+  "total": 2.5,
+  "pass": false,
+  "reason": "目疾几近失明与患病住院与病伤目疾主题合，然证实年份1972、1982与所断1983、1984错位"
+ },
+ "P3-bbd450f4": {
+  "anon_id": "P3-bbd450f4",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 0.5,
+  "total": 4.0,
+  "pass": true,
+  "reason": "及冬病愈合妻病可愈断；然冬以月计远迟于数日内丑日主坐标"
+ },
+ "P3-bbe8b290": {
+  "anon_id": "P3-bbe8b290",
+  "direction": 0.0,
+  "claims": 0.0,
+  "timing": 0.0,
+  "total": 0.0,
+  "pass": false,
+  "reason": "断病可愈，果卒于丑月，正反；未日坐标不合"
+ },
+ "P3-bc370774": {
+  "anon_id": "P3-bc370774",
+  "direction": 1.5,
+  "claims": 1.0,
+  "timing": 0.5,
+  "total": 3.0,
+  "pass": false,
+  "reason": "援例文书实收俱到，成面方向合；等级未核，申日与寅月主坐标不合"
+ },
+ "P3-bc4510ff": {
+  "anon_id": "P3-bc4510ff",
+  "direction": 1.5,
+  "claims": 1.0,
+  "timing": 0.5,
+  "total": 3.0,
+  "pass": false,
+  "reason": "病伤住院与交通撞伤合负向主线；肝炎病种与癸酉年坐标未确合"
+ },
+ "P3-bc546893": {
+  "anon_id": "P3-bc546893",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "婢由蒋姓兄弟送归，方向与引带断合；南方、午日未载，结局无可核时点"
+ },
+ "P3-bc7530cc": {
+  "anon_id": "P3-bc7530cc",
+  "direction": 1.0,
+  "claims": 1.0,
+  "timing": 1.0,
+  "total": 3.0,
+  "pass": false,
+  "reason": "近处劫事与获贼合有扰一面，虚惊无大祸不合；次日在三日窗内"
+ },
+ "P3-bcbb253b": {
+  "anon_id": "P3-bcbb253b",
+  "direction": 1.5,
+  "claims": 1.0,
+  "timing": 1.0,
+  "total": 3.5,
+  "pass": false,
+  "reason": "家眷平安合，避向东与南断不合、弟半途遭害未断；结局无可核时点"
+ },
+ "P3-bdeab617": {
+  "anon_id": "P3-bdeab617",
+  "direction": 1.5,
+  "claims": 1.0,
+  "timing": 0.0,
+  "total": 2.5,
+  "pass": false,
+  "reason": "妻病渐解方向合而未全愈；子月壬辰与寅日愈坐标不合"
+ },
+ "P3-be5629b2": {
+  "anon_id": "P3-be5629b2",
+  "direction": 1.5,
+  "claims": 1.5,
+  "timing": 0.5,
+  "total": 3.5,
+  "pass": false,
+  "reason": "虽危不死及冬而愈终局合；数日内寅日应期明显迟误"
+ },
+ "P3-be8ea203": {
+  "anon_id": "P3-be8ea203",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "reason": "研究院任职中年遇刺身亡，1933癸酉年与横险主坐标确合"
+ },
+ "P3-bf1806e6": {
+  "anon_id": "P3-bf1806e6",
+  "direction": 1.0,
+  "claims": 0.5,
+  "timing": 1.0,
+  "total": 2.5,
+  "pass": false,
+  "reason": "店事中途而止与耗损方向部分合，盈亏未载；结局无可核时点"
+ },
+ "P3-bf3a693a": {
+  "anon_id": "P3-bf3a693a",
+  "direction": 2.0,
+  "claims": 1.0,
+  "timing": 0.0,
+  "total": 3.0,
+  "pass": false,
+  "reason": "产事成合；当日亥时断与次日申时产不合"
+ },
+ "P3-bfb02bda": {
+  "anon_id": "P3-bfb02bda",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "妻病愈合；甲寅日较卯日主坐标先愈一日，近合"
+ },
+ "P3-bff7f688": {
+  "anon_id": "P3-bff7f688",
+  "direction": 0.0,
+  "claims": 0.0,
+  "timing": 0.0,
+  "total": 0.0,
+  "pass": false,
+  "reason": "断本年无应、巳年防限，结局本年冬至日终，方向与应期俱反"
+ },
+ "P3-c0bb7c54": {
+  "anon_id": "P3-c0bb7c54",
+  "direction": 0.0,
+  "claims": 0.0,
+  "timing": 0.0,
+  "total": 0.0,
+  "pass": false,
+  "reason": "断师病难愈巳日凶，结局丑日不知、寅日乃愈，俱反"
+ },
+ "P3-c0f8d475": {
+  "anon_id": "P3-c0f8d475",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "服药便醒与可服见效合；结局无可核时点"
+ },
+ "P3-c11aa04f": {
+  "anon_id": "P3-c11aa04f",
+  "direction": 0.5,
+  "claims": 0.5,
+  "timing": 0.0,
+  "total": 1.0,
+  "pass": false,
+  "reason": "母保一面合，子难出断反，次日卯时母子平安；丑日坐标不合"
+ },
+ "P3-c182c3e5": {
+  "anon_id": "P3-c182c3e5",
+  "direction": 1.0,
+  "claims": 0.5,
+  "timing": 1.0,
+  "total": 2.5,
+  "pass": false,
+  "reason": "靠文书命贴度日部分合，可成家得财与财不聚不合；结局无可核时点"
+ },
+ "P3-c1a0c7ee": {
+  "anon_id": "P3-c1a0c7ee",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "照壁大树宅碍点与中经魁功名动俱合；结局无可核时点"
+ },
+ "P3-c1fdd9e4": {
+  "anon_id": "P3-c1fdd9e4",
+  "direction": 1.0,
+  "claims": 0.5,
+  "timing": 1.0,
+  "total": 2.5,
+  "pass": false,
+  "reason": "补官间接对应、中否未明载，不中未确证；结局无可核时点"
+ },
+ "P3-c28b4b19": {
+  "anon_id": "P3-c28b4b19",
+  "direction": 1.5,
+  "claims": 1.0,
+  "timing": 0.5,
+  "total": 3.0,
+  "pass": false,
+  "reason": "弟讼不利负向合，重刑重于所断量级；午年甲月与午月尺度不合"
+ },
+ "P3-c429674a": {
+  "anon_id": "P3-c429674a",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "reason": "特朗普当选、选举人票胜出与11月5日坐标全合"
+ },
+ "P3-c4634ae5": {
+  "anon_id": "P3-c4634ae5",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "reason": "蔡英文连任与2020年1月11日坐标合，民进党过半亦合进程"
+ },
+ "P3-c4b095f9": {
+  "anon_id": "P3-c4b095f9",
+  "direction": 1.5,
+  "claims": 1.0,
+  "timing": 0.0,
+  "total": 2.5,
+  "pass": false,
+  "reason": "寿限负向合；卒于戌年与未年主坐标不合"
+ },
+ "P3-c4f596ea": {
+  "anon_id": "P3-c4f596ea",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "驻外大使级仕途贵显合；运段峰值无逐年可核点，timing记1"
+ },
+ "P3-c5264f6d": {
+  "anon_id": "P3-c5264f6d",
+  "direction": 0.0,
+  "claims": 0.0,
+  "timing": 1.0,
+  "total": 1.0,
+  "pass": false,
+  "reason": "求财可得与求之不得正反；结局无可核时点"
+ },
+ "P3-c6156f02": {
+  "anon_id": "P3-c6156f02",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "reason": "拜登7月21日退选、特朗普11月5日胜选，两坐标全合"
+ },
+ "P3-c781d7e6": {
+  "anon_id": "P3-c781d7e6",
+  "direction": 1.5,
+  "claims": 1.5,
+  "timing": 2.0,
+  "total": 5.0,
+  "pass": true,
+  "reason": "爱尔兰兵来与王后7月14日相会合，王后军弱一面部分合"
+ },
+ "P3-c79612b4": {
+  "anon_id": "P3-c79612b4",
+  "direction": 0.0,
+  "claims": 0.0,
+  "timing": 0.0,
+  "total": 0.0,
+  "pass": false,
+  "reason": "断差不得，结局三日内得差，方向与时点俱反"
+ },
+ "P3-c7aedb5c": {
+  "anon_id": "P3-c7aedb5c",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 2.0,
+  "total": 5.5,
+  "pass": true,
+  "reason": "姑病卒合，乙亥日与亥日主坐标合"
+ },
+ "P3-c816ff3d": {
+  "anon_id": "P3-c816ff3d",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "reason": "官至行政院长等院阁级与寿六十余合；峰值运无可核时点，timing记1"
+ },
+ "P3-c83473d4": {
+  "anon_id": "P3-c83473d4",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 1.5,
+  "total": 5.5,
+  "pass": true,
+  "reason": "西征败、9月2日投降屈服合；挫败点在出征季内近合"
+ },
+ "P3-c8f72712": {
+  "anon_id": "P3-c8f72712",
+  "direction": 0.0,
+  "claims": 0.0,
+  "timing": 0.0,
+  "total": 0.0,
+  "pass": false,
+  "reason": "断婚不成，结局午日允婚，俱反"
+ },
+ "P3-c955959f": {
+  "anon_id": "P3-c955959f",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "登乡榜合，次岁联捷超出所断；酉月榜期未逐字核，timing记1"
+ },
+ "P3-c9f78ef1": {
+  "anon_id": "P3-c9f78ef1",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "国防部长级贵显合，寿九十上下与1983卒龄不尽合；运峰无可核点，timing记1"
+ },
+ "P3-ca08a8d1": {
+  "anon_id": "P3-ca08a8d1",
+  "direction": 1.5,
+  "claims": 1.0,
+  "timing": 1.0,
+  "total": 3.5,
+  "pass": false,
+  "reason": "全季遇雨妨作与棉作受抑方向合，收成未直接载；一月窗与全季尺度不尽合"
+ },
+ "P3-cb3c781a": {
+  "anon_id": "P3-cb3c781a",
+  "direction": 1.0,
+  "claims": 0.5,
+  "timing": 1.0,
+  "total": 2.5,
+  "pass": false,
+  "reason": "问者本人病重一面与10月8日死合；丈夫存亡归讯未载，主断无从核"
+ },
+ "P3-cbf7e93a": {
+  "anon_id": "P3-cbf7e93a",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 2.0,
+  "total": 5.5,
+  "pass": true,
+  "reason": "父终命于戊寅年，与寅年寿限主坐标确合"
+ },
+ "P3-cc0f6335": {
+  "anon_id": "P3-cc0f6335",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "reason": "壬申日会友，与申日主坐标确合"
+ },
+ "P3-cc7c5703": {
+  "anon_id": "P3-cc7c5703",
+  "direction": 1.5,
+  "claims": 1.0,
+  "timing": 0.0,
+  "total": 2.5,
+  "pass": false,
+  "reason": "终转晴合；甲日雨更大、卯日晴与酉日坐标不合"
+ },
+ "P3-cca6abca": {
+  "anon_id": "P3-cca6abca",
+  "direction": 0.0,
+  "claims": 0.0,
+  "timing": 1.0,
+  "total": 1.0,
+  "pass": false,
+  "reason": "断避乱失败有伤，结局无事，正反；结局无可核时点"
+ },
+ "P3-ccaa0a49": {
+  "anon_id": "P3-ccaa0a49",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "丝商巨富合；运峰无可核时点，timing记1"
+ },
+ "P3-ce0448ee": {
+  "anon_id": "P3-ce0448ee",
+  "direction": 0.0,
+  "claims": 0.0,
+  "timing": 0.0,
+  "total": 0.0,
+  "pass": false,
+  "reason": "断不升卯月，结局升于巳月，俱反"
+ },
+ "P3-ce3dbc62": {
+  "anon_id": "P3-ce3dbc62",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 1.5,
+  "total": 5.5,
+  "pass": true,
+  "reason": "仆西偏南近水处后归家合；周五归在数日窗内近合"
+ },
+ "P3-cf86b6f1": {
+  "anon_id": "P3-cf86b6f1",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 1.5,
+  "total": 5.5,
+  "pass": true,
+  "reason": "25岁自杀、感情纠纷舆论压力全合；年档青年窗近合"
+ },
+ "P3-cfb02255": {
+  "anon_id": "P3-cfb02255",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "果得财合；结局无可核时点"
+ },
+ "P3-d033346e": {
+  "anon_id": "P3-d033346e",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "reason": "甲戌日出空即愈，与戌日转机主坐标确合"
+ },
+ "P3-d13c3357": {
+  "anon_id": "P3-d13c3357",
+  "direction": 1.5,
+  "claims": 1.0,
+  "timing": 0.0,
+  "total": 2.5,
+  "pass": false,
+  "reason": "丁亥日全愈一段合，巳日坐标不合；后巳月复病而死终局未断"
+ },
+ "P3-d19b6bee": {
+  "anon_id": "P3-d19b6bee",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "妻亡合，夫继亡未断；五月与辰日坐标只部分对应"
+ },
+ "P3-d2ad267a": {
+  "anon_id": "P3-d2ad267a",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "reason": "拜登7月21日退选、哈里斯接棒、特朗普11月5日胜选全合"
+ },
+ "P3-d4bb6c71": {
+  "anon_id": "P3-d4bb6c71",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "得财合于辰日备选位；未日主坐标不合，timing记1"
+ },
+ "P3-d4c5a823": {
+  "anon_id": "P3-d4c5a823",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "reason": "报业巨头盛名遇刺合，1934甲戌年与横险主坐标确合"
+ },
+ "P3-d5f9c701": {
+  "anon_id": "P3-d5f9c701",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "reason": "屡遇兵变有惊无险与避害无虞全合；结局无可核时点"
+ },
+ "P3-d6a4e186": {
+  "anon_id": "P3-d6a4e186",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 1.5,
+  "total": 5.5,
+  "pass": true,
+  "reason": "向东、行踪露、周日被捕追回合；数日窗近合"
+ },
+ "P3-d6e29581": {
+  "anon_id": "P3-d6e29581",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "reason": "Obama胜McCain与2008年11月4日坐标全合"
+ },
+ "P3-d7138bc0": {
+  "anon_id": "P3-d7138bc0",
+  "direction": 1.0,
+  "claims": 0.5,
+  "timing": 1.0,
+  "total": 2.5,
+  "pass": false,
+  "reason": "得缺升迁一面合，山东断与真定正反；结局无可核时点"
+ },
+ "P3-d7a56b12": {
+  "anon_id": "P3-d7a56b12",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "reason": "甲午日得领，与午日主坐标确合"
+ },
+ "P3-d8c18ef5": {
+  "anon_id": "P3-d8c18ef5",
+  "direction": 1.0,
+  "claims": 0.5,
+  "timing": 1.0,
+  "total": 2.5,
+  "pass": false,
+  "reason": "复完胎语义未明，胎安只部分对应；三日在旬窗内"
+ },
+ "P3-d8e104f4": {
+  "anon_id": "P3-d8e104f4",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 0.5,
+  "total": 4.0,
+  "pass": true,
+  "reason": "妻母卒合；甲戌日与未日危期坐标不合"
+ },
+ "P3-d93dc6b2": {
+  "anon_id": "P3-d93dc6b2",
+  "direction": 0.5,
+  "claims": 0.0,
+  "timing": 1.0,
+  "total": 1.5,
+  "pass": false,
+  "reason": "结局载侄被拿问、升迁未直接记载，不升主断无从核；三月与辰月近而事别"
+ },
+ "P3-daca3784": {
+  "anon_id": "P3-daca3784",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "reason": "青帮领袖非官、客地香港病逝合；运峰无可核点，timing记1"
+ },
+ "P3-db467b58": {
+  "anon_id": "P3-db467b58",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.5,
+  "total": 5.0,
+  "pass": true,
+  "reason": "子病死合；木日与寅日化鬼坐标同类近合"
+ },
+ "P3-db8bf931": {
+  "anon_id": "P3-db8bf931",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "reason": "赖第一侯第二柯第三票序与投票坐标全合"
+ },
+ "P3-dba44652": {
+  "anon_id": "P3-dba44652",
+  "direction": 1.5,
+  "claims": 0.5,
+  "timing": 1.0,
+  "total": 3.0,
+  "pass": false,
+  "reason": "后果然总承、断面未分载，和息只部分可核；结局无可核时点"
+ },
+ "P3-dc37e343": {
+  "anon_id": "P3-dc37e343",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "reason": "卯日得信、乙未日到家，与未日归主坐标确合"
+ },
+ "P3-dd379c37": {
+  "anon_id": "P3-dd379c37",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 0.5,
+  "total": 4.0,
+  "pass": true,
+  "reason": "次日云开日出转晴合；卯时与子日主坐标不尽合"
+ },
+ "P3-dd466ad1": {
+  "anon_id": "P3-dd466ad1",
+  "direction": 1.5,
+  "claims": 1.5,
+  "timing": 0.0,
+  "total": 3.0,
+  "pass": false,
+  "reason": "自陈不利终至革职拿问合且更重；次年与寅日出空窗尺度全不合"
+ },
+ "P3-df161887": {
+  "anon_id": "P3-df161887",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 2.0,
+  "total": 5.5,
+  "pass": true,
+  "reason": "特朗普312票胜出合；差距不大一语只部分合，11月5日坐标合"
+ },
+ "P3-e0653b3f": {
+  "anon_id": "P3-e0653b3f",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "reason": "邵氏影业巨擘以富合；结局无可核时点"
+ },
+ "P3-e0923ee7": {
+  "anon_id": "P3-e0923ee7",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "reason": "倭贼大乱劫烧杀伤全合；午月主坐标未逐字核，timing记1"
+ },
+ "P3-e09476c1": {
+  "anon_id": "P3-e09476c1",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "兵刑清台之职、著述、寿82合；自记运应期与运段大体对应，逐年未全核"
+ },
+ "P3-e0c2a4f7": {
+  "anon_id": "P3-e0c2a4f7",
+  "direction": 1.0,
+  "claims": 1.0,
+  "timing": 1.5,
+  "total": 3.5,
+  "pass": false,
+  "reason": "服药无效、巳日变症合一面，终服解药如常未断；巳日分晓点近合"
+ },
+ "P3-e147df4e": {
+  "anon_id": "P3-e147df4e",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 0.0,
+  "total": 3.5,
+  "pass": false,
+  "reason": "仆终至合；甲寅日与辰日主坐标不合"
+ },
+ "P3-e1e00012": {
+  "anon_id": "P3-e1e00012",
+  "direction": 2.0,
+  "claims": 1.0,
+  "timing": 1.0,
+  "total": 4.0,
+  "pass": true,
+  "reason": "申年升任方向合，申支合而年月尺度不合；修沟面结局未载"
+ },
+ "P3-e1efe67f": {
+  "anon_id": "P3-e1efe67f",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "终脱离出狱合；四月较五月主坐标先一月，近合"
+ },
+ "P3-e1f58fb7": {
+  "anon_id": "P3-e1f58fb7",
+  "direction": 0.5,
+  "claims": 0.0,
+  "timing": 1.0,
+  "total": 1.5,
+  "pass": false,
+  "reason": "断在任平安，结局八月丁艰，平安断不合；酉日验点未核，timing记1"
+ },
+ "P3-e2266e22": {
+  "anon_id": "P3-e2266e22",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 1.5,
+  "total": 5.5,
+  "pass": true,
+  "reason": "Reading献城投降合；4月27日较所限迟三日，近合"
+ },
+ "P3-e2fed49b": {
+  "anon_id": "P3-e2fed49b",
+  "direction": 0.0,
+  "claims": 0.0,
+  "timing": 0.0,
+  "total": 0.0,
+  "pass": false,
+  "reason": "断关差不得，结局壬寅日得差，俱反"
+ },
+ "P3-e363b3ae": {
+  "anon_id": "P3-e363b3ae",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "林郑当选合，次名陪跑未载；结局无可核时点"
+ },
+ "P3-e3d8b17d": {
+  "anon_id": "P3-e3d8b17d",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "reason": "病出院康复与11月3日连任失败两段全合"
+ },
+ "P3-e3e3fcc5": {
+  "anon_id": "P3-e3e3fcc5",
+  "direction": 2.0,
+  "claims": 1.0,
+  "timing": 0.5,
+  "total": 3.5,
+  "pass": false,
+  "reason": "买宅不吉合，子死重于所断官非不安；半月与寅月坐标不尽合"
+ },
+ "P3-e3f75371": {
+  "anon_id": "P3-e3f75371",
+  "direction": 1.5,
+  "claims": 1.0,
+  "timing": 0.5,
+  "total": 3.0,
+  "pass": false,
+  "reason": "一人奉诏授职功名合，二人同榜未载；六月与卯月坐标不合"
+ },
+ "P3-e458d094": {
+  "anon_id": "P3-e458d094",
+  "direction": 1.0,
+  "claims": 0.5,
+  "timing": 1.0,
+  "total": 2.5,
+  "pass": false,
+  "reason": "祸及身合，因妇人非倭祸、避乱面不合；结局无可核时点"
+ },
+ "P3-e4f28f22": {
+  "anon_id": "P3-e4f28f22",
+  "direction": 2.0,
+  "claims": 1.0,
+  "timing": 0.5,
+  "total": 3.5,
+  "pass": false,
+  "reason": "买成与友借500合；成交价530非低于开价，六周与3至5月窗不合"
+ },
+ "P3-e4fa3ba0": {
+  "anon_id": "P3-e4fa3ba0",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 0.5,
+  "total": 4.0,
+  "pass": true,
+  "reason": "军政首脑与丙午鼎盛合；登顶乙巳运断与史实运程不合"
+ },
+ "P3-e5533409": {
+  "anon_id": "P3-e5533409",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 0.0,
+  "total": 3.5,
+  "pass": false,
+  "reason": "妻病死合；丙子日与午日主坐标不合"
+ },
+ "P3-e5a84cbd": {
+  "anon_id": "P3-e5a84cbd",
+  "direction": 1.0,
+  "claims": 0.5,
+  "timing": 1.0,
+  "total": 2.5,
+  "pass": false,
+  "reason": "削职而终与负向部分合，功名无望未确证；七月为时长非坐标，结局无可核时点"
+ },
+ "P3-e65b31c8": {
+  "anon_id": "P3-e65b31c8",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "reason": "即位乾隆、在位久、寿87全合；登极运无逐年可核点，timing记1"
+ },
+ "P3-e6ee66a9": {
+  "anon_id": "P3-e6ee66a9",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 0.0,
+  "total": 3.5,
+  "pass": false,
+  "reason": "弟还合；丁丑冲未与辰日填实主坐标不合"
+ },
+ "P3-e7ec58ca": {
+  "anon_id": "P3-e7ec58ca",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "reason": "拜登双胜、争议不推翻、1月20日就职全合"
+ },
+ "P3-e856914c": {
+  "anon_id": "P3-e856914c",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "reason": "狗于周一上午被送回、城内寻回全合"
+ },
+ "P3-eb971cfb": {
+  "anon_id": "P3-eb971cfb",
+  "direction": 1.5,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.0,
+  "pass": true,
+  "reason": "议绞后驳回活罪与罪定不死轻减合；结局无可核时点"
+ },
+ "P3-ed10ed05": {
+  "anon_id": "P3-ed10ed05",
+  "direction": 0.0,
+  "claims": 0.0,
+  "timing": 1.0,
+  "total": 1.0,
+  "pass": false,
+  "reason": "结局载贼事、病面结局缺位，病可愈主断无从核；病断结局无可核时点"
+ },
+ "P3-ed88921b": {
+  "anon_id": "P3-ed88921b",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "子当日即归合；甲子日与丑日主坐标差一日而在旬窗内"
+ },
+ "P3-eeff0dc1": {
+  "anon_id": "P3-eeff0dc1",
+  "direction": 1.0,
+  "claims": 0.5,
+  "timing": 0.5,
+  "total": 2.0,
+  "pass": false,
+  "reason": "午年保举为科里之官与禄面部分对应，财面未载；卯年坐标不合"
+ },
+ "P3-f0732002": {
+  "anon_id": "P3-f0732002",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 0.5,
+  "total": 4.0,
+  "pass": true,
+  "reason": "三月升任太守合；寅日七日窗与三月尺度不合"
+ },
+ "P3-f14c4f2f": {
+  "anon_id": "P3-f14c4f2f",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "reason": "京剧盛名、文革迫害1975卒、寿约八十合；运峰无可核点，timing记1"
+ },
+ "P3-f166afee": {
+  "anon_id": "P3-f166afee",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.5,
+  "total": 5.0,
+  "pass": true,
+  "reason": "父病不救合；化绝于亥与亥日危期近合"
+ },
+ "P3-f180e723": {
+  "anon_id": "P3-f180e723",
+  "direction": 0.5,
+  "claims": 0.5,
+  "timing": 1.0,
+  "total": 2.0,
+  "pass": false,
+  "reason": "早胜一段合，午时大败破财终局反；当日时点合，timing记1"
+ },
+ "P3-f1b95a3a": {
+  "anon_id": "P3-f1b95a3a",
+  "direction": 0.0,
+  "claims": 0.0,
+  "timing": 0.5,
+  "total": 0.5,
+  "pass": false,
+  "reason": "断病可愈，结局七月死期，方向反；时点只部分对应"
+ },
+ "P3-f1f7fd7e": {
+  "anon_id": "P3-f1f7fd7e",
+  "direction": 1.5,
+  "claims": 1.0,
+  "timing": 1.0,
+  "total": 3.5,
+  "pass": false,
+  "reason": "竟纳之援例成合，名败身丧未断；结局无可核时点"
+ },
+ "P3-f282906d": {
+  "anon_id": "P3-f282906d",
+  "direction": 2.0,
+  "claims": 1.0,
+  "timing": 0.0,
+  "total": 3.0,
+  "pass": false,
+  "reason": "生男不育与难保主断合，性别女断反；预测断语本身无应期"
+ },
+ "P3-f33f57be": {
+  "anon_id": "P3-f33f57be",
+  "direction": 0.0,
+  "claims": 0.0,
+  "timing": 1.0,
+  "total": 1.0,
+  "pass": false,
+  "reason": "断讼不败和解，结局被杖责，反；结局无可核时点"
+ },
+ "P3-f5b4b62e": {
+  "anon_id": "P3-f5b4b62e",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "reason": "牡丹次日午时二马践毁，物品事象时点全合"
+ },
+ "P3-f633b763": {
+  "anon_id": "P3-f633b763",
+  "direction": 1.5,
+  "claims": 1.0,
+  "timing": 0.5,
+  "total": 3.0,
+  "pass": false,
+  "reason": "酉时天开见日一段合，次日又雨、寅日主坐标不合"
+ },
+ "P3-f68cdb72": {
+  "anon_id": "P3-f68cdb72",
+  "direction": 1.5,
+  "claims": 1.0,
+  "timing": 1.0,
+  "total": 3.5,
+  "pass": false,
+  "reason": "军政高位合，省主席级与运峰未确核；结局无可核时点"
+ },
+ "P3-f70c1034": {
+  "anon_id": "P3-f70c1034",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 0.0,
+  "total": 3.5,
+  "pass": false,
+  "reason": "迁级官成合；孟春与巳午月主坐标不合"
+ },
+ "P3-f7cfda91": {
+  "anon_id": "P3-f7cfda91",
+  "direction": 0.0,
+  "claims": 0.0,
+  "timing": 0.0,
+  "total": 0.0,
+  "pass": false,
+  "reason": "断6月18日三战爆发，所列各日及此后均未发生，俱反"
+ },
+ "P3-f80d30f2": {
+  "anon_id": "P3-f80d30f2",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 1.5,
+  "total": 5.5,
+  "pass": true,
+  "reason": "7月初选成局、未登顶合；大败在次年1月，年末守势近合"
+ },
+ "P3-f87b5ed6": {
+  "anon_id": "P3-f87b5ed6",
+  "direction": 0.0,
+  "claims": 0.0,
+  "timing": 2.0,
+  "total": 2.0,
+  "pass": false,
+  "reason": "印度夺冠反，印失半决赛英夺冠；决赛日7月14日时点本身合"
+ },
+ "P3-f8b3e637": {
+  "anon_id": "P3-f8b3e637",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "reason": "往返三次倍利与得利全合；结局无可核时点"
+ },
+ "P3-f8c8d557": {
+  "anon_id": "P3-f8c8d557",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "次日大愈与可愈合；亥日主坐标未逐字核，timing记1"
+ },
+ "P3-fa4191ae": {
+  "anon_id": "P3-fa4191ae",
+  "direction": 0.0,
+  "claims": 0.0,
+  "timing": 0.0,
+  "total": 0.0,
+  "pass": false,
+  "reason": "断兄弟病愈，结局酉月丁亥日不治，俱反"
+ },
+ "P3-fb9becc6": {
+  "anon_id": "P3-fb9becc6",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 2.0,
+  "total": 6.0,
+  "pass": true,
+  "reason": "寅日云、卯日大雨、辰日晴，与卯日雨主坐标确合"
+ },
+ "P3-fc651334": {
+  "anon_id": "P3-fc651334",
+  "direction": 0.5,
+  "claims": 0.5,
+  "timing": 0.5,
+  "total": 1.5,
+  "pass": false,
+  "reason": "月内升巡抚与难进断反，后请告回里一面近退守；亥月坐标不合"
+ },
+ "P3-fca12d58": {
+  "anon_id": "P3-fca12d58",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.0,
+  "total": 4.5,
+  "pass": true,
+  "reason": "侄得解散不被责与未被害合；结局无可核时点"
+ },
+ "P3-fd648088": {
+  "anon_id": "P3-fd648088",
+  "direction": 0.0,
+  "claims": 0.0,
+  "timing": 0.0,
+  "total": 0.0,
+  "pass": false,
+  "reason": "结局仅病终、功名断无对应事件，子丑年与亥年坐标不合"
+ },
+ "P3-fde11737": {
+  "anon_id": "P3-fde11737",
+  "direction": 0.0,
+  "claims": 0.0,
+  "timing": 0.5,
+  "total": 0.5,
+  "pass": false,
+  "reason": "结局仅死亡断面、财福断无对应；巳月与巳年尺度只部分同字"
+ },
+ "P3-fe3ce250": {
+  "anon_id": "P3-fe3ce250",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 1.5,
+  "total": 5.5,
+  "pass": true,
+  "reason": "鱼货寻回一部、部已食合；数日内寻回近合"
+ },
+ "P3-fe8fb670": {
+  "anon_id": "P3-fe8fb670",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 2.0,
+  "total": 5.5,
+  "pass": true,
+  "reason": "丙子日得财与子日主坐标确合；得数打折未载"
+ },
+ "P3-feace026": {
+  "anon_id": "P3-feace026",
+  "direction": 2.0,
+  "claims": 2.0,
+  "timing": 1.0,
+  "total": 5.0,
+  "pass": true,
+  "reason": "风雨连月水溢五谷淹腐与水患歉收全合；夏秋主段未逐月核，timing记1"
+ },
+ "P3-ff520666": {
+  "anon_id": "P3-ff520666",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 1.5,
+  "total": 5.0,
+  "pass": true,
+  "reason": "掘得金葬事办成合；藏处鼠触发只由如言总承，近合，当日数日窗合"
+ },
+ "P3-fff8d4a9": {
+  "anon_id": "P3-fff8d4a9",
+  "direction": 2.0,
+  "claims": 1.5,
+  "timing": 0.0,
+  "total": 3.5,
+  "pass": false,
+  "reason": "次年休妻离散合；寅月六月与申月主坐标不合"
+ }
+}
