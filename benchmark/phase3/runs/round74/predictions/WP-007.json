@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Direction: Donald Trump wins, decided by Clinton's controversies. Judgment: the tarot reading on the August 2016 election question points to Trump taking the presidency on 8 November 2016; what decides it is the Clinton email controversy and Clinton Foundation questions corroding her support late in the race, outweighing her August polling lead. Timing: fixed election day, 8 November 2016 (day-scale, date given on the card).",
+ "basis": "The card carries no tradition/system field; genre-decided from the card itself: a tarot consultation (Union Square reader, cards drawn on the election), read by Waite-based tarot convention as the skill's default for tarot. Reading: the question asks both winner and deciding factor; the card supplies the deciding-factor candidates on its face — the email controversy and Foundation controversies are the only negative anchors attached to either candidate, and in a two-candidate spread those anchors attach to Clinton's position, eroding the frontrunner. Faces: winner face judged; deciding-factor face judged (Clinton controversies); polling-lead face judged as overcome, reason stated. Granularity: deciding-factor call rests on the two controversy anchors named on the card, two pointers converging on the same candidate; winner call follows from that erosion plus the spread's outcome direction. REV1: fixed election date, no timing re-derivation applicable, stated explicitly.",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

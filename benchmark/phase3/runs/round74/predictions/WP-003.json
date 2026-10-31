@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-003",
+ "prediction_text": "Direction: Barack Obama is re-elected. Judgment: the incumbent holds the presidency against Romney on 6 November 2012; Mercury turning retrograde on election day marks counting delays, disputes and a messy election-night process, but does not overturn the incumbent's win. Timing: fixed election day, 6 November 2012 (day-scale, date given on the card).",
+ "basis": "The card shows no tradition/system field; genre-decided: western mundane astrology election assessment. Classical incumbency reading: absent a configuration displacing the sitting ruler, the incumbent retains; the card's sole hard configuration, Mercury retrograde beginning on election day, signifies process disorder (recounts, contested counts) rather than a change of ruler — direction kept on the incumbent, process caveat attached. Faces: winner face judged; process face (retrograde disorder) judged; timing fixed by card. Granularity: winner call rests on incumbency default plus absence of any displacement signature on the card — two pointers, original granularity kept. REV1: fixed election date, no timing re-derivation applicable, stated explicitly.",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

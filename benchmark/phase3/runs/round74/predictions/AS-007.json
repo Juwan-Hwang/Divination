@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-007",
+ "prediction_text": "断：Waller 一方（议会军）胜，Hopton 败。依据：月亮在擢升位与木星同在、太阳（Waller 之资助/援军星）居十宫正在擢升度数 19°白羊；Hopton 之星土星落陷、无相位、太阳光束下又 peregrine，且九宫仅火星与南交点——Hopton 无后援。胜负当日见分晓（1644年3月29日交战日），Waller 得胜场、Hopton 退走。置信 0.80。",
+ "basis": "horary（卡面 tradition 字段逐字照录）；本例问两军胜负，为 Lilly horary 战争门，双方征象星强弱对决断。\n已载面：主问面=胜负；关系面=Waller 方与 Hopton 方；援军面=九宫无供给（题面已载）。数字锚点：月亮距金星 11° 只作行度留痕，不转读。\n断项过闸：Waller 胜→月亮擢升合木星、太阳擢升度居十宫，两路强证；Hopton 败→土星 fall+peregrine+sub radiis+无相位四项受损，无救应。R61-REV1：应期为当日事件，日档天然视野；复推以援军面（九宫空虚）核 Hopton 后继无力，同向。",
+ "confidence": 0.8,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

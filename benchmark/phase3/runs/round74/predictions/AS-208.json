@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-208",
+ "prediction_text": "断：Prince Rupert 在此战中得不到荣誉，反将被 Essex 占上风（worst Essex 之问，答为 Rupert 受挫）。依据：Rupert 以十宫及其主太阳为星，太阳 peregrine 且居 detriment、在固定星座——无力无援；Essex 之星金星与土星互容、且金星处置 Rupert 之星，又以 dexter 相位投十宫宫头——Essex 反客为主、握处置之权。月亮以 sinister 相位投十宫宫头更增 Rupert 之不利。终局：Rupert 此役声名受损、进退失据，其后在英伦战局渐走下坡；Essex 得此役之名。应期：月档，问后数月内战局见分晓。置信 0.70。",
+ "basis": "horary（卡面 tradition 字段逐字照录）；本例问 Rupert 与 Essex 战局荣辱，为 Lilly horary 战争/贵人门，问时约 1642 年 11–12 月（Edgehill 后一月余）。\n已载面：主问面=谁得荣誉；后事面=what should become of him（题面明载，故报其后下坡一句）；关系面=双方。\n断项过闸：Rupert 挫→太阳 peregrine+detriment 2 项受损、无接纳救应；Essex 占上风→金星互容土星+处置对方星+投十宫头 3 指针。等级校准：只断此役受挫与声名损，不拔高为 Rupert 就此覆灭（其星固定座主尚能持守残局）。R61-REV1-2 复推：以月亮投十宫头之凶相核十宫（Rupert 位）受压，同向。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
