@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Direction: Donald Trump wins the 2016 US presidential election — and what decides it is a late, damaging revelation concerning Hillary Clinton: her email controversy (with the Clinton Foundation questions behind it) returns as the decisive blow in the closing phase of the campaign, breaking her polling lead. Timing: decided in the final stretch before the 8 November 2016 vote, with the revelation landing in the last weeks (late October window).",
+ "basis": "Card carries no tradition/system field; decided by体裁 as tarot reading reported in news (The Tab, 26 Aug 2016, Union Square reader). Material defect noted: the card does not record the cards drawn — the spread/牌面 is absent, so no Waite card-by-card reading can be performed and confidence is cut to 0.45 on that ground alone; the断 is built from the question's own second limb ('what will decide it') and the facts the card supplies: Clinton leads in August polls, and the email controversy plus Clinton Foundation are already public controversies at reading time. A reading asked in that frame that names a decider points at the known live vulnerability of the frontrunner rather than at her lead: the scandal is the mechanism, and a scandal-decided race resolves against the scandal's owner. Object check: winner and deciding factor both named, as the two limbs of the question require. Cards-not-given is recorded here as input残损 per protocol; no card meanings are invented.",
+ "confidence": 0.45,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
