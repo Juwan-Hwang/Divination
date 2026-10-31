@@ -1,0 +1,12 @@
+{
+  "case_id": "DT-006",
+  "prediction_text": "方向：子病转愈（终局单一：愈）。用神子孙巳火伏于五爻父母子水之下，飞神水克伏本为不利，然春癸卯日木旺，木生巳火、伏神得日月生扶而有气，妻财土动、父母水动之局终以伏火待出为主机，主病先受压、待伏神出伏之期转安。应期双层：单位日，窗口为占后一旬，主坐标取巳日（伏神值日出伏）为转安坐标。",
+  "basis": "tradition=liuyao\nsystems_used=liuyao\n山风蛊，子孙巳火伏父母子水下，原文飞伏动爻（蛊之鼎整理）读法涉换算，basis注明disputed。对象复述：承受=父占之患病子，应验=子孙伏神之子，同一。应期三路：填实/逢值巳取中、冲实亥日舍（冲伏反伤）、出墓无候选。R61-REV1：初推逢值巳、复推出伏冲飞（巳火无飞克直出、以值日核）同点保留；粒度核：转愈有日月生伏1强指针+动局，降为转安倾向仍保留方向。",
+  "confidence": 0.48,
+  "trigger": {
+    "changed_main": true,
+    "reserve_used": true,
+    "disputed": true,
+    "reason": "变卦蛊之鼎参断changed_main=true；子孙伏藏reserve_used=true；飞伏动爻读法有歧disputed=true。"
+  }
+}

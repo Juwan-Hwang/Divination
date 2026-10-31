@@ -1,0 +1,1565 @@
+[
+ {
+  "id": "YM-044",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "占者之妻（病者）",
+   "gender": null
+  },
+  "context": {
+   "question": "占妻身（妻病吉凶）",
+   "asked_at": "酉建甲辰旬戊申日",
+   "setting": "程良玉《易冒》卷六·疾病章第五十五所举占例",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "艮宫：火泽睽 之 艮宫：山泽损",
+    "moving_lines": "四爻子孙己酉金动（世），化兄弟丙戌土",
+    "chart_lines_top_to_bottom": [
+     "父母己巳火",
+     "兄弟己未土",
+     "子孙己酉金 世（动）",
+     "兄弟丁丑土",
+     "官鬼丁卯木",
+     "父母丁巳火 应"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《易冒》（清）程良玉撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（五）·校正全本易冒》（（清）程良玉撰，郑同校；ISBN 978-7-5169-0727-6）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷六·疾病章第五十五，书页104（PDF第120页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YM-045",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "占者之妻（病者）",
+   "gender": null
+  },
+  "context": {
+   "question": "占妻身（妻病吉凶）",
+   "asked_at": "亥建甲申旬甲申日",
+   "setting": "程良玉《易冒》卷六·疾病章第五十五所举占例",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "乾宫：天风姤 之 震宫：地风升",
+    "moving_lines": "四爻官鬼壬午火动（应），化父母癸丑土；五爻兄弟壬申金动，化子孙癸亥水；上爻父母壬戌土动，化兄弟癸酉金",
+    "chart_lines_top_to_bottom": [
+     "父母壬戌土（动）",
+     "兄弟壬申金（动）",
+     "官鬼壬午火 应（动）",
+     "兄弟辛酉金",
+     "子孙辛亥水",
+     "父母辛丑土 世"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《易冒》（清）程良玉撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（五）·校正全本易冒》（（清）程良玉撰，郑同校；ISBN 978-7-5169-0727-6）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷六·疾病章第五十五，书页104（PDF第120页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YM-047",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "占者之子（病者）",
+   "gender": null
+  },
+  "context": {
+   "question": "占子病（子病吉凶）",
+   "asked_at": "巳建甲寅旬戊午日",
+   "setting": "程良玉《易冒》卷六·疾病章第五十五所举占例",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "兑宫：雷山小过 之 坤宫：雷天大壮（六冲）",
+    "moving_lines": "初爻父母丙辰土动（应），化子孙甲子水；二爻官鬼丙午火动，化妻财甲寅木",
+    "chart_lines_top_to_bottom": [
+     "父母庚戌土",
+     "兄弟庚申金",
+     "官鬼庚午火 世",
+     "兄弟丙申金",
+     "官鬼丙午火（动）",
+     "父母丙辰土 应（动）"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《易冒》（清）程良玉撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（五）·校正全本易冒》（（清）程良玉撰，郑同校；ISBN 978-7-5169-0727-6）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷六·疾病章第五十五，书页104（PDF第120页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YM-048",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "占者之父（病者）",
+   "gender": null
+  },
+  "context": {
+   "question": "占父身（父病吉凶）",
+   "asked_at": "子建甲寅旬甲寅日",
+   "setting": "程良玉《易冒》卷六·疾病章第五十五所举占例",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "乾宫：天天乾（六冲） 之 离宫：天火同人",
+    "moving_lines": "二爻妻财甲寅木动，化父母己丑土",
+    "chart_lines_top_to_bottom": [
+     "父母壬戌土 世",
+     "兄弟壬申金",
+     "官鬼壬午火",
+     "父母甲辰土 应",
+     "妻财甲寅木（动）",
+     "子孙甲子水"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《易冒》（清）程良玉撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（五）·校正全本易冒》（（清）程良玉撰，郑同校；ISBN 978-7-5169-0727-6）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷六·疾病章第五十五，书页105（PDF第121页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YM-049",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "占者自身（病者，自占）",
+   "gender": null
+  },
+  "context": {
+   "question": "占自身（自占病吉凶）",
+   "asked_at": "子建甲寅旬己未日",
+   "setting": "程良玉《易冒》卷六·疾病章第五十五所举占例",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "离宫：火水未济 之 艮宫：火泽睽",
+    "moving_lines": "初爻父母戊寅木动，化兄弟丁巳火",
+    "chart_lines_top_to_bottom": [
+     "兄弟己巳火 应",
+     "子孙己未土",
+     "妻财己酉金",
+     "兄弟戊午火 世",
+     "子孙戊辰土",
+     "父母戊寅木（动）"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《易冒》（清）程良玉撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（五）·校正全本易冒》（（清）程良玉撰，郑同校；ISBN 978-7-5169-0727-6）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷六·疾病章第五十五，书页105（PDF第121页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YM-050",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "占者自身（病者，自占）",
+   "gender": null
+  },
+  "context": {
+   "question": "占己病（自病吉凶）",
+   "asked_at": "寅建甲子旬丁卯日",
+   "setting": "程良玉《易冒》卷六·疾病章第五十五所举占例",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "坎宫：水泽节（六合） 之 坤宫：地泽临",
+    "moving_lines": "五爻官鬼戊戌土动，化兄弟癸亥水",
+    "chart_lines_top_to_bottom": [
+     "兄弟戊子水",
+     "官鬼戊戌土（动）",
+     "父母戊申金 应",
+     "官鬼丁丑土",
+     "子孙丁卯木",
+     "妻财丁巳火 世"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《易冒》（清）程良玉撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（五）·校正全本易冒》（（清）程良玉撰，郑同校；ISBN 978-7-5169-0727-6）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷六·疾病章第五十五，书页107（PDF第123页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YM-052",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "占者之子（病者，与前例同日占）",
+   "gender": null
+  },
+  "context": {
+   "question": "占子病（子病吉凶）",
+   "asked_at": "酉建甲辰旬己酉日（与前例同日）",
+   "setting": "程良玉《易冒》卷六·疾病章第五十五所举占例",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "兑宫：雷泽归妹 之 坎宫：地水师",
+    "moving_lines": "初爻官鬼丁巳火动，化妻财戊寅木；四爻官鬼庚午火动，化父母癸丑土",
+    "chart_lines_top_to_bottom": [
+     "父母庚戌土 应",
+     "兄弟庚申金",
+     "官鬼庚午火（动）",
+     "父母丁丑土 世",
+     "妻财丁卯木",
+     "官鬼丁巳火（动）"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《易冒》（清）程良玉撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（五）·校正全本易冒》（（清）程良玉撰，郑同校；ISBN 978-7-5169-0727-6）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷六·疾病章第五十五，书页107（PDF第123页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YM-053",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "占者之女（病者）",
+   "gender": null
+  },
+  "context": {
+   "question": "占女身（女病吉凶）",
+   "asked_at": "寅建甲寅旬辛酉日",
+   "setting": "程良玉《易冒》卷六·疾病章第五十五所举占例",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "巽宫：风风巽（六冲） 之 离宫：风水涣",
+    "moving_lines": "三爻官鬼辛酉金动（应），化子孙戊午火",
+    "chart_lines_top_to_bottom": [
+     "兄弟辛卯木 世",
+     "子孙辛巳火",
+     "妻财辛未土",
+     "官鬼辛酉金 应（动）",
+     "父母辛亥水",
+     "妻财辛丑土"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《易冒》（清）程良玉撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（五）·校正全本易冒》（（清）程良玉撰，郑同校；ISBN 978-7-5169-0727-6）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷六·疾病章第五十五，书页108（PDF第124页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YM-054",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "占者之次女（痘）",
+   "gender": null
+  },
+  "context": {
+   "question": "占次女痘（次女痘吉凶）",
+   "asked_at": "卯建甲寅旬丙辰日",
+   "setting": "程良玉《易冒》卷六·疾病章第五十五所举占例",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "坎宫：泽火革 之 兑宫：泽山咸",
+    "moving_lines": "初爻子孙己卯木动（应），化官鬼丙辰土",
+    "chart_lines_top_to_bottom": [
+     "官鬼丁未土",
+     "父母丁酉金",
+     "兄弟丁亥水 世",
+     "兄弟己亥水",
+     "官鬼己丑土",
+     "子孙己卯木 应（动）"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《易冒》（清）程良玉撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（五）·校正全本易冒》（（清）程良玉撰，郑同校；ISBN 978-7-5169-0727-6）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷六·疾病章第五十五，书页108（PDF第124页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YM-055",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "占发年者（未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "筮发迹何年（发年）",
+   "asked_at": "酉建甲寅旬壬戌日",
+   "setting": "程良玉《易冒》卷七·功名章第六十二所举占例",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "坎宫：泽火革",
+    "moving_lines": "无动爻（静卦）",
+    "chart_lines_top_to_bottom": [
+     "官鬼丁未土",
+     "父母丁酉金",
+     "兄弟丁亥水 世",
+     "兄弟己亥水",
+     "官鬼己丑土",
+     "子孙己卯木 应"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《易冒》（清）程良玉撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（五）·校正全本易冒》（（清）程良玉撰，郑同校；ISBN 978-7-5169-0727-6）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷七·功名章第六十二，书页121（PDF第137页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YM-057",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "占迁者（在任之官）",
+   "gender": null
+  },
+  "context": {
+   "question": "占迁（升迁之期）",
+   "asked_at": "亥建甲寅旬壬戌日",
+   "setting": "程良玉《易冒》卷七·功名章第六十二所举占例",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "坎宫：雷火丰",
+    "moving_lines": "无动爻（静卦）",
+    "chart_lines_top_to_bottom": [
+     "官鬼庚戌土",
+     "父母庚申金 世",
+     "妻财庚午火",
+     "兄弟己亥水",
+     "官鬼己丑土 应",
+     "子孙己卯木"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《易冒》（清）程良玉撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（五）·校正全本易冒》（（清）程良玉撰，郑同校；ISBN 978-7-5169-0727-6）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷七·功名章第六十二，书页123（PDF第139页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YM-058",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "占何方者（待擢之官）",
+   "gender": null
+  },
+  "context": {
+   "question": "占何方（擢任何地）",
+   "asked_at": "戌建甲辰旬戊申日",
+   "setting": "程良玉《易冒》卷七·功名章第六十二所举占例",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "坎宫：泽火革",
+    "moving_lines": "无动爻（静卦）",
+    "chart_lines_top_to_bottom": [
+     "官鬼丁未土",
+     "父母丁酉金",
+     "兄弟丁亥水 世",
+     "兄弟己亥水",
+     "官鬼己丑土",
+     "子孙己卯木 应"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《易冒》（清）程良玉撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（五）·校正全本易冒》（（清）程良玉撰，郑同校；ISBN 978-7-5169-0727-6）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷七·功名章第六十二，书页123（PDF第139页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YM-059",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "卜升方者（待擢之官）",
+   "gender": null
+  },
+  "context": {
+   "question": "卜升方（升任何地）",
+   "asked_at": "亥建甲戌旬戊寅日",
+   "setting": "程良玉《易冒》卷七·功名章第六十二所举占例",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "离宫：天火同人",
+    "moving_lines": "无动爻（静卦）",
+    "chart_lines_top_to_bottom": [
+     "子孙壬戌土 应",
+     "妻财壬申金",
+     "兄弟壬午火",
+     "官鬼己亥水 世",
+     "子孙己丑土",
+     "父母己卯木"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《易冒》（清）程良玉撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（五）·校正全本易冒》（（清）程良玉撰，郑同校；ISBN 978-7-5169-0727-6）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷七·功名章第六十二，书页124（PDF第140页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YM-060",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "占升方者（待擢之官）",
+   "gender": null
+  },
+  "context": {
+   "question": "占升方（升任何地）",
+   "asked_at": "酉建甲辰旬乙巳日",
+   "setting": "程良玉《易冒》卷七·功名章第六十二所举占例",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "巽宫：山雷颐",
+    "moving_lines": "无动爻（静卦）",
+    "chart_lines_top_to_bottom": [
+     "兄弟丙寅木",
+     "父母丙子水",
+     "妻财丙戌土 世",
+     "妻财庚辰土",
+     "兄弟庚寅木",
+     "父母庚子水 应"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《易冒》（清）程良玉撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（五）·校正全本易冒》（（清）程良玉撰，郑同校；ISBN 978-7-5169-0727-6）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷七·功名章第六十二，书页124（PDF第140页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YM-062",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "占得会者（未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占何时得会",
+   "asked_at": "寅建甲寅旬乙卯日",
+   "setting": "程良玉《易冒》卷八·理财章第六十六所举占例",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "坎宫：雷火丰 之 离宫：火火离（六冲）",
+    "moving_lines": "上爻官鬼庚戌土动，化妻财己巳火",
+    "chart_lines_top_to_bottom": [
+     "官鬼庚戌土（动）",
+     "父母庚申金 世",
+     "妻财庚午火",
+     "兄弟己亥水",
+     "官鬼己丑土 应",
+     "子孙己卯木"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《易冒》（清）程良玉撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（五）·校正全本易冒》（（清）程良玉撰，郑同校；ISBN 978-7-5169-0727-6）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷八·理财章第六十六，书页132（PDF第148页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YM-063",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "占者之弟兄（未还）",
+   "gender": null
+  },
+  "context": {
+   "question": "占弟兄（弟兄归期）",
+   "asked_at": "戌建甲子旬癸酉日",
+   "setting": "程良玉《易冒》卷九·行人章第七十七所举占例",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "坤宫：泽天夬",
+    "moving_lines": "无动爻（静卦）",
+    "chart_lines_top_to_bottom": [
+     "兄弟丁未土",
+     "子孙丁酉金 世",
+     "妻财丁亥水",
+     "兄弟甲辰土",
+     "官鬼甲寅木 应",
+     "妻财甲子水"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《易冒》（清）程良玉撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（五）·校正全本易冒》（（清）程良玉撰，郑同校；ISBN 978-7-5169-0727-6）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷九·行人章第七十七，书页145（PDF第161页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YM-064",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "妻占夫（夫未归）",
+   "gender": null
+  },
+  "context": {
+   "question": "妻占夫（夫归期）",
+   "asked_at": "子建甲申旬庚寅日",
+   "setting": "程良玉《易冒》卷九·行人章第七十七所举占例",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "兑宫：泽水困（六合） 之 兑宫：泽泽兑（六冲）",
+    "moving_lines": "初爻妻财戊寅木动（世），化官鬼丁巳火",
+    "chart_lines_top_to_bottom": [
+     "父母丁未土",
+     "兄弟丁酉金",
+     "子孙丁亥水 应",
+     "官鬼戊午火",
+     "父母戊辰土",
+     "妻财戊寅木 世（动）"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《易冒》（清）程良玉撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（五）·校正全本易冒》（（清）程良玉撰，郑同校；ISBN 978-7-5169-0727-6）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷九·行人章第七十七，书页145（PDF第161页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YM-065",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "占者之仆（未至）",
+   "gender": null
+  },
+  "context": {
+   "question": "概占仆来何辰（仆何日到）",
+   "asked_at": "巳建甲辰旬己酉日",
+   "setting": "程良玉《易冒》卷九·行人章第七十七所举占例",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "乾宫：山地剥 之 离宫：火山旅（六合）",
+    "moving_lines": "三爻妻财乙卯木动，化兄弟丙申金；四爻父母丙戌土动，化兄弟己酉金",
+    "chart_lines_top_to_bottom": [
+     "妻财丙寅木",
+     "子孙丙子水 世",
+     "父母丙戌土（动）",
+     "妻财乙卯木（动）",
+     "官鬼乙巳火 应",
+     "父母乙未土"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《易冒》（清）程良玉撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（五）·校正全本易冒》（（清）程良玉撰，郑同校；ISBN 978-7-5169-0727-6）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷九·行人章第七十七，书页145（PDF第161页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YM-067",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "占者之弟兄（未至）",
+   "gender": null
+  },
+  "context": {
+   "question": "占弟兄（弟兄何日到）",
+   "asked_at": "辰建甲戌旬戊寅日",
+   "setting": "程良玉《易冒》卷九·行人章第七十七所举占例",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "兑宫：泽水困（六合）",
+    "moving_lines": "无动爻（静卦）",
+    "chart_lines_top_to_bottom": [
+     "父母丁未土",
+     "兄弟丁酉金",
+     "子孙丁亥水 应",
+     "官鬼戊午火",
+     "父母戊辰土",
+     "妻财戊寅木 世"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《易冒》（清）程良玉撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（五）·校正全本易冒》（（清）程良玉撰，郑同校；ISBN 978-7-5169-0727-6）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷九·行人章第七十七，书页145（PDF第161页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YM-068",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "逃婢（占婢逃）",
+   "gender": null
+  },
+  "context": {
+   "question": "占婢逃（婢匿何处）",
+   "asked_at": "子建甲午旬辛丑日",
+   "setting": "程良玉《易冒》卷九·捕逃章第八十所举占例",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "坎宫：水泽节（六合）",
+    "moving_lines": "无动爻（静卦）",
+    "chart_lines_top_to_bottom": [
+     "兄弟戊子水",
+     "官鬼戊戌土",
+     "父母戊申金 应",
+     "官鬼丁丑土",
+     "子孙丁卯木",
+     "妻财丁巳火 世"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《易冒》（清）程良玉撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（五）·校正全本易冒》（（清）程良玉撰，郑同校；ISBN 978-7-5169-0727-6）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷九·捕逃章第八十，书页150（PDF第166页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YM-069",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "出走之子（卜子亡）",
+   "gender": null
+  },
+  "context": {
+   "question": "卜子亡（子匿何处）",
+   "asked_at": "巳建甲辰旬甲辰日",
+   "setting": "程良玉《易冒》卷九·捕逃章第八十所举占例",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "坤宫：地天泰（六合）",
+    "moving_lines": "无动爻（静卦）",
+    "chart_lines_top_to_bottom": [
+     "子孙癸酉金 应",
+     "妻财癸亥水",
+     "兄弟癸丑土",
+     "兄弟甲辰土 世",
+     "官鬼甲寅木",
+     "妻财甲子水"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《易冒》（清）程良玉撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（五）·校正全本易冒》（（清）程良玉撰，郑同校；ISBN 978-7-5169-0727-6）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷九·捕逃章第八十，书页150（PDF第166页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YM-070",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "占者之仆（将行）",
+   "gender": null
+  },
+  "context": {
+   "question": "占仆与友同行（仆与友同行否）",
+   "asked_at": "卯建甲寅旬丙辰日",
+   "setting": "程良玉《易冒》卷九·捕逃章第八十所举占例",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "乾宫：天地否（六合）",
+    "moving_lines": "无动爻（静卦）",
+    "chart_lines_top_to_bottom": [
+     "父母壬戌土 应",
+     "兄弟壬申金",
+     "官鬼壬午火",
+     "妻财乙卯木 世",
+     "官鬼乙巳火",
+     "父母乙未土"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《易冒》（清）程良玉撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（五）·校正全本易冒》（（清）程良玉撰，郑同校；ISBN 978-7-5169-0727-6）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷九·捕逃章第八十，书页152（PDF第168页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YY-006",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "明英宗（正统帝，北狩）；筮者全寅",
+   "gender": null
+  },
+  "context": {
+   "question": "英宗北狩，命全寅筮之：车驾何时旋归、归后处境如何、能否复辟（朝廷占·古占验）",
+   "asked_at": "明正统己巳（1449年，土木之变后）",
+   "setting": "英宗北狩，命全寅筮之：车驾何时旋归、归后处境如何、能否复辟（朝廷占·古占验）",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "乾宫：乾为天（六冲） 之 巽宫：巽为风（六冲）",
+    "moving_lines": "四爻官鬼壬午火动化父母辛未土；初爻子孙甲子水动化父母辛丑土",
+    "chart_lines_top_to_bottom": [
+     "父母壬戌土 世",
+     "兄弟壬申金",
+     "官鬼壬午火（动）",
+     "父母甲辰土 应",
+     "妻财甲寅木",
+     "子孙甲子水（动）"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《易隐》（清）曹九锡撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（四）·校正全本易隐》（（清）曹九锡撰，郑同校；ISBN 978-7-5169-0726-9）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷四·朝廷占第十三「附：古占验」，书页138–139（PDF第150–151页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YY-010",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "妻（夫在外，未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "妻占夫回（归期，行人占）",
+   "asked_at": "庚寅年丁亥月甲辰日",
+   "setting": "妻占夫回（归期，行人占）",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "巽宫：风火家人 之 巽宫：风雷益",
+    "moving_lines": "三爻父母己亥水动化妻财庚辰土",
+    "chart_lines_top_to_bottom": [
+     "兄弟辛卯木",
+     "子孙辛巳火 应",
+     "妻财辛未土",
+     "父母己亥水（动）",
+     "妻财己丑土 世",
+     "兄弟己卯木"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《易隐》（清）曹九锡撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（四）·校正全本易隐》（（清）曹九锡撰，郑同校；ISBN 978-7-5169-0726-9）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷六·行人占第二十七「附：断例」，书页168–169（PDF第180–181页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YY-011",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求测者（未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占求财（求财占）",
+   "asked_at": "己丑年丙子月丁卯日",
+   "setting": "占求财（求财占）",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "艮宫：火泽睽 之 兑宫：雷泽归妹（归魂）",
+    "moving_lines": "上爻父母己巳火动化兄弟庚戌土",
+    "chart_lines_top_to_bottom": [
+     "父母己巳火（动）",
+     "兄弟己未土",
+     "子孙己酉金 世",
+     "兄弟丁丑土",
+     "官鬼丁卯木",
+     "父母丁巳火 应"
+    ],
+    "hidden_lines": "五爻兄弟己未土下伏妻财丙子水"
+   }
+  },
+  "provenance": {
+   "book": "《易隐》（清）曹九锡撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（四）·校正全本易隐》（（清）曹九锡撰，郑同校；ISBN 978-7-5169-0726-9）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷六·求财占第三十一「附：断例」，书页178（PDF第190页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YY-012",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求测者（未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "卜求财（求财占）",
+   "asked_at": "庚寅年己卯月甲申旬丁亥日",
+   "setting": "卜求财（求财占）",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "兑宫：地山谦 之 兑宫：雷山小过（游魂）",
+    "moving_lines": "四爻父母癸丑土动化官鬼庚午火",
+    "chart_lines_top_to_bottom": [
+     "兄弟癸酉金",
+     "子孙癸亥水 世",
+     "父母癸丑土（动）",
+     "兄弟丙申金",
+     "官鬼丙午火 应",
+     "父母丙辰土"
+    ],
+    "hidden_lines": "二爻官鬼丙午火下伏妻财丁卯木"
+   }
+  },
+  "provenance": {
+   "book": "《易隐》（清）曹九锡撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（四）·校正全本易隐》（（清）曹九锡撰，郑同校；ISBN 978-7-5169-0726-9）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷六·求财占第三十一「附：断例」，书页178（PDF第190页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YY-013",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求测者（未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占求财（求财占）",
+   "asked_at": "庚寅年己卯月丁酉日",
+   "setting": "占求财（求财占）",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "坤宫：地泽临 之 艮宫：风泽中孚（游魂）",
+    "moving_lines": "上爻子孙癸酉金动化官鬼辛卯木；五爻妻财癸亥水动化父母辛巳火",
+    "chart_lines_top_to_bottom": [
+     "子孙癸酉金（动）",
+     "妻财癸亥水 应（动）",
+     "兄弟癸丑土",
+     "兄弟丁丑土",
+     "官鬼丁卯木 世",
+     "父母丁巳火"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《易隐》（清）曹九锡撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（四）·校正全本易隐》（（清）曹九锡撰，郑同校；ISBN 978-7-5169-0726-9）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷六·求财占第三十一「附：断例」，书页178（PDF第190页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YY-014",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求测者（未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占求财（求财占）",
+   "asked_at": "庚寅年辛巳月丙戌日",
+   "setting": "占求财（求财占）",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "震宫：泽雷随（归魂） 之 坎宫：水雷屯",
+    "moving_lines": "四爻父母丁亥水动化官鬼戊申金",
+    "chart_lines_top_to_bottom": [
+     "妻财丁未土 应",
+     "官鬼丁酉金",
+     "父母丁亥水（动）",
+     "妻财庚辰土 世",
+     "兄弟庚寅木",
+     "父母庚子水"
+    ],
+    "hidden_lines": "四爻父母丁亥水下伏子孙庚午火"
+   }
+  },
+  "provenance": {
+   "book": "《易隐》（清）曹九锡撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（四）·校正全本易隐》（（清）曹九锡撰，郑同校；ISBN 978-7-5169-0726-9）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷六·求财占第三十一「附：断例」，书页178–179（PDF第190–191页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YY-015",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求测者（未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占求财（求财占）",
+   "asked_at": "庚寅年己丑月甲午旬癸卯日",
+   "setting": "占求财（求财占）",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "巽宫：火雷噬嗑（静卦）",
+    "moving_lines": "无动爻（安静）",
+    "chart_lines_top_to_bottom": [
+     "子孙己巳火",
+     "妻财己未土 世",
+     "官鬼己酉金",
+     "妻财庚辰土",
+     "兄弟庚寅木 应",
+     "父母庚子水"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《易隐》（清）曹九锡撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（四）·校正全本易隐》（（清）曹九锡撰，郑同校；ISBN 978-7-5169-0726-9）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷六·求财占第三十一「附：断例」，书页179（PDF第191页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YY-016",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "子占父病（父子均未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "子占父病（生死，疾病占）",
+   "asked_at": "庚寅年戊寅月辛未日",
+   "setting": "子占父病（生死，疾病占）",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "震宫：雷水解 之 兑宫：泽水困（六合）",
+    "moving_lines": "五爻官鬼庚申金动化官鬼丁酉金",
+    "chart_lines_top_to_bottom": [
+     "妻财庚戌土",
+     "官鬼庚申金 应（动）",
+     "子孙庚午火",
+     "子孙戊午火",
+     "妻财戊辰土 世",
+     "兄弟戊寅木"
+    ],
+    "hidden_lines": "初爻兄弟戊寅木下伏父母庚子水"
+   }
+  },
+  "provenance": {
+   "book": "《易隐》（清）曹九锡撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（四）·校正全本易隐》（（清）曹九锡撰，郑同校；ISBN 978-7-5169-0726-9）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷七·疾病占第三十六「附：断例」，书页194（PDF第206页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YY-017",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "父占子病（父子均未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "父占子病（生死，疾病占）",
+   "asked_at": "庚寅年戊寅月丁卯日",
+   "setting": "父占子病（生死，疾病占）",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "坤宫：地泽临 之 艮宫：山泽损",
+    "moving_lines": "上爻子孙癸酉金独发动化官鬼丙寅木",
+    "chart_lines_top_to_bottom": [
+     "子孙癸酉金（动）",
+     "妻财癸亥水 应",
+     "兄弟癸丑土",
+     "兄弟丁丑土",
+     "官鬼丁卯木 世",
+     "父母丁巳火"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《易隐》（清）曹九锡撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（四）·校正全本易隐》（（清）曹九锡撰，郑同校；ISBN 978-7-5169-0726-9）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷七·疾病占第三十六「附：断例」，书页194（PDF第206页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YY-018",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "妻占夫病（夫妻均未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "妻占夫病（生死，疾病占）",
+   "asked_at": "庚寅年戊寅月戊寅日",
+   "setting": "妻占夫病（生死，疾病占）",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "乾宫：山地剥 之 乾宫：风地观",
+    "moving_lines": "五爻子孙丙子水动化官鬼辛巳火",
+    "chart_lines_top_to_bottom": [
+     "妻财丙寅木",
+     "子孙丙子水 世（动）",
+     "父母丙戌土",
+     "妻财乙卯木",
+     "官鬼乙巳火 应",
+     "父母乙未土"
+    ],
+    "hidden_lines": "五爻子孙丙子水下伏兄弟壬申金；本宫官鬼午火伏三爻父母丙戌土下（据原文『本宫午官…伏墓戌土下』）"
+   }
+  },
+  "provenance": {
+   "book": "《易隐》（清）曹九锡撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（四）·校正全本易隐》（（清）曹九锡撰，郑同校；ISBN 978-7-5169-0726-9）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷七·疾病占第三十六「附：断例」，书页195（PDF第207页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YY-019",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "妻占夫病（夫妻均未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "妻占夫病（生死，疾病占）",
+   "asked_at": "庚寅年庚辰月丁卯日",
+   "setting": "妻占夫病（生死，疾病占）",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "离宫：风水涣 之 乾宫：天风姤",
+    "moving_lines": "四爻子孙辛未土动化兄弟壬午火；三爻兄弟戊午火动化妻财辛酉金",
+    "chart_lines_top_to_bottom": [
+     "父母辛卯木",
+     "兄弟辛巳火 世",
+     "子孙辛未土（动）",
+     "兄弟戊午火（动）",
+     "子孙戊辰土 应",
+     "父母戊寅木"
+    ],
+    "hidden_lines": "三爻兄弟戊午火下伏官鬼己亥水；四爻子孙辛未土下伏妻财己酉金"
+   }
+  },
+  "provenance": {
+   "book": "《易隐》（清）曹九锡撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（四）·校正全本易隐》（（清）曹九锡撰，郑同校；ISBN 978-7-5169-0726-9）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷七·疾病占第三十六「附：断例」，书页195（PDF第207页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YY-020",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "妻占夫病（夫妻均未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "妻占夫病（生死，疾病占）",
+   "asked_at": "庚寅年癸未月戊戌日",
+   "setting": "妻占夫病（生死，疾病占）",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "坎宫：泽火革 之 兑宫：泽水困（六合）",
+    "moving_lines": "三爻兄弟己亥水动化妻财戊午火；二爻官鬼己丑土动化官鬼戊辰土；初爻子孙己卯木动化子孙戊寅木",
+    "chart_lines_top_to_bottom": [
+     "官鬼丁未土",
+     "父母丁酉金",
+     "兄弟丁亥水 世",
+     "兄弟己亥水（动）",
+     "官鬼己丑土（动）",
+     "子孙己卯木 应（动）"
+    ],
+    "hidden_lines": "三爻兄弟己亥水下伏妻财戊午火"
+   }
+  },
+  "provenance": {
+   "book": "《易隐》（清）曹九锡撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（四）·校正全本易隐》（（清）曹九锡撰，郑同校；ISBN 978-7-5169-0726-9）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷七·疾病占第三十六「附：断例」，书页195（PDF第207页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YY-021",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "夫占妻病（夫妻均未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "夫占妻病（生死，疾病占）",
+   "asked_at": "庚寅年甲申月癸酉日",
+   "setting": "夫占妻病（生死，疾病占）",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "艮宫：天泽履 之 巽宫：风天小畜",
+    "moving_lines": "四爻父母壬午火动化兄弟辛未土；三爻兄弟丁丑土动化兄弟甲辰土",
+    "chart_lines_top_to_bottom": [
+     "兄弟壬戌土",
+     "子孙壬申金 世",
+     "父母壬午火（动）",
+     "兄弟丁丑土（动）",
+     "官鬼丁卯木 应",
+     "父母丁巳火"
+    ],
+    "hidden_lines": "五爻子孙壬申金下伏妻财丙子水"
+   }
+  },
+  "provenance": {
+   "book": "《易隐》（清）曹九锡撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（四）·校正全本易隐》（（清）曹九锡撰，郑同校；ISBN 978-7-5169-0726-9）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷七·疾病占第三十六「附：断例」，书页195（PDF第207页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YY-022",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "占讼事者（未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占讼事（胜负与和息，讼狱占）",
+   "asked_at": "己丑年癸酉月甲申旬戊子日",
+   "setting": "占讼事（胜负与和息，讼狱占）",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "乾宫：风地观 之 艮宫：艮为山（六冲）",
+    "moving_lines": "五爻官鬼辛巳火动化子孙丙子水；三爻妻财乙卯木动化兄弟丙申金",
+    "chart_lines_top_to_bottom": [
+     "妻财辛卯木",
+     "官鬼辛巳火（动）",
+     "父母辛未土 世",
+     "妻财乙卯木（动）",
+     "官鬼乙巳火",
+     "父母乙未土 应"
+    ],
+    "hidden_lines": "五爻官鬼辛巳火下伏兄弟壬申金；初爻父母乙未土下伏子孙甲子水"
+   }
+  },
+  "provenance": {
+   "book": "《易隐》（清）曹九锡撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（四）·校正全本易隐》（（清）曹九锡撰，郑同校；ISBN 978-7-5169-0726-9）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷七·讼狱占第三十七「附：断例」，书页199（PDF第211页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YY-023",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "占讼者（讼者已禁县狱，未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占讼（讼者已禁县狱，能否说情脱罪，讼狱占）",
+   "asked_at": "庚寅年戊子月甲子旬丁卯日",
+   "setting": "占讼（讼者已禁县狱，能否说情脱罪，讼狱占）",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "艮宫：火泽睽 之 兑宫：雷泽归妹（归魂）",
+    "moving_lines": "原文称『六爻寅官动』，与通例装卦（上爻父母己巳火动化兄弟庚戌土）不合，存疑待校（见grade_note）",
+    "chart_lines_top_to_bottom": [
+     "父母己巳火（动？）",
+     "兄弟己未土",
+     "子孙己酉金 世",
+     "兄弟丁丑土",
+     "官鬼丁卯木",
+     "父母丁巳火 应"
+    ],
+    "hidden_lines": "五爻兄弟己未土下伏妻财丙子水"
+   }
+  },
+  "provenance": {
+   "book": "《易隐》（清）曹九锡撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（四）·校正全本易隐》（（清）曹九锡撰，郑同校；ISBN 978-7-5169-0726-9）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷七·讼狱占第三十七「附：断例」，书页200（PDF第212页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YY-024",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "占婢走失（婢未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占婢走失（匿于何处、何时可见，逃亡占）",
+   "asked_at": "庚寅年壬午月甲戌旬辛巳日",
+   "setting": "占婢走失（匿于何处、何时可见，逃亡占）",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "巽宫：天雷无妄（六冲） 之 艮宫：天泽履",
+    "moving_lines": "二爻兄弟庚寅木独发动化兄弟丁卯木",
+    "chart_lines_top_to_bottom": [
+     "妻财壬戌土",
+     "官鬼壬申金",
+     "子孙壬午火 世",
+     "妻财庚辰土",
+     "兄弟庚寅木（动）",
+     "父母庚子水 应"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《易隐》（清）曹九锡撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（四）·校正全本易隐》（（清）曹九锡撰，郑同校；ISBN 978-7-5169-0726-9）扫描PDF，用户经学校图书馆提供",
+   "license_note": "内部研究使用",
+   "page": "卷七·逃亡占第三十八「附：断例」，书页202–203（PDF第214–215页）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YY2-001",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "子（为父占寿）",
+   "gender": "unknown"
+  },
+  "context": {
+   "question": "占父寿（父亲寿数长短与终期）",
+   "asked_at": "丙辰年丙申月己丑日庚午时",
+   "setting": "《易隐》身命占·占断寿数「寿数经验断例」第一例；原书系作者经验验例（占者、地点不详）",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日时与卦象）",
+    "hexagram": "坎宫：水泽节（一世）安静",
+    "moving_lines": [],
+    "chart_lines_top_to_bottom": [
+     "兄弟戊子水",
+     "官鬼戊戌土",
+     "父母戊申金 应",
+     "官鬼丁丑土",
+     "子孙丁卯木",
+     "妻财丁巳火 世"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《易隐》（清）曹九锡撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（四）·校正全本易隐》（（清）曹九锡撰，郑同校；ISBN 978-7-5169-0726-9）扫描PDF，用户经学校图书馆提供，2026-10-29",
+   "license_note": "内部研究使用",
+   "page": "《易隐》身命占第一·占断寿数「寿数经验断例」，书页72（PDF页84）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YY2-002",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "夫（为妻占寿）",
+   "gender": "male"
+  },
+  "context": {
+   "question": "占妻寿（妻子寿数长短与终期）",
+   "asked_at": "戊寅年己未月戊戌日戊午时",
+   "setting": "《易隐》身命占·占断寿数「寿数经验断例」第二例；原书系作者经验验例（占者、地点不详）",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日时与卦象）",
+    "hexagram": "坎宫：地水师（归魂）安静",
+    "moving_lines": [],
+    "chart_lines_top_to_bottom": [
+     "父母癸酉金 应",
+     "兄弟癸亥水",
+     "官鬼癸丑土",
+     "妻财戊午火 世",
+     "官鬼戊辰土",
+     "子孙戊寅木"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《易隐》（清）曹九锡撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（四）·校正全本易隐》（（清）曹九锡撰，郑同校；ISBN 978-7-5169-0726-9）扫描PDF，用户经学校图书馆提供，2026-10-29",
+   "license_note": "内部研究使用",
+   "page": "《易隐》身命占第一·占断寿数「寿数经验断例」，书页72（PDF页84）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "YY2-003",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "自占者（卜自己寿命）",
+   "gender": "unknown"
+  },
+  "context": {
+   "question": "卜自己寿命（寿期）",
+   "asked_at": "庚寅年庚辰月丁卯日甲辰时",
+   "setting": "《易隐》身命占·占断寿数「寿数经验断例」第三例；原书系作者经验验例（占者姓名不载）",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日时与卦象）",
+    "hexagram": "山雷颐 之 地雷复",
+    "moving_lines": "上爻兄弟寅木○动",
+    "chart_lines_top_to_bottom": [
+     "兄弟寅木○　官鬼酉金⚋",
+     "父母子水⚋　父母亥水⚋",
+     "妻财戌土⚋世　妻财丑土⚋",
+     "妻财辰土⚋　妻财辰土⚋",
+     "兄弟寅木⚋　兄弟寅木⚋",
+     "父母子水⚊应　父母子水⚊"
+    ],
+    "空亡": "戌亥"
+   }
+  },
+  "provenance": {
+   "book": "《易隐》（清）曹九锡撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（四）·校正全本易隐》（（清）曹九锡撰，郑同校；ISBN 978-7-5169-0726-9）扫描PDF，用户经学校图书馆提供，2026-10-29",
+   "license_note": "内部研究使用",
+   "page": "《易隐》身命占第一·占断寿数「寿数经验断例」，书页72（PDF页84）"
+  },
+  "language": "zh-Hant",
+  "notes": {
+   "completion_grade": {
+    "source_locator": "《易隐》校正全本（四库存目纳甲汇刊4）书页72（PDF页84）寿数经验断例第三例正文",
+    "fields": {
+     "chart_lines_top_to_bottom": {
+      "grade": "推算复原",
+      "basis": "原书（校正全本易隐书页72）本例为正文叙述体、无装卦表；正文明载：庚寅年庚辰月丁卯日甲辰时（题面已载）、得颐之复、世为戌（「寅兄动克戌世」）、上爻寅木兄弟动、变卦世位为丑（「世动化丑」）。据本变卦名（山雷颐之坤…地雷复）以标准纳甲推得全盘，世四爻戌土、上爻兄弟寅木动、变卦四爻丑土三项均与正文载项逐项吻合。注：正文「世动」二字与爻象差不合（世爻阴阳未变、实为上爻独动而世位纳甲随变卦作丑），照原文记此出入，不据「世动」改动爻。"
+     },
+     "moving_lines": {
+      "grade": "推算复原",
+      "basis": "本变卦（颐之复）爻象差仅上爻一爻；与正文「寅兄动」互证。"
+     },
+     "空亡": {
+      "grade": "推算复原",
+      "basis": "由题面已载日干支丁卯按旬空规则推得戌亥；原书未另标。"
+     }
+    },
+    "completed_by": "phase3 inputs9 C轨数据角补录（2026-10-30）",
+    "scope_note": "仅补 attachments 盘面事实字段；题面文字与既有字段一字未改。"
+   }
+  }
+ },
+ {
+  "id": "YY2-004",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "自占者（卜自己寿）",
+   "gender": "unknown"
+  },
+  "context": {
+   "question": "卜自己寿（寿数长短与终期）",
+   "asked_at": "丙寅年丙申月丁巳日丙午时",
+   "setting": "《易隐》身命占·占断寿数「寿数经验断例」第四例；原书系作者经验验例（占者姓名不载）",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日时与卦象）",
+    "hexagram": "（本卦名原书缺字）之 坤宫：雷天大壮（四世）",
+    "moving_lines": null,
+    "chart_lines_top_to_bottom": null,
+    "空亡": "子丑"
+   }
+  },
+  "provenance": {
+   "book": "《易隐》（清）曹九锡撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（四）·校正全本易隐》（（清）曹九锡撰，郑同校；ISBN 978-7-5169-0726-9）扫描PDF，用户经学校图书馆提供，2026-10-29",
+   "license_note": "内部研究使用",
+   "page": "《易隐》身命占第一·占断寿数「寿数经验断例」，书页72（PDF页84）"
+  },
+  "language": "zh-Hant",
+  "notes": {
+   "completion_grade": {
+    "source_locator": "《易隐》校正全本（四库存目纳甲汇刊4）书页72（PDF页84）寿数经验断例第四例正文",
+    "fields": {
+     "空亡": {
+      "grade": "推算复原",
+      "basis": "由题面已载日干支丁巳按旬空规则推得子丑；原书未另标。"
+     },
+     "chart_lines_top_to_bottom": {
+      "grade": "不可补",
+      "basis": "本卦名原书版面即缺字（「得□之大壮」），本卦不明则本宫、世应、六亲、动爻皆无从定，变卦大壮一侧六亲亦系于本宫五行，不能单独成盘。已查：校正全本易隐书页72原文；《六爻古籍合集》（含易隐）身命占段抽查页1292–1312，未见该断例异文可补缺字；expansion7/yiyin2/BUILD-REPORT 亦记「校正全本版面即缺字留空、非扫描缺损」。保持 null。"
+     },
+     "moving_lines": {
+      "grade": "不可补",
+      "basis": "同 chart_lines_top_to_bottom：本卦不明，动爻无从定。保持 null。"
+     }
+    },
+    "completed_by": "phase3 inputs9 C轨数据角补录（2026-10-30）",
+    "scope_note": "仅补 attachments 盘面事实字段；题面文字与既有字段一字未改。"
+   }
+  }
+ },
+ {
+  "id": "YY2-005",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求文书者（自占）",
+   "gender": "unknown"
+  },
+  "context": {
+   "question": "求占文书（所求文书能否办成）",
+   "asked_at": "庚寅年甲申月庚辰日",
+   "setting": "《易隐》文书占「附：断例」第三例；庚寅年作者自录占例（占者姓名、地点不载）",
+   "attachments": {
+    "casting_method": "六爻纳甲（铜钱摇卦，原书只记年月日与卦象）",
+    "hexagram": "震宫：地风升（四世）之 兑宫：雷山小过（游魂）",
+    "moving_lines": [
+     "二爻父母辛亥水动化子孙丙午火"
+    ],
+    "chart_lines_top_to_bottom": [
+     "官鬼癸酉金",
+     "父母癸亥水",
+     "妻财癸丑土 世",
+     "官鬼辛酉金",
+     "父母辛亥水",
+     "妻财辛丑土 应"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《易隐》（清）曹九锡撰",
+   "edition": "华龄出版社2016年《四库存目纳甲汇刊（四）·校正全本易隐》（（清）曹九锡撰，郑同校；ISBN 978-7-5169-0726-9）扫描PDF，用户经学校图书馆提供，2026-10-29",
+   "license_note": "内部研究使用",
+   "page": "《易隐》文书占第二十五「附：断例」，书页162（PDF页174）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "ZY-001",
+  "system": "yijing",
+  "master": "周史（周太史）",
+  "era": "魯莊公二十二年（前672年）",
+  "subject": {
+   "name_or_desc": "陳敬仲（陳公子完）之前程國祚",
+   "gender": null
+  },
+  "context": {
+   "question": "陳敬仲（陳公子完）之前程國祚",
+   "asked_at": "魯莊公二十二年（前672年）",
+   "setting": "陳厲公生敬仲，其少也，周史有以《周易》見陳侯者，陳侯使筮之（為敬仲占其將來）",
+   "attachments": {
+    "casting_method": "蓍筮（《周易》筮占，左傳所載一爻變例）",
+    "casting": "遇《觀》之《否》（風地觀六四動，變天地否）；所引爻辭為觀六四「觀國之光，利用賓於王」"
+   }
+  },
+  "provenance": {
+   "book": "《左傳》",
+   "edition": "通行本（核對經維基文庫系統外之公開全文與學術轉引，見 SOURCES.md）",
+   "url": "https://zh.wikisource.org/wiki/春秋左氏傳",
+   "page": "莊公二十二年"
+  },
+  "license_status": "public-domain",
+  "redistributable": true,
+  "language": "zh-Hant",
+  "notes": {
+   "tags": [
+    "famous"
+   ],
+   "comment": "本例另見《史記·田敬仲完世家》，可作跨文獻互證（cross_ref: 史記·田敬仲完世家載同一占筮） 本例為史傳名例，模型可能已背誦，評分應降權。",
+   "cross_ref": "《史記·田敬仲完世家》同載此占"
+  }
+ },
+ {
+  "uid": "ZY-002",
+  "tradition": "yijing",
+  "subject": {
+   "name_or_desc": "畢萬仕晉之前程"
+  },
+  "context": {
+   "question": "畢萬仕晉之前程",
+   "asked_at": "魯閔公元年（前661年）",
+   "setting": "初，畢萬筮仕於晉（畢萬將入仕晉國，自筮其仕途），辛廖占之",
+   "attachments": {
+    "casting_method": "蓍筮（《周易》筮占，左傳所載一爻變例）",
+    "casting": "遇《屯》之《比》（水雷屯初九動，變水地比）"
+   }
+  },
+  "provenance": {
+   "book": "《左傳》"
+  }
+ },
+ {
+  "id": "ZY-003",
+  "subject": {
+   "name_or_desc": "穆姜遷東宮後能否得出"
+  },
+  "context": {
+   "question": "穆姜遷東宮後能否得出",
+   "asked_at": "魯襄公九年（前564年）追記其始遷東宮時之筮",
+   "setting": "穆姜（魯宣公夫人）與叔孫僑如謀亂事敗，被遷於東宮軟禁；始往而筮之，問能否速出。",
+   "attachments": {
+    "casting_method": "蓍筮（《周易》筮占，左傳所載一爻變例）",
+    "casting": "遇《艮》之八，是謂《艮》之《隨》（艮變隨；「八」為筮數，動爻原傳未明言）；所據為隨卦辭「元亨利貞，無咎」"
+   }
+  },
+  "provenance": {
+   "book": "《左傳》",
+   "edition": "通行本（核對經維基文庫系統外之公開全文與學術轉引，見 SOURCES.md）",
+   "url": "https://zh.wikisource.org/wiki/春秋左氏傳",
+   "page": "襄公九年"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "uid": "ZY-004",
+  "tradition": "yijing",
+  "subject": {
+   "name_or_desc": "衛國立嗣：立元（孫圉）還是立絷（孟絷）"
+  },
+  "context": {
+   "question": "衛國立嗣：立元（孫圉）還是立絷（孟絷）",
+   "asked_at": "魯昭公七年（前535年）",
+   "setting": "衛孔成子夢見康叔謂已立元；孟絷足不良於行。孔成子以《周易》筮立嗣之事，以示史朝",
+   "attachments": {
+    "casting_method": "蓍筮（《周易》筮占，左傳所載一爻變例）",
+    "casting": "先遇《屯》（水雷屯，靜卦），又遇《屯》之《比》（初九動變水地比）；兩卦繇皆主「利建侯」"
+   }
+  },
+  "provenance": {
+   "book": "《左傳》"
+  }
+ }
+]

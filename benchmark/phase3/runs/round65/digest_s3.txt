@@ -1,0 +1,419 @@
+### LY-009
+Q:占母血崩一年有餘 | T:戌月己卯日 | SET:為母占病：血崩已一年有餘
+HEX:天火同人之雷水解 | MOV:上爻子孫戌土○、五爻妻財申金○、三爻官鬼亥水○（世）、二爻子孫丑土ㄨ、初爻父母卯木○動 | KONG:None | HID:None
+LINES:["子孫戌土○應　子孫戌土⚋", "妻財申金○　　妻財申金⚋", "兄弟午火⚊　　兄弟午火⚊", "官鬼亥水○世　兄弟午火⚋", "子孫丑土ㄨ　　子孫辰土⚊", "父母卯木○　　父母寅木⚋"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-01
+Q:候文书，何日得领？ | T:卯月 壬辰日 | SET:None
+HEX:山火贲（艮上离下，静卦） | MOV:無動爻（靜卦） | KONG:午未 | HID:二爻兄弟丑土下伏父母午火
+LINES:["官鬼寅木⚊", "妻財子水⚋", "兄弟戌土⚋應", "妻財亥水⚊", "兄弟丑土⚋", "官鬼卯木⚊世"]
+ATTKEYS:['hexagram', 'lines_top_to_bottom', 'note', 'chart_lines_top_to_bottom', 'moving_lines', 'date_ganzhi', '空亡', 'hidden_lines']
+EXTRA:{"note": "排盘据 benchmark/cases/input/LY-01.md 照录", "date_ganzhi": "卯月壬辰日", "空亡": "午未", "hidden_lines": "二爻兄弟丑土下伏父母午火"}
+
+### LY-010
+Q:占試中否 | T:巳月乙丑日 | SET:問考試能否得中
+HEX:兌為澤之天水訟 | MOV:初爻官鬼巳火○、上爻父母未土ㄨ（世）動 | KONG:None | HID:None
+LINES:["父母未土ㄨ世　父母戌土⚊", "兄弟酉金⚊　　兄弟申金⚊", "子孫亥水⚊　　官鬼午火⚊", "父母丑土⚋應　官鬼午火⚋", "妻財卯木⚊　　父母辰土⚊", "官鬼巳火○　　妻財寅木⚋"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-011
+Q:占母路隔千里何時來 | T:未月丁丑日 | SET:母親遠在千里之外，問何時能來；求測者自言有妹無弟
+HEX:火天大有之水風井 | MOV:上爻官鬼巳火○（應）、五爻父母未土ㄨ、四爻兄弟酉金○、初爻子孫子水○動 | KONG:None | HID:None
+LINES:["官鬼巳火○應　子孫子水⚋", "父母未土ㄨ　　父母戌土⚊", "兄弟酉金○　　兄弟申金⚋", "父母辰土⚊世　兄弟酉金⚊", "妻財寅木⚊　　子孫亥水⚊", "子孫子水○　　父母丑土⚋"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-012
+Q:占開金銀器皿店 | T:未月辛丑日 | SET:問開金銀器皿店生意吉凶，並請擇開張日
+HEX:火雷噬嗑之水雷屯 | MOV:上爻子孫巳火○、五爻妻財未土ㄨ（世）、四爻官鬼酉金○動 | KONG:None | HID:None
+LINES:["子孫巳火○　　父母子水⚋", "妻財未土ㄨ世　妻財戌土⚊", "官鬼酉金○　　官鬼申金⚋", "妻財辰土⚋　　妻財辰土⚋", "兄弟寅木⚋應　兄弟寅木⚋", "父母子水⚊　　父母子水⚊"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-013
+Q:占夫病（妻占夫，夫命癸亥） | T:申月戊辰日 | SET:妻為病夫占，夫本命癸亥
+HEX:天火同人之離為火（卦名原文未直書，據所附裝卦推得） | MOV:五爻妻財申金○動 | KONG:None | HID:None
+LINES:["子孫戌土⚊應　兄弟巳火⚊", "妻財申金○　　子孫未土⚋", "兄弟午火⚊　　妻財酉金⚊", "官鬼亥水⚊世　官鬼亥水⚊", "子孫丑土⚋　　子孫丑土⚋", "父母卯木⚊　　父母卯木⚊"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-014
+Q:占求財 | T:未月庚子日 | SET:問求財得否及何時到手
+HEX:風天小畜（靜卦） | MOV:無動爻；妻財兩現：應爻妻財未土臨月建、妻財辰土值旬空 | KONG:None | HID:None
+LINES:["兄弟卯木⚊", "子孫巳火⚊", "妻財未土⚋應", "妻財辰土⚊", "兄弟寅木⚊", "父母子水⚊世"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-015
+Q:占升遷 | T:未月甲午日 | SET:問升遷吉凶與應期
+HEX:地水師之風水渙 | MOV:上爻父母酉金ㄨ（應）、五爻兄弟亥水ㄨ動 | KONG:None | HID:None
+LINES:["父母酉金ㄨ應　子孫卯木⚊", "兄弟亥水ㄨ　　妻財巳火⚊", "官鬼丑土⚋　　官鬼未土⚋", "妻財午火⚋世　妻財午火⚋", "官鬼辰土⚊　　官鬼辰土⚊", "子孫寅木⚋　　子孫寅木⚋"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-016
+Q:占訟 | T:丑月壬子日 | SET:問訴訟（官司）吉凶，當日將見官受審
+HEX:天澤履（靜卦；卦名原文未直書，據所附裝卦推得） | MOV:無動爻；官鬼午火兩現，世爻官鬼午火 | KONG:None | HID:None
+LINES:["父母戌土⚊", "兄弟申金⚊應", "官鬼午火⚊", "兄弟申金⚊", "官鬼午火⚋世", "父母辰土⚋"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-017
+Q:占升遷 | T:酉月乙巳日 | SET:問升遷
+HEX:澤地萃之天地否 | MOV:上爻父母未土ㄨ動 | KONG:None | HID:None
+LINES:["父母未土ㄨ　　父母戌土⚊", "兄弟酉金⚊應　兄弟申金⚊", "子孫亥水⚊　　官鬼午火⚊", "妻財卯木⚋　　妻財卯木⚋", "官鬼巳火⚋世　官鬼巳火⚋", "父母未土⚋　　父母未土⚋"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-018
+Q:占地下忽然起五色之光，疑有古窖（藏財） | T:辰月丙辰日 | SET:宅地忽起五色之光，眾人疑地下藏有窖財，議論紛紛
+HEX:風火家人之澤山咸（卦名原文未直書，據所附裝卦推得） | MOV:初爻父母巳火○、三爻兄弟丑土ㄨ、四爻子孫酉金○（世）動 | KONG:None | HID:None
+LINES:["父母巳火⚊　　官鬼寅木⚊", "兄弟未土⚋　　妻財子水⚋", "子孫酉金○世　兄弟戌土⚋", "兄弟丑土ㄨ　　子孫酉金⚊", "官鬼卯木⚊　　妻財亥水⚊", "父母巳火○應　兄弟丑土⚋"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-019
+Q:占小舟過關恐盤阻 | T:辰月戊子日 | SET:乘小舟過關，恐遭盤查阻滯
+HEX:水地比之澤山咸 | MOV:四爻子孫申金ㄨ、三爻官鬼卯木ㄨ（世）動 | KONG:None | HID:None
+LINES:["妻財子水⚋應　兄弟未土⚋", "兄弟戌土⚊　　子孫酉金⚊", "子孫申金ㄨ　　妻財亥水⚊", "官鬼卯木ㄨ世　子孫申金⚊", "父母巳火⚋　　父母午火⚋", "兄弟未土⚋　　兄弟辰土⚋"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-021
+Q:占何日雨 | T:午月戊午日 | SET:久旱/望雨，友人持卦同參，友人主大旱之象，野鶴駁之
+HEX:地風升之雷風恆 | MOV:世爻妻財丑土ㄨ動 | KONG:None | HID:None
+LINES:["官鬼酉金⚋　　妻財戌土⚋", "父母亥水⚋　　官鬼申金⚋", "妻財丑土ㄨ世　子孫午火⚊", "官鬼酉金⚊　　官鬼酉金⚊", "父母亥水⚊　　父母亥水⚊", "妻財丑土⚋應　妻財丑土⚋"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-022
+Q:占身病（自占） | T:申月戊寅日 | SET:自占本身疾病，病已重；斷中兼及其妻
+HEX:坤為地之水地比 | MOV:五爻妻財亥水ㄨ動 | KONG:None | HID:None
+LINES:["子孫酉金⚋世　妻財子水⚋", "妻財亥水ㄨ　　兄弟戌土⚊", "兄弟丑土⚋　　子孫申金⚋", "官鬼卯木⚋應　官鬼卯木⚋", "父母巳火⚋　　父母巳火⚋", "兄弟未土⚋　　兄弟未土⚋"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-023
+Q:占母病 | T:未月丁亥日 | SET:為母占病；其子初生兩月
+HEX:坤為地之山地剝 | MOV:上爻子孫酉金ㄨ（世）動 | KONG:None | HID:None
+LINES:["子孫酉金ㄨ世　官鬼寅木⚊", "妻財亥水⚋　　妻財子水⚋", "兄弟丑土⚋　　兄弟戌土⚋", "官鬼卯木⚋應　官鬼卯木⚋", "父母巳火⚋　　父母巳火⚋", "兄弟未土⚋　　兄弟未土⚋"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-024
+Q:占子病（續 LY-023） | T:酉月丁卯日 | SET:前占母病時已預警其子八月有災；至酉月其子病重，再占
+HEX:水火既濟之澤火革 | MOV:四爻父母申金ㄨ動 | KONG:None | HID:None
+LINES:["兄弟子水⚋應　官鬼未土⚋", "官鬼戌土⚊　　父母酉金⚊", "父母申金ㄨ　　兄弟亥水⚊", "兄弟亥水⚊世　兄弟亥水⚊", "官鬼丑土⚋　　官鬼丑土⚋", "子孫卯木⚊　　子孫卯木⚊"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-025
+Q:因連日雪，占何日晴 | T:子月己亥日 | SET:連日下雪，問何日放晴
+HEX:風地觀之水地比 | MOV:上爻妻財卯木○動 | KONG:None | HID:None
+LINES:["妻財卯木○　　子孫子水⚋", "官鬼巳火⚊　　父母戌土⚊", "父母未土⚋世　兄弟申金⚋", "妻財卯木⚋　　妻財卯木⚋", "官鬼巳火⚋　　官鬼巳火⚋", "父母未土⚋應　父母未土⚋"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-026
+Q:因連日晴，占何日雨 | T:巳月甲寅日 | SET:連日晴天，問何日下雨
+HEX:水火既濟之水山蹇 | MOV:初爻子孫卯木○動 | KONG:None | HID:None
+LINES:["兄弟子水⚋應　兄弟子水⚋", "官鬼戌土⚊　　官鬼戌土⚊", "父母申金⚋　　父母申金⚋", "兄弟亥水⚊世　父母申金⚊", "官鬼丑土⚋　　妻財午火⚋", "子孫卯木○　　官鬼辰土⚋"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-027
+Q:占弟病，業已臨危 | T:辰月、申日（據斷語「辰月克之，申日生之」） | SET:為弟占病，病情已臨危
+HEX:水火既濟之澤火革（坎宮，空亡辰巳，缺爻午財） | MOV:四爻父母申金ㄨ動 | KONG:辰巳 | HID:三爻兄弟亥水下伏妻財午火
+LINES:["兄弟子水⚋應　官鬼未土⚋", "官鬼戌土⚊　父母酉金⚊", "父母申金ㄨ　兄弟亥水⚊", "兄弟亥水⚊世　兄弟亥水⚊", "官鬼丑土⚋　官鬼丑土⚋", "子孫卯木⚊　子孫卯木⚊"]
+ATTKEYS:['casting_method', 'hexagram', 'yongshen', 'chart_note', 'chart_lines_top_to_bottom', 'moving_lines', 'date_ganzhi', '空亡', 'hidden_lines']
+EXTRA:{"yongshen": "兄弟亥水為用神", "chart_note": "在線本裝卦表為雙欄排版經 OCR 轉錄後行序錯亂，逐爻裝卦未能可靠還原；本條只錄可由卦名、卦宮、空亡與斷語互證的資訊，逐爻表不錄。", "date_ganzhi": "辰月丙申日", "空亡": "辰巳", "hidden_lines": "三爻兄弟亥水下伏妻財午火"}
+
+### LY-028
+Q:占弟被訟，吉凶何如 | T:午月、未日（據斷語）；太歲辰年 | SET:為弟占被訟（官司纏訟）之吉凶
+HEX:澤水困之雷風恆（兌宮，空亡寅卯） | MOV:三爻官鬼午火ㄨ動、五爻兄弟酉金○動 | KONG:寅卯 | HID:None
+LINES:["父母未土⚋　父母戌土⚋", "兄弟酉金○　兄弟申金⚋", "子孫亥水⚊應　官鬼午火⚊", "官鬼午火ㄨ　兄弟酉金⚊", "父母辰土⚊　子孫亥水⚊", "妻財寅木⚋世　父母丑土⚋"]
+ATTKEYS:['casting_method', 'hexagram', 'yongshen', 'chart_note', 'chart_lines_top_to_bottom', 'moving_lines', 'date_ganzhi', '空亡']
+EXTRA:{"yongshen": "兄弟酉金為用神", "chart_note": "在線本裝卦表為雙欄排版經 OCR 轉錄後行序錯亂，逐爻裝卦未能可靠還原；本條只錄可由卦名、卦宮、空亡與斷語互證的資訊，逐爻表不錄。", "date_ganzhi": "午月丁未日", "空亡": "寅卯"}
+
+### LY-029
+Q:一人占自病 | T:月建沖世（巳月，據斷語「又逄月沖」推）；日辰原文未明記 | SET:自占本身疾病
+HEX:澤風大過之火風鼎（震宮，空亡辰巳） | MOV:五爻官鬼酉金○動、上爻妻財未土ㄨ動 | KONG:辰巳 | HID:None
+LINES:["妻財未土ㄨ　子孫巳火⚊", "官鬼酉金○　妻財未土⚋", "父母亥水⚊世　官鬼酉金⚊", "官鬼酉金⚊　官鬼酉金⚊", "父母亥水⚊　父母亥水⚊", "妻財丑土⚋應　妻財丑土⚋"]
+ATTKEYS:['casting_method', 'hexagram', 'yongshen', 'chart_note', 'chart_lines_top_to_bottom', 'moving_lines', 'date_ganzhi', '空亡']
+EXTRA:{"yongshen": "世爻亥水為用神", "chart_note": "在線本裝卦表為雙欄排版經 OCR 轉錄後行序錯亂，逐爻裝卦未能可靠還原；本條只錄可由卦名、卦宮、空亡與斷語互證的資訊，逐爻表不錄。", "date_ganzhi": "巳月乙未日", "空亡": "辰巳"}
+
+### LY-030
+Q:占開店 | T:世爻臨酉得令（據斷語，月日未明記） | SET:問開店營業吉凶
+HEX:艮為山之地火明夷（艮宮，空亡子丑） | MOV:初爻兄弟辰土ㄨ動、上爻官鬼寅木○（世）動 | KONG:子丑 | HID:None
+LINES:["官鬼寅木○世　子孫酉金⚋", "妻財子水⚋　妻財亥水⚋", "兄弟戌土⚋　兄弟丑土⚋", "子孫申金⚊應　妻財亥水⚊", "父母午火⚋　兄弟丑土⚋", "兄弟辰土ㄨ　官鬼卯木⚊"]
+ATTKEYS:['casting_method', 'hexagram', 'yongshen', 'chart_note', 'chart_lines_top_to_bottom', 'moving_lines', 'date_ganzhi', '空亡']
+EXTRA:{"yongshen": "世爻（寅木官鬼）為主", "chart_note": "在線本裝卦表為雙欄排版經 OCR 轉錄後行序錯亂，逐爻裝卦未能可靠還原；本條只錄可由卦名、卦宮、空亡與斷語互證的資訊，逐爻表不錄。", "date_ganzhi": "寅月辛酉日", "空亡": "子丑"}
+
+### LY-031
+Q:占父官事 | T:卯月（據斷語「未土卯月克之」） | SET:為父占官事（刑獄）吉凶
+HEX:澤地萃之天火同人（兌宮，空亡戌亥） | MOV:初爻父母未土ㄨ動、三爻妻財卯木ㄨ動、上爻父母未土ㄨ動 | KONG:戌亥 | HID:None
+LINES:["父母未土ㄨ　父母戌土⚊", "兄弟酉金⚊應　兄弟申金⚊", "子孫亥水⚊　官鬼午火⚊", "妻財卯木ㄨ　子孫亥水⚊", "官鬼巳火⚋世　父母丑土⚋", "父母未土ㄨ　妻財卯木⚊"]
+ATTKEYS:['casting_method', 'hexagram', 'yongshen', 'chart_note', 'chart_lines_top_to_bottom', 'moving_lines', 'date_ganzhi', '空亡']
+EXTRA:{"yongshen": "外卦未土父母等為主（父之官事）", "chart_note": "在線本裝卦表為雙欄排版經 OCR 轉錄後行序錯亂，逐爻裝卦未能可靠還原；本條只錄可由卦名、卦宮、空亡與斷語互證的資訊，逐爻表不錄。", "date_ganzhi": "卯月戊辰日", "空亡": "戌亥"}
+
+### LY-032
+Q:妻占夫近病 | T:辰日（據斷語「墓於辰日」） | SET:妻為近病的丈夫占
+HEX:天火同人之離為火（離宮，空亡戌亥） | MOV:五爻妻財申金○動 | KONG:戌亥 | HID:None
+LINES:["子孫戌土⚊應　兄弟巳火⚊", "妻財申金○　子孫未土⚋", "兄弟午火⚊　妻財酉金⚊", "官鬼亥水⚊世　官鬼亥水⚊", "子孫丑土⚋　子孫丑土⚋", "父母卯木⚊　父母卯木⚊"]
+ATTKEYS:['casting_method', 'hexagram', 'yongshen', 'chart_note', 'chart_lines_top_to_bottom', 'moving_lines', 'date_ganzhi', '空亡']
+EXTRA:{"yongshen": "世爻亥水為夫星（用神）", "chart_note": "在線本裝卦表為雙欄排版經 OCR 轉錄後行序錯亂，逐爻裝卦未能可靠還原；本條只錄可由卦名、卦宮、空亡與斷語互證的資訊，逐爻表不錄。", "date_ganzhi": "申月戊辰日", "空亡": "戌亥"}
+
+### LY-033
+Q:一人自占近病 | T:原文未明記月日（斷語及應驗涉立春、正月） | SET:自占近病
+HEX:天火同人之火山旅（離宮，空亡午未） | MOV:初爻父母卯木○動、五爻妻財申金○動 | KONG:午未 | HID:None
+LINES:["子孫戌土⚊應　兄弟巳火⚊", "妻財申金○　子孫未土⚋", "兄弟午火⚊　妻財酉金⚊", "官鬼亥水⚊世　妻財申金⚊", "子孫丑土⚋　兄弟午火⚋", "父母卯木○　子孫辰土⚋"]
+ATTKEYS:['casting_method', 'hexagram', 'yongshen', 'chart_note', 'chart_lines_top_to_bottom', 'moving_lines', 'date_ganzhi', '空亡']
+EXTRA:{"yongshen": "世爻亥水為用神", "chart_note": "在線本裝卦表為雙欄排版經 OCR 轉錄後行序錯亂，逐爻裝卦未能可靠還原；本條只錄可由卦名、卦宮、空亡與斷語互證的資訊，逐爻表不錄。", "date_ganzhi": "丑月戊子日", "空亡": "午未"}
+
+### LY-034
+Q:占嬸病 | T:原文未明記月日（旬空子丑；應期乙丑日） | SET:為嬸母占病
+HEX:離為火之地火明夷（離宮，空亡子丑） | MOV:四爻妻財酉金○動、上爻兄弟巳火○（世）動 | KONG:子丑 | HID:None
+LINES:["兄弟巳火○世　妻財酉金⚋", "子孫未土⚋　官鬼亥水⚋", "妻財酉金○　子孫丑土⚋", "官鬼亥水⚊應　官鬼亥水⚊", "子孫丑土⚋　子孫丑土⚋", "父母卯木⚊　父母卯木⚊"]
+ATTKEYS:['casting_method', 'hexagram', 'yongshen', 'chart_note', 'chart_lines_top_to_bottom', 'moving_lines', 'date_ganzhi', '空亡']
+EXTRA:{"yongshen": "父母卯木為用神", "chart_note": "在線本裝卦表為雙欄排版經 OCR 轉錄後行序錯亂，逐爻裝卦未能可靠還原；本條只錄可由卦名、卦宮、空亡與斷語互證的資訊，逐爻表不錄。", "date_ganzhi": "丑月戊午日", "空亡": "子丑"}
+
+### LY-035
+Q:占父何日歸 | T:申日沖寅、絕寅（據斷語） | SET:問父親何日歸家
+HEX:山天大畜之乾為天（艮宮，空亡辰巳） | MOV:四爻兄弟戌土ㄨ動、五爻妻財子水ㄨ（應）動 | KONG:辰巳 | HID:None
+LINES:["官鬼寅木⚊　兄弟戌土⚊", "妻財子水ㄨ應　子孫申金⚊", "兄弟戌土ㄨ　父母午火⚊", "兄弟辰土⚊　兄弟辰土⚊", "官鬼寅木⚊世　官鬼寅木⚊", "妻財子水⚊　妻財子水⚊"]
+ATTKEYS:['casting_method', 'hexagram', 'yongshen', 'chart_note', 'chart_lines_top_to_bottom', 'moving_lines', 'date_ganzhi', '空亡']
+EXTRA:{"yongshen": "父母（父局）為用", "chart_note": "在線本裝卦表為雙欄排版經 OCR 轉錄後行序錯亂，逐爻裝卦未能可靠還原；本條只錄可由卦名、卦宮、空亡與斷語互證的資訊，逐爻表不錄。", "date_ganzhi": "巳月丙申日", "空亡": "辰巳"}
+
+### LY-036
+Q:占升選 | T:本月（據應驗「果於本月」，月名原文未記） | SET:問升選（升任）吉凶
+HEX:地澤臨之風澤中孚（坤宮，空亡申酉） | MOV:None | KONG:None | HID:None
+LINES:null
+ATTKEYS:['casting_method', 'hexagram', 'yongshen', 'chart_note']
+EXTRA:{"yongshen": "世爻卯木、官星為用", "chart_note": "在線本裝卦表為雙欄排版經 OCR 轉錄後行序錯亂，逐爻裝卦未能可靠還原；本條只錄可由卦名、卦宮、空亡與斷語互證的資訊，逐爻表不錄。"}
+
+### LY-102
+Q:测病：是否为脑瘤、病情如何 | T:戌月丁丑日（年份不详） | SET:戌月丁丑日，患者亲属传话向王虎应测病；当时医学诊断（脑瘤）已作出但尚未手术，结论可被次日术前复查证伪或证实
+HEX:None | MOV:二爻子孙辰土○动、上爻父母寅木○动 | KONG:申酉 | HID:四爻子孙戌土下伏妻财酉金
+LINES:["父母寅木○　妻财酉金⚋", "官鬼子水⚋　官鬼亥水⚋", "子孙戌土⚋世　子孙丑土⚋", "兄弟午火⚋　父母卯木⚋", "子孙辰土○　兄弟巳火⚋", "父母寅木⚋应　子孙未土⚋"]
+ATTKEYS:['ben_gua', 'bian_gua', 'date_ganzhi', 'source', 'chart_lines_top_to_bottom', 'moving_lines', '空亡', 'hidden_lines']
+EXTRA:{"ben_gua": "山水蒙", "bian_gua": "坤为地", "date_ganzhi": "戌月丁丑日", "source": "王虎应《六爻预测自修宝典》测病例四，Scribd影印本 https://www.scribd.com/document/829859310/", "空亡": "申酉", "hidden_lines": "四爻子孙戌土下伏妻财酉金"}
+
+### LY-103
+Q:问当晚雨会不会停 | T:午月丙辰日（年份不详） | SET:午月丙辰日，占问当晚天气，数小时内即可验证
+HEX:None | MOV:二爻兄弟午火ㄨ动、五爻子孙未土ㄨ动 | KONG:子丑 | HID:None
+LINES:["兄弟巳火⚊　子孙戌土⚊", "子孙未土ㄨ　妻财申金⚊", "妻财酉金⚊应　兄弟午火⚊", "妻财申金⚊　妻财酉金⚊", "兄弟午火ㄨ　官鬼亥水⚊", "子孙辰土⚋世　子孙丑土⚋"]
+ATTKEYS:['ben_gua', 'bian_gua', 'date_ganzhi', 'source', 'chart_lines_top_to_bottom', 'moving_lines', '空亡']
+EXTRA:{"ben_gua": "火山旅", "bian_gua": "天风姤", "date_ganzhi": "午月丙辰日", "source": "王虎应《六爻预测自修宝典》测天气例一，Scribd影印本 https://www.scribd.com/document/829859310/", "空亡": "子丑"}
+
+### LY-104
+Q:自测病情 | T:辰月戊寅日（年份不详） | SET:辰月戊寅日（旬空申酉）自测病情，尚未确诊
+HEX:None | MOV:三爻官鬼酉金○（世）动 | KONG:None | HID:五爻父母子水下伏子孙巳火
+LINES:["兄弟寅木⚊应　兄弟寅木⚊", "父母子水⚋　父母子水⚋", "妻财戌土⚋　妻财戌土⚋", "官鬼酉金○世　子孙午火⚋", "父母亥水⚊　妻财辰土⚊", "妻财丑土⚋　兄弟寅木⚋"]
+ATTKEYS:['ben_gua', 'bian_gua', 'date_ganzhi', 'source', 'chart_lines_top_to_bottom', 'moving_lines', 'hidden_lines']
+EXTRA:{"ben_gua": "山风蛊", "bian_gua": "山水蒙", "date_ganzhi": "辰月戊寅日", "source": "王虎应《六爻预测疾病新探》第249页，经《六爻卦例一百例》汇编转录 https://www.scribd.com/document/831576273/", "hidden_lines": "五爻父母子水下伏子孙巳火"}
+
+### LY-105
+Q:代看母亲身体（病况如何） | T:乙酉年壬午月壬戌日（2005年前后） | SET:2005年前后，网友得知交流对象是王虎应学生，请其代看母亲身体；学生把握不准，转请王虎应指教。占时：乙酉年壬午月壬戌日（子丑空）丙午时
+HEX:None | MOV:四爻父母午火○（世）动、五爻子孙申金ㄨ动 | KONG:子丑 | HID:None
+LINES:["兄弟戌土⚋　妻财子水⚋", "子孙申金ㄨ　兄弟戌土⚊", "父母午火○世　子孙申金⚋", "兄弟辰土⚊　兄弟辰土⚊", "官鬼寅木⚊　官鬼寅木⚊", "妻财子水⚊应　妻财子水⚊"]
+ATTKEYS:['ben_gua', 'bian_gua', 'date_ganzhi', 'source', 'secondhand', 'chart_lines_top_to_bottom', 'moving_lines', '空亡']
+EXTRA:{"ben_gua": "雷天大壮", "bian_gua": "水天需", "date_ganzhi": "乙酉年壬午月壬戌日丙午时", "source": "《六爻疑惑指迷》相关转录（360doc，论坛帖整理） https://www.360doc.cn/article/35615136_990164122.html", "secondhand": true, "空亡": "子丑"}
+
+### LY-202
+Q:占財福 | T:寅月乙巳日 | SET:求測者在庠，因家寒意欲行醫，問財福如何
+HEX:雷天大壯（靜卦；卦名原文未直書，據所附裝卦推得） | MOV:無動爻（靜卦） | KONG:None | HID:None
+LINES:["兄弟戌土⚋", "子孫申金⚋", "父母午火⚊世", "兄弟辰土⚊", "官鬼寅木⚊", "妻財子水⚊應"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-203
+Q:占財福 | T:午月丙子日 | SET:其人目不識丁、農生度日，問財福
+HEX:地火明夷之雷火豐 | MOV:四爻官鬼丑土ㄨ動 | KONG:None | HID:None
+LINES:["父母酉金⚋　　官鬼戌土⚋", "兄弟亥水⚋　　父母申金⚋", "官鬼丑土ㄨ世　妻財午火⚊", "兄弟亥水⚊　　兄弟亥水⚊", "官鬼丑土⚋　　官鬼丑土⚋", "子孫卯木⚊應　子孫卯木⚊"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-204
+Q:占財福（再占問功名出仕） | T:酉月壬辰日 | SET:生意人先占財福，後再占問功名出仕
+HEX:初占：雷風恆（靜卦）；再占：火雷噬嗑之天地否 | MOV:五爻妻財未土ㄨ動、初爻父母子水○動 | KONG:None | HID:None
+LINES:["妻財戌土⚋應", "官鬼申金⚋", "子孫午火⚊", "官鬼酉金⚊世", "父母亥水⚊", "妻財丑土⚋", "子孫巳火⚊　　妻財戌土⚊", "妻財未土ㄨ世　官鬼申金⚊", "官鬼酉金⚊　　子孫午火⚊", "妻財辰土⚋　　兄弟卯木⚋", "兄弟寅木⚋應　子孫巳火⚋", "父母子水○　　妻財未土⚋"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-205
+Q:占終身財福 | T:巳月己丑日 | SET:問終身財福，自言功名之念已滅
+HEX:雷澤歸妹之地澤臨 | MOV:四爻官鬼午火○動 | KONG:None | HID:None
+LINES:["父母戌土⚋應　兄弟酉金⚋", "兄弟申金⚋　　子孫亥水⚋", "官鬼午火○　　父母丑土⚋", "父母丑土⚋世　父母丑土⚋", "妻財卯木⚊　　妻財卯木⚊", "官鬼巳火⚊　　官鬼巳火⚊"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-206
+Q:占終身財福 | T:卯月癸未日 | SET:問終身財福
+HEX:澤火革之風火家人 | MOV:上爻官鬼未土ㄨ動、四爻兄弟亥水○動 | KONG:None | HID:None
+LINES:["官鬼未土ㄨ　　子孫卯木⚊", "父母酉金⚊　　妻財巳火⚊", "兄弟亥水○世　官鬼未土⚋", "兄弟亥水⚊　　兄弟亥水⚊", "官鬼丑土⚋　　官鬼丑土⚋", "子孫卯木⚊應　子孫卯木⚊"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-207
+Q:占終身功名有無 | T:辰月乙未日 | SET:求測者原是武蔭、已任裨官，因病告退，問將來還有功名否
+HEX:地火明夷之雷火豐 | MOV:四爻官鬼丑土ㄨ動 | KONG:None | HID:None
+LINES:["父母酉金⚋　　官鬼戌土⚋", "兄弟亥水⚋　　父母申金⚋", "官鬼丑土ㄨ世　妻財午火⚊", "兄弟亥水⚊　　兄弟亥水⚊", "官鬼丑土⚋　　官鬼丑土⚋", "子孫卯木⚊應　子孫卯木⚊"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-208
+Q:占終身功名有無 | T:戌月戊辰日 | SET:問終身功名有無
+HEX:山風蠱（靜卦） | MOV:無動爻（靜卦） | KONG:None | HID:None
+LINES:["兄弟寅木⚊應", "父母子水⚋", "妻財戌土⚋", "官鬼酉金⚊世", "父母亥水⚊", "妻財丑土⚋"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-210
+Q:占壽 | T:辰月乙卯日 | SET:問壽元
+HEX:風澤中孚之火澤睽 | MOV:五爻父母巳火○動、四爻兄弟未土ㄨ動 | KONG:None | HID:None
+LINES:["官鬼卯木⚊　　父母巳火⚊", "父母巳火○　　兄弟未土⚋", "兄弟未土ㄨ世　子孫酉金⚊", "兄弟丑土⚋　　兄弟丑土⚋", "官鬼卯木⚊　　官鬼卯木⚊", "父母巳火⚊應　父母巳火⚊"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-211
+Q:占壽 | T:寅月己酉日 | SET:問壽元
+HEX:山地剝之天雷無妄 | MOV:五爻子孫子水ㄨ動、四爻父母戌土ㄨ動、初爻父母未土ㄨ動 | KONG:None | HID:None
+LINES:["妻財寅木⚊　　父母戌土⚊", "子孫子水ㄨ世　兄弟申金⚊", "父母戌土ㄨ　　官鬼午火⚊", "妻財卯木⚋　　父母辰土⚋", "官鬼巳火⚋應　妻財寅木⚋", "父母未土ㄨ　　子孫子水⚊"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-212
+Q:占索債得否（兼問成非否） | T:卯月丙寅日 | SET:漢口；求測者欲渡江索債，因屢取不得欲與之廝鬧
+HEX:風雷益之風澤中孚 | MOV:二爻兄弟寅木ㄨ動 | KONG:None | HID:None
+LINES:["兄弟卯木⚊應　兄弟卯木⚊", "子孫巳火⚊　　子孫巳火⚊", "妻財未土⚋　　妻財未土⚋", "妻財辰土⚋世　妻財丑土⚋", "兄弟寅木ㄨ　　兄弟卯木⚊", "父母子水⚊　　子孫巳火⚊"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-215
+Q:占流年 | T:寅月丁卯日 | SET:問流年吉凶
+HEX:風雷益之火澤睽 | MOV:五爻子孫巳火○動、四爻妻財未土ㄨ動、二爻兄弟寅木ㄨ動 | KONG:None | HID:None
+LINES:["兄弟卯木⚊應　子孫巳火⚊", "子孫巳火○　　妻財未土⚋", "妻財未土ㄨ　　官鬼酉金⚊", "妻財辰土⚋世　妻財丑土⚋", "兄弟寅木ㄨ　　兄弟卯木⚊", "父母子水⚊　　子孫巳火⚊"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-216
+Q:占僕人為禍否 | T:未月丙子日 | SET:此公知僕役變心、意欲處治而尚無實迹，故占之
+HEX:雷水解之震為雷 | MOV:二爻妻財辰土○動、初爻兄弟寅木ㄨ動 | KONG:None | HID:None
+LINES:["妻財戌土⚋　　妻財戌土⚋", "官鬼申金⚋應　官鬼申金⚋", "子孫午火⚊　　子孫午火⚊", "子孫午火⚋　　妻財辰土⚋", "妻財辰土○世　兄弟寅木⚋", "兄弟寅木ㄨ　　父母子水⚊"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-217
+Q:占定何罪 | T:未月癸亥日 | SET:問已定何罪
+HEX:風澤中孚之地澤臨 | MOV:上爻官鬼卯木○動、五爻父母巳火○動 | KONG:None | HID:None
+LINES:["官鬼卯木○　　子孫酉金⚋", "父母巳火○　　妻財亥水⚋", "兄弟未土⚋世　兄弟丑土⚋", "兄弟丑土⚋　　兄弟丑土⚋", "官鬼卯木⚊　　官鬼卯木⚊", "父母巳火⚊應　父母巳火⚊"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-218
+Q:先占父壽、又占母壽 | T:丑月庚子日 | SET:同日分占父母壽元：先占父壽，又占母壽
+HEX:初占父壽：天風姤（靜卦）；又占母壽：雷天大壯之地風升 | MOV:四爻父母午火○動、初爻妻財子水○動 | KONG:None | HID:None
+LINES:["父母戌土⚊", "兄弟申金⚊", "官鬼午火⚊應", "兄弟酉金⚊", "子孫亥水⚊", "父母丑土⚋世", "兄弟戌土⚋　　子孫酉金⚋", "子孫申金⚋　　妻財亥水⚋", "父母午火○世　兄弟丑土⚋", "兄弟辰土⚊　　子孫酉金⚊", "官鬼寅木⚊　　妻財亥水⚊", "妻財子水○應　兄弟丑土⚋"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-219
+Q:占父壽 | T:巳月乙酉日 | SET:問父親壽元
+HEX:巽為風之天風姤 | MOV:四爻妻財未土ㄨ動 | KONG:None | HID:None
+LINES:["兄弟卯木⚊世　妻財戌土⚊", "子孫巳火⚊　　官鬼申金⚊", "妻財未土ㄨ　　子孫午火⚊", "官鬼酉金⚊應　官鬼酉金⚊", "父母亥水⚊　　父母亥水⚊", "妻財丑土⚋　　妻財丑土⚋"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-220
+Q:占弟兄和好否、得濟否 | T:申月丙辰日 | SET:問兄弟和好與得濟否
+HEX:火天大有之乾為天 | MOV:五爻父母未土ㄨ動 | KONG:None | HID:None
+LINES:["官鬼巳火⚊應　父母戌土⚊", "父母未土ㄨ　　兄弟申金⚊", "兄弟酉金⚊　　官鬼午火⚊", "父母辰土⚊世　父母辰土⚊", "妻財寅木⚊　　妻財寅木⚊", "子孫子水⚊　　子孫子水⚊"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-221
+Q:占夫妻偕老否 | T:巳月丁未日 | SET:問夫妻能否偕老
+HEX:天雷無妄之風地觀 | MOV:四爻子孫午火○動、初爻父母子水○動 | KONG:None | HID:None
+LINES:["妻財戌土⚊　　兄弟卯木⚊", "官鬼申金⚊　　子孫巳火⚊", "子孫午火○世　妻財未土⚋", "妻財辰土⚋　　兄弟卯木⚋", "兄弟寅木⚋　　子孫巳火⚋", "父母子水○應　妻財未土⚋"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-222
+Q:占子嗣 | T:申月辛卯日 | SET:求測者三十七歲有子、已十八，因亂失散，至今無所出，問子嗣
+HEX:地雷復（靜卦） | MOV:無動爻（靜卦） | KONG:None | HID:None
+LINES:["子孫酉金⚋", "妻財亥水⚋", "兄弟丑土⚋應", "兄弟辰土⚋", "官鬼寅木⚋", "妻財子水⚊世"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-227
+Q:占鄉試 | T:午月丙辰日 | SET:問鄉試，前後兩占
+HEX:初占：兌為澤（靜卦，六沖）；再占：地澤臨之地水師 | MOV:初爻父母巳火○動 | KONG:None | HID:None
+LINES:["父母未土⚋世", "兄弟酉金⚊", "子孫亥水⚊", "父母丑土⚋應", "妻財卯木⚊", "官鬼巳火⚊", "子孫酉金⚋　　子孫酉金⚋", "妻財亥水⚋應　妻財亥水⚋", "兄弟丑土⚋　　兄弟丑土⚋", "兄弟丑土⚋　　父母午火⚋", "官鬼卯木⚊世　兄弟辰土⚊", "父母巳火○　　官鬼寅木⚋"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-228
+Q:占得差否 | T:申月戊寅日 | SET:問能否得差
+HEX:澤天夬（靜卦） | MOV:無動爻（靜卦） | KONG:None | HID:None
+LINES:["兄弟未土⚋", "子孫酉金⚊世", "妻財亥水⚊", "兄弟辰土⚊", "官鬼寅木⚊應", "妻財子水⚊"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-230
+Q:占何日補官 | T:戌月辛酉日 | SET:問何日補官
+HEX:水山蹇之水天需 | MOV:二爻官鬼午火ㄨ動、初爻父母辰土ㄨ動 | KONG:None | HID:None
+LINES:["子孫子水⚋　　子孫子水⚋", "父母戌土⚊　　父母戌土⚊", "兄弟申金⚋世　兄弟申金⚋", "兄弟申金⚊　　父母辰土⚊", "官鬼午火ㄨ　　妻財寅木⚊", "父母辰土ㄨ應　子孫子水⚊"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-231
+Q:占在任平安否（流年） | T:寅月壬午日 | SET:在任者占流年平安，自憂世爻變鬼
+HEX:山雷頤之火雷噬嗑 | MOV:四爻妻財戌土ㄨ動 | KONG:None | HID:None
+LINES:["兄弟寅木⚊　　子孫巳火⚊", "父母子水⚋　　妻財未土⚋", "妻財戌土ㄨ世　官鬼酉金⚊", "妻財辰土⚋　　妻財辰土⚋", "兄弟寅木⚋　　兄弟寅木⚋", "父母子水⚊應　父母子水⚊"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-232
+Q:出具文伸枉保全功名 | T:丑月丙辰日 | SET:出具文書伸冤，問能否保全功名
+HEX:雷天大壯之澤天夬 | MOV:五爻子孫申金ㄨ動 | KONG:None | HID:None
+LINES:["兄弟戌土⚋　　兄弟未土⚋", "子孫申金ㄨ　　子孫酉金⚊", "父母午火⚊世　妻財亥水⚊", "兄弟辰土⚊　　兄弟辰土⚊", "官鬼寅木⚊　　官鬼寅木⚊", "妻財子水⚊應　妻財子水⚊"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-234
+Q:占父何時起用 | T:卯月壬辰日 | SET:子占父何時起用
+HEX:風水渙之澤天夬 | MOV:上爻父母卯木○動、四爻子孫未土ㄨ動、三爻兄弟午火ㄨ動、初爻父母寅木ㄨ動 | KONG:None | HID:None
+LINES:["父母卯木○　　子孫未土⚋", "兄弟巳火⚊世　妻財酉金⚊", "子孫未土ㄨ　　官鬼亥水⚊", "兄弟午火ㄨ　　子孫辰土⚊", "子孫辰土⚊應　父母寅木⚊", "父母寅木ㄨ　　官鬼子水⚊"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-235
+Q:占借貸 | T:未月丁卯日 | SET:問借貸能否得財
+HEX:火地晉（靜卦） | MOV:無動爻（靜卦） | KONG:None | HID:None
+LINES:["官鬼巳火⚊", "父母未土⚋", "兄弟酉金⚊世", "妻財卯木⚋", "官鬼巳火⚋", "父母未土⚋應"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-237
+Q:占出行謁見貴人 | T:申月丁卯日 | SET:出行謁見貴人，問能否得見
+HEX:天火同人（靜卦） | MOV:無動爻（靜卦） | KONG:None | HID:None
+LINES:["子孫戌土⚊應", "妻財申金⚊", "兄弟午火⚊", "官鬼亥水⚊世", "子孫丑土⚋", "父母卯木⚊"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-240
+Q:占借貸 | T:未月丁卯日 | SET:問借貸
+HEX:兌為澤之震為雷 | MOV:五爻兄弟酉金○動、二爻妻財卯木○動 | KONG:None | HID:None
+LINES:["父母未土⚋世　父母戌土⚋", "兄弟酉金○　　兄弟申金⚋", "子孫亥水⚊　　官鬼午火⚊", "父母丑土⚋應　父母辰土⚋", "妻財卯木○　　妻財寅木⚋", "官鬼巳火⚊　　子孫子水⚊"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}
+
+### LY-241
+Q:占鵪鶉（鬥鵪鶉勝負） | T:巳月戊申日 | SET:以鵪鶉相鬥，占勝負
+HEX:風山漸之巽為風 | MOV:二爻父母午火ㄨ動 | KONG:None | HID:None
+LINES:["官鬼卯木⚊應　官鬼卯木⚊", "父母巳火⚊　　父母巳火⚊", "兄弟未土⚋　　兄弟未土⚋", "子孫申金⚊世　子孫酉金⚊", "父母午火ㄨ　　妻財亥水⚊", "兄弟辰土⚋　　兄弟丑土⚋"]
+ATTKEYS:['casting_method', 'hexagram', 'moving_lines', 'chart_lines_top_to_bottom']
+EXTRA:{}

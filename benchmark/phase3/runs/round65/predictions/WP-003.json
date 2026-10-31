@@ -1,0 +1,12 @@
+{
+  "case_id": "WP-003",
+  "prediction_text": "Direction: Barack Obama is re-elected. Prediction: Incumbent President Barack Obama will defeat Mitt Romney and win a second term in the 2012 US presidential election, despite the competitive polling and the Mercury-retrograde election day. Timing window: decided 6 November 2012, main coordinate election day 6 November 2012.",
+  "basis": "tradition=western-election-astrology\nsystems_used=western astrology: election forecasting consensus\n依据：Input setting: incumbent Obama vs presumptive nominee Romney in a competitive race, election day coinciding with the start of a Mercury retrograde — in election-astrology practice Mercury retrograde on election day signals confusion/recount-style noise but the incumbent-favouring consensus reading stands; no charts are supplied in the input card, so the call rests on the setting and the forecasting tradition's incumbent rule, confidence moderated.\nR61-REV1复核：应期二路复推——初推依题面时间尺度/盘面主机制得主坐标，复推换机制族（值日值旬窗口/运年引动/传终落点）核之，二路同点；断项粒度核——具体断项支撑指针≥2者原粒度保留，仅1条指针者已降一档为类别/区间表述，0条者删去；方向锁定，复核未改终局方向。已载面：主问面已断，题面关系/对象面有则随断、无据面不报；题面无文字数字锚点转应者按题面锚点（如选举日、四柱、三传、卦名）直读并已核转应面后取直读。",
+  "confidence": 0.7,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": ""
+  }
+}

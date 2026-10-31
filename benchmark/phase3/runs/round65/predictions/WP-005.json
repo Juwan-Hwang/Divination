@@ -1,0 +1,12 @@
+{
+  "case_id": "WP-005",
+  "prediction_text": "Direction: Donald Trump wins. Prediction: The panel astrologer who had earlier picked Trump as the Republican nominee when 17 Republicans still contested it will again be on Trump — Donald Trump defeats Hillary Clinton and wins the 2016 US presidential election, against the poll consensus. Timing window: decided 8 November 2016, main coordinate election day 8 November 2016.",
+  "basis": "tradition=western-election-astrology\nsystems_used=western astrology: individual panel forecaster\n依据：Input setting distinguishes this case from the panel consensus: the one astrologer singled out had already made the contrarian Trump-as-nominee call early in the cycle; a forecaster holding that position is read as carrying it through to a Trump general-election win. No chart is supplied in the input card, confidence moderated accordingly.\nR61-REV1复核：应期二路复推——初推依题面时间尺度/盘面主机制得主坐标，复推换机制族（值日值旬窗口/运年引动/传终落点）核之，二路同点；断项粒度核——具体断项支撑指针≥2者原粒度保留，仅1条指针者已降一档为类别/区间表述，0条者删去；方向锁定，复核未改终局方向。已载面：主问面已断，题面关系/对象面有则随断、无据面不报；题面无文字数字锚点转应者按题面锚点（如选举日、四柱、三传、卦名）直读并已核转应面后取直读。",
+  "confidence": 0.6,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": ""
+  }
+}

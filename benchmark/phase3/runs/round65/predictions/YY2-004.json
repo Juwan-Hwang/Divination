@@ -1,0 +1,12 @@
+{
+ "case_id": "YY2-004",
+ "prediction_text": "方向:存疑(盘面残损,无法成断)。本题本卦名原书版面即缺字,只知变卦为雷天大壮;本卦不明则本宫、世应、六亲、动爻皆无从定,任何寿数方向与应期都属臆补,故不报方向、不报应期。应期:无据不报。待盘面有可核来源补齐后方可重断。",
+ "basis": "tradition=liuyao\nsystems_used=liuyao\n输入残损注明:attachments.hexagram本卦名缺字(『得□之大壮』),chart_lines_top_to_bottom=null、moving_lines=null,题面notes.completion_grade已明载两字段『不可补』及其查证过程;空亡子丑系由丁巳日推算复原一节可记。按冻结提示『输入残损照实在basis注明并降置信,不臆补』:用神、旺衰、动化、四路、应期三步、R61复推均无盘面可执行,逐项记『无据不报』。confidence=0.05。",
+ "confidence": 0.05,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "disputed:本卦名原书缺字、chart_lines与moving_lines均为null,盘面不可补(题面notes已明载),无从起断;余二项否"
+ }
+}
