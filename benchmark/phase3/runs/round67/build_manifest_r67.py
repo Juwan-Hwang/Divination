@@ -1,0 +1,86 @@
+#!/usr/bin/env python3
+"""R67 host tooling: build runs/round67/judging/outcome-manifest.json.
+
+Carry-note extraction follows the ADDENDUM-r57 s.1 fix: structured read of
+the adjudication JSON only (no regex truncation extraction).
+
+Layers:
+- cases payload verbatim from runs/round66 manifest (487 cases; LR2-016
+  split state and all prior note layers preserved untouched).
+- _r67_carryover_notes_addendum NEW: R66 adjudication partial-upheld 41
+  from data/case-annotations-r66.json (manifest_carry_suggestion),
+  effective from R67 per STAGE-SUMMARY-51 R67 list item 1. Upheld-10 are
+  same-issue continuations already carried in earlier layers; unexamined-1
+  in R66 adjudication (YM-070, held as-is). Counts asserted equal to the
+  R66 REPORT s.1 published distribution (10/41/2/1, total 54) and every
+  partial item asserted to carry a non-empty suggestion. The R67 data
+  seat compiles data/manifest-carryover-r67-addendum.md assembling these
+  41 for cross-verification against this layer (PREREG s.4).
+No outcome strings changed; no scores touched.
+"""
+import json
+from pathlib import Path
+
+P3 = Path("/home/hatch/workspace/divination/benchmark/phase3")
+SRC = P3 / "runs/round66/judging/outcome-manifest.json"
+ANN66 = P3 / "data/case-annotations-r66.json"
+OUT = P3 / "runs/round67/judging/outcome-manifest.json"
+
+
+def json_notes(ann_path, dispositions):
+    d = json.loads(ann_path.read_text(encoding="utf-8"))
+    out = {}
+    for a in d["annotations"]:
+        if a["disposition"] in dispositions:
+            assert a["manifest_carry_suggestion"], a["case_id"]
+            out[a["case_id"]] = a["manifest_carry_suggestion"]
+    return out, d
+
+
+m = json.loads(SRC.read_text(encoding="utf-8"))
+cases = dict(m["cases"])
+assert len(cases) == 487
+assert len(m["_r56_carryover_notes"]) == 29
+assert len(m["_r57_carryover_notes_addendum"]) == 21
+assert len(m["_r58_carryover_notes_addendum"]) == 17
+assert len(m["_r59_carryover_notes_addendum"]) == 29
+assert len(m["_r60_carryover_notes_addendum_a"]) == 14
+assert len(m["_r60_carryover_notes_addendum_b"]) == 20
+assert len(m["_r61_carryover_notes_addendum"]) == 34
+assert len(m["_r62_carryover_notes_addendum"]) == 58
+assert len(m["_r63_carryover_notes_addendum"]) == 65
+assert len(m["_r64_carryover_notes_addendum"]) == 72
+assert len(m["_r65_carryover_notes_addendum"]) == 99
+assert len(m["_r66_carryover_notes_addendum"]) == 40
+assert m["_r56_lr2016_split"]["case_id"] == "LR2-016"
+assert cases["LR2-016"] == "众不然其说，三月冯大司寇上疏，旨意驳下，四月上疏，依拟脱离。"
+
+notes, ann66 = json_notes(ANN66, {"部分成立"})
+assert len(notes) == 41, f"r66 partial = {len(notes)}"
+assert ann66["counts"]["verdicts"] == {"部分成立": 41, "成立": 10, "不成立": 2, "未核": 1}, ann66["counts"]
+assert ann66["counts"]["cases_total"] == 54
+
+for cid in notes:
+    assert cid in cases, f"note case {cid} not in manifest"
+
+src_cases = json.loads(SRC.read_text(encoding="utf-8"))["cases"]
+diffs = [c for c in src_cases if cases[c] != src_cases[c]]
+assert not diffs, f"unexpected payload diffs: {diffs}"
+
+m["cases"] = cases
+m["_r67_carryover_notes_addendum"] = notes
+m["_r67_manifest_note"] = (
+    "Built for R67 from runs/round66 manifest: cases payload verbatim for "
+    "all 487 cases (LR2-016 split state preserved); prior layers preserved "
+    "(_r56_carryover_notes 29, _r57_carryover_notes_addendum 21, "
+    "_r58_carryover_notes_addendum 17, _r59_carryover_notes_addendum 29, "
+    "_r60_carryover_notes_addendum_a 14, _r60_carryover_notes_addendum_b 20, "
+    "_r61_carryover_notes_addendum 34, _r62_carryover_notes_addendum 58, "
+    "_r63_carryover_notes_addendum 65, _r64_carryover_notes_addendum 72, "
+    "_r65_carryover_notes_addendum 99, _r66_carryover_notes_addendum 40); "
+    "_r67_carryover_notes_addendum from data/case-annotations-r66.json "
+    "partial-upheld 41 by structured read (counts asserted equal to R66 "
+    "REPORT s.1 distribution 10/41/2/1, total 54). No scores changed."
+)
+OUT.write_text(json.dumps(m, ensure_ascii=False, indent=1), encoding="utf-8")
+print("OK r67 layer:", len(notes))
