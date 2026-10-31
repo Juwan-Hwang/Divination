@@ -1,0 +1,12 @@
+{
+  "case_id": "WP-012",
+  "prediction_text": "倾向判断：Joe Biden 赢得选举并实际就任总统，其后美国进入争议与撕裂期。方向：Biden 胜选且入主白宫（单一终局）；具体断语：Trump 拒绝认输、邮寄选票争议与法律挑战持续数周，交接受阻但最终完成，国家政治对立加深。应期/时间窗：胜负 2020-11 月内定，实际就任 2021-01-20（月档，先定月再落就任日）。置信：中。",
+  "basis": "WP-012：no tradition field on card；subject=2020 United States presidential election and its aftermath，question 含胜者、实际就任者与国家后续三面。\n已载面：主问三面逐面列——胜者面、实际就任面、后续面；题面载民调 Biden 领先、邮寄投票争议、败者可能不认输之警告。盘面触发：无占盘；事实面触发为民调领先（胜者/就任）与题面明示的争议警告（后续面）。断项过闸：三面各有题面指回，保留；后续只报争议与撕裂层级，不虚构具体事件。应期按 (k) 月档：先定 2020-11 月胜负，再落 2021-01-20 就任。无占盘，二路复推不适用。",
+  "confidence": 0.64,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": "非六爻：三项全 false。"
+  }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-005",
+ "prediction_text": "Prediction: Donald Trump wins the 2016 US presidential election, defeating Hillary Clinton on 8 November 2016 (timing: fixed election date). The panellist who had already, against a 17-candidate Republican field, picked Trump for the nomination follows the same judgement through to the presidency: the outsider takes the White House despite Clinton's polling lead.",
+ "basis": "No tradition field on card; decided from the card's own genre: one named-by-description panellist's individual election forecast at the Costa Mesa conference (October 2016 reports). This case differs from WP-004 on its card face: the subject is the single astrologer whose earlier against-the-field call (Trump as Republican nominee out of 17) is carried on the card — that track-record facet is the distinguishing pointer, joined by the outsider/Uranian profile of the candidacy; two pointers, full granularity kept. Facet check: main facet (winner) answered for this individual's call, not the panel majority. Timing is the fixed election date.",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

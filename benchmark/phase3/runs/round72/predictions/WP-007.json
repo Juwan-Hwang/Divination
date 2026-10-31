@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Prediction: Donald Trump wins the 2016 US presidential election (timing: fixed election date, 8 November 2016). What decides it is not Trump's strength but Clinton's damage: the email controversy and the Clinton Foundation controversies corrode her standing through the autumn until the apparently safe polling lead fails her.",
+ "basis": "No tradition field on card; decided from the card's own genre: a tarot reading on the election (Manhattan, Union Square Park, August 2016; reported 26 Aug 2016) — no cards are carried on the card face, so the reading is reconstructed from the card-carried facets and the deciding-factor facet is answered from them. This case: 2016 election, winner plus what will decide it; card-carried facts = Clinton leads most August polls, her email controversy and the Clinton Foundation are already public controversies. Facet check: main facet (winner) answered; deciding-factor facet answered from the two card-carried controversy facets (two pointers, kept at full granularity as the deciding mechanism). Note of limits: the drawn cards themselves are not on the card, so no card-by-card basis can be cited — confidence is lowered accordingly rather than inventing a spread.",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

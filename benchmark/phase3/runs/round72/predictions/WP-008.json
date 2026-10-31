@@ -1,0 +1,12 @@
+{
+  "case_id": "WP-008",
+  "prediction_text": "倾向判断：Narendra Modi 领导的 BJP/NDA 获胜并连任。方向：NDA 胜、Modi 连任总理；具体断语：BJP 仍为第一大党、NDA 过半组阁，反对党 Congress 有所恢复但不足以翻盘。应期/时间窗：计票日 2019-05-23 定局（问题尺度为单次选举计票日，日档）。置信：中。",
+  "basis": "WP-008：no tradition field on card；subject=2019 Indian general (Lok Sabha) election，question=Who will win。\n已载面：主问胜者、现任 Modi/BJP-NDA 寻求连任、Congress 反对派、投票 4/11-5/19 与 5/23 计票。盘面触发：卡面无卦盘/星盘，只有事实面——现任执政联盟组织与席次基础为最强可指认指针，题面未载可推翻现任的民调或危机面。断项过闸：胜者断项指回主问面、触发为现任优势面，保留；席次确数无指针，不报确数、只报过半层级（粒度降档）。应期按计票日定点，无二路复推盘面可换（无盘），明写 R61-REV1 二路复推不适用（无占盘）。",
+  "confidence": 0.62,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": "非六爻：三项全 false。"
+  }
+}

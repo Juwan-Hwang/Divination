@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "Prediction: Hillary Clinton wins the 2016 US presidential election, defeating Donald Trump on 8 November 2016 (timing: fixed election date) — the conference panel's majority judgement, in line with the polling lead she holds through October.",
+ "basis": "No tradition field on card; decided from the card's own genre: an international astrology conference election forecasting panel (Costa Mesa, October 2016), as reported. This case: 2016 US presidential election, panel context; card-carried facts = Clinton (Democrat) vs Trump (Republican), most polls favour Clinton, the panel is the forecasting body. Facet check: main facet (winner) answered at panel level — this card asks for the panel's collective call, and the panel-majority pointer plus the sustained polling lead are the two pointers kept at full granularity. (The companion card WP-005 isolates one individual panellist and is answered separately on its own card facts.) Timing is the fixed election date.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

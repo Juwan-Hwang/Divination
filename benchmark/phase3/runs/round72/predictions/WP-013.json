@@ -1,0 +1,12 @@
+{
+  "case_id": "WP-013",
+  "prediction_text": "倾向判断：Labour（工党）在 Keir Starmer 领导下赢得 2024 年英国大选。方向：Labour 胜、Conservatives 下台；具体断语：Labour 以大幅领先获胜、取得下议院明显多数，Sunak 的保守党惨败。应期/时间窗：2024-07-04 选举日定局（日档）。置信：中高。",
+  "basis": "WP-013：no tradition field on card；subject=2024 United Kingdom general election，question=Who will win（2024-07-04）。\n已载面：主问胜者、Labour 民调领先约 20 点、Sunak 因 D-Day 事件受批评、选举日在 Cancer 太阳星座期。盘面触发：事实面民调 20 点领先为决定性指针（通则 e）；星座面仅 1 条弱指针，不作主断依据、只作旁注。断项过闸：胜者与多数层级指回民调面，保留；确切席次无指针不报。二路复推不适用（无占盘）。",
+  "confidence": 0.72,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": "非六爻：三项全 false。"
+  }
+}

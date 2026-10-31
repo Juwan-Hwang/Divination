@@ -1,0 +1,12 @@
+{
+  "case_id": "WP-009",
+  "prediction_text": "倾向判断：India 不会夺得 2019 Cricket World Cup 冠军。方向：印度止步淘汰赛阶段（四强层级）、无缘冠军；具体断语：小组/循环赛表现强势但淘汰赛一场失手即出局，冠军归另一支强队。应期/时间窗：赛事 2019-05-30 至 07-14，淘汰赛期 7 月上中旬定局（日档随赛程）。置信：低中。",
+  "basis": "WP-009：no tradition field on card；subject=ICC Cricket World Cup 2019 India team，question=Will India win。\n已载面：主问印度夺冠否、十队单循环+淘汰赛制、印度为热门之一、队长 Kohli。盘面触发：卡面无星盘数据（仅 Kohli 出生年），无可复核的盘面指针支持夺冠断；赛制面为关键触发——单场淘汰使热门夺冠概率天然低于五成。断项过闸：夺冠否主断指回主问面、触发为赛制+无盘面支持，保留为否定；止步阶段仅 1 条指针（赛制），粒度降为四强层级表述。无占盘，R61-REV1 二路复推不适用。",
+  "confidence": 0.55,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": "非六爻：三项全 false。"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": "WP-010",
+  "prediction_text": "倾向判断：Joe Biden 赢得 2020 年美国总统选举。方向：Biden 胜、Trump 连任失败；具体断语：Biden 在选举人票与普选票均占优，Trump 阵营对结果有争议动作但不改变胜者。应期/时间窗：2020-11-03 选举日后数日内定局（日档）。置信：中。",
+  "basis": "WP-010：no tradition field on card；subject=2020 United States presidential election（本卡为三位占星者意见分歧的一例），question=Who will win。\n已载面：主问胜者、民调利 Biden、Trump 为现任、三位 Vedic 占星者彼此分歧。盘面触发：卡面载明民调领先为最强事实指针（通则 e 事实优先）；星盘细节本卡未给可复核数据，占星一面有面无据不报。断项过闸：胜者断指回主问面、触发为民调面，保留；星盘断项无指针删去。无占盘，二路复推不适用。",
+  "confidence": 0.63,
+  "trigger": {
+    "changed_main": false,
+    "reserve_used": false,
+    "disputed": false,
+    "reason": "非六爻：三项全 false。"
+  }
+}
