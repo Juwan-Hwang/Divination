@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Direction: Donald Trump wins, and the decider is Clinton's email controversy. The Union Square tarot reading on the 2016 election points to Trump taking the White House on 8 November 2016; what decides it is the Clinton email/Foundation affair — a late resurgence of that scandal in the final stretch breaks Clinton's lead. Timing: decided 8 November 2016, with the deciding blow landing in the last two weeks of the campaign.",
+ "basis": "tradition: Tarot (reader draws cards on the election; card-given method)\nsystems_used: Tarot election reading (Waite tradition) + factual controversy faces given in card\nInput limitation noted: the card does not transcribe the actual cards drawn — the spread cannot be re-read card-by-card, so this prediction is made at the level of the reading's reported structure plus the card-given factual faces, and confidence is held at 0.5. Faces listed: main face = who wins and what decides it; event faces = Clinton leads in August polls; email controversy and Clinton Foundation already public controversies (card-given). Claim check: Trump wins / emails decide → triggers: (1) the question's own 'what will decide it' face points at the controversies the card itself supplies — the email affair is the only card-given controversy with an unresolved, re-ignitable status; (2) a mere polling-lead face in August does not settle a November outcome against a live scandal face. Retained as tendency-level on the decider mechanism (late resurgence), identity claim kept.\n应验跨度档位（k）：Day scale fixed by question (election day 8 Nov 2016 given); decider window = final two weeks (campaign scale given)。\nR61-REV1-2 应期二路复推：初推路径与坐标——Direct: election day 8 Nov 2016；复推路径与坐标——Second path: decider-face timing — a late-campaign resurgence must land within the final fortnight to decide; election-day coordinate unchanged；处置——Two paths agree on main coordinate。\nR61-REV1-4 断项粒度核：Claim 'Trump wins': identity, kept; 'emails decide via late resurgence': mechanism claim 1 pointer, kept as tendency wording; exact dates of resurgence not claimed",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-001",
+ "prediction_text": "Direction: Yes — a major collective affliction, specifically a worldwide pandemic. The 2020–2021 mark, with Jupiter–Saturn–Pluto conjunct and the cyclical index at its 21st-century low (the same signature that accompanied 1918, 1954, 1968 and 1982), holds a global epidemic of a respiratory/influenza type, peaking in 2020 and extending into 2021, with mass illness and large-scale mortality. Timing: year-scale; onset and peak in 2020 (main coordinate), tail through 2021.",
+ "basis": "tradition: Western mundane astrology (no tradition field in card; decided from chart configuration given)\nsystems_used: Mundane astrology: outer-planet conjunction + cyclical index + historical cluster comparison\nFaces listed: main face = what collective affliction 2020–2021 holds; event face = five outer planets within ~100°, Jupiter–Saturn–Pluto conjunction exact early 2020, cyclical index at century low; anchor face = past comparable clusters (1918, 1954, 1968, 1982) — each past cluster coincided with an influenza pandemic year, which is the chart's own comparison set. Claim check: pandemic →指代 chain lands on the collective/world (subject as given) → triggers: (1) conjunction signature, (2) historical cluster correspondence; two pointers, same landing, retained at full granularity. Type of pathogen beyond 'respiratory/influenza-type' has only the historical-analogy pointer, kept as type-tendency wording.\n应验跨度档位（k）：Year scale (mundane multi-year configuration; (k) year band, year before month)。\nR61-REV1-2 应期二路复推：初推路径与坐标——Direct path: conjunction exact early 2020 → main coordinate 2020；复推路径与坐标——Second path (different family): cyclical-index minimum window spans 2020–2021, peak weight on 2020 — same coordinate；处置——Two paths agree; single main coordinate retained。\nR61-REV1-4 断项粒度核：Claim 'global pandemic': category claim, 2 pointers agree, full granularity kept; 'respiratory type' 1 pointer, downgraded to tendency wording",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

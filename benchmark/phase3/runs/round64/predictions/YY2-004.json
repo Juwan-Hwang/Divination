@@ -1,0 +1,12 @@
+{
+ "case_id": "YY2-004",
+ "prediction_text": "方向：存疑不断终局（盘面残损、无从起断）。具体断语：本例输入卡自注本卦名原书版面缺字，本卦不明则本宫、世应、六亲、动爻皆无从定，变卦「雷天大壮」一侧亦系于本宫五行不能单独成盘；在此残损下不断寿数长短、不报终期，以防臆补。应期（年档，寿元尺度）：无据不报——不给窗口内主坐标，待盘面补全后再断。",
+ "basis": "tradition=liuyao（输入卡自带）\nsystems_used: 六爻纳甲（拟用而盘面残损、未执行）\n输入残损注明（照卡面notes原文口径）：本卦名缺字（「得□之大壮」），chart_lines_top_to_bottom=null、moving_lines=null，仅空亡子丑由日干支丁巳推得；本宫、世应、六亲、动爻皆无从定。按纪律输入残损照实注明并降置信、不臆补，故本例只登记残损、不作寿断。\n已载面表：自己寿期（主问）——处置为「有面无据不报」，无据之处为全盘缺失如上。题面无文字/数字锚点，转应核不适用。\n动化方向：无盘，不适用。反转条件：无盘，不适用。四路合参：无盘，不适用。\n应期：无应期、R61-REV1-2/-3 不适用（无主坐标可复推）；R61-REV1-4：无具体断项，不适用。",
+ "confidence": 0.15,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "输入卡本卦名原书缺字、chart_lines与moving_lines均为null，盘面不可复原，disputed=true；changed_main/reserve_used=false（无盘可取）。"
+ }
+}

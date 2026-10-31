@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "Direction: Hillary Clinton wins (panel consensus). The forecasting panel at the Costa Mesa international astrology conference reads the 8 November 2016 election for Hillary Clinton: the consensus of the panel is that Clinton defeats Donald Trump and becomes president, in line with the polling lead she holds in October. Timing: decided 8 November 2016.",
+ "basis": "tradition: Western astrology (conference election panel; no tradition field, decided from setting)\nsystems_used: Election-panel consensus reading + factual race structure (polling)\nFaces listed: main face = who wins 2016; event faces = Clinton vs Trump, most polls favour Clinton, panel convened to forecast. Claim check: Clinton wins → triggers: (1) panel consensus as reported in the source setting (the panel is the reading instrument of this case), (2) factual polling lead. Retained as the panel's prediction. Note: this records the panel consensus face only; the dissenting individual face is the separate case WP-005 and is not merged here.\n应验跨度档位（k）：Day scale fixed by question (election day 8 Nov 2016 given)。\nR61-REV1-2 应期二路复推：初推路径与坐标——Direct: election day 8 Nov 2016；复推路径与坐标——Second path: panel timing — forecasts issued for election day itself, same date；处置——Two paths agree。\nR61-REV1-4 断项粒度核：Claim 'Clinton wins (panel consensus)': identity, 2 pointers (consensus + polls) kept at panel-claim granularity",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

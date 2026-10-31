@@ -1,0 +1,1483 @@
+========================= AS-001
+{
+ "id": "AS-001",
+ "subject": {
+  "name_or_desc": "A woman, at Lilly's house in the country"
+ },
+ "context": {
+  "question": "Is my son with his master, or at my own house?",
+  "asked_at": "Question figure discussed as of July 1638 (figure heading in the 1647 printing is partly illegible in OCR: 'Anno Dom. 1638 ... July'); Lilly computed from the ephemeris that the significators of mother and son perfected a trine on 25 July at 2 p.m.",
+  "setting": "Her son was away from home; she did not know where he was staying",
+  "attachments": {
+   "ascendant": "25° Libra",
+   "asc_ruler": "Venus (lady of the ascendant, significator of the querent/mother)",
+   "key_positions": "Jupiter, lord of the 5th (the son's significator), placed in the Ascendant (east angle); Moon in 27° Pisces applying to a sextile of Saturn, lord of the 4th (the mother's dwelling); Mars lord of the 6th in Sagittarius; the absent party also described by Jupiter in the Ascendant and Venus in the 9th",
+   "note": "Positions as stated in Lilly's prose judgment; the full figure is printed as Fig. 3 in the 1852 edition and in Book II of the 1647 original."
+  }
+ },
+ "provenance": {
+  "book": "William Lilly, Christian Astrology (1647), Book II",
+  "edition": "1647 first edition (Internet Archive scan OCR); wording cross-checked against the 1852 Zadkiel edition where noted",
+  "url": "https://archive.org/details/christian-astrology-1647",
+  "page": "Book II, the example figure resolving four queries (1st: if a party might be found at home; 4th: if one absent be dead or alive) — 1647 pp.190ff in modern reprint pagination; Fig. 3 in the 1852 Zadkiel edition"
+ },
+ "language": "en"
+}
+========================= AS-002
+{
+ "id": "AS-002",
+ "subject": {
+  "name_or_desc": "A tradesman of London"
+ },
+ "context": {
+  "question": "(1) Shall I be rich, or subsist of myself without marriage? (2) By what means shall I attain wealth? (3) When? (4) Shall it continue?",
+  "asked_at": "1634, London (exact day not stated in the text)",
+  "setting": "Asked in the year 1634; Lilly lived to see the outcome ('I have seen the experience of my judgment')",
+  "attachments": {
+   "asc_ruler": "Venus, lady of the ascendant, near Regulus (Cor Leonis)",
+   "key_positions": "Mars, lord of the 2nd and lord of the Part of Fortune, in the Ascendant near Spica at 18° Libra; Jupiter in his exaltation (Cancer) angular, almost culminating (10th); Moon lady of the 10th in Leo, separating from sextile of Mars and conjunction of Mercury, applying to conjunction of Venus, wanting 6°27' of the conjunction; Part of Fortune in a fixed sign in the terms of Mars; cusp of the 2nd a fixed sign",
+   "note": "Positions as stated in Lilly's prose judgment."
+  }
+ },
+ "provenance": {
+  "book": "William Lilly, Christian Astrology (1647), Book II",
+  "edition": "1647 first edition (Internet Archive scan OCR); wording cross-checked against the 1852 Zadkiel edition where noted",
+  "url": "https://archive.org/details/christian-astrology-1647",
+  "page": "Book II, chapter on 2nd-house questions (whether the querent shall be rich), example figure of the London tradesman"
+ },
+ "language": "en"
+}
+========================= AS-003
+{
+ "uid": "AS-003",
+ "tradition": "horary",
+ "subject": {
+  "name_or_desc": "William Lilly himself"
+ },
+ "context": {
+  "question": "If I should purchase Master B. his houses — shall I deal with the seller and procure money in time to pay for the purchase?",
+  "asked_at": "31 March 1634, 6 p.m. (figure heading as printed: '31 March 1634. 6 Hor. P.M.')",
+  "setting": "In 1634 the inheritance of the house he lived in (in the Strand, London) and others were offered to him for sale; his own money could not be called in for six months; the seller's first demand was £530",
+  "attachments": {
+   "key_positions": "Sun (significator of the seller) locally placed in the 7th, received by Venus(?) in exaltation near the cusp of the 7th; lord of the 7th also lord of the 11th (Lilly's hopes); Venus applying to a trine of Saturn, lord of the 4th (the houses); Moon translating light by square aspect out of signs of long ascension; Mercury, lord of Lilly's 2nd, retrograde; Saturn lord of the 4th without material debilities except retrogradation and cadency",
+   "note": "The ascending sign/degree is garbled in the 1647 OCR ('the degree of the Sign is the same wherein [Mars] was in my Radix'); positions above are those Lilly names in prose."
+  }
+ },
+ "provenance": {
+  "book": "William Lilly, Christian Astrology (1647), Book II"
+ }
+}
+========================= AS-004
+{
+ "id": "AS-004",
+ "source_id": "lilly-horary-1643-cambridge-rumour",
+ "subject": {
+  "name_or_desc": "A well-affected person (a Parliament sympathiser), asking Lilly"
+ },
+ "context": {
+  "question": "Is the news/report true — has the King taken Cambridge?",
+  "asked_at": "1643 (exact day not stated in the text)",
+  "setting": "1643, during the Civil War: reports were circulating that the King's forces had taken Cambridge",
+  "attachments": {
+   "key_positions": "All angles moveable; Saturn vitiating the cusp of the 10th and Mars the cusp of the 7th (per Lilly's prose); Moon cadent in a sign 'wherein she nothing delights'; Sun on the cusp of the Ascendant; lady of the Ascendant (significatrix of the querent side / Parliament) in her exaltation; lord of the 7th (the King's side) entering his fall and afflicted",
+   "note": "Positions as stated in Lilly's prose judgment."
+  }
+ },
+ "provenance": {
+  "book": "William Lilly, Christian Astrology (1647), Book II",
+  "edition": "1647 first edition (Internet Archive scan OCR); wording cross-checked against the 1852 Zadkiel edition where noted",
+  "url": "https://archive.org/details/christian-astrology-1647",
+  "page": "Book II, Chap. XXXI 'If a Report or common Rumour were True or False' (1647 pp.204–208)"
+ },
+ "language": "en"
+}
+========================= AS-005
+{
+ "uid": "AS-005",
+ "tradition": "horary",
+ "subject": {
+  "name_or_desc": "A friend of a London merchant asked on the merchant's behalf"
+ },
+ "context": {
+  "question": "What think you of the ship — is she sunk, or living? And afterwards: where is she, on what coast, and when will news come of her?",
+  "asked_at": "December 1644, London (exact day not stated)",
+  "setting": "December 1644: the merchant had sent a ship to trade to the coast of Spain; repeated news said she was wrecked; insurers refused to insure her at £60 per cent or on any terms",
+  "attachments": {
+   "ascendant": "Cancer (the ascending degrees of Cancer shew the bulk/body of the ship)",
+   "key_positions": "Saturn in Aries in the 11th casting a square very near the Ascendant; Moon, lady of the Ascendant, in Taurus in the 11th in her exaltation, applying by trine to Sun and Mercury in the 7th (wanting but a few minutes of a perfect trine) and near the body of Jupiter; South Node (Cauda) in the 9th; Part of Fortune disposed of by Mars; Mercury in reception with Mars",
+   "note": "Positions as stated in Lilly's prose judgment."
+  }
+ },
+ "provenance": {
+  "book": "William Lilly, Christian Astrology (1647), Book II"
+ }
+}
+========================= AS-007
+{
+ "uid": "AS-007",
+ "tradition": "horary",
+ "subject": {
+  "name_or_desc": "An unnamed querent asking Lilly during the Civil War"
+ },
+ "context": {
+  "question": "Whether Sir William Waller or Sir Ralph Hopton should overcome?",
+  "asked_at": "Friday 29 March 1644 (figure erected the day of the engagement)",
+  "setting": "Friday 29 March 1644: Sir William Waller's Parliamentarian army and Sir Ralph Hopton's Royalist army were supposed engaged near Alresford, Hampshire (the Battle of Cheriton)",
+  "attachments": {
+   "key_positions": "Ascendant and Moon, Jupiter and Venus for Waller's side; Saturn lord of the 7th for Hopton; Moon in her exaltation with Jupiter; Sun, lord of Waller's substance/assistants, in the 10th in the very degree of his exaltation (19° Aries); only Mars and the South Node in the 9th (no supplies ready for Hopton); Saturn (Hopton's significator) sub radiis, in his fall, in no aspect to any planet, peregrine, aspecting the cusp of the 7th by square; Moon distant 11° from Venus, swift and increasing in light",
+   "note": "Positions as stated in Lilly's prose judgment (Fig. 20 in the 1852 edition)."
+  }
+ },
+ "provenance": {
+  "book": "William Lilly, Christian Astrology (1647), Book II"
+ }
+}
+========================= AS-008
+{
+ "uid": "AS-008",
+ "tradition": "horary",
+ "subject": {
+  "name_or_desc": "A person of honour asked Lilly"
+ },
+ "context": {
+  "question": "If his Excellency Robert Earl of Essex should take Reading, having then surrounded it with his army?",
+  "asked_at": "During the siege of Reading (the town was delivered 27 April; the year is printed '1644' in the 1647 OCR but the historical siege of Reading ended in April 1643 — see notes)",
+  "setting": "Robert, Earl of Essex, Parliament's general, had surrounded Reading with his army; the town was held for the King, governor Sir Arthur Aston (spelled 'Acton' in the 1852 edition)",
+  "attachments": {
+   "key_positions": "Mars, lord of Scorpio (the sign ascending per the 1852 judgment), significator of Essex, well fortified except being in his fall, and in reception with the Moon (Mars in her house, she in his terms and face, near Regulus, in the 10th); Moon void of course, applying to a sextile of Mars (equivalent to a square in signs of long ascension); Sun, the King's significator, in the 7th in a fixed sign; Aquarius, the sign on the 4th, for the town; Saturn lord of the 4th for the governor, in his fall; Jupiter lord of the 5th and Venus placed therein for the town's ammunition and provision",
+   "note": "Positions as stated in Lilly's prose judgment (Chap. LXVI in the 1647 printing; Fig. 21 in the 1852 edition)."
+  }
+ },
+ "provenance": {
+  "book": "William Lilly, Christian Astrology (1647), Book II"
+ }
+}
+========================= AS-009
+{
+ "uid": "AS-009",
+ "tradition": "horary",
+ "subject": {
+  "name_or_desc": "A London dog owner living at Temple Bar"
+ },
+ "context": {
+  "question": "What part of the city should they search? And shall he recover the dog?",
+  "asked_at": "Not stated in the text",
+  "setting": "His dog (a small beast, 6th-house signification) had strayed and was missing; London, so Lilly notes he has no example of sheep/hogs to give, only this dog",
+  "attachments": {
+   "key_positions": "Querent signified by the sign ascending and its lord (Saturn on/near the Ascendant — the querent described as Saturnine); the sign of the 6th and its lord signify the dog; the dog's significator in a western sign, southern quarter verging west; Moon in an airy sign, under the beams of the Sun; Sun and Moon in the 8th; the dog's significator in a sign of the same triplicity as the ascendant (signifying London) applying to a trine of the cusp of the 6th; Sun on the following Monday applying by dexter aspect to Saturn lord of the Ascendant",
+   "note": "Positions as stated in Lilly's prose judgment; several glyphs are garbled in the 1647 OCR."
+  }
+ },
+ "provenance": {
+  "book": "William Lilly, Christian Astrology (1647), Book II"
+ }
+}
+========================= AS-010
+{
+ "id": "AS-010",
+ "subject": {
+  "name_or_desc": "A master whose servant (a young fellow of about nineteen) had run away the Sunday preceding"
+ },
+ "context": {
+  "question": "Which way is the fugitive servant gone, and when shall he return / be recovered?",
+  "asked_at": "Not stated in the text (servant left on the Sunday before the question)",
+  "setting": "The servant had left his master and his whereabouts were unknown",
+  "attachments": {
+   "key_positions": "Ascendant with its lord and the Moon therein signifying the master; Mercury peculiarly the servant's significator in this figure (the Moon being the common significator of servants); Moon at the time of flight in a western sign and still in the same sign; Mercury in a western sign, south quarter; Moon in the 2nd in her own house; Sun in the 2nd in perfect aspect with a planet in the 11th; servant's significator and lord of the Ascendant hastening to a trine out of angles",
+   "note": "Positions as stated in Lilly's prose judgment."
+  }
+ },
+ "provenance": {
+  "book": "William Lilly, Christian Astrology (1647), Book II",
+  "edition": "1647 first edition (Internet Archive scan OCR); wording cross-checked against the 1852 Zadkiel edition where noted",
+  "url": "https://archive.org/details/christian-astrology-1647",
+  "page": "Book II, Chap. LXI 'Of Fugitive Servant, which way gone, when return'"
+ },
+ "language": "en"
+}
+========================= AS-011
+{
+ "id": "AS-011",
+ "subject": {
+  "name_or_desc": "A lady who had long been courted by a gentleman suitor; she had continually slighted him and finally given him an absolute denial, then bitterly repented and wished the match revived"
+ },
+ "context": {
+  "question": "Can this marriage match be revived/effected?",
+  "asked_at": "June of an unstated year (Lilly advised the gentleman to make the first move on 19 June near noon; Saturn and Mars came to aspect on 27 June)",
+  "setting": "She came to Lilly in great heaviness, asking whether the match could be brought on again without scandal to her honour; Lilly first read her own history from the figure, which she then confessed in full",
+  "attachments": {
+   "key_positions": "Sun, lord of the Ascendant, significator of the lady; Saturn, lord of the 7th, significator of the gentleman, in the south angle in conjunction with Mars in a fixed earthy sign, elevated; Moon separated from [the gentleman's significator] void of course, applying to opposition of the Sun; reception between Venus and the Moon, and between the Sun and Venus; Moon disposing of Saturn in her exaltation; Jupiter in his exaltation applying to a sextile of Saturn, lord of the 7th, and transferring Saturn's virtue to the Sun, lord of the Ascendant, with no prohibition, abscission or frustration before the aspect perfected (perfected 27 June)",
+   "note": "Positions as stated in Lilly's prose judgment."
+  }
+ },
+ "provenance": {
+  "book": "William Lilly, Christian Astrology (1647), Book II",
+  "edition": "1647 first edition (Internet Archive scan OCR); wording cross-checked against the 1852 Zadkiel edition where noted",
+  "url": "https://archive.org/details/christian-astrology-1647",
+  "page": "Book II, 7th-house (marriage) chapters — the example judgment printed at 1647 pp.385–388, immediately before Chap. LXI"
+ },
+ "language": "en"
+}
+========================= AS-012
+{
+ "uid": "AS-012",
+ "tradition": "horary",
+ "subject": {
+  "name_or_desc": "A clergyman (the querent, described by Lilly as covetous, of good wit and volubility of tongue) seeking a benefice"
+ },
+ "context": {
+  "question": "If he should obtain the parsonage (benefice) desired?",
+  "asked_at": "Not stated in the text",
+  "setting": "He had lately lost the benefit of some good place in the Commonwealth and was solicitous how to live in his former credit; he pressed his suit for the parsonage despite Lilly's advice",
+  "attachments": {
+   "key_positions": "Saturn impedited in the Ascendant, 'infortuning' the question; Jupiter lord of the 9th (significator of the benefice) in no aspect with Mars(?) lord of the Ascendant, nor the Moon in any aspect with him; neither lord of the Ascendant nor Moon placed in the 9th; no translation or collection of light, and no reception between the significators; Moon separating from a trine and applying to an opposition of Mercury, lord of the 3rd; Venus in the 7th house opposing the Ascendant",
+   "note": "Some planet glyphs are garbled in the 1647 OCR; the seven numbered negative testimonies are Lilly's own enumeration."
+  }
+ },
+ "provenance": {
+  "book": "William Lilly, Christian Astrology (1647), Book II"
+ }
+}
+========================= AS-013
+{
+ "uid": "AS-013",
+ "tradition": "horary",
+ "subject": {
+  "name_or_desc": "William Lilly himself, living in the country (Walton-on-Thames)"
+ },
+ "context": {
+  "question": "What became of my goods — who stole them, where are they, and can I recover them?",
+  "asked_at": "Saturday 10 February 1637 (Old Style; 1637/8), at the moment Lilly first heard the report",
+  "setting": "He had bought fish in London for his Lenten provision; it came by barge to Walton, and on Saturday 10 February 1637 (Old Style) a waterman told him their warehouse had been robbed the night before and his fish stolen; Lilly erected the figure for the exact time he first heard the report",
+  "attachments": {
+   "key_positions": "Jupiter, the only peregrine planet in an angle, on the cusp of the 7th, in Scorpio (a moist sign) — taken as significator of the thief; Mercury, significator of Lilly's goods, in Pisces (a moist sign); Part of Fortune in Cancer (a moist sign); Moon in Taurus, an earthy sign, under the earth; Mercury, lord of the 2nd, in his fall and detriment but in his own terms, applied to by sextile of the Moon (lady of the Part of Fortune) and having a trine to the Part of Fortune; Mars lord of the 7th leaving Scorpio, his own sign",
+   "note": "Positions as stated in Lilly's prose judgment (Fig. 19 in the 1852 edition)."
+  }
+ },
+ "provenance": {
+  "book": "William Lilly, Christian Astrology (1647), Book II"
+ }
+}
+========================= AS-014
+{
+ "id": "AS-014",
+ "subject": {
+  "name_or_desc": "A querent whose money had been stolen; he suspected a woman servant (shown by Mars) and another (shown by Saturn) and tried to persuade Lilly of it"
+ },
+ "context": {
+  "question": "Who stole my money, and shall I have it again?",
+  "asked_at": "Not stated in the text",
+  "setting": "Question of theft: who is the thief, and shall the money be recovered?",
+  "attachments": {
+   "ascendant": "Scorpio",
+   "key_positions": "Mars, lord of the Ascendant, in 25°02' Leo, in square to Mercury and Saturn, but in his own terms and face (therefore refused as the thief's significator); Saturn in the west angle (7th, house of theft) likewise in his own term and face (also passed by); Mercury in an angle, having no essential dignity, in partile conjunction with Saturn and square to Mars — taken to signify the thief; Moon in a masculine sign applying to Mars; Mercury conjunct Saturn and square Mars, both masculine planets; Moon so near the Sun, separating",
+   "note": "Positions as stated in Lilly's prose judgment (Fig. 18 in the 1852 edition)."
+  }
+ },
+ "provenance": {
+  "book": "William Lilly, Christian Astrology (1647), Book II",
+  "edition": "1647 first edition (Internet Archive scan OCR); wording cross-checked against the 1852 Zadkiel edition where noted",
+  "url": "https://archive.org/details/christian-astrology-1647",
+  "page": "Book II, theft chapters — judgment on Fig. 18 (wording cross-checked in the 1852 Zadkiel edition)"
+ },
+ "language": "en"
+}
+========================= AS-015
+{
+ "id": "AS-015",
+ "source_id": "lilly-horary-husband-at-sea",
+ "subject": {
+  "name_or_desc": "A gentlewoman whose husband was at sea; she was herself extremely disfigured by smallpox, weak-eyed, full of grief for her husband, and chronically ill (Saturn, lord of her 6th, retrograde — she relapsed from one disease into another)"
+ },
+ "context": {
+  "question": "A woman asked of her husband at sea: if alive, where, and when shall he return?",
+  "asked_at": "Not stated in the text",
+  "setting": "She asked Lilly about her absent husband; Lilly judged both the husband's state and, from the same figure, her own fate",
+  "attachments": {
+   "key_positions": "The 7th house taken as the woman's ascendant in this question; Saturn lord of the 6th retrograde; the husband's significator (the Sun, per Lilly's prose) in her hayz and free from all affliction; Mars and Saturn moving to an ill aspect, Mars then near the place of the Moon in the question (about 2° of a sign) and Saturn in about 2° of Capricorn, the Moon at that (later) moment in about 20°",
+   "note": "Positions partly garbled in the 1647 OCR; the husband's significator being wholly unafflicted is one of the points Lilly states unambiguously."
+  }
+ },
+ "provenance": {
+  "book": "William Lilly, Christian Astrology (1647), Book II",
+  "edition": "1647 first edition (Internet Archive scan OCR); wording cross-checked against the 1852 Zadkiel edition where noted",
+  "url": "https://archive.org/details/christian-astrology-1647",
+  "page": "Book II, Chap. LXXI 'A woman asked of her Husband at Sea, if alive, where, when return?'"
+ },
+ "language": "en"
+}
+========================= AS-204
+{
+ "id": "AS-204",
+ "tradition": "horary",
+ "subject": {
+  "name_or_desc": "A sick doctor (the patient; the question asked concerning him)"
+ },
+ "context": {
+  "question": "What was his disease? If curable? What part of the body was afflicted?",
+  "asked_at": "Not stated in the chapter.",
+  "setting": "A decumbiture-type sickness question: the doctor was ill, and Lilly, having little judgment in physic himself, judged from the figure and afterwards spoke with the patient.",
+  "attachments": {
+   "ascendant": "Scorpio",
+   "key_positions": "The sixth house afflicted by a planet in his fall placed therein; the lord of the Ascendant lately separated from a dexter square of Saturn, Saturn at that time in Cancer (signifying the breast and stomach); the Moon in the fourth house with Saturn; all the angles fixed",
+   "note": "Positions as stated in Lilly's prose judgment."
+  }
+ },
+ "provenance": {
+  "book": "William Lilly, Christian Astrology (1647), Book II",
+  "chapter": "Book II, Chap. XLV: a sick doctor — what was his disease, if curable, what part of the body afflicted",
+  "url": "https://archive.org/details/christian-astrology-1647",
+  "version": "1647 first edition (Internet Archive scan OCR, auxiliary/christian-astrology-vol1-3_djvu.txt); wording cross-checked against the 1852 Zadkiel edition (Introduction to Astrology) and the second OCR (christian-astrology-1647-original_djvu.txt) where noted"
+ },
+ "language": "en"
+}
+========================= AS-205
+{
+ "id": "AS-205",
+ "tradition": "horary",
+ "subject": {
+  "name_or_desc": "A sick man (the patient)"
+ },
+ "context": {
+  "question": "Whether the sick would live or die, and what his disease was?",
+  "asked_at": "16 July 1645 (figure heading; see the ocr_note on the year).",
+  "setting": "A sickness question on the figure of 16 July 1645.",
+  "attachments": {
+   "key_positions": "The Ascendant most afflicted by the corporal presence of a planet who is partly lord of the eighth house; the sign of the sixth fixed and afflicted, and the lord of the sixth in a fixed, earthly, melancholy sign; the Sun, the temporal light, in perfect opposition of Saturn, lord of the sixth, in fixed signs; the Moon neer the Dragon's Tail (Cauda Leonis in the OCR) and afflicted in the Ascendant",
+   "note": "Positions as stated in Lilly's prose judgment; the ascending sign's glyph is corrupt in the OCR and is not asserted here."
+  }
+ },
+ "provenance": {
+  "book": "William Lilly, Christian Astrology (1647), Book II",
+  "chapter": "Book II, Chap. XLVI: whether the sick would live or die, and what his disease was (figure of 16 July 1645)",
+  "url": "https://archive.org/details/christian-astrology-1647",
+  "version": "1647 first edition (Internet Archive scan OCR, auxiliary/christian-astrology-vol1-3_djvu.txt); wording cross-checked against the 1852 Zadkiel edition (Introduction to Astrology) and the second OCR (christian-astrology-1647-original_djvu.txt) where noted"
+ },
+ "language": "en"
+}
+========================= AS-206
+{
+ "id": "AS-206",
+ "tradition": "horary",
+ "subject": {
+  "name_or_desc": "A woman (the querent), of tall stature, ruddy complexioned, sober, discreet and well spoken"
+ },
+ "context": {
+  "question": "If she should marry the man desired?",
+  "asked_at": "Anno 1646 (figure heading fragment); the day is not legible in the OCR.",
+  "setting": "She desired to marry a particular man, who was very tall, slender and lean, of black hair, stood upon high terms, and had been tampering with another.",
+  "attachments": {
+   "key_positions": "Mercury, significatrix of the querent, retrograde and under the Sun-beams; the quesited's significator in his exaltation, neer the sextile of Venus; both significators in a semi-sextile and in good houses; the Moon separating from a square of Jupiter and carrying his light by a trine to Mercury, lord of the Ascendant",
+   "note": "Positions as stated in Lilly's prose judgment."
+  }
+ },
+ "provenance": {
+  "book": "William Lilly, Christian Astrology (1647), Book II",
+  "chapter": "Book II, Chap. LX: if she should marry the man desired (printed pp.389–390; Fig. 15 in the 1852 Zadkiel edition)",
+  "url": "https://archive.org/details/christian-astrology-1647",
+  "version": "1647 first edition (Internet Archive scan OCR, auxiliary/christian-astrology-vol1-3_djvu.txt); wording cross-checked against the 1852 Zadkiel edition (Introduction to Astrology) and the second OCR (christian-astrology-1647-original_djvu.txt) where noted"
+ },
+ "language": "en"
+}
+========================= AS-207
+{
+ "id": "AS-207",
+ "tradition": "horary",
+ "subject": {
+  "name_or_desc": "William Laud, Archbishop of Canterbury (the quesited), then a prisoner"
+ },
+ "context": {
+  "question": "What manner of death should Canterbury die?",
+  "asked_at": "Not stated in the chapter.",
+  "setting": "The Archbishop was imprisoned and his fate in question during the Civil War; Lilly professes he honoured the man and never had speech or acquaintance with him.",
+  "attachments": {
+   "key_positions": "The cusp of the ninth house taken for his Ascendant (he being a man of the Church); Saturn, lord of that sign, in his fall, a long time retrograde, and posited in the twelfth of the figure; the Moon separating from Saturn and applying to the Sun neer the cusp of the eighth house; the Sun in a fiery sign applying to an opposition of Mars, the dispositor of the aged Bishop; Mars in an airy and humane sign; the Moon wanting seven degrees of the body of Mars",
+   "note": "Positions as stated in Lilly's prose judgment; the ascending degree is not given in the prose and is not asserted here."
+  }
+ },
+ "provenance": {
+  "book": "William Lilly, Christian Astrology (1647), Book II",
+  "chapter": "Book II, Chap. LXXII: what manner of death Canterbury should die (printed pp.419–420)",
+  "url": "https://archive.org/details/christian-astrology-1647",
+  "version": "1647 first edition (Internet Archive scan OCR, auxiliary/christian-astrology-vol1-3_djvu.txt); wording cross-checked against the 1852 Zadkiel edition (Introduction to Astrology) and the second OCR (christian-astrology-1647-original_djvu.txt) where noted"
+ },
+ "language": "en"
+}
+========================= AS-208
+{
+ "id": "AS-208",
+ "tradition": "horary",
+ "subject": {
+  "name_or_desc": "Prince Rupert (the quesited); the querent a very great well-willer to the Parliament"
+ },
+ "context": {
+  "question": "If Prince Rupert should get honour by our wars, or worst the Earl of Essex? What should become of him?",
+  "asked_at": "Not stated in the chapter; internal evidence (Edgehill fight 'above a moneth before') places it about November–December 1642.",
+  "setting": "Asked in time of war, about a month after the fight at Edgehill (23 October 1642), in which Essex had the better and kept the ground.",
+  "attachments": {
+   "key_positions": "Rupert, as a noble person of eminency, signified by the tenth house and its lord, the Sun, peregrine and in his detriment in a fixed sign; Essex signified by Venus, lady of the opposite house, in reception with Saturn, she disposing of Rupert's significator; the Moon casting her sinister aspect to the cusp of the tenth; Venus also casting a dexter aspect to the cusp of the tenth",
+   "note": "Positions as stated in Lilly's prose judgment."
+  }
+ },
+ "provenance": {
+  "book": "William Lilly, Christian Astrology (1647), Book II",
+  "chapter": "Book II, Chap. LXXXV: if Prince Rupert should get honour by our wars, or worst the Earl of Essex; what should become of him",
+  "url": "https://archive.org/details/christian-astrology-1647",
+  "version": "1647 first edition (Internet Archive scan OCR, auxiliary/christian-astrology-vol1-3_djvu.txt); wording cross-checked against the 1852 Zadkiel edition (Introduction to Astrology) and the second OCR (christian-astrology-1647-original_djvu.txt) where noted"
+ },
+ "language": "en"
+}
+========================= AS-209
+{
+ "id": "AS-209",
+ "tradition": "horary",
+ "subject": {
+  "name_or_desc": "King Charles I and Queen Henrietta Maria (the quesiteds); the querent unnamed"
+ },
+ "context": {
+  "question": "(1) If his Majesty should procure forces out of Ireland to harm the Parliament? (2) If the Queen, then in the North, would advance with her army, prosper, and when his Majesty should meet her?",
+  "asked_at": "Not stated in the chapter.",
+  "setting": "One figure answering two war questions: whether the King would procure Irish forces against the Parliament, and whether the Queen, then in the North with an army, would advance, prosper, and meet the King.",
+  "attachments": {
+   "key_positions": "His Majesty signified by the Moon in Cancer in the tenth house, in her own house, increasing in light, and void of all infelicity except slowness in motion; the Sun, lord of the eleventh (the house signifying assistance or aid), posited in the seventh in his exaltation, applying to the cusp of the eleventh but wanting six degrees of being partill, and in direct opposition to the Ascendant (the Parliament); the Queen's significatrix Saturn, lord of the fourth (being the seventh from the tenth), removing out of one sign into another and going into Aries, his fall; the Moon wanting three or four degrees of the trine of Saturn",
+   "note": "Positions as stated in Lilly's prose judgment."
+  }
+ },
+ "provenance": {
+  "book": "William Lilly, Christian Astrology (1647), Book II",
+  "chapter": "Book II, the chapter following Chap. LXXXV: if his Majesty should procure forces out of Ireland; if the Queen would advance with her army, and when his Majesty should meet her",
+  "url": "https://archive.org/details/christian-astrology-1647",
+  "version": "1647 first edition (Internet Archive scan OCR, auxiliary/christian-astrology-vol1-3_djvu.txt); wording cross-checked against the 1852 Zadkiel edition (Introduction to Astrology) and the second OCR (christian-astrology-1647-original_djvu.txt) where noted"
+ },
+ "language": "en"
+}
+========================= AS-210
+{
+ "id": "AS-210",
+ "tradition": "horary",
+ "subject": {
+  "name_or_desc": "A gentleman (the querent) seeking an office or place of preferment"
+ },
+ "context": {
+  "question": "If he should obtain the office or place he looked after (if attain the preferment desired)?",
+  "asked_at": "The same time, within four or five minutes, as the preceding figure; no separate date is stated.",
+  "setting": "The figure was erected at the same time, within four or five minutes, as the preceding figure (the King's Irish forces and the Queen's advance). He employed as his friend a solar man.",
+  "attachments": {
+   "key_positions": "The Ascendant and Venus for the querent; the tenth house for the office or place of preferment; the Moon placed in the tenth, applying to a trine of Saturn, who hath exaltation in the Ascendant, receives Venus and is received of her again; Saturn also lord of the fourth; the Sun in the seventh house in opposition to the Ascendant and with the Dragon's Tail, he being lord of the eleventh (the pretended friend); the Moon separating from a square of Mercury",
+   "note": "Positions as stated in Lilly's prose judgment."
+  }
+ },
+ "provenance": {
+  "book": "William Lilly, Christian Astrology (1647), Book II",
+  "chapter": "Book II, Chap. LXXXVI: if attain the preferment desired (Fig. 28 in the 1852 Zadkiel edition)",
+  "url": "https://archive.org/details/christian-astrology-1647",
+  "version": "1647 first edition (Internet Archive scan OCR, auxiliary/christian-astrology-vol1-3_djvu.txt); wording cross-checked against the 1852 Zadkiel edition (Introduction to Astrology) and the second OCR (christian-astrology-1647-original_djvu.txt) where noted"
+ },
+ "language": "en"
+}
+========================= AS-211
+{
+ "id": "AS-211",
+ "tradition": "horary",
+ "subject": {
+  "name_or_desc": "The owner of a horse lost or stolen neer Henley (the querent, unnamed)"
+ },
+ "context": {
+  "question": "A horse lost or stolen neer Henley — if recoverable or not? And which way did he go?",
+  "asked_at": "Not stated in the chapter.",
+  "setting": "The horse was missing neer Henley; the querent asked both whether it was recoverable and which way it had gone.",
+  "attachments": {
+   "key_positions": "The lord of the twelfth, significator of the horse, retrograde and hastening to a conjunction of the lord of the querent's second house (his house of substance); the Moon locally in the second; two retrograde planets neer the cusp of the second; the sign of the twelfth and the sign wherein its lord was placed both west (the plurality of testimonies full west); the seventh house afflicted",
+   "note": "Positions as stated in Lilly's prose judgment."
+  }
+ },
+ "provenance": {
+  "book": "William Lilly, Christian Astrology (1647), Book II",
+  "chapter": "Book II, Chap. XCIII: a horse lost or stolen neer Henley, if recoverable or not (printed pp.467–468)",
+  "url": "https://archive.org/details/christian-astrology-1647",
+  "version": "1647 first edition (Internet Archive scan OCR, auxiliary/christian-astrology-vol1-3_djvu.txt); wording cross-checked against the 1852 Zadkiel edition (Introduction to Astrology) and the second OCR (christian-astrology-1647-original_djvu.txt) where noted"
+ },
+ "language": "en"
+}
+========================= AS-212
+{
+ "id": "AS-212",
+ "tradition": "horary",
+ "subject": {
+  "name_or_desc": "A sick person (the patient), asked about by others"
+ },
+ "context": {
+  "question": "If bewitched?",
+  "asked_at": "Anno 1646 (figure heading fragment); the day is not legible in the OCR.",
+  "setting": "The physicians had prescribed much physic and it wrought no effect, but the patient was worse and worse, which gave those that asked some reason to suspect witchcraft.",
+  "attachments": {
+   "key_positions": "The Moon going to an opposition of Saturn, both planets in the sixth and twelfth houses (which gave suspicion of witchcraft); but neither the Ascendant nor its lord, nor the Moon, afflicted by the lord of the twelfth; the Moon applying after her opposition of Saturn unto the lord of the Ascendant, he above the earth ascending towards the meridian; Saturn on the cusp of the sixth, its lady in the twelfth",
+   "note": "Positions as stated in Lilly's prose judgment."
+  }
+ },
+ "provenance": {
+  "book": "William Lilly, Christian Astrology (1647), Book II",
+  "chapter": "Book II, Chap. XCIV: if bewitched (printed pp.468–470)",
+  "url": "https://archive.org/details/christian-astrology-1647",
+  "version": "1647 first edition (Internet Archive scan OCR, auxiliary/christian-astrology-vol1-3_djvu.txt); wording cross-checked against the 1852 Zadkiel edition (Introduction to Astrology) and the second OCR (christian-astrology-1647-original_djvu.txt) where noted"
+ },
+ "language": "en"
+}
+========================= AS-213
+{
+ "id": "AS-213",
+ "tradition": "horary",
+ "subject": {
+  "name_or_desc": "A prisoner escaped out of prison (the quesited); the querent unnamed"
+ },
+ "context": {
+  "question": "A prisoner escaped out of prison — which way did he go? If recoverable?",
+  "asked_at": "Not stated in the chapter.",
+  "setting": "The prisoner had broken out of prison; the querent asked which way he had gone and whether he would be recovered.",
+  "attachments": {
+   "key_positions": "The person of the prisoner represented by the cusp of the twelfth (Sagittarius) and by Jupiter in Leo; the sign of the twelfth, the sign wherein Jupiter is, the quarter of heaven, and the sign wherein the Moon is, unanimously eastward; the Moon neer the Ascendant; Jupiter in the eighth house; the Moon separating from a trine of Jupiter and applying to an opposition of the Sun, both in angles; Jupiter and Mercury in aspect with each other",
+   "note": "Positions as stated in Lilly's prose judgment."
+  }
+ },
+ "provenance": {
+  "book": "William Lilly, Christian Astrology (1647), Book II",
+  "chapter": "Book II, Chap. XCV: a prisoner escaped out of prison — which way he went, if recoverable (Fig. 29 in the 1852 Zadkiel edition)",
+  "url": "https://archive.org/details/christian-astrology-1647",
+  "version": "1647 first edition (Internet Archive scan OCR, auxiliary/christian-astrology-vol1-3_djvu.txt); wording cross-checked against the 1852 Zadkiel edition (Introduction to Astrology) and the second OCR (christian-astrology-1647-original_djvu.txt) where noted"
+ },
+ "language": "en"
+}
+========================= AS-215
+{
+ "id": "AS-215",
+ "tradition": "horary",
+ "subject": {
+  "name_or_desc": "Robert Devereux, Earl of Essex, Lord General of the Parliament's army"
+ },
+ "context": {
+  "question": "Event figure: what success, honour and issue should the Earl have from this his last expedition into the West?",
+  "asked_at": "The time of his Excellency the Earl of Essex his last setting forth into the West, 1644 (event moment; the day is not stated in the text).",
+  "setting": "An event figure (not a posed question): the scheme of the time of the Earl's last setting forth into the West in 1644, judged by Lilly for posterity.",
+  "attachments": {
+   "ascendant": "Aquarius",
+   "key_positions": "Saturn, Venus and Mercury having dignities in the Ascendant; the Moon separating from a trine of Saturn and applying to a square of Mars, lord of his (the Earl's) second and ninth houses (substance, assistants, friends, journeys); the Dragon's Tail in the Ascendant; Saturn, lord of the Ascendant, peregrine and in his fall in the second; the Moon in her detriment; the Part of Fortune disposed by Mercury, lord of the seventh, a significator of his enemies",
+   "note": "Positions as stated in Lilly's prose judgment."
+  }
+ },
+ "provenance": {
+  "book": "William Lilly, Christian Astrology (1647), Book II",
+  "chapter": "Book II: the time of his Excellency the Earl of Essex his last setting forth into the West (printed p.473; Fig. 31 in the 1852 Zadkiel edition)",
+  "url": "https://archive.org/details/christian-astrology-1647",
+  "version": "1647 first edition (Internet Archive scan OCR, auxiliary/christian-astrology-vol1-3_djvu.txt); wording cross-checked against the 1852 Zadkiel edition (Introduction to Astrology) and the second OCR (christian-astrology-1647-original_djvu.txt) where noted"
+ },
+ "language": "en"
+}
+========================= AS-301
+{
+ "uid": "AS-301",
+ "tradition": "astrology",
+ "subject": {
+  "name_or_desc": "全球疫情（COVID-19）进程",
+  "basic_info": "2020年初暴发的新冠疫情"
+ },
+ "context": {
+  "question": "公开预测：2020年世界局势（逐月）",
+  "asked_at": "2019-11-11",
+  "setting": "2019年11月时疫情尚未出现；Adams在其占星博客按星象逐月发布世界局势预测"
+ },
+ "provenance": {
+  "book": "Jessica Adams 博客原文（由其本人2020-02-28页面引回）https://www.jessicaadams.com/2020/02/28/blog/astrology-predictions-wall-st-2020/"
+ }
+}
+========================= AS-302
+{
+ "id": "AS-302",
+ "source_id": "P06",
+ "subject": {
+  "name_or_desc": "新冠疫苗前景",
+  "basic_info": "COVID-19疫苗研发，2020年10月时多款疫苗处三期试验阶段"
+ },
+ "context": {
+  "question": "公开预测：未来六个月新冠疫情走向（含疫苗前景）",
+  "asked_at": "2020-10-19",
+  "setting": "2020年10月Adams接受英国《镜报》访问谈未来六个月疫情走向"
+ },
+ "provenance": {
+  "book": "英国《镜报》2020-10-19报道，经 mediclife 等转载 https://mediclife.net/news/british-astrologer-who-predicted-coronavirus/173316",
+  "edition": "",
+  "url": "https://mediclife.net/news/british-astrologer-who-predicted-coronavirus/173316",
+  "page": "2020-10-19"
+ },
+ "language": "zh-Hant"
+}
+========================= AS-303
+{
+ "id": "AS-303",
+ "subject": {
+  "name_or_desc": "第三次世界大战爆发时间",
+  "basic_info": "全球地缘冲突，2024年时有俄乌、巴以两场战争进行中"
+ },
+ "context": {
+  "question": "公开预测：第三次世界大战爆发时间",
+  "asked_at": "2024-06（事前，Moneycontrol于结果前报道）",
+  "setting": "Kumar以「印度诺斯特拉达穆斯」之名在媒体持续发布三战日期预测"
+ },
+ "provenance": {
+  "book": "Moneycontrol https://www.moneycontrol.com/news/trends/indian-astrologer-makes-startling-claim-predicts-date-of-world-war-3-12730553.html",
+  "edition": "",
+  "url": "https://www.moneycontrol.com/news/trends/indian-astrologer-makes-startling-claim-predicts-date-of-world-war-3-12730553.html",
+  "page": "2024-06（事前，Moneycontrol于结果前报道）"
+ },
+ "language": "zh-Hant"
+}
+========================= AS-304
+{
+ "id": "AS-304",
+ "subject": {
+  "name_or_desc": "2024年美国总统选举",
+  "basic_info": "民主党候选人卡玛拉·哈里斯对共和党候选人唐纳德·特朗普，2024年11月5日投票"
+ },
+ "context": {
+  "question": "公开预测：2024年美国总统选举结果",
+  "asked_at": "2024-09-09",
+  "setting": "2024年9月9日，选情胶着，多数民调显示两人接近"
+ },
+ "provenance": {
+  "book": "其X（推特）账号原文，后经 Timesnownews 报道引录（链接略，标题含断语已剥离）",
+  "edition": "",
+  "url": "（链接略，标题含断语已剥离）",
+  "page": "2024-09-09"
+ },
+ "language": "zh-Hant"
+}
+========================= AS-305
+{
+ "id": "AS-305",
+ "subject": {
+  "name_or_desc": "2024年美国总统选举",
+  "basic_info": "同P09"
+ },
+ "context": {
+  "question": "公开预测：2024年美国总统选举结果",
+  "asked_at": "2024-11-05之前（选前发布）",
+  "setting": "选前其撰文分析选举日星盘与两候选人行运，自承盘面势均力敌、极难判断"
+ },
+ "provenance": {
+  "book": "Astrology King 网站 https://astrologyking.com/2024-us-election-prediction/",
+  "edition": "",
+  "url": "https://astrologyking.com/2024-us-election-prediction/",
+  "page": "2024-11-05之前（选前发布）"
+ },
+ "language": "zh-Hant"
+}
+========================= AS-306
+{
+ "uid": "AS-306",
+ "tradition": "vedic-astrology",
+ "subject": {
+  "name_or_desc": "2024年美国总统选举及民主党候选人更替",
+  "basic_info": "时任总统拜登竞选连任，2024年6月时其年龄与状态已受质疑，但退选尚未发生"
+ },
+ "context": {
+  "question": "公开预测：2024年美国总统选举走向（含候选人更替）",
+  "asked_at": "2024-06-02（视频发布日期，据通稿）",
+  "setting": "2024年6月2日其发布视频预测大选走向；当时哈里斯尚未成为候选人"
+ },
+ "provenance": {
+  "book": "其YouTube视频（2024-06-02）；PRWeb 2024-11通稿（链接略，标题含断语已剥离）"
+ }
+}
+========================= AS-307
+{
+ "uid": "AS-307",
+ "tradition": "astrology",
+ "subject": {
+  "name_or_desc": "2024年美国总统选举",
+  "basic_info": "同P09"
+ },
+ "context": {
+  "question": "公开预测：2024年美国总统选举结果",
+  "asked_at": "2024-10（选前）",
+  "setting": "2024年10月，HuffPost以「我们是选举占星师」为题采访多位美国职业占星师，请其公开表态赢家"
+ },
+ "provenance": {
+  "book": "HuffPost专题（镜像页）https://axonghoi.io.vn/were-election-astrologers-heres-who-we-predict-will-win-the-2024-race/"
+ }
+}
+========================= BQ-001
+{
+ "id": "BQ-001",
+ "tradition": "筮占",
+ "subject": {
+  "name_or_desc": "有人（诣恶头求卜者）之父",
+  "gender": null
+ },
+ "context": {
+  "question": "卜父（父卧疾三年、昨日气尽复苏，问父寿数）",
+  "asked_at": "三月十三日（北朝，年不详）",
+  "setting": "卜父（父卧疾三年、昨日气尽复苏，问父寿数）",
+  "attachments": {
+   "casting_method": "蓍筮（原书作「筮之/因筮之」，分析已用本宫、庚辛日、变卦）",
+   "hexagram": "兑 之 履",
+   "chart_excerpt": "原文未列六爻盘；断语自述卦象：「遇《兑》之《履》」「《兑》上天下土，是今日庚辛本宫火」「《兑》变为《乾》」",
+   "chart_complete": false,
+   "completeness_basis": "原文只记本卦兑、变卦履与断语中援引的卦象（本宫火、兑口、兑言、变乾为天、未化入戌为土等），无六爻全盘"
+  }
+ },
+ "provenance": {
+  "book": "《卜筮全书》",
+  "edition": "华龄出版社2016年《四库存目纳甲汇刊（六）·校正全本卜筮全书》（（明）姚际隆撰，郑同校；ISBN 978-7-5169-0728-3）扫描PDF，用户经学校图书馆提供",
+  "page": "序印刷页1（PDF第4页）脚注①",
+  "claimed_source": "《北史》（脚注自称：「颜恶来当作颜恶头。《北史》：颜恶头，章武郡人也。妙于《易》筮。」）"
+ },
+ "language": "zh-Hans"
+}
+========================= BQ-010
+{
+ "id": "BQ-010",
+ "tradition": "六爻",
+ "subject": {
+  "name_or_desc": "谈朝辅",
+  "gender": null
+ },
+ "context": {
+  "question": "卜诉讼（官司成败）",
+  "asked_at": "原文未记日（与同组子日诸占并列叙述，未别记日）",
+  "setting": "卜诉讼（官司成败）",
+  "attachments": {
+   "casting_method": "六爻纳甲（原书只记月日与卦象，未记起卦工具）",
+   "hexagram": "蒙 之 未济",
+   "chart_excerpt": "原文：「得蒙之未济卦，父母空亡」",
+   "chart_complete": false,
+   "completeness_basis": "原文记本卦蒙、变卦未济、父母空亡，无全盘、无确切日期"
+  }
+ },
+ "provenance": {
+  "book": "《卜筮全书》",
+  "edition": "华龄出版社2016年《四库存目纳甲汇刊（六）·校正全本卜筮全书》（（明）姚际隆撰，郑同校；ISBN 978-7-5169-0728-3）扫描PDF，用户经学校图书馆提供",
+  "page": "印刷页154（PDF第171页）（卷八·总断千金赋）",
+  "claimed_source": "书中注家自述亲历/所验之占（千金赋注文第一人称及实占记录，无另引出处）"
+ },
+ "language": "zh-Hans"
+}
+========================= BQ-011
+{
+ "id": "BQ-011",
+ "tradition": "六爻",
+ "subject": {
+  "name_or_desc": "周焚松",
+  "gender": null
+ },
+ "context": {
+  "question": "卜官讼（官司祸福）",
+  "asked_at": "戊子日",
+  "setting": "卜官讼（官司祸福）",
+  "attachments": {
+   "casting_method": "六爻纳甲（原书只记月日与卦象，未记起卦工具）",
+   "hexagram": "离 之 贲",
+   "chart_excerpt": "原文：「得离之贲卦，日辰扶起，官鬼冲克世爻，财爻又动」",
+   "chart_complete": false,
+   "completeness_basis": "原文记本卦离、变卦贲与官鬼冲世、财爻动，无全盘"
+  }
+ },
+ "provenance": {
+  "book": "《卜筮全书》",
+  "edition": "华龄出版社2016年《四库存目纳甲汇刊（六）·校正全本卜筮全书》（（明）姚际隆撰，郑同校；ISBN 978-7-5169-0728-3）扫描PDF，用户经学校图书馆提供",
+  "page": "印刷页154（PDF第171页）（卷八·总断千金赋）",
+  "claimed_source": "书中注家自述亲历/所验之占（千金赋注文第一人称及实占记录，无另引出处）"
+ },
+ "language": "zh-Hans"
+}
+========================= BQ-012
+{
+ "id": "BQ-012",
+ "tradition": "六爻",
+ "subject": {
+  "name_or_desc": "占者（未具名，卜倭寇来否）",
+  "gender": null
+ },
+ "context": {
+  "question": "卜倭寇（倭寇来犯否）",
+  "asked_at": "丙子日",
+  "setting": "卜倭寇（倭寇来犯否）",
+  "attachments": {
+   "casting_method": "六爻纳甲（原书只记月日与卦象，未记起卦工具）",
+   "hexagram": "噬嗑",
+   "chart_excerpt": "原文：「得噬嗑卦，鬼爻衰静」",
+   "chart_complete": false,
+   "completeness_basis": "原文只记卦名噬嗑与鬼爻衰静，无全盘"
+  }
+ },
+ "provenance": {
+  "book": "《卜筮全书》",
+  "edition": "华龄出版社2016年《四库存目纳甲汇刊（六）·校正全本卜筮全书》（（明）姚际隆撰，郑同校；ISBN 978-7-5169-0728-3）扫描PDF，用户经学校图书馆提供",
+  "page": "印刷页154（PDF第171页）（卷八·总断千金赋）",
+  "claimed_source": "书中注家自述亲历/所验之占（千金赋注文第一人称及实占记录，无另引出处）"
+ },
+ "language": "zh-Hans"
+}
+========================= BQ-013
+{
+ "id": "BQ-013",
+ "tradition": "六爻",
+ "subject": {
+  "name_or_desc": "占者（未具名）",
+  "gender": null
+ },
+ "context": {
+  "question": "占晴（久雨占晴）",
+  "asked_at": "五月甲申日",
+  "setting": "占晴（久雨占晴）",
+  "attachments": {
+   "casting_method": "六爻纳甲（原书只记月日与卦象，未记起卦工具）",
+   "hexagram": "随 之 咸",
+   "chart_excerpt": "原文：「得随之咸卦，申子两爻俱动，与日辰申字正合成父局」",
+   "chart_complete": false,
+   "completeness_basis": "原文记本卦随、变卦咸、申子两爻动成父局，无全盘"
+  }
+ },
+ "provenance": {
+  "book": "《卜筮全书》",
+  "edition": "华龄出版社2016年《四库存目纳甲汇刊（六）·校正全本卜筮全书》（（明）姚际隆撰，郑同校；ISBN 978-7-5169-0728-3）扫描PDF，用户经学校图书馆提供",
+  "page": "印刷页157（PDF第174页）（卷八·天时）",
+  "claimed_source": "书中注家自述亲历/所验之占（天时注文实占记录，无另引出处）"
+ },
+ "language": "zh-Hans"
+}
+========================= BQ-014
+{
+ "id": "BQ-014",
+ "tradition": "六爻",
+ "subject": {
+  "name_or_desc": "注家本人（寓江东欲返乡）",
+  "gender": null
+ },
+ "context": {
+  "question": "卜风（飓风何时止、行程可行否）",
+  "asked_at": "辛丑年秋丁亥日",
+  "setting": "卜风（飓风何时止、行程可行否）",
+  "attachments": {
+   "casting_method": "六爻纳甲（原书只记月日与卦象，未记起卦工具）",
+   "hexagram": "困 之 震",
+   "chart_excerpt": "原文：「得困之震卦，兄弟、父母俱动，合住应爻」",
+   "chart_complete": false,
+   "completeness_basis": "原文记本卦困、变卦震、兄父俱动合应，无全盘"
+  }
+ },
+ "provenance": {
+  "book": "《卜筮全书》",
+  "edition": "华龄出版社2016年《四库存目纳甲汇刊（六）·校正全本卜筮全书》（（明）姚际隆撰，郑同校；ISBN 978-7-5169-0728-3）扫描PDF，用户经学校图书馆提供",
+  "page": "印刷页159–160（PDF第176–177页）（卷八·天时）",
+  "claimed_source": "书中注家自述亲历/所验之占（天时注文实占记录，无另引出处）"
+ },
+ "language": "zh-Hans"
+}
+========================= BQ-015
+{
+ "id": "BQ-015",
+ "tradition": "六爻",
+ "subject": {
+  "name_or_desc": "一地年景（卜年时）",
+  "gender": null
+ },
+ "context": {
+  "question": "卜年时（一岁风雨、五谷丰歉）",
+  "asked_at": "戊午年正月辛亥日",
+  "setting": "卜年时（一岁风雨、五谷丰歉）",
+  "attachments": {
+   "casting_method": "六爻纳甲（原书只记月日与卦象，未记起卦工具）",
+   "hexagram": "蒙 之 中孚",
+   "chart_excerpt": "原文：「得蒙之中孚卦，水鬼与应上父爻俱动，伤克世爻，妻财又伏」",
+   "chart_complete": false,
+   "completeness_basis": "原文记本卦蒙、变卦中孚、水鬼与应上父动、财伏，无全盘"
+  }
+ },
+ "provenance": {
+  "book": "《卜筮全书》",
+  "edition": "华龄出版社2016年《四库存目纳甲汇刊（六）·校正全本卜筮全书》（（明）姚际隆撰，郑同校；ISBN 978-7-5169-0728-3）扫描PDF，用户经学校图书馆提供",
+  "page": "印刷页165（PDF第182页）（卷九·年时）",
+  "claimed_source": "书中注家自述所验之占（年时注文实占记录，无另引出处）"
+ },
+ "language": "zh-Hans"
+}
+========================= BQ-016
+{
+ "id": "BQ-016",
+ "tradition": "六爻",
+ "subject": {
+  "name_or_desc": "一地军民（卜倭乱）",
+  "gender": null
+ },
+ "context": {
+  "question": "卜倭乱（其年倭寇之乱如何）",
+  "asked_at": "甲寅年正月庚申日",
+  "setting": "卜倭乱（其年倭寇之乱如何）",
+  "attachments": {
+   "casting_method": "六爻纳甲（原书只记月日与卦象，未记起卦工具）",
+   "hexagram": "困 之 大过",
+   "chart_excerpt": "原文：「得困之大过卦，六三午火鬼动，化出酉金，兄弟带刑克世」",
+   "chart_complete": false,
+   "completeness_basis": "原文记本卦困、变卦大过、六三午火鬼动化酉金，无全盘"
+  }
+ },
+ "provenance": {
+  "book": "《卜筮全书》",
+  "edition": "华龄出版社2016年《四库存目纳甲汇刊（六）·校正全本卜筮全书》（（明）姚际隆撰，郑同校；ISBN 978-7-5169-0728-3）扫描PDF，用户经学校图书馆提供",
+  "page": "印刷页165（PDF第182页）（卷九·年时）",
+  "claimed_source": "书中注家自述所验之占（年时注文实占记录，无另引出处）"
+ },
+ "language": "zh-Hans"
+}
+========================= BQ-017
+{
+ "id": "BQ-017",
+ "tradition": "六爻",
+ "subject": {
+  "name_or_desc": "占者（未具名，避乱占）",
+  "gender": null
+ },
+ "context": {
+  "question": "避乱（倭乱中避祸安否）",
+  "asked_at": "甲申日",
+  "setting": "避乱（倭乱中避祸安否）",
+  "attachments": {
+   "casting_method": "六爻纳甲（原书只记月日与卦象，未记起卦工具）",
+   "hexagram": "涣",
+   "chart_excerpt": "原文：「卜得涣卦，六爻安静又无官鬼……本宫巳亥，鬼伏于六三空亡爻下，既已透出，又遇申日提起，且又冲克世爻」",
+   "chart_complete": false,
+   "completeness_basis": "原文记卦名涣、六爻安静、鬼伏六三空亡，无全盘"
+  }
+ },
+ "provenance": {
+  "book": "《卜筮全书》",
+  "edition": "华龄出版社2016年《四库存目纳甲汇刊（六）·校正全本卜筮全书》（（明）姚际隆撰，郑同校；ISBN 978-7-5169-0728-3）扫描PDF，用户经学校图书馆提供",
+  "page": "印刷页289（PDF第306页）（卷十二·避乱）",
+  "claimed_source": "避乱章序自述：「因录已验之卦爻，为决当今之倭寇」「因以平日所验者，录述此篇，以为卜倭张本」——本章诸例为注家自编已验之占"
+ },
+ "language": "zh-Hans"
+}
+========================= BQ-018
+{
+ "id": "BQ-018",
+ "tradition": "六爻",
+ "subject": {
+  "name_or_desc": "占者（未具名，避乱占）",
+  "gender": null
+ },
+ "context": {
+  "question": "避乱（倭乱中避祸安否）",
+  "asked_at": "癸亥日",
+  "setting": "避乱（倭乱中避祸安否）",
+  "attachments": {
+   "casting_method": "六爻纳甲（原书只记月日与卦象，未记起卦工具）",
+   "hexagram": "损 之 临",
+   "chart_excerpt": "原文：「卜得损之临卦，日辰扶助，官鬼动克世爻，并无救制……世坐空亡」",
+   "chart_complete": false,
+   "completeness_basis": "原文记本卦损、变卦临、鬼动克世、世坐空亡，无全盘"
+  }
+ },
+ "provenance": {
+  "book": "《卜筮全书》",
+  "edition": "华龄出版社2016年《四库存目纳甲汇刊（六）·校正全本卜筮全书》（（明）姚际隆撰，郑同校；ISBN 978-7-5169-0728-3）扫描PDF，用户经学校图书馆提供",
+  "page": "印刷页291（PDF第308页）（卷十二·避乱）",
+  "claimed_source": "避乱章序自述：「因录已验之卦爻，为决当今之倭寇」「因以平日所验者，录述此篇，以为卜倭张本」——本章诸例为注家自编已验之占"
+ },
+ "language": "zh-Hans"
+}
+========================= BQ-019
+{
+ "id": "BQ-019",
+ "tradition": "六爻",
+ "subject": {
+  "name_or_desc": "有卜倭者（未具名）及其乡人",
+  "gender": null
+ },
+ "context": {
+  "question": "卜倭（倭寇至否、祸之所自）",
+  "asked_at": "五月戊寅日",
+  "setting": "卜倭（倭寇至否、祸之所自）",
+  "attachments": {
+   "casting_method": "六爻纳甲（原书只记月日与卦象，未记起卦工具）",
+   "hexagram": "明夷 之 谦",
+   "chart_excerpt": "原文：「得明夷之谦卦，二鬼俱静，子孙独发……子虽动，被日辰扶起克世……变官爻，系是世墓世临病爻」",
+   "chart_complete": false,
+   "completeness_basis": "原文记本卦明夷、变卦谦、二鬼静、子独发、世墓世临病爻，无全盘"
+  }
+ },
+ "provenance": {
+  "book": "《卜筮全书》",
+  "edition": "华龄出版社2016年《四库存目纳甲汇刊（六）·校正全本卜筮全书》（（明）姚际隆撰，郑同校；ISBN 978-7-5169-0728-3）扫描PDF，用户经学校图书馆提供",
+  "page": "印刷页292（PDF第309页）（卷十二·避乱）",
+  "claimed_source": "避乱章序自述：「因录已验之卦爻，为决当今之倭寇」「因以平日所验者，录述此篇，以为卜倭张本」——本章诸例为注家自编已验之占"
+ },
+ "language": "zh-Hans"
+}
+========================= BQ-020
+{
+ "id": "BQ-020",
+ "tradition": "六爻",
+ "subject": {
+  "name_or_desc": "占者之长子与弟（避难占）",
+  "gender": null
+ },
+ "context": {
+  "question": "避难（乱中子弟安否）",
+  "asked_at": "五月庚寅日",
+  "setting": "避难（乱中子弟安否）",
+  "attachments": {
+   "casting_method": "六爻纳甲（原书只记月日与卦象，未记起卦工具）",
+   "hexagram": "大壮 之 小过",
+   "chart_excerpt": "原文：「卜得大壮之小过卦，日辰妻财，生扶动爻，刑冲子孙，又克兄弟」",
+   "chart_complete": false,
+   "completeness_basis": "原文记本卦大壮、变卦小过与日辰财生扶动爻、刑冲子孙克兄弟，无全盘"
+  }
+ },
+ "provenance": {
+  "book": "《卜筮全书》",
+  "edition": "华龄出版社2016年《四库存目纳甲汇刊（六）·校正全本卜筮全书》（（明）姚际隆撰，郑同校；ISBN 978-7-5169-0728-3）扫描PDF，用户经学校图书馆提供",
+  "page": "印刷页293（PDF第310页）（卷十二·避乱）",
+  "claimed_source": "避乱章序自述：「因录已验之卦爻，为决当今之倭寇」「因以平日所验者，录述此篇，以为卜倭张本」——本章诸例为注家自编已验之占"
+ },
+ "language": "zh-Hans"
+}
+========================= BQ-021
+{
+ "id": "BQ-021",
+ "tradition": "六爻",
+ "subject": {
+  "name_or_desc": "孙西畴所卜之禾（稻作）",
+  "gender": null
+ },
+ "context": {
+  "question": "卜禾（禾稻长势与天时）",
+  "asked_at": "四月丙戌日",
+  "setting": "卜禾（禾稻长势与天时）",
+  "attachments": {
+   "casting_method": "六爻纳甲（原书只记月日与卦象，未记起卦工具）",
+   "hexagram": "大过 之 困",
+   "chart_excerpt": "原文：「得大过之困卦，酉官动变午火……日辰带财克制二爻」",
+   "chart_complete": false,
+   "completeness_basis": "原文记本卦大过、变卦困、酉官动变午火，无全盘"
+  }
+ },
+ "provenance": {
+  "book": "《卜筮全书》",
+  "edition": "华龄出版社2016年《四库存目纳甲汇刊（六）·校正全本卜筮全书》（（明）姚际隆撰，郑同校；ISBN 978-7-5169-0728-3）扫描PDF，用户经学校图书馆提供",
+  "page": "印刷页227（PDF第244页）（卷十·神作）",
+  "claimed_source": "书中注家所记实占（神作注文，无另引出处）"
+ },
+ "language": "zh-Hans"
+}
+========================= BQ-022
+{
+ "id": "BQ-022",
+ "tradition": "六爻",
+ "subject": {
+  "name_or_desc": "注家本人所种棉花",
+  "gender": null
+ },
+ "context": {
+  "question": "卜棉花（棉作长势与天时）",
+  "asked_at": "丙子日",
+  "setting": "卜棉花（棉作长势与天时）",
+  "attachments": {
+   "casting_method": "六爻纳甲（原书只记月日与卦象，未记起卦工具）",
+   "hexagram": "无妄 之 讼",
+   "chart_excerpt": "原文：「得元妄之讼卦，应爻冲克世爻」——「元妄」为本版刻字，当作「无妄」",
+   "chart_complete": false,
+   "completeness_basis": "原文记本卦（刻作元妄、无妄）、变卦讼、应冲世，无全盘"
+  }
+ },
+ "provenance": {
+  "book": "《卜筮全书》",
+  "edition": "华龄出版社2016年《四库存目纳甲汇刊（六）·校正全本卜筮全书》（（明）姚际隆撰，郑同校；ISBN 978-7-5169-0728-3）扫描PDF，用户经学校图书馆提供",
+  "page": "印刷页227（PDF第244页）（卷十·神作）",
+  "claimed_source": "书中注家所记实占（神作注文，无另引出处）"
+ },
+ "language": "zh-Hans"
+}
+========================= BQ-023
+{
+ "id": "BQ-023",
+ "tradition": "六爻",
+ "subject": {
+  "name_or_desc": "占者（未具名，租田种麦者）",
+  "gender": null
+ },
+ "context": {
+  "question": "卜种彝麦[疑：彝麦]（租田种麦、田主之归属）",
+  "asked_at": "原文未记月日",
+  "setting": "卜种彝麦[疑：彝麦]（租田种麦、田主之归属）",
+  "attachments": {
+   "casting_method": "六爻纳甲（原书只记月日与卦象，未记起卦工具）",
+   "hexagram": "姤 之 乾",
+   "chart_excerpt": "原文：「得姤之乾卦，世上父动化空」",
+   "chart_complete": false,
+   "completeness_basis": "原文记本卦姤、变卦乾、世上父动化空，无全盘、无日期"
+  }
+ },
+ "provenance": {
+  "book": "《卜筮全书》",
+  "edition": "华龄出版社2016年《四库存目纳甲汇刊（六）·校正全本卜筮全书》（（明）姚际隆撰，郑同校；ISBN 978-7-5169-0728-3）扫描PDF，用户经学校图书馆提供",
+  "page": "印刷页229（PDF第246页）（卷十·神作）",
+  "claimed_source": "书中注家所记实占（神作注文，无另引出处）"
+ },
+ "language": "zh-Hans"
+}
+========================= BQ-024
+{
+ "id": "BQ-024",
+ "tradition": "六爻",
+ "subject": {
+  "name_or_desc": "注家所养之鸡（鸡瘟）",
+  "gender": null
+ },
+ "context": {
+  "question": "因鸡瘟卜（瘟中之鸡生死）",
+  "asked_at": "七月乙巳日",
+  "setting": "因鸡瘟卜（瘟中之鸡生死）",
+  "attachments": {
+   "casting_method": "六爻纳甲（原书只记月日与卦象，未记起卦工具）",
+   "hexagram": "噬嗑 之 颐",
+   "chart_excerpt": "原文：「卜得噬嗑之颐卦，日辰并起子孙」；注家后验之理：「孟月四爻……正临怪爻发动」（螣蛇鬼动）",
+   "chart_complete": false,
+   "completeness_basis": "原文记本卦噬嗑、变卦颐、日辰起子孙，无全盘"
+  }
+ },
+ "provenance": {
+  "book": "《卜筮全书》",
+  "edition": "华龄出版社2016年《四库存目纳甲汇刊（六）·校正全本卜筮全书》（（明）姚际隆撰，郑同校；ISBN 978-7-5169-0728-3）扫描PDF，用户经学校图书馆提供",
+  "page": "印刷页237（PDF第254页）（卷十·六畜）",
+  "claimed_source": "书中注家自述亲历之占（六畜注文第一人称实占记录，无另引出处）"
+ },
+ "language": "zh-Hans"
+}
+========================= BQ-025
+{
+ "id": "BQ-025",
+ "tradition": "六爻",
+ "subject": {
+  "name_or_desc": "注家新收养之蜜蜂",
+  "gender": null
+ },
+ "context": {
+  "question": "收养蜜蜂卜（养蜂吉凶）",
+  "asked_at": "八月壬寅日",
+  "setting": "收养蜜蜂卜（养蜂吉凶）",
+  "attachments": {
+   "casting_method": "六爻纳甲（原书只记月日与卦象，未记起卦工具）",
+   "hexagram": "屯 之 坤",
+   "chart_excerpt": "原文：「卜得屯之坤卦，兄鬼发动，卦无财」；自述：「仲月五爻，正临怪爻发动」（螣蛇鬼动）",
+   "chart_complete": false,
+   "completeness_basis": "原文记本卦屯、变卦坤、兄鬼发动、卦无财，无全盘"
+  }
+ },
+ "provenance": {
+  "book": "《卜筮全书》",
+  "edition": "华龄出版社2016年《四库存目纳甲汇刊（六）·校正全本卜筮全书》（（明）姚际隆撰，郑同校；ISBN 978-7-5169-0728-3）扫描PDF，用户经学校图书馆提供",
+  "page": "印刷页237（PDF第254页）（卷十·六畜）",
+  "claimed_source": "书中注家自述亲历之占（六畜注文第一人称实占记录，无另引出处）"
+ },
+ "language": "zh-Hans"
+}
+========================= BZ-016
+{
+ "id": "BZ-016",
+ "source_id": "ren-016",
+ "subject": {
+  "name_or_desc": "清雍正帝第四子弘历（乾隆帝）",
+  "birth": {
+   "date": "公历1711年9月25日（康熙五十年八月十三日）",
+   "time": "子时（丙子时）",
+   "place": "北京雍王府（今雍和宫）"
+  },
+  "gender": "男"
+ },
+ "context": {
+  "question": "断此命造（一生格局、吉凶与运程）",
+  "asked_at": "清",
+  "setting": "清雍正帝第四子弘历，生于王府，任氏注书时引此命造为例",
+  "attachments": {
+   "pillars": "辛卯 丁酉 庚午 丙子"
+  }
+ },
+ "provenance": {
+  "book": "《滴天髓》任铁樵批（乾隆皇帝造）",
+  "edition": "",
+  "url": "https://blog.sina.com.cn/s/blog_af85ff5f0101h6rn.html",
+  "page": "任氏原批，转录于命理研究文献"
+ },
+ "language": "zh-Hant"
+}
+========================= BZ-019
+{
+ "id": "BZ-019",
+ "source_id": "xu-003",
+ "subject": {
+  "name_or_desc": "清雍正帝第四子弘历（乾隆帝）",
+  "birth": {
+   "date": "公历1711年9月25日（康熙五十年八月十三日）",
+   "time": "子时（丙子时）",
+   "place": "北京雍王府（今雍和宫）"
+  },
+  "gender": "男"
+ },
+ "context": {
+  "question": "断此命造（一生格局、吉凶与运程）",
+  "asked_at": "民国（注清人沈孝瞻《子平真诠》）",
+  "setting": "与 ren-016 同一命造（乾隆帝），徐乐吾在评注中引为「喜其冲克」之例；盲测时不得给身份",
+  "attachments": {
+   "pillars": "辛卯 丁酉 庚午 丙子"
+  }
+ },
+ "provenance": {
+  "book": "《子平真诠评注》徐乐吾评注",
+  "edition": "",
+  "url": "https://www.360doc.cn/article/15585030_451624954.html",
+  "page": "论生克先后章节徐注（黄大陆本义评注转录）"
+ },
+ "language": "zh-Hant"
+}
+========================= BZ-020
+{
+ "id": "BZ-020",
+ "subject": {
+  "name_or_desc": "万民英（《三命通会》作者，自造自断）",
+  "birth": {
+   "date": "原书自述：庚寅日，生十二月大寒后（生年据四柱为壬午年，明嘉靖二十一年，1542）",
+   "time": "丙戌时（据时柱）",
+   "place": "河北易县（据其墓志/籍贯记载）"
+  },
+  "gender": "男"
+ },
+ "context": {
+  "question": "断此命造（一生格局、吉凶与运程）",
+  "asked_at": "明",
+  "setting": "《三命通会》作者万民英自述其命：太阳在丑宫斗十九度，天月二德在庚；自述曾任官（典兵刑），以己造解说神煞与岁运",
+  "attachments": {
+   "pillars": "壬午 癸丑 庚寅 丙戌"
+  }
+ },
+ "provenance": {
+  "book": "《三命通会》万民英",
+  "edition": "",
+  "url": "https://github.com/mymmsc/books/raw/refs/heads/master/%E5%9B%BD%E5%AD%A6/%E4%B8%89%E5%91%BD%E9%80%9A%E4%BC%9A.pdf",
+  "page": "卷三「总论诸神煞」等篇自述命例（后人据原文推录）"
+ },
+ "language": "zh-Hant"
+}
+========================= BZ-021
+{
+ "id": "BZ-021",
+ "source_id": "wei-001",
+ "subject": {
+  "name_or_desc": "蒋介石",
+  "birth": {
+   "date": "光绪十三年九月十五日午时（公历1887年10月31日）",
+   "time": "午时",
+   "place": "浙江奉化"
+  },
+  "gender": "男"
+ },
+ "context": {
+  "question": "断此命造（一生格局、吉凶与运程）",
+  "asked_at": "民国（1935年《千里命稿》）",
+  "setting": "命主蒋介石，时为军政人物；韦千里24岁时为之批命，本造载《千里命稿》应运篇，为民国命学名例",
+  "attachments": {
+   "pillars": "丁亥 庚戌 己巳 庚午；大运：初九己酉 十九戊申 廿九丁未 三九丙午 四九乙巳 五九甲辰 六九癸卯（原书起运年龄标法）"
+  }
+ },
+ "provenance": {
+  "book": "《千里命稿》韦千里",
+  "edition": "",
+  "url": "https://pdf.fengshui86.com/wzpdf/3817471.pdf",
+  "page": "应运篇（蒋介石造）"
+ },
+ "language": "zh-Hant"
+}
+========================= BZ-022
+{
+ "uid": "BZ-022",
+ "tradition": "bazi",
+ "subject": {
+  "name_or_desc": "张作霖",
+  "birth": {
+   "date": "清光绪元年（1875年），原书仅存四柱",
+   "time": "丁丑时（据时柱）",
+   "place": "辽宁海城（史载）"
+  },
+  "gender": "男"
+ },
+ "context": {
+  "question": "断此命造（一生格局、吉凶与运程）",
+  "asked_at": "民国/1963年《呱呱集》追评",
+  "setting": "命主张作霖，出身绿林，后据有东北，韦氏评其父子两造",
+  "attachments": {
+   "pillars": "乙亥 己卯 庚辰 丁丑"
+  }
+ },
+ "provenance": {
+  "book": "《呱呱集》韦千里（1963年香港出版）"
+ }
+}
+========================= BZ-023
+{
+ "id": "BZ-023",
+ "source_id": "wei-003",
+ "subject": {
+  "name_or_desc": "张学良",
+  "birth": {
+   "date": "清光绪二十七年（1901年），原书仅存四柱",
+   "time": "庚子时（据时柱）",
+   "place": "辽宁义县（史载）"
+  },
+  "gender": "男"
+ },
+ "context": {
+  "question": "断此命造（一生格局、吉凶与运程）",
+  "asked_at": "民国/1963年《呱呱集》追评",
+  "setting": "命主张学良，张作霖之子，东北军少帅",
+  "attachments": {
+   "pillars": "辛丑 癸巳 壬子 庚子"
+  }
+ },
+ "provenance": {
+  "book": "《呱呱集》韦千里",
+  "edition": "",
+  "url": "https://www.luckclub.cn/pdf/bazi/017.pdf",
+  "page": "上集·名人命造「张氏父子」"
+ },
+ "language": "zh-Hant"
+}
+========================= BZ-024
+{
+ "uid": "BZ-024",
+ "tradition": "bazi",
+ "subject": {
+  "name_or_desc": "杜月笙",
+  "birth": {
+   "date": "清光绪十四年（1888年），原书仅存四柱",
+   "time": "壬午时（据时柱）",
+   "place": "上海浦东（史载）"
+  },
+  "gender": "男"
+ },
+ "context": {
+  "question": "断此命造（一生格局、吉凶与运程）",
+  "asked_at": "民国（1935年《千里命稿》初论，1963年《呱呱集》再评）",
+  "setting": "命主杜月笙，上海社会名流，非官非商、行侠仗义；天文台报读者李聪来信与韦氏讨论其造，韦氏答以再评",
+  "attachments": {
+   "pillars": "戊子 庚申 乙丑 壬午"
+  }
+ },
+ "provenance": {
+  "book": "《呱呱集》韦千里（初论见《千里命稿》）"
+ }
+}
+========================= BZ-025
+{
+ "id": "BZ-025",
+ "subject": {
+  "name_or_desc": "梅兰芳",
+  "birth": {
+   "date": "清光绪二十年（1894年），原书仅存四柱",
+   "time": "癸卯时（据时柱）",
+   "place": "北京（史载）"
+  },
+  "gender": "男"
+ },
+ "context": {
+  "question": "断此命造（一生格局、吉凶与运程）",
+  "asked_at": "民国（《千里命稿》初批，1963年《呱呱集》再引）",
+  "setting": "命主梅兰芳，京剧名伶；韦氏在《千里命稿》中曾批其「不以伶官终其身」",
+  "attachments": {
+   "pillars": "甲午 甲戌 丁酉 癸卯"
+  }
+ },
+ "provenance": {
+  "book": "《呱呱集》韦千里（引《千里命稿》旧批）",
+  "edition": "",
+  "url": "https://www.luckclub.cn/pdf/bazi/017.pdf",
+  "page": "上集·名人命造「四大名旦」"
+ },
+ "language": "zh-Hant"
+}
+========================= BZ-026
+{
+ "uid": "BZ-026",
+ "tradition": "bazi",
+ "subject": {
+  "name_or_desc": "尚小云",
+  "birth": {
+   "date": "清光绪二十六年（1900年），原书仅存四柱",
+   "time": "癸巳时（据时柱）",
+   "place": "未记（史载天津）"
+  },
+  "gender": "男"
+ },
+ "context": {
+  "question": "断此命造（一生格局、吉凶与运程）",
+  "asked_at": "1963年《呱呱集》",
+  "setting": "命主尚小云，京剧四大名旦之一，客询四大名旦八字，韦氏一一论之",
+  "attachments": {
+   "pillars": "戊戌 乙丑 丙戌 癸巳"
+  }
+ },
+ "provenance": {
+  "book": "《呱呱集》韦千里"
+ }
+}
+========================= BZ-027
+{
+ "id": "BZ-027",
+ "source_id": "wei-007",
+ "subject": {
+  "name_or_desc": "荀慧生",
+  "birth": {
+   "date": "清光绪二十五年（1899年），原书仅存四柱",
+   "time": "乙卯时（据时柱）",
+   "place": "未记（史载江苏武进）"
+  },
+  "gender": "男"
+ },
+ "context": {
+  "question": "断此命造（一生格局、吉凶与运程）",
+  "asked_at": "1963年《呱呱集》",
+  "setting": "命主荀慧生，京剧四大名旦之一",
+  "attachments": {
+   "pillars": "己亥 丙子 戊寅 乙卯"
+  }
+ },
+ "provenance": {
+  "book": "《呱呱集》韦千里",
+  "edition": "",
+  "url": "https://www.luckclub.cn/pdf/bazi/017.pdf",
+  "page": "上集·名人命造「四大名旦」"
+ },
+ "language": "zh-Hant"
+}
+========================= BZ-028
+{
+ "uid": "BZ-028",
+ "tradition": "bazi",
+ "subject": {
+  "name_or_desc": "陈诚",
+  "birth": {
+   "date": "清光绪二十三年丁酉年壬子月丁卯日（1897年），同年月日三造之一",
+   "time": "甲辰时",
+   "place": "浙江青田（史载）"
+  },
+  "gender": "男"
+ },
+ "context": {
+  "question": "断此命造（一生格局、吉凶与运程）",
+  "asked_at": "1963年《呱呱集》",
+  "setting": "命主陈诚，与俞大维、俞鸿钧同年同月同日生而时辰不同，韦氏以三造对勘时辰定贵贱",
+  "attachments": {
+   "pillars": "丁酉 壬子 丁卯 甲辰"
+  }
+ },
+ "provenance": {
+  "book": "《呱呱集》韦千里"
+ }
+}

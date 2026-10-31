@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-005",
+ "prediction_text": "Direction: Donald Trump wins. The panel astrologer who alone picked Trump to take the Republican nomination out of a 17-candidate field reads the general election the same way: Trump defeats Hillary Clinton on 8 November 2016, against the polling consensus — the same outsider signature that carried his nomination carries the White House. Timing: decided 8 November 2016.",
+ "basis": "tradition: Western astrology (individual election forecast; no tradition field, decided from setting)\nsystems_used: Election astrology: forecaster track-record face + outsider-signature continuity\nFaces listed: main face = who wins 2016; distinguishing face (card-given) = this astrologer earlier picked Trump as nominee when 17 Republicans contested it — a verified against-consensus hit that identifies this reader's signature; event face = most polls favour Clinton (listed as the opposing face and disposed: this reader's method has already beaten the consensus once in this cycle, so the poll face does not override). Claim check: Trump wins → triggers: (1) demonstrated nominee call by same reader on same subject, (2) continuity of the outsider signature from nomination to general. Retained; confidence held at 0.5 given the consensus face runs the other way.\n应验跨度档位（k）：Day scale fixed by question (election day 8 Nov 2016 given)。\nR61-REV1-2 应期二路复推：初推路径与坐标——Direct: election day 8 Nov 2016；复推路径与坐标——Second path: forecaster's cycle timeline (nomination call → general call) terminates on same election day；处置——Two paths agree。\nR61-REV1-4 断项粒度核：Claim 'Trump wins': identity, 2 pointers kept; margin/states detail 0 pointers, not claimed",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
