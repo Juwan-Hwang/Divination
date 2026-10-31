@@ -1,0 +1,59 @@
+n_liuren_total=30 n_negative=25 rows=25
+SEG liuren_dev8: n=18 diff=-1.708 SE=0.397 ours=3.597 master=5.306 WTL=1/2/15
+SEG liuren_lr3_new: n=12 diff=-1.562 SE=0.336 ours=2.479 master=4.042 WTL=1/1/10
+SEG liuren_merged: n=30 diff=-1.65 SE=0.27 ours=3.15 master=4.8 WTL=2/3/25
+pair_diff_selfconsistent: 25/25 bad=[]
+ours_vs_axis2: 25/25 bad=[]
+ours_vs_subtotal: 25/25 bad=[]
+NEGSUB dev8: n=15 sum=-31.75 mean=-2.117 median=-2.25
+  main_labels={'UNC': 1, 'D': 2, 'W*': 4, 'E': 5, 'A*': 1, 'C*': 1, 'A': 1}
+  coded_n=14 unc=['LR-001']
+  W_interface neg_denom: 4/15=26.7% SE=11.4pp
+  W_hard neg_denom: 0/15=0.0% SE=0.0pp
+  W_interface coded_denom: 4/14=28.6% SE=12.1pp
+  W_hard coded_denom: 0/14=0.0% SE=0.0pp
+  W_face=3 W_name=1
+NEGSUB LR3: n=10 sum=-19.50 mean=-1.950 median=-1.62
+  main_labels={'E': 1, 'W': 1, 'C*': 2, 'D': 1, 'UNC': 1, 'W*': 1, 'A': 2, 'H': 1}
+  coded_n=9 unc=['LR3-010']
+  W_interface neg_denom: 2/10=20.0% SE=12.6pp
+  W_hard neg_denom: 1/10=10.0% SE=9.5pp
+  W_interface coded_denom: 2/9=22.2% SE=13.9pp
+  W_hard coded_denom: 1/9=11.1% SE=10.5pp
+  W_face=2 W_name=0
+NEGSUB merged: n=25 sum=-51.25 mean=-2.050 median=-2.00
+  main_labels={'UNC': 2, 'D': 3, 'W*': 5, 'E': 6, 'A*': 1, 'C*': 3, 'W': 1, 'A': 3, 'H': 1}
+  coded_n=23 unc=['LR-001', 'LR3-010']
+  W_interface neg_denom: 6/25=24.0% SE=8.5pp
+  W_hard neg_denom: 1/25=4.0% SE=3.9pp
+  W_interface coded_denom: 6/23=26.1% SE=9.2pp
+  W_hard coded_denom: 1/23=4.3% SE=4.3pp
+  W_face=5 W_name=1
+BOOK LR-001 | dev8 | diff=-0.75 | label=UNC | no prior coding in h16 s2.1; not coded this round | 百度百科「韦千里」条目 https://baike.baidu.com/item/韦千里/24136586 ；韦氏《占卜讲义》（1960，香港）是否载此例未核实
+BOOK LR2-013 | dev8 | diff=-2.0 | label=D |  | 《大六壬占验指南》·章奏门·沈云生被参劾占回奏吉凶
+BOOK LR2-014 | dev8 | diff=-1.0 | label=W* | W-face, interface; W<->C interface | 《大六壬占验指南》·公讼门·在京偶占一课
+BOOK LR2-015 | dev8 | diff=-0.25 | label=E | same-sign exclusion; W note only | 《大六壬占验指南》·公讼门·冯允升被逮占出狱
+BOOK LR2-016 | dev8 | diff=-0.75 | label=D | W<->magnitude interface note only | 《大六壬占验指南》·公讼门·陈秋桃为宗藩建言被逮占出狱
+BOOK LR2-017 | dev8 | diff=-0.5 | label=E |  | 《大六壬占验指南》·公讼门·戚司宗失机定重辟八载占吉凶
+BOOK LR2-019 | dev8 | diff=-2.25 | label=E |  | 《大六壬占验指南》·兵斗门·田百原奉命勤王占吉凶
+BOOK LR2-021 | dev8 | diff=-3.25 | label=A* | MW/SEAT; A<->B interface | 《大六壬占验指南》·行人门·倪子玄占女何日到京
+BOOK LR2-022 | dev8 | diff=-0.75 | label=W* | W-face, interface; W<->A interface | 《大六壬占验指南》·疾病门·张奉初为弟观初占病
+BOOK LR2-023 | dev8 | diff=-4.5 | label=W* | W-face, interface; W<->D/E interface | 《大六壬占验指南》·疾病门·张澹宁占病
+BOOK LR2-024 | dev8 | diff=-5.5 | label=C* |  | 《大六壬占验指南》·疾病门·卢承山占病
+BOOK LR3-002 | LR3 | diff=-1.5 | label=E | A secondary candidate GZ/SEAT | 《大六壬占验指南》·仕宦门·占总镇奉命出师
+BOOK LR3-004 | LR3 | diff=-1.75 | label=W | W-face, hard-core | 《大六壬占验指南》·仕宦门·占功名
+BOOK LR3-006 | LR3 | diff=-2.75 | label=C* |  | 《大六壬占验指南》·仕宦门·任台垣占仕途
+BOOK LR3-008 | LR3 | diff=-1.5 | label=D |  | 《大六壬占验指南》·仕宦门·占功名
+BOOK LR3-010 | LR3 | diff=-1.25 | label=UNC | no prior coding in h16 s2.1; not coded this round | 《大六壬占验指南》·公讼门·代占一课
+BOOK LR3-101 | LR3 | diff=-1.5 | label=W* | W-face, interface; W<->A/C interface | 《大六壬占验指南》·会试门·阮实夫代刘若宜占会试
+BOOK LR3-107 | LR3 | diff=-2.0 | label=A | SF/SEAT | 《大六壬占验指南》·公讼门·寓中偶占一课
+BOOK LR3-112 | LR3 | diff=-1.25 | label=H | W not measurable | 《大六壬占验指南》·疾病门·刘一纯占病
+BOOK LR3-114 | LR3 | diff=-2.25 | label=C* |  | 《大六壬占验指南》·应候门·僧敏若夜闻鸦鸣占
+BOOK LR3-116 | LR3 | diff=-3.75 | label=A | QX/SEAT | 《大六壬占验指南》·射覆门·范玄同袖帨射覆
+BOOK OC-026 | dev8 | diff=-3.0 | label=E | same-sign exclusion note | 《大六壬占验指南》第57课
+BOOK OC-027 | dev8 | diff=-2.25 | label=W* | W-name, interface; W<->C interface | 《大六壬占验指南》第58课
+BOOK OC-029 | dev8 | diff=-2.5 | label=E | A secondary candidate MW/MIX | 《大六壬占验指南》第60课
+BOOK OC-030 | dev8 | diff=-2.5 | label=A | SF/SEAT | 《大六壬占验指南》第64课
+FAMILY dev8: {'non-guide': 1, 'guide': 14}
+FAMILY LR3: {'guide': 10}
+FAMILY merged: {'non-guide': 1, 'guide': 24}
