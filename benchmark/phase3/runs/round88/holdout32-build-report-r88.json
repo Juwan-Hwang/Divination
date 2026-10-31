@@ -1,0 +1,162 @@
+{
+ "set": "holdout32",
+ "round": 88,
+ "n_cards": 28,
+ "n_gold_lines": 28,
+ "gold_sha256_build": "f5a8ae014cef3363273e4c9ae4b3591c16f79a8a3c8944d39a0d83c97ca158b8",
+ "gold_bytes": 47226,
+ "order": [
+  "DA-059",
+  "BY-031",
+  "DA-060",
+  "BY-032",
+  "DA-061",
+  "BY-033",
+  "DA-062",
+  "BY-034",
+  "DA-063",
+  "BY-036",
+  "DA-064",
+  "BY-037",
+  "DA-065",
+  "BY-038",
+  "WHY-070",
+  "WHY-071",
+  "WHY-080",
+  "WHY-081",
+  "WHY-082",
+  "WHY-083",
+  "WHY-084",
+  "WHY-085",
+  "WHY-086",
+  "WHY-087",
+  "WHY-088",
+  "WHY-089",
+  "WHY-090",
+  "WHY-091"
+ ],
+ "strip_register": {
+  "DA-059": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+  ],
+  "BY-031": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+  ],
+  "DA-060": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+  ],
+  "BY-032": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+  ],
+  "DA-061": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+  ],
+  "BY-033": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+  ],
+  "DA-062": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+  ],
+  "BY-034": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+  ],
+  "DA-063": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+  ],
+  "BY-036": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+  ],
+  "DA-064": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+  ],
+  "BY-037": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+  ],
+  "DA-065": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+  ],
+  "BY-038": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+  ],
+  "WHY-070": [
+   "master_prediction（台账原录为要旨或未单列、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+  ],
+  "WHY-071": [
+   "master_prediction（台账原录为要旨或未单列、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+  ],
+  "WHY-080": [
+   "master_prediction（台账原录为要旨或未单列、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+  ],
+  "WHY-081": [
+   "master_prediction（台账原录为要旨或未单列、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+  ],
+  "WHY-082": [
+   "master_prediction（台账原录为要旨或未单列、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+  ],
+  "WHY-083": [
+   "master_prediction（台账原录为要旨或未单列、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+  ],
+  "WHY-084": [
+   "master_prediction（台账原录为要旨或未单列、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+  ],
+  "WHY-085": [
+   "master_prediction（台账原录为要旨或未单列、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+  ],
+  "WHY-086": [
+   "master_prediction（台账原录为要旨或未单列、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+  ],
+  "WHY-087": [
+   "master_prediction（台账原录为要旨或未单列、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+  ],
+  "WHY-088": [
+   "master_prediction（台账原录为要旨或未单列、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+  ],
+  "WHY-089": [
+   "master_prediction（台账原录为要旨或未单列、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+  ],
+  "WHY-090": [
+   "master_prediction（台账原录为要旨或未单列、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+  ],
+  "WHY-091": [
+   "master_prediction（台账原录为要旨或未单列、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+  ]
+ },
+ "field_mapping_notes": {
+  "DA-059": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+  "BY-031": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+  "DA-060": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+  "BY-032": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+  "DA-061": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+  "BY-033": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+  "DA-062": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+  "BY-034": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+  "DA-063": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+  "BY-036": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+  "DA-064": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+  "BY-037": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+  "DA-065": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+  "BY-038": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+  "WHY-070": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+  "WHY-071": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+  "WHY-080": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+  "WHY-081": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+  "WHY-082": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+  "WHY-083": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+  "WHY-084": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+  "WHY-085": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+  "WHY-086": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+  "WHY-087": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+  "WHY-088": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+  "WHY-089": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+  "WHY-090": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+  "WHY-091": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写"
+ },
+ "limits": {
+  "tradition_liuren": 0.5,
+  "tradition_liuyao": 0.5,
+  "source_max_share": 0.5,
+  "non_yijian": 28,
+  "non_liuyao": 14,
+  "all_low": true
+ }
+}

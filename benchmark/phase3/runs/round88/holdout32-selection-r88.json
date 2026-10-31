@@ -1,0 +1,277 @@
+{
+  "set": "holdout32",
+  "round": 88,
+  "ruling": "PREREG-ADDENDUM-r88.md 构成句＋PREREG.md §4（T=28=六壬14+六爻14）",
+  "order": [
+    "DA-059",
+    "BY-031",
+    "DA-060",
+    "BY-032",
+    "DA-061",
+    "BY-033",
+    "DA-062",
+    "BY-034",
+    "DA-063",
+    "BY-036",
+    "DA-064",
+    "BY-037",
+    "DA-065",
+    "BY-038",
+    "WHY-070",
+    "WHY-071",
+    "WHY-080",
+    "WHY-081",
+    "WHY-082",
+    "WHY-083",
+    "WHY-084",
+    "WHY-085",
+    "WHY-086",
+    "WHY-087",
+    "WHY-088",
+    "WHY-089",
+    "WHY-090",
+    "WHY-091"
+  ],
+  "liuren_wheel": [
+    "DA-059",
+    "BY-031",
+    "DA-060",
+    "BY-032",
+    "DA-061",
+    "BY-033",
+    "DA-062",
+    "BY-034",
+    "DA-063",
+    "BY-036",
+    "DA-064",
+    "BY-037",
+    "DA-065",
+    "BY-038"
+  ],
+  "source_counts": {
+    "DA": 7,
+    "BY": 7,
+    "WHY": 14
+  },
+  "da": {
+    "ledger_total": 97,
+    "unused_before": 80,
+    "selected": [
+      "DA-059",
+      "DA-060",
+      "DA-061",
+      "DA-062",
+      "DA-063",
+      "DA-064",
+      "DA-065"
+    ],
+    "fallback_next": [
+      "DA-066",
+      "DA-067",
+      "DA-068",
+      "DA-070",
+      "DA-072"
+    ],
+    "unused_after": 73
+  },
+  "by": {
+    "ledger_total": 88,
+    "unused_before": 73,
+    "selected": [
+      "BY-031",
+      "BY-032",
+      "BY-033",
+      "BY-034",
+      "BY-036",
+      "BY-037",
+      "BY-038"
+    ],
+    "fallback_next": [
+      "BY-039",
+      "BY-041",
+      "BY-042",
+      "BY-043",
+      "BY-044"
+    ],
+    "unused_after": 66
+  },
+  "cy": {
+    "regular_eligible": 0,
+    "note": "CY/CYJ 常规 eligible=0（裁定乙），轮取自动无取",
+    "fidelity_unused": {
+      "CY": [
+        "CY-014",
+        "CY-018",
+        "CY-019",
+        "CY-026",
+        "CY-035",
+        "CY-050"
+      ],
+      "CYJ": [
+        "CYJ-012",
+        "CYJ-015",
+        "CYJ-016",
+        "CYJ-017",
+        "CYJ-018",
+        "CYJ-019",
+        "CYJ-020",
+        "CYJ-021",
+        "CYJ-022",
+        "CYJ-025",
+        "CYJ-026",
+        "CYJ-027",
+        "CYJ-028",
+        "CYJ-029",
+        "CYJ-030",
+        "CYJ-031",
+        "CYJ-032",
+        "CYJ-033",
+        "CYJ-034",
+        "CYJ-035",
+        "CYJ-036",
+        "CYJ-038",
+        "CYJ-039",
+        "CYJ-041",
+        "CYJ-042",
+        "CYJ-043",
+        "CYJ-044",
+        "CYJ-045",
+        "CYJ-046",
+        "CYJ-049",
+        "CYJ-050",
+        "CYJ-053",
+        "CYJ-055",
+        "CYJ-056",
+        "CYJ-057",
+        "CYJ-058",
+        "CYJ-059",
+        "CYJ-060",
+        "CYJ-061",
+        "CYJ-064"
+      ]
+    },
+    "fidelity_unused_total": 46
+  },
+  "yx": {
+    "in_wheel": false,
+    "unused": [
+      "YX-001",
+      "YX-003",
+      "YX-004"
+    ],
+    "note": "YX 3 例不入轮取源序、只登记"
+  },
+  "lr_regular_remaining_before": 156,
+  "lr_regular_remaining_after": 142,
+  "why": {
+    "s7_remaining_before": [
+      "WHY-070",
+      "WHY-071"
+    ],
+    "s8_remaining_before": [
+      "WHY-080",
+      "WHY-081",
+      "WHY-082",
+      "WHY-083",
+      "WHY-084",
+      "WHY-085",
+      "WHY-086",
+      "WHY-087",
+      "WHY-088",
+      "WHY-089",
+      "WHY-090",
+      "WHY-091",
+      "WHY-092",
+      "WHY-093",
+      "WHY-095",
+      "WHY-096",
+      "WHY-098",
+      "WHY-099",
+      "WHY-100",
+      "WHY-103",
+      "WHY-104",
+      "WHY-106",
+      "WHY-107",
+      "WHY-108",
+      "WHY-109",
+      "WHY-110",
+      "WHY-111",
+      "WHY-112",
+      "WHY-114",
+      "WHY-115"
+    ],
+    "remaining_before_total": 32,
+    "selected": [
+      "WHY-070",
+      "WHY-071",
+      "WHY-080",
+      "WHY-081",
+      "WHY-082",
+      "WHY-083",
+      "WHY-084",
+      "WHY-085",
+      "WHY-086",
+      "WHY-087",
+      "WHY-088",
+      "WHY-089",
+      "WHY-090",
+      "WHY-091"
+    ],
+    "fallback_next": [
+      "WHY-092",
+      "WHY-093",
+      "WHY-095",
+      "WHY-096",
+      "WHY-098"
+    ],
+    "remaining_after": [
+      "WHY-092",
+      "WHY-093",
+      "WHY-095",
+      "WHY-096",
+      "WHY-098",
+      "WHY-099",
+      "WHY-100",
+      "WHY-103",
+      "WHY-104",
+      "WHY-106",
+      "WHY-107",
+      "WHY-108",
+      "WHY-109",
+      "WHY-110",
+      "WHY-111",
+      "WHY-112",
+      "WHY-114",
+      "WHY-115"
+    ],
+    "remaining_after_total": 18
+  },
+  "zero_reuse_check": {
+    "used_union_size": 1248,
+    "overlap": []
+  },
+  "exclusion_pair_check": {
+    "pair": [
+      "LY-015",
+      "LY-320"
+    ],
+    "in_selection": {
+      "LY-015": false,
+      "LY-320": false
+    },
+    "in_used_union": {
+      "LY-015": true,
+      "LY-320": true
+    }
+  },
+  "limits": {
+    "T": 28,
+    "liuren_share": 0.5,
+    "liuyao_share": 0.5,
+    "source_share_max": 0.5,
+    "non_yiji": 28,
+    "non_liuyao": 14,
+    "pollution": "low only（资格断言于建卡脚本逐例执行）"
+  },
+  "union_after_seal_expected": 1276
+}

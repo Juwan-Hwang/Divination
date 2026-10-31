@@ -1,0 +1,25 @@
+{
+ "id": "WHY-070",
+ "tradition": "liuyao",
+ "subject": "求测者（台账 subject 为空、原书未具名）",
+ "context": "庚辰年丑月丙申日，测叔叔病之吉凶；原书第十一章 肿瘤例四（印刷p189）",
+ "question": "测叔叔病之吉凶",
+ "setting": "六爻分类占验技法（王虎应著）",
+ "provenance": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第十一章 肿瘤例四（印刷p189）；底本为用户经学校图书馆提供之扫描本，redistributable=false",
+ "redistributable": false,
+ "license_status": "现代版权文本，内部研究用",
+ "anchors": {
+  "asked_at": "庚辰年丑月丙申日",
+  "ben_gua": "地风升",
+  "bian_gua": "雷山小过",
+  "moving_lines": "四爻妻财丑土×世、二爻父母亥水○",
+  "chart_lines_top_to_bottom": [
+   "青龙 官鬼酉金",
+   "玄武 父母亥水",
+   "白虎 妻财丑土× 世",
+   "螣蛇 官鬼酉金",
+   "勾陈 父母亥水○",
+   "朱雀 妻财丑土 应"
+  ]
+ }
+}

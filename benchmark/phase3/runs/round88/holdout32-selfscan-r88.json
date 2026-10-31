@@ -1,0 +1,29 @@
+{
+ "cards_scanned": 28,
+ "scan1_forbidden_keys_recursive": {
+  "hits": 0,
+  "detail": []
+ },
+ "scan2_leak_markers_L1_L2_LEAK": {
+  "hits": 0,
+  "detail": []
+ },
+ "scan2_adjudicated_false_positives": [
+  [
+   "WHY-080",
+   "marker:果如",
+   ".context",
+   "丙子年丙申月戊子日，一男子求测恋爱结果如何；原书第五章 三角关系例三（印刷p98-99）"
+  ],
+  [
+   "WHY-080",
+   "marker:果如",
+   ".question",
+   "一男子求测恋爱结果如何"
+  ]
+ ],
+ "scan3_whitelist_deviations": {
+  "hits": 0,
+  "detail": []
+ }
+}
