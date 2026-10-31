@@ -66,8 +66,8 @@ def merge_family(view_files, mapping_name, packet_names, tag):
 
 def main():
     merge_family(
-        ([f"judgeX-block{i}-scores.jsonl" for i in range(1, 5)],
-         [f"judgeY-block{i}-scores.jsonl" for i in range(1, 5)]),
+        ([f"judgeX{i}-scores.jsonl" for i in range(1, 5)],
+         [f"judgeY{i}-scores.jsonl" for i in range(1, 5)]),
         "host-mapping.json", ("packetA.json", "packetB.json"), "")
     return 0
 
