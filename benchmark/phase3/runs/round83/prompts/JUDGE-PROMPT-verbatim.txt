@@ -1,0 +1,2 @@
+冻结评审提示（与 R17 轮评审角所用逐字相同，CAL 与此后冻结协议轮次共用）：
+量表（各 0–2、0.5 步进）：direction＝终局方向与结局的吻合；claims＝具体断语逐条被结局印证的程度（未被结局记载的子断语不得给满分）；timing＝应期/时间坐标命中度。特殊口径：结局无可核时点 → timing 记 1 并在 reason 注明「结局无可核时点」；预测断语本身无应期 → timing 记 0 并注明。claims 必须经 host-mapping 回读 predictions/<case_id>.json 的 prediction_text 全文逐条核验，不得只看摘要。输出 JSONL 每行 {"anon_id","direction","claims","timing","total","pass","reason"}，total＝三项之和，pass＝total≥4。
