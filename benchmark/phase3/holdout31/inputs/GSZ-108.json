@@ -1,0 +1,24 @@
+{
+  "id": "GSZ-108",
+  "tradition": "liuyao",
+  "subject": "求测者（台账 subject 为空、原书未具名）",
+  "context": "丙子年癸巳月甲寅日，丢钱，测能找到否（某男）；原书第十七章《伏吟辨义》例四",
+  "question": "丢钱，测能找到否（某男）",
+  "setting": "六爻卦例说真（王虎应著）",
+  "provenance": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十七章《伏吟辨义》例四；底本为用户经学校图书馆提供，redistributable=false",
+  "redistributable": false,
+  "license_status": "现代版权文本，内部研究用",
+  "anchors": {
+    "asked_at": "丙子年癸巳月甲寅日",
+    "ben_gua": "天山遁",
+    "bian_gua": "雷山小过",
+    "chart_lines_top_to_bottom": [
+      "玄武      ▅▅▅▅▅ 父母戌土    ○→ 父母戌土",
+      "白虎      ▅▅▅▅▅ 兄弟申金 应 ○→ 兄弟申金",
+      "螣蛇      ▅▅▅▅▅ 官鬼午火",
+      "勾陈      ▅▅▅▅▅ 兄弟申金",
+      "朱雀 妻财寅木 ▅▅ ▅▅ 官鬼午火 世",
+      "青龙      ▅▅ ▅▅ 父母辰土"
+    ]
+  }
+}

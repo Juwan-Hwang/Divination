@@ -1,0 +1,24 @@
+{
+  "id": "GSZ-107",
+  "tradition": "liuyao",
+  "subject": "求测者（台账 subject 为空、原书未具名）",
+  "context": "乙亥年癸巳月丙辰日，去取订做的衣服、裁缝不在，看何时人在；原书第十七章《伏吟辨义》例三",
+  "question": "去取订做的衣服、裁缝不在，看何时人在",
+  "setting": "六爻卦例说真（王虎应著）",
+  "provenance": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十七章《伏吟辨义》例三；底本为用户经学校图书馆提供，redistributable=false",
+  "redistributable": false,
+  "license_status": "现代版权文本，内部研究用",
+  "anchors": {
+    "asked_at": "乙亥年癸巳月丙辰日",
+    "ben_gua": "雷水解",
+    "bian_gua": "天泽履",
+    "chart_lines_top_to_bottom": [
+      "青龙      ▅▅ ▅▅ 妻财戌土    ×→ 妻财戌土",
+      "玄武      ▅▅ ▅▅ 官鬼申金 应 ×→ 官鬼申金",
+      "白虎      ▅▅▅▅▅ 子孙午火",
+      "螣蛇      ▅▅ ▅▅ 子孙午火",
+      "勾陈      ▅▅▅▅▅ 妻财辰土 世",
+      "朱雀 父母子水 ▅▅ ▅▅ 兄弟寅木    ×→ 子孙巳火"
+    ]
+  }
+}

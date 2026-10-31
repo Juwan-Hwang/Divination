@@ -1,0 +1,428 @@
+{
+  "set": "holdout31",
+  "round": 87,
+  "ruling": "PREREG-ADDENDUM-r87.md 构成定版（PREREG.md §5 写死口径＋CYJ 专项复核主持裁定乙·锚点以盘体实载为准）",
+  "adjudication": "本集为 R87-REV1（calibration 第十二节）判读集（集成先于封存、快照含集成集）；开封条件＝封存后首个平台全立轮（最早 R88）",
+  "order": [
+    "DA-047",
+    "BY-022",
+    "DA-048",
+    "BY-023",
+    "DA-050",
+    "BY-024",
+    "DA-051",
+    "BY-025",
+    "DA-054",
+    "BY-027",
+    "DA-055",
+    "BY-028",
+    "DA-057",
+    "BY-030",
+    "WHY-037",
+    "WHY-038",
+    "WHY-039",
+    "WHY-040",
+    "WHY-041",
+    "WHY-042",
+    "WHY-043",
+    "WHY-044",
+    "WHY-068",
+    "WHY-069",
+    "GSZ-107",
+    "GSZ-108",
+    "GSZ-109",
+    "GSZ-110"
+  ],
+  "selection": {
+    "liuren_wheel": [
+      "DA-047",
+      "BY-022",
+      "DA-048",
+      "BY-023",
+      "DA-050",
+      "BY-024",
+      "DA-051",
+      "BY-025",
+      "DA-054",
+      "BY-027",
+      "DA-055",
+      "BY-028",
+      "DA-057",
+      "BY-030"
+    ],
+    "why": [
+      "WHY-037",
+      "WHY-038",
+      "WHY-039",
+      "WHY-040",
+      "WHY-041",
+      "WHY-042",
+      "WHY-043",
+      "WHY-044",
+      "WHY-068",
+      "WHY-069"
+    ],
+    "gsz": [
+      "GSZ-107",
+      "GSZ-108",
+      "GSZ-109",
+      "GSZ-110"
+    ]
+  },
+  "eligibility": {
+    "DA-047": {
+      "pool_qual": true,
+      "pass": true,
+      "chart_source": "底本全文 cases_raw 原式（DA）"
+    },
+    "BY-022": {
+      "pool_qual": true,
+      "pass": true,
+      "chart_source": "原书页图课盘直录（BY）"
+    },
+    "DA-048": {
+      "pool_qual": true,
+      "pass": true,
+      "chart_source": "底本全文 cases_raw 原式（DA）"
+    },
+    "BY-023": {
+      "pool_qual": true,
+      "pass": true,
+      "chart_source": "原书页图课盘直录（BY）"
+    },
+    "DA-050": {
+      "pool_qual": true,
+      "pass": true,
+      "chart_source": "底本全文 cases_raw 原式（DA）"
+    },
+    "BY-024": {
+      "pool_qual": true,
+      "pass": true,
+      "chart_source": "原书页图课盘直录（BY）"
+    },
+    "DA-051": {
+      "pool_qual": true,
+      "pass": true,
+      "chart_source": "底本全文 cases_raw 原式（DA）"
+    },
+    "BY-025": {
+      "pool_qual": true,
+      "pass": true,
+      "chart_source": "原书页图课盘直录（BY）"
+    },
+    "DA-054": {
+      "pool_qual": true,
+      "pass": true,
+      "chart_source": "底本全文 cases_raw 原式（DA）"
+    },
+    "BY-027": {
+      "pool_qual": true,
+      "pass": true,
+      "chart_source": "原书页图课盘直录（BY）"
+    },
+    "DA-055": {
+      "pool_qual": true,
+      "pass": true,
+      "chart_source": "底本全文 cases_raw 原式（DA）"
+    },
+    "BY-028": {
+      "pool_qual": true,
+      "pass": true,
+      "chart_source": "原书页图课盘直录（BY）"
+    },
+    "DA-057": {
+      "pool_qual": true,
+      "pass": true,
+      "chart_source": "底本全文 cases_raw 原式（DA）"
+    },
+    "BY-030": {
+      "pool_qual": true,
+      "pass": true,
+      "chart_source": "原书页图课盘直录（BY）"
+    },
+    "GSZ-107": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "base_qual": true,
+      "pass": true
+    },
+    "GSZ-108": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "base_qual": true,
+      "pass": true
+    },
+    "GSZ-109": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "base_qual": true,
+      "pass": true
+    },
+    "GSZ-110": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "base_qual": true,
+      "pass": true
+    },
+    "WHY-037": {
+      "ledger_qual": "应验情况：六月十五日（午月丁丑日）子时，生一女孩",
+      "supplement": true,
+      "pass": true
+    },
+    "WHY-038": {
+      "ledger_qual": "应验情况：一九九六年二月五日刚交节令第二天，生了个男孩，生时难产",
+      "supplement": true,
+      "pass": true
+    },
+    "WHY-039": {
+      "ledger_qual": "应验情况：本月庚子日巳时安全生下一女孩（应子孙胎日及用神伏藏出现之时）",
+      "supplement": true,
+      "pass": true
+    },
+    "WHY-040": {
+      "ledger_qual": "应验情况：此人侄女于当月辛未日生了一个女孩，生时难产（应子孙养地）",
+      "supplement": true,
+      "pass": true
+    },
+    "WHY-041": {
+      "ledger_qual": "应验情况（判断内嵌）：亥月乙卯日剖腹产生下一个男孩",
+      "supplement": true,
+      "pass": true
+    },
+    "WHY-042": {
+      "ledger_qual": "应验情况：果如所测，未月胎动",
+      "supplement": true,
+      "pass": true
+    },
+    "WHY-043": {
+      "ledger_qual": "应验情况：到医院检查发现怀孕，二人没有打算马上结婚，于是做了流产手术",
+      "supplement": true,
+      "pass": true
+    },
+    "WHY-044": {
+      "ledger_qual": "应验情况：于子月丁未日生下一个女孩",
+      "supplement": true,
+      "pass": true
+    },
+    "WHY-068": {
+      "ledger_qual": "应验情况：果然在前一天（癸未日）腹痛，到医院查得为子宫瘤，后服中药而愈",
+      "supplement": true,
+      "pass": true
+    },
+    "WHY-069": {
+      "ledger_qual": "应验情况：果然是鼻癌，手术后正在维持中",
+      "supplement": true,
+      "pass": true
+    }
+  },
+  "fallback_triggered": [],
+  "composition": {
+    "T": 28,
+    "tradition_counts": {
+      "liuren": 14,
+      "liuyao": 14
+    },
+    "tradition_shares": {
+      "liuren": 0.5,
+      "liuyao": 0.5
+    },
+    "source_counts": {
+      "DA": 7,
+      "BY": 7,
+      "WHY": 10,
+      "GSZ": 4
+    },
+    "source_share_max": 0.357,
+    "non_yiji_count": 28,
+    "non_liuyao_count": 14,
+    "non_liuyao_min_required": 13,
+    "anchor_present_only": true,
+    "pollution_low_only": true
+  },
+  "strip_register": {
+    "DA-047": [
+      "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+    ],
+    "BY-022": [
+      "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+    ],
+    "DA-048": [
+      "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+    ],
+    "BY-023": [
+      "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+    ],
+    "DA-050": [
+      "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+    ],
+    "BY-024": [
+      "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+    ],
+    "DA-051": [
+      "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+    ],
+    "BY-025": [
+      "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+    ],
+    "DA-054": [
+      "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+    ],
+    "BY-027": [
+      "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+    ],
+    "DA-055": [
+      "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+    ],
+    "BY-028": [
+      "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+    ],
+    "DA-057": [
+      "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+    ],
+    "BY-030": [
+      "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+    ],
+    "WHY-037": [
+      "master_prediction（台账未单列、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "WHY-038": [
+      "master_prediction（台账未单列、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "WHY-039": [
+      "master_prediction（台账未单列、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "WHY-040": [
+      "master_prediction（台账未单列、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "WHY-041": [
+      "master_prediction（台账未单列、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "WHY-042": [
+      "master_prediction（台账未单列、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "WHY-043": [
+      "master_prediction（台账未单列、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "WHY-044": [
+      "master_prediction（台账未单列、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "WHY-068": [
+      "master_prediction（台账未单列、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "WHY-069": [
+      "master_prediction（台账未单列、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "GSZ-107": [
+      "master_prediction/outcome_record/outcome_type/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "GSZ-108": [
+      "master_prediction/outcome_record/outcome_type/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "GSZ-109": [
+      "master_prediction/outcome_record/outcome_type/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "GSZ-110": [
+      "master_prediction/outcome_record/outcome_type/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+    ]
+  },
+  "field_mapping_notes": {
+    "DA-047": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+    "BY-022": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+    "DA-048": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+    "BY-023": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+    "DA-050": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+    "BY-024": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+    "DA-051": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+    "BY-025": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+    "DA-054": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+    "BY-027": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+    "DA-055": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+    "BY-028": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+    "DA-057": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+    "BY-030": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+    "WHY-037": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+    "WHY-038": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+    "WHY-039": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+    "WHY-040": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+    "WHY-041": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+    "WHY-042": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+    "WHY-043": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+    "WHY-044": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+    "WHY-068": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+    "WHY-069": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+    "GSZ-107": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+    "GSZ-108": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+    "GSZ-109": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+    "GSZ-110": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写"
+  },
+  "why_supplement_matched": {
+    "WHY-037": true,
+    "WHY-038": true,
+    "WHY-039": true,
+    "WHY-040": true,
+    "WHY-041": true,
+    "WHY-042": true,
+    "WHY-043": true,
+    "WHY-044": true,
+    "WHY-068": true,
+    "WHY-069": true
+  },
+  "leak_notes": [
+    "构建道：28 卡一级＋二级标记零命中、字段名污染词零命中、禁用键零命中、金标断语与结局逐句片段对卡面子串扫描零命中（扫描函数与标记集逐字承 build_holdout30_r86.py；落盘回读道与独立复扫道另见报告与 scan-holdout31-rescan-r87.json）。"
+  ],
+  "scan_build_pass": {
+    "content_hits_total": 0,
+    "fieldname_hits_total": 0,
+    "banned_key_hits_total": 0,
+    "gold_fragment_hits_total": 0
+  },
+  "scan_reread_pass": {
+    "content_hits_total": 0,
+    "fieldname_hits_total": 0,
+    "banned_key_hits_total": 0,
+    "gold_fragment_hits_total": 0
+  },
+  "gold_sha256": "4b4312147f6657b66fc21fe56207f7ba76857fdd7340ab0a5c5e6728a9210e9d",
+  "gold_bytes": 37104,
+  "gold_lines": 28,
+  "snapshot": {
+    "dir": "/home/hatch/workspace/divination/benchmark/phase3/runs/round87/kb-snapshot-holdout31",
+    "files": 21,
+    "sha_list": "/home/hatch/workspace/divination/benchmark/phase3/runs/round87/kb-snapshot-holdout31-sha256.txt",
+    "vs_platform_diff": [
+      "SKILL.md",
+      "references/calibration.md"
+    ],
+    "vs_platform_note": "与平台快照 runs/round87/kb-snapshot 逐件对勘，差异恰为 {SKILL.md, references/calibration.md} 两文件（本轮 R87-REV1 集成：calibration 第十二节＋SKILL (t) 指针）"
+  },
+  "lr_gold_recovery": "DA 七例课盘与金标自底本全文 cases_raw.json 原式逐字复原（邵先生曰段与应验段全录、缘生谛编注剔除）；BY 七例课盘与正议／案验全文自原书页图逐字复原（140dpi 渲染读图、课盘 250dpi 裁切复核；BY-022 案验段复玩分析文尾照录承 h30 DA-038 例、BY-027 案验后复玩段与附议不入、逐项见封存日志）；WHY 十例断语回原书〔判斷〕段逐字补录、结局自台账逐字；GSZ 四例五要素回原书文字层复核全过、断语与结局自台账逐字",
+  "notes": "判读归属：本集为 R87-REV1（calibration 第十二节）判读集。供给面：「本集为存量内最后一集」口径不适用——本集系 expansion 池台账存量＋r56/r57 台账存量组集；封存后六壬常规 eligible 余面 156（＝170－14，含 YX 3 不入轮取源序）、CYJ/CY fidelity 例外未用余面 46 例、WHY 资格余面 32、GSZ 建卡口径名单已尽取。前置核查三项结论见 precheck-holdout31-seat-r87.json（排除对不交叠、零复用交集为空、id 号段零冲突）。递补：同源台账序递补链全程未触发。"
+}

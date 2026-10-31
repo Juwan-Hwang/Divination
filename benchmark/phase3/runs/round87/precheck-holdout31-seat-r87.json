@@ -1,0 +1,172 @@
+{
+  "seat": "R87 holdout31 组集封存席（前置核查）",
+  "ruling": "runs/round87/PREREG.md §5＋PREREG-ADDENDUM-r87.md＋CYJ-ANCHOR-REVIEW-r87.md §5 主持裁定（乙·收紧）",
+  "selection": {
+    "liuren_wheel": [
+      "DA-047",
+      "BY-022",
+      "DA-048",
+      "BY-023",
+      "DA-050",
+      "BY-024",
+      "DA-051",
+      "BY-025",
+      "DA-054",
+      "BY-027",
+      "DA-055",
+      "BY-028",
+      "DA-057",
+      "BY-030"
+    ],
+    "why": [
+      "WHY-037",
+      "WHY-038",
+      "WHY-039",
+      "WHY-040",
+      "WHY-041",
+      "WHY-042",
+      "WHY-043",
+      "WHY-044",
+      "WHY-068",
+      "WHY-069"
+    ],
+    "gsz": [
+      "GSZ-107",
+      "GSZ-108",
+      "GSZ-109",
+      "GSZ-110"
+    ],
+    "order": [
+      "DA-047",
+      "BY-022",
+      "DA-048",
+      "BY-023",
+      "DA-050",
+      "BY-024",
+      "DA-051",
+      "BY-025",
+      "DA-054",
+      "BY-027",
+      "DA-055",
+      "BY-028",
+      "DA-057",
+      "BY-030",
+      "WHY-037",
+      "WHY-038",
+      "WHY-039",
+      "WHY-040",
+      "WHY-041",
+      "WHY-042",
+      "WHY-043",
+      "WHY-044",
+      "WHY-068",
+      "WHY-069",
+      "GSZ-107",
+      "GSZ-108",
+      "GSZ-109",
+      "GSZ-110"
+    ]
+  },
+  "exclusion_pair_check": {
+    "checked": [
+      "LY-015",
+      "LY-320"
+    ],
+    "in_selection": {
+      "LY-015": false,
+      "LY-320": false
+    },
+    "conclusion": "两 id 均不在候选 28 例内，逐 id 明核（候选 id 空间 DA-/BY-/WHY-/GSZ-，与 LY- 不交叠）"
+  },
+  "zero_reuse_check": {
+    "basis": "runs/round87/used-ids-r87.json（1220 条、distinct 1220）",
+    "candidates": [
+      "DA-047",
+      "BY-022",
+      "DA-048",
+      "BY-023",
+      "DA-050",
+      "BY-024",
+      "DA-051",
+      "BY-025",
+      "DA-054",
+      "BY-027",
+      "DA-055",
+      "BY-028",
+      "DA-057",
+      "BY-030",
+      "WHY-037",
+      "WHY-038",
+      "WHY-039",
+      "WHY-040",
+      "WHY-041",
+      "WHY-042",
+      "WHY-043",
+      "WHY-044",
+      "WHY-068",
+      "WHY-069",
+      "GSZ-107",
+      "GSZ-108",
+      "GSZ-109",
+      "GSZ-110"
+    ],
+    "overlap": [],
+    "conclusion": "交集为空集"
+  },
+  "lr_remaining_recount": {
+    "ledger_unused_total": 216,
+    "by_source_unused": {
+      "DA": 87,
+      "BY": 80,
+      "CYJ": 40,
+      "CY": 6,
+      "YX": 3
+    },
+    "cy_regular_eligible_zero": {
+      "fidelity_exception_unused": 46,
+      "basis": "CYJ 专项复核裁定乙：CYJ/CY 两源盘体在场 0/55，仅式头者不计常规 eligible"
+    },
+    "regular_eligible_total": 170,
+    "regular_eligible_note": "170＝DA 87＋BY 80＋YX 3（YX 承历轮不在轮取源序内、只登记）；与增补件登记订正值 170 逐值相符",
+    "da_by_takeable": 167,
+    "conclusion": "DA/BY 两源可取面 167 ≥14，足额，不触发停工回主持"
+  },
+  "why_remaining_recount": {
+    "stock_s7_unused": 27,
+    "stock_s8_unused": 30,
+    "s7_rest_after_used": [
+      "WHY-037",
+      "WHY-038",
+      "WHY-039",
+      "WHY-040",
+      "WHY-041",
+      "WHY-042",
+      "WHY-043",
+      "WHY-044",
+      "WHY-068",
+      "WHY-069",
+      "WHY-070",
+      "WHY-071"
+    ],
+    "s8_rest_count": 30,
+    "h30_taken": [
+      "WHY-025",
+      "WHY-026",
+      "WHY-027",
+      "WHY-028",
+      "WHY-031",
+      "WHY-032",
+      "WHY-033",
+      "WHY-034",
+      "WHY-035",
+      "WHY-036"
+    ],
+    "remaining_total": 42,
+    "conclusion": "余面 42 与增补件登记值逐值相符；按台账序（一轮 §7 序在前）续取前 10＝WHY-037…044、068、069"
+  },
+  "id_occupancy_check": {
+    "existing_sealed_input_ids_count": 429,
+    "conflicts": [],
+    "conclusion": "28 id 逐一对全部已封集 holdout*/inputs/ 文件名核对零冲突"
+  }
+}

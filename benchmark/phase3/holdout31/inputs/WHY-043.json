@@ -1,0 +1,25 @@
+{
+  "id": "WHY-043",
+  "tradition": "liuyao",
+  "subject": "求测者（台账 subject 为空、原书未具名）",
+  "context": "丙子年己亥月己巳日，某男怀疑同居女友怀孕，测是否怀孕；原书第八章 例十一（印刷p139）",
+  "question": "某男怀疑同居女友怀孕，测是否怀孕",
+  "setting": "六爻分类占验技法（王虎应著）",
+  "provenance": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第八章 例十一（印刷p139）；底本为用户经学校图书馆提供之扫描本，redistributable=false",
+  "redistributable": false,
+  "license_status": "现代版权文本，内部研究用",
+  "anchors": {
+    "asked_at": "丙子年己亥月己巳日",
+    "ben_gua": "地风升",
+    "bian_gua": "雷天大壮",
+    "moving_lines": "四爻妻财丑土×世",
+    "chart_lines_top_to_bottom": [
+      "勾陈 官鬼酉金",
+      "朱雀 父母亥水",
+      "青龙 妻财丑土× 世",
+      "玄武 官鬼酉金",
+      "白虎 父母亥水",
+      "螣蛇 妻财丑土 应"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "WHY-069",
+  "tradition": "liuyao",
+  "subject": "求测者（台账 subject 为空、原书未具名）",
+  "context": "辰月庚戌日，某男自测病（断癌种）；原书第十一章 肿瘤例三（印刷p188）",
+  "question": "某男自测病（断癌种）",
+  "setting": "六爻分类占验技法（王虎应著）",
+  "provenance": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第十一章 肿瘤例三（印刷p188）；底本为用户经学校图书馆提供之扫描本，redistributable=false",
+  "redistributable": false,
+  "license_status": "现代版权文本，内部研究用",
+  "anchors": {
+    "asked_at": "辰月庚戌日",
+    "ben_gua": "山火贲",
+    "bian_gua": "风雷益",
+    "moving_lines": "五爻妻财子水×、三爻妻财亥水○",
+    "chart_lines_top_to_bottom": [
+      "螣蛇 官鬼寅木",
+      "勾陈 妻财子水×",
+      "朱雀 兄弟戌土 应",
+      "青龙 妻财亥水○",
+      "玄武 兄弟丑土",
+      "白虎 官鬼卯木 世"
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "set": "holdout31",
+  "rescan_by": "独立复扫脚本 scan_holdout31_r87.py（R87 组集封存席）",
+  "T": 28,
+  "per_case": {
+    "DA-047": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "master_prediction_fragment_hits": [],
+      "outcome_fragment_hits": [],
+      "pass": true
+    },
+    "BY-022": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "master_prediction_fragment_hits": [],
+      "outcome_fragment_hits": [],
+      "pass": true
+    },
+    "DA-048": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "master_prediction_fragment_hits": [],
+      "outcome_fragment_hits": [],
+      "pass": true
+    },
+    "BY-023": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "master_prediction_fragment_hits": [],
+      "outcome_fragment_hits": [],
+      "pass": true
+    },
+    "DA-050": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "master_prediction_fragment_hits": [],
+      "outcome_fragment_hits": [],
+      "pass": true
+    },
+    "BY-024": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "master_prediction_fragment_hits": [],
+      "outcome_fragment_hits": [],
+      "pass": true
+    },
+    "DA-051": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "master_prediction_fragment_hits": [],
+      "outcome_fragment_hits": [],
+      "pass": true
+    },
+    "BY-025": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "master_prediction_fragment_hits": [],
+      "outcome_fragment_hits": [],
+      "pass": true
+    },
+    "DA-054": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "master_prediction_fragment_hits": [],
+      "outcome_fragment_hits": [],
+      "pass": true
+    },
+    "BY-027": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "master_prediction_fragment_hits": [],
+      "outcome_fragment_hits": [],
+      "pass": true
+    },
+    "DA-055": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "master_prediction_fragment_hits": [],
+      "outcome_fragment_hits": [],
+      "pass": true
+    },
+    "BY-028": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "master_prediction_fragment_hits": [],
+      "outcome_fragment_hits": [],
+      "pass": true
+    },
+    "DA-057": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "master_prediction_fragment_hits": [],
+      "outcome_fragment_hits": [],
+      "pass": true
+    },
+    "BY-030": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "master_prediction_fragment_hits": [],
+      "outcome_fragment_hits": [],
+      "pass": true
+    },
+    "WHY-037": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "master_prediction_fragment_hits": [],
+      "outcome_fragment_hits": [],
+      "pass": true
+    },
+    "WHY-038": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "master_prediction_fragment_hits": [],
+      "outcome_fragment_hits": [],
+      "pass": true
+    },
+    "WHY-039": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "master_prediction_fragment_hits": [],
+      "outcome_fragment_hits": [],
+      "pass": true
+    },
+    "WHY-040": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "master_prediction_fragment_hits": [],
+      "outcome_fragment_hits": [],
+      "pass": true
+    },
+    "WHY-041": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "master_prediction_fragment_hits": [],
+      "outcome_fragment_hits": [],
+      "pass": true
+    },
+    "WHY-042": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "master_prediction_fragment_hits": [],
+      "outcome_fragment_hits": [],
+      "pass": true
+    },
+    "WHY-043": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "master_prediction_fragment_hits": [],
+      "outcome_fragment_hits": [],
+      "pass": true
+    },
+    "WHY-044": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "master_prediction_fragment_hits": [],
+      "outcome_fragment_hits": [],
+      "pass": true
+    },
+    "WHY-068": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "master_prediction_fragment_hits": [],
+      "outcome_fragment_hits": [],
+      "pass": true
+    },
+    "WHY-069": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "master_prediction_fragment_hits": [],
+      "outcome_fragment_hits": [],
+      "pass": true
+    },
+    "GSZ-107": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "master_prediction_fragment_hits": [],
+      "outcome_fragment_hits": [],
+      "pass": true
+    },
+    "GSZ-108": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "master_prediction_fragment_hits": [],
+      "outcome_fragment_hits": [],
+      "pass": true
+    },
+    "GSZ-109": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "master_prediction_fragment_hits": [],
+      "outcome_fragment_hits": [],
+      "pass": true
+    },
+    "GSZ-110": {
+      "content_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "master_prediction_fragment_hits": [],
+      "outcome_fragment_hits": [],
+      "pass": true
+    }
+  },
+  "totals": {
+    "content": 0,
+    "fieldname": 0,
+    "banned": 0,
+    "mp_frag": 0,
+    "oc_frag": 0
+  },
+  "all_pass": true,
+  "gold_sha256": "4b4312147f6657b66fc21fe56207f7ba76857fdd7340ab0a5c5e6728a9210e9d",
+  "gold_bytes": 37104
+}

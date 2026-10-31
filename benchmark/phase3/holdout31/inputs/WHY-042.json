@@ -1,0 +1,25 @@
+{
+  "id": "WHY-042",
+  "tradition": "liuyao",
+  "subject": "求测者（台账 subject 为空、原书未具名）",
+  "context": "丙子年甲午月壬寅日，某男问妻子已怀孕五个月胎儿不见动静，何时胎动；原书第八章 例十（印刷p138）",
+  "question": "某男问妻子已怀孕五个月胎儿不见动静，何时胎动",
+  "setting": "六爻分类占验技法（王虎应著）",
+  "provenance": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第八章 例十（印刷p138）；底本为用户经学校图书馆提供之扫描本，redistributable=false",
+  "redistributable": false,
+  "license_status": "现代版权文本，内部研究用",
+  "anchors": {
+    "asked_at": "丙子年甲午月壬寅日",
+    "ben_gua": "坤为地",
+    "bian_gua": "地雷复",
+    "moving_lines": "初爻兄弟未土×独发",
+    "chart_lines_top_to_bottom": [
+      "白虎 子孙酉金 世",
+      "螣蛇 妻财亥水",
+      "勾陈 兄弟丑土",
+      "朱雀 官鬼卯木 应",
+      "青龙 父母巳火",
+      "玄武 兄弟未土×"
+    ]
+  }
+}

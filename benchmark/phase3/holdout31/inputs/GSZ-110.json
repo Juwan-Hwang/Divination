@@ -1,0 +1,24 @@
+{
+  "id": "GSZ-110",
+  "tradition": "liuyao",
+  "subject": "求测者（台账 subject 为空、原书未具名）",
+  "context": "丁丑年丁未月辛未日，测工作调动（某女）；原书第十七章《伏吟辨义》例六",
+  "question": "测工作调动（某女）",
+  "setting": "六爻卦例说真（王虎应著）",
+  "provenance": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十七章《伏吟辨义》例六；底本为用户经学校图书馆提供，redistributable=false",
+  "redistributable": false,
+  "license_status": "现代版权文本，内部研究用",
+  "anchors": {
+    "asked_at": "丁丑年丁未月辛未日",
+    "ben_gua": "风天小畜",
+    "bian_gua": "天雷无妄",
+    "chart_lines_top_to_bottom": [
+      "螣蛇      ▅▅▅▅▅ 兄弟卯木",
+      "勾陈      ▅▅▅▅▅ 子孙巳火",
+      "朱雀      ▅▅ ▅▅ 妻财未土 应 ×→ 子孙午火",
+      "青龙 官鬼酉金 ▅▅▅▅▅ 妻财辰土   ○→ 妻财辰土",
+      "玄武      ▅▅▅▅▅ 兄弟寅木   ○→ 兄弟寅木",
+      "白虎      ▅▅▅▅▅ 父母子水 世"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "GSZ-109",
+  "tradition": "liuyao",
+  "subject": "求测者（台账 subject 为空、原书未具名）",
+  "context": "丙子年庚子月壬午日，测小儿病（某男）；原书第十七章《伏吟辨义》例五",
+  "question": "测小儿病（某男）",
+  "setting": "六爻卦例说真（王虎应著）",
+  "provenance": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十七章《伏吟辨义》例五；底本为用户经学校图书馆提供，redistributable=false",
+  "redistributable": false,
+  "license_status": "现代版权文本，内部研究用",
+  "anchors": {
+    "asked_at": "丙子年庚子月壬午日",
+    "ben_gua": "火雷噬嗑",
+    "bian_gua": "乾为天",
+    "chart_lines_top_to_bottom": [
+      "白虎 ▅▅▅▅▅ 子孙巳火",
+      "螣蛇 ▅▅ ▅▅ 妻财未土 世 ×→ 官鬼申金",
+      "勾陈 ▅▅▅▅▅ 官鬼酉金",
+      "朱雀 ▅▅ ▅▅ 妻财辰土    ×→ 妻财辰土",
+      "青龙 ▅▅ ▅▅ 兄弟寅木 应 ×→ 兄弟寅木",
+      "玄武 ▅▅▅▅▅ 父母子水"
+    ]
+  }
+}
