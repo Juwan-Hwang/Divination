@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-008",
+ "prediction_text": "断：Narendra Modi 领导的 BJP/NDA（人民党联盟）赢得 2019 年印度大选并连任执政，席位过半数组阁。应期坐标：计票日 2019 年 5 月 23 日揭晓（窗口为投票期 4 月 11 日至 5 月 19 日，终局以计票日为坐标）。",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决\nsystems_used: western-astrology（题面为占星预测语境，无出生盘/星历数据，依题面已载事实与古典占星的权位象意作断）。 已载面：现任总理求连任、反对党挑战、无盘面数据。断项过闸：仅以题面『现任执政、选前评估』之事实面落断，无星历触发可指，细节（席位确数）无据不报。应期为题面已载的计票日，非推得。置信因无盘面而降。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

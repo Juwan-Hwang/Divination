@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-005",
+ "prediction_text": "Prediction: Donald Trump wins the 2016 US presidential election — the panel astrologer who alone picked Trump early, when 17 Republicans still contested, to become the Republican nominee follows the same read through to the general election: Trump defeats Hillary Clinton on 8 November 2016, against the poll consensus. The early-nomination hit is the credential for this call: the same chart signature that singled Trump out of 17 is read as carrying him through November.",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决\nsystems_used: 西洋占星（mundane／事件占星，古典规则骨架）\nCard facts: same election/panel as companion card, plus the distinguishing fact that one panel astrologer had earlier picked Trump as nominee from a 17-candidate field. That track-record fact is the trigger distinguishing this card's read from the panel-majority read: systems_used mundane astrology, single-reader track. Confidence moderate — the read rests on one reader's signature against consensus, stated as such.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

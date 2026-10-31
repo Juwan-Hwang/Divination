@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-011",
+ "prediction_text": "断：Donald Trump 连任成功，赢得 2020 年美国总统大选。应期坐标：2020 年 11 月 3 日选举，其后计票周内见分晓。此断偏险、优势不大。",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决\nsystems_used: western-astrology（题面为占星预测语境，无出生盘/星历数据，依题面已载事实与古典占星的权位象意作断）。 已载面：题面独举 Trump 吠陀盘中 Jupiter 居第二宫相照第十宫、第十宫有 Sun——木星照事业宫、太阳坐事业宫为权位得光之象，指代链直指 Trump 本人权位面。断项过闸：本卡唯一盘面触发即此配置，按之取 Trump 连任；民调面未在本卡载明，不引入。无完整星盘，降置信。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

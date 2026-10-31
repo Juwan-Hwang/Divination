@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-004",
+ "prediction_text": "The report is FALSE — the King has not taken Cambridge. All the angles are moveable and the cusps vitiated (Saturn on the 10th, Mars on the 7th), the classical signature of a lying rumour; the Moon is cadent in a sign wherein she nothing delights, giving the news no credit; the lady of the Ascendant (the Parliament/querent side) is in her exaltation and strong, while the lord of the 7th (the King's party) is entering his fall and afflicted — the King's party is in no condition to have taken the town. No timing coordinate: the question is of present truth, judged false at once.",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决（Lilly horary，谣言真伪章法）。systems_used: horary。已载面：谣言真伪（主问）。断项过闸：伪←四角皆基本宫且宫头受克（土星蚀十宫头、火星蚀七宫头）＋月亮陷落宫无所喜之宫；国会方强←升主擢升；王方弱←七宫主入弱受克。对象核：承受对象=谣言所指之事（剑桥易手），应验同一。此问无应期断语（问当下真伪），应期诸条不适用。",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

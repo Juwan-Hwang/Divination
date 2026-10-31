@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Prediction (tarot): Donald Trump wins the 2016 US presidential election, and what decides it is Hillary Clinton's email / Clinton Foundation controversy — a late scandal revival around Clinton's trustworthiness in the final stretch breaks her August lead. The Union Square reading as framed in August 2016: Clinton's cards carry the controversy as the decisive weight; Trump's path runs through her collapse, not through his own popularity. Decision timing: late October–8 November 2016 window.",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决\nsystems_used: 塔罗（Waite牌义体系）／事件预测\nCard facts: tarot reader in Manhattan's Union Square Park consulted Aug 2016, draws cards on the election; Clinton leads most Aug polls; email controversy and Clinton Foundation already public. Face listing: outcome face (Trump) and deciding-factor face (email controversy) both listed and both answered, per the question's two parts. Limit: the card does not transcribe the actual cards drawn — no spread is invented here; the read is made on the question structure and stated facts, and confidence is capped at 0.55 for that missing spread.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

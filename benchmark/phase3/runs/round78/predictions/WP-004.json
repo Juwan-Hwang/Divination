@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "Prediction: Hillary Clinton wins the 2016 US presidential election — the Costa Mesa ISAR panel consensus read: Clinton defeats Donald Trump on 8 November 2016. Basis of the call as framed in October 2016: polls, incumbency-party continuity configurations and the panel's majority chart reads converge on Clinton; Trump is read as the disruptive loser. This is a single-point call (Clinton), confidence moderate (0.55) given the closeness signalled by the need for a panel split.",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决\nsystems_used: 西洋占星（mundane／事件占星，古典规则骨架）\nCard facts: Clinton vs Trump, most polls favour Clinton, international astrology conference election panel at Costa Mesa, Oct 2016. Systems: mundane/event astrology panel method as presented on the card. Face listing: outcome face only (single question); panel-split face noted as uncertainty source, hence confidence capped at moderate. No individual panelist charts on card; none invented.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-212",
+ "prediction_text": "He is NOT bewitched. The suspicion arose only because the Moon goes to an opposition of Saturn with both planets in the 6th and 12th houses; but the decisive testimonies fail for witchcraft: neither the Ascendant nor its lord, nor the Moon, is afflicted by the lord of the 12th. It is a natural sickness — a cold, melancholy, saturnine distemper that physic has not yet reached, which is why the medicines wrought no effect. Recovery is promised: the Moon, after her opposition of Saturn, applies to the lord of the Ascendant, who is above the earth and ascending towards the meridian — the patient's strength returns and he recovers (week-scale: improvement as the Moon completes her application to the Ascendant's lord).",
+ "basis": "tradition: horary（卡面载明）。systems_used: horary（病占·巫蛊辨章法）。已载面：是否被巫蛊（主问）、药石无效之情境面。断项过闸：非巫蛊←上升、升主、月亮皆不受十二宫主之克（章法决定性证词不成立）；病为自然之土性郁病←月趋冲土星于六、十二宫；可复←月亮过冲土星后趋合升主、升主在地上升向中天。对象核：承受对象=病人本人，病之断语主语对回病人。两段核：近段药石未效、远段渐复，远段触发=月亮入相升主。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

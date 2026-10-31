@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-204",
+ "prediction_text": "The disease is a cold, melancholy and phlegmatic distemper seated in the BREAST and STOMACH. The lord of the Ascendant had lately separated from a dexter square of Saturn, Saturn then in Cancer — Cancer governing the breast and stomach; the sixth house is afflicted by a planet in his fall placed therein, and the Moon is in the fourth house with Saturn, confirming a heavy, obstructive, saturnine humour oppressing the upper belly and breast. Curable? Yes — not mortal: the lord of the Ascendant is separating from Saturn's square, so the worst pressure is passing; but all the angles are fixed, so the disease is settled and lingering — recovery will be slow (week-to-month scale), with the breast/stomach oppression easing gradually rather than by a sudden crisis.",
+ "basis": "tradition: horary（卡面载明）。systems_used: horary（病占 decumbiture 法）。已载面：病为何病（主问）、可治否、病位何处。断项过闸：病位胸胃←升主刚离土星四分、土星当时居蟹（主胸胃）＋月亮四宫合土星，两路同指胸胃区（病位依据链：取象=土星/月亮，星座对应蟹主胸胃）；病性寒湿痰郁←土星性＋六宫内入弱行星；可治而缠绵←升主方离土星之克（近段压）＋四角固定（远段迟），远段触发=升主离克之动向。对象核：病人本人（医生患者），病位未落到他人。近远两段：近段胸胃壅塞、远段渐解，终局合成单一方向——可愈。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

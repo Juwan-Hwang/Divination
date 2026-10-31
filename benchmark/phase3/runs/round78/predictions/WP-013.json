@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-013",
+ "prediction_text": "断：Keir Starmer 领导的工党赢得 2024 年 7 月 4 日英国大选并执政，保守党大败下台。应期坐标：选举日 2024 年 7 月 4 日当夜计票见分晓。",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决\nsystems_used: western-astrology（题面为占星预测语境，无出生盘/星历数据，依题面已载事实与古典占星的权位象意作断）。 已载面：工党民调领先约二十个百分点、Sunak 因 D-Day 纪念活动早退受批评、选举时太阳在 Cancer。断项过闸：以题面民调面与在任者受损面落断工党胜，席位确数无据不报。应期为题面选举日。",
+ "confidence": 0.74,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

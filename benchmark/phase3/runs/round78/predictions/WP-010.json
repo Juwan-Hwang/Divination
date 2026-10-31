@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-010",
+ "prediction_text": "断：Joe Biden 赢得 2020 年美国总统大选，击败现任总统 Donald Trump。应期坐标：选举日 2020 年 11 月 3 日投票、其后数日内计票见分晓（窗口为 11 月上旬）。",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决\nsystems_used: western-astrology（题面为占星预测语境，无出生盘/星历数据，依题面已载事实与古典占星的权位象意作断）。 已载面：Biden 在吠陀 reckoning 中为 Scorpio Ascendant、民调领先、三位占星师意见分歧。断项过闸：以题面已载的民调面与 Biden 本命上升象意为据取 Biden；分歧面已列入并注明取舍（从民调与挑战者上升象，不从分歧本身）。无完整星盘，降置信。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

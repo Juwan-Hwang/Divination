@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-014",
+ "prediction_text": "The thief is neither of the two the querent suspects. Mars (his suspected woman servant) is refused as thief-significator because Mars is in his own terms and face; Saturn, the other suspect, is likewise in his own term and face and passed by. The thief is signified by Mercury: angular, with no essential dignity, in partile conjunction with Saturn and square to Mars — a YOUNG MAN, a youth of mean/middling condition (Mercury conjunct Saturn), male (both Mercury's companions masculine, the Moon in a masculine sign), someone about or acquainted with the house rather than a stranger. Recovery is doubtful: Mercury so afflicted by Saturn and Mars shows the money mostly spent or scattered; at most a small part recovered — the main sum is gone.",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决（Lilly horary，失窃章法）。systems_used: horary。已载面：谁窃（主问，含题面自带两名嫌疑人面）、能否找回。断项过闸：排除两嫌疑←火星、土星各居自界自脸，按章法不取为贼象征；贼为年轻男子←水星无尊贵居角、合土星四分火星（身份类别指针：水星=青年、合土星=身份低微，两指针同向保留到类别粒度）；难找回←水星受两凶克合、月亮近太阳方离。对象核：承受对象=失窃钱财与窃者身份，分栏作断。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
