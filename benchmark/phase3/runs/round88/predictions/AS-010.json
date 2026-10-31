@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-010",
+ "prediction_text": "仆人往西而去（西方星座、南方象限偏西），且将归回/被寻回：仆 significator 与上升主自角宫 hastening 成三合、月亮在二宫自宫，主行人有归意、去不远。应期以日计：主坐标取数日（一周内）归回或得确讯。",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决\nsystems_used: horary\n依据：水星为本盘仆之 significator 在西方星座定其向西；月亮逃时与占时同在西方星座主未远走；世应 significator 趋三合自主归/复得。R80：无量级断项，不适用。R87应期核：候选=[当日（相位未成，无触发）、一周内（世应三合成相，有触发）]，取一周内点；日档（行人近事）。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

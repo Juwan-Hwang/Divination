@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-211",
+ "prediction_text": "马可寻回。马之 significator（十二宫主）逆行而 hastening 合 querent 二宫主（其财物宫），月亮在二宫、二宫尖近处两星逆行，皆主失物自归/被送回；马去向以西为主（十二宫星座与其主所在星座俱偏西）。应期以日计：主坐标取数日至一旬内寻获。",
+ "basis": "tradition: horary\nsystems_used: horary\n依据：失畜复得定式：畜星逆行趋合财帛宫主＝物归其主；多证同指西方定其向。七宫受 afflict 主曾有被牵走之疑而终归。R80：无量级断项，不适用。R87应期核：候选=[当日（合相未成，无触发）、一旬内（十二宫主合二宫主成相，有触发）]，取一旬内点；日档（失畜近事）。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

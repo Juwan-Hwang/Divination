@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-002",
+ "prediction_text": "Barack Obama wins the 2008 US presidential election. The change candidate prevails over the continuity candidate: Obama first secures the Democratic nomination against Hillary Clinton, then defeats John McCain in the general election of 4 November 2008, with the result clear on election night/the following day.",
+ "basis": "Card carries no tradition field; the card is an election-forecast item, method chosen accordingly.\nsystems_used: western mundane astrology (Saturn-Uranus cycle) plus electoral-structure reading. Card facts: Saturn comes into opposition with Uranus beginning on Election Day, a configuration last seen 45 years earlier (the mid-1960s upheaval cycle) — the opposition of order (Saturn) and disruption/change (Uranus) exact on voting day favours the candidate embodying change over the candidate of the incumbent order. Obama already leads the nomination race at asking time (May 2008); McCain represents continuity with an unpopular incumbent administration. R87 candidate coordinates: 4 November 2008 (election day, trigger = the opposition exact and the vote itself) taken; no other date carries a trigger.",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

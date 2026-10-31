@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-015",
+ "prediction_text": "丈夫在世且平安：其 significator 太阳得 hayz、全无 affliction，主人安在、无性命之忧；归期有迟滞（海上行程与凶星后续成相主拖延），应期以月计，主坐标取占后数月内归抵/确讯先至。妇人自身则久病缠绵、旧疾反复（六宫主土星逆行），其病比丈夫之安危更堪忧。",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决\nsystems_used: horary\n依据：以七宫为妇人之上升重立指代；夫星太阳 unafflicted 为『在世平安』强证；土星六宫主逆行主妇人自身病势反复，此为对象定位复核：夫断归夫、病断归妇本人，不相混。卡面部分位置 OCR 残损，归期只敢定到月档。R80：无量级断项，不适用。R87应期核：候选=[一月内（无成相触发）、数月内（火星土星成凶相后行程段落，有触发）]，取数月点；月档（远行归期）。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

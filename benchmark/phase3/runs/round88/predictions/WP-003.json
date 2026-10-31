@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-003",
+ "prediction_text": "Barack Obama is re-elected in 2012. The incumbent defeats Mitt Romney in the general election of 6 November 2012; the contest is close and the count messy (Mercury turning retrograde on election day brings delays and disputes in reporting), but the outcome stands in favour of Obama once the count settles within days after the vote.",
+ "basis": "Card carries no tradition field; the card is an election-forecast item, method chosen accordingly.\nsystems_used: western mundane astrology (Mercury retrograde election-day signature) plus incumbency reading. Card facts: polling competitive, incumbent running for re-election, Mercury retrograde begins on election day — the retrograde signature historically marks confused counts and challenged results rather than a clean transfer of power; combined with incumbency advantage in a competitive (not landslide-against) polling field, the balance favours the sitting president retaining office amid noise. R87 candidate coordinates: 6 November 2012 (election day, trigger = vote plus retrograde station) taken as main coordinate; the following days taken as the settling window.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

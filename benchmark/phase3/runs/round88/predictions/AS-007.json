@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-007",
+ "prediction_text": "Waller 胜、Hopton 败。Waller 方月亮擢升合木星、太阳在其擢升正度（19°白羊）居十宫，主其军得势得援；Hopton 之土星入 fall、sub radiis、peregrine、无相位且九宫唯火星南交主无后援。胜负当日（1644年3月29日交战日）即分。",
+ "basis": "tradition: horary\nsystems_used: horary\n依据：见 prediction 所列双方 significator 强弱对照，Waller 方三重强证、Hopton 方四重弱证，方向单一。R80功量：助成线（月亮擢升合木星、太阳擢升十宫）2条对压制线0条，主线=太阳擢升角宫，胜势定带为明确取胜、非小胜。R87：应期即交战当日，卡面已给事件时点，坐标为当日，有触发（双方 significator 当日成强弱定局），不另列候选。",
+ "confidence": 0.75,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-012",
+ "prediction_text": "求不到该 parsonage（教职）：七项负证齐备——上升主与九宫主无相位、月亮与之无相位、世应皆不在九宫、无转光集光、无互容，且土星在上升阻滞、金星在七宫对冲上升。谋求无果，强求亦不成；应期以月计，本季内无成望，主坐标取占后三个月内落空定局。",
+ "basis": "tradition: horary\nsystems_used: horary\n依据：卡面明列 Lilly 自数七项负证，本断照其枚举：无相位、无接纳、无转光集光为古典卜卦『不成』定式。R80：无量级断项，不适用。R87应期核：候选=[一月内（无成相触发）、三月内（诸 significator 始终无成相、事落空定局，有触发：负证持续）]，取三月点；月档（仕途谋职）。",
+ "confidence": 0.8,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

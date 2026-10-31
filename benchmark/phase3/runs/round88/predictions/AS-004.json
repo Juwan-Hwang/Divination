@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-004",
+ "prediction_text": "传闻不实：国王并未攻下剑桥（Cambridge）。占问一方（议会方）之 significator 擢升强旺，敌方七宫主入弱（fall）受克、月亮 cadent 无力，谣言无根。应期以日计：消息澄清在数日内，主坐标取三日内。",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决\nsystems_used: horary\n依据：诸角皆变动主事虚浮易散；上升主（议会方）在擢升位强，七宫主（王方）入 fall 受 affliction，月亮 cadent 且不悦其位，主谣言方无力成事——报假。R80：无量级断项，不适用。R87应期核：候选=[当日（无确证触发）、三日内（谣言散/澄清，有触发：变动角主虚事速散）]，取近窗首候选三日内，与次近旬内候选比较：变动星座事变速、月亮 cadent 主消息速衰，近窗占优，故取三日。",
+ "confidence": 0.75,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

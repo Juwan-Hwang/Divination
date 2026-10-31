@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-005",
+ "prediction_text": "船未沉、尚在世（living）：船体虽受土星四分之惊，但月亮（上升主）在金牛擢升、applying 三合七宫太阳/水星且近木星，主船安全。船在西班牙海岸一带海面；消息将到，应期以日计：月亮三合只差数分，主坐标取数日内得确讯，船后可归。",
+ "basis": "tradition: horary\nsystems_used: horary\n依据：上升巨蟹象船体，土星在白羊十一宫四分上升主惊扰（险讯之源）；月亮上升主在金牛擢升 applying 三合太阳水星、近木星，主船存且得救应；九宫南交主航程虚惊。R80：无量级断项，不适用。R87应期核：候选=[当日（相位未成，无触发）、数日内（月亮三合成相只差数分，有触发）]，取数日点；日档（问近讯）。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

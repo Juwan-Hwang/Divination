@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-210",
+ "prediction_text": "能得该职（preferment）：月亮在十宫（职位宫）applying 三合土星，土星在上升有擢升之势、与金星（上升主， querent）互容接纳，主职位与求者双向成相。唯须防那位『太阳之人』假友：十一宫主太阳在七宫对冲上升且带龙尾，主托友办事反被其误/其人不可恃，得职不靠此人。应期以月计：主坐标取占后数月内任命落定。",
+ "basis": "tradition: horary\nsystems_used: horary\n依据：月亮居十宫 applying 三合强土星＋互容，为古典求职成象；太阳带 Cauda 对冲上升定假友之戒。对象核对：得职断归 querent 本人，假友断归十一宫主所指那位 solar man。R80：无量级断项，不适用。R87应期核：候选=[一月内（月离水星四分余波未清，无触发）、数月内（月亮三合土星成相，有触发）]，取数月点；月档（求职）。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

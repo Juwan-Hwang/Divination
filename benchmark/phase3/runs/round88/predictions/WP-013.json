@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-013",
+ "prediction_text": "方向：工党大胜。断语：Keir Starmer 领导的工党以压倒性优势赢得 2024 年大选、组建多数政府，Starmer 任首相；保守党大败、Sunak 下台。应期：2024-07-04 投票当日/次日凌晨见结果，单位为日、依据为选举日程。置信高。",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决\nsystems_used: western-astro/political-judgment（卡面载选举落在 Sun sign Cancer，仅作背景）。卡面事实：工党民调领先约 20 个百分点、Sunak 因 D-Day 事件受批。20 点量级领先在事实优先序下足级支持大胜断语（等级与证据强度同级），断工党压倒性获胜。第十二节：候选坐标={2024-07-04}，日程触发点，无次近候选。",
+ "confidence": 0.75,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

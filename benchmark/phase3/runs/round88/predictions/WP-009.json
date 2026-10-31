@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-009",
+ "prediction_text": "方向：印度不能夺冠（negative 于所问夺冠）。断语：印度为热门且小组/ round-robin 阶段成绩强劲，但淘汰赛阶段止步——最可能止步半决赛，无缘奖杯。应期：2019-07-14 决赛日见终局（单位为日、依据为赛程日程）。置信中低。",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决\nsystems_used: western-astro/sports-judgment（无盘面数据）。卡面载：印度为 firm favourites 之一、队长 Kohli（1988 年生）、Dhoni 在阵；无星盘细节，盘面残损故降置信。热门身份只支持走得深、不支持足级夺冠（等级校准：无压制/提格盘据，只按赛事结构断淘汰赛一关不过），断止步半决赛、无缘冠军。第十二节：候选坐标={2019-07-09/10 半决赛窗、2019-07-14 决赛日}，终局坐标取决赛日（奖杯归属触发点），半决赛为近段止步点，两点触发不同层级不相冲突。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

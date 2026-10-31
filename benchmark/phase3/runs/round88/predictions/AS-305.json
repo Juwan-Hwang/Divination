@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-305",
+ "prediction_text": "预测特朗普（Donald Trump）险胜：选举日星盘与两候选人行运势均力敌之下，最终判共和党特朗普赢得2024年大选，差距甚小、开票胶着至深夜方定。应期即2024年11月5日投票日。",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决\nsystems_used: astrology（西洋占星·选举占星）\n依据：卡面自承『盘面势均力敌、极难判断』（setting 明文），本断在两可间自决取特朗普一侧：选举日盘面刚性结构（固定宫角）利在位挑战者中命盘强者一方之通例；因卡面明言势均，置信压至0.45以下。R80：不适用。R87：坐标为投票日，卡面给定，不另列候选。",
+ "confidence": 0.42,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

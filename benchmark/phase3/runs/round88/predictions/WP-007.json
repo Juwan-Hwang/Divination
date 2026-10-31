@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Donald Trump wins the 2016 US presidential election, and what decides it is the trust question around Hillary Clinton: the email controversy and the Clinton Foundation controversies, already public in August 2016, keep eroding her support through the autumn, and a late resurgence of the email issue in the final stretch tips undecided voters to Trump on 8 November 2016.",
+ "basis": "Card carries no tradition field; the card is a tarot-consultation item on the election, method chosen accordingly.\nsystems_used: tarot reading framing plus electoral-structure reading. Note on method: the card does not reproduce the actual cards drawn, so no card-by-card Waite reading is possible from the supplied facts (recorded here as a card-face gap; confidence reduced accordingly). The decisive-factor part of the question is answered from the card facts themselves: the only substantive issues the card names are the Clinton email controversy and the Clinton Foundation — in a reading asked in August 2016 with Clinton leading, singling out her trust liabilities as the live variables points to those liabilities, not Trumps, as the deciding mechanism, and a race decided by the front-runners trust collapse ends with the challenger winning. R87 candidate coordinates: 8 November 2016 (election day, trigger = the vote) taken; late October/early November taken as the deciding window for the email issue resurgence.",
+ "confidence": 0.48,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

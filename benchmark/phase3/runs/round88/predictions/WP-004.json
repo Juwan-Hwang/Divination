@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "Hillary Clinton wins the 2016 US presidential election. The conference-panel reading follows the dominant signal in the card: Clinton, ahead in most polls through October, defeats Donald Trump in the election of 8 November 2016 and becomes president-elect, though the margin is narrower than the polling lead suggested.",
+ "basis": "Card carries no tradition field; the card is an election-forecast panel item, method chosen accordingly.\nsystems_used: western mundane astrology panel reading plus electoral-structure reading. Card facts at asking time (October 2016): most polls favour Clinton; no contrary configuration is supplied on the card. An independent reading from the supplied facts alone gives the front-runner the win; the narrowing clause is included because late-cycle challenger momentum is a standing feature of such races, but no card fact supports reversing the direction. R87 candidate coordinates: 8 November 2016 (election day, trigger = the vote) taken; no other date carries a trigger.",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

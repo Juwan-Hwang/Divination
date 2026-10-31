@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-205",
+ "prediction_text": "病者将死、病不可救：上升被八宫主之星体临 afflict，太阳（时间光）与六宫主土星在固定星座成正对冲，月亮近龙尾（Cauda）受克在上升，三重死证。病为固定土性忧郁沉积之疾（melancholy、沉滞骨节/脾胃一类久积）。应期以日/月计：主坐标取占后一月内危殆落定。",
+ "basis": "tradition: horary\nsystems_used: horary\n依据：古典病占死证合参：八宫主临上升、太阳对冲六宫主土星、月亮近 Cauda 受 afflict，三证同向。对象复述：所断为该病者本人之生死。R80功量：压制线3条、助成线0条，定带为危殆带足级。R87应期核：候选=[数日（相位虽成而病程固定主不速）、一月内（固定星座对冲成局，有触发）]，取一月点；介于日/月档，问近病取月内上限。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

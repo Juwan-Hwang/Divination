@@ -1,0 +1,12 @@
+{
+ "case_id": "YY2-004",
+ "prediction_text": "盘面残损，终局无据可定：本卦名原书缺字、本卦不明，六爻全盘、世应、六亲、动爻皆无从定，本例不断寿数长短、不断终期年份。仅就残存信息（变卦为雷天大壮、占时丙寅年丙申月丁巳日）不足以按六爻用神旺衰链落任何确定方向；若必须给倾向，只能记为方向存疑、应期无据不报，不臆补盘面、不虚报寿限。",
+ "basis": "liuyao\nsystems_used: [liuyao]\n输入残损（照实注明）：卡面attachments明载hexagram本卦名原书缺字（『得□之大壮』）、moving_lines=null、chart_lines_top_to_bottom=null，notes补录明言『本卦不明则本宫、世应、六亲、动爻皆无从定……保持null』；空亡子丑为据丁巳日推算复原，非原书另标。用神无从枚举（世爻不可定）、旺衰/动化/四路合参均无盘面可走，终局反转扫查与门类应期对表均因无用神状态而不适用。R80-REV1：寿限量级无做功线可列（无一爻可指认），明写无量级核算对象、不适用。R87-REV1：无时间坐标断语，明写应期无据、不适用候选坐标表。置信据残损大幅下调。",
+ "confidence": 0.15,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main=false：全程未形成可变更的主断（盘面残损、无主断可立）。reserve_used=false：无盘可取伏神/备用。disputed=false：残损系卡面明载的原书缺字事实、非断法分歧，故不记disputed，残损已在basis与prediction_text照实注明。"
+ }
+}

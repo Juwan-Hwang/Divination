@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-036",
+ "prediction_text": "终局败（negative，低置信）：升选难成、过程反复。卡面只载卦名地泽临之风泽中孚、空亡申酉与用神（世爻卯木、官星），逐爻装卦表缺载，无法核用神旺衰与动化——据卦名互变多爻翻动之反吟形态（卡面来源页题即以反吟立问）只作低置信方向：升选反复无定、终不成。应期：逐爻缺载，应期无据不报单点；窗口只作本月内见反复（卡面asked_at载本月）。置信低。",
+ "basis": "system: liuyao\nsystems_used: [\"liuyao\"]\n残损注记（首要）：本例卡面attachments无chart_lines_top_to_bottom、无moving_lines逐爻、无date_ganzhi明文，仅卦名、用神语与空亡申酉；逐爻旺衰、动化、用神枚举皆无从核验，不臆补装卦。systems_used据卡面system字段与卦名体裁记六爻。basis其余各项因残损不适用：动化方向无据、反转条件无据、四路合参无据、应期三步无据。R87：无时间坐标可核（断语未报单点坐标）、候选表无从列，记应期无据。R80：无量级断项，不适用。方向仅据本变卦互变之反吟形态（卡面provenance页题载第五问反吟）低置信给出，trigger三项全false、reason空串（无定义可据，如实留痕）。",
+ "confidence": 0.35,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

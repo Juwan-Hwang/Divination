@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-005",
+ "prediction_text": "Donald Trump wins the 2016 US presidential election. The astrologer who alone had picked Trump as Republican nominee when 17 candidates still contested it is read as holding the correct contrarian line through to the general election: Trump defeats Hillary Clinton on 8 November 2016 despite the polling consensus against him.",
+ "basis": "Card carries no tradition field; the card is an election-forecast item centred on one panel astrologer, method chosen accordingly.\nsystems_used: western mundane astrology (individual forecaster track-record reading) plus electoral-structure reading. Distinguishing card fact versus the companion panel item: this card isolates the one astrologer who had already been proved right against the whole field on the nomination question (picking Trump out of 17 Republicans). A forecaster demonstrably attuned to the Trump phenomenon, against a polling consensus that the same phenomenon had already falsified once in the primaries, is taken as the stronger signal; direction therefore reverses the panel-consensus reading. R87 candidate coordinates: 8 November 2016 (election day, trigger = the vote) taken.",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

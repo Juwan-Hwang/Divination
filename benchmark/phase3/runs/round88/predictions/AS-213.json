@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-213",
+ "prediction_text": "逃犯往东而去（十二宫星座、木星所在星座、天象象限、月亮所在星座四证同指东），且将被抓回：木星（逃犯）在八宫、月亮近上升，月亮离三合木星而 applying 对冲太阳（两星皆角宫），木星与水星成相位，主行踪终被官面/消息锁定。应期以日计：主坐标取数日一旬内捕获消息落定。",
+ "basis": "tradition: horary\nsystems_used: horary\n依据：方向四证同向为古典行人定位强证；月亮对冲角宫太阳主其人暴露于官面之光。R80：无量级断项，不适用。R87应期核：候选=[当日（对冲未成，无触发）、一旬内（月亮对冲太阳成相，有触发）]，取一旬点；日档（捕逃近事）。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

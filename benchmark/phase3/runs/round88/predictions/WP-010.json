@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-010",
+ "prediction_text": "方向：拜登获胜。断语：民主党拜登击败现任特朗普，当选总统；胜负以选举人票计，过程接近但结果归拜登。应期：2020-11-03 投票后数日内（计票窗）见胜负，单位为日、依据为选举日程。置信中。",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决\nsystems_used: vedic-astro/political-judgment（卡面载拜登 Vedic Scorpio Ascendant）。卡面事实：民调 favour Biden、三位占星师彼此分歧（分歧本身写入卡面）。事实优先序：以民调领先这一题面事实为纲，分歧占星意见不压事实，断拜登胜。第十二节：候选坐标={2020-11-03 投票日、其后计票数日窗}，主坐标取投票后计票窗内结果明朗点，触发为计票完成，非命造行限。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
