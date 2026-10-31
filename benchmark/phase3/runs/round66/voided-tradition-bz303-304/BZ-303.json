@@ -1,0 +1,12 @@
+{
+ "case_id": "BZ-303",
+ "prediction_text": "方向：香港楼市与经济地运在2024年前后由旺转衰。八运（2004–2023）艮土当令利楼市，运末气衰；断2024年交九运前后香港楼价见明显下行、经济转弱，2024年为主坐标（年档），此前一二年已先见疲态。旺衰分界以2024年为界：之前守尾运、之后入衰气。",
+ "basis": "tradition=bazi（卡自带字段为准）\nsystems_used=bazi\ntradition=fengshui（卡自带字段）\nsystems_used=fengshui（三元九运地运）\n输入残损（照实注明）：卡面无宅盘、无具体理气数据，仅有2016年访问之问与『至2024年』之时间锚；据三元九运通则（八运艮土旺山旺向利地产、九运离火转气）作地运方向断，具体跌幅无指针不断、已降粒度为方向+年份。",
+ "confidence": 0.45,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
