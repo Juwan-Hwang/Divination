@@ -1,0 +1,2082 @@
+{
+  "used_sources": {
+    "dev9_baseline_keys": 487,
+    "dev_pool_with_input_dirs": 488,
+    "phase2_splits2_holdout2": 29,
+    "holdout3_27_gold_ids": 727,
+    "gold_per_set": {
+      "holdout3": 27,
+      "holdout4": 25,
+      "holdout5": 25,
+      "holdout6": 23,
+      "holdout7": 1,
+      "holdout8": 28,
+      "holdout9": 28,
+      "holdout10": 29,
+      "holdout11": 25,
+      "holdout12": 49,
+      "holdout13": 40,
+      "holdout14": 40,
+      "holdout15": 40,
+      "holdout16": 40,
+      "holdout17": 40,
+      "holdout18": 30,
+      "holdout19": 25,
+      "holdout20": 25,
+      "holdout21": 25,
+      "holdout22": 27,
+      "holdout23": 27,
+      "holdout24": 27,
+      "holdout25": 27,
+      "holdout26": 27,
+      "holdout27": 27
+    },
+    "holdout2_27_input_card_ids": 568,
+    "toplevel_inputs6_10_card_ids": 412,
+    "used_union_total": 1139
+  },
+  "used_union_total": 1139,
+  "ledgers": {
+    "DS": {
+      "total": 63,
+      "steps": [
+        {
+          "label": "eligible_net=true",
+          "eliminated": []
+        },
+        {
+          "label": "anchor present",
+          "eliminated": []
+        },
+        {
+          "label": "contamination low",
+          "eliminated": [
+            "DS-047"
+          ]
+        },
+        {
+          "label": "四滤全pass",
+          "eliminated": []
+        },
+        {
+          "label": "断语/结局非空",
+          "eliminated": []
+        }
+      ],
+      "qualified": [
+        "DS-001",
+        "DS-002",
+        "DS-003",
+        "DS-004",
+        "DS-005",
+        "DS-006",
+        "DS-007",
+        "DS-008",
+        "DS-009",
+        "DS-010",
+        "DS-011",
+        "DS-012",
+        "DS-013",
+        "DS-014",
+        "DS-015",
+        "DS-016",
+        "DS-017",
+        "DS-018",
+        "DS-019",
+        "DS-020",
+        "DS-021",
+        "DS-022",
+        "DS-023",
+        "DS-024",
+        "DS-025",
+        "DS-026",
+        "DS-027",
+        "DS-028",
+        "DS-029",
+        "DS-030",
+        "DS-031",
+        "DS-032",
+        "DS-033",
+        "DS-034",
+        "DS-035",
+        "DS-036",
+        "DS-037",
+        "DS-038",
+        "DS-039",
+        "DS-040",
+        "DS-041",
+        "DS-042",
+        "DS-043",
+        "DS-044",
+        "DS-045",
+        "DS-046",
+        "DS-048",
+        "DS-049",
+        "DS-050",
+        "DS-051",
+        "DS-052",
+        "DS-053",
+        "DS-054",
+        "DS-055",
+        "DS-056",
+        "DS-057",
+        "DS-058",
+        "DS-059",
+        "DS-060",
+        "DS-061",
+        "DS-062",
+        "DS-063"
+      ],
+      "qualified_n": 62,
+      "used": [
+        "DS-001",
+        "DS-002",
+        "DS-003",
+        "DS-004",
+        "DS-005",
+        "DS-006",
+        "DS-007",
+        "DS-008",
+        "DS-009",
+        "DS-010",
+        "DS-011",
+        "DS-012",
+        "DS-013",
+        "DS-014",
+        "DS-015",
+        "DS-016",
+        "DS-017",
+        "DS-018",
+        "DS-019",
+        "DS-020",
+        "DS-021",
+        "DS-022",
+        "DS-023",
+        "DS-024",
+        "DS-025",
+        "DS-026",
+        "DS-027",
+        "DS-028",
+        "DS-029",
+        "DS-030",
+        "DS-031",
+        "DS-032",
+        "DS-033",
+        "DS-034",
+        "DS-035",
+        "DS-036",
+        "DS-037",
+        "DS-038",
+        "DS-039",
+        "DS-040",
+        "DS-041",
+        "DS-042",
+        "DS-043",
+        "DS-044",
+        "DS-045",
+        "DS-046",
+        "DS-048",
+        "DS-049"
+      ],
+      "unused": [
+        "DS-050",
+        "DS-051",
+        "DS-052",
+        "DS-053",
+        "DS-054",
+        "DS-055",
+        "DS-056",
+        "DS-057",
+        "DS-058",
+        "DS-059",
+        "DS-060",
+        "DS-061",
+        "DS-062",
+        "DS-063"
+      ],
+      "unused_n": 14
+    },
+    "QM_KAIWU": {
+      "total": 52,
+      "steps": [
+        {
+          "label": "anchor present",
+          "eliminated": []
+        },
+        {
+          "label": "contamination low",
+          "eliminated": []
+        },
+        {
+          "label": "separable=true",
+          "eliminated": []
+        },
+        {
+          "label": "stem_check天地盘双ok",
+          "eliminated": [
+            "QM-017",
+            "QM-026",
+            "QM-033",
+            "QM-041",
+            "QM-050",
+            "QM-051",
+            "QM-053",
+            "QM-054",
+            "QM-056",
+            "QM-057",
+            "QM-059",
+            "QM-060",
+            "QM-061",
+            "QM-062"
+          ]
+        },
+        {
+          "label": "断语/结局非空",
+          "eliminated": []
+        }
+      ],
+      "qualified": [
+        "QM-011",
+        "QM-012",
+        "QM-013",
+        "QM-014",
+        "QM-015",
+        "QM-016",
+        "QM-018",
+        "QM-019",
+        "QM-020",
+        "QM-021",
+        "QM-022",
+        "QM-023",
+        "QM-024",
+        "QM-025",
+        "QM-027",
+        "QM-028",
+        "QM-029",
+        "QM-030",
+        "QM-031",
+        "QM-032",
+        "QM-034",
+        "QM-035",
+        "QM-036",
+        "QM-037",
+        "QM-038",
+        "QM-039",
+        "QM-040",
+        "QM-042",
+        "QM-043",
+        "QM-044",
+        "QM-045",
+        "QM-046",
+        "QM-047",
+        "QM-048",
+        "QM-049",
+        "QM-052",
+        "QM-055",
+        "QM-058"
+      ],
+      "qualified_n": 38,
+      "used": [
+        "QM-011",
+        "QM-012",
+        "QM-013",
+        "QM-014",
+        "QM-015",
+        "QM-016",
+        "QM-018",
+        "QM-019",
+        "QM-020",
+        "QM-021",
+        "QM-022",
+        "QM-023",
+        "QM-024",
+        "QM-025",
+        "QM-027",
+        "QM-028",
+        "QM-029",
+        "QM-030",
+        "QM-031",
+        "QM-032",
+        "QM-034",
+        "QM-035",
+        "QM-036",
+        "QM-037",
+        "QM-038",
+        "QM-039",
+        "QM-040",
+        "QM-042",
+        "QM-043",
+        "QM-044",
+        "QM-045",
+        "QM-046",
+        "QM-047",
+        "QM-048",
+        "QM-049",
+        "QM-052",
+        "QM-055",
+        "QM-058"
+      ],
+      "unused": [],
+      "unused_n": 0
+    },
+    "QM_QIWU": {
+      "total": 11,
+      "steps": [
+        {
+          "label": "anchor present",
+          "eliminated": []
+        },
+        {
+          "label": "contamination low",
+          "eliminated": []
+        },
+        {
+          "label": "separable=true",
+          "eliminated": []
+        },
+        {
+          "label": "断语/结局非空",
+          "eliminated": []
+        }
+      ],
+      "qualified": [
+        "QM-201",
+        "QM-202",
+        "QM-203",
+        "QM-204",
+        "QM-205",
+        "QM-206",
+        "QM-207",
+        "QM-208",
+        "QM-209",
+        "QM-210",
+        "QM-211"
+      ],
+      "qualified_n": 11,
+      "used": [
+        "QM-201",
+        "QM-202",
+        "QM-203",
+        "QM-204",
+        "QM-205",
+        "QM-206",
+        "QM-207",
+        "QM-208",
+        "QM-209"
+      ],
+      "unused": [
+        "QM-210",
+        "QM-211"
+      ],
+      "unused_n": 2
+    },
+    "QM_SHIJIANGUO": {
+      "total": 11,
+      "steps": [
+        {
+          "label": "anchor present",
+          "eliminated": []
+        },
+        {
+          "label": "contamination low",
+          "eliminated": []
+        },
+        {
+          "label": "separable=true",
+          "eliminated": []
+        },
+        {
+          "label": "断语/结局非空",
+          "eliminated": []
+        }
+      ],
+      "qualified": [
+        "QM-301",
+        "QM-302",
+        "QM-303",
+        "QM-304",
+        "QM-305",
+        "QM-306",
+        "QM-307",
+        "QM-308",
+        "QM-309",
+        "QM-310",
+        "QM-311"
+      ],
+      "qualified_n": 11,
+      "used": [
+        "QM-301",
+        "QM-302",
+        "QM-303",
+        "QM-304",
+        "QM-305",
+        "QM-306",
+        "QM-307",
+        "QM-308",
+        "QM-309",
+        "QM-310",
+        "QM-311"
+      ],
+      "unused": [],
+      "unused_n": 0
+    },
+    "ZCB": {
+      "total": 36,
+      "steps": [
+        {
+          "label": "eligible=true",
+          "eliminated": [
+            "ZCB-020",
+            "ZCB-021",
+            "ZCB-022",
+            "ZCB-023",
+            "ZCB-024",
+            "ZCB-025",
+            "ZCB-026",
+            "ZCB-027",
+            "ZCB-028",
+            "ZCB-029",
+            "ZCB-030",
+            "ZCB-031",
+            "ZCB-032",
+            "ZCB-033",
+            "ZCB-034",
+            "ZCB-035",
+            "ZCB-036"
+          ]
+        },
+        {
+          "label": "anchor present",
+          "eliminated": []
+        },
+        {
+          "label": "contamination low",
+          "eliminated": [
+            "ZCB-016",
+            "ZCB-017",
+            "ZCB-018",
+            "ZCB-019"
+          ]
+        },
+        {
+          "label": "separable=true",
+          "eliminated": []
+        },
+        {
+          "label": "断语/结局非空",
+          "eliminated": []
+        }
+      ],
+      "qualified": [
+        "ZCB-001",
+        "ZCB-002",
+        "ZCB-003",
+        "ZCB-004",
+        "ZCB-005",
+        "ZCB-006",
+        "ZCB-007",
+        "ZCB-008",
+        "ZCB-009",
+        "ZCB-010",
+        "ZCB-011",
+        "ZCB-012",
+        "ZCB-013",
+        "ZCB-014",
+        "ZCB-015"
+      ],
+      "qualified_n": 15,
+      "used": [
+        "ZCB-001",
+        "ZCB-002",
+        "ZCB-004",
+        "ZCB-005",
+        "ZCB-006",
+        "ZCB-007",
+        "ZCB-008",
+        "ZCB-009",
+        "ZCB-010",
+        "ZCB-011",
+        "ZCB-012",
+        "ZCB-013",
+        "ZCB-014",
+        "ZCB-015"
+      ],
+      "unused": [
+        "ZCB-003"
+      ],
+      "unused_n": 1
+    },
+    "GSZ_NET": {
+      "total": 113,
+      "steps": [
+        {
+          "label": "grade A",
+          "eliminated": [
+            "GSZ-001",
+            "GSZ-002",
+            "GSZ-004",
+            "GSZ-006",
+            "GSZ-007",
+            "GSZ-008",
+            "GSZ-010",
+            "GSZ-011",
+            "GSZ-012",
+            "GSZ-013",
+            "GSZ-014",
+            "GSZ-018",
+            "GSZ-019",
+            "GSZ-021",
+            "GSZ-025",
+            "GSZ-029",
+            "GSZ-035",
+            "GSZ-036",
+            "GSZ-037",
+            "GSZ-039",
+            "GSZ-040",
+            "GSZ-044",
+            "GSZ-045",
+            "GSZ-048",
+            "GSZ-051",
+            "GSZ-056",
+            "GSZ-057",
+            "GSZ-062",
+            "GSZ-063",
+            "GSZ-064",
+            "GSZ-065",
+            "GSZ-066",
+            "GSZ-067",
+            "GSZ-070",
+            "GSZ-071",
+            "GSZ-072",
+            "GSZ-073",
+            "GSZ-076",
+            "GSZ-083",
+            "GSZ-085",
+            "GSZ-087",
+            "GSZ-090",
+            "GSZ-095",
+            "GSZ-096",
+            "GSZ-097",
+            "GSZ-102",
+            "GSZ-106",
+            "GSZ-112",
+            "GSZ-113"
+          ]
+        },
+        {
+          "label": "pollution low",
+          "eliminated": []
+        },
+        {
+          "label": "anchor present",
+          "eliminated": []
+        },
+        {
+          "label": "eligible_net=true",
+          "eliminated": [
+            "GSZ-027"
+          ]
+        },
+        {
+          "label": "四滤全true",
+          "eliminated": []
+        },
+        {
+          "label": "断语/结局非空",
+          "eliminated": []
+        }
+      ],
+      "qualified": [
+        "GSZ-003",
+        "GSZ-005",
+        "GSZ-009",
+        "GSZ-015",
+        "GSZ-016",
+        "GSZ-017",
+        "GSZ-020",
+        "GSZ-022",
+        "GSZ-023",
+        "GSZ-024",
+        "GSZ-026",
+        "GSZ-028",
+        "GSZ-030",
+        "GSZ-031",
+        "GSZ-032",
+        "GSZ-033",
+        "GSZ-034",
+        "GSZ-038",
+        "GSZ-041",
+        "GSZ-042",
+        "GSZ-043",
+        "GSZ-046",
+        "GSZ-047",
+        "GSZ-049",
+        "GSZ-050",
+        "GSZ-052",
+        "GSZ-053",
+        "GSZ-054",
+        "GSZ-055",
+        "GSZ-058",
+        "GSZ-059",
+        "GSZ-060",
+        "GSZ-061",
+        "GSZ-068",
+        "GSZ-069",
+        "GSZ-074",
+        "GSZ-075",
+        "GSZ-077",
+        "GSZ-078",
+        "GSZ-079",
+        "GSZ-080",
+        "GSZ-081",
+        "GSZ-082",
+        "GSZ-084",
+        "GSZ-086",
+        "GSZ-088",
+        "GSZ-089",
+        "GSZ-091",
+        "GSZ-092",
+        "GSZ-093",
+        "GSZ-094",
+        "GSZ-098",
+        "GSZ-099",
+        "GSZ-100",
+        "GSZ-101",
+        "GSZ-103",
+        "GSZ-104",
+        "GSZ-105",
+        "GSZ-107",
+        "GSZ-108",
+        "GSZ-109",
+        "GSZ-110",
+        "GSZ-111"
+      ],
+      "qualified_n": 63,
+      "used": [
+        "GSZ-003",
+        "GSZ-005",
+        "GSZ-009",
+        "GSZ-015",
+        "GSZ-016",
+        "GSZ-017",
+        "GSZ-022",
+        "GSZ-023",
+        "GSZ-024",
+        "GSZ-026",
+        "GSZ-028",
+        "GSZ-030",
+        "GSZ-031",
+        "GSZ-032",
+        "GSZ-033",
+        "GSZ-034",
+        "GSZ-038",
+        "GSZ-041",
+        "GSZ-042",
+        "GSZ-043",
+        "GSZ-046",
+        "GSZ-047",
+        "GSZ-049",
+        "GSZ-050",
+        "GSZ-052",
+        "GSZ-053",
+        "GSZ-054",
+        "GSZ-055",
+        "GSZ-058",
+        "GSZ-059",
+        "GSZ-060",
+        "GSZ-061",
+        "GSZ-068",
+        "GSZ-069",
+        "GSZ-074",
+        "GSZ-075",
+        "GSZ-077",
+        "GSZ-078",
+        "GSZ-079",
+        "GSZ-081",
+        "GSZ-084",
+        "GSZ-086",
+        "GSZ-088"
+      ],
+      "unused": [
+        "GSZ-020",
+        "GSZ-080",
+        "GSZ-082",
+        "GSZ-089",
+        "GSZ-091",
+        "GSZ-092",
+        "GSZ-093",
+        "GSZ-094",
+        "GSZ-098",
+        "GSZ-099",
+        "GSZ-100",
+        "GSZ-101",
+        "GSZ-103",
+        "GSZ-104",
+        "GSZ-105",
+        "GSZ-107",
+        "GSZ-108",
+        "GSZ-109",
+        "GSZ-110",
+        "GSZ-111"
+      ],
+      "unused_n": 20
+    },
+    "GSZ_CARD": {
+      "total": 113,
+      "steps": [
+        {
+          "label": "台账净资格全过后五要素复核不过",
+          "eliminated": [
+            "GSZ-020",
+            "GSZ-080",
+            "GSZ-082",
+            "GSZ-089",
+            "GSZ-094",
+            "GSZ-111"
+          ]
+        }
+      ],
+      "qualified": [
+        "GSZ-003",
+        "GSZ-005",
+        "GSZ-009",
+        "GSZ-015",
+        "GSZ-016",
+        "GSZ-017",
+        "GSZ-022",
+        "GSZ-023",
+        "GSZ-024",
+        "GSZ-026",
+        "GSZ-028",
+        "GSZ-030",
+        "GSZ-031",
+        "GSZ-032",
+        "GSZ-033",
+        "GSZ-034",
+        "GSZ-038",
+        "GSZ-041",
+        "GSZ-042",
+        "GSZ-043",
+        "GSZ-046",
+        "GSZ-047",
+        "GSZ-049",
+        "GSZ-050",
+        "GSZ-052",
+        "GSZ-053",
+        "GSZ-054",
+        "GSZ-055",
+        "GSZ-058",
+        "GSZ-059",
+        "GSZ-060",
+        "GSZ-061",
+        "GSZ-068",
+        "GSZ-069",
+        "GSZ-074",
+        "GSZ-075",
+        "GSZ-077",
+        "GSZ-078",
+        "GSZ-079",
+        "GSZ-081",
+        "GSZ-084",
+        "GSZ-086",
+        "GSZ-088",
+        "GSZ-091",
+        "GSZ-092",
+        "GSZ-093",
+        "GSZ-098",
+        "GSZ-099",
+        "GSZ-100",
+        "GSZ-101",
+        "GSZ-103",
+        "GSZ-104",
+        "GSZ-105",
+        "GSZ-107",
+        "GSZ-108",
+        "GSZ-109",
+        "GSZ-110"
+      ],
+      "qualified_n": 57,
+      "used": [
+        "GSZ-003",
+        "GSZ-005",
+        "GSZ-009",
+        "GSZ-015",
+        "GSZ-016",
+        "GSZ-017",
+        "GSZ-022",
+        "GSZ-023",
+        "GSZ-024",
+        "GSZ-026",
+        "GSZ-028",
+        "GSZ-030",
+        "GSZ-031",
+        "GSZ-032",
+        "GSZ-033",
+        "GSZ-034",
+        "GSZ-038",
+        "GSZ-041",
+        "GSZ-042",
+        "GSZ-043",
+        "GSZ-046",
+        "GSZ-047",
+        "GSZ-049",
+        "GSZ-050",
+        "GSZ-052",
+        "GSZ-053",
+        "GSZ-054",
+        "GSZ-055",
+        "GSZ-058",
+        "GSZ-059",
+        "GSZ-060",
+        "GSZ-061",
+        "GSZ-068",
+        "GSZ-069",
+        "GSZ-074",
+        "GSZ-075",
+        "GSZ-077",
+        "GSZ-078",
+        "GSZ-079",
+        "GSZ-081",
+        "GSZ-084",
+        "GSZ-086",
+        "GSZ-088"
+      ],
+      "unused": [
+        "GSZ-091",
+        "GSZ-092",
+        "GSZ-093",
+        "GSZ-098",
+        "GSZ-099",
+        "GSZ-100",
+        "GSZ-101",
+        "GSZ-103",
+        "GSZ-104",
+        "GSZ-105",
+        "GSZ-107",
+        "GSZ-108",
+        "GSZ-109",
+        "GSZ-110"
+      ],
+      "unused_n": 14
+    },
+    "WHY_R1": {
+      "total": 71,
+      "steps": [
+        {
+          "label": "anchor present",
+          "eliminated": [
+            "WHY-001",
+            "WHY-002",
+            "WHY-029",
+            "WHY-050",
+            "WHY-051",
+            "WHY-053",
+            "WHY-054",
+            "WHY-055",
+            "WHY-056",
+            "WHY-057",
+            "WHY-058",
+            "WHY-059",
+            "WHY-060",
+            "WHY-061",
+            "WHY-062",
+            "WHY-063",
+            "WHY-064",
+            "WHY-065",
+            "WHY-066"
+          ]
+        },
+        {
+          "label": "pollution low",
+          "eliminated": [
+            "WHY-013",
+            "WHY-014",
+            "WHY-017",
+            "WHY-018",
+            "WHY-019",
+            "WHY-020",
+            "WHY-045",
+            "WHY-046",
+            "WHY-047",
+            "WHY-048",
+            "WHY-049",
+            "WHY-052"
+          ]
+        },
+        {
+          "label": "counts净入账名单成员",
+          "eliminated": []
+        }
+      ],
+      "qualified": [
+        "WHY-003",
+        "WHY-004",
+        "WHY-005",
+        "WHY-006",
+        "WHY-007",
+        "WHY-008",
+        "WHY-009",
+        "WHY-010",
+        "WHY-011",
+        "WHY-012",
+        "WHY-015",
+        "WHY-016",
+        "WHY-021",
+        "WHY-022",
+        "WHY-023",
+        "WHY-024",
+        "WHY-025",
+        "WHY-026",
+        "WHY-027",
+        "WHY-028",
+        "WHY-030",
+        "WHY-031",
+        "WHY-032",
+        "WHY-033",
+        "WHY-034",
+        "WHY-035",
+        "WHY-036",
+        "WHY-037",
+        "WHY-038",
+        "WHY-039",
+        "WHY-040",
+        "WHY-041",
+        "WHY-042",
+        "WHY-043",
+        "WHY-044",
+        "WHY-067",
+        "WHY-068",
+        "WHY-069",
+        "WHY-070",
+        "WHY-071"
+      ],
+      "qualified_n": 40,
+      "used": [
+        "WHY-003",
+        "WHY-004",
+        "WHY-005",
+        "WHY-006",
+        "WHY-007",
+        "WHY-008",
+        "WHY-009",
+        "WHY-010",
+        "WHY-011",
+        "WHY-015",
+        "WHY-021",
+        "WHY-030",
+        "WHY-067"
+      ],
+      "unused": [
+        "WHY-012",
+        "WHY-016",
+        "WHY-022",
+        "WHY-023",
+        "WHY-024",
+        "WHY-025",
+        "WHY-026",
+        "WHY-027",
+        "WHY-028",
+        "WHY-031",
+        "WHY-032",
+        "WHY-033",
+        "WHY-034",
+        "WHY-035",
+        "WHY-036",
+        "WHY-037",
+        "WHY-038",
+        "WHY-039",
+        "WHY-040",
+        "WHY-041",
+        "WHY-042",
+        "WHY-043",
+        "WHY-044",
+        "WHY-068",
+        "WHY-069",
+        "WHY-070",
+        "WHY-071"
+      ],
+      "unused_n": 27
+    },
+    "WHY_R2": {
+      "total": 46,
+      "steps": [
+        {
+          "label": "grade A",
+          "eliminated": [
+            "WHY-076",
+            "WHY-094",
+            "WHY-113",
+            "WHY-116",
+            "WHY-117"
+          ]
+        },
+        {
+          "label": "pollution low",
+          "eliminated": []
+        },
+        {
+          "label": "anchor present",
+          "eliminated": [
+            "WHY-102"
+          ]
+        },
+        {
+          "label": "eligible_net=true",
+          "eliminated": [
+            "WHY-077",
+            "WHY-097",
+            "WHY-101",
+            "WHY-105"
+          ]
+        },
+        {
+          "label": "四滤全true",
+          "eliminated": []
+        },
+        {
+          "label": "断语/结局非空(字段口径见注)",
+          "eliminated": []
+        }
+      ],
+      "qualified": [
+        "WHY-072",
+        "WHY-073",
+        "WHY-074",
+        "WHY-075",
+        "WHY-078",
+        "WHY-079",
+        "WHY-080",
+        "WHY-081",
+        "WHY-082",
+        "WHY-083",
+        "WHY-084",
+        "WHY-085",
+        "WHY-086",
+        "WHY-087",
+        "WHY-088",
+        "WHY-089",
+        "WHY-090",
+        "WHY-091",
+        "WHY-092",
+        "WHY-093",
+        "WHY-095",
+        "WHY-096",
+        "WHY-098",
+        "WHY-099",
+        "WHY-100",
+        "WHY-103",
+        "WHY-104",
+        "WHY-106",
+        "WHY-107",
+        "WHY-108",
+        "WHY-109",
+        "WHY-110",
+        "WHY-111",
+        "WHY-112",
+        "WHY-114",
+        "WHY-115"
+      ],
+      "qualified_n": 36,
+      "used": [
+        "WHY-072",
+        "WHY-073",
+        "WHY-074",
+        "WHY-075",
+        "WHY-078",
+        "WHY-079"
+      ],
+      "unused": [
+        "WHY-080",
+        "WHY-081",
+        "WHY-082",
+        "WHY-083",
+        "WHY-084",
+        "WHY-085",
+        "WHY-086",
+        "WHY-087",
+        "WHY-088",
+        "WHY-089",
+        "WHY-090",
+        "WHY-091",
+        "WHY-092",
+        "WHY-093",
+        "WHY-095",
+        "WHY-096",
+        "WHY-098",
+        "WHY-099",
+        "WHY-100",
+        "WHY-103",
+        "WHY-104",
+        "WHY-106",
+        "WHY-107",
+        "WHY-108",
+        "WHY-109",
+        "WHY-110",
+        "WHY-111",
+        "WHY-112",
+        "WHY-114",
+        "WHY-115"
+      ],
+      "unused_n": 30
+    },
+    "QW": {
+      "total": 34,
+      "steps": [
+        {
+          "label": "anchor present",
+          "eliminated": [
+            "QW-018",
+            "QW-019",
+            "QW-020",
+            "QW-021",
+            "QW-022",
+            "QW-023",
+            "QW-024",
+            "QW-025",
+            "QW-026",
+            "QW-027",
+            "QW-028",
+            "QW-029",
+            "QW-030",
+            "QW-031",
+            "QW-032",
+            "QW-033",
+            "QW-034"
+          ]
+        },
+        {
+          "label": "pollution low",
+          "eliminated": []
+        },
+        {
+          "label": "四滤全pass",
+          "eliminated": []
+        },
+        {
+          "label": "结局非空",
+          "eliminated": []
+        }
+      ],
+      "qualified": [
+        "QW-001",
+        "QW-002",
+        "QW-003",
+        "QW-004",
+        "QW-005",
+        "QW-006",
+        "QW-007",
+        "QW-008",
+        "QW-009",
+        "QW-010",
+        "QW-011",
+        "QW-012",
+        "QW-013",
+        "QW-014",
+        "QW-015",
+        "QW-016",
+        "QW-017"
+      ],
+      "qualified_n": 17,
+      "used": [
+        "QW-001",
+        "QW-002",
+        "QW-003",
+        "QW-004",
+        "QW-005",
+        "QW-006",
+        "QW-007",
+        "QW-008",
+        "QW-009",
+        "QW-010",
+        "QW-011",
+        "QW-012",
+        "QW-013",
+        "QW-014",
+        "QW-015",
+        "QW-016",
+        "QW-017"
+      ],
+      "unused": [],
+      "unused_n": 0
+    },
+    "QW_R59": {
+      "total": 4,
+      "steps": [
+        {
+          "label": "anchor present",
+          "eliminated": [
+            "QW-035",
+            "QW-036",
+            "QW-037",
+            "QW-038"
+          ]
+        },
+        {
+          "label": "pollution low",
+          "eliminated": []
+        },
+        {
+          "label": "四滤全pass",
+          "eliminated": []
+        },
+        {
+          "label": "eligible_net=true",
+          "eliminated": []
+        },
+        {
+          "label": "断语/结局非空",
+          "eliminated": []
+        }
+      ],
+      "qualified": [],
+      "qualified_n": 0,
+      "used": [],
+      "unused": [],
+      "unused_n": 0
+    },
+    "QM_OLD": {
+      "total": 10,
+      "steps": [
+        {
+          "label": "anchor present(台账)",
+          "eliminated": []
+        },
+        {
+          "label": "pollution low(台账)",
+          "eliminated": [
+            "QM-009"
+          ]
+        },
+        {
+          "label": "R58复核 eligible_optional=true",
+          "eliminated": []
+        },
+        {
+          "label": "断语/结局非空",
+          "eliminated": []
+        }
+      ],
+      "qualified": [
+        "QM-001",
+        "QM-002",
+        "QM-003",
+        "QM-004",
+        "QM-005",
+        "QM-006",
+        "QM-007",
+        "QM-008",
+        "QM-010"
+      ],
+      "qualified_n": 9,
+      "used": [
+        "QM-001",
+        "QM-002",
+        "QM-003",
+        "QM-004",
+        "QM-005",
+        "QM-006",
+        "QM-007",
+        "QM-008"
+      ],
+      "unused": [
+        "QM-010"
+      ],
+      "unused_n": 1
+    }
+  },
+  "gsz_five_elements": {
+    "GSZ-003": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-005": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-009": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-015": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-016": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-017": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-020": {
+      "elements": {
+        "gua_name": true,
+        "moving": false,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": false
+    },
+    "GSZ-022": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-023": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-024": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-026": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-028": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-030": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-031": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-032": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-033": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-034": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-038": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-041": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-042": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-043": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-046": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-047": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-049": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-050": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-052": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-053": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-054": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-055": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-058": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-059": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-060": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-061": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-068": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-069": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-074": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-075": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-077": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-078": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-079": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-080": {
+      "elements": {
+        "gua_name": true,
+        "moving": false,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": false
+    },
+    "GSZ-081": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-082": {
+      "elements": {
+        "gua_name": true,
+        "moving": false,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": false
+    },
+    "GSZ-084": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-086": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-088": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-089": {
+      "elements": {
+        "gua_name": true,
+        "moving": false,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": false
+    },
+    "GSZ-091": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-092": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-093": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-094": {
+      "elements": {
+        "gua_name": true,
+        "moving": false,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": false
+    },
+    "GSZ-098": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-099": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-100": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-101": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-103": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-104": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-105": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-107": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-108": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-109": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-110": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-111": {
+      "elements": {
+        "gua_name": true,
+        "moving": false,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": false
+    }
+  },
+  "why2_counts_keys": {
+    "chapter_total_cases": 150,
+    "round1_four_filter_eliminated": 33,
+    "round1_ledger_entries": 71,
+    "pending_round2_assigned": 46,
+    "round2_ledger_entries": 46,
+    "by_chapter": {
+      "姻缘": 12,
+      "终身": 5,
+      "年运": 8,
+      "风水": 12,
+      "疾病": 9
+    },
+    "anchor_present": 45,
+    "anchor_partial": 1,
+    "pollution_low": 46,
+    "grade_A": 41,
+    "grade_B": 5,
+    "net_eligible_A_low_present": 36,
+    "net_eligible_count": 36,
+    "registered_only_in_46": 10,
+    "dedup_cross_book_same_case": 8,
+    "pool_recount": {
+      "base_after_r56": 65,
+      "this_batch_net_increment": 36,
+      "pool_after_this_batch": 101,
+      "note": "可选集基数65承R56（holdout20即自该池构成）；本批净增为本席复算；说真席GSZ净入账增量记于其台账，两席同案8例已在本席全数剔除、合并计数不双计；QM建池10例照PREREG §3.1本轮不计入可选集"
+    },
+    "registered_only_extra": 2
+  },
+  "summary": {
+    "non_liuyao_unused": 17,
+    "zcb003_in_unused_raw": true,
+    "liuyao_unused_card": 71,
+    "liuyao_unused_net": 77,
+    "total_card": 88
+  }
+}

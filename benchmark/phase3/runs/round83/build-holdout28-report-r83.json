@@ -1,0 +1,1650 @@
+{
+  "round": 83,
+  "set": "holdout28",
+  "built_by": "组集封存席（R83）",
+  "ruling": "runs/round83/PREREG-ADDENDUM-r83.md（组集构成写定）；主预注册 PREREG.md §4",
+  "T": 27,
+  "order": [
+    "DS-050",
+    "DS-051",
+    "DS-052",
+    "DS-053",
+    "DS-054",
+    "DS-055",
+    "DS-056",
+    "DS-057",
+    "DS-058",
+    "DS-059",
+    "DS-060",
+    "DS-061",
+    "DS-062",
+    "QM-210",
+    "QM-211",
+    "QM-010",
+    "GSZ-091",
+    "GSZ-092",
+    "GSZ-093",
+    "GSZ-098",
+    "GSZ-099",
+    "GSZ-100",
+    "WHY-012",
+    "WHY-016",
+    "WHY-022",
+    "WHY-023",
+    "WHY-024"
+  ],
+  "selection_register": {
+    "DS": {
+      "rule": "增补件 §一写死 DS-050–062 按台账序；逐例 eligible_net∧present∧low∧filters 四项全 pass∧断语/结局非空断言；入选 13 例四柱互异",
+      "selected": [
+        "DS-050",
+        "DS-051",
+        "DS-052",
+        "DS-053",
+        "DS-054",
+        "DS-055",
+        "DS-056",
+        "DS-057",
+        "DS-058",
+        "DS-059",
+        "DS-060",
+        "DS-061",
+        "DS-062"
+      ],
+      "fallback_triggered": false,
+      "fallback_chain": [
+        "DS-063"
+      ]
+    },
+    "QWU": {
+      "rule": "增补件 §一写死启悟 QM-210、QM-211；逐例 anchor present∧contamination low∧separable∧断语/结局非空断言；QM 段无递补",
+      "selected": [
+        "QM-210",
+        "QM-211"
+      ],
+      "fallback_triggered": false,
+      "fallback_chain": []
+    },
+    "QMO": {
+      "rule": "增补件 §一写死旧池 QM-010；台账 anchor present∧pollution low∧复核件 QM-REVIEW-r58 eligible_optional=true∧anchor_reviewed present∧pollution_reviewed low∧断语/结局非空断言；QM 段无递补",
+      "selected": [
+        "QM-010"
+      ],
+      "fallback_triggered": false,
+      "fallback_chain": []
+    },
+    "GSZ": {
+      "rule": "增补件 §一写死 GSZ 6 例按台账序；逐例 grade A∧low∧present∧eligible_net∧建卡口径名单成员∧断语/结局非空∧回原书文字层五要素复核全在场断言",
+      "selected": [
+        "GSZ-091",
+        "GSZ-092",
+        "GSZ-093",
+        "GSZ-098",
+        "GSZ-099",
+        "GSZ-100"
+      ],
+      "fallback_triggered": false,
+      "fallback_chain": [
+        "GSZ-101",
+        "GSZ-103",
+        "GSZ-104",
+        "GSZ-105",
+        "GSZ-107",
+        "GSZ-108",
+        "GSZ-109",
+        "GSZ-110"
+      ]
+    },
+    "WHY": {
+      "rule": "增补件 §一写死 WHY 一轮 5 例按台账序；逐例 counts 净入账名单成员∧low∧present∧anchor_missing 空∧结局非空断言；断语台账未单列字段，回原书逐字补录（见 gold_supplement）",
+      "selected": [
+        "WHY-012",
+        "WHY-016",
+        "WHY-022",
+        "WHY-023",
+        "WHY-024"
+      ],
+      "fallback_triggered": false,
+      "fallback_chain": [
+        "WHY-025",
+        "WHY-026",
+        "WHY-027",
+        "WHY-028",
+        "WHY-031",
+        "WHY-032",
+        "WHY-033",
+        "WHY-034"
+      ]
+    }
+  },
+  "fallback_log": [],
+  "leak_hold_list": [
+    {
+      "id": "ZCB-003",
+      "source": "《字触补》",
+      "issue": "主持裁处维持排除（承 PREREG §4）；本轮构成无测字段额、未入选",
+      "status": "维持排除，只登记"
+    }
+  ],
+  "leak_flag_list": [],
+  "liuyao_five_element_recheck": {
+    "GSZ-091": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "base_qual": true,
+      "pass": true,
+      "ben_gua": "雷水解",
+      "bian_gua": "泽水困",
+      "asked_at": "乙亥年丙戌月庚寅日",
+      "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十四章《飞伏的秘密》例五"
+    },
+    "GSZ-092": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "base_qual": true,
+      "pass": true,
+      "ben_gua": "水风井",
+      "bian_gua": "天水讼",
+      "asked_at": "丁丑年甲辰月甲辰日",
+      "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十四章《飞伏的秘密》例六"
+    },
+    "GSZ-093": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "base_qual": true,
+      "pass": true,
+      "ben_gua": "天山遁",
+      "bian_gua": "水火既济",
+      "asked_at": "戊寅年甲寅月壬午日",
+      "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十五章《三刑辨义》例一"
+    },
+    "GSZ-098": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "base_qual": true,
+      "pass": true,
+      "ben_gua": "风地观",
+      "bian_gua": "水雷屯",
+      "asked_at": "乙亥年已丑月庚午日（原文「已丑」）",
+      "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十五章《三刑辨义》例六"
+    },
+    "GSZ-099": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "base_qual": true,
+      "pass": true,
+      "ben_gua": "风天小畜",
+      "bian_gua": "水天需",
+      "asked_at": "丁丑年丙午月乙酉日",
+      "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十五章《三刑辨义》例七"
+    },
+    "GSZ-100": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "base_qual": true,
+      "pass": true,
+      "ben_gua": "雷地豫",
+      "bian_gua": "雷风恒",
+      "asked_at": "丁丑年（97年）庚戌月戊戌日",
+      "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十六章《反吟辨义》例一"
+    }
+  },
+  "composition_assertions": {
+    "T": 27,
+    "by_tradition": {
+      "bazi": 13,
+      "qimen": 3,
+      "liuyao": 11
+    },
+    "by_source": {
+      "段建业《段氏理象学》": 13,
+      "刘文元《奇门启悟》": 2,
+      "杜新会《奇门遁甲现代实例精解》": 1,
+      "王虎应《六爻卦例说真》": 6,
+      "王虎应《六爻分类占验技法》": 5
+    },
+    "max_single_tradition_share": 0.48148148148148145,
+    "max_single_source_share": 0.48148148148148145,
+    "non_yijian": 27,
+    "non_liuyao": 16,
+    "source_count": 5,
+    "pollution_low": 27,
+    "used_union_intersection": [],
+    "holdout27_intersection": [],
+    "all_pass": true
+  },
+  "eligibility_assertions": {
+    "DS-050": {
+      "eligible_net": true,
+      "anchor_status": "present",
+      "contamination": "low",
+      "filters": {
+        "verbatim_transcribable": "pass（视觉转录，干支互证）",
+        "independent_outcome": "pass",
+        "separable": "pass",
+        "pollution_non_high": "pass"
+      },
+      "pass": true,
+      "basis": "SUPPLY-MINING-duanshi-r76.json 台账逐字"
+    },
+    "DS-051": {
+      "eligible_net": true,
+      "anchor_status": "present",
+      "contamination": "low",
+      "filters": {
+        "verbatim_transcribable": "pass（视觉转录，干支互证）",
+        "independent_outcome": "pass",
+        "separable": "pass",
+        "pollution_non_high": "pass"
+      },
+      "pass": true,
+      "basis": "SUPPLY-MINING-duanshi-r76.json 台账逐字"
+    },
+    "DS-052": {
+      "eligible_net": true,
+      "anchor_status": "present",
+      "contamination": "low",
+      "filters": {
+        "verbatim_transcribable": "pass（视觉转录，干支互证）",
+        "independent_outcome": "pass",
+        "separable": "pass",
+        "pollution_non_high": "pass"
+      },
+      "pass": true,
+      "basis": "SUPPLY-MINING-duanshi-r76.json 台账逐字"
+    },
+    "DS-053": {
+      "eligible_net": true,
+      "anchor_status": "present",
+      "contamination": "low",
+      "filters": {
+        "verbatim_transcribable": "pass（视觉转录，干支互证）",
+        "independent_outcome": "pass",
+        "separable": "pass",
+        "pollution_non_high": "pass"
+      },
+      "pass": true,
+      "basis": "SUPPLY-MINING-duanshi-r76.json 台账逐字"
+    },
+    "DS-054": {
+      "eligible_net": true,
+      "anchor_status": "present",
+      "contamination": "low",
+      "filters": {
+        "verbatim_transcribable": "pass（视觉转录，干支互证）",
+        "independent_outcome": "pass",
+        "separable": "pass",
+        "pollution_non_high": "pass"
+      },
+      "pass": true,
+      "basis": "SUPPLY-MINING-duanshi-r76.json 台账逐字"
+    },
+    "DS-055": {
+      "eligible_net": true,
+      "anchor_status": "present",
+      "contamination": "low",
+      "filters": {
+        "verbatim_transcribable": "pass（视觉转录，干支互证）",
+        "independent_outcome": "pass",
+        "separable": "pass",
+        "pollution_non_high": "pass"
+      },
+      "pass": true,
+      "basis": "SUPPLY-MINING-duanshi-r76.json 台账逐字"
+    },
+    "DS-056": {
+      "eligible_net": true,
+      "anchor_status": "present",
+      "contamination": "low",
+      "filters": {
+        "verbatim_transcribable": "pass（视觉转录，干支互证）",
+        "independent_outcome": "pass",
+        "separable": "pass",
+        "pollution_non_high": "pass"
+      },
+      "pass": true,
+      "basis": "SUPPLY-MINING-duanshi-r76.json 台账逐字"
+    },
+    "DS-057": {
+      "eligible_net": true,
+      "anchor_status": "present",
+      "contamination": "low",
+      "filters": {
+        "verbatim_transcribable": "pass（视觉转录，干支互证）",
+        "independent_outcome": "pass",
+        "separable": "pass",
+        "pollution_non_high": "pass"
+      },
+      "pass": true,
+      "basis": "SUPPLY-MINING-duanshi-r76.json 台账逐字"
+    },
+    "DS-058": {
+      "eligible_net": true,
+      "anchor_status": "present",
+      "contamination": "low",
+      "filters": {
+        "verbatim_transcribable": "pass（视觉转录，干支互证）",
+        "independent_outcome": "pass",
+        "separable": "pass",
+        "pollution_non_high": "pass"
+      },
+      "pass": true,
+      "basis": "SUPPLY-MINING-duanshi-r76.json 台账逐字"
+    },
+    "DS-059": {
+      "eligible_net": true,
+      "anchor_status": "present",
+      "contamination": "low",
+      "filters": {
+        "verbatim_transcribable": "pass（视觉转录，干支互证）",
+        "independent_outcome": "pass",
+        "separable": "pass",
+        "pollution_non_high": "pass"
+      },
+      "pass": true,
+      "basis": "SUPPLY-MINING-duanshi-r76.json 台账逐字"
+    },
+    "DS-060": {
+      "eligible_net": true,
+      "anchor_status": "present",
+      "contamination": "low",
+      "filters": {
+        "verbatim_transcribable": "pass（视觉转录，干支互证）",
+        "independent_outcome": "pass",
+        "separable": "pass",
+        "pollution_non_high": "pass"
+      },
+      "pass": true,
+      "basis": "SUPPLY-MINING-duanshi-r76.json 台账逐字"
+    },
+    "DS-061": {
+      "eligible_net": true,
+      "anchor_status": "present",
+      "contamination": "low",
+      "filters": {
+        "verbatim_transcribable": "pass（视觉转录，干支互证）",
+        "independent_outcome": "pass",
+        "separable": "pass",
+        "pollution_non_high": "pass"
+      },
+      "pass": true,
+      "basis": "SUPPLY-MINING-duanshi-r76.json 台账逐字"
+    },
+    "DS-062": {
+      "eligible_net": true,
+      "anchor_status": "present",
+      "contamination": "low",
+      "filters": {
+        "verbatim_transcribable": "pass（视觉转录，干支互证）",
+        "independent_outcome": "pass",
+        "separable": "pass",
+        "pollution_non_high": "pass"
+      },
+      "pass": true,
+      "basis": "SUPPLY-MINING-duanshi-r76.json 台账逐字"
+    },
+    "QM-210": {
+      "anchor_status": "present",
+      "contamination": "low",
+      "separable": true,
+      "pass": true,
+      "basis": "SUPPLY-MINING-qiwu-r76.json 台账逐字"
+    },
+    "QM-211": {
+      "anchor_status": "present",
+      "contamination": "low",
+      "separable": true,
+      "pass": true,
+      "basis": "SUPPLY-MINING-qiwu-r76.json 台账逐字"
+    },
+    "QM-010": {
+      "anchor_presence": "present",
+      "pollution": "low",
+      "review_eligible_optional": true,
+      "review_anchor": "present",
+      "review_pollution": "low",
+      "pass": true,
+      "basis": "SUPPLY-MINING-qimen-r56.json 台账逐字＋QM-REVIEW-r58.json 复核逐字"
+    },
+    "GSZ-091": {
+      "grade": "A",
+      "pollution": "low",
+      "anchor_presence": "present",
+      "eligible_net": true,
+      "card_list_member": true,
+      "five_elements_recheck": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true,
+      "basis": "SUPPLY-MINING-guaishuo-r57.json 台账逐字＋原书文字层五要素复核"
+    },
+    "GSZ-092": {
+      "grade": "A",
+      "pollution": "low",
+      "anchor_presence": "present",
+      "eligible_net": true,
+      "card_list_member": true,
+      "five_elements_recheck": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true,
+      "basis": "SUPPLY-MINING-guaishuo-r57.json 台账逐字＋原书文字层五要素复核"
+    },
+    "GSZ-093": {
+      "grade": "A",
+      "pollution": "low",
+      "anchor_presence": "present",
+      "eligible_net": true,
+      "card_list_member": true,
+      "five_elements_recheck": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true,
+      "basis": "SUPPLY-MINING-guaishuo-r57.json 台账逐字＋原书文字层五要素复核"
+    },
+    "GSZ-098": {
+      "grade": "A",
+      "pollution": "low",
+      "anchor_presence": "present",
+      "eligible_net": true,
+      "card_list_member": true,
+      "five_elements_recheck": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true,
+      "basis": "SUPPLY-MINING-guaishuo-r57.json 台账逐字＋原书文字层五要素复核"
+    },
+    "GSZ-099": {
+      "grade": "A",
+      "pollution": "low",
+      "anchor_presence": "present",
+      "eligible_net": true,
+      "card_list_member": true,
+      "five_elements_recheck": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true,
+      "basis": "SUPPLY-MINING-guaishuo-r57.json 台账逐字＋原书文字层五要素复核"
+    },
+    "GSZ-100": {
+      "grade": "A",
+      "pollution": "low",
+      "anchor_presence": "present",
+      "eligible_net": true,
+      "card_list_member": true,
+      "five_elements_recheck": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true,
+      "basis": "SUPPLY-MINING-guaishuo-r57.json 台账逐字＋原书文字层五要素复核"
+    },
+    "WHY-012": {
+      "net_list_member": true,
+      "pollution": "low",
+      "anchor_presence": "present",
+      "anchor_missing": "",
+      "pass": true,
+      "basis": "SUPPLY-MINING-wanghuying-r56.json 台账逐字"
+    },
+    "WHY-016": {
+      "net_list_member": true,
+      "pollution": "low",
+      "anchor_presence": "present",
+      "anchor_missing": "",
+      "pass": true,
+      "basis": "SUPPLY-MINING-wanghuying-r56.json 台账逐字"
+    },
+    "WHY-022": {
+      "net_list_member": true,
+      "pollution": "low",
+      "anchor_presence": "present",
+      "anchor_missing": "",
+      "pass": true,
+      "basis": "SUPPLY-MINING-wanghuying-r56.json 台账逐字"
+    },
+    "WHY-023": {
+      "net_list_member": true,
+      "pollution": "low",
+      "anchor_presence": "present",
+      "anchor_missing": "",
+      "pass": true,
+      "basis": "SUPPLY-MINING-wanghuying-r56.json 台账逐字"
+    },
+    "WHY-024": {
+      "net_list_member": true,
+      "pollution": "low",
+      "anchor_presence": "present",
+      "anchor_missing": "",
+      "pass": true,
+      "basis": "SUPPLY-MINING-wanghuying-r56.json 台账逐字"
+    }
+  },
+  "eligibility_all_pass": true,
+  "zero_reuse_recheck": {
+    "sources": {
+      "dev9_baseline_keys": 487,
+      "dev_pool_with_input_dirs": 488,
+      "phase2_splits2_holdout2": 29,
+      "holdout3_27_gold_ids": 727,
+      "gold_per_set": {
+        "holdout3": 27,
+        "holdout4": 25,
+        "holdout5": 25,
+        "holdout6": 23,
+        "holdout7": 1,
+        "holdout8": 28,
+        "holdout9": 28,
+        "holdout10": 29,
+        "holdout11": 25,
+        "holdout12": 49,
+        "holdout13": 40,
+        "holdout14": 40,
+        "holdout15": 40,
+        "holdout16": 40,
+        "holdout17": 40,
+        "holdout18": 30,
+        "holdout19": 25,
+        "holdout20": 25,
+        "holdout21": 25,
+        "holdout22": 27,
+        "holdout23": 27,
+        "holdout24": 27,
+        "holdout25": 27,
+        "holdout26": 27,
+        "holdout27": 27
+      },
+      "holdout2_27_input_card_ids": 568,
+      "toplevel_inputs6_10_card_ids": 412,
+      "used_union_total": 1139
+    },
+    "method": "只对 id 集（dev9 基线键集＋inputs-dev9/10/11/12 与 inputs 目录文件名、phase2 splits2 holdout2、holdout3–27 各 test_gold.jsonl 仅取 id 字段、holdout2–27 inputs 与 *-inputs 目录文件名、顶层 inputs6–10 目录文件名）；未打开任何已封存集金标正文做内容比对",
+    "used_union_total": 1139,
+    "holdout27_ids_checked_separately": [
+      "DS-040",
+      "DS-041",
+      "DS-042",
+      "DS-043",
+      "DS-044",
+      "DS-045",
+      "DS-046",
+      "DS-048",
+      "DS-049",
+      "GSZ-079",
+      "GSZ-081",
+      "GSZ-084",
+      "GSZ-086",
+      "GSZ-088",
+      "QM-044",
+      "QM-045",
+      "QM-046",
+      "QM-047",
+      "QM-048",
+      "QM-049",
+      "QM-052",
+      "QM-055",
+      "QM-058",
+      "WHY-008",
+      "WHY-009",
+      "WHY-010",
+      "WHY-011"
+    ],
+    "selected_hit_count": 0,
+    "selected_hits": [],
+    "post_seal_union_would_be": 1166
+  },
+  "input_field_whitelist": [
+    "id",
+    "tradition",
+    "subject",
+    "context",
+    "question",
+    "setting",
+    "provenance",
+    "redistributable",
+    "license_status",
+    "anchors"
+  ],
+  "input_field_whitelist_basis": "holdout27/inputs/DS-040.json 实读字段集（开工对齐断言通过）",
+  "strip_register": {
+    "DS-050": [
+      "anchor_status/anchor_note/contamination_pre/contamination_note/separable/transcription/dedup/filters/eligible_net/verdict_note/composition_type/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "DS-051": [
+      "anchor_status/anchor_note/contamination_pre/contamination_note/separable/transcription/dedup/filters/eligible_net/verdict_note/composition_type/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "DS-052": [
+      "anchor_status/anchor_note/contamination_pre/contamination_note/separable/transcription/dedup/filters/eligible_net/verdict_note/composition_type/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "DS-053": [
+      "anchor_status/anchor_note/contamination_pre/contamination_note/separable/transcription/dedup/filters/eligible_net/verdict_note/composition_type/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "DS-054": [
+      "anchor_status/anchor_note/contamination_pre/contamination_note/separable/transcription/dedup/filters/eligible_net/verdict_note/composition_type/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "DS-055": [
+      "anchor_status/anchor_note/contamination_pre/contamination_note/separable/transcription/dedup/filters/eligible_net/verdict_note/composition_type/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "DS-056": [
+      "anchor_status/anchor_note/contamination_pre/contamination_note/separable/transcription/dedup/filters/eligible_net/verdict_note/composition_type/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "DS-057": [
+      "anchor_status/anchor_note/contamination_pre/contamination_note/separable/transcription/dedup/filters/eligible_net/verdict_note/composition_type/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "DS-058": [
+      "anchor_status/anchor_note/contamination_pre/contamination_note/separable/transcription/dedup/filters/eligible_net/verdict_note/composition_type/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "DS-059": [
+      "anchor_status/anchor_note/contamination_pre/contamination_note/separable/transcription/dedup/filters/eligible_net/verdict_note/composition_type/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "DS-060": [
+      "anchor_status/anchor_note/contamination_pre/contamination_note/separable/transcription/dedup/filters/eligible_net/verdict_note/composition_type/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "DS-061": [
+      "anchor_status/anchor_note/contamination_pre/contamination_note/separable/transcription/dedup/filters/eligible_net/verdict_note/composition_type/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "DS-062": [
+      "anchor_status/anchor_note/contamination_pre/contamination_note/separable/transcription/dedup/filters/eligible_net/verdict_note/composition_type/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "QM-210": [
+      "anchor_status/contamination_pre/contamination_reason/separable/transcription/transcription_confidence/dedup/notes/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "QM-211": [
+      "anchor_status/contamination_pre/contamination_reason/separable/transcription/transcription_confidence/dedup/notes/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "QM-010": [
+      "pollution/pollution_reason/anchor_presence/anchor_note/dedup_check/notes/master_prediction_verbatim/outcome_record（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "GSZ-091": [
+      "pollution/pollution_note/anchor_presence/anchor_missing/dedup_check/filters/outcome_type/outcome_record/master_prediction（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "GSZ-092": [
+      "pollution/pollution_note/anchor_presence/anchor_missing/dedup_check/filters/outcome_type/outcome_record/master_prediction（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "GSZ-093": [
+      "pollution/pollution_note/anchor_presence/anchor_missing/dedup_check/filters/outcome_type/outcome_record/master_prediction（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "GSZ-098": [
+      "pollution/pollution_note/anchor_presence/anchor_missing/dedup_check/filters/outcome_type/outcome_record/master_prediction（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "GSZ-099": [
+      "pollution/pollution_note/anchor_presence/anchor_missing/dedup_check/filters/outcome_type/outcome_record/master_prediction（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "GSZ-100": [
+      "pollution/pollution_note/anchor_presence/anchor_missing/dedup_check/filters/outcome_type/outcome_record/master_prediction（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "WHY-012": [
+      "pollution/anchor_presence/anchor_missing/dedup_check/transcription/outcome_type/outcome_record（台账管理与金标侧字段，不入输入卡）；台账 input_fields 无 context/setting/provenance 独立字段，context 由 asked_at＋书名组写、setting/provenance 由台账 source 逐字承接，组写口径登记于构建报告"
+    ],
+    "WHY-016": [
+      "pollution/anchor_presence/anchor_missing/dedup_check/transcription/outcome_type/outcome_record（台账管理与金标侧字段，不入输入卡）；台账 input_fields 无 context/setting/provenance 独立字段，context 由 asked_at＋书名组写、setting/provenance 由台账 source 逐字承接，组写口径登记于构建报告"
+    ],
+    "WHY-022": [
+      "pollution/anchor_presence/anchor_missing/dedup_check/transcription/outcome_type/outcome_record（台账管理与金标侧字段，不入输入卡）；台账 input_fields 无 context/setting/provenance 独立字段，context 由 asked_at＋书名组写、setting/provenance 由台账 source 逐字承接，组写口径登记于构建报告"
+    ],
+    "WHY-023": [
+      "pollution/anchor_presence/anchor_missing/dedup_check/transcription/outcome_type/outcome_record（台账管理与金标侧字段，不入输入卡）；台账 input_fields 无 context/setting/provenance 独立字段，context 由 asked_at＋书名组写、setting/provenance 由台账 source 逐字承接，组写口径登记于构建报告"
+    ],
+    "WHY-024": [
+      "pollution/anchor_presence/anchor_missing/dedup_check/transcription/outcome_type/outcome_record（台账管理与金标侧字段，不入输入卡）；台账 input_fields 无 context/setting/provenance 独立字段，context 由 asked_at＋书名组写、setting/provenance 由台账 source 逐字承接，组写口径登记于构建报告"
+    ]
+  },
+  "field_mapping_notes": {
+    "DS-050": "subject←input_side.subject 逐字；anchors←input_side pillars/pillars_verbatim/gender 逐字；setting←source 逐字；context/question 为组写（台账无该二字段，组写口径在此登记）",
+    "DS-051": "subject←input_side.subject 逐字；anchors←input_side pillars/pillars_verbatim/gender 逐字；setting←source 逐字；context/question 为组写（台账无该二字段，组写口径在此登记）",
+    "DS-052": "subject←input_side.subject 逐字；anchors←input_side pillars/pillars_verbatim/gender 逐字；setting←source 逐字；context/question 为组写（台账无该二字段，组写口径在此登记）",
+    "DS-053": "subject←input_side.subject 逐字；anchors←input_side pillars/pillars_verbatim/gender 逐字；setting←source 逐字；context/question 为组写（台账无该二字段，组写口径在此登记）",
+    "DS-054": "subject←input_side.subject 逐字；anchors←input_side pillars/pillars_verbatim/gender 逐字；setting←source 逐字；context/question 为组写（台账无该二字段，组写口径在此登记）",
+    "DS-055": "subject←input_side.subject 逐字；anchors←input_side pillars/pillars_verbatim/gender 逐字；setting←source 逐字；context/question 为组写（台账无该二字段，组写口径在此登记）",
+    "DS-056": "subject←input_side.subject 逐字；anchors←input_side pillars/pillars_verbatim/gender 逐字；setting←source 逐字；context/question 为组写（台账无该二字段，组写口径在此登记）",
+    "DS-057": "subject←input_side.subject 逐字；anchors←input_side pillars/pillars_verbatim/gender 逐字；setting←source 逐字；context/question 为组写（台账无该二字段，组写口径在此登记）",
+    "DS-058": "subject←input_side.subject 逐字；anchors←input_side pillars/pillars_verbatim/gender 逐字；setting←source 逐字；context/question 为组写（台账无该二字段，组写口径在此登记）",
+    "DS-059": "subject←input_side.subject 逐字；anchors←input_side pillars/pillars_verbatim/gender 逐字；setting←source 逐字；context/question 为组写（台账无该二字段，组写口径在此登记）",
+    "DS-060": "subject←input_side.subject 逐字；anchors←input_side pillars/pillars_verbatim/gender 逐字；setting←source 逐字；context/question 为组写（台账无该二字段，组写口径在此登记）",
+    "DS-061": "subject←input_side.subject 逐字；anchors←input_side pillars/pillars_verbatim/gender 逐字；setting←source 逐字；context/question 为组写（台账无该二字段，组写口径在此登记）",
+    "DS-062": "subject←input_side.subject 逐字；anchors←input_side pillars/pillars_verbatim/gender 逐字；setting←source 逐字；context/question 为组写（台账无该二字段，组写口径在此登记）",
+    "QM-210": "subject←input_side.querent 逐字；context←input_side.context 逐字；question←input_side.question 逐字；anchors←cast_time_verbatim＋board 逐字；setting←source.section（省篇首「分類占斷篇」，承先例、登记于 deletion_register）＋cast_time_verbatim 组写；provenance←source 各字段组写（section 同 setting 口径）",
+    "QM-211": "subject←input_side.querent 逐字；context←input_side.context 逐字；question←input_side.question 逐字；anchors←cast_time_verbatim＋board 逐字；setting←source.section（省篇首「分類占斷篇」，承先例、登记于 deletion_register）＋cast_time_verbatim 组写；provenance←source 各字段组写（section 同 setting 口径）",
+    "QM-010": "subject←input_fields.querent 逐字；context←input_fields.context 逐字；question←input_fields.question 逐字；anchors←cast_time_verbatim＋board 逐字；setting←source.section＋cast_time_verbatim 组写；provenance←source 各字段组写",
+    "GSZ-091": "question←input_fields.question；context←asked_at＋书名组写（台账无 context 原文，承 holdout27 先例）；setting/provenance←台账 source 逐字；anchors←asked_at＋input_fields.chart 全列逐字",
+    "GSZ-092": "question←input_fields.question；context←asked_at＋书名组写（台账无 context 原文，承 holdout27 先例）；setting/provenance←台账 source 逐字；anchors←asked_at＋input_fields.chart 全列逐字",
+    "GSZ-093": "question←input_fields.question；context←asked_at＋书名组写（台账无 context 原文，承 holdout27 先例）；setting/provenance←台账 source 逐字；anchors←asked_at＋input_fields.chart 全列逐字",
+    "GSZ-098": "question←input_fields.question；context←asked_at＋书名组写（台账无 context 原文，承 holdout27 先例）；setting/provenance←台账 source 逐字；anchors←asked_at＋input_fields.chart 全列逐字",
+    "GSZ-099": "question←input_fields.question；context←asked_at＋书名组写（台账无 context 原文，承 holdout27 先例）；setting/provenance←台账 source 逐字；anchors←asked_at＋input_fields.chart 全列逐字",
+    "GSZ-100": "question←input_fields.question；context←asked_at＋书名组写（台账无 context 原文，承 holdout27 先例）；setting/provenance←台账 source 逐字；anchors←asked_at＋input_fields.chart 全列逐字",
+    "WHY-012": "question←input_fields.question；anchors←input_fields.chart 全列＋asked_at；setting/provenance←台账 source 逐字；context←asked_at 与书名组写（台账无 context 原文）",
+    "WHY-016": "question←input_fields.question；anchors←input_fields.chart 全列＋asked_at；setting/provenance←台账 source 逐字；context←asked_at 与书名组写（台账无 context 原文）",
+    "WHY-022": "question←input_fields.question；anchors←input_fields.chart 全列＋asked_at；setting/provenance←台账 source 逐字；context←asked_at 与书名组写（台账无 context 原文）",
+    "WHY-023": "question←input_fields.question；anchors←input_fields.chart 全列＋asked_at；setting/provenance←台账 source 逐字；context←asked_at 与书名组写（台账无 context 原文）",
+    "WHY-024": "question←input_fields.question；anchors←input_fields.chart 全列＋asked_at；setting/provenance←台账 source 逐字；context←asked_at 与书名组写（台账无 context 原文）"
+  },
+  "deletion_register": [
+    {
+      "class": "节题/问题中性化改写（结局事实字样）",
+      "matched_cases": [],
+      "deleted_count": 0,
+      "rewritten_count": 0,
+      "note": "入选 27 例节题/问题逐例核查，无含结局事实须中性化者，无改写件"
+    },
+    {
+      "class": "「求测例/求测例题」类编辑装置残段删除",
+      "matched_cases": [],
+      "deleted_count": 0,
+      "note": "入选 27 例 question 逐例字面扫描零匹配，无删除件"
+    },
+    {
+      "class": "双人例 question 中与所问无关之第二人结局字样删除",
+      "matched_cases": [],
+      "deleted_count": 0,
+      "note": "入选例中涉他人面例（QM-211 妹妹转介借款人、GSZ/WHY 诸例代占或群体占）question 均只及所问之事本身，无第二人无关结局字样，经语义级通读核查，无删除件"
+    },
+    {
+      "class": "台账编辑注记括注删除（QM-211 context 尾部括注）",
+      "matched_cases": [
+        "QM-211"
+      ],
+      "deleted_count": 1,
+      "deleted_text": "（2000 年 10 月 8 日潘氏姐妹再來問何日能還款，劉改用大六壬起課覆測——其應期斷語不屬本奇門局，金標不採，見 notes。）",
+      "note": "该括注为台账编辑注记（含「斷語」「金標不採，見 notes」等管理字样），非原书本文，卡面删除；事实内核由台账 notes 全量载入金标 grade_note，不影响金标口径"
+    },
+    {
+      "class": "书目篇名篇首省略（启悟 section 篇首「分類占斷篇」）",
+      "matched_cases": [
+        "QM-210",
+        "QM-211"
+      ],
+      "deleted_count": 2,
+      "note": "台账 source.section 篇首「分類占斷篇」为本书篇名（含内容级标记集字面「占斷」），承 holdout22–25 启悟建卡先例（QM-203/205/207/209 卡均自章次起），卡面 setting/provenance 省略该篇首、自章次起录；台账原文全量保留于台账与本报告资格登记，非内容删改"
+    }
+  ],
+  "hygiene_question_scan": {
+    "DS-050": {
+      "editorial_apparatus_hits": [],
+      "neutralization_rewrites": [],
+      "note": "「求测例/求测例题」类编辑装置残段：question 逐例字面扫描；节题/问题含结局事实者须中性化并逐件登记——本轮经逐卡语义通读（见封存日志）无中性化改写件；双人例第二人无关结局字样：经语义级逐卡通读核查"
+    },
+    "DS-051": {
+      "editorial_apparatus_hits": [],
+      "neutralization_rewrites": [],
+      "note": "「求测例/求测例题」类编辑装置残段：question 逐例字面扫描；节题/问题含结局事实者须中性化并逐件登记——本轮经逐卡语义通读（见封存日志）无中性化改写件；双人例第二人无关结局字样：经语义级逐卡通读核查"
+    },
+    "DS-052": {
+      "editorial_apparatus_hits": [],
+      "neutralization_rewrites": [],
+      "note": "「求测例/求测例题」类编辑装置残段：question 逐例字面扫描；节题/问题含结局事实者须中性化并逐件登记——本轮经逐卡语义通读（见封存日志）无中性化改写件；双人例第二人无关结局字样：经语义级逐卡通读核查"
+    },
+    "DS-053": {
+      "editorial_apparatus_hits": [],
+      "neutralization_rewrites": [],
+      "note": "「求测例/求测例题」类编辑装置残段：question 逐例字面扫描；节题/问题含结局事实者须中性化并逐件登记——本轮经逐卡语义通读（见封存日志）无中性化改写件；双人例第二人无关结局字样：经语义级逐卡通读核查"
+    },
+    "DS-054": {
+      "editorial_apparatus_hits": [],
+      "neutralization_rewrites": [],
+      "note": "「求测例/求测例题」类编辑装置残段：question 逐例字面扫描；节题/问题含结局事实者须中性化并逐件登记——本轮经逐卡语义通读（见封存日志）无中性化改写件；双人例第二人无关结局字样：经语义级逐卡通读核查"
+    },
+    "DS-055": {
+      "editorial_apparatus_hits": [],
+      "neutralization_rewrites": [],
+      "note": "「求测例/求测例题」类编辑装置残段：question 逐例字面扫描；节题/问题含结局事实者须中性化并逐件登记——本轮经逐卡语义通读（见封存日志）无中性化改写件；双人例第二人无关结局字样：经语义级逐卡通读核查"
+    },
+    "DS-056": {
+      "editorial_apparatus_hits": [],
+      "neutralization_rewrites": [],
+      "note": "「求测例/求测例题」类编辑装置残段：question 逐例字面扫描；节题/问题含结局事实者须中性化并逐件登记——本轮经逐卡语义通读（见封存日志）无中性化改写件；双人例第二人无关结局字样：经语义级逐卡通读核查"
+    },
+    "DS-057": {
+      "editorial_apparatus_hits": [],
+      "neutralization_rewrites": [],
+      "note": "「求测例/求测例题」类编辑装置残段：question 逐例字面扫描；节题/问题含结局事实者须中性化并逐件登记——本轮经逐卡语义通读（见封存日志）无中性化改写件；双人例第二人无关结局字样：经语义级逐卡通读核查"
+    },
+    "DS-058": {
+      "editorial_apparatus_hits": [],
+      "neutralization_rewrites": [],
+      "note": "「求测例/求测例题」类编辑装置残段：question 逐例字面扫描；节题/问题含结局事实者须中性化并逐件登记——本轮经逐卡语义通读（见封存日志）无中性化改写件；双人例第二人无关结局字样：经语义级逐卡通读核查"
+    },
+    "DS-059": {
+      "editorial_apparatus_hits": [],
+      "neutralization_rewrites": [],
+      "note": "「求测例/求测例题」类编辑装置残段：question 逐例字面扫描；节题/问题含结局事实者须中性化并逐件登记——本轮经逐卡语义通读（见封存日志）无中性化改写件；双人例第二人无关结局字样：经语义级逐卡通读核查"
+    },
+    "DS-060": {
+      "editorial_apparatus_hits": [],
+      "neutralization_rewrites": [],
+      "note": "「求测例/求测例题」类编辑装置残段：question 逐例字面扫描；节题/问题含结局事实者须中性化并逐件登记——本轮经逐卡语义通读（见封存日志）无中性化改写件；双人例第二人无关结局字样：经语义级逐卡通读核查"
+    },
+    "DS-061": {
+      "editorial_apparatus_hits": [],
+      "neutralization_rewrites": [],
+      "note": "「求测例/求测例题」类编辑装置残段：question 逐例字面扫描；节题/问题含结局事实者须中性化并逐件登记——本轮经逐卡语义通读（见封存日志）无中性化改写件；双人例第二人无关结局字样：经语义级逐卡通读核查"
+    },
+    "DS-062": {
+      "editorial_apparatus_hits": [],
+      "neutralization_rewrites": [],
+      "note": "「求测例/求测例题」类编辑装置残段：question 逐例字面扫描；节题/问题含结局事实者须中性化并逐件登记——本轮经逐卡语义通读（见封存日志）无中性化改写件；双人例第二人无关结局字样：经语义级逐卡通读核查"
+    },
+    "QM-210": {
+      "editorial_apparatus_hits": [],
+      "neutralization_rewrites": [],
+      "note": "「求测例/求测例题」类编辑装置残段：question 逐例字面扫描；节题/问题含结局事实者须中性化并逐件登记——本轮经逐卡语义通读（见封存日志）无中性化改写件；双人例第二人无关结局字样：经语义级逐卡通读核查"
+    },
+    "QM-211": {
+      "editorial_apparatus_hits": [],
+      "neutralization_rewrites": [],
+      "note": "「求测例/求测例题」类编辑装置残段：question 逐例字面扫描；节题/问题含结局事实者须中性化并逐件登记——本轮经逐卡语义通读（见封存日志）无中性化改写件；双人例第二人无关结局字样：经语义级逐卡通读核查"
+    },
+    "QM-010": {
+      "editorial_apparatus_hits": [],
+      "neutralization_rewrites": [],
+      "note": "「求测例/求测例题」类编辑装置残段：question 逐例字面扫描；节题/问题含结局事实者须中性化并逐件登记——本轮经逐卡语义通读（见封存日志）无中性化改写件；双人例第二人无关结局字样：经语义级逐卡通读核查"
+    },
+    "GSZ-091": {
+      "editorial_apparatus_hits": [],
+      "neutralization_rewrites": [],
+      "note": "「求测例/求测例题」类编辑装置残段：question 逐例字面扫描；节题/问题含结局事实者须中性化并逐件登记——本轮经逐卡语义通读（见封存日志）无中性化改写件；双人例第二人无关结局字样：经语义级逐卡通读核查"
+    },
+    "GSZ-092": {
+      "editorial_apparatus_hits": [],
+      "neutralization_rewrites": [],
+      "note": "「求测例/求测例题」类编辑装置残段：question 逐例字面扫描；节题/问题含结局事实者须中性化并逐件登记——本轮经逐卡语义通读（见封存日志）无中性化改写件；双人例第二人无关结局字样：经语义级逐卡通读核查"
+    },
+    "GSZ-093": {
+      "editorial_apparatus_hits": [],
+      "neutralization_rewrites": [],
+      "note": "「求测例/求测例题」类编辑装置残段：question 逐例字面扫描；节题/问题含结局事实者须中性化并逐件登记——本轮经逐卡语义通读（见封存日志）无中性化改写件；双人例第二人无关结局字样：经语义级逐卡通读核查"
+    },
+    "GSZ-098": {
+      "editorial_apparatus_hits": [],
+      "neutralization_rewrites": [],
+      "note": "「求测例/求测例题」类编辑装置残段：question 逐例字面扫描；节题/问题含结局事实者须中性化并逐件登记——本轮经逐卡语义通读（见封存日志）无中性化改写件；双人例第二人无关结局字样：经语义级逐卡通读核查"
+    },
+    "GSZ-099": {
+      "editorial_apparatus_hits": [],
+      "neutralization_rewrites": [],
+      "note": "「求测例/求测例题」类编辑装置残段：question 逐例字面扫描；节题/问题含结局事实者须中性化并逐件登记——本轮经逐卡语义通读（见封存日志）无中性化改写件；双人例第二人无关结局字样：经语义级逐卡通读核查"
+    },
+    "GSZ-100": {
+      "editorial_apparatus_hits": [],
+      "neutralization_rewrites": [],
+      "note": "「求测例/求测例题」类编辑装置残段：question 逐例字面扫描；节题/问题含结局事实者须中性化并逐件登记——本轮经逐卡语义通读（见封存日志）无中性化改写件；双人例第二人无关结局字样：经语义级逐卡通读核查"
+    },
+    "WHY-012": {
+      "editorial_apparatus_hits": [],
+      "neutralization_rewrites": [],
+      "note": "「求测例/求测例题」类编辑装置残段：question 逐例字面扫描；节题/问题含结局事实者须中性化并逐件登记——本轮经逐卡语义通读（见封存日志）无中性化改写件；双人例第二人无关结局字样：经语义级逐卡通读核查"
+    },
+    "WHY-016": {
+      "editorial_apparatus_hits": [],
+      "neutralization_rewrites": [],
+      "note": "「求测例/求测例题」类编辑装置残段：question 逐例字面扫描；节题/问题含结局事实者须中性化并逐件登记——本轮经逐卡语义通读（见封存日志）无中性化改写件；双人例第二人无关结局字样：经语义级逐卡通读核查"
+    },
+    "WHY-022": {
+      "editorial_apparatus_hits": [],
+      "neutralization_rewrites": [],
+      "note": "「求测例/求测例题」类编辑装置残段：question 逐例字面扫描；节题/问题含结局事实者须中性化并逐件登记——本轮经逐卡语义通读（见封存日志）无中性化改写件；双人例第二人无关结局字样：经语义级逐卡通读核查"
+    },
+    "WHY-023": {
+      "editorial_apparatus_hits": [],
+      "neutralization_rewrites": [],
+      "note": "「求测例/求测例题」类编辑装置残段：question 逐例字面扫描；节题/问题含结局事实者须中性化并逐件登记——本轮经逐卡语义通读（见封存日志）无中性化改写件；双人例第二人无关结局字样：经语义级逐卡通读核查"
+    },
+    "WHY-024": {
+      "editorial_apparatus_hits": [],
+      "neutralization_rewrites": [],
+      "note": "「求测例/求测例题」类编辑装置残段：question 逐例字面扫描；节题/问题含结局事实者须中性化并逐件登记——本轮经逐卡语义通读（见封存日志）无中性化改写件；双人例第二人无关结局字样：经语义级逐卡通读核查"
+    }
+  },
+  "gold_gap_scan": {
+    "DS-050": {
+      "mp_gap": false,
+      "mp_missing_field": false
+    },
+    "DS-051": {
+      "mp_gap": false,
+      "mp_missing_field": false
+    },
+    "DS-052": {
+      "mp_gap": false,
+      "mp_missing_field": false
+    },
+    "DS-053": {
+      "mp_gap": false,
+      "mp_missing_field": false
+    },
+    "DS-054": {
+      "mp_gap": false,
+      "mp_missing_field": false
+    },
+    "DS-055": {
+      "mp_gap": false,
+      "mp_missing_field": false
+    },
+    "DS-056": {
+      "mp_gap": false,
+      "mp_missing_field": false
+    },
+    "DS-057": {
+      "mp_gap": false,
+      "mp_missing_field": false
+    },
+    "DS-058": {
+      "mp_gap": false,
+      "mp_missing_field": false
+    },
+    "DS-059": {
+      "mp_gap": false,
+      "mp_missing_field": false
+    },
+    "DS-060": {
+      "mp_gap": true,
+      "mp_missing_field": false
+    },
+    "DS-061": {
+      "mp_gap": false,
+      "mp_missing_field": false
+    },
+    "DS-062": {
+      "mp_gap": false,
+      "mp_missing_field": false
+    },
+    "QM-210": {
+      "mp_gap": false,
+      "mp_missing_field": false
+    },
+    "QM-211": {
+      "mp_gap": false,
+      "mp_missing_field": false
+    },
+    "QM-010": {
+      "mp_gap": false,
+      "mp_missing_field": false
+    },
+    "GSZ-091": {
+      "mp_gap": false,
+      "mp_missing_field": false
+    },
+    "GSZ-092": {
+      "mp_gap": false,
+      "mp_missing_field": false
+    },
+    "GSZ-093": {
+      "mp_gap": false,
+      "mp_missing_field": false
+    },
+    "GSZ-098": {
+      "mp_gap": false,
+      "mp_missing_field": false
+    },
+    "GSZ-099": {
+      "mp_gap": false,
+      "mp_missing_field": false
+    },
+    "GSZ-100": {
+      "mp_gap": false,
+      "mp_missing_field": false
+    },
+    "WHY-012": {
+      "mp_gap": false,
+      "mp_missing_field": true
+    },
+    "WHY-016": {
+      "mp_gap": false,
+      "mp_missing_field": true
+    },
+    "WHY-022": {
+      "mp_gap": false,
+      "mp_missing_field": true
+    },
+    "WHY-023": {
+      "mp_gap": false,
+      "mp_missing_field": true
+    },
+    "WHY-024": {
+      "mp_gap": false,
+      "mp_missing_field": true
+    }
+  },
+  "gold_supplement": {
+    "DS-060": {
+      "master_prediction": "该是个公安局的官员，对方说不是。又断那一定当过兵，对方说是当过兵。我说，那他应该是银行的官员／这个命癸未运走坏了，反了局，2008戊子年一定遇到大麻烦，子卯相破，杀星被破，整个局反了。癸水财星代表丑土跑了，犯了经济问题，不是个丢官罢职的事，应该有牢狱之灾！／癸水这个财透出，被劫了，癸水的数，六数，不是六百万就是六千万。贪污就是六百万，挪用公款就是六千万。",
+      "source_anchor": "《段氏理象学》附录三十二、断例几则·二（印刷pp.218-219，扫描本PDF第242-243页）",
+      "note": "台账摘录第二段段内含「……」省略标记一处；本席回原书逐字补入省略跨度「癸水财星代表丑土跑了，犯了经济问题，不是个丢官罢职的事，」，余段照台账摘录逐字；transcription=visual（200dpi 渲染页读图）"
+    },
+    "WHY-012": {
+      "master_prediction": "〔判斷〕卦中有動爻，從動爻入手判斷。卦中子孫發動化官鬼，子孫主晴，官鬼主陰，乃是晴轉陰之象。但是子孫不得日月生扶，不能言旺。而官鬼得日月幫比，比子孫要旺得多，是否是晴天見多雲？參考第二天的干支，次日為庚寅日，官鬼受剋子孫得助，應為晴天，有浮雲。",
+      "source_anchor": "《六爻分类占验技法》第一章「被測日辰」例二（印刷p23，扫描本PDF第12页左叶）",
+      "note": "台账未单列断语字段；本席回原书页图逐字补录〔判斷〕全段；transcription=visual（200dpi 渲染页读图，繁体照原书）"
+    },
+    "WHY-016": {
+      "master_prediction": "〔判斷〕兄弟辰土臨螣蛇發動，乃是地震的信息。但是兄弟丑土被日月剋制，且動而化退，休囚無氣，即使有地震也不會大。地震發生的時間當以退神定應期，故斷丑月有小的地震。",
+      "source_anchor": "《六爻分类占验技法》第二章 例四（印刷p34，扫描本PDF第18页右叶）",
+      "note": "台账未单列断语字段；本席回原书页图逐字补录〔判斷〕全段；transcription=visual（200dpi 渲染页读图，繁体照原书）"
+    },
+    "WHY-022": {
+      "master_prediction": "〔判斷〕以官鬼為用神，看官鬼的動靜。此卦官鬼戌土發動，必有水災。官鬼得月建比扶旺相，又在坎宮，很明顯為水災的信息，而且很大。官鬼戌土動化父母申金，申金為土之長生之地，父母主雨，長生為產生之意，卦中反映出因下雨會帶來水災。官鬼戌土化出申金空亡，申月出空，申月必會發生水災。",
+      "source_anchor": "《六爻分类占验技法》第三章 水灾例一（印刷pp.44-46，例文与卦图在p45、〔判斷〕在p46，扫描本PDF第23页左叶与第24页右叶）",
+      "note": "台账未单列断语字段；本席回原书页图逐字补录〔判斷〕全段；transcription=visual（200dpi 渲染页读图，繁体照原书）"
+    },
+    "WHY-023": {
+      "master_prediction": "〔判斷〕以官鬼為用神。卦中官鬼午火兩重發動，今年南方有水災無疑。官鬼午火得月建巳火比扶為旺相，有水災必大。官鬼午火發動，動而逢值逢合，水災必在午月發生。",
+      "source_anchor": "《六爻分类占验技法》第三章 水灾例二（印刷p46，〔判斷〕跨p46-47，扫描本PDF第24页右叶至左叶）",
+      "note": "台账未单列断语字段；本席回原书页图逐字补录〔判斷〕全段（跨页连续）；transcription=visual（200dpi 渲染页读图，繁体照原书）"
+    },
+    "WHY-024": {
+      "master_prediction": "〔判斷〕以官鬼為用神。卦中官鬼申金得日月幫扶為旺相。此為洪水凶猛正是險情萬分的信息。但是官鬼元神妻財戌土發動化退神，這是洪水將會退去的信息。子孫為剋官鬼之六親，也可以理解為與洪水作戰的人。同時子孫也為喜悅解憂之神。子孫持世，乃是洪水退卻皆大歡喜的信息。但是子孫休囚，元神兄弟寅木月破，不能剋制官鬼，洪水現在很難退去。元神月破，出月不破，只有到了酉月洪水才能退去。九月八日進入酉月，因此我以酉月的第一個寅日即丙寅日（九月十六日）為洪水退去的應期。",
+      "source_anchor": "《六爻分类占验技法》第三章 水灾例三（印刷pp.47-48，〔判斷〕跨p47-48、应验段在p48，扫描本PDF第24页左叶至第25页右叶）",
+      "note": "台账未单列断语字段；本席回原书页图逐字补录〔判斷〕全段（跨页连续，含应期段）；transcription=visual（200dpi 渲染页读图，繁体照原书）"
+    }
+  },
+  "gold_supplement_count": 6,
+  "gold_outcome_swap_correction": {},
+  "scan1_verbatim_fragment": {
+    "method": "每例 master_prediction 与 outcome_record 的特征片段（标点分句整句（≥8 字）＋去空白 12 字滑动窗口全集）对该例输入卡全文本逐字子串扫描；结局片段与断语片段全 27 例零命中（硬断言）",
+    "per_case": {
+      "DS-050": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "DS-051": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "DS-052": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "DS-053": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "DS-054": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "DS-055": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "DS-056": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "DS-057": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "DS-058": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "DS-059": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "DS-060": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "DS-061": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "DS-062": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "QM-210": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "QM-211": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "QM-010": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "GSZ-091": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "GSZ-092": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "GSZ-093": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "GSZ-098": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "GSZ-099": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "GSZ-100": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "WHY-012": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "WHY-016": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "WHY-022": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "WHY-023": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "WHY-024": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      }
+    }
+  },
+  "scan_marker_selfcheck": {
+    "method": "R42 PREREG §5 内容级一级/二级标记＋字段名黑名单＋禁用键集对 27 张输入卡全字段递归扫描（构建脚本内断言道）",
+    "per_case": {
+      "DS-050": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "DS-051": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "DS-052": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "DS-053": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "DS-054": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "DS-055": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "DS-056": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "DS-057": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "DS-058": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "DS-059": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "DS-060": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "DS-061": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "DS-062": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "QM-210": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "QM-211": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "QM-010": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "GSZ-091": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "GSZ-092": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "GSZ-093": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "GSZ-098": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "GSZ-099": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "GSZ-100": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "WHY-012": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "WHY-016": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "WHY-022": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "WHY-023": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "WHY-024": {
+        "content_hits": [],
+        "fieldname_hits": []
+      }
+    },
+    "total_hits": 0
+  },
+  "scan_reread_selfcheck": {
+    "method": "落盘后逐卡回读：对盘上 27 卡重行片段扫描＋标记扫描＋禁用键扫描＋字段白名单核，全过",
+    "per_case": {
+      "DS-050": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "DS-051": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "DS-052": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "DS-053": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "DS-054": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "DS-055": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "DS-056": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "DS-057": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "DS-058": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "DS-059": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "DS-060": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "DS-061": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "DS-062": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "QM-210": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "QM-211": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "QM-010": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "GSZ-091": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "GSZ-092": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "GSZ-093": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "GSZ-098": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "GSZ-099": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "GSZ-100": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "WHY-012": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "WHY-016": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "WHY-022": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "WHY-023": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "WHY-024": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      }
+    }
+  },
+  "scan2_independent_rescan": "由独立复扫脚本 scan_holdout28_r83.py 执行，结果另行登记于封存日志",
+  "scan3_host_rescan": "主持验封道，非本席执行——留位",
+  "gold_sha256_hashlib": "e985d5d1552a8583e22297e4e9ee08cc47c3fb797056ec1f8819489d481e3675",
+  "gold_bytes": 42736,
+  "card_bytes": {
+    "DS-050": 1059,
+    "DS-051": 1043,
+    "DS-052": 1049,
+    "DS-053": 1081,
+    "DS-054": 1044,
+    "DS-055": 1197,
+    "DS-056": 1068,
+    "DS-057": 968,
+    "DS-058": 1088,
+    "DS-059": 1010,
+    "DS-060": 1088,
+    "DS-061": 1013,
+    "DS-062": 994,
+    "QM-210": 4503,
+    "QM-211": 4491,
+    "QM-010": 2549,
+    "GSZ-091": 1255,
+    "GSZ-092": 1296,
+    "GSZ-093": 1292,
+    "GSZ-098": 1310,
+    "GSZ-099": 1214,
+    "GSZ-100": 1239,
+    "WHY-012": 1167,
+    "WHY-016": 1216,
+    "WHY-022": 1220,
+    "WHY-023": 1280,
+    "WHY-024": 1240
+  },
+  "card_bytes_total": 38974,
+  "kb_snapshot": {
+    "dir": "runs/round83/kb-snapshot-holdout28/",
+    "excluded_non_snapshot_files": [
+      "METHOD-DISPOSAL-r81rev1-r82.md",
+      "METHOD-INTEGRATION-r78.md",
+      "METHOD-INTEGRATION-r80.md",
+      "METHOD-INTEGRATION-r81.md",
+      "METHOD-INTEGRATION-r82.md",
+      "METHOD-INTEGRATION-r83.md"
+    ],
+    "file_count": 21,
+    "sha256_list": "runs/round83/kb-snapshot-holdout28-sha256.txt",
+    "sha256_list_sha256": "1fee120a5d242cbea5c014e2d0a317fe486d2937ca4869ea85ceb8bbd24fe77a",
+    "files": [
+      "SKILL.md",
+      "VALIDATION.md",
+      "VERIFY-LOG.txt",
+      "references/MANIFEST.md",
+      "references/PROTOCOL.md",
+      "references/README.md",
+      "references/calibration.md",
+      "references/chinese-bazi-ziwei.md",
+      "references/chinese-cezi.md",
+      "references/chinese-liuren.md",
+      "references/chinese-liuyao-meihua.md",
+      "references/chinese-mengzhan.md",
+      "references/chinese-qimen.md",
+      "references/chinese-yijing.md",
+      "references/chinese-ziwei.md",
+      "references/lifekline-method.md",
+      "references/western-astro-numerology-runes.md",
+      "references/western-tarot.md",
+      "tools/cast_iching.py",
+      "tools/draw_runes.py",
+      "tools/draw_tarot.py"
+    ],
+    "calibration_section11_title": [
+      "## 十一、奇门用神落宫定性复核与应期取径明示核（R83 干预 R83-REV1，奇门段别机制，现行）"
+    ],
+    "calibration_sha256": "f84294e6e437d34bedf89c2820ddcab3a76684d3f7a91ff3e2f12a037336e53e",
+    "skill_sha256": "f311e7aa8f70771da767b13d0f7da03367c414529550263b2095c157b5f63234",
+    "contains_calibration_sections_8_10_11_and_skill_pointer_s": true,
+    "diff_vs_round83_platform_snapshot": [
+      "SKILL.md",
+      "references/calibration.md"
+    ]
+  },
+  "outputs_written": [
+    "holdout28/inputs/DS-050.json",
+    "holdout28/inputs/DS-051.json",
+    "holdout28/inputs/DS-052.json",
+    "holdout28/inputs/DS-053.json",
+    "holdout28/inputs/DS-054.json",
+    "holdout28/inputs/DS-055.json",
+    "holdout28/inputs/DS-056.json",
+    "holdout28/inputs/DS-057.json",
+    "holdout28/inputs/DS-058.json",
+    "holdout28/inputs/DS-059.json",
+    "holdout28/inputs/DS-060.json",
+    "holdout28/inputs/DS-061.json",
+    "holdout28/inputs/DS-062.json",
+    "holdout28/inputs/QM-210.json",
+    "holdout28/inputs/QM-211.json",
+    "holdout28/inputs/QM-010.json",
+    "holdout28/inputs/GSZ-091.json",
+    "holdout28/inputs/GSZ-092.json",
+    "holdout28/inputs/GSZ-093.json",
+    "holdout28/inputs/GSZ-098.json",
+    "holdout28/inputs/GSZ-099.json",
+    "holdout28/inputs/GSZ-100.json",
+    "holdout28/inputs/WHY-012.json",
+    "holdout28/inputs/WHY-016.json",
+    "holdout28/inputs/WHY-022.json",
+    "holdout28/inputs/WHY-023.json",
+    "holdout28/inputs/WHY-024.json",
+    "holdout28/test_gold.jsonl"
+  ]
+}

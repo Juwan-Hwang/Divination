@@ -1,0 +1,42 @@
+neg_doc round 83 n_total 30 n_neg 25 list_len 25
+final-scores top-level keys: ['analysis_r83', 'ours_axis2', 'ours_sub']
+SECTION analysis_r83 {"round": 83, "prereg_source": "runs/round83/PREREG.md s.1 (platform lines and attribution guardrails)", "arbitration_rule": "Per analyze_r39.py merge_views code rule, when |X-Y|>=3 the arbitration record replaces the double-view mean. Applied per judging/arbitration-scores.jsonl when disputes exist.", "headline": {"all": {"n": 487, "pair_diff": -1.226, "SE": 0.103, "ours_mean": 3.436, "master_mean": 4.662, "W": 135, "T": 24, "L": 328, "W/T/L": "135/24/328"}, "low_contamination": {"n": 378, "pair_diff": -1.803, "SE": 0.101, "ours_mean": 3.088, "master_mean": 4.891, "W": 67, "T": 17, "L": 294, "W/T/L": "67/17/294"}, "ours_pass_ge4": 249, "n": 487}, "families": {"liuyao_dev8_c_segment": {"n": 246, "pair_diff": -1.834, "SE": 0.126, "ours_mean": 2.997, "master_mean": 4.831, "W": 47, "T": 9, "L": 190, "W/T/L": "47/9/190"}, "liuyao_all": {"n": 309, "pair_diff": -1.87, "SE": 0.112, "ours_mean": 2.999, "master_mean": 4.869, "W": 56, "T": 13, "L": 240, "W/T/L": "56/13/240"}, "liuyao_zh": {"n": 16, "pair_diff": -1.797, "SE": 0.386, "ours_mean": 3.031, "master_mean": 4.828, "W": 1, "T": 1, "L": 14, "W/T/L": "1/1/14"}, "liuyao_combined": {"n": 325, "pair_diff": -1.866, "SE": 0.108, "ours_mean": 3.001, "master_mean": 4.867, "W": 57, "T": 14, "L": 254, "W/T/L": "57/14/254"}, "liuren_dev8": {"n": 18, "pair_diff": -2.194, "SE": 0.517, "ours_mean": 3.111, "master_mean": 5.306, "W": 2, "T": 1, "L": 15, "W/T/L": "2/1/15"}, "liuren_lr3_new": {"n": 12, "pair_diff": -1.333, "SE": 0.475, "ours_mean": 2.708, "master_mean": 4.042, "W": 2, "T": 0, "L": 10, "W/T/L": "2/0/10"}, "liuren_merged": {"n": 30, "pair_diff": -1.85, "SE": 0.366, "ours_mean": 2.95, "master_mean": 4.8, "W": 4, "T": 1, "L": 25, "W/T/L": "4/1/25"}, "liuren_en": {"n": 25, "pair_diff": -1.94, "SE": 0.424, "ours_mean": 2.84, "master_mean": 4.78, "W": 3, "T": 1, "L": 21, "W/T/L": "3/1/21"}, "liuren_zh": {"n": 5, "pair_diff": -1.4, "SE": 0.625, "ours_mean": 3.5, "master_mean": 4.9, "W": 1, "T": 0, "L": 4, "W/T/L": "1/0/4"}, "bazi_all": {"n": 29, "pair_diff": -0.009, "SE": 0.323, "ours_mean": 4.491, "master_mean": 4.5, "W": 15, "T": 1, "L": 13, "W/T/L": "15/1/13"}, "bazi_natal": {"n": 26, "pair_diff": 0.587, "SE": 0.4, "ours_mean": 4.596, "master_mean": 4.01, "W": 14, "T": 2, "L": 10, "W/T/L": "14/2/10"}, "horary": {"n": 25, "pair_diff": -0.46, "SE": 0.299, "ours_mean": 4.62, "master_mean": 5.08, "W": 10, "T": 2, "L": 13, "W/T/L": "10/2/13"}, "meihua_en": {"n": 8, "pair_diff": -1.594, "SE": 0.727, "ours_mean": 4.094, "master_mean": 5.688, "W": 1, "T": 1, "L": 6, "W/T/L": "1/1/6"}, "meihua_zh": {"n": 3, "pair_diff": -1.167, "SE": 1.424, "ours_mean": 3.5, "master_mean": 4.667, "W": 1, "T": 1, "L": 1, "W/T/L": "1/1/1"}, "meihua_merged": {"n": 11, "pair_diff": -1.477, "SE": 0.619, "ours_mean": 3.932, "master_mean": 5.409, "W": 2, "T": 2, "L": 7, "W/T/L": "2/2/7"}, "cezi_dev": {"n": 1, "pair_diff": 0.25, "SE": 0.0, "ours_mean": 4.75, "master_mean": 4.5, "W": 1, "T": 0, "L": 0, "W/T/L": "1/0/0"}}, "per_tradition_al
+consistency bad: []
+SEG dev8 n=15 sum=-41.50 mean=-2.767 median=-2.25 ids=['LR2-013', 'LR2-014', 'LR2-015', 'LR2-016', 'LR2-017', 'LR2-018', 'LR2-019', 'LR2-021', 'LR2-022', 'LR2-023', 'LR2-024', 'OC-026', 'OC-027', 'OC-029', 'OC-030']
+SEG LR3 n=10 sum=-18.75 mean=-1.875 median=-1.88 ids=['LR3-002', 'LR3-006', 'LR3-008', 'LR3-101', 'LR3-104', 'LR3-107', 'LR3-110', 'LR3-112', 'LR3-114', 'LR3-116']
+SEG ALL n=25 sum=-60.25 mean=-2.410 median=-2.25 ids=['LR2-013', 'LR2-014', 'LR2-015', 'LR2-016', 'LR2-017', 'LR2-018', 'LR2-019', 'LR2-021', 'LR2-022', 'LR2-023', 'LR2-024', 'LR3-002', 'LR3-006', 'LR3-008', 'LR3-101', 'LR3-104', 'LR3-107', 'LR3-110', 'LR3-112', 'LR3-114', 'LR3-116', 'OC-026', 'OC-027', 'OC-029', 'OC-030']
+CODING dev8 n=15 dist={'A': 2, 'C': 1, 'D': 3, 'E': 5, 'W': 4} W_interface 4=26.7% (SE 11.4pp) W_hardcore 0=0.0% (SE 0.0pp)
+CODING LR3 n=10 dist={'A': 2, 'C': 2, 'D': 1, 'E': 3, 'H': 1, 'W': 1} W_interface 1=10.0% (SE 9.5pp) W_hardcore 0=0.0% (SE 0.0pp)
+CODING ALL n=25 dist={'A': 4, 'C': 3, 'D': 4, 'E': 8, 'H': 1, 'W': 5} W_interface 5=20.0% (SE 8.0pp) W_hardcore 0=0.0% (SE 0.0pp)
+TIMING dev8 D_main=3 ids=['LR2-013', 'LR2-016', 'LR2-018']
+TIMING LR3 D_main=1 ids=['LR3-008']
+TIMING ALL D_main=4 ids=['LR2-013', 'LR2-016', 'LR2-018', 'LR3-008']
+PROV LR2-013 | dev8 | '《大六壬占验指南》·章奏门·沈云生被参劾占回奏吉凶' | prov_keys=['book']
+PROV LR2-014 | dev8 | '《大六壬占验指南》·公讼门·在京偶占一课' | prov_keys=['book']
+PROV LR2-015 | dev8 | '《大六壬占验指南》·公讼门·冯允升被逮占出狱' | prov_keys=['book']
+PROV LR2-016 | dev8 | '《大六壬占验指南》·公讼门·陈秋桃为宗藩建言被逮占出狱' | prov_keys=['book']
+PROV LR2-017 | dev8 | '《大六壬占验指南》·公讼门·戚司宗失机定重辟八载占吉凶' | prov_keys=['book']
+PROV LR2-018 | dev8 | '《大六壬占验指南》·公讼门·吴振缨因贼焚凤陵被逮占' | prov_keys=['book']
+PROV LR2-019 | dev8 | '《大六壬占验指南》·兵斗门·田百原奉命勤王占吉凶' | prov_keys=['book']
+PROV LR2-021 | dev8 | '《大六壬占验指南》·行人门·倪子玄占女何日到京' | prov_keys=['book']
+PROV LR2-022 | dev8 | '《大六壬占验指南》·疾病门·张奉初为弟观初占病' | prov_keys=['book']
+PROV LR2-023 | dev8 | '《大六壬占验指南》·疾病门·张澹宁占病' | prov_keys=['book']
+PROV LR2-024 | dev8 | '《大六壬占验指南》·疾病门·卢承山占病' | prov_keys=['book']
+PROV LR3-002 | LR3 | '《大六壬占验指南》·仕宦门·占总镇奉命出师' | prov_keys=['book']
+PROV LR3-006 | LR3 | '《大六壬占验指南》·仕宦门·任台垣占仕途' | prov_keys=['book']
+PROV LR3-008 | LR3 | '《大六壬占验指南》·仕宦门·占功名' | prov_keys=['book']
+PROV LR3-101 | LR3 | '《大六壬占验指南》·会试门·阮实夫代刘若宜占会试' | prov_keys=['book']
+PROV LR3-104 | LR3 | '《大六壬占验指南》·章奏门·王旋官占上疏' | prov_keys=['book']
+PROV LR3-107 | LR3 | '《大六壬占验指南》·公讼门·寓中偶占一课' | prov_keys=['book']
+PROV LR3-110 | LR3 | '《大六壬占验指南》·走失门·王怀荫占失马' | prov_keys=['book']
+PROV LR3-112 | LR3 | '《大六壬占验指南》·疾病门·刘一纯占病' | prov_keys=['book']
+PROV LR3-114 | LR3 | '《大六壬占验指南》·应候门·僧敏若夜闻鸦鸣占' | prov_keys=['book']
+PROV LR3-116 | LR3 | '《大六壬占验指南》·射覆门·范玄同袖帨射覆' | prov_keys=['book']
+PROV OC-026 | dev8 | '《大六壬占验指南》第57课' | prov_keys=['book']
+PROV OC-027 | dev8 | '《大六壬占验指南》第58课' | prov_keys=['book']
+PROV OC-029 | dev8 | '《大六壬占验指南》第60课' | prov_keys=['book']
+PROV OC-030 | dev8 | '《大六壬占验指南》第64课' | prov_keys=['book']
+FAM ALL {'guide': 25}
+FAM dev8 {'guide': 15}
+FAM LR3 {'guide': 10}
+coding missing: []
