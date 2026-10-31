@@ -1,0 +1,64 @@
+final-scores top keys: ['ours_axis2', 'ours_sub', 'analysis_r82']
+analysis_r82 {"round": 82, "prereg_source": "runs/round82/PREREG.md s.1 (platform lines and attribution guardrails)", "arbitration_rule": "Per analyze_r39.py merge_views code rule, when |X-Y|>=3 the arbitration record replaces the double-view mean. Applied per judging/arbitration-scores.jsonl when disputes exist.", "headline": {"all": {"n": 487, "pair_diff": -1.053, "SE": 0.105, "ours_mean": 3.609, "master_mean": 4.662, "W": 146, "T": 31, "L": 310, "W/T/L": "146/31/310"}, "low_contamination": {"n": 378, "pair_diff": -1.607, "SE": 0.105, "ours_mean": 3.284, "master_mean": 4.891, "W": 76, "T": 26, "L": 276, "W/T/L": "76/26/276"}, "ours_pass_ge4": 277, "n": 487}, "families": {"liuyao_dev8_c_segment": {"n": 246, "pair_diff": -1.689, "SE": 0.133, "ours_mean": 3.142, "master_mean": 4.831, "W": 52, "T": 16, "L": 178, "W/T/L": "52/16/178"}, "liuyao_all": {"n": 309, "pair_diff": -1.667, "SE": 0.117, "ours_mean": 3.202, "master_mean": 4.869, "W": 61, "T": 24, "L": 224, "W/T/L": "61/24/224"}, "liuyao_zh": {"n": 16, "pair_diff": -1.328, "SE": 0.451, "ours_mean": 3.5, "master_mean": 4.828, "W": 4, "T": 0, "L": 12, "W/T/L": "4/0/12"}, "liuyao_combined": {"n": 325, "pair_diff": -1.65, "SE": 0.114, "ours_mean": 3.217, "master_mean": 4.867, "W": 65, "T": 24, "L": 236, "W/T/L": "65/24/236"}, "liuren_dev8": {"n": 18, "pair_diff": -2.014, "SE": 0.521, "ours_mean": 3.292, "master_mean": 5.306, "W": 3, "T": 1, "L": 14, "W/T/L": "3/1/14"}, "liuren_lr3_new": {"n": 12, "pair_diff": -1.396, "SE": 0.529, "ours_mean": 2.646, "master_mean": 4.042, "W": 2, "T": 0, "L": 10, "W/T/L": "2/0/10"}, "liuren_merged": {"n": 30, "pair_diff": -1.767, "SE": 0.375, "ours_mean": 3.033, "master_mean": 4.8, "W": 5, "T": 1, "L": 24, "W/T/L": "5/1/24"}, "liuren_en": {"n": 25, "pair_diff": -1.82, "SE": 0.431, "ours_mean": 2.96, "master_mean": 4.78, "W": 4, "T": 1, "L": 20, "W/T/L": "4/1/20"}, "liuren_zh": {"n": 5, "pair_diff": -1.5, "SE": 0.733, "ours_mean": 3.4, "master_mean": 4.9, "W": 1, "T": 0, "L": 4, "W/T/L": "1/0/4"}, "
+pair_diff self-consistent: True ours vs axis2: True ours vs sub.total: True
+dev8 n_neg 14 sum -39.0 mean -2.7857 median -2.25
+LR3 n_neg 10 sum -19.0 mean -1.9 median -1.625
+merged n_neg 24 sum -58.0 mean -2.4167 median -2.25
+W44 rows 24 W43 rows 25
+OC-029 W44: None W43: {'seg': 'dev8', 'label': 'E', 'note': 'A secondary candidate MW/MIX', 'book': '《大六壬占验指南》第60课'}
+LR3-104 W44: None W43: None
+LR3-010 W44: None W43: None
+LR-001 W44: None W43: {'seg': 'dev8', 'label': 'UNC', 'note': 'no prior coding in h16 s2.1 or prior-round table; not coded this round', 'book': '—（待核）'}
+LR2-020 W44: {'seg': 'dev8', 'label': 'UNC', 'note': 'no prior coding in h16 s2.1 or prior-round table; not coded this round', 'book': '《大六壬占验指南》·出行门·徐盟鹿携妻子远行占'} W43: None
+h16 ctx OC-029 : W↔D/E 接口 | | LR2-024 | −5.25 | C＊ | — | 缺传面在断语实际用法上承担方向否决，与自述「只降权」含混 | | OC-026 | −3.00 | E | — | 三合官局赋首权成就正号，事件线错位（科第 vs 武授），同号排除附注 | | OC-027 | −2.25 | W＊（名，接口） | — | 课格名「无禄无路定主向为凶」压喜面定局；W↔C 接口 | | OC-029 | −2.00 | E | 次标：MW／MIX | 最重面（母丧）已入列赋首权且合，残余在次级事件线漏读 | | OC-030 | −2.50 | A | 主标：SF／SEAT | 次问主导面（吏书缺本身）从未作为独立候选面入列 |  #### LR3 族（负例 11 例；族段配对差 n＝12，−1.708，SE 0.360）  | id | 配对差 | 主标（照引） | A 涉 | 给据（de
+h16 ctx OC-029 : .3% | 4＝36.4% |  （W 双报与形态分表以 dev40 件 §2 为准：合并附读 W 接口 6/26＝23.1%、硬核 1/26＝3.8%，不替代分族数。）  A 层 dev 续行（承 DIAG-LR-A-layer §2／dev40 §5.1）：A 主标 4/26＝15.4%（SE 7.1pp），面类型 MW 1／SF 2／QX 1、成因 SEAT 4/4；A 次标／接口 4 例（OC-029 MW／MIX、LR3-002 GZ／SEAT、LR3-101 SS／SEAT、LR2-022 W↔A 接口未定面）；A 涉例合计 8/26＝30.8%（SE 9.1pp）。面类型在 dev 侧同样无单类聚合（最大 SF 2/4，n＝4 只作描述性登记）。  dev 应期面：D 主标 4/26（dev8 3＋LR3 1），形态为「主线不误、档位错位」型，与新鲜侧 D 主标 0 的形态对照见 §3；
+h16 ctx OC-029 : 条件在此登记为对照事实（两例成因判 MIX／SEAT 的逐例依据见 §1.1，不由此对照改判）。 4. 本面结论只及输入层：残损项解释 A 成因中的 MIX 成分与作断基线降档，不解释取用／权重步的席位侧分叉本身。  dev 侧成色附记（不与新鲜侧合并）：inputs-dev12 全课式基线，26 例 basis 均有三传／课名／类神可枚举、干支级残盘 0 例（承 dev40 §0）；结构残损仅 OC-029／OC-030 两卡无四课字段（承 DIAG-LR-A-layer §2.1 附记）。  ---  ## §3 四面构成对照（两侧分别陈述）  | 面 | 新鲜侧（负例 n＝18） | dev 侧（负例 n＝26，照引） | 对照登记（不合并、不作差值断言） | |---|---|---|---| | 取用面主标 | 12＝66.7%（A 10／B 1／C 1） | 7（A 4／C 3）＝26.9
+h16 ctx LR3-104 : 显式自述，无含混 | | LR3-006 | −3.50 | C＊ | — | 官职本体不入三传，缺传实际承担升迁据否决，与自述降档含混 | | LR3-008 | −2.50 | D | — | 铸印面定迁动正向、主线同向，残余主落应期坐标 | | LR3-101 | −2.50 | W＊（面，接口） | 次标候选：SS／SEAT | 朱雀唱名面是否入列不能无歧义判定，W↔A/C 接口 | | LR3-104 | −1.50 | E | — | 终局同号，残余在责让程度等具体度，同号排除附注 | | LR3-107 | −2.00 | A | 主标：SF／SEAT | 以三传阴将链自限品性／财物一层，身份与官灾面从未进入候选集 | | LR3-110 | −0.75 | E | — | 寻回主线不误，残余在寻获地点等具体度 | | LR3-112 | −0.75 | H | — | 结局文本未载所问后
+LR2-013 | 《大六壬占验指南》·章奏门·沈云生被参劾占回奏吉凶
+LR2-014 | 《大六壬占验指南》·公讼门·在京偶占一课
+LR2-015 | 《大六壬占验指南》·公讼门·冯允升被逮占出狱
+LR2-016 | 《大六壬占验指南》·公讼门·陈秋桃为宗藩建言被逮占出狱
+LR2-017 | 《大六壬占验指南》·公讼门·戚司宗失机定重辟八载占吉凶
+LR2-018 | 《大六壬占验指南》·公讼门·吴振缨因贼焚凤陵被逮占
+LR2-019 | 《大六壬占验指南》·兵斗门·田百原奉命勤王占吉凶
+LR2-021 | 《大六壬占验指南》·行人门·倪子玄占女何日到京
+LR2-023 | 《大六壬占验指南》·疾病门·张澹宁占病
+LR2-024 | 《大六壬占验指南》·疾病门·卢承山占病
+LR3-002 | 《大六壬占验指南》·仕宦门·占总镇奉命出师
+LR3-006 | 《大六壬占验指南》·仕宦门·任台垣占仕途
+LR3-008 | 《大六壬占验指南》·仕宦门·占功名
+LR3-101 | 《大六壬占验指南》·会试门·阮实夫代刘若宜占会试
+LR3-104 | 《大六壬占验指南》·章奏门·王旋官占上疏
+LR3-107 | 《大六壬占验指南》·公讼门·寓中偶占一课
+LR3-110 | 《大六壬占验指南》·走失门·王怀荫占失马
+LR3-112 | 《大六壬占验指南》·疾病门·刘一纯占病
+LR3-114 | 《大六壬占验指南》·应候门·僧敏若夜闻鸦鸣占
+LR3-116 | 《大六壬占验指南》·射覆门·范玄同袖帨射覆
+OC-026 | 《大六壬占验指南》第57课
+OC-027 | 《大六壬占验指南》第58课
+OC-029 | 《大六壬占验指南》第60课
+OC-030 | 《大六壬占验指南》第64课
+LABEL LR2-013 dev8 -2.25 D | — | src W44
+LABEL LR2-014 dev8 -1.25 W* | W-face, interface; W<->C interface | src W44
+LABEL LR2-015 dev8 -6.0 E | same-sign exclusion; W note only | src W44
+LABEL LR2-016 dev8 -0.75 D | W<->magnitude interface note only | src W44
+LABEL LR2-017 dev8 -5.25 E | — | src W44
+LABEL LR2-018 dev8 -0.75 D | — | src W44
+LABEL LR2-019 dev8 -1.75 E | — | src W44
+LABEL LR2-021 dev8 -1.75 A* | MW/SEAT; A<->B interface | src W44
+LABEL LR2-023 dev8 -5.0 W* | W-face, interface; W<->D/E interface | src W44
+LABEL LR2-024 dev8 -5.5 C* | — | src W44
+LABEL LR3-002 LR3 -1.0 E | A secondary candidate GZ/SEAT | src W44
+LABEL LR3-006 LR3 -3.0 C* | — | src W44
+LABEL LR3-008 LR3 -4.5 D | — | src W44
+LABEL LR3-101 LR3 -2.25 W* | W-face, interface; W<->A/C interface | src W44
+LABEL LR3-104 LR3 -0.25 NONE |  | src none
+LABEL LR3-107 LR3 -2.25 A | SF/SEAT | src W44
+LABEL LR3-110 LR3 -0.25 E | — | src W44
+LABEL LR3-112 LR3 -0.5 H | W not measurable | src W44
+LABEL LR3-114 LR3 -1.0 C* | — | src W44
+LABEL LR3-116 LR3 -4.0 A | QX/SEAT | src W44
+LABEL OC-026 dev8 -1.25 E | same-sign exclusion note | src W44
+LABEL OC-027 dev8 -2.25 W* | W-name, interface; W<->C interface | src W44
+LABEL OC-029 dev8 -2.75 E | A secondary candidate MW/MIX | src W43
+LABEL OC-030 dev8 -2.5 A | SF/SEAT | src W44

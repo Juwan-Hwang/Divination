@@ -1,0 +1,25 @@
+{
+  "id": "WHY-010",
+  "tradition": "liuyao",
+  "subject": "求测者（台账 subject 为空、原书未具名）",
+  "context": "占时：午月戊寅日；《六爻分类占验技法》分类占验例",
+  "question": "测本日天气",
+  "setting": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第一章「五行」例二（印刷p21）",
+  "provenance": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第一章「五行」例二（印刷p21）；底本为用户经学校图书馆提供之扫描本，redistributable=false",
+  "redistributable": false,
+  "license_status": "现代版权文本（扫描本），内部研究用",
+  "anchors": {
+    "asked_at": "午月戊寅日",
+    "ben_gua": "雷风恒",
+    "bian_gua": "雷天大壮",
+    "moving_lines": "初爻妻财丑土×独发",
+    "chart_lines_top_to_bottom": [
+      "朱雀 妻财戌土 应",
+      "青龙 官鬼申金",
+      "玄武 子孙午火",
+      "白虎 官鬼酉金 世",
+      "螣蛇 父母亥水",
+      "勾陈 妻财丑土×"
+    ]
+  }
+}

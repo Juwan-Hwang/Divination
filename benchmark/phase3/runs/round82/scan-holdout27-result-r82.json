@@ -1,0 +1,260 @@
+{
+  "set": "holdout27",
+  "scan": "independent rescan (seat, second pass)",
+  "pass": true,
+  "failures": [],
+  "totals": {
+    "marker": 0,
+    "fieldname": 0,
+    "banned": 0,
+    "oc_frag": 0,
+    "mp_frag": 0,
+    "short_frag_info": 0
+  },
+  "per_case": {
+    "DS-040": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "DS-041": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "DS-042": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "DS-043": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "DS-044": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "DS-045": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "DS-046": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "DS-048": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "DS-049": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "QM-044": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "QM-045": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "QM-046": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "QM-047": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "QM-048": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "QM-049": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "QM-052": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "QM-055": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "QM-058": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "GSZ-079": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "GSZ-081": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "GSZ-084": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "GSZ-086": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "GSZ-088": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "WHY-008": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "WHY-009": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "WHY-010": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "WHY-011": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    }
+  },
+  "note": "short_fragment_info_hits 为附加短片段核（断语 ≥8 字连续子串），仅信息登记"
+}
