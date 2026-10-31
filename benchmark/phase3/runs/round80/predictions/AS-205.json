@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-205",
+ "prediction_text": "断：病者将不治而死（live or die 之问，断为死）。死象成链：上升被一颗兼为八宫主之星以体临（corporal presence）所伤；六宫座固定受克、六宫主居固定土象忧郁座；日光（temporal light）与六宫主土星在固定座成完善对冲；月亮近龙尾（Cauda）且落上升受克。病性为土性忧郁沉结之固定久病、至此已成死势。应期（月档，问终局以月档表达不落单日）：窗口在本次病程内近期量级，年月先定为1645年当夏病程内，不径报某日。",
+ "basis": "tradition: horary（卡面 tradition 字段逐字照录）。\nsystems_used: horary（Lilly古典卜卦占星，病占生死）单法。\n依据：上升受八宫主兼任之星体临所伤、太阳对冲六宫主土星固定座、月亮近南交点落上升受克、六宫固定受克且其主居固定土象——四项死证合链。方向对决：死路定性栏满列，生路定性栏空（无命主得救接纳链），取死。卡面上升星座字形OCR损坏未断言，不碍死证链。",
+ "confidence": 0.85,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "Main call (the conference panel's consensus): Hillary Clinton wins the 2016 US presidential election, defeating Donald Trump on 8 November 2016. The panel majority reads the charts for the establishment candidate; recorded as the panel's collective prediction. Timing fixed by the card: 8 Nov 2016.",
+ "basis": "Card carries no tradition field; the subject as framed on the card is the ISAR conference election panel's forecast, judged as a mundane-astrology panel call.\nsystems_used: Western mundane astrology (conference panel forecast)\nDirection duel: pro-Clinton line (qualitative) — the card frames a forecasting panel at a mainstream conference with polls also favouring Clinton; panel consensus formation follows the establishment-favoured reading, and no dissenting signature is given on the card; pro-Trump line (qualitative) — no chart material for an upset is supplied on this card (contrast the companion card that singles out one astrologer's contrary record), so the upset line stays empty at the qualitative level for the panel as a body. Verdict locked to the panel consensus: Clinton. Confidence held mid-range because a panel consensus is a weaker instrument than a single chart judgment.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

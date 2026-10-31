@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-007",
+ "prediction_text": "断：Waller一方获胜，Hopton一方被击败（1644年3月29日Alresford／Cheriton之战为Waller胜）。Waller方：月亮擢升与木星同在、太阳（其资财／助军之主）落十宫且正居其擢升度数19°白羊，主兵强助足；Hopton方：七宫主土星在日光下（sub radiis）、居落、无任何相位、游离（peregrine），九宫内仅火星与南交点主其无后援接济。应期（日档，问当日会战）：即当日（3月29日）交战当日分胜负，无拖延窗口。",
+ "basis": "tradition: horary（卡面 tradition 字段逐字照录）。\nsystems_used: horary（Lilly古典卜卦占星）单法。\n依据：上升与月亮、木星、金星归Waller方，月亮擢升合木星之势、太阳十宫擢升正度主其方全盛；土星为Hopton指示星，日光下＋落＋无相位＋游离四重弱为败方定性链；九宫仅火星南交点主Hopton无补给。方向对决：Waller胜路定性与量级俱强，Hopton胜路定性栏空，取Waller胜。",
+ "confidence": 0.88,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

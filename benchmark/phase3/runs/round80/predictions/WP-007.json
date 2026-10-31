@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Main call: Donald Trump wins the 2016 election — and what decides it is Hillary Clinton's scandal burden: the email controversy (with the Clinton Foundation questions attached) breaks against her late and tips the outcome to Trump. The Manhattan tarot reading's deciding factor is Clinton's hidden-affairs problem resurfacing, not policy or turnout mechanics. Timing: the decision lands in the final stretch before 8 Nov 2016.",
+ "basis": "Card carries no tradition field; the card frames a tarot consultation on the election in August 2016 and names Clinton's email controversy and Foundation as live issues, judged as a tarot reading's call (Waite-tradition framing; no actual cards are printed on the card, so no card-by-card claims are made — recorded here as an input limitation lowering confidence).\nsystems_used: Tarot (Rider-Waite tradition, election reading as framed on the card)\nDirection duel: pro-Trump line (qualitative) — the card's question is double ('who wins, and what will decide it'), and the only deciding-factor material it supplies is Clinton-side scandal; a reading that surfaces hidden-affairs material on the favourite reads it as outcome-deciding, which points past her; pro-Clinton line (qualitative) — her polling lead, an atmosphere item only. Verdict locked: Trump wins, decided by the email/Foundation scandal line. Input limitation noted: the drawn cards themselves are not on the card, so the reading is reconstructed from the card's framing only and confidence is cut accordingly.",
+ "confidence": 0.45,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

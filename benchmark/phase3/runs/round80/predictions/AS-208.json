@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-208",
+ "prediction_text": "断：Prince Rupert在此战事中得不到荣誉，反被Essex一方占上风（worst Essex之问，断为Essex胜过Rupert）；Rupert后势为受制于人、名声受损而退。Rupert以十宫及其主太阳为指示星，太阳游离且居失势（detriment）、居固定座主其困守无功；Essex以金星（对宫之主）为指示星，金星与土星互容、且主宰Rupert之指示星（disposing of the Sun），又以右相临十宫头，主Essex反制其位。月亮以左相临十宫头再伤Rupert之宫。应期（月档，问战事荣辱以月计）：此后数月内其无功受挫之势即显，不落单日。",
+ "basis": "tradition: horary（卡面 tradition 字段逐字照录）。\nsystems_used: horary（Lilly古典卜卦占星）单法。\n依据：十宫主太阳为Rupert指示星，游离＋失势＋固定为弱定性；金星为Essex指示星，与土星互容、主宰太阳、右相十宫头为反制定性；月亮左相十宫头为辅证。方向对决：Essex占上风路定性栏非空，Rupert得荣路定性栏空，取Rupert无荣、Essex胜。",
+ "confidence": 0.75,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
