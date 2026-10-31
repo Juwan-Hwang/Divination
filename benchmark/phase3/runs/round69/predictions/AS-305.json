@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-305",
+ "prediction_text": "2024年美国大选：特朗普（共和党）胜选。在位民主党一方守不住，选情在秋季翻转至挑战者。终局单一方向为共和党胜，选后争议不改结果。应期：2024年11月。",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决。\nsystems_used: western-astrology（mundane 公开预测，无盘）\n卡面无附盘，依据不足；与同题他卡不互证、独立作断。",
+ "confidence": 0.38,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

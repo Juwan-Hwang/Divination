@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-005",
+ "prediction_text": "Direction: Donald Trump wins. Against the polling consensus, the Republican nominee Donald Trump defeats Hillary Clinton on 8 November 2016. The decisive signal is the panel astrologer who, when seventeen Republicans still contested the nomination, already picked Trump to take that nomination — the same against-the-field reading extends to the general election: the outsider's chart momentum overrides the frontrunner's polling lead. Timing: day-scale, decided 8 November 2016.",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决。\nsystems_used：western mundane/election astrology (single-reader contrarian line).\nLoaded faces: main question = winner 2016; distinguishing face vs the companion panel card = one panel astrologer had earlier, against a 17-candidate field, picked Trump as Republican nominee — the card singles out this reader's line as its instrument. Gate check: 'Trump wins' → chain: demonstrated against-field accuracy on this very candidate within this very cycle is the card's loaded evidence; trigger = the nominee call already landed against 17-to-1 field odds, and the general-election question is put to the same line. Confidence 0.50: single pointer class, honestly held low; polls-favour-Clinton face is loaded on the card and is answered by the contrarian instrument itself, not suppressed. R61-REV1: path 1 = reader's cycle line → verdict for 8 Nov; path 2 = election calendar; disposition: same point. Granularity: winner retained at class level; no margin/state claims.",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

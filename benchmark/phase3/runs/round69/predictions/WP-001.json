@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-001",
+ "prediction_text": "Direction: a major collective affliction — a pandemic. The 2020–2021 period holds a large-scale epidemic/pandemic event: a fast-spreading mass illness (respiratory/plague-type in character) causing very high mortality, overwhelming health systems and bringing severe social and economic disruption worldwide. Timing: year-scale window centred on 2020, beginning as the Jupiter–Saturn–Pluto conjunction perfects in early 2020 and extending through 2021.",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决。\nsystems_used：western mundane astrology.\nLoaded faces: main question = major collective affliction 2020–21; configuration face = Jupiter–Saturn–Pluto conjunction early 2020, five outer planets within ~100°, cyclical index at 21st-century low; precedent face = comparable clusters coincided with 1918, 1954, 1968, 1982 (all epidemic years per the card). Gate check: 'pandemic' item → mundane-astrology significator chain: Pluto (mass death/plague) conjunct Saturn (structure, restriction) and Jupiter (scale, spread) at the cyclical-index minimum; trigger = the card's own precedent series, in which such clusters aligned with influenza pandemics. R61-REV1 re-derivation: path 1 = conjunction exact early 2020 → onset 2020; path 2 = cyclical-index low window → 2020–21; disposition: two paths same window, retained. Granularity: 'respiratory/plague-type' kept as class-level (1 pointer, phrased as character, not a named disease).",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-004",
+ "prediction_text": "消息不实：国王并未攻下剑桥（传闻为虚）。四角皆动主事虚浮多变；土星污十宫头、火星污七宫头主军报无根；月亮陷于不喜之座且居衰宫，主谣言无实据。应期以日计：数日内即知其伪，不必等候成真。",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决。\nsystems_used: horary astrology（Lilly 古典卜卦占星，整宫/示象星法）\n角动、月衰、凶星污宫头，古典卜卦主报假。",
+ "confidence": 0.74,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

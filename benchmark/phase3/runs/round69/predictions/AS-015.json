@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-015",
+ "prediction_text": "丈夫尚活、在海上平安（其示象太阳得其位 hayz 且无凶克，主人安）。归期以月计：火土将成凶相主途中尚有一番风波/迟滞，过此相位后归，约数月内返家，非凶终局。",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决。\nsystems_used: horary astrology（Lilly 古典卜卦占星，整宫/示象星法）\n太阳无克为存活强证；火土凶相只主迟滞风波。",
+ "confidence": 0.64,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

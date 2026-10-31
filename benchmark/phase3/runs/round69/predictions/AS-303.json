@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-303",
+ "prediction_text": "所问时间范围内不会爆发第三次世界大战：大国间紧张、代理冲突与军备对峙升级可有，但全面世界大战不在近中期应期之内。此断为否定式终局，无具体应期可落，只给窗口：未来数年内维持冷对抗格局。",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决。\nsystems_used: western-astrology（mundane 公开预测，无盘）\n卡面无附盘、无起盘时刻，依据不足，置信低。",
+ "confidence": 0.3,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

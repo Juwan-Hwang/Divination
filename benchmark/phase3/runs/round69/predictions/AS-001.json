@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-001",
+ "prediction_text": "儿子不在主人家，而在母亲自己家里（或已回到母亲住处一侧）。依据：子之主星木星（五宫主）落在上升点（母亲之角宫），主其人临母之门；月亮入六合四宫主土星，主归宅。应期以日计：示象星三分已成，主数日内（约占问当旬内）即确认其在母家。",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决。\nsystems_used: horary astrology（Lilly 古典卜卦占星，整宫/示象星法）\n子星木星临上升为人在母侧之强证；月亮与四宫主成相主宅。",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

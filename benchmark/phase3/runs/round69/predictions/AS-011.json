@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-011",
+ "prediction_text": "此婚事难复活、难成。女方主星太阳与男方主星土星：土星在南角合火星居固定土相被抬高而执拗，月亮离男方示象后空亡、不再成相，主中间断线无人传光撮合。纵有旧情亦无复燃之路，终局不成。时间以月计：拖延数月后自然作罢。",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决。\nsystems_used: horary astrology（Lilly 古典卜卦占星，整宫/示象星法）\n月空亡+示象星不成相，古典主婚不成。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

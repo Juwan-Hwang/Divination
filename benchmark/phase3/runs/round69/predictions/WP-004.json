@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "Direction: Hillary Clinton wins. The forecasting panel's weight of judgement at the Costa Mesa conference points to the Democrat, Hillary Clinton, defeating Donald Trump on 8 November 2016 — the experienced, establishment candidate carried by the majority of chart readings despite an unsettled campaign sky. Timing: day-scale, decided 8 November 2016.",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决。\nsystems_used：western mundane/election astrology (panel consensus reading).\nLoaded faces: main question = winner 2016; setting face = most polls favour Clinton; source face = an international astrology conference election panel (collective professional judgement is the instrument in this card). Gate check: 'Clinton wins' → chain: panel-consensus method — where a card's instrument is a panel of practitioners, the panel's majority reading is the prediction channel; supporting pointer = polling/establishment structure loaded on the card (frontrunner with institutional backing). Confidence held at 0.55: the card loads no individual chart data (no birth times, no election chart), so the reading rests on consensus + structure only — noted as an input limitation. R61-REV1: path 1 = panel timing (October sitting, verdict for 8 Nov); path 2 = election calendar; disposition: same point. Granularity: winner item retained; no state-level or margin claims (no pointers).",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

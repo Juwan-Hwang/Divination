@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-006",
+ "prediction_text": "Direction: Yes — Britain votes to leave. In the referendum of 23 June 2016 the 'Leave' side wins and the United Kingdom votes to exit the European Union, against the February polling lead for 'Stay'. Uranus conjunct Ceres at 23° Aries on referendum day signifies a sudden severing of the nurturing union — an eruptive break with the established body. Timing: day-scale, decided 23 June 2016.",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决。\nsystems_used：western mundane astrology (UK national charts).\nLoaded faces: main question = Leave or Stay on 23 June 2016; charts face = UK 1066/1801/1922 charts available; configuration face = Uranus–Ceres conjunction at 23° Aries on referendum day (card-loaded); polling face = 'Stay' ahead with many undecided (Feb 2016). Gate check: 'Leave wins' → chain: Uranus (rupture, sudden separation) conjunct Ceres (the sustaining/nurturing body — here the EU as sustaining union) in Aries (cardinal fire, initiating break) on the day itself; trigger = the conjunction falls exactly on referendum day. Polling face answered under fact-priority: polls with 'vast numbers of not sure' are a weak fact vs a day-exact configuration; noted, not hidden. R61-REV1: path 1 = day-exact conjunction → 23 Jun 2016; path 2 = referendum calendar → same; disposition: same point. Granularity: outcome item 2 pointers (day-exact conjunction, severance symbolism) retained; no percentage claimed.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-010",
+ "prediction_text": "逃仆往西而去（月亮在飞行时与现时皆居西向星座，主向西未远改向）。可被寻回/会回来：仆之专示水星与月亮同为仆象，水星动向主其终被带回或自归。应期以日计：数日至旬内有消息或人回，不至长期流失。",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决。\nsystems_used: horary astrology（Lilly 古典卜卦占星，整宫/示象星法）\n方向以月座定西；回收以仆星未受重克断。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

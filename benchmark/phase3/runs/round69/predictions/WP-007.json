@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Direction: Donald Trump wins, and the Clinton scandals decide it. The Union Square tarot reading points to Trump taking the election on 8 November 2016; what decides it is Hillary Clinton's email controversy and the Clinton Foundation cloud — a late-breaking scandal burden that drags her campaign down in the final stretch while Trump's chaotic momentum survives its own storms. Timing: day-scale outcome on 8 November 2016, with the deciding scandal pressure peaking in the final weeks (late October) of the campaign.",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决。\nsystems_used：tarot (Waite-based street reading, as framed by the card).\nInput limitation noted: the card does not transcribe the actual cards drawn — no spread positions or card names are loaded — so the reading is made on the card's loaded faces only and confidence is held at 0.50. Loaded faces: main question = who wins and what decides it (two-part question, both parts answered); setting faces = Clinton leads August polls; her email controversy and Foundation are already public controversies (card-loaded scandal face). Gate check: 'scandal decides it' → the question's second half demands a deciding factor, and the only deciding-factor face loaded on the card is the Clinton scandal pair — chain closes on loaded faces only, no imported facts. 'Trump wins' follows from the deciding-factor direction (the burden falls on the frontrunner). R61-REV1: path 1 = campaign-arc timing (late-October peak → 8 Nov verdict); path 2 = election calendar; disposition: same verdict point, peak window retained as interval. Granularity: deciding-factor item kept at the card's own class level (email controversy / Foundation), no invented specifics.",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

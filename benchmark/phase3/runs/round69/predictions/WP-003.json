@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-003",
+ "prediction_text": "Direction: Barack Obama is re-elected. The incumbent President defeats Mitt Romney on 6 November 2012 and wins a second term. Mercury turning retrograde on election day signifies repetition and review rather than replacement — the electorate returns the sitting president — though it also warns of counting confusion and a contested-feeling count echoing 2000. Timing: day-scale, decided 6 November 2012.",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决。\nsystems_used：western mundane/election astrology.\nLoaded faces: main question = winner 2012; candidates = incumbent Obama vs presumptive nominee Romney; configuration = Mercury retrograde begins on election day (card-loaded). Gate check: 'incumbent returned' → chain: Mercury retrograde = re- (return, recount, repeat) signature applied to the election-day chart; trigger = retrograde station on the very day of voting. The counting-confusion sub-item is the same pointer's second face, kept as a caution, not a second verdict (main-core protection). R61-REV1: path 1 = station date → 6 Nov 2012; path 2 = election calendar → same; disposition: same point. Granularity: winner 2 pointers (incumbency structure, retrograde re-signature) retained; no margin claimed.",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-013",
+ "prediction_text": "工党大胜、基尔·斯塔默出任首相：工党以压倒性多数（ landslide 量级）击败执政保守党，苏纳克下台；保守党席位大幅缩水至惨败层级。应期：选举日 2024-07-04 当夜至次日凌晨见分晓，窗口即选举日，主坐标 4 July 2024。",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决。systems_used=[mundane-astrology, fact-priority]。已载面：提前大选、工党领先约二十个百分点、苏纳克 D-Day 提前离场受批评、选举落在巨蟹座太阳月份。事实优先序：二十点量级的民调差已足级支持『大胜』等级，无压制依据不降格为小胜；巨蟹月份锚点只作时令旁注、不定方向。REV1：应期初推=选举日程；复推=计票当夜节点，同指 7/4，二路同点；胜方与大胜量级为方向性主断不适用粒度降档。",
+ "confidence": 0.78,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
