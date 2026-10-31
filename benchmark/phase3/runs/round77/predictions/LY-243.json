@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-243",
+ "prediction_text": "婚難成（negative）。世官卯木雖寅月旺，然應財亥水動化戌土、兄弟丑土動於三爻、官卯自動化丑土兄弟，多動主競爭阻隔、財化墓土，定情反覆終散；應期雙層：窗口旬內，主座標亥日（財值日先有信、後破局）。置信中低。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問女家代占婚已斷；關係面男方官爻、女方財爻已斷；餘面未載。用神官卯世動化兄丑，財亥應動化戌入墓；動化方向：官化兄主競爭、財化墓主斷；反轉條件：財出墓生官方翻，未見。應期(k)日檔近事；(h)逢值亥日取中，填實沖實無據舍。門類對表婚姻首選逢值取中。二路復推：初推亥日，復推沖墓戌日核之，裁決以財先值日成信、戌為化出墓支作破局點，主座標仍亥日，二路異點已裁決留痕。粒度核：亥日指針2保留。雙閘俱全。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：三爻動變既濟 true；reserve_used false；disputed：多動但取用依卡面無爭議 false。"
+ }
+}

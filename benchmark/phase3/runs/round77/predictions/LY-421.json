@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-421",
+ "prediction_text": "官運有轉機、可望升進（positive）。世兄弟亥水四爻動化父母申金回頭生，世得生扶主自身運勢回升；官鬼未土上爻臨未月旺、官鬼丑土二爻土旺相生世鏈不絕。應期雙層：窗口月內，主座標申日（化生值日轉機見）。置信中低。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問官運已斷；餘面未載。用神官未臨月建，世亥動化申回頭生。動化方向：世化回頭生向轉機；反轉條件：官受沖方廢，未土逢沖在未日非本期。應期(k)月檔官運兼日信；(h)逢值申日取中。對表仕宦門類首選世化生值日取中。二路復推：初推申日，復推未日官值日核之，未為官本位作次候選，主座標申日。粒度核：申日指針2保留；升之等級指針不足以『可望升進』等級帶出之。雙閘俱全。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：一爻動變既濟 true；reserve_used false；disputed false。"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-425",
+ "prediction_text": "候選可得缺（positive）。世妻財辰土三爻動化官鬼申金，財化官主以財動求官得缺之象；初爻父母子水動化妻財辰土主文書引動，上爻兄弟卯木動化父母子水。應期以月檔論：窗口數月內，主座標申月（化官值月補缺）。置信中。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問候選何時得缺已斷；餘面未載。用神官申由世財辰動化出。動化方向：財化官向得缺；反轉條件：化官入空方虛，申不空（空亡卡面未標、甲寅旬空子丑，申不空已核）。應期(k)月檔候補仕途先月後不落日；(h)值月申月取中，辰月世化支作次候選。對表仕宦門類首選化官值月取中。二路復推：初推申月，復推申日逢值核之尺度不合本題月檔舍，主座標申月。粒度核：申月指針2保留。雙閘俱全。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：三爻動變蹇 true；reserve_used false；disputed false。"
+ }
+}

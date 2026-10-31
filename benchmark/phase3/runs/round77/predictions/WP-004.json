@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "Direction: Hillary Clinton wins the 2016 US presidential election — this is the conference panel's collective call. The assembled astrologers at the Costa Mesa ISAR election panel, weighing the candidates' charts against the 8 November 2016 election, land on Clinton as the winner (the panel-consensus reading, consistent with the polling lead she held through October). Timing: 8 November 2016 (day-scale, single-day ballot). Confidence tier: direction medium (panel consensus, not unanimity — a minority dissent for Trump existed on such panels and is noted, not hidden).",
+ "basis": "tradition: no tradition field is labelled on the card; the card presents an astrology-conference election panel report (October 2016), decided under Western electional/mundane astrology as a panel-consensus reading\nsystems_used: Western mundane astrology (panel consensus reading; polls as factual constraint under fact-priority (e))\nLoaded faces: main face = who wins 2016; forum face = an international astrology conference election-forecasting panel (the reading asked for is the panel's); field face = Clinton vs Trump, most polls favour Clinton. Item check: Clinton win → referent chain lands on the panel-consensus face; triggers = (1) the panel format itself — the card's provenance is the panel's collective judgement, and panel majorities on this card's facts follow the structurally favoured candidate; (2) fact-priority (e): the card's stated polling lead constrains the reading toward Clinton absent a card-given contrary configuration (none is given). Minority-dissent note is a confidence adjustment, not a second main call (single-final-direction rule applied by analogy). Object check (f): bearer = the panel's forecast, applier = Clinton's candidacy, as framed. Timing (k): day scale, card-given election date; (h) routes: election date (taken), conference date October (process, discarded), polling trend (constraint, not coordinate). \n(n) Two-route re-derivation: route 1 = panel-consensus structure → Clinton; route 2 = fact-constraint re-check (polls + no contrary configuration on card) → same; routes agree, retained at medium confidence. Grain check: 'panel consensus not unanimity' is stated in the prediction text itself; no vote count stated (0 pointers).",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

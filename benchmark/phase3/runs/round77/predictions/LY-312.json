@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-312",
+ "prediction_text": "買宅吉、可成（positive）。世兄弟亥水得申月生、卯日木泄而有源，宅之禍應歸子孫、二爻官鬼丑土動化子孫寅木，官化福主宅無祟而利居；妻財伏藏待寅木出伏交割。應期雙層：窗口旬內，主座標寅日（化出子孫/伏財同支）。置信中。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問買宅吉否已斷；對象面宅以世與應禍面入斷（卡面用神註）；餘面未載。用神世亥旺，動爻丑化寅子孫。動化方向：官化子孫向吉；反轉條件：世受沖方翻，未見。應期(k)日檔；(h)逢值寅日取中，填實沖實舍。對表宅舍門類無專條明寫不套，按三步定。二路復推：初推寅日，復推亥日世值日核之，亥為決意日非交割點舍，主座標寅日。粒度核：寅日指針2保留。雙閘俱全。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：一爻動變夬 true；reserve_used false；disputed false。"
+ }
+}

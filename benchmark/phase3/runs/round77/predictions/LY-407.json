@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-407",
+ "prediction_text": "病可愈（positive，偏緩）。五爻兄弟酉金動化申金化退，競病之兄退；應子孫亥水為福神得辰月、癸丑日水土之氣，世妻財寅木為病人雖休囚而官鬼午火病爻不動不旺。應期雙層：窗口旬內，主座標亥日（子孫值日藥效見）。置信偏低。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問病已斷；關係面病人對回世爻；餘面未載。用神世寅，福神子亥應。動化方向：兄化退向緩；反轉條件：鬼動傷世方凶，無。應期(k)日檔；(h)逢值亥日取中，沖實巳沖亥傷福舍。對表疾病門類首選子孫值日取中。二路復推：初推亥日，復推申日化退值日核之，申為兄退之支作次候選，主座標亥日。粒度核：亥日指針2保留。雙閘俱全，病占對象復述：病人（世）。",
+ "confidence": 0.48,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：一爻動變解 true；reserve_used false；disputed false。"
+ }
+}

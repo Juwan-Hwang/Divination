@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-336",
+ "prediction_text": "夫病重、難愈（negative）。用神官鬼亥水應爻三爻動化子孫辰土回頭克，亥水辰月入墓又化墓克，夫星動而化絕境；妻財酉金四爻動化子孫戌土，財動不生官反助子孫克夫星之鏈。應期雙層：窗口旬內，主座標辰日（化墓值日見危）。置信中。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問夫病已斷；關係面夫對回官爻；餘面未載。用神官亥動化辰回頭克。動化方向：化回頭克向凶；反轉條件：亥出墓得金生方翻，未見。應期(k)日檔近病；(h)逢值辰日取中，沖實戌沖辰為沖墓作次候選。對表疾病門類首選化爻值日取中。二路復推：初推辰日，復推戌日沖墓核之，裁決化克正點辰占優，主座標辰日。粒度核：辰日指針2保留。雙閘俱全，病占對象復述：夫。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：兩爻動變頤 true；reserve_used false；disputed false。"
+ }
+}

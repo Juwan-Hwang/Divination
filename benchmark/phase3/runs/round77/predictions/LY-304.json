@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-304",
+ "prediction_text": "妻病可愈（positive）。用神妻財卯木旬空（空亡寅卯），四爻子孫亥水動生財，空待出空填實；應期雙層：窗口旬內，主座標卯日（財出空值日而愈）。置信中高。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問妻病何日愈已斷；關係面妻對回財爻；餘面未載。用神財卯空亡，福神子孫亥動生之。動化方向：亥化申金回頭生動爻自身、源不絕；反轉條件：財出空後受克方翻，未見。應期(k)日檔近病；(h)填實/出空卯日取中，逢值同點、沖實舍。對表疾病門類首選出空取中。二路復推：初推出空卯日，復推逢值路同得卯日，二路同點。粒度核：卯日指針3（空亡支＋值日＋子孫生）保留。雙閘俱全，病占對象復述：妻。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：一爻動變比 true；reserve_used false；disputed false。"
+ }
+}

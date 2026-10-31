@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-418",
+ "prediction_text": "求財可得、待出空（positive，遲）。靜卦風天小畜，妻財辰土旬空（辰巳）為用（與同卦 LY-319 卡面取用同法），辰空填實方得；月建未土財為後備之源。應期雙層：窗口旬內，主座標辰日（財出空值日得財）。置信中。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問求財已斷；對象面財兩現取捨照同卦成法註明；餘面未載。用神財辰空。動化方向：靜卦無動化；反轉條件：出空受沖方廢，未見。應期(k)日檔；(h)填實辰日取中，逢值同點。對表求財門類首選用神出空取中。二路復推：初推辰日，復推未日月建財核之，裁決正用辰占優，主座標辰日。粒度核：辰日指針2保留；財額不報。雙閘俱全。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：靜卦 false；reserve_used false；disputed false。"
+ }
+}

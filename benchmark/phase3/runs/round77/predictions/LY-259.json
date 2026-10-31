@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-259",
+ "prediction_text": "不宜附葬（negative）。初爻妻財子水世動化兄弟未土回頭克，財動傷父母伏神（父母不現），子月丙申日財旺動克父象，附葬恐不利；應期以月檔論，主座標子月內不宜行（月檔收束）。置信中低。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問父柩附葬已斷；關係面父對回父母伏爻；對象面祖塋以父母/土爻面入斷；餘面未載。用神父母不現伏藏，世財動克之。動化方向：財化兄回頭克、動而傷伏父；反轉條件：父出伏得生方宜，未見。應期(k)月檔葬事；(h)三路日點無據以月檔收束明寫。對表無葬事門類不套。二路復推：初推月檔，復推同尺度仍無日點，維持月檔。粒度核：日級斷項指針0不報。雙閘：指代父母伏爻＋觸發財動克俱全，伏位卡面未明載降置信。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：一爻動變坤 true；reserve_used false；disputed false。父母伏位卡面未明載，已註明。"
+ }
+}

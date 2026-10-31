@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-331",
+ "prediction_text": "賭錢不得、主散財（negative）。靜卦坤為地，妻財亥水五爻子月旺相卻逢己巳日沖，財旺逢沖主到手即散；世子孫酉金生財為勞神費力之象，賭以沖散為忌。應期以日檔論：本日巳日即見散（日檔）。置信中低。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問賭錢已斷；對象面賭資以財爻入斷；餘面未載。用神財亥旺而日沖。動化方向：靜卦無動化；反轉條件：財得合住方聚，巳亥沖無合。應期(k)日檔即時事；(h)沖實巳日取中，逢值亥日為聚散相反舍。對表求財門類首選逢值，本例日沖壓倒逢值，依閘門/沖實優先註明取捨。二路復推：初推巳日沖實，復推亥日逢值核之，裁決沖散與終局同向占優，主座標巳日。粒度核：巳日指針2保留；輸額不報。雙閘俱全。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：靜卦 false；reserve_used false；disputed false。"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-016",
+ "prediction_text": "方向：其年倭乱有患——倭寇会来犯，且祸连本地军民。断语：六三午火官鬼发动主寇势已动，化出酉金主兵刃金革之实；兄弟带刑克世，主本地人财同受其伤、内有牵连受损。应期：年档内以月计；鬼为午火，主坐标午月（夏）寇至最盛，窗口春夏间先有警讯。",
+ "basis": "tradition: 六爻\nsystems_used: 六爻纳甲（残盘，据卡面卦象）\n用神：官鬼为寇、世为本地军民。鬼动化金为来犯之据。残损：卡面chart_complete=false，无六爻全盘，只据卡面自载卦象与动静立断，置信降。R61核：应期主坐标已二路复推（留痕）；断项粒度核：仅1指针断项已降为类别/区间表述。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "初以静断不至，鬼动化酉金改主向为来犯，changed_main=true；未动备选路；无全盘disputed=true"
+ }
+}

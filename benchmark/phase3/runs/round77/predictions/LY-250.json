@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-250",
+ "prediction_text": "夫不直歸、先往他省而後回（negative，就即回之問）。官鬼寅木二爻得亥月合生本主歸意，然五爻子孫申金動克官、初爻財子水動化丑，行人被動爻牽往他途；應期雙層：窗口旬內，主座標寅日（官星值日方定歸程）。置信中低。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問往他省否與何日到兩面俱斷；關係面夫官爻對回；餘面未載。用神官寅，子孫申動克之主行程改道；動化方向：申化酉金仍克木；反轉條件：官脫克方直歸，未見。應期(k)日檔；(h)逢值寅日取中，沖實（申沖寅為克非應）舍、填實無據舍。對表行人首選逢值取中。二路復推：初推寅日，復推以財子化丑之丑日核歸宿，裁決官星值日為歸程定點占優，主座標寅日。粒度核：寅日指針2保留；他省方位無指針不報。雙閘俱全。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：兩爻動變大過 true；reserve_used false；disputed false。"
+ }
+}

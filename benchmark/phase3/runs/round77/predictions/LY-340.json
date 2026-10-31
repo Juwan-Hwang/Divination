@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-340",
+ "prediction_text": "父即歸（positive）。用神父母兩現：初爻父母辰土動化官鬼巳火、臨甲辰日值日而動，父臨日動主歸程已啟；上爻父母戌土亦動化戌。應期雙層：窗口三日內，主座標辰日（父值日兼動日到家）。置信中。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問父何日回已斷；關係面父對回父母爻；餘面未載。用神父辰值日動，父戌上動。動化方向：辰化巳火生土主歸途順；反轉條件：父入空方遲，辰不入寅卯空（空亡寅卯、辰出空界）已核。應期(k)日檔行人；(h)逢值辰日取中，沖實戌沖辰同日有父戌動象作次候選。對表行人門類首選逢值取中。二路復推：初推辰日，復推戌日沖實核之，裁決值日動爻占優，主座標辰日。粒度核：辰日指針3保留。雙閘俱全，行人類對象復述：父。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：五爻動變歸妹 true；reserve_used false；disputed false。"
+ }
+}

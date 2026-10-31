@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-314",
+ "prediction_text": "有鬼神為禍、而伏藏不顯（negative，就安寧言）。靜卦風天小畜缺官，官鬼伏神為用（卡面明定），寅月戊辰日伏官不得出，主有隱伏之祟作擾、具體何神盤面無指認不臆報。應期以月檔收束：伏官值寅卯之期易擾（月檔區間）。置信偏低。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問何鬼神為禍已斷至『有伏祟』層級，具體神名一面盤無據不報已註明；餘面未載。用神官伏藏，伏位卡面未明載。動化方向：靜卦無動化；反轉條件：伏官出引方顯形，無。應期(k)月檔；(h)三路無日點明寫。對表鬼神門類無專條不套。二路復推：初推月檔，復推同核無日點維持區間。粒度核：神名斷項指針0刪去；方位不報。雙閘：有禍主斷指代伏官、觸發缺官伏藏俱全。伏神取用屬卡面明定而非常規現爻，disputed 記 true。",
+ "confidence": 0.45,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "changed_main：靜卦 false；reserve_used false；disputed：用神為伏官、非常規取用且伏位未明載，記 true。"
+ }
+}

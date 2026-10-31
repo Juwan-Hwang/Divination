@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-320",
+ "prediction_text": "升遷不成、須待後圖（negative）。官星兩現一空一破（卡面取辰爻官星，辰空），上爻父母酉金動化子孫卯木、五爻兄弟亥水動，文書化子孫主遷調之命脈轉忌，官空無力；應期以月檔收束：本月內無遷信。置信中。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問升遷已斷；餘面未載。用神官辰空，父酉動化子孫卯。動化方向：父化子孫向阻；反轉條件：官出空得生方遷，本期未見。應期(k)月檔仕途；(h)三路日點因官空父化忌無成點，明寫月檔收束。對表仕宦門類首選官值期，空而無點不取已註明。二路復推：初推月檔，復推同核無成點維持。粒度核：日斷項不報。雙閘俱全。官兩現取捨爭議，disputed 記 true。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "changed_main：兩爻動變渙 true；reserve_used false；disputed：官星兩現一空一破、卡面取辰，記 true。"
+ }
+}

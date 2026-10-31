@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-406",
+ "prediction_text": "父母近病有加重之象、難速愈（negative）。用神父母未土上爻動化戌土化進，近病用神化進主病勢進展；未土卯月木克、癸酉日金泄，父爻受克泄而動。應期雙層：窗口旬內，主座標戌日（化進值日病勢見分明）。置信中低。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問父母近病已斷；關係面父母對回父母爻；餘面未載。用神父未動化戌進。動化方向：病占化進主病進向重（與事占化進向成分野，已按病占口徑）；反轉條件：父得火生方緩，官巳世靜不生。應期(k)日檔近病；(h)逢值戌日取中。對表疾病門類首選化爻值日取中。二路復推：初推戌日，復推未日父本支值日核之，未為病起本位、裁決化進應點戌占優，主座標戌日。粒度核：戌日指針2保留。雙閘俱全，病占對象復述：父母。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：一爻動變否 true；reserve_used false；disputed false。"
+ }
+}

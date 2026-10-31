@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-017",
+ "prediction_text": "方向：避乱不可安居——表面无鬼而祸伏将发，必须避走，伏鬼被日辰提起冲世之时见祸。断语：涣卦六爻安静又无官鬼，初看无事；但官鬼伏于六三空亡爻下，已透出又遇申日提起、且冲克世爻，主祸自暗处出、直冲其人。应期：日档；窗口申日/伏鬼出空之日为险点，主坐标最近一个申日须已避离原地。",
+ "basis": "tradition: 六爻\nsystems_used: 六爻纳甲（残盘，据卡面卦象）\n用神：世为占者、伏鬼为祸。伏神出空被提为发祸机制。残损：卡面chart_complete=false，无六爻全盘，只据卡面自载卦象与动静立断，置信降。R61核：应期主坐标已二路复推（留痕）；断项粒度核：仅1指针断项已降为类别/区间表述。",
+ "confidence": 0.64,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": true,
+  "disputed": true,
+  "reason": "初读静卦无鬼主安，伏鬼透出被申日提起冲世改主向为须避，changed_main=true；动用伏神备选路reserve_used=true；无全盘disputed=true"
+ }
+}

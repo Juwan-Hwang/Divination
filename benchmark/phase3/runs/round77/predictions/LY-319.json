@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-319",
+ "prediction_text": "求財可得、但在出空之後（positive，遲）。卡面明定用神取旬空之妻財辰土（舍月建未土），辰空待填實，靜卦無破；應期雙層：窗口旬內，主座標辰日（財出空值日得財）。置信中。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問求財已斷；對象面財兩現之取捨卡面已註、照錄入斷；餘面未載。用神財辰空，月建未土為次候選。動化方向：靜卦無動化；反轉條件：出空受沖方廢，未見。應期(k)日檔；(h)填實辰日取中，逢值同點，沖實戌沖辰作次候選舍。對表求財門類首選用神出空取中。二路復推：初推辰日，復推未日月建財值日核之，裁決卡面取辰為正用占優，主座標辰日。粒度核：辰日指針2保留；財額不報。雙閘俱全。用神兩現取捨屬爭議面，disputed 記 true。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "changed_main：靜卦 false；reserve_used false；disputed：妻財兩現、卡面自註舍未用辰之取捨，記 true。"
+ }
+}

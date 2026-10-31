@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-255",
+ "prediction_text": "修溝為宜、修後轉利（positive）。再占噬嗑五爻妻財未土世動化官鬼申金，財化官主修後仕途有轉機；初占鼎靜無凶象。應期以月檔論，主座標申月（化官值月之機）。置信中低。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問溝流宜否與修後何如兩面俱斷；對象面衙宇後溝已斷；關係面占者官運以化官入斷；餘面未載。用神取再占世財未動化官申。動化方向：財化官向吉；反轉條件：化空破方翻，未見。應期(k)月檔仕途事；(h)值月申月取中，逢值日級尺度不合舍。對表無風水門類，明寫不套。二路復推：初推申月，復推未土世爻值月未月核之，未為動身修溝之月、申為見效之月，裁決主座標申月。粒度核：申月指針2（化爻支＋官六親）保留。雙閘俱全。兩占合參，disputed 記 true。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "changed_main：再占一爻動變無妄 true；reserve_used false；disputed：本例初占再占兩卦合斷，記 true 並於 reason 留痕。"
+ }
+}

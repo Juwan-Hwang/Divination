@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-344",
+ "prediction_text": "子可回（positive）。用神子孫兩現俱動：未土應爻動化戌土進、丑土初爻動化官鬼子水，子孫臨未月旺動主行人已動身北歸；妻財酉金四爻動化申金。應期雙層：窗口旬內，主座標戌日（化進之支值日到家）。置信中。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問子何日回已斷；關係面子對回子孫爻；餘面未載。用神子未動化戌進、子丑動。動化方向：化進向歸；反轉條件：化空方遲，戌丑未皆不空（空申酉、財酉空不涉用神）。應期(k)日檔行人；(h)逢值戌日取中，未日用神本支值日作起身點入 reasoning。對表行人門類首選化進值日取中。二路復推：初推戌日，復推未日核之，裁決化進終點戌占優，主座標戌日。粒度核：戌日指針2保留。雙閘俱全，行人類對象復述：子。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：四爻動變需 true；reserve_used false；disputed false。"
+ }
+}

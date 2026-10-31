@@ -1,0 +1,12 @@
+{
+ "case_id": "YY2-004",
+ "prediction_text": "无从定断（盘面残损）。本卦名原书版面即缺字，本卦不明则本宫、世应、六亲、动爻皆无从定，变卦大壮一侧亦系于本宫五行不能单独成盘—本题寿数长短与终期不作方向断语、不臆补盘面。仅记题面可据者：占时丙寅年丙申月丁巳日丙午时、空亡子丑、问卜自己寿。此例以依据不足交付，待盘面异文补得后再占。",
+ "basis": "tradition＝liuyao（卡面 tradition 字段逐字照录）\nsystems_used: 六爻纳甲（寿元门）—盘面不可成，不进入作断程序\n输入残损（照实注明）：attachments.hexagram 本卦名原书缺字、moving_lines 与 chart_lines_top_to_bottom 均为 null；题面 notes.completion_grade 明载 chart 与 moving_lines  grade 为『不可补』（已查校正全本与合集异文未得）。空亡子丑系由日干支丁巳推算复原。\n处置：用神、世应、旺衰、动化、应期五项皆无盘面可指认，按纪律不臆补、不以变卦名单独成断；已载面表中主问面（卜自己寿）处置为『有面无据不报』。\n应期：无应期断语，R61-REV1-2/-3 不适用（无主坐标可复推）。\n断项粒度核：无具体断项，R61-REV1-4 不适用。\n置信0.10 仅表示对『残损无从定断』这一处置本身的确定，非对寿数方向的置信。",
+ "confidence": 0.1,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "盘面残损不可补（本卦缺字、动爻与六爻表为 null），全例以无据不报处置，disputed=true；未用伏神 reserve_used=false；无主断可改判 changed_main=false。"
+ }
+}

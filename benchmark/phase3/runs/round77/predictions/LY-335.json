@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-335",
+ "prediction_text": "廷師可成、師能訓子（positive）。用神應父母戌土上爻得巳月生、寅日木疏而不傷根本，世妻財卯木三爻動化父母辰土主子就學於師，初爻父母未土、二爻官鬼巳火俱動主聘禮文書齊動。應期雙層：窗口旬內，主座標戌日（師位值日定聘）。置信中低。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問廷師訓子已斷；關係面師對回应父母、子對回世爻；餘面未載。用神父戌應旺。動化方向：世化父母向就學；反轉條件：應父受沖方不成，未見。應期(k)日檔；(h)逢值戌日取中。對表無延師門類明寫不套按三步定。二路復推：初推戌日，復推辰日世化父值日核之，辰為就學點作次候選，主座標戌日。粒度核：戌日指針2保留。雙閘俱全。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：三爻動變乾 true；reserve_used false；disputed false。"
+ }
+}

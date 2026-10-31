@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-328",
+ "prediction_text": "侄有虛驚、未遭實害（negative，就被害之問作否斷）。用神父母午火世爻四爻動化兄弟丑土，午火酉月休囚逢壬子日沖，世動逢沖主事起驚擾，化丑土得土護、無官鬼動傷世之象，害不落實。應期雙層：窗口旬內，主座標午日（世值日事明）。置信中低。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問侄被害否已斷；關係面侄對回父母世爻（卡面用神）；餘面未載。用神父午世動化丑。動化方向：火化土泄而得護、非化克；反轉條件：官鬼動克世方成害，無。應期(k)日檔；(h)逢值午日取中，沖實子沖午為事起之日作次候選。對表行人/安否門類首選逢值取中。二路復推：初推午日，復推丑日化爻值日核之，裁決本支午為事明點占優，主座標午日。粒度核：午日指針2保留。雙閘俱全。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：一爻動變泰 true；reserve_used false；disputed false。"
+ }
+}

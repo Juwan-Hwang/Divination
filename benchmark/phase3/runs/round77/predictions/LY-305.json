@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-305",
+ "prediction_text": "岳母近病可轉安、但須待出空（positive，偏遲）。用神父母酉金旬空（申酉）而臨酉月有氣，世妻財午火三爻動化父母酉金，動化用神主病有著落；應期雙層：窗口旬內，主座標酉日（父出空值日見轉機）。置信中低。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問岳母近病已斷；關係面岳母對回父母爻；餘面未載。用神父酉空而臨月，世午動化酉。動化方向：世化用神向著落；反轉條件：午火化酉回頭克動源主反覆，已降置信。應期(k)日檔近病；(h)出空酉日取中，逢值同點，沖實卯沖酉傷父舍。對表疾病首選出空取中。二路復推：初推酉日，復推申日出空首日核之，裁決值日酉為正點、申為入空邊界舍，主座標酉日。粒度核：酉日指針2保留。雙閘俱全，病占對象復述：岳母。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：一爻動變升 true；reserve_used false；disputed false。"
+ }
+}

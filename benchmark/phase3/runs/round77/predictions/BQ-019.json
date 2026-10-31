@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-019",
+ "prediction_text": "方向：倭祸不自外来、祸自内起——乡人自召其祸，占者受累。断语：二鬼俱静主外寇本不动；子孙独发本可制鬼，却被日辰扶起反克世爻、且发动变出官爻，主护者/同乡之举反成祸源；世临墓与病爻，主占者自身陷困。应期：月档；窗口当季内，主坐标子孙爻逢值之月内乱见端。",
+ "basis": "tradition: 六爻\nsystems_used: 六爻纳甲（残盘，据卡面卦象）\n用神：世为占者、子孙为乡人/护者、官鬼为祸。子动变官为祸自内起之据。残损：卡面chart_complete=false，无六爻全盘，只据卡面自载卦象与动静立断，置信降。R61核：应期主坐标已二路复推（留痕）；断项粒度核：仅1指针断项已降为类别/区间表述。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "子动变官改变初读制鬼主安之向，changed_main=true；未动备选路；无全盘disputed=true"
+ }
+}

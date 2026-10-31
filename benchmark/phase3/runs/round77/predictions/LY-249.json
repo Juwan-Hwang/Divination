@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-249",
+ "prediction_text": "父即回（positive）。靜卦天澤履，父母午火居四爻臨庚午日值日，行人用神值日當歸；應期雙層：窗口三日內，主座標本日午日。置信中。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問父何日回已斷；關係面父已對回；餘面未載。用神父母兩現午巳，午臨日辰取之，靜而值日主即至。動化方向：靜卦無動化；反轉條件：無。應期(k)日檔行人近事；(h)逢值午日取中，沖實填實無據舍。對表行人門類首選逢值取中。二路復推：初推午日逢值，復推以巳火次父爻值日巳日核之，午臨本日占優，主座標午日。粒度核：午日指針2（值日＋月丑土生扶無克）保留。雙閘俱全，行人類對象復述：父。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：靜卦無動爻、無變卦 false；reserve_used false；disputed false。"
+ }
+}

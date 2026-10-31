@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-413",
+ "prediction_text": "會試可連捷（positive）。四爻官鬼午火世動化父母戌土，官化父母主功名成文榜有名；上爻父母戌土動化妻財寅木，父動與官互成鏈。應期以榜期月檔為窗，主座標午日（官值日之信，月檔內信號）。置信中。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問會試連捷否已斷；餘面未載。用神官午世動化父戌。動化方向：官化父向成名；反轉條件：化空方廢，不空。應期(k)月檔科試；(h)值期取中、日級降信號。對表科試門類首選官化父值期取中。二路復推：初推午日信號，復推戌日化父值日核之，同月窗無占優單日，粒度降檔月檔區間交付。粒度核：連捷主斷指針2（官化父＋父動互鏈）保留。雙閘俱全。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：兩爻動變艮 true；reserve_used false；disputed false。"
+ }
+}

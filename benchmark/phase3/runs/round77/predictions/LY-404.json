@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-404",
+ "prediction_text": "功名始難出仕、須待後期（negative，就始得出仕問）。官鬼亥水持世本有官緣，然上爻子孫戌土動化未土，子孫動傷官為出仕大忌，戌未土又克亥水世官。應期以年檔論：主座標亥年再圖（官星值年），本期不出。置信中低。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問始得出仕否已斷；餘面未載。用神官亥世，忌子孫戌動。動化方向：戌化未續土克水向阻；反轉條件：子孫受制官得生方仕，未見。應期(k)年檔仕途；(h)值年亥年取為後圖之期、本期取否。對表仕宦門類首選官值年取中。二路復推：初推亥年，復推戌年忌神值年核之為阻年舍，主座標亥年。粒度核：亥年指針2保留。雙閘俱全。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：一爻動變革 true；reserve_used false；disputed false。"
+ }
+}

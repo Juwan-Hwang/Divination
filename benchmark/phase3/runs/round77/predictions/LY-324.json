@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-324",
+ "prediction_text": "友父病重、難愈（negative）。用神父母申金四爻動化妻財午火回頭克，父動化克主元氣被傷；五爻官鬼戌土動化父母申金，鬼化用神主病纏於身。辰月甲寅日父得月生而化克已成，救輕。應期雙層：窗口旬內，主座標午日（化克值日見危）。置信中。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問友父病已斷；關係面友之父對回父母爻；餘面未載。用神父申動化午回頭克。動化方向：化回頭克向凶；反轉條件：午火未值未成全克為留餘地，已降格為『難愈』非斷死。應期(k)日檔近病；(h)逢值午日取中。對表疾病門類首選化爻值日取中。二路復推：初推午日，復推申日用神值日核之，申為受克之日本支、裁決化克應點午占優，主座標午日。粒度核：午日指針2保留。雙閘俱全，病占對象復述：友之父。卡面卦名有『震為木』疑誤註，屬轉錄小疵不影響裝卦，未記 disputed。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：兩爻動變震 true；reserve_used false；disputed false。"
+ }
+}

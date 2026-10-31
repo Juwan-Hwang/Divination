@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-416",
+ "prediction_text": "迎請父王靈柩可允（positive）。再占澤火革四爻兄弟亥水世動化父母申金、二爻妻財寅木動化父母丑土，兩動俱化父母主靈柩迎請得允之象；初占父母辰土世爻有氣。應期雙層：窗口旬內，主座標申日（化父值日允信定）。置信中低。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問靈柩允否已斷；關係面父王對回父母爻；對象面靈柩以父母指代；餘面未載。用神父母，再占兩化父。動化方向：財兄化父向允；反轉條件：化父入空方否，申丑不空。應期(k)日檔；(h)逢值申日取中，丑日次候選。對表無迎柩門類明寫不套按三步定。二路復推：初推申日，復推丑日核之，裁決申化父兼生世鏈占優，主座標申日。粒度核：申日指針2保留。雙閘俱全。兩占合參記 disputed true。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "changed_main：再占兩爻動變既濟 true；reserve_used false；disputed：初占再占兩卦合斷，記 true。"
+ }
+}

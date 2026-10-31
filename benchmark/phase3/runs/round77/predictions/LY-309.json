@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-309",
+ "prediction_text": "將來有官、但遲而先破後成（positive，遲）。官鬼巳火初爻動化子孫寅木回頭生，官星有源；然巳逢亥月沖破、世父母未土空亡動化戌土，須待官星出破、世出空之年。應期以年檔論：主座標寅年（化官回頭生之支值年）。置信中低。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問將來有官否已斷；餘面未載。用神官巳動化寅回頭生，世父未空動化戌。動化方向：官化生向成、世化土填實向；反轉條件：官化絕方廢，未見。應期(k)年檔仕途終局類先年後月；(h)值年寅年取中，巳年為本支破年舍、戌年世化支作次候選入 reasoning。對表仕宦門類首選化生值年取中。二路復推：初推寅年，復推巳年逢值核之，巳臨月破不取，主座標寅年。粒度核：寅年指針2保留。雙閘俱全。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：兩爻動變訟 true；reserve_used false；disputed false。"
+ }
+}

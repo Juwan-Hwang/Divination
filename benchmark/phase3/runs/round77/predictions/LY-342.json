@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-342",
+ "prediction_text": "今日無人還銀（negative，就今日問）。靜卦坤為地，妻財亥水五爻辰月入墓，原神子孫酉金世爻旬空（申酉），財無源且墓、原神空，主今日還銀落空；出空酉日或有轉機。應期以日檔論：本日無，主座標酉日（原神出空）為後候。置信中。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問今日還銀已斷；對象面銀錢以財與原神入斷；餘面未載。用神財亥入辰墓，原神子酉空。動化方向：靜卦無動化；反轉條件：財出墓原神出空方還，本日俱未至。應期(k)日檔；(h)填實/出空酉日取為後候、本日取『無』，沖實巳沖亥作次候選。對表求財/索債門類首選原神出空取中。二路復推：初推酉日，復推亥日財值日核之，亥入墓不取，主座標酉日。粒度核：酉日指針2保留；金額不報。雙閘俱全。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：靜卦 false；reserve_used false；disputed false。"
+ }
+}

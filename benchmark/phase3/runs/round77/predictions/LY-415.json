@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-415",
+ "prediction_text": "可蒙赦免（positive）。初爻妻財丑土動化子孫巳火，子孫為赦星福神化出臨身；世官鬼酉金三爻動化妻財丑土化退，罪星動而退。應期雙層：窗口月內，主座標巳日（赦星值日恩信至）。置信中低。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問重罪赦免已斷；餘面未載。用神取子孫赦星巳由初爻化出，世官酉動化丑退。動化方向：罪星化退、赦星化出向赦；反轉條件：子孫化空方無赦，巳不空。應期(k)月檔刑獄事兼日信；(h)逢值巳日取中。對表刑獄門類首選福神值日取中。二路復推：初推巳日，復推丑日化退值日核之，丑為罪退過程點作次候選，主座標巳日。粒度核：巳日指針2保留；赦之等級（全免/減等）指針不足降為『可蒙赦免』不細分。雙閘俱全。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：兩爻動變損 true；reserve_used false；disputed false。"
+ }
+}

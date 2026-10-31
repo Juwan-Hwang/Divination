@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-405",
+ "prediction_text": "病可愈、但纏綿遲好（positive，遲）。世父母戌土上爻動化未土，病人世爻戌月旺相、化同類土主病有根而非絕症；官鬼午火為病爻得戌合，子孫子水在初主藥力在下焦緩圖。應期雙層：窗口月內，主座標未日（世化支值日見轉）。置信中低。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問病已斷；關係面病人對回世爻；餘面未載。用神世戌動化未。動化方向：土化土主纏綿不主凶；反轉條件：世化克方危，未見。(i)兩段：近段戌月病勢持重、遠段未支值日轉輕，觸發上爻化未已指認。應期(k)日檔近病；(h)逢值未日取中。對表疾病門類首選世化值日取中。二路復推：初推未日，復推戌日世本支值日核之，戌為病重本位舍，主座標未日。粒度核：未日指針2保留。雙閘俱全，病占對象復述：占者本人（世）。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：一爻動變夬 true；reserve_used false；disputed false。"
+ }
+}

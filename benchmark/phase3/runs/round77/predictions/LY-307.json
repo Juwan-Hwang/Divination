@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-307",
+ "prediction_text": "有雨（positive）。用神父母未土臨未月月建、兩現旺相，雨象充足，子孫不現無晴克之神；應期雙層：窗口三日內，主座標未日（父母值日落雨）。置信中低。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問何日有雨已斷；對象面雨以父母爻指代；餘面未載。用神父未臨月建世應兩現。動化方向：靜卦無動化；反轉條件：子孫出動主晴，無。應期(k)日檔天時近事；(h)逢值未日取中，沖實丑沖未為動雨亦候選、填實無據舍，取逢值。對表天時門類首選父母值日取中。二路復推：初推未日，復推丑日沖實核之，裁決逢值正點占優，主座標未日。粒度核：未日指針2保留；雨量無指針不報。雙閘俱全。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：靜卦 false；reserve_used false；disputed false。"
+ }
+}

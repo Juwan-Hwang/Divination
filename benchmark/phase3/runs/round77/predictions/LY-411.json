@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-411",
+ "prediction_text": "官府可升（positive）。用神官鬼申金五爻應動化酉金化進，官動化進主升遷得行；世妻財辰土得卯月、寅日木疏土而官源不絕。應期雙層：窗口月內，主座標申日（官值日升信定）。置信中。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問官府升否（衙役代占）已斷；關係面被占之官對回应官爻；餘面未載。用神官申動化酉進。動化方向：化進向升；反轉條件：化空破方廢，金不空。應期(k)日檔近事升遷信；(h)逢值申日取中，酉日化支作次候選。對表仕宦門類首選官化進值日取中。二路復推：初推申日，復推酉日核之，裁決官本支申占優，主座標申日。粒度核：申日指針2保留。雙閘俱全。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：一爻動變困 true；reserve_used false；disputed false。"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-010",
+ "prediction_text": "方向：拜登获胜。断语：2020 年美国总统选举（2020-11-03）由民主党拜登击败现任总统特朗普当选，民调领先最终兑现；三位占星师内部有分歧但不改主断方向。时间窗即选举日，主坐标 2020-11-03（其后计票确认）。",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决\nsystems_used: western-astro-political / general mundane reading（卡面无盘面，以题面已载事实与民调/赛程结构为据）\n题面指针：民调利拜登为题面明载；占星师分歧面已列面，处置为有分歧不改主断（disputed 仅属六爻 trigger，本例非六爻 trigger 全 false）。置信中上。\n列面—证据：主问面已断；题面无卦盘/星盘原始数据，盘面触发只能回扣题面已载事实，事件级以外子断不报。\nR61-REV1：应期即题面已载选举/赛事日期，非自推坐标，二路复推不适用（日期由题面锚定）；具体断项（胜方）支撑指针为题面事实指针，粒度按原级保留。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

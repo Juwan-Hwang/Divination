@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-306",
+ "prediction_text": "尸首不可見（negative）。用神官鬼寅木旬空（寅卯）、靜卦無動引，子月乙巳日鬼受生而空亡伏藏，主尸沉難覓；何日見一面無據不報確日，以月檔收束：本月內無見期。置信中。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問尸首可見否已斷，何日見面盤無據不報已註明；關係面弟以鬼爻為尸首用神（卡面明定）對回；餘面未載。用神官寅空亡靜伏。動化方向：靜卦無動化；反轉條件：出空得動引方見，無。應期(k)月檔；(h)三路皆因空靜無點，明寫無據。對表行人/尋物門類首選出空，本例出空無動引不取，已註明。二路復推：初推無日點，復推同核仍無，二路同為無點維持月檔。粒度核：日斷項指針0刪去。雙閘俱全。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：靜卦 false；reserve_used false；disputed false。"
+ }
+}

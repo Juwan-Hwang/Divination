@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-301",
+ "prediction_text": "妻在家不安（negative，就安否問平安）。用神妻財戌土上爻動、官鬼申金五爻動，寅月乙卯日財受月克而得日合，卦屬伏吟問（卡面問答主題），主妻在家有憂悶不安、非性命大凶；應期雙層：窗口旬內，主座標戌日（財出合值日）。置信中低。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問妻安否已斷；關係面妻對回財爻；餘面未載。用神財戌動，月寅克、日卯合戌。動化方向：戌化戌同支伏吟主憂鬱；反轉條件：財脫合得生方安，未至。應期(k)日檔；(h)逢值戌日取中，沖實辰沖戌為沖動非安點舍。對表行人/家宅安否門類首選逢值取中。二路復推：初推戌日，復推以申金官動值日申日核之，申為憂源非安點舍，主座標戌日。粒度核：戌日指針2保留。雙閘俱全。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：兩爻動變否 true；reserve_used false；disputed false。"
+ }
+}

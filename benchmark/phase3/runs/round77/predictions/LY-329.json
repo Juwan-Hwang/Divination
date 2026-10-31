@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-329",
+ "prediction_text": "開店不利、恐虧本（negative）。妻財子水初爻應動化兄弟丑土回頭克，財源動而被克；世父母午火四爻動化兄弟未土、子孫申金五爻動而空亡，四爻俱動主紛擾，店開而財不聚。應期雙層：窗口月內，主座標子日（財值日見散象）。置信中。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問開店已斷；對象面店業以財爻入斷；餘面未載。用神財子動化丑回頭克兼合絆。動化方向：化回頭克向虧；反轉條件：財脫合出空方聚，無。應期(k)月檔營生開立兼遠段存續：近段開立紛擾、遠段財克難存，(i)兩段俱給，遠段觸發初爻化克。對表求財門類首選財值日取中。二路復推：初推子日，復推丑日化克值日核之，裁決財本支子為散象正點，主座標子日。粒度核：子日指針2保留；虧額不報。雙閘俱全。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：四爻動變巽 true；reserve_used false；disputed false。"
+ }
+}

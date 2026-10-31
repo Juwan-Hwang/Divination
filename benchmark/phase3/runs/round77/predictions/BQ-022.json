@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-022",
+ "prediction_text": "方向：棉作不利——收成薄、天时人事不顺。断语：无妄之讼，应爻冲克世爻，主外来天时与田主/人事一方同世（种者）相冲，棉田之事多争多阻；变讼主终局以不顺收场。应期：年档内以月计；窗口棉期夏秋，主坐标秋收见薄收落定。",
+ "basis": "tradition: 六爻\nsystems_used: 六爻纳甲（残盘，据卡面卦象）\n用神：世为种者、应为天时对方。应冲世为据。对象为棉作。残损：卡面chart_complete=false，无六爻全盘，只据卡面自载卦象与动静立断，置信降。R61核：应期主坐标已二路复推（留痕）；断项粒度核：仅1指针断项已降为类别/区间表述。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "变讼同向主不顺，未改主向；未动备选路；无全盘disputed=true"
+ }
+}

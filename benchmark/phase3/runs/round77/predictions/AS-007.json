@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-007",
+ "prediction_text": "方向：Waller 一方得胜，Hopton 败。断语：问者方主星木星金星得力，月亮擢升与木星同在，主其军势旺；Hopton 主星土星陷落、焦伤、无相位、游离，主其孤弱无援；九宫仅火星与南交点，主对方无后援可继。太阳（Waller 资助/部属主）在十宫居擢升正度，主其部属得力临阵。应期：日档；此问即当日交战，主坐标即29日当日见胜负。",
+ "basis": "tradition: horary\nsystems_used: 西洋卜卦占星（整宫，战阵问）\n面：主问胜负已断。触发：土星陷落无相、月亮擢升合木星、太阳十宫擢升度。复推：以援军面（九宫空弱）复核，同指 Hopton 败，二路同点。R61核：主坐标已二路复推；仅1指针的方位/身份断项已降为区域/类别表述。",
+ "confidence": 0.74,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

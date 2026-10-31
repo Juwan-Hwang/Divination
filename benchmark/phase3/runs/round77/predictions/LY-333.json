@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-333",
+ "prediction_text": "子久病凶、難望回春（negative）。靜卦雷天大壯，用神子孫申金五爻寅月臨絕、甲午日火克，久病用神絕於月建為大忌；官鬼寅木旺臨月建剋身之象在，子孫無力制鬼。應期以月檔論：寅月內病勢沉重（月檔收束）。置信中。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問子久病已斷；關係面子對回子孫爻；餘面未載。用神子申絕於寅月。動化方向：靜卦無動化；反轉條件：金旺之月子孫得氣方有轉機，本月無。應期(k)月檔久病終局不落日；(h)三路日點無據明寫。對表疾病門類首選子孫值日，絕地無點不取已註明。二路復推：初推月檔，復推同核維持區間。粒度核：日斷項不報。雙閘俱全，病占對象復述：子。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：靜卦 false；reserve_used false；disputed false。"
+ }
+}

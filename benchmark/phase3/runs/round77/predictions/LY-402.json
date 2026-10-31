@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-402",
+ "prediction_text": "自陳不利（negative）。世妻財午火三爻動化兄弟亥水回頭克，世動化克主自陳反招損；官鬼辰土二爻動化丑土、子孫寅木初爻動而空（甲辰旬空寅卯）傷官之象並見。應期以月檔收束：本月內陳情無功。置信中低。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問自陳何如已斷；餘面未載。用神取世與官兩面：世午化亥回頭克、官辰動化丑。動化方向：世化回頭克向不利；反轉條件：世化生方轉，未見。應期(k)月檔奏陳事；(h)無成點明寫月檔收束。對表仕宦門類首選官值期，官化土無顯點不取已註明。二路復推：初推月檔，復推同核維持。粒度核：日斷項不報。雙閘俱全。卡面未標用神與空亡（asked_at 酉月甲辰日自推旬空），已註明。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：三爻動變明夷 true；reserve_used false；disputed false。"
+ }
+}

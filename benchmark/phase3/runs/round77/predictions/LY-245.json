@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-245",
+ "prediction_text": "寅命（屬虎）之女能有子（positive，就所問何命有子作答）。二爻官鬼丑土動化子孫寅木，子星由動爻化出，指向寅木命之女；本宮子孫卯木應爻休囚非其人。應期以年檔論：寅年應子息之機，主座標寅年。置信中低。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問何命有子已斷；關係面妾室子嗣面已斷；餘面未載。子孫兩見：應卯木靜而休囚，二爻丑動化寅木子孫為活源，取化出者。動化方向：官化子孫、象徵由無出有；反轉條件：化絕方廢，寅申月雖絕而動化有源不廢。應期(k)年檔子嗣事；(h)運年觸發寅年取中，逢值合沖舍。對表無此門類（子嗣何命），明寫不套他門。二路復推：初推寅年，復推以子孫卯木值年卯年核之，裁決化出之寅為新生子星占優，主座標寅年。粒度核：寅命斷項指針2（化爻支＋子孫六親）保留；數量不報。雙閘俱全。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：一爻動變夬 true；reserve_used false；disputed false。"
+ }
+}

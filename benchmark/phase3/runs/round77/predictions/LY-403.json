@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-403",
+ "prediction_text": "本年冬可得關差（positive）。用神官鬼丑土三爻動化辰土化進，官星動而進主差事落實；父母申金應爻為文書關防之象靜而有氣。應期以月檔論：窗口本年冬，主座標丑月（官星化進之支值月）。置信中。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問冬得關差否已斷；餘面未載。用神官丑動化辰進。動化方向：化進向成；反轉條件：化空破方廢，辰丑不空。應期(k)月檔且題面定冬季尺度；(h)值月丑月取中，辰月化支作次候選。對表仕宦門類首選官化進值月取中。二路復推：初推丑月，復推辰月核之，裁決官本支值月占優，主座標丑月。粒度核：丑月指針2保留。雙閘俱全。卡面未標用神，照六親常法取官，已註明。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：一爻動變需 true；reserve_used false；disputed false。"
+ }
+}

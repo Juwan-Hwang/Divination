@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-417",
+ "prediction_text": "女病凶險、反覆難愈（negative）。本例多卦遞占（未濟之蹇、姤之無妄等）、動爻繁多，子孫辰土/亥水雖動而化兄弟午火、化妻財寅木，福神動而化散；兄弟午火、酉金動爻交克，病勢纏綿反覆。應期以月檔收束：寅月內凶候持重，不落確日。置信偏低。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問女病已斷；關係面女對回子孫爻；餘面未載。用神子孫兩見俱動化散。動化方向：子化兄/財主福力分散向凶；反轉條件：子孫得旺生方轉，本盤交動無。應期(k)月檔病終局；(h)多卦動爻互歧、日點無據明寫月檔收束。對表疾病門類首選子孫值日，多值互歧不取已註明。二路復推：初推月檔，復推同核維持區間。粒度核：日斷項指針互歧刪去。雙閘俱全，病占對象復述：女。多卦合參且裝卦行序繁複，disputed 記 true 並降置信。",
+ "confidence": 0.4,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "changed_main：多爻動變卦 true；reserve_used false；disputed：多卦遞占合參、盤面繁複互歧，記 true。"
+ }
+}

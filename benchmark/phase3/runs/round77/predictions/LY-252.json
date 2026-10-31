@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-252",
+ "prediction_text": "子病凶、難愈（negative）。靜卦天山遯，子孫不現伏藏無力，官鬼午火兩現臨世、申月雖囚而壬子日沖午主鬼動盪，久伏之子孫無制鬼之力；病勢以月檔論凶，主座標子月內見危（月檔，不落日）。置信中低。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問子病已斷；關係面子對回子孫伏爻；餘面未載。用神子孫伏藏（卡面未錄伏位、僅知不現），鬼午兩現。動化方向：靜卦無動化；反轉條件：子孫出伏制鬼方翻，無動引未見。應期(k)月檔病終局類不落日；(h)三路日級皆無據，明寫以月檔收束。對表疾病門類首選子孫值日，本例伏藏無點、無據不取。二路復推：初推月檔，復推同尺度核之仍無日點，二路同為無日點、維持月檔區間。粒度核：具體日斷項指針0刪去不報；凶向主斷不適用粒度降檔。雙閘：凶斷指代鬼臨世、觸發子孫伏藏俱全；伏位卡面未載，殘損註明並降置信。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：靜卦 false；reserve_used false；disputed false。卡面未錄子孫伏位，basis 已註明。"
+ }
+}

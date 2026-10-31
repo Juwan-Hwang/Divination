@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-322",
+ "prediction_text": "師近病可愈（positive）。卡面定用為應上巳火財爻，巳火午月旺相，近病旺爻逢亥日沖為沖散病勢之象，靜卦無鬼動傷用；應期雙層：窗口數日內，主座標巳日（用神值日而安）。置信中低。註：卡面用神註作『應上巳火財爻』而裝卦表應位為父母申金、巳火為世爻，卡面內部不一致，照卡面用神註作斷並降置信。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問師近病已斷；關係面師對回卡面用神；餘面未載。用神巳火旺於月。動化方向：靜卦無動化；反轉條件：鬼動克用方翻，無。應期(k)日檔近病；(h)逢值巳日取中，沖實亥沖巳為散病同向作次候選。對表疾病門類首選用神值日取中。二路復推：初推巳日，復推亥日沖散核之，裁決值日為安點占優，主座標巳日。粒度核：巳日指針2保留。雙閘俱全，病占對象復述：師。卡面用神註與裝卦應位不一致，disputed 記 true。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "changed_main：靜卦 false；reserve_used false；disputed：卡面用神註（應上巳火）與裝卦表應位（父母申金）不一致，記 true。"
+ }
+}

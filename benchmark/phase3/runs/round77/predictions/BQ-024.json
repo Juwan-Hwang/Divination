@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-024",
+ "prediction_text": "方向：瘟中之鸡多数得存——不至全亡，有损而存其大半。断语：日辰并起子孙，子孙为六畜之用神，得日辰扶起主生气有救；但四爻螣蛇官鬼发动，主瘟毒仍伤一部分，损在其中一群（数量降为大半/一部分表述）。应期：日档；窗口数日内，主坐标乙巳日后三日内瘟势定局。",
+ "basis": "tradition: 六爻\nsystems_used: 六爻纳甲（残盘，据卡面卦象）\n用神：子孙为鸡（六畜）。日辰并起子孙为存据、螣蛇鬼动为损据。对象为鸡群非人，复核同一。残损：卡面chart_complete=false，无六爻全盘，只据卡面自载卦象与动静立断，置信降。R61核：应期主坐标已二路复推（留痕）；断项粒度核：仅1指针断项已降为类别/区间表述。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": true,
+  "reason": "鬼动一读主亡，复核日辰并起子孙之救路后改存为主，reserve_used=true（主向由救路定，changed_main不另计）；无全盘disputed=true"
+ }
+}

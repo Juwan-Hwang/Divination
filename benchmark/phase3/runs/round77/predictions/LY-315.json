@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-315",
+ "prediction_text": "鄉試可望中式（positive）。官鬼酉金持世、申月生扶，五爻官鬼申金動化酉金進神，官星兩旺主名分有成；世逢卯日沖主場屋波折而不礙終局。應期以試年本年秋闈為窗（月檔），主座標酉日放榜之信（月檔內信號）。置信中。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問鄉試已斷；餘面未載。用神官酉世，動官申化酉進。動化方向：化進向成；反轉條件：父爻受傷斷文脈，父母亥靜而得生未傷。應期(k)月檔科試；(h)值月試期取中，日級放榜確日無據降為信號。對表科試門類首選官星值期取中。二路復推：初推酉日信號，復推申日動爻值日核之，兩路同屬月窗內、無占優單日，按粒度降檔為月檔區間交付。粒度核：中式主斷指針2（世官旺＋動化進）保留。雙閘俱全。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：一爻動變大過 true；reserve_used false；disputed false。"
+ }
+}

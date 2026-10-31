@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-002",
+ "prediction_text": "Direction: Barack Obama wins the 2008 US presidential election. The Saturn–Uranus opposition beginning on Election Day (4 November 2008) is the signature of regime change: the old-order candidate (McCain, the Saturnian incumbent-party figure) falls, the change candidate takes the White House. Timing: fixed by the election itself — 4 November 2008 (day-scale, justified: the question is a single-day ballot event). Confidence tier: direction high; margin not stated (no basis).",
+ "basis": "tradition: no tradition field is labelled on the card; the card presents an election-astrology news assessment (May 2008), decided under Western electional/mundane astrology\nsystems_used: Western mundane astrology (Saturn–Uranus opposition cycle reading)\nLoaded faces: main face = who wins; configuration face = Saturn opposition Uranus beginning on Election Day, last seen 45 years earlier (a change-of-era signature); field face = Obama leading the Democratic race unclinched, McCain presumptive Republican. Item check: Obama win → referent chain lands on the change-candidate face; triggers = (1) Saturn–Uranus opposition exact at the ballot (old vs new, new prevails at the opposition's opening), (2) the opposition's 45-year recurrence marking generational turnover — two pointers, same landing. Object check (f): bearer = the presidency, applier = Obama, identical as framed. Timing (k): day scale justified — single-day election event, date given on card; (h) routes: election-day configuration (taken), nomination momentum (process, discarded as coordinate), cycle recurrence (era marker, not a date). \n(n) Two-route re-derivation: route 1 = Election-Day opposition → change outcome on 4 Nov 2008; route 2 = candidate-role mapping (Saturn = incumbent party's older candidate) re-checked against the field face → same winner; routes agree, coordinate retained. Grain check: winner item has 2 pointers, kept; margin 0 pointers, not stated (noted).",
+ "confidence": 0.78,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

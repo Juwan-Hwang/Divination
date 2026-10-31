@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-332",
+ "prediction_text": "會試可捷（positive）。世父母未土四爻動化官鬼午火，父母化官主文章成名；官鬼巳火兩現得辰月生、庚午日扶。應期以試年榜期為窗（月檔），主座標午日（化官值日之信，月檔內信號）。置信中。",
+ "basis": "tradition：liuyao\nsystems_used：liuyao\n列面：主問會試已斷；餘面未載。用神官午由世父未動化出。動化方向：父化官向成；反轉條件：化空方廢，午不空。應期(k)月檔科試；(h)值期取中、日級降信號。對表科試門類首選化官值期取中。二路復推：初推午日信號，復推巳日官本支核之，同屬月窗無占優單日，粒度降檔月檔區間交付。粒度核：可捷主斷指針2（世化官＋官兩現得扶）保留。雙閘俱全。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：一爻動變否 true；reserve_used false；disputed false。"
+ }
+}
