@@ -1,0 +1,3603 @@
+[
+ {
+  "case_id": "AS-008",
+  "anons": [
+   "P3-6c5cdb1d"
+  ],
+  "seats": [
+   "X2"
+  ],
+  "flag_texts": [
+   "X2: 11. P3-6c5cdb1d（AS-008）：年份歧异——结局原文自注城于 27 日交出之围城年份史实为 1643、OCR 印作 1644，carry_note 自标「年份 1643（史实）与 OCR 1644 之歧、已双处自注」。"
+  ],
+  "outcome": "Confirmed in the text: 'The Town was delivered for the Parliament's use the 27th of April... three days after the time limited by me was expired; but the very Monday before, being eight days after the Figure set, they began to treat.' Lilly adds the King's relief was beaten back at Caversham Bridge, the Governor (Aston) was hurt in the head (as Saturn in Pisces(?) afflicted by Mars denoted), and they did not want ammunition, as Venus in the 5th signified. See the year flag in inputs (1643 historically; OCR prints 1644).",
+  "prior_rounds": [
+   56,
+   61,
+   62,
+   63,
+   67,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "Y4：结局年份 1643（史实）与 OCR 1644 之歧，结局内已双处自注（carry 已注）。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R67 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：承接既有定案不重裁（历轮最近定案 R56 部分成立）：原卡 asked_at 已自注年份印作 1644、史实围城结束为 1643，manifest 结局亦附「See the year flag in inputs (1643 historically; OCR prints 1644)」——年份歧属实，但已在卡面与结局双处自注，非未注明误记。 本轮（R61）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R62）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R63）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R67）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R68）manifest 该例结局与历轮所核文本一"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "AS-015",
+  "anons": [
+   "P3-bc1d3833"
+  ],
+  "seats": [
+   "X3",
+   "Y3"
+  ],
+  "flag_texts": [
+   "X3: - F14｜P3-bc1d3833（AS-015）：prediction 断丈夫活着平安，outcome_record 仅载彼女「died the eighth of October」，丈夫终局面无记载。",
+   "Y3: 17. P3-bc1d3833 — 同图兼断、主断面结局缺位：carry_note 载「结局仅载问者本人死日，夫存亡与归讯未载」；prediction_text 主断为丈夫活着平安将归。"
+  ],
+  "outcome": "Confirmed in the text: 'in truth she died the eighth of October, upon which day Mars and [the other significator] were in the eighth degree...'.",
+  "prior_rounds": [
+   49,
+   53,
+   54,
+   55,
+   57,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   66,
+   67,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X2：同图兼断例——结局仅载问者本人死日，夫存亡与归讯未载。；Y2：同图兼断例——结局仅载问者本人死日（10月8日），夫存亡与归讯未载。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R67 部分成立）：承接既有定案不重裁（历轮最近定案 R66 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：承接既有定案不重裁（历轮最近定案 R60 部分成立）：承接既有定案不重裁（历轮最近定案 R59 部分成立）：承接既有定案不重裁（R49 同图兼断定案、R53／R54／R55／R57／R58 部分成立）：原卡所问海上之夫存亡、何在、何时归，setting 自载 Lilly 同图兼断问者本人命运；R59 manifest 结局仅载问者本人十月八日之死、stripped_tail 补时窗一语——夫存亡与归讯确无记载，所指属实；问者死日面与兼断面明确对应。R59 manifest _r56／_r57／_r59 carry 注记均已登记。本轮自报与既有定案同旨。 本轮（R60）manifest 该例结局与历轮所核文本一致、自"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "AS-204",
+  "anons": [
+   "P3-fae17093"
+  ],
+  "seats": [
+   "X4"
+  ],
+  "flag_texts": [
+   "X4: - F16｜P3-fae17093｜carry_note 原文依据：「个案结局仅『果得真定』、后半混入断法通则」——结局后半非个案应验记录。"
+  ],
+  "outcome": "On speaking with the patient the symptoms were found: great pain and rumbling in his head, a very dry cough, great weakness and pain in his breast and at the heart, complexion as if inclined to the jaundice, a lingering consumption, red gravel and difficulty in making urine; 'He dyed the fourteenth of August following.'",
+  "prior_rounds": [],
+  "latest_prior": null,
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "AS-209",
+  "anons": [
+   "P3-d2d71944"
+  ],
+  "seats": [
+   "X4"
+  ],
+  "flag_texts": [
+   "X4: - F5｜P3-d2d71944｜carry_note 原文依据：「结局年份『1443』系 1643 误印、结局内已自注」——结局原文作 \"about the 14. of July 1443 [sic — misprint for 1643]\"。"
+  ],
+  "outcome": "'The truth is, he had Irish Forces came over, which much hardned the hearts of the English against him, but time cut them off... at the Siege of Nantwich, by valiant Fairfax'; 'The truth is, she met him about the 14. of July 1443 [sic — misprint for 1643] in Warwick-shire'; and at the April aspect, 'about Nottingham she lost some Forces'.",
+  "prior_rounds": [
+   61,
+   62,
+   63,
+   64,
+   65,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "Y4：结局年份「1443」系 1643 误印，结局内已自注。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R65 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：新旗标（R61 新立）：回原卡——双问国王借爱尔兰兵与王后北军南下会合；R61 manifest 结局载王后会合日期作「14. of July 1443 [sic — misprint for 1643]」——年份误印属实，但结局文本内已自注为 1643 之误印，非未注明误记。故部分成立（同 AS-008／BZ-036 自注类口径）。 本轮（R62）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R63）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R64）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R65）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R69）manifest 该例结局与历轮所核文本一致、自报"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "AS-210",
+  "anons": [
+   "P3-34b15863"
+  ],
+  "seats": [
+   "X1",
+   "Y1"
+  ],
+  "flag_texts": [
+   "X1: 15. P3-34b15863（AS-210）：carry_note 载「得缺以总承语带过、未明名」——职位到手一面未明名记载；另结局含 1647 OCR 与 1852 版异文并注。",
+   "Y1: - F24｜anon_id P3-34b15863｜依据（carry_note）：「得缺以总承语带过、未明名」；另结局时点表述内嵌版本校勘注记（1647 OCR 读法与 1852 版『within three weeks』并载）。"
+  ],
+  "outcome": "'and so it came to passe within lesse three weekes [1647 OCR reading; the 1852 edition reads 'within three weeks'], and he then discovered that his Friend was false, who had a great scar in his Face, was not of bright or yellow Hair, but of a blackish, dark colour'.",
+  "prior_rounds": [
+   54,
+   55,
+   57,
+   61,
+   62,
+   63,
+   64,
+   66,
+   67,
+   68,
+   69
+  ],
+  "latest_prior": {
+   "round": 69,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R68）",
+   "flag": "Y1：结局与断语对位异常。断语为「能得到所求职位/擢升」，结局原文仅载「he then discovered that his Friend was false, who had a great scar in his Face…」与职位面无关。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R67 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：承接既有定案不重裁（历轮最近定案 R57 部分成立）：承接既有定案不重裁（R54 结局省略式定案、R55 部分成立）：原卡所问能否得所求官职/优缺，manifest 结局以「and so it came to passe within lesse three weekes…」总承带过，得缺一事未在结局文本内明名，假朋友一面（疤、发色）则明载——所指一层属实。本轮自报与既有定案同旨；另本例 _r57 carry 注记文本未闭合，系建包截断问题，见特别核查①附带登记。 本轮（R61）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R62）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R63）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R64）"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "AS-215",
+  "anons": [
+   "P3-91f6a14a"
+  ],
+  "seats": [
+   "Y3"
+  ],
+  "flag_texts": [
+   "Y3: 20. P3-91f6a14a — 结局引文句中途截断：carry_note 载「结局引文句中途截断（主结局投降败局明载）」；outcome_record 英文引文止于「having onely Quarter for his Souldiers'」未完。"
+  ],
+  "outcome": "'The issue is this (for I write to Posterity): he prospered in the beginning, and I was daily by men of good quality and of authority jeered at, and derided for my former prediction... But behold, the eighth of September following came sad news, that the second of September this worthy man had surrendered all his Ammunition to his Majesty, having onely Quarter for his Souldiers' — the Lostwithiel surrender, 2 September 1644.",
+  "prior_rounds": [
+   69
+  ],
+  "latest_prior": {
+   "round": 69,
+   "disposition": "部分成立",
+   "relation": "新旗标（R69 新立）",
+   "flag": "Y4：结局引文中途截断｜所据原文：原文：\"having onely Quarter for his Souldiers' —\" 引语未完即接编者注。",
+   "finding_head": "新旗标（R69 新立）：回原卡——所问 Essex 伯爵西征之成败荣名；R69 manifest 结局载其先盛后败、「the second of September this worthy man had surrendered all his Ammunition to his Majesty」投降败局明载，但所引原话以「having onely Quarter for his Souldiers' —」中途截断、其后径接编者注「the Lostwithiel surrender, 2 September 1644」——引文截断一层属实；主结局（投降以败收）完整可核。故部分成立（同逗号收尾截断口径：截断在引文层、主结局明载）。"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "BQ-001",
+  "anons": [
+   "P3-a1086c4d"
+  ],
+  "seats": [
+   "X3",
+   "Y3"
+  ],
+  "flag_texts": [
+   "X3: - F3｜P3-a1086c4d（BQ-001）：outcome_record 本身仅载父气尽复苏自述，死亡应验靠 carry_note 所承接的 stripped_tail「更三日，当永去／果如言」，结局本体不完整。",
+   "Y3: 5. P3-a1086c4d — 结局本体仅求卜者当场自述（父气绝复苏自言），终局应验靠 carry_note 承接 stripped_tail 后断「更三日，当永去」之「果如言」总承，结局原文内无死亡记载。"
+  ],
+  "outcome": "求卜者当场自述：父卧疾三年，昨日鸡鸣时气尽、举家大哭，父忽惊寤自言「我死，有三尺人来迎，欲升天，闻哭声，遂坠地」。",
+  "prior_rounds": [
+   49,
+   51,
+   53,
+   54,
+   55,
+   58,
+   59,
+   62,
+   63,
+   64,
+   66,
+   67,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X3：outcome_record 本体仅载求卜者当场自述（父气尽复苏），父死应验信息仅存于 carry_note 所承接的 stripped_tail「更三日，当永去／果如言」，结局本体与承接层分离。；Y3：outcome_record 本体仅载气尽复苏自述，未载死亡终局；死亡应验信息靠 stripped_tail「更三日当永去·果如言」以 carry 形式承接，结局本体不完整。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R67 部分成立）：承接既有定案不重裁（历轮最近定案 R66 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R59 部分成立）：承接既有定案不重裁（R49／R51／R53／R54／R55／R58 部分成立，承接册 manifest-carryover-r55.md §16）：原卡所问父寿数（父卧疾三年、昨日气尽复苏）；R59 manifest cases 本体仅求卜者当场自述已事（气尽、举家大哭、父惊寤自言），本体内确无后事结局，此层属实；但同条 stripped_tail 载后断「更三日，当永去」原文以「果如言」结，原始记录后断有总承式应验、只是未进入 cases 本体，R59 manifest _r56／_r57 carry 注记均已登记该承接。本轮自报与既有定案同旨。 本轮（R62）manifest 该例结局与历轮所核文本一致、自报与"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "BQ-021",
+  "anons": [
+   "P3-19ba1d16"
+  ],
+  "seats": [
+   "X1"
+  ],
+  "flag_texts": [
+   "X1: 5. P3-19ba1d16（BQ-021）：carry_note 载「插莳与亢旱段有载、禾稻收成终局未载」——所问收成终局无从核验。"
+  ],
+  "outcome": "「后将插莳，果为阴人少财而去，逾三四日，而天则亢旱难用矣」——插莳之时果因（雇工/阴人）少财而去，逾三四日天大旱至于难用。",
+  "prior_rounds": [
+   66,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "Y3：所问面未载——禾稻收成终局未载（旱象有载）",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R66 部分成立）：新旗标（R66 新立）：回原卡——所问「卜禾（禾稻长势与天时）」；R66 manifest 结局载插莳时雇工（阴人）少财而去、逾三四日天亢旱难用——插莳与旱象段有载；但禾稻收成终局（转安／有收与否）无对应记载，所指终局缺位一层属实；结局亦非全无记载。故部分成立（同 BQ-025 即时段有载、终局未载口径）。 本轮（R68）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R69）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R70）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "BQ-025",
+  "anons": [
+   "P3-00b49870"
+  ],
+  "seats": [
+   "X1",
+   "Y1"
+  ],
+  "flag_texts": [
+   "X1: 2. P3-00b49870（BQ-025）：carry_note 载「结局止于占后半日之即时记载、养蜂终局未载」——结局只记群蜂攒聚即时事件，养蜂终局（死逃/收益）无从核验。",
+   "Y1: - F2｜anon_id P3-00b49870｜依据（carry_note）：「结局止于占后半日之即时记载、养蜂终局未载」——结局仅载占后半日群蜂攒聚，养蜂终局（死逃／收益）无记载。"
+  ],
+  "outcome": "「未半日，群蜂满身攒聚，惊惶无措」——占后不到半日，群蜂满身攒聚，占者惊惶无措。",
+  "prior_rounds": [
+   54,
+   57,
+   60,
+   61,
+   62,
+   63,
+   64,
+   66,
+   67,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X2：结局止于占后半日之即时记载，养蜂终局未载。；Y2：结局止于占后半日群蜂攒聚的即时记载，养蜂终局未载。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R67 部分成立）：承接既有定案不重裁（历轮最近定案 R66 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：承接既有定案不重裁（历轮最近定案 R60 部分成立）：承接既有定案不重裁（历轮最近定案 R57 部分成立）：承接既有定案不重裁（R54 部分成立）：原卡所问收养蜜蜂卜（养蜂吉凶），manifest 结局载占后未半日群蜂满身攒聚、惊惶无措——即时应象有直接记载，属养蜂事本身；但成群／散失／收益等养蜂终局未载，结局止于即时一幕，所指一层属实。本轮自报与既有定案同旨。 本轮（R60）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R61）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R62）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R6"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "BZ-035",
+  "anons": [
+   "P3-a3a97178"
+  ],
+  "seats": [
+   "Y3"
+  ],
+  "flag_texts": [
+   "Y3: 7. P3-a3a97178 — 题面出生年与史载不合：carry_note 载「题面出生年 1803 与史载常年不合、prediction 已自注、断语只据四柱不据年数」。"
+  ],
+  "outcome": "史实：李鸿章官至直隶总督兼北洋大臣、文华殿大学士，位极人臣，为晚清第一重臣；1901年卒于北京——与崇祯同格不同命的对勘成立",
+  "prior_rounds": [
+   62,
+   63,
+   66,
+   69
+  ],
+  "latest_prior": {
+   "round": 69,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R66）",
+   "flag": "X3：题面出生年与史载不合。所据 carry_note：「题面出生年 1803 与史载常年不合、prediction 已自注、断语只据四柱不据年数」。；Y3：carry_note 自注「题面出生年 1803 与史载常年不合、prediction 已自注、断语只据四柱不据年数」——题面数据异常，原文照录。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R66 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：新旗标（R62 新立）：回原卡——卡面 birth 载「清嘉庆八年（1803年），原书仅存四柱」，命主李鸿章史载生于 1823 年，卡面 1803 年与史载常年不合属实，四柱（癸未 甲寅 乙亥 己卯）与史载之年相合；但 R62 prediction 正文已自注「输入卡载出生年为1803年，与史载常年不合，断语只据四柱不据年数」，basis 亦同旨——出入已自注、仅限年份一层（同 BZ-036／BZ-037 已自注出入口径）。故部分成立。 本轮（R63）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R66）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R69）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "BZ-036",
+  "anons": [
+   "P3-1b988f10"
+  ],
+  "seats": [
+   "X1",
+   "Y1"
+  ],
+  "flag_texts": [
+   "X1: 16. P3-1b988f10（BZ-036）：结局内自注系狱年数原书六载与史载三年有出入，carry_note 已登记。",
+   "Y1: - F26｜anon_id P3-1b988f10｜依据（outcome_record 自注）：「1903年苏报案系狱（己巳运前后，原书作六载，史载下狱三年、系狱前后牵连较久，此年数有出入，盲测比对须注）」——原书年数与史载有出入。"
+  ],
+  "outcome": "史实：章太炎为国学大师、革命家，富名而不富财；1903年苏报案系狱（己巳运前后，原书作六载，史载下狱三年、系狱前后牵连较久，此年数有出入，盲测比对须注）；1936年卒于苏州",
+  "prior_rounds": [
+   56,
+   60,
+   61,
+   62,
+   63,
+   64,
+   66,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X2：系狱年数原书六载与史载三年出入，已在结局内自注。；Y2：系狱年数原书作六载、史载三年，结局内已自注出入。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R66 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：承接既有定案不重裁（历轮最近定案 R60 部分成立）：承接既有定案不重裁（历轮最近定案 R56 部分成立）：manifest 结局本体载章太炎 1903 年苏报案系狱，并自注原书作六载、史载下狱三年、年数有出入——原载与史载出入属实，但仅限已自注的年数一层，非本数据集结局误记。 本轮（R60）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R61）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R62）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R63）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R64）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R66）manifest 该例结局"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "BZ-037",
+  "anons": [
+   "P3-a1639a04"
+  ],
+  "seats": [
+   "Y3"
+  ],
+  "flag_texts": [
+   "Y3: 6. P3-a1639a04 — 结局内自注已知偏差点：「原载『未执政』与史载出入……本数据集如实标为已知偏差点」（段祺瑞 1924-1926 任临时执政）。"
+  ],
+  "outcome": "史实：段祺瑞三任国务总理、1924-1926任临时执政（韦书成于1963年，「未执政」一语与史实不合，疑指其执政不稳/未久安，或版本文字之异——本数据集如实标为已知偏差点）；1918-1920确为其权势黄金期；1936年卒",
+  "prior_rounds": [
+   56,
+   59,
+   61,
+   62,
+   63,
+   64,
+   66,
+   67,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X3：outcome_record 内自注原载「未执政」与史实不合（段祺瑞实际任临时执政），为结局文本已知偏差点。；Y3：结局内自注原载「未执政」与史实不合，为已知偏差点。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R67 部分成立）：承接既有定案不重裁（历轮最近定案 R66 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：承接既有定案不重裁（历轮最近定案 R59 部分成立）：承接既有定案不重裁（R56 部分成立）：原卡所问断段祺瑞命造（一生格局、吉凶与运程）；R59 manifest 结局本体已正确载段祺瑞三任国务总理、1924-1926 任临时执政，并自注原载『未执政』与史实不合、疑指其执政不稳/未久安或版本文字之异、标为已知偏差点——原载与史载出入属实，但仅限已自注的原载异文一层，非本数据集结局误记；其承接注记已载于 R59 manifest _r58 carry 注记。本轮自报与既有定案同旨。 本轮（R61）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R62）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R63）manif"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "BZ-041",
+  "anons": [
+   "P3-d79a72f9"
+  ],
+  "seats": [
+   "X4"
+  ],
+  "flag_texts": [
+   "X4: - F15｜P3-d79a72f9｜carry_note 原文依据：「结局自注卒年不详于所据来源、终局时点无从核验（已自注）」；P3-e7d485aa｜结局原文自注「其晚年败落细节本数据集所据来源未备……待另核」。"
+  ],
+  "outcome": "史实：王晓籁为上海商界领袖，子女三十余人属实（原书自载沪人话之熟矣）；1955年后居香港经商，卒年不详于本数据集所据来源",
+  "prior_rounds": [
+   64,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "Y4：结局自注卒年不详于所据来源，终局时点无从核验，claims/timing 据此封顶",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：新旗标（R64 新立）：回原卡——所问「断此命造（一生格局、吉凶与运程）」；R64 manifest 结局载王晓籁子女三十余人属实、1955 年后居香港经商，并自注『卒年不详于本数据集所据来源』——卒年不详属实、终局时点无从核验一层成立，但已在结局文本内逐字自注、非未注明误记。故部分成立（同 BZ-042 来源未备自注口径）。 本轮（R68）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R69）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R70）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "BZ-042",
+  "anons": [
+   "P3-e7d485aa"
+  ],
+  "seats": [
+   "X4"
+  ],
+  "flag_texts": [
+   "X4: - F15｜P3-d79a72f9｜carry_note 原文依据：「结局自注卒年不详于所据来源、终局时点无从核验（已自注）」；P3-e7d485aa｜结局原文自注「其晚年败落细节本数据集所据来源未备……待另核」。"
+  ],
+  "outcome": "史实：程霖生为上海地产/金融巨富，最盛时财产以美金亿计（原书自载）；其晚年败落细节本数据集所据来源未备，戊运十五年失败期为韦氏预断，待另核（盲测比对时以格局大富一项为主）",
+  "prior_rounds": [
+   53,
+   57,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R66）",
+   "flag": "Y4：结局自注晚年败落细节来源未备待另核，相关子断语与时点无从核验，claims/timing 据此封顶",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R66 部分成立）：承接既有定案不重裁（历轮最近定案 R65 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：承接既有定案不重裁（历轮最近定案 R57 部分成立）：承接既有定案不重裁（R53 来源未备定案）：原卡所问命造一生格局吉凶运程，manifest 结局本体载程霖生巨富、财产美金亿计，并自注「其晚年败落细节本数据集所据来源未备……待另核（盲测比对时以格局大富一项为主）」——未备一层属实，但已在结局文本内逐字自注并给出比对口径，非未注明的数据问题。本轮自报与既有定案同旨。 本轮（R61）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R62）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R63）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R64）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R65）manifest"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "BZ-104",
+  "anons": [
+   "P3-974e5b27"
+  ],
+  "seats": [
+   "X3",
+   "Y3"
+  ],
+  "flag_texts": [
+   "X3: - F9｜P3-974e5b27（BZ-104）：结局原文自注系「求测方口头反馈，无第三方记录」。",
+   "Y3: 14. P3-974e5b27 — 结局证据等级低：carry_note 载「结局系求测方口头反馈、无第三方记录（结局内已自述）」。"
+  ],
+  "outcome": "1991年元月邵再回老家，老友夫妇告知：其子1990年先患肝炎住院，后又骑摩托车撞伤（书内自述，求测方口头反馈，无第三方记录）",
+  "prior_rounds": [
+   61,
+   62,
+   63,
+   64,
+   67,
+   68,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R68）",
+   "flag": "X2：结局系求测方口头反馈、无第三方记录（结局内自述）；Y2：结局系求测方口头反馈、无第三方记录（结局内自述）",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R67 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：新旗标（R61 新立）：回原卡——邵伟华四柱断子未来病伤；R61 manifest 结局载 1990 年肝炎住院与骑摩托撞伤，并自注「（书内自述，求测方口头反馈，无第三方记录）」——口头反馈、无第三方记录属实，但来源性质已在结局内自述，非未注明问题。故部分成立（同 LY-105 二手来源例口径）。 本轮（R62）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R63）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R64）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R67）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R68）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R70）man"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "BZ-105",
+  "anons": [
+   "P3-ad4bf599"
+  ],
+  "seats": [
+   "X3",
+   "Y3"
+  ],
+  "flag_texts": [
+   "X3: - F6｜P3-ad4bf599（BZ-105）：结局原文自注为回溯断验（retrodiction），「断的是已发生且求测者本人知晓之事，盲测价值低于前瞻断语」。",
+   "Y3: 11. P3-ad4bf599 — 回溯断验：outcome_record 自注「此为回溯断验（retrodiction），断的是已发生且求测者本人知晓之事，盲测价值低于 C04 类前瞻断语」；且 prediction_text 未指名所断两关键年份，年份无从逐条核验。"
+  ],
+  "outcome": "求测者当场证实1972年患目疾几近失明、1982年患病住院（书内自述）。按：此为回溯断验（retrodiction），断的是已发生且求测者本人知晓之事，盲测价值低于C04类前瞻断语，使用时须分开统计",
+  "prior_rounds": [
+   49,
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X1：结局自注为回溯断验（retrodiction），所断为求测者已知之事，盲测价值受限；且两关键年份结局均为病伤，与 prediction「一病伤一职变」结构不符。；Y1：outcome_record 末尾附编辑性按语（含「使用时须分开统计」一类指令性字样与回溯断验说明），属数据层注记、已按数据处理；另预测原文自称年档定年却未给出具体年份，两关键年份无从逐年核对。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R66 部分成立）：承接既有定案不重裁（历轮最近定案 R65 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：承接既有定案不重裁（历轮最近定案 R60 部分成立）：新旗标（R60 新立）：回原卡——卡面 context 明注「此例属『测过去』的回溯验证，非未来预测」、attachments.case_type 为 retrodiction；R60 manifest 结局亦自注「此为回溯断验（retrodiction），断的是已发生且求测者本人知晓之事，盲测价值低于C04类前瞻断语」——回溯属实且已在卡面与结局双处明标，成色一层成立，但非未注明问题。故部分成立（同 R56 LY-105 二手来源例口径）。 本轮（R61）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R62）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮 X4"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "BZ-304",
+  "anons": [
+   "P3-8e151dbe"
+  ],
+  "seats": [
+   "X3",
+   "Y3"
+  ],
+  "flag_texts": [
+   "X3: - F7｜P3-8e151dbe（BZ-304）：carry_note（R60-addendum-a）载结局末句引述『5-6月恢复正常』不见于本轮 prediction 全文、原始出处未载于原卡。",
+   "Y3: 2. P3-8e151dbe — 结局末句引述无出处：carry_note 载「结局末句引述『5-6月恢复正常』不见于本轮 prediction 全文、其原始出处未载于原卡」；本席回读 prediction_text 确未见该语。"
+  ],
+  "outcome": "新加坡于2020年4月7日至6月1日实施「阻断措施」（Circuit Breaker），客工宿舍暴发大规模感染，4-6月正是本地最严重阶段；全球疫情则在2020年下半年进一步恶化，与「5-6月恢复正常」相反",
+  "prior_rounds": [
+   58,
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X3：carry_note 载 outcome 末句引述「5-6月恢复正常」不见于本轮 prediction_text 全文，出处未载于原卡。；Y3：结局末句引述「5-6月恢复正常」不见于本轮 prediction 全文（carry 自注，原始出处未载）。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R66 部分成立）：承接既有定案不重裁（历轮最近定案 R65 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：承接既有定案不重裁（历轮最近定案 R60 部分成立）：承接既有定案不重裁（历轮最近定案 R58 部分成立）：新旗标（历轮标注 r49–r57 与承接册／各附则均无本 case_id 条目，去重检索已跑完）：逐字核 runs/round58/predictions/BZ-304.json 全文——prediction_text 作「中段夏秋病例回落、管控松动」「远段冬季全球再起一波」，确无「5-6月恢复正常」一语，亦无 5–6 月时点表述，X4 所指不合属实。但 R58 manifest 结局本体所载事实层（新加坡 2020 年 4 月 7 日至 6 月 1 日阻断措施、4–6 月本地最严重、全球下半年进一步恶化）自"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LR2-016",
+  "anons": [
+   "P3-ff842fc6"
+  ],
+  "seats": [
+   "X4"
+  ],
+  "flag_texts": [
+   "X4: - F11｜P3-ff842fc6｜editor_note 原文：「原文未逐字复核『甲戌日巳时』的日时细节，评分时该细项请按未完全复核处理。」——该注记含指令性字样，本席仅按登记性数据处理、未据此调整评分；另 carry_note 自承「carry 注记截断问题另按特别核查①登记」。"
+  ],
+  "outcome": "众不然其说，三月冯大司寇上疏，旨意驳下，四月上疏，依拟脱离。",
+  "prior_rounds": [
+   49,
+   55,
+   57,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   66,
+   67,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X1：carry_note 内含「该字样仅作数据注记沿用，不作任何评分指令承接」等指令性字样，已按登记性数据处理，未作评分指令；另注记提及「甲戌日巳时」细项未见于结局原文。；Y1：editor_note 提及「甲戌日巳时」细节，但该细节并不出现在本包 outcome_record 文本内，注记层与结局文本不一致；评分未采用该细节。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近同旨定案 R66 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：承接既有定案不重裁（历轮最近定案 R60 部分成立）：承接既有定案不重裁（历轮最近定案 R59 部分成立）：承接既有定案不重裁（R49 编者注出处定案、R55／R57 部分成立）：原卡所问「陈秋桃被逮刑部，何时出狱？」；R59 manifest 已按 _r56_lr2016_split 将编者复核注与结局原文分列——cases 本体仅「众不然其说，三月冯大司寇上疏，旨意驳下，四月上疏，依拟脱离。」，「甲戌日巳时」细项未完全复核之注记以标注形式承接（_r59 carry 注记同旨续接登记）；该细项未复核一层属实，注记按数据处理、不作指令。本轮自报与既有定案同旨。 本轮（R60）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R61）mani"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LR2-018",
+  "anons": [
+   "P3-468cd1e2"
+  ],
+  "seats": [
+   "X2"
+  ],
+  "flag_texts": [
+   "X2: 1. P3-468cd1e2（LY-023）：结局迁移断面——结局原文「果於八月其子驚風（其後復占子病，見 LY-024）」载的是其子惊风，所占母病终局未另载；carry_note 自标「大师自标迁移——结局子惊风对应迁移断面，母病结果源未另载」。"
+  ],
+  "outcome": "后曹大司礼奉命热审，开豁谪戍。",
+  "prior_rounds": [],
+  "latest_prior": null,
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LR2-022",
+  "anons": [
+   "P3-c3b42169"
+  ],
+  "seats": [
+   "X4",
+   "Y4"
+  ],
+  "flag_texts": [
+   "X4: - F2｜P3-c3b42169｜carry_note 原文依据：「终句主语文本未明示、按本案病弟断面读」——结局「果三日死」的死亡主语文本未明示。",
+   "Y4: - F5（P3-c3b42169 / LR2-022）：outcome_record 终句「果三日死」主语文本未明示（carry_note 已登记，按本案病弟断面读），结局系复占段与初占段合载。"
+  ],
+  "outcome": "张友不言而去。顷焉一人至复占（白虎发用、丧吊全逢，三日内死者），张友又请吕纯阳下降判白数合于数，果三日死。",
+  "prior_rounds": [
+   49,
+   51,
+   56,
+   58,
+   60,
+   61,
+   62,
+   63,
+   64,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X4：结局终句主语文本未明示（三日内死者），按 carry 登记以本案病弟断面读后评分。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：承接既有定案不重裁（历轮最近定案 R60 部分成立）：承接既有定案不重裁（历轮最近定案 R58 部分成立）：承接既有定案不重裁（R51 部分成立承 R49、R56 部分成立）：原卡为兄为弟观初占病，R58 manifest 结局并载同日复占与扶乩复核、终句「果三日死」零主语，文本表面承接含混属实，但 stripped_tail 明注复占与扶乩均同断、终句为本断应验，非配对错误；其承接注记已载于 R58 manifest _r58_carryover_notes_addendum。本轮自报与既有定案同旨。 本轮（R60）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R61）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R62）manifest 该例结局与历轮所核文本一"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LR2-023",
+  "anons": [
+   "P3-a94c5b5a"
+  ],
+  "seats": [
+   "X3",
+   "Y3"
+  ],
+  "flag_texts": [
+   "X3: - F4｜P3-a94c5b5a（LR2-023）：outcome_record「后果然（儿妇妊性别如断）」所指妊性别断语不见于本席回读的 prediction_text（该文主断张澹宁病可愈）；且结局并载「澹宁壬午春死」，与病断关系未标。",
+   "Y3: 8. P3-a94c5b5a — 结局并载另一断面（儿妇妊性别）且病面应验靠 carry_note 承接 stripped_tail「当年脱险」信息；结局原文仅「后果然（儿妇妊性别如断），澹宁壬午春死」。"
+  ],
+  "outcome": "后果然（儿妇妊性别如断），澹宁壬午春死。",
+  "prior_rounds": [
+   54,
+   55,
+   57,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   67,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X3：outcome_record 本体混入儿妇妊性别断面（「后果然」指代该面）与「澹宁壬午春死」，病脱险信息仅由 carry_note 承接 stripped_tail「当年脱险」。；Y3：结局「后果然（儿妇妊性别如断），澹宁壬午春死」与本轮 prediction（病可脱险转安）断面不合，妊性别断语未见于 prediction 原文，疑配对/转录层面问题。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R67 部分成立）：承接既有定案不重裁（历轮最近定案 R65 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：承接既有定案不重裁（历轮最近定案 R60 部分成立）：承接既有定案不重裁（历轮最近定案 R59 部分成立）：承接既有定案不重裁（R54／R55／R57 部分成立）：原卡所问「张澹宁之病吉凶若何？」；R59 manifest cases 本体「后果然（儿妇妊性别如断），澹宁壬午春死。」——病愈未明字直载，总承所指为儿妇妊性别一面，所指属实；同条 stripped_tail 注「当年脱险、儿妇生男生女、壬午春卒三项均见原文应验记载」，病面主线在尾注层有对应，非配对错位。R59 manifest _r57／_r59 两组 carry 注记均已登记该承接。本轮自报与既有定案同旨。 本轮（R60）manifest 该例结局与"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LR2-024",
+  "anons": [
+   "P3-1cf31db1"
+  ],
+  "seats": [
+   "Y1"
+  ],
+  "flag_texts": [
+   "Y1: - F12｜anon_id P3-1cf31db1｜依据（carry_note）：涉及 stripped_tail 承接信息；结局原文仅「已而果然。七月死期为本课结局。」为总括式表述，断面未分载。"
+  ],
+  "outcome": "已而果然。七月死期为本课结局。",
+  "prior_rounds": [
+   55,
+   57,
+   58,
+   62,
+   63,
+   64,
+   65
+  ],
+  "latest_prior": {
+   "round": 65,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R64）",
+   "flag": "Y1：结局末句为回溯性编者式自注（自称「为本课结局」），属元注记混入结局文本层，非结局事实本身。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R58 部分成立）：承接既有定案不重裁（R55／R57 部分成立）：原卡所问「卢承山之病吉凶若何？」，R58 manifest cases 本体「已而果然。七月死期为本课结局。」——「为本课结局」为编述式措辞、表面与果然并见易读作自相矛盾，含混一层属实；但 stripped_tail 明注原文以「已而果然」承「七月必死」之断、所指唯一，病亡主线在尾注层有明确对应，非文本残损、非配对错误；本轮 prediction 断病可愈与结局方向相反属评分面。本轮自报与既有定案同旨。 本轮（R62）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R63）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R64）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮 X4 所指「七月死期为本课结局」含编述措辞一层，已在 R58 层定案（「为本课结局」为编述式措辞、含混一层属实）内同旨承接。 本轮"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LR3-002",
+  "anons": [
+   "P3-7c621d5c"
+  ],
+  "seats": [
+   "X2",
+   "Y2"
+  ],
+  "flag_texts": [
+   "X2: 9. P3-7c621d5c（LR3-002）：主语未明——结局原文「仅撤回剿贼；庚辰太岁受克、退位」，carry_note 自标「『退位』主语未明字」，出师胜负的对应主体无法确核。",
+   "Y2: - F-Y2-10｜P3-7c621d5c（LR3-002）：carry_note 自述 outcome_record 中「『退位』主语未明字」。"
+  ],
+  "outcome": "仅撤回剿贼；庚辰太岁受克、退位。",
+  "prior_rounds": [
+   49,
+   56,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   66,
+   67,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X1：结局「退位」主语未明字，无法确认与所占出师主体的对应。；Y1：outcome_record 混入机制自解层字样（「庚辰太岁受克」）与事实（仅撤回剿贼、退位）并列，事实与机制未分层；评分仅取事实层。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R67 部分成立）：承接既有定案不重裁（历轮最近定案 R66 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：承接既有定案不重裁（历轮最近定案 R60 部分成立）：承接既有定案不重裁（历轮最近定案 R59 部分成立）：承接既有定案不重裁（R56 部分成立，承 R49 短承定案；R58 同旨）：原卡所问总镇奉命出师吉凶，R59 manifest 结局「仅撤回剿贼；庚辰太岁受克、退位。」——撤回事为出师主线直接记载，但文义简略、「退位」主语未明字属实，stripped_tail 已注撤回与退位两项俱为确指应验；其承接注记已载于 R59 manifest _r58 carry 注记。本轮自报与既有定案同旨。 本轮（R60）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R61）manifest 该例结局"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LR3-101",
+  "anons": [
+   "P3-23fd113e"
+  ],
+  "seats": [
+   "X1",
+   "Y1"
+  ],
+  "flag_texts": [
+   "X1: 11. P3-23fd113e（LR3-101）：carry_note 载「中否以补官间接对应、未明载」——会试中否只能由补官间接推断。",
+   "Y1: - F16｜anon_id P3-23fd113e｜依据（carry_note）：「中否以补官间接对应、未明载」——会试中否无直接记载，仅以补刑部主政间接对应。"
+  ],
+  "outcome": "后补刑部主政，恬退不仕。同课旁载的代占会武中两名、占病死二人系一课多占的旁验，不属本例结局。",
+  "prior_rounds": [
+   54,
+   57,
+   60,
+   61,
+   62,
+   63,
+   64,
+   66,
+   69
+  ],
+  "latest_prior": {
+   "round": 69,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R66）",
+   "flag": "X3：结局含编者排除性说明、主断间接对应。所据原文：「同课旁载的代占会武中两名、占病死二人系一课多占的旁验，不属本例结局。」；carry_note：「中否以补官间接对应、未明载」。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R66 部分成立）：同例新旨（历轮旧旨为『会试中否未明字、仅以补官间接对应』、定案部分成立，本轮新旨与之各旨独立、并行不悖）：回原卡——所问「会试中否？」；R66 manifest 结局『后补刑部主政，恬退不仕。』后并载编者排除性说明句『同课旁载的代占会武中两名、占病死二人系一课多占的旁验，不属本例结局。』——编者说明句并载于结局文本属实一层；但该句系明示排除旁验、划清本例边界，非他例结局混入，本例主线补官记载本身完整。故部分成立。 本轮（R69）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LR3-112",
+  "anons": [
+   "P3-9ab3c9d2"
+  ],
+  "seats": [
+   "X3",
+   "Y3"
+  ],
+  "flag_texts": [
+   "X3: - F2｜P3-9ab3c9d2（LR3-112）：prediction_text 为刘一纯病可愈断，outcome_record 却主载「果后三月一贼入室…陈忠也」贼事，病断结局原文自注「原文未载后续结局」——问目与结局断面错位、病面结局缺位。",
+   "Y3: 4. P3-9ab3c9d2 — 病面结局缺位（永久承接标记）：carry_note 载承接册第 14 件永久承接「病面结局缺位」；结局载贼入室被获陈忠，并自注「病断（甲戌年不保）原文未载后续结局」，而 prediction_text 为病可愈断，断面错位。"
+  ],
+  "outcome": "果后三月一贼入室，刘复来言及。后贼果被获，及询其姓名，则陈忠也（年少、独行、告官三日获等细项原文未逐项复核）。病断（甲戌年不保）原文未载后续结局。",
+  "prior_rounds": [
+   49,
+   51,
+   53,
+   54,
+   55,
+   57,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   66,
+   67,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X3：outcome_record 载贼入室被获，所问病面结局缺位（carry_note 亦标「病面结局缺位」）。；Y3：病面结局缺位——结局仅载贼入室被获一面，本轮 prediction 的病断无结局可核。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R67 部分成立）：承接既有定案不重裁（历轮最近定案 R66 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：承接既有定案不重裁（历轮最近定案 R60 部分成立）：承接既有定案不重裁（历轮最近定案 R59 部分成立）：承接既有定案不重裁（R49 并断贼事定案、R51／R53／R54／R55／R57 部分成立；承接册第 14 件永久标记）：原卡所问仅「占病吉凶若何？」，R59 manifest 结局只载贼入室被获一事，且自带明注「病断（甲戌年不保）原文未载后续结局」——病面缺位属实且已自注；结局所引原断（甲戌年不保）与本轮 prediction（病可愈）方向相反属评分面对勘，不改变病面缺位之数据定案。本 id 自 R56 起永久承接「病面结局缺位」标记、不逐轮重复立旗，本轮自报即该标记所预见的同例重复立旗。R59 manif"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LR3-116",
+  "anons": [
+   "P3-00abf41c"
+  ],
+  "seats": [
+   "X1",
+   "Y1"
+  ],
+  "flag_texts": [
+   "X1: 1. P3-00abf41c（LR3-116）：carry_note 载「卡面三传后二传天干未载、旬空未载，残损已于卡面与 prediction 双示」——盘面残损，射覆断物依据不全。",
+   "Y1: - F1｜anon_id P3-00abf41c｜依据（carry_note）：「卡面三传后二传天干未载、旬空未载，残损已于卡面与 prediction 双示」——盘面残损，射覆断物置信受限。"
+  ],
+  "outcome": "范大服，开帨视之，是牛黄二块，每块约重四分七八厘。",
+  "prior_rounds": [
+   68,
+   69
+  ],
+  "latest_prior": {
+   "round": 69,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R68）",
+   "flag": "X3：卡面残损。所据 carry_note：「卡面三传后二传天干未载、旬空未载，残损已于卡面与 prediction 双示」。；Y3：carry_note 自注「卡面三传后二传天干未载、旬空未载」——卡面残损已于卡面与 prediction 双示。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R68 部分成立）：新旗标（R68 新立）：回原卡——所问袖帨中包何物（射覆）；R68 prediction 正文自载「卡面三传后二传天干未载、旬空未载，输入残损，置信低」，basis 亦同旨，原卡 attachments 三传条自注「[天干未载，两本字面相同]」、空亡条作「原书未载旬空」——残损属实一层；但残损已在卡面与 prediction 双处明示、prediction 已降置信交付，射覆主断与结局（是牛黄二块）对应面完整可核。故部分成立（同 YY2-004／OC-009 残损双示口径）。 本轮（R69）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-011",
+  "anons": [
+   "P3-fab0815d"
+  ],
+  "seats": [
+   "Y4"
+  ],
+  "flag_texts": [
+   "Y4: - F1（P3-fab0815d / LY-011）：主语不合。prediction_text 通篇以母为占问主语（「母可来」「母亲已在归途」），outcome_record 为「果於次年三月妹至」，至者为妹而非母，两面主语不一致。"
+  ],
+  "outcome": "果於次年三月妹至",
+  "prior_rounds": [
+   49,
+   53,
+   54,
+   55,
+   57,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   66,
+   67,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "Y3：双断例，结局「妹至」对应原书大师第二断、非本轮 prediction 内容（carry 多轮自注）；本轮 prediction 断母至，与结局人物不合。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R67 部分成立）：承接既有定案不重裁（历轮最近定案 R66 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：承接既有定案不重裁（历轮最近定案 R60 部分成立）：承接既有定案不重裁（历轮最近定案 R59 部分成立）：承接既有定案不重裁（R49／R53／R54／R55 对象不对位定案、R57 特别核查②、R58 复核，部分成立）：原卡所问「占母路隔千里何時來」、setting 自载求测者有妹无弟；R59 manifest 结局「果於次年三月妹至」；R59 manifest _r58／_r59 carry 注记已含补明文本「双断为原书大师原断、非本轮 prediction 内容」。对象不对位属实、系同条双断对应第二断，非建卡配对错误；注记与本轮 prediction 不合之因承 R57／R58 定案在 prediction 只覆盖双断之第一断，非注记误载。本轮自报与既有定案同旨"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-017",
+  "anons": [
+   "P3-38734ec4"
+  ],
+  "seats": [
+   "X1",
+   "Y1"
+  ],
+  "flag_texts": [
+   "X1: 13. P3-1901070d（LY-021）、P3-31551bad（LY-034）、P3-38734ec4（LY-017）：carry_note 均载「卡面无 tradition/system 字段、basis 首行『與卡面一致』措辞不实」——卡面元数据与 basis 措辞不符（tradition 值与体裁一致、无 value 误标）。",
+   "Y1: - F25｜anon_id P3-38734ec4｜依据（carry_note）：「卡面无 tradition/system 字段、basis 首行『與卡面一致』措辞不实，tradition 值六爻与体裁一致、无 value 误标」。"
+  ],
+  "outcome": "果升於卯月",
+  "prior_rounds": [
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "Y4：卡面无 tradition/system 字段、basis 首行「與卡面一致」措辞不实（carry 已注，注记层问题，不影响评分）。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：新旗标（R69 主持 tradition 复核新立）：主持复核并经本席回源逐件核——原卡（inputs-dev12/LY-017.json）全卡无 tradition/system 字段（结构化直读断言），而 R69 prediction basis 首行作「卡面 tradition＝liuyao，與卡面一致」——『與卡面一致』之卡面归属措辞不实一层属实；但所用 tradition 值（六爻）与卡面体裁实质一致、无 value 误标，断语与结局对应完整，主持裁定不重测（承 R67 BZ-021/ZY-003 型判例登记处置）。故部分成立。 本轮（R70）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。另本轮核明：逐字核 R70 prediction basis 首行作「卡面未标注 tradition 字段，按题面体裁自决」，本轮 prediction 并无『與卡面一致』之语——本轮旗标所指系 R69 旧措辞经 carry 注记转述，与本轮 prediction 口径不合一层属实（同 LY-520 注记过时口径），与"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-019",
+  "anons": [
+   "P3-86eddadc"
+  ],
+  "seats": [
+   "X3",
+   "Y3"
+  ],
+  "flag_texts": [
+   "X3: - F16｜P3-86eddadc（LY-019）：carry_note 载卡面无 tradition/system 字段、basis 首行「與卡面一致」措辞不实（tradition 值与体裁一致、无 value 误标）。",
+   "Y3: 25. P3-86eddadc — 卡面措辞不实标注：carry_note 载「卡面无 tradition/system 字段、basis 首行『與卡面一致』措辞不实，tradition 值六爻与体裁一致、无 value 误标」。"
+  ],
+  "outcome": "果於卯日過關，並無阻滯",
+  "prior_rounds": [
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X2：卡面无 tradition/system 字段，prediction basis 首行「與卡面一致」措辞不实（tradition 值六爻与体裁一致、无 value 误标）；Y2：卡面无 tradition/system 字段，prediction basis 首行「與卡面一致」措辞不实（tradition 值六爻与体裁一致、无 value 误标）",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：新旗标（R69 主持 tradition 复核新立）：主持复核并经本席回源逐件核——原卡（inputs-dev12/LY-019.json）全卡无 tradition/system 字段（结构化直读断言），而 R69 prediction basis 首行作「卡面 tradition＝liuyao，與卡面一致」——『與卡面一致』之卡面归属措辞不实一层属实；但所用 tradition 值（六爻）与卡面体裁实质一致、无 value 误标，断语与结局对应完整，主持裁定不重测（承 R67 BZ-021/ZY-003 型判例登记处置）。故部分成立。 本轮（R70）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。另本轮核明：逐字核 R70 prediction basis 首行作「卡面未标注 tradition 字段，按题面体裁自决」，本轮 prediction 并无『與卡面一致』之语——本轮旗标所指系 R69 旧措辞经 carry 注记转述，与本轮 prediction 口径不合一层属实（同 LY-520 注记过时口径），与"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 1,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-021",
+  "anons": [
+   "P3-1901070d"
+  ],
+  "seats": [
+   "X1",
+   "Y1"
+  ],
+  "flag_texts": [
+   "X1: 13. P3-1901070d（LY-021）、P3-31551bad（LY-034）、P3-38734ec4（LY-017）：carry_note 均载「卡面无 tradition/system 字段、basis 首行『與卡面一致』措辞不实」——卡面元数据与 basis 措辞不符（tradition 值与体裁一致、无 value 误标）。",
+   "Y1: - F10｜anon_id P3-1901070d｜依据（carry_note）：「卡面无 tradition/system 字段、basis 首行『與卡面一致』措辞不实，tradition 值六爻与体裁一致、无 value 误标」。"
+  ],
+  "outcome": "果於戌日申時雨",
+  "prior_rounds": [
+   64,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X1：carry_note 指出卡面无 tradition/system 字段、basis 首行「與卡面一致」措辞不实——注记层/卡面一致性问题（结局本身无异常）。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：新旗标（R69 主持 tradition 复核新立）：主持复核并经本席回源逐件核——原卡（inputs-dev12/LY-021.json）全卡无 tradition/system 字段（结构化直读断言），而 R69 prediction basis 首行作「卡面 tradition＝liuyao，與卡面一致」——『與卡面一致』之卡面归属措辞不实一层属实；但所用 tradition 值（六爻）与卡面体裁实质一致、无 value 误标，断语与结局对应完整，主持裁定不重测（承 R67 BZ-021/ZY-003 型判例登记处置）。故部分成立。 本轮（R70）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。另本轮核明：逐字核 R70 prediction basis 首行作「卡面未标注 tradition 字段，按题面体裁自决」，本轮 prediction 并无『與卡面一致』之语——本轮旗标所指系 R69 旧措辞经 carry 注记转述，与本轮 prediction 口径不合一层属实（同 LY-520 注记过时口径），与"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-023",
+  "anons": [
+   "P3-45feb719"
+  ],
+  "seats": [
+   "Y2"
+  ],
+  "flag_texts": [
+   "Y2: - F-Y2-01｜P3-45feb719（LY-023）：问面为母病，outcome_record 为「果於八月其子驚風（其後復占子病，見 LY-024）」——母病终局未另载；carry_note 自述「大师自标迁移——结局子惊风对应迁移断面，母病结果源未另载」。"
+  ],
+  "outcome": "果於八月其子驚風（其後復占子病，見 LY-024）",
+  "prior_rounds": [
+   49,
+   53,
+   54,
+   55,
+   57,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   67,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X2：大师自标迁移例——结局子惊风对应迁移断面，母病结果未另载。；Y2：迁移断面——结局为其子八月惊风，母病结果源未另载。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 成立）：承接既有定案不重裁（历轮最近定案 R68 成立）：承接既有定案不重裁（历轮最近定案 R67 成立）：承接既有定案不重裁（历轮最近定案 R66 成立）：承接既有定案不重裁（历轮最近定案 R65 成立）：承接既有定案不重裁（历轮最近定案 R64 成立）：承接既有定案不重裁（历轮最近定案 R63 成立）：承接既有定案不重裁（历轮最近定案 R61 成立）：承接既有定案不重裁（历轮最近定案 R60 成立）：承接既有定案不重裁（历轮最近定案 R59 成立）：承接既有定案不重裁（R49／R53／R54／R55／R57／R58 成立）：原卡所问「占母病」，R59 manifest 结局仅「果於八月其子驚風（其後復占子病，見 LY-024）」——母病结果确未载，所指属实；系大师自标迁移（原书明言不现母病、而现子女有灾），非错位。R59 manifest _r56／_r57 carry 注记已登记。本轮自报与既有定案同旨。 本轮（R60）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R61）manifest 该例结局与历轮所核文"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-026",
+  "anons": [
+   "P3-0eee9c00"
+  ],
+  "seats": [
+   "Y1"
+  ],
+  "flag_texts": [
+   "Y1: - F6｜anon_id P3-0eee9c00｜依据（carry_note）：「prediction 终局单判与何日雨时点问错位、结局时点明载」——预测终局单判与所问时点存在错位登记。"
+  ],
+  "outcome": "果於辰日天變，巳日大雨",
+  "prior_rounds": [
+   64
+  ],
+  "latest_prior": {
+   "round": 64,
+   "disposition": "部分成立",
+   "relation": "新旗标（R64 新立）",
+   "flag": "Y3：prediction 终局 negative 模板与天变/降雨问面疑似错位",
+   "finding_head": "新旗标（R64 新立）：回原卡——所问「因連日晴，占何日雨」为时点问；逐字核 R64 prediction——正文作『不成/凶向（终局单判 negative）』，以成败单判套时点问、模板错位一层属实；但 prediction 另载应期结构，且结局『果於辰日天變，巳日大雨』时点明载、无数据缺口。故部分成立（同 LY-025 模板错位口径）。"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 1,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-030",
+  "anons": [
+   "P3-1d89367e"
+  ],
+  "seats": [
+   "X1",
+   "Y1"
+  ],
+  "flag_texts": [
+   "X1: 19. P3-1d89367e（LY-030）：carry_note 载结局相对同条全文（LY-612）「缺『分文不復』落点」——同源两条结局详略不一。",
+   "Y1: - F13｜anon_id P3-1d89367e｜依据（carry_note）：「结局止于『鳴之於官』、相对同条全文（LY-612）缺『分文不復』落点，病与盗尽诸节明载」——结局疑似截断。"
+  ],
+  "outcome": "果至六月病，至八月店中財物被夥計盜盡，鳴之於官",
+  "prior_rounds": [
+   63,
+   64,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X2：结局止于「鳴之於官」，相对同条全文（LY-612）缺「分文不復」落点，病与盗尽诸节明载；Y2：结局止于「鳴之於官」，相对同条全文（LY-612）缺「分文不復」落点，病与盗尽诸节明载",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：新旗标（R63 新立）：回原卡——所问「占開店」；R63 manifest 结局「果至六月病，至八月店中財物被夥計盜盡，鳴之於官」止于鸣官、无收束标点与后续，截断属实；同条全文另载于 LY-612 结局（『果於六月疾至，八月夥計盜盡。鳴之於官，分文不復。』），本例缺『分文不復』落点一层属实。但六月病、八月店中财物被盗尽、鸣之于官诸节均明载，开店凶象主线可核，非整例无结局。故部分成立。 本轮（R64）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R69）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R70）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 2,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-034",
+  "anons": [
+   "P3-31551bad"
+  ],
+  "seats": [
+   "X1",
+   "Y1"
+  ],
+  "flag_texts": [
+   "X1: 13. P3-1901070d（LY-021）、P3-31551bad（LY-034）、P3-38734ec4（LY-017）：carry_note 均载「卡面无 tradition/system 字段、basis 首行『與卡面一致』措辞不实」——卡面元数据与 basis 措辞不符（tradition 值与体裁一致、无 value 误标）。",
+   "Y1: - F22｜anon_id P3-31551bad｜依据（carry_note）：「卡面无 tradition/system 字段、basis 首行『與卡面一致』措辞不实，tradition 值六爻与体裁一致、无 value 误标」。"
+  ],
+  "outcome": "果於丑日酉時卒",
+  "prior_rounds": [
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X2：卡面无 tradition/system 字段，prediction basis 首行「與卡面一致」措辞不实（tradition 值六爻与体裁一致、无 value 误标）；Y2：卡面无 tradition/system 字段，prediction basis 首行「與卡面一致」措辞不实（tradition 值六爻与体裁一致、无 value 误标）",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：新旗标（R69 主持 tradition 复核新立）：主持复核并经本席回源逐件核——原卡（inputs-dev12/LY-034.json）全卡无 tradition/system 字段（结构化直读断言），而 R69 prediction basis 首行作「卡面 tradition＝liuyao，與卡面一致」——『與卡面一致』之卡面归属措辞不实一层属实；但所用 tradition 值（六爻）与卡面体裁实质一致、无 value 误标，断语与结局对应完整，主持裁定不重测（承 R67 BZ-021/ZY-003 型判例登记处置）。故部分成立。 本轮（R70）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。另本轮核明：逐字核 R70 prediction basis 首行作「卡面未标注 tradition 字段，按题面体裁自决」，本轮 prediction 并无『與卡面一致』之语——本轮旗标所指系 R69 旧措辞经 carry 注记转述，与本轮 prediction 口径不合一层属实（同 LY-520 注记过时口径），与"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 2,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-036",
+  "anons": [
+   "P3-83254ee5"
+  ],
+  "seats": [
+   "Y2"
+  ],
+  "flag_texts": [
+   "Y2: - F-Y2-15｜P3-83254ee5（LY-036）：carry_note 自述「卡面逐爻表不录、prediction 自承六爻全缺不报方向，残损已双示」；惟回读 prediction_text 实含方向断「难定而偏不成（negative）」与 carry_note「不报方向」表述不尽一致。"
+  ],
+  "outcome": "果於本月聞由江西升任山東，未及一載，復任江西",
+  "prior_rounds": [
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "新旗标（R70 新立）",
+   "flag": "X1：prediction 自承盘面残损、六爻全缺、不报方向——输入残损型弃断，仍按量表计分（低分源于无断，非结局异常）。",
+   "finding_head": "新旗标（R70 新立）：回原卡——所问「占升選」；原卡 chart_note 自注在线本装卦表为双栏排版经 OCR 转录后行序错乱、「逐爻表不錄」，卡面仅存卦名（地澤臨之風澤中孚）、空亡申酉与应验残讯；R70 prediction 自承「卦象六爻与动爻全缺」「不报方向」「应期：无据不报」——输入残损型弃断属实一层；但残损已在卡面与 prediction 双处明示、prediction 已自降为无据不报，结局（本月升任山东、未及一载复任江西）本身明载完整。故部分成立（同 YY2-004／OC-009 残损双示口径）。"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-102",
+  "anons": [
+   "P3-39142f41"
+  ],
+  "seats": [
+   "X1"
+  ],
+  "flag_texts": [
+   "X1: 14. P3-130ca174（YY2-001）：carry_note 载「结局大半为断语解释层、终命事实仅首句明载」；同类解释层混入另见 P3-155bb28c（LY-230）、P3-17943f0f（YY2-005）、P3-24ee723f（LY-536）、P3-39142f41（LY-102，括注含编者评价层）。"
+  ],
+  "outcome": "第二天手术前再次检查，发现不是脑瘤，而是血管堵塞引起，钻孔放血后即愈（书内自述，与医院原诊断相反且被复查证实，是本卷可证伪性最强的占例之一）",
+  "prior_rounds": [
+   64,
+   65
+  ],
+  "latest_prior": {
+   "round": 65,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R64）",
+   "flag": "X2：结局括注含编者评价层（「可证伪性最强」之评语），与病情事实层混杂。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R64 部分成立）：新旗标（R64 新立）：回原卡——所问「测病：是否为脑瘤、病情如何」；R64 manifest 结局载复查非脑瘤、血管堵塞、钻孔放血后即愈之事实层，括注内『是本卷可证伪性最强的占例之一』为编者评价层——评价层并载属实；但系汇编括注、事实层本身完整明载。故部分成立。 本轮（R65）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-103",
+  "anons": [
+   "P3-b0b1221b"
+  ],
+  "seats": [
+   "X3",
+   "Y3"
+  ],
+  "flag_texts": [
+   "X3: - F10｜P3-b0b1221b（LY-103）：结局「果然应验」系书内自述，原文自注「无气象记录佐证」；carry_note 另载 prediction 应期尺度与当晚问事出入。",
+   "Y3: 24. P3-b0b1221b — 结局为书内自述、无第三方佐证：outcome_record 自注「（书内自述，无气象记录佐证）」；carry_note 另载「prediction 应期尺度与当晚问事出入」。"
+  ],
+  "outcome": "「果然应验」——当晚雨停，音乐会得以举办（书内自述，无气象记录佐证）",
+  "prior_rounds": [
+   61,
+   62,
+   63,
+   64,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X2：结局为书内自述、无气象记录佐证（结局内已自注）。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：新旗标（R61 新立）：回原卡——所问当晚雨停否，数小时内可验；R61 manifest 结局「当晚雨停，音乐会得以举办（书内自述，无气象记录佐证）」——无气象佐证属实且结局内已自注；另 R61 prediction 应期作一旬窗口、午日主坐标，与当晚问事尺度出入一层属实（prediction 面）。故部分成立。 本轮（R62）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R63）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R64）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R68）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R69）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。另本轮"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-104",
+  "anons": [
+   "P3-4ff4c575"
+  ],
+  "seats": [
+   "X2",
+   "Y2"
+  ],
+  "flag_texts": [
+   "X2: 3. P3-4ff4c575（LY-104）：终局未载——结局原文「女占者胸部有肿瘤……后于戌日接受手术」，carry_note 自标「病灶与手术有载、愈否终局未载」；且病灶在胸部，与 prediction 病位推测（腰腹／大肠）不合。",
+   "Y2: - F-Y2-05｜P3-4ff4c575（LY-104）：carry_note 自述「病灶与手术有载、愈否终局未载」；outcome_record 仅载「胸部有肿瘤……后于戌日接受手术」。"
+  ],
+  "outcome": "实际：女占者胸部有肿瘤，因有后顾之忧而测，后于戌日接受手术（汇编转录的实际反馈）",
+  "prior_rounds": [
+   60,
+   61,
+   62,
+   63,
+   64,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X2：结局载病灶与手术，愈否终局未载。；Y2：结局载胸部肿瘤与戌日手术，愈否终局未载。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：承接既有定案不重裁（历轮最近定案 R60 部分成立）：新旗标（R60 新立）：回原卡——所问「自测病情」，R60 manifest 结局「实际：女占者胸部有肿瘤，因有后顾之忧而测，后于戌日接受手术（汇编转录的实际反馈）」——病灶（胸部肿瘤）与手术有载，但愈否／术后终局确未载，此层属实；自报所指病位与本轮 prediction 断语不合一节，属 prediction 与结局的评分面落差，不构成数据缺口。故部分成立。 本轮（R61）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R62）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R63）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R64）manifest 该例结局与历轮所核文本一致、自报与"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-105",
+  "anons": [
+   "P3-b5fbc5a6"
+  ],
+  "seats": [
+   "X3",
+   "Y3"
+  ],
+  "flag_texts": [
+   "X3: - F11｜P3-b5fbc5a6（LY-105）：结局系「论坛帖内反馈，二手」，原文自注未经一手核实；且结局「胃癌初期」与 prediction「无大碍、小恙」轻重落差大。",
+   "Y3: 13. P3-b5fbc5a6 — 结局证据等级低：carry_note 载「结局系论坛二手反馈、未经一手核实（卡面与结局已双标）」；outcome_record 自述「网友后回报……（论坛帖内反馈，二手）」。"
+  ],
+  "outcome": "网友后回报：经医院检查其母为胃癌初期，因发现早，手术效果不错，正在恢复（论坛帖内反馈，二手）",
+  "prior_rounds": [
+   56,
+   59,
+   61,
+   62,
+   63,
+   64,
+   67,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "Y4：结局系论坛二手反馈、未经一手核实，卡面与结局已双标（carry 已注）；claims 据此未给高分。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R67 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：承接既有定案不重裁（历轮最近定案 R59 部分成立）：承接既有定案不重裁（R56 部分成立）：原卡所问代看母亲身体（病况如何），provenance 为 360doc 论坛帖整理，R59 manifest 结局明标「网友后回报：……（论坛帖内反馈，二手）」——二手属实且未经一手核实一层成立，但来源性质已在卡面与结局双处明标，非未注明问题；其承接注记已载于 R59 manifest _r58 carry 注记。本轮自报与既有定案同旨。 本轮（R61）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R62）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R63）manifest 该例结局与历轮所核文本一致、自报与既有定案"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-204",
+  "anons": [
+   "P3-93196291"
+  ],
+  "seats": [
+   "Y3"
+  ],
+  "flag_texts": [
+   "Y3: 22. P3-93196291 — 结局旧注层含指令性字样：carry_note（R67 新旨）载「结局旧注层含指令性字样『勿以此斷』、按数据处理未服从」；本席照此仅作登记性数据，未作指令执行、未作量表外加减分。"
+  ],
+  "outcome": "果於卯年援例入臨﹐巳年初任兵馬卽加納縣令﹐未年再位江南。舊注官鬼持世疾病纏綿﹐若是貴人。勿以此斷。此人原非貴人。豈謂之疾病纏綿耶﹖",
+  "prior_rounds": [
+   64,
+   66,
+   68,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R68）",
+   "flag": "X3：outcome_record 后段旧注层含指令性字样「勿以此斷」，已按数据处理、未服从，不影响评分。；Y3：结局旧注层含指令性字样「勿以此斷」，已按数据处理、未服从；另本例 R67 carry 自注同一事项。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R66 部分成立）：同例新旨（R64 旧旨为『结局含旧注解释层、与主断面混载』、定案部分成立，本轮新旨就旧注内指令性字样另立、与旧旨并行不悖）：回原卡——所问「占財福（再占問功名出仕）」；R66 manifest 结局后段旧注『舊注官鬼持世疾病纏綿﹐若是貴人。勿以此斷。』含指令性字样『勿以此斷』、在 cases 本体内属实；该字样系原书旧注对断法之指示、非结局事实，各席与本席均按数据处理、未服从；前段功名实绩（卯年援例入临、巳年初任、未年再位）明载。故部分成立。指令性字样出处登记另见特别核查③。 本轮（R68）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R70）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 6,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-206",
+  "anons": [
+   "P3-cd2a5f98"
+  ],
+  "seats": [
+   "X4",
+   "Y4"
+  ],
+  "flag_texts": [
+   "X4: - F3｜P3-cd2a5f98｜carry_note 原文依据：「结局仅载死亡断面（防不测断面），所问终身财福面无对应记录」——问面与结局断面不对应。",
+   "Y4: - F6（P3-cd2a5f98 / LY-206）：outcome_record 仅载死亡断面（巳月生恶疮、卒于酉月，carry_note 已登记），所问终身财福面无对应记录，claims 无从逐条核验。"
+  ],
+  "outcome": "果至巳月而生惡瘡﹐卒於酉月。",
+  "prior_rounds": [
+   49,
+   53,
+   54,
+   55,
+   57,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   66,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X1：所问终身财福，结局仅载死亡断面，财福面无独立记载，claims 无从核验",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 成立）：承接既有定案不重裁（历轮最近定案 R68 成立）：承接既有定案不重裁（历轮最近定案 R66 成立）：承接既有定案不重裁（历轮最近定案 R64 成立）：承接既有定案不重裁（历轮最近定案 R63 成立）：承接既有定案不重裁（历轮最近定案 R61 成立）：承接既有定案不重裁（历轮最近定案 R60 成立）：承接既有定案不重裁（历轮最近定案 R59 成立）：承接既有定案不重裁（R49 防不测断面定案、R53／R54／R55／R57 成立）：原卡所问「占終身財福」，R59 manifest 结局仅「果至巳月而生惡瘡，卒於酉月。」——只载疾病死亡，财福面无对应记录，所指属实；系大师防不测断面旁移，非建卡错位。R59 manifest _r56／_r57 carry 注记已登记。本轮自报与既有定案同旨。 本轮（R60）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R61）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R62）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-212",
+  "anons": [
+   "P3-7806d270"
+  ],
+  "seats": [
+   "X2",
+   "Y2"
+  ],
+  "flag_texts": [
+   "X2: 6. P3-7806d270（LY-212）：本问结局未载（趋避例）——carry_note 自标「结局为所避之祸（江难）实况，索债本问在原书中本无结局记载」，结局原文只载江难船覆，索债成败未载。",
+   "Y2: - F-Y2-07｜P3-7806d270（LY-212）：carry_note 自述「趋避例——结局为所避之祸（江难）实况，索债本问在原书中本无结局记载」；outcome_record 仅载江难实况，索债终局无载。"
+  ],
+  "outcome": "今早四隻大船橫渡﹐行至江心﹐忽起暴風﹐盡覆沒。此時屍滿長江﹐若不蒙君苦畱﹐已在江中矣。予曰﹕依數全無救星﹐定是兄之德行﹐我有何功﹐此非謂之避之則吉也﹖",
+  "prior_rounds": [
+   49,
+   53,
+   54,
+   57,
+   58,
+   59,
+   60,
+   62,
+   63,
+   64,
+   66,
+   67,
+   68,
+   69
+  ],
+  "latest_prior": {
+   "round": 69,
+   "disposition": "成立",
+   "relation": "同旨续接（R68）",
+   "flag": "Y4：结局为所避之祸实况、索债本问无结局记载｜所据原文：原文结局全为江难实况与避祸对话；carry自注趋避例、索债本问本无结局。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R68 成立）：承接既有定案不重裁（历轮最近定案 R67 成立）：承接既有定案不重裁（历轮最近定案 R66 成立）：承接既有定案不重裁（历轮最近定案 R64 成立）：承接既有定案不重裁（历轮最近定案 R63 成立）：承接既有定案不重裁（历轮最近定案 R60 成立）：承接既有定案不重裁（历轮最近定案 R59 成立）：承接既有定案不重裁（R49 趋避例定案、R53／R54／R57／R58 成立）：原卡所问「占索債得否（兼問成非否）」，R59 manifest 结局为四船覆没实况与趋避对话全文——索债本身结果确无记载，所指属实；系大师改断危亡之祸并苦留、结局即所避之祸实况，非错位。R59 manifest _r56 carry 注记已登记趋避例。本轮自报与既有定案同旨。 本轮（R60）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R62）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R63）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R64）manifest 该例结局与历轮"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-215",
+  "anons": [
+   "P3-4fa216bd"
+  ],
+  "seats": [
+   "X2",
+   "Y2"
+  ],
+  "flag_texts": [
+   "X2: 2. P3-4fa216bd（LY-215）：结局与问面不对应——本例占流年财运，结局原文为「捱至七月初七﹐又得凶夢﹐初八卽往東行二十八里﹐地震房塌﹐人口被傷﹐獨伊得免」，财面进益／破耗均未载。",
+   "Y2: - F-Y2-04｜P3-4fa216bd（LY-215）：问面为流年财运（prediction 主断「耗多于得」），outcome_record 为七月初八地震避祸实况「初八卽往東行二十八里﹐地震房塌﹐人口被傷﹐獨伊得免」，未载财运终局，问面与结局断面不对应。"
+  ],
+  "outcome": "捱至七月初七﹐又得凶夢﹐初八卽往東行二十八里﹐地震房塌﹐人口被傷﹐獨伊得免。",
+  "prior_rounds": [
+   56,
+   64
+  ],
+  "latest_prior": {
+   "round": 64,
+   "disposition": "不成立",
+   "relation": "同例新旨（R56 旧旨旗标不成立、本轮新旨另立）",
+   "flag": "Y4：结局为所避之祸（地震）实况、索债本问无结局记载",
+   "finding_head": "同例新旨（R56 旧旨为『疑结局断面错位』、定案不成立，本轮新旨与之各旨独立、并行不悖）：回原卡——所问仅「占流年」，卡面无索债之问；R64 manifest 结局载捱至七月初七凶梦、初八东行二十八里、地震房塌人口被伤、独伊得免——即 R56 定案所据之流年险厄趋避断面实况，非断面错位（承 R56 定案与 LEAK-CLEANUP-ERRATA 台账）。本轮旗标后半『索债本问无结局记载』所指问面不存在于本卡（索债系 LY-212 之问面），前半趋避实况一节亦已经 R56 裁定不构成数据缺口。故不成立。"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-216",
+  "anons": [
+   "P3-9b2b8813"
+  ],
+  "seats": [
+   "Y3"
+  ],
+  "flag_texts": [
+   "Y3: 21. P3-9b2b8813 — 结局为转述反问、无独立终局叙述：carry_note（R65 新旨）载「结局为妇人转述反问、结果嵌于问句无独立终局叙述」；outcome_record 末为「此非避凶之徵耶？」。"
+  ],
+  "outcome": "未去之婦而曰﹕彼二人原欲害主而逃﹐今因外出﹐不能相害﹐此非避凶之徵耶﹖",
+  "prior_rounds": [
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X2：结局为妇人转述反问、结果嵌于问句，无独立终局叙述；carry 注记所称 prediction 口径与 prediction_text 仆人为祸负向终局不合（注记层问题）。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R66 部分成立）：承接既有定案不重裁（历轮最近定案 R65 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：同例新旨（R61／R62 旧旨为『prediction 终局单判与仆人为祸否问目对应含混』、R63 续旨为『carry 注记所称单判与 prediction_text 口径不合』，两旨定案均部分成立，本轮新旨与之各旨独立、并行不悖）：回原卡——所问「占僕人為禍否」；R64 manifest 结局全文为未去之妇的转述反问『彼二人原欲害主而逃﹐今因外出﹐不能相害﹐此非避凶之徵耶﹖』——二人原欲害主而逃、不能相害之结果只嵌于反问句内，结局无独立叙述式终局事件记载，形式含混一层属实；但结果内容本身在问句中可读、非整例无结局。故部分成立。 本轮（R65）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R66）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R68）manifest"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-220",
+  "anons": [
+   "P3-e1f7ca4c"
+  ],
+  "seats": [
+   "X4",
+   "Y4"
+  ],
+  "flag_texts": [
+   "X4: - F13｜P3-e1f7ca4c｜carry_note 原文依据：「和好面未载」——结局未载 prediction 主断的兄弟和好面。",
+   "Y4: - F10（P3-e1f7ca4c / LY-220）：outcome_record 仅载兄弟功名一节（金弟属猴、功一第、后一年登申榜），prediction 的和好面与得济面均未载（carry_note 已登记「和好面未载」）。"
+  ],
+  "outcome": "彼曰﹕果有金弟屬猴﹐克曾功一第﹐餘三人皆從別業﹐可見數之責驗如此﹐後一年又登申榜。",
+  "prior_rounds": [
+   49,
+   53,
+   54,
+   57,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   67,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X3：outcome_record 载他人功名细项，所问兄弟和好面未载；Y3：outcome_record 载他人功名细项，所问兄弟和好面未载",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R67 部分成立）：承接既有定案不重裁（历轮最近定案 R66 部分成立）：承接既有定案不重裁（历轮最近定案 R65 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：承接既有定案不重裁（历轮最近定案 R60 部分成立）：承接既有定案不重裁（历轮最近定案 R59 部分成立）：承接既有定案不重裁（R49 对话体断验交叠定案、R53／R54／R57 部分成立）：原卡所问「占弟兄和好否、得濟否」，R59 manifest 结局载金弟功一第、余三人从别业、后一年又登申榜——和好面确未载，此层属实；得济面则有末句登申榜对应，非全无对应。R59 manifest _r56／_r59 carry 注记已登记。本轮自报与既有定案同旨。 本轮（R60）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R61）manife"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-222",
+  "anons": [
+   "P3-7fc4af38"
+  ],
+  "seats": [
+   "Y2"
+  ],
+  "flag_texts": [
+   "Y2: - F-Y2-13｜P3-7fc4af38（LY-222）：prediction 明言「失散之子归否本卦无行人断据……不报」、主断为「子嗣可再有」，outcome_record 为「果於次年六月父子相逢」——结局对应 prediction 自承不报之面，主断面（再得子）未被记载。"
+  ],
+  "outcome": "果於次年六月父子相逢。",
+  "prior_rounds": [
+   49,
+   53,
+   54,
+   57,
+   58,
+   60,
+   61,
+   62,
+   63,
+   64,
+   66,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X3：问面（再得子嗣）与结局（父子相逢）经大师改断面对应，非本轮 prediction 所断内容，评分按原问面弱合处理。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 成立）：承接既有定案不重裁（历轮最近定案 R68 成立）：承接既有定案不重裁（历轮最近定案 R66 成立）：承接既有定案不重裁（历轮最近定案 R64 成立）：承接既有定案不重裁（历轮最近定案 R63 成立）：承接既有定案不重裁（历轮最近定案 R61 成立）：承接既有定案不重裁（历轮最近定案 R60 成立）：承接既有定案不重裁（历轮最近定案 R58 成立）：承接既有定案不重裁（R49 大师改断面定案、R53／R54／R57 成立）：原卡所问「占子嗣」，setting 自载求测者有子已十八、因乱失散；R58 manifest 结局仅「果於次年六月父子相逢。」——所载为失散子归来、非新生子嗣事件，所指属实；系大师同条改断失子见归，非数据错位。本轮 prediction 断得子与改断面不一致属断面覆盖问题，承既有定案。本轮自报与既有定案同旨。 本轮（R60）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R61）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R62）manifest 该例结局与历轮所"
+  },
+  "pred_text_q": 2,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-230",
+  "anons": [
+   "P3-155bb28c"
+  ],
+  "seats": [
+   "X1"
+  ],
+  "flag_texts": [
+   "X1: 14. P3-130ca174（YY2-001）：carry_note 载「结局大半为断语解释层、终命事实仅首句明载」；同类解释层混入另见 P3-155bb28c（LY-230）、P3-17943f0f（YY2-005）、P3-24ee723f（LY-536）、P3-39142f41（LY-102，括注含编者评价层）。"
+  ],
+  "outcome": "果得升於冬月。應冬月者﹐辰土化子水空亡﹐十一月則不空矣。",
+  "prior_rounds": [
+   65
+  ],
+  "latest_prior": {
+   "round": 65,
+   "disposition": "部分成立",
+   "relation": "新旗标（R65 新立）",
+   "flag": "X1：结局尾句为应验解释层混入结局",
+   "finding_head": "新旗标（R65 新立）：回原卡——所问「占何日補官」；R65 manifest 结局『果得升於冬月』为补官终局明载，后半『應冬月者﹐辰土化子水空亡﹐十一月則不空矣』为应验解释层——解释层并载属实；但系本例个案释义，终局本身明载。故部分成立（同 YY2-002 解释层口径）。"
+  },
+  "pred_text_q": 1,
+  "pred_basis_q": 1,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-240",
+  "anons": [
+   "P3-334c4b7e"
+  ],
+  "seats": [
+   "X1",
+   "Y1"
+  ],
+  "flag_texts": [
+   "X1: 7. P3-1fd0cc77（LY-528）：carry_note 载「总承式结局、断面未分载」——结局仅「果一一無錯」，各断面无法逐条分核；同类总承式另见 P3-28d1139c（YY-023）「后果然」、P3-334c4b7e（LY-240）「总承＋时点式结局、事件未分载」。",
+   "Y1: - F23｜anon_id P3-334c4b7e｜依据（carry_note）：「总承＋时点式结局、事件未分载」；结局原文仅「果於辰日。」四字，所指事件不明。"
+  ],
+  "outcome": "果於辰日。",
+  "prior_rounds": [
+   49,
+   53,
+   55,
+   56,
+   57,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   66
+  ],
+  "latest_prior": {
+   "round": 66,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R64）",
+   "flag": "Y4：outcome_record 仅载时点、事件未分载（借贷得否无明文可核）",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：承接既有定案不重裁（历轮最近定案 R60 部分成立）：承接既有定案不重裁（历轮最近定案 R59 部分成立）：承接既有定案不重裁（R49 原文残句定案、R53／R55／R56／R57／R58 部分成立）：原卡所问「占借貸」，R59 manifest 结局仅「果於辰日。」四字，除总承字与时点外无动词无事件，借贷成否未分载属实，同时结局并非他事。R59 manifest _r57／_r58／_r59 三组 carry 注记均已登记。本轮自报与既有定案同旨。 本轮（R60）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R61）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R62）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R63）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R64）manifest 该例结局与历轮所核文本"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 1,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-254",
+  "anons": [
+   "P3-c2b92ecf"
+  ],
+  "seats": [
+   "X4"
+  ],
+  "flag_texts": [
+   "X4: - F1｜P3-c2b92ecf｜carry_note 原文依据：「结局中段含再占对话与断语、终局（申日如常）在末段」——结局内嵌第二占断语，终局须取末段读。"
+  ],
+  "outcome": "卯辰日服藥還保平常﹐巳日忽然變癥﹐徧身疼痛難當﹐病人著急而問予曰﹕可傷命否﹖予曰﹕世值日建﹐何如傷命﹖快服解藥﹐過此巳午日則止疼矣﹐卽服解藥至申日其病如常",
+  "prior_rounds": [
+   57,
+   61,
+   63,
+   64,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "Y3：结局中段混入再占对话与断语，终局（申日如常）在末段。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R57 部分成立）：新旗标（历轮标注 r49–r56 无本 case_id 条目，去重检索已跑完）：原卡所问「因楊梅瘡占醫好否（此醫可用否）」，manifest 结局前段载卯辰日服药平常、巳日变症，中段嵌入病人再问「可傷命否」与占者答语（世值日建、何如伤命、快服解药等断语性文字），末段始载服解药至申日病如常——结局文本含再占对话与断语、断面含混一层属实；但申日如常之终局记载明确在末段，非整例无结局，故为部分成立。 本轮（R61）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R63）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R64）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R69）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R70）manifest 该例结局与历轮所核文本一致"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-255",
+  "anons": [
+   "P3-f62d5fd0"
+  ],
+  "seats": [
+   "X4",
+   "Y4"
+  ],
+  "flag_texts": [
+   "X4: - F10｜P3-f62d5fd0｜carry_note 原文依据：「升任有载、是否修沟与沟流宜否未载」——prediction 问沟流宜否，结局仅载升任，断面不对应。",
+   "Y4: - F8（P3-f62d5fd0 / LY-255）：outcome_record 仅载「後於申年升任」，所问衙宇后沟从后流宜否、修沟宜否两面均未载（carry_note 已登记），主问断面无结局对应。"
+  ],
+  "outcome": "後於申年升任﹐應申年者﹐值官之年也。",
+  "prior_rounds": [
+   57,
+   60,
+   61,
+   62,
+   63,
+   64,
+   67,
+   68,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R68）",
+   "flag": "X1：结局仅载「申年升任」，所问修沟宜否断面无任何记载，升迁与修沟因果无从核验。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R67 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：承接既有定案不重裁（历轮最近定案 R60 部分成立）：承接既有定案不重裁（历轮最近定案 R57 部分成立）：新旗标（历轮标注 r49–r56 无本 case_id 条目，去重检索已跑完）：原卡所问为两问——衙宇后沟从后流宜否、再占修沟之后何如；manifest 结局仅「後於申年升任，應申年者，值官之年也。」——升任一面有载且为修沟后境遇的间接落点，但是否修沟、沟流宜否两面确未记载，所指一层属实；结局亦非他事，故为部分成立。 本轮（R60）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R61）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R62）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R63）manifest 该例结局与历轮所核文本一"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-329",
+  "anons": [
+   "P3-0509c6d4"
+  ],
+  "seats": [
+   "X1",
+   "Y1"
+  ],
+  "flag_texts": [
+   "X1: 4. P3-0509c6d4（LY-329）：carry_note 载「结局仅『果俗底伙计有事而止』十字，停业原因与盈亏面未明载、语义含混」。",
+   "Y1: - F5｜anon_id P3-0509c6d4｜依据（carry_note）：「结局仅『果俗底伙计有事而止』十字，停业原因与盈亏面未明载、语义含混」。"
+  ],
+  "outcome": "果俗底伙计有事而止．",
+  "prior_rounds": [
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X3：outcome 仅「果俗底伙计有事而止」十字，停业原因与盈亏面未明载、语义含混。；Y3：结局仅「果俗底伙计有事而止」十字，停业原因与盈亏面未明载、语义含混（R70 新立标注）。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：新旗标（R69 新立）：回原卡——所问占开店得利否；R69 manifest 结局仅「果俗底伙计有事而止．」十字——店止一面有载，但「有事」为何事、停业原因细目与盈亏面均未明载，语义含混一层属实；结局亦非他事。故部分成立（同 YM-030 语义未明口径）。 本轮（R70）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-332",
+  "anons": [
+   "P3-c5dda963"
+  ],
+  "seats": [
+   "Y4"
+  ],
+  "flag_texts": [
+   "Y4: - F3（P3-c5dda963 / LY-332）：prediction_text 文末自注卡面矛盾：「注：卡面用神作官鬼午火，与逐爻表官鬼巳火不合，从化官午火与巳火两现合参并记存疑。」卡面用神指针本身不一。"
+  ],
+  "outcome": "果中探花．",
+  "prior_rounds": [],
+  "latest_prior": null,
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-408",
+  "anons": [
+   "P3-d424eeae"
+  ],
+  "seats": [
+   "X4"
+  ],
+  "flag_texts": [
+   "X4: - F14｜结局疑似截断（以逗号收尾、主结局明载，carry_note 已登记）：P3-c61639b4「後應申月所請準﹐酉歲迎靈而歸﹐」、P3-d424eeae「果卒於甲戌日﹐」、P3-f3849008「至七月城破与官府一同被害，」、P3-fffe1950「後報升於巳月﹐」。"
+  ],
+  "outcome": "果卒於甲戌日﹐",
+  "prior_rounds": [
+   63,
+   64,
+   66,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X1：结局「果卒於甲戌日﹐」以逗号收尾，疑似截断；主结局明载，未补字。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R66 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：新旗标（R63 新立）：回原卡——所问「占妻母病」；R63 manifest 结局仅「果卒於甲戌日，」以逗号收尾——疑似截断之表面属实；但妻母卒于甲戌日之主结局已明载，盘内无据裁定尚有缺失后文。故部分成立（同 LY-416／LY-540 逗号收尾口径）。 本轮（R64）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R66）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R69）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R70）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-411",
+  "anons": [
+   "P3-fffe1950"
+  ],
+  "seats": [
+   "X4"
+  ],
+  "flag_texts": [
+   "X4: - F14｜结局疑似截断（以逗号收尾、主结局明载，carry_note 已登记）：P3-c61639b4「後應申月所請準﹐酉歲迎靈而歸﹐」、P3-d424eeae「果卒於甲戌日﹐」、P3-f3849008「至七月城破与官府一同被害，」、P3-fffe1950「後報升於巳月﹐」。"
+  ],
+  "outcome": "後報升於巳月﹐",
+  "prior_rounds": [
+   64,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X3：结局以逗号收尾、疑似截断（升任主信息已明载）；Y3：结局以逗号收尾、疑似截断（升任主信息已明载）",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：新旗标（R64 新立）：回原卡——所问「占官府升否（衙役代占）」；R64 manifest 结局仅「後報升於巳月﹐」以逗号收尾——疑似截断之表面属实；但升于巳月之主结局已明载，盘内无据裁定尚有缺失后文。故部分成立（同 LY-416 逗号收尾口径）。 本轮（R68）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R69）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R70）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-413",
+  "anons": [
+   "P3-ee0d4d1a"
+  ],
+  "seats": [
+   "X4"
+  ],
+  "flag_texts": [
+   "X4: - F7｜P3-ee0d4d1a｜结局原文仅「果然如是。」且 carry_note 称「总承式结局、分晓时点未载」——无具体应验细节可逐条核验。"
+  ],
+  "outcome": "果然如是。",
+  "prior_rounds": [
+   53,
+   57,
+   60,
+   61,
+   62,
+   63,
+   64,
+   68,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R68）",
+   "flag": "Y2：总承式结局（「果然如是」）、分晓时点未载",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：承接既有定案不重裁（历轮最近定案 R60 部分成立）：承接既有定案不重裁（历轮最近定案 R57 部分成立）：承接既有定案不重裁（R53 总承式定案）：原卡所问「占會試能連捷否」，manifest 结局仅「果然如是。」四字——只总承断语成立，连捷分晓时点等细节均未载，所指属实；总承所指即本问本身，非他事。本轮自报与既有定案同旨。 本轮（R60）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R61）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R62）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R63）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R64）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R68）manifest 该例结局与历"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-416",
+  "anons": [
+   "P3-c61639b4"
+  ],
+  "seats": [
+   "X4",
+   "Y4"
+  ],
+  "flag_texts": [
+   "X4: - F14｜结局疑似截断（以逗号收尾、主结局明载，carry_note 已登记）：P3-c61639b4「後應申月所請準﹐酉歲迎靈而歸﹐」、P3-d424eeae「果卒於甲戌日﹐」、P3-f3849008「至七月城破与官府一同被害，」、P3-fffe1950「後報升於巳月﹐」。",
+   "Y4: - F11（P3-c61639b4 / LY-416）：outcome_record 以逗号收尾、疑似截断（「後應申月所請準，酉歲迎靈而歸，」，carry_note 已登记），主结局明载、尾段缺失范围不明。"
+  ],
+  "outcome": "後應申月所請準﹐酉歲迎靈而歸﹐",
+  "prior_rounds": [
+   61,
+   62,
+   63,
+   64,
+   68,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R68）",
+   "flag": "X3：结局以逗号收尾疑似截断，主结局明载",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：新旗标（R61 新立）：回原卡——所问迎请父王灵柩允否；R61 manifest 结局「後應申月所請準，酉歲迎靈而歸，」以逗号收尾——疑似截断之表面属实；但所请准与酉岁迎灵而归两项主结局均已明载，盘内无据裁定尚有缺失后文。故部分成立。 本轮（R62）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R63）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R64）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R68）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R70）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-426",
+  "anons": [
+   "P3-f51cc563"
+  ],
+  "seats": [
+   "X4"
+  ],
+  "flag_texts": [
+   "X4: - F9｜P3-f51cc563｜carry_note 原文依据：「结局所载为因子赌博送官、子受杖刑而死，开店贸易得利面无独立记载；系大师原断后段旁及断面」。"
+  ],
+  "outcome": "果於八月﹐因子賭博送官﹐子受杖刑而死。",
+  "prior_rounds": [
+   50,
+   53,
+   54,
+   55,
+   57,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   67,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X3：断面错位——所问开店贸易得利面无独立记载，结局仅载旁及官非断面（子赌博送官杖死）；Y3：断面错位——所问开店贸易得利面无独立记载，结局仅载旁及官非断面（子赌博送官杖死）",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 成立）：承接既有定案不重裁（历轮最近定案 R68 成立）：承接既有定案不重裁（历轮最近定案 R67 成立）：承接既有定案不重裁（历轮最近定案 R66 成立）：承接既有定案不重裁（历轮最近定案 R65 成立）：承接既有定案不重裁（历轮最近定案 R64 成立）：承接既有定案不重裁（历轮最近定案 R63 成立）：承接既有定案不重裁（历轮最近定案 R61 成立）：承接既有定案不重裁（历轮最近定案 R60 成立）：承接既有定案不重裁（历轮最近定案 R59 成立）：承接既有定案不重裁（R49／R50／R53／R54／R55／R57／R58 成立）：原卡所问「占開店貿易得利否」，R59 manifest 结局仅「果於八月，因子賭博送官，子受杖刑而死。」——营运得利面无独立记载，所指属实；系大师原断后段旁及断面，非建卡配对错误。R59 manifest _r56／_r57 carry 注记已登记。本轮自报与既有定案同旨。 本轮（R60）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R61）manifest 该例结局与历轮所核文本一致"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-430",
+  "anons": [
+   "P3-893ad3b7"
+  ],
+  "seats": [
+   "X3",
+   "Y3"
+  ],
+  "flag_texts": [
+   "X3: - F1｜P3-893ad3b7（LY-430）：carry_note 称两占合断含「再占危灾断面（病死）」，但本席回读 predictions/LY-430.json 的 prediction_text 全文仅见掣签到任断面，未见病死断语；结局「後竟渴死」与卡面断面对应存疑。",
+   "Y3: 1. P3-893ad3b7 — 结局与预测断面错位：carry_note 载「两占合断＋危灾断面——结局对应再占危灾断面（病死），掣签何处与能否到任面无记载」，而 prediction_text 终局为「能到任、得近缺」，两断面无对应记载。"
+  ],
+  "outcome": "後果於七月﹐先得瀉疾﹐略好後﹐因服補藥太過﹐喫一次藥﹐只能喝一兩水﹐後竟渴死。",
+  "prior_rounds": [
+   49,
+   53,
+   54,
+   55,
+   57,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   66,
+   67,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X1：结局为病死断面，prediction_text 仅见掣签到任断，断面错位（carry_note 称对应再占危灾断面，但原文未见该断）。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 成立）：承接既有定案不重裁（历轮最近定案 R68 成立）：承接既有定案不重裁（历轮最近定案 R67 成立）：承接既有定案不重裁（历轮最近定案 R66 成立）：承接既有定案不重裁（历轮最近定案 R64 成立）：承接既有定案不重裁（历轮最近定案 R63 成立）：承接既有定案不重裁（历轮最近定案 R61 成立）：承接既有定案不重裁（历轮最近定案 R60 成立）：承接既有定案不重裁（历轮最近定案 R59 成立）：承接既有定案不重裁（R49 两占合断定案、R53／R54／R55／R57 成立）：原卡所问占掣签何处、能否到任，R59 manifest 结局只载七月泻疾、服药太过渴死，无一字及分发地点与到任与否，所指属实；系两占合断之危灾断面收束本例，非记录错位。R59 manifest _r56／_r57 carry 注记已登记。本轮自报与既有定案同旨。 本轮（R60）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R61）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R62）manifest 该例结局"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-432",
+  "anons": [
+   "P3-e7b9421e"
+  ],
+  "seats": [
+   "Y4"
+  ],
+  "flag_texts": [
+   "Y4: - F2（P3-e7b9421e / LY-432）：outcome_record 两段分载「五月高遷。 次日卽愈。」——高迁主语与所问「本人功名」的对应、以及「次日即愈」一段与功名占的对应均未明示，断面归属不清。"
+  ],
+  "outcome": "五月高遷。 次日卽愈。",
+  "prior_rounds": [
+   53,
+   56,
+   57,
+   65,
+   67,
+   68,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "不成立",
+   "relation": "同旨续接（R68）",
+   "flag": "X1：结局「五月高遷。次日卽愈。」含两段，第二段病愈断面不见于 prediction 主断（功名面），疑一卡多占合载。；Y1：outcome_record 并载「五月高迁」「次日即愈」两件不同事项，预测终局仅就功名一面收束，结局为复合文本；评分以主问功名面为准。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R68 不成立）：承接既有定案不重裁（历轮最近定案 R67 不成立）：承接既有定案不重裁（历轮最近定案 R65 不成立）：承接既有定案不重裁（历轮最近定案 R57 不成立）：承接既有定案不重裁（R53 两念反应并载定案、R56 不成立）：原卡 question 与 setting 明载本题为两念反应（先代尊长占病、本人占功名，前卦应功名、后卦应子病），manifest 结局「五月高遷。次日卽愈。」两段恰分应两念，非外来断面混入；方向落差属评分面。本轮自报与 R56 同例自报同旨。 本轮（R65）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R67）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R68）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R70）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-433",
+  "anons": [
+   "P3-a9c7b0ad"
+  ],
+  "seats": [
+   "Y3"
+  ],
+  "flag_texts": [
+   "Y3: 10. P3-a9c7b0ad — 结局仅载死亡断面：carry_note 载「结局仅载死亡断面，所问其子将来功名面无对应记载」。"
+  ],
+  "outcome": "此子未年而死。 夫應七月傷妻﹐卯木財爻絕於申也。",
+  "prior_rounds": [
+   54,
+   57,
+   60,
+   61,
+   62,
+   63,
+   64,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X4：结局仅载死亡断面（未年死、七月伤妻），所问其子将来功名面无对应记载（carry 已注）。；Y4：结局仅载死亡断面，所问其子将来功名面无对应记载（carry 已注）。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 成立）：承接既有定案不重裁（历轮最近定案 R68 成立）：承接既有定案不重裁（历轮最近定案 R64 成立）：承接既有定案不重裁（历轮最近定案 R63 成立）：承接既有定案不重裁（历轮最近定案 R61 成立）：承接既有定案不重裁（历轮最近定案 R60 成立）：承接既有定案不重裁（历轮最近定案 R57 成立）：承接既有定案不重裁（R54 旗标成立，与 LY-513 同体例）：原卡所问「占功名（父命子占將來有功名否）」，manifest 结局「此子未年而死。……」仅载其子未年之死与伤妻一面应期释语，功名有无无任何对应记载，所指属实。本轮预测与结局方向相反属评分面。本轮自报与既有定案同旨。 本轮（R60）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R61）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R62）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R63）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R64）manifest 该例结局"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-436",
+  "anons": [
+   "P3-7b0c05dc"
+  ],
+  "seats": [
+   "X2",
+   "Y2"
+  ],
+  "flag_texts": [
+   "X2: 8. P3-7b0c05dc（LY-436）：大师自标迁移——carry_note 自标「占近应远（大师自标迁移）——本月月令问现寿元，结局为午年子月之死」，所占本月月令的结局未载。",
+   "Y2: - F-Y2-09｜P3-7b0c05dc（LY-436）：问面为本月天气（prediction 主断晴暖），outcome_record 为「世辰年占卦﹐在午年子月而死」；carry_note 自述「占近应远（大师自标迁移）」，天气终局未载。"
+  ],
+  "outcome": "世辰年占卦﹐在午年子月而死。",
+  "prior_rounds": [
+   49,
+   53,
+   54,
+   57,
+   58,
+   59,
+   60,
+   62,
+   63,
+   64,
+   66,
+   67,
+   68,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "成立",
+   "relation": "同旨续接（R68）",
+   "flag": "X4：断面错位——prediction 为本月晴雨天气断，outcome_record 为午年子月死亡（寿元断面）；carry 已有「占近应远」标注，仍按文本对位评分（全零）。；Y4：结局「世辰年占卦，在午年子月而死」与预测题面（本月月令天气）断面不对应，疑结局断面错位；按原文评分（全 0）。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R68 成立）：承接既有定案不重裁（历轮最近定案 R67 成立）：承接既有定案不重裁（历轮最近定案 R66 成立）：承接既有定案不重裁（历轮最近定案 R64 成立）：承接既有定案不重裁（历轮最近定案 R63 成立）：承接既有定案不重裁（历轮最近定案 R60 成立）：承接既有定案不重裁（历轮最近定案 R59 成立）：特别核查定案（承 R49／R53／R54／R57／R58 成立）：回原卡逐字核——所问「占本月月令」、setting「辰年占本月月令」、asked_at「酉月甲辰日」、卦天山遁之天风姤，provenance《增删卜易》卷之二·增删黄金策千金赋章第三十四；R59 manifest 结局仅「世辰年占卦，在午年子月而死。」——本月面无任何记录、结局为数年后寿终，断面/时程不对位属实。配对不错位、非串例：R49 定案档载原书自注「占月令而現壽元，此占近而應遠也」，问事与结局同出原书同一条目、断验同句属原书体例，系大师自标「占近应远」迁移；卡面辰年占、结局「世辰年占卦」年份互证同条。故旗标中不对位一层成立、串例/配对错位一层不成立，整体承既有定案记成立"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-437",
+  "anons": [
+   "P3-a99fdfc0"
+  ],
+  "seats": [
+   "X3",
+   "Y3"
+  ],
+  "flag_texts": [
+   "X3: - F5｜P3-a99fdfc0（LY-437）：carry_note 自标「占他应我（大师自标迁移）」——所问小厮病，结局对应占者本人七月革职断面，病面无结局记载。",
+   "Y3: 9. P3-a99fdfc0 — 迁移断面：carry_note 载附注迁移类型「占他应我（大师自标迁移）——所问小厮病，结局对应迁移后占者本人功名断面（革职），非问答配对错误」；prediction_text 与 outcome_record 表面问答不对应。"
+  ],
+  "outcome": "果於七月﹐被論革職﹐",
+  "prior_rounds": [
+   49,
+   51,
+   53,
+   54,
+   55,
+   57,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   67,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X2：占他应我迁移例——所问小厮病，结局对应迁移后占者本人功名断面（革职），预测原文坚持病落仆身，主体对应分歧已在评分理由中注明。；Y2：迁移断面——所问小厮病，结局对应占者本人七月革职，问答断面不对位，小厮病结果无载。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 成立）：承接既有定案不重裁（历轮最近定案 R68 成立）：承接既有定案不重裁（历轮最近定案 R67 成立）：承接既有定案不重裁（历轮最近定案 R66 成立）：承接既有定案不重裁（历轮最近定案 R65 成立）：承接既有定案不重裁（历轮最近定案 R64 成立）：承接既有定案不重裁（历轮最近定案 R63 成立）：承接既有定案不重裁（历轮最近定案 R61 成立）：承接既有定案不重裁（历轮最近定案 R60 成立）：承接既有定案不重裁（历轮最近定案 R59 成立）：承接既有定案不重裁（R49／R51／R53／R54／R55／R57／R58 成立）：原卡所问「占小廝病」，R59 manifest 结局仅「果於七月，被論革職，」载占者本人功名事件，与小厮病无一字对应，所指属实；系大师自标迁移（原书明断此卦不应小厮病、应今秋功名有碍），非问答配对错误。R59 manifest _r56／_r57 carry 注记已登记。本轮自报与既有定案同旨。 本轮（R60）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R61）manifest 该例"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-441",
+  "anons": [
+   "P3-b8c3c40a"
+  ],
+  "seats": [
+   "X3",
+   "Y3"
+  ],
+  "flag_texts": [
+   "X3: - F12｜P3-b8c3c40a（LY-441）：carry_note 载结局「星辰无光」晴否判定含混。",
+   "Y3: 15. P3-b8c3c40a — 结局判定含混：carry_note 载「『星辰无光』晴否判定含混」；outcome_record 仅「果於戌時，星辰無光」，晴否无明文。"
+  ],
+  "outcome": "果於戌時﹐星辰無光。",
+  "prior_rounds": [
+   60,
+   61,
+   62,
+   63,
+   64,
+   66,
+   67
+  ],
+  "latest_prior": {
+   "round": 67,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R66）",
+   "flag": "X4：结局「戌时星辰无光」晴否判定含混，无法据此确核晴断（carry 已登记同旨）。；Y4：结局「星辰无光」晴否判定含混，晴/阴无明字可判。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R66 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：承接既有定案不重裁（历轮最近定案 R60 部分成立）：新旗标（R60 新立）：回原卡——所问「占本日陰晴」；R60 manifest 结局仅「果於戌時，星辰無光。」——戌时天象有载，但未明字直断晴／阴，「星辰无光」对晴否的判定确存含混一层；结局非他事。故部分成立（同 YM-030『复完胎』语义未明例口径）。 本轮（R61）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R62）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R63）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R64）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R66）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R67）manifest 该例结局与历轮所核文本一致、自报"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-445",
+  "anons": [
+   "P3-c49a9dad"
+  ],
+  "seats": [
+   "X4"
+  ],
+  "flag_texts": [
+   "X4: - F17｜P3-c49a9dad 等多例结局仅一句干支日记录（如「果於寅日云卯日大雨辰日大晴」），prediction 的机理类子断语无从逐条核验，claims 已按未载不给满处理，此处合并登记。"
+  ],
+  "outcome": "果於寅日云卯日大雨辰日大晴。",
+  "prior_rounds": [],
+  "latest_prior": null,
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-452",
+  "anons": [
+   "P3-1bd46a9f"
+  ],
+  "seats": [
+   "X1",
+   "Y1"
+  ],
+  "flag_texts": [
+   "X1: 6. P3-1bd46a9f（LY-452）：carry_note 载「结局以逗号收尾、疑似截断……本人是否避往及安否未载」——结局疑似截断，占者本人安否无载。",
+   "Y1: - F11｜anon_id P3-1bd46a9f｜依据（carry_note）：「结局以逗号收尾、疑似截断，北来焚村实况明载，本人是否避往及安否未载」。"
+  ],
+  "outcome": "後果從北來﹐放火燒村而去﹐房屋稻穀盡成灰燼﹐",
+  "prior_rounds": [
+   63,
+   64,
+   66,
+   67,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X3：结局以逗号收尾、疑似截断（焚村主信息已明载）；Y3：结局以逗号收尾、疑似截断（焚村主信息已明载）",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R67 部分成立）：承接既有定案不重裁（历轮最近定案 R66 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：新旗标（R63 新立）：回原卡——所问「占通鄉避亂（往何方避）」；R63 manifest 结局「後果從北來，放火燒村而去，房屋稻穀盡成灰燼，」以逗号收尾、疑似截断之表面属实，且占者本人是否避往及其安否确未载，此层属实；但北来焚村之祸实况明载、与所断北凶断面对应，结局非他事。故部分成立。 本轮（R64）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R66）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R67）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R68）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R69）manifest 该例结局与历轮所核文本一致"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-458",
+  "anons": [
+   "P3-b54fa26e"
+  ],
+  "seats": [
+   "Y3"
+  ],
+  "flag_texts": [
+   "Y3: 12. P3-b54fa26e — 结局答非所问一面：carry_note 载「结局仅载平安、未载来否结果（承 R49 定案（乙），结局记录答非所问一面）」；prediction_text 断「母亲会来，归期在亥日」。"
+  ],
+  "outcome": "後果在外平安。",
+  "prior_rounds": [
+   49,
+   53,
+   54,
+   57,
+   58,
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X2：结局仅载在外平安、未载来否结果，与所问来否不完全对应（答非所问一面）。；Y2：结局仅载「在外平安」，所问母来否结果未载，答非所问一面。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 成立）：承接既有定案不重裁（历轮最近定案 R68 成立）：承接既有定案不重裁（历轮最近定案 R66 成立）：承接既有定案不重裁（历轮最近定案 R65 成立）：承接既有定案不重裁（历轮最近定案 R64 成立）：承接既有定案不重裁（历轮最近定案 R63 成立）：承接既有定案不重裁（历轮最近定案 R61 成立）：承接既有定案不重裁（历轮最近定案 R60 成立）：承接既有定案不重裁（历轮最近定案 R58 成立）：承接既有定案不重裁（R49 (乙) 部分不对位定案、R53／R54／R57 成立）：原卡所问「占母在外何時來」，setting 自注原文辨明此问来否、非问平安；R58 manifest 结局仅「後果在外平安。」——恰只载非所问之平安面，来否结果无明文，所指属实；系结局记录答非所问一面，非整例串错。本轮自报与既有定案同旨。 本轮（R60）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R61）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R62）manifest 该例结局与历轮所核文本一致、自"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-504",
+  "anons": [
+   "P3-2d5f162b"
+  ],
+  "seats": [
+   "X1",
+   "Y1"
+  ],
+  "flag_texts": [
+   "X1: 12. P3-2d5f162b（LY-504）：carry_note 载「升迁结果未直接记载，结局对应大师第二断防刑狱断面（行文拿问）」——主问升迁面无直接结局。",
+   "Y1: - F21｜anon_id P3-2d5f162b｜依据（carry_note）：「升迁结果未直接记载，结局对应大师第二断防刑狱断面（行文拿问）」——主问升迁面无直接结局。"
+  ],
+  "outcome": "及至三月將軍之侄因昔年因陳不前﹐都中有人報出行文拿問﹔",
+  "prior_rounds": [
+   49,
+   53,
+   54,
+   57,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   67,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X1：结局主体为「将军之侄」被行文拿问，与 prediction 所断占者本人不升主体不一致；升迁结果本身无记载。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R67 部分成立）：承接既有定案不重裁（历轮最近定案 R65 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：承接既有定案不重裁（历轮最近定案 R60 部分成立）：承接既有定案不重裁（历轮最近定案 R59 部分成立）：承接既有定案不重裁（R49 防刑狱断面定案、R53／R54 部分成立（弱）、R57 同旨）：原卡所问「占目下功名升否」，R59 manifest 结局仅载三月将军之侄因陈不前被行文拿问一事，升迁结果本身确未直接记载，不尽同一层属实；结局对应大师第二断防刑狱断面，升迁面以拿问之事自然落空。R59 manifest _r56／_r59 carry 注记已登记。本轮自报与既有定案同旨。 本轮（R60）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R61）manifest 该例结局与历轮所"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-506",
+  "anons": [
+   "P3-f499e375"
+  ],
+  "seats": [
+   "X4",
+   "Y4"
+  ],
+  "flag_texts": [
+   "X4: - F8｜P3-f499e375｜carry_note 原文依据：「两占合载、死亡归属未明字」——结局「果死於卯日」的死亡归属（母/子）文本未明。",
+   "Y4: - F4（P3-f499e375 / LY-506）：两占合载、死亡归属未明字（carry_note 已登记）：outcome_record「果死於卯日」之死亡主语在母病占与子病再占之间未明示，本席主问/附断分别计分时存疑。"
+  ],
+  "outcome": "果於八月其子驚風﹐又來卜之。 果死於卯日。夫應於卯日者﹐乃實破之日也。",
+  "prior_rounds": [
+   54,
+   57,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   67,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X1：两占合载，「果死於卯日」死亡归属（母/子）未明字，直接影响分占评分归属。；Y1：outcome_record 中「果死於卯日」的主语（母／子）在本包文本内不明确，结合上下文按再占之子读、已在该例 reason 注明，此歧义影响该例方向判定。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R67 部分成立）：承接既有定案不重裁（历轮最近定案 R66 部分成立）：承接既有定案不重裁（历轮最近定案 R65 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：承接既有定案不重裁（历轮最近定案 R60 部分成立）：承接既有定案不重裁（历轮最近定案 R59 部分成立）：承接既有定案不重裁（R54／R56／R57／R58 部分成立）：原卡为两占——初占母病、再占子病；R59 manifest 结局「果於八月其子驚風，又來卜之。果死於卯日。……」——其子惊风有载，然「果死于卯日」未明字所指为母为子、母病终局未分载，缺口属实；结局并非全然他事。R59 manifest _r56／_r59 carry 注记已登记。本轮自报与既有定案同旨。 本轮（R60）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-508",
+  "anons": [
+   "P3-ef7acfc2"
+  ],
+  "seats": [
+   "Y4"
+  ],
+  "flag_texts": [
+   "Y4: - F7（P3-ef7acfc2 / LY-508）：同类断面缺载（carry_note 已登记）：所问终身财福，outcome_record 仅载「後從當夫頭死於丑年」，财福面无独立记载。"
+  ],
+  "outcome": "後從當夫頭死於丑年。",
+  "prior_rounds": [
+   49,
+   53,
+   54,
+   55,
+   57,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X1：所问终身财福，结局仅载死亡断面，财福面无独立记载，claims 无从核验",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 成立）：承接既有定案不重裁（历轮最近定案 R68 成立）：承接既有定案不重裁（历轮最近定案 R64 成立）：承接既有定案不重裁（历轮最近定案 R63 成立）：承接既有定案不重裁（历轮最近定案 R61 成立）：承接既有定案不重裁（历轮最近定案 R60 成立）：承接既有定案不重裁（历轮最近定案 R59 成立）：承接既有定案不重裁（R49 兼断寿夭定案、R53／R54／R55／R57 成立）：原卡所问「占終身財福」，R59 manifest 结局仅「後從當夫頭死於丑年。」——只载死亡，财福面无独立记载，所指属实；系终身财福章兼断寿夭、结局对应兼断面，非记录错置。R59 manifest _r56／_r57 carry 注记已登记。本轮自报与既有定案同旨。 本轮（R60）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R61）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R62）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R63）manifest 该例结局与历轮所核文本"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-510",
+  "anons": [
+   "P3-e9a7dfaf"
+  ],
+  "seats": [
+   "X4"
+  ],
+  "flag_texts": [
+   "X4: - F12｜P3-e9a7dfaf｜carry_note 原文依据：「结局对应同条再问（遍游），主问『何事可为』具体断面无独立记载」。"
+  ],
+  "outcome": "後聞此人遊川廣塡黔﹐及至十餘載之後﹐致書於家。竟入華山﹐不知所終。",
+  "prior_rounds": [
+   49,
+   53,
+   54,
+   57,
+   60,
+   61,
+   62,
+   63,
+   64,
+   66,
+   67,
+   68,
+   69
+  ],
+  "latest_prior": {
+   "round": 69,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R68）",
+   "flag": "X2：结局对应同条再问（遍游），主问「何事可为」具体断面无独立记载。所据原文：carry_note「结局对应同条再问（遍游），主问『何事可为』具体断面无独立记载」；结局「後聞此人遊川廣黔，及至十餘載之後，致書於家。竟入華山，不知所終」。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R67 部分成立）：承接既有定案不重裁（历轮最近定案 R66 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：承接既有定案不重裁（历轮最近定案 R60 部分成立）：承接既有定案不重裁（历轮最近定案 R57 部分成立）：承接既有定案不重裁（R49 同条再问定案、R53／R54 部分成立（弱））：原卡所问「占終身除功名外何事可爲」，manifest 结局仅载游川广黔、十余载后致书、竟入华山不知所终——对应同条再问（遍游）断面，主问具体何事可为之断面确无独立记载，本轮两席所指与既有定案同旨。 本轮（R60）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R61）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R62）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R63）manifest 该例结局与历轮所"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-513",
+  "anons": [
+   "P3-d33c44d8"
+  ],
+  "seats": [
+   "X4"
+  ],
+  "flag_texts": [
+   "X4: - F4｜P3-d33c44d8｜carry_note 原文依据：「间接验证例——结局仅记病终，终身功名断语无对应结局事件」。"
+  ],
+  "outcome": "至子年得病﹐丑年得蠱病而終。",
+  "prior_rounds": [
+   49,
+   53,
+   54,
+   57,
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X2：间接验证例——结局仅记子年病、丑年蛊病而终，预测的终身功名断语无对应结局事件，claims 无法核满。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 成立）：承接既有定案不重裁（历轮最近定案 R68 成立）：承接既有定案不重裁（历轮最近定案 R66 成立）：承接既有定案不重裁（历轮最近定案 R65 成立）：承接既有定案不重裁（历轮最近定案 R64 成立）：承接既有定案不重裁（历轮最近定案 R63 成立）：承接既有定案不重裁（历轮最近定案 R61 成立）：承接既有定案不重裁（历轮最近定案 R60 成立）：承接既有定案不重裁（历轮最近定案 R57 成立）：承接既有定案不重裁（R49 (乙) 部分不对位定案、R53／R54 旗标成立）：原卡所问「占終身功名（業已援例）」，manifest 结局仅「至子年得病，丑年得蠱病而終。」——功名面无任何对应事件，所指属实；源结局确实如此，非转录错置。本轮自报与既有定案同旨。 本轮（R60）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R61）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R62）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R63）manifest 该例结局与"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-514",
+  "anons": [
+   "P3-a50fdd1a"
+  ],
+  "seats": [
+   "Y3"
+  ],
+  "flag_texts": [
+   "Y3: 19. P3-a50fdd1a — 结局疑似截断：carry_note 载「结局以逗号收尾、疑似截断，主结局（或避之、或有惊无险）明载」；outcome_record 末尾为逗号。"
+  ],
+  "outcome": "後此人屢次遇兵變﹐或避之﹐或有驚無險﹐",
+  "prior_rounds": [
+   63,
+   64,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X2：结局以逗号收尾、疑似截断，主结局明载；Y2：结局以逗号收尾、疑似截断，主结局明载",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：新旗标（R63 新立）：回原卡——所问「占防流兵」；R63 manifest 结局「後此人屢次遇兵變，或避之，或有驚無險，」以逗号收尾——疑似截断之表面属实；但屡次遇兵变、或避之或有惊无险之主结局已明载。故部分成立（同 LY-416／LY-540 逗号收尾口径）。 本轮（R64）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R69）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R70）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-520",
+  "anons": [
+   "P3-184c971f"
+  ],
+  "seats": [
+   "X1",
+   "Y1"
+  ],
+  "flag_texts": [
+   "X1: 17. P3-184c971f（LY-520）：carry_note 载「prediction 爻位处含『?』占位字样两处、主体断语完整可读」。",
+   "Y1: - F9｜anon_id P3-184c971f｜依据（carry_note）：「prediction 爻位处含『?』占位字样两处、主体断语完整可读」——预测文本残损占位。"
+  ],
+  "outcome": "後來存貨堆積四年﹐朽壞大半﹐大虧其本。",
+  "prior_rounds": [
+   67,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X2：prediction 爻位处含「?」占位字样两处，主体断语完整可读；Y2：prediction 爻位处含「?」占位字样两处，主体断语完整可读",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R67 部分成立）：新旗标（R67 新立）：回本例 R67 prediction 全文逐字核——爻位处『子孙申金?卦中』『父母子水初?财源』两处确含半角问号『?』字样，所指字样存在一层属实；但 prediction 主体断语（不利、利薄、戌月出脱、置信 0.55）完整可读，且『?』字样在本轮另 7 例 prediction（LY-322／LY-333／LY-510／LY-515／LY-528／LY-533／LY-535）中同式用作连接替代字样、非本例独有残损。故部分成立。 本轮（R68）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R69）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。另注记层核明：逐字核 R69 prediction 全文（prediction_text 与 basis）并无「?」字样，Y4 旗标所据为 carry 旧注——旧注与本轮 prediction 口径不合一层属实（同 L"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-524",
+  "anons": [
+   "P3-04b785e2"
+  ],
+  "seats": [
+   "X1",
+   "Y1"
+  ],
+  "flag_texts": [
+   "X1: 20. P3-04b785e2（LY-524）：carry_note 载「结局愈局明载、所用药与所问附子对应未明字」——愈局所用药是否为附子无明字。",
+   "Y1: - F4｜anon_id P3-04b785e2｜依据（carry_note）：「结局愈局明载、所用药与所问附子对应未明字」——结局载次日愈，但实际服药是否为附子未明字。"
+  ],
+  "outcome": "醫家先用漧薑湯試之﹐少刻開言肚疼之甚。予曰﹕何如快服此藥。醫家加減調理一夜﹐次日曰愈﹐",
+  "prior_rounds": [
+   64,
+   68,
+   69
+  ],
+  "latest_prior": {
+   "round": 69,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R68）",
+   "flag": "Y4：结局所用药与所问附子对应未明｜所据原文：原文：『醫家先用漧薑湯試之』；carry自注所用药与附子对应未明字。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：新旗标（R64 新立）：回原卡——所问「占用附子可否」；R64 manifest 结局载医家先用干姜汤试之、开言肚疼，继『予曰：何如快服此藥』、医家加减调理一夜次日曰愈——终局（次日愈）明载，但『此药』究竟指附子抑或干姜汤、附子实际用否未以明字分载，对应未明一层属实。故部分成立。 本轮（R68）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R69）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-528",
+  "anons": [
+   "P3-1fd0cc77"
+  ],
+  "seats": [
+   "X1",
+   "Y1"
+  ],
+  "flag_texts": [
+   "X1: 7. P3-1fd0cc77（LY-528）：carry_note 载「总承式结局、断面未分载」——结局仅「果一一無錯」，各断面无法逐条分核；同类总承式另见 P3-28d1139c（YY-023）「后果然」、P3-334c4b7e（LY-240）「总承＋时点式结局、事件未分载」。",
+   "Y1: - F14｜anon_id P3-1fd0cc77｜依据（carry_note）：「总承式结局、断面未分载」；结局原文仅「彼曰﹕果一一無錯﹐」。"
+  ],
+  "outcome": "彼曰﹕果一一無錯﹐",
+  "prior_rounds": [
+   55,
+   56,
+   57,
+   60,
+   61,
+   62,
+   63,
+   64,
+   66,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X1：结局为总承式「果一一無錯」，各断面未分载，claims 只能按总承计、无法逐条独立核验。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R66 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：承接既有定案不重裁（历轮最近定案 R60 部分成立）：承接既有定案不重裁（历轮最近定案 R57 部分成立）：承接既有定案不重裁（R55／R56 部分成立）：原卡所问占地形势（来龙、明堂、水口、道路等），manifest 结局仅「彼曰：果一一無錯，」以总承语带过，各断面未逐项分载、无时点，粒度缺口属实而总承所指即本问本身。本轮自报与既有定案同旨；另本例 _r57 carry 注记文本未闭合，系建包截断问题，见特别核查①附带登记。 本轮（R60）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R61）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R62）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-529",
+  "anons": [
+   "P3-741f40e3"
+  ],
+  "seats": [
+   "X2",
+   "Y2"
+  ],
+  "flag_texts": [
+   "X2: 5. P3-741f40e3（LY-529）：指代未分载——结局原文「一一皆是，葬后未出三年，二子皆发科甲」，carry_note 自标「『一一皆是』指代未分载、二子发科甲实绩明载」，「一一皆是」与 prediction 不吉断语之间的对应关系无法逐项核验。",
+   "Y2: - F-Y2-14｜P3-741f40e3（LY-529）：carry_note 自述 outcome_record 中「『一一皆是』指代未分载」；同行另载「葬后未出三年，二子皆发科甲」实绩，与 prediction 坟地凶断的对应关系含混。"
+  ],
+  "outcome": "一一皆是，葬后未出三年，二子皆发科甲．",
+  "prior_rounds": [
+   56,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   66,
+   67,
+   68,
+   69
+  ],
+  "latest_prior": {
+   "round": 69,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R68）",
+   "flag": "X2：结局「一一皆是」指代未分载，无法逐条对位断语子项。所据原文：结局「一一皆是，葬后未出三年，二子皆发科甲」；carry_note「『一一皆是』指代未分载、二子发科甲实绩明载」。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R67 部分成立）：承接既有定案不重裁（历轮最近定案 R66 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：承接既有定案不重裁（历轮最近定案 R60 部分成立）：承接既有定案不重裁（历轮最近定案 R59 部分成立）：承接既有定案不重裁（R56／R58 部分成立）：原卡所问占坟地，R59 manifest 结局「一一皆是，葬后未出三年，二子皆发科甲．」——「一一皆是」所指形势细项未分载、指代未明一层属实，但后句二子发科甲为明确实绩记载，非整例含混；其承接注记已载于 R59 manifest _r58 carry 注记。本轮自报与既有定案同旨。 本轮（R60）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R61）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R62）manifest 该例结局与历轮所核文本一致、自报与既有定"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-531",
+  "anons": [
+   "P3-bea5270e"
+  ],
+  "seats": [
+   "Y3"
+  ],
+  "flag_texts": [
+   "Y3: 18. P3-bea5270e — 归否未明载：carry_note 载「归否未明载、午月中途过害侧载」；outcome_record 仅「后至午月火旺合未助土时，中途过害矣」。"
+  ],
+  "outcome": "后至午月火旺合未助土时，中途过害矣．",
+  "prior_rounds": [
+   56,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   66,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "Y3：结局归否未明载，仅侧载午月中途过害。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R66 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：承接既有定案不重裁（历轮最近定案 R60 部分成立）：承接既有定案不重裁（历轮最近定案 R59 部分成立）：承接既有定案不重裁（R56 部分成立）：原卡所问「一人占僕何日回」，R59 manifest 结局仅「后至午月火旺合未助土时，中途过害矣．」——午月途中遇害为仆行程的结局侧载，但仆最终归至与否确未明载，缺口一层属实；其承接注记已载于 R59 manifest _r58 carry 注记。本轮自报与既有定案同旨。 本轮（R60）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R61）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R62）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-533",
+  "anons": [
+   "P3-24ba4d66"
+  ],
+  "seats": [
+   "X1",
+   "Y1"
+  ],
+  "flag_texts": [
+   "X1: 9. P3-24ba4d66（LY-533）：carry_note 引卡面自注『占此应彼』，载「所问索房价，结局对应人身祸福断面，房价面无验」——问验错位。",
+   "Y1: - F17｜anon_id P3-24ba4d66｜依据（carry_note）：「所问索房价，结局对应人身祸福断面，房价面无验」，并引卡面自注『占此应彼』。"
+  ],
+  "outcome": "后于午月覆舟而亡．",
+  "prior_rounds": [
+   49,
+   53,
+   54,
+   55,
+   57,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   67,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X3：问面与结局面错位——所问索房价，结局载午月覆舟而亡，房价面无验；Y3：问面与结局面错位——所问索房价，结局载午月覆舟而亡，房价面无验",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R67 部分成立）：承接既有定案不重裁（历轮最近定案 R66 部分成立）：承接既有定案不重裁（历轮最近定案 R65 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：承接既有定案不重裁（历轮最近定案 R60 部分成立）：承接既有定案不重裁（历轮最近定案 R59 部分成立）：承接既有定案不重裁（R49 防不测断面定案、R53 卡面自注、R54／R55／R57／R58 部分成立）：原卡所问「一人占索房價」，setting 明注「占索討房價（占此應彼）」；R59 manifest 结局「后于午月覆舟而亡．」对应人身祸福断面，房价面确无验，断面出入属实；惟该出入卡面已有自注，不构成未注明的数据问题。R59 manifest _r56／_r57／_r59 carry 注记已登记。本轮自报与既有定案同旨。 本轮（R60）manifest"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-536",
+  "anons": [
+   "P3-24ee723f"
+  ],
+  "seats": [
+   "X1"
+  ],
+  "flag_texts": [
+   "X1: 14. P3-130ca174（YY2-001）：carry_note 载「结局大半为断语解释层、终命事实仅首句明载」；同类解释层混入另见 P3-155bb28c（LY-230）、P3-17943f0f（YY2-005）、P3-24ee723f（LY-536）、P3-39142f41（LY-102，括注含编者评价层）。"
+  ],
+  "outcome": "此人果死于卯年卯月卯日卯时，应卯日时者，生助午火克冲原神也．",
+  "prior_rounds": [
+   64
+  ],
+  "latest_prior": {
+   "round": 64,
+   "disposition": "部分成立",
+   "relation": "新旗标（R64 新立）",
+   "flag": "X1：结局尾句「应卯日时者，生助午火克冲原神也」为应验解释层。；Y1：结局末句『应卯日时者，生助午火克冲原神也』含应验解释层。",
+   "finding_head": "新旗标（R64 新立）：回原卡——所问「子占父病」；R64 manifest 结局「此人果死于卯年卯月卯日卯时，应卯日时者，生助午火克冲原神也．」——死期事实层明载，尾句为应验解释层、非结局事实本身，解释层并载属实；但系本例个案释义，终局本身明载。故部分成立（同 YY2-002 解释层口径）。"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-538",
+  "anons": [
+   "P3-632f1423"
+  ],
+  "seats": [
+   "Y2"
+  ],
+  "flag_texts": [
+   "Y2: - F-Y2-18｜P3-632f1423（LY-538）：carry_note 自述 outcome_record「文句含混（他官顶位、本人赴京另补），参劾过程未明载」。"
+  ],
+  "outcome": "后因裁他处缺上台，题留他处官顶此公位将，此将公赴京另补",
+  "prior_rounds": [
+   49,
+   63,
+   64,
+   69
+  ],
+  "latest_prior": {
+   "round": 69,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R64）",
+   "flag": "X2：结局文句含混——参劾过程未明载、离任另补终局勉强可读。所据原文：结局「后因裁他处缺上台，题留他处官顶此公位将，此将公赴京另补」；carry_note 同旨登记。；Y2：结局文句含混、参劾过程未明载。结局原文：「后因裁他处缺上台，题留他处官顶此公位将，此将公赴京另补」，仅离任另补终局可读，劾动与防劾过程无载。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：同例新旨（R49 登记为改断面例（弱）、basis 记『參劾問改斷離任，结局应離任（§4.18）』，本轮含混旨与之各旨独立、并行不悖）：回原卡——所问「占防恭劾」；R63 manifest 结局「后因裁他处缺上台，题留他处官顶此公位将，此将公赴京另补」——文句主语交错、语序含混，参劾过程与终局性质未以明字分载，所指一层属实；但他官顶位、本人赴京另补之离任终局可读，与 R49 登记『结局应離任』一致，非整例无结局；本轮 prediction 断参劾可防、不以丢官定终局与结局之出入属评分面。故部分成立。 本轮（R64）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R69）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-540",
+  "anons": [
+   "P3-f3849008"
+  ],
+  "seats": [
+   "X4"
+  ],
+  "flag_texts": [
+   "X4: - F14｜结局疑似截断（以逗号收尾、主结局明载，carry_note 已登记）：P3-c61639b4「後應申月所請準﹐酉歲迎靈而歸﹐」、P3-d424eeae「果卒於甲戌日﹐」、P3-f3849008「至七月城破与官府一同被害，」、P3-fffe1950「後報升於巳月﹐」。"
+  ],
+  "outcome": "后因官府掣签得缺，近于贼营辞而不去，及至官府去后又因他事而去，至七月城破与官府一同被害，",
+  "prior_rounds": [
+   62,
+   63,
+   64,
+   66,
+   67,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "Y4：结局以逗号收尾、疑似截断，主结局（城破一同被害）明载（carry 已注）。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R67 部分成立）：承接既有定案不重裁（历轮最近定案 R66 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：新旗标（R62 新立）：回原卡——占随官上任如何；R62 manifest 结局作「后因官府掣签得缺，近于贼营辞而不去，及至官府去后又因他事而去，至七月城破与官府一同被害，」以逗号收尾，其后疑有未录文字，截断之疑属实一层；但主结局（城破与官府一同被害）已明载、终局可核（同 LY-416 逗号收尾口径）。故部分成立。 本轮（R63）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R64）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R66）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R67）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R68）manifest"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-613",
+  "anons": [
+   "P3-4206e7db"
+  ],
+  "seats": [
+   "X2",
+   "Y2"
+  ],
+  "flag_texts": [
+   "X2: 12. P3-4206e7db（LY-613）：卡面占位字样——carry_note 自标「prediction 爻位处含『?』占位字样一处、主体断语完整可读」，本席按完整可读的断语主体评分。",
+   "Y2: - F-Y2-19｜P3-4206e7db（LY-613）：carry_note 自述 prediction「爻位处含『?』占位字样一处」；本席回读 prediction_text 全文未见该占位字（可能位于卡面他处），登记备核。"
+  ],
+  "outcome": "果於次日卯時生，母子平安，應卯時者，酉金與辰日相合。",
+  "prior_rounds": [
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X2：prediction 爻位处含「?」占位字样一处，主体断语完整可读；prediction 内另有「须以现代医疗处置为准」提示性字样，已按数据处理、未作指令；Y2：prediction 爻位处含「?」占位字样一处，主体断语完整可读；prediction 内另有「须以现代医疗处置为准」提示性字样，已按数据处理、未作指令",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：新旗标（R69 新立）：回本例 R69 prediction 全文逐字核——prediction_text 载「主坐标子日（伏神逢值/冲?子水值日）」确含半角问号「?」字样一处（basis 另有同式字样）；但主体断语（难产有险、须借冲飞之期方产、母险小于胎险）完整可读。故部分成立（同 LY-520／LY-628 字样口径）。 本轮（R70）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。另本轮核明：R70 prediction_text 无「?」字样，basis 载全角「？」同式字样两处（「子日冲？子冲午非未」「原神官鬼？产占」），字样层本轮仍在场（所在层位与计数与旗标所报不尽合），主体断语完整可读，档位不变；prediction 内「须以现代医疗处置为准」提示性字样另按特别核查③登记。"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-614",
+  "anons": [
+   "P3-7a9d8b1b"
+  ],
+  "seats": [
+   "X2",
+   "Y2"
+  ],
+  "flag_texts": [
+   "X2: 7. P3-7a9d8b1b（LY-614）：终局未载——结局原文「至戊申日沈屙復起，其可謂之蛇動死，虎動主喪耶？」以反问收束，carry_note 自标「沉屙复起有载、兄病终局未载」。",
+   "Y2: - F-Y2-08｜P3-7a9d8b1b（LY-614）：carry_note 自述「沉屙复起有载、兄病终局未载（结局以反问语收束）」；outcome_record 末句为「其可謂之蛇動死，虎動主喪耶？」。"
+  ],
+  "outcome": "至戊申日沈屙復起，其可謂之蛇動死，虎動主喪耶？",
+  "prior_rounds": [
+   57,
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   67,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "Y2：结局以反问语收束，仅载沉屙复起，兄病终局未载。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R67 部分成立）：承接既有定案不重裁（历轮最近定案 R66 部分成立）：承接既有定案不重裁（历轮最近定案 R65 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：承接既有定案不重裁（历轮最近定案 R60 部分成立）：承接既有定案不重裁（历轮最近定案 R57 部分成立）：新旗标（历轮标注 r49–r56 无本 case_id 条目，去重检索已跑完）：原卡所问「占兄病」，manifest 结局仅「至戊申日沈屙復起，其可謂之蛇動死，虎動主喪耶？」——沉屙复起一面有载，但结局以反问语收束，兄病终局（愈／死）确未记载，所指属实；结局亦非他事，故为部分成立。 本轮（R60）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R61）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R62"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-624",
+  "anons": [
+   "P3-274c2ae7"
+  ],
+  "seats": [
+   "X1",
+   "Y1"
+  ],
+  "flag_texts": [
+   "X1: 18. P3-274c2ae7（LY-624）：carry_note 载「题面两占合断、输入卡只载一卦，互证面残损」。",
+   "Y1: - F19｜anon_id P3-274c2ae7｜依据（carry_note）：「题面两占合断、输入卡只载一卦，互证面残损（卡面与 prediction 已双示）」。"
+  ],
+  "outcome": "後果全無。",
+  "prior_rounds": [
+   62,
+   63,
+   66,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R66）",
+   "flag": "X2：题面两占合断、输入卡只载一卦，互证面残损（卡面与 prediction 已双示）。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R66 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：新旗标（R62 新立）：回原卡——卡面 subject 自载「求財（兩占合斷）」，notes 定位文明载同例再占暌之损不在本条范围，卡内只载家人之贲一卦；R62 prediction 正文自注「题面记两占合断，输入卡只载一卦，本断只据此一卦，两占互证面残损已注明」，trigger 亦同旨留痕——两占合断而互证面残损属实；但残损已在卡面与 prediction 双处明示、非未注明问题（同 YY2-004／OC-009 残损双示口径）。故部分成立。 本轮（R63）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮 X3 兼及结局『後果全無』无时点一层，与总承式短结局同域、并行登记，不改既有 disposition。 本轮（R66）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R70）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-628",
+  "anons": [
+   "P3-aba997af"
+  ],
+  "seats": [
+   "Y3"
+  ],
+  "flag_texts": [
+   "Y3: 23. P3-aba997af — prediction 卡面瑕疵：carry_note 载「prediction 爻位处含『?』占位字样一处、主体断语完整可读」。"
+  ],
+  "outcome": "果被杖責，此應日克月破故耳．",
+  "prior_rounds": [
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "Y4：prediction 爻位处含「?」占位字样一处，主体断语完整可读（carry 已注）。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：新旗标（R69 新立）：回本例 R69 prediction 全文逐字核——prediction_text 载「官鬼寅木休囚静伏?官现二爻静而无力兴讼」确含半角问号「?」字样一处；但主体断语（讼事可解、对占者有利）完整可读。故部分成立（同 LY-520／LY-613 字样口径）。 本轮（R70）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。另注记层核明：逐字核 R70 prediction 全文（prediction_text 与 basis）并无「?／？」字样，旗标所据为 carry 旧注——旧注与本轮 prediction 口径不合一层并行登记、档位不变。"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 1,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "LY-629",
+  "anons": [
+   "P3-dbad0a45"
+  ],
+  "seats": [
+   "X4",
+   "Y4"
+  ],
+  "flag_texts": [
+   "X4: - F6｜P3-dbad0a45｜carry_note 原文依据：「结局为总承式且系改向之后应验、原问坟地吉凶未独立分载」。",
+   "Y4: - F9（P3-dbad0a45 / LY-629）：outcome_record 为总承式且系改向之后应验（「依予取水作朝，棄山作向……彼果依斷，葬後即如所言」，carry_note 已登记），原问坟地本身吉凶未独立分载。"
+  ],
+  "outcome": "彼曰：一一果然，葬可好否？予曰：依予取水作朝，棄山作向，許必大發，彼果依斷，葬後即如所言．",
+  "prior_rounds": [
+   54,
+   61,
+   62,
+   63,
+   64,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "Y2：总承式结局、断面未分载（总承且系改向后应验、原问坟地吉凶未独立分载）",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：承接既有定案不重裁（R54 部分成立）：回原卡——所问「占墳地風水」，R61 manifest 结局「彼曰：一一果然，葬可好否？予曰：依予取水作朝，棄山作向，許必大發，彼果依斷，葬後即如所言．」——前断以『一一果然』总承、后段转入改向建议与『葬后即如所言』总承，原问坟地吉凶未以独立实绩分载，旗标部分成立；本轮（R61）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。另本轮 Y4 所报『改向之后大发与 prediction 平顺小吉量级出入』一层，属 prediction 与结局的评分面落差，不构成数据缺口，随本条并行登记。 本轮（R62）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R63）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R64）manifest 该例结局与历轮所核文本一致、自报与既有定"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 2,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "MH-010",
+  "anons": [
+   "P3-92209361"
+  ],
+  "seats": [
+   "X3",
+   "Y3"
+  ],
+  "flag_texts": [
+   "X3: - F8｜P3-92209361（MH-010）：carry_note 载「爻辞应验面有载、妇人坠跌面未载」，结局仅「果十日，伐樹起公榭，而匠者適字『元夫』」一面。",
+   "Y3: 3. P3-92209361 — 结局断面与所断不对应：carry_note 载「爻辞应验面有载、妇人坠跌面未载」；prediction_text 断「久别之人归来相逢」，结局仅载「伐树起公榭，而匠者适字『元夫』（应九四爻辞）」，归遇面无载。"
+  ],
+  "outcome": "果十日，伐樹起公榭，而匠者適字「元夫」（應九四爻辭）",
+  "prior_rounds": [
+   60,
+   61,
+   62,
+   63,
+   64,
+   67,
+   68,
+   69
+  ],
+  "latest_prior": {
+   "round": 69,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R68）",
+   "flag": "X3：结局断面对位不全。所据 carry_note：「爻辞应验面有载、妇人坠跌面未载」。；Y3：carry_note 自注「爻辞应验面有载、妇人坠跌面未载」——结局仅载伐树一面，prediction 亦只断树与行人无祸，按原文评分。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R67 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：承接既有定案不重裁（历轮最近定案 R60 部分成立）：新旗标（R60 新立）：回原卡——枯枝坠地占，原书同条含妇人坠跌之断与九四爻辞「睽孤，遇元夫」一面；R60 manifest 结局仅「果十日，伐樹起公榭，而匠者適字「元夫」（應九四爻辭）」——爻辞应验面有载，妇人坠跌断面确无记载，此层属实；结局非他事。故部分成立。 本轮（R61）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R62）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R63）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R64）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R67）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 "
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "MP-010",
+  "anons": [
+   "P3-7e783d89"
+  ],
+  "seats": [
+   "Y2"
+  ],
+  "flag_texts": [
+   "Y2: - F-Y2-11｜P3-7e783d89（MP-010）：outcome_record 含替换字符乱码一处：「郭台铭独立参选连署后��2023-11-24宣布退选」。"
+  ],
+  "outcome": "国民党2023-05-17征召侯友宜而非郭台铭；郭台铭独立参选连署后于2023-11-24宣布退选，未成为候选人；2024-01-13赖清德当选总统",
+  "prior_rounds": [],
+  "latest_prior": null,
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "OC-009",
+  "anons": [
+   "P3-46b282b8"
+  ],
+  "seats": [
+   "Y2"
+  ],
+  "flag_texts": [
+   "Y2: - F-Y2-02｜P3-46b282b8（OC-009）：carry_note 自述「四柱未实际给出、prediction 为残损降格断（卡面与 prediction 已双示）」。"
+  ],
+  "outcome": "顾维钧外交生涯长达数十年，历任驻美大使、国联要职、国际法院法官等；其妻黄蕙兰与其婚姻于1950年代结束（离婚）；1985年卒于纽约，享年97岁。",
+  "prior_rounds": [
+   61,
+   62,
+   63,
+   68,
+   69
+  ],
+  "latest_prior": {
+   "round": 69,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R68）",
+   "flag": "X3：卡面与 prediction 残损降格断。所据 carry_note：「四柱未实际给出、prediction 为残损降格断（卡面与 prediction 已双示）」。；Y3：carry_note 自注「四柱未实际给出、prediction 为残损降格断」——卡面与 prediction 双示残损，断语置信已自降。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：新旗标（R61 新立）：回原卡——卡面仅注『原书应运篇下论造，四柱以原书为准，转录本个别字待校』，四柱未实际给出；R61 prediction 自陈『无盘可排……不断具体运程』、置信低（0.20），属残损降格断——所指属实，但残损状态已在卡面与 prediction 双处明示。故部分成立。 本轮（R62）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R63）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R68）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R69）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "OC-010",
+  "anons": [
+   "P3-5e829a2f"
+  ],
+  "seats": [
+   "Y2"
+  ],
+  "flag_texts": [
+   "Y2: - F-Y2-06｜P3-5e829a2f（OC-010）：outcome_record 含替换字符乱码一处：「1934年称��，为日本傀儡」。"
+  ],
+  "outcome": "溥仪1932年出任伪满洲国执政、1934年称帝，为日本傀儡；1945年被俘，1959年特赦，1967年卒于北京，年61岁。",
+  "prior_rounds": [],
+  "latest_prior": null,
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "OC-012",
+  "anons": [
+   "P3-3a2eca6c"
+  ],
+  "seats": [
+   "Y1"
+  ],
+  "flag_texts": [
+   "Y1: - F27｜anon_id P3-3a2eca6c｜依据（outcome_record）：「后知来占者为赵忻城昆弟；果于是年六月奉诏进京，授京营提督」——prediction 为昆弟二人分断（一成一迟），结局主语未明分指何人得官，二人各自结局未分载。"
+  ],
+  "outcome": "杨秀琼1930年代为全国泳坛冠军；1937年（丁丑）与陶伯龄结婚；后移居香港、北美，晚景飘零，1982年卒于温哥华。",
+  "prior_rounds": [],
+  "latest_prior": null,
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "OC-014",
+  "anons": [
+   "P3-5571ff50"
+  ],
+  "seats": [
+   "X2"
+  ],
+  "flag_texts": [
+   "X2: 4. P3-5571ff50（OC-014）：结局形态超出卡面量级——结局为蒋邦彦 1928 年被刺杀身亡，carry_note 自标「终局有载、官阶／寿数量级未载」，prediction 所断官阶与罢黜／破财段均无结局对应记载。"
+  ],
+  "outcome": "蒋邦彦于1928年（戊辰）甲子月在杭州寓邸被张宗昌遣人潜入刺杀身亡，其时正行甲运。",
+  "prior_rounds": [
+   55,
+   57,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X2：结局仅载遇刺身亡，官阶与寿数量级未载，预测的仕途量级无法由结局核验。；Y2：结局仅载遇刺终局，官阶／寿数量级未载；carry_note 自注存在截断问题（另按特别核查登记）。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：承接既有定案不重裁（历轮最近定案 R60 部分成立）：承接既有定案不重裁（历轮最近定案 R59 部分成立）：承接既有定案不重裁（R55／R57 部分成立）：原卡所问「命主仕途与行运吉凶如何？」，R59 manifest 结局仅载蒋邦彦 1928 年（戊辰）甲子月在杭州寓邸被刺身亡、其时正行甲运——终局一面有直接记载，但官阶量级与寿数量级在结局文本内确无记载，所指一层属实；其承接注记已载于 R59 manifest _r57／_r59 carry 注记。本轮自报与既有定案同旨。 本轮（R60）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R61）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R62）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R63）manifest 该例结局与历轮所核文本一"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "OC-029",
+  "anons": [
+   "P3-1fdd8009"
+  ],
+  "seats": [
+   "X1",
+   "Y1"
+  ],
+  "flag_texts": [
+   "X1: 8. P3-1fdd8009（OC-029）：carry_note 附注「求官面未载、余诸事面有载」——本例主问求官面在结局中无对应记载。",
+   "Y1: - F15｜anon_id P3-1fdd8009｜依据（carry_note）：「求官面未载、余诸事面有载」——本例 prediction 主断之一（携子求官）在结局中无对应记载。"
+  ],
+  "outcome": "三客至、内有杨姓，果如言；王宅书房被盗，所盗为郎君之物，三日后贼复来尽盗父子衣物；冬月清兵入山东、攻城陷邑，一一如占；王米山迁居淮安新安镇，其母未度九十而终（89岁）。",
+  "prior_rounds": [
+   49,
+   54,
+   57,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   66,
+   67,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X4：结局多事混载（三客、被盗、清兵入山东、迁居、母终 89 岁），所问求官面未载（carry 已注），主断语无从核验。；Y4：结局多断面混载（客至、盗、兵事、迁居、母终 89 岁），与预测求官主面对应弱；求官面未载（carry 已注）。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R67 部分成立）：承接既有定案不重裁（历轮最近定案 R66 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：承接既有定案不重裁（历轮最近定案 R60 部分成立）：承接既有定案不重裁（历轮最近定案 R59 部分成立）：承接既有定案不重裁（R49 一式多占定案、R54／R57／R58 部分成立）：原卡所问「携子求官访道，请占诸事吉凶」本为诸事复合；R59 manifest 结局载客至、被盗、清兵入山东、迁居、母终（89 岁）诸面，stripped_tail 注各应验点均独立载于原文——唯求官一面结局无任何记载，此层属实；母寿面结局有载（未度九十、89 岁），与本轮 prediction 相左属评分面、不另立数据旗标。R59 manifest _r56／_r59 carry 注记已登记。本轮自报与既有定案同旨。 本轮（R60）"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "YM-007",
+  "anons": [
+   "P3-4759f6e8"
+  ],
+  "seats": [
+   "Y2"
+  ],
+  "flag_texts": [
+   "Y2: - F-Y2-03｜P3-4759f6e8（YM-007）：outcome_record 括注「（亥月甲辰日）」；carry_note 自述「括注『亥月甲辰日』归属未明字、归日不可确核」。"
+  ],
+  "outcome": "（亥月甲辰日）子孙反得平安而归。",
+  "prior_rounds": [
+   57,
+   61,
+   62,
+   63,
+   64,
+   68
+  ],
+  "latest_prior": {
+   "round": 68,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R64）",
+   "flag": "Y4：结局括注「亥月甲辰日」归属未明，归日不可确核",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：承接既有定案不重裁（历轮最近定案 R57 部分成立）：新旗标（历轮标注 r49–r56 无本 case_id 条目，去重检索已跑完）：原卡所问「占子存亡（出门之子生死）」，asked_at 为辛卯年丙申月甲戌旬丙子日；manifest 结局「（亥月甲辰日）子孙反得平安而归。」——子存亡与平安归至有明载，此层无缺；但括注「亥月甲辰日」与占时干支有别、与归事的语法关系未明字（未明作归日），归日不可确核一层属实，故为部分成立。 本轮（R61）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R62）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R63）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R64）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R68）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "YM-030",
+  "anons": [
+   "P3-0324689c"
+  ],
+  "seats": [
+   "X1",
+   "Y1"
+  ],
+  "flag_texts": [
+   "X1: 3. P3-0324689c（YM-030）：carry_note 载「『复完胎』语义未明、胎终局判定存疑」——结局关键短语语义未明，胎终局判定存疑。",
+   "Y1: - F3｜anon_id P3-0324689c｜依据（carry_note）：「『复完胎』语义未明、胎终局判定存疑」——结局「败血三日后复完胎」语义含混，胎终局无法确判。"
+  ],
+  "outcome": "败血三日后复完胎。",
+  "prior_rounds": [
+   56,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   67,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X3：outcome「败血三日后复完胎」语义未明，胎终局判定存疑（carry_note 同标）。；Y3：结局「复完胎」语义未明，胎终局判定存疑（carry 自注）。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R67 部分成立）：承接既有定案不重裁（历轮最近定案 R66 部分成立）：承接既有定案不重裁（历轮最近定案 R65 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：承接既有定案不重裁（历轮最近定案 R60 部分成立）：承接既有定案不重裁（历轮最近定案 R59 部分成立）：承接既有定案不重裁（R56 部分成立、R58 同旨续接）：原卡所问占孕（胎安否），R59 manifest 结局仅「败血三日后复完胎。」——胎面终局有载，但「复完胎」可读作胎复完好或完胎落定、语义确未明，含混一层属实；其承接注记已载于 R59 manifest _r58 carry 注记。本轮自报与既有定案同旨。 本轮（R60）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R61）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R62）manifest 该"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 1,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "YM-037",
+  "anons": [
+   "P3-5c580f8a"
+  ],
+  "seats": [
+   "Y2"
+  ],
+  "flag_texts": [
+   "Y2: - F-Y2-17｜P3-5c580f8a（YM-037）：prediction_text 含替换字符乱码一处：「原神���弟亥水两见于变爻」。"
+  ],
+  "outcome": "于戊申日乃变脾病而不治。",
+  "prior_rounds": [],
+  "latest_prior": null,
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "YM-043",
+  "anons": [
+   "P3-8b29c765"
+  ],
+  "seats": [
+   "X3"
+  ],
+  "flag_texts": [
+   "X3: - F15｜P3-8b29c765（YM-043）：carry_note 载结局含「化绝于亥」机制语混载、时点未分载，终局仅「遂不救」。"
+  ],
+  "outcome": "（化绝于亥）遂不救。",
+  "prior_rounds": [
+   64,
+   65,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X1：结局「（化绝于亥）遂不救」机制语与事实混载，时点未分载，timing 只能按亥字面计。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R65 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：新旗标（R64 新立）：回原卡——所问「占父身（父病吉凶）」；R64 manifest 结局仅「（化绝于亥）遂不救。」——『遂不救』为父病终局明载，『化绝于亥』机制语以括注形式混载、死期时点未另以明字分载，所指一层属实；文本极简、非整例无结局。故部分成立。 本轮（R65）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R69）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R70）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "YM-048",
+  "anons": [
+   "P3-4fd1ce0d"
+  ],
+  "seats": [
+   "Y2"
+  ],
+  "flag_texts": [
+   "Y2: - F-Y2-16｜P3-4fd1ce0d（YM-048）：prediction_text 含替换字符乱码一处：「二爻财动化父母��土而丑临空」。"
+  ],
+  "outcome": "至下岁孟春方绝。",
+  "prior_rounds": [],
+  "latest_prior": null,
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "YM-053",
+  "anons": [
+   "P3-13d6e07b"
+  ],
+  "seats": [
+   "Y1"
+  ],
+  "flag_texts": [
+   "Y1: - F8｜anon_id P3-13d6e07b｜依据（outcome_record）：「其女不死；中男相继而病，及甲申旬中男反亡」——主问为女病，结局另载中男病亡，旁及他人结局混载，女愈时点未载。"
+  ],
+  "outcome": "其女不死；中男相继而病，及甲申旬中男反亡。",
+  "prior_rounds": [],
+  "latest_prior": null,
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "YM-070",
+  "anons": [
+   "P3-7e939c27"
+  ],
+  "seats": [
+   "X2",
+   "Y2"
+  ],
+  "flag_texts": [
+   "X2: 10. P3-7e939c27（YM-070）：结局措辞待核——结局原文「后果同行都下」，carry_note 自标「结局措辞待核（『都下』语义未明）」。",
+   "Y2: - F-Y2-12｜P3-7e939c27（YM-070）：carry_note 自述 outcome_record「『都下』语义未明」。"
+  ],
+  "outcome": "后果同行都下。",
+  "prior_rounds": [
+   51,
+   53,
+   55,
+   56,
+   57,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   66,
+   67,
+   68,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "未核",
+   "relation": "待核维持（旗标触及、只登记不裁）",
+   "flag": "Y3：结局措辞「后果同行都下」语义未明（carry 自注待核）。",
+   "finding_head": "待核维持（本轮旗标触及、只登记不裁）：Y3 旗标登记结局措辞「后果同行都下」语义未明——逐字回读 R70 结局原文确作『后果同行都下。』，触及属实；本例维持 R68 未核原登记（『都下』语义未明＋『甲寅旬』出处待核并列、无盘外独立史源不裁），本轮只登记触及、不入裁断。"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "YY-022",
+  "anons": [
+   "P3-b95c4a8f"
+  ],
+  "seats": [
+   "X3",
+   "Y3"
+  ],
+  "flag_texts": [
+   "X3: - F13｜P3-b95c4a8f（YY-022）：outcome_record 仅「后果然」总承式结局，断面未分载。",
+   "Y3: 16. P3-b95c4a8f — 总承式结局：carry_note 载「总承式结局、断面未分载」；outcome_record 仅「后果然」三字。"
+  ],
+  "outcome": "后果然。",
+  "prior_rounds": [
+   53,
+   55,
+   56,
+   57,
+   60,
+   61,
+   62,
+   63,
+   64,
+   66,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X2：总承式结局（「后果然」）、断面未分载；Y2：总承式结局（「后果然」）、断面未分载",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R66 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：承接既有定案不重裁（历轮最近定案 R60 部分成立）：承接既有定案不重裁（历轮最近定案 R57 部分成立）：承接既有定案不重裁（R53 总承式定案、R55／R56 部分成立）：原卡所问占讼事胜负与和息，manifest 结局仅「后果然。」三字总承，胜负／和息何者与何时定局均未分载属实，总承所指即本问讼事本身。本轮自报与既有定案同旨；另本例 _r57 carry 注记文本未闭合，系建包截断问题，见特别核查①附带登记。 本轮（R60）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R61）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R62）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R6"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "YY-023",
+  "anons": [
+   "P3-28d1139c"
+  ],
+  "seats": [
+   "X1",
+   "Y1"
+  ],
+  "flag_texts": [
+   "X1: 7. P3-1fd0cc77（LY-528）：carry_note 载「总承式结局、断面未分载」——结局仅「果一一無錯」，各断面无法逐条分核；同类总承式另见 P3-28d1139c（YY-023）「后果然」、P3-334c4b7e（LY-240）「总承＋时点式结局、事件未分载」。",
+   "Y1: - F20｜anon_id P3-28d1139c｜依据（carry_note）：「结局为总承式『后果然』、断面未分载」；另 prediction_text 自注「卡面动爻记载自相矛盾，存疑待校」。"
+  ],
+  "outcome": "后果然。",
+  "prior_rounds": [
+   61,
+   62,
+   63,
+   64,
+   67,
+   68,
+   69
+  ],
+  "latest_prior": {
+   "round": 69,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R68）",
+   "flag": "Y4：总承式结局、断面未分载｜所据原文：原文：『后果然。』",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R67 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：新旗标（R61 新立）：回原卡——所问占讼能否说情脱罪；R61 manifest 结局仅「后果然。」二字总承——断面未分载属实；但总承所指即本问讼事本身（同 YY-022 体例）。故部分成立。 本轮（R62）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R63）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R64）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R67）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R68）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。另本轮 Y3 旗标兼及卡面动爻记载自相矛盾一层——逐字核 R68 prediction 全文（「卡面动爻记载自相矛盾（原文称寅官"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "YY2-001",
+  "anons": [
+   "P3-130ca174"
+  ],
+  "seats": [
+   "X1",
+   "Y1"
+  ],
+  "flag_texts": [
+   "X1: 14. P3-130ca174（YY2-001）：carry_note 载「结局大半为断语解释层、终命事实仅首句明载」；同类解释层混入另见 P3-155bb28c（LY-230）、P3-17943f0f（YY2-005）、P3-24ee723f（LY-536）、P3-39142f41（LY-102，括注含编者评价层）。",
+   "Y1: - F7｜anon_id P3-130ca174｜依据（carry_note）：「结局大半为断语解释层、终命事实仅首句明载」——结局原文后半为解释层。"
+  ],
+  "outcome": "直至戊寅年甲子月癸卯日故。此年正值甲戌旬，父临岁旬空内，又绝于岁建，死于月建，胎于日建，元神又被寅年卯日相伤，故当终命也。",
+  "prior_rounds": [
+   64,
+   65,
+   67,
+   68
+  ],
+  "latest_prior": {
+   "round": 68,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R67）",
+   "flag": "X2：结局大半为断语解释层、终命事实仅首句明载；Y2：结局大半为断语解释层，终命事实仅首句明载",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R67 部分成立）：承接既有定案不重裁（历轮最近定案 R65 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：新旗标（R64 新立）：回原卡——所问「占父寿（父亲寿数长短与终期）」；R64 manifest 结局首句载『直至戊寅年甲子月癸卯日故』为事实层，其后『此年正值甲戌旬，父临岁旬空内，又绝于岁建……故当终命也』大半为断语解释层——解释层占比过半属实；但终命事实本身明载。故部分成立（同 YY2-002 解释层口径）。 本轮（R65）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R67）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R68）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "YY2-004",
+  "anons": [
+   "P3-266738be"
+  ],
+  "seats": [
+   "X1",
+   "Y1"
+  ],
+  "flag_texts": [
+   "X1: 10. P3-266738be（YY2-004）：carry_note 载「盘面残损、prediction 为无据不报之降格断（卡面与 prediction 已双示）」——本例无可评的实质断语。",
+   "Y1: - F18｜anon_id P3-266738be｜依据（carry_note）：「盘面残损、prediction 为无据不报之降格断（卡面与 prediction 已双示）」——本卦名与六爻爻象俱缺。"
+  ],
+  "outcome": "直至戊寅年戊午月壬戌日故。世爻正值岁旬空亡，又被年月日会成火局克世，且世爻绝于岁建，败于月建，衰于日建，故当终也。",
+  "prior_rounds": [
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   67,
+   68,
+   69,
+   70
+  ],
+  "latest_prior": {
+   "round": 70,
+   "disposition": "部分成立",
+   "relation": "同旨续接（R69）",
+   "flag": "X4：prediction 本身为「无据不报」降格断——无方向、无断语、无应期，仅能按冻结口径记 timing 0 并注明、三项皆 0。；Y4：盘面残损，prediction 为无据不报之降格断、无方向与应期断语；按冻结口径 direction/claims/timing 记 0（timing 注明预测本身无应期）。",
+   "finding_head": "承接既有定案不重裁（历轮最近定案 R69 部分成立）：承接既有定案不重裁（历轮最近定案 R68 部分成立）：承接既有定案不重裁（历轮最近定案 R67 部分成立）：承接既有定案不重裁（历轮最近定案 R66 部分成立）：承接既有定案不重裁（历轮最近定案 R65 部分成立）：承接既有定案不重裁（历轮最近定案 R64 部分成立）：承接既有定案不重裁（历轮最近定案 R63 部分成立）：承接既有定案不重裁（历轮最近定案 R61 部分成立）：新旗标（R61 新立）：回原卡——卡面自注本卦名原书缺字、六爻与动爻不录；R61 prediction 自述『本例盘面残损，本卦名原书缺字、六爻盘面与动爻均不可补……无据定断』——残损降格属实，但残损状态已在卡面与 prediction 双处明示。故部分成立。 本轮（R62）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R63）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R64）manifest 该例结局与历轮所核文本一致、自报与既有定案同旨。 本轮（R65）manifest 该例结局与历轮所核文本一致、"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ },
+ {
+  "case_id": "YY2-005",
+  "anons": [
+   "P3-17943f0f"
+  ],
+  "seats": [
+   "X1"
+  ],
+  "flag_texts": [
+   "X1: 14. P3-130ca174（YY2-001）：carry_note 载「结局大半为断语解释层、终命事实仅首句明载」；同类解释层混入另见 P3-155bb28c（LY-230）、P3-17943f0f（YY2-005）、P3-24ee723f（LY-536）、P3-39142f41（LY-102，括注含编者评价层）。"
+  ],
+  "outcome": "后于子日成就，盖文书旺于子，且冲破午胎也。",
+  "prior_rounds": [
+   65
+  ],
+  "latest_prior": {
+   "round": 65,
+   "disposition": "部分成立",
+   "relation": "新旗标（R65 新立）",
+   "flag": "X1：结局尾句为解释层混入结局",
+   "finding_head": "新旗标（R65 新立）：回原卡——所问「求占文书（所求文书能否办成）」；R65 manifest 结局『后于子日成就』为文书办成终局明载，尾句『盖文书旺于子，且冲破午胎也』为解释层——解释层并载属实；但系本例个案释义，终局本身明载。故部分成立（同 YY2-002 解释层口径）。"
+  },
+  "pred_text_q": 0,
+  "pred_basis_q": 0,
+  "pred_fffd": false,
+  "outcome_fffd": false
+ }
+]
