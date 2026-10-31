@@ -1,0 +1,57 @@
+{
+  "seat": "R86 holdout30 组集封存席",
+  "exclusion_pair_check": {
+    "checked": [
+      "LY-015",
+      "LY-320"
+    ],
+    "in_selection": {
+      "LY-015": false,
+      "LY-320": false
+    },
+    "conclusion": "两 id 均不在候选 28 例内（候选 id 空间 DA-/CYJ-/BY-/WHY-/GSZ-，与 LY- 不交叠，逐 id 明核）"
+  },
+  "zero_reuse_check": {
+    "basis_entries": 1219,
+    "basis_distinct_ids": 1192,
+    "basis_note": "runs/round86/used-ids-r86.json 1192 条＋holdout29 金标 27 id 条目＝1219 条目；h29 之 27 id 已在 1192 distinct 内（PREREG 开轮登记），distinct 仍 1192",
+    "candidates": [
+      "DA-038",
+      "CYJ-006",
+      "BY-017",
+      "DA-041",
+      "CYJ-007",
+      "BY-018",
+      "DA-042",
+      "CYJ-008",
+      "BY-020",
+      "DA-044",
+      "CYJ-009",
+      "BY-021",
+      "DA-046",
+      "CYJ-010",
+      "WHY-025",
+      "WHY-026",
+      "WHY-027",
+      "WHY-028",
+      "WHY-031",
+      "WHY-032",
+      "WHY-033",
+      "WHY-034",
+      "WHY-035",
+      "WHY-036",
+      "GSZ-101",
+      "GSZ-103",
+      "GSZ-104",
+      "GSZ-105"
+    ],
+    "overlap": [],
+    "conclusion": "overlap 为空集"
+  },
+  "id_occupancy_check": {
+    "existing_sealed_input_ids_count": 401,
+    "conflicts": [],
+    "all_candidates_are_existing_pool_ids": true,
+    "conclusion": "28 id 均为既有池卡 id 之取用、未入任何已封集，无新编号、无冲突（R84 判例口径）"
+  }
+}

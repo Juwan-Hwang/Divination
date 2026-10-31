@@ -1,0 +1,25 @@
+{
+  "id": "WHY-025",
+  "tradition": "liuyao",
+  "subject": "求测者（台账 subject 为空、原书未具名）",
+  "context": "1997年4月27日（卯月甲戌日），预测太原市近期有无重大火灾；原书第三章 火灾例一（印刷p48）",
+  "question": "预测太原市近期有无重大火灾",
+  "setting": "六爻分类占验技法（王虎应著）",
+  "provenance": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第三章 火灾例一（印刷p48）；底本为用户经学校图书馆提供之扫描本，redistributable=false",
+  "redistributable": false,
+  "license_status": "现代版权文本，内部研究用",
+  "anchors": {
+    "asked_at": "1997年4月27日（卯月甲戌日）",
+    "ben_gua": "地风升",
+    "bian_gua": "地山谦",
+    "moving_lines": "二爻父母亥水○应",
+    "chart_lines_top_to_bottom": [
+      "玄武 官鬼酉金",
+      "白虎 父母亥水",
+      "螣蛇 妻财丑土 世",
+      "勾陈 官鬼酉金",
+      "朱雀 父母亥水○ 应",
+      "白虎 妻财丑土"
+    ]
+  }
+}

@@ -1,0 +1,1112 @@
+{
+  "round": 86,
+  "set": "holdout30",
+  "built_by": "组集封存席（R86）",
+  "ruling": "runs/round86/PREREG.md §4（构成写死）＋派单口径（轮取读法 B：本集自 DA 起重启轮取，承 holdout29 体例；与派单字面「续取」读法之别已登记，提请主持验封裁处）",
+  "T": 28,
+  "order": [
+    "DA-038",
+    "CYJ-006",
+    "BY-017",
+    "DA-041",
+    "CYJ-007",
+    "BY-018",
+    "DA-042",
+    "CYJ-008",
+    "BY-020",
+    "DA-044",
+    "CYJ-009",
+    "BY-021",
+    "DA-046",
+    "CYJ-010",
+    "WHY-025",
+    "WHY-026",
+    "WHY-027",
+    "WHY-028",
+    "WHY-031",
+    "WHY-032",
+    "WHY-033",
+    "WHY-034",
+    "WHY-035",
+    "WHY-036",
+    "GSZ-101",
+    "GSZ-103",
+    "GSZ-104",
+    "GSZ-105"
+  ],
+  "lr_rotation": {
+    "source_order": [
+      "DA（断案）",
+      "CY（粹言 CYJ-后CY-合并台账序）",
+      "BY（变易 BY-后YX-合并台账序）"
+    ],
+    "selected": [
+      "DA-038",
+      "CYJ-006",
+      "BY-017",
+      "DA-041",
+      "CYJ-007",
+      "BY-018",
+      "DA-042",
+      "CYJ-008",
+      "BY-020",
+      "DA-044",
+      "CYJ-009",
+      "BY-021",
+      "DA-046",
+      "CYJ-010"
+    ],
+    "by_source": {
+      "DA": 5,
+      "CY": 5,
+      "BY": 4
+    },
+    "rule": "自 lr 台账扣 h29 已取 13 例后余面，三源轮取自 DA 起取 14（承 h29 首轮体例）"
+  },
+  "liuyao_selection": {
+    "WHY": [
+      "WHY-025",
+      "WHY-026",
+      "WHY-027",
+      "WHY-028",
+      "WHY-031",
+      "WHY-032",
+      "WHY-033",
+      "WHY-034",
+      "WHY-035",
+      "WHY-036"
+    ],
+    "WHY_fallback_unused": [
+      "WHY-037",
+      "WHY-038",
+      "WHY-039",
+      "WHY-040",
+      "WHY-041",
+      "WHY-042",
+      "WHY-043",
+      "WHY-044",
+      "WHY-068",
+      "WHY-069",
+      "WHY-070",
+      "WHY-071"
+    ],
+    "GSZ": [
+      "GSZ-101",
+      "GSZ-103",
+      "GSZ-104",
+      "GSZ-105"
+    ],
+    "GSZ_fallback_unused": [
+      "GSZ-107",
+      "GSZ-108",
+      "GSZ-109",
+      "GSZ-110"
+    ]
+  },
+  "precheck": {
+    "seat": "R86 holdout30 组集封存席",
+    "exclusion_pair_check": {
+      "checked": [
+        "LY-015",
+        "LY-320"
+      ],
+      "in_selection": {
+        "LY-015": false,
+        "LY-320": false
+      },
+      "conclusion": "两 id 均不在候选 28 例内（候选 id 空间 DA-/CYJ-/BY-/WHY-/GSZ-，与 LY- 不交叠，逐 id 明核）"
+    },
+    "zero_reuse_check": {
+      "basis_entries": 1219,
+      "basis_distinct_ids": 1192,
+      "basis_note": "runs/round86/used-ids-r86.json 1192 条＋holdout29 金标 27 id 条目＝1219 条目；h29 之 27 id 已在 1192 distinct 内（PREREG 开轮登记），distinct 仍 1192",
+      "candidates": [
+        "DA-038",
+        "CYJ-006",
+        "BY-017",
+        "DA-041",
+        "CYJ-007",
+        "BY-018",
+        "DA-042",
+        "CYJ-008",
+        "BY-020",
+        "DA-044",
+        "CYJ-009",
+        "BY-021",
+        "DA-046",
+        "CYJ-010",
+        "WHY-025",
+        "WHY-026",
+        "WHY-027",
+        "WHY-028",
+        "WHY-031",
+        "WHY-032",
+        "WHY-033",
+        "WHY-034",
+        "WHY-035",
+        "WHY-036",
+        "GSZ-101",
+        "GSZ-103",
+        "GSZ-104",
+        "GSZ-105"
+      ],
+      "overlap": [],
+      "conclusion": "overlap 为空集"
+    },
+    "id_occupancy_check": {
+      "existing_sealed_input_ids_count": 401,
+      "conflicts": [],
+      "all_candidates_are_existing_pool_ids": true,
+      "conclusion": "28 id 均为既有池卡 id 之取用、未入任何已封集，无新编号、无冲突（R84 判例口径）"
+    }
+  },
+  "fallback_log": [],
+  "leak_note_list": [
+    {
+      "id": "CYJ-006",
+      "note": "subject 逐字承池卡、含「后知为某人」之占后知悉身份揭示（非所问吉凶结局本身）；承 h29 DA-037「解元」附带登记口径，不改卡面，提请主持验封知悉"
+    },
+    {
+      "id": "CYJ-009",
+      "note": "subject 逐字承池卡、含「后知为某人」之占后知悉身份揭示（非所问吉凶结局本身）；承 h29 DA-037「解元」附带登记口径，不改卡面，提请主持验封知悉"
+    }
+  ],
+  "composition_assertions": {
+    "T": 28,
+    "by_tradition": {
+      "liuren": 14,
+      "liuyao": 14
+    },
+    "by_source": {
+      "《大六壬断案》": 5,
+      "《六壬粹言》": 5,
+      "变易预测（《六壬辨疑·毕法案录》／《大六壬预测学》）": 4,
+      "《六爻分类占验技法》": 10,
+      "《六爻卦例说真》": 4
+    },
+    "lr_by_source": {
+      "DA": 5,
+      "CY": 5,
+      "BY": 4
+    },
+    "max_single_tradition_share": 0.5,
+    "max_single_source_share": 0.35714285714285715,
+    "non_yijian": 28,
+    "non_liuyao": 14,
+    "pollution_low": 28,
+    "used_union_intersection": [],
+    "all_pass": true
+  },
+  "eligibility_assertions": {
+    "DA-038": {
+      "pool_qual": true,
+      "pass": true
+    },
+    "CYJ-006": {
+      "pool_qual": true,
+      "pass": true
+    },
+    "BY-017": {
+      "pool_qual": true,
+      "pass": true
+    },
+    "DA-041": {
+      "pool_qual": true,
+      "pass": true
+    },
+    "CYJ-007": {
+      "pool_qual": true,
+      "pass": true
+    },
+    "BY-018": {
+      "pool_qual": true,
+      "pass": true
+    },
+    "DA-042": {
+      "pool_qual": true,
+      "pass": true
+    },
+    "CYJ-008": {
+      "pool_qual": true,
+      "pass": true
+    },
+    "BY-020": {
+      "pool_qual": true,
+      "pass": true
+    },
+    "DA-044": {
+      "pool_qual": true,
+      "pass": true
+    },
+    "CYJ-009": {
+      "pool_qual": true,
+      "pass": true
+    },
+    "BY-021": {
+      "pool_qual": true,
+      "pass": true
+    },
+    "DA-046": {
+      "pool_qual": true,
+      "pass": true
+    },
+    "CYJ-010": {
+      "pool_qual": true,
+      "pass": true
+    },
+    "GSZ-101": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "base_qual": true,
+      "pass": true
+    },
+    "GSZ-103": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "base_qual": true,
+      "pass": true
+    },
+    "GSZ-104": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "base_qual": true,
+      "pass": true
+    },
+    "GSZ-105": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "base_qual": true,
+      "pass": true
+    },
+    "WHY-025": {
+      "ledger_qual": "应验情况：四月十二日太原市西铭煤矿发生瓦斯爆炸，引起火灾，造成三十九人死亡",
+      "supplement": true,
+      "pass": true
+    },
+    "WHY-026": {
+      "ledger_qual": "应验情况：五月二十五日（巳月丁卯日）太原市钢铁公司的一个附属肉类加工厂发生特大火灾，造成经济损失高达二亿元，致使保险公司破产",
+      "supplement": true,
+      "pass": true
+    },
+    "WHY-027": {
+      "ledger_qual": "应验情况：此人壬子日在邻居家打麻将大赢，家中却因漏电发生火灾，幸亏发现及时，没有造成大的损失",
+      "supplement": true,
+      "pass": true
+    },
+    "WHY-028": {
+      "ledger_qual": "应验情况：1999年果然是一个地震和火灾的多发年份，但地球没有出现所谓的大劫难",
+      "supplement": true,
+      "pass": true
+    },
+    "WHY-031": {
+      "ledger_qual": "应验情况：本人喜欢一个男孩子，已确定恋爱关系，但遭到父母和姐妹们反对，嫌对方工资低；后与其分手，父母做主于1996年巳月和另一男的结婚",
+      "supplement": true,
+      "pass": true
+    },
+    "WHY-032": {
+      "ledger_qual": "应验情况：此男子的老婆在歌舞团工作，长得又高又漂亮，二人在1982年结婚；因感情破裂，于1992年离异，赔偿了八万元",
+      "supplement": true,
+      "pass": true
+    },
+    "WHY-033": {
+      "ledger_qual": "应验情况：此女1992年与一个老家的邻居结婚，对方是个二婚；后夫妻不和，于1994年离婚",
+      "supplement": true,
+      "pass": true
+    },
+    "WHY-034": {
+      "ledger_qual": "应验情况：该人1995年曾有过一个恋人，处了两个月就被对方甩掉；1999年开始第三次恋爱，二人一见钟情同居在一起，辛巳年（2001年）发现怀孕，慌忙举行了婚礼，同年十一月生下一个女儿",
+      "supplement": true,
+      "pass": true
+    },
+    "WHY-035": {
+      "ledger_qual": "应验情况：其妻1999年怀孕，但不久流产；2000年再一次怀孕，于2001年辰月生下一个男孩",
+      "supplement": true,
+      "pass": true
+    },
+    "WHY-036": {
+      "ledger_qual": "应验情况：她和丈夫一起到医院检查，查得丈夫小时候睾丸受过伤，精子成活不了，无法使她怀孕",
+      "supplement": true,
+      "pass": true
+    }
+  },
+  "eligibility_all_pass": true,
+  "input_field_whitelist": [
+    "id",
+    "tradition",
+    "subject",
+    "context",
+    "question",
+    "setting",
+    "provenance",
+    "redistributable",
+    "license_status",
+    "anchors"
+  ],
+  "input_field_whitelist_basis": "holdout29 输入卡实读字段集（开工对齐）",
+  "strip_register": {
+    "DA-038": [
+      "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+    ],
+    "CYJ-006": [
+      "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+    ],
+    "BY-017": [
+      "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+    ],
+    "DA-041": [
+      "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+    ],
+    "CYJ-007": [
+      "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+    ],
+    "BY-018": [
+      "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+    ],
+    "DA-042": [
+      "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+    ],
+    "CYJ-008": [
+      "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+    ],
+    "BY-020": [
+      "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+    ],
+    "DA-044": [
+      "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+    ],
+    "CYJ-009": [
+      "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+    ],
+    "BY-021": [
+      "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+    ],
+    "DA-046": [
+      "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+    ],
+    "CYJ-010": [
+      "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+    ],
+    "WHY-025": [
+      "master_prediction（台账未单列、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "WHY-026": [
+      "master_prediction（台账未单列、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "WHY-027": [
+      "master_prediction（台账未单列、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "WHY-028": [
+      "master_prediction（台账未单列、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "WHY-031": [
+      "master_prediction（台账未单列、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "WHY-032": [
+      "master_prediction（台账未单列、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "WHY-033": [
+      "master_prediction（台账未单列、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "WHY-034": [
+      "master_prediction（台账未单列、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "WHY-035": [
+      "master_prediction（台账未单列、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "WHY-036": [
+      "master_prediction（台账未单列、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "GSZ-101": [
+      "master_prediction/outcome_record/outcome_type/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "GSZ-103": [
+      "master_prediction/outcome_record/outcome_type/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "GSZ-104": [
+      "master_prediction/outcome_record/outcome_type/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "GSZ-105": [
+      "master_prediction/outcome_record/outcome_type/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+    ]
+  },
+  "field_mapping_notes": {
+    "DA-038": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+    "CYJ-006": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+    "BY-017": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+    "DA-041": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+    "CYJ-007": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+    "BY-018": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+    "DA-042": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+    "CYJ-008": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+    "BY-020": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+    "DA-044": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+    "CYJ-009": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+    "BY-021": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+    "DA-046": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+    "CYJ-010": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+    "WHY-025": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+    "WHY-026": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+    "WHY-027": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+    "WHY-028": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+    "WHY-031": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+    "WHY-032": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+    "WHY-033": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+    "WHY-034": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+    "WHY-035": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+    "WHY-036": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+    "GSZ-101": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+    "GSZ-103": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+    "GSZ-104": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+    "GSZ-105": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写"
+  },
+  "gold_supplement": {
+    "WHY-025": {
+      "loc": "印刷p48",
+      "source": "原书《六爻分类占验技法》〔判斷〕段逐字补录（扫描本，transcription=visual）"
+    },
+    "WHY-026": {
+      "loc": "印刷p49–50",
+      "source": "原书《六爻分类占验技法》〔判斷〕段逐字补录（扫描本，transcription=visual）"
+    },
+    "WHY-027": {
+      "loc": "印刷p50",
+      "source": "原书《六爻分类占验技法》〔判斷〕段逐字补录（扫描本，transcription=visual）"
+    },
+    "WHY-028": {
+      "loc": "印刷p54",
+      "source": "原书《六爻分类占验技法》〔判斷〕段逐字补录（扫描本，transcription=visual）"
+    },
+    "WHY-031": {
+      "loc": "印刷p82–83",
+      "source": "原书《六爻分类占验技法》〔判斷〕段逐字补录（扫描本，transcription=visual）"
+    },
+    "WHY-032": {
+      "loc": "印刷p84",
+      "source": "原书《六爻分类占验技法》〔判斷〕段逐字补录（扫描本，transcription=visual）"
+    },
+    "WHY-033": {
+      "loc": "印刷p85",
+      "source": "原书《六爻分类占验技法》〔判斷〕段逐字补录（扫描本，transcription=visual）"
+    },
+    "WHY-034": {
+      "loc": "印刷p86–87",
+      "source": "原书《六爻分类占验技法》〔判斷〕段逐字补录（扫描本，transcription=visual）"
+    },
+    "WHY-035": {
+      "loc": "印刷p132",
+      "source": "原书《六爻分类占验技法》〔判斷〕段逐字补录（扫描本，transcription=visual）"
+    },
+    "WHY-036": {
+      "loc": "印刷p134",
+      "source": "原书《六爻分类占验技法》〔判斷〕段逐字补录（扫描本，transcription=visual）"
+    }
+  },
+  "supplement_count": 10,
+  "lr_gold_recovery": {
+    "DA": "金标断语／结局回底本全文（cases_raw）逐字照录；DA-041 两段邵曰拼接（占者问句与缘生谛注不入，登记）；DA-044 内嵌缘生谛注一句（「吾丈，对人的尊称」）剔除（登记）；DA-038 郑按／缘生谛注、DA-042/046 缘生谛注不入",
+    "BY": "金标正议／案验与课盘回原书页图全文逐字复原（件存 runs/round86/lr-pages-h30-seat/）；BY-018 案验续释句（盖辰属土…笔墨为生涯也）承 h29 BY-015 先例不入结局、登记；BY-017 附议问答不入断语",
+    "CYJ": "断语／结局照池卡摘录逐字（池卡即摘录定本）；课盘 fidelity 降级登记 5 例（chart_complete=false）"
+  },
+  "scan1_verbatim_fragment": {
+    "method": "每例 master_prediction 与 outcome_record 的特征片段（标点分句整句（≥8字）＋去空白12字滑动窗口全集）对该例输入卡全文本逐字子串扫描；全28例零命中（硬断言）",
+    "per_case": {
+      "DA-038": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "CYJ-006": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "BY-017": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "DA-041": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "CYJ-007": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "BY-018": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "DA-042": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "CYJ-008": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "BY-020": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "DA-044": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "CYJ-009": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "BY-021": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "DA-046": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "CYJ-010": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "WHY-025": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "WHY-026": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "WHY-027": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "WHY-028": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "WHY-031": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "WHY-032": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "WHY-033": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "WHY-034": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "WHY-035": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "WHY-036": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "GSZ-101": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "GSZ-103": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "GSZ-104": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "GSZ-105": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      }
+    }
+  },
+  "scan_marker_selfcheck": {
+    "method": "R42 PREREG §5 内容级一级/二级标记＋字段名黑名单＋禁用键集对28张输入卡全字段递归扫描（构建脚本内断言道）",
+    "per_case": {
+      "DA-038": {
+        "content_hits": [],
+        "fieldname_hits": [],
+        "banned_key_hits": []
+      },
+      "CYJ-006": {
+        "content_hits": [],
+        "fieldname_hits": [],
+        "banned_key_hits": []
+      },
+      "BY-017": {
+        "content_hits": [],
+        "fieldname_hits": [],
+        "banned_key_hits": []
+      },
+      "DA-041": {
+        "content_hits": [],
+        "fieldname_hits": [],
+        "banned_key_hits": []
+      },
+      "CYJ-007": {
+        "content_hits": [],
+        "fieldname_hits": [],
+        "banned_key_hits": []
+      },
+      "BY-018": {
+        "content_hits": [],
+        "fieldname_hits": [],
+        "banned_key_hits": []
+      },
+      "DA-042": {
+        "content_hits": [],
+        "fieldname_hits": [],
+        "banned_key_hits": []
+      },
+      "CYJ-008": {
+        "content_hits": [],
+        "fieldname_hits": [],
+        "banned_key_hits": []
+      },
+      "BY-020": {
+        "content_hits": [],
+        "fieldname_hits": [],
+        "banned_key_hits": []
+      },
+      "DA-044": {
+        "content_hits": [],
+        "fieldname_hits": [],
+        "banned_key_hits": []
+      },
+      "CYJ-009": {
+        "content_hits": [],
+        "fieldname_hits": [],
+        "banned_key_hits": []
+      },
+      "BY-021": {
+        "content_hits": [],
+        "fieldname_hits": [],
+        "banned_key_hits": []
+      },
+      "DA-046": {
+        "content_hits": [],
+        "fieldname_hits": [],
+        "banned_key_hits": []
+      },
+      "CYJ-010": {
+        "content_hits": [],
+        "fieldname_hits": [],
+        "banned_key_hits": []
+      },
+      "WHY-025": {
+        "content_hits": [],
+        "fieldname_hits": [],
+        "banned_key_hits": []
+      },
+      "WHY-026": {
+        "content_hits": [],
+        "fieldname_hits": [],
+        "banned_key_hits": []
+      },
+      "WHY-027": {
+        "content_hits": [],
+        "fieldname_hits": [],
+        "banned_key_hits": []
+      },
+      "WHY-028": {
+        "content_hits": [],
+        "fieldname_hits": [],
+        "banned_key_hits": []
+      },
+      "WHY-031": {
+        "content_hits": [],
+        "fieldname_hits": [],
+        "banned_key_hits": []
+      },
+      "WHY-032": {
+        "content_hits": [],
+        "fieldname_hits": [],
+        "banned_key_hits": []
+      },
+      "WHY-033": {
+        "content_hits": [],
+        "fieldname_hits": [],
+        "banned_key_hits": []
+      },
+      "WHY-034": {
+        "content_hits": [],
+        "fieldname_hits": [],
+        "banned_key_hits": []
+      },
+      "WHY-035": {
+        "content_hits": [],
+        "fieldname_hits": [],
+        "banned_key_hits": []
+      },
+      "WHY-036": {
+        "content_hits": [],
+        "fieldname_hits": [],
+        "banned_key_hits": []
+      },
+      "GSZ-101": {
+        "content_hits": [],
+        "fieldname_hits": [],
+        "banned_key_hits": []
+      },
+      "GSZ-103": {
+        "content_hits": [],
+        "fieldname_hits": [],
+        "banned_key_hits": []
+      },
+      "GSZ-104": {
+        "content_hits": [],
+        "fieldname_hits": [],
+        "banned_key_hits": []
+      },
+      "GSZ-105": {
+        "content_hits": [],
+        "fieldname_hits": [],
+        "banned_key_hits": []
+      }
+    },
+    "total_hits": 0
+  },
+  "scan_reread_selfcheck": {
+    "method": "落盘后逐卡回读重行片段／标记／禁用键／白名单核，全过",
+    "per_case": {
+      "DA-038": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "CYJ-006": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "BY-017": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "DA-041": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "CYJ-007": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "BY-018": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "DA-042": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "CYJ-008": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "BY-020": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "DA-044": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "CYJ-009": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "BY-021": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "DA-046": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "CYJ-010": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "WHY-025": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "WHY-026": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "WHY-027": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "WHY-028": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "WHY-031": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "WHY-032": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "WHY-033": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "WHY-034": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "WHY-035": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "WHY-036": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "GSZ-101": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "GSZ-103": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "GSZ-104": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "GSZ-105": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      }
+    }
+  },
+  "scan2_independent_rescan": "由独立复扫脚本 scan_holdout30_r86.py 执行，结果另行登记于封存日志",
+  "scan3_host_rescan": "主持验封道，非本席执行——留位",
+  "gold_sha256_hashlib": "09e38d9a5f87d1f81b959094035ff266428ca960c96d4fdc1a082643232adcdc",
+  "gold_bytes": 38107,
+  "card_bytes": {
+    "DA-038": 1489,
+    "CYJ-006": 1321,
+    "BY-017": 1482,
+    "DA-041": 1612,
+    "CYJ-007": 1261,
+    "BY-018": 1465,
+    "DA-042": 1534,
+    "CYJ-008": 1270,
+    "BY-020": 1465,
+    "DA-044": 1510,
+    "CYJ-009": 1291,
+    "BY-021": 1494,
+    "DA-046": 1579,
+    "CYJ-010": 1264,
+    "WHY-025": 1117,
+    "WHY-026": 1115,
+    "WHY-027": 1149,
+    "WHY-028": 1227,
+    "WHY-031": 1164,
+    "WHY-032": 1147,
+    "WHY-033": 1136,
+    "WHY-034": 1138,
+    "WHY-035": 1161,
+    "WHY-036": 1099,
+    "GSZ-101": 1214,
+    "GSZ-103": 1211,
+    "GSZ-104": 1124,
+    "GSZ-105": 1254
+  },
+  "card_bytes_total": 36293,
+  "kb_snapshot": {
+    "dir": "runs/round86/kb-snapshot-holdout30/",
+    "excluded_non_snapshot_files": [
+      "METHOD-DISPOSAL-r81rev1-r82.md",
+      "METHOD-DISPOSAL-r82rev1-r83.md",
+      "METHOD-DISPOSAL-r83rev1-r84.md",
+      "METHOD-INTEGRATION-r78.md",
+      "METHOD-INTEGRATION-r80.md",
+      "METHOD-INTEGRATION-r81.md",
+      "METHOD-INTEGRATION-r82.md",
+      "METHOD-INTEGRATION-r83.md"
+    ],
+    "file_count": 21,
+    "sha256_list": "runs/round86/kb-snapshot-holdout30-sha256.txt",
+    "sha256_list_sha256": "52c1dfe41f9e9ef7fcec2df4c3bdac2fc5995d48bde899181160a2a722b75d1c",
+    "files": [
+      "SKILL.md",
+      "VALIDATION.md",
+      "VERIFY-LOG.txt",
+      "references/MANIFEST.md",
+      "references/PROTOCOL.md",
+      "references/README.md",
+      "references/calibration.md",
+      "references/chinese-bazi-ziwei.md",
+      "references/chinese-cezi.md",
+      "references/chinese-liuren.md",
+      "references/chinese-liuyao-meihua.md",
+      "references/chinese-mengzhan.md",
+      "references/chinese-qimen.md",
+      "references/chinese-yijing.md",
+      "references/chinese-ziwei.md",
+      "references/lifekline-method.md",
+      "references/western-astro-numerology-runes.md",
+      "references/western-tarot.md",
+      "tools/cast_iching.py",
+      "tools/draw_runes.py",
+      "tools/draw_tarot.py"
+    ],
+    "diff_vs_round86_platform_snapshot": []
+  },
+  "notes": [
+    "WHY-025 台账 asked_at 作「1997年4月27日（卯月甲戌日）」、原书例一作「四月廿日」，卡面承台账逐字、差异登记备核",
+    "判读归属：本集为 R86-REV1 判读集预定——本轮修订不立项、无待判读干预，本集判读归属为空缺登记"
+  ],
+  "outputs_written": [
+    "holdout30/inputs/DA-038.json",
+    "holdout30/inputs/CYJ-006.json",
+    "holdout30/inputs/BY-017.json",
+    "holdout30/inputs/DA-041.json",
+    "holdout30/inputs/CYJ-007.json",
+    "holdout30/inputs/BY-018.json",
+    "holdout30/inputs/DA-042.json",
+    "holdout30/inputs/CYJ-008.json",
+    "holdout30/inputs/BY-020.json",
+    "holdout30/inputs/DA-044.json",
+    "holdout30/inputs/CYJ-009.json",
+    "holdout30/inputs/BY-021.json",
+    "holdout30/inputs/DA-046.json",
+    "holdout30/inputs/CYJ-010.json",
+    "holdout30/inputs/WHY-025.json",
+    "holdout30/inputs/WHY-026.json",
+    "holdout30/inputs/WHY-027.json",
+    "holdout30/inputs/WHY-028.json",
+    "holdout30/inputs/WHY-031.json",
+    "holdout30/inputs/WHY-032.json",
+    "holdout30/inputs/WHY-033.json",
+    "holdout30/inputs/WHY-034.json",
+    "holdout30/inputs/WHY-035.json",
+    "holdout30/inputs/WHY-036.json",
+    "holdout30/inputs/GSZ-101.json",
+    "holdout30/inputs/GSZ-103.json",
+    "holdout30/inputs/GSZ-104.json",
+    "holdout30/inputs/GSZ-105.json",
+    "holdout30/test_gold.jsonl"
+  ]
+}

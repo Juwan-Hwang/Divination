@@ -1,0 +1,24 @@
+{
+  "id": "GSZ-104",
+  "tradition": "liuyao",
+  "subject": "求测者（台账 subject 为空、原书未具名）",
+  "context": "壬午年庚戌月辛未日，测父病（某男）；原书第十六章《反吟辨义》例五",
+  "question": "测父病（某男）",
+  "setting": "六爻卦例说真（王虎应著）",
+  "provenance": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十六章《反吟辨义》例五；底本为用户经学校图书馆提供，redistributable=false",
+  "redistributable": false,
+  "license_status": "现代版权文本，内部研究用",
+  "anchors": {
+    "asked_at": "壬午年庚戌月辛未日",
+    "ben_gua": "天风姤",
+    "bian_gua": "天地否",
+    "chart_lines_top_to_bottom": [
+      "螣蛇 ▅▅▅▅▅ 父母戌土",
+      "勾陈 ▅▅▅▅▅ 兄弟申金",
+      "朱雀 ▅▅▅▅▅ 官鬼午火 应",
+      "青龙 ▅▅▅▅▅ 兄弟酉金      动 妻财卯木",
+      "玄武 ▅▅▅▅▅ 子孙亥水      动 官鬼巳火",
+      "白虎 ▅▅ ▅▅ 父母丑土 世"
+    ]
+  }
+}

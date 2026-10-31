@@ -1,0 +1,24 @@
+{
+  "id": "GSZ-101",
+  "tradition": "liuyao",
+  "subject": "求测者（台账 subject 为空、原书未具名）",
+  "context": "丙子年（96年）甲午月乙未日，测找厂长办事如何；原书第十六章《反吟辨义》例二",
+  "question": "测找厂长办事如何",
+  "setting": "六爻卦例说真（王虎应著）",
+  "provenance": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第十六章《反吟辨义》例二；底本为用户经学校图书馆提供，redistributable=false",
+  "redistributable": false,
+  "license_status": "现代版权文本，内部研究用",
+  "anchors": {
+    "asked_at": "丙子年（96年）甲午月乙未日",
+    "ben_gua": "风火家人",
+    "bian_gua": "地山谦",
+    "chart_lines_top_to_bottom": [
+      "玄武        ▅▅▅▅▅ 兄弟卯木    动 官鬼酉金",
+      "白虎        ▅▅▅▅▅ 子孙巳火 应 动 父母亥水",
+      "螣蛇        ▅▅ ▅▅ 妻财未土",
+      "勾陈 官鬼酉金 ▅▅▅▅▅ 父母亥水",
+      "朱雀        ▅▅ ▅▅ 妻财丑土 世",
+      "青龙        ▅▅▅▅▅ 兄弟卯木    动 妻财辰土"
+    ]
+  }
+}
