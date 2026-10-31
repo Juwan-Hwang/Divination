@@ -1,0 +1,4168 @@
+{
+ "ours_axis2": {
+  "AS-001": 5.75,
+  "AS-002": 4.5,
+  "AS-003": 5.5,
+  "AS-004": 5.0,
+  "AS-005": 4.5,
+  "AS-007": 5.0,
+  "AS-008": 4.5,
+  "AS-009": 5.0,
+  "AS-010": 5.5,
+  "AS-011": 0.0,
+  "AS-012": 4.75,
+  "AS-013": 4.75,
+  "AS-014": 1.5,
+  "AS-015": 0.0,
+  "AS-204": 1.0,
+  "AS-205": 6.0,
+  "AS-206": 4.75,
+  "AS-207": 4.5,
+  "AS-208": 3.75,
+  "AS-209": 4.0,
+  "AS-210": 2.5,
+  "AS-211": 5.0,
+  "AS-212": 5.0,
+  "AS-213": 5.5,
+  "AS-215": 4.75,
+  "AS-301": 4.0,
+  "AS-302": 4.5,
+  "AS-303": 3.75,
+  "AS-304": 5.25,
+  "AS-305": 5.75,
+  "AS-306": 6.0,
+  "AS-307": 5.5,
+  "BQ-001": 3.5,
+  "BQ-010": 4.0,
+  "BQ-011": 2.5,
+  "BQ-012": 4.5,
+  "BQ-013": 0.5,
+  "BQ-014": 3.25,
+  "BQ-015": 5.5,
+  "BQ-016": 4.75,
+  "BQ-017": 4.5,
+  "BQ-018": 0.5,
+  "BQ-019": 4.75,
+  "BQ-020": 1.75,
+  "BQ-021": 3.5,
+  "BQ-022": 4.0,
+  "BQ-023": 5.0,
+  "BQ-024": 0.0,
+  "BQ-025": 3.75,
+  "BZ-016": 4.25,
+  "BZ-019": 4.0,
+  "BZ-020": 3.25,
+  "BZ-021": 2.25,
+  "BZ-022": 1.0,
+  "BZ-023": 3.25,
+  "BZ-024": 2.25,
+  "BZ-025": 4.5,
+  "BZ-026": 4.5,
+  "BZ-027": 4.0,
+  "BZ-028": 4.5,
+  "BZ-029": 4.75,
+  "BZ-030": 5.0,
+  "BZ-031": 4.5,
+  "BZ-032": 4.75,
+  "BZ-033": 5.0,
+  "BZ-034": 6.0,
+  "BZ-035": 5.0,
+  "BZ-036": 4.0,
+  "BZ-037": 5.5,
+  "BZ-038": 4.5,
+  "BZ-039": 5.0,
+  "BZ-040": 1.75,
+  "BZ-041": 4.5,
+  "BZ-042": 4.5,
+  "BZ-104": 3.5,
+  "BZ-105": 4.0,
+  "BZ-301": 1.25,
+  "BZ-302": 5.0,
+  "BZ-303": 5.5,
+  "BZ-304": 3.0,
+  "DT-001": 0.5,
+  "DT-002": 3.5,
+  "DT-003": 0.0,
+  "DT-004": 4.75,
+  "DT-005": 4.75,
+  "DT-006": 1.0,
+  "DT-007": 3.5,
+  "LR-001": 6.0,
+  "LR2-013": 4.25,
+  "LR2-014": 0.5,
+  "LR2-015": 0.0,
+  "LR2-016": 4.0,
+  "LR2-017": 0.0,
+  "LR2-018": 0.5,
+  "LR2-019": 3.0,
+  "LR2-020": 3.5,
+  "LR2-021": 3.5,
+  "LR2-022": 3.75,
+  "LR2-023": 1.75,
+  "LR2-024": 3.5,
+  "LR3-002": 2.0,
+  "LR3-004": 0.75,
+  "LR3-006": 2.0,
+  "LR3-008": 0.0,
+  "LR3-010": 4.0,
+  "LR3-101": 2.75,
+  "LR3-104": 4.75,
+  "LR3-107": 2.75,
+  "LR3-110": 4.5,
+  "LR3-112": 0.0,
+  "LR3-114": 4.75,
+  "LR3-116": 1.25,
+  "LY-001": 4.25,
+  "LY-002": 3.75,
+  "LY-003": 1.0,
+  "LY-004": 3.25,
+  "LY-005": 0.0,
+  "LY-006": 0.0,
+  "LY-007": 0.0,
+  "LY-008": 0.0,
+  "LY-009": 0.25,
+  "LY-01": 6.0,
+  "LY-010": 4.75,
+  "LY-011": 1.0,
+  "LY-012": 4.0,
+  "LY-013": 4.5,
+  "LY-014": 6.0,
+  "LY-015": 2.75,
+  "LY-016": 6.0,
+  "LY-017": 4.0,
+  "LY-018": 0.5,
+  "LY-019": 4.0,
+  "LY-021": 0.25,
+  "LY-022": 4.5,
+  "LY-023": 3.75,
+  "LY-024": 0.0,
+  "LY-025": 4.5,
+  "LY-026": 0.0,
+  "LY-027": 6.0,
+  "LY-028": 3.5,
+  "LY-029": 4.0,
+  "LY-030": 3.75,
+  "LY-031": 3.5,
+  "LY-032": 4.0,
+  "LY-033": 0.0,
+  "LY-034": 5.25,
+  "LY-035": 3.75,
+  "LY-036": 4.75,
+  "LY-102": 5.5,
+  "LY-103": 5.25,
+  "LY-104": 1.5,
+  "LY-105": 3.5,
+  "LY-202": 2.5,
+  "LY-203": 0.0,
+  "LY-204": 3.25,
+  "LY-205": 3.75,
+  "LY-206": 0.0,
+  "LY-207": 4.0,
+  "LY-208": 3.5,
+  "LY-210": 1.5,
+  "LY-211": 0.75,
+  "LY-212": 1.75,
+  "LY-215": 2.0,
+  "LY-216": 3.5,
+  "LY-217": 3.5,
+  "LY-218": 3.0,
+  "LY-219": 4.0,
+  "LY-220": 1.5,
+  "LY-221": 0.0,
+  "LY-222": 1.75,
+  "LY-227": 4.5,
+  "LY-228": 1.25,
+  "LY-230": 3.5,
+  "LY-231": 0.5,
+  "LY-232": 1.0,
+  "LY-234": 3.0,
+  "LY-235": 4.5,
+  "LY-237": 0.25,
+  "LY-240": 3.0,
+  "LY-241": 2.75,
+  "LY-242": 4.5,
+  "LY-243": 2.0,
+  "LY-244": 1.75,
+  "LY-245": 3.75,
+  "LY-246": 4.75,
+  "LY-249": 6.0,
+  "LY-250": 4.5,
+  "LY-251": 5.0,
+  "LY-252": 5.75,
+  "LY-253": 0.0,
+  "LY-254": 3.0,
+  "LY-255": 0.5,
+  "LY-259": 1.5,
+  "LY-301": 1.0,
+  "LY-304": 4.75,
+  "LY-305": 0.5,
+  "LY-306": 3.25,
+  "LY-307": 5.25,
+  "LY-309": 5.0,
+  "LY-311": 4.5,
+  "LY-312": 0.75,
+  "LY-314": 3.25,
+  "LY-315": 5.0,
+  "LY-318": 4.5,
+  "LY-319": 6.0,
+  "LY-320": 5.75,
+  "LY-322": 4.0,
+  "LY-323": 3.5,
+  "LY-324": 5.25,
+  "LY-325": 3.75,
+  "LY-328": 4.0,
+  "LY-329": 3.0,
+  "LY-330": 0.75,
+  "LY-331": 5.25,
+  "LY-332": 4.75,
+  "LY-333": 4.25,
+  "LY-335": 3.75,
+  "LY-336": 4.75,
+  "LY-338": 4.5,
+  "LY-339": 3.25,
+  "LY-340": 1.5,
+  "LY-342": 0.5,
+  "LY-344": 1.5,
+  "LY-402": 0.0,
+  "LY-403": 4.5,
+  "LY-404": 1.75,
+  "LY-405": 0.0,
+  "LY-406": 5.75,
+  "LY-407": 0.0,
+  "LY-408": 3.5,
+  "LY-411": 4.25,
+  "LY-413": 4.75,
+  "LY-415": 3.75,
+  "LY-416": 3.75,
+  "LY-417": 4.75,
+  "LY-418": 6.0,
+  "LY-421": 0.0,
+  "LY-423": 4.5,
+  "LY-424": 2.0,
+  "LY-425": 0.0,
+  "LY-426": 0.0,
+  "LY-427": 4.25,
+  "LY-428": 4.0,
+  "LY-429": 2.0,
+  "LY-430": 0.0,
+  "LY-432": 4.25,
+  "LY-433": 0.0,
+  "LY-434": 2.25,
+  "LY-436": 1.5,
+  "LY-437": 0.25,
+  "LY-439": 4.25,
+  "LY-440": 5.25,
+  "LY-441": 0.0,
+  "LY-442": 1.5,
+  "LY-443": 5.0,
+  "LY-445": 3.5,
+  "LY-446": 1.5,
+  "LY-449": 2.25,
+  "LY-451": 1.5,
+  "LY-452": 0.5,
+  "LY-454": 4.75,
+  "LY-455": 4.75,
+  "LY-457": 1.25,
+  "LY-458": 2.25,
+  "LY-501": 4.0,
+  "LY-502": 3.0,
+  "LY-503": 0.25,
+  "LY-504": 2.75,
+  "LY-505": 1.5,
+  "LY-506": 1.75,
+  "LY-507": 5.0,
+  "LY-508": 0.75,
+  "LY-509": 2.0,
+  "LY-510": 3.5,
+  "LY-511": 0.0,
+  "LY-512": 5.0,
+  "LY-513": 0.0,
+  "LY-514": 3.75,
+  "LY-515": 0.0,
+  "LY-516": 4.5,
+  "LY-517": 1.75,
+  "LY-518": 4.75,
+  "LY-519": 4.5,
+  "LY-520": 4.0,
+  "LY-521": 4.75,
+  "LY-522": 2.5,
+  "LY-523": 0.75,
+  "LY-524": 3.25,
+  "LY-525": 4.75,
+  "LY-526": 0.0,
+  "LY-527": 4.75,
+  "LY-528": 4.75,
+  "LY-529": 4.25,
+  "LY-530": 4.25,
+  "LY-531": 0.75,
+  "LY-532": 0.0,
+  "LY-533": 0.75,
+  "LY-534": 4.75,
+  "LY-535": 0.5,
+  "LY-536": 0.0,
+  "LY-537": 4.5,
+  "LY-538": 2.75,
+  "LY-539": 3.25,
+  "LY-540": 2.5,
+  "LY-541": 4.5,
+  "LY-542": 4.75,
+  "LY-543": 3.75,
+  "LY-601": 4.0,
+  "LY-602": 0.0,
+  "LY-603": 4.0,
+  "LY-604": 4.75,
+  "LY-605": 4.5,
+  "LY-606": 2.5,
+  "LY-607": 0.0,
+  "LY-608": 5.75,
+  "LY-609": 0.0,
+  "LY-610": 0.0,
+  "LY-611": 4.25,
+  "LY-612": 4.75,
+  "LY-613": 1.25,
+  "LY-614": 2.5,
+  "LY-615": 0.0,
+  "LY-616": 2.5,
+  "LY-617": 4.25,
+  "LY-618": 3.5,
+  "LY-619": 4.0,
+  "LY-620": 3.5,
+  "LY-621": 3.75,
+  "LY-622": 5.25,
+  "LY-623": 1.25,
+  "LY-624": 0.0,
+  "LY-625": 4.25,
+  "LY-626": 3.75,
+  "LY-627": 1.5,
+  "LY-628": 1.0,
+  "LY-629": 3.25,
+  "MH-001": 5.5,
+  "MH-002": 6.0,
+  "MH-003": 4.0,
+  "MH-006": 6.0,
+  "MH-007": 4.5,
+  "MH-008": 3.5,
+  "MH-009": 4.0,
+  "MH-010": 5.75,
+  "MP-001": 4.0,
+  "MP-002": 5.0,
+  "MP-003": 5.25,
+  "MP-004": 4.25,
+  "MP-005": 5.0,
+  "MP-006": 5.5,
+  "MP-007": 5.25,
+  "MP-008": 4.5,
+  "MP-009": 5.75,
+  "MP-010": 4.75,
+  "MP-011": 4.0,
+  "MP-012": 4.0,
+  "MP-013": 6.0,
+  "MP-014": 5.75,
+  "MP-015": 5.5,
+  "MP-016": 4.25,
+  "MP-017": 6.0,
+  "MP-018": 5.25,
+  "MP-019": 5.0,
+  "OC-001": 4.0,
+  "OC-002": 4.5,
+  "OC-003": 4.75,
+  "OC-004": 4.5,
+  "OC-005": 4.75,
+  "OC-006": 5.25,
+  "OC-007": 6.0,
+  "OC-008": 4.25,
+  "OC-009": 4.5,
+  "OC-010": 5.25,
+  "OC-011": 5.75,
+  "OC-012": 4.5,
+  "OC-013": 5.25,
+  "OC-014": 2.0,
+  "OC-015": 5.75,
+  "OC-016": 4.75,
+  "OC-017": 4.5,
+  "OC-018": 5.75,
+  "OC-019": 5.75,
+  "OC-020": 6.0,
+  "OC-021": 5.0,
+  "OC-022": 5.0,
+  "OC-023": 4.5,
+  "OC-024": 4.75,
+  "OC-025": 5.75,
+  "OC-026": 3.25,
+  "OC-027": 2.0,
+  "OC-028": 4.5,
+  "OC-029": 2.5,
+  "OC-030": 3.0,
+  "WP-001": 6.0,
+  "WP-002": 6.0,
+  "WP-003": 5.5,
+  "WP-004": 1.25,
+  "WP-005": 6.0,
+  "WP-006": 6.0,
+  "WP-007": 6.0,
+  "WP-008": 5.75,
+  "WP-009": 6.0,
+  "WP-010": 5.0,
+  "WP-011": 1.25,
+  "WP-012": 5.5,
+  "WP-013": 6.0,
+  "YM-002": 0.0,
+  "YM-003": 0.5,
+  "YM-004": 0.0,
+  "YM-005": 4.0,
+  "YM-007": 4.75,
+  "YM-008": 3.5,
+  "YM-009": 0.0,
+  "YM-010": 3.0,
+  "YM-012": 4.25,
+  "YM-013": 5.75,
+  "YM-014": 4.75,
+  "YM-015": 4.25,
+  "YM-017": 6.0,
+  "YM-018": 6.0,
+  "YM-019": 1.0,
+  "YM-020": 3.5,
+  "YM-022": 3.0,
+  "YM-023": 3.5,
+  "YM-024": 5.5,
+  "YM-025": 0.0,
+  "YM-027": 5.5,
+  "YM-028": 3.75,
+  "YM-029": 1.25,
+  "YM-030": 1.75,
+  "YM-032": 1.5,
+  "YM-033": 3.75,
+  "YM-034": 5.75,
+  "YM-035": 0.0,
+  "YM-037": 3.75,
+  "YM-038": 4.0,
+  "YM-039": 4.5,
+  "YM-040": 1.0,
+  "YM-042": 5.0,
+  "YM-043": 4.0,
+  "YM-044": 3.5,
+  "YM-045": 4.0,
+  "YM-047": 4.0,
+  "YM-048": 0.25,
+  "YM-049": 0.0,
+  "YM-050": 4.75,
+  "YM-052": 1.25,
+  "YM-053": 4.25,
+  "YM-054": 4.5,
+  "YM-055": 2.75,
+  "YM-057": 4.0,
+  "YM-058": 1.75,
+  "YM-059": 4.5,
+  "YM-060": 3.75,
+  "YM-062": 4.5,
+  "YM-063": 3.5,
+  "YM-064": 4.75,
+  "YM-065": 3.5,
+  "YM-067": 5.25,
+  "YM-068": 1.0,
+  "YM-069": 4.25,
+  "YM-070": 4.5,
+  "YY-006": 5.25,
+  "YY-010": 5.5,
+  "YY-011": 4.0,
+  "YY-012": 4.5,
+  "YY-013": 3.0,
+  "YY-014": 0.5,
+  "YY-015": 4.75,
+  "YY-016": 0.25,
+  "YY-017": 4.75,
+  "YY-018": 0.0,
+  "YY-019": 4.5,
+  "YY-020": 4.75,
+  "YY-021": 4.25,
+  "YY-022": 4.0,
+  "YY-023": 4.5,
+  "YY-024": 4.75,
+  "YY2-001": 4.5,
+  "YY2-002": 5.0,
+  "YY2-003": 3.5,
+  "YY2-004": 0.5,
+  "YY2-005": 0.25,
+  "ZY-001": 5.25,
+  "ZY-002": 4.0,
+  "ZY-003": 4.0,
+  "ZY-004": 5.25
+ },
+ "ours_sub": {
+  "AS-001": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 1.75,
+   "total": 5.75
+  },
+  "AS-002": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "AS-003": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 1.5,
+   "total": 5.5
+  },
+  "AS-004": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 1.0,
+   "total": 5.0
+  },
+  "AS-005": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "AS-007": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.5,
+   "total": 5.0
+  },
+  "AS-008": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "AS-009": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.5,
+   "total": 5.0
+  },
+  "AS-010": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 1.5,
+   "total": 5.5
+  },
+  "AS-011": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "AS-012": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.0,
+   "total": 4.75
+  },
+  "AS-013": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.0,
+   "total": 4.75
+  },
+  "AS-014": {
+   "direction": 1.0,
+   "claims": 0.5,
+   "timing": 0.0,
+   "total": 1.5
+  },
+  "AS-015": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "AS-204": {
+   "direction": 0.0,
+   "claims": 1.0,
+   "timing": 0.0,
+   "total": 1.0
+  },
+  "AS-205": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 2.0,
+   "total": 6.0
+  },
+  "AS-206": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.0,
+   "total": 4.75
+  },
+  "AS-207": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "AS-208": {
+   "direction": 1.5,
+   "claims": 1.5,
+   "timing": 0.75,
+   "total": 3.75
+  },
+  "AS-209": {
+   "direction": 1.5,
+   "claims": 1.25,
+   "timing": 1.25,
+   "total": 4.0
+  },
+  "AS-210": {
+   "direction": 1.0,
+   "claims": 0.5,
+   "timing": 1.0,
+   "total": 2.5
+  },
+  "AS-211": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.5,
+   "total": 5.0
+  },
+  "AS-212": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.5,
+   "total": 5.0
+  },
+  "AS-213": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 1.5,
+   "total": 5.5
+  },
+  "AS-215": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.25,
+   "total": 4.75
+  },
+  "AS-301": {
+   "direction": 1.75,
+   "claims": 1.25,
+   "timing": 1.0,
+   "total": 4.0
+  },
+  "AS-302": {
+   "direction": 1.75,
+   "claims": 1.5,
+   "timing": 1.25,
+   "total": 4.5
+  },
+  "AS-303": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 0.0,
+   "total": 3.75
+  },
+  "AS-304": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.75,
+   "total": 5.25
+  },
+  "AS-305": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 1.75,
+   "total": 5.75
+  },
+  "AS-306": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 2.0,
+   "total": 6.0
+  },
+  "AS-307": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 2.0,
+   "total": 5.5
+  },
+  "BQ-001": {
+   "direction": 1.25,
+   "claims": 1.0,
+   "timing": 1.25,
+   "total": 3.5
+  },
+  "BQ-010": {
+   "direction": 1.75,
+   "claims": 1.25,
+   "timing": 1.0,
+   "total": 4.0
+  },
+  "BQ-011": {
+   "direction": 1.0,
+   "claims": 0.5,
+   "timing": 1.0,
+   "total": 2.5
+  },
+  "BQ-012": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "BQ-013": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.5,
+   "total": 0.5
+  },
+  "BQ-014": {
+   "direction": 1.5,
+   "claims": 1.0,
+   "timing": 0.75,
+   "total": 3.25
+  },
+  "BQ-015": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 1.5,
+   "total": 5.5
+  },
+  "BQ-016": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.0,
+   "total": 4.75
+  },
+  "BQ-017": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "BQ-018": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.5,
+   "total": 0.5
+  },
+  "BQ-019": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.0,
+   "total": 4.75
+  },
+  "BQ-020": {
+   "direction": 0.25,
+   "claims": 0.5,
+   "timing": 1.0,
+   "total": 1.75
+  },
+  "BQ-021": {
+   "direction": 1.5,
+   "claims": 1.0,
+   "timing": 1.0,
+   "total": 3.5
+  },
+  "BQ-022": {
+   "direction": 1.75,
+   "claims": 1.0,
+   "timing": 1.25,
+   "total": 4.0
+  },
+  "BQ-023": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.25,
+   "total": 5.0
+  },
+  "BQ-024": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "BQ-025": {
+   "direction": 1.75,
+   "claims": 1.25,
+   "timing": 0.75,
+   "total": 3.75
+  },
+  "BZ-016": {
+   "direction": 2.0,
+   "claims": 1.25,
+   "timing": 1.0,
+   "total": 4.25
+  },
+  "BZ-019": {
+   "direction": 2.0,
+   "claims": 1.0,
+   "timing": 1.0,
+   "total": 4.0
+  },
+  "BZ-020": {
+   "direction": 1.5,
+   "claims": 1.0,
+   "timing": 0.75,
+   "total": 3.25
+  },
+  "BZ-021": {
+   "direction": 1.0,
+   "claims": 0.5,
+   "timing": 0.75,
+   "total": 2.25
+  },
+  "BZ-022": {
+   "direction": 0.5,
+   "claims": 0.5,
+   "timing": 0.0,
+   "total": 1.0
+  },
+  "BZ-023": {
+   "direction": 1.25,
+   "claims": 1.0,
+   "timing": 1.0,
+   "total": 3.25
+  },
+  "BZ-024": {
+   "direction": 1.0,
+   "claims": 0.75,
+   "timing": 0.5,
+   "total": 2.25
+  },
+  "BZ-025": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "BZ-026": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "BZ-027": {
+   "direction": 2.0,
+   "claims": 1.0,
+   "timing": 1.0,
+   "total": 4.0
+  },
+  "BZ-028": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "BZ-029": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.0,
+   "total": 4.75
+  },
+  "BZ-030": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 1.0,
+   "total": 5.0
+  },
+  "BZ-031": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "BZ-032": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.0,
+   "total": 4.75
+  },
+  "BZ-033": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 1.0,
+   "total": 5.0
+  },
+  "BZ-034": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 2.0,
+   "total": 6.0
+  },
+  "BZ-035": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 1.0,
+   "total": 5.0
+  },
+  "BZ-036": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 0.0,
+   "total": 4.0
+  },
+  "BZ-037": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 1.5,
+   "total": 5.5
+  },
+  "BZ-038": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "BZ-039": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 1.0,
+   "total": 5.0
+  },
+  "BZ-040": {
+   "direction": 1.0,
+   "claims": 0.75,
+   "timing": 0.0,
+   "total": 1.75
+  },
+  "BZ-041": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 0.5,
+   "total": 4.5
+  },
+  "BZ-042": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "BZ-104": {
+   "direction": 1.5,
+   "claims": 1.25,
+   "timing": 0.75,
+   "total": 3.5
+  },
+  "BZ-105": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.5,
+   "total": 4.0
+  },
+  "BZ-301": {
+   "direction": 0.25,
+   "claims": 0.25,
+   "timing": 0.75,
+   "total": 1.25
+  },
+  "BZ-302": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.25,
+   "total": 5.0
+  },
+  "BZ-303": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.75,
+   "total": 5.5
+  },
+  "BZ-304": {
+   "direction": 1.0,
+   "claims": 1.0,
+   "timing": 1.0,
+   "total": 3.0
+  },
+  "DT-001": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.5,
+   "total": 0.5
+  },
+  "DT-002": {
+   "direction": 2.0,
+   "claims": 1.0,
+   "timing": 0.5,
+   "total": 3.5
+  },
+  "DT-003": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "DT-004": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.0,
+   "total": 4.75
+  },
+  "DT-005": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.0,
+   "total": 4.75
+  },
+  "DT-006": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 1.0,
+   "total": 1.0
+  },
+  "DT-007": {
+   "direction": 1.75,
+   "claims": 1.25,
+   "timing": 0.5,
+   "total": 3.5
+  },
+  "LR-001": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 2.0,
+   "total": 6.0
+  },
+  "LR2-013": {
+   "direction": 1.75,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.25
+  },
+  "LR2-014": {
+   "direction": 0.25,
+   "claims": 0.25,
+   "timing": 0.0,
+   "total": 0.5
+  },
+  "LR2-015": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "LR2-016": {
+   "direction": 1.75,
+   "claims": 1.5,
+   "timing": 0.75,
+   "total": 4.0
+  },
+  "LR2-017": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "LR2-018": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.5,
+   "total": 0.5
+  },
+  "LR2-019": {
+   "direction": 1.5,
+   "claims": 1.0,
+   "timing": 0.5,
+   "total": 3.0
+  },
+  "LR2-020": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.0,
+   "total": 3.5
+  },
+  "LR2-021": {
+   "direction": 1.0,
+   "claims": 0.75,
+   "timing": 1.75,
+   "total": 3.5
+  },
+  "LR2-022": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 0.0,
+   "total": 3.75
+  },
+  "LR2-023": {
+   "direction": 0.5,
+   "claims": 0.5,
+   "timing": 0.75,
+   "total": 1.75
+  },
+  "LR2-024": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.0,
+   "total": 3.5
+  },
+  "LR3-002": {
+   "direction": 1.25,
+   "claims": 0.75,
+   "timing": 0.0,
+   "total": 2.0
+  },
+  "LR3-004": {
+   "direction": 0.0,
+   "claims": 0.25,
+   "timing": 0.5,
+   "total": 0.75
+  },
+  "LR3-006": {
+   "direction": 1.0,
+   "claims": 1.0,
+   "timing": 0.0,
+   "total": 2.0
+  },
+  "LR3-008": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "LR3-010": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.5,
+   "total": 4.0
+  },
+  "LR3-101": {
+   "direction": 1.25,
+   "claims": 1.0,
+   "timing": 0.5,
+   "total": 2.75
+  },
+  "LR3-104": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.0,
+   "total": 4.75
+  },
+  "LR3-107": {
+   "direction": 1.25,
+   "claims": 1.0,
+   "timing": 0.5,
+   "total": 2.75
+  },
+  "LR3-110": {
+   "direction": 2.0,
+   "claims": 1.25,
+   "timing": 1.25,
+   "total": 4.5
+  },
+  "LR3-112": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "LR3-114": {
+   "direction": 1.75,
+   "claims": 1.25,
+   "timing": 1.75,
+   "total": 4.75
+  },
+  "LR3-116": {
+   "direction": 0.75,
+   "claims": 0.5,
+   "timing": 0.0,
+   "total": 1.25
+  },
+  "LY-001": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 0.5,
+   "total": 4.25
+  },
+  "LY-002": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.25,
+   "total": 3.75
+  },
+  "LY-003": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 1.0,
+   "total": 1.0
+  },
+  "LY-004": {
+   "direction": 1.25,
+   "claims": 1.0,
+   "timing": 1.0,
+   "total": 3.25
+  },
+  "LY-005": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "LY-006": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "LY-007": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "LY-008": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "LY-009": {
+   "direction": 0.0,
+   "claims": 0.25,
+   "timing": 0.0,
+   "total": 0.25
+  },
+  "LY-01": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 2.0,
+   "total": 6.0
+  },
+  "LY-010": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.0,
+   "total": 4.75
+  },
+  "LY-011": {
+   "direction": 0.75,
+   "claims": 0.25,
+   "timing": 0.0,
+   "total": 1.0
+  },
+  "LY-012": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.5,
+   "total": 4.0
+  },
+  "LY-013": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "LY-014": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 2.0,
+   "total": 6.0
+  },
+  "LY-015": {
+   "direction": 1.5,
+   "claims": 1.0,
+   "timing": 0.25,
+   "total": 2.75
+  },
+  "LY-016": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 2.0,
+   "total": 6.0
+  },
+  "LY-017": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 0.25,
+   "total": 4.0
+  },
+  "LY-018": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.5,
+   "total": 0.5
+  },
+  "LY-019": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 0.25,
+   "total": 4.0
+  },
+  "LY-021": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.25,
+   "total": 0.25
+  },
+  "LY-022": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "LY-023": {
+   "direction": 1.0,
+   "claims": 1.0,
+   "timing": 1.75,
+   "total": 3.75
+  },
+  "LY-024": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "LY-025": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 0.75,
+   "total": 4.5
+  },
+  "LY-026": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "LY-027": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 2.0,
+   "total": 6.0
+  },
+  "LY-028": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.0,
+   "total": 3.5
+  },
+  "LY-029": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 0.25,
+   "total": 4.0
+  },
+  "LY-030": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.25,
+   "total": 3.75
+  },
+  "LY-031": {
+   "direction": 1.5,
+   "claims": 1.0,
+   "timing": 1.0,
+   "total": 3.5
+  },
+  "LY-032": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 0.25,
+   "total": 4.0
+  },
+  "LY-033": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "LY-034": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.5,
+   "total": 5.25
+  },
+  "LY-035": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.25,
+   "total": 3.75
+  },
+  "LY-036": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.0,
+   "total": 4.75
+  },
+  "LY-102": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 1.5,
+   "total": 5.5
+  },
+  "LY-103": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.5,
+   "total": 5.25
+  },
+  "LY-104": {
+   "direction": 0.75,
+   "claims": 0.5,
+   "timing": 0.25,
+   "total": 1.5
+  },
+  "LY-105": {
+   "direction": 1.5,
+   "claims": 1.0,
+   "timing": 1.0,
+   "total": 3.5
+  },
+  "LY-202": {
+   "direction": 1.0,
+   "claims": 1.0,
+   "timing": 0.5,
+   "total": 2.5
+  },
+  "LY-203": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "LY-204": {
+   "direction": 1.75,
+   "claims": 1.25,
+   "timing": 0.25,
+   "total": 3.25
+  },
+  "LY-205": {
+   "direction": 1.0,
+   "claims": 1.0,
+   "timing": 1.75,
+   "total": 3.75
+  },
+  "LY-206": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "LY-207": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.5,
+   "total": 4.0
+  },
+  "LY-208": {
+   "direction": 1.75,
+   "claims": 1.0,
+   "timing": 0.75,
+   "total": 3.5
+  },
+  "LY-210": {
+   "direction": 1.0,
+   "claims": 0.5,
+   "timing": 0.0,
+   "total": 1.5
+  },
+  "LY-211": {
+   "direction": 0.5,
+   "claims": 0.25,
+   "timing": 0.0,
+   "total": 0.75
+  },
+  "LY-212": {
+   "direction": 0.5,
+   "claims": 0.25,
+   "timing": 1.0,
+   "total": 1.75
+  },
+  "LY-215": {
+   "direction": 1.25,
+   "claims": 0.75,
+   "timing": 0.0,
+   "total": 2.0
+  },
+  "LY-216": {
+   "direction": 1.5,
+   "claims": 1.0,
+   "timing": 1.0,
+   "total": 3.5
+  },
+  "LY-217": {
+   "direction": 1.25,
+   "claims": 1.25,
+   "timing": 1.0,
+   "total": 3.5
+  },
+  "LY-218": {
+   "direction": 1.5,
+   "claims": 1.5,
+   "timing": 0.0,
+   "total": 3.0
+  },
+  "LY-219": {
+   "direction": 2.0,
+   "claims": 1.25,
+   "timing": 0.75,
+   "total": 4.0
+  },
+  "LY-220": {
+   "direction": 0.75,
+   "claims": 0.5,
+   "timing": 0.25,
+   "total": 1.5
+  },
+  "LY-221": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "LY-222": {
+   "direction": 1.0,
+   "claims": 0.5,
+   "timing": 0.25,
+   "total": 1.75
+  },
+  "LY-227": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "LY-228": {
+   "direction": 0.0,
+   "claims": 0.5,
+   "timing": 0.75,
+   "total": 1.25
+  },
+  "LY-230": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.0,
+   "total": 3.5
+  },
+  "LY-231": {
+   "direction": 0.25,
+   "claims": 0.25,
+   "timing": 0.0,
+   "total": 0.5
+  },
+  "LY-232": {
+   "direction": 0.5,
+   "claims": 0.5,
+   "timing": 0.0,
+   "total": 1.0
+  },
+  "LY-234": {
+   "direction": 1.75,
+   "claims": 1.25,
+   "timing": 0.0,
+   "total": 3.0
+  },
+  "LY-235": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 0.75,
+   "total": 4.5
+  },
+  "LY-237": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.25,
+   "total": 0.25
+  },
+  "LY-240": {
+   "direction": 2.0,
+   "claims": 1.0,
+   "timing": 0.0,
+   "total": 3.0
+  },
+  "LY-241": {
+   "direction": 1.0,
+   "claims": 0.75,
+   "timing": 1.0,
+   "total": 2.75
+  },
+  "LY-242": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 0.75,
+   "total": 4.5
+  },
+  "LY-243": {
+   "direction": 1.0,
+   "claims": 0.75,
+   "timing": 0.25,
+   "total": 2.0
+  },
+  "LY-244": {
+   "direction": 1.0,
+   "claims": 0.75,
+   "timing": 0.0,
+   "total": 1.75
+  },
+  "LY-245": {
+   "direction": 1.75,
+   "claims": 1.0,
+   "timing": 1.0,
+   "total": 3.75
+  },
+  "LY-246": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 0.75,
+   "total": 4.75
+  },
+  "LY-249": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 2.0,
+   "total": 6.0
+  },
+  "LY-250": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "LY-251": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.25,
+   "total": 5.0
+  },
+  "LY-252": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 2.0,
+   "total": 5.75
+  },
+  "LY-253": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "LY-254": {
+   "direction": 1.25,
+   "claims": 0.75,
+   "timing": 1.0,
+   "total": 3.0
+  },
+  "LY-255": {
+   "direction": 0.0,
+   "claims": 0.25,
+   "timing": 0.25,
+   "total": 0.5
+  },
+  "LY-259": {
+   "direction": 0.75,
+   "claims": 0.5,
+   "timing": 0.25,
+   "total": 1.5
+  },
+  "LY-301": {
+   "direction": 0.5,
+   "claims": 0.5,
+   "timing": 0.0,
+   "total": 1.0
+  },
+  "LY-304": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.0,
+   "total": 4.75
+  },
+  "LY-305": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.5,
+   "total": 0.5
+  },
+  "LY-306": {
+   "direction": 2.0,
+   "claims": 1.25,
+   "timing": 0.0,
+   "total": 3.25
+  },
+  "LY-307": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.5,
+   "total": 5.25
+  },
+  "LY-309": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.25,
+   "total": 5.0
+  },
+  "LY-311": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "LY-312": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.75,
+   "total": 0.75
+  },
+  "LY-314": {
+   "direction": 1.5,
+   "claims": 1.0,
+   "timing": 0.75,
+   "total": 3.25
+  },
+  "LY-315": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 1.0,
+   "total": 5.0
+  },
+  "LY-318": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "LY-319": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 2.0,
+   "total": 6.0
+  },
+  "LY-320": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 2.0,
+   "total": 5.75
+  },
+  "LY-322": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.5,
+   "total": 4.0
+  },
+  "LY-323": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.0,
+   "total": 3.5
+  },
+  "LY-324": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.5,
+   "total": 5.25
+  },
+  "LY-325": {
+   "direction": 2.0,
+   "claims": 1.25,
+   "timing": 0.5,
+   "total": 3.75
+  },
+  "LY-328": {
+   "direction": 1.75,
+   "claims": 1.25,
+   "timing": 1.0,
+   "total": 4.0
+  },
+  "LY-329": {
+   "direction": 1.25,
+   "claims": 0.75,
+   "timing": 1.0,
+   "total": 3.0
+  },
+  "LY-330": {
+   "direction": 0.0,
+   "claims": 0.25,
+   "timing": 0.5,
+   "total": 0.75
+  },
+  "LY-331": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.5,
+   "total": 5.25
+  },
+  "LY-332": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.0,
+   "total": 4.75
+  },
+  "LY-333": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.75,
+   "total": 4.25
+  },
+  "LY-335": {
+   "direction": 2.0,
+   "claims": 1.25,
+   "timing": 0.5,
+   "total": 3.75
+  },
+  "LY-336": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.0,
+   "total": 4.75
+  },
+  "LY-338": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "LY-339": {
+   "direction": 2.0,
+   "claims": 1.25,
+   "timing": 0.0,
+   "total": 3.25
+  },
+  "LY-340": {
+   "direction": 1.0,
+   "claims": 0.5,
+   "timing": 0.0,
+   "total": 1.5
+  },
+  "LY-342": {
+   "direction": 0.25,
+   "claims": 0.25,
+   "timing": 0.0,
+   "total": 0.5
+  },
+  "LY-344": {
+   "direction": 1.0,
+   "claims": 0.5,
+   "timing": 0.0,
+   "total": 1.5
+  },
+  "LY-402": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "LY-403": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 0.75,
+   "total": 4.5
+  },
+  "LY-404": {
+   "direction": 1.0,
+   "claims": 0.75,
+   "timing": 0.0,
+   "total": 1.75
+  },
+  "LY-405": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "LY-406": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 2.0,
+   "total": 5.75
+  },
+  "LY-407": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "LY-408": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.0,
+   "total": 3.5
+  },
+  "LY-411": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 0.5,
+   "total": 4.25
+  },
+  "LY-413": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.0,
+   "total": 4.75
+  },
+  "LY-415": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 0.0,
+   "total": 3.75
+  },
+  "LY-416": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.25,
+   "total": 3.75
+  },
+  "LY-417": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.0,
+   "total": 4.75
+  },
+  "LY-418": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 2.0,
+   "total": 6.0
+  },
+  "LY-421": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "LY-423": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "LY-424": {
+   "direction": 0.75,
+   "claims": 0.75,
+   "timing": 0.5,
+   "total": 2.0
+  },
+  "LY-425": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "LY-426": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "LY-427": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.75,
+   "total": 4.25
+  },
+  "LY-428": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.5,
+   "total": 4.0
+  },
+  "LY-429": {
+   "direction": 1.25,
+   "claims": 0.75,
+   "timing": 0.0,
+   "total": 2.0
+  },
+  "LY-430": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "LY-432": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.75,
+   "total": 4.25
+  },
+  "LY-433": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "LY-434": {
+   "direction": 1.25,
+   "claims": 1.0,
+   "timing": 0.0,
+   "total": 2.25
+  },
+  "LY-436": {
+   "direction": 1.0,
+   "claims": 0.5,
+   "timing": 0.0,
+   "total": 1.5
+  },
+  "LY-437": {
+   "direction": 0.25,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.25
+  },
+  "LY-439": {
+   "direction": 1.75,
+   "claims": 1.75,
+   "timing": 0.75,
+   "total": 4.25
+  },
+  "LY-440": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 1.25,
+   "total": 5.25
+  },
+  "LY-441": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "LY-442": {
+   "direction": 0.5,
+   "claims": 0.5,
+   "timing": 0.5,
+   "total": 1.5
+  },
+  "LY-443": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 1.0,
+   "total": 5.0
+  },
+  "LY-445": {
+   "direction": 0.75,
+   "claims": 0.75,
+   "timing": 2.0,
+   "total": 3.5
+  },
+  "LY-446": {
+   "direction": 0.75,
+   "claims": 0.5,
+   "timing": 0.25,
+   "total": 1.5
+  },
+  "LY-449": {
+   "direction": 1.0,
+   "claims": 1.0,
+   "timing": 0.25,
+   "total": 2.25
+  },
+  "LY-451": {
+   "direction": 0.75,
+   "claims": 0.5,
+   "timing": 0.25,
+   "total": 1.5
+  },
+  "LY-452": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.5,
+   "total": 0.5
+  },
+  "LY-454": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.0,
+   "total": 4.75
+  },
+  "LY-455": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.0,
+   "total": 4.75
+  },
+  "LY-457": {
+   "direction": 0.0,
+   "claims": 0.25,
+   "timing": 1.0,
+   "total": 1.25
+  },
+  "LY-458": {
+   "direction": 0.75,
+   "claims": 0.5,
+   "timing": 1.0,
+   "total": 2.25
+  },
+  "LY-501": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 0.0,
+   "total": 4.0
+  },
+  "LY-502": {
+   "direction": 1.5,
+   "claims": 1.0,
+   "timing": 0.5,
+   "total": 3.0
+  },
+  "LY-503": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.25,
+   "total": 0.25
+  },
+  "LY-504": {
+   "direction": 1.25,
+   "claims": 0.75,
+   "timing": 0.75,
+   "total": 2.75
+  },
+  "LY-505": {
+   "direction": 0.75,
+   "claims": 0.75,
+   "timing": 0.0,
+   "total": 1.5
+  },
+  "LY-506": {
+   "direction": 1.0,
+   "claims": 0.75,
+   "timing": 0.0,
+   "total": 1.75
+  },
+  "LY-507": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 1.0,
+   "total": 5.0
+  },
+  "LY-508": {
+   "direction": 0.5,
+   "claims": 0.25,
+   "timing": 0.0,
+   "total": 0.75
+  },
+  "LY-509": {
+   "direction": 0.5,
+   "claims": 0.5,
+   "timing": 1.0,
+   "total": 2.0
+  },
+  "LY-510": {
+   "direction": 1.5,
+   "claims": 1.0,
+   "timing": 1.0,
+   "total": 3.5
+  },
+  "LY-511": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "LY-512": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 1.0,
+   "total": 5.0
+  },
+  "LY-513": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "LY-514": {
+   "direction": 1.5,
+   "claims": 1.25,
+   "timing": 1.0,
+   "total": 3.75
+  },
+  "LY-515": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "LY-516": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "LY-517": {
+   "direction": 0.5,
+   "claims": 0.25,
+   "timing": 1.0,
+   "total": 1.75
+  },
+  "LY-518": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.0,
+   "total": 4.75
+  },
+  "LY-519": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "LY-520": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 0.25,
+   "total": 4.0
+  },
+  "LY-521": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.0,
+   "total": 4.75
+  },
+  "LY-522": {
+   "direction": 1.0,
+   "claims": 0.5,
+   "timing": 1.0,
+   "total": 2.5
+  },
+  "LY-523": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.75,
+   "total": 0.75
+  },
+  "LY-524": {
+   "direction": 1.5,
+   "claims": 1.25,
+   "timing": 0.5,
+   "total": 3.25
+  },
+  "LY-525": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.0,
+   "total": 4.75
+  },
+  "LY-526": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "LY-527": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.0,
+   "total": 4.75
+  },
+  "LY-528": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.0,
+   "total": 4.75
+  },
+  "LY-529": {
+   "direction": 2.0,
+   "claims": 1.25,
+   "timing": 1.0,
+   "total": 4.25
+  },
+  "LY-530": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.75,
+   "total": 4.25
+  },
+  "LY-531": {
+   "direction": 0.25,
+   "claims": 0.25,
+   "timing": 0.25,
+   "total": 0.75
+  },
+  "LY-532": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "LY-533": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.75,
+   "total": 0.75
+  },
+  "LY-534": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.0,
+   "total": 4.75
+  },
+  "LY-535": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.5,
+   "total": 0.5
+  },
+  "LY-536": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "LY-537": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 0.75,
+   "total": 4.5
+  },
+  "LY-538": {
+   "direction": 1.0,
+   "claims": 0.75,
+   "timing": 1.0,
+   "total": 2.75
+  },
+  "LY-539": {
+   "direction": 1.5,
+   "claims": 1.25,
+   "timing": 0.5,
+   "total": 3.25
+  },
+  "LY-540": {
+   "direction": 1.5,
+   "claims": 1.0,
+   "timing": 0.0,
+   "total": 2.5
+  },
+  "LY-541": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "LY-542": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.0,
+   "total": 4.75
+  },
+  "LY-543": {
+   "direction": 1.5,
+   "claims": 1.25,
+   "timing": 1.0,
+   "total": 3.75
+  },
+  "LY-601": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.5,
+   "total": 4.0
+  },
+  "LY-602": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "LY-603": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.5,
+   "total": 4.0
+  },
+  "LY-604": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.0,
+   "total": 4.75
+  },
+  "LY-605": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "LY-606": {
+   "direction": 0.75,
+   "claims": 0.75,
+   "timing": 1.0,
+   "total": 2.5
+  },
+  "LY-607": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "LY-608": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 2.0,
+   "total": 5.75
+  },
+  "LY-609": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "LY-610": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "LY-611": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 0.5,
+   "total": 4.25
+  },
+  "LY-612": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.25,
+   "total": 4.75
+  },
+  "LY-613": {
+   "direction": 0.5,
+   "claims": 0.5,
+   "timing": 0.25,
+   "total": 1.25
+  },
+  "LY-614": {
+   "direction": 1.25,
+   "claims": 0.75,
+   "timing": 0.5,
+   "total": 2.5
+  },
+  "LY-615": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "LY-616": {
+   "direction": 1.0,
+   "claims": 0.5,
+   "timing": 1.0,
+   "total": 2.5
+  },
+  "LY-617": {
+   "direction": 2.0,
+   "claims": 1.25,
+   "timing": 1.0,
+   "total": 4.25
+  },
+  "LY-618": {
+   "direction": 1.5,
+   "claims": 1.25,
+   "timing": 0.75,
+   "total": 3.5
+  },
+  "LY-619": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.5,
+   "total": 4.0
+  },
+  "LY-620": {
+   "direction": 1.75,
+   "claims": 1.25,
+   "timing": 0.5,
+   "total": 3.5
+  },
+  "LY-621": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.25,
+   "total": 3.75
+  },
+  "LY-622": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.75,
+   "total": 5.25
+  },
+  "LY-623": {
+   "direction": 0.75,
+   "claims": 0.5,
+   "timing": 0.0,
+   "total": 1.25
+  },
+  "LY-624": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "LY-625": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 0.5,
+   "total": 4.25
+  },
+  "LY-626": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.25,
+   "total": 3.75
+  },
+  "LY-627": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 1.5,
+   "total": 1.5
+  },
+  "LY-628": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 1.0,
+   "total": 1.0
+  },
+  "LY-629": {
+   "direction": 1.25,
+   "claims": 1.0,
+   "timing": 1.0,
+   "total": 3.25
+  },
+  "MH-001": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.75,
+   "total": 5.5
+  },
+  "MH-002": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 2.0,
+   "total": 6.0
+  },
+  "MH-003": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 0.0,
+   "total": 4.0
+  },
+  "MH-006": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 2.0,
+   "total": 6.0
+  },
+  "MH-007": {
+   "direction": 2.0,
+   "claims": 1.25,
+   "timing": 1.25,
+   "total": 4.5
+  },
+  "MH-008": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.0,
+   "total": 3.5
+  },
+  "MH-009": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.5,
+   "total": 4.0
+  },
+  "MH-010": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 2.0,
+   "total": 5.75
+  },
+  "MP-001": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 0.0,
+   "total": 4.0
+  },
+  "MP-002": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.25,
+   "total": 5.0
+  },
+  "MP-003": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.5,
+   "total": 5.25
+  },
+  "MP-004": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 0.5,
+   "total": 4.25
+  },
+  "MP-005": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.25,
+   "total": 5.0
+  },
+  "MP-006": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 1.5,
+   "total": 5.5
+  },
+  "MP-007": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.5,
+   "total": 5.25
+  },
+  "MP-008": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 0.5,
+   "total": 4.5
+  },
+  "MP-009": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 1.75,
+   "total": 5.75
+  },
+  "MP-010": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 0.75,
+   "total": 4.75
+  },
+  "MP-011": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 0.0,
+   "total": 4.0
+  },
+  "MP-012": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 0.0,
+   "total": 4.0
+  },
+  "MP-013": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 2.0,
+   "total": 6.0
+  },
+  "MP-014": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 1.75,
+   "total": 5.75
+  },
+  "MP-015": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 1.5,
+   "total": 5.5
+  },
+  "MP-016": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 0.5,
+   "total": 4.25
+  },
+  "MP-017": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 2.0,
+   "total": 6.0
+  },
+  "MP-018": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.5,
+   "total": 5.25
+  },
+  "MP-019": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.5,
+   "total": 5.0
+  },
+  "OC-001": {
+   "direction": 1.5,
+   "claims": 1.25,
+   "timing": 1.25,
+   "total": 4.0
+  },
+  "OC-002": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "OC-003": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.0,
+   "total": 4.75
+  },
+  "OC-004": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "OC-005": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.0,
+   "total": 4.75
+  },
+  "OC-006": {
+   "direction": 1.75,
+   "claims": 1.5,
+   "timing": 2.0,
+   "total": 5.25
+  },
+  "OC-007": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 2.0,
+   "total": 6.0
+  },
+  "OC-008": {
+   "direction": 2.0,
+   "claims": 1.25,
+   "timing": 1.0,
+   "total": 4.25
+  },
+  "OC-009": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "OC-010": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.75,
+   "total": 5.25
+  },
+  "OC-011": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 1.75,
+   "total": 5.75
+  },
+  "OC-012": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "OC-013": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.5,
+   "total": 5.25
+  },
+  "OC-014": {
+   "direction": 0.75,
+   "claims": 0.75,
+   "timing": 0.5,
+   "total": 2.0
+  },
+  "OC-015": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 2.0,
+   "total": 5.75
+  },
+  "OC-016": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.0,
+   "total": 4.75
+  },
+  "OC-017": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "OC-018": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 2.0,
+   "total": 5.75
+  },
+  "OC-019": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 2.0,
+   "total": 5.75
+  },
+  "OC-020": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 2.0,
+   "total": 6.0
+  },
+  "OC-021": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 1.0,
+   "total": 5.0
+  },
+  "OC-022": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 1.0,
+   "total": 5.0
+  },
+  "OC-023": {
+   "direction": 1.5,
+   "claims": 1.25,
+   "timing": 1.75,
+   "total": 4.5
+  },
+  "OC-024": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.0,
+   "total": 4.75
+  },
+  "OC-025": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 2.0,
+   "total": 5.75
+  },
+  "OC-026": {
+   "direction": 1.5,
+   "claims": 1.0,
+   "timing": 0.75,
+   "total": 3.25
+  },
+  "OC-027": {
+   "direction": 0.75,
+   "claims": 0.75,
+   "timing": 0.5,
+   "total": 2.0
+  },
+  "OC-028": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "OC-029": {
+   "direction": 1.0,
+   "claims": 0.75,
+   "timing": 0.75,
+   "total": 2.5
+  },
+  "OC-030": {
+   "direction": 1.0,
+   "claims": 1.0,
+   "timing": 1.0,
+   "total": 3.0
+  },
+  "WP-001": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 2.0,
+   "total": 6.0
+  },
+  "WP-002": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 2.0,
+   "total": 6.0
+  },
+  "WP-003": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 2.0,
+   "total": 5.5
+  },
+  "WP-004": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 1.25,
+   "total": 1.25
+  },
+  "WP-005": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 2.0,
+   "total": 6.0
+  },
+  "WP-006": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 2.0,
+   "total": 6.0
+  },
+  "WP-007": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 2.0,
+   "total": 6.0
+  },
+  "WP-008": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 1.75,
+   "total": 5.75
+  },
+  "WP-009": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 2.0,
+   "total": 6.0
+  },
+  "WP-010": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.25,
+   "total": 5.0
+  },
+  "WP-011": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 1.25,
+   "total": 1.25
+  },
+  "WP-012": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 2.0,
+   "total": 5.5
+  },
+  "WP-013": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 2.0,
+   "total": 6.0
+  },
+  "YM-002": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "YM-003": {
+   "direction": 0.25,
+   "claims": 0.25,
+   "timing": 0.0,
+   "total": 0.5
+  },
+  "YM-004": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "YM-005": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 0.25,
+   "total": 4.0
+  },
+  "YM-007": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.0,
+   "total": 4.75
+  },
+  "YM-008": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.0,
+   "total": 3.5
+  },
+  "YM-009": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "YM-010": {
+   "direction": 1.5,
+   "claims": 1.0,
+   "timing": 0.5,
+   "total": 3.0
+  },
+  "YM-012": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 0.5,
+   "total": 4.25
+  },
+  "YM-013": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 2.0,
+   "total": 5.75
+  },
+  "YM-014": {
+   "direction": 2.0,
+   "claims": 1.0,
+   "timing": 1.75,
+   "total": 4.75
+  },
+  "YM-015": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.75,
+   "total": 4.25
+  },
+  "YM-017": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 2.0,
+   "total": 6.0
+  },
+  "YM-018": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 2.0,
+   "total": 6.0
+  },
+  "YM-019": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 1.0,
+   "total": 1.0
+  },
+  "YM-020": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.0,
+   "total": 3.5
+  },
+  "YM-022": {
+   "direction": 1.75,
+   "claims": 1.25,
+   "timing": 0.0,
+   "total": 3.0
+  },
+  "YM-023": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.0,
+   "total": 3.5
+  },
+  "YM-024": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.75,
+   "total": 5.5
+  },
+  "YM-025": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "YM-027": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 2.0,
+   "total": 5.5
+  },
+  "YM-028": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.25,
+   "total": 3.75
+  },
+  "YM-029": {
+   "direction": 0.5,
+   "claims": 0.5,
+   "timing": 0.25,
+   "total": 1.25
+  },
+  "YM-030": {
+   "direction": 1.0,
+   "claims": 0.75,
+   "timing": 0.0,
+   "total": 1.75
+  },
+  "YM-032": {
+   "direction": 0.75,
+   "claims": 0.75,
+   "timing": 0.0,
+   "total": 1.5
+  },
+  "YM-033": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.25,
+   "total": 3.75
+  },
+  "YM-034": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 2.0,
+   "total": 5.75
+  },
+  "YM-035": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "YM-037": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.25,
+   "total": 3.75
+  },
+  "YM-038": {
+   "direction": 1.75,
+   "claims": 1.25,
+   "timing": 1.0,
+   "total": 4.0
+  },
+  "YM-039": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "YM-040": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 1.0,
+   "total": 1.0
+  },
+  "YM-042": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.25,
+   "total": 5.0
+  },
+  "YM-043": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.5,
+   "total": 4.0
+  },
+  "YM-044": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.0,
+   "total": 3.5
+  },
+  "YM-045": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.5,
+   "total": 4.0
+  },
+  "YM-047": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.5,
+   "total": 4.0
+  },
+  "YM-048": {
+   "direction": 0.0,
+   "claims": 0.25,
+   "timing": 0.0,
+   "total": 0.25
+  },
+  "YM-049": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "YM-050": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.25,
+   "total": 4.75
+  },
+  "YM-052": {
+   "direction": 0.5,
+   "claims": 0.5,
+   "timing": 0.25,
+   "total": 1.25
+  },
+  "YM-053": {
+   "direction": 1.75,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.25
+  },
+  "YM-054": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "YM-055": {
+   "direction": 1.75,
+   "claims": 1.0,
+   "timing": 0.0,
+   "total": 2.75
+  },
+  "YM-057": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.5,
+   "total": 4.0
+  },
+  "YM-058": {
+   "direction": 0.25,
+   "claims": 0.5,
+   "timing": 1.0,
+   "total": 1.75
+  },
+  "YM-059": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "YM-060": {
+   "direction": 1.5,
+   "claims": 1.25,
+   "timing": 1.0,
+   "total": 3.75
+  },
+  "YM-062": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "YM-063": {
+   "direction": 2.0,
+   "claims": 1.25,
+   "timing": 0.25,
+   "total": 3.5
+  },
+  "YM-064": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.25,
+   "total": 4.75
+  },
+  "YM-065": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.0,
+   "total": 3.5
+  },
+  "YM-067": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.75,
+   "total": 5.25
+  },
+  "YM-068": {
+   "direction": 0.25,
+   "claims": 0.25,
+   "timing": 0.5,
+   "total": 1.0
+  },
+  "YM-069": {
+   "direction": 2.0,
+   "claims": 1.25,
+   "timing": 1.0,
+   "total": 4.25
+  },
+  "YM-070": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "YY-006": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.75,
+   "total": 5.25
+  },
+  "YY-010": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 2.0,
+   "total": 5.5
+  },
+  "YY-011": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.5,
+   "total": 4.0
+  },
+  "YY-012": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "YY-013": {
+   "direction": 1.5,
+   "claims": 1.0,
+   "timing": 0.5,
+   "total": 3.0
+  },
+  "YY-014": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.5,
+   "total": 0.5
+  },
+  "YY-015": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.25,
+   "total": 4.75
+  },
+  "YY-016": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.25,
+   "total": 0.25
+  },
+  "YY-017": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.25,
+   "total": 4.75
+  },
+  "YY-018": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.0
+  },
+  "YY-019": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "YY-020": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.25,
+   "total": 4.75
+  },
+  "YY-021": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 0.75,
+   "total": 4.25
+  },
+  "YY-022": {
+   "direction": 1.75,
+   "claims": 1.25,
+   "timing": 1.0,
+   "total": 4.0
+  },
+  "YY-023": {
+   "direction": 2.0,
+   "claims": 1.5,
+   "timing": 1.0,
+   "total": 4.5
+  },
+  "YY-024": {
+   "direction": 2.0,
+   "claims": 1.75,
+   "timing": 1.0,
+   "total": 4.75
+  },
+  "YY2-001": {
+   "direction": 1.5,
+   "claims": 1.25,
+   "timing": 1.75,
+   "total": 4.5
+  },
+  "YY2-002": {
+   "direction": 1.5,
+   "claims": 1.5,
+   "timing": 2.0,
+   "total": 5.0
+  },
+  "YY2-003": {
+   "direction": 2.0,
+   "claims": 1.0,
+   "timing": 0.5,
+   "total": 3.5
+  },
+  "YY2-004": {
+   "direction": 0.5,
+   "claims": 0.0,
+   "timing": 0.0,
+   "total": 0.5
+  },
+  "YY2-005": {
+   "direction": 0.0,
+   "claims": 0.0,
+   "timing": 0.25,
+   "total": 0.25
+  },
+  "ZY-001": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 1.25,
+   "total": 5.25
+  },
+  "ZY-002": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 0.0,
+   "total": 4.0
+  },
+  "ZY-003": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 0.0,
+   "total": 4.0
+  },
+  "ZY-004": {
+   "direction": 2.0,
+   "claims": 2.0,
+   "timing": 1.25,
+   "total": 5.25
+  }
+ },
+ "analysis_r69": {
+  "round": 69,
+  "prereg_source": "runs/round69/PREREG.md s.1 (platform lines and attribution guardrails)",
+  "arbitration_rule": "Per analyze_r39.py merge_views code rule, when |X-Y|>=3 the arbitration record replaces the double-view mean. Applied per judging/arbitration-scores.jsonl when disputes exist.",
+  "headline": {
+   "all": {
+    "n": 487,
+    "pair_diff": -1.258,
+    "SE": 0.107,
+    "ours_mean": 3.404,
+    "master_mean": 4.662,
+    "W": 136,
+    "T": 37,
+    "L": 314,
+    "W/T/L": "136/37/314"
+   },
+   "low_contamination": {
+    "n": 378,
+    "pair_diff": -1.823,
+    "SE": 0.108,
+    "ours_mean": 3.068,
+    "master_mean": 4.891,
+    "W": 70,
+    "T": 25,
+    "L": 283,
+    "W/T/L": "70/25/283"
+   },
+   "ours_pass_ge4": 258,
+   "n": 487
+  },
+  "families": {
+   "liuyao_dev8_c_segment": {
+    "n": 246,
+    "pair_diff": -1.902,
+    "SE": 0.139,
+    "ours_mean": 2.929,
+    "master_mean": 4.831,
+    "W": 51,
+    "T": 10,
+    "L": 185,
+    "W/T/L": "51/10/185"
+   },
+   "liuyao_all": {
+    "n": 309,
+    "pair_diff": -1.886,
+    "SE": 0.121,
+    "ours_mean": 2.983,
+    "master_mean": 4.869,
+    "W": 57,
+    "T": 17,
+    "L": 235,
+    "W/T/L": "57/17/235"
+   },
+   "liuyao_zh": {
+    "n": 16,
+    "pair_diff": -1.531,
+    "SE": 0.378,
+    "ours_mean": 3.297,
+    "master_mean": 4.828,
+    "W": 3,
+    "T": 1,
+    "L": 12,
+    "W/T/L": "3/1/12"
+   },
+   "liuyao_combined": {
+    "n": 325,
+    "pair_diff": -1.868,
+    "SE": 0.117,
+    "ours_mean": 2.998,
+    "master_mean": 4.867,
+    "W": 60,
+    "T": 18,
+    "L": 247,
+    "W/T/L": "60/18/247"
+   },
+   "liuren_dev8": {
+    "n": 18,
+    "pair_diff": -2.556,
+    "SE": 0.497,
+    "ours_mean": 2.75,
+    "master_mean": 5.306,
+    "W": 2,
+    "T": 1,
+    "L": 15,
+    "W/T/L": "2/1/15"
+   },
+   "liuren_lr3_new": {
+    "n": 12,
+    "pair_diff": -1.583,
+    "SE": 0.525,
+    "ours_mean": 2.458,
+    "master_mean": 4.042,
+    "W": 3,
+    "T": 0,
+    "L": 9,
+    "W/T/L": "3/0/9"
+   },
+   "liuren_merged": {
+    "n": 30,
+    "pair_diff": -2.167,
+    "SE": 0.37,
+    "ours_mean": 2.633,
+    "master_mean": 4.8,
+    "W": 5,
+    "T": 1,
+    "L": 24,
+    "W/T/L": "5/1/24"
+   },
+   "liuren_en": {
+    "n": 25,
+    "pair_diff": -2.23,
+    "SE": 0.417,
+    "ours_mean": 2.55,
+    "master_mean": 4.78,
+    "W": 4,
+    "T": 1,
+    "L": 20,
+    "W/T/L": "4/1/20"
+   },
+   "liuren_zh": {
+    "n": 5,
+    "pair_diff": -1.85,
+    "SE": 0.839,
+    "ours_mean": 3.05,
+    "master_mean": 4.9,
+    "W": 1,
+    "T": 0,
+    "L": 4,
+    "W/T/L": "1/0/4"
+   },
+   "bazi_all": {
+    "n": 29,
+    "pair_diff": -0.491,
+    "SE": 0.322,
+    "ours_mean": 4.009,
+    "master_mean": 4.5,
+    "W": 11,
+    "T": 6,
+    "L": 12,
+    "W/T/L": "11/6/12"
+   },
+   "bazi_natal": {
+    "n": 26,
+    "pair_diff": 0.952,
+    "SE": 0.323,
+    "ours_mean": 4.962,
+    "master_mean": 4.01,
+    "W": 19,
+    "T": 3,
+    "L": 4,
+    "W/T/L": "19/3/4"
+   },
+   "horary": {
+    "n": 25,
+    "pair_diff": -0.96,
+    "SE": 0.403,
+    "ours_mean": 4.12,
+    "master_mean": 5.08,
+    "W": 6,
+    "T": 3,
+    "L": 16,
+    "W/T/L": "6/3/16"
+   },
+   "meihua_en": {
+    "n": 8,
+    "pair_diff": -0.781,
+    "SE": 0.37,
+    "ours_mean": 4.906,
+    "master_mean": 5.688,
+    "W": 0,
+    "T": 4,
+    "L": 4,
+    "W/T/L": "0/4/4"
+   },
+   "meihua_zh": {
+    "n": 3,
+    "pair_diff": 0.333,
+    "SE": 0.3,
+    "ours_mean": 5.0,
+    "master_mean": 4.667,
+    "W": 2,
+    "T": 0,
+    "L": 1,
+    "W/T/L": "2/0/1"
+   },
+   "meihua_merged": {
+    "n": 11,
+    "pair_diff": -0.477,
+    "SE": 0.315,
+    "ours_mean": 4.932,
+    "master_mean": 5.409,
+    "W": 2,
+    "T": 4,
+    "L": 5,
+    "W/T/L": "2/4/5"
+   },
+   "cezi_dev": {
+    "n": 1,
+    "pair_diff": -0.25,
+    "SE": 0.0,
+    "ours_mean": 4.25,
+    "master_mean": 4.5,
+    "W": 0,
+    "T": 0,
+    "L": 1,
+    "W/T/L": "0/0/1"
+   }
+  },
+  "per_tradition_all": {
+   "astrology": {
+    "n": 4,
+    "pair_diff": 3.188,
+    "SE": 1.096,
+    "ours_mean": 4.938,
+    "master_mean": 1.75,
+    "W": 3,
+    "T": 1,
+    "L": 0,
+    "W/T/L": "3/1/0"
+   },
+   "bazi": {
+    "n": 29,
+    "pair_diff": -0.491,
+    "SE": 0.322,
+    "ours_mean": 4.009,
+    "master_mean": 4.5,
+    "W": 11,
+    "T": 6,
+    "L": 12,
+    "W/T/L": "11/6/12"
+   },
+   "fengshui": {
+    "n": 2,
+    "pair_diff": 2.75,
+    "SE": 0.25,
+    "ours_mean": 4.25,
+    "master_mean": 1.5,
+    "W": 2,
+    "T": 0,
+    "L": 0,
+    "W/T/L": "2/0/0"
+   },
+   "horary": {
+    "n": 25,
+    "pair_diff": -0.96,
+    "SE": 0.403,
+    "ours_mean": 4.12,
+    "master_mean": 5.08,
+    "W": 6,
+    "T": 3,
+    "L": 16,
+    "W/T/L": "6/3/16"
+   },
+   "liuren": {
+    "n": 25,
+    "pair_diff": -2.23,
+    "SE": 0.417,
+    "ours_mean": 2.55,
+    "master_mean": 4.78,
+    "W": 4,
+    "T": 1,
+    "L": 20,
+    "W/T/L": "4/1/20"
+   },
+   "liuyao": {
+    "n": 309,
+    "pair_diff": -1.886,
+    "SE": 0.121,
+    "ours_mean": 2.983,
+    "master_mean": 4.869,
+    "W": 57,
+    "T": 17,
+    "L": 235,
+    "W/T/L": "57/17/235"
+   },
+   "meihua": {
+    "n": 8,
+    "pair_diff": -0.781,
+    "SE": 0.37,
+    "ours_mean": 4.906,
+    "master_mean": 5.688,
+    "W": 0,
+    "T": 4,
+    "L": 4,
+    "W/T/L": "0/4/4"
+   },
+   "mundane-astrology": {
+    "n": 6,
+    "pair_diff": 1.333,
+    "SE": 0.746,
+    "ours_mean": 5.833,
+    "master_mean": 4.5,
+    "W": 5,
+    "T": 1,
+    "L": 0,
+    "W/T/L": "5/1/0"
+   },
+   "tarot": {
+    "n": 1,
+    "pair_diff": 0.5,
+    "SE": 0.0,
+    "ours_mean": 6.0,
+    "master_mean": 5.5,
+    "W": 1,
+    "T": 0,
+    "L": 0,
+    "W/T/L": "1/0/0"
+   },
+   "vedic-astrology": {
+    "n": 9,
+    "pair_diff": 2.167,
+    "SE": 0.688,
+    "ours_mean": 4.472,
+    "master_mean": 2.306,
+    "W": 9,
+    "T": 0,
+    "L": 0,
+    "W/T/L": "9/0/0"
+   },
+   "yijing": {
+    "n": 4,
+    "pair_diff": -0.25,
+    "SE": 0.445,
+    "ours_mean": 4.625,
+    "master_mean": 4.875,
+    "W": 2,
+    "T": 0,
+    "L": 2,
+    "W/T/L": "2/0/2"
+   },
+   "八字": {
+    "n": 26,
+    "pair_diff": 0.952,
+    "SE": 0.323,
+    "ours_mean": 4.962,
+    "master_mean": 4.01,
+    "W": 19,
+    "T": 3,
+    "L": 4,
+    "W/T/L": "19/3/4"
+   },
+   "六壬": {
+    "n": 5,
+    "pair_diff": -1.85,
+    "SE": 0.839,
+    "ours_mean": 3.05,
+    "master_mean": 4.9,
+    "W": 1,
+    "T": 0,
+    "L": 4,
+    "W/T/L": "1/0/4"
+   },
+   "六爻": {
+    "n": 16,
+    "pair_diff": -1.531,
+    "SE": 0.378,
+    "ours_mean": 3.297,
+    "master_mean": 4.828,
+    "W": 3,
+    "T": 1,
+    "L": 12,
+    "W/T/L": "3/1/12"
+   },
+   "塔罗/文王圣卦（易经）": {
+    "n": 1,
+    "pair_diff": -0.75,
+    "SE": 0.0,
+    "ours_mean": 4.0,
+    "master_mean": 4.75,
+    "W": 0,
+    "T": 0,
+    "L": 1,
+    "W/T/L": "0/0/1"
+   },
+   "梅花": {
+    "n": 3,
+    "pair_diff": 0.333,
+    "SE": 0.3,
+    "ours_mean": 5.0,
+    "master_mean": 4.667,
+    "W": 2,
+    "T": 0,
+    "L": 1,
+    "W/T/L": "2/0/1"
+   },
+   "测字/姓名学": {
+    "n": 1,
+    "pair_diff": -0.25,
+    "SE": 0.0,
+    "ours_mean": 4.25,
+    "master_mean": 4.5,
+    "W": 0,
+    "T": 0,
+    "L": 1,
+    "W/T/L": "0/0/1"
+   },
+   "紫微斗数": {
+    "n": 1,
+    "pair_diff": 5.5,
+    "SE": 0.0,
+    "ours_mean": 5.5,
+    "master_mean": 0.0,
+    "W": 1,
+    "T": 0,
+    "L": 0,
+    "W/T/L": "1/0/0"
+   },
+   "紫微斗数/风水": {
+    "n": 1,
+    "pair_diff": 2.25,
+    "SE": 0.0,
+    "ours_mean": 5.25,
+    "master_mean": 3.0,
+    "W": 1,
+    "T": 0,
+    "L": 0,
+    "W/T/L": "1/0/0"
+   },
+   "通灵/观相": {
+    "n": 1,
+    "pair_diff": 4.25,
+    "SE": 0.0,
+    "ours_mean": 5.0,
+    "master_mean": 0.75,
+    "W": 1,
+    "T": 0,
+    "L": 0,
+    "W/T/L": "1/0/0"
+   },
+   "铁版神数/八字/紫微斗数": {
+    "n": 1,
+    "pair_diff": 4.75,
+    "SE": 0.0,
+    "ours_mean": 5.25,
+    "master_mean": 0.5,
+    "W": 1,
+    "T": 0,
+    "L": 0,
+    "W/T/L": "1/0/0"
+   },
+   "面相/紫微斗數": {
+    "n": 1,
+    "pair_diff": 3.0,
+    "SE": 0.0,
+    "ours_mean": 4.0,
+    "master_mean": 1.0,
+    "W": 1,
+    "T": 0,
+    "L": 0,
+    "W/T/L": "1/0/0"
+   },
+   "面相（体相/法令纹）": {
+    "n": 2,
+    "pair_diff": 1.125,
+    "SE": 2.625,
+    "ours_mean": 4.5,
+    "master_mean": 3.375,
+    "W": 1,
+    "T": 0,
+    "L": 1,
+    "W/T/L": "1/0/1"
+   },
+   "风水/八字": {
+    "n": 1,
+    "pair_diff": 1.75,
+    "SE": 0.0,
+    "ours_mean": 5.75,
+    "master_mean": 4.0,
+    "W": 1,
+    "T": 0,
+    "L": 0,
+    "W/T/L": "1/0/0"
+   },
+   "风水/八字（五行）": {
+    "n": 1,
+    "pair_diff": 5.5,
+    "SE": 0.0,
+    "ours_mean": 5.5,
+    "master_mean": 0.0,
+    "W": 1,
+    "T": 0,
+    "L": 0,
+    "W/T/L": "1/0/0"
+   },
+   "风水/紫微斗数": {
+    "n": 1,
+    "pair_diff": 1.0,
+    "SE": 0.0,
+    "ours_mean": 6.0,
+    "master_mean": 5.0,
+    "W": 1,
+    "T": 0,
+    "L": 0,
+    "W/T/L": "1/0/0"
+   },
+   "风水/面相": {
+    "n": 1,
+    "pair_diff": -0.5,
+    "SE": 0.0,
+    "ours_mean": 4.0,
+    "master_mean": 4.5,
+    "W": 0,
+    "T": 0,
+    "L": 1,
+    "W/T/L": "0/0/1"
+   },
+   "鸟卦": {
+    "n": 1,
+    "pair_diff": 4.0,
+    "SE": 0.0,
+    "ours_mean": 4.5,
+    "master_mean": 0.5,
+    "W": 1,
+    "T": 0,
+    "L": 0,
+    "W/T/L": "1/0/0"
+   },
+   "鸟卦（签诗）": {
+    "n": 1,
+    "pair_diff": 0.25,
+    "SE": 0.0,
+    "ours_mean": 5.75,
+    "master_mean": 5.5,
+    "W": 1,
+    "T": 0,
+    "L": 0,
+    "W/T/L": "1/0/0"
+   }
+  },
+  "platform": {
+   "a_all": {
+    "seg": {
+     "n": 487,
+     "pair_diff": -1.258,
+     "SE": 0.107,
+     "ours_mean": 3.404,
+     "master_mean": 4.662,
+     "W": 136,
+     "T": 37,
+     "L": 314,
+     "W/T/L": "136/37/314"
+    },
+    "line": -1.371,
+    "stands": true,
+    "margin": 0.113
+   },
+   "b_guardrails": {
+    "bazi_all": {
+     "seg": {
+      "n": 29,
+      "pair_diff": -0.491,
+      "SE": 0.322,
+      "ours_mean": 4.009,
+      "master_mean": 4.5,
+      "W": 11,
+      "T": 6,
+      "L": 12,
+      "W/T/L": "11/6/12"
+     },
+     "line": -0.449,
+     "stands": false,
+     "margin": -0.042
+    },
+    "bazi_natal": {
+     "seg": {
+      "n": 26,
+      "pair_diff": 0.952,
+      "SE": 0.323,
+      "ours_mean": 4.962,
+      "master_mean": 4.01,
+      "W": 19,
+      "T": 3,
+      "L": 4,
+      "W/T/L": "19/3/4"
+     },
+     "line": 0.29,
+     "stands": true,
+     "margin": 0.662
+    },
+    "horary": {
+     "seg": {
+      "n": 25,
+      "pair_diff": -0.96,
+      "SE": 0.403,
+      "ours_mean": 4.12,
+      "master_mean": 5.08,
+      "W": 6,
+      "T": 3,
+      "L": 16,
+      "W/T/L": "6/3/16"
+     },
+     "line": -0.76,
+     "stands": false,
+     "margin": -0.2
+    },
+    "liuren_dev8": {
+     "seg": {
+      "n": 18,
+      "pair_diff": -2.556,
+      "SE": 0.497,
+      "ours_mean": 2.75,
+      "master_mean": 5.306,
+      "W": 2,
+      "T": 1,
+      "L": 15,
+      "W/T/L": "2/1/15"
+     },
+     "line": -2.6,
+     "stands": true,
+     "margin": 0.044
+    },
+    "stands_all": false
+   },
+   "c_liuyao_dev8_single": {
+    "seg": {
+     "n": 246,
+     "pair_diff": -1.902,
+     "SE": 0.139,
+     "ours_mean": 2.929,
+     "master_mean": 4.831,
+     "W": 51,
+     "T": 10,
+     "L": 185,
+     "W/T/L": "51/10/185"
+    },
+    "line": -1.93,
+    "stands": true,
+    "margin": 0.028,
+    "fuse_line": -2.255,
+    "fuse_triggered": false
+   },
+   "all_stand": false
+  },
+  "guardrails_attribution": {
+   "note": "Separate from platform verdict (R69 PREREG s.1).",
+   "bazi_bzfy_falsification": {
+    "seg": {
+     "n": 29,
+     "pair_diff": -0.491,
+     "SE": 0.322,
+     "ours_mean": 4.009,
+     "master_mean": 4.5,
+     "W": 11,
+     "T": 6,
+     "L": 12,
+     "W/T/L": "11/6/12"
+    },
+    "threshold": -0.816,
+    "condition": "pair_diff < -0.816",
+    "triggered": false
+   },
+   "liuren_continued_deterioration": {
+    "seg": {
+     "n": 30,
+     "pair_diff": -2.167,
+     "SE": 0.37,
+     "ours_mean": 2.633,
+     "master_mean": 4.8,
+     "W": 5,
+     "T": 1,
+     "L": 24,
+     "W/T/L": "5/1/24"
+    },
+    "threshold": -2.55,
+    "condition": "pair_diff < -2.550",
+    "triggered": false
+   }
+  },
+  "appendix": {
+   "trigger_recount": {
+    "n_predictions": 487,
+    "counts": {
+     "changed_main": 69,
+     "reserve_used": 49,
+     "disputed": 80
+    },
+    "host_final_check": {
+     "changed_main": 69,
+     "reserve_used": 49,
+     "disputed": 80
+    },
+    "match_host": true
+   },
+   "double_view_consistency": {
+    "abs_delta_exact_distribution": {
+     "0.0": 216,
+     "0.5": 161,
+     "1.0": 82,
+     "1.5": 22,
+     "2.0": 4,
+     "3.0": 1,
+     "5.0": 1
+    },
+    "abs_delta_bins": {
+     "==0": 216,
+     "(0,1)": 161,
+     "[1,2)": 104,
+     "[2,3)": 4,
+     ">=3 (disputed)": 2
+    },
+    "n_disputed_ge3": 2,
+    "disputed_cases": [
+     "AS-014",
+     "AS-210"
+    ],
+    "arbitration_detail": [
+     {
+      "case_id": "AS-014",
+      "anon_id": "P3-2d03cae1",
+      "judgeX_total": 4.0,
+      "judgeY_total": 1.0,
+      "abs_delta": 3.0,
+      "double_view_mean_total": 2.5,
+      "arbitration_total": 1.5,
+      "final_total": 1.5,
+      "rule": "arbitration replaces double-view mean (analyze_r39 merge_views code rule)"
+     },
+     {
+      "case_id": "AS-210",
+      "anon_id": "P3-1d457bb1",
+      "judgeX_total": 5.0,
+      "judgeY_total": 0,
+      "abs_delta": 5.0,
+      "double_view_mean_total": 2.5,
+      "arbitration_total": 2.5,
+      "final_total": 2.5,
+      "rule": "arbitration replaces double-view mean (analyze_r39 merge_views code rule)"
+     }
+    ]
+   },
+   "overlay16_mean_pair_diff": 1.531,
+   "mengzhan_variable_side_read": {
+    "predictions_citing_mengzhan": [],
+    "n_citing": 0,
+    "dev_traditions_containing_dream_char": {},
+    "note": "Footprint side read only; R69 is the eighth platform round with R61-REV1 (calibration s.6 dual-core check) in force; footprint is a side read only and carries no verdict; the mengzhan chapter effectiveness test still awaits fresh dream cases at acceptance."
+   },
+   "bazi_timing_side_read_vs_r68": {
+    "bazi-all(29)": {
+     "timing_mean_r69": 0.871,
+     "timing_mean_r68": 1.095,
+     "delta": -0.224,
+     "n": 29
+    },
+    "bazi-natal(26)": {
+     "timing_mean_r69": 1.385,
+     "timing_mean_r68": 1.24,
+     "delta": 0.145,
+     "n": 26
+    }
+   }
+  }
+ }
+}
