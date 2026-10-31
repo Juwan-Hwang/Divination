@@ -1,0 +1,1613 @@
+{
+  "round": 76,
+  "set": "holdout22",
+  "built_by": "组集封存席（R76）",
+  "ruling": "runs/round76/PREREG-ADDENDUM-r76.md §三",
+  "T": 27,
+  "order": [
+    "DS-004",
+    "DS-005",
+    "DS-006",
+    "DS-007",
+    "DS-008",
+    "DS-009",
+    "DS-010",
+    "DS-011",
+    "DS-012",
+    "QM-011",
+    "QM-012",
+    "QM-013",
+    "QM-014",
+    "QM-201",
+    "QM-202",
+    "QM-203",
+    "QM-301",
+    "QM-302",
+    "QM-303",
+    "ZCB-001",
+    "ZCB-002",
+    "ZCB-003",
+    "ZCB-004",
+    "GSZ-022",
+    "GSZ-023",
+    "GSZ-024",
+    "GSZ-026"
+  ],
+  "selection_register": {
+    "DS": {
+      "rule": "eligible∧present∧low∧未用（id 零复用）按 DIGEST 登记序前 9，排除 DS-047",
+      "candidate_count": 62,
+      "selected": [
+        "DS-004",
+        "DS-005",
+        "DS-006",
+        "DS-007",
+        "DS-008",
+        "DS-009",
+        "DS-010",
+        "DS-011",
+        "DS-012"
+      ],
+      "skipped_used_ids": [
+        "DS-001",
+        "DS-002",
+        "DS-003"
+      ],
+      "skipped_reason": "DS-001/DS-002/DS-003 已见于 holdout10/test_gold.jsonl（任铁樵《滴天髓阐微》例，同名异例）；PREREG-ADDENDUM-r76 §一「新 id 命名空间与已用并集 1052 按 id 零复用为构造性成立」对 DS 号段经盘上实测证伪，本席以 §三构成限度（零复用）为准剔除并按登记序递补 DS-010/DS-011/DS-012",
+      "merged_group_DS011_DS033_in_selected": [
+        "DS-011"
+      ],
+      "merged_group_note": "同造合并组 DS-011/DS-033 只取 DS-011（递补入选），DS-033 未取，至多 1 之限守合"
+    },
+    "KW": {
+      "rule": "仅 stem_check 天地盘全合者按登记序前 4；未全合一律不取",
+      "full_count_recheck": 38,
+      "not_full_ids": [
+        "QM-017",
+        "QM-026",
+        "QM-033",
+        "QM-041",
+        "QM-050",
+        "QM-051",
+        "QM-053",
+        "QM-054",
+        "QM-056",
+        "QM-057",
+        "QM-059",
+        "QM-060",
+        "QM-061",
+        "QM-062"
+      ],
+      "note": "盘上 JSON 复算全合 38 例（PREREG-ADDENDUM-r76 §一作 42，差 4；不合 14 例逐 id 如上。前 4 例不受此差影响，选集不变，如实登记待主持知悉）",
+      "selected": [
+        "QM-011",
+        "QM-012",
+        "QM-013",
+        "QM-014"
+      ]
+    },
+    "QW_SG": {
+      "rule": "按登记序各取前 3",
+      "selected_qiwu": [
+        "QM-201",
+        "QM-202",
+        "QM-203"
+      ],
+      "selected_shijianguo": [
+        "QM-301",
+        "QM-302",
+        "QM-303"
+      ],
+      "qm308_note": "QM-308（震宫八神一字未读出）不在石建国前 3，未入选，单列注记条件未触发"
+    },
+    "ZCB": {
+      "rule": "eligible∧present∧low 按登记序前 4；mid（ZCB-016..019）不取",
+      "candidate_count": 15,
+      "selected": [
+        "ZCB-001",
+        "ZCB-002",
+        "ZCB-003",
+        "ZCB-004"
+      ]
+    },
+    "GSZ": {
+      "rule": "可选未用池（GSZ 净入账 63 − holdout21 用 6 ＝ 57）登记序逐例回原书（《六爻卦例说真》文字版 PDF，pdftotext 文字层提取件 runs/round76/gsz-book-r76.txt）复核锚点五要素，全在场者取前 4",
+      "checked_in_order": [
+        "GSZ-020",
+        "GSZ-022",
+        "GSZ-023",
+        "GSZ-024",
+        "GSZ-026"
+      ],
+      "rejected": {
+        "GSZ-020": "动爻缺如：原书第四章例五离卦六爻无动爻、变卦空，原书自注「为什么没断死，就因为内因无动爻来克世」；缺一换下一例（规则 6）"
+      },
+      "selected": [
+        "GSZ-022",
+        "GSZ-023",
+        "GSZ-024",
+        "GSZ-026"
+      ],
+      "fallback_triggered": false
+    }
+  },
+  "liuyao_five_element_recheck": {
+    "GSZ-020": {
+      "elements": {
+        "gua_name": true,
+        "moving": false,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": false
+    },
+    "GSZ-022": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-023": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-024": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    },
+    "GSZ-026": {
+      "elements": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "pass": true
+    }
+  },
+  "triple_key_crosscheck_qm": {
+    "r56_pool_keys": {
+      "QM-001": {
+        "caster": "杜新会",
+        "time": "1998年4月27日17时20分",
+        "event": "手机又不见了，求测手机到底在什么地方、会不会丢（原文：小胡来电称「我的手机又丢了」，请杜预测「看它到底藏在什么地方」）"
+      },
+      "QM-002": {
+        "caster": "杜新会",
+        "time": "1998年7月7日10时",
+        "event": "明天（1998年7月8日）邢台GSM开通仪式举行时的天气状况，有没有雨，好提前安排（备雨具）。"
+      },
+      "QM-003": {
+        "caster": "杜新会",
+        "time": "1998年7月28日9时至11时（按开通仪式举行时间起局）",
+        "event": "明天（7月28日）上午9点半到10点半保定130移动通讯网开通仪式的天气情况怎么样，千万别下雨。"
+      },
+      "QM-004": {
+        "caster": "杜新会",
+        "time": "第一局 2000年3月31日6时30分；第二局 2000年3月31日10时30分（按电业局发的停电通知时间起局）",
+        "event": "供电局通知3月31日上午10时30分停电（因承租房主某医疗器械厂欠电费），电业局今天到底停不停电、何时停、何时复电。"
+      },
+      "QM-005": {
+        "caster": "杜新会",
+        "time": "1996年4月14日13时10分（盘头时间；故事叙事作13日回家后午饭后求测，日期口径差一日，见notes）",
+        "event": "家里已停水两天，是什么地方坏了、什么时候能恢复供水。"
+      },
+      "QM-006": {
+        "caster": "张志春",
+        "time": "干支历：丙子年乙未月乙丑日甲申时，阴遁7局，甲申旬，天禽星为值符，死门为值使，星、门伏吟不动。1921年为辛酉年。",
+        "event": "测父亲的病情与预后（父1921年生，今已七十五岁）。"
+      },
+      "QM-007": {
+        "caster": "张志春",
+        "time": "丙子年癸巳月丙午日丙申时，阳7局，甲午旬，值符天蓬星落2宫，值使休门落3宫",
+        "event": "侄子（1975年生，电工，作业时从电线杆上掉下摔伤入院，昨天刚做手术）病情如何、预后情况、何时可出院。"
+      },
+      "QM-008": {
+        "caster": "王建国（奇门研讨班骨干学员；本例占者非张志春，逐字登记）",
+        "time": "丙子年癸巳月庚申日丙戌时，阳8局，甲申旬，天蓬星为值符落6宫，休门为值使落3宫",
+        "event": "测姨母的病情及预后情况（姨母1996年5月21日发病住院）。"
+      },
+      "QM-009": {
+        "caster": "张志春",
+        "time": "丁丑年壬子月癸卯日癸亥时，甲寅旬，阳7局。天冲星为值符在3宫伏吟，伤门为值使在3宫伏吟。",
+        "event": "妻子患肾炎等病，报刊宣传西安「神医」胡万林能治疑难绝症，拟带妻子去西安求治——请测胡万林医术到底如何、能不能治好我妻子的病、该不该去。"
+      },
+      "QM-010": {
+        "caster": "杜新会（同场王建国亦起局同断，书中并记）",
+        "time": "1997年7月18日12时5分",
+        "event": "公文包里的几份急用文件不见了——文件在哪里、是不是丢了、能不能找到、何时找到。"
+      }
+    },
+    "new_keys": {
+      "QM-011": {
+        "caster": "吕常文（江西省泰和县学员）",
+        "time": "1996年9月23日酉时，工厂工人刘照桂患鼻癌又住进医院，求测其病吉凶",
+        "event": "疾病"
+      },
+      "QM-012": {
+        "caster": "吕常文",
+        "time": "1998年6月16日9点15分，自家所养一只母鸡白痢病很重，用奇门测这只鸡的病能否治好",
+        "event": "疾病（动物）"
+      },
+      "QM-013": {
+        "caster": "吕常文",
+        "time": "1998年6月21日7点45分，所养一只公鸡有病态（白痢），又起局测其病能否治好",
+        "event": "疾病（动物）"
+      },
+      "QM-014": {
+        "caster": "刘文元",
+        "time": "学员王连明来电：今天住进医院，裸眼视力由1.5突然降到0.1，大夫们一致认为颅内长了肿瘤压迫视神经，明天由大连专家会诊，确诊后将马上进行开颅手术，求测明天的手术能否顺利、还能否继续活下去",
+        "event": "疾病"
+      },
+      "QM-201": {
+        "caster": "劉文元",
+        "time": "2005年3月9日晚上6點40分左右（乙酉年己卯月壬辰日己酉時）",
+        "event": "剛由她做媒，讓一個 1978 年（戊午）出生的男孩與一位 1979 年（己未）出生的女孩在她家見面，問這樁婚事能否成功、男孩與女孩能否相互看中（原文：滕問「不知這樁婚事能否成功？男孩與女孩能否相互看中？」）"
+      },
+      "QM-202": {
+        "caster": "劉文元",
+        "time": "2003年6月13日早晨6點40分左右（癸未年戊午月丁巳日癸卯時）",
+        "event": "懷的是男孩還是女孩？到了預產期的時候，能否順產？（原文：「你能否用周易方法預測出我懷的是男孩還是女孩？……到了預產期的時候，我能否順產？我最害怕剖腹產，想儘量地順產，你幫我測一下，會順產嗎？」）"
+      },
+      "QM-203": {
+        "caster": "劉文元",
+        "time": "第一局：2002年10月10日下午4點左右（壬午年庚戌月辛亥日丙申時）；第二局：2002年11月14日中午11點50分左右（壬午年辛亥月丙戌日甲午時）",
+        "event": "懷的到底是男孩還是女孩？將來到了預產期的時候，能否順產？（原文：「希望你今天對我說實話，看看到我到底懷的是男孩還是女孩？將來到了預產期的時候，能否順產？」）醫院預產期為 2003 年元月 13 日前後。"
+      },
+      "QM-301": {
+        "caster": "石建国",
+        "time": "2003年3月26日16点",
+        "event": "刚才卖货时少收了顾客500元钱，看货款能不能找回来"
+      },
+      "QM-302": {
+        "caster": "石建国",
+        "time": "1998年5月10日11点",
+        "event": "女儿该参加高考了，不知能否考上大学"
+      },
+      "QM-303": {
+        "caster": "石建国",
+        "time": "1996年12月31日10点",
+        "event": "想求测工作调动一事，她为此已经跑了半年时间，不知能否调成"
+      }
+    },
+    "r56_casters": [
+      "张志春",
+      "杜新会",
+      "杜新会（同场王建国亦起局同断，书中并记）",
+      "王建国（奇门研讨班骨干学员；本例占者非张志春，逐字登记）"
+    ],
+    "new_casters": [
+      "刘文元",
+      "劉文元",
+      "吕常文",
+      "吕常文（江西省泰和县学员）",
+      "石建国"
+    ],
+    "caster_overlap": [],
+    "result": "三键逐对对勘零同案命中：占者集合不交（R56＝杜新会/张志春/王建国；本轮＝吕常文/刘文元/石建国），占时与占事亦逐例互异；无剔除、无递补。另：开悟台账 dedup_note 载本书疾病例二 B 与 QM-006 同案已出局不入池，该例不在本轮入选 4 例内（入选为例一/例三 A/例三 B/例四）",
+    "hits": [],
+    "removed": [],
+    "replacements": []
+  },
+  "composition": {
+    "by_source": {
+      "段建业《段氏理象学》": 9,
+      "张志春《开悟之门》": 4,
+      "刘文元《奇门启悟》": 3,
+      "石建国《奇门遁甲最新实例解析》": 3,
+      "《字触补》（《四库未收书辑刊》陆辑第拾捌册）": 4,
+      "王虎应《六爻卦例说真》": 4
+    },
+    "by_tradition": {
+      "bazi": 9,
+      "qimen": 10,
+      "cezi": 4,
+      "liuyao": 4
+    },
+    "non_liuyao": 23,
+    "non_yijian": 27,
+    "max_single_tradition": 10,
+    "max_single_source": 9
+  },
+  "eligibility_assertions": {
+    "DS-004": {
+      "eligible_net": true,
+      "anchor_status": "present",
+      "contamination": "low",
+      "filters": {
+        "verbatim_transcribable": "pass（视觉转录，干支互证）",
+        "independent_outcome": "pass",
+        "separable": "pass",
+        "pollution_non_high": "pass"
+      },
+      "pass": true,
+      "basis": "SUPPLY-MINING-duanshi-r76.json 台账逐字"
+    },
+    "DS-005": {
+      "eligible_net": true,
+      "anchor_status": "present",
+      "contamination": "low",
+      "filters": {
+        "verbatim_transcribable": "pass（视觉转录，干支互证）",
+        "independent_outcome": "pass",
+        "separable": "pass",
+        "pollution_non_high": "pass"
+      },
+      "pass": true,
+      "basis": "SUPPLY-MINING-duanshi-r76.json 台账逐字"
+    },
+    "DS-006": {
+      "eligible_net": true,
+      "anchor_status": "present",
+      "contamination": "low",
+      "filters": {
+        "verbatim_transcribable": "pass（视觉转录，干支互证）",
+        "independent_outcome": "pass",
+        "separable": "pass",
+        "pollution_non_high": "pass"
+      },
+      "pass": true,
+      "basis": "SUPPLY-MINING-duanshi-r76.json 台账逐字"
+    },
+    "DS-007": {
+      "eligible_net": true,
+      "anchor_status": "present",
+      "contamination": "low",
+      "filters": {
+        "verbatim_transcribable": "pass（视觉转录，干支互证）",
+        "independent_outcome": "pass",
+        "separable": "pass",
+        "pollution_non_high": "pass"
+      },
+      "pass": true,
+      "basis": "SUPPLY-MINING-duanshi-r76.json 台账逐字"
+    },
+    "DS-008": {
+      "eligible_net": true,
+      "anchor_status": "present",
+      "contamination": "low",
+      "filters": {
+        "verbatim_transcribable": "pass（视觉转录，干支互证）",
+        "independent_outcome": "pass",
+        "separable": "pass",
+        "pollution_non_high": "pass"
+      },
+      "pass": true,
+      "basis": "SUPPLY-MINING-duanshi-r76.json 台账逐字"
+    },
+    "DS-009": {
+      "eligible_net": true,
+      "anchor_status": "present",
+      "contamination": "low",
+      "filters": {
+        "verbatim_transcribable": "pass（视觉转录，干支互证）",
+        "independent_outcome": "pass",
+        "separable": "pass",
+        "pollution_non_high": "pass"
+      },
+      "pass": true,
+      "basis": "SUPPLY-MINING-duanshi-r76.json 台账逐字"
+    },
+    "DS-010": {
+      "eligible_net": true,
+      "anchor_status": "present",
+      "contamination": "low",
+      "filters": {
+        "verbatim_transcribable": "pass（视觉转录，干支互证）",
+        "independent_outcome": "pass",
+        "separable": "pass",
+        "pollution_non_high": "pass"
+      },
+      "pass": true,
+      "basis": "SUPPLY-MINING-duanshi-r76.json 台账逐字"
+    },
+    "DS-011": {
+      "eligible_net": true,
+      "anchor_status": "present",
+      "contamination": "low",
+      "filters": {
+        "verbatim_transcribable": "pass（视觉转录，干支互证）",
+        "independent_outcome": "pass",
+        "separable": "pass",
+        "pollution_non_high": "pass"
+      },
+      "pass": true,
+      "basis": "SUPPLY-MINING-duanshi-r76.json 台账逐字"
+    },
+    "DS-012": {
+      "eligible_net": true,
+      "anchor_status": "present",
+      "contamination": "low",
+      "filters": {
+        "verbatim_transcribable": "pass（视觉转录，干支互证）",
+        "independent_outcome": "pass",
+        "separable": "pass",
+        "pollution_non_high": "pass"
+      },
+      "pass": true,
+      "basis": "SUPPLY-MINING-duanshi-r76.json 台账逐字"
+    },
+    "QM-011": {
+      "anchor_status": "present",
+      "contamination": "low",
+      "separable": true,
+      "stem_check": {
+        "tianpan_ok": true,
+        "dipan_ok": true
+      },
+      "pass": true,
+      "basis": "SUPPLY-MINING-kaiwu-r76.json 台账逐字"
+    },
+    "QM-012": {
+      "anchor_status": "present",
+      "contamination": "low",
+      "separable": true,
+      "stem_check": {
+        "tianpan_ok": true,
+        "dipan_ok": true
+      },
+      "pass": true,
+      "basis": "SUPPLY-MINING-kaiwu-r76.json 台账逐字"
+    },
+    "QM-013": {
+      "anchor_status": "present",
+      "contamination": "low",
+      "separable": true,
+      "stem_check": {
+        "tianpan_ok": true,
+        "dipan_ok": true
+      },
+      "pass": true,
+      "basis": "SUPPLY-MINING-kaiwu-r76.json 台账逐字"
+    },
+    "QM-014": {
+      "anchor_status": "present",
+      "contamination": "low",
+      "separable": true,
+      "stem_check": {
+        "tianpan_ok": true,
+        "dipan_ok": true
+      },
+      "pass": true,
+      "basis": "SUPPLY-MINING-kaiwu-r76.json 台账逐字"
+    },
+    "QM-201": {
+      "anchor_status": "present",
+      "contamination": "low",
+      "separable": true,
+      "pass": true,
+      "basis": "SUPPLY-MINING-qiwu-r76.json 台账逐字"
+    },
+    "QM-202": {
+      "anchor_status": "present",
+      "contamination": "low",
+      "separable": true,
+      "pass": true,
+      "basis": "SUPPLY-MINING-qiwu-r76.json 台账逐字"
+    },
+    "QM-203": {
+      "anchor_status": "present",
+      "contamination": "low",
+      "separable": true,
+      "pass": true,
+      "basis": "SUPPLY-MINING-qiwu-r76.json 台账逐字"
+    },
+    "QM-301": {
+      "anchor_status": "present",
+      "contamination": "low",
+      "separable": true,
+      "pass": true,
+      "basis": "SUPPLY-MINING-shijianguo-r76.json 台账逐字"
+    },
+    "QM-302": {
+      "anchor_status": "present",
+      "contamination": "low",
+      "separable": true,
+      "pass": true,
+      "basis": "SUPPLY-MINING-shijianguo-r76.json 台账逐字"
+    },
+    "QM-303": {
+      "anchor_status": "present",
+      "contamination": "low",
+      "separable": true,
+      "pass": true,
+      "basis": "SUPPLY-MINING-shijianguo-r76.json 台账逐字"
+    },
+    "ZCB-001": {
+      "eligible": true,
+      "anchor_status": "present",
+      "contamination": "low",
+      "separable": true,
+      "pass": true,
+      "basis": "SUPPLY-MINING-zichubu-r76.json 台账逐字"
+    },
+    "ZCB-002": {
+      "eligible": true,
+      "anchor_status": "present",
+      "contamination": "low",
+      "separable": true,
+      "pass": true,
+      "basis": "SUPPLY-MINING-zichubu-r76.json 台账逐字"
+    },
+    "ZCB-003": {
+      "eligible": true,
+      "anchor_status": "present",
+      "contamination": "low",
+      "separable": true,
+      "pass": true,
+      "basis": "SUPPLY-MINING-zichubu-r76.json 台账逐字"
+    },
+    "ZCB-004": {
+      "eligible": true,
+      "anchor_status": "present",
+      "contamination": "low",
+      "separable": true,
+      "pass": true,
+      "basis": "SUPPLY-MINING-zichubu-r76.json 台账逐字"
+    },
+    "GSZ-022": {
+      "grade": "A",
+      "pollution": "low",
+      "anchor_presence": "present",
+      "eligible_net": true,
+      "five_elements_recheck": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "unused_in_pool": true,
+      "pass": true,
+      "basis": "SUPPLY-MINING-guaishuo-r57.json 台账逐字＋原书文字层五要素复核"
+    },
+    "GSZ-023": {
+      "grade": "A",
+      "pollution": "low",
+      "anchor_presence": "present",
+      "eligible_net": true,
+      "five_elements_recheck": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "unused_in_pool": true,
+      "pass": true,
+      "basis": "SUPPLY-MINING-guaishuo-r57.json 台账逐字＋原书文字层五要素复核"
+    },
+    "GSZ-024": {
+      "grade": "A",
+      "pollution": "low",
+      "anchor_presence": "present",
+      "eligible_net": true,
+      "five_elements_recheck": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "unused_in_pool": true,
+      "pass": true,
+      "basis": "SUPPLY-MINING-guaishuo-r57.json 台账逐字＋原书文字层五要素复核"
+    },
+    "GSZ-026": {
+      "grade": "A",
+      "pollution": "low",
+      "anchor_presence": "present",
+      "eligible_net": true,
+      "five_elements_recheck": {
+        "gua_name": true,
+        "moving": true,
+        "shi_ying": true,
+        "liuqin_nazhi": true,
+        "yuejian_richen": true,
+        "in_book_ben_gua": true,
+        "in_book_asked": true
+      },
+      "unused_in_pool": true,
+      "pass": true,
+      "basis": "SUPPLY-MINING-guaishuo-r57.json 台账逐字＋原书文字层五要素复核"
+    }
+  },
+  "eligibility_all_pass": true,
+  "zero_reuse_recheck": {
+    "sources": {
+      "phase2_splits2_holdout2": 29,
+      "holdout3_20_gold_ids": 540,
+      "holdout21_gold_ids": 25,
+      "holdout2_21_input_card_ids": 406,
+      "dev_pool_ids_dev9keys_plus_dev_input_dirs": 488
+    },
+    "used_union_actual": 977,
+    "r59_accounting_1052": {
+      "dev9_keys": 487,
+      "holdout2_20_additive": 540,
+      "holdout21": 25,
+      "total_stated": 1052,
+      "note": "承 ADDENDUM-r59 §四定案加法口径（dev 487＋holdout2–20 540＋holdout21 25＝1052，跨源未去重）；本席盘上 id 集实算并集见 used_union_actual，去重口径不同、数值不强求相等，零复用以逐 id 对实算并集零命中为准"
+    },
+    "method": "只对 id 集（phase2/splits2.json holdout2、holdout3–21 test_gold.jsonl 仅取 id 字段、holdout2–21 inputs 与 *-inputs 目录文件名、data/master-baseline-dev9.json 键集＋inputs-dev9/10/11/12 与 inputs 目录文件名）；未打开任何已封存集金标正文做内容比对；六爻 4 例另逐 id 核可选未用池（GSZ 57）成员状态",
+    "selected_hit_count": 0,
+    "selected_hits": []
+  },
+  "input_field_whitelist": [
+    "id",
+    "tradition",
+    "subject",
+    "context",
+    "question",
+    "setting",
+    "provenance",
+    "redistributable",
+    "license_status",
+    "anchors"
+  ],
+  "rewrites": {
+    "ZCB-004": {
+      "before_input_side": "徐燕遼以盧見曾侵帑事牽連入獄、發遣之際，一董姓軍官云能拆字，徐即書董字使拆；又書名字使拆。原文拆分過程：董曰「董」為「千里萬里也」；名字則「下為口字，上為外字偏傍，是口外矣」；又指名字中「日在于西為夕，其西域乎」；定期則「口為四字[?]……其不足四年乎，今年為戊子，至四年為辛卯，夕字卯字偏傍亦相合也」。（淡墨錄）",
+      "after_input_side": "徐燕遼以盧見曾侵帑事牽連入獄、發遣之際，一董姓軍官云能拆字，徐即書董字使拆；又書名字使拆。原文拆分過程：董曰「董」為「千里萬里也」；名字則「下為口字，上為外字偏傍，是口外矣」；又指名字中「日在于西為夕，其西域乎」。（淡墨錄）",
+      "removed_segment": "；定期則「口為四字[?]……其不足四年乎，今年為戊子，至四年為辛卯，夕字卯字偏傍亦相合也」",
+      "rule": "定期段为应期断语（断语内容）、非字形拆分锚点本身，输入侧剥离；对照存证，台账不动"
+    }
+  },
+  "strip_register": {
+    "DS-004": [
+      "anchor_status/anchor_note/contamination_pre/contamination_note/separable/transcription/dedup/filters/eligible_net/verdict_note/composition_type/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "DS-005": [
+      "anchor_status/anchor_note/contamination_pre/contamination_note/separable/transcription/dedup/filters/eligible_net/verdict_note/composition_type/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "DS-006": [
+      "anchor_status/anchor_note/contamination_pre/contamination_note/separable/transcription/dedup/filters/eligible_net/verdict_note/composition_type/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "DS-007": [
+      "anchor_status/anchor_note/contamination_pre/contamination_note/separable/transcription/dedup/filters/eligible_net/verdict_note/composition_type/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "DS-008": [
+      "anchor_status/anchor_note/contamination_pre/contamination_note/separable/transcription/dedup/filters/eligible_net/verdict_note/composition_type/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "DS-009": [
+      "anchor_status/anchor_note/contamination_pre/contamination_note/separable/transcription/dedup/filters/eligible_net/verdict_note/composition_type/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "DS-010": [
+      "anchor_status/anchor_note/contamination_pre/contamination_note/separable/transcription/dedup/filters/eligible_net/verdict_note/composition_type/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "DS-011": [
+      "anchor_status/anchor_note/contamination_pre/contamination_note/separable/transcription/dedup/filters/eligible_net/verdict_note/composition_type/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "DS-012": [
+      "anchor_status/anchor_note/contamination_pre/contamination_note/separable/transcription/dedup/filters/eligible_net/verdict_note/composition_type/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "QM-011": [
+      "topic/anchor_status/contamination_pre/separable/transcription/dedup/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "QM-012": [
+      "topic/anchor_status/contamination_pre/separable/transcription/dedup/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "QM-013": [
+      "topic/anchor_status/contamination_pre/separable/transcription/dedup/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "QM-014": [
+      "topic/anchor_status/contamination_pre/separable/transcription/dedup/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "QM-201": [
+      "anchor_status/contamination_pre/contamination_reason/separable/transcription/transcription_confidence/dedup/notes/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "QM-202": [
+      "anchor_status/contamination_pre/contamination_reason/separable/transcription/transcription_confidence/dedup/notes/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "QM-203": [
+      "anchor_status/contamination_pre/contamination_reason/separable/transcription/transcription_confidence/dedup/notes/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "QM-301": [
+      "anchor_status/contamination_pre/separable/transcription/transcription_confidence/dedup/notes/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "QM-302": [
+      "anchor_status/contamination_pre/separable/transcription/transcription_confidence/dedup/notes/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "QM-303": [
+      "anchor_status/contamination_pre/separable/transcription/transcription_confidence/dedup/notes/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "ZCB-001": [
+      "title（原书条题含断语指向者一律不入卡，题面定位中性化，见 field_mapping_notes）/anchor_status/anchor_basis/contamination_pre/contamination_basis/separable/eligible/cz_qx_counted/cz_qx_note/dedup/transcription/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "ZCB-002": [
+      "title（原书条题含断语指向者一律不入卡，题面定位中性化，见 field_mapping_notes）/anchor_status/anchor_basis/contamination_pre/contamination_basis/separable/eligible/cz_qx_counted/cz_qx_note/dedup/transcription/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "ZCB-003": [
+      "title（原书条题含断语指向者一律不入卡，题面定位中性化，见 field_mapping_notes）/anchor_status/anchor_basis/contamination_pre/contamination_basis/separable/eligible/cz_qx_counted/cz_qx_note/dedup/transcription/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "ZCB-004": [
+      "title（原书条题含断语指向者一律不入卡，题面定位中性化，见 field_mapping_notes）/anchor_status/anchor_basis/contamination_pre/contamination_basis/separable/eligible/cz_qx_counted/cz_qx_note/dedup/transcription/master_assertion/outcome（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "GSZ-022": [
+      "pollution/pollution_note/anchor_presence/anchor_missing/dedup_check/filters/outcome_type/outcome_record/master_prediction（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "GSZ-023": [
+      "pollution/pollution_note/anchor_presence/anchor_missing/dedup_check/filters/outcome_type/outcome_record/master_prediction（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "GSZ-024": [
+      "pollution/pollution_note/anchor_presence/anchor_missing/dedup_check/filters/outcome_type/outcome_record/master_prediction（台账管理与金标侧字段，不入输入卡）"
+    ],
+    "GSZ-026": [
+      "pollution/pollution_note/anchor_presence/anchor_missing/dedup_check/filters/outcome_type/outcome_record/master_prediction（台账管理与金标侧字段，不入输入卡）"
+    ]
+  },
+  "field_mapping_notes": {
+    "DS-004": "subject←input_side.subject 逐字；anchors←input_side pillars/pillars_verbatim/gender 逐字；setting←source 逐字；context/question 为组写（台账无该二字段，组写口径在此登记）",
+    "DS-005": "subject←input_side.subject 逐字；anchors←input_side pillars/pillars_verbatim/gender 逐字；setting←source 逐字；context/question 为组写（台账无该二字段，组写口径在此登记）",
+    "DS-006": "subject←input_side.subject 逐字；anchors←input_side pillars/pillars_verbatim/gender 逐字；setting←source 逐字；context/question 为组写（台账无该二字段，组写口径在此登记）",
+    "DS-007": "subject←input_side.subject 逐字；anchors←input_side pillars/pillars_verbatim/gender 逐字；setting←source 逐字；context/question 为组写（台账无该二字段，组写口径在此登记）",
+    "DS-008": "subject←input_side.subject 逐字；anchors←input_side pillars/pillars_verbatim/gender 逐字；setting←source 逐字；context/question 为组写（台账无该二字段，组写口径在此登记）",
+    "DS-009": "subject←input_side.subject 逐字；anchors←input_side pillars/pillars_verbatim/gender 逐字；setting←source 逐字；context/question 为组写（台账无该二字段，组写口径在此登记）",
+    "DS-010": "subject←input_side.subject 逐字；anchors←input_side pillars/pillars_verbatim/gender 逐字；setting←source 逐字；context/question 为组写（台账无该二字段，组写口径在此登记）",
+    "DS-011": "subject←input_side.subject 逐字；anchors←input_side pillars/pillars_verbatim/gender 逐字；setting←source 逐字；context/question 为组写（台账无该二字段，组写口径在此登记）",
+    "DS-012": "subject←input_side.subject 逐字；anchors←input_side pillars/pillars_verbatim/gender 逐字；setting←source 逐字；context/question 为组写（台账无该二字段，组写口径在此登记）",
+    "QM-011": "context←input_side 盘面之前段逐字；anchors.board_verbatim←input_side 盘面段逐字；question←input_side 原文子串（断言验）；subject 为组写（据 input_side 与 caster 组写，口径在此登记）；setting←source＋caster 组写",
+    "QM-012": "context←input_side 盘面之前段逐字；anchors.board_verbatim←input_side 盘面段逐字；question←input_side 原文子串（断言验）；subject 为组写（据 input_side 与 caster 组写，口径在此登记）；setting←source＋caster 组写",
+    "QM-013": "context←input_side 盘面之前段逐字；anchors.board_verbatim←input_side 盘面段逐字；question←input_side 原文子串（断言验）；subject 为组写（据 input_side 与 caster 组写，口径在此登记）；setting←source＋caster 组写",
+    "QM-014": "context←input_side 盘面之前段逐字；anchors.board_verbatim←input_side 盘面段逐字；question←input_side 原文子串（断言验）；subject 为组写（据 input_side 与 caster 组写，口径在此登记）；setting←source＋caster 组写",
+    "QM-201": "subject←input_side.querent；question/context←input_side 逐字；setting←source＋cast_time_verbatim 组写（节名略去篇名「分類占斷篇」：含内容级标记字样、属书目信息，处置登记于此；金标 provenance 载全节名）；anchors←cast_time_verbatim＋board/boards 全载逐字",
+    "QM-202": "subject←input_side.querent；question/context←input_side 逐字；setting←source＋cast_time_verbatim 组写（节名略去篇名「分類占斷篇」：含内容级标记字样、属书目信息，处置登记于此；金标 provenance 载全节名）；anchors←cast_time_verbatim＋board/boards 全载逐字",
+    "QM-203": "subject←input_side.querent；question/context←input_side 逐字；setting←source＋cast_time_verbatim 组写（节名略去篇名「分類占斷篇」：含内容级标记字样、属书目信息，处置登记于此；金标 provenance 载全节名）；anchors←cast_time_verbatim＋board/boards 全载逐字",
+    "QM-301": "subject←input_side.querent；question/context←input_side 逐字；setting←source＋cast_time/ganzhi 组写；anchors←cast_time/ganzhi/chart_header/chart 全载逐字",
+    "QM-302": "subject←input_side.querent；question/context←input_side 逐字；setting←source＋cast_time/ganzhi 组写；anchors←cast_time/ganzhi/chart_header/chart 全载逐字",
+    "QM-303": "subject←input_side.querent；question/context←input_side 逐字；setting←source＋cast_time/ganzhi 组写；anchors←cast_time/ganzhi/chart_header/chart 全载逐字",
+    "ZCB-001": "context/anchors.split_process_verbatim←input_side 逐字（字形拆分过程为 §三明列之输入侧锚点原文；ZCB-004 经附条件改写删定期断语段）；subject/question 为组写（口径在此登记；ZCB-002 question 为 input_side 原文）；setting/provenance 只载卷叶与 PDF 页定位，不载原书条题（条题如「督学丁艰」「失金钗」含断语/结局指向，承 holdout21 QM-004 裁处中性化剔除）",
+    "ZCB-002": "context/anchors.split_process_verbatim←input_side 逐字（字形拆分过程为 §三明列之输入侧锚点原文；ZCB-004 经附条件改写删定期断语段）；subject/question 为组写（口径在此登记；ZCB-002 question 为 input_side 原文）；setting/provenance 只载卷叶与 PDF 页定位，不载原书条题（条题如「督学丁艰」「失金钗」含断语/结局指向，承 holdout21 QM-004 裁处中性化剔除）",
+    "ZCB-003": "context/anchors.split_process_verbatim←input_side 逐字（字形拆分过程为 §三明列之输入侧锚点原文；ZCB-004 经附条件改写删定期断语段）；subject/question 为组写（口径在此登记；ZCB-002 question 为 input_side 原文）；setting/provenance 只载卷叶与 PDF 页定位，不载原书条题（条题如「督学丁艰」「失金钗」含断语/结局指向，承 holdout21 QM-004 裁处中性化剔除）",
+    "ZCB-004": "context/anchors.split_process_verbatim←input_side 逐字（字形拆分过程为 §三明列之输入侧锚点原文；ZCB-004 经附条件改写删定期断语段）；subject/question 为组写（口径在此登记；ZCB-002 question 为 input_side 原文）；setting/provenance 只载卷叶与 PDF 页定位，不载原书条题（条题如「督学丁艰」「失金钗」含断语/结局指向，承 holdout21 QM-004 裁处中性化剔除）",
+    "GSZ-022": "question←input_fields.question；context←asked_at＋书名组写（台账无 context 原文，承 holdout20/21 先例）；setting/provenance←台账 source 逐字；anchors←asked_at＋input_fields.chart 全列逐字",
+    "GSZ-023": "question←input_fields.question；context←asked_at＋书名组写（台账无 context 原文，承 holdout20/21 先例）；setting/provenance←台账 source 逐字；anchors←asked_at＋input_fields.chart 全列逐字",
+    "GSZ-024": "question←input_fields.question；context←asked_at＋书名组写（台账无 context 原文，承 holdout20/21 先例）；setting/provenance←台账 source 逐字；anchors←asked_at＋input_fields.chart 全列逐字",
+    "GSZ-026": "question←input_fields.question；context←asked_at＋书名组写（台账无 context 原文，承 holdout20/21 先例）；setting/provenance←台账 source 逐字；anchors←asked_at＋input_fields.chart 全列逐字"
+  },
+  "gold_supplement": {
+    "QM-012": {
+      "master_prediction": "（1）天芮星为病神，落离宫。癸+辛，为网盖天牢，测病死症难逃，大凶。乙+辛龙逃走，凶。（2）日干甲午辛为病鸡，落巽宫，为死墓之地，又逢死门，大凶。辛+丙，测病不愈。（3）天心星和乙奇为医生和药物，分别落兑宫、离宫，均不克病神落宫，病无治。（4）综上所述分析，病无治，必死。因日干辛处死墓绝之地，又死于月令午火，根据死墓绝应期，金怕火克，必死于火日火时，今正逢甲午日，故判死于当日巳时或午时。",
+      "pages": "《开悟之门》印刷210-211页（PDF238-239）分析（1）-（4）全文",
+      "reason": "台账 master_assertion 为分析文摘写：删「乙+辛龙逃走，凶」「辛+丙，测病不愈」等句、改「综上所述分析」为「综上分析」等，非逐字",
+      "chars": 195
+    },
+    "QM-013": {
+      "master_prediction": "（1）天芮星为病神，落坤宫。生门+死门，病难救。（2）天心星和乙奇为医生和药物，分别落乾宫和坤宫，均不克天芮星落宫，病无治。（3）日干己为病鸡，落巽宫为旺地，又得月令午火之生，旺极。物极必反，故必死。（4）综上所述，病无治，必死。因开门落巽宫为门迫，又反吟，故死速。日干己土旺极，必死于长生之地，火土同源，应死于寅日寅时，又时比日速，故判死于次日（庚子日）寅时，即1998年6月22日寅时，此为长生旺相应期。",
+      "pages": "《开悟之门》印刷211-212页（PDF239-240）分析（1）-（4）全文",
+      "reason": "台账 master_assertion 为摘写，且括注误植 A 例（母鸡）分析（2）内容充 B 例（公鸡）分析（4），非逐字",
+      "chars": 204
+    },
+    "QM-203": {
+      "master_prediction": "第一局：「你懷的肯定是女孩子。你不能順產，必須剖腹產。這些都是小問題，現在關鍵的問題是你腹中這孩子下個月就要出生了，而且必須做剖腹產手術才能把孩子生下來。你剛才說從懷孕到現在六個多月，那麽到下個月也就是七個多月，按理說是沒到生孩子的時候，但我的奇門盤中反映出來的資訊就是下個月你要生小孩的，而且還要剖腹產。希望你從現在開始起，不要到處走動，最好在家休息，以保證胎兒在最後這段時間裏能平穩地渡過，直到出生。」第二局：「你在運動過程中被撞而摔倒，動了胎氣，已經見紅（血），胎兒不能等到預產期了，現在需要馬上做剖腹產手術，孩子可以保住，但前提是必須馬上做剖腹產手術，不然孩子肯定是保不住的。依我之見，馬上到醫院做剖腹產手術，孩子會平安地生下來，只是時間尚不到預產期，只能生下一個早產嬰兒了。」",
+      "pages": "《奇门启悟》印刷202页（PDF102-103 跨页）第一局断语全文；第二局台账已逐字、与印刷203-204页合",
+      "reason": "台账第一局断语以「……」省略中段一句（76字），非全文逐字",
+      "chars": 343
+    },
+    "ZCB-004": {
+      "master_prediction": "公遣戍矣，是千里萬里也；下為口字，上為外字偏傍，是口外矣；日在于西為夕，其西域乎；必賜環也；口為四字之外圍而中缺兩筆，其不足四年乎，今年為戊子，至四年為辛卯，夕字卯字偏傍亦相合也",
+      "pages": "《字触补》卷二·外部叶8-9（合集 PDF553 下半-557 上半，页图 hi-557）墨字董字名字条后段",
+      "reason": "台账 master_assertion 为问答摘写摘要（嵌问句、删拆语主干），非逐字；补录为原文断语诸段逐字、以；分隔（分隔符为本席登记）",
+      "chars": 89
+    }
+  },
+  "gold_supplement_count": 4,
+  "scan1_verbatim_fragment": {
+    "method": "每例 master_prediction 与 outcome_record 的特征片段（标点分句整句（≥8 字）＋去空白 12 字滑动窗口全集）对该例输入卡全文本逐字子串扫描；结局片段全 27 例零命中（硬断言）；断语片段非测字 23 例零命中（硬断言）；测字 4 例命中逐 fragment 分类登记（只许字形拆分过程锚点原文内含语）",
+    "per_case": {
+      "DS-004": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "DS-005": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "DS-006": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "DS-007": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "DS-008": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "DS-009": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "DS-010": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "DS-011": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "DS-012": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "QM-011": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "QM-012": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "QM-013": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "QM-014": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "QM-201": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "QM-202": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "QM-203": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "QM-301": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "QM-302": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "QM-303": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "ZCB-001": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "ZCB-002": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "ZCB-003": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "ZCB-004": {
+        "master_prediction_hits": [
+          "日在于西為夕，其西域乎",
+          "，上為外字偏傍，是口外矣",
+          "口字，上為外字偏傍，是口",
+          "下為口字，上為外字偏傍，是口外矣",
+          "下為口字，上為外字偏傍，",
+          "為口字，上為外字偏傍，是",
+          "字，上為外字偏傍，是口外"
+        ],
+        "outcome_hits": []
+      },
+      "GSZ-022": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "GSZ-023": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "GSZ-024": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      },
+      "GSZ-026": {
+        "master_prediction_hits": [],
+        "outcome_hits": []
+      }
+    },
+    "cezi_hit_classification": {
+      "ZCB-001": [],
+      "ZCB-002": [],
+      "ZCB-003": [],
+      "ZCB-004": [
+        {
+          "fragment": "日在于西為夕，其西域乎",
+          "in_taizhang_input_side_anchor": true,
+          "class": "字形拆分过程锚点原文内含语（§三明列字形拆分过程为输入侧锚点原文；断语与拆语同源同文，非结局泄漏）"
+        },
+        {
+          "fragment": "，上為外字偏傍，是口外矣",
+          "in_taizhang_input_side_anchor": true,
+          "class": "字形拆分过程锚点原文内含语（§三明列字形拆分过程为输入侧锚点原文；断语与拆语同源同文，非结局泄漏）"
+        },
+        {
+          "fragment": "口字，上為外字偏傍，是口",
+          "in_taizhang_input_side_anchor": true,
+          "class": "字形拆分过程锚点原文内含语（§三明列字形拆分过程为输入侧锚点原文；断语与拆语同源同文，非结局泄漏）"
+        },
+        {
+          "fragment": "下為口字，上為外字偏傍，是口外矣",
+          "in_taizhang_input_side_anchor": true,
+          "class": "字形拆分过程锚点原文内含语（§三明列字形拆分过程为输入侧锚点原文；断语与拆语同源同文，非结局泄漏）"
+        },
+        {
+          "fragment": "下為口字，上為外字偏傍，",
+          "in_taizhang_input_side_anchor": true,
+          "class": "字形拆分过程锚点原文内含语（§三明列字形拆分过程为输入侧锚点原文；断语与拆语同源同文，非结局泄漏）"
+        },
+        {
+          "fragment": "為口字，上為外字偏傍，是",
+          "in_taizhang_input_side_anchor": true,
+          "class": "字形拆分过程锚点原文内含语（§三明列字形拆分过程为输入侧锚点原文；断语与拆语同源同文，非结局泄漏）"
+        },
+        {
+          "fragment": "字，上為外字偏傍，是口外",
+          "in_taizhang_input_side_anchor": true,
+          "class": "字形拆分过程锚点原文内含语（§三明列字形拆分过程为输入侧锚点原文；断语与拆语同源同文，非结局泄漏）"
+        }
+      ]
+    }
+  },
+  "scan_marker_selfcheck": {
+    "method": "h20 第二道口径：R42 PREREG §5 内容级一级/二级标记＋字段名黑名单＋禁用键集对 27 张输入卡全字段递归扫描",
+    "per_case": {
+      "DS-004": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "DS-005": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "DS-006": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "DS-007": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "DS-008": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "DS-009": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "DS-010": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "DS-011": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "DS-012": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "QM-011": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "QM-012": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "QM-013": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "QM-014": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "QM-201": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "QM-202": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "QM-203": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "QM-301": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "QM-302": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "QM-303": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "ZCB-001": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "ZCB-002": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "ZCB-003": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "ZCB-004": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "GSZ-022": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "GSZ-023": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "GSZ-024": {
+        "content_hits": [],
+        "fieldname_hits": []
+      },
+      "GSZ-026": {
+        "content_hits": [],
+        "fieldname_hits": []
+      }
+    },
+    "total_hits": 0
+  },
+  "scan_reread_selfcheck": {
+    "method": "建后逐卡回读自检：落盘后对盘上 27 卡重行片段扫描＋标记扫描＋禁用键扫描＋字段白名单核，全过",
+    "per_case": {
+      "DS-004": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "DS-005": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "DS-006": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "DS-007": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "DS-008": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "DS-009": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "DS-010": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "DS-011": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "DS-012": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "QM-011": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "QM-012": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "QM-013": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "QM-014": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "QM-201": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "QM-202": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "QM-203": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "QM-301": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "QM-302": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "QM-303": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "ZCB-001": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "ZCB-002": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "ZCB-003": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "ZCB-004": {
+        "outcome_hits": [],
+        "master_prediction_hits": [
+          "日在于西為夕，其西域乎",
+          "，上為外字偏傍，是口外矣",
+          "口字，上為外字偏傍，是口",
+          "下為口字，上為外字偏傍，是口外矣",
+          "下為口字，上為外字偏傍，",
+          "為口字，上為外字偏傍，是",
+          "字，上為外字偏傍，是口外"
+        ],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "GSZ-022": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "GSZ-023": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "GSZ-024": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      },
+      "GSZ-026": {
+        "outcome_hits": [],
+        "master_prediction_hits": [],
+        "marker_hits": 0,
+        "banned_key_hits": 0,
+        "pass": true
+      }
+    }
+  },
+  "scan2_semantic_spotcheck": "见封存日志登记名单（组集席逐例读卡人工核）",
+  "scan3_host_rescan": "主持验封道，非本席执行——留位",
+  "gold_sha256": "1e299bdaf10724bf2ba66d1f4933fdcbeee11b5970f978df975872bb7164ae6a",
+  "gold_sha256_sha256sum": "1e299bdaf10724bf2ba66d1f4933fdcbeee11b5970f978df975872bb7164ae6a",
+  "gold_sha256_double_read_match": true,
+  "kb_snapshot": {
+    "dir": "runs/round76/kb-snapshot-holdout22/",
+    "file_count": 21,
+    "sha256_list": "runs/round76/kb-snapshot-holdout22-sha256.txt",
+    "files": [
+      "SKILL.md",
+      "VALIDATION.md",
+      "VERIFY-LOG.txt",
+      "references/MANIFEST.md",
+      "references/PROTOCOL.md",
+      "references/README.md",
+      "references/calibration.md",
+      "references/chinese-bazi-ziwei.md",
+      "references/chinese-cezi.md",
+      "references/chinese-liuren.md",
+      "references/chinese-liuyao-meihua.md",
+      "references/chinese-mengzhan.md",
+      "references/chinese-qimen.md",
+      "references/chinese-yijing.md",
+      "references/chinese-ziwei.md",
+      "references/lifekline-method.md",
+      "references/western-astro-numerology-runes.md",
+      "references/western-tarot.md",
+      "tools/cast_iching.py",
+      "tools/draw_runes.py",
+      "tools/draw_tarot.py"
+    ],
+    "diff_vs_round76_opening_snapshot": [
+      "references/chinese-bazi-ziwei.md",
+      "references/chinese-cezi.md",
+      "references/chinese-qimen.md"
+    ]
+  },
+  "outputs_written": [
+    "holdout22/inputs/DS-004.json",
+    "holdout22/inputs/DS-005.json",
+    "holdout22/inputs/DS-006.json",
+    "holdout22/inputs/DS-007.json",
+    "holdout22/inputs/DS-008.json",
+    "holdout22/inputs/DS-009.json",
+    "holdout22/inputs/DS-010.json",
+    "holdout22/inputs/DS-011.json",
+    "holdout22/inputs/DS-012.json",
+    "holdout22/inputs/QM-011.json",
+    "holdout22/inputs/QM-012.json",
+    "holdout22/inputs/QM-013.json",
+    "holdout22/inputs/QM-014.json",
+    "holdout22/inputs/QM-201.json",
+    "holdout22/inputs/QM-202.json",
+    "holdout22/inputs/QM-203.json",
+    "holdout22/inputs/QM-301.json",
+    "holdout22/inputs/QM-302.json",
+    "holdout22/inputs/QM-303.json",
+    "holdout22/inputs/ZCB-001.json",
+    "holdout22/inputs/ZCB-002.json",
+    "holdout22/inputs/ZCB-003.json",
+    "holdout22/inputs/ZCB-004.json",
+    "holdout22/inputs/GSZ-022.json",
+    "holdout22/inputs/GSZ-023.json",
+    "holdout22/inputs/GSZ-024.json",
+    "holdout22/inputs/GSZ-026.json",
+    "holdout22/test_gold.jsonl"
+  ],
+  "delta_r76_host_ruling":   {
+    "executor": "主持裁处 delta 修正席（R76）",
+    "date": "2026-10-31",
+    "script": "runs/round76/delta_holdout22_r76_hostseat.py",
+    "register": "runs/round76/delta-holdout22-register-r76-hostseat.json",
+    "precheck_gold_sha256": "1e299bdaf10724bf2ba66d1f4933fdcbeee11b5970f978df975872bb7164ae6a",
+    "changes": {
+      "1_zcb003_replaced_by_zcb005": {
+        "removed_input_card": "holdout22/inputs/ZCB-003.json（精确路径删除）",
+        "removed_gold_id": "ZCB-003",
+        "reason": "输入卡锚点原文含结论句「故知丁艱」，属断语/结局事实入卡，主持裁定换例",
+        "new_card": {
+          "id": "ZCB-005",
+          "tradition": "cezi",
+          "subject": "孟瓶庵与榜前同测二友",
+          "context": "乾隆丁卯，孟瓶庵於榜前請人測字，以徐[?]茶書一因字於卓上；旁一友亦就此因字請測；又一友以所執扇拍卓，亦以此因字請測。原文拆分過程：其人曰「此為國中一人之象」；對第二人曰「彼因字係無心，君因字係有心，以因加心，有恩字象也」；對第三人曰「君之扇適加因字，正中有困之象」。（歸田瑣記）",
+          "question": "榜前书因字请测（三人同字分测）",
+          "setting": "《字触补》卷二·外部·叶9（《四库未收书辑刊》陆辑第拾捌册，PDF页557下半）",
+          "provenance": "《字触补》卷二·外部·叶9（《四库未收书辑刊》陆辑第拾捌册，PDF页557下半）；用户经学校图书馆提供；redistributable=false",
+          "redistributable": false,
+          "license_status": "古籍文本（合集扫描本），内部研究用",
+          "anchors": {
+            "character": "因",
+            "split_process_verbatim": "乾隆丁卯，孟瓶庵於榜前請人測字，以徐[?]茶書一因字於卓上；旁一友亦就此因字請測；又一友以所執扇拍卓，亦以此因字請測。原文拆分過程：其人曰「此為國中一人之象」；對第二人曰「彼因字係無心，君因字係有心，以因加心，有恩字象也」；對第三人曰「君之扇適加因字，正中有困之象」。（歸田瑣記）"
+          }
+        },
+        "new_gold": {
+          "id": "ZCB-005",
+          "master_prediction": "（孟）君必為此科解首矣；（友二）君此科恐無分，或後此有恩科亦必中；（友三）其終於一衿乎。",
+          "outcome_record": "後三君皆如其言。",
+          "tradition": "cezi",
+          "pollution": "low",
+          "grade": "A",
+          "grade_note": "锚点 present（三斷之拆分依據（國中一人/因加心成恩/扇加因成困）逐一載於原文）；污染 low（孟瓶庵冷僻，測者姓名且不傳，出歸田瑣記）；转录：visual（confidence=0.9）；CZ-QX 计数例：同字異斷之裁決序原文實據（QX-05）：問者之心與臨場外加物定讀法",
+          "provenance": "《字触补》卷二·外部·叶9（《四库未收书辑刊》陆辑第拾捌册，PDF页557下半）；用户经学校图书馆提供；redistributable=false",
+          "license_status": "古籍文本（合集扫描本），内部研究用",
+          "redistributable": false
+        },
+        "eligibility": {
+          "eligible": true,
+          "anchor_status": "present",
+          "contamination": "low",
+          "separable": true,
+          "pass": true,
+          "basis": "SUPPLY-MINING-zichubu-r76.json 台账逐字"
+        },
+        "field_mapping": "context/anchors.split_process_verbatim←台账 input_side 逐字（字形拆分过程为输入侧锚点原文）；subject/question 为组写（口径在此登记，同原四例）；setting/provenance 只载卷叶与 PDF 页定位、不载原书条题（条题「因字三測」同法中性化，承原四例口径）；anchors.character←所测字「因」；provenance 含「用户经学校图书馆提供」、redistributable=false。",
+        "verbatim_verification": {
+          "method": "回原书叶面逐句对勘：容器 PDF 第557页下半（卷二·外部叶9，因字条起）＋第558页上半（叶9续），300dpi 渲染页图存 runs/round76/delta-r76-hostseat/zcb005-pg-557.png、zcb005-pg-558.png 及裁切图两件；逐断与原书竖排原文逐字比对（原书无标点，标点为转录/分列标记）。",
+          "segments": [
+            {
+              "person": "孟瓶庵（第一人）",
+              "gold_segment": "君必為此科解首矣",
+              "in_book": "其人曰「此為國中一人之象君必為此科解首矣」（叶9，PDF557下半）",
+              "verbatim": true
+            },
+            {
+              "person": "友二（第二人）",
+              "gold_segment": "君此科恐無分，或後此有恩科亦必中",
+              "in_book": "其人曰「君此科恐無分或後此有恩科亦必中」（叶9，PDF557下半；原书无逗号）",
+              "verbatim": true
+            },
+            {
+              "person": "友三（第三人）",
+              "gold_segment": "其終於一衿乎",
+              "in_book": "其人……曰「君之扇適加因字正中有困之象其終於一衿乎」（叶9续，PDF558上半）",
+              "verbatim": true
+            },
+            {
+              "person": "结局",
+              "gold_segment": "後三君皆如其言",
+              "in_book": "「後三君皆如其言此人惜不傳姓名殆亦高鳳之流亞矣」（叶9续，PDF558上半）",
+              "verbatim": true
+            }
+          ],
+          "conclusion": "逐字核验通过：三人三断与结局逐句与原书逐字合，照台账入标，不补录。台账 master_assertion 中（孟）／（友二）／（友三）标签、逗号与分号为三人三断之分列标记（同 DS 例「／」台账摘录分隔符先例），非原书文字，在此登记；断语本体逐字。",
+          "supplement_needed": false,
+          "supplement_chars": null,
+          "master_prediction_chars": 44,
+          "master_prediction": "（孟）君必為此科解首矣；（友二）君此科恐無分，或後此有恩科亦必中；（友三）其終於一衿乎。",
+          "input_side_note": "输入卡 context／anchors.split_process_verbatim 照台账 input_side 逐字（同原四例规格）；台账 input_side 作「以徐[?]茶書一因字」，原书叶面该处作「以餘茶書一因字」（餘字清晰），[?] 为台账未判准标记、非断语字段，本席照规格不改台账逐字文本，仅此附注登记。"
+        },
+        "card_scan_same_suite": {
+          "banned_key_hits": [],
+          "master_prediction_hits": [],
+          "outcome_hits": [],
+          "hit_classification": [],
+          "marker_hits": [],
+          "contains_guozhi_conclusion": false,
+          "field_whitelist_pass": true
+        },
+        "cezi_composition_after": [
+          "ZCB-001",
+          "ZCB-002",
+          "ZCB-004",
+          "ZCB-005"
+        ]
+      },
+      "2_ds011_neutralized": {
+        "file": "holdout22/inputs/DS-011.json",
+        "occurrences_replaced": {
+          "setting": 1,
+          "provenance": 1
+        },
+        "before": {
+          "setting": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第一节一·例三（印刷p.85／PDF109）＋第八章第一节六、商海沉浮，女强人命运多舛（印刷pp.137-139／PDF161-163）",
+          "provenance": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第一节一·例三（印刷p.85／PDF109）＋第八章第一节六、商海沉浮，女强人命运多舛（印刷pp.137-139／PDF161-163）；底本为用户经学校图书馆提供，redistributable=false"
+        },
+        "after": {
+          "setting": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第一节一·例三（印刷p.85／PDF109）＋第八章第一节六（印刷pp.137-139／PDF161-163）",
+          "provenance": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第一节一·例三（印刷p.85／PDF109）＋第八章第一节六（印刷pp.137-139／PDF161-163）；底本为用户经学校图书馆提供，redistributable=false"
+        },
+        "subject_unchanged": "匿名坤造（女企业家）；第六章以理法概述、第八章为2009/2010年面授班现场实断全程记录，同一命主",
+        "rule": "删描述性小节题全文「商海沉浮，女强人命运多舛」，定位只留「第八章第一节六」，其余字串一字不动；原题全文只留本日志登记。金标 DS-011 行除行序外一字未动（金标侧 provenance 照原登记载全节名）。"
+      },
+      "3_qm301_neutralized": {
+        "file": "holdout22/inputs/QM-301.json",
+        "occurrences_removed_by_field_top_level_str": {
+          "id": 0,
+          "tradition": 0,
+          "subject": 0,
+          "context": 0,
+          "question": 0,
+          "setting": 1,
+          "provenance": 1,
+          "license_status": 0
+        },
+        "removed_string": "「少收的贷款能找回」",
+        "before": {
+          "setting": "奇门遁甲最新实例解析（石建国著）·下编第七章「钱物丢失预测」实例一「少收的贷款能找回」；起局时间：2003年3月26日16点（癸未年乙卯月戊戌日庚申时）",
+          "provenance": "奇门遁甲最新实例解析（石建国著，建筑与风水杂志社（中国神秘文化大系），ISBN 988-98339-8-0）·下编第七章「钱物丢失预测」实例一「少收的贷款能找回」，印刷页245-246（DjVu页256-257）；用户经学校图书馆提供；redistributable=false"
+        },
+        "after": {
+          "setting": "奇门遁甲最新实例解析（石建国著）·下编第七章「钱物丢失预测」实例一；起局时间：2003年3月26日16点（癸未年乙卯月戊戌日庚申时）",
+          "provenance": "奇门遁甲最新实例解析（石建国著，建筑与风水杂志社（中国神秘文化大系），ISBN 988-98339-8-0）·下编第七章「钱物丢失预测」实例一，印刷页245-246（DjVu页256-257）；用户经学校图书馆提供；redistributable=false"
+        },
+        "note": "question「刚才卖货时少收了顾客500元钱，看货款能不能找回来」为输入侧问句原文、非实例题字串，一字未动；卡内其余字段经全卡检索无该题名字串。金标 QM-301 行除行序外一字未动。"
+      }
+    },
+    "modified_cards_rescan": {
+      "DS-011": {
+        "master_prediction_hits": [],
+        "outcome_hits": [],
+        "marker_hits": [],
+        "banned_key_hits": [],
+        "field_whitelist_pass": true
+      },
+      "QM-301": {
+        "master_prediction_hits": [],
+        "outcome_hits": [],
+        "marker_hits": [],
+        "banned_key_hits": [],
+        "field_whitelist_pass": true
+      }
+    },
+    "source_book_check": {
+      "container_file_per_taizhang_meta": "/home/hatch/workspace/divination/incoming/wanted-books-5/Book/四库未收书辑刊 陆辑 拾捌册 (四库未收书辑刊编纂委员会编).pdf",
+      "container_sha256": "c692398989c29e04a6964b19191c0ac3f0ac69668fdc2d3cff78d2146ead6b5e",
+      "matches_taizhang_meta": true,
+      "note": "主持任务书作 incoming/wanted-books-3；台账 meta 登记之 container_file 为 incoming/wanted-books-5/Book 同名 PDF，本席以台账 meta 为准取原书，SHA 与台账登记一致（wanted-books-3/Book 下无此 PDF，仅 Book.7z 等）。"
+    },
+    "gold_delta": {
+      "removed_id": "ZCB-003",
+      "added_id": "ZCB-005",
+      "new_order_id_sorted": [
+        "DS-004",
+        "DS-005",
+        "DS-006",
+        "DS-007",
+        "DS-008",
+        "DS-009",
+        "DS-010",
+        "DS-011",
+        "DS-012",
+        "GSZ-022",
+        "GSZ-023",
+        "GSZ-024",
+        "GSZ-026",
+        "QM-011",
+        "QM-012",
+        "QM-013",
+        "QM-014",
+        "QM-201",
+        "QM-202",
+        "QM-203",
+        "QM-301",
+        "QM-302",
+        "QM-303",
+        "ZCB-001",
+        "ZCB-002",
+        "ZCB-004",
+        "ZCB-005"
+      ],
+      "old_sha256_superseded": "1e299bdaf10724bf2ba66d1f4933fdcbeee11b5970f978df975872bb7164ae6a",
+      "new_sha256_hashlib": "e10fc3f6e3bbef6514016e1bdb9a8aacb7456e44e80f0b564c5593ab7e3489cd",
+      "new_sha256_sha256sum": "e10fc3f6e3bbef6514016e1bdb9a8aacb7456e44e80f0b564c5593ab7e3489cd",
+      "double_read_match": true
+    },
+    "new_selection_ids": [
+      "DS-004",
+      "DS-005",
+      "DS-006",
+      "DS-007",
+      "DS-008",
+      "DS-009",
+      "DS-010",
+      "DS-011",
+      "DS-012",
+      "GSZ-022",
+      "GSZ-023",
+      "GSZ-024",
+      "GSZ-026",
+      "QM-011",
+      "QM-012",
+      "QM-013",
+      "QM-014",
+      "QM-201",
+      "QM-202",
+      "QM-203",
+      "QM-301",
+      "QM-302",
+      "QM-303",
+      "ZCB-001",
+      "ZCB-002",
+      "ZCB-004",
+      "ZCB-005"
+    ],
+    "final_check": {
+      "inputs_count": 27,
+      "gold_lines": 27,
+      "ids_match": true,
+      "kb_snapshot_untouched": true,
+      "kb_snapshot_sha256_txt_hash_after": "707a871c91e42748b28fcb61a152d95632b30885c29ddb9ef1a6b77d30ab6137"
+    },
+    "kb_snapshot_holdout22_untouched": true,
+    "note": "原报告各节一字未动，本节为文本追加；封存日志同步登记于 data/holdout22-seal-log.md §九。金标 DS-011/QM-301 行除行序外一字未动。"
+  }
+}

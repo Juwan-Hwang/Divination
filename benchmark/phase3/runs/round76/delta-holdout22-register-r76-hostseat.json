@@ -1,0 +1,222 @@
+{
+  "precheck": {
+    "gold_sha256_before": "1e299bdaf10724bf2ba66d1f4933fdcbeee11b5970f978df975872bb7164ae6a",
+    "matches_host_third_read": true,
+    "kb_snapshot_sha256_txt_hash_before": "707a871c91e42748b28fcb61a152d95632b30885c29ddb9ef1a6b77d30ab6137"
+  },
+  "source_book_check": {
+    "container_file_per_taizhang_meta": "/home/hatch/workspace/divination/incoming/wanted-books-5/Book/四库未收书辑刊 陆辑 拾捌册 (四库未收书辑刊编纂委员会编).pdf",
+    "container_sha256": "c692398989c29e04a6964b19191c0ac3f0ac69668fdc2d3cff78d2146ead6b5e",
+    "matches_taizhang_meta": true,
+    "note": "主持任务书作 incoming/wanted-books-3；台账 meta 登记之 container_file 为 incoming/wanted-books-5/Book 同名 PDF，本席以台账 meta 为准取原书，SHA 与台账登记一致（wanted-books-3/Book 下无此 PDF，仅 Book.7z 等）。"
+  },
+  "zcb005_verification": {
+    "method": "回原书叶面逐句对勘：容器 PDF 第557页下半（卷二·外部叶9，因字条起）＋第558页上半（叶9续），300dpi 渲染页图存 runs/round76/delta-r76-hostseat/zcb005-pg-557.png、zcb005-pg-558.png 及裁切图两件；逐断与原书竖排原文逐字比对（原书无标点，标点为转录/分列标记）。",
+    "segments": [
+      {
+        "person": "孟瓶庵（第一人）",
+        "gold_segment": "君必為此科解首矣",
+        "in_book": "其人曰「此為國中一人之象君必為此科解首矣」（叶9，PDF557下半）",
+        "verbatim": true
+      },
+      {
+        "person": "友二（第二人）",
+        "gold_segment": "君此科恐無分，或後此有恩科亦必中",
+        "in_book": "其人曰「君此科恐無分或後此有恩科亦必中」（叶9，PDF557下半；原书无逗号）",
+        "verbatim": true
+      },
+      {
+        "person": "友三（第三人）",
+        "gold_segment": "其終於一衿乎",
+        "in_book": "其人……曰「君之扇適加因字正中有困之象其終於一衿乎」（叶9续，PDF558上半）",
+        "verbatim": true
+      },
+      {
+        "person": "结局",
+        "gold_segment": "後三君皆如其言",
+        "in_book": "「後三君皆如其言此人惜不傳姓名殆亦高鳳之流亞矣」（叶9续，PDF558上半）",
+        "verbatim": true
+      }
+    ],
+    "conclusion": "逐字核验通过：三人三断与结局逐句与原书逐字合，照台账入标，不补录。台账 master_assertion 中（孟）／（友二）／（友三）标签、逗号与分号为三人三断之分列标记（同 DS 例「／」台账摘录分隔符先例），非原书文字，在此登记；断语本体逐字。",
+    "supplement_needed": false,
+    "supplement_chars": null,
+    "master_prediction_chars": 44,
+    "master_prediction": "（孟）君必為此科解首矣；（友二）君此科恐無分，或後此有恩科亦必中；（友三）其終於一衿乎。",
+    "input_side_note": "输入卡 context／anchors.split_process_verbatim 照台账 input_side 逐字（同原四例规格）；台账 input_side 作「以徐[?]茶書一因字」，原书叶面该处作「以餘茶書一因字」（餘字清晰），[?] 为台账未判准标记、非断语字段，本席照规格不改台账逐字文本，仅此附注登记。"
+  },
+  "zcb005_card_scan": {
+    "banned_key_hits": [],
+    "master_prediction_hits": [],
+    "outcome_hits": [],
+    "hit_classification": [],
+    "marker_hits": [],
+    "contains_guozhi_conclusion": false,
+    "field_whitelist_pass": true
+  },
+  "zcb005_card": {
+    "id": "ZCB-005",
+    "tradition": "cezi",
+    "subject": "孟瓶庵与榜前同测二友",
+    "context": "乾隆丁卯，孟瓶庵於榜前請人測字，以徐[?]茶書一因字於卓上；旁一友亦就此因字請測；又一友以所執扇拍卓，亦以此因字請測。原文拆分過程：其人曰「此為國中一人之象」；對第二人曰「彼因字係無心，君因字係有心，以因加心，有恩字象也」；對第三人曰「君之扇適加因字，正中有困之象」。（歸田瑣記）",
+    "question": "榜前书因字请测（三人同字分测）",
+    "setting": "《字触补》卷二·外部·叶9（《四库未收书辑刊》陆辑第拾捌册，PDF页557下半）",
+    "provenance": "《字触补》卷二·外部·叶9（《四库未收书辑刊》陆辑第拾捌册，PDF页557下半）；用户经学校图书馆提供；redistributable=false",
+    "redistributable": false,
+    "license_status": "古籍文本（合集扫描本），内部研究用",
+    "anchors": {
+      "character": "因",
+      "split_process_verbatim": "乾隆丁卯，孟瓶庵於榜前請人測字，以徐[?]茶書一因字於卓上；旁一友亦就此因字請測；又一友以所執扇拍卓，亦以此因字請測。原文拆分過程：其人曰「此為國中一人之象」；對第二人曰「彼因字係無心，君因字係有心，以因加心，有恩字象也」；對第三人曰「君之扇適加因字，正中有困之象」。（歸田瑣記）"
+    }
+  },
+  "zcb005_gold": {
+    "id": "ZCB-005",
+    "master_prediction": "（孟）君必為此科解首矣；（友二）君此科恐無分，或後此有恩科亦必中；（友三）其終於一衿乎。",
+    "outcome_record": "後三君皆如其言。",
+    "tradition": "cezi",
+    "pollution": "low",
+    "grade": "A",
+    "grade_note": "锚点 present（三斷之拆分依據（國中一人/因加心成恩/扇加因成困）逐一載於原文）；污染 low（孟瓶庵冷僻，測者姓名且不傳，出歸田瑣記）；转录：visual（confidence=0.9）；CZ-QX 计数例：同字異斷之裁決序原文實據（QX-05）：問者之心與臨場外加物定讀法",
+    "provenance": "《字触补》卷二·外部·叶9（《四库未收书辑刊》陆辑第拾捌册，PDF页557下半）；用户经学校图书馆提供；redistributable=false",
+    "license_status": "古籍文本（合集扫描本），内部研究用",
+    "redistributable": false
+  },
+  "zcb005_field_mapping": "context/anchors.split_process_verbatim←台账 input_side 逐字（字形拆分过程为输入侧锚点原文）；subject/question 为组写（口径在此登记，同原四例）；setting/provenance 只载卷叶与 PDF 页定位、不载原书条题（条题「因字三測」同法中性化，承原四例口径）；anchors.character←所测字「因」；provenance 含「用户经学校图书馆提供」、redistributable=false。",
+  "zcb005_eligibility": {
+    "eligible": true,
+    "anchor_status": "present",
+    "contamination": "low",
+    "separable": true,
+    "pass": true,
+    "basis": "SUPPLY-MINING-zichubu-r76.json 台账逐字"
+  },
+  "ds011_change": {
+    "file": "holdout22/inputs/DS-011.json",
+    "occurrences_replaced": {
+      "setting": 1,
+      "provenance": 1
+    },
+    "before": {
+      "setting": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第一节一·例三（印刷p.85／PDF109）＋第八章第一节六、商海沉浮，女强人命运多舛（印刷pp.137-139／PDF161-163）",
+      "provenance": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第一节一·例三（印刷p.85／PDF109）＋第八章第一节六、商海沉浮，女强人命运多舛（印刷pp.137-139／PDF161-163）；底本为用户经学校图书馆提供，redistributable=false"
+    },
+    "after": {
+      "setting": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第一节一·例三（印刷p.85／PDF109）＋第八章第一节六（印刷pp.137-139／PDF161-163）",
+      "provenance": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第一节一·例三（印刷p.85／PDF109）＋第八章第一节六（印刷pp.137-139／PDF161-163）；底本为用户经学校图书馆提供，redistributable=false"
+    },
+    "subject_unchanged": "匿名坤造（女企业家）；第六章以理法概述、第八章为2009/2010年面授班现场实断全程记录，同一命主",
+    "rule": "删描述性小节题全文「商海沉浮，女强人命运多舛」，定位只留「第八章第一节六」，其余字串一字不动；原题全文只留本日志登记。金标 DS-011 行除行序外一字未动（金标侧 provenance 照原登记载全节名）。"
+  },
+  "qm301_change": {
+    "file": "holdout22/inputs/QM-301.json",
+    "occurrences_removed_by_field_top_level_str": {
+      "id": 0,
+      "tradition": 0,
+      "subject": 0,
+      "context": 0,
+      "question": 0,
+      "setting": 1,
+      "provenance": 1,
+      "license_status": 0
+    },
+    "removed_string": "「少收的贷款能找回」",
+    "before": {
+      "setting": "奇门遁甲最新实例解析（石建国著）·下编第七章「钱物丢失预测」实例一「少收的贷款能找回」；起局时间：2003年3月26日16点（癸未年乙卯月戊戌日庚申时）",
+      "provenance": "奇门遁甲最新实例解析（石建国著，建筑与风水杂志社（中国神秘文化大系），ISBN 988-98339-8-0）·下编第七章「钱物丢失预测」实例一「少收的贷款能找回」，印刷页245-246（DjVu页256-257）；用户经学校图书馆提供；redistributable=false"
+    },
+    "after": {
+      "setting": "奇门遁甲最新实例解析（石建国著）·下编第七章「钱物丢失预测」实例一；起局时间：2003年3月26日16点（癸未年乙卯月戊戌日庚申时）",
+      "provenance": "奇门遁甲最新实例解析（石建国著，建筑与风水杂志社（中国神秘文化大系），ISBN 988-98339-8-0）·下编第七章「钱物丢失预测」实例一，印刷页245-246（DjVu页256-257）；用户经学校图书馆提供；redistributable=false"
+    },
+    "note": "question「刚才卖货时少收了顾客500元钱，看货款能不能找回来」为输入侧问句原文、非实例题字串，一字未动；卡内其余字段经全卡检索无该题名字串。金标 QM-301 行除行序外一字未动。"
+  },
+  "modified_cards_rescan": {
+    "DS-011": {
+      "master_prediction_hits": [],
+      "outcome_hits": [],
+      "marker_hits": [],
+      "banned_key_hits": [],
+      "field_whitelist_pass": true
+    },
+    "QM-301": {
+      "master_prediction_hits": [],
+      "outcome_hits": [],
+      "marker_hits": [],
+      "banned_key_hits": [],
+      "field_whitelist_pass": true
+    }
+  },
+  "gold_delta": {
+    "removed_id": "ZCB-003",
+    "added_id": "ZCB-005",
+    "new_order_id_sorted": [
+      "DS-004",
+      "DS-005",
+      "DS-006",
+      "DS-007",
+      "DS-008",
+      "DS-009",
+      "DS-010",
+      "DS-011",
+      "DS-012",
+      "GSZ-022",
+      "GSZ-023",
+      "GSZ-024",
+      "GSZ-026",
+      "QM-011",
+      "QM-012",
+      "QM-013",
+      "QM-014",
+      "QM-201",
+      "QM-202",
+      "QM-203",
+      "QM-301",
+      "QM-302",
+      "QM-303",
+      "ZCB-001",
+      "ZCB-002",
+      "ZCB-004",
+      "ZCB-005"
+    ],
+    "old_sha256_superseded": "1e299bdaf10724bf2ba66d1f4933fdcbeee11b5970f978df975872bb7164ae6a",
+    "new_sha256_hashlib": "e10fc3f6e3bbef6514016e1bdb9a8aacb7456e44e80f0b564c5593ab7e3489cd",
+    "new_sha256_sha256sum": "e10fc3f6e3bbef6514016e1bdb9a8aacb7456e44e80f0b564c5593ab7e3489cd",
+    "double_read_match": true
+  },
+  "new_selection_ids": [
+    "DS-004",
+    "DS-005",
+    "DS-006",
+    "DS-007",
+    "DS-008",
+    "DS-009",
+    "DS-010",
+    "DS-011",
+    "DS-012",
+    "GSZ-022",
+    "GSZ-023",
+    "GSZ-024",
+    "GSZ-026",
+    "QM-011",
+    "QM-012",
+    "QM-013",
+    "QM-014",
+    "QM-201",
+    "QM-202",
+    "QM-203",
+    "QM-301",
+    "QM-302",
+    "QM-303",
+    "ZCB-001",
+    "ZCB-002",
+    "ZCB-004",
+    "ZCB-005"
+  ],
+  "final_check": {
+    "inputs_count": 27,
+    "gold_lines": 27,
+    "ids_match": true,
+    "kb_snapshot_untouched": true,
+    "kb_snapshot_sha256_txt_hash_after": "707a871c91e42748b28fcb61a152d95632b30885c29ddb9ef1a6b77d30ab6137"
+  }
+}
