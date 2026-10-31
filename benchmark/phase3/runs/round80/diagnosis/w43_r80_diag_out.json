@@ -1,0 +1,1046 @@
+{
+ "final_scores_top_keys": [
+  "ours_axis2",
+  "ours_sub",
+  "analysis_r80"
+ ],
+ "final_scores_segment_like": [
+  [
+   "/analysis_r80/headline/all",
+   {
+    "n": 487,
+    "pair_diff": -1.052,
+    "SE": 0.097,
+    "ours_mean": 3.61,
+    "master_mean": 4.662
+   }
+  ],
+  [
+   "/analysis_r80/headline/low_contamination",
+   {
+    "n": 378,
+    "pair_diff": -1.546,
+    "SE": 0.098,
+    "ours_mean": 3.345,
+    "master_mean": 4.891
+   }
+  ],
+  [
+   "/analysis_r80/families/liuyao_dev8_c_segment",
+   {
+    "n": 246,
+    "pair_diff": -1.597,
+    "SE": 0.126,
+    "ours_mean": 3.235,
+    "master_mean": 4.831
+   }
+  ],
+  [
+   "/analysis_r80/families/liuyao_all",
+   {
+    "n": 309,
+    "pair_diff": -1.592,
+    "SE": 0.111,
+    "ours_mean": 3.277,
+    "master_mean": 4.869
+   }
+  ],
+  [
+   "/analysis_r80/families/liuyao_zh",
+   {
+    "n": 16,
+    "pair_diff": -1.172,
+    "SE": 0.37,
+    "ours_mean": 3.656,
+    "master_mean": 4.828
+   }
+  ],
+  [
+   "/analysis_r80/families/liuyao_combined",
+   {
+    "n": 325,
+    "pair_diff": -1.572,
+    "SE": 0.107,
+    "ours_mean": 3.295,
+    "master_mean": 4.867
+   }
+  ],
+  [
+   "/analysis_r80/families/liuren_dev8",
+   {
+    "n": 18,
+    "pair_diff": -2.139,
+    "SE": 0.476,
+    "ours_mean": 3.167,
+    "master_mean": 5.306
+   }
+  ],
+  [
+   "/analysis_r80/families/liuren_lr3_new",
+   {
+    "n": 12,
+    "pair_diff": -1.271,
+    "SE": 0.57,
+    "ours_mean": 2.771,
+    "master_mean": 4.042
+   }
+  ],
+  [
+   "/analysis_r80/families/liuren_merged",
+   {
+    "n": 30,
+    "pair_diff": -1.792,
+    "SE": 0.368,
+    "ours_mean": 3.008,
+    "master_mean": 4.8
+   }
+  ],
+  [
+   "/analysis_r80/families/liuren_en",
+   {
+    "n": 25,
+    "pair_diff": -1.89,
+    "SE": 0.415,
+    "ours_mean": 2.89,
+    "master_mean": 4.78
+   }
+  ],
+  [
+   "/analysis_r80/families/liuren_zh",
+   {
+    "n": 5,
+    "pair_diff": -1.3,
+    "SE": 0.808,
+    "ours_mean": 3.6,
+    "master_mean": 4.9
+   }
+  ],
+  [
+   "/analysis_r80/families/bazi_all",
+   {
+    "n": 29,
+    "pair_diff": -0.198,
+    "SE": 0.24,
+    "ours_mean": 4.302,
+    "master_mean": 4.5
+   }
+  ],
+  [
+   "/analysis_r80/families/bazi_natal",
+   {
+    "n": 26,
+    "pair_diff": 0.548,
+    "SE": 0.387,
+    "ours_mean": 4.558,
+    "master_mean": 4.01
+   }
+  ],
+  [
+   "/analysis_r80/families/horary",
+   {
+    "n": 25,
+    "pair_diff": -0.73,
+    "SE": 0.308,
+    "ours_mean": 4.35,
+    "master_mean": 5.08
+   }
+  ],
+  [
+   "/analysis_r80/families/meihua_en",
+   {
+    "n": 8,
+    "pair_diff": -1.188,
+    "SE": 0.337,
+    "ours_mean": 4.5,
+    "master_mean": 5.688
+   }
+  ],
+  [
+   "/analysis_r80/families/meihua_zh",
+   {
+    "n": 3,
+    "pair_diff": -0.75,
+    "SE": 0.661,
+    "ours_mean": 3.917,
+    "master_mean": 4.667
+   }
+  ],
+  [
+   "/analysis_r80/families/meihua_merged",
+   {
+    "n": 11,
+    "pair_diff": -1.068,
+    "SE": 0.292,
+    "ours_mean": 4.341,
+    "master_mean": 5.409
+   }
+  ],
+  [
+   "/analysis_r80/families/cezi_dev",
+   {
+    "n": 1,
+    "pair_diff": 0.5,
+    "SE": 0.0,
+    "ours_mean": 5.0,
+    "master_mean": 4.5
+   }
+  ],
+  [
+   "/analysis_r80/per_tradition_all/astrology",
+   {
+    "n": 4,
+    "pair_diff": 2.375,
+    "SE": 1.023,
+    "ours_mean": 4.125,
+    "master_mean": 1.75
+   }
+  ],
+  [
+   "/analysis_r80/per_tradition_all/bazi",
+   {
+    "n": 29,
+    "pair_diff": -0.198,
+    "SE": 0.24,
+    "ours_mean": 4.302,
+    "master_mean": 4.5
+   }
+  ],
+  [
+   "/analysis_r80/per_tradition_all/fengshui",
+   {
+    "n": 2,
+    "pair_diff": 3.625,
+    "SE": 1.375,
+    "ours_mean": 5.125,
+    "master_mean": 1.5
+   }
+  ],
+  [
+   "/analysis_r80/per_tradition_all/horary",
+   {
+    "n": 25,
+    "pair_diff": -0.73,
+    "SE": 0.308,
+    "ours_mean": 4.35,
+    "master_mean": 5.08
+   }
+  ],
+  [
+   "/analysis_r80/per_tradition_all/liuren",
+   {
+    "n": 25,
+    "pair_diff": -1.89,
+    "SE": 0.415,
+    "ours_mean": 2.89,
+    "master_mean": 4.78
+   }
+  ],
+  [
+   "/analysis_r80/per_tradition_all/liuyao",
+   {
+    "n": 309,
+    "pair_diff": -1.592,
+    "SE": 0.111,
+    "ours_mean": 3.277,
+    "master_mean": 4.869
+   }
+  ],
+  [
+   "/analysis_r80/per_tradition_all/meihua",
+   {
+    "n": 8,
+    "pair_diff": -1.188,
+    "SE": 0.337,
+    "ours_mean": 4.5,
+    "master_mean": 5.688
+   }
+  ],
+  [
+   "/analysis_r80/per_tradition_all/mundane-astrology",
+   {
+    "n": 6,
+    "pair_diff": 1.25,
+    "SE": 0.655,
+    "ours_mean": 5.75,
+    "master_mean": 4.5
+   }
+  ],
+  [
+   "/analysis_r80/per_tradition_all/tarot",
+   {
+    "n": 1,
+    "pair_diff": 0.25,
+    "SE": 0.0,
+    "ours_mean": 5.75,
+    "master_mean": 5.5
+   }
+  ],
+  [
+   "/analysis_r80/per_tradition_all/vedic-astrology",
+   {
+    "n": 9,
+    "pair_diff": 1.0,
+    "SE": 0.854,
+    "ours_mean": 3.306,
+    "master_mean": 2.306
+   }
+  ],
+  [
+   "/analysis_r80/per_tradition_all/yijing",
+   {
+    "n": 4,
+    "pair_diff": 0.0,
+    "SE": 0.102,
+    "ours_mean": 4.875,
+    "master_mean": 4.875
+   }
+  ],
+  [
+   "/analysis_r80/per_tradition_all/八字",
+   {
+    "n": 26,
+    "pair_diff": 0.548,
+    "SE": 0.387,
+    "ours_mean": 4.558,
+    "master_mean": 4.01
+   }
+  ],
+  [
+   "/analysis_r80/per_tradition_all/六壬",
+   {
+    "n": 5,
+    "pair_diff": -1.3,
+    "SE": 0.808,
+    "ours_mean": 3.6,
+    "master_mean": 4.9
+   }
+  ],
+  [
+   "/analysis_r80/per_tradition_all/六爻",
+   {
+    "n": 16,
+    "pair_diff": -1.172,
+    "SE": 0.37,
+    "ours_mean": 3.656,
+    "master_mean": 4.828
+   }
+  ],
+  [
+   "/analysis_r80/per_tradition_all/塔罗/文王圣卦（易经）",
+   {
+    "n": 1,
+    "pair_diff": 0.0,
+    "SE": 0.0,
+    "ours_mean": 4.75,
+    "master_mean": 4.75
+   }
+  ],
+  [
+   "/analysis_r80/per_tradition_all/梅花",
+   {
+    "n": 3,
+    "pair_diff": -0.75,
+    "SE": 0.661,
+    "ours_mean": 3.917,
+    "master_mean": 4.667
+   }
+  ],
+  [
+   "/analysis_r80/per_tradition_all/测字/姓名学",
+   {
+    "n": 1,
+    "pair_diff": 0.5,
+    "SE": 0.0,
+    "ours_mean": 5.0,
+    "master_mean": 4.5
+   }
+  ],
+  [
+   "/analysis_r80/per_tradition_all/紫微斗数",
+   {
+    "n": 1,
+    "pair_diff": 4.5,
+    "SE": 0.0,
+    "ours_mean": 4.5,
+    "master_mean": 0.0
+   }
+  ],
+  [
+   "/analysis_r80/per_tradition_all/紫微斗数/风水",
+   {
+    "n": 1,
+    "pair_diff": 2.75,
+    "SE": 0.0,
+    "ours_mean": 5.75,
+    "master_mean": 3.0
+   }
+  ],
+  [
+   "/analysis_r80/per_tradition_all/通灵/观相",
+   {
+    "n": 1,
+    "pair_diff": 4.5,
+    "SE": 0.0,
+    "ours_mean": 5.25,
+    "master_mean": 0.75
+   }
+  ],
+  [
+   "/analysis_r80/per_tradition_all/铁版神数/八字/紫微斗数",
+   {
+    "n": 1,
+    "pair_diff": 5.0,
+    "SE": 0.0,
+    "ours_mean": 5.5,
+    "master_mean": 0.5
+   }
+  ],
+  [
+   "/analysis_r80/per_tradition_all/面相/紫微斗數",
+   {
+    "n": 1,
+    "pair_diff": 4.25,
+    "SE": 0.0,
+    "ours_mean": 5.25,
+    "master_mean": 1.0
+   }
+  ],
+  [
+   "/analysis_r80/per_tradition_all/面相（体相/法令纹）",
+   {
+    "n": 2,
+    "pair_diff": 2.0,
+    "SE": 2.75,
+    "ours_mean": 5.375,
+    "master_mean": 3.375
+   }
+  ],
+  [
+   "/analysis_r80/per_tradition_all/风水/八字",
+   {
+    "n": 1,
+    "pair_diff": 2.0,
+    "SE": 0.0,
+    "ours_mean": 6.0,
+    "master_mean": 4.0
+   }
+  ],
+  [
+   "/analysis_r80/per_tradition_all/风水/八字（五行）",
+   {
+    "n": 1,
+    "pair_diff": 6.0,
+    "SE": 0.0,
+    "ours_mean": 6.0,
+    "master_mean": 0.0
+   }
+  ],
+  [
+   "/analysis_r80/per_tradition_all/风水/紫微斗数",
+   {
+    "n": 1,
+    "pair_diff": 0.75,
+    "SE": 0.0,
+    "ours_mean": 5.75,
+    "master_mean": 5.0
+   }
+  ],
+  [
+   "/analysis_r80/per_tradition_all/风水/面相",
+   {
+    "n": 1,
+    "pair_diff": 1.0,
+    "SE": 0.0,
+    "ours_mean": 5.5,
+    "master_mean": 4.5
+   }
+  ],
+  [
+   "/analysis_r80/per_tradition_all/鸟卦",
+   {
+    "n": 1,
+    "pair_diff": 4.25,
+    "SE": 0.0,
+    "ours_mean": 4.75,
+    "master_mean": 0.5
+   }
+  ],
+  [
+   "/analysis_r80/per_tradition_all/鸟卦（签诗）",
+   {
+    "n": 1,
+    "pair_diff": 0.5,
+    "SE": 0.0,
+    "ours_mean": 6.0,
+    "master_mean": 5.5
+   }
+  ],
+  [
+   "/analysis_r80/platform/a_all/seg",
+   {
+    "n": 487,
+    "pair_diff": -1.052,
+    "SE": 0.097,
+    "ours_mean": 3.61,
+    "master_mean": 4.662
+   }
+  ],
+  [
+   "/analysis_r80/platform/b_guardrails/bazi_all/seg",
+   {
+    "n": 29,
+    "pair_diff": -0.198,
+    "SE": 0.24,
+    "ours_mean": 4.302,
+    "master_mean": 4.5
+   }
+  ],
+  [
+   "/analysis_r80/platform/b_guardrails/bazi_natal/seg",
+   {
+    "n": 26,
+    "pair_diff": 0.548,
+    "SE": 0.387,
+    "ours_mean": 4.558,
+    "master_mean": 4.01
+   }
+  ],
+  [
+   "/analysis_r80/platform/b_guardrails/horary/seg",
+   {
+    "n": 25,
+    "pair_diff": -0.73,
+    "SE": 0.308,
+    "ours_mean": 4.35,
+    "master_mean": 5.08
+   }
+  ],
+  [
+   "/analysis_r80/platform/b_guardrails/liuren_dev8/seg",
+   {
+    "n": 18,
+    "pair_diff": -2.139,
+    "SE": 0.476,
+    "ours_mean": 3.167,
+    "master_mean": 5.306
+   }
+  ],
+  [
+   "/analysis_r80/platform/c_liuyao_dev8_single/seg",
+   {
+    "n": 246,
+    "pair_diff": -1.597,
+    "SE": 0.126,
+    "ours_mean": 3.235,
+    "master_mean": 4.831
+   }
+  ],
+  [
+   "/analysis_r80/guardrails_attribution/bazi_bzfy_falsification/seg",
+   {
+    "n": 29,
+    "pair_diff": -0.198,
+    "SE": 0.24,
+    "ours_mean": 4.302,
+    "master_mean": 4.5
+   }
+  ],
+  [
+   "/analysis_r80/guardrails_attribution/liuren_continued_deterioration/seg",
+   {
+    "n": 30,
+    "pair_diff": -1.792,
+    "SE": 0.368,
+    "ours_mean": 3.008,
+    "master_mean": 4.8
+   }
+  ]
+ ],
+ "n_liuren_total": 30,
+ "n_negative": 25,
+ "self_consistent": 25,
+ "negative_subset": {
+  "dev8": {
+   "n": 16,
+   "sum": -41.25,
+   "mean": -2.5781,
+   "median": -2.125
+  },
+  "LR3": {
+   "n": 9,
+   "sum": -17.5,
+   "mean": -1.9444,
+   "median": -1.0
+  },
+  "ALL": {
+   "n": 25,
+   "sum": -58.75,
+   "mean": -2.35,
+   "median": -1.75
+  }
+ },
+ "seg_ids": {
+  "dev8": [
+   "LR-001",
+   "LR2-013",
+   "LR2-014",
+   "LR2-015",
+   "LR2-016",
+   "LR2-017",
+   "LR2-018",
+   "LR2-019",
+   "LR2-021",
+   "LR2-022",
+   "LR2-023",
+   "LR2-024",
+   "OC-026",
+   "OC-027",
+   "OC-029",
+   "OC-030"
+  ],
+  "LR3": [
+   "LR3-002",
+   "LR3-006",
+   "LR3-008",
+   "LR3-101",
+   "LR3-107",
+   "LR3-110",
+   "LR3-112",
+   "LR3-114",
+   "LR3-116"
+  ]
+ },
+ "final_scores_percase_check": {
+  "found": 25,
+  "ours_vs_axis2_equal": 25,
+  "ours_vs_sub_total_equal": 25,
+  "mismatch": []
+ },
+ "rows": [
+  {
+   "case_id": "LR-001",
+   "seg": "dev8",
+   "pair_diff": -5.0,
+   "ours": 0.0,
+   "master": 5.0,
+   "label": "UNC",
+   "note": "no prior coding in h16 s2.1 or prior-round (dev79) table; not coded this round",
+   "book": null,
+   "family": "pending"
+  },
+  {
+   "case_id": "LR2-013",
+   "seg": "dev8",
+   "pair_diff": -2.5,
+   "ours": 3.5,
+   "master": 6.0,
+   "label": "D",
+   "note": "",
+   "book": "《大六壬占验指南》·章奏门·沈云生被参劾占回奏吉凶",
+   "family": "guide"
+  },
+  {
+   "case_id": "LR2-014",
+   "seg": "dev8",
+   "pair_diff": -1.5,
+   "ours": 4.0,
+   "master": 5.5,
+   "label": "W*",
+   "note": "W-face, interface; W<->C interface",
+   "book": "《大六壬占验指南》·公讼门·在京偶占一课",
+   "family": "guide"
+  },
+  {
+   "case_id": "LR2-015",
+   "seg": "dev8",
+   "pair_diff": -6.0,
+   "ours": 0.0,
+   "master": 6.0,
+   "label": "E",
+   "note": "same-sign exclusion; W note only",
+   "book": "《大六壬占验指南》·公讼门·冯允升被逮占出狱",
+   "family": "guide"
+  },
+  {
+   "case_id": "LR2-016",
+   "seg": "dev8",
+   "pair_diff": -0.75,
+   "ours": 4.25,
+   "master": 5.0,
+   "label": "D",
+   "note": "W<->magnitude interface note only",
+   "book": "《大六壬占验指南》·公讼门·陈秋桃为宗藩建言被逮占出狱",
+   "family": "guide"
+  },
+  {
+   "case_id": "LR2-017",
+   "seg": "dev8",
+   "pair_diff": -5.25,
+   "ours": 0.75,
+   "master": 6.0,
+   "label": "E",
+   "note": "",
+   "book": "《大六壬占验指南》·公讼门·戚司宗失机定重辟八载占吉凶",
+   "family": "guide"
+  },
+  {
+   "case_id": "LR2-018",
+   "seg": "dev8",
+   "pair_diff": -1.5,
+   "ours": 3.5,
+   "master": 5.0,
+   "label": "D",
+   "note": "",
+   "book": "《大六壬占验指南》·公讼门·吴振缨因贼焚凤陵被逮占",
+   "family": "guide"
+  },
+  {
+   "case_id": "LR2-019",
+   "seg": "dev8",
+   "pair_diff": -1.25,
+   "ours": 4.5,
+   "master": 5.75,
+   "label": "E",
+   "note": "",
+   "book": "《大六壬占验指南》·兵斗门·田百原奉命勤王占吉凶",
+   "family": "guide"
+  },
+  {
+   "case_id": "LR2-021",
+   "seg": "dev8",
+   "pair_diff": -1.75,
+   "ours": 4.0,
+   "master": 5.75,
+   "label": "A*",
+   "note": "MW/SEAT; A<->B interface",
+   "book": "《大六壬占验指南》·行人门·倪子玄占女何日到京",
+   "family": "guide"
+  },
+  {
+   "case_id": "LR2-022",
+   "seg": "dev8",
+   "pair_diff": -0.5,
+   "ours": 5.5,
+   "master": 6.0,
+   "label": "W*",
+   "note": "W-face, interface; W<->A interface",
+   "book": "《大六壬占验指南》·疾病门·张奉初为弟观初占病",
+   "family": "guide"
+  },
+  {
+   "case_id": "LR2-023",
+   "seg": "dev8",
+   "pair_diff": -3.5,
+   "ours": 2.5,
+   "master": 6.0,
+   "label": "W*",
+   "note": "W-face, interface; W<->D/E interface",
+   "book": "《大六壬占验指南》·疾病门·张澹宁占病",
+   "family": "guide"
+  },
+  {
+   "case_id": "LR2-024",
+   "seg": "dev8",
+   "pair_diff": -3.5,
+   "ours": 2.0,
+   "master": 5.5,
+   "label": "C*",
+   "note": "",
+   "book": "《大六壬占验指南》·疾病门·卢承山占病",
+   "family": "guide"
+  },
+  {
+   "case_id": "LR3-002",
+   "seg": "LR3",
+   "pair_diff": -4.0,
+   "ours": 0.5,
+   "master": 4.5,
+   "label": "E",
+   "note": "A secondary candidate GZ/SEAT",
+   "book": "《大六壬占验指南》·仕宦门·占总镇奉命出师",
+   "family": "guide"
+  },
+  {
+   "case_id": "LR3-006",
+   "seg": "LR3",
+   "pair_diff": -0.25,
+   "ours": 4.5,
+   "master": 4.75,
+   "label": "C*",
+   "note": "",
+   "book": "《大六壬占验指南》·仕宦门·任台垣占仕途",
+   "family": "guide"
+  },
+  {
+   "case_id": "LR3-008",
+   "seg": "LR3",
+   "pair_diff": -5.0,
+   "ours": 0.0,
+   "master": 5.0,
+   "label": "D",
+   "note": "",
+   "book": "《大六壬占验指南》·仕宦门·占功名",
+   "family": "guide"
+  },
+  {
+   "case_id": "LR3-101",
+   "seg": "LR3",
+   "pair_diff": -1.75,
+   "ours": 3.25,
+   "master": 5.0,
+   "label": "W*",
+   "note": "W-face, interface; W<->A/C interface",
+   "book": "《大六壬占验指南》·会试门·阮实夫代刘若宜占会试",
+   "family": "guide"
+  },
+  {
+   "case_id": "LR3-107",
+   "seg": "LR3",
+   "pair_diff": -0.75,
+   "ours": 3.25,
+   "master": 4.0,
+   "label": "A",
+   "note": "SF/SEAT",
+   "book": "《大六壬占验指南》·公讼门·寓中偶占一课",
+   "family": "guide"
+  },
+  {
+   "case_id": "LR3-110",
+   "seg": "LR3",
+   "pair_diff": -0.5,
+   "ours": 4.25,
+   "master": 4.75,
+   "label": "E",
+   "note": "",
+   "book": "《大六壬占验指南》·走失门·王怀荫占失马",
+   "family": "guide"
+  },
+  {
+   "case_id": "LR3-112",
+   "seg": "LR3",
+   "pair_diff": -1.0,
+   "ours": 1.25,
+   "master": 2.25,
+   "label": "H",
+   "note": "W not measurable",
+   "book": "《大六壬占验指南》·疾病门·刘一纯占病",
+   "family": "guide"
+  },
+  {
+   "case_id": "LR3-114",
+   "seg": "LR3",
+   "pair_diff": -0.5,
+   "ours": 3.5,
+   "master": 4.0,
+   "label": "C*",
+   "note": "",
+   "book": "《大六壬占验指南》·应候门·僧敏若夜闻鸦鸣占",
+   "family": "guide"
+  },
+  {
+   "case_id": "LR3-116",
+   "seg": "LR3",
+   "pair_diff": -3.75,
+   "ours": 0.25,
+   "master": 4.0,
+   "label": "A",
+   "note": "QX/SEAT",
+   "book": "《大六壬占验指南》·射覆门·范玄同袖帨射覆",
+   "family": "guide"
+  },
+  {
+   "case_id": "OC-026",
+   "seg": "dev8",
+   "pair_diff": -2.75,
+   "ours": 3.25,
+   "master": 6.0,
+   "label": "E",
+   "note": "same-sign exclusion note",
+   "book": "《大六壬占验指南》第57课",
+   "family": "guide"
+  },
+  {
+   "case_id": "OC-027",
+   "seg": "dev8",
+   "pair_diff": -2.5,
+   "ours": 2.25,
+   "master": 4.75,
+   "label": "W*",
+   "note": "W-name, interface; W<->C interface",
+   "book": "《大六壬占验指南》第58课",
+   "family": "guide"
+  },
+  {
+   "case_id": "OC-029",
+   "seg": "dev8",
+   "pair_diff": -1.75,
+   "ours": 3.5,
+   "master": 5.25,
+   "label": "E",
+   "note": "A secondary candidate MW/MIX",
+   "book": "《大六壬占验指南》第60课",
+   "family": "guide"
+  },
+  {
+   "case_id": "OC-030",
+   "seg": "dev8",
+   "pair_diff": -1.25,
+   "ours": 4.25,
+   "master": 5.5,
+   "label": "A",
+   "note": "SF/SEAT",
+   "book": "《大六壬占验指南》第64课",
+   "family": "guide"
+  }
+ ],
+ "unlabelled": [
+  "LR-001"
+ ],
+ "label_distribution": {
+  "dev8": {
+   "UNC": 1,
+   "D": 3,
+   "W": 4,
+   "E": 5,
+   "A": 2,
+   "C": 1
+  },
+  "LR3": {
+   "E": 2,
+   "C": 2,
+   "D": 1,
+   "W": 1,
+   "A": 2,
+   "H": 1
+  },
+  "ALL": {
+   "UNC": 1,
+   "D": 4,
+   "W": 5,
+   "E": 7,
+   "A": 4,
+   "C": 3,
+   "H": 1
+  }
+ },
+ "entered_vs_r79": [
+  "LR-001"
+ ],
+ "left_vs_r79": [],
+ "W_double_report": {
+  "dev8": {
+   "negative_n": {
+    "denom": 16,
+    "W_interface_count": 4,
+    "W_interface_pct": 25.0,
+    "SE_pp": 10.8,
+    "hardcore_count": 0,
+    "hardcore_pct": 0.0
+   },
+   "labelled_n": {
+    "denom": 15,
+    "W_interface_count": 4,
+    "W_interface_pct": 26.7,
+    "SE_pp": 11.4,
+    "hardcore_count": 0,
+    "hardcore_pct": 0.0
+   },
+   "W_ids": [
+    "LR2-014",
+    "LR2-022",
+    "LR2-023",
+    "OC-027"
+   ],
+   "W_all_interface_starred": true
+  },
+  "LR3": {
+   "negative_n": {
+    "denom": 9,
+    "W_interface_count": 1,
+    "W_interface_pct": 11.1,
+    "SE_pp": 10.5,
+    "hardcore_count": 0,
+    "hardcore_pct": 0.0
+   },
+   "labelled_n": {
+    "denom": 9,
+    "W_interface_count": 1,
+    "W_interface_pct": 11.1,
+    "SE_pp": 10.5,
+    "hardcore_count": 0,
+    "hardcore_pct": 0.0
+   },
+   "W_ids": [
+    "LR3-101"
+   ],
+   "W_all_interface_starred": true
+  },
+  "ALL": {
+   "negative_n": {
+    "denom": 25,
+    "W_interface_count": 5,
+    "W_interface_pct": 20.0,
+    "SE_pp": 8.0,
+    "hardcore_count": 0,
+    "hardcore_pct": 0.0
+   },
+   "labelled_n": {
+    "denom": 24,
+    "W_interface_count": 5,
+    "W_interface_pct": 20.8,
+    "SE_pp": 8.3,
+    "hardcore_count": 0,
+    "hardcore_pct": 0.0
+   },
+   "W_ids": [
+    "LR2-014",
+    "LR2-022",
+    "LR2-023",
+    "LR3-101",
+    "OC-027"
+   ],
+   "W_all_interface_starred": true
+  }
+ },
+ "W_subforms_merged": {
+  "W-face": [
+   "LR2-014",
+   "LR2-022",
+   "LR2-023",
+   "LR3-101"
+  ],
+  "W-name": [
+   "OC-027"
+  ]
+ },
+ "D_main_labels": {
+  "dev8": [
+   "LR2-013",
+   "LR2-016",
+   "LR2-018"
+  ],
+  "LR3": [
+   "LR3-008"
+  ]
+ },
+ "family_counts": {
+  "dev8": {
+   "pending": 1,
+   "guide": 15
+  },
+  "LR3": {
+   "guide": 9
+  },
+  "ALL": {
+   "pending": 1,
+   "guide": 24
+  }
+ },
+ "T2_merged": {
+  "W_interface_pct_negdenom": 20.0,
+  "E_count": 7,
+  "E_pct": 28.0,
+  "AplusC_count": 7,
+  "AplusC_pct": 28.0
+ }
+}
