@@ -1,0 +1,243 @@
+== top-level keys ==
+DS ['batch', 'tradition', 'tradition_note', 'source_file', 'source_sha256', 'source_edition', 'provenance', 'redistributable', 'transcription_method', 'companion_book_check', 'anchor_rule', 'dedup_method', 'records', 'count', 'registered_only_summary']
+    batch = "R76 消化开采·段氏理象学（盲派八字）单册供给"
+    tradition = "bazi"
+    tradition_note = "八字他家新面（盲派/理象学）：既有 QW 面（曲炜）已证不出 present 例、WHY/GSZ 为六爻面，本批为八字 present 例首个批量来源；断法口径与活 method 八字章冲突 K1–K8 并列登记于同轮 DIGEST，不得静默并轨。"
+    source_file = "/home/hatch/workspace/divination/incoming/wanted-books-5/Book/段氏理象学 (段建业著).pdf"
+    source_sha256 = "f7d5066ddbdd8e2e595537c8588c8ab63cf6c78a2a696013d6c737b897c378fc（与 incoming/wanted-books-5/SHA256SUMS.txt 一致，本席实测）"
+    source_edition = "中国商业出版社「中国易学文化传承解读丛书」，2011年12月第1版第1次印刷，ISBN 978-7-5044-7457-5，CIP核字（2011）第224298号，定价38.00元；扫描图PDF（Pdg2Pic），268页，无文字层"
+    provenance = "用户经学校图书馆提供"
+    redistributable = false
+    transcription_method = "全书无文字层（pdftotext 仅得换页符），pdftoppm 130dpi 渲染后视觉读图转录（transcription=visual）；四柱干支经竖排命盘与相邻页文义双重互证；页码口径：正文印刷页码＝PDF页码－24，序言印刷页码＝PDF页码－6"
+    companion_book_check = "清单（WANTED-TEXTS.md 段氏条）注记的附带书《盲师断命轶例集之壹》（2003，段建业、邢铭芬合著）未随本件到货：①SHA256SUMS.txt 仅列5件书目、无此书；②本PDF目录与总页数（268）自洽为单册《段氏理象学》，无合册痕迹；③书内仅「提及/引用」该系书目——附录二十六、二十七以《盲师断例轶例集》（夏仲奇断例）为讨论与对照对象、序二提及盲师断例，非附入全文。名称差异并列登记：清单作《盲师断命轶例集之壹》、书内作《盲师断例轶例集》，是否同书待主持核。详见同轮 DIGEST-duanshi-r76.md。"
+    anchor_rule = "锚点在场从派单口径：四柱（年月日时干支）完整载于原文即 present；本书命例通例不载出生年月日时（仅 DS-049 载出生原文），不据此降格；时柱经断事校对者（DS-041）以书中刊载四柱为准并注明。"
+    dedup_method = "四柱8字连写对勘：masters-dataset 全部12个jsonl＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 的 SUPPLY-MINING/MINING json 与 md＋runs/*/batches.json，共200余件；对外零命中；探针校验（已用蒋介石造在同语料命中3件）证明检索有效；judging/ 目录依卫生规未打开——去重结论以此范围为限，不作全域「净新」断言。书内同造重出2组已合并（DS-011、DS-033）。"
+    count = {"registered": 63, "four_filter_pass_net": 63, "anchor_present": 63, "anchor_partial": 0, "contamination_medium": 1, "contamination_low": 62}
+    registered_only_summary = "未入池登记（详见同轮 DIGEST-duanshi-r76.md「开采登记」节）：①名人/公众人物例14造污染预判 high（和珅、岳飞×2处、蒋介石×2处、李嘉诚、乾隆、克林顿、阎锡山、袁世凯、曾国藩、林青霞、奥纳西斯、胡适、张之洞、帖木儿）及附录一至二十五名人篇整体，未逐例开采；②断语/结局融合或结局未独立成文者约25条（正向做功例、父母例、酒店女老板例、等级例七八九、合用例一四六、墓用例一、化用例一、生用例二五、制用例二、比劫制官诸小例、官杀制伤食诸小例、印尼命例、穿制/克制诸融合例、附录三十例二三四建议性断语等）；③言明第一节类同造（癸丑辛酉戊辰癸丑）仅事迹无断语，未入池。"
+KW ['book', 'book_sha256', 'provenance', 'redistributable', 'round', 'pool', 'dedup_note', 'transcription_note', 'count', 'cases']
+    book = "开悟之门（张志春）"
+    book_sha256 = "6f0a400c6ec3a0d329b505a58b288dcbc259da7191f1dbedbc904a35a0efdf1c"
+    provenance = "用户经学校图书馆提供"
+    redistributable = false
+    round = "R76"
+    pool = "QM（奇门）续编，承R56的QM-001至QM-010"
+    dedup_note = "去重对勘范围：R56 SUPPLY-MINING-qimen-r56.json 全10例逐案对勘（同案键：测者+求测人+事件+起局日期+局式）；本书疾病例二B与QM-006同案（1996-07-27女测父病，阴7局，天禽值符/死门值使，伏吟），已出局不入本池。另以本书高频人名（石建国、吕常文、刘文元、王建国、佟安琪、王夕强、周平、郝星立、旷运修、孙振程、任宏锦）与专名（科迪药业、太和日化城）对phase3 data/登记档及各轮digestion登记档作grep检索，开悟之门书名零命中、本批事件零命中；已用1052例并集以R76 PREREG §4登记为准（其中非六爻仅QM-010），本批52例与之无键冲突。检索于2026-10-31本席执行，grep全程未进入任何runs/*/judging目录。"
+    transcription_note = "全书无文字层，盘面与断语/结局均由本席对110dpi渲染页视觉转录，存疑盘面（印刷217、218、220页）另以200dpi复读。stem_check为天/地盘九干集验算结果；个别原书排印疑误处照原印转录并在各卡note标注，不臆改。"
+    count = 52
+QW ['pool', 'round', 'seat', 'built', 'status', 'tradition', 'id_segment', 'provenance_common', 'transcription_common', 'count', 'funnel', 'cases']
+    pool = "SUPPLY-MINING-qiwu-r76"
+    round = "R76"
+    seat = "digestion-qimen-qiwu"
+    built = "2026-10-31"
+    status = "只建池：本書斷法提煉件 DIGEST-qiwu-r76.md 已與活 method 奇門章對照登記（衝突 QW-C1–C6 並列），各例入選資格待後續輪次按接入版口徑逐例復核。"
+    tradition = "qimen"
+    id_segment = "QM-201–QM-211（本席專用 QM-2xx 段；既有池 QM-001–QM-010，本輪並行開悟之門席用 QM-1xx 段）"
+    provenance_common = "用戶經學校圖書館提供；redistributable=false"
+    transcription_common = "原書無文字層（掃描圖 PDF，每 PDF 頁為雙頁跨頁），全池逐字轉錄均為多模態視覺讀圖（transcription=visual），出處逐例標書名＋章節＋印刷頁＋PDF 頁；盤面逐例以天地盤干集完備性驗算為內證。"
+    count = 11
+    funnel = {"逐例開卷過篩": 19, "入池": 11, "淘汰": 7, "掛起": 1, "淘汰明細": "已事揭示型 4（溫玉萍陽宅案、蓋洪軍廠房陽宅案、叢展射覆案及同類一例：所斷皆求測時已存之事、無獨立未來結局）；污染 high 3（歐洲足球競猜案＝公共賽事、美英對伊拉克開戰案＝公共歷史事件、2007 年 5·30 股市大跌案＝公共市場事件）；掛起 1（方普龍索債案未讀完結局段，不下結論）", "anchor_distribution": {"present": 11, "partial": 0, "absent": 0}}
+SG ['pool', 'round', 'seat', 'built', 'status', 'tradition', 'id_segment', 'provenance_common', 'transcription_common', 'count', 'anchor_distribution', 'bookcheck_note', 'dedup_method', 'cases', 'screened_out']
+    pool = "SUPPLY-MINING-shijianguo-r76"
+    round = 76
+    seat = "digestion（奇门·石建国席）"
+    built = "2026-10-31"
+    status = "candidate（未并入活池，待数据角复核）"
+    tradition = "qimen（奇门遁甲）"
+    id_segment = "QM-3xx（本席号段：QM-301–QM-311；QM-001–010 为 R56 张志春/杜新会池，互不重叠）"
+    provenance_common = "用户经学校图书馆提供；redistributable=false"
+    transcription_common = "visual（DjVu 无文字层，逐页读图转录；各例盘面经天地盘干集逐宫验算完整）"
+    count = 11
+    anchor_distribution = {"present": 11, "partial": 0}
+    bookcheck_note = "清单原列同作者《奇门遁甲解真》未到货；到货件经核为异书（见 BOOKCHECK-shijianguo-r76.md），本池以到货件为据。"
+    dedup_method = "对勘既有QM池（R56 SUPPLY-MINING-qimen-r56.json，QM-001–010）逐例四键（占者/占事/起局时间/局式）比对，零重合；已用并集1052例中奇门体系例仅出自该池（R58 QM-REVIEW、R60 holdout21验收预测文件为QM-001–008），无其他QM供给件（全树检索仅R56一处）；本池11例内部互勘零重合。故各例dedup=净新。"
+ZCB ['meta', 'cases']
+    meta = {"round": "R76", "seat": "消化开采席（测字面）", "source_book": "《字触补》六卷（清·桑灵直编；册本题名页作者名中间一字字形未判准，见 DIGEST 挂起项）", "container": "《四库未收书辑刊》陆辑第拾捌册（光绪十七年小嫏嬛书库刻本系统）", "container_file": "/home/hatch/workspace/divination/incoming/wanted-books-5/Book/四库未收书辑刊 陆辑 拾捌册 (四库未收书辑刊编纂委员会编).pdf", "container_sha256": "c692398989c29e04a6964b19191c0ac3f0ac69668fdc2d3cff78d2146ead6b5e", "location_in_container": "PDF 第517–650页（册页
+GSZ ['batch', 'provenance', 'redistributable', 'sources', 'rules', 'counts', 'entries']
+    batch = "round57-digestion-liuyao-guaishuo"
+    provenance = "用户经学校图书馆提供"
+    redistributable = false
+    rules = "四滤（逐字可转录／独立结局／可分离／非high污染）＋锚点在场（卦名、动爻、世应、六亲纳支、月建日辰）；入账口径承R57 PREREG §4：A级＋low＋锚点present；名案从严（mid/high不入账）；月球例同案冲突照主持先裁"
+    counts = {"book_cases_titled": 113, "chapter9_ex1_missing": "第九章《六冲辨义》例一在本PDF中缺载（正文自例二起，卷首有「六爻卦例说真（二）」分卷标记）；第十四章「例三」重号（GSZ-088羊肉例与GSZ-089家宅例同标例三，系原书编号重复、非同案）。113为「例」标题实见数", "ledger_entries": 113, "anchor_present": 111, "anchor_partial": 2, "pollution_low": 111, "pollution_mid": 2, "grade_A": 64, "net_eligible_A_low_present": ["GSZ-003", "GSZ-005", "GSZ-009", "GSZ-015", "GSZ-016", "GSZ-017", "GSZ-020", "GSZ
+== DS records: id, elig, anchor, contam, filters-pass, assertion/outcome nonempty, dedup ==
+DS-001 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 序言门人断例
+DS-002 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 序言门人断例
+DS-003 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 理法例
+DS-004 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 理法例
+DS-005 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 理法例
+DS-006 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 理法例
+DS-007 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 理法例
+DS-008 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 理法例
+DS-009 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 理法例
+DS-010 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 理法例
+DS-011 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 现场实断全程
+DS-012 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 理法例
+DS-013 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 理法例
+DS-014 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 理法例
+DS-015 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 理法例
+DS-016 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 理法例
+DS-017 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 理法例
+DS-018 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 理法例
+DS-019 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 理法例
+DS-020 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 理法例
+DS-021 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 理法例
+DS-022 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 理法例
+DS-023 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 理法例
+DS-024 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 理法例
+DS-025 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 理法例
+DS-026 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 理法例
+DS-027 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 理法例
+DS-028 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 理法例
+DS-029 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 理法例
+DS-030 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 理法例
+DS-031 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 理法例
+DS-032 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 理法例
+DS-033 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 博客断例
+DS-034 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 理法例
+DS-035 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 理法例
+DS-036 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 理法例
+DS-037 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 理法例
+DS-038 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 理法例
+DS-039 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 理法例
+DS-040 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 理法例
+DS-041 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 门人实断全程
+DS-042 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 门人实断全程
+DS-043 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 门人实断全程
+DS-044 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 现场实断
+DS-045 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 门人实断全程
+DS-046 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 门人实断
+DS-047 True present medium True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 聊天解读实断
+DS-048 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 现场实断
+DS-049 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 现场实断全程
+DS-050 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 现场实断全程
+DS-051 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 现场实断全程
+DS-052 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 现场实断全程
+DS-053 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 作者亲断
+DS-054 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 作者亲断
+DS-055 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 转述盲师断例
+DS-056 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 博客断例
+DS-057 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 博客断例
+DS-058 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 现场实断
+DS-059 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 现场实断
+DS-060 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 同断实断
+DS-061 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 同断实断
+DS-062 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 作者亲断
+DS-063 True present low True True True | dedup: "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-mani | comp: 作者亲断
+== KW cases: id, anchor, contam, separable, stem ok, assertion/outcome ==
+QM-011 present low True True True True True
+QM-012 present low True True True True True
+QM-013 present low True True True True True
+QM-014 present low True True True True True
+QM-015 present low True True True True True
+QM-016 present low True True True True True
+QM-017 present low True False True True True
+QM-018 present low True True True True True
+QM-019 present low True True True True True
+QM-020 present low True True True True True
+QM-021 present low True True True True True
+QM-022 present low True True True True True
+QM-023 present low True True True True True
+QM-024 present low True True True True True
+QM-025 present low True True True True True
+QM-026 present low True True False True True
+QM-027 present low True True True True True
+QM-028 present low True True True True True
+QM-029 present low True True True True True
+QM-030 present low True True True True True
+QM-031 present low True True True True True
+QM-032 present low True True True True True
+QM-033 present low True True False True True
+QM-034 present low True True True True True
+QM-035 present low True True True True True
+QM-036 present low True True True True True
+QM-037 present low True True True True True
+QM-038 present low True True True True True
+QM-039 present low True True True True True
+QM-040 present low True True True True True
+QM-041 present low True True False True True
+QM-042 present low True True True True True
+QM-043 present low True True True True True
+QM-044 present low True True True True True
+QM-045 present low True True True True True
+QM-046 present low True True True True True
+QM-047 present low True True True True True
+QM-048 present low True True True True True
+QM-049 present low True True True True True
+QM-050 present low True False False True True
+QM-051 present low True False True True True
+QM-052 present low True True True True True
+QM-053 present low True False False True True
+QM-054 present low True False False True True
+QM-055 present low True True True True True
+QM-056 present low True False False True True
+QM-057 present low True False False True True
+QM-058 present low True True True True True
+QM-059 present low True True False True True
+QM-060 present low True False True True True
+QM-061 present low True False True True True
+QM-062 present low True False True True True
+== QW cases ==
+QM-201 present low True True True | notes: "坤 2 宮天禽、天任同宮，星旁雙干壬（禽）、丙（任）並記；中宮單字壬與禽干同字。"
+QM-202 present low True True True | notes: "巽 4 宮天任、天禽同宮雙干並記（任癸、禽庚）；中宮單字庚與禽干同字。斷語中「陰曆八月份生產」一項，結局為胎死腹中後引產，評分時請注意該分項與核心斷語（女胎/臍帶繞頸/順產危險）的對應關係。"
+QM-203 present low True True True | notes: "雙局並載（承 R56 QM-004 雙局先例）；第二局各宮天盤干與地盤干同字，為原盤伏吟式呈現，照錄。第二局斷語含對已發生之摔倒見紅的揭示與對即刻剖腹結局的預斷，兩段並載於 master_asser
+QM-204 present low True True True | notes: "坎 1 宮天芮、天禽同宮雙干並記（芮癸、禽庚）；中宮單字庚與禽干同字。"
+QM-205 present low True True True | notes: "艮 8 宮天芮、天禽同宮雙干並記（芮癸、禽庚）；中宮單字庚與禽干同字。分析思路另斷董事長為幕後「小偷」式侵吞（兌宮玄武等），與口頭斷語「不是董事長吃沒了」之表述層次不同，金標以口頭斷語為準。"
+QM-206 present low True True True | notes: "飛盤九神盤：中宮為太常/天蓬星，戊為天蓬星天盤干、壬為地盤中宮干。本例含「坐離位＋點煙」情境取象斷來意之段（分析思路第 2 條），屬輸入側情境而非局式，建卡時歸 context。斷語「在同學家裏住著
+QM-207 present low True True True | notes: "震 3 宮天芮、天禽同宮雙干並記（芮丙、禽壬）；中宮單字壬與禽干同字。"
+QM-208 present low True True True | notes: "乾 6 宮天芮星旁只印單干丙，天禽干未附記；中宮單字己：八宮天盤干集缺己、地盤干集亦缺己，一字同補兩集（天禽天盤干與地盤中宮干同為己，原盤只印一字），干集完備性按此讀法通過，置信中高，建卡時建議回高
+QM-209 present low True True True | notes: "飛盤盤面：中宮為值符/天蓬星，天蓬星天盤干壬、地盤中宮干乙；離 9 宮天禽星單獨成宮（禽干乙，與地盤中宮干同字，分屬兩集）。"
+QM-210 present low True True True | notes: "中宮只印「天禽星 丙」：丙為天禽天盤干，地盤九干集亦缺丙，一字同屬兩集讀法下干集完備性通過（與 QM-208 同型），置信中高。"
+QM-211 present low True True True | notes: "中宮為值符/天英星，天英星天盤干壬、地盤中宮干乙。覆測（2000-10-08）用大六壬，其「最快也得在 2000 年陰曆十二月份才能把本金還給潘玉芬」之應期出自六壬課、非本奇門局斷語，已剔除於 ma
+== SG cases ==
+QM-301 present low True True True | notes: "分析第5条求测者姓名作「王志明」，与叙事「王志坤」不一致，原书前后异名，并记不改。分析第6条断「应在酉时找回货款」，与结局下午5点多（酉时）合。震宫九星字形近杜，据九星集合完整性定读天柱。"
+QM-302 present low True True True | notes: "分析第2条「1997年为己未年」系「1979年」之误植（女儿1979年生、年命己落艮宫），原样登记不改。断分依据：景门为考分落坤宫，主二、八、五、十数，取二、五数（分析第3条）。"
+QM-303 present low True True True | notes: "断语之前另有已事断「你在交通部门工作，对吗」，康当场肯定（其在交通局下属单位管理车辆），属已事揭示，不计入断语字段。应期依据见分析第3条（冲墓、值使落宫数、冲空分断元月2日同意与元月6日办手续两段）。"
+QM-304 present low True True True | notes: "断语前句「你儿子的婚姻很不顺利，原因是你不同意」为现状断，张某当场承认极力反对，不计入断语字段。分析第3条另记「张某讲98年5月结婚了」并以空亡填实释之，与结局「今年夏天结婚」月份表述略异（5月/夏天），并记。"
+QM-305 present low True True True | notes: "分析第2条以太岁癸落巽宫、时干落宫冲克太岁断运气不佳，为SG-M27流年太岁入断之实证。"
+QM-306 present low True True True | notes: "断语之前有两男士身高、肤色、婚史（1970年者大学生未婚、1954年者单位领导且妻子病故）等已事断语，吴当场称「预测得都非常正确」，属已事揭示，不计入断语字段。"
+QM-307 present low True True True | notes: ""
+QM-308 present low True True True | notes: "断语之前另有方向断（坐车到东南方向外地）与出走原因断（夫妻闹矛盾），原因为当场印证之已事、方向未见结局文字复核，均不计入断语字段。应期依据：马星动为应期＋时干值使落坤宫取八数断八天（分析第4条）。"
+QM-309 present low True True True | notes: "结局由郑经理2001年3月20日来电（谈经济投资时顺便）告知，原文在p198页首：「其弟2月1日（阴历正月初九）住院做了手术，在医院治疗一个多月后，全愈出院」。断语中「头上有病」为当时未明之病情判断（求测者未告知病位），与「手术可治愈」同列断语字段。坎宫行首多一「武」字疑为衍印。"
+QM-310 present low True True True | notes: ""
+QM-311 present low True True True | notes: ""
+== ZCB cases: id, eligible, anchor, contam, separable, assertion/outcome ==
+ZCB-001 True present low True True True | assertion: 若如卦判定失金釵；失者西家白色女子，奉口總角，可年十四五者，將去尋可得之。
+ZCB-002 True present low True True True | assertion: 梅有兩人字，而下有母字，公將舉兩子，後生者男，亦文疾人也。
+ZCB-003 True present low True True True | assertion: 督學去任矣，三日內即有徵，必丁艱也。
+ZCB-004 True present low True True True | assertion: 公遣戍矣；其西域乎；將來得歸否——必賜環也；在何年——至四年為辛卯。
+ZCB-005 True present low True True True | assertion: （孟）君必為此科解首矣；（友二）君此科恐無分，或後此有恩科亦必中；（友三）其終於一衿乎。
+ZCB-006 True present low True True True | assertion: 田者墓田象也……（胡氏）其必以酒溺乎。
+ZCB-007 True present low True True True | assertion: 君所願皆遂，言午為許，神已許之矣。
+ZCB-008 True present low True True True | assertion: 恭喜，拆開是乙卯一人，豈非今科解元乎。
+ZCB-009 True present low True True True | assertion: 虞去上半，下男字也，夷虞陰類，君妻當生男也。
+ZCB-010 True present low True True True | assertion: 爾已取了。
+ZCB-011 True present low True True True | assertion: 子勿死，邊吉乃周字也。
+ZCB-012 True present low True True True | assertion: 兇人為周秋無疑。
+ZCB-013 True present low True True True | assertion: 當是許忠矣（呼許，告以「殺此婦者，汝也」）。
+ZCB-014 True present low True True True | assertion: （乩判）貴字。
+ZCB-015 True present low True True True | assertion: （次早三人同往視之）乃「一個中」三字。
+ZCB-016 True present mid True True True | assertion: 正字几上正而反矣，即反之兆也。（慕即拒之）
+ZCB-017 True present mid True True True | assertion: 甲子歲必滅賊，天干第一、地支第一，一之謂也。
+ZCB-018 True present mid True True True | assertion: 金哥哥來典試（夢神告語；拆讀：金戈戈即錢字）。
+ZCB-019 True present mid True True True | assertion: （夢示）鈺字／左手指示——拆讀為金德瑛（金＋玉為鈺、玉移英左為瑛）。
+ZCB-020 False partial low True True True | assertion: 大吉大吉，二人必皆得手，文學子游子夏，此之謂也。
+ZCB-021 False partial low False True True | assertion: 勿去也。
+ZCB-022 False partial mid True True True | assertion: 耕衣人。
+ZCB-023 False partial low True True True | assertion: （天書拆讀）米中用水，糠中用木（指其平日摻假）。
+ZCB-024 False partial low True True True | assertion: （一）後中式戊午科，舉人始悟：戊去心為戌[?]、牛去首為午[?]，是戊午也。（二）乾隆癸卯榜發，士子中魁，始恍然解悟（癸
+ZCB-025 False partial low True True True | assertion: 當八十八歲，考終三月間。
+ZCB-026 False present low True True True | assertion: 九十字廼是行書卒字，亞卿其非吉徵乎。
+ZCB-027 False present low False True True | assertion: （一）家中人口日益凋零；宜外出方可得志，然不能大得志。（二）終身孤隻，不能有妻子。（三）所孕必女。
+ZCB-028 False present low False True True | assertion: 董：君今科必中。薩：君功名無分。無：君妻當病。土：君患脾病，當俟六月土旺則愈。車：（得財時機如拆語）。
+ZCB-029 False present low False True True | assertion: 汝父殆不起矣；——（知屬牛後改斷）然則汝父不死，牛加一畫則生字矣。
+ZCB-030 False present high True True True | assertion: 龍頭不屬君矣；其二甲第四乎；然必入翰林，是庶吉士矣。
+ZCB-031 False present mid True True True | assertion: （面）囚內一人也；（私語）一人懸在中間，將來必要弔死，家業自然蕩盡。
+ZCB-032 False present high False True True | assertion: 友→有→酉三改口之斷（亡國之兆）。
+ZCB-033 False present high True True True | assertion: 土上一畫，非王而何（相公當加官爵）。
+ZCB-034 False partial mid False True True | assertion: （組條子例各有斷語，未逐子例定本）
+ZCB-035 False partial mid False True True | assertion: （封緘預斷，內容未載於原文）
+ZCB-036 False partial high False True True | assertion: （巫書字讖，語涉呂布）
+== GSZ counts keys ==
+{"book_cases_titled": 113, "chapter9_ex1_missing": "第九章《六冲辨义》例一在本PDF中缺载（正文自例二起，卷首有「六爻卦例说真（二）」分卷标记）；第十四章「例三」重号（GSZ-088羊肉例与GSZ-089家宅例同标例三，系原书编号重复、非同案）。113为「例」标题实见数", "ledger_entries": 113, "anchor_present": 111, "anchor_partial": 2, "pollution_low": 111, "pollution_mid": 2, "grade_A": 64, "net_eligible_A_low_present": ["GSZ-003", "GSZ-005", "GSZ-009", "GSZ-015", "GSZ-016", "GSZ-017", "GSZ-020", "GSZ-022", "GSZ-023", "GSZ-024", "GSZ-026", "GSZ-028", "GSZ-030", "GSZ-031", "GSZ-032", "GSZ-033", "GSZ-034", "GSZ-038", "GSZ-041", "GSZ-042", "GSZ-043", "GSZ-046", "GSZ-047", "GSZ-049", "GSZ-050", "GSZ-052", "GSZ-053", "GSZ-054", "GSZ-055", "GSZ-058", "GSZ-059", "GSZ-060", "GSZ-061", "GSZ-068", "GSZ-069", "GSZ-074", "GSZ-075", "GSZ-077", "GSZ-078", "GSZ-079", "GSZ-080", "GSZ-081", "GSZ-082", "GSZ-084
+== GSZ net pool order ==
+['GSZ-003', 'GSZ-005', 'GSZ-009', 'GSZ-015', 'GSZ-016', 'GSZ-017', 'GSZ-020', 'GSZ-022', 'GSZ-023', 'GSZ-024', 'GSZ-026', 'GSZ-028', 'GSZ-030', 'GSZ-031', 'GSZ-032', 'GSZ-033', 'GSZ-034', 'GSZ-038', 'GSZ-041', 'GSZ-042', 'GSZ-043', 'GSZ-046', 'GSZ-047', 'GSZ-049', 'GSZ-050', 'GSZ-052', 'GSZ-053', 'GSZ-054', 'GSZ-055', 'GSZ-058', 'GSZ-059', 'GSZ-060', 'GSZ-061', 'GSZ-068', 'GSZ-069', 'GSZ-074', 'GSZ-075', 'GSZ-077', 'GSZ-078', 'GSZ-079', 'GSZ-080', 'GSZ-081', 'GSZ-082', 'GSZ-084', 'GSZ-086', 'GSZ-088', 'GSZ-089', 'GSZ-091', 'GSZ-092', 'GSZ-093', 'GSZ-094', 'GSZ-098', 'GSZ-099', 'GSZ-100', 'GSZ-101', 'GSZ-103', 'GSZ-104', 'GSZ-105', 'GSZ-107', 'GSZ-108', 'GSZ-109', 'GSZ-110', 'GSZ-111']
+== GSZ entries count == 113

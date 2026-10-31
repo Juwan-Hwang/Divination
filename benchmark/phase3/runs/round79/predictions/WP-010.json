@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-010",
+ "prediction_text": "方向：民主党候选人拜登获胜（positive for Biden）。具体断语：拜登赢得选举人票过半、当选下任美国总统，特朗普连任失败；胜负差距足以定盘，非靠单一摇摆州一票定局。应期：以月为单位，2020 年 11 月 3 日投票、数日内结果明朗（窗口为 2020 年 11 月，主坐标 11 月 3 日投票日）。置信：中。",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决\nsystems_used: vedic/western election astrology 框架＋事实优先序（通则 e）。输入残损：无双方完整星盘，仅卡面点到拜登在所用吠陀 reckoning 中为 Scorpio Ascendant、且民调利拜登、三位占星者彼此分歧——盘面不足逐项回扣，按卡面事实（民调领先＋所引拜登上升点被列为其强项）取拜登胜，三位占星者分歧一节如实记为本题不确定性来源并降置信。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "非六爻，三项全 false"
+ }
+}

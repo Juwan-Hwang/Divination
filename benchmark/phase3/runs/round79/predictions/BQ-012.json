@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-012",
+ "prediction_text": "方向：倭寇不来（negative toward invasion）。丙子日得噬嗑卦，官鬼爻衰而静——鬼为寇贼之用神，衰静则无力发动、不成行伍，本期之内倭寇不至，无需应战。应期以月档计，本月之内为观察窗，主坐标即本月内无寇至之落定；若鬼爻逢值转旺之月方须再防，本占尺度内只断本期不来。",
+ "basis": "卡面 tradition＝六爻\nsystems_used：六爻纳甲。方向对决（R78-REV1）：正路（不来）定性栏＝用神官鬼衰而静，静而无力是不发动之定性（承决策序：静爻无气不作动论）；量级栏＝噬嗑本象主梗阻，亦合无事之滞象。反路（来）定性栏＝空。裁决：取鬼衰静之不来一路。动化方向核对：静卦无动爻，记『动化方向：无动爻可核』；反转条件：鬼爻逢值逢冲转旺方翻，卡面无此据，记『反转条件：不成立』。输入残损：只有卦名与鬼爻衰静一句，无全盘，chart_complete＝false，置信据此。列面：主问面（倭寇来否）已断；应期面月档、本月窗；余面题面未载。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "静卦无动爻、无变卦，changed_main=false；未用伏神/空亡应验位，reserve_used=false；卡面明载鬼爻衰静，取用可立，disputed=false。"
+ }
+}

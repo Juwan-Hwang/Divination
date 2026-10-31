@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-013",
+ "prediction_text": "方向：工党获胜、斯塔默出任首相（positive for Labour）。具体断语：工党取得下议院过半、且为大幅领先的压倒性胜利，执政保守党惨败、苏纳克下台；保守党席位跌至低位。应期：以月为单位，2024 年 7 月 4 日选举当日夜间结果明朗（窗口为 2024 年 6—7 月竞选至选举期，主坐标 7 月 4 日选举日）。置信：中—高（限于卡面事实强度）。",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决\nsystems_used: western mundane astrology 框架＋事实优先序（通则 e）。输入残损：无星盘数据，仅卡面记选举落在巨蟹座太阳月一节，不足以逐项回扣盘面；可据之强事实为工党民调领先保守党约二十个百分点、苏纳克因提前离开 D-Day 纪念活动受批评，按事实优先与等级校准（通则 b：领先幅度足级对应压倒性胜利）断工党大胜。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "非六爻，三项全 false"
+ }
+}

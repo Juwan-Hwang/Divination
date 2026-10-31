@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-009",
+ "prediction_text": "方向：印度夺冠（positive）。具体断语：印度队打进四强并最终捧杯，队长 Kohli 领军、Dhoni 的经验在淘汰赛关键场次起作用；过程非一路碾压，半决赛一关最险。应期：以月为单位，决赛日 2019 年 7 月 14 日见分晓（窗口为 2019 年 5 月 30 日—7 月 14 日赛期，主坐标 7 月 14 日决赛日）。置信：低—中。",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决\nsystems_used: western astrology（赛事世运框架）＋事实优先序（通则 e）。输入残损：仅给队长 Kohli 出生年份 1988、无出生月日时与地点，无法排本命盘或行运盘，不得臆补盘面，故只据卡面事实作断并降置信——卡面明言印度为 firm favourites 之一，此为唯一可据之强弱事实，按事实优先取夺冠方向；半决赛最险为程度限定，非另立盘据。",
+ "confidence": 0.45,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "非六爻，三项全 false"
+ }
+}

@@ -1,0 +1,1447 @@
+===== DS-019 =====
+{
+ "case_id": "DS-019",
+ "tradition": "bazi",
+ "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第二节三·例四（印刷p.96／PDF120）",
+ "input_side": {
+  "subject": "匿名乾造",
+  "gender": "男",
+  "pillars": [
+   "壬寅",
+   "癸卯",
+   "壬子",
+   "壬寅"
+  ],
+  "pillars_verbatim": "壬寅 癸卯 壬子 壬寅"
+ },
+ "master_assertion": "内食神一般都是做企业的企业家",
+ "outcome": "行丙午大运，财星发越，任一大型国有企业的董事长。",
+ "anchor_status": "present",
+ "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+ "contamination_pre": "low",
+ "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+ "separable": "pass",
+ "separable_note": "",
+ "transcription": {
+  "type": "visual",
+  "confidence": "high",
+  "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+ },
+ "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+ "filters": {
+  "verbatim_transcribable": "pass（视觉转录，干支互证）",
+  "independent_outcome": "pass",
+  "separable": "pass",
+  "pollution_non_high": "pass"
+ },
+ "eligible_net": true,
+ "verdict_note": "",
+ "composition_type": "理法例"
+}
+===== DS-020 =====
+{
+ "case_id": "DS-020",
+ "tradition": "bazi",
+ "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第二节三·例七（印刷p.97／PDF121）",
+ "input_side": {
+  "subject": "匿名坤造（农村老妇人）",
+  "gender": "女",
+  "pillars": [
+   "癸亥",
+   "癸亥",
+   "壬寅",
+   "癸卯"
+  ],
+  "pillars_verbatim": "癸亥 癸亥 壬寅 癸卯"
+ },
+ "master_assertion": "此为普通农村老妇人，一生并无大作为",
+ "outcome": "却生得五子三女，个个富过百万。食伤表示孩子，也表示自己的寿程，食伤有功，则表示孩子优秀，自己寿至九旬。",
+ "anchor_status": "present",
+ "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+ "contamination_pre": "low",
+ "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+ "separable": "pass",
+ "separable_note": "",
+ "transcription": {
+  "type": "visual",
+  "confidence": "high",
+  "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+ },
+ "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+ "filters": {
+  "verbatim_transcribable": "pass（视觉转录，干支互证）",
+  "independent_outcome": "pass",
+  "separable": "pass",
+  "pollution_non_high": "pass"
+ },
+ "eligible_net": true,
+ "verdict_note": "",
+ "composition_type": "理法例"
+}
+===== DS-021 =====
+{
+ "case_id": "DS-021",
+ "tradition": "bazi",
+ "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第二节四、合用结构做功·例二（印刷pp.97-98／PDF121-122）",
+ "input_side": {
+  "subject": "匿名乾造",
+  "gender": "男",
+  "pillars": [
+   "癸丑",
+   "癸亥",
+   "戊申",
+   "辛酉"
+  ],
+  "pillars_verbatim": "癸丑 癸亥 戊申 辛酉"
+ },
+ "master_assertion": "所以为穷命。",
+ "outcome": "婚姻离了，工作没有，在贫困线上挣扎。",
+ "anchor_status": "present",
+ "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+ "contamination_pre": "low",
+ "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+ "separable": "pass",
+ "separable_note": "",
+ "transcription": {
+  "type": "visual",
+  "confidence": "high",
+  "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+ },
+ "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+ "filters": {
+  "verbatim_transcribable": "pass（视觉转录，干支互证）",
+  "independent_outcome": "pass",
+  "separable": "pass",
+  "pollution_non_high": "pass"
+ },
+ "eligible_net": true,
+ "verdict_note": "",
+ "composition_type": "理法例"
+}
+===== DS-022 =====
+{
+ "case_id": "DS-022",
+ "tradition": "bazi",
+ "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第二节四·例三（印刷p.98／PDF122）",
+ "input_side": {
+  "subject": "匿名乾造",
+  "gender": "男",
+  "pillars": [
+   "庚戌",
+   "己卯",
+   "戊子",
+   "癸亥"
+  ],
+  "pillars_verbatim": "庚戌 己卯 戊子 癸亥"
+ },
+ "master_assertion": "功量很大。",
+ "outcome": "行辛巳大运，引戌中之火冲击亥水，经营钢财生意，发财数千万。",
+ "anchor_status": "present",
+ "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+ "contamination_pre": "low",
+ "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+ "separable": "pass",
+ "separable_note": "",
+ "transcription": {
+  "type": "visual",
+  "confidence": "high",
+  "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+ },
+ "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+ "filters": {
+  "verbatim_transcribable": "pass（视觉转录，干支互证）",
+  "independent_outcome": "pass",
+  "separable": "pass",
+  "pollution_non_high": "pass"
+ },
+ "eligible_net": true,
+ "verdict_note": "原文作「钢财」，疑为「钢材」之印误，逐字照录并在此注明。",
+ "composition_type": "理法例"
+}
+===== DS-023 =====
+{
+ "case_id": "DS-023",
+ "tradition": "bazi",
+ "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第二节四·例五（印刷p.98／PDF122）",
+ "input_side": {
+  "subject": "匿名乾造",
+  "gender": "男",
+  "pillars": [
+   "庚子",
+   "庚辰",
+   "庚午",
+   "乙酉"
+  ],
+  "pillars_verbatim": "庚子 庚辰 庚午 乙酉"
+ },
+ "master_assertion": "这种合不表示富也不表示穷，只表示才学。",
+ "outcome": "实际此人是一位书法艺术家。",
+ "anchor_status": "present",
+ "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+ "contamination_pre": "low",
+ "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+ "separable": "pass",
+ "separable_note": "",
+ "transcription": {
+  "type": "visual",
+  "confidence": "high",
+  "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+ },
+ "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+ "filters": {
+  "verbatim_transcribable": "pass（视觉转录，干支互证）",
+  "independent_outcome": "pass",
+  "separable": "pass",
+  "pollution_non_high": "pass"
+ },
+ "eligible_net": true,
+ "verdict_note": "",
+ "composition_type": "理法例"
+}
+===== DS-024 =====
+{
+ "case_id": "DS-024",
+ "tradition": "bazi",
+ "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第二节四·例七（印刷p.99／PDF123）",
+ "input_side": {
+  "subject": "匿名乾造",
+  "gender": "男",
+  "pillars": [
+   "癸巳",
+   "壬戌",
+   "庚申",
+   "乙酉"
+  ],
+  "pillars_verbatim": "癸巳 壬戌 庚申 乙酉"
+ },
+ "master_assertion": "被制的七杀又合到我主位，便表示我有权力。",
+ "outcome": "实际此人是一位纪检干部。",
+ "anchor_status": "present",
+ "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+ "contamination_pre": "low",
+ "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+ "separable": "pass",
+ "separable_note": "",
+ "transcription": {
+  "type": "visual",
+  "confidence": "high",
+  "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+ },
+ "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+ "filters": {
+  "verbatim_transcribable": "pass（视觉转录，干支互证）",
+  "independent_outcome": "pass",
+  "separable": "pass",
+  "pollution_non_high": "pass"
+ },
+ "eligible_net": true,
+ "verdict_note": "",
+ "composition_type": "理法例"
+}
+===== DS-025 =====
+{
+ "case_id": "DS-025",
+ "tradition": "bazi",
+ "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第二节五、墓用结构做功·例二（印刷pp.99-100／PDF123-124）",
+ "input_side": {
+  "subject": "匿名乾造",
+  "gender": "男",
+  "pillars": [
+   "壬辰",
+   "壬寅",
+   "己丑",
+   "戊辰"
+  ],
+  "pillars_verbatim": "壬辰 壬寅 己丑 戊辰"
+ },
+ "master_assertion": "为国有企业之官。到晚年，又应丑入辰墓，戊为劫财，别人的企业，给别人打工，或合伙经营。",
+ "outcome": "所以现在是私企经理，并入有股份。",
+ "anchor_status": "present",
+ "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+ "contamination_pre": "low",
+ "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+ "separable": "pass",
+ "separable_note": "",
+ "transcription": {
+  "type": "visual",
+  "confidence": "high",
+  "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+ },
+ "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+ "filters": {
+  "verbatim_transcribable": "pass（视觉转录，干支互证）",
+  "independent_outcome": "pass",
+  "separable": "pass",
+  "pollution_non_high": "pass"
+ },
+ "eligible_net": true,
+ "verdict_note": "",
+ "composition_type": "理法例"
+}
+===== QM-021 =====
+{
+ "case_id": "QM-021",
+ "source": "《开悟之门》下编第二章第四节（例一），印刷237页",
+ "topic": "工作调动",
+ "caster": "张志春",
+ "input_side": "1996年5月14日下午4点多钟，河北省某出版社负责人找张志春问其妻子调动之事：因夫妻俩在同一出版社工作不方便，为落实干部回避制度，拟将其妻调往外社，能否成？张志春即按干支历起局：丙子年癸巳月辛亥日丙申时，阳5局（当时按置闰法定局），甲午旬，甲午辛在8宫，天任星为值符落3宫，生门为值使落1宫。盘面（巽4｜蛇 景丙 冲乙；离9｜阴 死乙 辅壬；坤2｜合 惊壬 英丁；震3｜符 杜辛 任丙；中5｜戊；兑7｜虎 戊开丁 芮庚；艮8｜天 伤癸 蓬辛；坎1｜地 生己 心癸；乾6｜武 休庚 柱己）。",
+ "master_assertion": "（断（2））开门落兑7宫，在外盘，正代表外单位。开门宫克时干宫，对方单位不同意要。时干丙为求测之事，今落空亡之地。据此，调动之事不会成功。（断（3））问其妻调动之事，也可以看乙奇。今乙奇落9宫，虽为长生之地，因临死门，乙加壬又为日奇入地罗凶格。据此，也是调动不成之象。",
+ "outcome": "结果：该负责人之妻一直未调动成功。一直到1997年秋季仍在该社工作。",
+ "anchor_status": "present",
+ "contamination_pre": "low",
+ "separable": true,
+ "transcription": "visual",
+ "dedup": "净新（对勘无同案）",
+ "stems_tianpan": [
+  "丙",
+  "乙",
+  "壬",
+  "辛",
+  "丁",
+  "癸",
+  "己",
+  "庚",
+  "戊"
+ ],
+ "stems_dipan": [
+  "乙",
+  "壬",
+  "丁",
+  "丙",
+  "庚",
+  "辛",
+  "癸",
+  "己",
+  "戊"
+ ],
+ "note": "本局原书明注「当时按置闰法定局」——与本书拆补法定局主张构成历史口径冲突，已入DIGEST冲突登记（C-KW表）。",
+ "stem_check": {
+  "tianpan_ok": true,
+  "dipan_ok": true
+ }
+}
+===== QM-022 =====
+{
+ "case_id": "QM-022",
+ "source": "《开悟之门》下编第二章第四节（例二），印刷238-239页",
+ "topic": "就业（新领导上任）",
+ "caster": "孙振程（安徽学员）",
+ "input_side": "孙振程来信说：今年阴历正月十六日，我用方位测选举的方法，测何人来我们县供销社当主任。测的时间是农历1998年正月十六日晚6点，干支为戊寅年甲寅月庚寅日乙酉时，阳2局，甲申旬，值符天辅星落1宫，值使杜门落5宫寄2宫。盘面（巽4｜合 生癸 柱庚；离9｜虎 伤壬 心丙；坤2｜武 杜乙 蓬戊；震3｜阴 辛休戊 芮己；中5｜辛；兑7｜地 景丁 任癸；艮8｜蛇 开丙 英丁；坎1｜符 惊庚 辅乙；乾6｜天 死己 冲壬）。",
+ "master_assertion": "我根据方位、格局，断良方人氏。具体理由：（1）寅月艮宫当令，开+生，主见贵人，谋望所求遂意。开+丁，远信必至。丙+丁，星奇朱雀，贵人文书吉利，常人平静安乐。格局吉，故断主任当为良方人氏。（2）阳遁艮宫为内盘，故断为内部人、本系统人。腾蛇主变动、经商，开门也主领导，也主开店经商，此人现为供销社领导，在四维宫，为副职，年龄在三十七至三十八岁，住地在县社办公楼东北方八十或一百八十米。（3）宣布时间：看丁奇落宫，地盘为癸，丁落兑宫，地支为酉，卯酉相冲则文书（丁）动，故断癸卯日宣布。",
+ "outcome": "结果：阳历2月25日（农历正月十九日）癸卯日上午，县委组织部来人宣布：由原县供销社副主任胡某任供销社主任。胡某三十七岁，住在县社办公楼东北方向一百八十米处家属院内。方位、人员、年龄、时间均与所测一致。",
+ "anchor_status": "present",
+ "contamination_pre": "low",
+ "separable": true,
+ "transcription": "visual",
+ "dedup": "净新（对勘无同案）",
+ "stems_tianpan": [
+  "癸",
+  "壬",
+  "乙",
+  "戊",
+  "丁",
+  "丙",
+  "己",
+  "庚",
+  "辛"
+ ],
+ "stems_dipan": [
+  "庚",
+  "丙",
+  "戊",
+  "己",
+  "癸",
+  "丁",
+  "乙",
+  "壬",
+  "辛"
+ ],
+ "stem_check": {
+  "tianpan_ok": true,
+  "dipan_ok": true
+ }
+}
+===== QM-023 =====
+{
+ "case_id": "QM-023",
+ "source": "《开悟之门》下编第二章第四节（例三），印刷240-242页",
+ "topic": "就业（入党）＋车祸预警",
+ "caster": "石建国",
+ "input_side": "1997年12月18日晚7点，石建国从鹿泉市建设局质检站出来，遇到质检站职工张伟国（1957丁酉年生）：「我们单位发展两名党员，我已经填了入党志愿书，明天上午大会通过，请问这件事能办成吗？」丁丑年壬子月甲午日甲戌时，阳一局，甲戌旬，天芮星值符落二宫，死门值使落二宫。盘面（巽4｜地 杜辛 辅辛；离9｜天 景乙 英乙；坤2｜符 壬死己 禽芮己；震3｜武 伤庚 冲庚；中5｜壬；兑7｜蛇 惊丁 柱丁；艮8｜虎 生丙 任丙；坎1｜合 休戊 蓬戊；乾6｜阴 开癸 心癸）。",
+ "master_assertion": "石建国预测后说：「这件事办不成，你以后再争取吧。另外我提醒你1999年阴历二月不要去石家庄，若去必有车祸。」",
+ "outcome": "「第二天下午得知，张伟国的入党志愿书根本没有上党员大会，只通过了另一个人的入党志愿书。张伟国入党之事没有办成。」「1999年阴历二月二十七日，质检站队长安付书找到石建国说：『我们单位前几天死了一个人……』石建国说：『是张伟国，时间是阴历二月二十三日，在石家庄方向与车相撞。』安付书说：『阴历二月二十三日张伟国骑摩托车去石家庄办事，刚驶入石家庄郊区，与一辆装满砖的拖拉机相撞，被拖拉机车轮轧过，当场死亡。』」",
+ "anchor_status": "present",
+ "contamination_pre": "low",
+ "separable": true,
+ "transcription": "visual",
+ "dedup": "净新（对勘无同案）",
+ "stems_tianpan": [
+  "辛",
+  "乙",
+  "己",
+  "庚",
+  "丁",
+  "丙",
+  "戊",
+  "癸",
+  "壬"
+ ],
+ "stems_dipan": [
+  "辛",
+  "乙",
+  "己",
+  "庚",
+  "丁",
+  "丙",
+  "戊",
+  "癸",
+  "壬"
+ ],
+ "stem_check": {
+  "tianpan_ok": true,
+  "dipan_ok": true
+ }
+}
+===== QM-024 =====
+{
+ "case_id": "QM-024",
+ "source": "《开悟之门》下编第二章第五节（例一），印刷243-244页",
+ "topic": "求财（彩票）",
+ "caster": "许开大（海南省澄迈县学员）",
+ "input_side": "1997年4月13日巳时，即丁丑年甲辰月乙酉日辛巳时，一朋友求测彩票。阳1局，甲戌旬，值符天芮星落巽4宫，值使死门落离9宫。盘面（巽4｜符 壬景己 芮辛；离9｜蛇 死丁 柱乙；坤2｜阴 惊癸 心己；震3｜天 杜乙 英庚；中5｜壬；兑7｜合 开戊 蓬丁；艮8｜地 伤辛 辅丙；坎1｜武 生庚 冲戊；乾6｜虎 休丙 任癸）。",
+ "master_assertion": "断：（2）以丁奇为彩票，与日干宫相生，且丁加乙为人遁吉格，贵人加官晋爵，常人婚姻财帛有喜。（3）生门落坎宫，生日干乙震宫，中彩之象。（4）乙酉日空午未，用神丁下为乙，甲午、乙未日，「日出扶桑」，可知中彩消息。（5）3宫乙加庚，故中彩的是妻子；1宫生加休也主阴人求财则吉。（6）用神丁9宫上乘腾蛇与死门，故中彩之码应为死者托梦，离为红色，其托梦之码为红色。",
+ "outcome": "事实：4月23日乙未日知道中奖消息，头奖9161，是朋友老婆买的，坎为1数，生门为8数，共得一万八千元。而且其老婆确曾梦见死者给她托梦，告知奖码为9161，9161四字皆呈红色。",
+ "anchor_status": "present",
+ "contamination_pre": "low",
+ "separable": true,
+ "transcription": "visual",
+ "dedup": "净新（对勘无同案）",
+ "stems_tianpan": [
+  "己",
+  "丁",
+  "癸",
+  "乙",
+  "戊",
+  "辛",
+  "庚",
+  "丙",
+  "壬"
+ ],
+ "stems_dipan": [
+  "辛",
+  "乙",
+  "己",
+  "庚",
+  "丁",
+  "丙",
+  "戊",
+  "癸",
+  "壬"
+ ],
+ "note": "起局时为五不遇时（原书按语讨论：五不遇时问测不一定凶，本例为证之一）。",
+ "stem_check": {
+  "tianpan_ok": true,
+  "dipan_ok": true
+ }
+}
+===== QM-025 =====
+{
+ "case_id": "QM-025",
+ "source": "《开悟之门》下编第二章第五节（例二），印刷247页",
+ "topic": "求财（借钱）",
+ "caster": "刘文元",
+ "input_side": "1997年9月3日（农历八月初二）上午9点30分，刘刚求测向一女相识借钱能否借到。丁丑年戊申月戊申日丁巳时，阴7局，甲寅旬，天芮星为值符落1宫，死门为值使落8宫。盘面（巽4｜武 开丁 蓬辛；离9｜虎 休乙 任丙；坤2｜合 生壬 冲癸；震3｜地 惊己 心壬；中5｜庚；兑7｜阴 伤辛 辅戊；艮8｜天 死戊 柱乙；坎1｜符 庚景癸 芮丁；乾6｜蛇 杜丙 英己）。",
+ "master_assertion": "「你从她手里根本就借不出钱来。最好不要去借，免得折你的脸面。」",
+ "outcome": "「过了一周之后，刘刚再次见到我说：真叫你给测准了，那女的真不够朋友，一分钱也没借给我。」",
+ "anchor_status": "present",
+ "contamination_pre": "low",
+ "separable": true,
+ "transcription": "visual",
+ "dedup": "净新（对勘无同案）",
+ "stems_tianpan": [
+  "丁",
+  "乙",
+  "壬",
+  "己",
+  "辛",
+  "戊",
+  "癸",
+  "丙",
+  "庚"
+ ],
+ "stems_dipan": [
+  "辛",
+  "丙",
+  "癸",
+  "壬",
+  "戊",
+  "乙",
+  "丁",
+  "己",
+  "庚"
+ ],
+ "stem_check": {
+  "tianpan_ok": true,
+  "dipan_ok": true
+ }
+}
+===== QM-206 =====
+{
+ "case_id": "QM-206",
+ "tradition": "qimen",
+ "source": {
+  "book": "奇門啟悟",
+  "author": "劉文元",
+  "publisher": "天府書屋（滾石出版）",
+  "provenance": "用戶經學校圖書館提供",
+  "redistributable": false,
+  "section": "分類占斷篇第十一章「行人走失預測」實例一「為陳志勝預測女兒出走實例」",
+  "printed_pages": "246-251",
+  "pdf_pages": "125-127"
+ },
+ "input_side": {
+  "querent": "陳志勝（中年男子，1961 年出生）",
+  "caster": "劉文元",
+  "question": "求測者未明言來意，只說「最近我遇到了麻煩事，如果不說，你能測出來嗎？」；劉自局中斷其女兒離家出走之事並斷歸期（書名節題為「為陳志勝預測女兒出走實例」）。",
+  "context": "2000 年 5 月 14 日上午 10 點左右，陳志勝前來求測，坐離位，不說明來意；劉按其求測的時間，用飛盤奇門起局法為陳志勝進行預測。事後陳自述：女兒（1985 年出生，屬牛）因早戀情書被發現、被其責罵並動手打了兩巴掌，已離家出走四天沒回家；母親已於 1995 年去世。",
+  "cast_time_verbatim": "2000年5月14日上午10點左右（庚辰年辛巳月壬申日乙巳時）",
+  "board": {
+   "header_verbatim": "庚辰年 辛巳月 壬申日 乙巳時 陽1局 值符：甲辰壬 天禽星 值使：生門",
+   "layout": "九宮格按洛書位排布：上行巽4/離9/坤2，中行震3/中5/兌7，下行艮8/坎1/乾6；原盤格位即宮位，格內不另印宮名宮數",
+   "palaces": {
+    "巽4": {
+     "god": "勾陳",
+     "star": "天英星",
+     "door": "驚門",
+     "sky": [
+      "乙"
+     ],
+     "earth": [
+      "辛"
+     ],
+     "verbatim_cell": "勾陳 / 天英星 乙 / 驚門 辛"
+    },
+    "離9": {
+     "god": "值符",
+     "star": "天禽星",
+     "door": "死門",
+     "sky": [
+      "壬"
+     ],
+     "earth": [
+      "乙"
+     ],
+     "verbatim_cell": "值符 / 天禽星 壬 / 死門 乙"
+    },
+    "坤2": {
+     "god": "太陰",
+     "star": "天柱星",
+     "door": "杜門",
+     "sky": [
+      "丁"
+     ],
+     "earth": [
+      "己"
+     ],
+     "verbatim_cell": "太陰 / 天柱星 丁 / 杜門 己"
+    },
+    "震3": {
+     "god": "六合",
+     "star": "天任星",
+     "door": "開門",
+     "sky": [
+      "丙"
+     ],
+     "earth": [
+      "庚"
+     ],
+     "verbatim_cell": "六合 / 天任星 丙 / 開門 庚"
+    },
+    "兌7": {
+     "god": "九地",
+     "star": "天沖星",
+     "door": "景門",
+     "sky": [
+      "庚"
+     ],
+     "earth": [
+      "丁"
+     ],
+     "verbatim_cell": "九地 / 天沖星 庚 / 景門 丁"
+    },
+    "艮8": {
+     "god": "九天",
+     "star": "天輔星",
+     "door": "休門",
+     "sky": [
+      "辛"
+     ],
+     "earth": [
+      "丙"
+     ],
+     "verbatim_cell": "九天 / 天輔星 辛 / 休門 丙"
+    },
+    "坎1": {
+     "god": "螣蛇",
+     "star": "天心星",
+     "door": "傷門",
+     "sky": [
+      "癸"
+     ],
+     "earth": [
+      "戊"
+     ],
+     "verbatim_cell": "螣蛇 / 天心星 癸 / 傷門 戊"
+    },
+    "乾6": {
+     "god": "朱雀",
+     "star": "天芮星",
+     "door": "生門",
+     "sky": [
+      "己"
+     ],
+     "earth": [
+      "癸"
+     ],
+     "verbatim_cell": "朱雀 / 天芮星 己 / 生門 癸"
+    }
+   },
+   "center_palace_5": "太常 / 天蓬星 戊 / 壬",
+   "board_basis": "問時（求測時間）",
+   "casting_method": "飛盤",
+   "format_note": "本書盤式：每宮三行＝神（轉盤八神/飛盤九神）／九星＋天盤干／八門＋地盤干；天禽與他星同宮時禽干附記於該宮星名旁（雙干並記）；中宮單字為地盤第九干，天禽天盤干未附記者以干集完備性定讀並逐例注記。"
+  }
+ },
+ "master_assertion": "「請你放心！你女兒沒有走遠，她應該是在一個同學家裏住著，暫時還在生您的氣，不過今天中午你女兒一定會回來的。」「你現在馬上回家，過了中午 11 點之後她準回來。但這次你一定不要再對她發火，只要耐心地和她溝通，所有的事情都解決了。」（先行揭示斷語：「你女兒近期沒有上學，離家出走了。為此，學校老師把你找去了。她現在不想見你，也不想上學了。女兒出走的主要原因，是你把女兒罵了一頓，並且動手打她了，她已經走了四天時間，現在仍沒有回來，全家非常擔心，你最怕她去尋短，對吧？」）",
+ "outcome": "「果然，中午 12 點 50 分，陳志勝打來電話說：『劉老師您測準了！我女兒剛剛回來！太感謝您了！』」（其前 12 點 37 分來電稱女兒尚未回來，劉堅持一點鐘之前必回。）事後陳志勝講述：女兒被責備後離家出走，其男朋友將她安排在市內東南方向的一個旅館內暫住。",
+ "anchor_status": "present",
+ "contamination_pre": "low",
+ "contamination_reason": "私人求測事件，人物與結局細節非公共知識；本書雖有商業出版與掃描流傳，例中人事不具公共知名度。",
+ "separable": true,
+ "transcription": "visual",
+ "transcription_confidence": "high（飛盤九神盤面，天地盤干集完備性驗算通過）",
+ "dedup": "淨新：已用並集（R56 池 QM-001–QM-010）逐 id 零重合；dev9 487 例全文關鍵詞檢索（奇門/遁甲/劉文元/項鏈/做媒/剖腹/廣州/留校/借款/還款）0 命中；data/ 全部登記檔以本例求測者姓名與作者名固定字符串掃描 0 命中；與 R56 兩書（張志春/杜新會）成例按占事/占者/時間/局式四鍵互勘零重合；本書為劉文元自述自占案例、非他書轉引（推薦序與自序口徑），本例未見他書重出。與本輪並行開悟之門席在建池（QM-1xx 段）之逐例對勘未及，已登記於 DIGEST 掛起，待主持匯總複核。",
+ "notes": "飛盤九神盤：中宮為太常/天蓬星，戊為天蓬星天盤干、壬為地盤中宮干。本例含「坐離位＋點煙」情境取象斷來意之段（分析思路第 2 條），屬輸入側情境而非局式，建卡時歸 context。斷語「在同學家裏住著」與實際旅館有差距，原書分析思路第 7 條自承此點（「斷在同學家住著，這一點與實際情況有差距」），照錄不改。"
+}
+===== QM-207 =====
+{
+ "case_id": "QM-207",
+ "tradition": "qimen",
+ "source": {
+  "book": "奇門啟悟",
+  "author": "劉文元",
+  "publisher": "天府書屋（滾石出版）",
+  "provenance": "用戶經學校圖書館提供",
+  "redistributable": false,
+  "section": "分類占斷篇第十三章「工作崗位、擇業、就業預測」實例二「用奇門預測幫助遲騁選擇工作單位」",
+  "printed_pages": "276-279",
+  "pdf_pages": "140-141"
+ },
+ "input_side": {
+  "querent": "徐淑英（中年女士，為其子遲騁求測；遲騁 1985 年陰曆 4 月出生）",
+  "caster": "劉文元",
+  "question": "兒子應去哪家航空公司比較理想？還是留校任教？（背景：遲騁就讀中國民用航空大學飛行器動力工程專業、大四，多家單位願預簽合同：中國南方航空公司、中國海南航空公司、香港九龍航空公司、大連、瀋陽、成都等多家航空單位；另有留校任教選項，全校 50 多名應屆生報名留校、名額僅 7 人，須經篩選、考核、面試。）",
+  "context": "2007 年 10 月 14 日上午 10 點左右，徐淑英由劉的學生董淑英帶來求測；劉按其前來求測時間用轉盤奇門起局。2007 年 10 月 19 日上午 10 點左右徐再來電問當天下午面試最終能否通過，劉以原局斷之。",
+  "cast_time_verbatim": "2007年10月14日上午10點左右（丁亥年庚戌月辛巳日癸巳時）",
+  "board": {
+   "header_verbatim": "丁亥年 庚戌月 辛巳日 癸巳時 陰9局 值符：甲申庚 天柱星 值使：驚門",
+   "layout": "九宮格按洛書位排布：上行巽4/離9/坤2，中行震3/中5/兌7，下行艮8/坎1/乾6；原盤格位即宮位，格內不另印宮名宮數",
+   "palaces": {
+    "巽4": {
+     "god": "值符",
+     "star": "天柱星",
+     "door": "杜門",
+     "sky": [
+      "庚"
+     ],
+     "earth": [
+      "癸"
+     ],
+     "verbatim_cell": "值符 / 天柱星 庚 / 杜門 癸"
+    },
+    "離9": {
+     "god": "九天",
+     "star": "天心星",
+     "door": "景門",
+     "sky": [
+      "辛"
+     ],
+     "earth": [
+      "戊"
+     ],
+     "verbatim_cell": "九天 / 天心星 辛 / 景門 戊"
+    },
+    "坤2": {
+     "god": "九地",
+     "star": "天蓬星",
+     "door": "死門",
+     "sky": [
+      "乙"
+     ],
+     "earth": [
+      "丙"
+     ],
+     "verbatim_cell": "九地 / 天蓬星 乙 / 死門 丙"
+    },
+    "震3": {
+     "god": "螣蛇",
+     "star": "天芮星·天禽星",
+     "door": "傷門",
+     "sky": [
+      "丙",
+      "壬"
+     ],
+     "earth": [
+      "丁"
+     ],
+     "verbatim_cell": "螣蛇 / 天芮星·天禽星 丙·壬 / 傷門 丁"
+    },
+    "兌7": {
+     "god": "玄武",
+     "star": "天任星",
+     "door": "驚門",
+     "sky": [
+      "己"
+     ],
+     "earth": [
+      "庚"
+     ],
+     "verbatim_cell": "玄武 / 天任星 己 / 驚門 庚"
+    },
+    "艮8": {
+     "god": "太陰",
+     "star": "天英星",
+     "door": "生門",
+     "sky": [
+      "戊"
+     ],
+     "earth": [
+      "己"
+     ],
+     "verbatim_cell": "太陰 / 天英星 戊 / 生門 己"
+    },
+    "坎1": {
+     "god": "六合",
+     "star": "天輔星",
+     "door": "休門",
+     "sky": [
+      "癸"
+     ],
+     "earth": [
+      "乙"
+     ],
+     "verbatim_cell": "六合 / 天輔星 癸 / 休門 乙"
+    },
+    "乾6": {
+     "god": "白虎",
+     "star": "天沖星",
+     "door": "開門",
+     "sky": [
+      "丁"
+     ],
+     "earth": [
+      "辛"
+     ],
+     "verbatim_cell": "白虎 / 天沖星 丁 / 開門 辛"
+    }
+   },
+   "center_palace_5": "壬",
+   "board_basis": "問時（求測時間）",
+   "casting_method": "轉盤",
+   "format_note": "本書盤式：每宮三行＝神（轉盤八神/飛盤九神）／九星＋天盤干／八門＋地盤干；天禽與他星同宮時禽干附記於該宮星名旁（雙干並記）；中宮單字為地盤第九干，天禽天盤干未附記者以干集完備性定讀並逐例注記。"
+  }
+ },
+ "master_assertion": "「就讓你兒子留在中國民用航空大學任教吧，雖然有 50 多名大學生都想留校任教，但最終通過考核、篩選、面試後，你兒子一定會被學校選中錄用的，儘管留校任教的名額只有 7 人，你兒子還是會成功的。」（二斷，10 月 19 日電話中：「放心吧，面試一定會順利通過，等著好消息吧！」）",
+ "outcome": "「果然如我所預料的那樣，遲騁順利地通過學校的面試等考核，於 2007 年 11 月 9 日經過最後一個考核專案——體檢。最後體檢也完全順利地通過了。遲騁終於被中國民用航空大學正式錄用，成為一名合格的大學老師了。」",
+ "anchor_status": "present",
+ "contamination_pre": "low",
+ "contamination_reason": "私人求測事件，人物與結局細節非公共知識；本書雖有商業出版與掃描流傳，例中人事不具公共知名度。",
+ "separable": true,
+ "transcription": "visual",
+ "transcription_confidence": "high（天地盤干集完備性驗算通過）",
+ "dedup": "淨新：已用並集（R56 池 QM-001–QM-010）逐 id 零重合；dev9 487 例全文關鍵詞檢索（奇門/遁甲/劉文元/項鏈/做媒/剖腹/廣州/留校/借款/還款）0 命中；data/ 全部登記檔以本例求測者姓名與作者名固定字符串掃描 0 命中；與 R56 兩書（張志春/杜新會）成例按占事/占者/時間/局式四鍵互勘零重合；本書為劉文元自述自占案例、非他書轉引（推薦序與自序口徑），本例未見他書重出。與本輪並行開悟之門席在建池（QM-1xx 段）之逐例對勘未及，已登記於 DIGEST 掛起，待主持匯總複核。",
+ "notes": "震 3 宮天芮、天禽同宮雙干並記（芮丙、禽壬）；中宮單字壬與禽干同字。"
+}
+===== QM-307 =====
+{
+ "case_id": "QM-307",
+ "source": {
+  "book": "奇门遁甲最新实例解析",
+  "author": "石建国",
+  "publisher": "建筑与风水杂志社（中国神秘文化大系）",
+  "isbn": "988-98339-8-0",
+  "provenance": "用户经学校图书馆提供",
+  "redistributable": false,
+  "section": "下编第三章「怀孕分娩预测」实例一「预测妻子分娩」",
+  "printed_pages": "151-152",
+  "djvu_pages": "162-163"
+ },
+ "input_side": {
+  "querent": "崔先生（青年男子，来抱犊寨旅游者）为其妻求测",
+  "caster": "石建国",
+  "question": "我妻子现在怀孕快要临产了，请老师给预测一下，生产时母子是否平安？所生之子是男是女？",
+  "context": "1999年6月4日11点在河北省周易研究会基地求测，按问事时间起局",
+  "cast_time": "1999年6月4日11点",
+  "ganzhi": "己卯年己巳月丁亥日丙午时",
+  "chart_header": "阳二局、甲辰旬，天心星值符落九宫，开门值使落八宫",
+  "chart": {
+   "巽四": "九天 生门 天干癸 天柱 地干庚",
+   "离九": "值符 伤门 天干壬 天心 地干丙",
+   "坤二": "螣蛇 杜门 天干乙 天蓬 地干戊",
+   "震三": "九地 天禽干辛 休门 天干戊 天芮 地干己",
+   "中五": "地盘干辛",
+   "兑七": "太阴 景门 天干丁 天任 地干癸",
+   "艮八": "玄武 开门 天干丙 天英 地干丁",
+   "坎一": "白虎 惊门 天干庚 天辅 地干乙",
+   "乾六": "六合 死门 天干己 天冲 地干壬"
+  }
+ },
+ "master_assertion": "你妻子临产时母子平安，可能在6月13日你妻子给你生一个大胖小子。",
+ "outcome": "6月14日，我收到崔先生的电话：给石老师报喜了，真如你所测，6月13日我妻子平安地生下一个又白又胖的男孩。",
+ "anchor_status": "present",
+ "contamination_pre": "low",
+ "separable": true,
+ "transcription": "visual",
+ "transcription_confidence": "high（坤宫地盘干字形近「戌」，据干集完整性定读戊）",
+ "dedup": "净新：同QM-301对勘口径，四键零重合",
+ "notes": ""
+}
+===== QM-308 =====
+{
+ "case_id": "QM-308",
+ "source": {
+  "book": "奇门遁甲最新实例解析",
+  "author": "石建国",
+  "publisher": "建筑与风水杂志社（中国神秘文化大系）",
+  "isbn": "988-98339-8-0",
+  "provenance": "用户经学校图书馆提供",
+  "redistributable": false,
+  "section": "下编第六章「行人走失预测」实例一「出走的妻子能平安回家」",
+  "printed_pages": "228-229",
+  "djvu_pages": "239-240"
+ },
+ "input_side": {
+  "querent": "张某（石家庄市人）为其妻（1966年生）求测",
+  "caster": "石建国",
+  "question": "今天早晨6点，妻子离家出走了。找了一上午不见人影。求测：妻子在外是否平安？什么时间能回来？",
+  "context": "2000年7月15日下午张某到河北省周易研究会抱犊寨基地求测；作者按出走时间（早晨6点）起局——本书行人章「按出走失时间起局」之实证例",
+  "cast_time": "2000年7月15日6点（出走时间）",
+  "ganzhi": "庚辰年癸未月甲戌日丁卯时",
+  "chart_header": "阴五局、甲子旬，天禽星值符落八宫，死门值使落二宫",
+  "chart": {
+   "巽四": "九地 杜门 天干乙 天心 地干己",
+   "离九": "玄武 景门 天干壬 天蓬 地干癸",
+   "坤二": "白虎 死门 天干丁 天任 地干辛",
+   "震三": "八神（扫描页边截断，未读出） 伤门 天干丙 天柱 地干庚",
+   "中五": "地盘干戊",
+   "兑七": "六合 惊门 天干庚 天冲 地干丙",
+   "艮八": "值符 天禽干戊 生门 天干辛 天禽·天芮 地干丁",
+   "坎一": "螣蛇 休门 天干癸 天英 地干壬",
+   "乾六": "太阴 开门 天干己 天辅 地干乙"
+  }
+ },
+ "master_assertion": "你妻子在外平安，7月22日人就回来了。",
+ "outcome": "7月23日上午张某给我打来电话，高兴地说：石老师预测的真准确。我妻子在7月22日下午平安回到家里。",
+ "anchor_status": "present",
+ "contamination_pre": "low",
+ "separable": true,
+ "transcription": "visual",
+ "transcription_confidence": "high（震宫八神一字扫描页边截断未读出，天地盘干集经逐宫验算完整，不影响锚点判定，已如实标注）",
+ "dedup": "净新：同QM-301对勘口径，四键零重合",
+ "notes": "断语之前另有方向断（坐车到东南方向外地）与出走原因断（夫妻闹矛盾），原因为当场印证之已事、方向未见结局文字复核，均不计入断语字段。应期依据：马星动为应期＋时干值使落坤宫取八数断八天（分析第4条）。"
+}
+===== QM-309 =====
+{
+ "case_id": "QM-309",
+ "source": {
+  "book": "奇门遁甲最新实例解析",
+  "author": "石建国",
+  "publisher": "建筑与风水杂志社（中国神秘文化大系）",
+  "isbn": "988-98339-8-0",
+  "provenance": "用户经学校图书馆提供",
+  "redistributable": false,
+  "section": "下编第五章「人体疾病预测」实例二「弟弟有病手术后全愈」",
+  "printed_pages": "197-198",
+  "djvu_pages": "208-209"
+ },
+ "input_side": {
+  "querent": "郑经理（石家庄市）为其弟（1953年生）求测病情",
+  "caster": "石建国",
+  "question": "求测弟弟病情（原文以「求测弟弟病情」记，未逐字引原话）",
+  "context": "2001年元月19日20点来电；作者请其等15分钟再来电，按问事时间起局",
+  "cast_time": "2001年元月19日20点",
+  "ganzhi": "庚辰年己丑月壬午日庚戌时",
+  "chart_header": "阳二局、甲辰旬，天心星值符落四宫，开门值使落三宫",
+  "chart": {
+   "巽四": "值符 休门 天干壬 天心 地干庚",
+   "离九": "螣蛇 生门 天干乙 天蓬 地干丙",
+   "坤二": "太阴 伤门 天干丁 天任 地干戊",
+   "震三": "九天 开门 天干癸 天柱 地干己",
+   "中五": "地盘干辛",
+   "兑七": "六合 杜门 天干己 天冲 地干癸",
+   "艮八": "九地 天禽干辛 惊门 天干戊 天芮 地干丁",
+   "坎一": "玄武 死门 天干丙 天英 地干乙",
+   "乾六": "白虎 景门 天干庚 天辅 地干壬"
+  }
+ },
+ "master_assertion": "弟弟是头上有病，到医院手术可治愈，最好到东南方向的医院进行治疗。",
+ "outcome": "其弟2月1日（阴历正月初九）住院做了手术，在医院治疗一个多月后，全愈出院。",
+ "anchor_status": "present",
+ "contamination_pre": "low",
+ "separable": true,
+ "transcription": "visual",
+ "transcription_confidence": "high（坎宫盘面行首多一「武」字，疑衍印或神名复记，干集验算不受影响，已注）",
+ "dedup": "净新：同QM-301对勘口径，四键零重合",
+ "notes": "结局由郑经理2001年3月20日来电（谈经济投资时顺便）告知，原文在p198页首：「其弟2月1日（阴历正月初九）住院做了手术，在医院治疗一个多月后，全愈出院」。断语中「头上有病」为当时未明之病情判断（求测者未告知病位），与「手术可治愈」同列断语字段。坎宫行首多一「武」字疑为衍印。"
+}
+===== ZCB-012 =====
+{
+ "case_id": "ZCB-012",
+ "title": "謹權量（方敏愨公斷周秋案）",
+ "source": {
+  "book": "字触补",
+  "juan": "卷四·几部",
+  "leaf": "叶19",
+  "pdf_pages": "579上半"
+ },
+ "input_side": "方敏愨公署直隸按察使時，饒陽民婦侯蕭氏拒姦被殺，有周秋者跡可疑而狡詐不肯吐實，懸案二載。公閱案牘盡三鼓，坐而假寐，夢一人持素紙，下寬上窄缺左角，中有方孔，孔下有謹權量三字。原文拆分過程：公醒後細思「周字下寬左缺；而謹權量三字皆土字在下，移土之交於方孔之上，則成周字；且月令謹權量，乃秋政也」。",
+ "master_assertion": "兇人為周秋無疑。",
+ "outcome": "一訊而服。此事在行狀中講。（新齋諧）",
+ "anchor_status": "present",
+ "anchor_basis": "移字合成周字之全程（形肖＋三字土底移交＋月令秋政）逐字載於原文",
+ "contamination_pre": "low",
+ "contamination_basis": "方敏愨公雖為清代大員，此饒陽懸案轶事冷僻、出新齋諧",
+ "separable": true,
+ "eligible": true,
+ "cz_qx_counted": true,
+ "cz_qx_note": "增損移合定名（QX-03相涉）",
+ "dedup": {
+  "status": "已核",
+  "note": "謹權量/谨权量、周秋、方敏愨關鍵詞無命中；ZC檔比對無此事"
+ },
+ "transcription": {
+  "mode": "visual",
+  "confidence": 0.92
+ }
+}
+===== ZCB-013 =====
+{
+ "case_id": "ZCB-013",
+ "title": "許忠（高蔚辰夢馬斷案）",
+ "source": {
+  "book": "字触补",
+  "juan": "卷四·几部",
+  "leaf": "叶21",
+  "pdf_pages": "580上半"
+ },
+ "input_side": "乾隆十八年，山東高蔚辰宰河南延津縣，晝寢書室，夢一馬衝其庭，立而人言，高射之正中其心，馬吼而奔，高驚醒。適外報某村婦盧羅氏夜被殺，并殺二孩，高往驗，屍傷如所報而兇犯無以根據，因憶所夢，點莊冊沉思。原文拆分過程：見有姓許名忠者，忽心計曰「馬屬午，馬立而言，則言午也，正中其心——當是許忠矣」。",
+ "master_assertion": "當是許忠矣（呼許，告以「殺此婦者，汝也」）。",
+ "outcome": "許驚愕，叩首曰「實是也，以姦不從故殺之，兩指被婦咬傷」，置于法，合郡以為神。（新齋諸[?]）",
+ "anchor_status": "present",
+ "anchor_basis": "馬屬午＋立而言＝言午（許）之拆定姓名過程載於原文",
+ "contamination_pre": "low",
+ "contamination_basis": "高蔚辰、許忠俱冷僻，縣案轶事",
+ "separable": true,
+ "eligible": true,
+ "cz_qx_counted": true,
+ "cz_qx_note": "夢象拆字定人犯姓名（QX-04相涉）",
+ "dedup": {
+  "status": "已核",
+  "note": "許忠/许忠、高蔚辰關鍵詞無命中；ZC-137吳姓節推夢虎案異人異事；ZC檔比對無此事"
+ },
+ "transcription": {
+  "mode": "visual",
+  "confidence": 0.9
+ }
+}
+===== ZCB-014 =====
+{
+ "case_id": "ZCB-014",
+ "title": "忠恕（裴公乩判貴字）",
+ "source": {
+  "book": "字触补",
+  "juan": "卷三·晰部",
+  "leaf": "叶14",
+  "pdf_pages": "568上半"
+ },
+ "input_side": "康熙甲戌科，丹徒裴公之仙[?]偕友數人入都會試，都中有善召乩者，延之問中否，仙至判一貴字，眾不解，再叩之則曰「皆判明矣」。",
+ "master_assertion": "（乩判）貴字。",
+ "outcome": "榜發後，惟裴公中會元，餘皆落第，裴公恥[?]一目，始悟向所判字乃中一目人也。",
+ "anchor_status": "present",
+ "anchor_basis": "貴字拆為「中一目人」之讀法載於原文，惟係應驗後始悟（post-hoc），成色註記於此",
+ "contamination_pre": "low",
+ "contamination_basis": "裴公冷僻；編者自注原編外部另載貴字事（新安汪龍所測），同motif異事件，已分號",
+ "separable": true,
+ "eligible": true,
+ "cz_qx_counted": false,
+ "cz_qx_note": "乩判字＋事後悟拆，非占者當場拆分，不入CZ-QX合檔",
+ "dedup": {
+  "status": "已核",
+  "note": "裴公關鍵詞無命中；ZC-027四五舉子共寫貴字問試為異人異事；與字觸原編貴字事之關係見DIGEST衝突表ZB-C4"
+ },
+ "transcription": {
+  "mode": "visual",
+  "confidence": 0.85
+ }
+}
+===== ZCB-015 =====
+{
+ "case_id": "ZCB-015",
+ "title": "一個中（三人祈夢照牆字）",
+ "source": {
+  "book": "字触补",
+  "juan": "卷三·晰部",
+  "leaf": "叶15",
+  "pdf_pages": "568下半"
+ },
+ "input_side": "有三人祈夢于于肅愍廟，兩人無夢，一人夢廟神謂曰「汝往觀廟外照牆，則知之」，其人醒告二人；其無夢者[?]即于夜間取筆向牆上書「不中」二字，天尚未明，寫不字不甚連接。",
+ "master_assertion": "（次早三人同往視之）乃「一個中」三字。",
+ "outcome": "果得夢者中矣。（新齋諧）",
+ "anchor_status": "present",
+ "anchor_basis": "不字書寫不連接致誤讀為一個中之字形辨正過程載於原文",
+ "contamination_pre": "low",
+ "contamination_basis": "佚名三人、廟夢轶事，冷僻",
+ "separable": true,
+ "eligible": true,
+ "cz_qx_counted": false,
+ "cz_qx_note": "夢占·字形誤讀辨正，非占者拆字斷法，不入CZ-QX合檔",
+ "dedup": {
+  "status": "已核",
+  "note": "關鍵詞無命中；ZC檔比對無此事"
+ },
+ "transcription": {
+  "mode": "visual",
+  "confidence": 0.8,
+  "note": "中段敘事數字未判準（[?]標）"
+ }
+}
+===== GSZ-034 =====
+{
+ "provisional_id": "GSZ-034",
+ "tradition": "liuyao",
+ "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第六章《妙用三合局》例二",
+ "input_fields": {
+  "question": "拉盲人郝金阳先生来省城，测头号（出发）情况",
+  "asked_at": "丁丑年丙午月甲申日",
+  "chart": {
+   "ben_gua": "风火家人",
+   "bian_gua": "风地观",
+   "chart_lines_top_to_bottom": [
+    "玄武 ▅▅▅▅▅ 兄弟卯木",
+    "白虎 ▅▅▅▅▅ 子孙巳火 应",
+    "塍蛇 ▅▅ ▅▅ 妻财未土",
+    "勾陈 ▅▅▅▅▅ 父母亥水    动 兄弟卯木",
+    "朱雀 ▅▅ ▅▅ 妻财丑土 世",
+    "青龙 ▅▅▅▅▅ 兄弟卯木    动 妻财未土"
+   ]
+  }
+ },
+ "subject": "",
+ "master_prediction": "故断此次去接郝先生恐怕会在一个三岔路口堵车",
+ "outcome_record": "次日，驱车前去接郝先生，车到半路的一个三岔路口，正逢一大群人聚众闹事，堵塞交通，不能前进",
+ "outcome_type": "forward",
+ "pollution": "low",
+ "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+ "anchor_presence": "present",
+ "anchor_missing": "",
+ "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+ "filters": {
+  "verbatim_transcribable": true,
+  "independent_outcome": true,
+  "separable_prediction_outcome": true,
+  "not_high_pollution": true
+ },
+ "grade": "A",
+ "eligible_net": true,
+ "fail_reason": "",
+ "grade_note": "题面录入多处讹字（「段建 业」「拉盲人合理师」等），卦盘与断/结局段可逐字转录，照录登记",
+ "transcription": "verbatim（文字版PDF文字层逐字转录）",
+ "transcription_confidence": "high"
+}
+===== GSZ-038 =====
+{
+ "provisional_id": "GSZ-038",
+ "tradition": "liuyao",
+ "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第七章《半合辨义》例一",
+ "input_fields": {
+  "question": "测带团旅游此行吉凶（作者自占自述）",
+  "asked_at": "丁丑年甲辰月壬寅日",
+  "chart": {
+   "ben_gua": "雷风恒",
+   "bian_gua": "震为雷",
+   "chart_lines_top_to_bottom": [
+    "白虎 ▅▅ ▅▅ 妻财戌土 应",
+    "螣蛇 ▅▅ ▅▅ 官鬼申金",
+    "勾陈 ▅▅▅▅▅ 子孙午火",
+    "朱雀 ▅▅▅▅▅ 官鬼酉金 世 动 妻财辰土",
+    "青龙 ▅▅▅▅▅ 父母亥水   动 兄弟寅木",
+    "玄武 ▅▅ ▅▅ 妻财丑土   动 父母子水"
+   ]
+  }
+ },
+ "subject": "",
+ "master_prediction": "五爻官鬼申金暗动，临螣蛇，螣蛇主惊异，变异，路上将有麻烦事发生",
+ "outcome_record": "结果，在五台山区旅游完后，由于下雨从五台山到浑源的路段遭到破坏，不能通车，临时决定放弃去浑源",
+ "outcome_type": "forward",
+ "pollution": "low",
+ "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+ "anchor_presence": "present",
+ "anchor_missing": "",
+ "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+ "filters": {
+  "verbatim_transcribable": true,
+  "independent_outcome": true,
+  "separable_prediction_outcome": true,
+  "not_high_pollution": true
+ },
+ "grade": "A",
+ "eligible_net": true,
+ "fail_reason": "",
+ "grade_note": "结局段续有客人争吵、旅行社退还部分钱解决，逐字见原文",
+ "transcription": "verbatim（文字版PDF文字层逐字转录）",
+ "transcription_confidence": "high"
+}
+===== GSZ-041 =====
+{
+ "provisional_id": "GSZ-041",
+ "tradition": "liuyao",
+ "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第七章《半合辨义》例四",
+ "input_fields": {
+  "question": "测妻带小孩回娘家，何日得见小孩（某男）",
+  "asked_at": "丁丑年丙午月甲申日",
+  "chart": {
+   "ben_gua": "天山遁",
+   "bian_gua": "天风姤",
+   "chart_lines_top_to_bottom": [
+    "玄武       ▅▅▅▅▅ 父母戌土",
+    "白虎       ▅▅▅▅▅ 兄弟申金 应",
+    "螣蛇       ▅▅▅▅▅ 官鬼午火",
+    "勾陈       ▅▅▅▅▅ 兄弟申金",
+    "朱雀 妻财寅木 ▅▅ ▅▅ 官鬼午火 世 动 子孙亥水",
+    "青龙 子孙子水 ▅▅ ▅▅ 父母辰土"
+   ]
+  }
+ },
+ "subject": "",
+ "master_prediction": "世爻动而化出子孙亥水，必会见面",
+ "outcome_record": "后于丙申日，妻子带小孩回家",
+ "outcome_type": "forward",
+ "pollution": "low",
+ "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+ "anchor_presence": "present",
+ "anchor_missing": "",
+ "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+ "filters": {
+  "verbatim_transcribable": true,
+  "independent_outcome": true,
+  "separable_prediction_outcome": true,
+  "not_high_pollution": true
+ },
+ "grade": "A",
+ "eligible_net": true,
+ "fail_reason": "",
+ "grade_note": "",
+ "transcription": "verbatim（文字版PDF文字层逐字转录）",
+ "transcription_confidence": "high"
+}
+===== GSZ-042 =====
+{
+ "provisional_id": "GSZ-042",
+ "tradition": "liuyao",
+ "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第七章《半合辨义》例五",
+ "input_fields": {
+  "question": "测侄儿出事吉凶（某男）",
+  "asked_at": "已卯年壬申月丁巳日（原文「已卯」）",
+  "chart": {
+   "ben_gua": "山地剥",
+   "bian_gua": "风地观",
+   "chart_lines_top_to_bottom": [
+    "青龙 ▅▅▅▅▅ 妻财寅木",
+    "玄武 ▅▅ ▅▅ 子孙子水 世 动 官鬼巳火",
+    "白虎 ▅▅ ▅▅ 父母戌土",
+    "螣蛇 ▅▅ ▅▅ 妻财卯木",
+    "勾陈 ▅▅ ▅▅ 官鬼巳火 应",
+    "朱雀 ▅▅ ▅▅ 父母未土"
+   ]
+  }
+ },
+ "subject": "",
+ "master_prediction": "子孙临玄武动而化鬼化绝，玄武主偷盗，动而化官鬼，乃与官鬼相见，断因偷盗被公安人员抓获",
+ "outcome_record": "果然其侄儿因偷摩托车被抓",
+ "outcome_type": "forward",
+ "pollution": "low",
+ "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+ "anchor_presence": "present",
+ "anchor_missing": "",
+ "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+ "filters": {
+  "verbatim_transcribable": true,
+  "independent_outcome": true,
+  "separable_prediction_outcome": true,
+  "not_high_pollution": true
+ },
+ "grade": "A",
+ "eligible_net": true,
+ "fail_reason": "",
+ "grade_note": "",
+ "transcription": "verbatim（文字版PDF文字层逐字转录）",
+ "transcription_confidence": "high"
+}
+===== GSZ-043 =====
+{
+ "provisional_id": "GSZ-043",
+ "tradition": "liuyao",
+ "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第八章《六合辨义》例一",
+ "input_fields": {
+  "question": "射覆：测杯中何物",
+  "asked_at": "丁丑年（97年）戊申月甲申日",
+  "chart": {
+   "ben_gua": "火泽睽",
+   "bian_gua": "火雷噬嗑",
+   "chart_lines_top_to_bottom": [
+    "玄武 ▅▅▅▅▅ 父母巳火",
+    "白虎 ▅▅ ▅▅ 兄弟未土",
+    "塍蛇 ▅▅▅▅▅ 子孙酉金 世",
+    "勾陈 ▅▅ ▅▅ 兄弟丑土",
+    "朱雀 ▅▅▅▅▅ 官鬼卯木     动 官鬼寅木",
+    "青龙 ▅▅▅▅▅ 父母巳火 应"
+   ]
+  }
+ },
+ "subject": "",
+ "master_prediction": "综合上述信息，断杯内放着一团叠起来的写有文字的纸",
+ "outcome_record": "结果打开后，里面放着卷成卷的一百元钱",
+ "outcome_type": "forward",
+ "pollution": "low",
+ "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+ "anchor_presence": "present",
+ "anchor_missing": "",
+ "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+ "filters": {
+  "verbatim_transcribable": true,
+  "independent_outcome": true,
+  "separable_prediction_outcome": true,
+  "not_high_pollution": true
+ },
+ "grade": "A",
+ "eligible_net": true,
+ "fail_reason": "",
+ "grade_note": "射覆揭晓型：断语与实物不尽合属评分事项，不属开采淘汰事由",
+ "transcription": "verbatim（文字版PDF文字层逐字转录）",
+ "transcription_confidence": "high"
+}
+===== GSZ-046 =====
+{
+ "provisional_id": "GSZ-046",
+ "tradition": "liuyao",
+ "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第八章《六合辨义》例四",
+ "input_fields": {
+  "question": "测所管帐上缺了一笔钱，结果如何（邮政局王女士）",
+  "asked_at": "庚辰年壬午月丁巳日",
+  "chart": {
+   "ben_gua": "山泽损",
+   "bian_gua": "风雷益",
+   "chart_lines_top_to_bottom": [
+    "青龙             ▅▅▅▅▅ 官鬼寅木 应",
+    "玄武             ▅▅ ▅▅ 妻财子水   动  父母己火",
+    "白虎             ▅▅ ▅▅ 兄弟戌土",
+    "塍蛇 子孙申金 ▅▅ ▅▅ 兄弟丑土 世",
+    "勾陈             ▅▅▅▅▅ 官鬼卯木   动  官鬼寅木",
+    "朱雀             ▅▅▅▅▅ 父母巳火"
+   ]
+  }
+ },
+ "subject": "",
+ "master_prediction": "财爻子水月破绝于日辰，又动而化绝，此笔钱很难找回",
+ "outcome_record": "果然是帐上一千元的数目核对不上，本人也怀疑是把票单弄丢。最后查不到短缺之钱的下落，只好自认倒霉自己补上",
+ "outcome_type": "forward",
+ "pollution": "low",
+ "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+ "anchor_presence": "present",
+ "anchor_missing": "",
+ "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+ "filters": {
+  "verbatim_transcribable": true,
+  "independent_outcome": true,
+  "separable_prediction_outcome": true,
+  "not_high_pollution": true
+ },
+ "grade": "A",
+ "eligible_net": true,
+ "fail_reason": "",
+ "grade_note": "同例后段婚姻回溯不入断语",
+ "transcription": "verbatim（文字版PDF文字层逐字转录）",
+ "transcription_confidence": "high"
+}
+===== GSZ-047 =====
+{
+ "provisional_id": "GSZ-047",
+ "tradition": "liuyao",
+ "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第八章《六合辨义》例五",
+ "input_fields": {
+  "question": "测婚（医院赵女士）",
+  "asked_at": "丙子年巳亥月癸酉日（原文月柱作「巳亥月」）",
+  "chart": {
+   "ben_gua": "天泽履",
+   "bian_gua": "泽水困",
+   "chart_lines_top_to_bottom": [
+    "白虎         ▅▅▅▅▅ 兄弟戌土    动 兄弟未土",
+    "塍蛇 妻财子水 ▅▅▅▅▅ 子孙申金 世",
+    "勾陈         ▅▅▅▅▅ 父母午火",
+    "朱雀         ▅▅ ▅▅ 兄弟丑土",
+    "青龙         ▅▅▅▅▅ 官鬼卯木 应",
+    "玄武         ▅▅▅▅▅ 父母巳火    动 官鬼寅木"
+   ]
+  }
+ },
+ "subject": "",
+ "master_prediction": "说明她又私订盟约，和另外一个男人同居，卦变六合，二人可成，文书月破，出月不破，即可成",
+ "outcome_record": "此女果然因丈夫有外遇于９４年离婚，目前有一个男的与自己同居，后于庚子月二人正式结婚",
+ "outcome_type": "forward",
+ "pollution": "low",
+ "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+ "anchor_presence": "present",
+ "anchor_missing": "",
+ "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+ "filters": {
+  "verbatim_transcribable": true,
+  "independent_outcome": true,
+  "separable_prediction_outcome": true,
+  "not_high_pollution": true
+ },
+ "grade": "A",
+ "eligible_net": true,
+ "fail_reason": "",
+ "grade_note": "",
+ "transcription": "verbatim（文字版PDF文字层逐字转录）",
+ "transcription_confidence": "high"
+}
+===== GSZ-049 =====
+{
+ "provisional_id": "GSZ-049",
+ "tradition": "liuyao",
+ "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第九章《六冲辨义》例二",
+ "input_fields": {
+  "question": "测其叔家风水（某男）",
+  "asked_at": "丙子年已亥月辛酉日（原文「已亥」）",
+  "chart": {
+   "ben_gua": "水地比",
+   "bian_gua": "坤为地",
+   "chart_lines_top_to_bottom": [
+    "塍蛇 ▅▅ ▅▅ 妻财子水 应",
+    "勾陈 ▅▅▅▅▅ 兄弟戌土     动 妻财亥水",
+    "朱雀 ▅▅ ▅▅ 子孙申金",
+    "青龙 ▅▅ ▅▅ 官鬼卯木 世",
+    "玄武 ▅▅ ▅▅ 父母巳火",
+    "白虎 ▅▅ ▅▅ 兄弟未土"
+   ]
+  }
+ },
+ "subject": "",
+ "master_prediction": "父临巳火月破而入墓，一家之主若有病必为心脏病",
+ "outcome_record": "其叔叔已于戌月因心肌梗死而亡",
+ "outcome_type": "forward",
+ "pollution": "low",
+ "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+ "anchor_presence": "present",
+ "anchor_missing": "",
+ "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+ "filters": {
+  "verbatim_transcribable": true,
+  "independent_outcome": true,
+  "separable_prediction_outcome": true,
+  "not_high_pollution": true
+ },
+ "grade": "A",
+ "eligible_net": true,
+ "fail_reason": "",
+ "grade_note": "风水诊断核实型：大道直冲大门一节亦经本人确认，逐字见原文",
+ "transcription": "verbatim（文字版PDF文字层逐字转录）",
+ "transcription_confidence": "high"
+}
+===== GSZ-050 =====
+{
+ "provisional_id": "GSZ-050",
+ "tradition": "liuyao",
+ "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第九章《六冲辨义》例三",
+ "input_fields": {
+  "question": "测到某婚姻介绍所求对象得否（某男）",
+  "asked_at": "戊寅年辛酉月乙酉日",
+  "chart": {
+   "ben_gua": "地泽临",
+   "bian_gua": "山泽损",
+   "chart_lines_top_to_bottom": [
+    "玄武 ▅▅ ▅▅ 子孙酉金     动 官鬼寅木",
+    "白虎 ▅▅ ▅▅ 妻财亥水 应",
+    "塍蛇 ▅▅ ▅▅ 兄弟丑土",
+    "勾陈 ▅▅ ▅▅ 兄弟丑土",
+    "朱雀 ▅▅▅▅▅ 官鬼卯木 世",
+    "青龙 ▅▅▅▅▅ 父母巳火"
+   ]
+  }
+ },
+ "subject": "",
+ "master_prediction": "这个婚姻介绍所将来会被公家取缔",
+ "outcome_record": "后来才知该婚姻介绍所为非法机构，专与一些三陪小姐联系，合谋骗人钱财而被取缔",
+ "outcome_type": "forward",
+ "pollution": "low",
+ "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+ "anchor_presence": "present",
+ "anchor_missing": "",
+ "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+ "filters": {
+  "verbatim_transcribable": true,
+  "independent_outcome": true,
+  "separable_prediction_outcome": true,
+  "not_high_pollution": true
+ },
+ "grade": "A",
+ "eligible_net": true,
+ "fail_reason": "",
+ "grade_note": "介绍女子索财经过逐字见原文结局段",
+ "transcription": "verbatim（文字版PDF文字层逐字转录）",
+ "transcription_confidence": "high"
+}
+===== GSZ-052 =====
+{
+ "provisional_id": "GSZ-052",
+ "tradition": "liuyao",
+ "source": "六爻卦例说真（王虎应著，用户经学校图书馆提供，文字版 transcription=verbatim）｜第九章《六冲辨义》例五",
+ "input_fields": {
+  "question": "测单位失窃情况（某男）",
+  "asked_at": "丁丑年丁未月辛巳日",
+  "chart": {
+   "ben_gua": "离为火",
+   "bian_gua": "火天大有",
+   "chart_lines_top_to_bottom": [
+    "塍蛇 ▅▅▅▅▅ 兄弟巳火 世",
+    "勾陈 ▅▅ ▅▅ 子孙未土",
+    "朱雀 ▅▅▅▅▅ 妻财酉金",
+    "青龙 ▅▅▅▅▅ 官鬼亥水 应",
+    "玄武 ▅▅ ▅▅ 子孙丑土     动 父母寅木",
+    "白虎 ▅▅▅▅▅ 父母卯木"
+   ]
+  }
+ },
+ "subject": "",
+ "master_prediction": "物难回",
+ "outcome_record": "最后此男告知，单位东北方向的大门被贼人撬开，贼人由此进去，把院子里一个办公室的办公用品、写字台、沙发等全部盗走，门也被撬得稀巴烂",
+ "outcome_type": "forward",
+ "pollution": "low",
+ "pollution_note": "未见公开转载/名案流传痕迹（王虎应著名案例从严口径下复核：非LY-102…105同源名案、非公众人物/公共事件例）",
+ "anchor_presence": "present",
+ "anchor_missing": "",
+ "dedup_check": "三键（本变卦＋占月日＋问事）对勘：与已用并集926（dev9 487＋holdout2–20，含LY-102…105名案逐项对勘）、WHY-001…071入账例、《分类占验技法》余例登记、本书内他例均无同案",
+ "filters": {
+  "verbatim_transcribable": true,
+  "independent_outcome": true,
+  "separable_prediction_outcome": true,
+  "not_high_pollution": true
+ },
+ "grade": "A",
+ "eligible_net": true,
+ "fail_reason": "",
+ "grade_note": "结局段末「后未找到失物」与断语相应，逐字见原文",
+ "transcription": "verbatim（文字版PDF文字层逐字转录）",
+ "transcription_confidence": "high"
+}
