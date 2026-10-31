@@ -1,0 +1,120 @@
+#!/usr/bin/env python3
+"""R80 acceptance Judge M2 (master side) - independent scoring.
+Reads packet-master.json only for id validation; scores are frozen below,
+each derived by enumerating sub-claims in prediction_text vs outcome_record.
+Scale: direction/claims/timing each 0-2, 0.5 steps.
+Timing rule: prediction with no stated timing -> 0 (noted);
+prediction timing hit exactly -> 2; relative timing hit -> 1.5.
+No case in this packet has a timed prediction with an unverifiable
+outcome timepoint, so the timing=1 fallback is not used.
+"""
+import json
+from pathlib import Path
+
+BASE = Path("/home/hatch/workspace/divination/benchmark/phase3/runs/round80/acceptance")
+PACKET = BASE / "judging" / "packet-master.json"
+OUT = BASE / "judging" / "judgeM2.jsonl"
+
+# anon_id, direction, claims, timing, reason
+ROWS = [
+    ("H24M-033f83ba", 2.0, 2.0, 0.0,
+     "子断1条:①必会见面。结局载丙申日妻子带小孩回家,会面实现,印证1/1。方向终局(见面)全合。预测断语本身无应期,timing记0。"),
+    ("H24M-0369a478", 0.0, 0.0, 0.0,
+     "子断1条:①普通农村老妇人一生无大作为。结局载五子三女个个富过百万、本人寿至九旬,与无大作为相反,印证0/1。方向相反。预测断语本身无应期,timing记0。"),
+    ("H24M-189aa21b", 2.0, 2.0, 0.0,
+     "子断2条:①因偷盗②被公安抓获。结局载侄儿因偷摩托车被抓,印证2/2。方向全合。预测断语本身无应期,timing记0。"),
+    ("H24M-1aa70c8f", 0.5, 0.5, 0.0,
+     "子断3条:①杯内是纸②叠起来③写有文字。结局为卷成卷的一百元钱:纸质与卷叠形态近似,钱非写有文字的纸团,实质错判,印证0/3(仅形态部分近似计方向与claims各0.5)。预测断语本身无应期,timing记0。"),
+    ("H24M-1bcd2209", 2.0, 2.0, 0.0,
+     "子断1条:①内食神者为做企业的企业家。结局载任大型国有企业董事长,属企业负责人,印证1/1。方向全合。预测断语本身无应期(结局大运非预测所给),timing记0。"),
+    ("H24M-1e9f6d53", 2.0, 2.0, 2.0,
+     "子断7条:①良方人氏②本系统内部人③现为供销社领导④副职⑤年龄37-38岁⑥住办公楼东北方80或180米⑦癸卯日宣布。结局载癸卯日上午宣布原副主任胡某任主任、37岁、住东北方180米家属院,印证7/7。方向全合,应期癸卯日精确命中。"),
+    ("H24M-2efa6f05", 2.0, 2.0, 0.0,
+     "子断1条:①穷命。结局载婚姻离了、工作没有、在贫困线上挣扎,贫穷结局印证1/1。方向全合。预测断语本身无应期,timing记0。"),
+    ("H24M-2f08f583", 2.0, 1.0, 0.0,
+     "子断3条:①弟弟头上有病②手术可治愈③最好到东南方向医院。结局载住院手术、治疗一个多月后全愈出院,②印证;①结局未载头部部位,③结局未载医院方位,印证1/3。方向(手术治愈)全合。预测断语本身无应期,timing记0。"),
+    ("H24M-300c5fe3", 2.0, 1.0, 0.0,
+     "子断3条:①不表示富②不表示穷③只表示才学。结局载此人是书法艺术家,③印证;①②结局未载贫富,印证1/3。方向(才学)合。预测断语本身无应期,timing记0。"),
+    ("H24M-450cdf0f", 2.0, 2.0, 1.5,
+     "子断3条:①又与另一男人同居②二人可成③文书月破、出月不破即可成。结局载目前一男与之同居、后于庚子月正式结婚,印证3/3。方向全合;应期为出月后成,庚子月成婚合相对应期但未点名月份,timing记1.5。"),
+    ("H24M-498401f1", 2.0, 2.0, 0.0,
+     "子断1条:①兇人为周秋。结局载一讯而服(受讯即服罪),指认对象服罪印证1/1。方向全合。预测断语本身无应期,timing记0。"),
+    ("H24M-5bb8eed4", 2.0, 2.0, 0.0,
+     "子断1条:①路上将有麻烦事。结局载雨毁路段不能通车、临时放弃去浑源,路途麻烦印证1/1。方向全合。预测断语本身无应期,timing记0。"),
+    ("H24M-6988f9ea", 1.5, 1.0, 0.0,
+     "子断1条:①乩判单字貴(贵/显贵中式)。结局载榜发惟裴公中会元余皆落第,显贵应于裴公一人,但断语未指明何人何事、对象不明,部分印证计1.0。方向大体合(有人显贵高中)。预测断语本身无应期,timing记0。"),
+    ("H24M-711906ca", 2.0, 2.0, 0.0,
+     "子断3条:①儿子留中国民用航空大学任教②竞争激烈(50余人争7名额)仍被选中③面试顺利通过。结局载通过面试等考核、11月9日体检通过、正式录用为大学老师,印证3/3。方向全合。预测断语本身无应期(10月19日为二断日期非应期),timing记0。"),
+    ("H24M-761b7c79", 2.0, 2.0, 0.0,
+     "子断1条:①从她手里根本借不出钱。结局载一周后反馈一分钱也没借给,印证1/1。方向全合。预测断语本身无应期,timing记0。"),
+    ("H24M-7c1aaca5", 2.0, 1.5, 0.0,
+     "子断3条:①对方单位不同意要②调动不会成功③妻调动亦不成。结局载其妻一直未调动成功、1997年秋季仍在该社,②③印证;①对方不同意之原因结局未载,印证2/3。方向全合。预测断语本身无应期,timing记0。"),
+    ("H24M-a42ea67d", 2.0, 2.0, 2.0,
+     "子断4条:①临产母子平安②6月13日生③男孩④大胖小子。结局载6月13日平安生下又白又胖男孩,印证4/4。方向全合,应期6月13日精确命中。"),
+    ("H24M-af200726", 2.0, 1.5, 0.0,
+     "子断1条:①我有权力。结局载此人是纪检干部,属有权力的岗位,大体印证但断语笼统、权力层级未明,计1.5。方向合。预测断语本身无应期,timing记0。"),
+    ("H24M-b1441f76", 1.5, 1.0, 0.0,
+     "子断1条:①功量很大。结局载经营钢财生意发财数千万,成就规模大体相符,但断语极笼统、结局以财富印证属间接,计claims1.0。方向大体合。预测断语本身无应期,timing记0。"),
+    ("H24M-c756be6b", 2.0, 2.0, 0.0,
+     "子断3条:①去接郝先生会堵车②在三岔路口③途中。结局载次日驱车接郝先生、半路三岔路口聚众闹事堵塞交通不能前进,印证3/3。方向全合。预测断语本身无应期(未给日期,仅指此次行程),timing记0。"),
+    ("H24M-c7e54db8", 2.0, 1.5, 2.0,
+     "子断6条:①中彩②乙未日知中彩消息③中彩者为妻子④死者托梦码⑤托梦码为红色⑥贵人婚姻财帛喜等泛断。结局载4月23日乙未日知头奖9161、朋友老婆所买、曾梦死者托梦码9161且四字皆红,①②④⑤印证;③为朋友之妻非求测者之妻身份有偏,⑥结局未载,印证4/6计1.5。方向全合,应期乙未日精确命中。"),
+    ("H24M-cfdc16ca", 2.0, 2.0, 2.0,
+     "子断2条:①入党之事办不成②1999年阴历二月去石家庄必有车祸。结局载入党志愿书未上大会、事未办成;阴历二月二十三日张伟国骑摩托去石家庄与拖拉机相撞当场死亡,印证2/2。方向全合,应期阴历二月精确命中。"),
+    ("H24M-d0e301d5", 2.0, 2.0, 0.0,
+     "子断1条:①杀妇者为许忠(汝也)。结局载许惊愕叩首认罪实是也、因姦不从故杀之并置于法,印证1/1。方向全合。预测断语本身无应期,timing记0。"),
+    ("H24M-d0f2c7a0", 2.0, 1.0, 2.0,
+     "子断2条(先行揭示的背景断语结局多未载,不另计入):①女儿没走远、在同学家里住②今天中午11点后回来。结局载12点50分来电女儿刚回来(12点37分尚未回、1点前应验),②印证;事后述女儿由男友安排住市内旅馆,非同学家,①未印证且没走远仅部分合,印证1/2计claims1.0。方向(平安回来)全合,应期中午1点前精确命中。"),
+    ("H24M-dbf016b1", 2.0, 2.0, 2.0,
+     "子断2条:①妻子在外平安②7月22日回来。结局载7月22日下午妻子平安回到家,印证2/2。方向全合,应期7月22日精确命中。"),
+    ("H24M-e509b0ee", 1.5, 1.0, 0.0,
+     "子断1条:①所见为一個中三字(有一人中)。结局载果得梦者中矣,中之事应验,但断语仅三字、所指与范围不明,部分印证计1.0。方向大体合。预测断语本身无应期(次早为叙事时间非应期),timing记0。"),
+    ("H24M-e6b4d69f", 2.0, 2.0, 0.0,
+     "子断1条:①此笔钱很难找回。结局载一千元数目核对不上、查不到短缺之钱下落、只好自认倒霉自己补上,印证1/1。方向全合。预测断语本身无应期,timing记0。"),
+]
+
+def main():
+    packet = json.loads(PACKET.read_text(encoding="utf-8"))
+    packet_ids = [p["anon_id"] for p in packet]
+    assert len(packet_ids) == 27, len(packet_ids)
+
+    lines = []
+    for anon_id, d, c, t, reason in ROWS:
+        total = d + c + t
+        rec = {
+            "anon_id": anon_id,
+            "direction": d,
+            "claims": c,
+            "timing": t,
+            "total": total,
+            "pass": total >= 4,
+            "reason": reason,
+        }
+        lines.append(json.dumps(rec, ensure_ascii=False))
+
+    OUT.write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+    # --- read-back assertions ---
+    raw = OUT.read_text(encoding="utf-8").strip().splitlines()
+    assert len(raw) == 27, f"line count {len(raw)}"
+    recs = [json.loads(x) for x in raw]
+    assert {r["anon_id"] for r in recs} == set(packet_ids), "anon_id set mismatch"
+    assert len({r["anon_id"] for r in recs}) == 27, "duplicate anon_id"
+    for r in recs:
+        assert set(r.keys()) == {"anon_id", "direction", "claims", "timing", "total", "pass", "reason"}, r
+        for k in ("direction", "claims", "timing"):
+            v = r[k]
+            assert 0 <= v <= 2, (r["anon_id"], k, v)
+            assert abs(v * 2 - round(v * 2)) < 1e-9, (r["anon_id"], k, v)
+        assert abs(r["total"] - (r["direction"] + r["claims"] + r["timing"])) < 1e-9, r
+        assert r["pass"] == (r["total"] >= 4), r
+        assert isinstance(r["reason"], str) and r["reason"], r
+    n_pass = sum(1 for r in recs if r["pass"])
+    md = sum(r["direction"] for r in recs) / 27
+    mc = sum(r["claims"] for r in recs) / 27
+    mt = sum(r["timing"] for r in recs) / 27
+    print(f"OK lines=27 pass={n_pass} mean_direction={md:.4f} mean_claims={mc:.4f} mean_timing={mt:.4f}")
+    print("assertions: line_count=27 anon_id_set_equal=True fields_ok=True total_sum_ok=True pass_rule_ok=True range_step_ok=True")
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,344 @@
+{
+ "ours": {
+  "DS-019": 3.75,
+  "DS-020": 2.75,
+  "DS-021": 0.5,
+  "DS-022": 5.0,
+  "DS-023": 1.0,
+  "DS-024": 1.0,
+  "GSZ-034": 4.25,
+  "GSZ-038": 4.0,
+  "GSZ-041": 4.5,
+  "GSZ-042": 4.25,
+  "GSZ-043": 1.0,
+  "GSZ-046": 2.25,
+  "GSZ-047": 1.5,
+  "QM-021": 4.5,
+  "QM-022": 4.0,
+  "QM-023": 0.0,
+  "QM-024": 0.0,
+  "QM-025": 0.0,
+  "QM-206": 4.5,
+  "QM-207": 1.0,
+  "QM-307": 5.25,
+  "QM-308": 5.0,
+  "QM-309": 0.0,
+  "ZCB-012": 4.25,
+  "ZCB-013": 4.5,
+  "ZCB-014": 5.5,
+  "ZCB-015": 4.25
+ },
+ "master": {
+  "DS-019": 4.0,
+  "DS-020": 0.0,
+  "DS-021": 4.0,
+  "DS-022": 2.5,
+  "DS-023": 2.75,
+  "DS-024": 3.25,
+  "GSZ-034": 4.0,
+  "GSZ-038": 4.0,
+  "GSZ-041": 4.0,
+  "GSZ-042": 4.0,
+  "GSZ-043": 1.0,
+  "GSZ-046": 4.0,
+  "GSZ-047": 5.5,
+  "QM-021": 3.5,
+  "QM-022": 5.75,
+  "QM-023": 6.0,
+  "QM-024": 5.75,
+  "QM-025": 4.0,
+  "QM-206": 4.75,
+  "QM-207": 3.75,
+  "QM-307": 6.0,
+  "QM-308": 6.0,
+  "QM-309": 3.0,
+  "ZCB-012": 3.75,
+  "ZCB-013": 4.0,
+  "ZCB-014": 2.0,
+  "ZCB-015": 2.5
+ },
+ "main_caliber_low27": {
+  "n": 27,
+  "ours_mean": 2.907,
+  "master_mean": 3.843,
+  "pair_diff": -0.935,
+  "SE": 0.467,
+  "W/T/L": "10/2/15",
+  "criteria": {
+   "(i) ours_mean > master_mean": false,
+   "(ii) paired W > L": false,
+   "(iii) diff > 0": false
+  },
+  "PASS": false
+ },
+ "sealed_caliber_full27": {
+  "n": 27,
+  "ours_mean": 2.907,
+  "master_mean": 3.843,
+  "pair_diff": -0.935,
+  "SE": 0.467,
+  "W/T/L": "10/2/15",
+  "criteria": {
+   "(i) ours_mean > master_mean": false,
+   "(ii) paired W > L": false,
+   "(iii) diff > 0": false
+  },
+  "PASS": false
+ },
+ "side_note_diff_over_SE_main": -2.002,
+ "side_note_h17_style_SE_gate_would_hold": false,
+ "segments": {
+  "bazi_DS": {
+   "n": 6,
+   "ours_mean": 2.333,
+   "master_mean": 2.75,
+   "pair_diff": -0.417,
+   "SE": 1.052,
+   "W/T/L": "2/0/4"
+  },
+  "qimen_QM": {
+   "n": 10,
+   "ours_mean": 2.425,
+   "master_mean": 4.85,
+   "pair_diff": -2.425,
+   "SE": 0.734,
+   "W/T/L": "1/0/9"
+  },
+  "cezi_ZCB": {
+   "n": 4,
+   "ours_mean": 4.625,
+   "master_mean": 3.062,
+   "pair_diff": 1.562,
+   "SE": 0.71,
+   "W/T/L": "4/0/0"
+  },
+  "liuyao_GSZ": {
+   "n": 7,
+   "ours_mean": 3.107,
+   "master_mean": 3.786,
+   "pair_diff": -0.679,
+   "SE": 0.621,
+   "W/T/L": "3/2/2"
+  },
+  "non_liuyao": {
+   "n": 20,
+   "ours_mean": 2.837,
+   "master_mean": 3.862,
+   "pair_diff": -1.025,
+   "SE": 0.599,
+   "W/T/L": "7/0/13"
+  }
+ },
+ "per_tradition": {
+  "bazi": {
+   "n": 6,
+   "ours_mean": 2.333,
+   "master_mean": 2.75,
+   "pair_diff": -0.417,
+   "SE": 1.052,
+   "W/T/L": "2/0/4"
+  },
+  "cezi": {
+   "n": 4,
+   "ours_mean": 4.625,
+   "master_mean": 3.062,
+   "pair_diff": 1.562,
+   "SE": 0.71,
+   "W/T/L": "4/0/0"
+  },
+  "liuyao": {
+   "n": 7,
+   "ours_mean": 3.107,
+   "master_mean": 3.786,
+   "pair_diff": -0.679,
+   "SE": 0.621,
+   "W/T/L": "3/2/2"
+  },
+  "qimen": {
+   "n": 10,
+   "ours_mean": 2.425,
+   "master_mean": 4.85,
+   "pair_diff": -2.425,
+   "SE": 0.734,
+   "W/T/L": "1/0/9"
+  }
+ },
+ "qimen_direction_attached_read": {
+  "caliber": "qimen segment, ours side; per-case direction = mean of judgeO1/judgeO2 direction subscores (regardless of total-score arbitration); count cases with mean < 1.75",
+  "n_qimen": 10,
+  "count_direction_mean_below_1p75": 6,
+  "per_case_direction_mean": {
+   "QM-021": 2.0,
+   "QM-022": 1.25,
+   "QM-023": 0.0,
+   "QM-024": 0.0,
+   "QM-025": 0.0,
+   "QM-206": 2.0,
+   "QM-207": 0.25,
+   "QM-307": 2.0,
+   "QM-308": 2.0,
+   "QM-309": 0.0
+  }
+ },
+ "cz_qx_guardrail": {
+  "settled": false,
+  "note": "holdout24 contains 4 cezi cases; per R80 PREREG s.2 the cezi segment read is registered as an acceptance segment only, CZ-QX same-tier count stays 16 (settled at R76)."
+ },
+ "low_pollution": {
+  "gold_file": "benchmark/phase3/holdout24/test_gold.jsonl",
+  "contamination_field": "pollution",
+  "sealed_contamination_counts": {
+   "low": 27
+  },
+  "grade_counts": {
+   "A": 27
+  },
+  "host_mid_override": {},
+  "main_low_n": 27,
+  "sealed_low_n": 27,
+  "excluded_from_main": []
+ },
+ "max_abs_view_diff": {
+  "ours": 2.0,
+  "master": 1.0
+ },
+ "disputes_ours": [],
+ "disputes_master": [],
+ "per_case": {
+  "DS-019": {
+   "ours": 3.75,
+   "master": 4.0,
+   "diff": -0.25
+  },
+  "DS-020": {
+   "ours": 2.75,
+   "master": 0.0,
+   "diff": 2.75
+  },
+  "DS-021": {
+   "ours": 0.5,
+   "master": 4.0,
+   "diff": -3.5
+  },
+  "DS-022": {
+   "ours": 5.0,
+   "master": 2.5,
+   "diff": 2.5
+  },
+  "DS-023": {
+   "ours": 1.0,
+   "master": 2.75,
+   "diff": -1.75
+  },
+  "DS-024": {
+   "ours": 1.0,
+   "master": 3.25,
+   "diff": -2.25
+  },
+  "GSZ-034": {
+   "ours": 4.25,
+   "master": 4.0,
+   "diff": 0.25
+  },
+  "GSZ-038": {
+   "ours": 4.0,
+   "master": 4.0,
+   "diff": 0.0
+  },
+  "GSZ-041": {
+   "ours": 4.5,
+   "master": 4.0,
+   "diff": 0.5
+  },
+  "GSZ-042": {
+   "ours": 4.25,
+   "master": 4.0,
+   "diff": 0.25
+  },
+  "GSZ-043": {
+   "ours": 1.0,
+   "master": 1.0,
+   "diff": 0.0
+  },
+  "GSZ-046": {
+   "ours": 2.25,
+   "master": 4.0,
+   "diff": -1.75
+  },
+  "GSZ-047": {
+   "ours": 1.5,
+   "master": 5.5,
+   "diff": -4.0
+  },
+  "QM-021": {
+   "ours": 4.5,
+   "master": 3.5,
+   "diff": 1.0
+  },
+  "QM-022": {
+   "ours": 4.0,
+   "master": 5.75,
+   "diff": -1.75
+  },
+  "QM-023": {
+   "ours": 0.0,
+   "master": 6.0,
+   "diff": -6.0
+  },
+  "QM-024": {
+   "ours": 0.0,
+   "master": 5.75,
+   "diff": -5.75
+  },
+  "QM-025": {
+   "ours": 0.0,
+   "master": 4.0,
+   "diff": -4.0
+  },
+  "QM-206": {
+   "ours": 4.5,
+   "master": 4.75,
+   "diff": -0.25
+  },
+  "QM-207": {
+   "ours": 1.0,
+   "master": 3.75,
+   "diff": -2.75
+  },
+  "QM-307": {
+   "ours": 5.25,
+   "master": 6.0,
+   "diff": -0.75
+  },
+  "QM-308": {
+   "ours": 5.0,
+   "master": 6.0,
+   "diff": -1.0
+  },
+  "QM-309": {
+   "ours": 0.0,
+   "master": 3.0,
+   "diff": -3.0
+  },
+  "ZCB-012": {
+   "ours": 4.25,
+   "master": 3.75,
+   "diff": 0.5
+  },
+  "ZCB-013": {
+   "ours": 4.5,
+   "master": 4.0,
+   "diff": 0.5
+  },
+  "ZCB-014": {
+   "ours": 5.5,
+   "master": 2.0,
+   "diff": 3.5
+  },
+  "ZCB-015": {
+   "ours": 4.25,
+   "master": 2.5,
+   "diff": 1.75
+  }
+ }
+}
