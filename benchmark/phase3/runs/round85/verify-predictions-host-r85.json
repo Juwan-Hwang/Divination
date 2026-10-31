@@ -1,0 +1,93 @@
+{
+ "want": 487,
+ "files": 487,
+ "missing": [],
+ "extra": [],
+ "bad": [],
+ "trigger_counts": {
+  "changed_main": 26,
+  "reserve_used": 44,
+  "disputed": 57
+ },
+ "trigger_reasons_nonempty": 306,
+ "tradition_flag_candidates": [
+  {
+   "case_id": "AS-009",
+   "kind": "card_has_field_but_first_line_unmarked",
+   "card_tradition": "horary",
+   "card_system": null,
+   "first_line": "此卡未见 tradition 字段，按六宫小畜失踪问自决 horary。"
+  },
+  {
+   "case_id": "AS-307",
+   "kind": "card_has_field_but_first_line_unmarked",
+   "card_tradition": "astrology",
+   "card_system": null,
+   "first_line": "卡面未标注 tradition 字段，按题面体裁（HuffPost 群访多位选举占星师）自决"
+  },
+  {
+   "case_id": "BZ-104",
+   "kind": "card_has_field_but_first_line_unmarked",
+   "card_tradition": "bazi",
+   "card_system": null,
+   "first_line": "卡面 tradition＝bazi。systems_used：八字三家合参＋特格扫描第三类寒极偏枯。四柱照卡面 attachments 数组：壬子 癸丑 己酉 癸酉，男，日主己土（卡面明载）。输入残损（照实注明）：卡面未载出生公历日期与起运岁数，大运交界年龄为按壬子年生人少年求测（1987年）之情境推估，运名序列本身由月柱顺行确定无误；年龄段为约数。特格扫描：寒极四判据全具命中，运断喜忌以偏枯格为准——火运之吉须看火能否得根成暖：丙辰运丙火坐辰湿土、根弱，只能断调理转机不断痊愈高峰，已按此收束。功量核算（R80-REV1）：病势量级清单如断语所列，助病3线、救应0线，主线为寒湿直压日主，定带内重级。已载面核：题面明示「求测时此前无重大病伤记录」「邵就其四柱作出关于未来年份的断语」——本断主面即未来年份之病灾，与题面问向同面。"
+  },
+  {
+   "case_id": "BZ-105",
+   "kind": "card_has_field_but_first_line_unmarked",
+   "card_tradition": "bazi",
+   "card_system": null,
+   "first_line": "卡面 tradition＝bazi。systems_used：八字三家合参。四柱照卡面 attachments 数组：壬寅 庚戌 丙子 甲午，男，日主丙火（卡面明载），case_type＝retrodiction（卡面明载「测过去」回溯验证）。作断纪律：本断只用四柱与干支推演回溯两年，不引任何结局资料。特格扫描：炎上专旺两读——寅午戌火局成、丙火当戌月而余气未退，然子壬水杀透坐局中且为日主坐下之字，专旺判据③「无强力逆克之字」以杀透干坐日支论为有病待运，未锁定专旺，按身旺火局、杀为病字之正格读；燥极未命中（子壬水有位）。功量核算（R80-REV1）：两厄年量级主线为水杀得地克火，1983助病线1条（杀值年得亥根）、1984助病线2条（杀值年＋子午冲根宫），故断1984重于1983，量级对号有据。输入残损：出生公历日与起运岁数卡面未载，大运归属（癸丑运）按壬寅年生、1985年求测之年龄段推估，运名序列确定、交界可有数年之差，已降置信。"
+  },
+  {
+   "case_id": "BZ-301",
+   "kind": "card_has_field_but_first_line_unmarked",
+   "card_tradition": "bazi",
+   "card_system": null,
+   "first_line": "卡面 tradition＝bazi。systems_used：八字——但输入残损重大（照实注明并大幅降置信）：卡面未载任何四柱、建党时刻干支或起运数据，无从排盘、无从走格局旺衰与大运程序；1912年建党谱系仅为文字叙述，未给可排盘之时刻。本断未臆补任何干支盘面，方向只按题面情境（2011年执政、无存亡危机之问2022年）与组织盛衰通例给出，属低置信方向断；盘面触发无可指认，本例实质为「有问无盘」，特此明示。trigger按非六爻条款全false。"
+  },
+  {
+   "case_id": "BZ-302",
+   "kind": "card_has_field_but_first_line_unmarked",
+   "card_tradition": "bazi",
+   "card_system": null,
+   "first_line": "卡面 tradition＝bazi。systems_used：八字——输入残损（照实注明）：卡面未载缪斌四柱，无从排盘走格局程序。已载面表：①主问面＝批命书末句所指一生吉凶终局，已断；②题面锚点「受累于吴」四字为文字锚点——转应核：直读（吴姓之人/吴地之事牵连）与转应（吴为口舌、吴音近误/亡）并列，取直读，理由为命书语境是人事牵连叙事、且锚点以姓氏指人合批命书体例；转应面舍。断项证据：指代链只及题面锚点本身，盘面触发无可指认，故本断按低置信交付，前段富贵一节有卡面 basic_info 已载事实（少年得志、官至民政厅长）为据、非盘面推得，照实分开。trigger按非六爻条款全false。"
+  },
+  {
+   "case_id": "BZ-303",
+   "kind": "card_has_field_but_first_line_unmarked",
+   "card_tradition": "fengshui",
+   "card_system": null,
+   "first_line": "卡面 tradition＝fengshui。systems_used：风水理气（三元九运通例）——方法限度照实注明：kb-snapshot 八字篇附则明载风水两系规则互有矛盾、无实证检验，本库只作文化背景；本例为基准盲测之公开预言题，仍按三元九运通例（八运艮土2004–2023、九运离火2024起）作低置信方向断，不臆造任何峦头盘面（卡面未载任何坐向、门向、局格数据，形势面无据不报）。输入残损：无坐向与建筑数据，只有问时2016与问界2024两时间锚点，断语只及时间一面。trigger按非六爻条款全false。"
+  },
+  {
+   "case_id": "LY-626",
+   "kind": "card_has_field_but_first_line_unmarked",
+   "card_tradition": "六爻",
+   "card_system": null,
+   "first_line": "tradition＝六爻见卡面，本例占子病；systems_used=[六爻纳甲]。输入残损如实记：卡面 chart_note 明载在线本双栏OCR行序错乱、逐爻未能可靠还原，moving_lines 记静卦而原注另有涉动爻之说，两处相抵，disputed记true；asked_at作未记月日，月日以卡面 date_ganzhi「酉月壬辰日」为准。用神子孙不上卦：四源枚举——现卦无子孙、静卦无变爻、日月酉/辰非子孙之亲，三源俱无，只余本宫首卦寻伏一路，而卡面未载伏神爻位，不臆补伏神位置，reserve_used记true（已启用寻伏路径而伏位无据）。官鬼酉金五爻与三爻两现，酉月临建旺相，鬼旺两见为病势主据。原神（生子孙者妻财）未土、丑土两现静而辰日土旺，只作旁参。对象对齐与复述：病之愈否、病势主语均为子本人，同一。病位：逐爻不可靠还原，依据链缺环，病位无据不妄断。原神存续：子孙伏位无据，有根/源绝三征无从逐项核，明写无据、不以源绝翻转。应期疾病对表：用神伏藏类无恰合对表点（伏位未明），明写对表未取中，按子孙类逢值取午日作验点。R80：无量级断项，不适用。"
+  },
+  {
+   "case_id": "OC-003",
+   "kind": "card_no_field_but_first_line_claims_card_value",
+   "card_tradition": null,
+   "card_system": null,
+   "first_line": "卡面 tradition 一项阙如，依四柱八字题面自决。systems_used=['八字']。四柱丁卯丙午庚午己卯：庚金夏生无根身弱，丙丁午火官杀成势，己土正印透时化杀生身，卯木财星两见生火。主线：杀印相生、财滋杀源，弱身靠印立。功量核算：助成线—印透得午中己根、财生杀成链两条；压制线—身无金根、火势过旺两条，故等级定富贵双全而权位止于名望衔级、不拔至政界实权高位。无大运表，运段从略、不臆报运名。"
+  },
+  {
+   "case_id": "OC-011",
+   "kind": "card_no_field_but_first_line_claims_card_value",
+   "card_tradition": null,
+   "card_system": null,
+   "first_line": "卡面 tradition 未标注，依逝后验推题面作八字断。systems_used=['八字']。四柱庚戌辛巳己亥乙亥：己日巳月火印得令，辛伤官透、庚伤坐年，亥水财星日时两见冲巳，乙杀透时乘亥。主线：伤官生财本主艺名，印根被双亥冲动为病。功量核算：助成线—印得令、伤官泄秀两条主成名带；压制线—双亥冲印根、杀乘财逼身两条主终局，终局量级压至夭亡带，依据为印根（命之护）被冲尽。对象核对：病位/情祸承受与应验同为命主本人。无大运表，寿关以年龄量级表达。"
+  },
+  {
+   "case_id": "OC-014",
+   "kind": "card_no_field_but_first_line_claims_card_value",
+   "card_tradition": null,
+   "card_system": null,
+   "first_line": "本例卡面 tradition 未载，依四柱作八字断。systems_used=['八字']。四柱庚辰己卯壬寅辛丑：壬日卯月伤官得令，寅卯木势泄身，庚辛印两透生身，己官透月。主线：伤官佩印、印护官星，主专业型官僚。功量核算：助成线—双印生身、己官得辰丑根两条；压制线—木泄过重、官星己土受卯克一条，故官级带上限钉在厅局级、不拔阁部，依据为官星受克而印只护身不助官。无大运表，峰段以中年定性表达。"
+  }
+ ],
+ "claim_group_candidates": []
+}
