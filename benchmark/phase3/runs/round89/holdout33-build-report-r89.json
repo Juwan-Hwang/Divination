@@ -1,0 +1,185 @@
+{
+ "set": "holdout33",
+ "round": 89,
+ "n_cards": 28,
+ "n_gold_lines": 28,
+ "gold_sha256_build": "47a92f43894ac91b9a2fa049aed6d8ed14223d3acbc99632e69c6d55cd985fbb",
+ "gold_bytes": 45630,
+ "order": [
+  "DA-066",
+  "DA-067",
+  "DA-068",
+  "DA-070",
+  "DA-072",
+  "DA-073",
+  "DA-074",
+  "BY-039",
+  "BY-041",
+  "BY-042",
+  "BY-043",
+  "BY-044",
+  "BY-045",
+  "BY-046",
+  "WHY-092",
+  "WHY-093",
+  "WHY-095",
+  "WHY-096",
+  "WHY-098",
+  "WHY-099",
+  "WHY-100",
+  "WHY-103",
+  "WHY-104",
+  "WHY-106",
+  "WHY-107",
+  "WHY-108",
+  "WHY-109",
+  "WHY-110"
+ ],
+ "snapshot_files": [
+  "SKILL.md",
+  "VALIDATION.md",
+  "VERIFY-LOG.txt",
+  "references/MANIFEST.md",
+  "references/PROTOCOL.md",
+  "references/README.md",
+  "references/calibration.md",
+  "references/chinese-bazi-ziwei.md",
+  "references/chinese-cezi.md",
+  "references/chinese-liuren.md",
+  "references/chinese-liuyao-meihua.md",
+  "references/chinese-mengzhan.md",
+  "references/chinese-qimen.md",
+  "references/chinese-yijing.md",
+  "references/chinese-ziwei.md",
+  "references/lifekline-method.md",
+  "references/western-astro-numerology-runes.md",
+  "references/western-tarot.md",
+  "tools/cast_iching.py",
+  "tools/draw_runes.py",
+  "tools/draw_tarot.py"
+ ],
+ "strip_register": {
+  "DA-066": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+  ],
+  "DA-067": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+  ],
+  "DA-068": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+  ],
+  "DA-070": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+  ],
+  "DA-072": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+  ],
+  "DA-073": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+  ],
+  "DA-074": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+  ],
+  "BY-039": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+  ],
+  "BY-041": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+  ],
+  "BY-042": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+  ],
+  "BY-043": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+  ],
+  "BY-044": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+  ],
+  "BY-045": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+  ],
+  "BY-046": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+  ],
+  "WHY-092": [
+   "master_prediction（台账原录为要旨摘录、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+  ],
+  "WHY-093": [
+   "master_prediction（台账原录为要旨摘录、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+  ],
+  "WHY-095": [
+   "master_prediction（台账原录为要旨摘录、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+  ],
+  "WHY-096": [
+   "master_prediction（台账原录为要旨摘录、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+  ],
+  "WHY-098": [
+   "master_prediction（台账原录为要旨摘录、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+  ],
+  "WHY-099": [
+   "master_prediction（台账原录为要旨摘录、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+  ],
+  "WHY-100": [
+   "master_prediction（台账原录为要旨摘录、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+  ],
+  "WHY-103": [
+   "master_prediction（台账原录为要旨摘录、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+  ],
+  "WHY-104": [
+   "master_prediction（台账原录为要旨摘录、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+  ],
+  "WHY-106": [
+   "master_prediction（台账原录为要旨摘录、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+  ],
+  "WHY-107": [
+   "master_prediction（台账原录为要旨摘录、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+  ],
+  "WHY-108": [
+   "master_prediction（台账原录为要旨摘录、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+  ],
+  "WHY-109": [
+   "master_prediction（台账原录为要旨摘录、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+  ],
+  "WHY-110": [
+   "master_prediction（台账原录为要旨摘录、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+  ]
+ },
+ "field_mapping_notes": {
+  "DA-066": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+  "DA-067": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+  "DA-068": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+  "DA-070": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+  "DA-072": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+  "DA-073": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+  "DA-074": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+  "BY-039": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+  "BY-041": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+  "BY-042": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+  "BY-043": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+  "BY-044": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+  "BY-045": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+  "BY-046": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原文复原课盘；setting/provenance←池卡 provenance 组写",
+  "WHY-092": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+  "WHY-093": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+  "WHY-095": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+  "WHY-096": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+  "WHY-098": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+  "WHY-099": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+  "WHY-100": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+  "WHY-103": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+  "WHY-104": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+  "WHY-106": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+  "WHY-107": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+  "WHY-108": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+  "WHY-109": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写",
+  "WHY-110": "anchors←台账 input_fields.chart 全列逐字；context←asked_at＋question＋原书章节定位组写"
+ },
+ "limits": {
+  "tradition_liuren": 0.5,
+  "tradition_liuyao": 0.5,
+  "source_max_share": 0.5,
+  "non_yijian": 28,
+  "non_liuyao": 14,
+  "all_low": true
+ }
+}
