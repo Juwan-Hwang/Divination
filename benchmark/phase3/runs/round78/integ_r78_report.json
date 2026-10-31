@@ -1,0 +1,165 @@
+{
+ "calibration": {
+  "before_sha256": "0bdafabcdb0cbb6012cb2c3b4ee20b0bb67e30e34c95a929853df56c6ddb6402",
+  "before_bytes": 21225,
+  "after_sha256": "a0858ca4c51a73bd4760b10e6ab761e7b810c05864958bd88a60e82cd468d691",
+  "after_bytes": 25223
+ },
+ "skill": {
+  "before_sha256": "b8901a1ad9880fb2fb24434757da68825b893227618113f66468b3f6dbb02cc0",
+  "before_bytes": 39905,
+  "after_sha256": "bd3550b5196a532368e9500d4a2d374e49bb71e8e1d13248e11f60c69bbdd63c",
+  "after_bytes": 40076
+ },
+ "draft_lines": 31,
+ "o_line": "- (o) 方向对决：作断起手先行主断方向双路对决前置裁决（正本见 references/calibration.md 第七节，R78-REV1，自集成之次轮起算效力）",
+ "checks": {
+  "cal_append_exact": true,
+  "skill_diff_added": [
+   "- (o) 方向对决：作断起手先行主断方向双路对决前置裁决（正本见 references/calibration.md 第七节，R78-REV1，自集成之次轮起算效力）"
+  ],
+  "skill_diff_removed": [],
+  "skill_diff_exact": true,
+  "stripback_cal_prefix_is_before": true,
+  "stripback_cal_remainder": true,
+  "stripback_skill_sha_equal": true,
+  "stripback_ok": true,
+  "others_count": 19,
+  "others_all_equal": true
+ },
+ "others": [
+  {
+   "rel": "VALIDATION.md",
+   "snapshot_exists": true,
+   "method_sha": "873344486dd3f327ca83fccdc82525b04ad54cb435397567940058ffd483d5eb",
+   "snapshot_sha": "873344486dd3f327ca83fccdc82525b04ad54cb435397567940058ffd483d5eb",
+   "equal": true
+  },
+  {
+   "rel": "VERIFY-LOG.txt",
+   "snapshot_exists": true,
+   "method_sha": "9e3999d6d36abe7db2d688128b7aa4d900b75d216b319250bd535d4611f07c0b",
+   "snapshot_sha": "9e3999d6d36abe7db2d688128b7aa4d900b75d216b319250bd535d4611f07c0b",
+   "equal": true
+  },
+  {
+   "rel": "references/MANIFEST.md",
+   "snapshot_exists": true,
+   "method_sha": "8efe139f7ea558e762524abbf1d7c1cbb01cd32ba2f34f1550bef076b60e8acc",
+   "snapshot_sha": "8efe139f7ea558e762524abbf1d7c1cbb01cd32ba2f34f1550bef076b60e8acc",
+   "equal": true
+  },
+  {
+   "rel": "references/PROTOCOL.md",
+   "snapshot_exists": true,
+   "method_sha": "f26a9531e6f93e9d0fbb11e18946e73110a5a8eeb2bd5e20d73bffd1994e17c9",
+   "snapshot_sha": "f26a9531e6f93e9d0fbb11e18946e73110a5a8eeb2bd5e20d73bffd1994e17c9",
+   "equal": true
+  },
+  {
+   "rel": "references/README.md",
+   "snapshot_exists": true,
+   "method_sha": "76954545e781f9877eed1a9a1748438d2c72d856613922fd703848efc3db3b08",
+   "snapshot_sha": "76954545e781f9877eed1a9a1748438d2c72d856613922fd703848efc3db3b08",
+   "equal": true
+  },
+  {
+   "rel": "references/chinese-bazi-ziwei.md",
+   "snapshot_exists": true,
+   "method_sha": "ad2f38cd0b1f42e1951e924206460cdef8056b4b3d644a8c3e6d7491bfecd3af",
+   "snapshot_sha": "ad2f38cd0b1f42e1951e924206460cdef8056b4b3d644a8c3e6d7491bfecd3af",
+   "equal": true
+  },
+  {
+   "rel": "references/chinese-cezi.md",
+   "snapshot_exists": true,
+   "method_sha": "bbb2e0302d91ad179c2f56a8ccc52631be2121c9f847ec7d98516de1df5b5d44",
+   "snapshot_sha": "bbb2e0302d91ad179c2f56a8ccc52631be2121c9f847ec7d98516de1df5b5d44",
+   "equal": true
+  },
+  {
+   "rel": "references/chinese-liuren.md",
+   "snapshot_exists": true,
+   "method_sha": "a04697180dbee602dbcfacad6d493d9461c7bc8a249dea51022f45395514e89a",
+   "snapshot_sha": "a04697180dbee602dbcfacad6d493d9461c7bc8a249dea51022f45395514e89a",
+   "equal": true
+  },
+  {
+   "rel": "references/chinese-liuyao-meihua.md",
+   "snapshot_exists": true,
+   "method_sha": "906bd0703d915de92032a1b7c6d259fb257f40d62585d323db4e8a4b9a6a24be",
+   "snapshot_sha": "906bd0703d915de92032a1b7c6d259fb257f40d62585d323db4e8a4b9a6a24be",
+   "equal": true
+  },
+  {
+   "rel": "references/chinese-mengzhan.md",
+   "snapshot_exists": true,
+   "method_sha": "f178e6676dc0ac9aaaac921d477d863fc5e0e3e93002dbcc99f9f5ba2889167e",
+   "snapshot_sha": "f178e6676dc0ac9aaaac921d477d863fc5e0e3e93002dbcc99f9f5ba2889167e",
+   "equal": true
+  },
+  {
+   "rel": "references/chinese-qimen.md",
+   "snapshot_exists": true,
+   "method_sha": "1565c5128a0f08dbc36bc4c5395ab1cca284dd765ebc5cb8994f87f0a2ce9bb0",
+   "snapshot_sha": "1565c5128a0f08dbc36bc4c5395ab1cca284dd765ebc5cb8994f87f0a2ce9bb0",
+   "equal": true
+  },
+  {
+   "rel": "references/chinese-yijing.md",
+   "snapshot_exists": true,
+   "method_sha": "fe9347d5bdc2f9c37674eaa935ea2decc56f04bb6c4ea743b3564a51d4cebb07",
+   "snapshot_sha": "fe9347d5bdc2f9c37674eaa935ea2decc56f04bb6c4ea743b3564a51d4cebb07",
+   "equal": true
+  },
+  {
+   "rel": "references/chinese-ziwei.md",
+   "snapshot_exists": true,
+   "method_sha": "f7399079dee7f79bc4580577cad9c9d075e704e273de671fc28ed291354dfedf",
+   "snapshot_sha": "f7399079dee7f79bc4580577cad9c9d075e704e273de671fc28ed291354dfedf",
+   "equal": true
+  },
+  {
+   "rel": "references/lifekline-method.md",
+   "snapshot_exists": true,
+   "method_sha": "e233918190ab85565548ead8cf25f0b92be65150e680fe5bc52e7ab35add194f",
+   "snapshot_sha": "e233918190ab85565548ead8cf25f0b92be65150e680fe5bc52e7ab35add194f",
+   "equal": true
+  },
+  {
+   "rel": "references/western-astro-numerology-runes.md",
+   "snapshot_exists": true,
+   "method_sha": "933dd1ab32588997c3b898542f818738f55bbfe315b4f3f194d8e5eab8c6224f",
+   "snapshot_sha": "933dd1ab32588997c3b898542f818738f55bbfe315b4f3f194d8e5eab8c6224f",
+   "equal": true
+  },
+  {
+   "rel": "references/western-tarot.md",
+   "snapshot_exists": true,
+   "method_sha": "c6f4790a20cde7fb88d9d0c3ec14e8f79705ec2873af5c21eef0c70706f1fb1c",
+   "snapshot_sha": "c6f4790a20cde7fb88d9d0c3ec14e8f79705ec2873af5c21eef0c70706f1fb1c",
+   "equal": true
+  },
+  {
+   "rel": "tools/cast_iching.py",
+   "snapshot_exists": true,
+   "method_sha": "e883bf6dbb8e0d07c95543ec738a94b5fe2decbb937ea47fec6dce88ab5e576e",
+   "snapshot_sha": "e883bf6dbb8e0d07c95543ec738a94b5fe2decbb937ea47fec6dce88ab5e576e",
+   "equal": true
+  },
+  {
+   "rel": "tools/draw_runes.py",
+   "snapshot_exists": true,
+   "method_sha": "049c229bb19bc99ef244ec6455a51d0c71fc6b2a40e7654539ba45b7c9e00cb9",
+   "snapshot_sha": "049c229bb19bc99ef244ec6455a51d0c71fc6b2a40e7654539ba45b7c9e00cb9",
+   "equal": true
+  },
+  {
+   "rel": "tools/draw_tarot.py",
+   "snapshot_exists": true,
+   "method_sha": "c6fb4de262648739d25ea7561bd1e178fbb6ed92015d2d2062fc0f0a6b703e74",
+   "snapshot_sha": "c6fb4de262648739d25ea7561bd1e178fbb6ed92015d2d2062fc0f0a6b703e74",
+   "equal": true
+  }
+ ]
+}
