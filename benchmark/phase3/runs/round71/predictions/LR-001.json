@@ -1,0 +1,12 @@
+{
+ "case_id": "LR-001",
+ "prediction_text": "有惊无险、生还 positive：西安事变中蒋介石性命无虞，终局为被释放南返，不死于此变；过程先扣押惊险、后经谈判转机。时间窗以月档论，主转机在本月下旬。置信因无盘面残损下调。",
+ "basis": "蒋介石西安事变安危一题；此卡以 id 立目、卡面未标注 tradition 字段，按题面体裁自决：名人安危占例；输入残损：卡面未载任何卦盘、课盘或起断记录（仅 subject 与 setting），无盘可凭、不臆补盘面，仅按事变占问的通行断法与题面『外界普遍担忧性命之虞』作低置信方向断，并在此注明残损。非六爻例，trigger 照规全 false。",
+ "confidence": 0.35,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

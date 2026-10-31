@@ -1,0 +1,12 @@
+{
+ "case_id": "BZ-301",
+ "prediction_text": "衰而不亡 negative（对执政前景）：公开断2022年国民党走向——无四柱盘面可凭，只按题面公开预测体裁断其气运：2022年仍无力重返执政、党势低迷内耗，地方层面或有斩获亦不足以言复兴。时间窗即2022年（年档）。",
+ "basis": "中国国民党一题，卡面仅 basic_info 而无出生盘面与四柱；tradition=bazi（卡面逐字）；输入残损：无命造四柱、无起断盘面，不臆补盘面，仅按2011年发问时点与其政党气运作低置信方向断，basis 在此注明残损并降置信。",
+ "confidence": 0.3,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

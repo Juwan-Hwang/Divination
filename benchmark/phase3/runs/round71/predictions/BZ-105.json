@@ -1,0 +1,12 @@
+{
+ "case_id": "BZ-105",
+ "prediction_text": "回溯断验：丙火生戌月，子午冲贯日时、寅午半合火局，主过去两关键年份一主病伤住院、一主职务行伍中惊险变动；子水官星冲午禄，病象偏于心经血分与寒热之疾，然火局有根终得脱险。运/年档回溯，先定年再及月。",
+ "basis": "某部军官一造，四柱壬寅 庚戌 丙子 甲午（basic_info 卡面原文）先行；tradition=bazi（卡面逐字）；卡面明示此例属测过去之回溯验证、非未来预测，故 prediction 只作回溯断语；丙火得寅午戌火势，身强，子午冲为局眼，冲在日时主本人病伤与行伍奔波之验，庚金财透防因财因公受伤。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

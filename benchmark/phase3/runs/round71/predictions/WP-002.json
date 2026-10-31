@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-002",
+ "prediction_text": "Barack Obama wins the 2008 US presidential election: the Democratic challenger defeats John McCain on 4 November 2008, a change-of-order victory rather than continuity. Single-point timing: Election Day 2008.",
+ "basis": "Card bears no tradition field; decided by genre: mundane/election astrology (WP-002 asked 20 May 2008; Saturn–Uranus opposition beginning on Election Day, last seen 45 years earlier).\nSaturn–Uranus opposition on the day itself is the classic signature of the old order breaking — favouring the insurgent/change candidate over the establishment successor. Obama had not yet clinched the nomination, so the prediction commits first to his nomination holding, then the general win.",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "BZ-031",
+ "prediction_text": "大富 positive：己土坐巳得午印生扶，庚金伤官透时泄秀，主以才智经营成业、白手起大富，名利俱收；财星亥水在年，财源在外埠。运/年档，青壮年起家、中年鼎盛。",
+ "basis": "邵邨人一造，四柱己亥 戊辰 己巳 庚午先行；tradition=bazi（卡面逐字）；卡面载时柱初报辛未、韦氏改定庚午（disputed 仅属卡面时柱争议，本例非六爻 trigger 照规全 false）；己土得巳午火印生扶身强，庚伤官生亥财，伤官生财主经营发迹，劫财戊透防合伙分财。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

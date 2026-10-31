@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Hillary Clinton wins the 2016 election, and what decides it is the email/Foundation controversy: the tarot reading points to Clinton prevailing narrowly on 8 November 2016, with the late email controversy as the decisive drag that makes the margin far smaller than mid-summer polls suggested — damaging but not reversing her win.",
+ "basis": "Card bears no tradition field; decided by genre: tarot election reading (WP-007 Manhattan tarot reader, August 2016; Clinton email controversy and Foundation already public controversies on the card).\nThe question asks both winner and deciding factor; the card's own setting foregrounds the two Clinton controversies, so they are named as the deciding variable. Direction follows the August polling lead the reading was given against; the controversies are read as margin-cutters, not outcome-flippers, and that distinction is stated explicitly.",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

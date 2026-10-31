@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-005",
+ "prediction_text": "Donald Trump wins the 2016 US presidential election: the contrarian reader who alone picked Trump as Republican nominee from a 17-candidate field follows through — Trump defeats Hillary Clinton on 8 November 2016 in an upset against the polls.",
+ "basis": "Card bears no tradition field; decided by genre: mundane/election astrology, single-reader track record (WP-005 setting differs from the panel card: this reader had earlier picked Trump as nominee when 17 Republicans contested).\nA demonstrated early, specific, against-consensus hit on the nomination is weighted above the generic polling lead; the same reader's line is extended to the general election. This is the distinguishing fact on this card versus WP-004 and is stated as the basis for the opposite direction.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
