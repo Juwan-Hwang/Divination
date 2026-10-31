@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Donald Trump will win the 2016 election — and what decides it is scandal around Hillary Clinton, specifically the email affair. The Union Square tarot reading of August 2016, made while Clinton led the polls, points to the Democrat's campaign being undone not by policy or turnout mechanics but by revelation: the email controversy (with the Clinton Foundation questions feeding the same current) resurfaces as the campaign's deciding wound in the final stretch, and Trump — the disruptive figure in the spread — takes the White House on 8 November 2016.",
+ "basis": "The card carries no tradition/system field; the item is a tarot consultation reported in August 2016, decided by the tarot frame the card itself establishes. systems_used: tarot (Waite-tradition reading as the benchmark's default for tarot items). Input limitation, recorded plainly: the card does NOT reproduce the actual cards drawn, so no card-by-card Waite exegesis can be performed and none is fabricated; the prediction is built only from what the card supplies — the consultation's existence, its August 2016 date against a Clinton polling lead, and the two Clinton controversies the card itself names (emails, Foundation) as already-public deciding material. The 'what decides it' element is therefore tied to the email scandal, the stronger of the two named currents. Confidence set low-moderate for the missing spread.",
+ "confidence": 0.42,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

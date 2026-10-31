@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-004",
+ "prediction_text": "断：消息不实——国王并未攻下剑桥（Cambridge 未陷）。四角皆变动主事虚浮无根，月亮落陷无喜之座、居落宫，七宫主（国王方）入弱受克，上升主（议会方）在擢升强位；谣言将自散。应期（日档）：数日内即知其伪，无后续陷城之事。方向：negative（传闻为假）。",
+ "basis": "卡面未设 tradition 字段，依谣言真伪问自决 horary。\nsystems_used: horary（Lilly 谣言章法）。依据：angles moveable、Moon cadent、lord of 7th entering fall and afflicted、lady of Ascendant in exaltation，四证同指伪。R80-REV1：无量级类断项，不适用。应期日档：谣言核验为近事，窗口数日。",
+ "confidence": 0.85,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

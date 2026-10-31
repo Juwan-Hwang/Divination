@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-015",
+ "prediction_text": "断分两层：①夫在海上平安活着——夫星太阳得其hayz、全无受克，主人安然，终将归来；归期（月档）以月行至约20°、火土成恶相之期为远段坐标，取数月量级内归抵。②妻自身凶：六宫主土星逆行主她久病反复，火星与土星趋成恶相、火星近月位约2°，主她病势转恶，恐在夫归前后亡故/不见夫生还相见。终局：夫生归（positive for husband），妻身危殆（negative for querent herself）。",
+ "basis": "卡面未见 tradition 字段，按七宫夫在海问自决 horary。\nsystems_used: horary。依据：husband's significator Sun in hayz free from all affliction；Saturn lord of 6th retrograde（妻病反复，卡面事实）；Mars/Saturn moving to ill aspect。对象复述（病/行人类复核）：夫之断应验对象＝夫本人（太阳指代链）；妻病之断应验对象＝问者本人（六宫主指她），两不回收混同。残损：卡面自注 positions partly garbled，归期只取月档不落日。R80-REV1：妻病量级线——土星逆行（压制）＋火土趋恶相（压制主线）定带重带，断危殆；夫方无压制线，断平安足级。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

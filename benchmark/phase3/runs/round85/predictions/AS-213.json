@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-213",
+ "prediction_text": "方向：逃犯可被捉回（positive，对『可否找回』答是）。方位：向东——十二宫头射手、其主木星在狮子、天象四分与月亮所在星座四证一致向东。木星在八宫、月亮近上升，月刚脱木星三合而趋冲太阳且双方皆在角宫，木星与水星有相位，具体断语：逃犯往东走、行踪不远且易被发现，将被官面/追捕者拿获带回，非远遁无踪。应期：单位日，窗口为数日内，主坐标为月亮冲太阳成相之日附近（问后数日）。",
+ "basis": "卡面 tradition＝horary\nsystems_used: horary（Lilly 逃犯占）\n依据：方位四证 unanimously eastward 照卡面逐字据；月近上升主行踪显露、月冲日于角宫主与追捕方正面相遇，木水相位主消息/文书线索助获。卡面未记日期，应期按近事日档。",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

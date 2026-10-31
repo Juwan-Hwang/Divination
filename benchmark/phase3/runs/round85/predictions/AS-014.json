@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-014",
+ "prediction_text": "断：贼非所疑二人——非女仆（火星所示者，以火星在自界脸被拒取），亦非土星所示者（同在自界脸被略）；真贼为水星所指的男子：年轻/书办文书一类男子，水星居角无尊贵、合土星刑火星，两皆阳星、月亮在阳座趋火星，皆指男性。钱追回难：主至多追回一部，余数难全（月近太阳而离、货方线索弱）。应期（日档至旬）：旬内贼形可明，追赃无确期。方向：贼身判定为水星男（positive on identity）；赃回为 partial/偏负。",
+ "basis": "此卡 tradition 字段未载，依盗问体裁自决 horary。\nsystems_used: horary。依据：Mars lord Asc in own terms and face therefore refused as thief；Saturn in 7th likewise in term/face passed by；Mercury in angle no essential dignity, partile conj Saturn square Mars, taken to signify thief；Moon masculine sign。残损：卡面未给二宫主（货星）位置，追赃一路依据不足，置信降至0.60并只断一部。R80-REV1：追赃量级——助成线0可指认、压制线（月近太阳）1，定带低带，断至多一部，与主线同向。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

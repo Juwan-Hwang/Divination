@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-305",
+ "prediction_text": "方向：唐纳德·特朗普以极小差距赢得 2024 年美国总统选举（positive 于特朗普）。具体断语：盘面势均力敌、作者自承极难判断，最终取舍落在特朗普——其胜在选举人团而非声势，哈里斯普选表现接近甚至占优亦不足以翻盘。应期：单位日，窗口为 2024 年 11 月 5 日，主坐标为投票日当夜见分晓。",
+ "basis": "卡面未标注 tradition 字段，按题面体裁（Astrology King 选举盘分析）自决\nsystems_used: western-astrology（选举日盘＋候选人行运）\n输入残损：卡面明言原作者自承盘面势均力敌、极难判断，且未附任何盘面数据；按通则在两强相持时以选举日月亮/上升对特朗普之微弱优势定取舍，明写此为低置信取舍。",
+ "confidence": 0.48,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

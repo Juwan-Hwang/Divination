@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-009",
+ "prediction_text": "断：狗可找回。狗星在西方星座、南象限偏西，主往城之西/西南部寻；狗星与上升同三合性主狗仍在伦敦城内，又趋三合六宫头，主失而复得。应期（日档）：窗口数日，主坐标为下周一（太阳趋向与上升主土星成相之日）前后得讯或找回。方向：positive（可寻回）。注：卡面多处字形在OCR中残损，置信下调。",
+ "basis": "此卡未见 tradition 字段，按六宫小畜失踪问自决 horary。\nsystems_used: horary。依据：6th lord（dog）in western sign, southern quarter verging west；same triplicity as Ascendant＝仍在城内；applying trine cusp of 6th＝复得；Sun on following Monday applying to Saturn lord of Asc。残损说明：卡面自注 several glyphs garbled，方向细节置信降至0.62。R80-REV1：无量级断项，不适用。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

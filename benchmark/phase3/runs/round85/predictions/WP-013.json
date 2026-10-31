@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-013",
+ "prediction_text": "方向：工党在斯塔默领导下获胜。具体断语：工党赢得下议院多数、组建新政府，执政保守党在苏纳克领导下落败下台。应期：2024 年 7 月 4 日选举日揭晓（窗口即选举日、主坐标 7 月 4 日，单位：日）。",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决（大选世事预测）\nsystems_used: western mundane assessment（事实优先序）\n题面已载：工党民调领先约二十分、执政党首相因提前离开纪念仪式受批评。按通则（e）事实优先与（b）等级校准：二十分量级领先足以支撑多数胜选之足级断语，无盘面或事实触发支持保守党保住政权。卡面仅记选举落在巨蟹座一语，无完整盘面，不另报盘面断语。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "非六爻，三项全 false。"
+ }
+}

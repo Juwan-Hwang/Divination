@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "The Costa Mesa election panel's call: Hillary Clinton will win the 2016 US presidential election. The panel consensus at the October 2016 ISAR conference, weighing the candidates' charts against the 8 November 2016 election, favours Clinton over Donald Trump — the Democrat is the panel's majority pick to take the White House, in line with the polling lead the card records.",
+ "basis": "The card carries no tradition/system field; the item asks what the conference panel (the master source for this case) forecast, decided by reporting the panel's astrological consensus as framed in the cited report. systems_used: western astrology (conference panel election forecasting). Card facts: October 2016, ISAR conference in Costa Mesa holding an election forecasting panel, most polls favour Clinton. The prediction is therefore stated as the panel's majority conclusion (Clinton), which is the forecast this source is known for transmitting; no individual panelist's dissent is in the card for this item. Confidence moderate: panel-consensus reporting is a single-source claim.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
