@@ -1,0 +1,314 @@
+{
+ "cards_scanned": 28,
+ "scan1_forbidden_keys_recursive": {
+  "hits": 0,
+  "detail": []
+ },
+ "scan1_leak_markers_L1_L2_LEAK": {
+  "hits": 0,
+  "detail": []
+ },
+ "scan2_master_names": {
+  "hits": 49,
+  "detail": [
+   [
+    "DA-066",
+    "邵彦和",
+    ".setting",
+    "《大六壬断案》（邵彦和）；案066（底本数字文本；疏正/新编互校页图备于scratch-archive/mutual，本例底本断验文字可读、未触发定点查阅）"
+   ],
+   [
+    "DA-067",
+    "邵彦和",
+    ".setting",
+    "《大六壬断案》（邵彦和）；案067（底本数字文本；疏正/新编互校页图备于scratch-archive/mutual，本例底本断验文字可读、未触发定点查阅）"
+   ],
+   [
+    "DA-068",
+    "邵彦和",
+    ".setting",
+    "《大六壬断案》（邵彦和）；案068（底本数字文本；疏正/新编互校页图备于scratch-archive/mutual，本例底本断验文字可读、未触发定点查阅）"
+   ],
+   [
+    "DA-070",
+    "邵彦和",
+    ".setting",
+    "《大六壬断案》（邵彦和）；案070（底本数字文本；疏正/新编互校页图备于scratch-archive/mutual，本例底本断验文字可读、未触发定点查阅）"
+   ],
+   [
+    "DA-072",
+    "邵彦和",
+    ".setting",
+    "《大六壬断案》（邵彦和）；案072（底本数字文本；疏正/新编互校页图备于scratch-archive/mutual，本例底本断验文字可读、未触发定点查阅）"
+   ],
+   [
+    "DA-073",
+    "邵彦和",
+    ".setting",
+    "《大六壬断案》（邵彦和）；案073（底本数字文本；疏正/新编互校页图备于scratch-archive/mutual，本例底本断验文字可读、未触发定点查阅）"
+   ],
+   [
+    "DA-074",
+    "邵彦和",
+    ".setting",
+    "《大六壬断案》（邵彦和）；案074（底本数字文本；疏正/新编互校页图备于scratch-archive/mutual，本例底本断验文字可读、未触发定点查阅）"
+   ],
+   [
+    "BY-039",
+    "张官德",
+    ".setting",
+    "《六壬辨疑·毕法案录》（张官德）；毕法案录课例四十六，书p174（PDF p186）"
+   ],
+   [
+    "BY-039",
+    "张官德",
+    ".provenance",
+    "《六壬辨疑·毕法案录》（清·张官德撰、郑同校；incoming/wanted-books-2/Book/ 扫描本（无文字层））·毕法案录课例四十六，书p174（PDF p186）；底本为用户提供，redistributable=false"
+   ],
+   [
+    "BY-041",
+    "张官德",
+    ".setting",
+    "《六壬辨疑·毕法案录》（张官德）；毕法案录课例四十八，书p175（PDF p187）"
+   ],
+   [
+    "BY-041",
+    "张官德",
+    ".provenance",
+    "《六壬辨疑·毕法案录》（清·张官德撰、郑同校；incoming/wanted-books-2/Book/ 扫描本（无文字层））·毕法案录课例四十八，书p175（PDF p187）；底本为用户提供，redistributable=false"
+   ],
+   [
+    "BY-042",
+    "张官德",
+    ".setting",
+    "《六壬辨疑·毕法案录》（张官德）；毕法案录课例四十九，书p175-176（PDF p187-188）"
+   ],
+   [
+    "BY-042",
+    "张官德",
+    ".provenance",
+    "《六壬辨疑·毕法案录》（清·张官德撰、郑同校；incoming/wanted-books-2/Book/ 扫描本（无文字层））·毕法案录课例四十九，书p175-176（PDF p187-188）；底本为用户提供，redistributable=false"
+   ],
+   [
+    "BY-043",
+    "张官德",
+    ".setting",
+    "《六壬辨疑·毕法案录》（张官德）；毕法案录课例五十一，书p177（PDF p189）"
+   ],
+   [
+    "BY-043",
+    "张官德",
+    ".provenance",
+    "《六壬辨疑·毕法案录》（清·张官德撰、郑同校；incoming/wanted-books-2/Book/ 扫描本（无文字层））·毕法案录课例五十一，书p177（PDF p189）；底本为用户提供，redistributable=false"
+   ],
+   [
+    "BY-044",
+    "张官德",
+    ".setting",
+    "《六壬辨疑·毕法案录》（张官德）；毕法案录课例五十二，书p177-178（PDF p189-190）"
+   ],
+   [
+    "BY-044",
+    "张官德",
+    ".provenance",
+    "《六壬辨疑·毕法案录》（清·张官德撰、郑同校；incoming/wanted-books-2/Book/ 扫描本（无文字层））·毕法案录课例五十二，书p177-178（PDF p189-190）；底本为用户提供，redistributable=false"
+   ],
+   [
+    "BY-045",
+    "张官德",
+    ".setting",
+    "《六壬辨疑·毕法案录》（张官德）；毕法案录课例五十三，书p178（PDF p190）"
+   ],
+   [
+    "BY-045",
+    "张官德",
+    ".provenance",
+    "《六壬辨疑·毕法案录》（清·张官德撰、郑同校；incoming/wanted-books-2/Book/ 扫描本（无文字层））·毕法案录课例五十三，书p178（PDF p190）；底本为用户提供，redistributable=false"
+   ],
+   [
+    "BY-046",
+    "张官德",
+    ".setting",
+    "《六壬辨疑·毕法案录》（张官德）；毕法案录课例五十四，书p179（PDF p191）"
+   ],
+   [
+    "BY-046",
+    "张官德",
+    ".provenance",
+    "《六壬辨疑·毕法案录》（清·张官德撰、郑同校；incoming/wanted-books-2/Book/ 扫描本（无文字层））·毕法案录课例五十四，书p179（PDF p191）；底本为用户提供，redistributable=false"
+   ],
+   [
+    "WHY-092",
+    "王虎应",
+    ".setting",
+    "六爻分类占验技法（王虎应著）"
+   ],
+   [
+    "WHY-092",
+    "王虎应",
+    ".provenance",
+    "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第七章 年运例四（印刷p124-125）；底本为用户经学校图书馆提供之扫描本，redistributable=false"
+   ],
+   [
+    "WHY-093",
+    "王虎应",
+    ".setting",
+    "六爻分类占验技法（王虎应著）"
+   ],
+   [
+    "WHY-093",
+    "王虎应",
+    ".provenance",
+    "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第七章 年运例六（印刷p126）；底本为用户经学校图书馆提供之扫描本，redistributable=false"
+   ],
+   [
+    "WHY-095",
+    "王虎应",
+    ".setting",
+    "六爻分类占验技法（王虎应著）"
+   ],
+   [
+    "WHY-095",
+    "王虎应",
+    ".provenance",
+    "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第七章 年运例八（印刷p128）；底本为用户经学校图书馆提供之扫描本，redistributable=false"
+   ],
+   [
+    "WHY-096",
+    "王虎应",
+    ".setting",
+    "六爻分类占验技法（王虎应著）"
+   ],
+   [
+    "WHY-096",
+    "王虎应",
+    ".provenance",
+    "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第七章 年运例九（印刷p129）；底本为用户经学校图书馆提供之扫描本，redistributable=false"
+   ],
+   [
+    "WHY-098",
+    "王虎应",
+    ".setting",
+    "六爻分类占验技法（王虎应著）"
+   ],
+   [
+    "WHY-098",
+    "王虎应",
+    ".provenance",
+    "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第八章 风水例二（印刷p168-169）；底本为用户经学校图书馆提供之扫描本，redistributable=false"
+   ],
+   [
+    "WHY-099",
+    "王虎应",
+    ".setting",
+    "六爻分类占验技法（王虎应著）"
+   ],
+   [
+    "WHY-099",
+    "王虎应",
+    ".provenance",
+    "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第八章 风水例三（印刷p169-170）；底本为用户经学校图书馆提供之扫描本，redistributable=false"
+   ],
+   [
+    "WHY-100",
+    "王虎应",
+    ".setting",
+    "六爻分类占验技法（王虎应著）"
+   ],
+   [
+    "WHY-100",
+    "王虎应",
+    ".provenance",
+    "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第八章 风水例四（印刷p170-171）；底本为用户经学校图书馆提供之扫描本，redistributable=false"
+   ],
+   [
+    "WHY-103",
+    "王虎应",
+    ".setting",
+    "六爻分类占验技法（王虎应著）"
+   ],
+   [
+    "WHY-103",
+    "王虎应",
+    ".provenance",
+    "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第八章 风水例七（印刷p173-174）；底本为用户经学校图书馆提供之扫描本，redistributable=false"
+   ],
+   [
+    "WHY-104",
+    "王虎应",
+    ".setting",
+    "六爻分类占验技法（王虎应著）"
+   ],
+   [
+    "WHY-104",
+    "王虎应",
+    ".provenance",
+    "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第八章 风水例八（印刷p174-175）；底本为用户经学校图书馆提供之扫描本，redistributable=false"
+   ],
+   [
+    "WHY-106",
+    "王虎应",
+    ".setting",
+    "六爻分类占验技法（王虎应著）"
+   ],
+   [
+    "WHY-106",
+    "王虎应",
+    ".provenance",
+    "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第八章 风水例十一（印刷p177-178）；底本为用户经学校图书馆提供之扫描本，redistributable=false"
+   ],
+   [
+    "WHY-107",
+    "王虎应",
+    ".setting",
+    "六爻分类占验技法（王虎应著）"
+   ],
+   [
+    "WHY-107",
+    "王虎应",
+    ".provenance",
+    "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第八章 风水例十二（印刷p178-179）；底本为用户经学校图书馆提供之扫描本，redistributable=false"
+   ],
+   [
+    "WHY-108",
+    "王虎应",
+    ".setting",
+    "六爻分类占验技法（王虎应著）"
+   ],
+   [
+    "WHY-108",
+    "王虎应",
+    ".provenance",
+    "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第八章 风水例十三（印刷p179-180）；底本为用户经学校图书馆提供之扫描本，redistributable=false"
+   ],
+   [
+    "WHY-109",
+    "王虎应",
+    ".setting",
+    "六爻分类占验技法（王虎应著）"
+   ],
+   [
+    "WHY-109",
+    "王虎应",
+    ".provenance",
+    "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第九章 病因例一（印刷p192）；底本为用户经学校图书馆提供之扫描本，redistributable=false"
+   ],
+   [
+    "WHY-110",
+    "王虎应",
+    ".setting",
+    "六爻分类占验技法（王虎应著）"
+   ],
+   [
+    "WHY-110",
+    "王虎应",
+    ".provenance",
+    "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第九章 病因例二（印刷p193）；底本为用户经学校图书馆提供之扫描本，redistributable=false"
+   ]
+  ]
+ },
+ "scan3_whitelist_deviations": {
+  "hits": 0,
+  "detail": []
+ }
+}
