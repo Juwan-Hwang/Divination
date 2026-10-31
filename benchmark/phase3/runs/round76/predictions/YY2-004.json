@@ -1,0 +1,12 @@
+{
+ "case_id": "YY2-004",
+ "prediction_text": "输入残损、无盘可断：本卦名原书即缺字，本卦不明则本宫、世应、六亲、动爻皆无从定，变卦大壮一侧亦系于本宫五行不能单独成盘。本例不断寿数、不报应期，只记残损待补（方向无据、置信极低）。",
+ "basis": "卡面 tradition＝liuyao；systems_used=[liuyao]。输入残损（照卡内 completion_grade 原记）：chart_lines_top_to_bottom 与 moving_lines 均为 null、grade 不可补，本卦缺字（得□之大壮），空亡子丑系由丁巳日推算复原。所问对象：自占者本人，所问寿数；用神：本宫不明，世用无从取，记取用无从定；应验对象无从指认。旺衰、动化、四路、终局扫查、病位诸程序皆因无盘不执行、不臆补。应期：无应期断语，R61-REV1-2／-3 不适用（无主坐标可复推）；粒度核：无具体断项，R61-REV1-4 不适用。门类对表：寿元门类无盘不可查，记不查表。此例只作残损登记交付。",
+ "confidence": 0.05,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "本卦缺字、盘面 null，用神无从定，disputed=true；无盘无翻转可言，changed_main=false；未取伏神，reserve_used=false"
+ }
+}

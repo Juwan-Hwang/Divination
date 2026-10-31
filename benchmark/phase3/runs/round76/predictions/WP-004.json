@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "倾向判断：Hillary Clinton 赢得2016年美国总统大选。终局单一：Clinton胜，Trump败。应期：日档，窗口为2016年11月8日投票日，主坐标该日计票定局。",
+ "basis": "卡面未载 tradition，据ISAR选举预测panel报道体裁自决西洋占星（panel共识面）。\nsystems_used：西洋占星（mundane/选举，会议panel占星师群体判断面），非六爻。\n已载面：主问面（谁赢2016大选）；对象面（Clinton对Trump、多数民调利Clinton）；事件面（Costa Mesa国际占星会议正举行选举预测panel——本例所问即该panel语境之占断）。\n断据：panel语境下占星师群体以候选人本命与大选日行运合参，主流读法利资历深、行运得土星稳定支持之一方，即Clinton；民调面同向。此断与WP-005分工：本例取panel多数面，彼例取个别占星师面，两例卡面设置不同故分别作断。\n应期三步（h）：日档；三路：制度日程→11月8日；panel时点路→同指大选日；舍余路。主坐标：2016-11-08。\nR61-REV1-2应期二路复推：初推路径=制度日程→2016-11-08；复推路径=大选日行运复核→同日；处置=二路同点，保留。R61-REV1-3：同日档。\nR61-REV1-4粒度核：胜者主断指针2条（panel主流读法＋民调同向）保留；选举人票细节无指针→不报。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-305",
+ "prediction_text": "主断：特朗普赢得2024年美国总统选举。盘面如占者自承势均力敌、极难判断，取舍依据为终局倾斜： challenger/在野一方在胶着盘中后段占优，取特朗普以小差距胜出、哈里斯落败。应期以日为尺度：2024年11月5日投票日定胜负，主坐标即投票日。置信中低（占者自承难判，置信随之下调）。",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决（Lilly 卜卦占星 horary）\nsystems_used: 西洋占星（选举占星，无盘面）\n输入残损注明：attachments 为空、无具体盘面度数。R61-REV1-2/-3 与粒度核同 AS-304 口径：坐标题面已给、不报州别票数。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
