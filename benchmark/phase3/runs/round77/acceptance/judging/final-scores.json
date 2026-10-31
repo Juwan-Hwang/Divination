@@ -1,0 +1,327 @@
+{
+ "ours": {
+  "DS-004": 2.75,
+  "DS-005": 3.5,
+  "DS-006": 4.0,
+  "DS-007": 0.5,
+  "DS-008": 1.5,
+  "DS-009": 1.75,
+  "DS-010": 3.25,
+  "DS-011": 3.75,
+  "DS-012": 1.25,
+  "GSZ-022": 4.5,
+  "GSZ-023": 4.5,
+  "GSZ-024": 0.5,
+  "GSZ-026": 2.0,
+  "QM-011": 6.0,
+  "QM-012": 0.0,
+  "QM-013": 4.5,
+  "QM-014": 4.25,
+  "QM-201": 0.5,
+  "QM-202": 2.0,
+  "QM-203": 2.5,
+  "QM-301": 5.5,
+  "QM-302": 5.25,
+  "QM-303": 4.75,
+  "ZCB-001": 5.0,
+  "ZCB-002": 1.5,
+  "ZCB-004": 4.0,
+  "ZCB-005": 5.0
+ },
+ "master": {
+  "DS-004": 6.0,
+  "DS-005": 3.75,
+  "DS-006": 5.25,
+  "DS-007": 4.5,
+  "DS-008": 2.75,
+  "DS-009": 4.25,
+  "DS-010": 3.0,
+  "DS-011": 5.5,
+  "DS-012": 3.75,
+  "GSZ-022": 4.0,
+  "GSZ-023": 4.5,
+  "GSZ-024": 3.25,
+  "GSZ-026": 4.0,
+  "QM-011": 5.75,
+  "QM-012": 6.0,
+  "QM-013": 6.0,
+  "QM-014": 5.0,
+  "QM-201": 3.25,
+  "QM-202": 5.0,
+  "QM-203": 5.0,
+  "QM-301": 5.5,
+  "QM-302": 5.5,
+  "QM-303": 6.0,
+  "ZCB-001": 3.5,
+  "ZCB-002": 3.5,
+  "ZCB-004": 5.5,
+  "ZCB-005": 4.5
+ },
+ "main_caliber_low27": {
+  "n": 27,
+  "ours_mean": 3.13,
+  "master_mean": 4.611,
+  "pair_diff": -1.481,
+  "SE": 0.316,
+  "W/T/L": "5/2/20",
+  "criteria": {
+   "(i) ours_mean > master_mean": false,
+   "(ii) paired W > L": false,
+   "(iii) diff > 0": false
+  },
+  "PASS": false
+ },
+ "sealed_caliber_full27": {
+  "n": 27,
+  "ours_mean": 3.13,
+  "master_mean": 4.611,
+  "pair_diff": -1.481,
+  "SE": 0.316,
+  "W/T/L": "5/2/20",
+  "criteria": {
+   "(i) ours_mean > master_mean": false,
+   "(ii) paired W > L": false,
+   "(iii) diff > 0": false
+  },
+  "PASS": false
+ },
+ "side_note_diff_over_SE_main": -4.687,
+ "side_note_h17_style_SE_gate_would_hold": false,
+ "segments": {
+  "bazi_DS": {
+   "n": 9,
+   "ours_mean": 2.472,
+   "master_mean": 4.306,
+   "pair_diff": -1.833,
+   "SE": 0.458,
+   "W/T/L": "1/0/8"
+  },
+  "qimen_QM": {
+   "n": 10,
+   "ours_mean": 3.525,
+   "master_mean": 5.3,
+   "pair_diff": -1.775,
+   "SE": 0.594,
+   "W/T/L": "1/1/8"
+  },
+  "cezi_ZCB": {
+   "n": 4,
+   "ours_mean": 3.875,
+   "master_mean": 4.25,
+   "pair_diff": -0.375,
+   "SE": 0.826,
+   "W/T/L": "2/0/2"
+  },
+  "liuyao_GSZ": {
+   "n": 4,
+   "ours_mean": 2.875,
+   "master_mean": 3.938,
+   "pair_diff": -1.062,
+   "SE": 0.78,
+   "W/T/L": "1/1/2"
+  },
+  "non_liuyao": {
+   "n": 23,
+   "ours_mean": 3.174,
+   "master_mean": 4.728,
+   "pair_diff": -1.554,
+   "SE": 0.35,
+   "W/T/L": "4/1/18"
+  }
+ },
+ "per_tradition": {
+  "bazi": {
+   "n": 9,
+   "ours_mean": 2.472,
+   "master_mean": 4.306,
+   "pair_diff": -1.833,
+   "SE": 0.458,
+   "W/T/L": "1/0/8"
+  },
+  "cezi": {
+   "n": 4,
+   "ours_mean": 3.875,
+   "master_mean": 4.25,
+   "pair_diff": -0.375,
+   "SE": 0.826,
+   "W/T/L": "2/0/2"
+  },
+  "liuyao": {
+   "n": 4,
+   "ours_mean": 2.875,
+   "master_mean": 3.938,
+   "pair_diff": -1.062,
+   "SE": 0.78,
+   "W/T/L": "1/1/2"
+  },
+  "qimen": {
+   "n": 10,
+   "ours_mean": 3.525,
+   "master_mean": 5.3,
+   "pair_diff": -1.775,
+   "SE": 0.594,
+   "W/T/L": "1/1/8"
+  }
+ },
+ "cz_qx_guardrail": {
+  "settled": false,
+  "note": "holdout22 contains 4 cezi cases; per R77 PREREG s.2 the cezi segment read is registered as an acceptance segment only, CZ-QX same-tier count stays 16 (settled at R76)."
+ },
+ "low_pollution": {
+  "gold_file": "benchmark/phase3/holdout22/test_gold.jsonl",
+  "contamination_field": "pollution",
+  "sealed_contamination_counts": {
+   "low": 27
+  },
+  "grade_counts": {
+   "A": 27
+  },
+  "host_mid_override": {},
+  "main_low_n": 27,
+  "sealed_low_n": 27,
+  "excluded_from_main": []
+ },
+ "max_abs_view_diff": {
+  "ours": 1.5,
+  "master": 1.0
+ },
+ "disputes_ours": [],
+ "disputes_master": [],
+ "per_case": {
+  "DS-004": {
+   "ours": 2.75,
+   "master": 6.0,
+   "diff": -3.25
+  },
+  "DS-005": {
+   "ours": 3.5,
+   "master": 3.75,
+   "diff": -0.25
+  },
+  "DS-006": {
+   "ours": 4.0,
+   "master": 5.25,
+   "diff": -1.25
+  },
+  "DS-007": {
+   "ours": 0.5,
+   "master": 4.5,
+   "diff": -4.0
+  },
+  "DS-008": {
+   "ours": 1.5,
+   "master": 2.75,
+   "diff": -1.25
+  },
+  "DS-009": {
+   "ours": 1.75,
+   "master": 4.25,
+   "diff": -2.5
+  },
+  "DS-010": {
+   "ours": 3.25,
+   "master": 3.0,
+   "diff": 0.25
+  },
+  "DS-011": {
+   "ours": 3.75,
+   "master": 5.5,
+   "diff": -1.75
+  },
+  "DS-012": {
+   "ours": 1.25,
+   "master": 3.75,
+   "diff": -2.5
+  },
+  "GSZ-022": {
+   "ours": 4.5,
+   "master": 4.0,
+   "diff": 0.5
+  },
+  "GSZ-023": {
+   "ours": 4.5,
+   "master": 4.5,
+   "diff": 0.0
+  },
+  "GSZ-024": {
+   "ours": 0.5,
+   "master": 3.25,
+   "diff": -2.75
+  },
+  "GSZ-026": {
+   "ours": 2.0,
+   "master": 4.0,
+   "diff": -2.0
+  },
+  "QM-011": {
+   "ours": 6.0,
+   "master": 5.75,
+   "diff": 0.25
+  },
+  "QM-012": {
+   "ours": 0.0,
+   "master": 6.0,
+   "diff": -6.0
+  },
+  "QM-013": {
+   "ours": 4.5,
+   "master": 6.0,
+   "diff": -1.5
+  },
+  "QM-014": {
+   "ours": 4.25,
+   "master": 5.0,
+   "diff": -0.75
+  },
+  "QM-201": {
+   "ours": 0.5,
+   "master": 3.25,
+   "diff": -2.75
+  },
+  "QM-202": {
+   "ours": 2.0,
+   "master": 5.0,
+   "diff": -3.0
+  },
+  "QM-203": {
+   "ours": 2.5,
+   "master": 5.0,
+   "diff": -2.5
+  },
+  "QM-301": {
+   "ours": 5.5,
+   "master": 5.5,
+   "diff": 0.0
+  },
+  "QM-302": {
+   "ours": 5.25,
+   "master": 5.5,
+   "diff": -0.25
+  },
+  "QM-303": {
+   "ours": 4.75,
+   "master": 6.0,
+   "diff": -1.25
+  },
+  "ZCB-001": {
+   "ours": 5.0,
+   "master": 3.5,
+   "diff": 1.5
+  },
+  "ZCB-002": {
+   "ours": 1.5,
+   "master": 3.5,
+   "diff": -2.0
+  },
+  "ZCB-004": {
+   "ours": 4.0,
+   "master": 5.5,
+   "diff": -1.5
+  },
+  "ZCB-005": {
+   "ours": 5.0,
+   "master": 4.5,
+   "diff": 0.5
+  }
+ }
+}
