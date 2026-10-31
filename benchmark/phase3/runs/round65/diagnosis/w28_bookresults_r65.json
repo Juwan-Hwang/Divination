@@ -1,0 +1,325 @@
+{
+ "neg_round_field": 64,
+ "fs_round_field": 64,
+ "liuren_dev8": {
+  "n": 18,
+  "pair_diff": -2.292,
+  "SE": 0.464,
+  "ours_mean": 3.014,
+  "master_mean": 5.306,
+  "W": 1,
+  "T": 0,
+  "L": 17,
+  "W/T/L": "1/0/17"
+ },
+ "liuren_merged": {
+  "n": 30,
+  "pair_diff": -2.083,
+  "SE": 0.346,
+  "ours_mean": 2.717,
+  "master_mean": 4.8,
+  "W": 2,
+  "T": 0,
+  "L": 28,
+  "W/T/L": "2/0/28"
+ },
+ "rows": [
+  {
+   "case_id": "LR2-013",
+   "tradition": "liuren",
+   "in_dev8": true,
+   "ours": 3.5,
+   "master": 6.0,
+   "pair_diff": -2.5,
+   "book": "《大六壬占验指南》·章奏门·沈云生被参劾占回奏吉凶",
+   "family": "指南族"
+  },
+  {
+   "case_id": "LR2-014",
+   "tradition": "liuren",
+   "in_dev8": true,
+   "ours": 4.5,
+   "master": 5.5,
+   "pair_diff": -1.0,
+   "book": "《大六壬占验指南》·公讼门·在京偶占一课",
+   "family": "指南族"
+  },
+  {
+   "case_id": "LR2-015",
+   "tradition": "liuren",
+   "in_dev8": true,
+   "ours": 0.0,
+   "master": 6.0,
+   "pair_diff": -6.0,
+   "book": "《大六壬占验指南》·公讼门·冯允升被逮占出狱",
+   "family": "指南族"
+  },
+  {
+   "case_id": "LR2-016",
+   "tradition": "liuren",
+   "in_dev8": true,
+   "ours": 4.0,
+   "master": 5.0,
+   "pair_diff": -1.0,
+   "book": "《大六壬占验指南》·公讼门·陈秋桃为宗藩建言被逮占出狱",
+   "family": "指南族"
+  },
+  {
+   "case_id": "LR2-017",
+   "tradition": "liuren",
+   "in_dev8": true,
+   "ours": 0.25,
+   "master": 6.0,
+   "pair_diff": -5.75,
+   "book": "《大六壬占验指南》·公讼门·戚司宗失机定重辟八载占吉凶",
+   "family": "指南族"
+  },
+  {
+   "case_id": "LR2-018",
+   "tradition": "liuren",
+   "in_dev8": true,
+   "ours": 2.5,
+   "master": 5.0,
+   "pair_diff": -2.5,
+   "book": "《大六壬占验指南》·公讼门·吴振缨因贼焚凤陵被逮占",
+   "family": "指南族"
+  },
+  {
+   "case_id": "LR2-019",
+   "tradition": "liuren",
+   "in_dev8": true,
+   "ours": 4.5,
+   "master": 5.75,
+   "pair_diff": -1.25,
+   "book": "《大六壬占验指南》·兵斗门·田百原奉命勤王占吉凶",
+   "family": "指南族"
+  },
+  {
+   "case_id": "LR2-020",
+   "tradition": "liuren",
+   "in_dev8": true,
+   "ours": 2.75,
+   "master": 3.5,
+   "pair_diff": -0.75,
+   "book": "《大六壬占验指南》·出行门·徐盟鹿携妻子远行占",
+   "family": "指南族"
+  },
+  {
+   "case_id": "LR2-021",
+   "tradition": "liuren",
+   "in_dev8": true,
+   "ours": 1.25,
+   "master": 5.75,
+   "pair_diff": -4.5,
+   "book": "《大六壬占验指南》·行人门·倪子玄占女何日到京",
+   "family": "指南族"
+  },
+  {
+   "case_id": "LR2-022",
+   "tradition": "liuren",
+   "in_dev8": true,
+   "ours": 4.25,
+   "master": 6.0,
+   "pair_diff": -1.75,
+   "book": "《大六壬占验指南》·疾病门·张奉初为弟观初占病",
+   "family": "指南族"
+  },
+  {
+   "case_id": "LR2-023",
+   "tradition": "liuren",
+   "in_dev8": true,
+   "ours": 2.25,
+   "master": 6.0,
+   "pair_diff": -3.75,
+   "book": "《大六壬占验指南》·疾病门·张澹宁占病",
+   "family": "指南族"
+  },
+  {
+   "case_id": "LR2-024",
+   "tradition": "liuren",
+   "in_dev8": true,
+   "ours": 4.25,
+   "master": 5.5,
+   "pair_diff": -1.25,
+   "book": "《大六壬占验指南》·疾病门·卢承山占病",
+   "family": "指南族"
+  },
+  {
+   "case_id": "LR3-002",
+   "tradition": "liuren",
+   "in_dev8": false,
+   "ours": 0.5,
+   "master": 4.5,
+   "pair_diff": -4.0,
+   "book": "《大六壬占验指南》·仕宦门·占总镇奉命出师",
+   "family": "指南族"
+  },
+  {
+   "case_id": "LR3-006",
+   "tradition": "liuren",
+   "in_dev8": false,
+   "ours": 4.0,
+   "master": 4.75,
+   "pair_diff": -0.75,
+   "book": "《大六壬占验指南》·仕宦门·任台垣占仕途",
+   "family": "指南族"
+  },
+  {
+   "case_id": "LR3-008",
+   "tradition": "liuren",
+   "in_dev8": false,
+   "ours": 0.0,
+   "master": 5.0,
+   "pair_diff": -5.0,
+   "book": "《大六壬占验指南》·仕宦门·占功名",
+   "family": "指南族"
+  },
+  {
+   "case_id": "LR3-010",
+   "tradition": "liuren",
+   "in_dev8": false,
+   "ours": 2.5,
+   "master": 3.0,
+   "pair_diff": -0.5,
+   "book": "《大六壬占验指南》·公讼门·代占一课",
+   "family": "指南族"
+  },
+  {
+   "case_id": "LR3-101",
+   "tradition": "liuren",
+   "in_dev8": false,
+   "ours": 2.75,
+   "master": 5.0,
+   "pair_diff": -2.25,
+   "book": "《大六壬占验指南》·会试门·阮实夫代刘若宜占会试",
+   "family": "指南族"
+  },
+  {
+   "case_id": "LR3-104",
+   "tradition": "liuren",
+   "in_dev8": false,
+   "ours": 0.5,
+   "master": 4.0,
+   "pair_diff": -3.5,
+   "book": "《大六壬占验指南》·章奏门·王旋官占上疏",
+   "family": "指南族"
+  },
+  {
+   "case_id": "LR3-107",
+   "tradition": "liuren",
+   "in_dev8": false,
+   "ours": 3.25,
+   "master": 4.0,
+   "pair_diff": -0.75,
+   "book": "《大六壬占验指南》·公讼门·寓中偶占一课",
+   "family": "指南族"
+  },
+  {
+   "case_id": "LR3-110",
+   "tradition": "liuren",
+   "in_dev8": false,
+   "ours": 4.25,
+   "master": 4.75,
+   "pair_diff": -0.5,
+   "book": "《大六壬占验指南》·走失门·王怀荫占失马",
+   "family": "指南族"
+  },
+  {
+   "case_id": "LR3-112",
+   "tradition": "liuren",
+   "in_dev8": false,
+   "ours": 1.0,
+   "master": 2.25,
+   "pair_diff": -1.25,
+   "book": "《大六壬占验指南》·疾病门·刘一纯占病",
+   "family": "指南族"
+  },
+  {
+   "case_id": "LR3-114",
+   "tradition": "liuren",
+   "in_dev8": false,
+   "ours": 3.25,
+   "master": 4.0,
+   "pair_diff": -0.75,
+   "book": "《大六壬占验指南》·应候门·僧敏若夜闻鸦鸣占",
+   "family": "指南族"
+  },
+  {
+   "case_id": "LR3-116",
+   "tradition": "liuren",
+   "in_dev8": false,
+   "ours": 0.75,
+   "master": 4.0,
+   "pair_diff": -3.25,
+   "book": "《大六壬占验指南》·射覆门·范玄同袖帨射覆",
+   "family": "指南族"
+  },
+  {
+   "case_id": "OC-026",
+   "tradition": "六壬",
+   "in_dev8": true,
+   "ours": 1.75,
+   "master": 6.0,
+   "pair_diff": -4.25,
+   "book": "《大六壬占验指南》第57课",
+   "family": "指南族"
+  },
+  {
+   "case_id": "OC-027",
+   "tradition": "六壬",
+   "in_dev8": true,
+   "ours": 3.25,
+   "master": 4.75,
+   "pair_diff": -1.5,
+   "book": "《大六壬占验指南》第58课",
+   "family": "指南族"
+  },
+  {
+   "case_id": "OC-028",
+   "tradition": "六壬",
+   "in_dev8": true,
+   "ours": 2.75,
+   "master": 3.0,
+   "pair_diff": -0.25,
+   "book": "《大六壬占验指南》第59课",
+   "family": "指南族"
+  },
+  {
+   "case_id": "OC-029",
+   "tradition": "六壬",
+   "in_dev8": true,
+   "ours": 1.5,
+   "master": 5.25,
+   "pair_diff": -3.75,
+   "book": "《大六壬占验指南》第60课",
+   "family": "指南族"
+  },
+  {
+   "case_id": "OC-030",
+   "tradition": "六壬",
+   "in_dev8": true,
+   "ours": 5.0,
+   "master": 5.5,
+   "pair_diff": -0.5,
+   "book": "《大六壬占验指南》第64课",
+   "family": "指南族"
+  }
+ ],
+ "means": {
+  "merged_neg": -2.312,
+  "dev8_neg": -2.485,
+  "nondev8_neg": -2.045,
+  "n_neg": 28,
+  "n_dev8_neg": 17,
+  "n_nondev8_neg": 11
+ },
+ "counts": {
+  "指南族": 28
+ },
+ "counts_dev8": {
+  "指南族": 17
+ },
+ "counts_nondev8": {
+  "指南族": 11
+ }
+}

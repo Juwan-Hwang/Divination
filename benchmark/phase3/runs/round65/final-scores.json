@@ -3413,7 +3413,7 @@
   }
  },
  "analysis_r65": {
-  "round": 64,
+  "round": 65,
   "prereg_source": "runs/round65/PREREG.md s.1 (platform lines and attribution guardrails)",
   "arbitration_rule": "Per analyze_r39.py merge_views code rule, when |X-Y|>=3 the arbitration record replaces the double-view mean. Applied per judging/arbitration-scores.jsonl when disputes exist.",
   "headline": {

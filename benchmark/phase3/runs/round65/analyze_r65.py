@@ -268,7 +268,7 @@ print('(a)', plat_a, '| (b)', plat_b, '| (c)', plat_c, '| ALL STAND:', plat_a an
 
 # ---------------- write final-scores.json (R39 structure + R54 section) ----------------
 analysis = {
-    'round': 64,
+    'round': 65,
     'prereg_source': 'runs/round65/PREREG.md s.1 (platform lines and attribution guardrails)',
     'arbitration_rule': ('Per analyze_r39.py merge_views code rule, when |X-Y|>=3 the '
                          'arbitration record replaces the double-view mean. Applied per '
@@ -330,7 +330,7 @@ for c in liuren_all:
                     'in_dev8': c in dev8_set,
                     'ours': ours[c], 'master': master[c]['total'], 'pair_diff': d})
 neg.sort(key=lambda r: r['case_id'])
-lr_doc = {'round': 64,
+lr_doc = {'round': 65,
           'definition': ("host-meta tradition in ('liuren','六壬'); pair_diff = final ours "
                          "(arbitration-merged) - master-baseline-dev9 total; listed iff < 0"),
           'n_liuren_total': len(liuren_all), 'n_negative': len(neg),
