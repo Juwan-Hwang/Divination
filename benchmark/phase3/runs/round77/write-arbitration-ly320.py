@@ -1,0 +1,14 @@
+import json
+row = {
+    "anon_id": "P3-f8afe220",
+    "direction": 0,
+    "claims": 0.5,
+    "timing": 0,
+    "total": 0.5,
+    "pass": False,
+    "reason": "方向相反：预测升迁不成、须待后图（negative），结局为辰年一年两调一升、十月开督府，终局为迁且升。claims逐条核验：主断语「升迁不成」被开督府之升直接推翻；「本月内无迁信/须待后图」结局未记载当月情形、不得给满分，仅此子项未被结局正面推翻故给0.5。timing：预测断语本身无升迁应期（明写官空无成点、仅以月档收束无迁信），结局十月开督府之时点未被命中，记0并注明预测无应期。"
+}
+out = "/home/hatch/workspace/divination/benchmark/phase3/runs/round77/judging/arbitration-scores.jsonl"
+with open(out, "w", encoding="utf-8") as f:
+    f.write(json.dumps(row, ensure_ascii=False) + "\n")
+print(out)
