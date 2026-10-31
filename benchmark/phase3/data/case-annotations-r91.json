@@ -1,5 +1,5 @@
 {
- "_provenance": "R91 数据席（旗标定案流水与承接登记，独立席位，不兼任本轮盲测／评审／诊断／组集／修订，不改方法、不动分数）：以 data/case-annotations-r90.json 为底承接全量 362 件（成立 14／部分成立 275／不成立 71／未核 2），前 362 件逐件原样、无删改（落盘脚本全等断言验过）；承接对勘：R91 manifest 新层 _r90_carryover_notes_addendum 7 件（AS-009／AS-304／AS-306／LY-518／LY-534／LY-626／LR3-010）逐件与 r90 条 manifest_carry_suggestion 全文逐字全等、出入 0 件，注记内容与 manifest-carryover-r90-addendum.md §三.1 承接建议逐件对应；本轮平台面新定案 103 条全部分成立（FREEZE-r91 裁定 LY-007 部分成立为平台面新定案第一件；盲测席 basis 自报定案 102 件：groups 76＋singles 26，逐件回原卡与 R91 manifest 结局原文核对）；tradition 旗标候选余 37 件经 FREEZE-r91 裁定全数不成立、只登记不入 annotations；合计 465 件（成立 14／部分成立 378／不成立 71／未核 2）。基线六处 manifest 侧五处 R91 盘上复核在册、形态未变，评审包层本轮禁读未复核、只承接登记；CZ-QX 维持 16；待核四件维持；CYJ fidelity 例外 46 件只登记；AS-307 双条并行保留、不合并、本轮不立第三条；紫微供给首批定案转录登记（ZW-017／ZW-018 A-low eligible、天纪 P-07 不通过 F②、紫微面未用 eligible＝2、距 h34 判据 ≥9 差 7）；已用并集 1304、holdout33 封存待开封（验收面定案待开封后另行补编）、holdout34 未组集。",
+ "_provenance": "R91 数据席（旗标定案流水与承接登记，独立席位，不兼任本轮盲测／评审／诊断／组集／修订，不改方法、不动分数）：以 data/case-annotations-r90.json 为底承接全量 362 件（成立 14／部分成立 275／不成立 71／未核 2），前 362 件逐件原样、无删改（落盘脚本全等断言验过）；承接对勘：R91 manifest 新层 _r90_carryover_notes_addendum 7 件（AS-009／AS-304／AS-306／LY-518／LY-534／LY-626／LR3-010）逐件与 r90 条 manifest_carry_suggestion 全文逐字全等、出入 0 件，注记内容与 manifest-carryover-r90-addendum.md §三.1 承接建议逐件对应；本轮平台面新定案 103 条全部分成立（FREEZE-r91 裁定 LY-007 部分成立为平台面新定案第一件；盲测席 basis 自报定案 102 件：groups 76＋singles 26，逐件回原卡与 R91 manifest 结局原文核对）；tradition 旗标候选余 37 件经 FREEZE-r91 裁定全数不成立、只登记不入 annotations；合计 465 件（成立 14／部分成立 378／不成立 71／未核 2）。基线六处 manifest 侧五处 R91 盘上复核在册、形态未变，评审包层本轮禁读未复核、只承接登记；CZ-QX 维持 16；待核四件维持；CYJ fidelity 例外 46 件只登记；AS-307 双条并行保留、不合并、本轮不立第三条；紫微供给首批定案转录登记（ZW-017／ZW-018 A-low eligible、天纪 P-07 不通过 F②、紫微面未用 eligible＝2、距 h34 判据 ≥9 差 7）；已用并集 1304、holdout33 封存待开封（验收面定案待开封后另行补编）、holdout34 未组集。 R91 数据席（验收面补编，同角不同任）：holdout33 开封后补编验收面定案，部分成立 52 条落账（registered_round＝91），合计 517 件（成立 14／部分成立 430／不成立 71／未核 2）；既有 465 件逐件原样、无删改、无同 id 订正件；验收面定案只登记、不入后续 manifest 常规落实层。",
  "round": 91,
  "annotations": [
   {
@@ -10213,6 +10213,1046 @@
     "R91 平台盲测席 basis 自报",
     "R91 数据席回读原卡"
    ]
+  },
+  {
+   "anon_id": "H33O-53c33579",
+   "case_id": "DA-066",
+   "disposition": "部分成立",
+   "finding": "回原卡——卡面 subject 载「邵梓材（戊寅生，三十一岁）」，anchors 载 asked_at／课名／天盘／四课／三传，无行年上神字段，行年一路未逐项给出属实（成立面）；R91 验收 basis 逐字自承「行年未逐年推、只用本命寅」，只据干支三传立论；天盘／四课／三传俱载，DIAG-H33 §0 同口径登记不计 IN（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：行年未逐年推、只用本命（行年上神未逐项给出）",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「行年上神未逐项给出、basis 已自承只用本命寅；盘体锚点俱载、不计 IN，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，行年／年命面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/DA-066.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/DA-066.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-3a8a751f",
+   "case_id": "DA-067",
+   "disposition": "部分成立",
+   "finding": "回原卡——卡面 subject 载「邓省干（癸未生，二十六岁）」，anchors 载 asked_at／课名／天盘／四课／三传，无行年上神字段，行年一路未逐项给出属实（成立面）；R91 验收 basis 逐字自承「行年未逐年推、只用本命未」，只据干支三传立论；天盘／四课／三传俱载，DIAG-H33 §0 同口径登记不计 IN（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：行年未逐年推、只用本命（行年上神未逐项给出）",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「行年上神未逐项给出、basis 已自承只用本命未；盘体锚点俱载、不计 IN，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，行年／年命面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/DA-067.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/DA-067.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-53f087bd",
+   "case_id": "DA-068",
+   "disposition": "部分成立",
+   "finding": "回原卡——卡面 subject 载「汪司户（辛未生，三十八岁）」，anchors 载 asked_at／课名／天盘／四课／三传，无行年上神字段，行年一路未逐项给出属实（成立面）；R91 验收 basis 逐字自承「行年未逐年推、只用本命未」，只据干支三传立论；天盘／四课／三传俱载，DIAG-H33 §0 同口径登记不计 IN（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：行年未逐年推、只用本命（行年上神未逐项给出）",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「行年上神未逐项给出、basis 已自承只用本命未；盘体锚点俱载、不计 IN，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，行年／年命面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/DA-068.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/DA-068.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-8b9c9761",
+   "case_id": "DA-070",
+   "disposition": "部分成立",
+   "finding": "回原卡——卡面 subject 载「刘运干（丁卯生，四十二岁）」，anchors 载 asked_at／课名／天盘／四课／三传，无行年上神字段，行年一路未逐项给出属实（成立面）；R91 验收 basis 逐字自承「行年未逐年推、只用本命卯」，只据干支三传立论；天盘／四课／三传俱载，DIAG-H33 §0 同口径登记不计 IN（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：行年未逐年推、只用本命（行年上神未逐项给出）",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「行年上神未逐项给出、basis 已自承只用本命卯；盘体锚点俱载、不计 IN，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，行年／年命面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/DA-070.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/DA-070.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-88828b65",
+   "case_id": "DA-072",
+   "disposition": "部分成立",
+   "finding": "回原卡——卡面 subject 载「何上舍（己巳生，四十岁）」，anchors 载 asked_at／课名／天盘／四课／三传，无行年上神字段，行年一路未逐项给出属实（成立面）；R91 验收 basis 逐字自承「行年未逐年推、只用本命巳」，只据干支三传立论；天盘／四课／三传俱载，DIAG-H33 §0 同口径登记不计 IN（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：行年未逐年推、只用本命（行年上神未逐项给出）",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「行年上神未逐项给出、basis 已自承只用本命巳；盘体锚点俱载、不计 IN，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，行年／年命面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/DA-072.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/DA-072.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-f26bf95a",
+   "case_id": "DA-073",
+   "disposition": "部分成立",
+   "finding": "回原卡——卡面 subject 载「童七秀才（壬申生，三十七岁）」，anchors 载 asked_at／课名／天盘／四课／三传，无行年上神字段，行年一路未逐项给出属实（成立面）；R91 验收 basis 逐字自承「行年未逐年推、只用本命申」，只据干支三传立论；天盘／四课／三传俱载，DIAG-H33 §0 同口径登记不计 IN（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：行年未逐年推、只用本命（行年上神未逐项给出）",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「行年上神未逐项给出、basis 已自承只用本命申；盘体锚点俱载、不计 IN，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，行年／年命面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/DA-073.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/DA-073.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-5a17c8ea",
+   "case_id": "DA-074",
+   "disposition": "部分成立",
+   "finding": "回原卡——卡面 subject 载「陈主簿（戊寅生，三十二岁）」，anchors 载 asked_at／课名／天盘／四课／三传，无行年上神字段，行年一路未逐项给出属实（成立面）；R91 验收 basis 逐字自承「行年未逐年推、只用本命寅」，只据干支三传立论；天盘／四课／三传俱载，DIAG-H33 §0 同口径登记不计 IN（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：行年未逐年推、只用本命（行年上神未逐项给出）",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「行年上神未逐项给出、basis 已自承只用本命寅；盘体锚点俱载、不计 IN，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，行年／年命面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/DA-074.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/DA-074.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-4c964c45",
+   "case_id": "BY-039",
+   "disposition": "部分成立",
+   "finding": "回原卡——卡面 subject 仅载「胡姓（占财）」，未载生年，anchors 载 asked_at／课名／天盘／四课／三传，无年命／行年上神字段，年命未给属实（成立面）；R91 验收 basis 缺载旗标逐字自承「年命未给，命路无据不报」；天盘／四课／三传俱载，DIAG-H33 §0 同口径登记不计 IN（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：年命未给（命路无据）",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「年命未给、basis 已自承命路无据；课盘锚点俱载、不计 IN，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，行年／年命面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/BY-039.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/BY-039.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-2c91ba42",
+   "case_id": "BY-041",
+   "disposition": "部分成立",
+   "finding": "回原卡——卡面 subject 仅载「李姓（占结绝事）」，未载生年，anchors 载 asked_at／课名／天盘／四课／三传，无年命／行年上神字段，年命未给属实（成立面）；R91 验收 basis 缺载旗标逐字自承「年命未给」；天盘／四课／三传俱载，DIAG-H33 §0 同口径登记不计 IN（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：年命未给（命路无据）",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「年命未给、basis 已自承命路无据；课盘锚点俱载、不计 IN，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，行年／年命面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/BY-041.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/BY-041.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-d6c6c5c0",
+   "case_id": "BY-042",
+   "disposition": "部分成立",
+   "finding": "回原卡——卡面 subject 仅载「占者本人（自梦回家甚急因占）」，未载生年，anchors 载 asked_at／课名／天盘／四课／三传，无年命／行年上神字段，年命未给属实（成立面）；R91 验收 basis 缺载旗标逐字自承「年命未给」；天盘／四课／三传俱载，DIAG-H33 §0 同口径登记不计 IN（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：年命未给（命路无据）",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「年命未给、basis 已自承命路无据；课盘锚点俱载、不计 IN，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，行年／年命面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/BY-042.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/BY-042.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-b964c965",
+   "case_id": "BY-043",
+   "disposition": "部分成立",
+   "finding": "回原卡——卡面 subject 仅载「黄姓（占寄考）」，未载生年，anchors 载 asked_at／课名／天盘／四课／三传，无年命／行年上神字段，年命未给属实（成立面）；R91 验收 basis 缺载旗标逐字自承「年命未给」；天盘／四课／三传俱载，DIAG-H33 §0 同口径登记不计 IN（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：年命未给（命路无据）",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「年命未给、basis 已自承命路无据；课盘锚点俱载、不计 IN，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，行年／年命面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/BY-043.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/BY-043.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-ba35c042",
+   "case_id": "BY-044",
+   "disposition": "部分成立",
+   "finding": "回原卡——卡面 subject 仅载「占者本人（寓漩窝）」，未载生年，anchors 载 asked_at／课名／天盘／四课／三传，无年命／行年上神字段，年命未给属实（成立面）；R91 验收 basis 缺载旗标逐字自承「年命未给」；天盘／四课／三传俱载，DIAG-H33 §0 同口径登记不计 IN（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：年命未给（命路无据）",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「年命未给、basis 已自承命路无据；课盘锚点俱载、不计 IN，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，行年／年命面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/BY-044.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/BY-044.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-5f85f016",
+   "case_id": "BY-045",
+   "disposition": "部分成立",
+   "finding": "回原卡——卡面 subject 仅载「汉阳二府（署任者）」，未载生年，anchors 载 asked_at／课名／天盘／四课／三传，无年命／行年上神字段，年命未给属实（成立面）；R91 验收 basis 缺载旗标逐字自承「年命未给」；天盘／四课／三传俱载，DIAG-H33 §0 同口径登记不计 IN（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：年命未给（命路无据）",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「年命未给、basis 已自承命路无据；课盘锚点俱载、不计 IN，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，行年／年命面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/BY-045.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/BY-045.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-2e159731",
+   "case_id": "BY-046",
+   "disposition": "部分成立",
+   "finding": "回原卡——卡面 subject 仅载「占者本人（寓袁州）」，未载生年，anchors 载 asked_at／课名／天盘／四课／三传，无年命／行年上神字段，年命未给属实（成立面）；R91 验收 basis 缺载旗标逐字自承「年命未给」；天盘／四课／三传俱载，DIAG-H33 §0 同口径登记不计 IN（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：年命未给（命路无据）",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「年命未给、basis 已自承命路无据；课盘锚点俱载、不计 IN，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，行年／年命面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/BY-046.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/BY-046.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-4c964c45",
+   "case_id": "BY-039",
+   "disposition": "部分成立",
+   "finding": "回原卡——anchors 无旬空字段、asked_at 只载日丁丑，旬空未直载属实（成立面）；R91 验收 basis 明载按日干支推为甲戌旬申酉空并注明推导，本席按六十甲子复算（算法经 DA 卡 asked_at 直载值锚点验证）与 basis 值相合；天盘／四课／三传俱载，DIAG-H33 §0 同口径登记不计 IN（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：旬空未直载、按日干支推导并注明",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「旬空卡面未直载、按日丁丑推得甲戌旬申酉空已注明且复算相合；盘体俱载、不计 IN，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，旬空推导面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/BY-039.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/BY-039.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-2c91ba42",
+   "case_id": "BY-041",
+   "disposition": "部分成立",
+   "finding": "回原卡——anchors 无旬空字段、asked_at 只载日壬戌，旬空未直载属实（成立面）；R91 验收 basis 推作甲戌旬申酉空并注明推导，但本席按六十甲子复算正值为甲寅旬子丑空，推导值与日干支不合一层并载（basis 自注旬空不涉三传，断据未用误值）；天盘／四课／三传俱载、DIAG-H33 §0 登记不计 IN（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：旬空未直载、按日干支推导并注明",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「旬空卡面未直载、basis 推作甲戌旬申酉空与复算正值甲寅旬子丑空不合，读断须以正值为准；盘体俱载、不计 IN，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，旬空推导面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/BY-041.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/BY-041.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-d6c6c5c0",
+   "case_id": "BY-042",
+   "disposition": "部分成立",
+   "finding": "回原卡——anchors 无旬空字段、asked_at 只载日己丑，旬空未直载属实（成立面）；R91 验收 basis 明载按日干支推为甲申旬午未空并注明推导，本席按六十甲子复算（算法经 DA 卡 asked_at 直载值锚点验证）与 basis 值相合；天盘／四课／三传俱载，DIAG-H33 §0 同口径登记不计 IN（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：旬空未直载、按日干支推导并注明",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「旬空卡面未直载、按日己丑推得甲申旬午未空已注明且复算相合；盘体俱载、不计 IN，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，旬空推导面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/BY-042.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/BY-042.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-b964c965",
+   "case_id": "BY-043",
+   "disposition": "部分成立",
+   "finding": "回原卡——anchors 无旬空字段、asked_at 只载日丙申，旬空未直载属实（成立面）；R91 验收 basis 推作甲午旬寅卯空并注明推导，但本席按六十甲子复算正值为甲午旬辰巳空，推导值与日干支不合一层并载（basis 并以误值入断（压制线「印空」据寅卯空立））；天盘／四课／三传俱载、DIAG-H33 §0 登记不计 IN（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：旬空未直载、按日干支推导并注明",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「旬空卡面未直载、basis 推作甲午旬寅卯空与复算正值甲午旬辰巳空不合，读断须以正值为准；盘体俱载、不计 IN，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，旬空推导面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/BY-043.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/BY-043.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-ba35c042",
+   "case_id": "BY-044",
+   "disposition": "部分成立",
+   "finding": "回原卡——anchors 无旬空字段、asked_at 只载日壬申，旬空未直载属实（成立面）；R91 验收 basis 明载按日干支推为甲子旬戌亥空并注明推导，本席按六十甲子复算（算法经 DA 卡 asked_at 直载值锚点验证）与 basis 值相合；天盘／四课／三传俱载，DIAG-H33 §0 同口径登记不计 IN（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：旬空未直载、按日干支推导并注明",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「旬空卡面未直载、按日壬申推得甲子旬戌亥空已注明且复算相合；盘体俱载、不计 IN，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，旬空推导面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/BY-044.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/BY-044.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-5f85f016",
+   "case_id": "BY-045",
+   "disposition": "部分成立",
+   "finding": "回原卡——anchors 无旬空字段、asked_at 只载日壬寅，旬空未直载属实（成立面）；R91 验收 basis 明载按日干支推为甲午旬辰巳空并注明推导，本席按六十甲子复算（算法经 DA 卡 asked_at 直载值锚点验证）与 basis 值相合；天盘／四课／三传俱载，DIAG-H33 §0 同口径登记不计 IN（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：旬空未直载、按日干支推导并注明",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「旬空卡面未直载、按日壬寅推得甲午旬辰巳空已注明且复算相合；盘体俱载、不计 IN，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，旬空推导面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/BY-045.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/BY-045.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-2e159731",
+   "case_id": "BY-046",
+   "disposition": "部分成立",
+   "finding": "回原卡——anchors 无旬空字段、asked_at 只载日壬申，旬空未直载属实（成立面）；R91 验收 basis 明载按日干支推为甲子旬戌亥空并注明推导，本席按六十甲子复算（算法经 DA 卡 asked_at 直载值锚点验证）与 basis 值相合；天盘／四课／三传俱载，DIAG-H33 §0 同口径登记不计 IN（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：旬空未直载、按日干支推导并注明",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「旬空卡面未直载、按日壬申推得甲子旬戌亥空已注明且复算相合；盘体俱载、不计 IN，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，旬空推导面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/BY-046.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/BY-046.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-97e96e7d",
+   "case_id": "WHY-092",
+   "disposition": "部分成立",
+   "finding": "回原卡——anchors 无旬空字段、asked_at 只载日乙未，旬空未直载属实（成立面）；R91 验收 basis 推作甲午旬寅卯空并注明，但本席按六十甲子复算正值为甲午旬辰巳空，推导值与日干支不合一层并载（basis 自注旬空不涉用神，断据未用误值）；卦面锚点俱载、DIAG-H33 §0 登记不计 IN（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：旬空未直载、按日干支推导并注明",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「旬空卡面未直载、basis 推作甲午旬寅卯空与复算正值甲午旬辰巳空不合，读断须以正值为准；卦面俱载、不计 IN，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，旬空推导面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/WHY-092.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/WHY-092.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-badc673b",
+   "case_id": "WHY-093",
+   "disposition": "部分成立",
+   "finding": "回原卡——anchors 载 asked_at／本卦／变卦／动爻／逐爻／fu_shen，无旬空字段、asked_at 只载日丁亥，旬空未直载属实（成立面）；R91 验收 basis 明载按日干支推为甲申旬午未空并注明，本席复算与 basis 值相合；卦面锚点俱载，DIAG-H33 §0 同口径登记不计 IN（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：旬空未直载、按日干支推导并注明",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「旬空卡面未直载、按日丁亥推得甲申旬午未空已注明且复算相合；卦面俱载、不计 IN，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，旬空推导面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/WHY-093.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/WHY-093.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-d001b115",
+   "case_id": "WHY-095",
+   "disposition": "部分成立",
+   "finding": "回原卡——anchors 载 asked_at／本卦／变卦／动爻／逐爻／fu_shen，无旬空字段、asked_at 只载日丁卯，旬空未直载属实（成立面）；R91 验收 basis 明载按日干支推为甲子旬戌亥空并注明，本席复算与 basis 值相合；卦面锚点俱载，DIAG-H33 §0 同口径登记不计 IN（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：旬空未直载、按日干支推导并注明",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「旬空卡面未直载、按日丁卯推得甲子旬戌亥空已注明且复算相合；卦面俱载、不计 IN，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，旬空推导面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/WHY-095.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/WHY-095.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-390b6163",
+   "case_id": "WHY-096",
+   "disposition": "部分成立",
+   "finding": "回原卡——anchors 载 asked_at／本卦／变卦／动爻／逐爻／fu_shen，无旬空字段、asked_at 只载日甲申，旬空未直载属实（成立面）；R91 验收 basis 明载按日干支推为甲申旬午未空并注明，本席复算与 basis 值相合；卦面锚点俱载，DIAG-H33 §0 同口径登记不计 IN（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：旬空未直载、按日干支推导并注明",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「旬空卡面未直载、按日甲申推得甲申旬午未空已注明且复算相合；卦面俱载、不计 IN，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，旬空推导面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/WHY-096.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/WHY-096.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-909102cb",
+   "case_id": "WHY-098",
+   "disposition": "部分成立",
+   "finding": "回原卡——anchors 载 asked_at／本卦／变卦／动爻／逐爻／fu_shen，无旬空字段、asked_at 只载日甲戌，旬空未直载属实（成立面）；R91 验收 basis 明载按日干支推为甲戌旬申酉空并注明，本席复算与 basis 值相合；卦面锚点俱载，DIAG-H33 §0 同口径登记不计 IN（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：旬空未直载、按日干支推导并注明",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「旬空卡面未直载、按日甲戌推得甲戌旬申酉空已注明且复算相合；卦面俱载、不计 IN，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，旬空推导面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/WHY-098.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/WHY-098.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-7f33afdc",
+   "case_id": "WHY-099",
+   "disposition": "部分成立",
+   "finding": "回原卡——anchors 无旬空字段、asked_at 只载日己亥，旬空未直载属实（成立面）；R91 验收 basis 推作甲戌旬申酉空并注明，但本席按六十甲子复算正值为甲午旬辰巳空，推导值与日干支不合一层并载（basis 断语未以误值立据（申酉空未入断））；卦面锚点俱载、DIAG-H33 §0 登记不计 IN（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：旬空未直载、按日干支推导并注明",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「旬空卡面未直载、basis 推作甲戌旬申酉空与复算正值甲午旬辰巳空不合，读断须以正值为准；卦面俱载、不计 IN，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，旬空推导面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/WHY-099.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/WHY-099.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-34aa9ce4",
+   "case_id": "WHY-100",
+   "disposition": "部分成立",
+   "finding": "回原卡——anchors 载 asked_at／本卦／变卦／动爻／逐爻／fu_shen，无旬空字段、asked_at 只载日乙亥，旬空未直载属实（成立面）；R91 验收 basis 明载按日干支推为甲戌旬申酉空并注明，本席复算与 basis 值相合；卦面锚点俱载，DIAG-H33 §0 同口径登记不计 IN（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：旬空未直载、按日干支推导并注明",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「旬空卡面未直载、按日乙亥推得甲戌旬申酉空已注明且复算相合；卦面俱载、不计 IN，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，旬空推导面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/WHY-100.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/WHY-100.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-f337f091",
+   "case_id": "WHY-103",
+   "disposition": "部分成立",
+   "finding": "回原卡——anchors 载 asked_at／本卦／变卦／动爻／逐爻／fu_shen，无旬空字段、asked_at 只载日戊辰，旬空未直载属实（成立面）；R91 验收 basis 明载按日干支推为甲子旬戌亥空并注明，本席复算与 basis 值相合；卦面锚点俱载，DIAG-H33 §0 同口径登记不计 IN（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：旬空未直载、按日干支推导并注明",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「旬空卡面未直载、按日戊辰推得甲子旬戌亥空已注明且复算相合；卦面俱载、不计 IN，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，旬空推导面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/WHY-103.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/WHY-103.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-34d2761b",
+   "case_id": "WHY-104",
+   "disposition": "部分成立",
+   "finding": "回原卡——anchors 载 asked_at／本卦／变卦／动爻／逐爻／fu_shen，无旬空字段、asked_at 只载日癸巳，旬空未直载属实（成立面）；R91 验收 basis 明载按日干支推为甲申旬午未空并注明，本席复算与 basis 值相合；卦面锚点俱载，DIAG-H33 §0 同口径登记不计 IN（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：旬空未直载、按日干支推导并注明",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「旬空卡面未直载、按日癸巳推得甲申旬午未空已注明且复算相合；卦面俱载、不计 IN，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，旬空推导面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/WHY-104.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/WHY-104.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-bdd5b90a",
+   "case_id": "WHY-106",
+   "disposition": "部分成立",
+   "finding": "回原卡——anchors 载 asked_at／本卦／变卦／动爻／逐爻／fu_shen，无旬空字段、asked_at 只载日辛亥，旬空未直载属实（成立面）；R91 验收 basis 明载按日干支推为甲辰旬寅卯空并注明，本席复算与 basis 值相合；卦面锚点俱载，DIAG-H33 §0 同口径登记不计 IN（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：旬空未直载、按日干支推导并注明",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「旬空卡面未直载、按日辛亥推得甲辰旬寅卯空已注明且复算相合；卦面俱载、不计 IN，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，旬空推导面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/WHY-106.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/WHY-106.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-10f44545",
+   "case_id": "WHY-107",
+   "disposition": "部分成立",
+   "finding": "回原卡——anchors 无旬空字段、asked_at 只载日己亥，旬空未直载属实（成立面）；R91 验收 basis 推作甲戌旬申酉空并注明，但本席按六十甲子复算正值为甲午旬辰巳空，推导值与日干支不合一层并载（basis 并以误值入断（世化子申「化空」一据据申酉空立））；卦面锚点俱载、DIAG-H33 §0 登记不计 IN（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：旬空未直载、按日干支推导并注明",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「旬空卡面未直载、basis 推作甲戌旬申酉空与复算正值甲午旬辰巳空不合，读断须以正值为准；卦面俱载、不计 IN，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，旬空推导面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/WHY-107.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/WHY-107.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-ff167d25",
+   "case_id": "WHY-108",
+   "disposition": "部分成立",
+   "finding": "回原卡——anchors 载 asked_at／本卦／变卦／动爻／逐爻／fu_shen，无旬空字段、asked_at 只载日乙亥，旬空未直载属实（成立面）；R91 验收 basis 明载按日干支推为甲戌旬申酉空并注明，本席复算与 basis 值相合；卦面锚点俱载，DIAG-H33 §0 同口径登记不计 IN（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：旬空未直载、按日干支推导并注明",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「旬空卡面未直载、按日乙亥推得甲戌旬申酉空已注明且复算相合；卦面俱载、不计 IN，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，旬空推导面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/WHY-108.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/WHY-108.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-ef2e42d9",
+   "case_id": "WHY-109",
+   "disposition": "部分成立",
+   "finding": "回原卡——anchors 载 asked_at／本卦／变卦／动爻／逐爻／fu_shen，无旬空字段、asked_at 只载日己巳，旬空未直载属实（成立面）；R91 验收 basis 明载按日干支推为甲子旬戌亥空并注明，本席复算与 basis 值相合；卦面锚点俱载，DIAG-H33 §0 同口径登记不计 IN（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：旬空未直载、按日干支推导并注明",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「旬空卡面未直载、按日己巳推得甲子旬戌亥空已注明且复算相合；卦面俱载、不计 IN，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，旬空推导面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/WHY-109.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/WHY-109.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-0d10ff30",
+   "case_id": "WHY-110",
+   "disposition": "部分成立",
+   "finding": "回原卡——anchors 无旬空字段、asked_at 只载日辛丑，旬空未直载属实（成立面）；R91 验收 basis 推作甲午旬寅卯空并注明，但本席按六十甲子复算正值为甲午旬辰巳空，推导值与日干支不合一层并载（basis 自注旬空不涉用神，断据未用误值）；卦面锚点俱载、DIAG-H33 §0 登记不计 IN（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：旬空未直载、按日干支推导并注明",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「旬空卡面未直载、basis 推作甲午旬寅卯空与复算正值甲午旬辰巳空不合，读断须以正值为准；卦面俱载、不计 IN，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，旬空推导面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/WHY-110.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/WHY-110.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-b964c965",
+   "case_id": "BY-043",
+   "disposition": "部分成立",
+   "finding": "回原卡——anchors 三传逐字作「禄巳（空）、官寅（合）、财亥（贵）」；R91 验收 basis 自注卡面标与以日干丙火生克自推（禄巳／父寅／官亥）不合、已注明分歧并按自推作断。逐项核：巳为丙禄（兄弟）两读一致；寅木生丙火当为父母、卡面标官，亥水克丙火当为官鬼、卡面标财——中、末传六亲标与日干生克不合一层属实（成立面）；三传支与天将卡面明载、basis 已披露并降权处理（不成立面）。故部分成立。",
+   "flag": "验收盲测席自注：卡面三传六亲标与按日干生克自推不合",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「卡面三传六亲标官寅／财亥与日干丙生克自推（父寅／官亥）不合、basis 已注明按自推读，读断以自推为准，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自注定案）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/BY-043.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/BY-043.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-f337f091",
+   "case_id": "WHY-103",
+   "disposition": "部分成立",
+   "finding": "回原卡——anchors 载本卦逐爻六行、动爻（六爻兄弟酉金×动、五爻子孙亥水×动、初爻父母辰土×动）与变卦名「风火家人」，未逐爻给出变卦爻面，世爻化神未直载属实（成立面）；R91 验收 basis 自标「世动之化神卡面未直载、本席未臆补」与缺载旗标「世爻化神卡面未载（残损旗标）」；该例主断所据（世旺动空、伏财泄飞）与金标决定性断项所据俱在卡，DIAG-H33 §0／§2 作字段级缺载单列登记、不计 IN（致断无据）（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：世爻（五爻子孙亥水）化神卡面未直载（残损旗标）",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「世爻化神卡面未直载、basis 已自标未臆补；主断所据在卡、字段级缺载单列、不计 IN，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，全集唯一字段级缺载）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/WHY-103.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/WHY-103.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-97e96e7d",
+   "case_id": "WHY-092",
+   "disposition": "部分成立",
+   "finding": "回原卡——question／context 仅载「某男测年运」，subject 为台账空缺卡面自注，无生年与年命细节，年命面未载属实（成立面）；R91 验收 basis 缺载旗标逐字自承此节、年运只断本人一线；卦面锚点（asked_at／本卦／变卦／动爻／逐爻）俱载（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：题面仅「某男」、无年命细节",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「题面仅载某男、无年命细节，basis 已自承只断本人一线；卦面俱载，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，题面身份／年命面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/WHY-092.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/WHY-092.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-badc673b",
+   "case_id": "WHY-093",
+   "disposition": "部分成立",
+   "finding": "回原卡——question／context 仅载「某男测年运」，subject 为台账空缺卡面自注，无生年与年命细节，年命面未载属实（成立面）；R91 验收 basis 缺载旗标逐字自承此节、年运只断本人一线；卦面锚点（asked_at／本卦／变卦／动爻／逐爻）俱载（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：题面仅「某男」、无年命细节",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「题面仅载某男、无年命细节，basis 已自承只断本人一线；卦面俱载，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，题面身份／年命面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/WHY-093.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/WHY-093.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-d001b115",
+   "case_id": "WHY-095",
+   "disposition": "部分成立",
+   "finding": "回原卡——question／context 仅载「某男测年运」，subject 为台账空缺卡面自注，无生年与年命细节，年命面未载属实（成立面）；R91 验收 basis 缺载旗标逐字自承此节、年运只断本人一线；卦面锚点（asked_at／本卦／变卦／动爻／逐爻）俱载（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：题面仅「某男」、无年命细节",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「题面仅载某男、无年命细节，basis 已自承只断本人一线；卦面俱载，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，题面身份／年命面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/WHY-095.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/WHY-095.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-390b6163",
+   "case_id": "WHY-096",
+   "disposition": "部分成立",
+   "finding": "回原卡——question／context 仅载「某男测年运」，subject 为台账空缺卡面自注，无生年与年命细节，年命面未载属实（成立面）；R91 验收 basis 缺载旗标逐字自承此节、年运只断本人一线；卦面锚点（asked_at／本卦／变卦／动爻／逐爻）俱载（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：题面仅「某男」、无年命细节",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「题面仅载某男、无年命细节，basis 已自承只断本人一线；卦面俱载，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，题面身份／年命面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/WHY-096.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/WHY-096.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-909102cb",
+   "case_id": "WHY-098",
+   "disposition": "部分成立",
+   "finding": "回原卡——question／context／anchors 逐项核均未载宅向／店址等实物信息（成立面）；R91 验收 basis 缺载旗标逐字自承「题面无宅向、楼层等实物信息」、明载风水只断卦象层、不及方位细断；卦面锚点俱载（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：题面无宅向、楼层等实物信息",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「题面无宅向、楼层等实物信息、basis 已自承只断卦象层；卦面俱载，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，题面实物信息面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/WHY-098.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/WHY-098.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-7f33afdc",
+   "case_id": "WHY-099",
+   "disposition": "部分成立",
+   "finding": "回原卡——question／context／anchors 逐项核均未载宅向／店址等实物信息（成立面）；R91 验收 basis 缺载旗标逐字自承「题面无宅向实物信息」、明载风水只断卦象层、不及方位细断；卦面锚点俱载（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：题面无宅向实物信息",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「题面无宅向实物信息、basis 已自承只断卦象层；卦面俱载，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，题面实物信息面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/WHY-099.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/WHY-099.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-34aa9ce4",
+   "case_id": "WHY-100",
+   "disposition": "部分成立",
+   "finding": "回原卡——question／context／anchors 逐项核均未载宅向／店址等实物信息（成立面）；R91 验收 basis 缺载旗标逐字自承「题面无宅向实物信息」、明载风水只断卦象层、不及方位细断；卦面锚点俱载（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：题面无宅向实物信息",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「题面无宅向实物信息、basis 已自承只断卦象层；卦面俱载，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，题面实物信息面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/WHY-100.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/WHY-100.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-f337f091",
+   "case_id": "WHY-103",
+   "disposition": "部分成立",
+   "finding": "回原卡——question／context／anchors 逐项核均未载宅向／店址等实物信息（成立面）；R91 验收 basis 缺载旗标逐字自承「题面无店址方位信息」、明载风水只断卦象层、不及方位细断；卦面锚点俱载（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：题面无店址方位信息",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「题面无店址方位信息、basis 已自承只断卦象层；卦面俱载，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，题面实物信息面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/WHY-103.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/WHY-103.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-34d2761b",
+   "case_id": "WHY-104",
+   "disposition": "部分成立",
+   "finding": "回原卡——question／context／anchors 逐项核均未载宅向／店址等实物信息（成立面）；R91 验收 basis 缺载旗标逐字自承「题面无店址方位信息」、明载风水只断卦象层、不及方位细断；卦面锚点俱载（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：题面无店址方位信息",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「题面无店址方位信息、basis 已自承只断卦象层；卦面俱载，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，题面实物信息面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/WHY-104.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/WHY-104.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-bdd5b90a",
+   "case_id": "WHY-106",
+   "disposition": "部分成立",
+   "finding": "回原卡——question／context／anchors 逐项核均未载宅向／店址等实物信息（成立面）；R91 验收 basis 缺载旗标逐字自承「题面无宅向实物信息」、明载风水只断卦象层、不及方位细断；卦面锚点俱载（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：题面无宅向实物信息",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「题面无宅向实物信息、basis 已自承只断卦象层；卦面俱载，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，题面实物信息面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/WHY-106.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/WHY-106.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-10f44545",
+   "case_id": "WHY-107",
+   "disposition": "部分成立",
+   "finding": "回原卡——question／context／anchors 逐项核均未载宅向／店址等实物信息（成立面）；R91 验收 basis 缺载旗标逐字自承「题面无宅向实物信息」、明载风水只断卦象层、不及方位细断；卦面锚点俱载（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：题面无宅向实物信息",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「题面无宅向实物信息、basis 已自承只断卦象层；卦面俱载，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，题面实物信息面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/WHY-107.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/WHY-107.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-ff167d25",
+   "case_id": "WHY-108",
+   "disposition": "部分成立",
+   "finding": "回原卡——question 仅载「老同学求测家宅（丁丑年同学聚会期间）」，未载宅向实物信息、未载求测者生年，年命未给，两面缺载属实（成立面）；R91 验收 basis 缺载旗标逐字自承两节；卦面锚点俱载（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：题面无宅向实物信息；求测者年命未给",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「题面无宅向实物信息、求测者年命未给，basis 已自承；卦面俱载，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，题面实物信息面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/WHY-108.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/WHY-108.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-ef2e42d9",
+   "case_id": "WHY-109",
+   "disposition": "部分成立",
+   "finding": "回原卡——question／context 仅载「某男测妻病」，无病程新旧信息属实（成立面）；R91 验收 basis 缺载旗标逐字自承「题面无病程新旧信息，新病应上字/旧病应下字一路无据，已在置信中收束」；卦面锚点俱载（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：题面无病程新旧信息（新病／旧病一路无据）",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「病程新旧题面未载、basis 已自承该路无据并收束置信；卦面俱载，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，疾病面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/WHY-109.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/WHY-109.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-ef2e42d9",
+   "case_id": "WHY-109",
+   "disposition": "部分成立",
+   "finding": "回原卡与 basis 逐字核——用神五爻妻财子水：basis 病位复核自注爻位路五爻主胸段、五行路水主下焦，两路冲突属实，basis 已按门槛只断病势、病位报倾向并注明「两路不合交集，故病位只报水道倾向、不坐实部位」（成立面为冲突与披露俱在）；卦面锚点俱载、病势主断不恃病位一路（不成立面）。故部分成立。与本例病程面条并行。",
+   "flag": "验收盲测席自注：病位两路（爻位路／五行路）冲突、只报倾向",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「病位爻位／五行两路冲突、basis 已注明只报倾向，读断病位只作倾向、不作坐实，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，疾病面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/WHY-109.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/WHY-109.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
+  },
+  {
+   "anon_id": "H33O-0d10ff30",
+   "case_id": "WHY-110",
+   "disposition": "部分成立",
+   "finding": "回原卡——question／context 仅载「某男自测病」，无病程新旧与病名信息属实（成立面）；R91 验收 basis 缺载旗标逐字自承此节、明载「病位无卦象交集依据、不妄断部位」；卦面锚点俱载（不成立面）。故部分成立。",
+   "flag": "验收盲测席残损自报：题面无病程新旧与病名信息、病位无卦象交集依据",
+   "manifest_carry_suggestion": "验收侧新登记：自 R92 起承接本 R91 标注：按「病程新旧与病名题面未载、病位无交集依据 basis 已自承不妄断；卦面俱载，部分成立」登记（验收面只登记、不入后续 manifest 常规落实层，供后续验收集复用读法）；金标原文照录不改。",
+   "relation": "新登记（R91，验收侧 basis 自报定案，疾病面）",
+   "registered_round": 91,
+   "sources_checked": [
+    "divination/benchmark/phase3/holdout33/inputs/WHY-110.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/predictions/WHY-110.json",
+    "divination/benchmark/phase3/runs/round91/acceptance/diagnosis/DIAG-H33.md",
+    "divination/benchmark/phase3/runs/round91/acceptance/judging/host-mapping.json"
+   ],
+   "source_seats": [
+    "验收盲测席 basis 自报",
+    "R91 数据席回读原卡（验收面补编）"
+   ]
   }
  ],
  "special_checks": [
@@ -10731,6 +11771,12 @@
    "conclusion": "holdout33 验收尚未开封（待平台评审定稿），验收面定案待开封后另行补编（若开封），本轮无验收面新定案。已用并集 1304（runs/round91/used-ids-r91.json 实测 1304 件、与 R90 收束定版逐值相符）；holdout33 封存待开封、holdout34 未组集（紫微面未用 eligible＝2、距判据 ≥9 差 7）。CYJ fidelity 例外 46 件只登记、不充 eligible。",
    "evidence": "runs/round91/used-ids-r91.json；data/holdout33-seal-log.md；runs/round90/ADDENDUM-r90.md §六。",
    "scope_note": "只登记状态，不复验封存件。"
+  },
+  {
+   "item": "（R91）特别核查87：验收面（holdout33 开封）旗标定案补编总登记（新定案 66 条）",
+   "conclusion": "holdout33 已开封验收，验收面新定案 66 条：部分成立 52（行年／年命 14、旬空推导 21、BY-043 六亲不合 1、WHY-103 化神 1、WHY 身份／实物 12、WHY 疾病 3）、不成立 14（DA 课名底本未载 6，承 R88 DA-051 F3 判例；DA-073 四课重见／BY-045 同日干支异案（DIAG-H33 §5 F1）／BY-042 问面取舍／WHY-095 静卦形态／fu_shen 空载 4 例各 1）。部分成立 52 条落账本件 annotations（517＝465＋52），不成立与 BY-044 题面—断面落差行只登记于附则 §五。IN（致断无据）＝0／28、字段级缺载 1／28（WHY-103），与 DIAG-H33 §0／§2 口径全合；旬空推导值经六十甲子复算不合 6 件（BY-041／BY-043／WHY-092／WHY-099／WHY-107／WHY-110）已逐件分载正值。验收面定案只登记、不入后续 manifest 常规落实层。",
+   "evidence": "runs/round91/acceptance/predictions 逐件 basis；holdout33/inputs 逐件原卡；runs/round91/acceptance/diagnosis/DIAG-H33.md §0／§2／§5／§6；runs/round91/acceptance/judging/host-mapping.json；data/manifest-carryover-r91-addendum.md §五。",
+   "scope_note": "结论只及标注与读法登记，不改验收分数、原卡与金标原文。"
   }
  ],
  "counts": {
@@ -10972,7 +12018,7 @@
    "LY-614"
   ],
   "r91_not_upheld_platform_registered_only": "tradition 旗标候选余 37 件（FREEZE-r91 裁定不成立）＋YM-033／YM-040 卡面旗标不成立 2 件，只登记不入 annotations",
-  "acceptance_side_r91": "holdout33 尚未开封（待平台评审定稿），验收面无新定案；定案待开封后另行补编（若开封）",
+  "acceptance_side_r91": "holdout33 已开封验收未达标，验收面定案经补编席补入（见 manifest-carryover-r91-addendum.md §五）：定案 66 条（部分成立 52／不成立 14），部分成立 52 条落账本件、不成立只登记；IN（致断无据）0／28、字段级缺载 1（WHY-103 世爻化神）；旬空推导值复算不合 6 件（BY-041／BY-043／WHY-092／WHY-099／WHY-107／WHY-110）已分载正值",
   "baseline_instructional_strings": {
    "items": 6,
    "result": "manifest 侧五处 R91 盘上逐处在册、形态未变，出入 0 处；评审包 editor_note 层本轮禁读 packet、未复核，只承 R90 在册形态登记"
@@ -10991,12 +12037,67 @@
    "h34_gap": 7
   },
   "used_union": 1304,
-  "cases_total": 465,
+  "cases_total": 517,
   "verdicts": {
    "成立": 14,
-   "部分成立": 378,
+   "部分成立": 430,
    "不成立": 71,
    "未核": 2
-  }
+  },
+  "new_registrations_r91_acceptance_addendum": 52,
+  "r91_acceptance_partial_upheld": [
+   "DA-066（行年未逐年推、只用本命（行年上神未逐）",
+   "DA-067（行年未逐年推、只用本命（行年上神未逐）",
+   "DA-068（行年未逐年推、只用本命（行年上神未逐）",
+   "DA-070（行年未逐年推、只用本命（行年上神未逐）",
+   "DA-072（行年未逐年推、只用本命（行年上神未逐）",
+   "DA-073（行年未逐年推、只用本命（行年上神未逐）",
+   "DA-074（行年未逐年推、只用本命（行年上神未逐）",
+   "BY-039（年命未给（命路无据））",
+   "BY-041（年命未给（命路无据））",
+   "BY-042（年命未给（命路无据））",
+   "BY-043（年命未给（命路无据））",
+   "BY-044（年命未给（命路无据））",
+   "BY-045（年命未给（命路无据））",
+   "BY-046（年命未给（命路无据））",
+   "BY-039（旬空未直载、按日干支推导并注明）",
+   "BY-041（旬空未直载、按日干支推导并注明）",
+   "BY-042（旬空未直载、按日干支推导并注明）",
+   "BY-043（旬空未直载、按日干支推导并注明）",
+   "BY-044（旬空未直载、按日干支推导并注明）",
+   "BY-045（旬空未直载、按日干支推导并注明）",
+   "BY-046（旬空未直载、按日干支推导并注明）",
+   "WHY-092（旬空未直载、按日干支推导并注明）",
+   "WHY-093（旬空未直载、按日干支推导并注明）",
+   "WHY-095（旬空未直载、按日干支推导并注明）",
+   "WHY-096（旬空未直载、按日干支推导并注明）",
+   "WHY-098（旬空未直载、按日干支推导并注明）",
+   "WHY-099（旬空未直载、按日干支推导并注明）",
+   "WHY-100（旬空未直载、按日干支推导并注明）",
+   "WHY-103（旬空未直载、按日干支推导并注明）",
+   "WHY-104（旬空未直载、按日干支推导并注明）",
+   "WHY-106（旬空未直载、按日干支推导并注明）",
+   "WHY-107（旬空未直载、按日干支推导并注明）",
+   "WHY-108（旬空未直载、按日干支推导并注明）",
+   "WHY-109（旬空未直载、按日干支推导并注明）",
+   "WHY-110（旬空未直载、按日干支推导并注明）",
+   "BY-043（卡面三传六亲标与按日干生克自推不合）",
+   "WHY-103（世爻（五爻子孙亥水）化神卡面未直载（）",
+   "WHY-092（题面仅「某男」、无年命细节）",
+   "WHY-093（题面仅「某男」、无年命细节）",
+   "WHY-095（题面仅「某男」、无年命细节）",
+   "WHY-096（题面仅「某男」、无年命细节）",
+   "WHY-098（题面无宅向、楼层等实物信息）",
+   "WHY-099（题面无宅向实物信息）",
+   "WHY-100（题面无宅向实物信息）",
+   "WHY-103（题面无店址方位信息）",
+   "WHY-104（题面无店址方位信息）",
+   "WHY-106（题面无宅向实物信息）",
+   "WHY-107（题面无宅向实物信息）",
+   "WHY-108（题面无宅向实物信息；求测者年命未给）",
+   "WHY-109（题面无病程新旧信息（新病／旧病一路无）",
+   "WHY-109（病位两路（爻位路／五行路）冲突、只报）",
+   "WHY-110（题面无病程新旧与病名信息、病位无卦象）"
+  ]
  }
 }
