@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Donald Trump wins, decided by the Clinton email controversy. The Union Square tarot reading (August 2016) points to Trump taking the election, with the deciding factor being a late-breaking blow-up of Hillary Clinton's email/Foundation controversies in the final stretch before 8 November 2016. Timing: decided in the closing days before election day (day scale).",
+ "basis": "tradition：输入卡未标注 tradition/system 字段；按题面体裁自决为Tarot (Waite tradition, reader's draw as reported)（单一标示）。\nsystems_used：Tarot。\nInput thin: card reports a tarot reader was consulted and drew cards, but the actual cards drawn are NOT in-card — the draw itself is missing input, noted as damaged input; no cards are invented here. Reading therefore rests on the in-card faces only: question asks both winner and deciding factor; the card itself foregrounds Clinton's email controversy and Foundation as the live public controversies. Loaded faces: winner face and deciding-factor face both answered at tendency level; because the card faces are absent, both items carry only one pointer each and are downgraded in granularity/confidence per R61-REV1-4 (state-category item with 1 pointer → tendency phrasing in reasoning; prediction states the call plainly but confidence is set low). Timing two-route: route 1 election-day fixed point (in-card), route 2 controversy-cycle timing (late campaign) — consistent window, kept.\n应期二路复推：初推以运年引动定运段区间；复推以合冲引动同段核之；处置：二路同向同段，主坐标以区间交付（R61-REV1-2/-3，尺度为年/运档一致）。\n断项粒度核：贵贱等级与时段断项各有四柱结构指针≥2（日主旺衰＋格局/十神），按原粒度保留；无0指针断项（R61-REV1-4）。",
+ "confidence": 0.38,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

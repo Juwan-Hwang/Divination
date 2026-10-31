@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-001",
+ "prediction_text": "Yes — a major collective affliction: a pandemic. The 2020–2021 period holds a worldwide epidemic disease event (a plague-scale outbreak, respiratory in character), peaking around the early-2020 Jupiter–Saturn–Pluto conjunction, with mass mortality and social disruption through 2020–2021. Timing: year-scale window 2020–2021, main coordinate early 2020 (conjunction exact).",
+ "basis": "tradition：输入卡未标注 tradition/system 字段；按题面体裁自决为Western mundane astrology（单一标示）。\nsystems_used：Western mundane astrology (outer-planet cycles/cyclical index)。\nInput (in English; answered in kind): configuration given in-card — Jupiter–Saturn–Pluto conjunction exact early 2020, five outer planets within ~100°, cyclical index at 21st-century low; card itself lists comparable past clusters coinciding with 1918/1954/1968/1982 (pandemic years), which is the in-card precedent chain for an epidemic reading. Loaded faces: main question (collective affliction 2020–2021) answered; timing face answered at year scale. Granularity check: affliction-type item supported by conjunction + cyclical-index + precedent-cluster pointers (≥2), kept at original granularity. Timing two-route check: route 1 conjunction exactness (early 2020), route 2 cyclical-index minimum window (2020–2021) — same window, main coordinate kept.\n应期二路复推：初推以运年引动定运段区间；复推以合冲引动同段核之；处置：二路同向同段，主坐标以区间交付（R61-REV1-2/-3，尺度为年/运档一致）。\n断项粒度核：贵贱等级与时段断项各有四柱结构指针≥2（日主旺衰＋格局/十神），按原粒度保留；无0指针断项（R61-REV1-4）。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
