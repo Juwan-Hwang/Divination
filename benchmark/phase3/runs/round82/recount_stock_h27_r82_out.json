@@ -1,0 +1,4172 @@
+{
+ "used_union": {
+  "total": 1112,
+  "parts": {
+   "dev": 488,
+   "holdout2_splits2": 29,
+   "gold_h3_26": 700,
+   "holdout_inputs": 541,
+   "top_inputs6_10": 412
+  }
+ },
+ "ledgers": {
+  "DS-r76": {
+   "path": "/home/hatch/workspace/divination/benchmark/phase3/runs/round76/digestion/SUPPLY-MINING-duanshi-r76.json",
+   "total": 63,
+   "funnel": [
+    {
+     "stage": "eligible_net=true",
+     "eliminated": 0,
+     "eliminated_ids": [],
+     "remaining": 63
+    },
+    {
+     "stage": "anchor present",
+     "eliminated": 0,
+     "eliminated_ids": [],
+     "remaining": 63
+    },
+    {
+     "stage": "contamination low",
+     "eliminated": 1,
+     "eliminated_ids": [
+      "DS-047"
+     ],
+     "remaining": 62
+    },
+    {
+     "stage": "四滤全pass",
+     "eliminated": 0,
+     "eliminated_ids": [],
+     "remaining": 62
+    },
+    {
+     "stage": "断语/结局非空",
+     "eliminated": 0,
+     "eliminated_ids": [],
+     "remaining": 62
+    }
+   ],
+   "qualified": [
+    "DS-001",
+    "DS-002",
+    "DS-003",
+    "DS-004",
+    "DS-005",
+    "DS-006",
+    "DS-007",
+    "DS-008",
+    "DS-009",
+    "DS-010",
+    "DS-011",
+    "DS-012",
+    "DS-013",
+    "DS-014",
+    "DS-015",
+    "DS-016",
+    "DS-017",
+    "DS-018",
+    "DS-019",
+    "DS-020",
+    "DS-021",
+    "DS-022",
+    "DS-023",
+    "DS-024",
+    "DS-025",
+    "DS-026",
+    "DS-027",
+    "DS-028",
+    "DS-029",
+    "DS-030",
+    "DS-031",
+    "DS-032",
+    "DS-033",
+    "DS-034",
+    "DS-035",
+    "DS-036",
+    "DS-037",
+    "DS-038",
+    "DS-039",
+    "DS-040",
+    "DS-041",
+    "DS-042",
+    "DS-043",
+    "DS-044",
+    "DS-045",
+    "DS-046",
+    "DS-048",
+    "DS-049",
+    "DS-050",
+    "DS-051",
+    "DS-052",
+    "DS-053",
+    "DS-054",
+    "DS-055",
+    "DS-056",
+    "DS-057",
+    "DS-058",
+    "DS-059",
+    "DS-060",
+    "DS-061",
+    "DS-062",
+    "DS-063"
+   ],
+   "qualified_used": [
+    "DS-001",
+    "DS-002",
+    "DS-003",
+    "DS-004",
+    "DS-005",
+    "DS-006",
+    "DS-007",
+    "DS-008",
+    "DS-009",
+    "DS-010",
+    "DS-011",
+    "DS-012",
+    "DS-013",
+    "DS-014",
+    "DS-015",
+    "DS-016",
+    "DS-017",
+    "DS-018",
+    "DS-019",
+    "DS-020",
+    "DS-021",
+    "DS-022",
+    "DS-023",
+    "DS-024",
+    "DS-025",
+    "DS-026",
+    "DS-027",
+    "DS-028",
+    "DS-029",
+    "DS-030",
+    "DS-031",
+    "DS-032",
+    "DS-033",
+    "DS-034",
+    "DS-035",
+    "DS-036",
+    "DS-037",
+    "DS-038",
+    "DS-039"
+   ],
+   "qualified_unused": [
+    "DS-040",
+    "DS-041",
+    "DS-042",
+    "DS-043",
+    "DS-044",
+    "DS-045",
+    "DS-046",
+    "DS-048",
+    "DS-049",
+    "DS-050",
+    "DS-051",
+    "DS-052",
+    "DS-053",
+    "DS-054",
+    "DS-055",
+    "DS-056",
+    "DS-057",
+    "DS-058",
+    "DS-059",
+    "DS-060",
+    "DS-061",
+    "DS-062",
+    "DS-063"
+   ],
+   "ledger_count_field": {
+    "registered": 63,
+    "four_filter_pass_net": 63,
+    "anchor_present": 63,
+    "anchor_partial": 0,
+    "contamination_medium": 1,
+    "contamination_low": 62
+   }
+  },
+  "KW-kaiwu-r76": {
+   "path": "/home/hatch/workspace/divination/benchmark/phase3/runs/round76/digestion/SUPPLY-MINING-kaiwu-r76.json",
+   "total": 52,
+   "funnel": [
+    {
+     "stage": "anchor present",
+     "eliminated": 0,
+     "eliminated_ids": [],
+     "remaining": 52
+    },
+    {
+     "stage": "contamination low",
+     "eliminated": 0,
+     "eliminated_ids": [],
+     "remaining": 52
+    },
+    {
+     "stage": "separable=true",
+     "eliminated": 0,
+     "eliminated_ids": [],
+     "remaining": 52
+    },
+    {
+     "stage": "stem_check天地盘双ok(全合)",
+     "eliminated": 14,
+     "eliminated_ids": [
+      "QM-017",
+      "QM-026",
+      "QM-033",
+      "QM-041",
+      "QM-050",
+      "QM-051",
+      "QM-053",
+      "QM-054",
+      "QM-056",
+      "QM-057",
+      "QM-059",
+      "QM-060",
+      "QM-061",
+      "QM-062"
+     ],
+     "remaining": 38
+    },
+    {
+     "stage": "断语/结局非空",
+     "eliminated": 0,
+     "eliminated_ids": [],
+     "remaining": 38
+    }
+   ],
+   "qualified": [
+    "QM-011",
+    "QM-012",
+    "QM-013",
+    "QM-014",
+    "QM-015",
+    "QM-016",
+    "QM-018",
+    "QM-019",
+    "QM-020",
+    "QM-021",
+    "QM-022",
+    "QM-023",
+    "QM-024",
+    "QM-025",
+    "QM-027",
+    "QM-028",
+    "QM-029",
+    "QM-030",
+    "QM-031",
+    "QM-032",
+    "QM-034",
+    "QM-035",
+    "QM-036",
+    "QM-037",
+    "QM-038",
+    "QM-039",
+    "QM-040",
+    "QM-042",
+    "QM-043",
+    "QM-044",
+    "QM-045",
+    "QM-046",
+    "QM-047",
+    "QM-048",
+    "QM-049",
+    "QM-052",
+    "QM-055",
+    "QM-058"
+   ],
+   "qualified_used": [
+    "QM-011",
+    "QM-012",
+    "QM-013",
+    "QM-014",
+    "QM-015",
+    "QM-016",
+    "QM-018",
+    "QM-019",
+    "QM-020",
+    "QM-021",
+    "QM-022",
+    "QM-023",
+    "QM-024",
+    "QM-025",
+    "QM-027",
+    "QM-028",
+    "QM-029",
+    "QM-030",
+    "QM-031",
+    "QM-032",
+    "QM-034",
+    "QM-035",
+    "QM-036",
+    "QM-037",
+    "QM-038",
+    "QM-039",
+    "QM-040",
+    "QM-042",
+    "QM-043"
+   ],
+   "qualified_unused": [
+    "QM-044",
+    "QM-045",
+    "QM-046",
+    "QM-047",
+    "QM-048",
+    "QM-049",
+    "QM-052",
+    "QM-055",
+    "QM-058"
+   ]
+  },
+  "QW76-qiwu-r76": {
+   "path": "/home/hatch/workspace/divination/benchmark/phase3/runs/round76/digestion/SUPPLY-MINING-qiwu-r76.json",
+   "total": 11,
+   "funnel": [
+    {
+     "stage": "anchor present",
+     "eliminated": 0,
+     "eliminated_ids": [],
+     "remaining": 11
+    },
+    {
+     "stage": "contamination low",
+     "eliminated": 0,
+     "eliminated_ids": [],
+     "remaining": 11
+    },
+    {
+     "stage": "separable=true",
+     "eliminated": 0,
+     "eliminated_ids": [],
+     "remaining": 11
+    },
+    {
+     "stage": "断语/结局非空",
+     "eliminated": 0,
+     "eliminated_ids": [],
+     "remaining": 11
+    }
+   ],
+   "qualified": [
+    "QM-201",
+    "QM-202",
+    "QM-203",
+    "QM-204",
+    "QM-205",
+    "QM-206",
+    "QM-207",
+    "QM-208",
+    "QM-209",
+    "QM-210",
+    "QM-211"
+   ],
+   "qualified_used": [
+    "QM-201",
+    "QM-202",
+    "QM-203",
+    "QM-204",
+    "QM-205",
+    "QM-206",
+    "QM-207",
+    "QM-208",
+    "QM-209"
+   ],
+   "qualified_unused": [
+    "QM-210",
+    "QM-211"
+   ]
+  },
+  "SG-shijianguo-r76": {
+   "path": "/home/hatch/workspace/divination/benchmark/phase3/runs/round76/digestion/SUPPLY-MINING-shijianguo-r76.json",
+   "total": 11,
+   "funnel": [
+    {
+     "stage": "anchor present",
+     "eliminated": 0,
+     "eliminated_ids": [],
+     "remaining": 11
+    },
+    {
+     "stage": "contamination low",
+     "eliminated": 0,
+     "eliminated_ids": [],
+     "remaining": 11
+    },
+    {
+     "stage": "separable=true",
+     "eliminated": 0,
+     "eliminated_ids": [],
+     "remaining": 11
+    },
+    {
+     "stage": "断语/结局非空",
+     "eliminated": 0,
+     "eliminated_ids": [],
+     "remaining": 11
+    }
+   ],
+   "qualified": [
+    "QM-301",
+    "QM-302",
+    "QM-303",
+    "QM-304",
+    "QM-305",
+    "QM-306",
+    "QM-307",
+    "QM-308",
+    "QM-309",
+    "QM-310",
+    "QM-311"
+   ],
+   "qualified_used": [
+    "QM-301",
+    "QM-302",
+    "QM-303",
+    "QM-304",
+    "QM-305",
+    "QM-306",
+    "QM-307",
+    "QM-308",
+    "QM-309",
+    "QM-310",
+    "QM-311"
+   ],
+   "qualified_unused": [],
+   "screened_out_n": 6
+  },
+  "ZCB-zichubu-r76": {
+   "path": "/home/hatch/workspace/divination/benchmark/phase3/runs/round76/digestion/SUPPLY-MINING-zichubu-r76.json",
+   "total": 36,
+   "funnel": [
+    {
+     "stage": "eligible=true",
+     "eliminated": 17,
+     "eliminated_ids": [
+      "ZCB-020",
+      "ZCB-021",
+      "ZCB-022",
+      "ZCB-023",
+      "ZCB-024",
+      "ZCB-025",
+      "ZCB-026",
+      "ZCB-027",
+      "ZCB-028",
+      "ZCB-029",
+      "ZCB-030",
+      "ZCB-031",
+      "ZCB-032",
+      "ZCB-033",
+      "ZCB-034",
+      "ZCB-035",
+      "ZCB-036"
+     ],
+     "remaining": 19
+    },
+    {
+     "stage": "anchor present",
+     "eliminated": 0,
+     "eliminated_ids": [],
+     "remaining": 19
+    },
+    {
+     "stage": "contamination low",
+     "eliminated": 4,
+     "eliminated_ids": [
+      "ZCB-016",
+      "ZCB-017",
+      "ZCB-018",
+      "ZCB-019"
+     ],
+     "remaining": 15
+    },
+    {
+     "stage": "separable=true",
+     "eliminated": 0,
+     "eliminated_ids": [],
+     "remaining": 15
+    },
+    {
+     "stage": "断语/结局非空",
+     "eliminated": 0,
+     "eliminated_ids": [],
+     "remaining": 15
+    }
+   ],
+   "qualified": [
+    "ZCB-001",
+    "ZCB-002",
+    "ZCB-003",
+    "ZCB-004",
+    "ZCB-005",
+    "ZCB-006",
+    "ZCB-007",
+    "ZCB-008",
+    "ZCB-009",
+    "ZCB-010",
+    "ZCB-011",
+    "ZCB-012",
+    "ZCB-013",
+    "ZCB-014",
+    "ZCB-015"
+   ],
+   "qualified_used": [
+    "ZCB-001",
+    "ZCB-002",
+    "ZCB-004",
+    "ZCB-005",
+    "ZCB-006",
+    "ZCB-007",
+    "ZCB-008",
+    "ZCB-009",
+    "ZCB-010",
+    "ZCB-011",
+    "ZCB-012",
+    "ZCB-013",
+    "ZCB-014",
+    "ZCB-015"
+   ],
+   "qualified_unused_before_ruling": [
+    "ZCB-003"
+   ],
+   "zcb003_in_qualified_unused": true,
+   "qualified_unused_selectable": [],
+   "meta_counts": {
+    "records": 36,
+    "eligible_present": 19,
+    "partial_not_eligible": 6,
+    "ineligible_other_filters": 11,
+    "anchor_status_all_records": {
+     "present": 27,
+     "partial": 9,
+     "absent": 0
+    },
+    "cz_qx_counted": 12
+   }
+  },
+  "GSZ-guaishuo-r57": {
+   "path": "/home/hatch/workspace/divination/benchmark/phase3/runs/round57/digestion/SUPPLY-MINING-guaishuo-r57.json",
+   "total": 113,
+   "funnel": [
+    {
+     "stage": "grade A",
+     "eliminated": 49,
+     "eliminated_ids": [
+      "GSZ-001",
+      "GSZ-002",
+      "GSZ-004",
+      "GSZ-006",
+      "GSZ-007",
+      "GSZ-008",
+      "GSZ-010",
+      "GSZ-011",
+      "GSZ-012",
+      "GSZ-013",
+      "GSZ-014",
+      "GSZ-018",
+      "GSZ-019",
+      "GSZ-021",
+      "GSZ-025",
+      "GSZ-029",
+      "GSZ-035",
+      "GSZ-036",
+      "GSZ-037",
+      "GSZ-039",
+      "GSZ-040",
+      "GSZ-044",
+      "GSZ-045",
+      "GSZ-048",
+      "GSZ-051",
+      "GSZ-056",
+      "GSZ-057",
+      "GSZ-062",
+      "GSZ-063",
+      "GSZ-064",
+      "GSZ-065",
+      "GSZ-066",
+      "GSZ-067",
+      "GSZ-070",
+      "GSZ-071",
+      "GSZ-072",
+      "GSZ-073",
+      "GSZ-076",
+      "GSZ-083",
+      "GSZ-085",
+      "GSZ-087",
+      "GSZ-090",
+      "GSZ-095",
+      "GSZ-096",
+      "GSZ-097",
+      "GSZ-102",
+      "GSZ-106",
+      "GSZ-112",
+      "GSZ-113"
+     ],
+     "remaining": 64
+    },
+    {
+     "stage": "pollution low",
+     "eliminated": 0,
+     "eliminated_ids": [],
+     "remaining": 64
+    },
+    {
+     "stage": "anchor present",
+     "eliminated": 0,
+     "eliminated_ids": [],
+     "remaining": 64
+    },
+    {
+     "stage": "eligible_net=true",
+     "eliminated": 1,
+     "eliminated_ids": [
+      "GSZ-027"
+     ],
+     "remaining": 63
+    },
+    {
+     "stage": "四滤全true",
+     "eliminated": 0,
+     "eliminated_ids": [],
+     "remaining": 63
+    },
+    {
+     "stage": "断语/结局非空",
+     "eliminated": 0,
+     "eliminated_ids": [],
+     "remaining": 63
+    }
+   ],
+   "qualified": [
+    "GSZ-003",
+    "GSZ-005",
+    "GSZ-009",
+    "GSZ-015",
+    "GSZ-016",
+    "GSZ-017",
+    "GSZ-020",
+    "GSZ-022",
+    "GSZ-023",
+    "GSZ-024",
+    "GSZ-026",
+    "GSZ-028",
+    "GSZ-030",
+    "GSZ-031",
+    "GSZ-032",
+    "GSZ-033",
+    "GSZ-034",
+    "GSZ-038",
+    "GSZ-041",
+    "GSZ-042",
+    "GSZ-043",
+    "GSZ-046",
+    "GSZ-047",
+    "GSZ-049",
+    "GSZ-050",
+    "GSZ-052",
+    "GSZ-053",
+    "GSZ-054",
+    "GSZ-055",
+    "GSZ-058",
+    "GSZ-059",
+    "GSZ-060",
+    "GSZ-061",
+    "GSZ-068",
+    "GSZ-069",
+    "GSZ-074",
+    "GSZ-075",
+    "GSZ-077",
+    "GSZ-078",
+    "GSZ-079",
+    "GSZ-080",
+    "GSZ-081",
+    "GSZ-082",
+    "GSZ-084",
+    "GSZ-086",
+    "GSZ-088",
+    "GSZ-089",
+    "GSZ-091",
+    "GSZ-092",
+    "GSZ-093",
+    "GSZ-094",
+    "GSZ-098",
+    "GSZ-099",
+    "GSZ-100",
+    "GSZ-101",
+    "GSZ-103",
+    "GSZ-104",
+    "GSZ-105",
+    "GSZ-107",
+    "GSZ-108",
+    "GSZ-109",
+    "GSZ-110",
+    "GSZ-111"
+   ],
+   "qualified_equals_net_list": true,
+   "net_list_n": 63,
+   "qualified_used": [
+    "GSZ-003",
+    "GSZ-005",
+    "GSZ-009",
+    "GSZ-015",
+    "GSZ-016",
+    "GSZ-017",
+    "GSZ-022",
+    "GSZ-023",
+    "GSZ-024",
+    "GSZ-026",
+    "GSZ-028",
+    "GSZ-030",
+    "GSZ-031",
+    "GSZ-032",
+    "GSZ-033",
+    "GSZ-034",
+    "GSZ-038",
+    "GSZ-041",
+    "GSZ-042",
+    "GSZ-043",
+    "GSZ-046",
+    "GSZ-047",
+    "GSZ-049",
+    "GSZ-050",
+    "GSZ-052",
+    "GSZ-053",
+    "GSZ-054",
+    "GSZ-055",
+    "GSZ-058",
+    "GSZ-059",
+    "GSZ-060",
+    "GSZ-061",
+    "GSZ-068",
+    "GSZ-069",
+    "GSZ-074",
+    "GSZ-075",
+    "GSZ-077",
+    "GSZ-078"
+   ],
+   "qualified_unused": [
+    "GSZ-020",
+    "GSZ-079",
+    "GSZ-080",
+    "GSZ-081",
+    "GSZ-082",
+    "GSZ-084",
+    "GSZ-086",
+    "GSZ-088",
+    "GSZ-089",
+    "GSZ-091",
+    "GSZ-092",
+    "GSZ-093",
+    "GSZ-094",
+    "GSZ-098",
+    "GSZ-099",
+    "GSZ-100",
+    "GSZ-101",
+    "GSZ-103",
+    "GSZ-104",
+    "GSZ-105",
+    "GSZ-107",
+    "GSZ-108",
+    "GSZ-109",
+    "GSZ-110",
+    "GSZ-111"
+   ],
+   "five_element_on_unused": {
+    "GSZ-020": {
+     "elements": {
+      "gua_name": true,
+      "moving": false,
+      "shi_ying": true,
+      "liuqin_nazhi": true,
+      "yuejian_richen": true,
+      "in_book_ben_gua": true,
+      "in_book_asked": true
+     },
+     "pass": false
+    },
+    "GSZ-079": {
+     "elements": {
+      "gua_name": true,
+      "moving": true,
+      "shi_ying": true,
+      "liuqin_nazhi": true,
+      "yuejian_richen": true,
+      "in_book_ben_gua": true,
+      "in_book_asked": true
+     },
+     "pass": true
+    },
+    "GSZ-080": {
+     "elements": {
+      "gua_name": true,
+      "moving": false,
+      "shi_ying": true,
+      "liuqin_nazhi": true,
+      "yuejian_richen": true,
+      "in_book_ben_gua": true,
+      "in_book_asked": true
+     },
+     "pass": false
+    },
+    "GSZ-081": {
+     "elements": {
+      "gua_name": true,
+      "moving": true,
+      "shi_ying": true,
+      "liuqin_nazhi": true,
+      "yuejian_richen": true,
+      "in_book_ben_gua": true,
+      "in_book_asked": true
+     },
+     "pass": true
+    },
+    "GSZ-082": {
+     "elements": {
+      "gua_name": true,
+      "moving": false,
+      "shi_ying": true,
+      "liuqin_nazhi": true,
+      "yuejian_richen": true,
+      "in_book_ben_gua": true,
+      "in_book_asked": true
+     },
+     "pass": false
+    },
+    "GSZ-084": {
+     "elements": {
+      "gua_name": true,
+      "moving": true,
+      "shi_ying": true,
+      "liuqin_nazhi": true,
+      "yuejian_richen": true,
+      "in_book_ben_gua": true,
+      "in_book_asked": true
+     },
+     "pass": true
+    },
+    "GSZ-086": {
+     "elements": {
+      "gua_name": true,
+      "moving": true,
+      "shi_ying": true,
+      "liuqin_nazhi": true,
+      "yuejian_richen": true,
+      "in_book_ben_gua": true,
+      "in_book_asked": true
+     },
+     "pass": true
+    },
+    "GSZ-088": {
+     "elements": {
+      "gua_name": true,
+      "moving": true,
+      "shi_ying": true,
+      "liuqin_nazhi": true,
+      "yuejian_richen": true,
+      "in_book_ben_gua": true,
+      "in_book_asked": true
+     },
+     "pass": true
+    },
+    "GSZ-089": {
+     "elements": {
+      "gua_name": true,
+      "moving": false,
+      "shi_ying": true,
+      "liuqin_nazhi": true,
+      "yuejian_richen": true,
+      "in_book_ben_gua": true,
+      "in_book_asked": true
+     },
+     "pass": false
+    },
+    "GSZ-091": {
+     "elements": {
+      "gua_name": true,
+      "moving": true,
+      "shi_ying": true,
+      "liuqin_nazhi": true,
+      "yuejian_richen": true,
+      "in_book_ben_gua": true,
+      "in_book_asked": true
+     },
+     "pass": true
+    },
+    "GSZ-092": {
+     "elements": {
+      "gua_name": true,
+      "moving": true,
+      "shi_ying": true,
+      "liuqin_nazhi": true,
+      "yuejian_richen": true,
+      "in_book_ben_gua": true,
+      "in_book_asked": true
+     },
+     "pass": true
+    },
+    "GSZ-093": {
+     "elements": {
+      "gua_name": true,
+      "moving": true,
+      "shi_ying": true,
+      "liuqin_nazhi": true,
+      "yuejian_richen": true,
+      "in_book_ben_gua": true,
+      "in_book_asked": true
+     },
+     "pass": true
+    },
+    "GSZ-094": {
+     "elements": {
+      "gua_name": true,
+      "moving": false,
+      "shi_ying": true,
+      "liuqin_nazhi": true,
+      "yuejian_richen": true,
+      "in_book_ben_gua": true,
+      "in_book_asked": true
+     },
+     "pass": false
+    },
+    "GSZ-098": {
+     "elements": {
+      "gua_name": true,
+      "moving": true,
+      "shi_ying": true,
+      "liuqin_nazhi": true,
+      "yuejian_richen": true,
+      "in_book_ben_gua": true,
+      "in_book_asked": true
+     },
+     "pass": true
+    },
+    "GSZ-099": {
+     "elements": {
+      "gua_name": true,
+      "moving": true,
+      "shi_ying": true,
+      "liuqin_nazhi": true,
+      "yuejian_richen": true,
+      "in_book_ben_gua": true,
+      "in_book_asked": true
+     },
+     "pass": true
+    },
+    "GSZ-100": {
+     "elements": {
+      "gua_name": true,
+      "moving": true,
+      "shi_ying": true,
+      "liuqin_nazhi": true,
+      "yuejian_richen": true,
+      "in_book_ben_gua": true,
+      "in_book_asked": true
+     },
+     "pass": true
+    },
+    "GSZ-101": {
+     "elements": {
+      "gua_name": true,
+      "moving": true,
+      "shi_ying": true,
+      "liuqin_nazhi": true,
+      "yuejian_richen": true,
+      "in_book_ben_gua": true,
+      "in_book_asked": true
+     },
+     "pass": true
+    },
+    "GSZ-103": {
+     "elements": {
+      "gua_name": true,
+      "moving": true,
+      "shi_ying": true,
+      "liuqin_nazhi": true,
+      "yuejian_richen": true,
+      "in_book_ben_gua": true,
+      "in_book_asked": true
+     },
+     "pass": true
+    },
+    "GSZ-104": {
+     "elements": {
+      "gua_name": true,
+      "moving": true,
+      "shi_ying": true,
+      "liuqin_nazhi": true,
+      "yuejian_richen": true,
+      "in_book_ben_gua": true,
+      "in_book_asked": true
+     },
+     "pass": true
+    },
+    "GSZ-105": {
+     "elements": {
+      "gua_name": true,
+      "moving": true,
+      "shi_ying": true,
+      "liuqin_nazhi": true,
+      "yuejian_richen": true,
+      "in_book_ben_gua": true,
+      "in_book_asked": true
+     },
+     "pass": true
+    },
+    "GSZ-107": {
+     "elements": {
+      "gua_name": true,
+      "moving": true,
+      "shi_ying": true,
+      "liuqin_nazhi": true,
+      "yuejian_richen": true,
+      "in_book_ben_gua": true,
+      "in_book_asked": true
+     },
+     "pass": true
+    },
+    "GSZ-108": {
+     "elements": {
+      "gua_name": true,
+      "moving": true,
+      "shi_ying": true,
+      "liuqin_nazhi": true,
+      "yuejian_richen": true,
+      "in_book_ben_gua": true,
+      "in_book_asked": true
+     },
+     "pass": true
+    },
+    "GSZ-109": {
+     "elements": {
+      "gua_name": true,
+      "moving": true,
+      "shi_ying": true,
+      "liuqin_nazhi": true,
+      "yuejian_richen": true,
+      "in_book_ben_gua": true,
+      "in_book_asked": true
+     },
+     "pass": true
+    },
+    "GSZ-110": {
+     "elements": {
+      "gua_name": true,
+      "moving": true,
+      "shi_ying": true,
+      "liuqin_nazhi": true,
+      "yuejian_richen": true,
+      "in_book_ben_gua": true,
+      "in_book_asked": true
+     },
+     "pass": true
+    },
+    "GSZ-111": {
+     "elements": {
+      "gua_name": true,
+      "moving": false,
+      "shi_ying": true,
+      "liuqin_nazhi": true,
+      "yuejian_richen": true,
+      "in_book_ben_gua": true,
+      "in_book_asked": true
+     },
+     "pass": false
+    }
+   },
+   "five_element_fail_unused": [
+    "GSZ-020",
+    "GSZ-080",
+    "GSZ-082",
+    "GSZ-089",
+    "GSZ-094",
+    "GSZ-111"
+   ],
+   "five_element_pass_unused": [
+    "GSZ-079",
+    "GSZ-081",
+    "GSZ-084",
+    "GSZ-086",
+    "GSZ-088",
+    "GSZ-091",
+    "GSZ-092",
+    "GSZ-093",
+    "GSZ-098",
+    "GSZ-099",
+    "GSZ-100",
+    "GSZ-101",
+    "GSZ-103",
+    "GSZ-104",
+    "GSZ-105",
+    "GSZ-107",
+    "GSZ-108",
+    "GSZ-109",
+    "GSZ-110"
+   ],
+   "counts_field": {
+    "book_cases_titled": 113,
+    "chapter9_ex1_missing": "第九章《六冲辨义》例一在本PDF中缺载（正文自例二起，卷首有「六爻卦例说真（二）」分卷标记）；第十四章「例三」重号（GSZ-088羊肉例与GSZ-089家宅例同标例三，系原书编号重复、非同案）。113为「例」标题实见数",
+    "ledger_entries": 113,
+    "anchor_present": 111,
+    "anchor_partial": 2,
+    "pollution_low": 111,
+    "pollution_mid": 2,
+    "grade_A": 64,
+    "net_eligible_A_low_present": "list[63]",
+    "net_count": 63,
+    "inbook_same_key_groups": {},
+    "moon_case": {
+     "gsz_id": "GSZ-076",
+     "key": "丁丑年癸丑月丙辰日／水雷屯变泽风大过／测月球有水否",
+     "shuo_zhen_outcome": "后探测结果，果然没有在月球表面找到水",
+     "fenlei_outcome": "有待于科学探测证明（据R56台账摘要转述其结局口径；分类版原文为扫描本，本席未直读该页）",
+     "ruling_applied": "R57 PREREG §4主持先裁：冲突及结局方向（未定 vs 已定阴性）→整例不入账、只登记；两版逐字并列于此"
+    },
+    "optional_pool_recalc": {
+     "pool_after_r56": 65,
+     "holdout20_sealed_from_pool": 25,
+     "pool_stock_before_r57_mining": 40,
+     "this_batch_net_new": 63,
+     "pool_after_this_batch": 103,
+     "note": "仅计本席《卦例说真》一批；R57其余席位（WHY待二轮46、QW partial复核、QM续抽）增量由各席台账另计，holdout21构成总复算以主持汇总为准。本批构成：全为六爻、单源（王虎应《卦例说真》）；是否触单源≤50%须与全池同算"
+    }
+   }
+  },
+  "WHY1-wanghuying-r56": {
+   "path": "/home/hatch/workspace/divination/benchmark/phase3/runs/round56/digestion/SUPPLY-MINING-wanghuying-r56.json",
+   "total": 71,
+   "funnel": [
+    {
+     "stage": "anchor present",
+     "eliminated": 19,
+     "eliminated_ids": [
+      "WHY-001",
+      "WHY-002",
+      "WHY-029",
+      "WHY-050",
+      "WHY-051",
+      "WHY-053",
+      "WHY-054",
+      "WHY-055",
+      "WHY-056",
+      "WHY-057",
+      "WHY-058",
+      "WHY-059",
+      "WHY-060",
+      "WHY-061",
+      "WHY-062",
+      "WHY-063",
+      "WHY-064",
+      "WHY-065",
+      "WHY-066"
+     ],
+     "remaining": 52
+    },
+    {
+     "stage": "pollution low",
+     "eliminated": 12,
+     "eliminated_ids": [
+      "WHY-013",
+      "WHY-014",
+      "WHY-017",
+      "WHY-018",
+      "WHY-019",
+      "WHY-020",
+      "WHY-045",
+      "WHY-046",
+      "WHY-047",
+      "WHY-048",
+      "WHY-049",
+      "WHY-052"
+     ],
+     "remaining": 40
+    },
+    {
+     "stage": "counts净入账名单成员",
+     "eliminated": 0,
+     "eliminated_ids": [],
+     "remaining": 40
+    }
+   ],
+   "qualified": [
+    "WHY-003",
+    "WHY-004",
+    "WHY-005",
+    "WHY-006",
+    "WHY-007",
+    "WHY-008",
+    "WHY-009",
+    "WHY-010",
+    "WHY-011",
+    "WHY-012",
+    "WHY-015",
+    "WHY-016",
+    "WHY-021",
+    "WHY-022",
+    "WHY-023",
+    "WHY-024",
+    "WHY-025",
+    "WHY-026",
+    "WHY-027",
+    "WHY-028",
+    "WHY-030",
+    "WHY-031",
+    "WHY-032",
+    "WHY-033",
+    "WHY-034",
+    "WHY-035",
+    "WHY-036",
+    "WHY-037",
+    "WHY-038",
+    "WHY-039",
+    "WHY-040",
+    "WHY-041",
+    "WHY-042",
+    "WHY-043",
+    "WHY-044",
+    "WHY-067",
+    "WHY-068",
+    "WHY-069",
+    "WHY-070",
+    "WHY-071"
+   ],
+   "qualified_equals_net_list": true,
+   "entry_keys_union": [
+    "anchor_missing",
+    "anchor_presence",
+    "dedup_check",
+    "input_fields",
+    "outcome_record",
+    "outcome_type",
+    "pollution",
+    "pollution_note",
+    "provisional_id",
+    "source",
+    "subject",
+    "tradition",
+    "transcription"
+   ],
+   "qualified_used": [
+    "WHY-003",
+    "WHY-004",
+    "WHY-005",
+    "WHY-006",
+    "WHY-007",
+    "WHY-015",
+    "WHY-021",
+    "WHY-030",
+    "WHY-067"
+   ],
+   "qualified_unused": [
+    "WHY-008",
+    "WHY-009",
+    "WHY-010",
+    "WHY-011",
+    "WHY-012",
+    "WHY-016",
+    "WHY-022",
+    "WHY-023",
+    "WHY-024",
+    "WHY-025",
+    "WHY-026",
+    "WHY-027",
+    "WHY-028",
+    "WHY-031",
+    "WHY-032",
+    "WHY-033",
+    "WHY-034",
+    "WHY-035",
+    "WHY-036",
+    "WHY-037",
+    "WHY-038",
+    "WHY-039",
+    "WHY-040",
+    "WHY-041",
+    "WHY-042",
+    "WHY-043",
+    "WHY-044",
+    "WHY-068",
+    "WHY-069",
+    "WHY-070",
+    "WHY-071"
+   ],
+   "counts_field": {
+    "ledger_entries": 71,
+    "anchor_present": 52,
+    "anchor_partial": 19,
+    "pollution_low": 43,
+    "pollution_mid": 28,
+    "net_eligible_A_low_present": "list[40]",
+    "net_count": 40
+   }
+  },
+  "WHY2-wanghuying-r57r2": {
+   "path": "/home/hatch/workspace/divination/benchmark/phase3/runs/round57/digestion/SUPPLY-MINING-wanghuying-r57-r2.json",
+   "total": 46,
+   "funnel": [
+    {
+     "stage": "grade A",
+     "eliminated": 5,
+     "eliminated_ids": [
+      "WHY-076",
+      "WHY-094",
+      "WHY-113",
+      "WHY-116",
+      "WHY-117"
+     ],
+     "remaining": 41
+    },
+    {
+     "stage": "pollution low",
+     "eliminated": 0,
+     "eliminated_ids": [],
+     "remaining": 41
+    },
+    {
+     "stage": "anchor present",
+     "eliminated": 1,
+     "eliminated_ids": [
+      "WHY-102"
+     ],
+     "remaining": 40
+    },
+    {
+     "stage": "eligible_net=true",
+     "eliminated": 4,
+     "eliminated_ids": [
+      "WHY-077",
+      "WHY-097",
+      "WHY-101",
+      "WHY-105"
+     ],
+     "remaining": 36
+    },
+    {
+     "stage": "四滤全true",
+     "eliminated": 0,
+     "eliminated_ids": [],
+     "remaining": 36
+    },
+    {
+     "stage": "断语/结局非空",
+     "eliminated": 0,
+     "eliminated_ids": [],
+     "remaining": 36
+    }
+   ],
+   "qualified": [
+    "WHY-072",
+    "WHY-073",
+    "WHY-074",
+    "WHY-075",
+    "WHY-078",
+    "WHY-079",
+    "WHY-080",
+    "WHY-081",
+    "WHY-082",
+    "WHY-083",
+    "WHY-084",
+    "WHY-085",
+    "WHY-086",
+    "WHY-087",
+    "WHY-088",
+    "WHY-089",
+    "WHY-090",
+    "WHY-091",
+    "WHY-092",
+    "WHY-093",
+    "WHY-095",
+    "WHY-096",
+    "WHY-098",
+    "WHY-099",
+    "WHY-100",
+    "WHY-103",
+    "WHY-104",
+    "WHY-106",
+    "WHY-107",
+    "WHY-108",
+    "WHY-109",
+    "WHY-110",
+    "WHY-111",
+    "WHY-112",
+    "WHY-114",
+    "WHY-115"
+   ],
+   "qualified_equals_net_list": true,
+   "net_list_n": 36,
+   "registered_only_ids": [
+    "WHY-R2-REG-01",
+    "WHY-R2-REG-02"
+   ],
+   "qualified_used": [
+    "WHY-072",
+    "WHY-073",
+    "WHY-074",
+    "WHY-075",
+    "WHY-078",
+    "WHY-079"
+   ],
+   "qualified_unused": [
+    "WHY-080",
+    "WHY-081",
+    "WHY-082",
+    "WHY-083",
+    "WHY-084",
+    "WHY-085",
+    "WHY-086",
+    "WHY-087",
+    "WHY-088",
+    "WHY-089",
+    "WHY-090",
+    "WHY-091",
+    "WHY-092",
+    "WHY-093",
+    "WHY-095",
+    "WHY-096",
+    "WHY-098",
+    "WHY-099",
+    "WHY-100",
+    "WHY-103",
+    "WHY-104",
+    "WHY-106",
+    "WHY-107",
+    "WHY-108",
+    "WHY-109",
+    "WHY-110",
+    "WHY-111",
+    "WHY-112",
+    "WHY-114",
+    "WHY-115"
+   ]
+  },
+  "QW-quwei-r56": {
+   "path": "/home/hatch/workspace/divination/benchmark/phase3/runs/round56/digestion/SUPPLY-MINING-quwei-r56.json",
+   "total": 34,
+   "funnel": [
+    {
+     "stage": "anchor present",
+     "eliminated": 17,
+     "eliminated_ids": [
+      "QW-018",
+      "QW-019",
+      "QW-020",
+      "QW-021",
+      "QW-022",
+      "QW-023",
+      "QW-024",
+      "QW-025",
+      "QW-026",
+      "QW-027",
+      "QW-028",
+      "QW-029",
+      "QW-030",
+      "QW-031",
+      "QW-032",
+      "QW-033",
+      "QW-034"
+     ],
+     "remaining": 17
+    },
+    {
+     "stage": "pollution low",
+     "eliminated": 0,
+     "eliminated_ids": [],
+     "remaining": 17
+    },
+    {
+     "stage": "四滤全pass",
+     "eliminated": 0,
+     "eliminated_ids": [],
+     "remaining": 17
+    },
+    {
+     "stage": "结局非空",
+     "eliminated": 0,
+     "eliminated_ids": [],
+     "remaining": 17
+    }
+   ],
+   "qualified": [
+    "QW-001",
+    "QW-002",
+    "QW-003",
+    "QW-004",
+    "QW-005",
+    "QW-006",
+    "QW-007",
+    "QW-008",
+    "QW-009",
+    "QW-010",
+    "QW-011",
+    "QW-012",
+    "QW-013",
+    "QW-014",
+    "QW-015",
+    "QW-016",
+    "QW-017"
+   ],
+   "entry_keys_union": [
+    "anchor_note",
+    "anchor_presence",
+    "dedup_check",
+    "filters",
+    "input_fields",
+    "outcome_note",
+    "outcome_record",
+    "pollution",
+    "pollution_note",
+    "provisional_id",
+    "source",
+    "tradition"
+   ],
+   "qualified_used": [
+    "QW-001",
+    "QW-002",
+    "QW-003",
+    "QW-004",
+    "QW-005",
+    "QW-006",
+    "QW-007",
+    "QW-008",
+    "QW-009",
+    "QW-010",
+    "QW-011",
+    "QW-012",
+    "QW-013",
+    "QW-014",
+    "QW-015",
+    "QW-016",
+    "QW-017"
+   ],
+   "qualified_unused": []
+  },
+  "QW-quwei-r59": {
+   "path": "/home/hatch/workspace/divination/benchmark/phase3/runs/round59/digestion/SUPPLY-MINING-quwei-r59.json",
+   "total": 4,
+   "funnel": [
+    {
+     "stage": "anchor present",
+     "eliminated": 4,
+     "eliminated_ids": [
+      "QW-035",
+      "QW-036",
+      "QW-037",
+      "QW-038"
+     ],
+     "remaining": 0
+    },
+    {
+     "stage": "pollution low",
+     "eliminated": 0,
+     "eliminated_ids": [],
+     "remaining": 0
+    },
+    {
+     "stage": "四滤全pass",
+     "eliminated": 0,
+     "eliminated_ids": [],
+     "remaining": 0
+    },
+    {
+     "stage": "eligible_net=true",
+     "eliminated": 0,
+     "eliminated_ids": [],
+     "remaining": 0
+    },
+    {
+     "stage": "断语/结局非空",
+     "eliminated": 0,
+     "eliminated_ids": [],
+     "remaining": 0
+    }
+   ],
+   "qualified": [],
+   "qualified_used": [],
+   "qualified_unused": [],
+   "count_field": {
+    "registered": 4,
+    "four_filter_pass_net": 1,
+    "filter2_fail_registered_only": 3,
+    "anchor_present": 0,
+    "anchor_partial": 4,
+    "optional_pool_increment": 0
+   }
+  },
+  "QM-qimen-r56": {
+   "path": "/home/hatch/workspace/divination/benchmark/phase3/runs/round56/digestion/SUPPLY-MINING-qimen-r56.json",
+   "review_path": "/home/hatch/workspace/divination/benchmark/phase3/runs/round58/digestion/QM-REVIEW-r58.json",
+   "total": 10,
+   "funnel": [
+    {
+     "stage": "anchor present(台账)",
+     "eliminated": 0,
+     "eliminated_ids": [],
+     "remaining": 10
+    },
+    {
+     "stage": "pollution low(台账)",
+     "eliminated": 1,
+     "eliminated_ids": [
+      "QM-009"
+     ],
+     "remaining": 9
+    },
+    {
+     "stage": "R58复核 eligible_optional=true",
+     "eliminated": 0,
+     "eliminated_ids": [],
+     "remaining": 9
+    },
+    {
+     "stage": "断语/结局非空",
+     "eliminated": 0,
+     "eliminated_ids": [],
+     "remaining": 9
+    }
+   ],
+   "qualified": [
+    "QM-001",
+    "QM-002",
+    "QM-003",
+    "QM-004",
+    "QM-005",
+    "QM-006",
+    "QM-007",
+    "QM-008",
+    "QM-010"
+   ],
+   "qualified_used": [
+    "QM-001",
+    "QM-002",
+    "QM-003",
+    "QM-004",
+    "QM-005",
+    "QM-006",
+    "QM-007",
+    "QM-008"
+   ],
+   "qualified_unused": [
+    "QM-010"
+   ]
+  }
+ },
+ "old_faces": {
+  "supply_ledgers_r46_r50": {
+   "runs/round46/digestion/supply-ledger-r46.jsonl": {
+    "total": 20,
+    "ids": [
+     "LK-058",
+     "yw-mo",
+     "yw-dongming",
+     "cz-chao",
+     "YZ-C001",
+     "YZ-C002",
+     "YZ-C010",
+     "YZ-C019",
+     "YZ-C006×LK-007",
+     "YZ-bulk-B",
+     "XJ-§4#8",
+     "XJ-§4#4",
+     "XJ-§4#10×DH-C02",
+     "XJ-bulk-B",
+     "DH-C01–C11",
+     "LK-093",
+     "LK-near-pool",
+     "LK-告语型-mid/low-mid",
+     "LK-high-8",
+     "LK-bulk-rest"
+    ],
+    "counted_ids": [
+     "LK-058"
+    ],
+    "counted_used": [
+     "LK-058"
+    ],
+    "counted_unused": [],
+    "not_counted_n": 19,
+    "entries_detail": [
+     {
+      "id": "LK-058",
+      "counted": true,
+      "grade": "A",
+      "contamination": "low",
+      "verdict": "COUNTED 合规入账",
+      "source": "梦占类考 DIGEST-leikao-r46 §2（页位见原表）",
+      "tradition": null,
+      "in_used": true
+     },
+     {
+      "id": "yw-mo",
+      "counted": false,
+      "grade": "A（保留照录：结局原文仅「後果然」二字）",
+      "contamination": "high",
+      "verdict": "registered-not-counted（high 污染不计触发，承 A-low 计数惯例）",
+      "source": "三书在线开采 MINING-sanshu-cezi-r46（阅微卷七）",
+      "tradition": null,
+      "in_used": false
+     },
+     {
+      "id": "yw-dongming",
+      "counted": false,
+      "grade": "A",
+      "contamination": "high",
+      "verdict": "registered-not-counted（high）",
+      "source": "三书在线开采 MINING-sanshu-cezi-r46（阅微卷七）",
+      "tradition": null,
+      "in_used": false
+     },
+     {
+      "id": "cz-chao",
+      "counted": false,
+      "grade": "同案关闭",
+      "contamination": "high（预设）",
+      "verdict": "closed-same-case——双重不入账；日后取到春渚原文只作 ZC-005 出处互证、不另立例",
+      "source": "三书在线开采候选（春渚纪闻卷二〈谢石拆字〉）",
+      "tradition": null,
+      "in_used": false
+     },
+     {
+      "id": "YZ-C001",
+      "counted": false,
+      "grade": "A",
+      "contamination": "high",
+      "verdict": "registered-not-counted（high）",
+      "source": "梦占逸旨 DIGEST-yizhi-r46",
+      "tradition": null,
+      "in_used": false
+     },
+     {
+      "id": "YZ-C002",
+      "counted": false,
+      "grade": "A",
+      "contamination": "high",
+      "verdict": "registered-not-counted（high）",
+      "source": "梦占逸旨 DIGEST-yizhi-r46",
+      "tradition": null,
+      "in_used": false
+     },
+     {
+      "id": "YZ-C010",
+      "counted": false,
+      "grade": "A",
+      "contamination": "high",
+      "verdict": "excluded-duplicate（已用，不算新鲜）",
+      "source": "梦占逸旨 DIGEST-yizhi-r46",
+      "tradition": null,
+      "in_used": false
+     },
+     {
+      "id": "YZ-C019",
+      "counted": false,
+      "grade": "候选待核（不入账）",
+      "contamination": "low",
+      "verdict": "not-counted——§1⑦(b)(c) 从严：断语逐字未录（仅要旨转述）、占者名未辨、transcription 置信度中低，金标无从逐字成立；列 R47 第一复核队列（回原页逐字复核后可再议）",
+      "source": "梦占逸旨 DIGEST-yizhi-r46（卷六篇十三/印刷页55）",
+      "tradition": null,
+      "in_used": true
+     },
+     {
+      "id": "YZ-C006×LK-007",
+      "counted": false,
+      "grade": "同案一例",
+      "contamination": "high",
+      "verdict": "registered-not-counted（high）",
+      "source": "逸旨 YZ-C006／类考 LK-007（同案并行登记）",
+      "tradition": null,
+      "in_used": false
+     },
+     {
+      "id": "YZ-bulk-B",
+      "counted": false,
+      "grade": "B",
+      "contamination": "mixed（逐例见原表）",
+      "verdict": "registered-not-counted（B 级只登记，§1⑦）",
+      "source": "梦占逸旨 DIGEST-yizhi-r46",
+      "tradition": null,
+      "in_used": false
+     },
+     {
+      "id": "XJ-§4#8",
+      "counted": false,
+      "grade": "A",
+      "contamination": "high",
+      "verdict": "registered-not-counted（high）",
+      "source": "梦林玄解 DIGEST-xuanjie-r46 §4 采样例 8",
+      "tradition": null,
+      "in_used": false
+     },
+     {
+      "id": "XJ-§4#4",
+      "counted": false,
+      "grade": "A-（感生型、无占断环节，大师断语要件缺）",
+      "contamination": "high",
+      "verdict": "registered-not-counted（high＋无占断环节）",
+      "source": "梦林玄解 DIGEST-xuanjie-r46 §4 采样例 4",
+      "tradition": null,
+      "in_used": false
+     },
+     {
+      "id": "XJ-§4#10×DH-C02",
+      "counted": false,
+      "grade": "同案一例 A-",
+      "contamination": "high",
+      "verdict": "registered-not-counted（high）",
+      "source": "梦林玄解 §4 采样例 10／敦煌 DH-C02（同案并行登记）",
+      "tradition": null,
+      "in_used": false
+     },
+     {
+      "id": "XJ-bulk-B",
+      "counted": false,
+      "grade": "B",
+      "contamination": "mixed（逐例见原表）",
+      "verdict": "registered-not-counted（B；全量逐例登记为 R47 数据议程）",
+      "source": "梦林玄解 DIGEST-xuanjie-r46 §4",
+      "tradition": null,
+      "in_used": false
+     },
+     {
+      "id": "DH-C01–C11",
+      "counted": false,
+      "grade": "形式A",
+      "contamination": "high（全 11 例传世名案，太平御览397–400/类林卷六同载）",
+      "verdict": "registered-not-counted（high）",
+      "source": "敦煌写本 S.2072 类书件 DIGEST-dunhuang-r46 §3",
+      "tradition": null,
+      "in_used": false
+     },
+     {
+      "id": "LK-093",
+      "counted": false,
+      "grade": "A（形式）",
+      "contamination": "low",
+      "verdict": "not-counted——§1⑦(c)：梦中告语型断语内嵌于梦境叙事本身，输入侧保留梦叙即泄断语、删之则梦叙残缺，可分离性不成立；只登记，列 R47 口径议程（告语型入池口径须预注册先行裁定）",
+      "source": "梦占类考 DIGEST-leikao-r46 §2",
+      "tradition": null,
+      "in_used": false
+     },
+     {
+      "id": "LK-near-pool",
+      "counted": false,
+      "grade": "A（形式复核过）",
+      "contamination": "low-mid / mid（非 low）",
+      "verdict": "registered-not-counted——计数口径从严：触发计数只认 A＋low；本组为近池队列，计数线如需调整须自 R47 预注册改线、本轮不追改",
+      "source": "梦占类考 DIGEST-leikao-r46 §2",
+      "tradition": null,
+      "in_used": false
+     },
+     {
+      "id": "LK-告语型-mid/low-mid",
+      "counted": false,
+      "grade": "A（形式）",
+      "contamination": "low-mid / mid",
+      "verdict": "not-counted（告语型可分离性不成立，同 LK-093 裁定；且污染非 low）",
+      "source": "梦占类考 DIGEST-leikao-r46 §2",
+      "tradition": null,
+      "in_used": false
+     },
+     {
+      "id": "LK-high-8",
+      "counted": false,
+      "grade": "A",
+      "contamination": "high",
+      "verdict": "registered-not-counted（high）",
+      "source": "梦占类考 DIGEST-leikao-r46 §2",
+      "tradition": null,
+      "in_used": false
+     },
+     {
+      "id": "LK-bulk-rest",
+      "counted": false,
+      "grade": "B/互见",
+      "contamination": "mixed（逐例见原表；全表 high 预评 23 条）",
+      "verdict": "registered-not-counted（B 级只登记）",
+      "source": "梦占类考 DIGEST-leikao-r46 §2",
+      "tradition": null,
+      "in_used": false
+     }
+    ]
+   },
+   "runs/round47/digestion/supply-ledger-r47.jsonl": {
+    "total": 42,
+    "ids": [
+     "LK-058",
+     "YZ-C019",
+     "LK-046",
+     "LK-054",
+     "LK-085",
+     "LK-024",
+     "LK-062",
+     "LK-009",
+     "LK-039",
+     "LK-073",
+     "LK-093",
+     "LK-043",
+     "LK-057",
+     "LK-083",
+     "YJ-001",
+     "YJ-004",
+     "YJ-006",
+     "YJ-002",
+     "YJ-007",
+     "YJ-003",
+     "YJ-005",
+     "XJ47-047",
+     "XJ47-092",
+     "XJ47-289",
+     "XJ47-373",
+     "XJ47-386",
+     "XJ47-442",
+     "XJ47-500",
+     "XJ47-502",
+     "XJ47-036",
+     "XJ47-076",
+     "XJ47-081",
+     "XJ47-222",
+     "XJ47-267",
+     "XJ47-338",
+     "XJ47-345",
+     "XJ47-368",
+     "XJ47-371",
+     "XJ47-393",
+     "XJ47-428",
+     "XJ47-469",
+     "XJ47-495"
+    ],
+    "counted_ids": [
+     "LK-058",
+     "YZ-C019",
+     "LK-046",
+     "LK-054",
+     "YJ-001",
+     "YJ-004",
+     "YJ-006",
+     "XJ47-047",
+     "XJ47-092",
+     "XJ47-289",
+     "XJ47-373",
+     "XJ47-386",
+     "XJ47-442",
+     "XJ47-500",
+     "XJ47-502"
+    ],
+    "counted_used": [
+     "LK-058",
+     "YZ-C019",
+     "LK-046",
+     "LK-054",
+     "YJ-001",
+     "YJ-004",
+     "YJ-006",
+     "XJ47-047",
+     "XJ47-092",
+     "XJ47-289",
+     "XJ47-373",
+     "XJ47-386",
+     "XJ47-442",
+     "XJ47-500",
+     "XJ47-502"
+    ],
+    "counted_unused": [],
+    "not_counted_n": 27,
+    "entries_detail": [
+     {
+      "id": "LK-058",
+      "counted": true,
+      "grade": null,
+      "contamination": null,
+      "verdict": "counted",
+      "source": "类考(leikao)",
+      "tradition": "mengzhan",
+      "in_used": true
+     },
+     {
+      "id": "YZ-C019",
+      "counted": true,
+      "grade": null,
+      "contamination": null,
+      "verdict": "counted",
+      "source": "梦占逸旨 卷六篇十三(寿命篇)",
+      "tradition": "mengzhan",
+      "in_used": true
+     },
+     {
+      "id": "LK-046",
+      "counted": true,
+      "grade": null,
+      "contamination": null,
+      "verdict": "counted",
+      "source": "类考(leikao)",
+      "tradition": "mengzhan",
+      "in_used": true
+     },
+     {
+      "id": "LK-054",
+      "counted": true,
+      "grade": null,
+      "contamination": null,
+      "verdict": "counted",
+      "source": "类考(leikao)",
+      "tradition": "mengzhan",
+      "in_used": true
+     },
+     {
+      "id": "LK-085",
+      "counted": false,
+      "grade": null,
+      "contamination": null,
+      "verdict": "not_counted",
+      "source": "类考(leikao)",
+      "tradition": "mengzhan",
+      "in_used": false
+     },
+     {
+      "id": "LK-024",
+      "counted": false,
+      "grade": null,
+      "contamination": null,
+      "verdict": "not_counted",
+      "source": "类考(leikao)",
+      "tradition": "mengzhan",
+      "in_used": false
+     },
+     {
+      "id": "LK-062",
+      "counted": false,
+      "grade": null,
+      "contamination": null,
+      "verdict": "not_counted",
+      "source": "类考(leikao)",
+      "tradition": "mengzhan",
+      "in_used": false
+     },
+     {
+      "id": "LK-009",
+      "counted": false,
+      "grade": null,
+      "contamination": null,
+      "verdict": "not_counted",
+      "source": "类考(leikao)",
+      "tradition": "mengzhan",
+      "in_used": false
+     },
+     {
+      "id": "LK-039",
+      "counted": false,
+      "grade": null,
+      "contamination": null,
+      "verdict": "not_counted",
+      "source": "类考(leikao)",
+      "tradition": "mengzhan",
+      "in_used": false
+     },
+     {
+      "id": "LK-073",
+      "counted": false,
+      "grade": null,
+      "contamination": null,
+      "verdict": "not_counted",
+      "source": "类考(leikao)",
+      "tradition": "mengzhan",
+      "in_used": false
+     },
+     {
+      "id": "LK-093",
+      "counted": false,
+      "grade": null,
+      "contamination": null,
+      "verdict": "not_counted",
+      "source": "类考(leikao)",
+      "tradition": "mengzhan",
+      "in_used": false
+     },
+     {
+      "id": "LK-043",
+      "counted": false,
+      "grade": null,
+      "contamination": null,
+      "verdict": "not_counted",
+      "source": "类考(leikao)",
+      "tradition": "mengzhan",
+      "in_used": false
+     },
+     {
+      "id": "LK-057",
+      "counted": false,
+      "grade": null,
+      "contamination": null,
+      "verdict": "not_counted",
+      "source": "类考(leikao)",
+      "tradition": "mengzhan",
+      "in_used": false
+     },
+     {
+      "id": "LK-083",
+      "counted": false,
+      "grade": null,
+      "contamination": null,
+      "verdict": "not_counted",
+      "source": "类考(leikao)",
+      "tradition": "mengzhan",
+      "in_used": false
+     },
+     {
+      "id": "YJ-001",
+      "counted": true,
+      "grade": null,
+      "contamination": null,
+      "verdict": "counted",
+      "source": "夷坚志(在线实取 hugbear 全文)",
+      "tradition": "mengzhan",
+      "in_used": true
+     },
+     {
+      "id": "YJ-004",
+      "counted": true,
+      "grade": null,
+      "contamination": null,
+      "verdict": "counted",
+      "source": "夷坚志(在线实取 hugbear 全文)",
+      "tradition": "mengzhan",
+      "in_used": true
+     },
+     {
+      "id": "YJ-006",
+      "counted": true,
+      "grade": null,
+      "contamination": null,
+      "verdict": "counted",
+      "source": "夷坚志(在线实取 hugbear 全文)",
+      "tradition": "mengzhan",
+      "in_used": true
+     },
+     {
+      "id": "YJ-002",
+      "counted": false,
+      "grade": null,
+      "contamination": null,
+      "verdict": "registered_only",
+      "source": "夷坚志(在线实取)",
+      "tradition": "mengzhan",
+      "in_used": false
+     },
+     {
+      "id": "YJ-007",
+      "counted": false,
+      "grade": null,
+      "contamination": null,
+      "verdict": "registered_only",
+      "source": "夷坚志(在线实取)",
+      "tradition": "mengzhan",
+      "in_used": false
+     },
+     {
+      "id": "YJ-003",
+      "counted": false,
+      "grade": null,
+      "contamination": null,
+      "verdict": "not_counted",
+      "source": "夷坚志(在线实取)",
+      "tradition": "mengzhan",
+      "in_used": false
+     },
+     {
+      "id": "YJ-005",
+      "counted": false,
+      "grade": null,
+      "contamination": null,
+      "verdict": "not_counted",
+      "source": "夷坚志(在线实取)",
+      "tradition": "mengzhan",
+      "in_used": false
+     },
+     {
+      "id": "XJ47-047",
+      "counted": true,
+      "grade": null,
+      "contamination": null,
+      "verdict": "counted",
+      "source": "梦林玄解 梦征(PDF 1052-1213)",
+      "tradition": "mengzhan",
+      "in_used": true
+     },
+     {
+      "id": "XJ47-092",
+      "counted": true,
+      "grade": null,
+      "contamination": null,
+      "verdict": "counted",
+      "source": "梦林玄解 梦征(PDF 1052-1213)",
+      "tradition": "mengzhan",
+      "in_used": true
+     },
+     {
+      "id": "XJ47-289",
+      "counted": true,
+      "grade": null,
+      "contamination": null,
+      "verdict": "counted",
+      "source": "梦林玄解 梦征(PDF 1052-1213)",
+      "tradition": "mengzhan",
+      "in_used": true
+     },
+     {
+      "id": "XJ47-373",
+      "counted": true,
+      "grade": null,
+      "contamination": null,
+      "verdict": "counted",
+      "source": "梦林玄解 梦征(PDF 1052-1213)",
+      "tradition": "mengzhan",
+      "in_used": true
+     },
+     {
+      "id": "XJ47-386",
+      "counted": true,
+      "grade": null,
+      "contamination": null,
+      "verdict": "counted",
+      "source": "梦林玄解 梦征(PDF 1052-1213)",
+      "tradition": "mengzhan",
+      "in_used": true
+     },
+     {
+      "id": "XJ47-442",
+      "counted": true,
+      "grade": null,
+      "contamination": null,
+      "verdict": "counted",
+      "source": "梦林玄解 梦征(PDF 1052-1213)",
+      "tradition": "mengzhan",
+      "in_used": true
+     },
+     {
+      "id": "XJ47-500",
+      "counted": true,
+      "grade": null,
+      "contamination": null,
+      "verdict": "counted",
+      "source": "梦林玄解 梦征(PDF 1052-1213)",
+      "tradition": "mengzhan",
+      "in_used": true
+     },
+     {
+      "id": "XJ47-502",
+      "counted": true,
+      "grade": null,
+      "contamination": null,
+      "verdict": "counted",
+      "source": "梦林玄解 梦征(PDF 1052-1213)",
+      "tradition": "mengzhan",
+      "in_used": true
+     },
+     {
+      "id": "XJ47-036",
+      "counted": false,
+      "grade": null,
+      "contamination": null,
+      "verdict": "not_counted",
+      "source": "梦林玄解 梦征(PDF 1052-1213)",
+      "tradition": "mengzhan",
+      "in_used": false
+     },
+     {
+      "id": "XJ47-076",
+      "counted": false,
+      "grade": null,
+      "contamination": null,
+      "verdict": "not_counted",
+      "source": "梦林玄解 梦征(PDF 1052-1213)",
+      "tradition": "mengzhan",
+      "in_used": false
+     },
+     {
+      "id": "XJ47-081",
+      "counted": false,
+      "grade": null,
+      "contamination": null,
+      "verdict": "not_counted",
+      "source": "梦林玄解 梦征(PDF 1052-1213)",
+      "tradition": "mengzhan",
+      "in_used": false
+     },
+     {
+      "id": "XJ47-222",
+      "counted": false,
+      "grade": null,
+      "contamination": null,
+      "verdict": "not_counted",
+      "source": "梦林玄解 梦征(PDF 1052-1213)",
+      "tradition": "mengzhan",
+      "in_used": false
+     },
+     {
+      "id": "XJ47-267",
+      "counted": false,
+      "grade": null,
+      "contamination": null,
+      "verdict": "not_counted",
+      "source": "梦林玄解 梦征(PDF 1052-1213)",
+      "tradition": "mengzhan",
+      "in_used": false
+     },
+     {
+      "id": "XJ47-338",
+      "counted": false,
+      "grade": null,
+      "contamination": null,
+      "verdict": "not_counted",
+      "source": "梦林玄解 梦征(PDF 1052-1213)",
+      "tradition": "mengzhan",
+      "in_used": false
+     },
+     {
+      "id": "XJ47-345",
+      "counted": false,
+      "grade": null,
+      "contamination": null,
+      "verdict": "not_counted",
+      "source": "梦林玄解 梦征(PDF 1052-1213)",
+      "tradition": "mengzhan",
+      "in_used": false
+     },
+     {
+      "id": "XJ47-368",
+      "counted": false,
+      "grade": null,
+      "contamination": null,
+      "verdict": "not_counted",
+      "source": "梦林玄解 梦征(PDF 1052-1213)",
+      "tradition": "mengzhan",
+      "in_used": false
+     },
+     {
+      "id": "XJ47-371",
+      "counted": false,
+      "grade": null,
+      "contamination": null,
+      "verdict": "not_counted",
+      "source": "梦林玄解 梦征(PDF 1052-1213)",
+      "tradition": "mengzhan",
+      "in_used": false
+     },
+     {
+      "id": "XJ47-393",
+      "counted": false,
+      "grade": null,
+      "contamination": null,
+      "verdict": "not_counted",
+      "source": "梦林玄解 梦征(PDF 1052-1213)",
+      "tradition": "mengzhan",
+      "in_used": false
+     },
+     {
+      "id": "XJ47-428",
+      "counted": false,
+      "grade": null,
+      "contamination": null,
+      "verdict": "not_counted",
+      "source": "梦林玄解 梦征(PDF 1052-1213)",
+      "tradition": "mengzhan",
+      "in_used": false
+     },
+     {
+      "id": "XJ47-469",
+      "counted": false,
+      "grade": null,
+      "contamination": null,
+      "verdict": "not_counted",
+      "source": "梦林玄解 梦征(PDF 1052-1213)",
+      "tradition": "mengzhan",
+      "in_used": false
+     },
+     {
+      "id": "XJ47-495",
+      "counted": false,
+      "grade": null,
+      "contamination": null,
+      "verdict": "not_counted",
+      "source": "梦林玄解 梦征(PDF 1052-1213)",
+      "tradition": "mengzhan",
+      "in_used": false
+     }
+    ]
+   },
+   "runs/round48/digestion/supply-ledger-r48.jsonl": {
+    "total": 10,
+    "ids": [
+     "SS-001",
+     "SS-005",
+     "SS-002",
+     "SS-003",
+     "SS-004",
+     "SS-006",
+     "R48-CENSUS-cezi",
+     "R48-CENSUS-lzbz",
+     "R48-CENSUS-leikao-nd",
+     "R48-MENGZHAN-REG"
+    ],
+    "counted_ids": [
+     "SS-001",
+     "SS-005"
+    ],
+    "counted_used": [
+     "SS-001",
+     "SS-005"
+    ],
+    "counted_unused": [],
+    "not_counted_n": 8,
+    "entries_detail": [
+     {
+      "id": "SS-001",
+      "counted": true,
+      "grade": "A",
+      "contamination": "low",
+      "verdict": null,
+      "source": "《夷坚志》甲志卷四·邵南神术（hugbear 全文 L186，在线逐字）",
+      "tradition": "yizhan（筮占）",
+      "in_used": true
+     },
+     {
+      "id": "SS-005",
+      "counted": true,
+      "grade": "A",
+      "contamination": "low",
+      "verdict": null,
+      "source": "《夷坚志》甲志卷二·张彦泽遁甲（hugbear 全文 L122–124，在线逐字）",
+      "tradition": "dunjia（遁甲择日）",
+      "in_used": true
+     },
+     {
+      "id": "SS-002",
+      "counted": false,
+      "grade": "A",
+      "contamination": "mid",
+      "verdict": null,
+      "source": "《夷坚志》甲志卷十七·倪辉方技",
+      "tradition": "ke（课占）",
+      "in_used": false
+     },
+     {
+      "id": "SS-003",
+      "counted": false,
+      "grade": "B",
+      "contamination": "low",
+      "verdict": null,
+      "source": "《夷坚志》丁志卷一·王浪仙",
+      "tradition": "yizhan（筮占）",
+      "in_used": false
+     },
+     {
+      "id": "SS-004",
+      "counted": false,
+      "grade": "A",
+      "contamination": "mid",
+      "verdict": null,
+      "source": "《阅微草堂笔记》卷四·滦阳消夏录四（arteducation 卷四(1) L5）",
+      "tradition": "fuji（扶乩）",
+      "in_used": false
+     },
+     {
+      "id": "SS-006",
+      "counted": false,
+      "grade": "A",
+      "contamination": "mid",
+      "verdict": null,
+      "source": "《夷坚志》甲志卷十·红象卦影",
+      "tradition": "yizhan（封影占）",
+      "in_used": false
+     },
+     {
+      "id": "R48-CENSUS-cezi",
+      "counted": false,
+      "grade": "-",
+      "contamination": "-",
+      "verdict": null,
+      "source": "测字再普查两件（CENSUS-cezi-miedie-pdf-r48、CENSUS-zichuquan-r48）",
+      "tradition": "cezi（测字）",
+      "in_used": false
+     },
+     {
+      "id": "R48-CENSUS-lzbz",
+      "counted": false,
+      "grade": "-",
+      "contamination": "-",
+      "verdict": null,
+      "source": "六爻/八字/紫微普查（CENSUS-liuyao-bazi-ziwei-r48）",
+      "tradition": "liuyao/bazi/ziwei",
+      "in_used": false
+     },
+     {
+      "id": "R48-CENSUS-leikao-nd",
+      "counted": false,
+      "grade": "-",
+      "contamination": "-",
+      "verdict": null,
+      "source": "类考非梦普查（CENSUS-leikao-nondream-r48）",
+      "tradition": "nondream（类考）",
+      "in_used": false
+     },
+     {
+      "id": "R48-MENGZHAN-REG",
+      "counted": false,
+      "grade": "-",
+      "contamination": "-",
+      "verdict": null,
+      "source": "梦占续登两件（REGISTER-leikao-cont-r48、REGISTER-mengzhan-cont-r48）",
+      "tradition": "mengzhan（梦占）",
+      "in_used": false
+     }
+    ]
+   },
+   "runs/round49/digestion/supply-ledger-r49.jsonl": {
+    "total": 14,
+    "ids": [
+     "YJ2-005",
+     "YJ2-006",
+     "YJ2-007",
+     "YJ2-008",
+     "YJ2-009",
+     "YJ2-010",
+     "YJ2-011",
+     "YJ2-012",
+     "YJ2-013",
+     "YJ2-001..004",
+     "YW2-001",
+     "R49-CHUNZHU",
+     "R49-LEIKAO-S1",
+     "R49-LEIKAO-CONT"
+    ],
+    "counted_ids": [
+     "YJ2-005",
+     "YJ2-006",
+     "YJ2-007",
+     "YJ2-008",
+     "YJ2-009",
+     "YJ2-010",
+     "YJ2-011",
+     "YJ2-012",
+     "YJ2-013"
+    ],
+    "counted_used": [
+     "YJ2-005",
+     "YJ2-006",
+     "YJ2-007",
+     "YJ2-009",
+     "YJ2-010",
+     "YJ2-012"
+    ],
+    "counted_unused": [
+     "YJ2-008",
+     "YJ2-011",
+     "YJ2-013"
+    ],
+    "not_counted_n": 5,
+    "entries_detail": [
+     {
+      "id": "YJ2-005",
+      "counted": true,
+      "grade": "A",
+      "contamination": "low",
+      "verdict": null,
+      "source": "《夷坚志》甲志卷四·邵南神术同条子案·郑甸择日博（hugbear 全文 L184–186，在线逐字）",
+      "tradition": "zeri（择日）",
+      "in_used": true
+     },
+     {
+      "id": "YJ2-006",
+      "counted": true,
+      "grade": "A",
+      "contamination": "low",
+      "verdict": null,
+      "source": "《夷坚志》甲志卷四·邵南神术同条子案·范之才十年婺州（hugbear 全文 L184–186）",
+      "tradition": "yizhan（筮占）",
+      "in_used": true
+     },
+     {
+      "id": "YJ2-007",
+      "counted": true,
+      "grade": "A",
+      "contamination": "low",
+      "verdict": null,
+      "source": "《夷坚志》甲志卷四·邵南神术同条子案·范之才来日拜命（hugbear 全文 L184–186）",
+      "tradition": "yizhan（筮占）",
+      "in_used": true
+     },
+     {
+      "id": "YJ2-008",
+      "counted": true,
+      "grade": "A",
+      "contamination": "low",
+      "verdict": null,
+      "source": "《夷坚志》甲志卷四·邵南神术同条子案·邵南自筮死期（hugbear 全文 L184–186）",
+      "tradition": "yizhan（筮占，自占）",
+      "in_used": false
+     },
+     {
+      "id": "YJ2-009",
+      "counted": true,
+      "grade": "A",
+      "contamination": "low",
+      "verdict": null,
+      "source": "《夷坚志》丙志·杨抽马条·书楬大木（hugbear 全文 L2488–2490）",
+      "tradition": "fangji（方技预示）",
+      "in_used": true
+     },
+     {
+      "id": "YJ2-010",
+      "counted": true,
+      "grade": "A",
+      "contamination": "low",
+      "verdict": null,
+      "source": "《夷坚志》丙志·杨抽马条·杨忱家四人及第（hugbear 全文 L2488–2490）",
+      "tradition": "禄命（杨望才抽检禄马）",
+      "in_used": true
+     },
+     {
+      "id": "YJ2-011",
+      "counted": true,
+      "grade": "A",
+      "contamination": "low",
+      "verdict": null,
+      "source": "《夷坚志》丙志·杨抽马条·杨忱女病蛇祟（hugbear 全文 L2488–2490）",
+      "tradition": "占断兼符治（杨望才）",
+      "in_used": false
+     },
+     {
+      "id": "YJ2-012",
+      "counted": true,
+      "grade": "A",
+      "contamination": "low",
+      "verdict": null,
+      "source": "《夷坚志》丙志·杨抽马条·乡人客马祸（hugbear 全文 L2488–2490）",
+      "tradition": "fangji（方技预示）",
+      "in_used": true
+     },
+     {
+      "id": "YJ2-013",
+      "counted": true,
+      "grade": "A",
+      "contamination": "low",
+      "verdict": null,
+      "source": "《夷坚志》甲志卷十七·倪辉方技同条子案·倪辉自占死期（hugbear 全文 L1094–1096）",
+      "tradition": "课占/数术（自占）",
+      "in_used": false
+     },
+     {
+      "id": "YJ2-001..004",
+      "counted": false,
+      "grade": "A",
+      "contamination": "mid",
+      "verdict": null,
+      "source": "《夷坚志》邵南神术同条子案四例（胡少汲/郭仲荀/翁端朝/蔡嶷，hugbear 全文 L184–186）",
+      "tradition": "yizhan（筮占）",
+      "in_used": false
+     },
+     {
+      "id": "YW2-001",
+      "counted": false,
+      "grade": "B",
+      "contamination": "low",
+      "verdict": null,
+      "source": "《阅微草堂笔记》卷三·滦阳消夏录三·束城李某妇案扶乩判诗（arteducation bookv_17081）",
+      "tradition": "fuji（扶乩，隐语待解型）",
+      "in_used": false
+     },
+     {
+      "id": "R49-CHUNZHU",
+      "counted": false,
+      "grade": "-",
+      "contamination": "-",
+      "verdict": null,
+      "source": "春渚正文获取再试（MINING-chunzhu-retry-r49）",
+      "tradition": "cezi/xiangshu",
+      "in_used": false
+     },
+     {
+      "id": "R49-LEIKAO-S1",
+      "counted": false,
+      "grade": "-",
+      "contamination": "-",
+      "verdict": null,
+      "source": "类考 S-1 回补核定（CENSUS-leikao-S1-r49）",
+      "tradition": "mengzhan（梦占）",
+      "in_used": false
+     },
+     {
+      "id": "R49-LEIKAO-CONT",
+      "counted": false,
+      "grade": "-",
+      "contamination": "-",
+      "verdict": null,
+      "source": "《梦占类考》自 PDF 101 续读（REGISTER-leikao-cont-r49）",
+      "tradition": "mengzhan（梦占）",
+      "in_used": false
+     }
+    ]
+   },
+   "runs/round50/digestion/supply-ledger-r50-rest.jsonl": {
+    "total": 6,
+    "ids": [
+     "YW3-001",
+     "YW3-002",
+     "YW-registered-r50",
+     "LK2-C38-C46",
+     "CZ-chunzhu-r50",
+     "X-CUMULATIVE-r50-final"
+    ],
+    "counted_ids": [
+     "YW3-001"
+    ],
+    "counted_used": [
+     "YW3-001"
+    ],
+    "counted_unused": [],
+    "not_counted_n": 5,
+    "entries_detail": [
+     {
+      "id": "YW3-001",
+      "counted": true,
+      "grade": "A",
+      "contamination": "low",
+      "verdict": null,
+      "source": "《阅微草堂笔记》卷六(2)·赵孙英扶乩预告对句（arteducation bookv_17094）",
+      "tradition": "fuji",
+      "in_used": true
+     },
+     {
+      "id": "YW3-002",
+      "counted": false,
+      "grade": "B",
+      "contamination": "low-mid",
+      "verdict": null,
+      "source": "《阅微草堂笔记》卷六(4)·戴户曹梦冥司簿犀字（裘文达公拆字解梦）",
+      "tradition": "mengzhan",
+      "in_used": false
+     },
+     {
+      "id": "YW-registered-r50",
+      "counted": false,
+      "grade": null,
+      "contamination": null,
+      "verdict": null,
+      "source": "阅微续检 11 页（累计已检 27/108 页）只登记 9 条",
+      "tradition": "mixed",
+      "in_used": false
+     },
+     {
+      "id": "LK2-C38-C46",
+      "counted": false,
+      "grade": null,
+      "contamination": null,
+      "verdict": null,
+      "source": "《梦占类考》续读 PDF 145–189（跳 150/170 已抽样面），实检 168 条",
+      "tradition": "mengzhan",
+      "in_used": false
+     },
+     {
+      "id": "CZ-chunzhu-r50",
+      "counted": false,
+      "grade": null,
+      "contamination": null,
+      "verdict": null,
+      "source": "《春渚纪闻》卷二·謝石拆字／張鬼靈相墓術",
+      "tradition": "cezi/xiangshu",
+      "in_used": false
+     },
+     {
+      "id": "X-CUMULATIVE-r50-final",
+      "counted": false,
+      "grade": null,
+      "contamination": null,
+      "verdict": null,
+      "source": "R50 供给终算（主持）",
+      "tradition": "n/a",
+      "in_used": false
+     }
+    ]
+   },
+   "runs/round50/digestion/supply-ledger-r50-yijian.jsonl": {
+    "total": 8,
+    "ids": [
+     "YJ3-001",
+     "YJ3-002",
+     "YJ3-003",
+     "YJ3-004",
+     "YJ3-005",
+     "YJ-registered-review-r50a",
+     "YJ-registered-new-r50b",
+     "X-CUMULATIVE-r50-yijian"
+    ],
+    "counted_ids": [
+     "YJ3-001",
+     "YJ3-002",
+     "YJ3-003",
+     "YJ3-004",
+     "YJ3-005"
+    ],
+    "counted_used": [
+     "YJ3-001",
+     "YJ3-002",
+     "YJ3-003",
+     "YJ3-004",
+     "YJ3-005"
+    ],
+    "counted_unused": [],
+    "not_counted_n": 3,
+    "entries_detail": [
+     {
+      "id": "YJ3-001",
+      "counted": true,
+      "grade": "A",
+      "contamination": "low",
+      "verdict": null,
+      "source": "夷坚志·甲志卷九·俞翁相人（剥离子案 P2）",
+      "tradition": "xiangshu",
+      "in_used": true
+     },
+     {
+      "id": "YJ3-002",
+      "counted": true,
+      "grade": "A",
+      "contamination": "low",
+      "verdict": null,
+      "source": "夷坚志·甲志卷九·俞翁相人（剥离子案 P4）",
+      "tradition": "xiangshu",
+      "in_used": true
+     },
+     {
+      "id": "YJ3-003",
+      "counted": true,
+      "grade": "A",
+      "contamination": "low",
+      "verdict": null,
+      "source": "夷坚志·丙志卷六·范子珉（剥离子案 F1）",
+      "tradition": "fangji",
+      "in_used": true
+     },
+     {
+      "id": "YJ3-004",
+      "counted": true,
+      "grade": "A",
+      "contamination": "low",
+      "verdict": null,
+      "source": "夷坚志·丙志卷六·范子珉（剥离子案 F4）",
+      "tradition": "fangji",
+      "in_used": true
+     },
+     {
+      "id": "YJ3-005",
+      "counted": true,
+      "grade": "A",
+      "contamination": "low",
+      "verdict": null,
+      "source": "夷坚志·丁志卷十九·史言命术（剥离子案 S4）",
+      "tradition": "ming",
+      "in_used": true
+     },
+     {
+      "id": "YJ-registered-review-r50a",
+      "counted": false,
+      "grade": null,
+      "contamination": null,
+      "verdict": null,
+      "source": "R49 只登记 15 项（邵南条 1＋杨抽马条 12＋倪辉条 2）",
+      "tradition": "mixed",
+      "in_used": false
+     },
+     {
+      "id": "YJ-registered-new-r50b",
+      "counted": false,
+      "grade": null,
+      "contamination": null,
+      "verdict": null,
+      "source": "全文新检精读 8 条占断型条目 25 子案中只登记 20 子案",
+      "tradition": "mixed",
+      "in_used": false
+     },
+     {
+      "id": "X-CUMULATIVE-r50-yijian",
+      "counted": false,
+      "grade": null,
+      "contamination": null,
+      "verdict": null,
+      "source": "构成复算（主持，承 PREREG §1 与 ADDENDUM-1 §1 口径）",
+      "tradition": "n/a",
+      "in_used": false
+     }
+    ]
+   }
+  },
+  "cards_mining_dirs": {
+   "runs/round46/digestion/cards-mining": {
+    "total_ids": 2,
+    "ids": [
+     "yw-dongming",
+     "yw-mo"
+    ],
+    "used": [],
+    "unused": [
+     "yw-dongming",
+     "yw-mo"
+    ]
+   },
+   "runs/round47/digestion/cards-mining-yijian": {
+    "total_ids": 7,
+    "ids": [
+     "YJ-001",
+     "YJ-002",
+     "YJ-003",
+     "YJ-004",
+     "YJ-005",
+     "YJ-006",
+     "YJ-007"
+    ],
+    "used": [
+     "YJ-001",
+     "YJ-004",
+     "YJ-006"
+    ],
+    "unused": [
+     "YJ-002",
+     "YJ-003",
+     "YJ-005",
+     "YJ-007"
+    ]
+   },
+   "runs/round48/digestion/cards-mining-sanshu": {
+    "total_ids": 6,
+    "ids": [
+     "SS-001",
+     "SS-002",
+     "SS-003",
+     "SS-004",
+     "SS-005",
+     "SS-006"
+    ],
+    "used": [
+     "SS-001",
+     "SS-005"
+    ],
+    "unused": [
+     "SS-002",
+     "SS-003",
+     "SS-004",
+     "SS-006"
+    ]
+   },
+   "runs/round49/digestion/cards-mining-yijian-r49": {
+    "total_ids": 13,
+    "ids": [
+     "YJ2-001",
+     "YJ2-002",
+     "YJ2-003",
+     "YJ2-004",
+     "YJ2-005",
+     "YJ2-006",
+     "YJ2-007",
+     "YJ2-008",
+     "YJ2-009",
+     "YJ2-010",
+     "YJ2-011",
+     "YJ2-012",
+     "YJ2-013"
+    ],
+    "used": [
+     "YJ2-005",
+     "YJ2-006",
+     "YJ2-007",
+     "YJ2-009",
+     "YJ2-010",
+     "YJ2-012"
+    ],
+    "unused": [
+     "YJ2-001",
+     "YJ2-002",
+     "YJ2-003",
+     "YJ2-004",
+     "YJ2-008",
+     "YJ2-011",
+     "YJ2-013"
+    ]
+   },
+   "runs/round49/digestion/cards-mining-yuewei": {
+    "total_ids": 1,
+    "ids": [
+     "YW2-001"
+    ],
+    "used": [],
+    "unused": [
+     "YW2-001"
+    ]
+   },
+   "runs/round50/digestion/cards-mining-yijian-r50": {
+    "total_ids": 5,
+    "ids": [
+     "YJ3-001",
+     "YJ3-002",
+     "YJ3-003",
+     "YJ3-004",
+     "YJ3-005"
+    ],
+    "used": [
+     "YJ3-001",
+     "YJ3-002",
+     "YJ3-003",
+     "YJ3-004",
+     "YJ3-005"
+    ],
+    "unused": []
+   },
+   "runs/round50/digestion/cards-mining-yuewei-r50": {
+    "total_ids": 2,
+    "ids": [
+     "YW3-001",
+     "YW3-002"
+    ],
+    "used": [
+     "YW3-001"
+    ],
+    "unused": [
+     "YW3-002"
+    ]
+   },
+   "runs/round51/digestion/cards-mining-chunzhu-r51": {
+    "total_ids": 5,
+    "ids": [
+     "CZ2-001",
+     "CZ2-002",
+     "CZ2-003",
+     "CZ2-004",
+     "CZ2-005"
+    ],
+    "used": [
+     "CZ2-001",
+     "CZ2-002",
+     "CZ2-003"
+    ],
+    "unused": [
+     "CZ2-004",
+     "CZ2-005"
+    ]
+   },
+   "runs/round51/digestion/cards-mining-yijian-r51": {
+    "total_ids": 11,
+    "ids": [
+     "YJ4-001",
+     "YJ4-002",
+     "YJ4-003",
+     "YJ4-004",
+     "YJ4-005",
+     "YJ4-006",
+     "YJ4-007",
+     "YJ4-008",
+     "YJ4-009",
+     "YJ4-010",
+     "YJ4-011"
+    ],
+    "used": [],
+    "unused": [
+     "YJ4-001",
+     "YJ4-002",
+     "YJ4-003",
+     "YJ4-004",
+     "YJ4-005",
+     "YJ4-006",
+     "YJ4-007",
+     "YJ4-008",
+     "YJ4-009",
+     "YJ4-010",
+     "YJ4-011"
+    ]
+   },
+   "runs/round51/digestion/cards-mining-yuewei-r51": {
+    "total_ids": 1,
+    "ids": [
+     "YW4-001"
+    ],
+    "used": [],
+    "unused": [
+     "YW4-001"
+    ]
+   },
+   "runs/round52/digestion/cards-mining-leikao-r52": {
+    "total_ids": 2,
+    "ids": [
+     "LK2-C48",
+     "LK2-C51"
+    ],
+    "used": [],
+    "unused": [
+     "LK2-C48",
+     "LK2-C51"
+    ]
+   },
+   "runs/round52/digestion/cards-mining-yuewei-r52": {
+    "total_ids": 3,
+    "ids": [
+     "YW5-001",
+     "YW5-002",
+     "YW5-003"
+    ],
+    "used": [],
+    "unused": [
+     "YW5-001",
+     "YW5-002",
+     "YW5-003"
+    ]
+   },
+   "runs/round53/digestion/cards-mining-chunzhu-r53": {
+    "total_ids": 1,
+    "ids": [
+     "CZ2-006"
+    ],
+    "used": [
+     "CZ2-006"
+    ],
+    "unused": []
+   },
+   "runs/round53/digestion/cards-mining-leikao-r53": {
+    "total_ids": 1,
+    "ids": [
+     "LK2-C58"
+    ],
+    "used": [],
+    "unused": [
+     "LK2-C58"
+    ]
+   },
+   "runs/round53/digestion/cards-mining-yuewei-r53": {
+    "total_ids": 1,
+    "ids": [
+     "YW5-004"
+    ],
+    "used": [],
+    "unused": [
+     "YW5-004"
+    ]
+   }
+  },
+  "cards_mining_r46_yw": {
+   "ids": [
+    "yw-dongming",
+    "yw-mo"
+   ],
+   "used": [],
+   "unused": [
+    "yw-dongming",
+    "yw-mo"
+   ]
+  },
+  "expansion_pools": {
+   "expansion": {
+    "total_ids": 94,
+    "used_n": 92,
+    "unused_ids": [
+     "LY-302",
+     "LY-303"
+    ],
+    "files": [
+     {
+      "file": "expansion/zengshan/inputs.jsonl",
+      "n_ids": 59
+     },
+     {
+      "file": "expansion/zengshan/answers.jsonl",
+      "n_ids": 59
+     },
+     {
+      "file": "expansion/bushi/inputs.jsonl",
+      "n_ids": 20
+     },
+     {
+      "file": "expansion/bushi/answers.jsonl",
+      "n_ids": 20
+     },
+     {
+      "file": "expansion/lilly/inputs.jsonl",
+      "n_ids": 15
+     },
+     {
+      "file": "expansion/lilly/answers.jsonl",
+      "n_ids": 15
+     }
+    ]
+   },
+   "expansion2": {
+    "total_ids": 84,
+    "used_n": 84,
+    "unused_ids": [],
+    "files": [
+     {
+      "file": "expansion2/dev-add-answers.jsonl",
+      "n_ids": 59
+     },
+     {
+      "file": "expansion2/zengshan/inputs.jsonl",
+      "n_ids": 59
+     },
+     {
+      "file": "expansion2/zengshan/answers.jsonl",
+      "n_ids": 59
+     },
+     {
+      "file": "expansion2/zengshan/roster-part.jsonl",
+      "n_ids": 59
+     },
+     {
+      "file": "expansion2/bushi/inputs.jsonl",
+      "n_ids": 25
+     },
+     {
+      "file": "expansion2/bushi/answers.jsonl",
+      "n_ids": 25
+     },
+     {
+      "file": "expansion2/bushi/roster-part.jsonl",
+      "n_ids": 25
+     }
+    ]
+   },
+   "expansion3": {
+    "total_ids": 43,
+    "used_n": 43,
+    "unused_ids": [],
+    "files": [
+     {
+      "file": "expansion3/cases.jsonl",
+      "n_ids": 43
+     },
+     {
+      "file": "expansion3/dev-add-answers.jsonl",
+      "n_ids": 18
+     }
+    ]
+   },
+   "expansion4": {
+    "total_ids": 29,
+    "used_n": 29,
+    "unused_ids": [],
+    "files": [
+     {
+      "file": "expansion4/cases.jsonl",
+      "n_ids": 29
+     },
+     {
+      "file": "expansion4/dev-add-answers.jsonl",
+      "n_ids": 6
+     }
+    ]
+   },
+   "expansion5": {
+    "total_ids": 1,
+    "used_n": 1,
+    "unused_ids": [],
+    "files": [
+     {
+      "file": "expansion5/cases.jsonl",
+      "n_ids": 1
+     }
+    ]
+   },
+   "expansion6": {
+    "total_ids": 106,
+    "used_n": 91,
+    "unused_ids": [
+     "MP-020",
+     "MP-021",
+     "MP-022",
+     "OC-031",
+     "OC-032",
+     "OC-033",
+     "OC-034",
+     "OC-035",
+     "OC-036",
+     "OC-037",
+     "OC-038",
+     "OC-039",
+     "WP-014",
+     "WP-015",
+     "WP-016"
+    ],
+    "files": [
+     {
+      "file": "expansion6/legacy-devadd/roster-legacy.jsonl",
+      "n_ids": 29
+     },
+     {
+      "file": "expansion6/modern-west/cases.jsonl",
+      "n_ids": 16
+     },
+     {
+      "file": "expansion6/modern-cn/cases.jsonl",
+      "n_ids": 22
+     },
+     {
+      "file": "expansion6/classical-other/cases.jsonl",
+      "n_ids": 39
+     }
+    ]
+   },
+   "expansion7": {
+    "total_ids": 78,
+    "used_n": 78,
+    "unused_ids": [],
+    "files": [
+     {
+      "file": "expansion7/yiyin/cases.jsonl",
+      "n_ids": 24
+     },
+     {
+      "file": "expansion7/bushi-quanshu/cases.jsonl",
+      "n_ids": 25
+     },
+     {
+      "file": "expansion7/liuren/cases.jsonl",
+      "n_ids": 24
+     },
+     {
+      "file": "expansion7/yiyin2/cases.jsonl",
+      "n_ids": 5
+     }
+    ]
+   },
+   "expansion8": {
+    "total_ids": 111,
+    "used_n": 80,
+    "unused_ids": [
+     "MT-001",
+     "MT-002",
+     "MT-003",
+     "MT-004",
+     "MT-005",
+     "MT-006",
+     "MT-007",
+     "MT-008",
+     "MT-009",
+     "MT-010",
+     "MT-011",
+     "MT-012",
+     "MT-013",
+     "MT-014",
+     "MT-015",
+     "MT-016",
+     "MT-017",
+     "MT-018",
+     "MT-019",
+     "MT-020",
+     "MT-021",
+     "MT-022",
+     "MT-023",
+     "MT-024",
+     "MT-025",
+     "MT-026",
+     "MT-027",
+     "MT-028",
+     "MT-029",
+     "MT-030",
+     "MT-031"
+    ],
+    "files": [
+     {
+      "file": "expansion8/ditian-sui/cases.jsonl",
+      "n_ids": 3
+     },
+     {
+      "file": "expansion8/duanyi-tianji/cases.jsonl",
+      "n_ids": 7
+     },
+     {
+      "file": "expansion8/mingli-tanyuan/cases.jsonl",
+      "n_ids": 31
+     },
+     {
+      "file": "expansion8/yimao/cases.jsonl",
+      "n_ids": 70
+     }
+    ]
+   },
+   "expansion9": {
+    "total_ids": 27,
+    "used_n": 24,
+    "unused_ids": [
+     "LR3-103",
+     "LR3-106",
+     "LR3-108"
+    ],
+    "files": [
+     {
+      "file": "expansion9/liuren-chen2/cases.jsonl",
+      "n_ids": 17
+     },
+     {
+      "file": "expansion9/liuren-chen1/cases.jsonl",
+      "n_ids": 10
+     }
+    ]
+   },
+   "expansion10": {
+    "total_ids": 22,
+    "used_n": 22,
+    "unused_ids": [],
+    "files": [
+     {
+      "file": "expansion10/yilin-buyi/cases.jsonl",
+      "n_ids": 13
+     },
+     {
+      "file": "expansion10/yilin-buyi-zongduan/cases.jsonl",
+      "n_ids": 9
+     }
+    ]
+   },
+   "expansion11": {
+    "total_ids": 803,
+    "used_n": 623,
+    "unused_ids": [
+     "AS-006",
+     "BZ-001",
+     "BZ-002",
+     "BZ-003",
+     "BZ-004",
+     "BZ-005",
+     "BZ-006",
+     "BZ-007",
+     "BZ-008",
+     "BZ-009",
+     "BZ-010",
+     "BZ-011",
+     "BZ-012",
+     "BZ-013",
+     "BZ-014",
+     "BZ-015",
+     "BZ-017",
+     "BZ-018",
+     "BZ-102",
+     "BZ-103",
+     "C01",
+     "C02",
+     "C03",
+     "C04",
+     "C05",
+     "C06",
+     "C07",
+     "C08",
+     "C09",
+     "C10",
+     "LR3-103",
+     "LR3-106",
+     "LR3-108",
+     "LY-020",
+     "LY-03",
+     "LY-101",
+     "LY-302",
+     "LY-303",
+     "MH-004",
+     "MH-005",
+     "MP-020",
+     "MP-021",
+     "MP-022",
+     "MT-001",
+     "MT-002",
+     "MT-003",
+     "MT-004",
+     "MT-005",
+     "MT-006",
+     "MT-007",
+     "MT-008",
+     "MT-009",
+     "MT-010",
+     "MT-011",
+     "MT-012",
+     "MT-013",
+     "MT-014",
+     "MT-015",
+     "MT-016",
+     "MT-017",
+     "MT-018",
+     "MT-019",
+     "MT-020",
+     "MT-021",
+     "MT-022",
+     "MT-023",
+     "MT-024",
+     "MT-025",
+     "MT-026",
+     "MT-027",
+     "MT-028",
+     "MT-029",
+     "MT-030",
+     "MT-031",
+     "NM-001",
+     "NM-002",
+     "NM-003",
+     "NM-004",
+     "NM-005",
+     "NM-006",
+     "NM-007",
+     "NM-008",
+     "NM-009",
+     "NM-010",
+     "NM-011",
+     "NM-012",
+     "NM-013",
+     "NM-014",
+     "NM-015",
+     "NM-016",
+     "NM-017",
+     "OC-031",
+     "OC-032",
+     "OC-033",
+     "OC-034",
+     "OC-035",
+     "OC-036",
+     "OC-037",
+     "OC-038",
+     "OC-039",
+     "P01",
+     "P02",
+     "P03",
+     "P04",
+     "P05",
+     "P06",
+     "P07",
+     "P08",
+     "P09",
+     "P10",
+     "P11",
+     "P12",
+     "WP-014",
+     "WP-015",
+     "WP-016",
+     "ZW-001",
+     "ZW-002",
+     "ZW-003",
+     "lilly-horary-1634-purchase-houses",
+     "lilly-horary-1634-tradesman-wealth",
+     "lilly-horary-1637-stolen-fish",
+     "lilly-horary-1638-absent-son",
+     "lilly-horary-1643-cambridge-rumour",
+     "lilly-horary-1643-reading",
+     "lilly-horary-1644-ship-preserved",
+     "lilly-horary-1644-waller-hopton",
+     "lilly-horary-fugitive-servant",
+     "lilly-horary-husband-at-sea",
+     "lilly-horary-lost-dog",
+     "lilly-horary-marriage-revival",
+     "lilly-horary-parsonage",
+     "lilly-horary-ship-lost",
+     "lilly-horary-theft-youth",
+     "lilly-nativity-1616-merchant",
+     "ren-001",
+     "ren-002",
+     "ren-003",
+     "ren-004",
+     "ren-005",
+     "ren-006",
+     "ren-007",
+     "ren-008",
+     "ren-009",
+     "ren-010",
+     "ren-011",
+     "ren-012",
+     "ren-013",
+     "ren-014",
+     "ren-015",
+     "ren-016",
+     "sanming-001",
+     "wei-001",
+     "wei-002",
+     "wei-003",
+     "wei-004",
+     "wei-005",
+     "wei-006",
+     "wei-007",
+     "wei-008",
+     "wei-009",
+     "wei-010",
+     "wei-011",
+     "wei-012",
+     "wei-013",
+     "wei-014",
+     "wei-015",
+     "wei-016",
+     "wei-017",
+     "wei-018",
+     "wei-019",
+     "wei-020",
+     "wei-021",
+     "wei-022",
+     "wei-023",
+     "xu-001",
+     "xu-002",
+     "xu-003",
+     "ziwei-001",
+     "ziwei-002",
+     "ziwei-003"
+    ],
+    "files": [
+     {
+      "file": "expansion11/bushi-zhengzong/cases.jsonl",
+      "n_ids": 3
+     },
+     {
+      "file": "expansion11/modern2/cases.jsonl",
+      "n_ids": 17
+     },
+     {
+      "file": "expansion11/bushi-zhengzong/work/pool-index-zg.jsonl",
+      "n_ids": 783
+     }
+    ]
+   },
+   "expansion12": {
+    "total_ids": 619,
+    "used_n": 159,
+    "unused_ids": [
+     "BY-012",
+     "BY-014",
+     "BY-015",
+     "BY-016",
+     "BY-017",
+     "BY-018",
+     "BY-019",
+     "BY-020",
+     "BY-021",
+     "BY-022",
+     "BY-023",
+     "BY-024",
+     "BY-025",
+     "BY-027",
+     "BY-028",
+     "BY-029",
+     "BY-030",
+     "BY-031",
+     "BY-032",
+     "BY-033",
+     "BY-034",
+     "BY-035",
+     "BY-036",
+     "BY-037",
+     "BY-038",
+     "BY-039",
+     "BY-041",
+     "BY-042",
+     "BY-043",
+     "BY-044",
+     "BY-045",
+     "BY-046",
+     "BY-047",
+     "BY-048",
+     "BY-049",
+     "BY-050",
+     "BY-051",
+     "BY-053",
+     "BY-054",
+     "BY-055",
+     "BY-056",
+     "BY-057",
+     "BY-058",
+     "BY-059",
+     "BY-060",
+     "BY-061",
+     "BY-062",
+     "BY-063",
+     "BY-064",
+     "BY-066",
+     "BY-067",
+     "BY-068",
+     "BY-069",
+     "BY-070",
+     "BY-071",
+     "BY-072",
+     "BY-073",
+     "BY-074",
+     "BY-075",
+     "BY-076",
+     "BY-077",
+     "BY-078",
+     "BY-079",
+     "BY-080",
+     "BY-081",
+     "BY-083",
+     "BY-084",
+     "BY-085",
+     "BY-086",
+     "BY-087",
+     "BY-088",
+     "BY-089",
+     "BY-090",
+     "BY-091",
+     "BY-092",
+     "BY-093",
+     "BY-094",
+     "BY-096",
+     "BY-097",
+     "BY-098",
+     "BY-099",
+     "BY-100",
+     "BY-101",
+     "BY-102",
+     "BY-103",
+     "BY-104",
+     "BY-105",
+     "BY-106",
+     "BY-107",
+     "BY-109",
+     "BY-110",
+     "BY-111",
+     "BY-112",
+     "BY-113",
+     "BY-114",
+     "BY-115",
+     "BY-116",
+     "BY-117",
+     "BY-118",
+     "BY-119",
+     "CY-007",
+     "CY-011",
+     "CY-012",
+     "CY-014",
+     "CY-016",
+     "CY-018",
+     "CY-019",
+     "CY-020",
+     "CY-021",
+     "CY-022",
+     "CY-024",
+     "CY-025",
+     "CY-026",
+     "CY-029",
+     "CY-031",
+     "CY-032",
+     "CY-033",
+     "CY-035",
+     "CY-036",
+     "CY-037",
+     "CY-038",
+     "CY-039",
+     "CY-042",
+     "CY-043",
+     "CY-044",
+     "CY-045",
+     "CY-046",
+     "CY-048",
+     "CY-049",
+     "CY-050",
+     "CY-051",
+     "CY-052",
+     "CY-053",
+     "CY-054",
+     "CY-055",
+     "CY-056",
+     "CY-058",
+     "CY-059",
+     "CY-060",
+     "CYJ-001",
+     "CYJ-002",
+     "CYJ-003",
+     "CYJ-004",
+     "CYJ-005",
+     "CYJ-006",
+     "CYJ-007",
+     "CYJ-008",
+     "CYJ-009",
+     "CYJ-010",
+     "CYJ-012",
+     "CYJ-013",
+     "CYJ-014",
+     "CYJ-015",
+     "CYJ-016",
+     "CYJ-017",
+     "CYJ-018",
+     "CYJ-019",
+     "CYJ-020",
+     "CYJ-021",
+     "CYJ-022",
+     "CYJ-023",
+     "CYJ-025",
+     "CYJ-026",
+     "CYJ-027",
+     "CYJ-028",
+     "CYJ-029",
+     "CYJ-030",
+     "CYJ-031",
+     "CYJ-032",
+     "CYJ-033",
+     "CYJ-034",
+     "CYJ-035",
+     "CYJ-036",
+     "CYJ-038",
+     "CYJ-039",
+     "CYJ-040",
+     "CYJ-041",
+     "CYJ-042",
+     "CYJ-043",
+     "CYJ-044",
+     "CYJ-045",
+     "CYJ-046",
+     "CYJ-047",
+     "CYJ-048",
+     "CYJ-049",
+     "CYJ-050",
+     "CYJ-052",
+     "CYJ-053",
+     "CYJ-054",
+     "CYJ-055",
+     "CYJ-056",
+     "CYJ-057",
+     "CYJ-058",
+     "CYJ-059",
+     "CYJ-060",
+     "CYJ-061",
+     "CYJ-062",
+     "CYJ-063",
+     "CYJ-064",
+     "CYJ-065",
+     "CYJ-066",
+     "CYJ-067",
+     "CYJ-068",
+     "CYJ-069",
+     "CYJ-070",
+     "CYJ-071",
+     "CYJ-072",
+     "CYJ-073",
+     "CYJ-074",
+     "CYJ-075",
+     "DA-025",
+     "DA-033",
+     "DA-034",
+     "DA-035",
+     "DA-036",
+     "DA-037",
+     "DA-038",
+     "DA-039",
+     "DA-041",
+     "DA-042",
+     "DA-044",
+     "DA-046",
+     "DA-047",
+     "DA-048",
+     "DA-050",
+     "DA-051",
+     "DA-054",
+     "DA-055",
+     "DA-057",
+     "DA-059",
+     "DA-060",
+     "DA-061",
+     "DA-062",
+     "DA-063",
+     "DA-064",
+     "DA-065",
+     "DA-066",
+     "DA-067",
+     "DA-068",
+     "DA-070",
+     "DA-071",
+     "DA-072",
+     "DA-073",
+     "DA-074",
+     "DA-075",
+     "DA-076",
+     "DA-077",
+     "DA-078",
+     "DA-079",
+     "DA-080",
+     "DA-081",
+     "DA-082",
+     "DA-083",
+     "DA-085",
+     "DA-086",
+     "DA-087",
+     "DA-088",
+     "DA-090",
+     "DA-091",
+     "DA-092",
+     "DA-093",
+     "DA-094",
+     "DA-095",
+     "DA-096",
+     "DA-097",
+     "DA-098",
+     "DA-099",
+     "DA-100",
+     "DA-101",
+     "DA-102",
+     "DA-104",
+     "DA-107",
+     "DA-110",
+     "DA-112",
+     "DA-113",
+     "DA-114",
+     "DA-115",
+     "DA-116",
+     "DA-118",
+     "DA-120",
+     "DA-121",
+     "DA-132",
+     "DA-135",
+     "DA-137",
+     "DA-139",
+     "DA-142",
+     "DA-144",
+     "DA-146",
+     "DA-148",
+     "DA-149",
+     "DA-150",
+     "DA-153",
+     "DA-154",
+     "DA-155",
+     "DA-156",
+     "DA-157",
+     "DA-160",
+     "DA-161",
+     "DA-162",
+     "DA-163",
+     "DA-168",
+     "DA-170",
+     "DA-171",
+     "DA-172",
+     "DA-173",
+     "DA-175",
+     "DA-176",
+     "DA-177",
+     "DA-179",
+     "DA-181",
+     "DA-183",
+     "DA-185",
+     "DA-187",
+     "DA-188",
+     "DA-189",
+     "DA-192",
+     "DA-194",
+     "DA-198",
+     "DA-199",
+     "DA-200",
+     "DA-204",
+     "DA-206",
+     "DA-207",
+     "DA-208",
+     "DA-209",
+     "DA-210",
+     "DA-212",
+     "DA-213",
+     "DA-214",
+     "DA-217",
+     "DA-218",
+     "DA-219",
+     "DA-221",
+     "NL-003",
+     "NL-004",
+     "NL-007",
+     "NL-008",
+     "NL-009",
+     "NL-010",
+     "NL-011",
+     "NL-012",
+     "NL-013",
+     "NL-014",
+     "NL-015",
+     "NL-016",
+     "NL-017",
+     "NL-018",
+     "NL-019",
+     "NL-020",
+     "NL-021",
+     "NL-022",
+     "NL-023",
+     "NL-024",
+     "NL-025",
+     "NL-026",
+     "NL-027",
+     "NL-028",
+     "NL-029",
+     "NL-030",
+     "NL-032",
+     "NL-033",
+     "NL-034",
+     "NL-035",
+     "NL-036",
+     "NL-037",
+     "NL-038",
+     "NL-039",
+     "NL-040",
+     "NL-041",
+     "NL-042",
+     "NL-044",
+     "NL-045",
+     "NL-046",
+     "NL-047",
+     "NL-048",
+     "NL-050",
+     "NL-051",
+     "NL-052",
+     "NL-053",
+     "NL-054",
+     "NL-055",
+     "PU-001",
+     "PU-002",
+     "PU-004",
+     "PU-005",
+     "PU-006",
+     "PU-007",
+     "PU-009",
+     "PU-010",
+     "PU-011",
+     "PU-012",
+     "PU-013",
+     "PU-014",
+     "PU-015",
+     "PU-016",
+     "PU-017",
+     "PU-018",
+     "PU-019",
+     "PU-020",
+     "PU-021",
+     "PU-022",
+     "PU-023",
+     "PU-024",
+     "PU-025",
+     "PU-026",
+     "PU-027",
+     "PU-028",
+     "PU-029",
+     "PU-030",
+     "PU-031",
+     "PU-032",
+     "PU-033",
+     "PU-034",
+     "PU-035",
+     "PU-036",
+     "PU-037",
+     "PU-038",
+     "PU-039",
+     "PU-040",
+     "PU-041",
+     "PU-042",
+     "PU-043",
+     "PU-044",
+     "PU-045",
+     "PU-046",
+     "PU-047",
+     "PU-048",
+     "PU-049",
+     "PU-050",
+     "PU-051",
+     "PU-052",
+     "PU-053",
+     "PU-054",
+     "PU-055",
+     "PU-056",
+     "PU-057",
+     "QL-009",
+     "QL-010",
+     "QL-011",
+     "QL-012",
+     "QL-015",
+     "QL-016",
+     "QL-017",
+     "QL-018",
+     "QL-019",
+     "QL-020",
+     "QL-021",
+     "QL-022",
+     "QL-024",
+     "QL-028",
+     "QL-029",
+     "QL-033",
+     "QL-034",
+     "YX-001",
+     "YX-002",
+     "YX-003",
+     "YX-004",
+     "YX-005",
+     "YX-006",
+     "YX-007"
+    ],
+    "files": [
+     {
+      "file": "expansion12/online-routes/cases.jsonl",
+      "n_ids": 33
+     },
+     {
+      "file": "expansion12/huangjince-huozhulin/cases.jsonl",
+      "n_ids": 1
+     },
+     {
+      "file": "expansion12/natal-leftovers/cases.jsonl",
+      "n_ids": 55
+     },
+     {
+      "file": "expansion12/natal-batch2/cases.jsonl",
+      "n_ids": 92
+     },
+     {
+      "file": "expansion12/natal-batch2/cases-reviewed.jsonl",
+      "n_ids": 92
+     },
+     {
+      "file": "expansion12/liuren-duanan/cases-b.jsonl",
+      "n_ids": 75
+     },
+     {
+      "file": "expansion12/liuren-duanan/cases-a.jsonl",
+      "n_ids": 92
+     },
+     {
+      "file": "expansion12/liuren-bianyi-yuce/cases.jsonl",
+      "n_ids": 126
+     },
+     {
+      "file": "expansion12/liuren-bianyi-yuce/cases-reviewed.jsonl",
+      "n_ids": 126
+     },
+     {
+      "file": "expansion12/liuren-cuiyan/cases-munong.jsonl",
+      "n_ids": 61
+     },
+     {
+      "file": "expansion12/liuren-cuiyan/cases-juan5.jsonl",
+      "n_ids": 75
+     },
+     {
+      "file": "expansion12/bushi-quanshu-beixuan/cases.jsonl",
+      "n_ids": 9
+     }
+    ]
+   }
+  }
+ },
+ "rechecks": {
+  "QW-partial-r57": {
+   "path": "/home/hatch/workspace/divination/benchmark/phase3/runs/round57/digestion/SUPPLY-RECHECK-qwpartial-r57.json",
+   "checked": 17,
+   "upgraded": 0
+  },
+  "WHY-partial-r59": {
+   "path": "/home/hatch/workspace/divination/benchmark/phase3/runs/round59/digestion/SUPPLY-RECHECK-why-partial-r59.json",
+   "candidate_n": 41,
+   "upgrades": 0,
+   "pool_increment": 0
+  },
+  "QWpartial-r57-ids": [
+   "QW-018",
+   "QW-019",
+   "QW-020",
+   "QW-021",
+   "QW-022",
+   "QW-023",
+   "QW-024",
+   "QW-025",
+   "QW-026",
+   "QW-027",
+   "QW-028",
+   "QW-029",
+   "QW-030",
+   "QW-031",
+   "QW-032",
+   "QW-033",
+   "QW-034"
+  ]
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Direction: Donald Trump wins the 2016 US presidential election, and what decides it is Hillary Clinton's trust/scandal burden (the tarot reader's call). The Union Square tarot reading of August 2016, drawn while Clinton led most polls, lands against the polling surface: the cards are read as the election turning on the already-public controversies around Clinton — the email controversy and the Clinton Foundation — which erode her support at the decisive moment, so Trump takes the election of 8 November 2016. Deciding factor (as asked): Clinton's email/Foundation scandal complex, not policy or turnout mechanics. Time coordinate: election day, 8 November 2016. Confidence: low (single street reading; the specific cards drawn are not recorded on the card).",
+ "basis": "Card carries no tradition/system field; the card states a tarot reader was consulted and drew cards on the election, so the system is self-decided from the card's genre as Western tarot (Waite-tradition reading as the benchmark standard).\nsystems_used: Western tarot (Waite tradition; specific cards not recorded on the card — see input note)\nInput note / limitation: the card does not record which cards were drawn, so no card-by-card Waite meanings can be cited and none are invented; the prediction is therefore landed at the level the card supports — the reading's outcome and its deciding-factor face — and confidence is lowered accordingly. Fact-priority: the card itself foregrounds exactly two candidate-specific facts (Clinton leading polls; the email and Foundation controversies already public), and the question's second half ('what will decide it') points at the controversy face as the reading's decisive variable; the polling lead is treated as the surface layer the reading overturns. Object check: winner = Trump; deciding factor is assigned to Clinton's scandal burden, not to Trump's own controversies, because those are the only controversy facts the card loads. Initial-direction anchor (calibration §9): initial direction = Trump wins via Clinton scandal erosion, basis = the card's loaded facts and question framing; direction unchanged, R81-REV1 change gate not applicable. Magnitude (§8): winner and deciding factor only; no margin claimed.",
+ "confidence": 0.4,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

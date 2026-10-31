@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-208",
+ "prediction_text": "断：鲁珀特亲王在此战事中得不到荣誉，反会被 Essex 压过/占上风。亲王以十宫及其主太阳为代，太阳无定位（peregrine）且居弱（detriment）、落固定星座，主其无力建功；Essex 之代金星与土星互容、且金星主宰（dispose）亲王之主星太阳，又以 dexter 相临十宫头、月亮以 sinister 相临十宫头——十宫（荣誉）被对方之星两面照临而自家主星被对方处置，是荣誉归于对方之象。结局：亲王无功而退、声望受损，Essex 保持上风。方向：negative（就亲王求荣誉而言）。",
+ "basis": "tradition: horary\nsystems_used: horary（Lilly 古典卜卦占星，整宫制；第 LXXXV 章战事荣誉门，贵人以十宫为代）\n依据：所问者主星太阳 peregrine＋detriment 为无功之定性；对方主星金星互容土星并 dispose 太阳、双相临十宫头，为荣誉旁落之指代链。初判锚点：亲王不得荣誉（主星无定位居弱＋被对方处置定性）；方向未变更、R81-REV1 变更门槛不适用。无量级类断项、R80-REV1 不适用。",
+ "confidence": 0.75,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

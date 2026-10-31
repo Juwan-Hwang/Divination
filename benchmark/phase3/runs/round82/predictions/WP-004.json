@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "Direction: Hillary Clinton wins the 2016 US presidential election (the forecasting panel's call). The international astrology conference panel at Costa Mesa, weighing the candidates' charts in October 2016 against polling that favours Clinton, lands on Clinton as the winner of the 8 November 2016 election — the panel consensus is a Clinton victory, read as the establishment/qualified candidate prevailing. Time coordinate: election day, 8 November 2016. Confidence: moderate-low (panel-consensus call, individual dissent possible but not the panel's landed direction).",
+ "basis": "Card carries no tradition/system field; the card frames the source as an astrology conference election-forecasting panel, so the system is self-decided from the card's genre as Western astrology (panel chart-reading consensus).\nsystems_used: Western astrology (conference panel election forecast)\nReasoning: the card supplies no charts and no individual panellist's reasoning, only the setting (panel, October 2016, polls favouring Clinton). The prediction therefore reports the panel-level landed direction rather than inventing chart details: a professional panel in that setting, with polling and conventional chart judgments aligned, lands on Clinton. Fact-priority: the card's polling fact is a legitimate input to a panel's public call and is not overridden by any contrary pointer on the card. Object check: winner = Clinton; no margin or state-level detail is claimed (no pointers). Initial-direction anchor (calibration §9): initial direction = Clinton wins, basis = panel consensus in the stated setting; direction unchanged, R81-REV1 change gate not applicable. Magnitude (§8): only the winner is called; no electoral-vote figure is derivable from the card.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
