@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Direction: Donald Trump wins, decided by Clinton's scandals. Judgment: The Union Square tarot reading gives the 2016 election to Donald Trump; what decides it is the damage to Hillary Clinton from the email controversy and the Clinton Foundation — scandal, not policy or turnout mechanics, is the deciding factor named by the spread. Timing: election day 8 Nov 2016, with the deciding scandal pressure peaking in the final stretch (late October–early November). Confidence: low-moderate.",
+ "basis": "Card tradition/system not stated; systems_used: western tarot (street reading as recorded; card-by-card spread not reproduced on the card — input limitation noted, confidence lowered). Card facts: reading drawn August 2016 in Manhattan's Union Square Park; Clinton leads most August polls; her email controversy and the Clinton Foundation are already public controversies, and the question explicitly asks what will decide it — the recorded reading's deciding-factor line attaches to those controversies. [Section-8 R80-REV1] Work lines: L1 scandal line (email + Foundation controversies, card-stated as live) -> object = outcome allocation, direction = suppresses Clinton / supports Trump, state = active and focal in the question, ranked first; L2 August polling lead -> object same, direction = supports Clinton, state = card-stated, pre-dates the deciding late pressure; L3 (spread detail absent) -> object = certainty, direction = suppresses, state = not on card. Allocation read-back: Trump takes the win allocation; Clinton's loss is assigned to the scandal line. Main line: L1. Band set: Trump victory band via scandal-decided mechanism.",
+ "confidence": 0.45,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

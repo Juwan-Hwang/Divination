@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-005",
+ "prediction_text": "Direction: Donald Trump wins. Judgment: The individual panel astrologer singled out in this report — the one who had earlier, against a 17-candidate field, correctly picked Trump to become the Republican nominee — reads the final charts for Trump: Donald Trump defeats Hillary Clinton in the 8 November 2016 election despite her polling lead. Timing: election day 8 Nov 2016. Confidence: moderate-low.",
+ "basis": "Card tradition/system not stated; systems_used: western mundane astrology (individual astrologer's reading). Card facts distinguishing this case from the panel-consensus case: one panel astrologer had earlier in the cycle, when 17 Republicans still contested the nomination, picked Trump as nominee — the report isolates this reader, whose demonstrated track record on this very race is the operative line; the collective polling lead belongs to the opposing (panel-majority) reading. [Section-8 R80-REV1] Work lines: L1 this reader's prior verified hit on Trump's nomination -> object = outcome allocation, direction = supports Trump, state = track-record line, ranked first for this case; L2 polling lead -> object same, direction = supports Clinton, state = card-stated but attached to the majority reading; L3 panel setting -> object = certainty, direction = suppresses, state = divided panel. Allocation read-back: Trump side takes the win allocation under this reader's line. Main line: L1. Band set: Trump victory band, narrow.",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

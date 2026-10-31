@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "Direction: Hillary Clinton wins. Judgment: The conference panel's collective judgment is that Democrat Hillary Clinton defeats Donald Trump in the 8 November 2016 election, in line with her polling lead. Timing: election day 8 Nov 2016. Confidence: moderate-low.",
+ "basis": "Card tradition/system not stated; systems_used: western mundane astrology (conference panel consensus as the recorded reading). Card facts: Clinton faces Trump; most polls favour Clinton; the source is the ISAR conference election-forecasting panel report (Oct 2016). Panel-consensus readings in this source tradition follow the majority chart judgment, which tracked the polling-favoured candidate. Input limitation: card gives no individual charts, so the panel majority is taken as the reading; confidence lowered. [Section-8 R80-REV1] Work lines: L1 panel majority judgment -> object = outcome allocation, direction = supports Clinton, state = collective and focal, ranked first; L2 polling lead (card-stated) -> object same, direction = supports Clinton, state = consistent; L3 (no counter-line on card) minority dissent exists by panel format -> object same, direction = suppresses (certainty only), state = unquantified on card. Allocation read-back: Clinton side takes the win allocation. Main line: L1. Band set: Clinton victory band, confidence capped by absent charts.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
