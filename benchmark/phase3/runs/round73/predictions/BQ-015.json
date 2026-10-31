@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-015",
+ "prediction_text": "断：此年年景凶歉，主水患伤禾、五谷歉收。水鬼（水患之官鬼）与应上父爻俱动伤克世爻，父母主雨、水鬼主涝，二动夹伤，主雨水过多成灾；妻财伏藏不现，财主谷、主收成，伏则收成无着。应期以年档计（正月占一岁）：先定年内凶歉，雨涝主应在夏秋水发之月。终局单判：歉年。",
+ "basis": "六爻\n卡面 tradition＝六爻。卡面残损：只记蒙之中孚、水鬼与应上父动伤世、妻财伏，chart_complete=false，无全盘。动化定性：鬼父动克世为凶面；反转条件：财伏无动出之象，不翻转。伏财只作收成无着之据，未以伏神另立新断。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "changed_main：蒙变中孚故 true；reserve_used：卡面明载妻财伏藏、断语据伏财立收成一面故 true；disputed：信号同向主凶故 false。"
+ }
+}

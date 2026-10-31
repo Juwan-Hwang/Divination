@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-011",
+ "prediction_text": "断：官讼有祸而可免大罪——破财消灾之局。官鬼冲克世爻主官祸临身，但日辰扶起世爻，主世有根可支、不至倾覆；财爻又动，主以钱财活动/耗费化解。离之贲，贲为修饰遮掩，主事以财帛弥缝而过。应期以日档计（戊子日占、近事），主坐标在本旬内见祸起、亦在本旬内以破财落定。终局单判：有祸而免（不入大罪）。",
+ "basis": "六爻\n卡面 tradition＝六爻。卡面残损：只记离之贲、日辰扶起、官鬼冲克世爻、财爻动，chart_complete=false，无全盘。动化定性：鬼冲世为凶面、日扶世与财动为救/泄面；反转条件核对：救象只到扶起与破财层，不翻转为全吉，终局取有祸而免。",
+ "confidence": 0.56,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "changed_main：离变贲故 true；reserve_used：无伏神记录故 false；disputed：鬼冲世（凶）与日扶世、财动（救）信号相争、须裁决故 true，裁决理由见 basis。"
+ }
+}

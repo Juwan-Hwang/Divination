@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-208",
+ "prediction_text": "断：Prince Rupert 不能得荣誉，反被 Essex 一方压过。其主星太阳（以十宫及其主取贵人）游离且失位（detriment）在固定星座，又被金星（Essex 主星，与土星互容）所处置；月对十宫头成左刑、金星对十宫头成右相，皆不利于 Rupert。此后其势渐衰，无显赫战功之命。时间以月档计，本轮战局数月内即见其不得志。",
+ "basis": "horary\n卡面 tradition＝horary。卡面：Edgehill 后约一月问；Rupert 以十宫主太阳为征，游离失位固定星座；Essex 以金星为征，与土星互容且处置 Rupert 主星；月左刑十宫头、金星右相十宫头。双方处置关系单向（Essex 主星处置 Rupert 主星），方向单判 Rupert 不得荣。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

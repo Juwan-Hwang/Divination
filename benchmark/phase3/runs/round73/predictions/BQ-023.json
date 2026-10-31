@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-023",
+ "prediction_text": "断：租田种麦之事不成。世上父母发动而化空——父母主田契、地券、租约，动而化空主契约落空、田事无凭；世上父动即问者所恃之据自化为空，主此田终不归其耕种（田主之归属另有其人/仍归原主）。姤之乾亦主事机一现即散。应期以旬档计：父爻出空填实之期反见其空，主坐标在出空前后知契约不成。终局单判：不成。",
+ "basis": "六爻\n卡面 tradition＝六爻。卡面残损：只记姤之乾、世上父动化空，chart_complete=false，无全盘、无日期。动化定性：父动化空为化空之凶；反转条件：化空无填实救象见于卡面，不翻转。",
+ "confidence": 0.56,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：姤变乾故 true；reserve_used：无伏神记录故 false；disputed：信号单一故 false。"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Winner: Donald Trump — and what decides it is Clinton's email controversy. Prediction: the tarot reading points to Trump winning the 8 November 2016 election; the deciding factor is the damage to Clinton from the email/server controversy and related trust collapse in the final stretch, which suppresses her support at the margin in the decisive states. The cards favour the disruptive challenger over the establishment figure shadowed by a secrecy scandal.",
+ "basis": "WP-007 card marker: 2016 US presidential election, asked August 2016 of a tarot reader in Manhattan's Union Square Park; card notes Clinton leading August polls and that the email controversy and Clinton Foundation issues are already public. No tradition field is annotated on the card; decided from the card's genre (tarot reading on an election) itself.\nBasis: the question asks both winner and deciding factor; the card's own foregrounded facts are the two Clinton controversies, and under the fact-priority rule the deciding-factor slot is filled from the card's facts, not invented elsewhere — the email controversy is the live, expanding scandal in August 2016. On direction, a public tarot draw on a polarised election with an establishment candidate under a secrecy cloud is read toward the challenger: concealment/reversal imagery attaches to Clinton's position, momentum to Trump's.",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

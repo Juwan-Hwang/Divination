@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-005",
+ "prediction_text": "Winner: Donald Trump. Prediction: Trump — the same panellist's early long-shot pick for the Republican nomination — goes on to win the general election of 8 November 2016 against Hillary Clinton, completing the upset trajectory that began with his nomination. Polls favouring Clinton will prove misleading.",
+ "basis": "WP-005 card marker: 2016 US presidential election, asked October 2016; card distinguishes itself from a generic panel case by noting one panellist had earlier picked Trump as Republican nominee when 17 Republicans still contested it. No tradition field is annotated on the card; decided from the card's genre (mundane/election astrology) itself.\nBasis: the card's salient fact is a demonstrated early, against-the-field Trump call by the reader in question — a reader whose cycle reading already tracked Trump's rise through the nomination is followed through to its conclusion rather than reversed at the final step (fact-priority: the card foregrounds that track record). Direction: Trump, by the same disruptive-cycle logic as the nomination call.",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

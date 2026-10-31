@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-022",
+ "prediction_text": "断：棉作不利。应爻冲克世爻——应为天时/外境，冲世主外境（风雨霜寒之属）来伤本体棉作；无妄之讼，无妄主意外之灾、讼主纠缠不顺，主棉田遭意外天时之损而收成差。应期以日/旬档计（丙子日占近事）：主坐标在应爻冲世值期之旬内见损。终局单判：棉凶（收成不佳）。应验对象为棉花本身，不回收到种棉之人。",
+ "basis": "六爻\n卡面 tradition＝六爻。卡面残损：只记无妄（刻作元妄）之讼、应冲世，chart_complete=false，无全盘。动化定性：卡面无动爻细目，定性出自应冲世一路；反转条件：无救象见于卡面，不翻转。已注明刻字异文。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：无妄变讼故 true；reserve_used：无伏神记录故 false；disputed：信号单一故 false。"
+ }
+}

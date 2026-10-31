@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-004",
+ "prediction_text": "断：传闻不实——国王并未攻下 Cambridge。四角皆活动、谣言宫受克之象不足为信；上升主（问者一方/议会）在其擢升位得力，七宫主（王军一方）入落陷且受克，主王军此举不成。应期以日档计，数日内即有确讯辟谣。",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决（Lilly 卜卦占星 horary，谣言真伪问）\n卡面：土星伤十宫头、火星伤七宫头；月亮陷落于其不喜之星座；太阳在上升头；上升主擢升；七宫主入落陷受克。指代链：谣言真伪以主星强弱与月亮状态定，七宫主弱化主所传之事不成立。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-012",
+ "prediction_text": "断：倭寇不来，此警为虚惊。官鬼为寇、为祸，鬼爻衰而安静，主寇势弱且不动，无来犯之机；噬嗑虽有颐中梗物之象，只主一时哄传阻隔，不成寇至。应期以日档计，丙子日后数日内无警即验不来。终局单判：不来。",
+ "basis": "六爻\n卡面 tradition＝六爻。卡面残损：只记卦名噬嗑与鬼爻衰静，chart_complete=false，无全盘、无变卦。动化定性：静卦鬼衰，无动化可翻；反转条件：无动爻冲世见于卡面，不翻转。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：静卦噬嗑无变卦故 false；reserve_used：无伏神记录故 false；disputed：信号单一无分歧故 false。"
+ }
+}

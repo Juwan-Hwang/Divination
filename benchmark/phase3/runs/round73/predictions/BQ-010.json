@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-010",
+ "prediction_text": "断：此讼不利、难胜。父母爻空亡——父母主文书、状纸、官府文案，空则讼据落空、无凭可恃；蒙之未济，两卦皆主未成未济，主官司拖而无结、终以散场或败诉收局。应期以旬档计：出空之期（父母填实之旬日）反见其空之实，主坐标在出空前后见分晓，结果向败/散一边。终局单判：败（不成）。",
+ "basis": "六爻\n卡面 tradition＝六爻（首行逐字照录）。卡面残损：原文只记本卦蒙、变卦未济、父母空亡，chart_complete=false，无全盘、无确切日期。动化定性：变卦未济主未成；反转条件核对：无动爻救象见于卡面，不足以翻转。已注明残损并降置信。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：本卦蒙变为未济、有变卦故 true；reserve_used：卡面无伏神启用记录故 false；disputed：卡面信号同向（父母空＋未济）无分歧故 false。"
+ }
+}

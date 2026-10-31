@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-025",
+ "prediction_text": "断：养蜂凶败，无蜜财可得。兄弟与官鬼俱发动——兄主劫夺耗散、鬼主病亡怪害，五爻螣蛇鬼动主蜂群遭瘟病/怪害；卦无妻财，财主蜜、主收益，无财则养之无利可图。屯之坤，屯难在前、变坤主散。应期以月档计（八月占）：主坐标在秋内见蜂亡散逃。终局单判：凶（蜂损、无收益）。应验对象为蜜蜂本身，不回收到养蜂之人。",
+ "basis": "六爻\n卡面 tradition＝六爻。卡面残损：只记屯之坤、兄鬼发动、卦无财、五爻螣蛇鬼动，chart_complete=false，无全盘。动化定性：兄鬼俱动主耗与害；反转条件：无子孙福神、妻财得力之象见于卡面，不翻转。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：屯变坤故 true；reserve_used：无伏神记录故 false；disputed：信号同向主凶故 false。"
+ }
+}

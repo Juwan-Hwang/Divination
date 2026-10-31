@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-021",
+ "prediction_text": "断：禾稻长势受损，收成打折。酉金官鬼发动，鬼主病虫灾伤，动而变午火，火主旱、主焦；日辰带财克制二爻——二爻为宅、为禾根之位，受克主根苗受伤。官鬼动伤禾、财克二爻伤根，两路同主禾事不利。应期以月档计（四月占）：主坐标在酉/午值期、夏间见旱虫之伤。终局单判：禾凶（歉收一面）。应验对象为禾稻本身（非人对象），不回收到种禾之人身上。",
+ "basis": "六爻\n卡面 tradition＝六爻。卡面残损：只记大过之困、酉官动变午火、日辰财克二爻，chart_complete=false，无全盘。动化定性：鬼动化火、由金转火象病转旱；反转条件：无子孙制鬼、父母雨神得力之象见于卡面，不翻转。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：大过变困故 true；reserve_used：无伏神记录故 false；disputed：信号同向主禾损故 false。"
+ }
+}

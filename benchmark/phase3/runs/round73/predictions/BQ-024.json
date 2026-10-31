@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-024",
+ "prediction_text": "断：瘟中之鸡死伤为主，难全活。四爻螣蛇官鬼发动——六畜占鬼主瘟疫病亡，临螣蛇主怪异瘟毒，鬼动主瘟势正发；日辰并起子孙，子孙为畜之福神得日辰扶起，主尚有一线生机、少数可存，但不敌鬼动之势。噬嗑之颐，颐主养而噬主梗阻。应期以日档计（乙巳日占）：主坐标数日内见死伤大半。终局单判：凶（鸡多死）。应验对象为鸡群本身（非人对象），不回收到养鸡之人。",
+ "basis": "六爻\n卡面 tradition＝六爻。卡面残损：只记噬嗑之颐、日辰起子孙、四爻螣蛇鬼动，chart_complete=false，无全盘。动化定性：鬼动为瘟发主面；反转条件：子孙得日扶只成少数存活之量级调整，不翻转多死之终局。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "changed_main：噬嗑变颐故 true；reserve_used：无伏神记录故 false；disputed：鬼动（死）与日起子孙（救）相争故 true，裁取多死、少数存，理由见 basis。"
+ }
+}

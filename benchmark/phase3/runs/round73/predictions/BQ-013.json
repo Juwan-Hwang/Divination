@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-013",
+ "prediction_text": "断：久雨难即晴，短期内仍雨。申、子两爻俱动与日辰申字正合成父母局——天时占父母主雨，父局成而得日辰合起，主雨势有据、还要持续；随之咸主感应速，主雨势应验快而未见子孙晴神得力之象。应期以日档计：窗口为申、子日一轮之内，主坐标约至下一申/子日雨仍下，其后才有渐晴之机。终局单判：不晴（续雨）。",
+ "basis": "六爻\n卡面 tradition＝六爻。卡面残损：只记随之咸、申子两爻动成父局，chart_complete=false，无全盘。门类应期对表：天时门类以父母（雨）子孙（晴）状态定，本题父局成、日辰助之，首选机制为逢值/合局之日应雨。动化定性：动爻成局助雨；反转条件：无晴神动而制父之象，不翻转。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：随变咸故 true；reserve_used：无伏神记录故 false；disputed：信号同向主雨故 false。"
+ }
+}

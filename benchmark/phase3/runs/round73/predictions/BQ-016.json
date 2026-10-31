@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-016",
+ "prediction_text": "断：其年倭乱凶烈，寇必来犯且祸及本地军民。六三午火官鬼发动，鬼动主寇祸已动；化出酉金，鬼化财乡/金刃之乡，主祸势转炽、兵刃之害；兄弟带刑克世，主同类自相残伤、军民受其害。困之大过，大过主栋桡过载，祸重。应期以年档计（正月占其年）：鬼午火值月与化酉值月两路，取与终局同向之午火路为主坐标——夏间午月寇势最炽，酉月为次应（只入 reasoning 舍弃理由：化出之支应期后于本支发动）。终局单判：乱至而凶。",
+ "basis": "六爻\n卡面 tradition＝六爻。卡面残损：只记困之大过、六三午火鬼动化酉金、兄弟带刑克世，chart_complete=false，无全盘。动化定性：鬼动化金、兄刑克世皆凶面；反转条件：无子孙制鬼之象见于卡面，不翻转。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "changed_main：困变大过故 true；reserve_used：无伏神记录故 false；disputed：信号同向主凶故 false。"
+ }
+}

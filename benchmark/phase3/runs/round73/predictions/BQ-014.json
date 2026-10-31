@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-014",
+ "prediction_text": "断：飓风将止，行程迟而可行。兄弟主风、父母主雨，兄父俱动本主风雨正盛，但俱动而合住应爻，主风雨被合绊收束、势将止息；困之震，震为动、为行，主止后可动身启程。应期以日档计（丁亥日占）：窗口一两日内，主坐标约至次日风止可行；近段风未全止、远段可走，两段合为终局：止而可走。",
+ "basis": "六爻\n卡面 tradition＝六爻。卡面残损：只记困之震、兄弟父母俱动合住应爻，chart_complete=false，无全盘。动化定性：兄父动而合应，动化取合住收束义；反转条件：无再冲开合之象见于卡面，维持止息之断。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "changed_main：困变震故 true；reserve_used：无伏神记录故 false；disputed：兄父俱动（盛）与合住应爻（止）两读相争故 true，裁取合住收束，理由见 basis。"
+ }
+}
