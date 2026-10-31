@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-007",
+ "prediction_text": "倾向判断：Waller 一方获胜、Hopton 败北。Waller 征象成群得力：月亮在其擢升与木星同在、太阳（其资财/助军之主）落十宫正在擢升正度19°白羊；Hopton 征象土星（七宫主）入衰、没入日光之下（sub radiis）、无定位（peregrine）、与任何行星无相位，且九宫内只有火星与南交点，主其援军无备。应期：图即战日所起（1644年3月29日），胜负当日决出，应期为日档、主坐标即当日战阵结果。",
+ "basis": "tradition＝horary\nsystems_used: horary（西洋卜卦占星，Lilly 古典规则，战争胜负口径）\n原始结果：上升与月亮、木星、金星归 Waller 方；土星七宫主归 Hopton；月亮擢升与木星同在；太阳（Waller 资财主）十宫19°白羊擢升正度；火星与南交点独在九宫；土星入衰、sub radiis、peregrine、无相位、刑七宫头；月亮距金星11°、行速快且增光。\n已载面：主问面（谁胜）已断；援军面（九宫无备）已断为 Hopton 无援。题面锚点为日期与擢升度数，取直读。\n断项过闸：Waller 胜→月擢升合木星＋日擢升角宫，两线同向，保留；Hopton 胜→其征象四重受损、无一得力线，删去。\n功量清单（R80-REV1）：助成线（Waller）——月亮擢升同木星、日擢升正度角宫，共2条强线；压制线（对 Waller）0条；Hopton 侧助成0、压制多条（入衰/sub radiis/peregrine）。主线＝太阳擢升角宫线。定带：胜负等级带取『明确获胜』，不作小胜降格。",
+ "confidence": 0.85,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-003",
+ "prediction_text": "Direction: Barack Obama is re-elected — he defeats Mitt Romney in the general election of 6 November 2012 and keeps the presidency. Character of the result: competitive and messy in process — Mercury turning retrograde on Election Day marks delays, recount talk and disputed counts in places — but the outcome is a return: the incumbent comes back, the result is not overturned. Main coordinate: the 6 November 2012 count itself.",
+ "basis": "Card carries no tradition/system field as such; decided from the card's own genre: the card is a May 2012 election assessment whose only supplied configuration is Mercury retrograde beginning on election day, so Western election/mundane astrology is used.\nsystems_used: Western astrology (mundane/electional configurations)\nReasoning: Mercury retrograde at an election classically signifies a return/repeat — votes recounted, a previous result re-run — which in an incumbent's election reads first as the incumbent returning, not as a change of office; its disorder falls on process (counts, communications, delays), which is therefore predicted as process noise, not as outcome reversal. Card facts checked: the race is described as competitive with Obama as incumbent, so a narrow incumbent win fits both the configuration and the supplied facts; no natal data are given, and none are invented. Distinction kept: retrograde is not read as automatic chaos-voiding-the-result; the direction call (incumbent holds) and the process call (messy count) are stated separately so each can be scored on its own.",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-005",
+ "prediction_text": "Direction: Donald Trump wins the 2016 US presidential election — the panel astrologer who, when 17 Republicans still contested, had already picked Trump for the Republican nomination follows through and calls Trump over Hillary Clinton for the White House in the election of 8 November 2016, against the poll consensus. Coordinate: the 8 November 2016 result; character: an upset win, not a poll-confirming one.",
+ "basis": "Card carries no tradition/system field as such; decided from the card's own genre: the card singles out one Costa Mesa panel astrologer by a prior, verifiable-in-card track record (picking Trump as nominee from a 17-candidate field) and asks who will win, so this is an individual Western mundane-astrology call, not the panel consensus.\nsystems_used: Western astrology (mundane election forecasting, individual call)\nReasoning: the card's one astrologer-specific fact is the early Trump-nominee pick — a costly, specific, correct-in-advance commitment that identifies this astrologer's line on this election cycle as Trump-ward from the start; a forecaster does not reverse that line at the final step without a stated reason, and the card states none. Fact-priority check: the card says most polls favour Clinton — that is the consensus this call is defined against, so the call is recorded as an upset call, not blended into a hedge. Kept distinct from the companion panel-consensus case: same election, different predicting subject, different call, each scored on its own card.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
