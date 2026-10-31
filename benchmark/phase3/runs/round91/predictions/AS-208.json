@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-208",
+ "prediction_text": "方向：Prince Rupert 在此战事中得不到荣誉、反居下风，Essex 一方占上风（negative 于 Rupert）。systems_used：horary卜卦占星。具体断语：Rupert 以10宫及其主太阳为征，太阳游荡且入弱（detriment）居固定星座，主其人无地无援、逞勇无功；Essex 之星金星与土星互容、且金星处置 Rupert 之主星，又金星、月亮双双以相位临10宫头，主荣誉与场面归 Essex 一方。Rupert 后局为屡战不利、声望受损而退。应期以月计，本季战局内见分晓。",
+ "basis": "卡面 tradition＝horary（逐字照录卡面值 horary）。\n依据：贵人以10宫论，Sun peregrine＋detriment 为弱征决定项；Venus（对宫主，Essex）reception 土星且 dispose 太阳，主对方反握其命门。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,245 @@
+##### B01
+--- AS-001 keys=['id', 'subject', 'context', 'provenance', 'language'] tradition=None system=None
+ subj: {"name_or_desc": "A woman, at Lilly's house in the country"}
+ q: Is my son with his master, or at my own house?
+ asked: Question figure discussed as of July 1638 (figure heading in the 1647 printing is partly illegible in OCR: 'Anno Dom. 1638 ... July'); Lilly computed from the ephemeris that the significators of mother and son perfected a trine on 25 July at 2 p.m.
+ setting: Her son was away from home; she did not know where he was staying
+ att: {"ascendant": "25° Libra", "asc_ruler": "Venus (lady of the ascendant, significator of the querent/mother)", "key_positions": "Jupiter, lord of the 5th (the son's significator), placed in the Ascendant (east angle); Moon in 27° Pisces applying to a sextile of Saturn, lord of the 4th (the mother's dwelling); Mars lord of the 6th in Sagittarius; the absent party also described by Jupiter in the Ascendant and Venus in the 9th", "note": "Positions as stated in Lilly's prose judgment; the full figure is printed as Fig. 3 in the 1852 edition and in Book II of the 1647 original."}
+--- AS-002 keys=['id', 'subject', 'context', 'provenance', 'language'] tradition=None system=None
+ subj: {"name_or_desc": "A tradesman of London"}
+ q: (1) Shall I be rich, or subsist of myself without marriage? (2) By what means shall I attain wealth? (3) When? (4) Shall it continue?
+ asked: 1634, London (exact day not stated in the text)
+ setting: Asked in the year 1634; Lilly lived to see the outcome ('I have seen the experience of my judgment')
+ att: {"asc_ruler": "Venus, lady of the ascendant, near Regulus (Cor Leonis)", "key_positions": "Mars, lord of the 2nd and lord of the Part of Fortune, in the Ascendant near Spica at 18° Libra; Jupiter in his exaltation (Cancer) angular, almost culminating (10th); Moon lady of the 10th in Leo, separating from sextile of Mars and conjunction of Mercury, applying to conjunction of Venus, wanting 6°27' of the conjunction; Part of Fortune in a fixed sign in the terms of Mars; cusp of the 2nd a fixed sign", "note": "Positions as stated in Lilly's prose judgment."}
+--- AS-003 keys=['uid', 'tradition', 'subject', 'context', 'provenance'] tradition=horary system=None
+ subj: {"name_or_desc": "William Lilly himself"}
+ q: If I should purchase Master B. his houses — shall I deal with the seller and procure money in time to pay for the purchase?
+ asked: 31 March 1634, 6 p.m. (figure heading as printed: '31 March 1634. 6 Hor. P.M.')
+ setting: In 1634 the inheritance of the house he lived in (in the Strand, London) and others were offered to him for sale; his own money could not be called in for six months; the seller's first demand was £530
+ att: {"key_positions": "Sun (significator of the seller) locally placed in the 7th, received by Venus(?) in exaltation near the cusp of the 7th; lord of the 7th also lord of the 11th (Lilly's hopes); Venus applying to a trine of Saturn, lord of the 4th (the houses); Moon translating light by square aspect out of signs of long ascension; Mercury, lord of Lilly's 2nd, retrograde; Saturn lord of the 4th without material debilities except retrogradation and cadency", "note": "The ascending sign/degree is garbled in the 1647 OCR ('the degree of the Sign is the same wherein [Mars] was in my Radix'); positions above are those Lilly names in prose."}
+--- AS-004 keys=['id', 'source_id', 'subject', 'context', 'provenance', 'language'] tradition=None system=None
+ subj: {"name_or_desc": "A well-affected person (a Parliament sympathiser), asking Lilly"}
+ q: Is the news/report true — has the King taken Cambridge?
+ asked: 1643 (exact day not stated in the text)
+ setting: 1643, during the Civil War: reports were circulating that the King's forces had taken Cambridge
+ att: {"key_positions": "All angles moveable; Saturn vitiating the cusp of the 10th and Mars the cusp of the 7th (per Lilly's prose); Moon cadent in a sign 'wherein she nothing delights'; Sun on the cusp of the Ascendant; lady of the Ascendant (significatrix of the querent side / Parliament) in her exaltation; lord of the 7th (the King's side) entering his fall and afflicted", "note": "Positions as stated in Lilly's prose judgment."}
+ source_id: "lilly-horary-1643-cambridge-rumour"
+--- AS-005 keys=['uid', 'tradition', 'subject', 'context', 'provenance'] tradition=horary system=None
+ subj: {"name_or_desc": "A friend of a London merchant asked on the merchant's behalf"}
+ q: What think you of the ship — is she sunk, or living? And afterwards: where is she, on what coast, and when will news come of her?
+ asked: December 1644, London (exact day not stated)
+ setting: December 1644: the merchant had sent a ship to trade to the coast of Spain; repeated news said she was wrecked; insurers refused to insure her at £60 per cent or on any terms
+ att: {"ascendant": "Cancer (the ascending degrees of Cancer shew the bulk/body of the ship)", "key_positions": "Saturn in Aries in the 11th casting a square very near the Ascendant; Moon, lady of the Ascendant, in Taurus in the 11th in her exaltation, applying by trine to Sun and Mercury in the 7th (wanting but a few minutes of a perfect trine) and near the body of Jupiter; South Node (Cauda) in the 9th; Part of Fortune disposed of by Mars; Mercury in reception with Mars", "note": "Positions as stated in Lilly's prose judgment."}
+--- AS-007 keys=['uid', 'tradition', 'subject', 'context', 'provenance'] tradition=horary system=None
+ subj: {"name_or_desc": "An unnamed querent asking Lilly during the Civil War"}
+ q: Whether Sir William Waller or Sir Ralph Hopton should overcome?
+ asked: Friday 29 March 1644 (figure erected the day of the engagement)
+ setting: Friday 29 March 1644: Sir William Waller's Parliamentarian army and Sir Ralph Hopton's Royalist army were supposed engaged near Alresford, Hampshire (the Battle of Cheriton)
+ att: {"key_positions": "Ascendant and Moon, Jupiter and Venus for Waller's side; Saturn lord of the 7th for Hopton; Moon in her exaltation with Jupiter; Sun, lord of Waller's substance/assistants, in the 10th in the very degree of his exaltation (19° Aries); only Mars and the South Node in the 9th (no supplies ready for Hopton); Saturn (Hopton's significator) sub radiis, in his fall, in no aspect to any planet, peregrine, aspecting the cusp of the 7th by square; Moon distant 11° from Venus, swift and increasing in light", "note": "Positions as stated in Lilly's prose judgment (Fig. 20 in the 1852 edition)."}
+--- AS-008 keys=['uid', 'tradition', 'subject', 'context', 'provenance'] tradition=horary system=None
+ subj: {"name_or_desc": "A person of honour asked Lilly"}
+ q: If his Excellency Robert Earl of Essex should take Reading, having then surrounded it with his army?
+ asked: During the siege of Reading (the town was delivered 27 April; the year is printed '1644' in the 1647 OCR but the historical siege of Reading ended in April 1643 — see notes)
+ setting: Robert, Earl of Essex, Parliament's general, had surrounded Reading with his army; the town was held for the King, governor Sir Arthur Aston (spelled 'Acton' in the 1852 edition)
+ att: {"key_positions": "Mars, lord of Scorpio (the sign ascending per the 1852 judgment), significator of Essex, well fortified except being in his fall, and in reception with the Moon (Mars in her house, she in his terms and face, near Regulus, in the 10th); Moon void of course, applying to a sextile of Mars (equivalent to a square in signs of long ascension); Sun, the King's significator, in the 7th in a fixed sign; Aquarius, the sign on the 4th, for the town; Saturn lord of the 4th for the governor, in his fall; Jupiter lord of the 5th and Venus placed therein for the town's ammunition and provision", "note": "Positions as stated in Lilly's prose judgment (Chap. LXVI in the 1647 printing; Fig. 21 in the 1852 edition)."}
+--- AS-009 keys=['uid', 'tradition', 'subject', 'context', 'provenance'] tradition=horary system=None
+ subj: {"name_or_desc": "A London dog owner living at Temple Bar"}
+ q: What part of the city should they search? And shall he recover the dog?
+ asked: Not stated in the text
+ setting: His dog (a small beast, 6th-house signification) had strayed and was missing; London, so Lilly notes he has no example of sheep/hogs to give, only this dog
+ att: {"key_positions": "Querent signified by the sign ascending and its lord (Saturn on/near the Ascendant — the querent described as Saturnine); the sign of the 6th and its lord signify the dog; the dog's significator in a western sign, southern quarter verging west; Moon in an airy sign, under the beams of the Sun; Sun and Moon in the 8th; the dog's significator in a sign of the same triplicity as the ascendant (signifying London) applying to a trine of the cusp of the 6th; Sun on the following Monday applying by dexter aspect to Saturn lord of the Ascendant", "note": "Positions as stated in Lilly's prose judgment; several glyphs are garbled in the 1647 OCR."}
+--- AS-010 keys=['id', 'subject', 'context', 'provenance', 'language'] tradition=None system=None
+ subj: {"name_or_desc": "A master whose servant (a young fellow of about nineteen) had run away the Sunday preceding"}
+ q: Which way is the fugitive servant gone, and when shall he return / be recovered?
+ asked: Not stated in the text (servant left on the Sunday before the question)
+ setting: The servant had left his master and his whereabouts were unknown
+ att: {"key_positions": "Ascendant with its lord and the Moon therein signifying the master; Mercury peculiarly the servant's significator in this figure (the Moon being the common significator of servants); Moon at the time of flight in a western sign and still in the same sign; Mercury in a western sign, south quarter; Moon in the 2nd in her own house; Sun in the 2nd in perfect aspect with a planet in the 11th; servant's significator and lord of the Ascendant hastening to a trine out of angles", "note": "Positions as stated in Lilly's prose judgment."}
+--- AS-011 keys=['id', 'subject', 'context', 'provenance', 'language'] tradition=None system=None
+ subj: {"name_or_desc": "A lady who had long been courted by a gentleman suitor; she had continually slighted him and finally given him an absolute denial, then bitterly repented and wished the match revived"}
+ q: Can this marriage match be revived/effected?
+ asked: June of an unstated year (Lilly advised the gentleman to make the first move on 19 June near noon; Saturn and Mars came to aspect on 27 June)
+ setting: She came to Lilly in great heaviness, asking whether the match could be brought on again without scandal to her honour; Lilly first read her own history from the figure, which she then confessed in full
+ att: {"key_positions": "Sun, lord of the Ascendant, significator of the lady; Saturn, lord of the 7th, significator of the gentleman, in the south angle in conjunction with Mars in a fixed earthy sign, elevated; Moon separated from [the gentleman's significator] void of course, applying to opposition of the Sun; reception between Venus and the Moon, and between the Sun and Venus; Moon disposing of Saturn in her exaltation; Jupiter in his exaltation applying to a sextile of Saturn, lord of the 7th, and transferring Saturn's virtue to the Sun, lord of the Ascendant, with no prohibition, abscission or frustration before the aspect perfected (perfected 27 June)", "note": "Positions as stated in Lilly's prose judgment."}
+--- AS-012 keys=['uid', 'tradition', 'subject', 'context', 'provenance'] tradition=horary system=None
+ subj: {"name_or_desc": "A clergyman (the querent, described by Lilly as covetous, of good wit and volubility of tongue) seeking a benefice"}
+ q: If he should obtain the parsonage (benefice) desired?
+ asked: Not stated in the text
+ setting: He had lately lost the benefit of some good place in the Commonwealth and was solicitous how to live in his former credit; he pressed his suit for the parsonage despite Lilly's advice
+ att: {"key_positions": "Saturn impedited in the Ascendant, 'infortuning' the question; Jupiter lord of the 9th (significator of the benefice) in no aspect with Mars(?) lord of the Ascendant, nor the Moon in any aspect with him; neither lord of the Ascendant nor Moon placed in the 9th; no translation or collection of light, and no reception between the significators; Moon separating from a trine and applying to an opposition of Mercury, lord of the 3rd; Venus in the 7th house opposing the Ascendant", "note": "Some planet glyphs are garbled in the 1647 OCR; the seven numbered negative testimonies are Lilly's own enumeration."}
+--- AS-013 keys=['uid', 'tradition', 'subject', 'context', 'provenance'] tradition=horary system=None
+ subj: {"name_or_desc": "William Lilly himself, living in the country (Walton-on-Thames)"}
+ q: What became of my goods — who stole them, where are they, and can I recover them?
+ asked: Saturday 10 February 1637 (Old Style; 1637/8), at the moment Lilly first heard the report
+ setting: He had bought fish in London for his Lenten provision; it came by barge to Walton, and on Saturday 10 February 1637 (Old Style) a waterman told him their warehouse had been robbed the night before and his fish stolen; Lilly erected the figure for the exact time he first heard the report
+ att: {"key_positions": "Jupiter, the only peregrine planet in an angle, on the cusp of the 7th, in Scorpio (a moist sign) — taken as significator of the thief; Mercury, significator of Lilly's goods, in Pisces (a moist sign); Part of Fortune in Cancer (a moist sign); Moon in Taurus, an earthy sign, under the earth; Mercury, lord of the 2nd, in his fall and detriment but in his own terms, applied to by sextile of the Moon (lady of the Part of Fortune) and having a trine to the Part of Fortune; Mars lord of the 7th leaving Scorpio, his own sign", "note": "Positions as stated in Lilly's prose judgment (Fig. 19 in the 1852 edition)."}
+--- AS-014 keys=['id', 'subject', 'context', 'provenance', 'language'] tradition=None system=None
+ subj: {"name_or_desc": "A querent whose money had been stolen; he suspected a woman servant (shown by Mars) and another (shown by Saturn) and tried to persuade Lilly of it"}
+ q: Who stole my money, and shall I have it again?
+ asked: Not stated in the text
+ setting: Question of theft: who is the thief, and shall the money be recovered?
+ att: {"ascendant": "Scorpio", "key_positions": "Mars, lord of the Ascendant, in 25°02' Leo, in square to Mercury and Saturn, but in his own terms and face (therefore refused as the thief's significator); Saturn in the west angle (7th, house of theft) likewise in his own term and face (also passed by); Mercury in an angle, having no essential dignity, in partile conjunction with Saturn and square to Mars — taken to signify the thief; Moon in a masculine sign applying to Mars; Mercury conjunct Saturn and square Mars, both masculine planets; Moon so near the Sun, separating", "note": "Positions as stated in Lilly's prose judgment (Fig. 18 in the 1852 edition)."}
+--- AS-015 keys=['id', 'source_id', 'subject', 'context', 'provenance', 'language'] tradition=None system=None
+ subj: {"name_or_desc": "A gentlewoman whose husband was at sea; she was herself extremely disfigured by smallpox, weak-eyed, full of grief for her husband, and chronically ill (Saturn, lord of her 6th, retrograde — she relapsed from one disease into another)"}
+ q: A woman asked of her husband at sea: if alive, where, and when shall he return?
+ asked: Not stated in the text
+ setting: She asked Lilly about her absent husband; Lilly judged both the husband's state and, from the same figure, her own fate
+ att: {"key_positions": "The 7th house taken as the woman's ascendant in this question; Saturn lord of the 6th retrograde; the husband's significator (the Sun, per Lilly's prose) in her hayz and free from all affliction; Mars and Saturn moving to an ill aspect, Mars then near the place of the Moon in the question (about 2° of a sign) and Saturn in about 2° of Capricorn, the Moon at that (later) moment in about 20°", "note": "Positions partly garbled in the 1647 OCR; the husband's significator being wholly unafflicted is one of the points Lilly states unambiguously."}
+ source_id: "lilly-horary-husband-at-sea"
+--- AS-204 keys=['id', 'tradition', 'subject', 'context', 'provenance', 'language'] tradition=horary system=None
+ subj: {"name_or_desc": "A sick doctor (the patient; the question asked concerning him)"}
+ q: What was his disease? If curable? What part of the body was afflicted?
+ asked: Not stated in the chapter.
+ setting: A decumbiture-type sickness question: the doctor was ill, and Lilly, having little judgment in physic himself, judged from the figure and afterwards spoke with the patient.
+ att: {"ascendant": "Scorpio", "key_positions": "The sixth house afflicted by a planet in his fall placed therein; the lord of the Ascendant lately separated from a dexter square of Saturn, Saturn at that time in Cancer (signifying the breast and stomach); the Moon in the fourth house with Saturn; all the angles fixed", "note": "Positions as stated in Lilly's prose judgment."}
+--- AS-205 keys=['id', 'tradition', 'subject', 'context', 'provenance', 'language'] tradition=horary system=None
+ subj: {"name_or_desc": "A sick man (the patient)"}
+ q: Whether the sick would live or die, and what his disease was?
+ asked: 16 July 1645 (figure heading; see the ocr_note on the year).
+ setting: A sickness question on the figure of 16 July 1645.
+ att: {"key_positions": "The Ascendant most afflicted by the corporal presence of a planet who is partly lord of the eighth house; the sign of the sixth fixed and afflicted, and the lord of the sixth in a fixed, earthly, melancholy sign; the Sun, the temporal light, in perfect opposition of Saturn, lord of the sixth, in fixed signs; the Moon neer the Dragon's Tail (Cauda Leonis in the OCR) and afflicted in the Ascendant", "note": "Positions as stated in Lilly's prose judgment; the ascending sign's glyph is corrupt in the OCR and is not asserted here."}
+--- AS-206 keys=['id', 'tradition', 'subject', 'context', 'provenance', 'language'] tradition=horary system=None
+ subj: {"name_or_desc": "A woman (the querent), of tall stature, ruddy complexioned, sober, discreet and well spoken"}
+ q: If she should marry the man desired?
+ asked: Anno 1646 (figure heading fragment); the day is not legible in the OCR.
+ setting: She desired to marry a particular man, who was very tall, slender and lean, of black hair, stood upon high terms, and had been tampering with another.
+ att: {"key_positions": "Mercury, significatrix of the querent, retrograde and under the Sun-beams; the quesited's significator in his exaltation, neer the sextile of Venus; both significators in a semi-sextile and in good houses; the Moon separating from a square of Jupiter and carrying his light by a trine to Mercury, lord of the Ascendant", "note": "Positions as stated in Lilly's prose judgment."}
+--- AS-207 keys=['id', 'tradition', 'subject', 'context', 'provenance', 'language'] tradition=horary system=None
+ subj: {"name_or_desc": "William Laud, Archbishop of Canterbury (the quesited), then a prisoner"}
+ q: What manner of death should Canterbury die?
+ asked: Not stated in the chapter.
+ setting: The Archbishop was imprisoned and his fate in question during the Civil War; Lilly professes he honoured the man and never had speech or acquaintance with him.
+ att: {"key_positions": "The cusp of the ninth house taken for his Ascendant (he being a man of the Church); Saturn, lord of that sign, in his fall, a long time retrograde, and posited in the twelfth of the figure; the Moon separating from Saturn and applying to the Sun neer the cusp of the eighth house; the Sun in a fiery sign applying to an opposition of Mars, the dispositor of the aged Bishop; Mars in an airy and humane sign; the Moon wanting seven degrees of the body of Mars", "note": "Positions as stated in Lilly's prose judgment; the ascending degree is not given in the prose and is not asserted here."}
+--- AS-208 keys=['id', 'tradition', 'subject', 'context', 'provenance', 'language'] tradition=horary system=None
+ subj: {"name_or_desc": "Prince Rupert (the quesited); the querent a very great well-willer to the Parliament"}
+ q: If Prince Rupert should get honour by our wars, or worst the Earl of Essex? What should become of him?
+ asked: Not stated in the chapter; internal evidence (Edgehill fight 'above a moneth before') places it about November–December 1642.
+ setting: Asked in time of war, about a month after the fight at Edgehill (23 October 1642), in which Essex had the better and kept the ground.
+ att: {"key_positions": "Rupert, as a noble person of eminency, signified by the tenth house and its lord, the Sun, peregrine and in his detriment in a fixed sign; Essex signified by Venus, lady of the opposite house, in reception with Saturn, she disposing of Rupert's significator; the Moon casting her sinister aspect to the cusp of the tenth; Venus also casting a dexter aspect to the cusp of the tenth", "note": "Positions as stated in Lilly's prose judgment."}
+--- AS-209 keys=['id', 'tradition', 'subject', 'context', 'provenance', 'language'] tradition=horary system=None
+ subj: {"name_or_desc": "King Charles I and Queen Henrietta Maria (the quesiteds); the querent unnamed"}
+ q: (1) If his Majesty should procure forces out of Ireland to harm the Parliament? (2) If the Queen, then in the North, would advance with her army, prosper, and when his Majesty should meet her?
+ asked: Not stated in the chapter.
+ setting: One figure answering two war questions: whether the King would procure Irish forces against the Parliament, and whether the Queen, then in the North with an army, would advance, prosper, and meet the King.
+ att: {"key_positions": "His Majesty signified by the Moon in Cancer in the tenth house, in her own house, increasing in light, and void of all infelicity except slowness in motion; the Sun, lord of the eleventh (the house signifying assistance or aid), posited in the seventh in his exaltation, applying to the cusp of the eleventh but wanting six degrees of being partill, and in direct opposition to the Ascendant (the Parliament); the Queen's significatrix Saturn, lord of the fourth (being the seventh from the tenth), removing out of one sign into another and going into Aries, his fall; the Moon wanting three or four degrees of the trine of Saturn", "note": "Positions as stated in Lilly's prose judgment."}
+##### B02
+--- AS-210 keys=['id', 'tradition', 'subject', 'context', 'provenance', 'language'] tradition=horary system=None
+ subj: {"name_or_desc": "A gentleman (the querent) seeking an office or place of preferment"}
+ q: If he should obtain the office or place he looked after (if attain the preferment desired)?
+ asked: The same time, within four or five minutes, as the preceding figure; no separate date is stated.
+ setting: The figure was erected at the same time, within four or five minutes, as the preceding figure (the King's Irish forces and the Queen's advance). He employed as his friend a solar man.
+ att: {"key_positions": "The Ascendant and Venus for the querent; the tenth house for the office or place of preferment; the Moon placed in the tenth, applying to a trine of Saturn, who hath exaltation in the Ascendant, receives Venus and is received of her again; Saturn also lord of the fourth; the Sun in the seventh house in opposition to the Ascendant and with the Dragon's Tail, he being lord of the eleventh (the pretended friend); the Moon separating from a square of Mercury", "note": "Positions as stated in Lilly's prose judgment."}
+--- AS-211 keys=['id', 'tradition', 'subject', 'context', 'provenance', 'language'] tradition=horary system=None
+ subj: {"name_or_desc": "The owner of a horse lost or stolen neer Henley (the querent, unnamed)"}
+ q: A horse lost or stolen neer Henley — if recoverable or not? And which way did he go?
+ asked: Not stated in the chapter.
+ setting: The horse was missing neer Henley; the querent asked both whether it was recoverable and which way it had gone.
+ att: {"key_positions": "The lord of the twelfth, significator of the horse, retrograde and hastening to a conjunction of the lord of the querent's second house (his house of substance); the Moon locally in the second; two retrograde planets neer the cusp of the second; the sign of the twelfth and the sign wherein its lord was placed both west (the plurality of testimonies full west); the seventh house afflicted", "note": "Positions as stated in Lilly's prose judgment."}
+--- AS-212 keys=['id', 'tradition', 'subject', 'context', 'provenance', 'language'] tradition=horary system=None
+ subj: {"name_or_desc": "A sick person (the patient), asked about by others"}
+ q: If bewitched?
+ asked: Anno 1646 (figure heading fragment); the day is not legible in the OCR.
+ setting: The physicians had prescribed much physic and it wrought no effect, but the patient was worse and worse, which gave those that asked some reason to suspect witchcraft.
+ att: {"key_positions": "The Moon going to an opposition of Saturn, both planets in the sixth and twelfth houses (which gave suspicion of witchcraft); but neither the Ascendant nor its lord, nor the Moon, afflicted by the lord of the twelfth; the Moon applying after her opposition of Saturn unto the lord of the Ascendant, he above the earth ascending towards the meridian; Saturn on the cusp of the sixth, its lady in the twelfth", "note": "Positions as stated in Lilly's prose judgment."}
+--- AS-213 keys=['id', 'tradition', 'subject', 'context', 'provenance', 'language'] tradition=horary system=None
+ subj: {"name_or_desc": "A prisoner escaped out of prison (the quesited); the querent unnamed"}
+ q: A prisoner escaped out of prison — which way did he go? If recoverable?
+ asked: Not stated in the chapter.
+ setting: The prisoner had broken out of prison; the querent asked which way he had gone and whether he would be recovered.
+ att: {"key_positions": "The person of the prisoner represented by the cusp of the twelfth (Sagittarius) and by Jupiter in Leo; the sign of the twelfth, the sign wherein Jupiter is, the quarter of heaven, and the sign wherein the Moon is, unanimously eastward; the Moon neer the Ascendant; Jupiter in the eighth house; the Moon separating from a trine of Jupiter and applying to an opposition of the Sun, both in angles; Jupiter and Mercury in aspect with each other", "note": "Positions as stated in Lilly's prose judgment."}
+--- AS-215 keys=['id', 'tradition', 'subject', 'context', 'provenance', 'language'] tradition=horary system=None
+ subj: {"name_or_desc": "Robert Devereux, Earl of Essex, Lord General of the Parliament's army"}
+ q: Event figure: what success, honour and issue should the Earl have from this his last expedition into the West?
+ asked: The time of his Excellency the Earl of Essex his last setting forth into the West, 1644 (event moment; the day is not stated in the text).
+ setting: An event figure (not a posed question): the scheme of the time of the Earl's last setting forth into the West in 1644, judged by Lilly for posterity.
+ att: {"ascendant": "Aquarius", "key_positions": "Saturn, Venus and Mercury having dignities in the Ascendant; the Moon separating from a trine of Saturn and applying to a square of Mars, lord of his (the Earl's) second and ninth houses (substance, assistants, friends, journeys); the Dragon's Tail in the Ascendant; Saturn, lord of the Ascendant, peregrine and in his fall in the second; the Moon in her detriment; the Part of Fortune disposed by Mercury, lord of the seventh, a significator of his enemies", "note": "Positions as stated in Lilly's prose judgment."}
+--- AS-301 keys=['uid', 'tradition', 'subject', 'context', 'provenance'] tradition=astrology system=None
+ subj: {"name_or_desc": "全球疫情（COVID-19）进程", "basic_info": "2020年初暴发的新冠疫情"}
+ q: 公开预测：2020年世界局势（逐月）
+ asked: 2019-11-11
+ setting: 2019年11月时疫情尚未出现；Adams在其占星博客按星象逐月发布世界局势预测
+ att: {}
+--- AS-302 keys=['id', 'source_id', 'subject', 'context', 'provenance', 'language'] tradition=None system=None
+ subj: {"name_or_desc": "新冠疫苗前景", "basic_info": "COVID-19疫苗研发，2020年10月时多款疫苗处三期试验阶段"}
+ q: 公开预测：未来六个月新冠疫情走向（含疫苗前景）
+ asked: 2020-10-19
+ setting: 2020年10月Adams接受英国《镜报》访问谈未来六个月疫情走向
+ att: {}
+ source_id: "P06"
+--- AS-303 keys=['id', 'subject', 'context', 'provenance', 'language'] tradition=None system=None
+ subj: {"name_or_desc": "第三次世界大战爆发时间", "basic_info": "全球地缘冲突，2024年时有俄乌、巴以两场战争进行中"}
+ q: 公开预测：第三次世界大战爆发时间
+ asked: 2024-06（事前，Moneycontrol于结果前报道）
+ setting: Kumar以「印度诺斯特拉达穆斯」之名在媒体持续发布三战日期预测
+ att: {}
+--- AS-304 keys=['id', 'subject', 'context', 'provenance', 'language'] tradition=None system=None
+ subj: {"name_or_desc": "2024年美国总统选举", "basic_info": "民主党候选人卡玛拉·哈里斯对共和党候选人唐纳德·特朗普，2024年11月5日投票"}
+ q: 公开预测：2024年美国总统选举结果
+ asked: 2024-09-09
+ setting: 2024年9月9日，选情胶着，多数民调显示两人接近
+ att: {}
+--- AS-305 keys=['id', 'subject', 'context', 'provenance', 'language'] tradition=None system=None
+ subj: {"name_or_desc": "2024年美国总统选举", "basic_info": "同P09"}
+ q: 公开预测：2024年美国总统选举结果
+ asked: 2024-11-05之前（选前发布）
+ setting: 选前其撰文分析选举日星盘与两候选人行运，自承盘面势均力敌、极难判断
+ att: {}
+--- AS-306 keys=['uid', 'tradition', 'subject', 'context', 'provenance'] tradition=vedic-astrology system=None
+ subj: {"name_or_desc": "2024年美国总统选举及民主党候选人更替", "basic_info": "时任总统拜登竞选连任，2024年6月时其年龄与状态已受质疑，但退选尚未发生"}
+ q: 公开预测：2024年美国总统选举走向（含候选人更替）
+ asked: 2024-06-02（视频发布日期，据通稿）
+ setting: 2024年6月2日其发布视频预测大选走向；当时哈里斯尚未成为候选人
+ att: {}
+--- AS-307 keys=['uid', 'tradition', 'subject', 'context', 'provenance'] tradition=astrology system=None
+ subj: {"name_or_desc": "2024年美国总统选举", "basic_info": "同P09"}
+ q: 公开预测：2024年美国总统选举结果
+ asked: 2024-10（选前）
+ setting: 2024年10月，HuffPost以「我们是选举占星师」为题采访多位美国职业占星师，请其公开表态赢家
+ att: {}
+--- BQ-001 keys=['id', 'tradition', 'subject', 'context', 'provenance', 'language'] tradition=筮占 system=None
+ subj: {"name_or_desc": "有人（诣恶头求卜者）之父", "gender": null}
+ q: 卜父（父卧疾三年、昨日气尽复苏，问父寿数）
+ asked: 三月十三日（北朝，年不详）
+ setting: 卜父（父卧疾三年、昨日气尽复苏，问父寿数）
+ att: {"casting_method": "蓍筮（原书作「筮之/因筮之」，分析已用本宫、庚辛日、变卦）", "hexagram": "兑 之 履", "chart_excerpt": "原文未列六爻盘；断语自述卦象：「遇《兑》之《履》」「《兑》上天下土，是今日庚辛本宫火」「《兑》变为《乾》」", "chart_complete": false, "completeness_basis": "原文只记本卦兑、变卦履与断语中援引的卦象（本宫火、兑口、兑言、变乾为天、未化入戌为土等），无六爻全盘"}
+--- BQ-010 keys=['id', 'tradition', 'subject', 'context', 'provenance', 'language'] tradition=六爻 system=None
+ subj: {"name_or_desc": "谈朝辅", "gender": null}
+ q: 卜诉讼（官司成败）
+ asked: 原文未记日（与同组子日诸占并列叙述，未别记日）
+ setting: 卜诉讼（官司成败）
+ att: {"casting_method": "六爻纳甲（原书只记月日与卦象，未记起卦工具）", "hexagram": "蒙 之 未济", "chart_excerpt": "原文：「得蒙之未济卦，父母空亡」", "chart_complete": false, "completeness_basis": "原文记本卦蒙、变卦未济、父母空亡，无全盘、无确切日期"}
+--- BQ-011 keys=['id', 'tradition', 'subject', 'context', 'provenance', 'language'] tradition=六爻 system=None
+ subj: {"name_or_desc": "周焚松", "gender": null}
+ q: 卜官讼（官司祸福）
+ asked: 戊子日
+ setting: 卜官讼（官司祸福）
+ att: {"casting_method": "六爻纳甲（原书只记月日与卦象，未记起卦工具）", "hexagram": "离 之 贲", "chart_excerpt": "原文：「得离之贲卦，日辰扶起，官鬼冲克世爻，财爻又动」", "chart_complete": false, "completeness_basis": "原文记本卦离、变卦贲与官鬼冲世、财爻动，无全盘"}
+--- BQ-012 keys=['id', 'tradition', 'subject', 'context', 'provenance', 'language'] tradition=六爻 system=None
+ subj: {"name_or_desc": "占者（未具名，卜倭寇来否）", "gender": null}
+ q: 卜倭寇（倭寇来犯否）
+ asked: 丙子日
+ setting: 卜倭寇（倭寇来犯否）
+ att: {"casting_method": "六爻纳甲（原书只记月日与卦象，未记起卦工具）", "hexagram": "噬嗑", "chart_excerpt": "原文：「得噬嗑卦，鬼爻衰静」", "chart_complete": false, "completeness_basis": "原文只记卦名噬嗑与鬼爻衰静，无全盘"}
+--- BQ-013 keys=['id', 'tradition', 'subject', 'context', 'provenance', 'language'] tradition=六爻 system=None
+ subj: {"name_or_desc": "占者（未具名）", "gender": null}
+ q: 占晴（久雨占晴）
+ asked: 五月甲申日
+ setting: 占晴（久雨占晴）
+ att: {"casting_method": "六爻纳甲（原书只记月日与卦象，未记起卦工具）", "hexagram": "随 之 咸", "chart_excerpt": "原文：「得随之咸卦，申子两爻俱动，与日辰申字正合成父局」", "chart_complete": false, "completeness_basis": "原文记本卦随、变卦咸、申子两爻动成父局，无全盘"}
+--- BQ-014 keys=['id', 'tradition', 'subject', 'context', 'provenance', 'language'] tradition=六爻 system=None
+ subj: {"name_or_desc": "注家本人（寓江东欲返乡）", "gender": null}
+ q: 卜风（飓风何时止、行程可行否）
+ asked: 辛丑年秋丁亥日
+ setting: 卜风（飓风何时止、行程可行否）
+ att: {"casting_method": "六爻纳甲（原书只记月日与卦象，未记起卦工具）", "hexagram": "困 之 震", "chart_excerpt": "原文：「得困之震卦，兄弟、父母俱动，合住应爻」", "chart_complete": false, "completeness_basis": "原文记本卦困、变卦震、兄父俱动合应，无全盘"}
+--- BQ-015 keys=['id', 'tradition', 'subject', 'context', 'provenance', 'language'] tradition=六爻 system=None
+ subj: {"name_or_desc": "一地年景（卜年时）", "gender": null}
+ q: 卜年时（一岁风雨、五谷丰歉）
+ asked: 戊午年正月辛亥日
+ setting: 卜年时（一岁风雨、五谷丰歉）
+ att: {"casting_method": "六爻纳甲（原书只记月日与卦象，未记起卦工具）", "hexagram": "蒙 之 中孚", "chart_excerpt": "原文：「得蒙之中孚卦，水鬼与应上父爻俱动，伤克世爻，妻财又伏」", "chart_complete": false, "completeness_basis": "原文记本卦蒙、变卦中孚、水鬼与应上父动、财伏，无全盘"}
+--- BQ-016 keys=['id', 'tradition', 'subject', 'context', 'provenance', 'language'] tradition=六爻 system=None
+ subj: {"name_or_desc": "一地军民（卜倭乱）", "gender": null}
+ q: 卜倭乱（其年倭寇之乱如何）
+ asked: 甲寅年正月庚申日
+ setting: 卜倭乱（其年倭寇之乱如何）
+ att: {"casting_method": "六爻纳甲（原书只记月日与卦象，未记起卦工具）", "hexagram": "困 之 大过", "chart_excerpt": "原文：「得困之大过卦，六三午火鬼动，化出酉金，兄弟带刑克世」", "chart_complete": false, "completeness_basis": "原文记本卦困、变卦大过、六三午火鬼动化酉金，无全盘"}

@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-003",
+ "prediction_text": "方向：买得成（positive）。systems_used：horary卜卦占星。具体断语：能与卖主成交、购得 Master B. 的房屋，且筹款虽迟但赶得上付款——卖主之星太阳居7宫得金星接纳、7宫主即11宫主（希望）主交易有成，金星入相三合土星（4宫主，房屋本身）主契成；水星（2宫主，本人财）逆行主钱不能按原期调回、须拖延周转，应期以月计，约在钱款原定六个月调回期前后落定成交，卖价可往下谈、不必照卖主最初开价530镑全付。",
+ "basis": "卡面 tradition＝horary（逐字照录卡面值 horary）。\n依据：太阳（卖主）居7宫受纳、 Venus 入相三合 Saturn（4宫主＝房）、7宫主兼11宫主；逆行水星只压时间不压方向，土星除逆行迟滞外无大凶。初判成交，盘面无可指认翻转触发，终局维持。上升星座度数卡面自注 OCR 残损（note 明言 garbled），不据上升细节加断，置信因此下调。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

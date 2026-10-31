@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-001",
+ "prediction_text": "方向：父亲寿数已尽、此次复苏只是回光，短期内即逝（negative）。systems_used：周易筮占（蓍筮本宫取断，非纳甲全盘）。具体断语：兑之履，兑为口为言、变乾为天，庚辛日兑宫属金而断语自述『今日庚辛本宫火』克金，主气数被克绝；卧疾三年又昨日气尽，复苏无根。应期以日计：数日内（庚辛日一线）即终，不报愈期。",
+ "basis": "卡面 tradition＝筮占（逐字照录卡面值 筮占）。\n残损旗标：chart_complete=false，原文只记本卦兑、变卦履与断语援引之象（本宫火、兑口、变乾为天等），无六爻全盘；只据已给卦象与病史（卧疾三年、气尽复苏）作断并降置信，不臆补爻位。trigger 按非六爻例三项全 false。",
+ "confidence": 0.52,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

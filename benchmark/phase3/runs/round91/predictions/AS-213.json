@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-213",
+ "prediction_text": "方向：逃犯往正东方向去了，且终将被抓回（positive 于追回）。systems_used：horary卜卦占星。具体断语：逃犯以12宫头射手与木星（居狮子）为征，12宫星座、木星所在星座、天象限、月亮所在星座四证一致指东；月亮近上升、离三合木星而入相对冲太阳且两星皆角，主其行踪终究暴露于光天化日之下、难久藏；木星居8宫主其处境凶险，抓回时或带伤损之虞。应期以日计，东向追缉数日内有获。",
+ "basis": "卡面 tradition＝horary（逐字照录卡面值 horary）。\n依据：方位四证 unanimously eastward 取东；月亮与太阳角宫对冲主暴露，木星水星成相主消息有路，故断可回。木星居8宫只定其险不改追回方向。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

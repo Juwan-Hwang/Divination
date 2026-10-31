@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-012",
+ "prediction_text": "方向：倭寇不来（positive 于地方安宁）。systems_used：六爻纳甲（残盘）。具体断语：得噬嗑卦而鬼爻衰静——官鬼为寇盗祸患之主，衰而静主其势弱且不动，弱极不动则寇无来意、边报为虚惊。此问为近事，应期以日计，本旬内无寇至即可验，不来即无期可钉。",
+ "basis": "卡面 tradition＝六爻（逐字照录卡面值 六爻）。\n残损旗标：chart_complete=false，原文只记卦名噬嗑与鬼爻衰静，无全盘；丙子日仅知日辰。应期三步：尺度定日档，鬼衰静则冲实/填实/逢值三路皆无『寇来』候选，与终局（不来）自洽，故只报旬内验期不钉寇期。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "鬼爻衰静单一证词定不来，changed_main=false；reserve_used=false；无对冲证词，disputed=false。"
+ }
+}

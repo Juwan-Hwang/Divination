@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-013",
+ "prediction_text": "方向：久雨一时难晴，雨还要续下（negative 于即晴）。systems_used：六爻纳甲（残盘）。具体断语：随之咸，五月甲申日得申、子两爻俱动，与日辰申字正合而成父母局——父母主雨云，动而成局、日辰又助局，主雨势正成团、当下无晴象；卦中未见子孙发动车散雨云之据。应期以日计：待父母局被冲散之日（局待冲开）方转晴，残盘无全爻支序，只给『局散之日』路径，窗为数日内。",
+ "basis": "卡面 tradition＝六爻（逐字照录卡面值 六爻）。\n残损旗标：chart_complete=false，原文只记本卦随、变卦咸、申子两爻动成父局，无全盘。应期三步：尺度定日档，候选三路——逢值（父值日）主雨续不取作晴期、填实无空不取、冲实取义为冲散父局之日作转晴主坐标路径；支序未载不钉具体干支日。",
+ "confidence": 0.54,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "初判据父母成局主雨续，无子孙发动车晴之据可翻转，changed_main=false；reserve_used=false；动爻成父局证词单一指向雨，disputed=false。"
+ }
+}

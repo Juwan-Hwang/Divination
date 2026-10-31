@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-206",
+ "prediction_text": "方向：终能嫁给所慕之人，但须过阻滞与体面关、非顺遂即成（positive 而迟）。systems_used：horary卜卦占星。具体断语：问者之星水星逆行且焦伤（under beams），主她自身处于弱势、心虚退缩、名声上有顾虑；对方之星擢升、近六合金星，主男方条件好且另有周旋之人（卡面载其曾与另一人纠缠）；月亮离木星之刑而以三合把光转交水星（上升主），主终有转机接上。两主星仅半六合、宫位虽佳而相位弱，故成婚应期以月计、拖延后成。",
+ "basis": "卡面 tradition＝horary（逐字照录卡面值 horary）。\n依据：Moon translating Jupiter's light by trine to Mercury（上升主）为成事之桥；Mercury retrograde＋combust 只压过程与等级不翻方向（无翻转触发不改初判之迟成）。图题年份1646、日期 OCR 不可读（残损旗标），应期只给月量级。",
+ "confidence": 0.54,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

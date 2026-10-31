@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-210",
+ "prediction_text": "方向：能得到所求的官职/位置（positive）。systems_used：horary卜卦占星。具体断语：月亮居10宫（官位之宫）入相三合土星，土星在上升有擢升之尊、与金星（问者之星）互容，主官位一方接纳问者、事可落定；但11宫主太阳居7宫对冲上升且带南交点，主其所托之『友人』实为虚情假意、暗中作梗，成事靠月亮土星正线而非靠此友。应期以周/月计，月亮三合土星成相之时段为落定窗。",
+ "basis": "卡面 tradition＝horary（逐字照录卡面值 horary）。\n依据：Moon in 10th applying trine Saturn＋Saturn 与 Venus mutual reception 为求官成事正格；Sun lord11 with Cauda in 7th 只定假友之附断不翻主方向。本图与前图仅差四五分钟（卡面载），星位承前图读法。",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

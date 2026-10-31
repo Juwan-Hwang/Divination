@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-010",
+ "prediction_text": "方向：诉讼败（negative）——官司打不赢。systems_used：六爻纳甲（残盘）。具体断语：蒙之未济，卦终未济主事终不成；父母爻空亡，父母主文书状纸与官府文凭，空亡主证据/文书落空、无凭可恃，讼方在文书一线先输。应期：无确切日期与动爻，应期不钉日，只断此讼无成期、拖亦无益。",
+ "basis": "卡面 tradition＝六爻（逐字照录卡面值 六爻）。\n残损旗标：chart_complete=false，原文只记本卦蒙、变卦未济、父母空亡，无全盘、无确切日期（asked_at 明言未记日）；只据父母空亡与变卦未济作断并降置信。应期三步：尺度无从定日，冲实/填实/逢值三路皆无候选（父母何支空亡卡面未载），明写三路无候选，故不报应期。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "初判据父母空亡定败，无动爻材料可构成翻转触发，changed_main=false；无后备取法动用，reserve_used=false；卡面证词单一无对冲，disputed=false。"
+ }
+}

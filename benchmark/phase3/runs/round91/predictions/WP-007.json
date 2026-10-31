@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Direction: Donald Trump wins, decided by the Clinton email/Foundation scandal. Prediction: Trump defeats Hillary Clinton on 8 November 2016; what decides it is the email controversy — a late-cycle revival of the email/Foundation issue in the final weeks swings late deciders and depresses Clinton turnout, overturning her August polling lead. Timing: decided 8 November 2016, with the deciding swing in the final two weeks (day/month-scale as framed). systems_used: Tarot reading as framed on the card (Union Square reader's draw on the election) read with the card's stated public controversies.",
+ "basis": "Card carries no tradition/system field — this card asks who wins the 2016 election and what will decide it, put to a Manhattan tarot reader in August 2016; decided by tarot as framed on the card. Basis: the card itself foregrounds exactly two Clinton-side facts — the email controversy and the Clinton Foundation — as the live controversies at draw time; in a 'what will decide it' question those card-given facts are the deciding lever, and they cut against Clinton. Residual flag: the card does not list the actual cards drawn, so no card-by-card reading is invented; confidence held at 0.55 for that missing draw.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

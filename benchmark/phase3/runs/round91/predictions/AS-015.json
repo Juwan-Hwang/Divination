@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-015",
+ "prediction_text": "方向：丈夫还活着、终将归来（positive 于存亡），但归期迟、且她本人病势沉重未必等得到团圆。systems_used：horary卜卦占星。具体断语：丈夫之星太阳得 hayz 之位、全无 affliction，主其人在海上平安无灾；归期以月计、须待航程走完方回，非数周之事。附断她本人：6宫主土星逆行主旧病反复、火土将成凶相逼近月亮旧位，主她此后病转沉重，此为对她自身之附断，与丈夫存亡方向分开。",
+ "basis": "卡面未标注 tradition 字段，此问海上丈夫题据 Lilly 以太阳为夫星的卜卦散述自决 horary。\n依据：夫星 Sun in hayz free from all affliction 为存亡题决定性证词，卡面自注此点 Lilly 明述无歧义；其余星位卡面自注 OCR 部分残损（positions partly garbled），故归期只给月量级、不钉具体日，置信下调。应验对象复核：存亡断丈夫、病势断妻子本人，两条分主不相混。",
+ "confidence": 0.64,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

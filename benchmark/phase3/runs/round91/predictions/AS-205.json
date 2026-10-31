@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-205",
+ "prediction_text": "方向：病人将死于此病（negative，凶终）。systems_used：horary卜卦占星。具体断语：上升被8宫主之实体临宫所伤，6宫固定受困、6宫主在固定土象忧郁星座，太阳（时光之主）与6宫主土星在固定星座成正对冲，月亮近南交点且在上升受 affliction——生气之星全线受制、无一救应，病为固定忧郁之沉疴（土性积滞），终局主不治。应期以日/周计，图为1645年7月16日，凶终在图后数周内（固定星座主其期以周计）。",
+ "basis": "卡面 tradition＝horary（逐字照录卡面值 horary）。\n依据：古典病占生死以上升、上升主、月亮受8宫/6宫主凶伤且无吉救为死征，本例四项死征齐备且皆固定星座。上升星座字形卡面自注 OCR 残损不予断言（note 明言 glyph corrupt），断语不依赖该字形。",
+ "confidence": 0.76,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

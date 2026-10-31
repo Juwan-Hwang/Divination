@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-013",
+ "prediction_text": "方向：赃物可部分追回、贼可指认（positive 于追回一部分）。systems_used：horary卜卦占星。具体断语：贼星取角宫唯一游荡之木星、居7宫头天蝎（水象）——贼是与水上营生/仓囤搬运相关之人（船夫水手一类），非远来生人；赃物之星水星居双鱼（水象）、福点居巨蟹（水象），三证同指货物仍在近水潮湿之处（仓边/船边）未远运。月亮（福点主）六合水星、水星三合福点主尚有追索之线；应期以日计，事发后数日内寻回一部分，其余难全数。",
+ "basis": "卡面 tradition＝horary（逐字照录卡面值 horary）。\n依据：7宫为盗，角宫 peregrine 木星居7宫头取为贼星为 Lilly 盗问定例；水星2宫主虽 fall/detriment 却在自界、得月亮六合与福点三合，主物有回头之望但受损有亏，故只断部分追回。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

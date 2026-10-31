@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-015",
+ "prediction_text": "方向：这一年年景歉收、雨水为患（negative）。systems_used：六爻纳甲（残盘）。具体断语：蒙之中孚，水鬼与应上父母爻俱动伤克世爻——鬼主灾患、父主雨，雨患之灾动而克世，主全年雨水失调有涝患；妻财又伏藏不现，财主五谷收成，伏则谷不出、收成歉薄。量级：财伏加世受双动所克，歉取实歉而非仅平年。应期以年为单位（年时题），雨患集中于水鬼、父爻所主之夏秋雨季，坐标以季月计不钉日。",
+ "basis": "卡面 tradition＝六爻（逐字照录卡面值 六爻）。\n残损旗标：chart_complete=false，原文只记本卦蒙、变卦中孚、水鬼与应父动、财伏，无全盘。功量核算（R80-REV1现行节）：做功线——水鬼动克世（压制）、父动克世兼主雨（压制）、财伏不现（助成线缺位），主线为鬼父双动克世，定带为歉收；无让位依据。应期按年档表达（通则k）。",
+ "confidence": 0.64,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "初判据鬼父动克世、财伏定歉，无子孙救应材料，changed_main=false；reserve_used=false；诸证同向主歉，disputed=false。"
+ }
+}

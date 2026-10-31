@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-011",
+ "prediction_text": "方向：官讼大凶、占者败且破财（negative）。systems_used：六爻纳甲（残盘）。具体断语：离之贲，日辰虽扶起而官鬼冲克世爻——官鬼为讼祸之主，冲克世即祸临其身，纵有日辰一时扶持亦挡不住官鬼正冲；财爻又动，财动主破费耗财、且财能生鬼更助讼势。终局为败诉受罚兼破财，应期以日/月计，官鬼值日冲世之期为祸发坐标，残盘无支名不钉具体日。",
+ "basis": "卡面 tradition＝六爻（逐字照录卡面值 六爻）。\n残损旗标：chart_complete=false，原文只记本卦离、变卦贲、官鬼冲克世、财爻动，无全盘；戊子日仅知日辰。应期三步：尺度定为日/月档，冲实一路无空象不取、填实无候选、逢值（官鬼逢值冲世）为与终局同向一路取作主路径，余二路以无候选舍弃；支名未载故只给路径不钉日。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "初判据官鬼冲克世定凶，无化出材料可翻转，changed_main=false；未用后备取法，reserve_used=false；官鬼冲世与财动同向主祸，disputed=false。"
+ }
+}

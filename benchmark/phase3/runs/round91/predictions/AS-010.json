@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-010",
+ "prediction_text": "方向：仆人向西而去，且将被找回/自行返回（positive 于追回）。systems_used：horary卜卦占星。具体断语：水星为本盘仆人之星，居西方星座、南象限，主其人往城西偏南投奔藏匿；月亮在2宫自宫有力、仆星与上升主急趋三合出角宫，主事不拖久、人终回到主人一方。应期以日计，出走后一周内有消息或人回，方位先往西寻。",
+ "basis": "卡面未标注 tradition 字段，此逃仆题据 Lilly 以水星为仆星的卜卦散述自决 horary。\n依据：水星（仆）西方星座南象限定方向；月亮出走时与今同在西方星座主未远；仆星与上升主 hastening to trine 主重逢。无全图，归期只给一周量级。",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

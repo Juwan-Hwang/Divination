@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-007",
+ "prediction_text": "方向：Waller 一方得胜、Hopton 败（positive 对问者所问 Waller 方）。systems_used：horary卜卦占星。具体断语：月亮擢升与木星同在、太阳（Waller 军资助之主）居10宫正在擢升正度19°白羊，主 Waller 军势正盛；Hopton 之主星土星焦伤（sub radiis）、入落、无相位、游荡无援，9宫只有火星与南交点主其后援未备。此战当日（3月29日）即分胜负，应期为当日。",
+ "basis": "卡面 tradition＝horary（逐字照录卡面值 horary）。\n依据：Waller 以上升、月亮、木星、金星为征，Hopton 以7宫主土星为征；一方主星擢升合吉、对方主星 fall＋sub radiis＋peregrine＋无援，强弱悬殊无争议证词。",
+ "confidence": 0.8,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

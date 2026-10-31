@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-009",
+ "prediction_text": "方向：狗找得回（positive）。systems_used：horary卜卦占星。具体断语：往城的西方偏南方位搜寻——狗之主星在西方星座、南象限偏西，且与上升同三方属性主仍在伦敦城内未出城；月亮在风象星座被日光掩，主一时不见踪迹。应期以日计：太阳于次周一入相土星（上升主），主周一前后得狗或得确讯，搜寻窗为数日内。",
+ "basis": "卡面 tradition＝horary（逐字照录卡面值 horary）。\n依据：6宫及其主主小兽（狗），其主星方位证词指向西偏南、同 triplicity 主未离本城、入相三合6宫头主回归；日月居8宫主藏匿难见。卡面自注多处字形 OCR 残损（note: several glyphs garbled），细节方位只取卡面明述之西方偏南，不再细化街区，置信下调。",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

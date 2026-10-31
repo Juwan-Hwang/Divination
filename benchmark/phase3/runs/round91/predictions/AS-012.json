@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-012",
+ "prediction_text": "方向：得不到所求的教职/圣俸（negative）。systems_used：horary卜卦占星。具体断语：土星在上升受困直接坏此问；圣俸之星木星（9宫主）与上升主、月亮全无相位，上升主与月亮皆不在9宫，主星之间无转光、无集光、无互容——求职一线全断；月亮离三合而入相对冲水星（3宫主）主空费口舌、徒劳奔走。此事无成期，断为不成，不报应期。",
+ "basis": "卡面 tradition＝horary（逐字照录卡面值 horary）。\n依据：卡面列 Lilly 自述七项否定证词（无相位、无转光集光、无互容、主星不入9宫、土星 infortuning 上升、金星居7对冲上升），证词同向无一支持成事。部分星符 OCR 残损（note 明言 glyphs garbled），但否定证词为 Lilly 编号明述，不依赖残损字形。",
+ "confidence": 0.82,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

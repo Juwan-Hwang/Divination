@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-305",
+ "prediction_text": "方向：卡玛拉·哈里斯以极小差距赢得2024年美国总统选举。systems_used：西洋占星（选举日盘＋候选人行运，Astrology King 式公开分析体裁）。具体断语：占者自承两方盘面势均力敌、极难判断，本断只取其天平最后落点：哈里斯在选举日行运略占先机，特朗普盘面强项多在声势而非落点；胜负由少数摇摆州以极小票差决定，计票拖至投票日后数日方全定。",
+ "basis": "卡面未标注 tradition 字段，此例据 Astrology King 网站选举盘分析体裁自决为西洋占星。\n残损旗标：attachments 为空、卡面明载占者自承盘面势均力敌极难判断，故置信压至0.50、断语只给单一方向不加码细节，不臆补盘面。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-005",
+ "prediction_text": "方向：船还活着、未沉（positive）。systems_used：horary卜卦占星。具体断语：月亮（上升主，船身之主）擢升于金牛居11宫，入相三合7宫太阳、水星且近木星，主船体得救、人员尚存；土星在白羊刑上升主近，主曾遇险受损、被风浪所困而非沉没。方位与消息：船在西班牙沿海一带海面漂航/靠岸待援，消息将随船抵港或来信而至，应期以周计（月亮三合只差数分先成，主消息不远，数周内有确讯）。",
+ "basis": "卡面 tradition＝horary（逐字照录卡面值 horary）。\n依据：上升巨蟹以其上升度数主船体，月亮为上升主而 exalted、applying trine 太阳水星且近木星，为古典沉船问中主船存之强证；土星刑上升只定受险之量。南交点居9宫主远航有惊，不改存亡方向。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

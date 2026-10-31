@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-008",
+ "prediction_text": "方向：Essex 能取下 Reading（positive），但取法是围困迫降、非强攻破城。systems_used：horary卜卦占星。具体断语：Essex 之星火星虽入落却与月亮互容得力，守将之星土星（4宫主）入落无救，国王之星太阳居7宫固定星座主守方尚能撑持一阵；城中粮弹（木星、金星居5宫一线）有限，撑不到久围。应期以周计，围至4月下旬城方交出（卡面载城于27日交付，与围城进程相合之时段）。",
+ "basis": "卡面 tradition＝horary（逐字照录卡面值 horary）。\n依据：火星为天蝎上升之主（Essex）与月亮 reception、月亮 void 后入相火星（长升星座折算）主事终成；土星4宫主 fall 主守将弱。年份卡面自注有 1644/1643 印刷歧异（残损旗标：asked_at 注明 OCR 年份与史实围城年份不合），故应期只报月内时段不钉年份。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

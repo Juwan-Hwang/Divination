@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-014",
+ "prediction_text": "方向：贼不是主人所疑的女仆，而是个男子；钱难全数追回（negative 于全额追回）。systems_used：horary卜卦占星。具体断语：火星（上升主）与土星（居7宫盗位）各在自界自面，按例不得取为贼星；真正贼星为角宫无尊贵之水星，水星合土星、刑火星，两刑星皆阳性、月亮又在阳性星座近太阳——贼为男性，身份近水星之象（年轻男子/干文书跑腿营生之人，身边近处之人）。水星无尊贵又受两凶夹刑，主钱已散出、至多追回小部分。",
+ "basis": "卡面未标注 tradition 字段，此盗钱题据 Lilly 贼星取舍规则（有界面者不取）自决 horary。\n依据：Mars、Saturn 因 own terms and face 被 Lilly 明文排除，Mercury partile 合 Saturn 刑 Mars 取贼星；阳性证词三重主贼为男，纠正问者疑女仆之误认（应验对象复核：断的是贼之身份，落在水星所指男子，非被疑女子）。无日期，应期不报。",
+ "confidence": 0.56,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

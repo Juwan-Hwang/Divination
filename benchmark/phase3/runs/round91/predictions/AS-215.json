@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-215",
+ "prediction_text": "方向：Essex 此次西征将以惨败收场、无功而辱（negative）。systems_used：horary卜卦占星（事件图 event figure）。具体断语：上升主土星游荡入落居2宫，南交点坐上升，月亮入弱且离三合土星后入相刑火星（其2、9宫主，军资与远行），福点被7宫主水星（敌方之星）处置——主军资断绝、远征深入敌境而后路被抄，终局为全军受困、被迫缴械投降式的败局，本人蒙羞而还。应期以月计，出征后本季内（数月）败局落定。",
+ "basis": "卡面 tradition＝horary（逐字照录卡面值 horary）。\n依据：事件图以出征时刻论成败：lord Ascendant peregrine＋fall、Cauda in Ascendant、Moon in detriment applying square Mars、Fortune disposed by lord7，五项败征齐备无一吉救，等级取惨败足级（R80-REV1：做功主线为敌方处置福点＋上升主入落两线同向压制，无助成线让位）。",
+ "confidence": 0.78,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

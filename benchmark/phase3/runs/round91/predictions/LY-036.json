@@ -1,0 +1,12 @@
+{
+ "case_id": "LY-036",
+ "prediction_text": "方向：正（倾向可升，弱断）。断语：地泽临之风泽中孚，临卦有进临而上之象、变中孚主名实相符，卡面所注用神为世爻卯木与官星，坤宫空亡申酉——官星若不落空亡，升选可成；然逐爻、动爻全缺，此断只据卦名与用神注，证据等级最低。应期：跨度月档；窗口为本月内，主坐标月末旬内见升讯（无盘面取点依据，只到月尺度，不细化到日）。systems_used：六爻纳甲。",
+ "basis": "卡面未标注 tradition 字段，卡面另载 system＝liuyao；本例占升选，地泽临之风泽中孚，空亡申酉。\n卡面残损旗标（原文要点）：chart_note 明言『逐爻表不录』『本条只录可由卦名、卦宫、空亡与断语互证的资讯』，且 attachments 无 chart_lines_top_to_bottom、无 moving_lines——盘面严重残损。本断不臆补任何爻位，只据卦名、用神注与空亡作弱倾向，confidence 降至 0.35。对象：升选应于求测者本人。",
+ "confidence": 0.35,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "卡面明言逐爻表不录、装卦未能可靠还原，无从核世应与动爻，两读空间过大，存争议并大幅降置信"
+ }
+}

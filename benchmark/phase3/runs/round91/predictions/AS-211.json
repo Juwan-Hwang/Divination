@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-211",
+ "prediction_text": "方向：马找得回（positive），且马往正西方向去了。systems_used：horary卜卦占星。具体断语：马之主星（12宫主）逆行且急趋合问者2宫主（其财物之宫），逆行主回头、合2宫主主马回到主人财物之内；月亮居2宫、2宫头近处两星逆行同主归还之象。方向证词一边倒：12宫星座与马星所在星座皆指西，往 Henley 以西沿路寻访。应期以日计，数日内有马讯或马回。",
+ "basis": "卡面 tradition＝horary（逐字照录卡面值 horary）。\n依据：lord12 retrograde hastening to conjunction lord2 为失畜回归定式；方位以多证同指（plurality full west）取正西。7宫受 affliction 主或经人手转送，不改可回方向。",
+ "confidence": 0.66,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

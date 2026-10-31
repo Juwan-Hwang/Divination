@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-011",
+ "prediction_text": "方向：这门婚事能重新撮合并办成（positive）。systems_used：horary卜卦占星。具体断语：木星擢升入相六合土星（7宫主，男方），并把土星之力转交太阳（上升主，女方），中途无 prohibition/frustration 截断，主有人从中撮合、双方重新接上头；月亮与金星、金星与太阳互容主女方体面不失。应期以日计：男方宜于6月19日近午先行一步，土火成相之6月27日前后婚议落定。",
+ "basis": "卡面未标注 tradition 字段，此婚议复燃题据 Lilly 转光（translation of light）卜卦证词自决 horary。\n依据：Jupiter exalted applying sextile Saturn（男）且 transfer 至 Sun（女）、无阻断成相，古典主婚成之强式；月亮 void 后对冲太阳主先僵后通。卡面年份未载，应期只用卡面6月日期。",
+ "confidence": 0.74,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
