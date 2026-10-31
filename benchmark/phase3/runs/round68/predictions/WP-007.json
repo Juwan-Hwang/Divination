@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Direction: Donald Trump wins, decided by Clinton's scandals. Prediction: The Union Square tarot reading calls the 2016 election for Donald Trump over Hillary Clinton, and names the deciding factor as Clinton's email controversy and Clinton Foundation scandals fatally damaging her candidacy. Timing: decided 8 November 2016. Confidence low-moderate.",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决：题面体裁为塔罗选举占卜（卡面载曼哈顿联合广场塔罗师抽牌、电邮与基金会争议已公开）。｜列面：胜者与决定因素两面已断。｜证据：卡面特意并载两项已公开争议为背景事实，事实优先序下取『争议定胜负』一断；牌面未载于卡，具体牌义无据不报、只断方向与决定因素，置信下调。｜R61核：无牌面指针，断项粒度收束为方向+因素层级，不落牌义细节。",
+ "confidence": 0.45,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

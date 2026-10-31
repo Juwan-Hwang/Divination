@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-004",
+ "prediction_text": "方向：消息不实——国王并未攻下剑桥。诸角变动主传闻无根，七宫主（王方）入陷受克、命主星（议会方）居擢升，强弱倒置于传闻；月亮陷落 cadent 无力成事。应期以日计：数日内即知其伪，窗口为问后旬内、主坐标为紧接的消息到达之日。置信高。",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决：horary。\n依据：Lilly三宫/战事传闻占：被问方指示星入fall受affliction、问方星exaltation，传闻判伪。R61-REV1：日档应期，二路（月亮无力+七主入陷）同指速伪，无具体断项需粒度核。",
+ "confidence": 0.74,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-005",
+ "prediction_text": "Direction: Donald Trump wins. Prediction: The panel astrologer who had earlier picked Trump to win the Republican nomination out of 17 candidates also calls the general election for Trump: Trump defeats Hillary Clinton on 8 November 2016 despite the polling consensus. Timing: decided 8 November 2016. Confidence moderate-low.",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决：题面体裁为西洋占星选举预测（卡面特载一位预测者曾于17人初选阶段独排众议选中特朗普为共和党提名人）。｜列面：胜者主面已断。｜证据：卡面独载此人先前逆共识命中的记录，本题对标对象即此人之断，循其一贯取特朗普的路径断其胜，不随民调共识。｜R61核：应期为题面选举日；断项保留。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
