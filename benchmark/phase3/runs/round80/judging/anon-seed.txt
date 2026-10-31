@@ -1,0 +1,3 @@
+anon_id random seed: 20261088
+method: random.Random(SEED); for case_id in sorted(case_ids): anon = 'P3-%08x' % rng.getrandbits(32), redraw on collision.
+outcome source: judging/outcome-manifest.json ONLY (explicit manifest, R56 PREREG hygiene rule carried from R35).

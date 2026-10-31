@@ -71,6 +71,7 @@ status: validated-final
 - (m) 收束复核：交付前执行列面—证据双闸（正本见 references/calibration.md 第五节，R59-REV1，自 R60 起算效力）
 - (n) 双核复核：交付前对应期主坐标执行二路复推、对具体断项执行粒度收束核（正本见 references/calibration.md 第六节，R61-REV1，自 R62 起算效力）
 - (o) 方向对决：作断起手先行主断方向双路对决前置裁决（正本见 references/calibration.md 第七节，R78-REV1，自集成之次轮起算效力）
+- (p) 功量核算：凡断语含量级／等级／数量／分配类断项，写定前先列做功线清单、认定做功主线并按清单合计定等级带，分配类逐方对读（正本见 references/calibration.md 第八节，R80-REV1，自集成之次轮起算效力）
 
 
 ## 解卦输出格式（固定五段）
