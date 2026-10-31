@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-007",
+ "prediction_text": "断：沃勒（Sir William Waller，议会军）胜，霍普顿（Sir Ralph Hopton，王军）败。沃勒方指代：上升与月亮、木星、金星俱强，月亮居擢升与木星同在，太阳（其资财助力主）居十宫正在擢升正度（白羊19°），主其军得势得助；霍普顿指代土星居弱（fall）、被日光掩没（sub radiis）、无相无尊贵孤立，主其军失援自溃。1644年3月29日当日交战，胜负即日见分晓（日档单点事项，应期即当日）。",
+ "basis": "tradition标定：卡有tradition字段=horary；据题面体裁（Lilly《Christian Astrology》卜卦图例）自决为horary卜卦占星。\nsystems_used：西洋卜卦占星（Lilly古典规则，整宫制，指代星尊贵/接纳/相位成相）单用。\n指代链：攻守双方以一/七宫分派，卡面已明列双方指代星与尊贵对比，强弱悬殊。对象复核：胜方为沃勒一方、败方为霍普顿一方，逐名对回（f）。R61-REV1-2/-3：无独立应期主坐标（或应期仅由成相度数直读、无二路可换），已明写不适用处。断项粒度核：具体断项有盘面指针支撑者保留，无指针者已删/降格；方向性主断不降档。",
+ "confidence": 0.78,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-012",
+ "prediction_text": "Direction: Joe Biden wins the election AND ultimately takes the presidency — but only through a contested aftermath: the loser refuses a clean concession, mail-in-vote disputes and a period of national division/unrest follow before the transfer is settled. Timing: vote 3 November 2020; the contested phase runs through the weeks after, resolving by the January 2021 inauguration window.",
+ "basis": "tradition: no tradition field on card (noted as absent); decided from genre — astrology (Israel Hayom report, 2 Nov 2020, eve-of-election reading whose question is explicitly three-part: who wins, who actually takes the presidency, what follows).\nsystems_used: western astrology (mundane). Card faces: Biden leads most polls on the eve; the campaign is marked by mail-in voting disputes and warnings the loser may not accept the result. The three-part question is itself the face structure: a reading that separated 'wins' from 'takes office' implies an interval of contest between them — hence the layered answer (win: Biden; accession: Biden, after dispute; aftermath: division/unrest), each layer answered separately per the layered-outcome rule rather than collapsed. Faces: main = winner (Biden); accession face = Biden after contest; aftermath face = unrest/division. No chart data on card beyond these faces; confidence mid. Timing uses the constitutional calendar faces (election day, January inauguration) as the window — R61-REV1: window-level timing kept, no invented point date; granularity: aftermath item supported by the card's own dispute warnings (1 pointer), expressed at tendency level.",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

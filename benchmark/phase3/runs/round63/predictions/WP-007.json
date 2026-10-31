@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Direction: Donald Trump wins the 2016 election — and what decides it is the Clinton email affair: a late, damaging resurgence of the email/Foundation controversy in the final stretch breaks Clinton's lead. Timing: decided 8 November 2016, with the deciding blow landing in the last weeks of the campaign (late October window).",
+ "basis": "tradition: no tradition field on card (noted as absent); decided from genre — tarot (a Manhattan tarot reader consulted in Union Square Park, cards drawn on the election; The Tab, 26 Aug 2016). NOTE: the card does NOT list the actual cards drawn — input is incomplete for tarot (no spread, no card faces); per method, no spread is fabricated.\nsystems_used: tarot (intended; spread not supplied) with fact-priority fallback. Card faces available: Clinton leads August polls; her email controversy and the Clinton Foundation are already public controversies (the card itself foregrounds exactly these two faces as the live liabilities). The question asks both winner and deciding factor; the only election-specific liability faces on the card attach to Clinton, so the reading resolves: Trump's win, decided by the email issue's return. Faces: main face = winner (Trump); deciding-factor face = email controversy (Foundation face listed as secondary, not chosen — the email face is the one with an ongoing investigative timeline). Confidence lowered for the missing spread (recorded here as the incompleteness). R61-REV1-2: timing window (late-October) is narrative, no computed coordinate — granularity of 'late October' kept as window not point; R61-REV1-4: deciding-factor item has 1 direct pointer (card-foregrounded controversy) — expressed as the campaign's deciding issue without finer invented detail.",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

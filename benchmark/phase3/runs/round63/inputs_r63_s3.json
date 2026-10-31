@@ -1,0 +1,2392 @@
+[
+ {
+  "uid": "LY-009",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）"
+  },
+  "context": {
+   "question": "占母血崩一年有餘",
+   "asked_at": "戌月己卯日",
+   "setting": "為母占病：血崩已一年有餘",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "天火同人之雷水解",
+    "moving_lines": "上爻子孫戌土○、五爻妻財申金○、三爻官鬼亥水○（世）、二爻子孫丑土ㄨ、初爻父母卯木○動",
+    "chart_lines_top_to_bottom": [
+     "子孫戌土○應　子孫戌土⚋",
+     "妻財申金○　　妻財申金⚋",
+     "兄弟午火⚊　　兄弟午火⚊",
+     "官鬼亥水○世　兄弟午火⚋",
+     "子孫丑土ㄨ　　子孫辰土⚊",
+     "父母卯木○　　父母寅木⚋"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》"
+  }
+ },
+ {
+  "uid": "LY-01",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "候文书者（姓名不详，书中未载）"
+  },
+  "context": {
+   "question": "候文书，何日得领？",
+   "asked_at": "卯月 壬辰日",
+   "attachments": {
+    "hexagram": "山火贲（艮上离下，静卦）",
+    "lines_top_to_bottom": [
+     "官鬼寅木 ⚊",
+     "妻财子水 ⚋",
+     "兄弟戌土 ⚋ 应",
+     "妻财亥水 ⚊",
+     "兄弟丑土 ⚋",
+     "官鬼卯木 ⚊ 世"
+    ],
+    "note": "排盘据 benchmark/cases/input/LY-01.md 照录",
+    "chart_lines_top_to_bottom": [
+     "官鬼寅木⚊",
+     "妻財子水⚋",
+     "兄弟戌土⚋應",
+     "妻財亥水⚊",
+     "兄弟丑土⚋",
+     "官鬼卯木⚊世"
+    ],
+    "moving_lines": "無動爻（靜卦）",
+    "date_ganzhi": "卯月壬辰日",
+    "空亡": "午未",
+    "hidden_lines": "二爻兄弟丑土下伏父母午火"
+   }
+  },
+  "provenance": {
+   "book": "增删卜易"
+  },
+  "notes": {
+   "completion_grade": {
+    "source_locator": "《卜筮正宗》校正全本（四库存目纳甲汇刊2）卷十三·第九问附占验例063，书页222（PDF页237）",
+    "fields": {
+     "chart_lines_top_to_bottom": {
+      "grade": "直载",
+      "basis": "本例 inputs8 逐爻表已在变体键 lines_top_to_bottom 下照录，本次按标准键名重录并与原书装卦表核对一致，定位：《卜筮正宗》校正全本（四库存目纳甲汇刊2）卷十三·第九问附占验例063，书页222（PDF页237）。"
+     },
+     "moving_lines": {
+      "grade": "直载",
+      "basis": "原书装卦表无动爻记号，静卦。"
+     },
+     "date_ganzhi": {
+      "grade": "直载",
+      "basis": "原书例首明载「卯月壬辰日」，与 inputs8 asked_at 一致。"
+     },
+     "空亡": {
+      "grade": "推算复原",
+      "basis": "由直载日干支壬辰按旬空规则推得午未；原书未另标。"
+     },
+     "hidden_lines": {
+      "grade": "直载",
+      "basis": "原书装卦表二爻地支后直注「丑土伏午」，即父母午火伏于二爻兄弟丑土之下；六亲依艮宫首卦同位配定。"
+     }
+    },
+    "completed_by": "phase3 inputs9 C轨数据角补录（2026-10-30，顺手组）",
+    "scope_note": "仅补 attachments 盘面事实字段；既有 lines_top_to_bottom 等字段保留原样。"
+   }
+  }
+ },
+ {
+  "id": "LY-010",
+  "system": "liuyao",
+  "master": "野鶴老人",
+  "era": "清初（書成於清初，李文輝增刪）",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占試中否",
+   "asked_at": "巳月乙丑日",
+   "setting": "問考試能否得中",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "兌為澤之天水訟",
+    "moving_lines": "初爻官鬼巳火○、上爻父母未土ㄨ（世）動",
+    "chart_lines_top_to_bottom": [
+     "父母未土ㄨ世　父母戌土⚊",
+     "兄弟酉金⚊　　兄弟申金⚊",
+     "子孫亥水⚊　　官鬼午火⚊",
+     "父母丑土⚋應　官鬼午火⚋",
+     "妻財卯木⚊　　父母辰土⚊",
+     "官鬼巳火○　　妻財寅木⚋"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之二·進神退神章第二十九"
+  },
+  "license_status": "public-domain",
+  "redistributable": true,
+  "language": "zh-Hant",
+  "notes": {
+   "tags": [],
+   "comment": "",
+   "cross_ref": null
+  }
+ },
+ {
+  "id": "LY-011",
+  "system": "liuyao",
+  "master": "野鶴老人",
+  "era": "清初（書成於清初，李文輝增刪）",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占母路隔千里何時來",
+   "asked_at": "未月丁丑日",
+   "setting": "母親遠在千里之外，問何時能來；求測者自言有妹無弟",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "火天大有之水風井",
+    "moving_lines": "上爻官鬼巳火○（應）、五爻父母未土ㄨ、四爻兄弟酉金○、初爻子孫子水○動",
+    "chart_lines_top_to_bottom": [
+     "官鬼巳火○應　子孫子水⚋",
+     "父母未土ㄨ　　父母戌土⚊",
+     "兄弟酉金○　　兄弟申金⚋",
+     "父母辰土⚊世　兄弟酉金⚊",
+     "妻財寅木⚊　　子孫亥水⚊",
+     "子孫子水○　　父母丑土⚋"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之二·進神退神章第二十九"
+  },
+  "license_status": "public-domain",
+  "redistributable": true,
+  "language": "zh-Hant",
+  "notes": {
+   "tags": [],
+   "comment": "",
+   "cross_ref": null
+  }
+ },
+ {
+  "uid": "LY-012",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）"
+  },
+  "context": {
+   "question": "占開金銀器皿店",
+   "asked_at": "未月辛丑日",
+   "setting": "問開金銀器皿店生意吉凶，並請擇開張日",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "火雷噬嗑之水雷屯",
+    "moving_lines": "上爻子孫巳火○、五爻妻財未土ㄨ（世）、四爻官鬼酉金○動",
+    "chart_lines_top_to_bottom": [
+     "子孫巳火○　　父母子水⚋",
+     "妻財未土ㄨ世　妻財戌土⚊",
+     "官鬼酉金○　　官鬼申金⚋",
+     "妻財辰土⚋　　妻財辰土⚋",
+     "兄弟寅木⚋應　兄弟寅木⚋",
+     "父母子水⚊　　父母子水⚊"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》"
+  }
+ },
+ {
+  "uid": "LY-013",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）"
+  },
+  "context": {
+   "question": "占夫病（妻占夫，夫命癸亥）",
+   "asked_at": "申月戊辰日",
+   "setting": "妻為病夫占，夫本命癸亥",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "天火同人之離為火（卦名原文未直書，據所附裝卦推得）",
+    "moving_lines": "五爻妻財申金○動",
+    "chart_lines_top_to_bottom": [
+     "子孫戌土⚊應　兄弟巳火⚊",
+     "妻財申金○　　子孫未土⚋",
+     "兄弟午火⚊　　妻財酉金⚊",
+     "官鬼亥水⚊世　官鬼亥水⚊",
+     "子孫丑土⚋　　子孫丑土⚋",
+     "父母卯木⚊　　父母卯木⚊"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》"
+  }
+ },
+ {
+  "id": "LY-014",
+  "system": "liuyao",
+  "master": "野鶴老人",
+  "era": "清初（書成於清初，李文輝增刪）",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占求財",
+   "asked_at": "未月庚子日",
+   "setting": "問求財得否及何時到手",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "風天小畜（靜卦）",
+    "moving_lines": "無動爻；妻財兩現：應爻妻財未土臨月建、妻財辰土值旬空",
+    "chart_lines_top_to_bottom": [
+     "兄弟卯木⚊",
+     "子孫巳火⚊",
+     "妻財未土⚋應",
+     "妻財辰土⚊",
+     "兄弟寅木⚊",
+     "父母子水⚊世"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之二·兩現章第三十二"
+  },
+  "license_status": "public-domain",
+  "redistributable": true,
+  "language": "zh-Hant",
+  "notes": {
+   "tags": [],
+   "comment": "",
+   "cross_ref": null
+  }
+ },
+ {
+  "uid": "LY-015",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）"
+  },
+  "context": {
+   "question": "占升遷",
+   "asked_at": "未月甲午日",
+   "setting": "問升遷吉凶與應期",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "地水師之風水渙",
+    "moving_lines": "上爻父母酉金ㄨ（應）、五爻兄弟亥水ㄨ動",
+    "chart_lines_top_to_bottom": [
+     "父母酉金ㄨ應　子孫卯木⚊",
+     "兄弟亥水ㄨ　　妻財巳火⚊",
+     "官鬼丑土⚋　　官鬼未土⚋",
+     "妻財午火⚋世　妻財午火⚋",
+     "官鬼辰土⚊　　官鬼辰土⚊",
+     "子孫寅木⚋　　子孫寅木⚋"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》"
+  }
+ },
+ {
+  "id": "LY-016",
+  "system": "liuyao",
+  "master": "野鶴老人",
+  "era": "清初（書成於清初，李文輝增刪）",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占訟",
+   "asked_at": "丑月壬子日",
+   "setting": "問訴訟（官司）吉凶，當日將見官受審",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "天澤履（靜卦；卦名原文未直書，據所附裝卦推得）",
+    "moving_lines": "無動爻；官鬼午火兩現，世爻官鬼午火",
+    "chart_lines_top_to_bottom": [
+     "父母戌土⚊",
+     "兄弟申金⚊應",
+     "官鬼午火⚊",
+     "兄弟申金⚊",
+     "官鬼午火⚋世",
+     "父母辰土⚋"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之二·增刪黃金策千金賦章第三十四（章界據通行本體例判定，維基文庫本此段未標章名）"
+  },
+  "license_status": "public-domain",
+  "redistributable": true,
+  "language": "zh-Hant",
+  "notes": {
+   "tags": [],
+   "comment": "卦名據裝卦推定，已在 casting 註明",
+   "cross_ref": null
+  }
+ },
+ {
+  "id": "LY-017",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）"
+  },
+  "context": {
+   "question": "占升遷",
+   "asked_at": "酉月乙巳日",
+   "setting": "問升遷",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "澤地萃之天地否",
+    "moving_lines": "上爻父母未土ㄨ動",
+    "chart_lines_top_to_bottom": [
+     "父母未土ㄨ　　父母戌土⚊",
+     "兄弟酉金⚊應　兄弟申金⚊",
+     "子孫亥水⚊　　官鬼午火⚊",
+     "妻財卯木⚋　　妻財卯木⚋",
+     "官鬼巳火⚋世　官鬼巳火⚋",
+     "父母未土⚋　　父母未土⚋"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之二·增刪黃金策千金賦章第三十四（章界據通行本體例判定，同上）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "uid": "LY-018",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）"
+  },
+  "context": {
+   "question": "占地下忽然起五色之光，疑有古窖（藏財）",
+   "asked_at": "辰月丙辰日",
+   "setting": "宅地忽起五色之光，眾人疑地下藏有窖財，議論紛紛",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "風火家人之澤山咸（卦名原文未直書，據所附裝卦推得）",
+    "moving_lines": "初爻父母巳火○、三爻兄弟丑土ㄨ、四爻子孫酉金○（世）動",
+    "chart_lines_top_to_bottom": [
+     "父母巳火⚊　　官鬼寅木⚊",
+     "兄弟未土⚋　　妻財子水⚋",
+     "子孫酉金○世　兄弟戌土⚋",
+     "兄弟丑土ㄨ　　子孫酉金⚊",
+     "官鬼卯木⚊　　妻財亥水⚊",
+     "父母巳火○應　兄弟丑土⚋"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》"
+  }
+ },
+ {
+  "id": "LY-019",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）"
+  },
+  "context": {
+   "question": "占小舟過關恐盤阻",
+   "asked_at": "辰月戊子日",
+   "setting": "乘小舟過關，恐遭盤查阻滯",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "水地比之澤山咸",
+    "moving_lines": "四爻子孫申金ㄨ、三爻官鬼卯木ㄨ（世）動",
+    "chart_lines_top_to_bottom": [
+     "妻財子水⚋應　兄弟未土⚋",
+     "兄弟戌土⚊　　子孫酉金⚊",
+     "子孫申金ㄨ　　妻財亥水⚊",
+     "官鬼卯木ㄨ世　子孫申金⚊",
+     "父母巳火⚋　　父母午火⚋",
+     "兄弟未土⚋　　兄弟辰土⚋"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之二·增刪黃金策千金賦章第三十四（章界據通行本體例判定，同上）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "LY-021",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）"
+  },
+  "context": {
+   "question": "占何日雨",
+   "asked_at": "午月戊午日",
+   "setting": "久旱/望雨，友人持卦同參，友人主大旱之象，野鶴駁之",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "地風升之雷風恆",
+    "moving_lines": "世爻妻財丑土ㄨ動",
+    "chart_lines_top_to_bottom": [
+     "官鬼酉金⚋　　妻財戌土⚋",
+     "父母亥水⚋　　官鬼申金⚋",
+     "妻財丑土ㄨ世　子孫午火⚊",
+     "官鬼酉金⚊　　官鬼酉金⚊",
+     "父母亥水⚊　　父母亥水⚊",
+     "妻財丑土⚋應　妻財丑土⚋"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之二·增刪黃金策千金賦章第三十四（章界據通行本體例判定，同上）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "LY-022",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）"
+  },
+  "context": {
+   "question": "占身病（自占）",
+   "asked_at": "申月戊寅日",
+   "setting": "自占本身疾病，病已重；斷中兼及其妻",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "坤為地之水地比",
+    "moving_lines": "五爻妻財亥水ㄨ動",
+    "chart_lines_top_to_bottom": [
+     "子孫酉金⚋世　妻財子水⚋",
+     "妻財亥水ㄨ　　兄弟戌土⚊",
+     "兄弟丑土⚋　　子孫申金⚋",
+     "官鬼卯木⚋應　官鬼卯木⚋",
+     "父母巳火⚋　　父母巳火⚋",
+     "兄弟未土⚋　　兄弟未土⚋"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之二·增刪黃金策千金賦章第三十四（章界據通行本體例判定，同上）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "uid": "LY-023",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）"
+  },
+  "context": {
+   "question": "占母病",
+   "asked_at": "未月丁亥日",
+   "setting": "為母占病；其子初生兩月",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "坤為地之山地剝",
+    "moving_lines": "上爻子孫酉金ㄨ（世）動",
+    "chart_lines_top_to_bottom": [
+     "子孫酉金ㄨ世　官鬼寅木⚊",
+     "妻財亥水⚋　　妻財子水⚋",
+     "兄弟丑土⚋　　兄弟戌土⚋",
+     "官鬼卯木⚋應　官鬼卯木⚋",
+     "父母巳火⚋　　父母巳火⚋",
+     "兄弟未土⚋　　兄弟未土⚋"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》"
+  }
+ },
+ {
+  "id": "LY-024",
+  "system": "liuyao",
+  "master": "野鶴老人",
+  "era": "清初（書成於清初，李文輝增刪）",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占子病（續 LY-023）",
+   "asked_at": "酉月丁卯日",
+   "setting": "前占母病時已預警其子八月有災；至酉月其子病重，再占",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "水火既濟之澤火革",
+    "moving_lines": "四爻父母申金ㄨ動",
+    "chart_lines_top_to_bottom": [
+     "兄弟子水⚋應　官鬼未土⚋",
+     "官鬼戌土⚊　　父母酉金⚊",
+     "父母申金ㄨ　　兄弟亥水⚊",
+     "兄弟亥水⚊世　兄弟亥水⚊",
+     "官鬼丑土⚋　　官鬼丑土⚋",
+     "子孫卯木⚊　　子孫卯木⚊"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之二·增刪黃金策千金賦章第三十四（章界據通行本體例判定，同上）"
+  },
+  "license_status": "public-domain",
+  "redistributable": true,
+  "language": "zh-Hant",
+  "notes": {
+   "tags": [],
+   "comment": "與 LY-023 為連續關聯案例",
+   "cross_ref": null
+  }
+ },
+ {
+  "id": "LY-025",
+  "system": "liuyao",
+  "master": "野鶴老人",
+  "era": "清初（書成於清初，李文輝增刪）",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "因連日雪，占何日晴",
+   "asked_at": "子月己亥日",
+   "setting": "連日下雪，問何日放晴",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "風地觀之水地比",
+    "moving_lines": "上爻妻財卯木○動",
+    "chart_lines_top_to_bottom": [
+     "妻財卯木○　　子孫子水⚋",
+     "官鬼巳火⚊　　父母戌土⚊",
+     "父母未土⚋世　兄弟申金⚋",
+     "妻財卯木⚋　　妻財卯木⚋",
+     "官鬼巳火⚋　　官鬼巳火⚋",
+     "父母未土⚋應　父母未土⚋"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之二·天時章第三十五"
+  },
+  "license_status": "public-domain",
+  "redistributable": true,
+  "language": "zh-Hant",
+  "notes": {
+   "tags": [],
+   "comment": "",
+   "cross_ref": null
+  }
+ },
+ {
+  "uid": "LY-026",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）"
+  },
+  "context": {
+   "question": "因連日晴，占何日雨",
+   "asked_at": "巳月甲寅日",
+   "setting": "連日晴天，問何日下雨",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "水火既濟之水山蹇",
+    "moving_lines": "初爻子孫卯木○動",
+    "chart_lines_top_to_bottom": [
+     "兄弟子水⚋應　兄弟子水⚋",
+     "官鬼戌土⚊　　官鬼戌土⚊",
+     "父母申金⚋　　父母申金⚋",
+     "兄弟亥水⚊世　父母申金⚊",
+     "官鬼丑土⚋　　妻財午火⚋",
+     "子孫卯木○　　官鬼辰土⚋"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》"
+  }
+ },
+ {
+  "uid": "LY-027",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者/所占之人（原書多未具名）"
+  },
+  "context": {
+   "question": "占弟病，業已臨危",
+   "asked_at": "辰月、申日（據斷語「辰月克之，申日生之」）",
+   "setting": "為弟占病，病情已臨危",
+   "attachments": {
+    "casting_method": "六爻納甲（以錢代蓍）",
+    "hexagram": "水火既濟之澤火革（坎宮，空亡辰巳，缺爻午財）",
+    "yongshen": "兄弟亥水為用神",
+    "chart_note": "在線本裝卦表為雙欄排版經 OCR 轉錄後行序錯亂，逐爻裝卦未能可靠還原；本條只錄可由卦名、卦宮、空亡與斷語互證的資訊，逐爻表不錄。",
+    "chart_lines_top_to_bottom": [
+     "兄弟子水⚋應　官鬼未土⚋",
+     "官鬼戌土⚊　父母酉金⚊",
+     "父母申金ㄨ　兄弟亥水⚊",
+     "兄弟亥水⚊世　兄弟亥水⚊",
+     "官鬼丑土⚋　官鬼丑土⚋",
+     "子孫卯木⚊　子孫卯木⚊"
+    ],
+    "moving_lines": "四爻父母申金ㄨ動",
+    "date_ganzhi": "辰月丙申日",
+    "空亡": "辰巳",
+    "hidden_lines": "三爻兄弟亥水下伏妻財午火"
+   }
+  },
+  "provenance": {
+   "book": "《卜筮正宗》"
+  },
+  "notes": {
+   "completion_grade": {
+    "source_locator": "《卜筮正宗》校正全本（四库存目纳甲汇刊2）卷十三/十四·十八问答附占验例001，书页197（PDF页212）",
+    "fields": {
+     "chart_lines_top_to_bottom": {
+      "grade": "直载",
+      "basis": "原书装卦表明载逐爻六亲、地支五行、爻象、世应与动爻记号，定位：《卜筮正宗》校正全本（四库存目纳甲汇刊2）卷十三/十四·十八问答附占验例001，书页197（PDF页212）。变卦栏非动爻行原书未逐行印出，其六亲地支由变卦纳甲依本宫五行配定，此部分属推算复原。"
+     },
+     "moving_lines": {
+      "grade": "直载",
+      "basis": "原书装卦表动爻记号（○/×）及化爻地支明载；并经本变卦爻象差复核一致。"
+     },
+     "date_ganzhi": {
+      "grade": "直载",
+      "basis": "原书例首明载「辰月丙申日」。"
+     },
+     "空亡": {
+      "grade": "推算复原",
+      "basis": "由直载日干支「丙申」按旬空规则推得，与 inputs8 卦名括注所载空亡互证一致。"
+     },
+     "hidden_lines": {
+      "grade": "推算复原",
+      "basis": "本卦六亲缺妻财不现；按伏神规则取本宫首卦（坎宫首卦）同位之爻伏于本卦同位爻下，标准规则确定性推得。原书装卦表未印伏神栏。"
+     }
+    },
+    "completed_by": "phase3 inputs9 C轨数据角补录（2026-10-30，顺手组：与C类14例同源同法）",
+    "scope_note": "仅补 attachments 盘面事实字段；题面文字与既有字段一字未改。"
+   }
+  }
+ },
+ {
+  "uid": "LY-028",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者/所占之人（原書多未具名）"
+  },
+  "context": {
+   "question": "占弟被訟，吉凶何如",
+   "asked_at": "午月、未日（據斷語）；太歲辰年",
+   "setting": "為弟占被訟（官司纏訟）之吉凶",
+   "attachments": {
+    "casting_method": "六爻納甲（以錢代蓍）",
+    "hexagram": "澤水困之雷風恆（兌宮，空亡寅卯）",
+    "yongshen": "兄弟酉金為用神",
+    "chart_note": "在線本裝卦表為雙欄排版經 OCR 轉錄後行序錯亂，逐爻裝卦未能可靠還原；本條只錄可由卦名、卦宮、空亡與斷語互證的資訊，逐爻表不錄。",
+    "chart_lines_top_to_bottom": [
+     "父母未土⚋　父母戌土⚋",
+     "兄弟酉金○　兄弟申金⚋",
+     "子孫亥水⚊應　官鬼午火⚊",
+     "官鬼午火ㄨ　兄弟酉金⚊",
+     "父母辰土⚊　子孫亥水⚊",
+     "妻財寅木⚋世　父母丑土⚋"
+    ],
+    "moving_lines": "三爻官鬼午火ㄨ動、五爻兄弟酉金○動",
+    "date_ganzhi": "午月丁未日",
+    "空亡": "寅卯"
+   }
+  },
+  "provenance": {
+   "book": "《卜筮正宗》"
+  },
+  "notes": {
+   "completion_grade": {
+    "source_locator": "《卜筮正宗》校正全本（四库存目纳甲汇刊2）卷十三/十四·十八问答附占验例002，书页198（PDF页213）",
+    "fields": {
+     "chart_lines_top_to_bottom": {
+      "grade": "直载",
+      "basis": "原书装卦表明载逐爻六亲、地支五行、爻象、世应与动爻记号，定位：《卜筮正宗》校正全本（四库存目纳甲汇刊2）卷十三/十四·十八问答附占验例002，书页198（PDF页213）。变卦栏非动爻行原书未逐行印出，其六亲地支由变卦纳甲依本宫五行配定，此部分属推算复原。"
+     },
+     "moving_lines": {
+      "grade": "直载",
+      "basis": "原书装卦表动爻记号（○/×）及化爻地支明载；并经本变卦爻象差复核一致。"
+     },
+     "date_ganzhi": {
+      "grade": "直载",
+      "basis": "原书例首明载「午月丁未日」。"
+     },
+     "空亡": {
+      "grade": "推算复原",
+      "basis": "由直载日干支「丁未」按旬空规则推得，与 inputs8 卦名括注所载空亡互证一致。"
+     }
+    },
+    "completed_by": "phase3 inputs9 C轨数据角补录（2026-10-30，顺手组：与C类14例同源同法）",
+    "scope_note": "仅补 attachments 盘面事实字段；题面文字与既有字段一字未改。"
+   }
+  }
+ },
+ {
+  "uid": "LY-029",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者/所占之人（原書多未具名）"
+  },
+  "context": {
+   "question": "一人占自病",
+   "asked_at": "月建沖世（巳月，據斷語「又逄月沖」推）；日辰原文未明記",
+   "setting": "自占本身疾病",
+   "attachments": {
+    "casting_method": "六爻納甲（以錢代蓍）",
+    "hexagram": "澤風大過之火風鼎（震宮，空亡辰巳）",
+    "yongshen": "世爻亥水為用神",
+    "chart_note": "在線本裝卦表為雙欄排版經 OCR 轉錄後行序錯亂，逐爻裝卦未能可靠還原；本條只錄可由卦名、卦宮、空亡與斷語互證的資訊，逐爻表不錄。",
+    "chart_lines_top_to_bottom": [
+     "妻財未土ㄨ　子孫巳火⚊",
+     "官鬼酉金○　妻財未土⚋",
+     "父母亥水⚊世　官鬼酉金⚊",
+     "官鬼酉金⚊　官鬼酉金⚊",
+     "父母亥水⚊　父母亥水⚊",
+     "妻財丑土⚋應　妻財丑土⚋"
+    ],
+    "moving_lines": "五爻官鬼酉金○動、上爻妻財未土ㄨ動",
+    "date_ganzhi": "巳月乙未日",
+    "空亡": "辰巳"
+   }
+  },
+  "provenance": {
+   "book": "《卜筮正宗》"
+  },
+  "notes": {
+   "completion_grade": {
+    "source_locator": "《卜筮正宗》校正全本（四库存目纳甲汇刊2）卷十三/十四·十八问答附占验例004，书页198（PDF页213）",
+    "fields": {
+     "chart_lines_top_to_bottom": {
+      "grade": "直载",
+      "basis": "原书装卦表明载逐爻六亲、地支五行、爻象、世应与动爻记号，定位：《卜筮正宗》校正全本（四库存目纳甲汇刊2）卷十三/十四·十八问答附占验例004，书页198（PDF页213）。变卦栏非动爻行原书未逐行印出，其六亲地支由变卦纳甲依本宫五行配定，此部分属推算复原。"
+     },
+     "moving_lines": {
+      "grade": "直载",
+      "basis": "原书装卦表动爻记号（○/×）及化爻地支明载；并经本变卦爻象差复核一致。"
+     },
+     "date_ganzhi": {
+      "grade": "直载",
+      "basis": "原书例首明载「巳月乙未日」。"
+     },
+     "空亡": {
+      "grade": "推算复原",
+      "basis": "由直载日干支「乙未」按旬空规则推得，与 inputs8 卦名括注所载空亡互证一致。"
+     }
+    },
+    "completed_by": "phase3 inputs9 C轨数据角补录（2026-10-30，顺手组：与C类14例同源同法）",
+    "scope_note": "仅补 attachments 盘面事实字段；题面文字与既有字段一字未改。"
+   }
+  }
+ },
+ {
+  "uid": "LY-030",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者/所占之人（原書多未具名）"
+  },
+  "context": {
+   "question": "占開店",
+   "asked_at": "世爻臨酉得令（據斷語，月日未明記）",
+   "setting": "問開店營業吉凶",
+   "attachments": {
+    "casting_method": "六爻納甲（以錢代蓍）",
+    "hexagram": "艮為山之地火明夷（艮宮，空亡子丑）",
+    "yongshen": "世爻（寅木官鬼）為主",
+    "chart_note": "在線本裝卦表為雙欄排版經 OCR 轉錄後行序錯亂，逐爻裝卦未能可靠還原；本條只錄可由卦名、卦宮、空亡與斷語互證的資訊，逐爻表不錄。",
+    "chart_lines_top_to_bottom": [
+     "官鬼寅木○世　子孫酉金⚋",
+     "妻財子水⚋　妻財亥水⚋",
+     "兄弟戌土⚋　兄弟丑土⚋",
+     "子孫申金⚊應　妻財亥水⚊",
+     "父母午火⚋　兄弟丑土⚋",
+     "兄弟辰土ㄨ　官鬼卯木⚊"
+    ],
+    "moving_lines": "初爻兄弟辰土ㄨ動、上爻官鬼寅木○（世）動",
+    "date_ganzhi": "寅月辛酉日",
+    "空亡": "子丑"
+   }
+  },
+  "provenance": {
+   "book": "《卜筮正宗》"
+  },
+  "notes": {
+   "completion_grade": {
+    "source_locator": "《卜筮正宗》校正全本（四库存目纳甲汇刊2）卷十三/十四·十八问答附占验例007，书页200（PDF页215）",
+    "fields": {
+     "chart_lines_top_to_bottom": {
+      "grade": "直载",
+      "basis": "原书装卦表明载逐爻六亲、地支五行、爻象、世应与动爻记号，定位：《卜筮正宗》校正全本（四库存目纳甲汇刊2）卷十三/十四·十八问答附占验例007，书页200（PDF页215）。变卦栏非动爻行原书未逐行印出，其六亲地支由变卦纳甲依本宫五行配定，此部分属推算复原。"
+     },
+     "moving_lines": {
+      "grade": "直载",
+      "basis": "原书装卦表动爻记号（○/×）及化爻地支明载；并经本变卦爻象差复核一致。"
+     },
+     "date_ganzhi": {
+      "grade": "直载",
+      "basis": "原书例首明载「寅月辛酉日」。"
+     },
+     "空亡": {
+      "grade": "推算复原",
+      "basis": "由直载日干支「辛酉」按旬空规则推得，与 inputs8 卦名括注所载空亡互证一致。"
+     }
+    },
+    "completed_by": "phase3 inputs9 C轨数据角补录（2026-10-30，顺手组：与C类14例同源同法）",
+    "scope_note": "仅补 attachments 盘面事实字段；题面文字与既有字段一字未改。"
+   }
+  }
+ },
+ {
+  "id": "LY-031",
+  "system": "liuyao",
+  "master": "王洪緒（輯錄，含師楊廣含傳授及自占驗）",
+  "era": "清康熙四十八年（1709）成書",
+  "subject": {
+   "name_or_desc": "求測者/所占之人（原書多未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占父官事",
+   "asked_at": "卯月（據斷語「未土卯月克之」）",
+   "setting": "為父占官事（刑獄）吉凶",
+   "attachments": {
+    "casting_method": "六爻納甲（以錢代蓍）",
+    "hexagram": "澤地萃之天火同人（兌宮，空亡戌亥）",
+    "yongshen": "外卦未土父母等為主（父之官事）",
+    "chart_note": "在線本裝卦表為雙欄排版經 OCR 轉錄後行序錯亂，逐爻裝卦未能可靠還原；本條只錄可由卦名、卦宮、空亡與斷語互證的資訊，逐爻表不錄。",
+    "chart_lines_top_to_bottom": [
+     "父母未土ㄨ　父母戌土⚊",
+     "兄弟酉金⚊應　兄弟申金⚊",
+     "子孫亥水⚊　官鬼午火⚊",
+     "妻財卯木ㄨ　子孫亥水⚊",
+     "官鬼巳火⚋世　父母丑土⚋",
+     "父母未土ㄨ　妻財卯木⚊"
+    ],
+    "moving_lines": "初爻父母未土ㄨ動、三爻妻財卯木ㄨ動、上爻父母未土ㄨ動",
+    "date_ganzhi": "卯月戊辰日",
+    "空亡": "戌亥"
+   }
+  },
+  "provenance": {
+   "book": "《卜筮正宗》",
+   "edition": "華夏大易學社（cnddy.com）在线全本（據通行本錄入，裝卦表 OCR 有錯亂，見 SOURCES 說明）",
+   "url": "https://www.cnddy.com/1759.html",
+   "page": "卷十三、十四·十八問答附占驗·第二問（回頭克）"
+  },
+  "license_status": "public-domain",
+  "redistributable": true,
+  "language": "zh-Hant",
+  "notes": {
+   "tags": [],
+   "comment": "《卜筮正宗》凡例自述：卷十三、十四十八問「皆吾師所授及余所占驗」，故各例占者或為王洪緒、或為其師楊廣含，逐例不可分，歸屬以「王洪緒（輯錄，含師授占驗）」記。本書康熙四十八年（1709）成書。",
+   "cross_ref": null,
+   "completion_grade": {
+    "source_locator": "《卜筮正宗》校正全本（四库存目纳甲汇刊2）卷十三/十四·十八问答附占验例011，书页201（PDF页216）",
+    "fields": {
+     "chart_lines_top_to_bottom": {
+      "grade": "直载",
+      "basis": "原书装卦表明载逐爻六亲、地支五行、爻象、世应与动爻记号，定位：《卜筮正宗》校正全本（四库存目纳甲汇刊2）卷十三/十四·十八问答附占验例011，书页201（PDF页216）。变卦栏非动爻行原书未逐行印出，其六亲地支由变卦纳甲依本宫五行配定，此部分属推算复原。"
+     },
+     "moving_lines": {
+      "grade": "直载",
+      "basis": "原书装卦表动爻记号（○/×）及化爻地支明载；并经本变卦爻象差复核一致。"
+     },
+     "date_ganzhi": {
+      "grade": "直载",
+      "basis": "原书例首明载「卯月戊辰日」。"
+     },
+     "空亡": {
+      "grade": "推算复原",
+      "basis": "由直载日干支「戊辰」按旬空规则推得，与 inputs8 卦名括注所载空亡互证一致。"
+     }
+    },
+    "completed_by": "phase3 inputs9 C轨数据角补录（2026-10-30，顺手组：与C类14例同源同法）",
+    "scope_note": "仅补 attachments 盘面事实字段；题面文字与既有字段一字未改。"
+   }
+  }
+ },
+ {
+  "uid": "LY-032",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者/所占之人（原書多未具名）"
+  },
+  "context": {
+   "question": "妻占夫近病",
+   "asked_at": "辰日（據斷語「墓於辰日」）",
+   "setting": "妻為近病的丈夫占",
+   "attachments": {
+    "casting_method": "六爻納甲（以錢代蓍）",
+    "hexagram": "天火同人之離為火（離宮，空亡戌亥）",
+    "yongshen": "世爻亥水為夫星（用神）",
+    "chart_note": "在線本裝卦表為雙欄排版經 OCR 轉錄後行序錯亂，逐爻裝卦未能可靠還原；本條只錄可由卦名、卦宮、空亡與斷語互證的資訊，逐爻表不錄。",
+    "chart_lines_top_to_bottom": [
+     "子孫戌土⚊應　兄弟巳火⚊",
+     "妻財申金○　子孫未土⚋",
+     "兄弟午火⚊　妻財酉金⚊",
+     "官鬼亥水⚊世　官鬼亥水⚊",
+     "子孫丑土⚋　子孫丑土⚋",
+     "父母卯木⚊　父母卯木⚊"
+    ],
+    "moving_lines": "五爻妻財申金○動",
+    "date_ganzhi": "申月戊辰日",
+    "空亡": "戌亥"
+   }
+  },
+  "provenance": {
+   "book": "《卜筮正宗》"
+  },
+  "notes": {
+   "completion_grade": {
+    "source_locator": "《卜筮正宗》校正全本卷十三·第三问附占验例017，书页203（PDF页218）",
+    "fields": {
+     "chart_lines_top_to_bottom": {
+      "grade": "直载",
+      "basis": "原书装卦表明载逐爻六亲、地支五行、爻象、世应与动爻记号（○/×及化爻地支），定位：《卜筮正宗》校正全本卷十三·第三问附占验例017，书页203（PDF页218）。变卦栏非动爻行原书未逐行印出，其六亲地支由变卦纳甲依本宫五行配定，此部分属推算复原（标准纳甲确定性推得）。",
+      "note_辰丑出入": "原书装卦表二爻印作「子孙辰土」，与标准纳甲（离下二爻丑土）不合；同书卷十三例026离之明夷表二爻作丑土、本数据集同卦诸例（LY-009/013/237/404）亦作丑土，疑为底本或排印之误。本条二爻从标准纳甲作丑土，该一行应按推算复原看待，不作直载。"
+     },
+     "moving_lines": {
+      "grade": "直载",
+      "basis": "原书装卦表动爻记号（○/×）及化爻地支明载；并经本变卦爻象差复核一致。"
+     },
+     "date_ganzhi": {
+      "grade": "直载",
+      "basis": "原书例首明载「申月戊辰日」。inputs8 asked_at 原作未明记，系在线本漏录。"
+     },
+     "空亡": {
+      "grade": "推算复原",
+      "basis": "原书未另标空亡；由直载日干支「戊辰」按旬空规则推得（戊辰所属旬空戌亥），与 inputs8 卦名括注所载空亡互证一致。"
+     }
+    },
+    "completed_by": "phase3 inputs9 C轨数据角补录（2026-10-30）",
+    "scope_note": "仅补 attachments 盘面事实字段；题面文字与既有字段一字未改。"
+   }
+  }
+ },
+ {
+  "id": "LY-033",
+  "system": "liuyao",
+  "master": "王洪緒（輯錄，含師楊廣含傳授及自占驗）",
+  "era": "清康熙四十八年（1709）成書",
+  "subject": {
+   "name_or_desc": "求測者/所占之人（原書多未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "一人自占近病",
+   "asked_at": "原文未明記月日（斷語及應驗涉立春、正月）",
+   "setting": "自占近病",
+   "attachments": {
+    "casting_method": "六爻納甲（以錢代蓍）",
+    "hexagram": "天火同人之火山旅（離宮，空亡午未）",
+    "yongshen": "世爻亥水為用神",
+    "chart_note": "在線本裝卦表為雙欄排版經 OCR 轉錄後行序錯亂，逐爻裝卦未能可靠還原；本條只錄可由卦名、卦宮、空亡與斷語互證的資訊，逐爻表不錄。",
+    "chart_lines_top_to_bottom": [
+     "子孫戌土⚊應　兄弟巳火⚊",
+     "妻財申金○　子孫未土⚋",
+     "兄弟午火⚊　妻財酉金⚊",
+     "官鬼亥水⚊世　妻財申金⚊",
+     "子孫丑土⚋　兄弟午火⚋",
+     "父母卯木○　子孫辰土⚋"
+    ],
+    "moving_lines": "初爻父母卯木○動、五爻妻財申金○動",
+    "date_ganzhi": "丑月戊子日",
+    "空亡": "午未"
+   }
+  },
+  "provenance": {
+   "book": "《卜筮正宗》",
+   "edition": "華夏大易學社（cnddy.com）在线全本（據通行本錄入，裝卦表 OCR 有錯亂，見 SOURCES 說明）",
+   "url": "https://www.cnddy.com/1759.html",
+   "page": "卷十三、十四·十八問答附占驗·第三問（原神）"
+  },
+  "license_status": "public-domain",
+  "redistributable": true,
+  "language": "zh-Hant",
+  "notes": {
+   "tags": [],
+   "comment": "《卜筮正宗》凡例自述：卷十三、十四十八問「皆吾師所授及余所占驗」，故各例占者或為王洪緒、或為其師楊廣含，逐例不可分，歸屬以「王洪緒（輯錄，含師授占驗）」記。本書康熙四十八年（1709）成書。",
+   "cross_ref": null,
+   "completion_grade": {
+    "source_locator": "《卜筮正宗》校正全本卷十三·第三问附占验例019，书页204（PDF页219）",
+    "fields": {
+     "chart_lines_top_to_bottom": {
+      "grade": "直载",
+      "basis": "原书装卦表明载逐爻六亲、地支五行、爻象、世应与动爻记号（○/×及化爻地支），定位：《卜筮正宗》校正全本卷十三·第三问附占验例019，书页204（PDF页219）。变卦栏非动爻行原书未逐行印出，其六亲地支由变卦纳甲依本宫五行配定，此部分属推算复原（标准纳甲确定性推得）。",
+      "note_辰丑出入": "原书装卦表二爻印作「子孙辰土」，与标准纳甲（离下二爻丑土）不合；同书卷十三例026离之明夷表二爻作丑土、本数据集同卦诸例（LY-009/013/237/404）亦作丑土，疑为底本或排印之误。本条二爻从标准纳甲作丑土，该一行应按推算复原看待，不作直载。"
+     },
+     "moving_lines": {
+      "grade": "直载",
+      "basis": "原书装卦表动爻记号（○/×）及化爻地支明载；并经本变卦爻象差复核一致。"
+     },
+     "date_ganzhi": {
+      "grade": "直载",
+      "basis": "原书例首明载「丑月戊子日」。inputs8 asked_at 原作未明记，系在线本漏录。"
+     },
+     "空亡": {
+      "grade": "推算复原",
+      "basis": "原书未另标空亡；由直载日干支「戊子」按旬空规则推得（戊子所属旬空午未），与 inputs8 卦名括注所载空亡互证一致。"
+     }
+    },
+    "completed_by": "phase3 inputs9 C轨数据角补录（2026-10-30）",
+    "scope_note": "仅补 attachments 盘面事实字段；题面文字与既有字段一字未改。原 chart_note 述在线本缺陷者保留原样，本补录据校正全本纸本扫描核销该缺陷。"
+   }
+  }
+ },
+ {
+  "id": "LY-034",
+  "subject": {
+   "name_or_desc": "求測者/所占之人（原書多未具名）"
+  },
+  "context": {
+   "question": "占嬸病",
+   "asked_at": "原文未明記月日（旬空子丑；應期乙丑日）",
+   "setting": "為嬸母占病",
+   "attachments": {
+    "casting_method": "六爻納甲（以錢代蓍）",
+    "hexagram": "離為火之地火明夷（離宮，空亡子丑）",
+    "yongshen": "父母卯木為用神",
+    "chart_note": "在線本裝卦表為雙欄排版經 OCR 轉錄後行序錯亂，逐爻裝卦未能可靠還原；本條只錄可由卦名、卦宮、空亡與斷語互證的資訊，逐爻表不錄。",
+    "chart_lines_top_to_bottom": [
+     "兄弟巳火○世　妻財酉金⚋",
+     "子孫未土⚋　官鬼亥水⚋",
+     "妻財酉金○　子孫丑土⚋",
+     "官鬼亥水⚊應　官鬼亥水⚊",
+     "子孫丑土⚋　子孫丑土⚋",
+     "父母卯木⚊　父母卯木⚊"
+    ],
+    "moving_lines": "四爻妻財酉金○動、上爻兄弟巳火○（世）動",
+    "date_ganzhi": "丑月戊午日",
+    "空亡": "子丑"
+   }
+  },
+  "provenance": {
+   "book": "《卜筮正宗》",
+   "edition": "華夏大易學社（cnddy.com）在线全本（據通行本錄入，裝卦表 OCR 有錯亂，見 SOURCES 說明）",
+   "url": "https://www.cnddy.com/1759.html",
+   "page": "卷十三、十四·十八問答附占驗·第四問（三合成局）"
+  },
+  "language": "zh-Hant",
+  "notes": {
+   "completion_grade": {
+    "source_locator": "《卜筮正宗》校正全本（四库存目纳甲汇刊2）卷十三/十四·十八问答附占验例026，书页207（PDF页222）",
+    "fields": {
+     "chart_lines_top_to_bottom": {
+      "grade": "直载",
+      "basis": "原书装卦表明载逐爻六亲、地支五行、爻象、世应与动爻记号，定位：《卜筮正宗》校正全本（四库存目纳甲汇刊2）卷十三/十四·十八问答附占验例026，书页207（PDF页222）。变卦栏非动爻行原书未逐行印出，其六亲地支由变卦纳甲依本宫五行配定，此部分属推算复原。"
+     },
+     "moving_lines": {
+      "grade": "直载",
+      "basis": "原书装卦表动爻记号（○/×）及化爻地支明载；并经本变卦爻象差复核一致。"
+     },
+     "date_ganzhi": {
+      "grade": "直载",
+      "basis": "原书例首明载「丑月戊午日」。"
+     },
+     "空亡": {
+      "grade": "推算复原",
+      "basis": "由直载日干支「戊午」按旬空规则推得，与 inputs8 卦名括注所载空亡互证一致。"
+     }
+    },
+    "completed_by": "phase3 inputs9 C轨数据角补录（2026-10-30，顺手组：与C类14例同源同法）",
+    "scope_note": "仅补 attachments 盘面事实字段；题面文字与既有字段一字未改。"
+   }
+  }
+ },
+ {
+  "uid": "LY-035",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者/所占之人（原書多未具名）"
+  },
+  "context": {
+   "question": "占父何日歸",
+   "asked_at": "申日沖寅、絕寅（據斷語）",
+   "setting": "問父親何日歸家",
+   "attachments": {
+    "casting_method": "六爻納甲（以錢代蓍）",
+    "hexagram": "山天大畜之乾為天（艮宮，空亡辰巳）",
+    "yongshen": "父母（父局）為用",
+    "chart_note": "在線本裝卦表為雙欄排版經 OCR 轉錄後行序錯亂，逐爻裝卦未能可靠還原；本條只錄可由卦名、卦宮、空亡與斷語互證的資訊，逐爻表不錄。",
+    "chart_lines_top_to_bottom": [
+     "官鬼寅木⚊　兄弟戌土⚊",
+     "妻財子水ㄨ應　子孫申金⚊",
+     "兄弟戌土ㄨ　父母午火⚊",
+     "兄弟辰土⚊　兄弟辰土⚊",
+     "官鬼寅木⚊世　官鬼寅木⚊",
+     "妻財子水⚊　妻財子水⚊"
+    ],
+    "moving_lines": "四爻兄弟戌土ㄨ動、五爻妻財子水ㄨ（應）動",
+    "date_ganzhi": "巳月丙申日",
+    "空亡": "辰巳"
+   }
+  },
+  "provenance": {
+   "book": "《卜筮正宗》"
+  },
+  "notes": {
+   "completion_grade": {
+    "source_locator": "《卜筮正宗》校正全本（四库存目纳甲汇刊2）卷十三/十四·十八问答附占验例028，书页208（PDF页223）",
+    "fields": {
+     "chart_lines_top_to_bottom": {
+      "grade": "直载",
+      "basis": "原书装卦表明载逐爻六亲、地支五行、爻象、世应与动爻记号，定位：《卜筮正宗》校正全本（四库存目纳甲汇刊2）卷十三/十四·十八问答附占验例028，书页208（PDF页223）。变卦栏非动爻行原书未逐行印出，其六亲地支由变卦纳甲依本宫五行配定，此部分属推算复原。"
+     },
+     "moving_lines": {
+      "grade": "直载",
+      "basis": "原书装卦表动爻记号（○/×）及化爻地支明载；并经本变卦爻象差复核一致。"
+     },
+     "date_ganzhi": {
+      "grade": "直载",
+      "basis": "原书例首明载「巳月丙申日」。"
+     },
+     "空亡": {
+      "grade": "推算复原",
+      "basis": "由直载日干支「丙申」按旬空规则推得，与 inputs8 卦名括注所载空亡互证一致。"
+     }
+    },
+    "completed_by": "phase3 inputs9 C轨数据角补录（2026-10-30，顺手组：与C类14例同源同法）",
+    "scope_note": "仅补 attachments 盘面事实字段；题面文字与既有字段一字未改。"
+   }
+  }
+ },
+ {
+  "id": "LY-036",
+  "system": "liuyao",
+  "master": "王洪緒（輯錄，含師楊廣含傳授及自占驗）",
+  "era": "清康熙四十八年（1709）成書",
+  "subject": {
+   "name_or_desc": "求測者/所占之人（原書多未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占升選",
+   "asked_at": "本月（據應驗「果於本月」，月名原文未記）",
+   "setting": "問升選（升任）吉凶",
+   "attachments": {
+    "casting_method": "六爻納甲（以錢代蓍）",
+    "hexagram": "地澤臨之風澤中孚（坤宮，空亡申酉）",
+    "yongshen": "世爻卯木、官星為用",
+    "chart_note": "在線本裝卦表為雙欄排版經 OCR 轉錄後行序錯亂，逐爻裝卦未能可靠還原；本條只錄可由卦名、卦宮、空亡與斷語互證的資訊，逐爻表不錄。"
+   }
+  },
+  "provenance": {
+   "book": "《卜筮正宗》",
+   "edition": "華夏大易學社（cnddy.com）在线全本（據通行本錄入，裝卦表 OCR 有錯亂，見 SOURCES 說明）",
+   "url": "https://www.cnddy.com/1759.html",
+   "page": "卷十三、十四·十八問答附占驗·第五問（反吟）"
+  },
+  "license_status": "public-domain",
+  "redistributable": true,
+  "language": "zh-Hant",
+  "notes": {
+   "tags": [],
+   "comment": "《卜筮正宗》凡例自述：卷十三、十四十八問「皆吾師所授及余所占驗」，故各例占者或為王洪緒、或為其師楊廣含，逐例不可分，歸屬以「王洪緒（輯錄，含師授占驗）」記。本書康熙四十八年（1709）成書。",
+   "cross_ref": null
+  }
+ },
+ {
+  "uid": "LY-102",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "王虎应妻子朋友单位的司机",
+   "basic_info": "男，突然昏倒，医院诊断为脑瘤，预定第二天手术",
+   "gender": "男"
+  },
+  "context": {
+   "question": "测病：是否为脑瘤、病情如何",
+   "asked_at": "戌月丁丑日（年份不详）",
+   "setting": "戌月丁丑日，患者亲属传话向王虎应测病；当时医学诊断（脑瘤）已作出但尚未手术，结论可被次日术前复查证伪或证实",
+   "attachments": {
+    "ben_gua": "山水蒙",
+    "bian_gua": "坤为地",
+    "date_ganzhi": "戌月丁丑日",
+    "source": "王虎应《六爻预测自修宝典》测病例四，Scribd影印本 https://www.scribd.com/document/829859310/",
+    "chart_lines_top_to_bottom": [
+     "父母寅木○　妻财酉金⚋",
+     "官鬼子水⚋　官鬼亥水⚋",
+     "子孙戌土⚋世　子孙丑土⚋",
+     "兄弟午火⚋　父母卯木⚋",
+     "子孙辰土○　兄弟巳火⚋",
+     "父母寅木⚋应　子孙未土⚋"
+    ],
+    "moving_lines": "二爻子孙辰土○动、上爻父母寅木○动",
+    "空亡": "申酉",
+    "hidden_lines": "四爻子孙戌土下伏妻财酉金"
+   }
+  },
+  "provenance": {
+   "book": "《六爻预测自修宝典》"
+  },
+  "notes": {
+   "completion_grade": {
+    "source_locator": "《六爻预测自修宝典》本地无藏；据 inputs8 已载本变卦名（山水蒙之坤为地）与日期（戌月丁丑日）",
+    "fields": {
+     "chart_lines_top_to_bottom": {
+      "grade": "推算复原",
+      "basis": "《六爻预测自修宝典》本地无藏；据 inputs8 已载本变卦名（山水蒙之坤为地）与日期（戌月丁丑日），由标准纳甲（定宫、纳甲、世应、六亲配五行）确定性推得全盘；动爻由本变卦爻象差定。"
+     },
+     "moving_lines": {
+      "grade": "推算复原",
+      "basis": "本变卦爻象差确定性推得。"
+     },
+     "空亡": {
+      "grade": "推算复原",
+      "basis": "由已载日干支「丁丑」按旬空规则推得。"
+     },
+     "hidden_lines": {
+      "grade": "推算复原",
+      "basis": "本卦六亲缺妻财不现；按伏神规则取本宫首卦同位之爻伏于本卦同位爻下，标准规则确定性推得。"
+     }
+    },
+    "completed_by": "phase3 inputs9 C轨数据角补录（2026-10-30，顺手组：与LY-104同法）",
+    "scope_note": "仅补 attachments 盘面事实字段；题面文字与既有字段一字未改。"
+   }
+  }
+ },
+ {
+  "id": "LY-103",
+  "subject": {
+   "name_or_desc": "北京朋友（儿童音乐会主办方相关人）",
+   "basic_info": "王虎应刚抵西藏酒店下榻，北京朋友来电：当晚要举办儿童音乐会，北京正在下雨，问雨会不会停"
+  },
+  "context": {
+   "question": "问当晚雨会不会停",
+   "asked_at": "午月丙辰日（年份不详）",
+   "setting": "午月丙辰日，占问当晚天气，数小时内即可验证",
+   "attachments": {
+    "ben_gua": "火山旅",
+    "bian_gua": "天风姤",
+    "date_ganzhi": "午月丙辰日",
+    "source": "王虎应《六爻预测自修宝典》测天气例一，Scribd影印本 https://www.scribd.com/document/829859310/",
+    "chart_lines_top_to_bottom": [
+     "兄弟巳火⚊　子孙戌土⚊",
+     "子孙未土ㄨ　妻财申金⚊",
+     "妻财酉金⚊应　兄弟午火⚊",
+     "妻财申金⚊　妻财酉金⚊",
+     "兄弟午火ㄨ　官鬼亥水⚊",
+     "子孙辰土⚋世　子孙丑土⚋"
+    ],
+    "moving_lines": "二爻兄弟午火ㄨ动、五爻子孙未土ㄨ动",
+    "空亡": "子丑"
+   }
+  },
+  "provenance": {
+   "book": "《六爻预测自修宝典》",
+   "edition": "",
+   "url": "https://www.scribd.com/document/829859310/",
+   "page": "王虎应《六爻预测自修宝典》测天气例一，Scribd影印本 https://www.scribd.com/document/829859310/"
+  },
+  "language": "zh-Hant",
+  "notes": {
+   "completion_grade": {
+    "source_locator": "《六爻预测自修宝典》本地无藏；据 inputs8 已载本变卦名（火山旅之天风姤）与日期（午月丙辰日）",
+    "fields": {
+     "chart_lines_top_to_bottom": {
+      "grade": "推算复原",
+      "basis": "《六爻预测自修宝典》本地无藏；据 inputs8 已载本变卦名（火山旅之天风姤）与日期（午月丙辰日），由标准纳甲（定宫、纳甲、世应、六亲配五行）确定性推得全盘；动爻由本变卦爻象差定。"
+     },
+     "moving_lines": {
+      "grade": "推算复原",
+      "basis": "本变卦爻象差确定性推得。"
+     },
+     "空亡": {
+      "grade": "推算复原",
+      "basis": "由已载日干支「丙辰」按旬空规则推得戌亥。"
+     }
+    },
+    "completed_by": "phase3 inputs9 C轨数据角补录（2026-10-30，顺手组：与LY-104同法）",
+    "scope_note": "仅补 attachments 盘面事实字段；题面文字与既有字段一字未改。"
+   }
+  }
+ },
+ {
+  "uid": "LY-104",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "女占者本人（姓名未公开）",
+   "basic_info": "女，自占疾病",
+   "gender": "女"
+  },
+  "context": {
+   "question": "自测病情",
+   "asked_at": "辰月戊寅日（年份不详）",
+   "setting": "辰月戊寅日（旬空申酉）自测病情，尚未确诊",
+   "attachments": {
+    "ben_gua": "山风蛊",
+    "bian_gua": "山水蒙",
+    "date_ganzhi": "辰月戊寅日",
+    "source": "王虎应《六爻预测疾病新探》第249页，经《六爻卦例一百例》汇编转录 https://www.scribd.com/document/831576273/",
+    "chart_lines_top_to_bottom": [
+     "兄弟寅木⚊应　兄弟寅木⚊",
+     "父母子水⚋　父母子水⚋",
+     "妻财戌土⚋　妻财戌土⚋",
+     "官鬼酉金○世　子孙午火⚋",
+     "父母亥水⚊　妻财辰土⚊",
+     "妻财丑土⚋　兄弟寅木⚋"
+    ],
+    "moving_lines": "三爻官鬼酉金○（世）动",
+    "hidden_lines": "五爻父母子水下伏子孙巳火"
+   }
+  },
+  "provenance": {
+   "book": "《六爻预测疾病新探》"
+  },
+  "notes": {
+   "completion_grade": {
+    "source_locator": "原书《六爻预测疾病新探》本地无藏；据 inputs8 已载本变卦名（山风蛊之山水蒙）与日期（辰月戊寅日）",
+    "fields": {
+     "chart_lines_top_to_bottom": {
+      "grade": "推算复原",
+      "basis": "原书本地无藏、未能直载；据 inputs8 已载本卦山风蛊、变卦山水蒙，由标准纳甲（定宫巽宫、纳甲、世应、六亲配五行）确定性推得全盘。动爻由本变卦爻象差定为三爻独动——R24/R25 两轮自装互异即因无此约束，今以爻象差为准。"
+     },
+     "moving_lines": {
+      "grade": "推算复原",
+      "basis": "同上：本变卦爻象差仅三爻（下卦巽变坎，仅三爻阴阳变），故三爻官鬼酉金独动。"
+     },
+     "hidden_lines": {
+      "grade": "推算复原",
+      "basis": "本卦六亲缺子孙不现；按伏神规则取本宫首卦（巽宫首卦）同位之爻伏于本卦同位爻下，标准规则确定性推得。原书装卦表未印伏神栏。"
+     }
+    },
+    "completed_by": "phase3 inputs9 C轨数据角补录（2026-10-30）",
+    "scope_note": "仅补 attachments 盘面事实字段；题面文字与既有字段一字未改。"
+   }
+  }
+ },
+ {
+  "id": "LY-105",
+  "subject": {
+   "name_or_desc": "网友之母",
+   "basic_info": "女，年长者，身体不适原因未明",
+   "gender": "女"
+  },
+  "context": {
+   "question": "代看母亲身体（病况如何）",
+   "asked_at": "乙酉年壬午月壬戌日（2005年前后）",
+   "setting": "2005年前后，网友得知交流对象是王虎应学生，请其代看母亲身体；学生把握不准，转请王虎应指教。占时：乙酉年壬午月壬戌日（子丑空）丙午时",
+   "attachments": {
+    "ben_gua": "雷天大壮",
+    "bian_gua": "水天需",
+    "date_ganzhi": "乙酉年壬午月壬戌日丙午时",
+    "source": "《六爻疑惑指迷》相关转录（360doc，论坛帖整理） https://www.360doc.cn/article/35615136_990164122.html",
+    "secondhand": true,
+    "chart_lines_top_to_bottom": [
+     "兄弟戌土⚋　妻财子水⚋",
+     "子孙申金ㄨ　兄弟戌土⚊",
+     "父母午火○世　子孙申金⚋",
+     "兄弟辰土⚊　兄弟辰土⚊",
+     "官鬼寅木⚊　官鬼寅木⚊",
+     "妻财子水⚊应　妻财子水⚊"
+    ],
+    "moving_lines": "四爻父母午火○（世）动、五爻子孙申金ㄨ动",
+    "空亡": "子丑"
+   }
+  },
+  "provenance": {
+   "book": "《六爻疑惑指迷》",
+   "edition": "",
+   "url": "https://www.360doc.cn/article/35615136_990164122.html",
+   "page": "《六爻疑惑指迷》相关转录（360doc，论坛帖整理） https://www.360doc.cn/article/35615136_990164122.html"
+  },
+  "language": "zh-Hant",
+  "notes": {
+   "completion_grade": {
+    "source_locator": "《六爻疑惑指迷》本地无藏；据 inputs8 已载本变卦名（雷天大壮之水天需）与日期（乙酉年壬午月壬戌日丙午时）",
+    "fields": {
+     "chart_lines_top_to_bottom": {
+      "grade": "推算复原",
+      "basis": "《六爻疑惑指迷》本地无藏；据 inputs8 已载本变卦名（雷天大壮之水天需）与日期（乙酉年壬午月壬戌日丙午时），由标准纳甲（定宫、纳甲、世应、六亲配五行）确定性推得全盘；动爻由本变卦爻象差定。"
+     },
+     "moving_lines": {
+      "grade": "推算复原",
+      "basis": "本变卦爻象差确定性推得。"
+     },
+     "空亡": {
+      "grade": "推算复原",
+      "basis": "由已载日干支「丙午」按旬空规则推得。"
+     }
+    },
+    "completed_by": "phase3 inputs9 C轨数据角补录（2026-10-30，顺手组：与LY-104同法）",
+    "scope_note": "仅补 attachments 盘面事实字段；题面文字与既有字段一字未改。"
+   }
+  }
+ },
+ {
+  "id": "LY-202",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占財福",
+   "asked_at": "寅月乙巳日",
+   "setting": "求測者在庠，因家寒意欲行醫，問財福如何",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "雷天大壯（靜卦；卦名原文未直書，據所附裝卦推得）",
+    "moving_lines": "無動爻（靜卦）",
+    "chart_lines_top_to_bottom": [
+     "兄弟戌土⚋",
+     "子孫申金⚋",
+     "父母午火⚊世",
+     "兄弟辰土⚊",
+     "官鬼寅木⚊",
+     "妻財子水⚊應"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之三·終身財福章第三十七"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "LY-203",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占財福",
+   "asked_at": "午月丙子日",
+   "setting": "其人目不識丁、農生度日，問財福",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "地火明夷之雷火豐",
+    "moving_lines": "四爻官鬼丑土ㄨ動",
+    "chart_lines_top_to_bottom": [
+     "父母酉金⚋　　官鬼戌土⚋",
+     "兄弟亥水⚋　　父母申金⚋",
+     "官鬼丑土ㄨ世　妻財午火⚊",
+     "兄弟亥水⚊　　兄弟亥水⚊",
+     "官鬼丑土⚋　　官鬼丑土⚋",
+     "子孫卯木⚊應　子孫卯木⚊"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之三·終身財福章第三十七"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "LY-204",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占財福（再占問功名出仕）",
+   "asked_at": "酉月壬辰日",
+   "setting": "生意人先占財福，後再占問功名出仕",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "初占：雷風恆（靜卦）；再占：火雷噬嗑之天地否",
+    "moving_lines": "五爻妻財未土ㄨ動、初爻父母子水○動",
+    "chart_lines_top_to_bottom": [
+     "妻財戌土⚋應",
+     "官鬼申金⚋",
+     "子孫午火⚊",
+     "官鬼酉金⚊世",
+     "父母亥水⚊",
+     "妻財丑土⚋",
+     "子孫巳火⚊　　妻財戌土⚊",
+     "妻財未土ㄨ世　官鬼申金⚊",
+     "官鬼酉金⚊　　子孫午火⚊",
+     "妻財辰土⚋　　兄弟卯木⚋",
+     "兄弟寅木⚋應　子孫巳火⚋",
+     "父母子水○　　妻財未土⚋"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之三·終身財福章第三十七"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "LY-205",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占終身財福",
+   "asked_at": "巳月己丑日",
+   "setting": "問終身財福，自言功名之念已滅",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "雷澤歸妹之地澤臨",
+    "moving_lines": "四爻官鬼午火○動",
+    "chart_lines_top_to_bottom": [
+     "父母戌土⚋應　兄弟酉金⚋",
+     "兄弟申金⚋　　子孫亥水⚋",
+     "官鬼午火○　　父母丑土⚋",
+     "父母丑土⚋世　父母丑土⚋",
+     "妻財卯木⚊　　妻財卯木⚊",
+     "官鬼巳火⚊　　官鬼巳火⚊"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之三·終身財福章第三十七"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "LY-206",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占終身財福",
+   "asked_at": "卯月癸未日",
+   "setting": "問終身財福",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "澤火革之風火家人",
+    "moving_lines": "上爻官鬼未土ㄨ動、四爻兄弟亥水○動",
+    "chart_lines_top_to_bottom": [
+     "官鬼未土ㄨ　　子孫卯木⚊",
+     "父母酉金⚊　　妻財巳火⚊",
+     "兄弟亥水○世　官鬼未土⚋",
+     "兄弟亥水⚊　　兄弟亥水⚊",
+     "官鬼丑土⚋　　官鬼丑土⚋",
+     "子孫卯木⚊應　子孫卯木⚊"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之三·終身財福章第三十七"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "LY-207",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占終身功名有無",
+   "asked_at": "辰月乙未日",
+   "setting": "求測者原是武蔭、已任裨官，因病告退，問將來還有功名否",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "地火明夷之雷火豐",
+    "moving_lines": "四爻官鬼丑土ㄨ動",
+    "chart_lines_top_to_bottom": [
+     "父母酉金⚋　　官鬼戌土⚋",
+     "兄弟亥水⚋　　父母申金⚋",
+     "官鬼丑土ㄨ世　妻財午火⚊",
+     "兄弟亥水⚊　　兄弟亥水⚊",
+     "官鬼丑土⚋　　官鬼丑土⚋",
+     "子孫卯木⚊應　子孫卯木⚊"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之三·終身功名有無章第三十八"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "LY-208",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占終身功名有無",
+   "asked_at": "戌月戊辰日",
+   "setting": "問終身功名有無",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "山風蠱（靜卦）",
+    "moving_lines": "無動爻（靜卦）",
+    "chart_lines_top_to_bottom": [
+     "兄弟寅木⚊應",
+     "父母子水⚋",
+     "妻財戌土⚋",
+     "官鬼酉金⚊世",
+     "父母亥水⚊",
+     "妻財丑土⚋"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之三·終身功名有無章第三十八"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "LY-210",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占壽",
+   "asked_at": "辰月乙卯日",
+   "setting": "問壽元",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "風澤中孚之火澤睽",
+    "moving_lines": "五爻父母巳火○動、四爻兄弟未土ㄨ動",
+    "chart_lines_top_to_bottom": [
+     "官鬼卯木⚊　　父母巳火⚊",
+     "父母巳火○　　兄弟未土⚋",
+     "兄弟未土ㄨ世　子孫酉金⚊",
+     "兄弟丑土⚋　　兄弟丑土⚋",
+     "官鬼卯木⚊　　官鬼卯木⚊",
+     "父母巳火⚊應　父母巳火⚊"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之三·壽元章第三十九"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "LY-211",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占壽",
+   "asked_at": "寅月己酉日",
+   "setting": "問壽元",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "山地剝之天雷無妄",
+    "moving_lines": "五爻子孫子水ㄨ動、四爻父母戌土ㄨ動、初爻父母未土ㄨ動",
+    "chart_lines_top_to_bottom": [
+     "妻財寅木⚊　　父母戌土⚊",
+     "子孫子水ㄨ世　兄弟申金⚊",
+     "父母戌土ㄨ　　官鬼午火⚊",
+     "妻財卯木⚋　　父母辰土⚋",
+     "官鬼巳火⚋應　妻財寅木⚋",
+     "父母未土ㄨ　　子孫子水⚊"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之三·壽元章第三十九"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "LY-212",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占索債得否（兼問成非否）",
+   "asked_at": "卯月丙寅日",
+   "setting": "漢口；求測者欲渡江索債，因屢取不得欲與之廝鬧",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "風雷益之風澤中孚",
+    "moving_lines": "二爻兄弟寅木ㄨ動",
+    "chart_lines_top_to_bottom": [
+     "兄弟卯木⚊應　兄弟卯木⚊",
+     "子孫巳火⚊　　子孫巳火⚊",
+     "妻財未土⚋　　妻財未土⚋",
+     "妻財辰土⚋世　妻財丑土⚋",
+     "兄弟寅木ㄨ　　兄弟卯木⚊",
+     "父母子水⚊　　子孫巳火⚊"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之三·趨避章第四十"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "LY-215",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占流年",
+   "asked_at": "寅月丁卯日",
+   "setting": "問流年吉凶",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "風雷益之火澤睽",
+    "moving_lines": "五爻子孫巳火○動、四爻妻財未土ㄨ動、二爻兄弟寅木ㄨ動",
+    "chart_lines_top_to_bottom": [
+     "兄弟卯木⚊應　子孫巳火⚊",
+     "子孫巳火○　　妻財未土⚋",
+     "妻財未土ㄨ　　官鬼酉金⚊",
+     "妻財辰土⚋世　妻財丑土⚋",
+     "兄弟寅木ㄨ　　兄弟卯木⚊",
+     "父母子水⚊　　子孫巳火⚊"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之三·趨避章第四十"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "LY-216",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占僕人為禍否",
+   "asked_at": "未月丙子日",
+   "setting": "此公知僕役變心、意欲處治而尚無實迹，故占之",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "雷水解之震為雷",
+    "moving_lines": "二爻妻財辰土○動、初爻兄弟寅木ㄨ動",
+    "chart_lines_top_to_bottom": [
+     "妻財戌土⚋　　妻財戌土⚋",
+     "官鬼申金⚋應　官鬼申金⚋",
+     "子孫午火⚊　　子孫午火⚊",
+     "子孫午火⚋　　妻財辰土⚋",
+     "妻財辰土○世　兄弟寅木⚋",
+     "兄弟寅木ㄨ　　父母子水⚊"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之三·趨避章第四十"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "LY-217",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占定何罪",
+   "asked_at": "未月癸亥日",
+   "setting": "問已定何罪",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "風澤中孚之地澤臨",
+    "moving_lines": "上爻官鬼卯木○動、五爻父母巳火○動",
+    "chart_lines_top_to_bottom": [
+     "官鬼卯木○　　子孫酉金⚋",
+     "父母巳火○　　妻財亥水⚋",
+     "兄弟未土⚋世　兄弟丑土⚋",
+     "兄弟丑土⚋　　兄弟丑土⚋",
+     "官鬼卯木⚊　　官鬼卯木⚊",
+     "父母巳火⚊應　父母巳火⚊"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之三·趨避章第四十"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "LY-218",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "先占父壽、又占母壽",
+   "asked_at": "丑月庚子日",
+   "setting": "同日分占父母壽元：先占父壽，又占母壽",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "初占父壽：天風姤（靜卦）；又占母壽：雷天大壯之地風升",
+    "moving_lines": "四爻父母午火○動、初爻妻財子水○動",
+    "chart_lines_top_to_bottom": [
+     "父母戌土⚊",
+     "兄弟申金⚊",
+     "官鬼午火⚊應",
+     "兄弟酉金⚊",
+     "子孫亥水⚊",
+     "父母丑土⚋世",
+     "兄弟戌土⚋　　子孫酉金⚋",
+     "子孫申金⚋　　妻財亥水⚋",
+     "父母午火○世　兄弟丑土⚋",
+     "兄弟辰土⚊　　子孫酉金⚊",
+     "官鬼寅木⚊　　妻財亥水⚊",
+     "妻財子水○應　兄弟丑土⚋"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之三·父母壽元章第四十一"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "LY-219",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占父壽",
+   "asked_at": "巳月乙酉日",
+   "setting": "問父親壽元",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "巽為風之天風姤",
+    "moving_lines": "四爻妻財未土ㄨ動",
+    "chart_lines_top_to_bottom": [
+     "兄弟卯木⚊世　妻財戌土⚊",
+     "子孫巳火⚊　　官鬼申金⚊",
+     "妻財未土ㄨ　　子孫午火⚊",
+     "官鬼酉金⚊應　官鬼酉金⚊",
+     "父母亥水⚊　　父母亥水⚊",
+     "妻財丑土⚋　　妻財丑土⚋"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之三·父母壽元章第四十一"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "LY-220",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占弟兄和好否、得濟否",
+   "asked_at": "申月丙辰日",
+   "setting": "問兄弟和好與得濟否",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "火天大有之乾為天",
+    "moving_lines": "五爻父母未土ㄨ動",
+    "chart_lines_top_to_bottom": [
+     "官鬼巳火⚊應　父母戌土⚊",
+     "父母未土ㄨ　　兄弟申金⚊",
+     "兄弟酉金⚊　　官鬼午火⚊",
+     "父母辰土⚊世　父母辰土⚊",
+     "妻財寅木⚊　　妻財寅木⚊",
+     "子孫子水⚊　　子孫子水⚊"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之三·兄弟章第四十二"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "LY-221",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占夫妻偕老否",
+   "asked_at": "巳月丁未日",
+   "setting": "問夫妻能否偕老",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "天雷無妄之風地觀",
+    "moving_lines": "四爻子孫午火○動、初爻父母子水○動",
+    "chart_lines_top_to_bottom": [
+     "妻財戌土⚊　　兄弟卯木⚊",
+     "官鬼申金⚊　　子孫巳火⚊",
+     "子孫午火○世　妻財未土⚋",
+     "妻財辰土⚋　　兄弟卯木⚋",
+     "兄弟寅木⚋　　子孫巳火⚋",
+     "父母子水○應　妻財未土⚋"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之三·夫婦章第四十三"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "LY-222",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占子嗣",
+   "asked_at": "申月辛卯日",
+   "setting": "求測者三十七歲有子、已十八，因亂失散，至今無所出，問子嗣",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "地雷復（靜卦）",
+    "moving_lines": "無動爻（靜卦）",
+    "chart_lines_top_to_bottom": [
+     "子孫酉金⚋",
+     "妻財亥水⚋",
+     "兄弟丑土⚋應",
+     "兄弟辰土⚋",
+     "官鬼寅木⚋",
+     "妻財子水⚊世"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之三·子嗣章第四十四"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "LY-227",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占鄉試",
+   "asked_at": "午月丙辰日",
+   "setting": "問鄉試，前後兩占",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "初占：兌為澤（靜卦，六沖）；再占：地澤臨之地水師",
+    "moving_lines": "初爻父母巳火○動",
+    "chart_lines_top_to_bottom": [
+     "父母未土⚋世",
+     "兄弟酉金⚊",
+     "子孫亥水⚊",
+     "父母丑土⚋應",
+     "妻財卯木⚊",
+     "官鬼巳火⚊",
+     "子孫酉金⚋　　子孫酉金⚋",
+     "妻財亥水⚋應　妻財亥水⚋",
+     "兄弟丑土⚋　　兄弟丑土⚋",
+     "兄弟丑土⚋　　父母午火⚋",
+     "官鬼卯木⚊世　兄弟辰土⚊",
+     "父母巳火○　　官鬼寅木⚋"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之三·鄉試章第五十五"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "LY-228",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占得差否",
+   "asked_at": "申月戊寅日",
+   "setting": "問能否得差",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "澤天夬（靜卦）",
+    "moving_lines": "無動爻（靜卦）",
+    "chart_lines_top_to_bottom": [
+     "兄弟未土⚋",
+     "子孫酉金⚊世",
+     "妻財亥水⚊",
+     "兄弟辰土⚊",
+     "官鬼寅木⚊應",
+     "妻財子水⚊"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之三·鄉試章第五十五（升選候補附）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "LY-230",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占何日補官",
+   "asked_at": "戌月辛酉日",
+   "setting": "問何日補官",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "水山蹇之水天需",
+    "moving_lines": "二爻官鬼午火ㄨ動、初爻父母辰土ㄨ動",
+    "chart_lines_top_to_bottom": [
+     "子孫子水⚋　　子孫子水⚋",
+     "父母戌土⚊　　父母戌土⚊",
+     "兄弟申金⚋世　兄弟申金⚋",
+     "兄弟申金⚊　　父母辰土⚊",
+     "官鬼午火ㄨ　　妻財寅木⚊",
+     "父母辰土ㄨ應　子孫子水⚊"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之三·鄉試章第五十五（升選候補附）"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "LY-231",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占在任平安否（流年）",
+   "asked_at": "寅月壬午日",
+   "setting": "在任者占流年平安，自憂世爻變鬼",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "山雷頤之火雷噬嗑",
+    "moving_lines": "四爻妻財戌土ㄨ動",
+    "chart_lines_top_to_bottom": [
+     "兄弟寅木⚊　　子孫巳火⚊",
+     "父母子水⚋　　妻財未土⚋",
+     "妻財戌土ㄨ世　官鬼酉金⚊",
+     "妻財辰土⚋　　妻財辰土⚋",
+     "兄弟寅木⚋　　兄弟寅木⚋",
+     "父母子水⚊應　父母子水⚊"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之三·在任吉凶章第五十七"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "LY-232",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "出具文伸枉保全功名",
+   "asked_at": "丑月丙辰日",
+   "setting": "出具文書伸冤，問能否保全功名",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "雷天大壯之澤天夬",
+    "moving_lines": "五爻子孫申金ㄨ動",
+    "chart_lines_top_to_bottom": [
+     "兄弟戌土⚋　　兄弟未土⚋",
+     "子孫申金ㄨ　　子孫酉金⚊",
+     "父母午火⚊世　妻財亥水⚊",
+     "兄弟辰土⚊　　兄弟辰土⚊",
+     "官鬼寅木⚊　　官鬼寅木⚊",
+     "妻財子水⚊應　妻財子水⚊"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之三·面聖上書章第六十二"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "LY-234",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占父何時起用",
+   "asked_at": "卯月壬辰日",
+   "setting": "子占父何時起用",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "風水渙之澤天夬",
+    "moving_lines": "上爻父母卯木○動、四爻子孫未土ㄨ動、三爻兄弟午火ㄨ動、初爻父母寅木ㄨ動",
+    "chart_lines_top_to_bottom": [
+     "父母卯木○　　子孫未土⚋",
+     "兄弟巳火⚊世　妻財酉金⚊",
+     "子孫未土ㄨ　　官鬼亥水⚊",
+     "兄弟午火ㄨ　　子孫辰土⚊",
+     "子孫辰土⚊應　父母寅木⚊",
+     "父母寅木ㄨ　　官鬼子水⚊"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之三·子占父功名章第六十七"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "LY-235",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占借貸",
+   "asked_at": "未月丁卯日",
+   "setting": "問借貸能否得財",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "火地晉（靜卦）",
+    "moving_lines": "無動爻（靜卦）",
+    "chart_lines_top_to_bottom": [
+     "官鬼巳火⚊",
+     "父母未土⚋",
+     "兄弟酉金⚊世",
+     "妻財卯木⚋",
+     "官鬼巳火⚋",
+     "父母未土⚋應"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之三·求財章第六十八"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "LY-237",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占出行謁見貴人",
+   "asked_at": "申月丁卯日",
+   "setting": "出行謁見貴人，問能否得見",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "天火同人（靜卦）",
+    "moving_lines": "無動爻（靜卦）",
+    "chart_lines_top_to_bottom": [
+     "子孫戌土⚊應",
+     "妻財申金⚊",
+     "兄弟午火⚊",
+     "官鬼亥水⚊世",
+     "子孫丑土⚋",
+     "父母卯木⚊"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之四·謁貴求財章第六十九"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "LY-240",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占借貸",
+   "asked_at": "未月丁卯日",
+   "setting": "問借貸",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "兌為澤之震為雷",
+    "moving_lines": "五爻兄弟酉金○動、二爻妻財卯木○動",
+    "chart_lines_top_to_bottom": [
+     "父母未土⚋世　父母戌土⚋",
+     "兄弟酉金○　　兄弟申金⚋",
+     "子孫亥水⚊　　官鬼午火⚊",
+     "父母丑土⚋應　父母辰土⚋",
+     "妻財卯木○　　妻財寅木⚋",
+     "官鬼巳火⚊　　子孫子水⚊"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之四·借貸章第七十七"
+  },
+  "language": "zh-Hant"
+ },
+ {
+  "id": "LY-241",
+  "tradition": "liuyao",
+  "subject": {
+   "name_or_desc": "求測者（原書多未具名）",
+   "gender": null
+  },
+  "context": {
+   "question": "占鵪鶉（鬥鵪鶉勝負）",
+   "asked_at": "巳月戊申日",
+   "setting": "以鵪鶉相鬥，占勝負",
+   "attachments": {
+    "casting_method": "六爻納甲（銅錢搖卦，原書只記月日與卦象）",
+    "hexagram": "風山漸之巽為風",
+    "moving_lines": "二爻父母午火ㄨ動",
+    "chart_lines_top_to_bottom": [
+     "官鬼卯木⚊應　官鬼卯木⚊",
+     "父母巳火⚊　　父母巳火⚊",
+     "兄弟未土⚋　　兄弟未土⚋",
+     "子孫申金⚊世　子孫酉金⚊",
+     "父母午火ㄨ　　妻財亥水⚊",
+     "兄弟辰土⚋　　兄弟丑土⚋"
+    ]
+   }
+  },
+  "provenance": {
+   "book": "《增刪卜易》",
+   "edition": "維基文库本（錄入者整理本，未排版/未校對，見 pending 校勘說明）",
+   "url": "https://zh.wikisource.org/wiki/增刪卜易",
+   "page": "卷之四·博戲章第八十"
+  },
+  "language": "zh-Hant"
+ }
+]

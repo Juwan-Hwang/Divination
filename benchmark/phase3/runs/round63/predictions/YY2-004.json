@@ -1,0 +1,12 @@
+{
+ "case_id": "YY2-004",
+ "prediction_text": "本例无断。输入残损：本卦名原书版面即缺字，六爻盘面与动爻均未载（输入卡notes已逐项注明「不可补」），只余变卦名「雷天大壮」与空亡子丑——本卦不明则卦宫、世应、六亲、动爻皆无从定，变卦一侧亦系于本宫五行不能单独成盘。按法不臆补、不拼盘：本例寿数无从起断，不给方向、不给应期。置信0.05（仅为「无断」本身之确信，非断语置信）。",
+ "basis": "tradition: liuyao（输入卡 tradition 字段自带 liuyao；惟盘面残损，无从行六爻之断）\nsystems_used: 无（盘面不足，未启用任何体系作断）\n输入残损留痕（照卡notes completion_grade）：hexagram字段为「（本卦名原书缺字）之 坤宫：雷天大壮」；chart_lines_top_to_bottom=null（grade：不可补——校正全本版面即缺字，非扫描缺损，合集异文亦未见可补）；moving_lines=null（同由不可补）；空亡子丑为推算复原（丁巳日甲午旬）。缺月日时外之全部盘面要素。\n处置依据：SKILL纪律「没排盘不说盘」与派单「输入残损照实在basis注明并降置信，不臆补」——本例不以变卦名、不以空亡单条拼凑任何寿数断语。trigger三项false之由见trigger.reason。",
+ "confidence": 0.05,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "盘面残损无从起断：未用变卦（变卦名虽载大壮，本卦不明则变卦六亲无从定）、未用伏神、无取用争议可言——三项皆false，残损情由记于basis与prediction_text。"
+ }
+}

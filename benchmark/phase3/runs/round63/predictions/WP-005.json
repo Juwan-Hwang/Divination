@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-005",
+ "prediction_text": "Direction: Donald Trump wins the 2016 US presidential election, defeating Hillary Clinton — the call of the one Costa Mesa panellist who had already, against a 17-candidate field, correctly picked Trump for the Republican nomination. Timing: decided 8 November 2016 (event date on card).",
+ "basis": "tradition: no tradition field on card (noted as absent); decided from genre — western astrology (individual panellist's reading within the ISAR conference report).\nsystems_used: western astrology. Card facts (distinguishing face): this panellist earlier in the cycle picked Trump as Republican nominee when 17 Republicans contested it — a demonstrated against-consensus hit on this very election cycle, which under fact-priority (e) outweighs the generic polling face for this individual card; polls favouring Clinton are listed and set aside for this reader's track record on the same race. Faces: main face = winner (Trump); timing = 8 Nov 2016. The contrast with WP-004 (panel majority) is preserved as two separate readers, not merged. No anchor reversal applicable. R61-REV1: event-date timing; granularity: winner item pointers = panellist's prior verified pick + same-cycle continuity (2), kept.",
+ "confidence": 0.58,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
