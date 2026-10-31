@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-001",
+ "prediction_text": "方向：儿子在母亲自己家中，不在主人（master）处。断语：子之星主木星（五宫主）落于上升（母亲一方之宫位），主子近母身、在母宅一侧；母与子两主星将成三分相，主母子有确切消息或相见。应期：以月亮/主星相位成相为据，时间窗为本月下旬，主坐标1638年7月25日下午2时前后（两主星三分相成相之时）得子之确讯。置信中。",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决·本例为Lilly卜卦问子之所在（母问子）。\n据卡面：上升天秤25度、上升主金星为母；木星为五宫主（子）落上升；月亮在双鱼27度将六合四宫主土星（母宅）。子星入母之宫位，故断子在母家而非主人家；两主星三分将成相定应期。应验对象复核：断的是子之所在，木星指代子，本人（母）为问者，对象同一。无量级类断项、R80-REV1不适用。\nsystems_used: horary astrology (Lilly, Christian Astrology Book II)",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

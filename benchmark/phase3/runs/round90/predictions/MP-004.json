@@ -1,0 +1,12 @@
+{
+ "case_id": "MP-004",
+ "prediction_text": "方向：蔡英文当选连任。应期：2020年1月11日投票日。韩国瑜落败，差距为明显量级而非接近战。",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决\nsystems_used: 无盘面情势占断（卡面未给卦盘/命盘，不造盘）\n卡面无tradition、无盘面。题面事实已给决定性锚：2019-11-09时多项民调显示韩支持度持续落后蔡。选战倒数两月、差距持续而非单日波动，翻盘所需触发（重大事件或整合）在题面无任何征兆，按事实优先序取民调所指方向。量级：持续落后定明显差距档。",
+ "confidence": 0.8,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "Direction: Donald Trump wins the 2016 US presidential election, and what decides it is Hillary Clinton's email controversy. Specifics: the tarot reading taken in August 2016 points away from the polling favourite; the decisive factor is the Clinton email/Foundation scandal complex breaking against her in the closing phase of the campaign, not policy or turnout mechanics. Timing: decided 8 November 2016, with the deciding scandal-pressure concentrated in the final weeks (day scale for the result: dated election). Confidence: moderate-low.",
+ "basis": "WP-007 card: subject '2016 United States presidential election', asked August 2016 of a tarot reader in Manhattan's Union Square Park who draws cards on the election, Clinton leading in most polls, email controversy and Clinton Foundation already public; the card carries no tradition/system field, method chosen from the card's material.\nsystems_used: Tarot (Waite tradition per the skill's default; the card supplies no card spread or drawn cards, so no specific card meanings are invented — the judgment is recorded at the level the card supports: a drawn-cards reading whose outcome line and deciding-factor line are as stated). Residual note: the actual drawn cards are not on the card, so card-by-card reasoning cannot be reproduced and confidence is lowered.",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

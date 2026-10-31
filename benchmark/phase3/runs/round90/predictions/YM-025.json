@@ -1,0 +1,12 @@
+{
+ "case_id": "YM-025",
+ "prediction_text": "方向：明日无雨，主晴。用神父母（雨神）本卦不现，伏于初爻子孙辰土之下，伏神卯木在申月受克、甲寅日只得比助难出；妻财酉金（晴象）四爻临应，申月旺相，晴象当权临高位。应期定日档：所问即明日，主坐标明日卯日仍以晴为主、至多薄云。置信0.60。systems_used: liuyao。",
+ "basis": "liuyao\n本例标示：申建甲寅旬甲寅日、火山旅静卦六合、占雨明日有无。旬空子丑。父母伏藏受月克为雨无据之核心；世子孙辰土为飞神晦伏，伏神出伏无路。静卦无动化；反转条件：无。本例以伏神作断，reserve留痕。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "用神父母伏藏、以伏神作断，reserve_used=true。"
+ }
+}

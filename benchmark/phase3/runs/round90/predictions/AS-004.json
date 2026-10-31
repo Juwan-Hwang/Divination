@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-004",
+ "prediction_text": "方向：传闻不实——国王并未攻下剑桥（Cambridge）。断语：四轴皆在变动宫、土星伤十宫头、火星伤七宫头、月亮落陷无所喜，皆主消息虚浮无根；上升主（议会一方）在擢升强位，而七宫主（国王一方）入落陷受克，主国王一方并无此胜绩，剑桥不在其手。应期：此为即时真伪之问，无后段应期；消息在当下即可定为虚报，数日内自明。置信中高。",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决·本例为1643年内战传闻真伪问。\n据卡面所列Lilly散文位置：轴宫变动、土星/火星伤宫头、月亮落陷、问者方主星擢升、对方主星入落陷受损。传闻问以三宫/消息面与双方主星强弱定真伪，弱方不能有此捷报，故断不实。此问无近远两段（单点真伪），不适用两段式。\nsystems_used: horary astrology (Lilly, rumour questions)",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

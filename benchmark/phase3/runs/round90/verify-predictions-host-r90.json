@@ -1,0 +1,23 @@
+{
+ "want": 487,
+ "files": 487,
+ "missing": [],
+ "extra": [],
+ "bad": [],
+ "trigger_counts": {
+  "changed_main": 29,
+  "reserve_used": 42,
+  "disputed": 56
+ },
+ "trigger_reasons_nonempty": 218,
+ "tradition_flag_candidates": [
+  {
+   "case_id": "AS-009",
+   "kind": "card_has_field_but_first_line_unmarked",
+   "card_tradition": "horary",
+   "card_system": null,
+   "first_line": "卡面未标注 tradition 字段，按题面体裁自决·本例为Temple Bar居民问失犬。"
+  }
+ ],
+ "claim_group_candidates": []
+}

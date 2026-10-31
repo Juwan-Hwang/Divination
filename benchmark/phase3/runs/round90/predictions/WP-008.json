@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-008",
+ "prediction_text": "BJP/NDA under Narendra Modi wins the 2019 Lok Sabha election and Modi retains the premiership; the Congress-led opposition falls well short of a majority. Direction: incumbent victory, clear rather than hung. Timing: result on counting day 23 May 2019. systems_used: western/world-event political judgment from card facts (incumbency, pre-poll setting). Confidence 0.68.",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决\n本例标示：2019印度大选、投票未开始时作断。卡面无盘面/星盘数据，仅据题面事实（在任总理谋连任、评估在投票前）作世界事件判断，无盘可据，置信据此封顶。systems_used: world-event judgment (no chart supplied).",
+ "confidence": 0.68,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

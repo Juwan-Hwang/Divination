@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-013",
+ "prediction_text": "Labour under Keir Starmer wins the UK general election of 4 July 2024 by a large margin and Starmer becomes Prime Minister; the Conservatives under Rishi Sunak suffer a heavy defeat. Direction: opposition landslide, not a narrow win. Timing: election day 4 July 2024. systems_used: western/world-event judgment from card facts (roughly twenty-point Labour polling lead at asking time). Confidence 0.72.",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决\n本例标示：2024英国大选、选举落在巨蟹座时段。卡面明载工党民调领先约二十分点，此为题面内最强证据，据此断大胜；星象注记（Cancer）仅作体裁背景，不作翻盘据。systems_used: world-event judgment (no chart supplied).",
+ "confidence": 0.72,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "case_id": "YM-029",
+ "prediction_text": "方向：此地可用，但就地须待父母文书引出。用神父母午火伏于三爻兄弟戌土之下，戌月戌土飞神与午火半合火气，伏神不为死绝；世爻官鬼寅木两现临世一位，主事主执意可用。应期定月档：窗口年内，主坐标午月（伏神逢值出伏、地契文书落定而就地）。置信0.50（伏神作断降置信）。systems_used: liuyao。",
+ "basis": "liuyao\n本例标示：癸巳岁戌建甲辰旬癸丑日、山天大畜静卦、筮有地可用否。旬空寅卯，世官寅木落空为瑕：执意虽在、时位未实，故断可用而须待。父母伏藏以飞伏论断，reserve留痕。静卦无动化；反转条件：无。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": true,
+  "disputed": false,
+  "reason": "用神父母伏藏、以伏神作断，reserve_used=true。"
+ }
+}

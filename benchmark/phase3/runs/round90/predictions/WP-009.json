@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-009",
+ "prediction_text": "India do NOT win the 2019 Cricket World Cup: they reach the knockout stage (semi-final) but fall short of the trophy, which goes to another of the leading sides. Direction: negative on the exact question asked. Timing: decided by the final on 14 July 2019. systems_used: world-event judgment from card facts (ten-team format, India one of several firm favourites). Confidence 0.55.",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决\n本例标示：2019板球世界杯、印度队为热门之一。卡面无星盘数据；十队单冠、热门不止一队，按基率与题面『one of the firm favourites』作断，无盘可据。systems_used: world-event judgment (no chart supplied).",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
