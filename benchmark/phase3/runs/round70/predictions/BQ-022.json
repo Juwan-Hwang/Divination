@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-022",
+ "prediction_text": "棉作不利：无妄之讼，应爻冲克世爻，主天时人事皆与棉田相逆——棉花长势受挫、收成差，多主雨涝或病害伤棉，勉强种植亦无好收。时间窗：棉作当季，主坐标夏秋结铃期见损。置信中。",
+ "basis": "tradition=六爻（卡面逐字）。六爻卜棉：应冲克世定逆境伤作。卡面无全盘、且本卦名原刻作『元妄』已按卡面注作无妄，输入残损已降置信；有变卦故 changed_main=true，盘面不全故 disputed=true。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "无妄之讼；仅记应冲世，无全盘"
+ }
+}

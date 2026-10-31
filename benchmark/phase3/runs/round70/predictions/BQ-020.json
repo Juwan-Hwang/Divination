@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-020",
+ "prediction_text": "乱中子弟不安：大壮之小过，日辰妻财生扶动爻，却刑冲子孙、又克兄弟，子孙为子弟用神受刑冲，主子弟辈有伤灾惊险，兄弟辈亦受其累；财生动爻只主家财尚有周转，不救子孙之克。时间窗：乱局当期以月计，主坐标本季内见险。置信中。",
+ "basis": "tradition=六爻（卡面逐字）。六爻避难问子弟：子孙用神受日辰刑冲定不安。卡面无全盘已降置信；有变卦故 changed_main=true，盘面不全故 disputed=true。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "大壮之小过；仅记财生动爻刑冲子孙，无全盘"
+ }
+}

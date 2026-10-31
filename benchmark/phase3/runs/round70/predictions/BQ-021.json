@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-021",
+ "prediction_text": "禾稻长势差、收成受损：大过之困，酉金官鬼动变午火、日辰带财克制二爻——二爻为田禾之位受克，官鬼动主病虫/灾伤，变火主旱热伤禾。结论：此年禾稻有灾伤、收成明显欠佳。时间窗：年内禾熟季，主坐标夏秋之交见伤。置信中。",
+ "basis": "tradition=六爻（卡面逐字）。六爻卜禾：二爻田位受克、鬼动化火定灾伤。卡面无全盘已降置信；有变卦故 changed_main=true，盘面不全故 disputed=true。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "大過之困；仅记酉官动变午火，无全盘"
+ }
+}

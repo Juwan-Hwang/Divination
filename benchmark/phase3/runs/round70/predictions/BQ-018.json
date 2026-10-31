@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-018",
+ "prediction_text": "避乱凶、难逃此祸：损之临，日辰虽扶，官鬼发动克世爻且并无救制，世又坐空亡——世空只主暂避一时，出空之日鬼克即应，主所避非安、终有伤祸。时间窗：以旬月计，主坐标世爻出空填实之期祸应。置信中高。",
+ "basis": "tradition=六爻（卡面逐字）。六爻避乱：鬼动克世无救为凶主线，世空转应期（出空应）而非改向。卡面无全盘已降置信；有变卦故 changed_main=true，盘面不全故 disputed=true。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "损之临；仅记鬼动克世世空，无全盘"
+ }
+}

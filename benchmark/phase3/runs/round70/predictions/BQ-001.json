@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-001",
+ "prediction_text": "父寿已尽、就在近旬之内辞世：父卧疾三年又气尽复苏，本卦兑之履，兑为口、为言，变乾为天、本宫火克，卦象主回光而气数竭。回溯尺度定日档：窗口旬内，主坐标数日之内（近戌/庚辛日气绝之期）父亡，不作久延之断。置信中。",
+ "basis": "tradition=筮占（卡面逐字）。所用体系：蓍筮/六爻取象（卡面自述已用本宫、庚辛日、变卦）。卡面无六爻全盘、chart_complete=false，输入残损，已降置信并在 basis 注明；变卦履成立故 changed_main=true，盘面不全故 disputed=true。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "有变卦兑之履；无六爻全盘，取象存疑"
+ }
+}

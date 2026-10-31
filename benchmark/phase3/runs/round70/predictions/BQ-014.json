@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-014",
+ "prediction_text": "飓风将止、可行但须稍待：困之震，兄弟、父母俱动而合住应爻，父母主风雨、动而被合住主风势被绊、渐收；应爻被合主行程先滞后通。结论：风于一两日内停歇，待风止后行程可行。时间窗：日档，窗口三日内，主坐标次日风止。置信中。",
+ "basis": "tradition=六爻（卡面逐字）。六爻卜风：父动主风、合住主止。卡面无全盘，输入残损已降置信；有变卦故 changed_main=true，盘面不全故 disputed=true。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "困之震；仅记兄父动合应，无全盘"
+ }
+}

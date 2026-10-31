@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-023",
+ "prediction_text": "租田种麦之约落空、田不归占者久种：姤之乾，世上父母爻动而化空，父母主田契文书，动化空则契约成空、田主另有归属或收回，主此田种不成、纵种亦难得其利。时间窗：以季计，主坐标签约/下种当季内见约废。置信中。",
+ "basis": "tradition=六爻（卡面逐字）。六爻卜种田：父母（田契）动化空定约废。卡面无全盘、无日期，输入残损已降置信；有变卦故 changed_main=true，盘面不全故 disputed=true。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "姤之乾；仅记世上父动化空，无全盘无日期"
+ }
+}

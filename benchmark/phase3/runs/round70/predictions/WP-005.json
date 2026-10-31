@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-005",
+ "prediction_text": "Prediction: Donald Trump wins the 2016 US presidential election (8 November 2016). Specifically, the panellist who alone picked Trump as Republican nominee out of 17 contenders is again on the right side: Trump's path runs through an Electoral College majority built on states the polling consensus assigned to Clinton; the result is an upset, not a narrow confirmation of the polls.",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决 (no tradition field on card). Card facts distinguish this card from the general panel card: one panellist's earlier against-consensus Trump nomination pick is carried on the card as a track-record anchor, and fact-priority gives that demonstrated signal weight over the poll lead stated for Clinton. Method: western mundane astrology.",
+ "confidence": 0.57,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

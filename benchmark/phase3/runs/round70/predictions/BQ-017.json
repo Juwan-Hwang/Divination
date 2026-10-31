@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-017",
+ "prediction_text": "避乱不安、祸藏待发：涣卦六爻安静表面无鬼，然官鬼伏于六三空亡爻下，已透出又逢申日提起、且冲克世爻，主眼前暂安、申日一过伏鬼被提，祸即逼身——所避之处终非安地，须防申日后变生。时间窗：日档，窗口至次申日，主坐标申日祸起。置信中。",
+ "basis": "tradition=六爻（卡面逐字）。六爻避乱：鬼伏空亡为待应而非无鬼，申日冲提定应期。卡面仅记卦名涣、无变卦无全盘，输入残损已降置信；无变卦故 changed_main=false，盘面不全故 disputed=true。",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "涣静卦鬼伏空亡；无全盘"
+ }
+}

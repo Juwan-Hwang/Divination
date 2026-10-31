@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-024",
+ "prediction_text": "瘟中之鸡凶多吉少：噬嗑之颐，日辰虽并起子孙（鸡为子孙之属），然四爻螣蛇官鬼发动临怪，主瘟毒之鬼已动克其类——子孙得日辰一时之扶难敌鬼动，鸡群多死、存活无几。时间窗：日档，窗口旬内，主坐标数日内见死。置信中低。",
+ "basis": "tradition=六爻（卡面逐字）。六爻卜畜：子孙为鸡用神，鬼动螣蛇与日扶子孙两路相持，按鬼动临怪取凶。卡面无全盘已降置信；有变卦故 changed_main=true，两路冲突故 disputed=true。",
+ "confidence": 0.45,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "噬嗑之颐；日扶子孙与螣蛇鬼动相持，无全盘"
+ }
+}

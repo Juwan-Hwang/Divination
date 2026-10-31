@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-004",
+ "prediction_text": "谣言不实：国王并未攻下剑桥。四角皆动、月亮陷于其不喜之座而落陷宫，七宫主（国王方）入落且受克，上升主（问者一方）反居擢升，主消息虚妄、王军并无此胜。时间窗：即时可验，主坐标本月内证伪。置信高。",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决：Lilly 卜卦占星谣言真伪问（其第三宫/传言判法）。动角主不稳、七宫主落陷受克为不实主证；应期日档（近事传言）。",
+ "confidence": 0.8,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

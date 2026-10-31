@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-002",
+ "prediction_text": "Prediction: Barack Obama wins the 2008 US presidential election (4 November 2008). Specifically, Obama first clinches the Democratic nomination over Clinton, then defeats John McCain in the general election; the Saturn–Uranus opposition exact on Election Day marks the break with the incumbent party — the change candidate, not the continuity candidate, takes the White House.",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决 (no tradition field on card). Card facts: Obama leading but not clinched, McCain presumptive nominee, Saturn–Uranus opposition beginning Election Day last seen 45 years earlier — mundane reading: the opposition signature favours rupture/change over incumbency. Method: western mundane astrology, fact-priority on the stated configuration.",
+ "confidence": 0.62,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

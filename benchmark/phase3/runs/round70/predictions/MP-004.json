@@ -1,0 +1,12 @@
+{
+ "case_id": "MP-004",
+ "prediction_text": "断：蔡英文当选连任。卡面明载多项民调韩国瑜持续落后，且距投票仅约两个月，落后幅度在剩余时程内无卡面可见的翻盘变量。应期：2020年1月11日投票日。胜幅：中大幅（民调领先之量级延续）。",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决（现代大师预测类：无盘面/卦象输入，仅据卡面事实与时势作断）\n所据事实：民调持续落后为卡面直载事实，按事实优先序取之。无占具输入。",
+ "confidence": 0.78,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "非六爻，trigger 三项全 false。"
+ }
+}

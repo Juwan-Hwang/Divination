@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-019",
+ "prediction_text": "倭祸终至且祸起非常：明夷之谦，二鬼俱静而子孙独发，子孙本为解神却被日辰扶起反克世、又变出官爻，世入墓且世临病爻，主祸不由正面寇警而由意外/内应之变逼身，占者有病厄伤灾之险。时间窗：以月计，主坐标本季内变起。置信中。",
+ "basis": "tradition=六爻（卡面逐字）。六爻卜倭：子动变官为祸变之象，世墓临病定凶。卡面无全盘已降置信；有变卦故 changed_main=true，盘面不全故 disputed=true。",
+ "confidence": 0.5,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "明夷之谦；仅记二鬼静子独发，无全盘"
+ }
+}

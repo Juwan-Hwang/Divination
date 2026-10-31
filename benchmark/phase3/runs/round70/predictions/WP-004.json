@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-004",
+ "prediction_text": "Prediction: Donald Trump wins the 2016 US presidential election (8 November 2016), defeating Hillary Clinton against the polling consensus. Specifically, the upset is decided in the Electoral College through Rust Belt / working-class states swinging to Trump, while Clinton may still lead the national popular vote — the conference-panel contrarian call, not the poll-favoured one.",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决 (no tradition field on card). Card facts: polls favour Clinton, an astrologers' forecasting panel is convened — mundane practice at such panels weights disruption signatures over polling; prediction stated at event level (winner + deciding mechanism). Method: western mundane astrology.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

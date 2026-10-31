@@ -1,0 +1,12 @@
+{
+ "case_id": "YY2-004",
+ "prediction_text": "本例不成断：输入残损过甚，寿限无据不报。卡面仅载变卦为坤宫雷天大壮，本卦名原书版面即缺字，chart_lines 与 moving_lines 皆为 null，本宫、世应、六亲、动爻无从定，无法按六爻寿元法取用神、论旺衰。仅记已知面：占时丙寅年丙申月丁巳日丙午时，丁巳日空子丑。不断具体寿年、不断吉凶终局；如必须给倾向，只能记为无据存疑，置信 0.12。",
+ "basis": "卡面 tradition＝liuyao\n输入残损照实注：notes.completion_grade 明载 chart_lines_top_to_bottom 与 moving_lines 为『不可补』（本卦缺字、异文查无可补），故用神、旺衰、动化、应期四项皆无盘面路径，按方法『有面无据不报』交付。动化方向：无盘可核，记不适用。反转条件：不适用。R61复推：无应期断语，R61-REV1-2/-3 不适用；无具体断项，R61-REV1-4 不适用。",
+ "confidence": 0.12,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "本卦名原书缺字、盘面与动爻皆为 null，无法成盘，disputed=true 记残损争议；未用伏神、无动化可论。"
+ }
+}

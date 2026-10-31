@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-015",
+ "prediction_text": "此年年时不利、水患伤稼、五谷歉收：蒙之中孚，水鬼与应上父母俱动伤克世爻，妻财伏藏不出，父母动主雨多、水鬼动主涝害，财伏主收成无著。结论：该岁雨涝成灾、年成歉薄，有饥馑之虞。时间窗：年档，主坐标夏秋水患季见灾。置信中高。",
+ "basis": "tradition=六爻（卡面逐字）。六爻卜年时：父母（雨）与官鬼（水患）动克世、妻财（五谷）伏藏定歉收。卡面无全盘已降置信；有变卦故 changed_main=true，盘面不全故 disputed=true。",
+ "confidence": 0.65,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "蒙之中孚；仅记水鬼父动财伏，无全盘"
+ }
+}

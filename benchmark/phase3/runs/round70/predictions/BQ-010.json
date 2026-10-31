@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-010",
+ "prediction_text": "官司败：蒙之未济，父母爻空亡——父母主文书、状词与官府凭据，空亡则文书无凭、讼端落空，事又之未济主不成。结论：此诉不利、难胜，多以不了了之或败诉收场。时间窗：以月计，主坐标本季内结案见败。置信中。",
+ "basis": "tradition=六爻（卡面逐字）。六爻纳甲：父母为文书用神，空亡加变未济定败。卡面无全盘、chart_complete=false，输入残损，已降置信；有变卦故 changed_main=true，盘面不全故 disputed=true。",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": true,
+  "reserve_used": false,
+  "disputed": true,
+  "reason": "蒙之未济；仅记父母空亡，无全盘"
+ }
+}

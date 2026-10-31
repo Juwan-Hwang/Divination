@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-003",
+ "prediction_text": "Prediction: Barack Obama wins re-election in the 2012 US presidential election (6 November 2012), defeating Mitt Romney. Specifically, the incumbent retains the White House in a competitive but clear result; Mercury turning retrograde on Election Day brings counting delays and disputes in close states but does not reverse the outcome.",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决 (no tradition field on card). Card facts: incumbent Obama vs presumptive nominee Romney, competitive polling, Mercury retrograde beginning on Election Day — mundane convention: retrograde on election day disrupts process, not the incumbent's retention absent a stronger challenger signature. Method: western mundane astrology.",
+ "confidence": 0.6,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
