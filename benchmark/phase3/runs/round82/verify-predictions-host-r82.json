@@ -1,0 +1,15 @@
+{
+ "want": 487,
+ "files": 487,
+ "missing": [],
+ "extra": [],
+ "bad": [],
+ "trigger_counts": {
+  "changed_main": 18,
+  "reserve_used": 26,
+  "disputed": 49
+ },
+ "trigger_reasons_nonempty": 299,
+ "tradition_flag_candidates": [],
+ "claim_group_candidates": []
+}
