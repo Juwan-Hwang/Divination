@@ -1,0 +1,263 @@
+{
+  "set": "holdout26",
+  "scan": "independent rescan (seat, second pass)",
+  "pass": true,
+  "failures": [],
+  "totals": {
+    "marker": 0,
+    "fieldname": 0,
+    "banned": 0,
+    "oc_frag": 0,
+    "mp_frag": 0,
+    "short_frag_info": 2
+  },
+  "per_case": {
+    "DS-031": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "DS-032": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "DS-033": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "DS-034": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "DS-035": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "DS-036": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "DS-037": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "DS-038": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "DS-039": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "QM-034": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "QM-035": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": [
+        "这次技术移民加拿",
+        "次技术移民加拿大"
+      ]
+    },
+    "QM-036": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "QM-037": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "QM-038": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "QM-039": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "QM-040": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "QM-042": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "QM-043": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "GSZ-069": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "GSZ-074": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "GSZ-075": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "GSZ-077": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "GSZ-078": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "WHY-004": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "WHY-005": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "WHY-006": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    },
+    "WHY-007": {
+      "marker_hits": [],
+      "fieldname_hits": [],
+      "banned_key_hits": [],
+      "whitelist_ok": true,
+      "outcome_fragment_hits": [],
+      "master_prediction_fragment_hits": [],
+      "short_fragment_info_hits": []
+    }
+  },
+  "note": "short_fragment_info_hits 为附加短片段核（断语 ≥8 字连续子串），仅信息登记"
+}
