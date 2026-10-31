@@ -1,0 +1,51 @@
+import json, pathlib
+
+rows = [
+ {"anon_id":"H32O-1bf143d2","direction":0,"claims":0,"timing":0,"reason":"方向反向：断入仕中平，实际青年患痨早亡；午年应期亦不对齐。"},
+ {"anon_id":"H32O-2f0229c1","direction":0,"claims":0,"timing":0,"reason":"方向反向：断下半年得财，实际财运不佳、无晋升且戌月丈夫坠亡；午月坐标不对齐。"},
+ {"anon_id":"H32O-33b93bd5","direction":2,"claims":2,"timing":1,"reason":"婚姻、得女与结局所称诸断语皆合；应期主坐标卯年偏于1988年结婚，尺度对坐标偏。"},
+ {"anon_id":"H32O-391c6db0","direction":1,"claims":1,"timing":1,"reason":"先难（幼失父母受欺凌）合，晚年小成未见；中年田土文书纠缠错位为丧妻。无时点可核（中性记 1）。"},
+ {"anon_id":"H32O-43703c8a","direction":2,"claims":1,"timing":1,"reason":"恶性肿瘤断中，但病位心肺与实际食道错位。无时点可核（中性记 1）。"},
+ {"anon_id":"H32O-4c5706c7","direction":1.5,"claims":1,"timing":1,"reason":"次年秋末远行未终局近于有始无终，但结局称无隙末、程度较轻；未月坐标偏于秋末。"},
+ {"anon_id":"H32O-5f9d5b17","direction":1,"claims":1,"timing":0,"reason":"终能到任但迟至第六年，与占后一月未日成行完全不对齐；任内调动未见，后为丧归。"},
+ {"anon_id":"H32O-5fe6c940","direction":2,"claims":1,"timing":1,"reason":"恋爱散局且与谁也未婚合，但三角结构错位：实际为前女友回归而非另有男子占位。无时点可核（中性记 1）。"},
+ {"anon_id":"H32O-645e500d","direction":0,"claims":1,"timing":1,"reason":"自立子贵主轴被证伪：实际懒惰假病、至今独身无子；仅父丧与未入仕途部分合。无时点可核（中性记 1）。"},
+ {"anon_id":"H32O-66616b38","direction":2,"claims":2,"timing":1,"reason":"辞职与1997年后财运低谷至生活困难合，结局亦称判断全对；辰月坐标无据、仅年尺度部分对齐。"},
+ {"anon_id":"H32O-6cdb1eb6","direction":1,"claims":1,"timing":0,"reason":"果中有进仅部分合，授司户后次月病死，升任成色大减；应期申年与实际庚戌年不对齐。"},
+ {"anon_id":"H32O-6cdcd67b","direction":2,"claims":2,"timing":1,"reason":"无。无时点可核（中性记 1）。"},
+ {"anon_id":"H32O-7358a085","direction":2,"claims":2,"timing":1,"reason":"孕不成实、六月小产断中；丑日主坐标无据，仅月尺度部分对齐。"},
+ {"anon_id":"H32O-8c7a7c7d","direction":1,"claims":1,"timing":1,"reason":"八月土匪勒耗船户近于行商受阻破财，但本人此行成败未明载；卯日坐标无据。"},
+ {"anon_id":"H32O-8deac93b","direction":2,"claims":2,"timing":1,"reason":"馆成、先少后多、年终去半受累皆合；寅月主坐标无据，仅时段部分对齐。"},
+ {"anon_id":"H32O-90cd7fb3","direction":1,"claims":0.5,"timing":0,"reason":"中上平稳与实际午月入狱、饭店经营不挣钱转手相左；经营得利被证伪，午年最顺与午月入狱正相反。"},
+ {"anon_id":"H32O-a7278c48","direction":0.5,"claims":0.5,"timing":1,"reason":"子靠晚景主轴被孩子捣蛋不听话证伪，财散无据；仅婚姻不睦与平淡同向。无时点可核（中性记 1）。"},
+ {"anon_id":"H32O-ab167668","direction":0,"claims":0,"timing":0,"reason":"方向反向：断文教升任，实际得心病九年而卒，妻亦病亡；子年坐标与庚申年亡不对齐。"},
+ {"anon_id":"H32O-ab8606bf","direction":1,"claims":1,"timing":0,"reason":"不宜进取、为人控未结与迄无所成合，但退守得安未见（次年避匪远飏）；亥月坐标与次年事不对齐。"},
+ {"anon_id":"H32O-b0ece1b4","direction":0,"claims":0.5,"timing":1,"reason":"方向反向：断可成回心，实际未婚同居且男方移情私通；第三者仅形态错位近于挑拨。无时点可核（中性记 1）。"},
+ {"anon_id":"H32O-b3238cc5","direction":0,"claims":0,"timing":0,"reason":"方向反向：断监试落空，实际当年发解、癸丑年及第授官；申日落选坐标被证伪。"},
+ {"anon_id":"H32O-c5665410","direction":1.5,"claims":1,"timing":2,"reason":"未月官非应期精确（未月末冲突被警察拘留一星期），但官非形态由行车罚责错位为旅游打架，先难后得小财未见载。"},
+ {"anon_id":"H32O-c9ffcd01","direction":2,"claims":1,"timing":1,"reason":"甲子年授江阴军知录合可进与位止佐贰；靠人成事无据。窗口含实应而寅年主坐标偏。"},
+ {"anon_id":"H32O-daafa169","direction":2,"claims":2,"timing":1,"reason":"无。无时点可核（中性记 1）。"},
+ {"anon_id":"H32O-e556d890","direction":2,"claims":1,"timing":0,"reason":"癌症病凶致死合，但病位下腹肾膀胱与骨癌错位；巳日旬内坐标与辛巳年寅月丙辰日死不对齐。"},
+ {"anon_id":"H32O-e7bba204","direction":1,"claims":1,"timing":1,"reason":"1994年结婚合可成，但能续被离异证伪；未日主坐标无据，仅部分对齐。"},
+ {"anon_id":"H32O-f50f2a57","direction":0,"claims":0,"timing":1,"reason":"弃官就商被证伪：实际为报社处级干部，未见从商与为财奔波。无时点可核（中性记 1）。"},
+ {"anon_id":"H32O-fcb3084c","direction":2,"claims":2,"timing":1,"reason":"无。无时点可核（中性记 1）。"},
+]
+
+out = pathlib.Path("/home/hatch/workspace/divination/benchmark/phase3/runs/round90/acceptance/judging/judgeO1.jsonl")
+lines = []
+for r in rows:
+    total = r["direction"] + r["claims"] + r["timing"]
+    rec = {"anon_id": r["anon_id"], "direction": r["direction"], "claims": r["claims"],
+           "timing": r["timing"], "total": total, "pass": total >= 4, "reason": r["reason"]}
+    lines.append(json.dumps(rec, ensure_ascii=False))
+out.write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+# self-verify
+back = [json.loads(l) for l in out.read_text(encoding="utf-8").splitlines() if l.strip()]
+assert len(back) == 28, len(back)
+for b in back:
+    assert abs(b["total"] - (b["direction"] + b["claims"] + b["timing"])) < 1e-9, b
+    assert b["pass"] == (b["total"] >= 4), b
+print("rows:", len(back))
+print("nulls:", [b["anon_id"] for b in back if b["total"] is None])
+print("check: OK")
