@@ -1,0 +1,62 @@
+{
+ "set": "holdout34",
+ "round": 93,
+ "family": "BY",
+ "built_ids": [
+  "BY-047",
+  "BY-048",
+  "BY-049",
+  "BY-050",
+  "BY-051",
+  "BY-053"
+ ],
+ "stop_items": [],
+ "chart_check": {
+  "BY-047": "合格：原书书p180（PDF p192，页图 by-192.png）课盘方阵／四课格／三传栏三件俱在，本席通读＋裁切放大复核（h34-by-crops-r93/crop-by047.png）逐字转录。",
+  "BY-048": "合格：原书书p180（PDF p192，页图 by-192.png）课盘方阵／四课格／三传栏三件俱在，本席通读＋裁切放大复核（h34-by-crops-r93/crop-by048.png）逐字转录。四课二三两课同作酉（空）亥，原书格内照录。",
+  "BY-049": "合格：原书书p181（PDF p193，页图 by-193.png）课盘方阵／四课格／三传栏三件俱在，本席通读＋裁切放大复核（h34-by-crops-r93/crop-by049.png）逐字转录。",
+  "BY-050": "合格：原书书p181-182（PDF p193-194，页图 by-193.png／by-194.png）课盘方阵／四课格／三传栏三件俱在（课盘全在书p181），本席通读＋裁切放大复核（h34-by-crops-r93/crop-by050.png）逐字转录。四课二三两课同作卯（勾）巳（干上神与支同为巳），原书格内照录。",
+  "BY-051": "合格：原书书p182（PDF p194，页图 by-194.png）课盘方阵／四课格／三传栏三件俱在，本席通读＋裁切放大复核（h34-by-crops-r93/crop-by051.png）逐字转录。",
+  "BY-053": "合格：原书书p184（PDF p196，页图 by-196.png）课盘方阵／四课格／三传栏三件俱在，本席通读＋裁切放大复核（h34-by-crops-r93/crop-by053.png）逐字转录。"
+ },
+ "tail_disposition": {
+  "BY-047": "文尾处置：正议／案验全文照录，无附议、复玩文尾。",
+  "BY-048": "文尾处置：正议／案验全文照录；案验后附议（书p181页首「凡幕贵加年命为林下贵人……故以升官论」）为附议，不入断语。",
+  "BY-049": "文尾处置：正议／案验全文照录，无附议、复玩文尾。",
+  "BY-050": "文尾处置：断语＝正议全文（跨书p181-182，正议内「问／曰」问答属原断，照 BY-044 参议并入先例并载）；案验全文照录；案验后附议（「此课若泥类神……邵子所以贵心易也」）不入。",
+  "BY-051": "文尾处置：正议／案验全文照录，无附议、复玩文尾。",
+  "BY-053": "文尾处置：正议／案验全文照录，无附议、复玩文尾。"
+ },
+ "field_mapping_notes": {
+  "BY-047": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原书页图复原课盘；setting/provenance←池卡 provenance 组写",
+  "BY-048": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原书页图复原课盘；setting/provenance←池卡 provenance 组写",
+  "BY-049": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原书页图复原课盘；setting/provenance←池卡 provenance 组写",
+  "BY-050": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原书页图复原课盘；setting/provenance←池卡 provenance 组写",
+  "BY-051": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原书页图复原课盘；setting/provenance←池卡 provenance 组写",
+  "BY-053": "subject/question←池卡 subject/question_or_topic 逐字；anchors←asked_at 逐字＋本席回原书页图复原课盘；setting/provenance←池卡 provenance 组写"
+ },
+ "strip_register": {
+  "BY-047": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+  ],
+  "BY-048": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+  ],
+  "BY-049": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+  ],
+  "BY-050": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+  ],
+  "BY-051": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+  ],
+  "BY-053": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/review（池卡管理与金标侧字段，不入输入卡）"
+  ]
+ },
+ "notes": [
+  "页图目录实存为 runs/round93/lr-pages-h34-seat/（派单所指 runs/round93/h34-precheck-extract-r93/lr-pages-h34-seat/ 不存在），本席复用实存目录页图 by-192..196.png。",
+  "BY-052 不在构成内（资格断言未过，承派单与 precheck 复算），本席未建。"
+ ]
+}

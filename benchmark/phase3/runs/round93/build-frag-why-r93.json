@@ -1,0 +1,55 @@
+{
+ "set": "holdout34",
+ "round": 93,
+ "seat": "WHY 族小席",
+ "built_ids": [
+  "WHY-111",
+  "WHY-112",
+  "WHY-114",
+  "WHY-115"
+ ],
+ "stop_items": [],
+ "n_cards": 4,
+ "n_gold_lines": 4,
+ "gold_frag_sha256_build": "d696a317763dbdc5542b87a4b614594a90b9ed8038c41bbf5759dd2b14e075c2",
+ "gold_frag_bytes": 9169,
+ "verbatim_pages": {
+  "WHY-111": "印刷p194",
+  "WHY-112": "印刷p194–196",
+  "WHY-114": "印刷p198–199",
+  "WHY-115": "印刷p199–200"
+ },
+ "transcription_confidence": {
+  "WHY-111": "high",
+  "WHY-112": "high",
+  "WHY-114": "medium-high",
+  "WHY-115": "high"
+ },
+ "outcome_checks": {
+  "WHY-111": "相合：原书應驗情況（一九九三年此人幫朋友蓋房，在朋友家因喝酒過度而引起肺部化膿，最後發展成哮喘病）与台账 outcome_record 逐字对应（简繁之别除外）。",
+  "WHY-112": "一处字面差异登记：台账 outcome_record 作「2000年搬到五层」，原书應驗情況（印刷p196）作「二〇〇一年搬到五層」；结局照台账逐字照录不改，余文（整修、今年卯月發瘋、自言自語、神仙下凡、調理而愈）逐字对应。",
+  "WHY-114": "相合：原书應驗情況（所斷疾病皆驗，她說肝腹水已經好了。其他病還沒治好）与台账 outcome_record 逐字对应（简繁之别除外）。",
+  "WHY-115": "相合（口径见 extra：无獨立應驗段，以判斷內答語逐項核对）。"
+ },
+ "field_mapping_notes": {
+  "WHY-111": "anchors←台账 input_fields.chart 全列逐字（键序 ben_gua/bian_gua/moving_lines/chart_lines_top_to_bottom/fu_shen，fu_shen 空值照录）；context←asked_at＋question＋原书章节定位组写；subject 台账为空、原书未具名，组写",
+  "WHY-112": "anchors←台账 input_fields.chart 全列逐字（键序 ben_gua/bian_gua/moving_lines/chart_lines_top_to_bottom/fu_shen，fu_shen 空值照录）；context←asked_at＋question＋原书章节定位组写；subject←台账 subject 逐字（本例非空）",
+  "WHY-114": "anchors←台账 input_fields.chart 全列逐字（键序 ben_gua/bian_gua/moving_lines/chart_lines_top_to_bottom/fu_shen，fu_shen 空值照录）；context←asked_at＋question＋原书章节定位组写；subject 台账为空、原书未具名，组写",
+  "WHY-115": "anchors←台账 input_fields.chart 全列逐字（键序 ben_gua/bian_gua/moving_lines/chart_lines_top_to_bottom/fu_shen，fu_shen 空值照录）；context←asked_at＋question＋原书章节定位组写；subject 台账为空、原书未具名，组写"
+ },
+ "strip_register": {
+  "WHY-111": [
+   "master_prediction（台账原录为要旨摘录、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+  ],
+  "WHY-112": [
+   "master_prediction（台账原录为要旨摘录、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+  ],
+  "WHY-114": [
+   "master_prediction（台账原录为要旨摘录、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+  ],
+  "WHY-115": [
+   "master_prediction（台账原录为要旨摘录、回原书补录件）/outcome_record/pollution_note/dedup_check/filters/grade_note（台账管理与金标侧字段，不入输入卡）"
+  ]
+ },
+ "page_images": "runs/round93/why-pages-h34-seat/（前席备件，只读复用）＋runs/round93/why-pages-h34-seat-b/（本席新裁：p198–p201 半页与 zoom 复核件）"
+}

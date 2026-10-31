@@ -1,0 +1,733 @@
+{
+ "DA-075": {
+  "id": "DA-075",
+  "tradition": "六壬",
+  "master": "邵彦和",
+  "source_work": "《大六壬断案》",
+  "subject": "徐通判（戊午生，五十一岁）",
+  "question_or_topic": "占赴任及前程",
+  "asked_at": "戊申年十二月壬辰日丑将午时。甲申旬，午未空。",
+  "context_at_prediction": "",
+  "master_predictions": [
+   {
+    "statement_excerpt": "邵先生曰（退而告门人）：此课名乱首，通判日后因在任受贿、为仆所持遂奸其妻，通判终死于仆手；由父墓玄武不垂头拒尸之故，若速移坟可保性命、否则戊午年必见凶",
+    "direction": "negative",
+    "key_assertions": [
+     "在任受贿二千贯",
+     "仆挟持奸妻",
+     "戊午年仆刺死通判"
+    ],
+    "timing_claim": "戊午年"
+   }
+  ],
+  "outcome": {
+   "description": "徐辛亥赴任得妇人案二千贯从轻发落；仆童吉常持此事挟主遂奸其妻，徐不敢明责；乙卯调池州不带仆，戊午仆来池州被叱，次日持刃刺徐于门中；父墓果玄武不垂头",
+   "direction": "negative",
+   "source": "原书自载"
+  },
+  "outcome_grade": "A-low",
+  "contamination": "low",
+  "contamination_rationale": "宋代地方/官场冷门人物事迹，仅见于本书，未见与史载互核或公开流传，污染低",
+  "grade_note": "A-low：书内断验俱全、具体可分离，断先于验；底本为缘生谛校注版数字文本，transcription=digital-collation。断语本体为邵公退后告门人之语（经门人转述），仍属邵断，已与当面勉廉洁之语分离；照 coding.md 口径收录并在此登记。",
+  "provenance": {
+   "work": "《大六壬断案》",
+   "edition": "缘生谛校注版",
+   "page": "案075（底本数字文本；疏正/新编互校页图备于scratch-archive/mutual，本例底本断验文字可读、未触发定点查阅）",
+   "url": null,
+   "language": "zh-Hant"
+  },
+  "transcription": "digital-collation",
+  "holdout_eligible": true
+ },
+ "DA-076": {
+  "id": "DA-076",
+  "tradition": "六壬",
+  "master": "邵彦和",
+  "source_work": "《大六壬断案》",
+  "subject": "钱通判（丁巳生，五十三岁）",
+  "question_or_topic": "占前程",
+  "asked_at": "己酉年正月初一庚辰日子将巳时。甲戌旬，申酉空。",
+  "context_at_prediction": "",
+  "master_predictions": [
+   {
+    "statement_excerpt": "邵先生曰：无禄课虽受通判必不能食禄；父母年高先亡母后亡父；下来又有别差遣将及瓜而止；末传禄空入墓、亡在乙丑年六十九上；又荫不得子",
+    "direction": "mixed",
+    "key_assertions": [
+     "先母后父相继亡",
+     "仕历多任辗转",
+     "乙丑年六十九丧"
+    ],
+    "timing_claim": "乙丑年"
+   }
+  ],
+  "outcome": {
+   "description": "钱授临江军通判，庚戌至任三月母醉死，壬子差南康通判，甲寅丁父忧，丁巳授江南安抚司，己未得崇道观，壬戌再转岳州通判，乙丑五月本身丧",
+   "direction": "mixed",
+   "source": "原书自载"
+  },
+  "outcome_grade": "A-low",
+  "contamination": "low",
+  "contamination_rationale": "宋代地方/官场冷门人物事迹，仅见于本书，未见与史载互核或公开流传，污染低",
+  "grade_note": "A-low：书内断验俱全、具体可分离，断先于验；底本为缘生谛校注版数字文本，transcription=digital-collation。",
+  "provenance": {
+   "work": "《大六壬断案》",
+   "edition": "缘生谛校注版",
+   "page": "案076（底本数字文本；疏正/新编互校页图备于scratch-archive/mutual，本例底本断验文字可读、未触发定点查阅）",
+   "url": null,
+   "language": "zh-Hant"
+  },
+  "transcription": "digital-collation",
+  "holdout_eligible": true
+ },
+ "DA-077": {
+  "id": "DA-077",
+  "tradition": "六壬",
+  "master": "邵彦和",
+  "source_work": "《大六壬断案》",
+  "subject": "时监庙（庚午生，四十岁）",
+  "question_or_topic": "占谋动迁转",
+  "asked_at": "己酉年正月辛巳日子将酉时。甲戌旬，申酉空。",
+  "context_at_prediction": "",
+  "master_predictions": [
+   {
+    "statement_excerpt": "邵先生曰：监庙满后必得京局监当差遣、多是药院之类；若见厨灶煮面仆子为汤所伤、即是喜事到之期，又主小儿落佛堂外水坑亦应",
+    "direction": "positive",
+    "key_assertions": [
+     "满后得监和剂局差遣",
+     "汤伤仆、儿坠池为应期之兆",
+     "次日文字催任"
+    ],
+    "timing_claim": "庚戌年后"
+   }
+  ],
+  "outcome": {
+   "description": "庚戌七月岳祠满讨得监和剂局；辛亥厨下煮面仆子被汤所伤，又宴客小儿失足坠佛堂外小池中；次日早晨文字来催赴任",
+   "direction": "positive",
+   "source": "原书自载"
+  },
+  "outcome_grade": "A-low",
+  "contamination": "low",
+  "contamination_rationale": "宋代地方/官场冷门人物事迹，仅见于本书，未见与史载互核或公开流传，污染低",
+  "grade_note": "A-low：书内断验俱全、具体可分离，断先于验；底本为缘生谛校注版数字文本，transcription=digital-collation。",
+  "provenance": {
+   "work": "《大六壬断案》",
+   "edition": "缘生谛校注版",
+   "page": "案077（底本数字文本；疏正/新编互校页图备于scratch-archive/mutual，本例底本断验文字可读、未触发定点查阅）",
+   "url": null,
+   "language": "zh-Hant"
+  },
+  "transcription": "digital-collation",
+  "holdout_eligible": true
+ },
+ "DA-078": {
+  "id": "DA-078",
+  "tradition": "六壬",
+  "master": "邵彦和",
+  "source_work": "《大六壬断案》",
+  "subject": "陈上舍（戊辰生，四十二岁）",
+  "question_or_topic": "占科举",
+  "asked_at": "己酉年正月己亥日子将未时。甲午旬，辰巳空。",
+  "context_at_prediction": "",
+  "master_predictions": [
+   {
+    "statement_excerpt": "邵先生曰：前程只如此、须壬子年方脱墓神之滞然后及第，却持两服；服满得任又不终；有坎山坟白蚁遍食、所以前程不通",
+    "direction": "mixed",
+    "key_assertions": [
+     "壬子年及第",
+     "两度持服",
+     "庚申身亡、父坟蚁食"
+    ],
+    "timing_claim": "壬子年"
+   }
+  ],
+  "outcome": {
+   "description": "陈生当年不中，壬子年得解及第补和州乌江尉，癸丑持母服，乙卯持父服，丁巳再授婺州浦江簿，庚申九月身亡；其子后开坎山坟果是蚁食",
+   "direction": "mixed",
+   "source": "原书自载"
+  },
+  "outcome_grade": "A-low",
+  "contamination": "low",
+  "contamination_rationale": "宋代地方/官场冷门人物事迹，仅见于本书，未见与史载互核或公开流传，污染低",
+  "grade_note": "A-low：书内断验俱全、具体可分离，断先于验；底本为缘生谛校注版数字文本，transcription=digital-collation。",
+  "provenance": {
+   "work": "《大六壬断案》",
+   "edition": "缘生谛校注版",
+   "page": "案078（底本数字文本；疏正/新编互校页图备于scratch-archive/mutual，本例底本断验文字可读、未触发定点查阅）",
+   "url": null,
+   "language": "zh-Hant"
+  },
+  "transcription": "digital-collation",
+  "holdout_eligible": true
+ },
+ "DA-079": {
+  "id": "DA-079",
+  "tradition": "六壬",
+  "master": "邵彦和",
+  "source_work": "《大六壬断案》",
+  "subject": "欧阳秘教（戊寅生，三十三岁）",
+  "question_or_topic": "占秋试",
+  "asked_at": "己酉年六月己卯日午将戌时。甲戌旬，申酉空。",
+  "context_at_prediction": "",
+  "master_predictions": [
+   {
+    "statement_excerpt": "邵先生曰：上门乱首不利有三：一防犯讳字禁忌、二防场屋中有争斗、三防与尊长不足；今科不是取功名之年、若免得是非即是幸事",
+    "direction": "negative",
+    "key_assertions": [
+     "入试聚众争斗",
+     "被试官罢斥"
+    ],
+    "timing_claim": "当年秋试"
+   }
+  ],
+  "outcome": {
+   "description": "后入试果聚众相争喧闹场屋，试官申学罢斥",
+   "direction": "negative",
+   "source": "原书自载"
+  },
+  "outcome_grade": "A-low",
+  "contamination": "low",
+  "contamination_rationale": "宋代地方/官场冷门人物事迹，仅见于本书，未见与史载互核或公开流传，污染低",
+  "grade_note": "A-low：书内断验俱全、具体可分离，断先于验；底本为缘生谛校注版数字文本，transcription=digital-collation。",
+  "provenance": {
+   "work": "《大六壬断案》",
+   "edition": "缘生谛校注版",
+   "page": "案079（底本数字文本；疏正/新编互校页图备于scratch-archive/mutual，本例底本断验文字可读、未触发定点查阅）",
+   "url": null,
+   "language": "zh-Hant"
+  },
+  "transcription": "digital-collation",
+  "holdout_eligible": true
+ },
+ "DA-080": {
+  "id": "DA-080",
+  "tradition": "六壬",
+  "master": "邵彦和",
+  "source_work": "《大六壬断案》",
+  "subject": "徐秀才（丙子生，三十四岁）",
+  "question_or_topic": "占秋试",
+  "asked_at": "己酉年二月壬戌日亥将申时。甲寅旬，子丑空。",
+  "context_at_prediction": "",
+  "master_predictions": [
+   {
+    "statement_excerpt": "邵先生曰：此课不可问试、防今年有瘫痪之疾；破碎作太常乘鬼入宅主孝服、破碎空主外服；妇人有血气疾",
+    "direction": "negative",
+    "key_assertions": [
+     "三月瘫痪状、四肢不遂",
+     "丧妻母与生母",
+     "未入试"
+    ],
+    "timing_claim": "当年三月起"
+   }
+  ],
+  "outcome": {
+   "description": "徐三月间因食菱成风四肢不遂状如瘫痪，后虽无事却行履不得；六月丧妻母，九月又丧生母；当年因疾病未愈不得入试场",
+   "direction": "negative",
+   "source": "原书自载"
+  },
+  "outcome_grade": "A-low",
+  "contamination": "low",
+  "contamination_rationale": "宋代地方/官场冷门人物事迹，仅见于本书，未见与史载互核或公开流传，污染低",
+  "grade_note": "A-low：书内断验俱全、具体可分离，断先于验；底本为缘生谛校注版数字文本，transcription=digital-collation。",
+  "provenance": {
+   "work": "《大六壬断案》",
+   "edition": "缘生谛校注版",
+   "page": "案080（底本数字文本；疏正/新编互校页图备于scratch-archive/mutual，本例底本断验文字可读、未触发定点查阅）",
+   "url": null,
+   "language": "zh-Hant"
+  },
+  "transcription": "digital-collation",
+  "holdout_eligible": true
+ },
+ "DA-081": {
+  "id": "DA-081",
+  "tradition": "六壬",
+  "master": "邵彦和",
+  "source_work": "《大六壬断案》",
+  "subject": "何知录（丁丑生，三十一岁）",
+  "question_or_topic": "占前程",
+  "asked_at": "戊申年五月丙戌日申将未时。甲申旬，午未空。",
+  "context_at_prediction": "",
+  "master_predictions": [
+   {
+    "statement_excerpt": "邵先生曰：今授台州知录此任不能赴必有阻；将来食禄在江西有刑法二字，次任湖南北、三任赴广东、四任近京为安抚司；其后虽有授州郡之名不得赴任",
+    "direction": "mixed",
+    "key_assertions": [
+     "阻任（心丧）不赴",
+     "四任辗转江西、湖南北、广东、近京",
+     "升太守未赴卒"
+    ],
+    "timing_claim": "数任"
+   }
+  ],
+  "outcome": {
+   "description": "何当年乳母死丁心丧不赴此任；后任江西崇仁县令，调湖南北提刑司检法，升广东某州通判，任满为江西安抚司参议；后升饶州府太守未赴任而卒",
+   "direction": "mixed",
+   "source": "原书自载"
+  },
+  "outcome_grade": "A-low",
+  "contamination": "low",
+  "contamination_rationale": "宋代地方/官场冷门人物事迹，仅见于本书，未见与史载互核或公开流传，污染低",
+  "grade_note": "A-low：书内断验俱全、具体可分离，断先于验；底本为缘生谛校注版数字文本，transcription=digital-collation。",
+  "provenance": {
+   "work": "《大六壬断案》",
+   "edition": "缘生谛校注版",
+   "page": "案081（底本数字文本；疏正/新编互校页图备于scratch-archive/mutual，本例底本断验文字可读、未触发定点查阅）",
+   "url": null,
+   "language": "zh-Hant"
+  },
+  "transcription": "digital-collation",
+  "holdout_eligible": true
+ },
+ "BY-047": {
+  "id": "BY-047",
+  "tradition": "六壬",
+  "master": "张官德",
+  "source_work": "《六壬辨疑·毕法案录》",
+  "subject": "占者本人（寓省垣）",
+  "question_or_topic": "占去就（去留）",
+  "asked_at": "咸丰癸丑年辰月丁巳日未时（寓省垣）",
+  "context_at_prediction": "",
+  "master_predictions": [
+   {
+    "statement_excerpt": "正议：邵子名为遍地贵人、无所依倚之状，虽举荐者多终属无益；干神归支，正宜回家静守",
+    "direction": "negative",
+    "key_assertions": [
+     "举荐虽多终无益",
+     "宜回家静守"
+    ],
+    "timing_claim": "当期"
+   }
+  ],
+  "outcome": {
+   "description": "案验：时省中多有挽留，决意归去；嗣后贼兵复至，官吏一空",
+   "direction": "negative",
+   "source": "原书自载（案验）"
+  },
+  "outcome_grade": "A-low",
+  "contamination": "low",
+  "contamination_rationale": "清代地方占验，人物多为无名/半具名平民，课式与结局仅见于本书，未见公开流传，污染低",
+  "grade_note": "主持口径A-low：断语（正议）与应验（案验）俱在书内、具体可分离、断先于验",
+  "provenance": {
+   "work": "《六壬辨疑·毕法案录》",
+   "edition": "清·张官德撰、郑同校；incoming/wanted-books-2/Book/ 扫描本（无文字层）",
+   "page": "毕法案录课例五十六，书p180（PDF p192）",
+   "url": null,
+   "language": "zh-Hant"
+  },
+  "transcription": "visual",
+  "holdout_eligible": true,
+  "review": {
+   "verdict": "seal",
+   "grade_final": "A-low",
+   "contamination_final": "low",
+   "dedup_note": "三键（对象＋占时＋事项）对全池inputs侧3490条三键、POOL-IDS 488个id、expansion12断案系cases-b 26例及本文件126例互校，零命中；id不在POOL-IDS内",
+   "notes": "复核通过：断语具体、与结局可分离，结局为独立事件记述，双全成立；新鲜与低污染复核成立"
+  }
+ },
+ "BY-048": {
+  "id": "BY-048",
+  "tradition": "六壬",
+  "master": "张官德",
+  "source_work": "《六壬辨疑·毕法案录》",
+  "subject": "费秀川（袁州西门，占京信）",
+  "question_or_topic": "费秀川占京信（京中升迁消息）",
+  "asked_at": "咸丰甲寅年午月癸亥日戌时",
+  "context_at_prediction": "",
+  "master_predictions": [
+   {
+    "statement_excerpt": "正议：占仕升迁必膺两贵保举，未土遥克发用、支神加干，未月定有好音到门；亦荣升之象",
+    "direction": "positive",
+    "key_assertions": [
+     "未月有升迁好音",
+     "两贵保举"
+    ],
+    "timing_claim": "未月（六月）"
+   }
+  ],
+  "outcome": {
+   "description": "案验：令似现任户部主事，六月来报，果升员外郎",
+   "direction": "positive",
+   "source": "原书自载（案验）"
+  },
+  "outcome_grade": "A-low",
+  "contamination": "low",
+  "contamination_rationale": "清代地方占验，人物多为无名/半具名平民，课式与结局仅见于本书，未见公开流传，污染低",
+  "grade_note": "主持口径A-low：断语（正议）与应验（案验）俱在书内、具体可分离、断先于验",
+  "provenance": {
+   "work": "《六壬辨疑·毕法案录》",
+   "edition": "清·张官德撰、郑同校；incoming/wanted-books-2/Book/ 扫描本（无文字层）",
+   "page": "毕法案录课例五十七，书p180（PDF p192）",
+   "url": null,
+   "language": "zh-Hant"
+  },
+  "transcription": "visual",
+  "holdout_eligible": true,
+  "review": {
+   "verdict": "seal",
+   "grade_final": "A-low",
+   "contamination_final": "low",
+   "dedup_note": "三键（对象＋占时＋事项）对全池inputs侧3490条三键、POOL-IDS 488个id、expansion12断案系cases-b 26例及本文件126例互校，零命中；id不在POOL-IDS内",
+   "notes": "复核通过：断语具体、与结局可分离，结局为独立事件记述，双全成立；新鲜与低污染复核成立"
+  }
+ },
+ "BY-049": {
+  "id": "BY-049",
+  "tradition": "六壬",
+  "master": "张官德",
+  "source_work": "《六壬辨疑·毕法案录》",
+  "subject": "杨姓（占收考）",
+  "question_or_topic": "杨姓占收考（考试）",
+  "asked_at": "咸丰丙辰年戌月癸未日巳时",
+  "context_at_prediction": "",
+  "master_predictions": [
+   {
+    "statement_excerpt": "正议：先有所阻后必有成；巳为四数名数应在第四，本届岁考不济，巳年科考准进",
+    "direction": "mixed",
+    "key_assertions": [
+     "本届岁考不济",
+     "巳年科考准进、名次第四"
+    ],
+    "timing_claim": "巳年科考"
+   }
+  ],
+  "outcome": {
+   "description": "案验：县考攻落，学院作主书考，名数、年分亦准",
+   "direction": "mixed",
+   "source": "原书自载（案验）"
+  },
+  "outcome_grade": "A-low",
+  "contamination": "low",
+  "contamination_rationale": "清代地方占验，人物多为无名/半具名平民，课式与结局仅见于本书，未见公开流传，污染低",
+  "grade_note": "主持口径A-low：断语（正议）与应验（案验）俱在书内、具体可分离、断先于验",
+  "provenance": {
+   "work": "《六壬辨疑·毕法案录》",
+   "edition": "清·张官德撰、郑同校；incoming/wanted-books-2/Book/ 扫描本（无文字层）",
+   "page": "毕法案录课例五十八，书p181（PDF p193）",
+   "url": null,
+   "language": "zh-Hant"
+  },
+  "transcription": "visual",
+  "holdout_eligible": true,
+  "review": {
+   "verdict": "seal",
+   "grade_final": "A-low",
+   "contamination_final": "low",
+   "dedup_note": "三键（对象＋占时＋事项）对全池inputs侧3490条三键、POOL-IDS 488个id、expansion12断案系cases-b 26例及本文件126例互校，零命中；id不在POOL-IDS内",
+   "notes": "复核通过：断语具体、与结局可分离，结局为独立事件记述，双全成立；新鲜与低污染复核成立"
+  }
+ },
+ "BY-050": {
+  "id": "BY-050",
+  "tradition": "六壬",
+  "master": "张官德",
+  "source_work": "《六壬辨疑·毕法案录》",
+  "subject": "张仲达夫子（寓樊城）",
+  "question_or_topic": "占赴荆州差事（差遣得缺）",
+  "asked_at": "咸丰乙卯年酉月丁巳日午时",
+  "context_at_prediction": "",
+  "master_predictions": [
+   {
+    "statement_excerpt": "正议：此去可以得志；差事无伤并能补缺（下署上职），初传逢空出旬乃动",
+    "direction": "positive",
+    "key_assertions": [
+     "赴荆差事得志",
+     "能补缺得职"
+    ],
+    "timing_claim": "丑月"
+   }
+  ],
+  "outcome": {
+   "description": "案验：丑月果以候补府署粮道，因差得缺，马上传印也；时楚北未复，制军驻襄阳，着委员送印到荆，印来就我；酉日接印",
+   "direction": "positive",
+   "source": "原书自载（案验）"
+  },
+  "outcome_grade": "A-low",
+  "contamination": "low",
+  "contamination_rationale": "清代地方占验，人物多为无名/半具名平民，课式与结局仅见于本书，未见公开流传，污染低",
+  "grade_note": "主持口径A-low：断语（正议）与应验（案验）俱在书内、具体可分离、断先于验",
+  "provenance": {
+   "work": "《六壬辨疑·毕法案录》",
+   "edition": "清·张官德撰、郑同校；incoming/wanted-books-2/Book/ 扫描本（无文字层）",
+   "page": "毕法案录课例五十九，书p181-182（PDF p193-194）",
+   "url": null,
+   "language": "zh-Hant"
+  },
+  "transcription": "visual",
+  "holdout_eligible": true,
+  "review": {
+   "verdict": "seal",
+   "grade_final": "A-low",
+   "contamination_final": "low",
+   "dedup_note": "三键（对象＋占时＋事项）对全池inputs侧3490条三键、POOL-IDS 488个id、expansion12断案系cases-b 26例及本文件126例互校，零命中；id不在POOL-IDS内",
+   "notes": "复核通过：断语具体、与结局可分离，结局为独立事件记述，双全成立；新鲜与低污染复核成立"
+  }
+ },
+ "BY-051": {
+  "id": "BY-051",
+  "tradition": "六壬",
+  "master": "张官德",
+  "source_work": "《六壬辨疑·毕法案录》",
+  "subject": "占者本人（占友人择地）",
+  "question_or_topic": "占友人择地成否（择葬地）",
+  "asked_at": "咸丰甲寅年午月庚辰日卯时",
+  "context_at_prediction": "",
+  "master_predictions": [
+   {
+    "statement_excerpt": "正议：占事主参差不一，难与图成；禄空全脱、课传内战，是身入夜台之兆也（择地者凶象）",
+    "direction": "negative",
+    "key_assertions": [
+     "择地难成",
+     "主事者有凶险之兆"
+    ],
+    "timing_claim": "当期"
+   }
+  ],
+  "outcome": {
+   "description": "案验：刘秀谷兄时在宜春城内领袖乡勇，相见莫逆，旋邀卜吉，佳城未就，遯以无病，捐馆后得一穴，家人不能用",
+   "direction": "negative",
+   "source": "原书自载（案验）"
+  },
+  "outcome_grade": "A-low",
+  "contamination": "low",
+  "contamination_rationale": "清代地方占验，人物多为无名/半具名平民，课式与结局仅见于本书，未见公开流传，污染低",
+  "grade_note": "主持口径A-low：断语（正议）与应验（案验）俱在书内、具体可分离、断先于验；案验叙事迂回，主线为佳城未就、其人捐馆，照录",
+  "provenance": {
+   "work": "《六壬辨疑·毕法案录》",
+   "edition": "清·张官德撰、郑同校；incoming/wanted-books-2/Book/ 扫描本（无文字层）",
+   "page": "毕法案录课例六十，书p182（PDF p194）",
+   "url": null,
+   "language": "zh-Hant"
+  },
+  "transcription": "visual",
+  "holdout_eligible": true,
+  "review": {
+   "verdict": "seal",
+   "grade_final": "A-low",
+   "contamination_final": "low",
+   "dedup_note": "案验人物刘秀谷另见BY-118同页附记，然两例对象、占时（丙辰年午月≠甲寅年辰月）、事项（友人择地≠李姓占家宅）皆异，非同例重出",
+   "notes": "复核通过：断语具体、与结局可分离，结局为独立事件记述，双全成立；新鲜与低污染复核成立"
+  }
+ },
+ "BY-053": {
+  "id": "BY-053",
+  "tradition": "六壬",
+  "master": "张官德",
+  "source_work": "《六壬辨疑·毕法案录》",
+  "subject": "祝姓（寓郧阳，就馆）",
+  "question_or_topic": "祝姓占就馆",
+  "asked_at": "咸丰丙辰年卯月乙巳日申时（寓郧阳）",
+  "context_at_prediction": "",
+  "master_predictions": [
+   {
+    "statement_excerpt": "正议：似宜动谋，然蛇主惊恐、未生酉鬼，求财得祸，且两贵受克贵人自有忧烦何能为力；喜日上子孙制鬼，可免于难耳",
+    "direction": "mixed",
+    "key_assertions": [
+     "就馆求财得祸、贵人无力",
+     "可免于难"
+    ],
+    "timing_claim": "八月"
+   }
+  ],
+  "outcome": {
+   "description": "案验：时郧县受荐未请，旋往河口邦办公局；八月土匪滋事，仍是逃难，幸依亲处，眷口得全耳",
+   "direction": "mixed",
+   "source": "原书自载（案验）"
+  },
+  "outcome_grade": "A-low",
+  "contamination": "low",
+  "contamination_rationale": "清代地方占验，人物多为无名/半具名平民，课式与结局仅见于本书，未见公开流传，污染低",
+  "grade_note": "主持口径A-low：断语（正议）与应验（案验）俱在书内、具体可分离、断先于验",
+  "provenance": {
+   "work": "《六壬辨疑·毕法案录》",
+   "edition": "清·张官德撰、郑同校；incoming/wanted-books-2/Book/ 扫描本（无文字层）",
+   "page": "毕法案录课例六十三，书p184（PDF p196）",
+   "url": null,
+   "language": "zh-Hant"
+  },
+  "transcription": "visual",
+  "holdout_eligible": true,
+  "review": {
+   "verdict": "seal",
+   "grade_final": "A-low",
+   "contamination_final": "low",
+   "dedup_note": "三键（对象＋占时＋事项）对全池inputs侧3490条三键、POOL-IDS 488个id、expansion12断案系cases-b 26例及本文件126例互校，零命中；id不在POOL-IDS内",
+   "notes": "复核通过：断语具体、与结局可分离，结局为独立事件记述，双全成立；新鲜与低污染复核成立"
+  }
+ },
+ "WHY-111": {
+  "provisional_id": "WHY-111",
+  "tradition": "liuyao",
+  "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第九章 病因例三（印刷p194）",
+  "input_fields": {
+   "question": "某男测自己病",
+   "asked_at": "巳月庚午日",
+   "chart": {
+    "ben_gua": "水地比",
+    "bian_gua": "风地观",
+    "moving_lines": "六爻妻财子水×动",
+    "chart_lines_top_to_bottom": [
+     "螣蛇 妻财子水× 应",
+     "勾陈 兄弟戌土—",
+     "朱雀 子孙申金--",
+     "青龙 官鬼卯木-- 世",
+     "玄武 父母巳火--",
+     "白虎 兄弟未土--"
+    ],
+    "fu_shen": ""
+   }
+  },
+  "subject": "",
+  "master_prediction": "以世爻为用神。……妻财子水发动，但月建绝之，日辰冲之为日破，生用神的力量不大。妻财主呼吸、饮食，破而难生用神，所以不是哮喘就是饮食难以下咽。断其原因，官鬼临青龙，青龙乃是宴会、饮酒的信息，是因喝酒引发的疾病。另外妻财动化官鬼也是表示因饮食而得病。官鬼临青龙，临近应爻，应为他处，是别人家喝酒得的病。",
+  "outcome_record": "一九九三年此人帮朋友盖房，在朋友家因喝酒过度而引起肺部化脓，最后发展成哮喘病。",
+  "outcome_type": "retrospective_verification",
+  "pollution": "low",
+  "pollution_note": "原书为图书馆扫描本，案例为作者日常占例、非流传名案系列（承R56判级：地震/股票名案从严mid，本批各章日常例low）",
+  "anchor_presence": "present",
+  "anchor_missing": "",
+  "dedup_check": "三键（本变卦＋占月日＋问事）对勘已用并集951（dev9 487＋holdout2–20，含holdout20已封存25例）、inputs-dev12全部224个LY题面、WHY-001…071一轮入账例：无同案",
+  "filters": {
+   "verbatim_transcribable": true,
+   "independent_outcome": true,
+   "separable_prediction_outcome": true,
+   "not_high_pollution": true
+  },
+  "grade": "A",
+  "eligible_net": true,
+  "fail_reason": "",
+  "grade_note": "变爻：子水化官鬼卯木。病因链（在他家饮酒过度→肺脓→哮喘）逐项回填。",
+  "transcription": "visual",
+  "transcription_confidence": "high"
+ },
+ "WHY-112": {
+  "provisional_id": "WHY-112",
+  "tradition": "liuyao",
+  "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第九章 病因例四（印刷p194-196）",
+  "input_fields": {
+   "question": "陈鲁西先生之女测儿子疾病（代摇）",
+   "asked_at": "2002年辰月戊午日",
+   "chart": {
+    "ben_gua": "天泽履",
+    "bian_gua": "天水讼",
+    "moving_lines": "初爻父母巳火○动",
+    "chart_lines_top_to_bottom": [
+     "朱雀 兄弟戌土—",
+     "青龙 子孙申金— 世",
+     "玄武 父母午火—",
+     "白虎 兄弟巳火--",
+     "螣蛇 官鬼卯木— 应",
+     "勾陈 父母巳火○"
+    ],
+    "fu_shen": ""
+   }
+  },
+  "subject": "广东肇庆易友陈鲁西之女（代测其子）",
+  "master_prediction": "以子孙为用神。子孙申金月生日克，力量相当。……查其病因，二爻官鬼临螣蛇，螣蛇主怪异，二爻宅，家宅不安之象。初爻父母巳火为忌神，临勾陈动而化官鬼，父母主建筑，勾陈主修缮，巳火对应于二〇〇一年辛巳，此年定是改造过房子。乃由风水变化引起的疾病。……断其房子不是第四层就是第五层。",
+  "outcome_record": "她家原来住在四层，2000年搬到五层，然后对房子进行了整修，今年卯月儿子突然发疯，自言自语，说自己是神仙下凡。后经过我调理，她儿子的病好了。",
+  "outcome_type": "forward",
+  "pollution": "low",
+  "pollution_note": "原书为图书馆扫描本，案例为作者日常占例、非流传名案系列（承R56判级：地震/股票名案从严mid，本批各章日常例low）",
+  "anchor_presence": "present",
+  "anchor_missing": "",
+  "dedup_check": "三键（本变卦＋占月日＋问事）对勘已用并集951（dev9 487＋holdout2–20，含holdout20已封存25例）、inputs-dev12全部224个LY题面、WHY-001…071一轮入账例：无同案",
+  "filters": {
+   "verbatim_transcribable": true,
+   "independent_outcome": true,
+   "separable_prediction_outcome": true,
+   "not_high_pollution": true
+  },
+  "grade": "A",
+  "eligible_net": true,
+  "fail_reason": "",
+  "grade_note": "变爻：巳火化官鬼寅木。与WHY-077（同居例五）同卦（天泽履变天水讼）异案：占日（辰月戊午日／壬子月壬辰日）、问事（测子病／测妻生孩子）皆异，三键无重合，非同案。",
+  "transcription": "visual",
+  "transcription_confidence": "high"
+ },
+ "WHY-114": {
+  "provisional_id": "WHY-114",
+  "tradition": "liuyao",
+  "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第九章 综合例二（印刷p198-199）",
+  "input_fields": {
+   "question": "某女测病",
+   "asked_at": "辰月癸丑日",
+   "chart": {
+    "ben_gua": "天火同人",
+    "bian_gua": "泽水困",
+    "moving_lines": "六爻子孙戌土○动、三爻官鬼亥水○动、二爻子孙丑土×动、初爻父母卯木○动",
+    "chart_lines_top_to_bottom": [
+     "白虎 子孙戌土○ 应",
+     "螣蛇 妻财申金—",
+     "勾陈 兄弟午火—",
+     "朱雀 官鬼亥水○ 世",
+     "青龙 子孙丑土×",
+     "玄武 父母卯木○"
+    ],
+    "fu_shen": ""
+   }
+  },
+  "subject": "",
+  "master_prediction": "以世爻为用神。世爻被日月克伤，休囚无气不吉。忌神临六爻动而克世，六爻为头，临白虎主血，离宫卦，为低血压。另一忌神子孙丑土临二爻克用神，丑为肝在而爻克世，才为肝病：世爻临水被克，有肝腹水。二爻也主腿，临青龙主痛，有腿痛的毛病。",
+  "outcome_record": "所断疾病皆验，她说肝腹水已经好了。其他病还没治好。",
+  "outcome_type": "forward",
+  "pollution": "low",
+  "pollution_note": "原书为图书馆扫描本，案例为作者日常占例、非流传名案系列（承R56判级：地震/股票名案从严mid，本批各章日常例low）",
+  "anchor_presence": "present",
+  "anchor_missing": "",
+  "dedup_check": "三键（本变卦＋占月日＋问事）对勘已用并集951（dev9 487＋holdout2–20，含holdout20已封存25例）、inputs-dev12全部224个LY题面、WHY-001…071一轮入账例：无同案",
+  "filters": {
+   "verbatim_transcribable": true,
+   "independent_outcome": true,
+   "separable_prediction_outcome": true,
+   "not_high_pollution": true
+  },
+  "grade": "A",
+  "eligible_net": true,
+  "fail_reason": "",
+  "grade_note": "变爻：戌土化子孙未土、亥水化兄弟午火、丑土化子孙辰土、卯木化父母寅木。结局明示部分疾病未愈，逐项成色照录。",
+  "transcription": "visual",
+  "transcription_confidence": "high"
+ },
+ "WHY-115": {
+  "provisional_id": "WHY-115",
+  "tradition": "liuyao",
+  "source": "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第九章 综合例三（印刷p199-200）",
+  "input_fields": {
+   "question": "六爻讲座课上五十多岁女学员问事（综合断病）",
+   "asked_at": "丑月乙亥日",
+   "chart": {
+    "ben_gua": "天雷无妄",
+    "bian_gua": "泽地萃",
+    "moving_lines": "六爻妻财戌土○动、初爻父母子水○动",
+    "chart_lines_top_to_bottom": [
+     "玄武 妻财戌土○",
+     "白虎 官鬼申金—",
+     "螣蛇 子孙午火— 世",
+     "勾陈 妻财辰土--",
+     "朱雀 兄弟寅木--",
+     "青龙 父母子水○ 应"
+    ],
+    "fu_shen": ""
+   }
+  },
+  "subject": "",
+  "master_prediction": "卦中财动化退，初爻为心事，动而化出财爻，必是问钱财之事。……世爻子孙持世，官鬼空亡入墓，乃是退休之象。断其已经退休。……父母子水动化回头克，月建又克，六爻妻财戌土也动而克伤，断其父亲已经不在人世。……（问其母）子孙午火受克，断其母有严重的心脏病。……断其母腿已经变形，不能走路。",
+  "outcome_record": "（对话核实）答：已经退休。答：已经于一九八九年去世。……答：所断皆验。（其母：1992年壬申、1993年癸酉、1994年甲戌、1995年乙亥、1996年丙子，皆对用神不利，所以断其母亲身体一年不如一年。）本人有头晕、高血压、心慌，腿上有风窜来窜去。",
+  "outcome_type": "retrospective_verification",
+  "pollution": "low",
+  "pollution_note": "原书为图书馆扫描本，案例为作者日常占例、非流传名案系列（承R56判级：地震/股票名案从严mid，本批各章日常例low）",
+  "anchor_presence": "present",
+  "anchor_missing": "",
+  "dedup_check": "三键（本变卦＋占月日＋问事）对勘已用并集951（dev9 487＋holdout2–20，含holdout20已封存25例）、inputs-dev12全部224个LY题面、WHY-001…071一轮入账例：无同案",
+  "filters": {
+   "verbatim_transcribable": true,
+   "independent_outcome": true,
+   "separable_prediction_outcome": true,
+   "not_high_pollution": true
+  },
+  "grade": "A",
+  "eligible_net": true,
+  "fail_reason": "",
+  "grade_note": "变爻：戌土化妻财未土、子水化妻财未土。断语与核实以课堂对话交错行文，逐项摘录分列如上；核实含具体年份（父1989年去世），具体可判。",
+  "transcription": "visual",
+  "transcription_confidence": "medium"
+ }
+}

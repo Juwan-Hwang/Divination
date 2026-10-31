@@ -1,0 +1,103 @@
+{
+  "built_ids": [
+    "ZW-017",
+    "ZW-018",
+    "ZW-019",
+    "ZW-020",
+    "ZW-021",
+    "ZW-022",
+    "ZW-023",
+    "ZW-028",
+    "ZW-029",
+    "ZW-030",
+    "ZW-031",
+    "ZW-032"
+  ],
+  "stop_items": [],
+  "field_mapping_notes": [
+    "输入卡字段序与白名单照holdout33-seal-log §六、卡面排版对holdout29/inputs/ ZW卡实读：id, tradition, subject, context, question, setting, provenance, redistributable, license_status, anchors；金标字段序：id, master_prediction, outcome_record, tradition, pollution, grade, grade_note, provenance, license_status, redistributable。",
+    "tradition全例=ziwei；pollution全例=low；grade全例=A-low；redistributable全例=false；license_status全例=现代版权文本，内部研究用（照登记件来源登记）。",
+    "subject组写＝性别＋干支年月时＋局数（日数原书未标者逐例注明）；question全例照holdout29紫微卡体例组写（原书命例体例、无独立问句原文载录）；context全例=紫微命例实批；命盘锚点载于anchors（ZW-021另注31岁求测背景）。",
+    "anchors键组＝birth／局／命宫／紫微落宫／四化锚点：birth、局数、命宫主星以登记件转录为准；登记件缺载项回原书页图补录——ZW-019命宫在丑·天相坐命、紫微在未（原书p.241盘图300dpi，页图存runs/round93/supply/pages-xzs-h34-ziwei-r93/）；ZW-021命宫在酉·无正曜、紫微在辰（原书p.181盘图300dpi，同目录）；ZW-022命宫在酉·廉贞破军、紫微在巳（原书p.258盘图）；ZW-023命宫在申·七杀、紫微在寅（原书p.276盘图）；ZW-017／018局数原盘未直标，据命宫大限起岁读出（起岁＝局数：ZW-017命宫大限3–12→木三局、ZW-018命宫大限2–11→水二局），已于各卡anchors注明读法。",
+    "金标编例：结局以案验／结局正文为限（ZW-017标题句、ZW-018标题四事件句、ZW-019章首叙事＋后记、ZW-020摘要引文正文、ZW-021事情的缘由叙事、ZW-022结局句、ZW-023结局句、ZW-028／029／030／031／032摘要記述），断语以原断全文为限（ZW-017／018／022／023据逐字转录面照录，其余据登记件断语要点／总语以原断为限组录）；复玩文尾、附议、编注不入。",
+    "锚点核（工序①）逐例结论：12例断语均在登记件逐字或要点在场、且与结局文本分立，无断语与结局同文／互串例，stop_items为空。",
+    "provenance照登记件来源登记：ZW-017／018《钦天四化紫微斗数命理学》（许铨仁讲述）；ZW-019–023《紫微斗数命运分析》（徐曾生著，学校图书馆件）；ZW-028–032《紫微斗数命理学正解》（许铨仁著，学校图书馆件）。"
+  ],
+  "strip_register": {
+    "ZW-017": [
+      "master_prediction（大师断语）→只入金标分片、不入输入卡",
+      "outcome_record（结局）→只入金标分片、不入输入卡",
+      "grade／grade_note／pollution→只入金标分片、不入输入卡",
+      "盘面逐宫全录未入卡：anchors只取birth／局／命宫／紫微落宫／四化锚点五项"
+    ],
+    "ZW-018": [
+      "master_prediction（大师断语）→只入金标分片、不入输入卡",
+      "outcome_record（结局）→只入金标分片、不入输入卡",
+      "grade／grade_note／pollution→只入金标分片、不入输入卡",
+      "盘面逐宫全录未入卡：anchors只取birth／局／命宫／紫微落宫／四化锚点五项"
+    ],
+    "ZW-019": [
+      "master_prediction（大师断语）→只入金标分片、不入输入卡",
+      "outcome_record（结局）→只入金标分片、不入输入卡",
+      "grade／grade_note／pollution→只入金标分片、不入输入卡",
+      "盘面逐宫全录未入卡：anchors只取birth／局／命宫／紫微落宫／四化锚点五项"
+    ],
+    "ZW-020": [
+      "master_prediction（大师断语）→只入金标分片、不入输入卡",
+      "outcome_record（结局）→只入金标分片、不入输入卡",
+      "grade／grade_note／pollution→只入金标分片、不入输入卡",
+      "盘面逐宫全录未入卡：anchors只取birth／局／命宫／紫微落宫／四化锚点五项"
+    ],
+    "ZW-021": [
+      "master_prediction（大师断语）→只入金标分片、不入输入卡",
+      "outcome_record（结局）→只入金标分片、不入输入卡",
+      "grade／grade_note／pollution→只入金标分片、不入输入卡",
+      "盘面逐宫全录未入卡：anchors只取birth／局／命宫／紫微落宫／四化锚点五项",
+      "断者身份（长住日本之另一位大师）只登记于金标grade_note、不入卡面"
+    ],
+    "ZW-022": [
+      "master_prediction（大师断语）→只入金标分片、不入输入卡",
+      "outcome_record（结局）→只入金标分片、不入输入卡",
+      "grade／grade_note／pollution→只入金标分片、不入输入卡",
+      "盘面逐宫全录未入卡：anchors只取birth／局／命宫／紫微落宫／四化锚点五项"
+    ],
+    "ZW-023": [
+      "master_prediction（大师断语）→只入金标分片、不入输入卡",
+      "outcome_record（结局）→只入金标分片、不入输入卡",
+      "grade／grade_note／pollution→只入金标分片、不入输入卡",
+      "盘面逐宫全录未入卡：anchors只取birth／局／命宫／紫微落宫／四化锚点五项"
+    ],
+    "ZW-028": [
+      "master_prediction（大师断语）→只入金标分片、不入输入卡",
+      "outcome_record（结局）→只入金标分片、不入输入卡",
+      "grade／grade_note／pollution→只入金标分片、不入输入卡",
+      "盘面逐宫全录未入卡：anchors只取birth／局／命宫／紫微落宫／四化锚点五项"
+    ],
+    "ZW-029": [
+      "master_prediction（大师断语）→只入金标分片、不入输入卡",
+      "outcome_record（结局）→只入金标分片、不入输入卡",
+      "grade／grade_note／pollution→只入金标分片、不入输入卡",
+      "盘面逐宫全录未入卡：anchors只取birth／局／命宫／紫微落宫／四化锚点五项",
+      "摘要题下「心素」二字（疑命主化名标记，置信0.7）未入卡、未入金标"
+    ],
+    "ZW-030": [
+      "master_prediction（大师断语）→只入金标分片、不入输入卡",
+      "outcome_record（结局）→只入金标分片、不入输入卡",
+      "grade／grade_note／pollution→只入金标分片、不入输入卡",
+      "盘面逐宫全录未入卡：anchors只取birth／局／命宫／紫微落宫／四化锚点五项",
+      "摘要「逝」前一字（单字置信低）未入任何产物、不臆补"
+    ],
+    "ZW-031": [
+      "master_prediction（大师断语）→只入金标分片、不入输入卡",
+      "outcome_record（结局）→只入金标分片、不入输入卡",
+      "grade／grade_note／pollution→只入金标分片、不入输入卡",
+      "盘面逐宫全录未入卡：anchors只取birth／局／命宫／紫微落宫／四化锚点五项"
+    ],
+    "ZW-032": [
+      "master_prediction（大师断语）→只入金标分片、不入输入卡",
+      "outcome_record（结局）→只入金标分片、不入输入卡",
+      "grade／grade_note／pollution→只入金标分片、不入输入卡",
+      "盘面逐宫全录未入卡：anchors只取birth／局／命宫／紫微落宫／四化锚点五项"
+    ]
+  }
+}

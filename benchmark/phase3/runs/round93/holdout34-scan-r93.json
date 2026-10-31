@@ -1,0 +1,326 @@
+{
+ "cards_scanned": 29,
+ "scan1_forbidden_keys_recursive": {
+  "hits": 0,
+  "detail": []
+ },
+ "scan1_leak_markers_L1_L2_LEAK": {
+  "hits": 0,
+  "detail": []
+ },
+ "scan2_master_names": {
+  "hits": 51,
+  "detail": [
+   [
+    "DA-075",
+    "邵彦和",
+    ".setting",
+    "《大六壬断案》（邵彦和）；案075（底本数字文本；疏正/新编互校页图备于scratch-archive/mutual，本例底本断验文字可读、未触发定点查阅）"
+   ],
+   [
+    "DA-076",
+    "邵彦和",
+    ".setting",
+    "《大六壬断案》（邵彦和）；案076（底本数字文本；疏正/新编互校页图备于scratch-archive/mutual，本例底本断验文字可读、未触发定点查阅）"
+   ],
+   [
+    "DA-077",
+    "邵彦和",
+    ".setting",
+    "《大六壬断案》（邵彦和）；案077（底本数字文本；疏正/新编互校页图备于scratch-archive/mutual，本例底本断验文字可读、未触发定点查阅）"
+   ],
+   [
+    "DA-078",
+    "邵彦和",
+    ".setting",
+    "《大六壬断案》（邵彦和）；案078（底本数字文本；疏正/新编互校页图备于scratch-archive/mutual，本例底本断验文字可读、未触发定点查阅）"
+   ],
+   [
+    "DA-079",
+    "邵彦和",
+    ".setting",
+    "《大六壬断案》（邵彦和）；案079（底本数字文本；疏正/新编互校页图备于scratch-archive/mutual，本例底本断验文字可读、未触发定点查阅）"
+   ],
+   [
+    "DA-080",
+    "邵彦和",
+    ".setting",
+    "《大六壬断案》（邵彦和）；案080（底本数字文本；疏正/新编互校页图备于scratch-archive/mutual，本例底本断验文字可读、未触发定点查阅）"
+   ],
+   [
+    "DA-081",
+    "邵彦和",
+    ".setting",
+    "《大六壬断案》（邵彦和）；案081（底本数字文本；疏正/新编互校页图备于scratch-archive/mutual，本例底本断验文字可读、未触发定点查阅）"
+   ],
+   [
+    "BY-047",
+    "张官德",
+    ".setting",
+    "《六壬辨疑·毕法案录》（张官德）；毕法案录课例五十六，书p180（PDF p192）"
+   ],
+   [
+    "BY-047",
+    "张官德",
+    ".provenance",
+    "《六壬辨疑·毕法案录》（清·张官德撰、郑同校；incoming/wanted-books-2/Book/ 扫描本（无文字层））·毕法案录课例五十六，书p180（PDF p192）；底本为用户提供，redistributable=false"
+   ],
+   [
+    "BY-048",
+    "张官德",
+    ".setting",
+    "《六壬辨疑·毕法案录》（张官德）；毕法案录课例五十七，书p180（PDF p192）"
+   ],
+   [
+    "BY-048",
+    "张官德",
+    ".provenance",
+    "《六壬辨疑·毕法案录》（清·张官德撰、郑同校；incoming/wanted-books-2/Book/ 扫描本（无文字层））·毕法案录课例五十七，书p180（PDF p192）；底本为用户提供，redistributable=false"
+   ],
+   [
+    "BY-049",
+    "张官德",
+    ".setting",
+    "《六壬辨疑·毕法案录》（张官德）；毕法案录课例五十八，书p181（PDF p193）"
+   ],
+   [
+    "BY-049",
+    "张官德",
+    ".provenance",
+    "《六壬辨疑·毕法案录》（清·张官德撰、郑同校；incoming/wanted-books-2/Book/ 扫描本（无文字层））·毕法案录课例五十八，书p181（PDF p193）；底本为用户提供，redistributable=false"
+   ],
+   [
+    "BY-050",
+    "张官德",
+    ".setting",
+    "《六壬辨疑·毕法案录》（张官德）；毕法案录课例五十九，书p181-182（PDF p193-194）"
+   ],
+   [
+    "BY-050",
+    "张官德",
+    ".provenance",
+    "《六壬辨疑·毕法案录》（清·张官德撰、郑同校；incoming/wanted-books-2/Book/ 扫描本（无文字层））·毕法案录课例五十九，书p181-182（PDF p193-194）；底本为用户提供，redistributable=false"
+   ],
+   [
+    "BY-051",
+    "张官德",
+    ".setting",
+    "《六壬辨疑·毕法案录》（张官德）；毕法案录课例六十，书p182（PDF p194）"
+   ],
+   [
+    "BY-051",
+    "张官德",
+    ".provenance",
+    "《六壬辨疑·毕法案录》（清·张官德撰、郑同校；incoming/wanted-books-2/Book/ 扫描本（无文字层））·毕法案录课例六十，书p182（PDF p194）；底本为用户提供，redistributable=false"
+   ],
+   [
+    "BY-053",
+    "张官德",
+    ".setting",
+    "《六壬辨疑·毕法案录》（张官德）；毕法案录课例六十三，书p184（PDF p196）"
+   ],
+   [
+    "BY-053",
+    "张官德",
+    ".provenance",
+    "《六壬辨疑·毕法案录》（清·张官德撰、郑同校；incoming/wanted-books-2/Book/ 扫描本（无文字层））·毕法案录课例六十三，书p184（PDF p196）；底本为用户提供，redistributable=false"
+   ],
+   [
+    "WHY-111",
+    "王虎应",
+    ".setting",
+    "六爻分类占验技法（王虎应著）"
+   ],
+   [
+    "WHY-111",
+    "王虎应",
+    ".provenance",
+    "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第九章 病因例三（印刷p194）；底本为用户经学校图书馆提供之扫描本，redistributable=false"
+   ],
+   [
+    "WHY-112",
+    "王虎应",
+    ".setting",
+    "六爻分类占验技法（王虎应著）"
+   ],
+   [
+    "WHY-112",
+    "王虎应",
+    ".provenance",
+    "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第九章 病因例四（印刷p194-196）；底本为用户经学校图书馆提供之扫描本，redistributable=false"
+   ],
+   [
+    "WHY-114",
+    "王虎应",
+    ".setting",
+    "六爻分类占验技法（王虎应著）"
+   ],
+   [
+    "WHY-114",
+    "王虎应",
+    ".provenance",
+    "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第九章 综合例二（印刷p198-199）；底本为用户经学校图书馆提供之扫描本，redistributable=false"
+   ],
+   [
+    "WHY-115",
+    "王虎应",
+    ".setting",
+    "六爻分类占验技法（王虎应著）"
+   ],
+   [
+    "WHY-115",
+    "王虎应",
+    ".provenance",
+    "六爻分类占验技法（王虎应著，用户经学校图书馆提供，扫描本 transcription=visual）｜第九章 综合例三（印刷p199-200）；底本为用户经学校图书馆提供之扫描本，redistributable=false"
+   ],
+   [
+    "ZW-017",
+    "许铨仁",
+    ".setting",
+    "《钦天四化紫微斗数命理学》（许铨仁讲述）·A10案例1（书p.26）"
+   ],
+   [
+    "ZW-017",
+    "许铨仁",
+    ".provenance",
+    "《钦天四化紫微斗数命理学》（许铨仁讲述）·A10案例1（书p.26）；底本为用户自寻提供（紫微替代包 incoming/wanted-books-6），redistributable=false"
+   ],
+   [
+    "ZW-018",
+    "许铨仁",
+    ".setting",
+    "《钦天四化紫微斗数命理学》（许铨仁讲述）·A10案例2（书p.27）"
+   ],
+   [
+    "ZW-018",
+    "许铨仁",
+    ".provenance",
+    "《钦天四化紫微斗数命理学》（许铨仁讲述）·A10案例2（书p.27）；底本为用户自寻提供（紫微替代包 incoming/wanted-books-6），redistributable=false"
+   ],
+   [
+    "ZW-019",
+    "徐曾生",
+    ".setting",
+    "《紫微斗数命运分析》（徐曾生著）·第25章四化飞星活用例解主例（书pp.241–250）"
+   ],
+   [
+    "ZW-019",
+    "徐曾生",
+    ".provenance",
+    "《紫微斗数命运分析》（徐曾生著）·第25章例解主例（书pp.241–250）；底本为学校图书馆件（incoming/wanted-books-6），redistributable=false"
+   ],
+   [
+    "ZW-020",
+    "徐曾生",
+    ".setting",
+    "《紫微斗数命运分析》（徐曾生著）·第28章命例（取自楚皇著作，书p.270）"
+   ],
+   [
+    "ZW-020",
+    "徐曾生",
+    ".provenance",
+    "《紫微斗数命运分析》（徐曾生著）·第28章命例（取自楚皇著作，书p.270）；底本为学校图书馆件（incoming/wanted-books-6），redistributable=false"
+   ],
+   [
+    "ZW-021",
+    "徐曾生",
+    ".setting",
+    "《紫微斗数命运分析》（徐曾生著）·第19章案例一（书pp.180–183）"
+   ],
+   [
+    "ZW-021",
+    "徐曾生",
+    ".provenance",
+    "《紫微斗数命运分析》（徐曾生著）·第19章案例一（书pp.180–183）；底本为学校图书馆件（incoming/wanted-books-6），redistributable=false"
+   ],
+   [
+    "ZW-022",
+    "徐曾生",
+    ".setting",
+    "《紫微斗数命运分析》（徐曾生著）·第26章命盘十六（书pp.257–258）"
+   ],
+   [
+    "ZW-022",
+    "徐曾生",
+    ".provenance",
+    "《紫微斗数命运分析》（徐曾生著）·第26章命盘十六（书pp.257–258）；底本为学校图书馆件（incoming/wanted-books-6），redistributable=false"
+   ],
+   [
+    "ZW-023",
+    "徐曾生",
+    ".setting",
+    "《紫微斗数命运分析》（徐曾生著）·第28章命例一（书pp.276–279）"
+   ],
+   [
+    "ZW-023",
+    "徐曾生",
+    ".provenance",
+    "《紫微斗数命运分析》（徐曾生著）·第28章命例一（书pp.276–279）；底本为学校图书馆件（incoming/wanted-books-6），redistributable=false"
+   ],
+   [
+    "ZW-028",
+    "许铨仁",
+    ".setting",
+    "《紫微斗数命理学正解》（许铨仁著）·第五章第三节案例一（书pp.227–232）"
+   ],
+   [
+    "ZW-028",
+    "许铨仁",
+    ".provenance",
+    "《紫微斗数命理学正解》（许铨仁著）·第五章第三节案例一（书pp.227–232，另第三章书pp.103–108同例理则示例）；底本为学校图书馆件（incoming/wanted-books-6），redistributable=false"
+   ],
+   [
+    "ZW-029",
+    "许铨仁",
+    ".setting",
+    "《紫微斗数命理学正解》（许铨仁著）·第五章第三节案例二（书pp.231–237）"
+   ],
+   [
+    "ZW-029",
+    "许铨仁",
+    ".provenance",
+    "《紫微斗数命理学正解》（许铨仁著）·第五章第三节案例二（书pp.231–237）；底本为学校图书馆件（incoming/wanted-books-6），redistributable=false"
+   ],
+   [
+    "ZW-030",
+    "许铨仁",
+    ".setting",
+    "《紫微斗数命理学正解》（许铨仁著）·第五章第三节案例四（书pp.244–248）"
+   ],
+   [
+    "ZW-030",
+    "许铨仁",
+    ".provenance",
+    "《紫微斗数命理学正解》（许铨仁著）·第五章第三节案例四（书pp.244–248，§三总语书p.248复述）；底本为学校图书馆件（incoming/wanted-books-6），redistributable=false"
+   ],
+   [
+    "ZW-031",
+    "许铨仁",
+    ".setting",
+    "《紫微斗数命理学正解》（许铨仁著）·第六章第二节案例一（书pp.257–262）"
+   ],
+   [
+    "ZW-031",
+    "许铨仁",
+    ".provenance",
+    "《紫微斗数命理学正解》（许铨仁著）·第六章第二节案例一（书pp.257–262）；底本为学校图书馆件（incoming/wanted-books-6），redistributable=false"
+   ],
+   [
+    "ZW-032",
+    "许铨仁",
+    ".setting",
+    "《紫微斗数命理学正解》（许铨仁著）·第六章第二节案例二（书pp.263–266）"
+   ],
+   [
+    "ZW-032",
+    "许铨仁",
+    ".provenance",
+    "《紫微斗数命理学正解》（许铨仁著）·第六章第二节案例二（书pp.263–266）；底本为学校图书馆件（incoming/wanted-books-6），redistributable=false"
+   ]
+  ]
+ },
+ "scan3_whitelist_deviations": {
+  "hits": 0,
+  "detail": []
+ }
+}

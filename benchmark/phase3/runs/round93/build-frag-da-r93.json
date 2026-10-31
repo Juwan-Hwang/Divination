@@ -1,0 +1,116 @@
+{
+ "set": "holdout34",
+ "round": 93,
+ "family": "DA（《大六壬断案》）",
+ "built_ids": [
+  "DA-075",
+  "DA-076",
+  "DA-077",
+  "DA-078",
+  "DA-079",
+  "DA-080",
+  "DA-081"
+ ],
+ "stop_items": [],
+ "chart_check": {
+  "DA-075": {
+   "fangzhen": true,
+   "sike_grid": true,
+   "sanchuan_col": true,
+   "chart_line_index": 5,
+   "detail": "方阵6行（天将顶行／支顶行／中二行左右将支／支底行／天将底行）、四课格（天将行＋上行＋下行各4列）、三传栏3行（六亲＋干支＋天将）经 token 模式断言俱在"
+  },
+  "DA-076": {
+   "fangzhen": true,
+   "sike_grid": true,
+   "sanchuan_col": true,
+   "chart_line_index": 5,
+   "detail": "方阵6行（天将顶行／支顶行／中二行左右将支／支底行／天将底行）、四课格（天将行＋上行＋下行各4列）、三传栏3行（六亲＋干支＋天将）经 token 模式断言俱在"
+  },
+  "DA-077": {
+   "fangzhen": true,
+   "sike_grid": true,
+   "sanchuan_col": true,
+   "chart_line_index": 5,
+   "detail": "方阵6行（天将顶行／支顶行／中二行左右将支／支底行／天将底行）、四课格（天将行＋上行＋下行各4列）、三传栏3行（六亲＋干支＋天将）经 token 模式断言俱在"
+  },
+  "DA-078": {
+   "fangzhen": true,
+   "sike_grid": true,
+   "sanchuan_col": true,
+   "chart_line_index": 5,
+   "detail": "方阵6行（天将顶行／支顶行／中二行左右将支／支底行／天将底行）、四课格（天将行＋上行＋下行各4列）、三传栏3行（六亲＋干支＋天将）经 token 模式断言俱在"
+  },
+  "DA-079": {
+   "fangzhen": true,
+   "sike_grid": true,
+   "sanchuan_col": true,
+   "chart_line_index": 5,
+   "detail": "方阵6行（天将顶行／支顶行／中二行左右将支／支底行／天将底行）、四课格（天将行＋上行＋下行各4列）、三传栏3行（六亲＋干支＋天将）经 token 模式断言俱在"
+  },
+  "DA-080": {
+   "fangzhen": true,
+   "sike_grid": true,
+   "sanchuan_col": true,
+   "chart_line_index": 5,
+   "detail": "方阵6行（天将顶行／支顶行／中二行左右将支／支底行／天将底行）、四课格（天将行＋上行＋下行各4列）、三传栏3行（六亲＋干支＋天将）经 token 模式断言俱在"
+  },
+  "DA-081": {
+   "fangzhen": true,
+   "sike_grid": true,
+   "sanchuan_col": true,
+   "chart_line_index": 5,
+   "detail": "方阵6行（天将顶行／支顶行／中二行左右将支／支底行／天将底行）、四课格（天将行＋上行＋下行各4列）、三传栏3行（六亲＋干支＋天将）经 token 模式断言俱在"
+  }
+ },
+ "field_mapping_notes": {
+  "DA-075": "subject/question←池卡 subject/question_or_topic 逐字；anchors.asked_at←池卡 asked_at 逐字（与底本式头核对相合）；anchors.课名←乱首（自断语原文「此课名乱首」）；anchors 天盘/四课/三传←本席回底本全文 cases_raw.json 原式程序化转录（解析器对 holdout33 封存 DA 卡逐字复现验证）；setting/provenance←池卡 provenance 组写；金标 master_prediction/outcome_record←底本正文邵先生曰段/应验段程序化提取，剥离后为底本正文子串（脚本断言）",
+  "DA-076": "subject/question←池卡 subject/question_or_topic 逐字；anchors.asked_at←池卡 asked_at 逐字（与底本式头核对相合）；anchors.课名←底本未载（底本无「课名」明载）；anchors 天盘/四课/三传←本席回底本全文 cases_raw.json 原式程序化转录（解析器对 holdout33 封存 DA 卡逐字复现验证）；setting/provenance←池卡 provenance 组写；金标 master_prediction/outcome_record←底本正文邵先生曰段/应验段程序化提取，剥离后为底本正文子串（脚本断言）",
+  "DA-077": "subject/question←池卡 subject/question_or_topic 逐字；anchors.asked_at←池卡 asked_at 逐字（与底本式头核对相合）；anchors.课名←底本未载（底本无「课名」明载）；anchors 天盘/四课/三传←本席回底本全文 cases_raw.json 原式程序化转录（解析器对 holdout33 封存 DA 卡逐字复现验证）；setting/provenance←池卡 provenance 组写；金标 master_prediction/outcome_record←底本正文邵先生曰段/应验段程序化提取，剥离后为底本正文子串（脚本断言）",
+  "DA-078": "subject/question←池卡 subject/question_or_topic 逐字；anchors.asked_at←池卡 asked_at 逐字（与底本式头核对相合）；anchors.课名←底本未载（底本无「课名」明载）；anchors 天盘/四课/三传←本席回底本全文 cases_raw.json 原式程序化转录（解析器对 holdout33 封存 DA 卡逐字复现验证）；setting/provenance←池卡 provenance 组写；金标 master_prediction/outcome_record←底本正文邵先生曰段/应验段程序化提取，剥离后为底本正文子串（脚本断言）",
+  "DA-079": "subject/question←池卡 subject/question_or_topic 逐字；anchors.asked_at←池卡 asked_at 逐字（与底本式头核对相合）；anchors.课名←底本未载（底本无「课名」明载）；anchors 天盘/四课/三传←本席回底本全文 cases_raw.json 原式程序化转录（解析器对 holdout33 封存 DA 卡逐字复现验证）；setting/provenance←池卡 provenance 组写；金标 master_prediction/outcome_record←底本正文邵先生曰段/应验段程序化提取，剥离后为底本正文子串（脚本断言）",
+  "DA-080": "subject/question←池卡 subject/question_or_topic 逐字；anchors.asked_at←池卡 asked_at 逐字（与底本式头核对相合）；anchors.课名←底本未载（底本无「课名」明载）；anchors 天盘/四课/三传←本席回底本全文 cases_raw.json 原式程序化转录（解析器对 holdout33 封存 DA 卡逐字复现验证）；setting/provenance←池卡 provenance 组写；金标 master_prediction/outcome_record←底本正文邵先生曰段/应验段程序化提取，剥离后为底本正文子串（脚本断言）",
+  "DA-081": "subject/question←池卡 subject/question_or_topic 逐字；anchors.asked_at←池卡 asked_at 逐字（与底本式头核对相合）；anchors.课名←底本未载（底本无「课名」明载）；anchors 天盘/四课/三传←本席回底本全文 cases_raw.json 原式程序化转录（解析器对 holdout33 封存 DA 卡逐字复现验证）；setting/provenance←池卡 provenance 组写；金标 master_prediction/outcome_record←底本正文邵先生曰段/应验段程序化提取，剥离后为底本正文子串（脚本断言）"
+ },
+ "strip_register": {
+  "DA-075": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/transcription（池卡管理与金标侧字段，不入输入卡）",
+   "金标侧剥离：缘生谛注、爱函按（编注与案验续释，不入断语/结局；逐例处置见 grade_note 文尾处置）"
+  ],
+  "DA-076": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/transcription（池卡管理与金标侧字段，不入输入卡）",
+   "金标侧剥离：缘生谛注、爱函按（编注与案验续释，不入断语/结局；逐例处置见 grade_note 文尾处置）"
+  ],
+  "DA-077": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/transcription（池卡管理与金标侧字段，不入输入卡）",
+   "金标侧剥离：缘生谛注、爱函按（编注与案验续释，不入断语/结局；逐例处置见 grade_note 文尾处置）"
+  ],
+  "DA-078": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/transcription（池卡管理与金标侧字段，不入输入卡）",
+   "金标侧剥离：缘生谛注、爱函按（编注与案验续释，不入断语/结局；逐例处置见 grade_note 文尾处置）"
+  ],
+  "DA-079": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/transcription（池卡管理与金标侧字段，不入输入卡）",
+   "金标侧剥离：缘生谛注、爱函按（编注与案验续释，不入断语/结局；逐例处置见 grade_note 文尾处置）"
+  ],
+  "DA-080": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/transcription（池卡管理与金标侧字段，不入输入卡）",
+   "金标侧剥离：缘生谛注、爱函按（编注与案验续释，不入断语/结局；逐例处置见 grade_note 文尾处置）"
+  ],
+  "DA-081": [
+   "master/master_predictions/outcome/outcome_grade/contamination/contamination_rationale/grade_note/holdout_eligible/transcription（池卡管理与金标侧字段，不入输入卡）",
+   "金标侧剥离：缘生谛注、爱函按（编注与案验续释，不入断语/结局；逐例处置见 grade_note 文尾处置）"
+  ]
+ },
+ "gold_frag": "runs/round93/gold-frag-da-r93.jsonl",
+ "gold_frag_lines": 7,
+ "order": [
+  "DA-075",
+  "DA-076",
+  "DA-077",
+  "DA-078",
+  "DA-079",
+  "DA-080",
+  "DA-081"
+ ]
+}
