@@ -2,8 +2,12 @@
 """Round 75 host tooling: merge judge seat files into views X/Y, verify
 coverage against the host mapping, compute the arbitration dispute set
 (|X.total - Y.total| >= 3) and build the arbitration packet.
-Platform family only (487, judgeX-block1..4 / judgeY-block1..4).
+Platform family only (487, scores-judgeX1..4 / scores-judgeY1..4).
 No scoring is done here.
+R75 naming note: this round's packet files carry the judgeX-block*.jsonl
+names and the seats' score outputs are scores-judgeX*.jsonl (dispatch
+wording), so main() reads the scores- names; mechanism otherwise
+verbatim from merge_judge_views_r74.py.
 BUILD-ONLY: written ahead of judging; run by the host only after
 the judge seats return their scored judgeX/judgeY block files.
 (Verbatim mechanism of merge_judge_views_r74.py.)
@@ -62,8 +66,8 @@ def merge_family(view_files, mapping_name, packet_names, tag):
 
 def main():
     merge_family(
-        ([f"judgeX-block{i}.jsonl" for i in range(1, 5)],
-         [f"judgeY-block{i}.jsonl" for i in range(1, 5)]),
+        ([f"scores-judgeX{i}.jsonl" for i in range(1, 5)],
+         [f"scores-judgeY{i}.jsonl" for i in range(1, 5)]),
         "host-mapping.json", ("packetA.json", "packetB.json"), "")
     return 0
 
