@@ -1,0 +1,1090 @@
+{
+  "meta": {
+    "round": "R76",
+    "seat": "消化开采席（测字面）",
+    "source_book": "《字触补》六卷（清·桑灵直编；册本题名页作者名中间一字字形未判准，见 DIGEST 挂起项）",
+    "container": "《四库未收书辑刊》陆辑第拾捌册（光绪十七年小嫏嬛书库刻本系统）",
+    "container_file": "/home/hatch/workspace/divination/incoming/wanted-books-5/Book/四库未收书辑刊 陆辑 拾捌册 (四库未收书辑刊编纂委员会编).pdf",
+    "container_sha256": "c692398989c29e04a6964b19191c0ac3f0ac69668fdc2d3cff78d2146ead6b5e",
+    "location_in_container": "PDF 第517–650页（册页513–646）；PDF页码＝册页＋4；每PDF页含原书上下两叶",
+    "provenance": "用户经学校图书馆提供",
+    "redistributable": false,
+    "reading_method": "扫描图像版无文字层；pdftoppm渲染（130dpi通读、200dpi入池例复核）＋视觉读图转录；卷六后段以识典古籍全文（CADAL02032884）交叉定位、入池字段一律回PDF视觉核读为准",
+    "filters": "四滤：①断语逐字可录 ②结局独立成文且具体 ③断语与结局可分离 ④污染预判非high；锚点在场＝字形拆分过程载于原文",
+    "dedup_scope": "data/全目录人名关键词grep；ZC-001–133（round38/39抽例档）与ZC-134–162（round41候选档）subject逐条比对；历轮digestion登记档374个文本文件关键词grep；命中处置逐例载于各条dedup字段",
+    "counts": {
+      "records": 36,
+      "eligible_present": 19,
+      "partial_not_eligible": 6,
+      "ineligible_other_filters": 11,
+      "anchor_status_all_records": {
+        "present": 27,
+        "partial": 9,
+        "absent": 0
+      },
+      "cz_qx_counted": 12
+    }
+  },
+  "cases": [
+    {
+      "case_id": "ZCB-001",
+      "title": "兌卦失金釵",
+      "source": {
+        "book": "字触补",
+        "juan": "卷二·外部",
+        "leaf": "叶1",
+        "pdf_pages": "553下半"
+      },
+      "input_side": "釋曇遷，俗姓王氏，年十三，初學於舅氏權，會授以周易，隨言即曉，始學其半，餘半自通。有一嫗失物就卦，會決之，得兌卦，會令遷試辨之。原文拆分過程：遷曰「兌是金位，字脚兩垂，似於釵象耳」；又曰「兌是西方少女之位，五色分方西為白也；兌字上點表總角之象，內有尖形表奉口之相，推測而知，非有異術」。",
+      "master_assertion": "若如卦判定失金釵；失者西家白色女子，奉口總角，可年十四五者，將去尋可得之。",
+      "outcome": "嫗驚喜曰「實如所辨」；後如言果獲。",
+      "anchor_status": "present",
+      "anchor_basis": "兌字分層拆象（金位/字脚兩垂/上點/內尖形）逐字載於原文",
+      "contamination_pre": "low",
+      "contamination_basis": "曇遷為唐尼、見續高行傳，此失釵轶事冷僻，非通行名案",
+      "separable": true,
+      "eligible": true,
+      "cz_qx_counted": true,
+      "cz_qx_note": "第一读（象形/方位/卦德分層對位），無變換步",
+      "dedup": {
+        "status": "已核",
+        "note": "曇遷/曇迁關鍵詞於data/及歷輪digestion登記檔無命中；ZC-001–162 subject比對無此事"
+      },
+      "transcription": {
+        "mode": "visual",
+        "confidence": 0.92
+      }
+    },
+    {
+      "case_id": "ZCB-002",
+      "title": "梅字（楊向春測歐陽巡按）",
+      "source": {
+        "book": "字触补",
+        "juan": "卷二·外部",
+        "leaf": "叶5",
+        "pdf_pages": "555下半"
+      },
+      "input_side": "楊向春謁巡按歐陽重[?]，書一梅字占之，不言所占何事。原文拆分過程：春曰「梅有兩人字，而下有母字」。",
+      "master_assertion": "梅有兩人字，而下有母字，公將舉兩子，後生者男，亦文疾人也。",
+      "outcome": "後歲餘，歐公復見曰「子云信然，所云亦文疾人，隱語也，今可得聞乎」，春乃釋「文疾人」之隱（其子生以天赦日、名赦，赦從赤從文[?]），歐公數[?]曰其驗乃爾乎。（雲南通志）",
+      "anchor_status": "present",
+      "anchor_basis": "梅字拆分（兩人字＋母字）載於斷語原文",
+      "contamination_pre": "low",
+      "contamination_basis": "楊向春、巡按歐陽均冷僻，事出雲南通志轉錄",
+      "separable": true,
+      "eligible": true,
+      "cz_qx_counted": true,
+      "cz_qx_note": "第一读分拆取象（QX-01）",
+      "dedup": {
+        "status": "已核",
+        "note": "楊向春/欧阳關鍵詞無命中；ZC檔比對無此事"
+      },
+      "transcription": {
+        "mode": "visual",
+        "confidence": 0.85,
+        "note": "結尾釋隱段數字未判準（以[?]標），斷語與結局主體清晰"
+      }
+    },
+    {
+      "case_id": "ZCB-003",
+      "title": "王字（富陽占者斷督學丁艱）",
+      "source": {
+        "book": "字触补",
+        "juan": "卷二·外部",
+        "leaf": "叶5–6",
+        "pdf_pages": "555下半–556上半",
+        "entry": "去字王字条之王字段"
+      },
+      "input_side": "富陽縣坊郭里人能占（背景見同條去字段）。桂[?]不信，又書王字問。原文拆分過程：叩其故曰「土土一撇，是撤却土，子[?]去也；督學任甫一年，不可云陞，改[?]聲甚美未可云罷，故知丁艱。此斷以理也」。（浙江通志）",
+      "master_assertion": "督學去任矣，三日內即有徵，必丁艱也。",
+      "outcome": "至三日果然。",
+      "anchor_status": "present",
+      "anchor_basis": "王字拆法（土＋一撇、撤土）與排除陞/罷之推理俱載於原文",
+      "contamination_pre": "low",
+      "contamination_basis": "富陽佚名占者地方轶事，出浙江通志，冷僻",
+      "separable": true,
+      "eligible": true,
+      "cz_qx_counted": true,
+      "cz_qx_note": "分拆＋問目排除法裁決（QX-04/QX-05相涉）",
+      "dedup": {
+        "status": "已核",
+        "note": "人名關鍵詞無命中；ZC-019為文惠公子去字代占、異人異事，不互撞"
+      },
+      "transcription": {
+        "mode": "visual",
+        "confidence": 0.82,
+        "note": "問者名首字與拆語數字未判準（[?]標）"
+      }
+    },
+    {
+      "case_id": "ZCB-004",
+      "title": "董字（徐燕遼獄中問董姓軍官）",
+      "source": {
+        "book": "字触补",
+        "juan": "卷二·外部",
+        "leaf": "叶8–9",
+        "pdf_pages": "557上半–下半",
+        "entry": "墨字董字名字条之後段"
+      },
+      "input_side": "徐燕遼以盧見曾侵帑事牽連入獄、發遣之際，一董姓軍官云能拆字，徐即書董字使拆；又書名字使拆。原文拆分過程：董曰「董」為「千里萬里也」；名字則「下為口字，上為外字偏傍，是口外矣」；又指名字中「日在于西為夕，其西域乎」；定期則「口為四字[?]……其不足四年乎，今年為戊子，至四年為辛卯，夕字卯字偏傍亦相合也」。（淡墨錄）",
+      "master_assertion": "公遣戍矣；其西域乎；將來得歸否——必賜環也；在何年——至四年為辛卯。",
+      "outcome": "年以辛卯釋放還京；至是果驗。",
+      "anchor_status": "present",
+      "anchor_basis": "董字與名字之拆分、應期推步（戊子起四年至辛卯）逐段載於原文",
+      "contamination_pre": "low",
+      "contamination_basis": "徐燕遼為乾隆間中書，冷僻；事出淡墨錄系統筆記",
+      "separable": true,
+      "eligible": true,
+      "cz_qx_counted": true,
+      "cz_qx_note": "分拆＋應期賦值（QX-04/QX-07相涉）",
+      "dedup": {
+        "status": "已核",
+        "note": "徐燕遼/徐燕辽關鍵詞無命中；ZC檔比對無此事"
+      },
+      "transcription": {
+        "mode": "visual",
+        "confidence": 0.8,
+        "note": "對話密段數字未判準（[?]標），斷語主幹與結局明確"
+      }
+    },
+    {
+      "case_id": "ZCB-005",
+      "title": "因字三測（孟瓶庵榜前）",
+      "source": {
+        "book": "字触补",
+        "juan": "卷二·外部",
+        "leaf": "叶9",
+        "pdf_pages": "557下半"
+      },
+      "input_side": "乾隆丁卯，孟瓶庵於榜前請人測字，以徐[?]茶書一因字於卓上；旁一友亦就此因字請測；又一友以所執扇拍卓，亦以此因字請測。原文拆分過程：其人曰「此為國中一人之象」；對第二人曰「彼因字係無心，君因字係有心，以因加心，有恩字象也」；對第三人曰「君之扇適加因字，正中有困之象」。（歸田瑣記）",
+      "master_assertion": "（孟）君必為此科解首矣；（友二）君此科恐無分，或後此有恩科亦必中；（友三）其終於一衿乎。",
+      "outcome": "後三君皆如其言。",
+      "anchor_status": "present",
+      "anchor_basis": "三斷之拆分依據（國中一人/因加心成恩/扇加因成困）逐一載於原文",
+      "contamination_pre": "low",
+      "contamination_basis": "孟瓶庵冷僻，測者姓名且不傳，出歸田瑣記",
+      "separable": true,
+      "eligible": true,
+      "cz_qx_counted": true,
+      "cz_qx_note": "同字異斷之裁決序原文實據（QX-05）：問者之心與臨場外加物定讀法",
+      "dedup": {
+        "status": "已核",
+        "note": "孟瓶庵、因字關鍵詞無命中；ZC檔比對無此事"
+      },
+      "transcription": {
+        "mode": "visual",
+        "confidence": 0.9
+      }
+    },
+    {
+      "case_id": "ZCB-006",
+      "title": "湖田二字",
+      "source": {
+        "book": "字触补",
+        "juan": "卷二·外部",
+        "leaf": "叶14–15",
+        "pdf_pages": "560上半–下半"
+      },
+      "input_side": "樊某[?]兼讀採吳講劍術，時時沈玩先天，自知不苒[?]於功名，遂悉棄去，觀消息盈虛輒能前知。偶過日者胡氏肆，見牌懸「湖田」二字，因占之。原文拆分過程：曰「田者墓田象也」；胡氏肆立水傍，「而從墓田，其必以酒溺乎」。",
+      "master_assertion": "田者墓田象也……（胡氏）其必以酒溺乎。",
+      "outcome": "後胡氏果醉墮水死。",
+      "anchor_status": "present",
+      "anchor_basis": "田→墓田之取象與湖（水）＋田合成溺亡之斷，載於原文",
+      "contamination_pre": "low",
+      "contamination_basis": "胡氏日者與占者俱佚名地方人物，冷僻",
+      "separable": true,
+      "eligible": true,
+      "cz_qx_counted": true,
+      "cz_qx_note": "第一读取象合成",
+      "dedup": {
+        "status": "已核",
+        "note": "湖田關鍵詞無命中；ZC檔比對無此事"
+      },
+      "transcription": {
+        "mode": "visual",
+        "confidence": 0.82,
+        "note": "占者名字數字未判準（[?]標）"
+      }
+    },
+    {
+      "case_id": "ZCB-007",
+      "title": "午字（張濟斷邵洪典試學政）",
+      "source": {
+        "book": "字触补",
+        "juan": "卷二·外部",
+        "leaf": "叶15–16",
+        "pdf_pages": "560下半–561上半",
+        "entry": "董薩無土車午榆條之午字段"
+      },
+      "input_side": "張濟字遂南，善拆字兼通邵氏先天數。同里吏部邵洪問今歲可得典試及學政否，隨口占午字。原文拆分過程：濟曰「言午為許，神已許之矣」。",
+      "master_assertion": "君所願皆遂，言午為許，神已許之矣。",
+      "outcome": "已而果然。",
+      "anchor_status": "present",
+      "anchor_basis": "午→許之諧聲拆合載於斷語原文",
+      "contamination_pre": "low",
+      "contamination_basis": "張濟、邵洪俱冷僻地方人物",
+      "separable": true,
+      "eligible": true,
+      "cz_qx_counted": true,
+      "cz_qx_note": "諧聲第一读；結局僅「已而果然」四字，成色薄，入賬時宜註明",
+      "dedup": {
+        "status": "已核",
+        "note": "張濟/张济關鍵詞無命中；ZC檔比對無此事"
+      },
+      "transcription": {
+        "mode": "visual",
+        "confidence": 0.88
+      }
+    },
+    {
+      "case_id": "ZCB-008",
+      "title": "死字（盧江太守未仕時）",
+      "source": {
+        "book": "字触补",
+        "juan": "卷二·外部",
+        "leaf": "叶16（末叶）",
+        "pdf_pages": "561上半"
+      },
+      "input_side": "盧江太守米[?]山姚某，拂[?]杭州，人未仕時，元旦城隍山下肆拆字，拈一死字，不悅。原文拆分過程：卜者曰「拆開是乙卯一人」。",
+      "master_assertion": "恭喜，拆開是乙卯一人，豈非今科解元乎。",
+      "outcome": "後果驗。（花間[?]笑語）",
+      "anchor_status": "present",
+      "anchor_basis": "死字拆開成「乙卯一人」之說載於原文（拆法跳脫常規、原文如此）",
+      "contamination_pre": "low",
+      "contamination_basis": "姚某姓名殘缺、地方轶事，冷僻",
+      "separable": true,
+      "eligible": true,
+      "cz_qx_counted": true,
+      "cz_qx_note": "破字分拆（QX-04）",
+      "dedup": {
+        "status": "已核",
+        "note": "人名關鍵詞無命中；ZC檔比對無此事"
+      },
+      "transcription": {
+        "mode": "visual",
+        "confidence": 0.78,
+        "note": "求測者名與出處書名字形未判準（[?]標）"
+      }
+    },
+    {
+      "case_id": "ZCB-009",
+      "title": "虞脫上衣（索充夢）",
+      "source": {
+        "book": "字触补",
+        "juan": "卷四·几部",
+        "leaf": "叶1",
+        "pdf_pages": "571上半"
+      },
+      "input_side": "索充夢一虞脫上衣來詣，充就占。原文拆分過程：占者曰「虞去上半，下男字也；夷虞陰類」。",
+      "master_assertion": "虞去上半，下男字也，夷虞陰類，君妻當生男也。",
+      "outcome": "已後果驗。（太平廣記驗[?]）",
+      "anchor_status": "present",
+      "anchor_basis": "夢象「虞」字去上半成男之拆法載於原文",
+      "contamination_pre": "low",
+      "contamination_basis": "索充雖見晉書，此夢虞生男轶事冷僻",
+      "separable": true,
+      "eligible": true,
+      "cz_qx_counted": true,
+      "cz_qx_note": "夢字減筆分拆（QX-04相涉）",
+      "dedup": {
+        "status": "已核",
+        "note": "索充關鍵詞命中R46逸旨檔YZ-C019（夢二棺遷官），為同人異夢異事，不互撞；ZC檔比對無此事"
+      },
+      "transcription": {
+        "mode": "visual",
+        "confidence": 0.88
+      }
+    },
+    {
+      "case_id": "ZCB-010",
+      "title": "取了（曾迥夢兜）",
+      "source": {
+        "book": "字触补",
+        "juan": "卷四·几部",
+        "leaf": "叶14",
+        "pdf_pages": "576下半"
+      },
+      "input_side": "江西曾迥，當大比之秋，夢抱一小兜，忽見此兜右邊又生一耳，少頃見此兜無兩手，以為不祥，語其兄。原文拆分過程：兄進進[?]曰「又添一耳，耳與又乃取字；小兜子無兩手，乃了字」。",
+      "master_assertion": "爾已取了。",
+      "outcome": "已而果然。（聽然[?]野記）",
+      "anchor_status": "present",
+      "anchor_basis": "夢象成字之拆合（耳＋又＝取、兜無兩手＝了）逐字載於原文",
+      "contamination_pre": "low",
+      "contamination_basis": "曾迥冷僻地方人物",
+      "separable": true,
+      "eligible": true,
+      "cz_qx_counted": true,
+      "cz_qx_note": "夢象成字後分拆（QX-03/04相涉）",
+      "dedup": {
+        "status": "已核",
+        "note": "曾迥關鍵詞無命中；ZC檔比對無此事"
+      },
+      "transcription": {
+        "mode": "visual",
+        "confidence": 0.88
+      }
+    },
+    {
+      "case_id": "ZCB-011",
+      "title": "周字（吳某冤獄夢）",
+      "source": {
+        "book": "字触补",
+        "juan": "卷四·几部",
+        "leaf": "叶17",
+        "pdf_pages": "578上半",
+        "entry": "周元亮条"
+      },
+      "input_side": "青州居民范小山行賈未歸，妻質[?]獨宿為盜所殺，郡縣拘吳姓素封（范之姻家[?]）堅不伏，慘被械梏遂以成案，吳自分必死，夜夢神入告。原文拆分過程：夢神曰「子勿死，邊吉乃周字也」。",
+      "master_assertion": "子勿死，邊吉乃周字也。",
+      "outcome": "無何，周元亮先生分守是道，慮囚至吳，三年冤獄一朝而雪，吳始悟邊吉乃周字也。（聊齋[?]志異[?]系統）",
+      "anchor_status": "present",
+      "anchor_basis": "邊＋吉成周之拆法載於夢中神告原文，結尾復點明",
+      "contamination_pre": "low",
+      "contamination_basis": "范小山、吳某、周元亮俱冷僻",
+      "separable": true,
+      "eligible": true,
+      "cz_qx_counted": false,
+      "cz_qx_note": "拆法出夢中神告、非占者臨場裁決，不入CZ-QX合檔（定義見DIGEST）",
+      "dedup": {
+        "status": "已核",
+        "note": "周秋/范小山關鍵詞無命中；ZC-134董豐夢象案異人異事；ZC檔比對無此事"
+      },
+      "transcription": {
+        "mode": "visual",
+        "confidence": 0.78,
+        "note": "本條字句漫漶處多，名字與出處數字未判準（[?]標），主幹（夢告—周元亮雪冤）明確"
+      }
+    },
+    {
+      "case_id": "ZCB-012",
+      "title": "謹權量（方敏愨公斷周秋案）",
+      "source": {
+        "book": "字触补",
+        "juan": "卷四·几部",
+        "leaf": "叶19",
+        "pdf_pages": "579上半"
+      },
+      "input_side": "方敏愨公署直隸按察使時，饒陽民婦侯蕭氏拒姦被殺，有周秋者跡可疑而狡詐不肯吐實，懸案二載。公閱案牘盡三鼓，坐而假寐，夢一人持素紙，下寬上窄缺左角，中有方孔，孔下有謹權量三字。原文拆分過程：公醒後細思「周字下寬左缺；而謹權量三字皆土字在下，移土之交於方孔之上，則成周字；且月令謹權量，乃秋政也」。",
+      "master_assertion": "兇人為周秋無疑。",
+      "outcome": "一訊而服。此事在行狀中講。（新齋諧）",
+      "anchor_status": "present",
+      "anchor_basis": "移字合成周字之全程（形肖＋三字土底移交＋月令秋政）逐字載於原文",
+      "contamination_pre": "low",
+      "contamination_basis": "方敏愨公雖為清代大員，此饒陽懸案轶事冷僻、出新齋諧",
+      "separable": true,
+      "eligible": true,
+      "cz_qx_counted": true,
+      "cz_qx_note": "增損移合定名（QX-03相涉）",
+      "dedup": {
+        "status": "已核",
+        "note": "謹權量/谨权量、周秋、方敏愨關鍵詞無命中；ZC檔比對無此事"
+      },
+      "transcription": {
+        "mode": "visual",
+        "confidence": 0.92
+      }
+    },
+    {
+      "case_id": "ZCB-013",
+      "title": "許忠（高蔚辰夢馬斷案）",
+      "source": {
+        "book": "字触补",
+        "juan": "卷四·几部",
+        "leaf": "叶21",
+        "pdf_pages": "580上半"
+      },
+      "input_side": "乾隆十八年，山東高蔚辰宰河南延津縣，晝寢書室，夢一馬衝其庭，立而人言，高射之正中其心，馬吼而奔，高驚醒。適外報某村婦盧羅氏夜被殺，并殺二孩，高往驗，屍傷如所報而兇犯無以根據，因憶所夢，點莊冊沉思。原文拆分過程：見有姓許名忠者，忽心計曰「馬屬午，馬立而言，則言午也，正中其心——當是許忠矣」。",
+      "master_assertion": "當是許忠矣（呼許，告以「殺此婦者，汝也」）。",
+      "outcome": "許驚愕，叩首曰「實是也，以姦不從故殺之，兩指被婦咬傷」，置于法，合郡以為神。（新齋諸[?]）",
+      "anchor_status": "present",
+      "anchor_basis": "馬屬午＋立而言＝言午（許）之拆定姓名過程載於原文",
+      "contamination_pre": "low",
+      "contamination_basis": "高蔚辰、許忠俱冷僻，縣案轶事",
+      "separable": true,
+      "eligible": true,
+      "cz_qx_counted": true,
+      "cz_qx_note": "夢象拆字定人犯姓名（QX-04相涉）",
+      "dedup": {
+        "status": "已核",
+        "note": "許忠/许忠、高蔚辰關鍵詞無命中；ZC-137吳姓節推夢虎案異人異事；ZC檔比對無此事"
+      },
+      "transcription": {
+        "mode": "visual",
+        "confidence": 0.9
+      }
+    },
+    {
+      "case_id": "ZCB-014",
+      "title": "忠恕（裴公乩判貴字）",
+      "source": {
+        "book": "字触补",
+        "juan": "卷三·晰部",
+        "leaf": "叶14",
+        "pdf_pages": "568上半"
+      },
+      "input_side": "康熙甲戌科，丹徒裴公之仙[?]偕友數人入都會試，都中有善召乩者，延之問中否，仙至判一貴字，眾不解，再叩之則曰「皆判明矣」。",
+      "master_assertion": "（乩判）貴字。",
+      "outcome": "榜發後，惟裴公中會元，餘皆落第，裴公恥[?]一目，始悟向所判字乃中一目人也。",
+      "anchor_status": "present",
+      "anchor_basis": "貴字拆為「中一目人」之讀法載於原文，惟係應驗後始悟（post-hoc），成色註記於此",
+      "contamination_pre": "low",
+      "contamination_basis": "裴公冷僻；編者自注原編外部另載貴字事（新安汪龍所測），同motif異事件，已分號",
+      "separable": true,
+      "eligible": true,
+      "cz_qx_counted": false,
+      "cz_qx_note": "乩判字＋事後悟拆，非占者當場拆分，不入CZ-QX合檔",
+      "dedup": {
+        "status": "已核",
+        "note": "裴公關鍵詞無命中；ZC-027四五舉子共寫貴字問試為異人異事；與字觸原編貴字事之關係見DIGEST衝突表ZB-C4"
+      },
+      "transcription": {
+        "mode": "visual",
+        "confidence": 0.85
+      }
+    },
+    {
+      "case_id": "ZCB-015",
+      "title": "一個中（三人祈夢照牆字）",
+      "source": {
+        "book": "字触补",
+        "juan": "卷三·晰部",
+        "leaf": "叶15",
+        "pdf_pages": "568下半"
+      },
+      "input_side": "有三人祈夢于于肅愍廟，兩人無夢，一人夢廟神謂曰「汝往觀廟外照牆，則知之」，其人醒告二人；其無夢者[?]即于夜間取筆向牆上書「不中」二字，天尚未明，寫不字不甚連接。",
+      "master_assertion": "（次早三人同往視之）乃「一個中」三字。",
+      "outcome": "果得夢者中矣。（新齋諧）",
+      "anchor_status": "present",
+      "anchor_basis": "不字書寫不連接致誤讀為一個中之字形辨正過程載於原文",
+      "contamination_pre": "low",
+      "contamination_basis": "佚名三人、廟夢轶事，冷僻",
+      "separable": true,
+      "eligible": true,
+      "cz_qx_counted": false,
+      "cz_qx_note": "夢占·字形誤讀辨正，非占者拆字斷法，不入CZ-QX合檔",
+      "dedup": {
+        "status": "已核",
+        "note": "關鍵詞無命中；ZC檔比對無此事"
+      },
+      "transcription": {
+        "mode": "visual",
+        "confidence": 0.8,
+        "note": "中段敘事數字未判準（[?]標）"
+      }
+    },
+    {
+      "case_id": "ZCB-016",
+      "title": "正字（朱某斷吳三桂反）",
+      "source": {
+        "book": "字触补",
+        "juan": "卷二·外部",
+        "leaf": "叶7",
+        "pdf_pages": "556下半",
+        "entry": "正字武字条之正字段（武字段殘，見DIGEST掛起）"
+      },
+      "input_side": "閩門外上津橋朱某，家貧，遇仙授測字一書，其驗如神，每日只測一字，取資一兩，懸牌門首。時吳三桂將反，有文書來向蘇藩庫借餉十萬，兩方伯慕公[?]躊躇莫決，乃延朱測字且告以故，朱曰請命一字，適几上有殘柬，慕公隨手翻轉，指正字為測。原文拆分過程：正字經翻轉，「几上正而反矣」。",
+      "master_assertion": "正字几上正而反矣，即反之兆也。（慕即拒之）",
+      "outcome": "未幾果應其言。",
+      "anchor_status": "present",
+      "anchor_basis": "以字之翻轉狀態（正而反）為拆讀依據，載於原文",
+      "contamination_pre": "mid",
+      "contamination_basis": "吳三桂反為著名史事、結局為通行歷史知識；然朱某借餉轶事本身冷僻，故定mid",
+      "separable": true,
+      "eligible": true,
+      "cz_qx_counted": false,
+      "cz_qx_note": "污染mid不合CZ-QX合檔low要件",
+      "dedup": {
+        "status": "已核",
+        "note": "人名關鍵詞無命中；ZC檔比對無此事"
+      },
+      "transcription": {
+        "mode": "visual",
+        "confidence": 0.8,
+        "note": "慕公名與斷語前段數字未判準（[?]標）"
+      }
+    },
+    {
+      "case_id": "ZCB-017",
+      "title": "一字（甲子克金陵）",
+      "source": {
+        "book": "字触补",
+        "juan": "卷二·外部",
+        "leaf": "叶11",
+        "pdf_pages": "558下半"
+      },
+      "input_side": "粵匪距金陵，大軍久未克復，有拈得一字，問測字者上[?]問何時可復舊地。原文拆分過程：答曰「天干第一，地支第一，一之謂也」。（異談）",
+      "master_assertion": "甲子歲必滅賊，天干第一、地支第一，一之謂也。",
+      "outcome": "是歲金陵果克。",
+      "anchor_status": "present",
+      "anchor_basis": "一→甲子（干支第一）之應期拆定載於原文",
+      "contamination_pre": "mid",
+      "contamination_basis": "太平天國金陵克復（1864甲子）為著名史事；拈字轶事本身冷僻，故定mid",
+      "separable": true,
+      "eligible": true,
+      "cz_qx_counted": false,
+      "cz_qx_note": "污染mid不合CZ-QX合檔low要件",
+      "dedup": {
+        "status": "已核",
+        "note": "關鍵詞無命中；ZC檔比對無此事"
+      },
+      "transcription": {
+        "mode": "visual",
+        "confidence": 0.88
+      }
+    },
+    {
+      "case_id": "ZCB-018",
+      "title": "金哥哥（錢字夢）",
+      "source": {
+        "book": "字触补",
+        "juan": "卷四·几部",
+        "leaf": "叶25",
+        "pdf_pages": "582上半"
+      },
+      "input_side": "乾隆己卯鄉試，江西人有夢神告曰「金哥哥來典試」，前一科丙子典試者為金檜門宗伯，夢者謂必金公再來。原文拆分過程：後正主考為錢文敏公，始悟「金戈戈即錢字」。",
+      "master_assertion": "金哥哥來典試（夢神告語；拆讀：金戈戈即錢字）。",
+      "outcome": "後正主考為錢文敏公。",
+      "anchor_status": "present",
+      "anchor_basis": "金＋戈＋戈合成錢字之拆法載於原文（應驗後悟、夢占型）",
+      "contamination_pre": "mid",
+      "contamination_basis": "錢文敏公（錢陳群）為知名人物；夢兆轶事本身冷僻，故定mid",
+      "separable": true,
+      "eligible": true,
+      "cz_qx_counted": false,
+      "cz_qx_note": "污染mid不合CZ-QX合檔low要件",
+      "dedup": {
+        "status": "已核",
+        "note": "金哥哥、錢文敏關鍵詞無命中；ZC檔比對無此事"
+      },
+      "transcription": {
+        "mode": "visual",
+        "confidence": 0.9
+      }
+    },
+    {
+      "case_id": "ZCB-019",
+      "title": "金德瑛（張文和公夢鈺字）",
+      "source": {
+        "book": "字触补",
+        "juan": "卷四·几部",
+        "leaf": "叶19–20",
+        "pdf_pages": "579上半–下半",
+        "entry": "金德瑛条（淡墨錄、熙朝新語兩錄）"
+      },
+      "input_side": "乾隆元年正月元日，大學士張文和公夢其父桐城公諱英者獨坐室中手持一卷，問曰新科狀元錄，狀元何名，公舉左手示之；另一錄作：文和公夢見其父文端公端書鈺字示之，指玉、指金加於頂，問今科狀元何姓。原文拆分過程：狀元乃金德瑛，「移玉字至英字之左」成瑛；鈺字中已藏其姓名（金＋玉），姓徐[?]及廬唱一甲一名乃金德瑛。",
+      "master_assertion": "（夢示）鈺字／左手指示——拆讀為金德瑛（金＋玉為鈺、玉移英左為瑛）。",
+      "outcome": "後丙辰狀元乃金德瑛，此其驗也。",
+      "anchor_status": "present",
+      "anchor_basis": "鈺字拆合與玉移成瑛之過程兩錄俱載",
+      "contamination_pre": "mid",
+      "contamination_basis": "張英、張廷玉父子著名，金德瑛為乾隆丙辰狀元（可查之史實）；夢兆轶事本身流傳有限，故定mid",
+      "separable": true,
+      "eligible": true,
+      "cz_qx_counted": false,
+      "cz_qx_note": "污染mid不合CZ-QX合檔low要件",
+      "dedup": {
+        "status": "已核",
+        "note": "金德瑛關鍵詞無命中；ZC檔比對無此事"
+      },
+      "transcription": {
+        "mode": "visual",
+        "confidence": 0.82,
+        "note": "熙朝新語錄中數字未判準（[?]標）"
+      }
+    },
+    {
+      "case_id": "ZCB-020",
+      "title": "言字（小試者拈字）",
+      "source": {
+        "book": "字触补",
+        "juan": "卷二·外部",
+        "leaf": "叶10",
+        "pdf_pages": "558上半",
+        "entry": "訃字[題字形近言]条"
+      },
+      "input_side": "一應小試者赴測字者門，課拈得言字，擲字几上而去，以為不吉，測字者止之，問何事，告以卜考事，曰幾人應考，曰二人。",
+      "master_assertion": "大吉大吉，二人必皆得手，文學子游子夏，此之謂也。",
+      "outcome": "果如其言。（異談）",
+      "anchor_status": "partial",
+      "anchor_basis": "斷據為文學子游子夏之典故聯想，原文未載言字之字形拆分過程，不合present要件",
+      "contamination_pre": "low",
+      "contamination_basis": "佚名小試者，冷僻",
+      "separable": true,
+      "eligible": false,
+      "cz_qx_counted": false,
+      "dedup": {
+        "status": "已核",
+        "note": "關鍵詞無命中；ZC檔比對無此事"
+      },
+      "transcription": {
+        "mode": "visual",
+        "confidence": 0.85
+      }
+    },
+    {
+      "case_id": "ZCB-021",
+      "title": "去字（周茂叔問行止）",
+      "source": {
+        "book": "字触补",
+        "juan": "卷二·外部",
+        "leaf": "叶5",
+        "pdf_pages": "555下半",
+        "entry": "去字王字条之去字段"
+      },
+      "input_side": "四明周茂叔館於周某家，督學使者業行檄試，茂[?]書去字令占。原文拆分過程：占者曰「字雖云去，而畫直下，筆鉤搭」。",
+      "master_assertion": "勿去也。",
+      "outcome": "（同條下文轉入王字段，茂叔去留結局未獨立成文）",
+      "anchor_status": "partial",
+      "anchor_basis": "筆勢取象（畫直下、筆鉤搭）在文，然結局未獨立成文，四滤②不過，整體至多partial",
+      "contamination_pre": "low",
+      "contamination_basis": "周茂叔地方人物，冷僻",
+      "separable": false,
+      "eligible": false,
+      "cz_qx_counted": false,
+      "dedup": {
+        "status": "已核",
+        "note": "ZC-019文惠公子以信中去字代占為異人異事；本條關鍵詞無命中"
+      },
+      "transcription": {
+        "mode": "visual",
+        "confidence": 0.82
+      }
+    },
+    {
+      "case_id": "ZCB-022",
+      "title": "耕衣人（韓雍軍中星士）",
+      "source": {
+        "book": "字触补",
+        "juan": "卷四·几部",
+        "leaf": "叶13",
+        "pdf_pages": "576上半"
+      },
+      "input_side": "韓公雍總督兩廣，軍中獲一善星象者，懼其妖言惑眾命斬之，及斬，公試問之曰「斬汝者誰」。",
+      "master_assertion": "耕衣人。",
+      "outcome": "公特命劊者更白衣斬之以破其言，後問諸劊者，乃裴姓也。公謂術斯妄矣，其言乃驗。（荊[?]瑣記）",
+      "anchor_status": "partial",
+      "anchor_basis": "裴＝非＋衣之拆合原文未明言，「耕衣人」與裴姓之對應未載拆分過程",
+      "contamination_pre": "mid",
+      "contamination_basis": "韓雍為明代名臣（中）；星士轶事本身冷僻",
+      "separable": true,
+      "eligible": false,
+      "cz_qx_counted": false,
+      "dedup": {
+        "status": "已核",
+        "note": "韓雍/韩雍關鍵詞無命中；ZC檔比對無此事"
+      },
+      "transcription": {
+        "mode": "visual",
+        "confidence": 0.85
+      }
+    },
+    {
+      "case_id": "ZCB-023",
+      "title": "雷書（福州賣米者天書）",
+      "source": {
+        "book": "字触补",
+        "juan": "卷四·几部",
+        "leaf": "叶18",
+        "pdf_pages": "578下半"
+      },
+      "input_side": "順治間，福州錢臺錦坊有賣米者雷震死，其屍上有字大書[?]，人無識者，人題之於萬壽塔壁，夜有蜘蛛垂絲於字之中直貫而下，視之乃悟。原文拆分過程：視之「乃米中用水，糠中用木，查[?]九字也」。",
+      "master_assertion": "（天書拆讀）米中用水，糠中用木（指其平日摻假）。",
+      "outcome": "詢知其人平日果然，天誅不爽。（新廣[?]異誌）",
+      "anchor_status": "partial",
+      "anchor_basis": "拆讀機制（蛛絲貫字）在文，然天書原字形（硃書數字）轉錄未判準，關鍵字形掛起，不入present",
+      "contamination_pre": "low",
+      "contamination_basis": "佚名賣米者，地方異聞，冷僻",
+      "separable": true,
+      "eligible": false,
+      "cz_qx_counted": false,
+      "dedup": {
+        "status": "已核",
+        "note": "關鍵詞無命中；同書葉29另有異文，同事只計一例（本條）"
+      },
+      "transcription": {
+        "mode": "visual",
+        "confidence": 0.7,
+        "note": "天書原字形數字未判準，掛起登記（見DIGEST）"
+      }
+    },
+    {
+      "case_id": "ZCB-024",
+      "title": "戊午·癸卯（浙語諧音夢兆二事）",
+      "source": {
+        "book": "字触补",
+        "juan": "卷四·几部",
+        "leaf": "叶22",
+        "pdf_pages": "580下半"
+      },
+      "input_side": "（一）吾鄰有顧東田者，名與沐會，宿關帝廟，夢一人屠狗而去其心，又一人殺牛而去其首，皆置東田前，醒而惡其不祥。（二）杭州士人於文肅祠祈夢，夢至大如瓮曰欲中舉當食此，否則不中，士子懼勉食之，初啜味甚甘如榅子片，時將厚皮囫圇至大[?]。",
+      "master_assertion": "（一）後中式戊午科，舉人始悟：戊去心為戌[?]、牛去首為午[?]，是戊午也。（二）乾隆癸卯榜發，士子中魁，始恍然解悟（癸卯以浙語諧腎/卵[?]）。",
+      "outcome": "（一）中式戊午科舉人。（二）乾隆癸卯榜發，士子中魁。",
+      "anchor_status": "partial",
+      "anchor_basis": "斷據為浙語諧聲與夢象拼字，非字形拆分過程，按錨點要件（字形拆分須載於原文）定partial",
+      "contamination_pre": "low",
+      "contamination_basis": "顧東田、杭州士人俱冷僻",
+      "separable": true,
+      "eligible": false,
+      "cz_qx_counted": false,
+      "dedup": {
+        "status": "已核",
+        "note": "關鍵詞無命中；ZC檔比對無此事"
+      },
+      "transcription": {
+        "mode": "visual",
+        "confidence": 0.75,
+        "note": "諧音對應數字未判準（[?]標）"
+      }
+    },
+    {
+      "case_id": "ZCB-025",
+      "title": "榆字（張濟斷縣令母壽）",
+      "source": {
+        "book": "字触补",
+        "juan": "卷二·外部",
+        "leaf": "叶16",
+        "pdf_pages": "561上半",
+        "entry": "張濟條尾段"
+      },
+      "input_side": "（張濟條尾）縣令問母壽可若干歲，書一榆字。",
+      "master_assertion": "當八十八歲，考終三月間。",
+      "outcome": "竟驗。其巧中多此類。（喬[?]縣志）",
+      "anchor_status": "partial",
+      "anchor_basis": "榆字何以得八十八之拆分過程原文未載，錨點缺載",
+      "contamination_pre": "low",
+      "contamination_basis": "張濟、縣令俱冷僻",
+      "separable": true,
+      "eligible": false,
+      "cz_qx_counted": false,
+      "dedup": {
+        "status": "已核",
+        "note": "張濟關鍵詞無命中；ZC檔比對無此事"
+      },
+      "transcription": {
+        "mode": "visual",
+        "confidence": 0.85
+      }
+    },
+    {
+      "case_id": "ZCB-026",
+      "title": "九十字（孟德崇夢書）",
+      "source": {
+        "book": "字触补",
+        "juan": "卷一·廋部",
+        "leaf": "叶22",
+        "pdf_pages": "530上半"
+      },
+      "input_side": "蜀中正[宗正]少卿孟德崇，燕王貽穀[鄴]之子，自恃貴族脫略傲誕，嘗太廟行香攜妓而往，一夕夢一老人責之，且取案上筆叱令開手大書九十字而覺；翌日自解壽至九十，客戲解「九十字廼是行書卒字，亞卿其非吉徵乎」。",
+      "master_assertion": "九十字廼是行書卒字，亞卿其非吉徵乎。",
+      "outcome": "不旬日果卒。（野人閒話）",
+      "anchor_status": "present",
+      "anchor_basis": "九＋十行書合形為卒之拆讀在文",
+      "contamination_pre": "low",
+      "contamination_basis": "孟德崇冷僻（R53檔評low-mid）",
+      "separable": true,
+      "eligible": false,
+      "ineligible_reason": "去重剔出：同一事已由R53自《野人閒話》系統開採登記為LK2-C59並判淨新在庫，本批不重收",
+      "cz_qx_counted": false,
+      "dedup": {
+        "status": "已核（命中）",
+        "note": "孟德崇關鍵詞命中runs/round53/digestion/REGISTER-leikao-cont-r53.md（LK2-C59，全文拼合與本條同源《野人閒話》）"
+      },
+      "transcription": {
+        "mode": "visual",
+        "confidence": 0.88
+      }
+    },
+    {
+      "case_id": "ZCB-027",
+      "title": "范時行三事（碁字·羲字·鳳字）",
+      "source": {
+        "book": "字触补",
+        "juan": "卷二·外部",
+        "leaf": "叶12–13",
+        "pdf_pages": "559上半–下半"
+      },
+      "input_side": "乾隆間蘇人范時行善拆字，曾至吾邑寓紫陽觀，每日得錢六百為率。三事：（一）一兵拈某字問終生休咎，范以象碁/圍碁分斷（從木不從石是象碁子、其人為卒、宜外出）；（二）有人拈一羲字問年，范曰「羲字從羊從我，是止一屬羊之我，爾終身孤隻，不能有妻子也」；（三）有人以鳳字問所孕男女，范曰「移中開蟲字於右旁則似乎旭，詩曰惟旭[虺]惟蛇，女子之祥，所孕必女矣」。（右台仙館筆記）",
+      "master_assertion": "（一）家中人口日益凋零；宜外出方可得志，然不能大得志。（二）終身孤隻，不能有妻子。（三）所孕必女。",
+      "outcome": "（一）僅問者當場認可「家中人口凋零」之現況，未來斷語無結局；（二）（三）結局均未成文。",
+      "anchor_status": "present",
+      "anchor_basis": "三事拆分過程俱在文（碁子分類/羲從羊從我/鳳移蟲成旭）",
+      "contamination_pre": "low",
+      "contamination_basis": "范時行冷僻，出右台仙館筆記",
+      "separable": false,
+      "eligible": false,
+      "ineligible_reason": "四滤②不過：結局未獨立成文（僅一事有現況認可），整組登記為不合格例，斷法價值見DIGEST",
+      "cz_qx_counted": false,
+      "dedup": {
+        "status": "已核",
+        "note": "范時行/范时行關鍵詞無命中；ZC檔比對無此事"
+      },
+      "transcription": {
+        "mode": "visual",
+        "confidence": 0.88
+      }
+    },
+    {
+      "case_id": "ZCB-028",
+      "title": "張濟董薩組（董·薩·無·土·車諸字）",
+      "source": {
+        "book": "字触补",
+        "juan": "卷二·外部",
+        "leaf": "叶15",
+        "pdf_pages": "560下半",
+        "entry": "董薩無土車午榆條之前段（午、榆另號ZCB-007/025）"
+      },
+      "input_side": "張濟字遂南善拆字。有兩秀才問功名，一書董字，一書薩字；一人以無字問妻病；有用溼筆書土字者問病；或以車字問何時得財。原文拆分過程：董字頭上簪花之象；薩南向一生不向北；土遇水而滋（脾病）；車字月建申則東去十分西去十分[?]。",
+      "master_assertion": "董：君今科必中。薩：君功名無分。無：君妻當病。土：君患脾病，當俟六月土旺則愈。車：（得財時機如拆語）。",
+      "outcome": "（各子例結局未逐條成文，條末僅總評「王公貴人爭延致之」）",
+      "anchor_status": "present",
+      "anchor_basis": "各子例拆分依據俱在文",
+      "contamination_pre": "low",
+      "contamination_basis": "張濟及諸問者俱冷僻",
+      "separable": false,
+      "eligible": false,
+      "ineligible_reason": "四滤②不過：結局未逐例成文",
+      "cz_qx_counted": false,
+      "dedup": {
+        "status": "已核",
+        "note": "張濟關鍵詞無命中；ZC檔比對無此事"
+      },
+      "transcription": {
+        "mode": "visual",
+        "confidence": 0.85
+      }
+    },
+    {
+      "case_id": "ZCB-029",
+      "title": "一字（父病改斷）",
+      "source": {
+        "book": "字触补",
+        "juan": "卷二·外部",
+        "leaf": "叶10",
+        "pdf_pages": "558上半"
+      },
+      "input_side": "王林[?]少時見一拆字者，一人踉蹌來問其父之病，醫[?]手拈得一字。原文拆分過程：術者曰「一者生字之盡、死字之初也」；問知其父丁丑生屬牛，改曰「牛加一畫則生字矣」。",
+      "master_assertion": "汝父殆不起矣；——（知屬牛後改斷）然則汝父不死，牛加一畫則生字矣。",
+      "outcome": "原文自註：其驗否不可知，然思致自佳。（隊[?]餘叢考）",
+      "anchor_status": "present",
+      "anchor_basis": "一字兩讀與牛加一畫之變換步俱在文",
+      "contamination_pre": "low",
+      "contamination_basis": "佚名，冷僻",
+      "separable": false,
+      "eligible": false,
+      "ineligible_reason": "四滤②不過：原文明言結局不可知；斷法價值（改斷依法）見DIGEST ZCB-M03",
+      "cz_qx_counted": false,
+      "dedup": {
+        "status": "已核",
+        "note": "關鍵詞無命中；ZC檔比對無此事"
+      },
+      "transcription": {
+        "mode": "visual",
+        "confidence": 0.85
+      }
+    },
+    {
+      "case_id": "ZCB-030",
+      "title": "墨字（紀昀書字浙士測）",
+      "source": {
+        "book": "字触补",
+        "juan": "卷二·外部",
+        "leaf": "叶8",
+        "pdf_pages": "557上半",
+        "entry": "墨字董字名字条之前段"
+      },
+      "input_side": "紀昀字曉風，乾隆十二年丁卯解元，十九年甲戌二甲第四名進士。先是未傳臚前，在董文恪公邦達家遇浙士能測字，昀書一墨字。原文拆分過程：浙士曰「墨字拆之為二甲下作四點……四點庶字脚，士吉字頭，是庶吉士矣」。",
+      "master_assertion": "龍頭不屬君矣；其二甲第四乎；然必入翰林，是庶吉士矣。",
+      "outcome": "榜後果然；丁丑散館授編修。",
+      "anchor_status": "present",
+      "anchor_basis": "墨字拆分（二甲/四點/庶吉士）俱在文",
+      "contamination_pre": "high",
+      "contamination_basis": "紀昀為極著名人物，其甲戌二甲第四、庶吉士出身為通行記載，模型先驗可知結局",
+      "separable": true,
+      "eligible": false,
+      "ineligible_reason": "四滤④不過：污染high",
+      "cz_qx_counted": false,
+      "dedup": {
+        "status": "已核",
+        "note": "董邦達/董邦达關鍵詞無命中；惟污染已足剔出"
+      },
+      "transcription": {
+        "mode": "visual",
+        "confidence": 0.88
+      }
+    },
+    {
+      "case_id": "ZCB-031",
+      "title": "囚字（魏忠賢潛往測字）",
+      "source": {
+        "book": "字触补",
+        "juan": "卷二·外部",
+        "leaf": "叶6",
+        "pdf_pages": "556上半"
+      },
+      "input_side": "魏忠賢盛時，一測字者來京喧傳其驗，乃易服潛往叩休咎，因書一囚字與推。其人即頓首稱奇，詰其何意，曰「囚內一人也」；別後私語人曰「目下雖奸，只是結局不住……一人懸在中間，將來必要弔死，四[?]而俱無著落，家業自然蕩盡」。",
+      "master_assertion": "（面）囚內一人也；（私語）一人懸在中間，將來必要弔死，家業自然蕩盡。",
+      "outcome": "後果應。本書自注：原編作鄭仰田事，不如此詳。",
+      "anchor_status": "present",
+      "anchor_basis": "囚字拆讀在文",
+      "contamination_pre": "mid",
+      "contamination_basis": "魏忠賢著名；本條另以同源去重剔出（見下）",
+      "separable": true,
+      "eligible": false,
+      "ineligible_reason": "去重剔出：與既有ZC-042（字觸原編魏璫囚字事）同源異文，本書自注可證，不重收",
+      "cz_qx_counted": false,
+      "dedup": {
+        "status": "已核（命中）",
+        "note": "ZC-042 subject「魏璫當權時局中人（寫囚字、復寫一字問）」即此事原編本；本條為字觸補異文"
+      },
+      "transcription": {
+        "mode": "visual",
+        "confidence": 0.88
+      }
+    },
+    {
+      "case_id": "ZCB-032",
+      "title": "友字（崇禎測字改口）",
+      "source": {
+        "book": "字触补",
+        "juan": "卷二·外部",
+        "leaf": "叶6",
+        "pdf_pages": "556上半"
+      },
+      "input_side": "崇禎末年流寇信急，上日夜憂勤，遣內臣以友字問測字者，測者初曰友字乃反字出頭、其勢已成；急改口曰非此友字，乃有無之有；又改口曰非也，再酉之囚[?]耳（大明已去其半等語）。",
+      "master_assertion": "友→有→酉三改口之斷（亡國之兆）。",
+      "outcome": "（賴史實，無獨立結局文）",
+      "anchor_status": "present",
+      "anchor_basis": "三度改口之拆讀在文",
+      "contamination_pre": "high",
+      "contamination_basis": "崇禎友字測字為最通行之測字名案，模型先驗必知",
+      "separable": false,
+      "eligible": false,
+      "ineligible_reason": "四滤④不過：污染high（兼②結局賴史實）",
+      "cz_qx_counted": false,
+      "dedup": {
+        "status": "已核",
+        "note": "ZC檔無此條subject，惟污染已足剔出；斷法面（改口）見DIGEST衝突表ZB-C1"
+      },
+      "transcription": {
+        "mode": "visual",
+        "confidence": 0.85
+      }
+    },
+    {
+      "case_id": "ZCB-033",
+      "title": "王字（秦檜封申王兆）",
+      "source": {
+        "book": "字触补",
+        "juan": "卷二·外部",
+        "leaf": "叶4",
+        "pdf_pages": "555上半"
+      },
+      "input_side": "張九萬以拆字著，名秦檜召之至偶持一扇柄就地一畫，問之，九萬曰「相公當加官爵，檜曰我永相爵國公更何加，九萬曰土上一畫非王而何」。",
+      "master_assertion": "土上一畫，非王而何（相公當加官爵）。",
+      "outcome": "後果封申王。（繙[?]繹[?]）",
+      "anchor_status": "present",
+      "anchor_basis": "土＋一畫成王之拆法在文",
+      "contamination_pre": "high",
+      "contamination_basis": "秦檜封申王為著名史事",
+      "separable": true,
+      "eligible": false,
+      "ineligible_reason": "四滤④不過：污染high",
+      "cz_qx_counted": false,
+      "dedup": {
+        "status": "已核",
+        "note": "ZC檔比對無此事；污染已足剔出"
+      },
+      "transcription": {
+        "mode": "visual",
+        "confidence": 0.85
+      }
+    },
+    {
+      "case_id": "ZCB-034",
+      "title": "謝石石字組（庚字失金帶等子例）",
+      "source": {
+        "book": "字触补",
+        "juan": "卷二·外部",
+        "leaf": "叶2–3",
+        "pdf_pages": "554上半–下半"
+      },
+      "input_side": "謝石諸事：道姑問失金帶書庚字、石字自占行藏等子例（組條）。",
+      "master_assertion": "（組條子例各有斷語，未逐子例定本）",
+      "outcome": "（組條，子例結局散見）",
+      "anchor_status": "partial",
+      "anchor_basis": "子例拆分多在文，然未逐子例完成定本轉錄",
+      "contamination_pre": "mid",
+      "contamination_basis": "謝石為測字史上頭號名家，其事字觸原編多載，異文風險高",
+      "separable": false,
+      "eligible": false,
+      "ineligible_reason": "dedup未核畢：謝石諸事須逐子例對勘字觸原編（ZC-008等）後方可議，本輪不入池",
+      "cz_qx_counted": false,
+      "dedup": {
+        "status": "未核",
+        "note": "謝石關鍵詞命中chinese-cezi.md（ZC-M07謝石法、池字）及ZC-008；子例級對勘未做，依派單口徑標未核"
+      },
+      "transcription": {
+        "mode": "visual",
+        "confidence": 0.7
+      }
+    },
+    {
+      "case_id": "ZCB-035",
+      "title": "問字器字（宋徽宗遣隸問謝石）",
+      "source": {
+        "book": "字触补",
+        "juan": "卷二·外部",
+        "leaf": "叶1–2",
+        "pdf_pages": "553下半–554上半"
+      },
+      "input_side": "宋徽宗書問字，筆勢兩直分開，命一隸持往謝石，石密緘付之，戒其到家方可發，封緘內容原文未錄。",
+      "master_assertion": "（封緘預斷，內容未載於原文）",
+      "outcome": "（下文轉述謝石他事與晚節，與問字封斷之對應結局未成文）",
+      "anchor_status": "partial",
+      "anchor_basis": "問字筆勢在文，然核心斷語（封緘）內容缺載",
+      "contamination_pre": "mid",
+      "contamination_basis": "謝石名家、宋徽宗著名；兼dedup未核（謝石事原編多載）",
+      "separable": false,
+      "eligible": false,
+      "ineligible_reason": "四滤①②不過：封緘斷語未載、結局錯位；dedup未核",
+      "cz_qx_counted": false,
+      "dedup": {
+        "status": "未核",
+        "note": "與ZCB-034同組未核理由"
+      },
+      "transcription": {
+        "mode": "visual",
+        "confidence": 0.75
+      }
+    },
+    {
+      "case_id": "ZCB-036",
+      "title": "手巾字（董卓軍巫預言呂布）",
+      "source": {
+        "book": "字触补",
+        "juan": "卷一·廋部",
+        "leaf": "叶数未核",
+        "pdf_pages": "550上半"
+      },
+      "input_side": "董卓軍中巫書手巾字「一口大一口小」預言呂布事（史事型字讖）。",
+      "master_assertion": "（巫書字讖，語涉呂布）",
+      "outcome": "（賴史實）",
+      "anchor_status": "partial",
+      "anchor_basis": "字形拼合在文，然屬史事讖語、非求測成例",
+      "contamination_pre": "high",
+      "contamination_basis": "董卓、呂布為最著名三國史事",
+      "separable": false,
+      "eligible": false,
+      "ineligible_reason": "四滤④不過：污染high",
+      "cz_qx_counted": false,
+      "dedup": {
+        "status": "已核",
+        "note": "ZC檔比對無此事；污染已足剔出"
+      },
+      "transcription": {
+        "mode": "visual",
+        "confidence": 0.7
+      }
+    }
+  ]
+}

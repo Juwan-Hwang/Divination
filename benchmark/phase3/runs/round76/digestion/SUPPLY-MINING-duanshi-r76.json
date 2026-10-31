@@ -1,0 +1,2482 @@
+{
+ "batch": "R76 消化开采·段氏理象学（盲派八字）单册供给",
+ "tradition": "bazi",
+ "tradition_note": "八字他家新面（盲派/理象学）：既有 QW 面（曲炜）已证不出 present 例、WHY/GSZ 为六爻面，本批为八字 present 例首个批量来源；断法口径与活 method 八字章冲突 K1–K8 并列登记于同轮 DIGEST，不得静默并轨。",
+ "source_file": "/home/hatch/workspace/divination/incoming/wanted-books-5/Book/段氏理象学 (段建业著).pdf",
+ "source_sha256": "f7d5066ddbdd8e2e595537c8588c8ab63cf6c78a2a696013d6c737b897c378fc（与 incoming/wanted-books-5/SHA256SUMS.txt 一致，本席实测）",
+ "source_edition": "中国商业出版社「中国易学文化传承解读丛书」，2011年12月第1版第1次印刷，ISBN 978-7-5044-7457-5，CIP核字（2011）第224298号，定价38.00元；扫描图PDF（Pdg2Pic），268页，无文字层",
+ "provenance": "用户经学校图书馆提供",
+ "redistributable": false,
+ "transcription_method": "全书无文字层（pdftotext 仅得换页符），pdftoppm 130dpi 渲染后视觉读图转录（transcription=visual）；四柱干支经竖排命盘与相邻页文义双重互证；页码口径：正文印刷页码＝PDF页码－24，序言印刷页码＝PDF页码－6",
+ "companion_book_check": "清单（WANTED-TEXTS.md 段氏条）注记的附带书《盲师断命轶例集之壹》（2003，段建业、邢铭芬合著）未随本件到货：①SHA256SUMS.txt 仅列5件书目、无此书；②本PDF目录与总页数（268）自洽为单册《段氏理象学》，无合册痕迹；③书内仅「提及/引用」该系书目——附录二十六、二十七以《盲师断例轶例集》（夏仲奇断例）为讨论与对照对象、序二提及盲师断例，非附入全文。名称差异并列登记：清单作《盲师断命轶例集之壹》、书内作《盲师断例轶例集》，是否同书待主持核。详见同轮 DIGEST-duanshi-r76.md。",
+ "anchor_rule": "锚点在场从派单口径：四柱（年月日时干支）完整载于原文即 present；本书命例通例不载出生年月日时（仅 DS-049 载出生原文），不据此降格；时柱经断事校对者（DS-041）以书中刊载四柱为准并注明。",
+ "dedup_method": "四柱8字连写对勘：masters-dataset 全部12个jsonl＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 的 SUPPLY-MINING/MINING json 与 md＋runs/*/batches.json，共200余件；对外零命中；探针校验（已用蒋介石造在同语料命中3件）证明检索有效；judging/ 目录依卫生规未打开——去重结论以此范围为限，不作全域「净新」断言。书内同造重出2组已合并（DS-011、DS-033）。",
+ "records": [
+  {
+   "case_id": "DS-001",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·序（三）周日新·四、牛刀初试（印刷pp.6-7／PDF12-13）",
+   "input_side": {
+    "subject": "序作者周日新的一名同学（乾造）；断者为周日新（段建业学生），非段建业亲断，来源如实标",
+    "gender": "男",
+    "pillars": [
+     "乙巳",
+     "己卯",
+     "壬午",
+     "癸卯"
+    ],
+    "pillars_verbatim": "乙巳 己卯 壬午 癸卯"
+   },
+   "master_assertion": "你看着文雅内向，但其实很有个性，脾气上来，多大领导你都不在乎，对吗？／你不是23岁结婚就是26岁结婚。",
+   "outcome": "对，太对了，跟单位总工干过，跟上级人事领导干过。在单位因为这我都出名了。／26岁结婚。对象是同学，处了好几年。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "序言门人断例"
+  },
+  {
+   "case_id": "DS-002",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·序（三）周日新·四、牛刀初试（印刷p.7／PDF13）",
+   "input_side": {
+    "subject": "在北京做生意的东北老乡（乾造）；断者周日新",
+    "gender": "男",
+    "pillars": [
+     "丁巳",
+     "甲辰",
+     "丁酉",
+     "庚子"
+    ],
+    "pillars_verbatim": "丁巳 甲辰 丁酉 庚子"
+   },
+   "master_assertion": "你的生意可能跟计算机或者网络有关，还可能有房地产。",
+   "outcome": "对，都有！",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "结局仅命主一句确认，独立成答但具体性弱，入池并注明。",
+   "composition_type": "序言门人断例"
+  },
+  {
+   "case_id": "DS-003",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第五章第二节三、功神废神概念·反向做功例（印刷p.75／PDF99）",
+   "input_side": {
+    "subject": "匿名乾造",
+    "gender": "男",
+    "pillars": [
+     "甲子",
+     "丙子",
+     "辛巳",
+     "丙申"
+    ],
+    "pillars_verbatim": "甲子 丙子 辛巳 丙申"
+   },
+   "master_assertion": "伤官制官，是个纪检、检察系统的官。",
+   "outcome": "戊子年考中公务员，进入纪检委。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "理法例"
+  },
+  {
+   "case_id": "DS-004",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第五章第三节二、干支互通原理（印刷pp.79-80／PDF103-104）",
+   "input_side": {
+    "subject": "匿名乾造（新闻机构工作者，篇中后揭）",
+    "gender": "男",
+    "pillars": [
+     "甲寅",
+     "丙寅",
+     "己丑",
+     "乙亥"
+    ],
+    "pillars_verbatim": "甲寅 丙寅 己丑 乙亥"
+   },
+   "master_assertion": "巳年丙见禄，拱丑，穿寅，丑中金当暗财看，巳一拱，断此年得暗财；穿官的意思是背着公家搞的，有点违法。壬午年，己得禄，寅午会旺午，丑午穿，断此事被领导发现，受处分。",
+   "outcome": "实际是他在一家新闻机构工作，辛巳年搞一个有偿新闻，得暗财，壬午年冬被领导知道，处分。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "断语首句跨页，页首承前页（辛巳年语境），照录页内文字。",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "理法例"
+  },
+  {
+   "case_id": "DS-005",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第五章第三节三、干支虚实原理·例一（印刷p.81／PDF105）",
+   "input_side": {
+    "subject": "匿名坤造",
+    "gender": "女",
+    "pillars": [
+     "庚戌",
+     "癸未",
+     "戊子",
+     "癸亥"
+    ],
+    "pillars_verbatim": "庚戌 癸未 戊子 癸亥"
+   },
+   "master_assertion": "所以这类组合多数会做贸易或销售。",
+   "outcome": "事实上她是个营销高手，一直从事营销工作，业绩非凡。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "断语为「这类组合多数」式类断，落到本造并由事实段确认，入池并注明。",
+   "composition_type": "理法例"
+  },
+  {
+   "case_id": "DS-006",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第五章第三节三·例三（印刷p.82／PDF106）",
+   "input_side": {
+    "subject": "匿名乾造",
+    "gender": "男",
+    "pillars": [
+     "戊戌",
+     "己未",
+     "己亥",
+     "辛未"
+    ],
+    "pillars_verbatim": "戊戌 己未 己亥 辛未"
+   },
+   "master_assertion": "此造妻宫之妻星亥水表示妻子，原局满盘燥土克之，妻受克。行壬戌大运，妻星亥水化为壬水虚透，表示妻子要离开。",
+   "outcome": "果于壬戌大运己巳流年离婚。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "理法例"
+  },
+  {
+   "case_id": "DS-007",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第五章第三节三·例四（印刷p.82／PDF106）",
+   "input_side": {
+    "subject": "匿名坤造",
+    "gender": "女",
+    "pillars": [
+     "庚寅",
+     "辛巳",
+     "辛酉",
+     "癸巳"
+    ],
+    "pillars_verbatim": "庚寅 辛巳 辛酉 癸巳"
+   },
+   "master_assertion": "然行至丙子运之子运，癸落入地支，原来受生的癸水，到地支就没法受生了（酉金自身受克，无法生子水），反被巳绝、寅泄，寿必有损。",
+   "outcome": "到壬午年，一冲子水，食神被坏，命主被歹徒杀害。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "理法例"
+  },
+  {
+   "case_id": "DS-008",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第五章第三节三·例五（印刷p.82／PDF106）",
+   "input_side": {
+    "subject": "匿名坤造",
+    "gender": "女",
+    "pillars": [
+     "丁未",
+     "癸丑",
+     "辛巳",
+     "壬辰"
+    ],
+    "pillars_verbatim": "丁未 癸丑 辛巳 壬辰"
+   },
+   "master_assertion": "此造之夫星巳火，原局与宾位比劫库相拱，夫有外遇之象。行丁巳运夫星伏吟，夫外出。",
+   "outcome": "戊子流年，戊代表巳火夫星虚透，戊癸一合，正式离异。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "理法例"
+  },
+  {
+   "case_id": "DS-009",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第一节一、看四柱的功·例一（印刷p.84／PDF108）",
+   "input_side": {
+    "subject": "匿名坤造",
+    "gender": "女",
+    "pillars": [
+     "庚戌",
+     "己卯",
+     "庚子",
+     "乙酉"
+    ],
+    "pillars_verbatim": "庚戌 己卯 庚子 乙酉"
+   },
+   "master_assertion": "日主得到这个乙，表示得到巨财。",
+   "outcome": "事实上此女丑运发财几千万，丙子运入狱，后乙亥运又发财至亿。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "理法例"
+  },
+  {
+   "case_id": "DS-010",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第一节一·例二（印刷pp.84-85／PDF108-109）",
+   "input_side": {
+    "subject": "匿名乾造",
+    "gender": "男",
+    "pillars": [
+     "甲寅",
+     "乙亥",
+     "甲戌",
+     "己巳"
+    ],
+    "pillars_verbatim": "甲寅 乙亥 甲戌 己巳"
+   },
+   "master_assertion": "所以此造能得大财。只不过他发财须与别人合伙，或得到别人的帮助才行。",
+   "outcome": "事实上，丑运发迹，现有数千万资产。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "理法例"
+  },
+  {
+   "case_id": "DS-011",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第一节一·例三（印刷p.85／PDF109）＋第八章第一节六、商海沉浮，女强人命运多舛（印刷pp.137-139／PDF161-163）",
+   "input_side": {
+    "subject": "匿名坤造（女企业家）；第六章以理法概述、第八章为2009/2010年面授班现场实断全程记录，同一命主",
+    "gender": "女",
+    "pillars": [
+     "壬寅",
+     "戊申",
+     "戊子",
+     "丙辰"
+    ],
+    "pillars_verbatim": "壬寅 戊申 戊子 丙辰"
+   },
+   "master_assertion": "（第八章，段老师与言明分断）你33岁甲辰运走得太好了，此运不但有权，而且做事非常顺利，应该工作调动到远方去了。你在此运上也会投资，自己做生意，并且能发大财。／你自己投资开公司的时间应该在1998年，你的财运非常好，几年你就发财上亿了。／你应该在2006年破财，2009年又破大财。实际是这样吗？",
+   "outcome": "老师你说得真对，我从1994年后，就调到另一个城市政府下属的一个公司当经理，事业上非常顺利。／是的，在1998年我自己投资开公司，那段时间比较顺利。／老师，你们说得都对。我是因为给朋友做担保，结果在2006年破了大财，从此就没顺过。2009年又因朋友的事破财，我差点就没法活下去。这几年我一直在还债，到目前我已经把外债还清了。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "第六章同造概述断语「是个亿万富翁的级别／行甲辰大运，发财数亿」与第八章实断互证，合并一卡、主源取第八章。",
+   "composition_type": "现场实断全程"
+  },
+  {
+   "case_id": "DS-012",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第一节一·例四（印刷p.85／PDF109）",
+   "input_side": {
+    "subject": "匿名乾造",
+    "gender": "男",
+    "pillars": [
+     "癸卯",
+     "庚申",
+     "甲寅",
+     "辛未"
+    ],
+    "pillars_verbatim": "癸卯 庚申 甲寅 辛未"
+   },
+   "master_assertion": "整个四柱没有什么功，只能靠寅中丙火之食神，在大运行火运时方可有一点制杀之功用。",
+   "outcome": "事实上，此人是业余围棋六段，但因没有进入专业段位，又不从事其他职业，自己没什么收入，成了一个社会闲人。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "理法例"
+  },
+  {
+   "case_id": "DS-013",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第一节二、做功等级大的四柱·例六（印刷p.88／PDF112）",
+   "input_side": {
+    "subject": "匿名乾造（执法部门高官）",
+    "gender": "男",
+    "pillars": [
+     "乙未",
+     "丙戌",
+     "甲子",
+     "甲戌"
+    ],
+    "pillars_verbatim": "乙未 丙戌 甲子 甲戌"
+   },
+   "master_assertion": "两层功量官可至厅级，如果行运配合好可以至副省级。",
+   "outcome": "事实上是一位副省级的高官。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "理法例"
+  },
+  {
+   "case_id": "DS-014",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第一节二、普通四柱·例五（印刷p.91／PDF115）",
+   "input_side": {
+    "subject": "匿名坤造",
+    "gender": "女",
+    "pillars": [
+     "壬子",
+     "甲辰",
+     "庚寅",
+     "己卯"
+    ],
+    "pillars_verbatim": "壬子 甲辰 庚寅 己卯"
+   },
+   "master_assertion": "所以她适合管理餐饮。",
+   "outcome": "事实上是一家大酒店的主管。命局虽有两层功，但所管理酒店是别人的资产……她本人的财富只是靠相生所得，赚取高工资而已。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "理法例"
+  },
+  {
+   "case_id": "DS-015",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第一节二、差命·例五（印刷p.92／PDF116）",
+   "input_side": {
+    "subject": "匿名乾造",
+    "gender": "男",
+    "pillars": [
+     "己酉",
+     "己巳",
+     "甲申",
+     "甲子"
+    ],
+    "pillars_verbatim": "己酉 己巳 甲申 甲子"
+   },
+   "master_assertion": "甲己合财之局，日主无力取财，意在通过巳火食神制申杀取财；然地支金水成党，巳火反坏，功神被坏，无功可言。",
+   "outcome": "虽生在城市，工作一直不稳，打工又不赚钱，无钱结婚成家。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass（marginal）",
+   "separable_note": "断语（无功可言）与事实（工作不稳等）同段连写、靠语义切分，入池并注明。",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass（marginal）",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "理法例"
+  },
+  {
+   "case_id": "DS-016",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第二节一、制用结构做功·例三（印刷p.94／PDF118）",
+   "input_side": {
+    "subject": "匿名乾造",
+    "gender": "男",
+    "pillars": [
+     "癸卯",
+     "戊午",
+     "己酉",
+     "甲戌"
+    ],
+    "pillars_verbatim": "癸卯 戊午 己酉 甲戌"
+   },
+   "master_assertion": "制之彻底能成大富。",
+   "outcome": "行乙卯大运之卯运，卯木助起旺火，冲酉金，发财数千万。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "理法例"
+  },
+  {
+   "case_id": "DS-017",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第二节三、生用泄用·例一（印刷p.95／PDF119）",
+   "input_side": {
+    "subject": "匿名坤造",
+    "gender": "女",
+    "pillars": [
+     "辛亥",
+     "庚子",
+     "庚寅",
+     "己卯"
+    ],
+    "pillars_verbatim": "辛亥 庚子 庚寅 己卯"
+   },
+   "master_assertion": "故为富婆命",
+   "outcome": "行至财运，与夫创业发迹，富有千万。甲运合己，合到门户，移民外国。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "理法例"
+  },
+  {
+   "case_id": "DS-018",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第二节三·例三（印刷p.96／PDF120）",
+   "input_side": {
+    "subject": "匿名坤造",
+    "gender": "女",
+    "pillars": [
+     "丙午",
+     "乙未",
+     "癸酉",
+     "甲寅"
+    ],
+    "pillars_verbatim": "丙午 乙未 癸酉 甲寅"
+   },
+   "master_assertion": "但在原局中找不到得到此财的办法。幸行壬辰大运，壬制财星而辰合到主位酉，发财数千万。",
+   "outcome": "后运则再无起色，一直花钱破财。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "理法例"
+  },
+  {
+   "case_id": "DS-019",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第二节三·例四（印刷p.96／PDF120）",
+   "input_side": {
+    "subject": "匿名乾造",
+    "gender": "男",
+    "pillars": [
+     "壬寅",
+     "癸卯",
+     "壬子",
+     "壬寅"
+    ],
+    "pillars_verbatim": "壬寅 癸卯 壬子 壬寅"
+   },
+   "master_assertion": "内食神一般都是做企业的企业家",
+   "outcome": "行丙午大运，财星发越，任一大型国有企业的董事长。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "理法例"
+  },
+  {
+   "case_id": "DS-020",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第二节三·例七（印刷p.97／PDF121）",
+   "input_side": {
+    "subject": "匿名坤造（农村老妇人）",
+    "gender": "女",
+    "pillars": [
+     "癸亥",
+     "癸亥",
+     "壬寅",
+     "癸卯"
+    ],
+    "pillars_verbatim": "癸亥 癸亥 壬寅 癸卯"
+   },
+   "master_assertion": "此为普通农村老妇人，一生并无大作为",
+   "outcome": "却生得五子三女，个个富过百万。食伤表示孩子，也表示自己的寿程，食伤有功，则表示孩子优秀，自己寿至九旬。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "理法例"
+  },
+  {
+   "case_id": "DS-021",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第二节四、合用结构做功·例二（印刷pp.97-98／PDF121-122）",
+   "input_side": {
+    "subject": "匿名乾造",
+    "gender": "男",
+    "pillars": [
+     "癸丑",
+     "癸亥",
+     "戊申",
+     "辛酉"
+    ],
+    "pillars_verbatim": "癸丑 癸亥 戊申 辛酉"
+   },
+   "master_assertion": "所以为穷命。",
+   "outcome": "婚姻离了，工作没有，在贫困线上挣扎。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "理法例"
+  },
+  {
+   "case_id": "DS-022",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第二节四·例三（印刷p.98／PDF122）",
+   "input_side": {
+    "subject": "匿名乾造",
+    "gender": "男",
+    "pillars": [
+     "庚戌",
+     "己卯",
+     "戊子",
+     "癸亥"
+    ],
+    "pillars_verbatim": "庚戌 己卯 戊子 癸亥"
+   },
+   "master_assertion": "功量很大。",
+   "outcome": "行辛巳大运，引戌中之火冲击亥水，经营钢财生意，发财数千万。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "原文作「钢财」，疑为「钢材」之印误，逐字照录并在此注明。",
+   "composition_type": "理法例"
+  },
+  {
+   "case_id": "DS-023",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第二节四·例五（印刷p.98／PDF122）",
+   "input_side": {
+    "subject": "匿名乾造",
+    "gender": "男",
+    "pillars": [
+     "庚子",
+     "庚辰",
+     "庚午",
+     "乙酉"
+    ],
+    "pillars_verbatim": "庚子 庚辰 庚午 乙酉"
+   },
+   "master_assertion": "这种合不表示富也不表示穷，只表示才学。",
+   "outcome": "实际此人是一位书法艺术家。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "理法例"
+  },
+  {
+   "case_id": "DS-024",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第二节四·例七（印刷p.99／PDF123）",
+   "input_side": {
+    "subject": "匿名乾造",
+    "gender": "男",
+    "pillars": [
+     "癸巳",
+     "壬戌",
+     "庚申",
+     "乙酉"
+    ],
+    "pillars_verbatim": "癸巳 壬戌 庚申 乙酉"
+   },
+   "master_assertion": "被制的七杀又合到我主位，便表示我有权力。",
+   "outcome": "实际此人是一位纪检干部。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "理法例"
+  },
+  {
+   "case_id": "DS-025",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第二节五、墓用结构做功·例二（印刷pp.99-100／PDF123-124）",
+   "input_side": {
+    "subject": "匿名乾造",
+    "gender": "男",
+    "pillars": [
+     "壬辰",
+     "壬寅",
+     "己丑",
+     "戊辰"
+    ],
+    "pillars_verbatim": "壬辰 壬寅 己丑 戊辰"
+   },
+   "master_assertion": "为国有企业之官。到晚年，又应丑入辰墓，戊为劫财，别人的企业，给别人打工，或合伙经营。",
+   "outcome": "所以现在是私企经理，并入有股份。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "理法例"
+  },
+  {
+   "case_id": "DS-026",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第二节五·例三（印刷p.100／PDF124）",
+   "input_side": {
+    "subject": "匿名乾造",
+    "gender": "男",
+    "pillars": [
+     "壬寅",
+     "己酉",
+     "丁丑",
+     "己酉"
+    ],
+    "pillars_verbatim": "壬寅 己酉 丁丑 己酉"
+   },
+   "master_assertion": "丑这个财库也不是自己的，是官印的财库，是国有企业。",
+   "outcome": "实际他是个官员，管理很大的电厂。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "理法例"
+  },
+  {
+   "case_id": "DS-027",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第二节六、复合结构做功·例一（印刷p.100／PDF124）",
+   "input_side": {
+    "subject": "匿名乾造",
+    "gender": "男",
+    "pillars": [
+     "壬午",
+     "辛亥",
+     "庚辰",
+     "丁亥"
+    ],
+    "pillars_verbatim": "壬午 辛亥 庚辰 丁亥"
+   },
+   "master_assertion": "所以一定是位学者或科学家。",
+   "outcome": "实际此人是一位数学家。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "理法例"
+  },
+  {
+   "case_id": "DS-028",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第二节六·例二（印刷p.101／PDF125）",
+   "input_side": {
+    "subject": "匿名乾造",
+    "gender": "男",
+    "pillars": [
+     "甲寅",
+     "癸酉",
+     "丁丑",
+     "庚子"
+    ],
+    "pillars_verbatim": "甲寅 癸酉 丁丑 庚子"
+   },
+   "master_assertion": "这样合起来就可以判断此人的情况：先搞业务，后搞管理，还要跟外边有联合。",
+   "outcome": "实际他现在是主管业务的副总经理，且与许多机构进行联合。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "理法例"
+  },
+  {
+   "case_id": "DS-029",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第二节六·例四（印刷pp.101-102／PDF125-126）",
+   "input_side": {
+    "subject": "匿名乾造",
+    "gender": "男",
+    "pillars": [
+     "戊申",
+     "丙辰",
+     "丁巳",
+     "癸卯"
+    ],
+    "pillars_verbatim": "戊申 丙辰 丁巳 癸卯"
+   },
+   "master_assertion": "所以此命有两个不同的功，也主两个不同的职业。",
+   "outcome": "命主行食神运当老师十余年，行庚申财运下海经商，应巳申之合取财，发财数百万。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "理法例"
+  },
+  {
+   "case_id": "DS-030",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第二节六·例五（印刷p.102／PDF126）",
+   "input_side": {
+    "subject": "匿名坤造",
+    "gender": "女",
+    "pillars": [
+     "壬寅",
+     "丁未",
+     "壬申",
+     "乙巳"
+    ],
+    "pillars_verbatim": "壬寅 丁未 壬申 乙巳"
+   },
+   "master_assertion": "自己要搞投机经营来发财，巳申合，表示此财可以得到，巳穿寅，表示原来的工作不想干了。",
+   "outcome": "事实上她是一家医院主治医师。……卯运一到伤官落地生起巳火财星，所以辞职去搞直销，年收入超过百万。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "理法例"
+  },
+  {
+   "case_id": "DS-031",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第三节一、比劫与财的配置·例一（印刷p.103／PDF127）",
+   "input_side": {
+    "subject": "匿名坤造",
+    "gender": "女",
+    "pillars": [
+     "戊午",
+     "庚申",
+     "丁巳",
+     "癸卯"
+    ],
+    "pillars_verbatim": "戊午 庚申 丁巳 癸卯"
+   },
+   "master_assertion": "所以适合开店做别人的机器、机械之代理。",
+   "outcome": "实际此人是外地一家钢结构公司在太原总代理的市场部经理。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "理法例"
+  },
+  {
+   "case_id": "DS-032",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第三节一·例二（印刷pp.103-104／PDF127-128）",
+   "input_side": {
+    "subject": "匿名乾造",
+    "gender": "男",
+    "pillars": [
+     "丙午",
+     "辛卯",
+     "丁卯",
+     "丙午"
+    ],
+    "pillars_verbatim": "丙午 辛卯 丁卯 丙午"
+   },
+   "master_assertion": "所以他本人并无大的财命。……他靠的是合伙求财，而且他这个财得的很容易，就像天上掉馅饼，因为劫财替他取财了，不用费自己什么力。",
+   "outcome": "整个午运中就发了两年的财：庚辰年得了1000万韩元；辛巳年得了4000万韩元（总计相当于30万人民币）。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "理法例"
+  },
+  {
+   "case_id": "DS-033",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·附录三十二、断例几则·一（印刷pp.217-218／PDF241-242）＋第六章第三节一B、财制比劫局例（印刷p.104／PDF128）",
+   "input_side": {
+    "subject": "「L总」，金融业超级富翁/庄家（化名，未具名）",
+    "gender": "男",
+    "pillars": [
+     "戊申",
+     "己未",
+     "癸巳",
+     "己未"
+    ],
+    "pillars_verbatim": "戊申 己未 癸巳 己未"
+   },
+   "master_assertion": "我说：最多做到2004年，到2004年之后就不能再做了。／（2004年复研）发现研究他的命中明显的牢狱标志（七杀挂两头，围了日主），而且应在乙酉年",
+   "outcome": "直到2005年，听说他与其公司高管们全被公安抓捕，听说是非法集资罪，到现在还没有结案。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "第六章同造概述结局「事实上命主曾是一位超级庄家，最高时资产曾有数十亿人民币」互证，合并一卡、主源取附录三十二。",
+   "composition_type": "博客断例"
+  },
+  {
+   "case_id": "DS-034",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第三节四B、印制伤官食神局·例二（印刷p.107／PDF131）",
+   "input_side": {
+    "subject": "匿名乾造",
+    "gender": "男",
+    "pillars": [
+     "庚辰",
+     "乙酉",
+     "癸卯",
+     "庚申"
+    ],
+    "pillars_verbatim": "庚辰 乙酉 癸卯 庚申"
+   },
+   "master_assertion": "所以应是金融方面的官员",
+   "outcome": "实际是中央银行行长。此造金纯粹，制得又干净，所以是大官。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主未具名（仅称中央银行行长，无姓名与任期可对位），按 low 登记；主持如按职位可识别性从严，可复核升档。",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "理法例"
+  },
+  {
+   "case_id": "DS-035",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第三节五A、财星制印局·例一（印刷pp.107-108／PDF131-132）",
+   "input_side": {
+    "subject": "匿名乾造",
+    "gender": "男",
+    "pillars": [
+     "乙未",
+     "壬午",
+     "甲子",
+     "甲戌"
+    ],
+    "pillars_verbatim": "乙未 壬午 甲子 甲戌"
+   },
+   "master_assertion": "制印得权，是当官的命。……羊刃库制印是掌兵权的。",
+   "outcome": "实际此命是个大校级军官。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "理法例"
+  },
+  {
+   "case_id": "DS-036",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第三节五A·例三（印刷p.108／PDF132）",
+   "input_side": {
+    "subject": "匿名乾造",
+    "gender": "男",
+    "pillars": [
+     "戊戌",
+     "己未",
+     "辛卯",
+     "辛卯"
+    ],
+    "pillars_verbatim": "戊戌 己未 辛卯 辛卯"
+   },
+   "master_assertion": "所以官职不大。",
+   "outcome": "早年当兵，行壬戌运入政府作秘书，后提升至某厅当处长。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "理法例"
+  },
+  {
+   "case_id": "DS-037",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第三节五、制的禁区·例一（印刷p.109／PDF133）",
+   "input_side": {
+    "subject": "匿名坤造",
+    "gender": "女",
+    "pillars": [
+     "壬子",
+     "辛亥",
+     "丁巳",
+     "辛亥"
+    ],
+    "pillars_verbatim": "壬子 辛亥 丁巳 辛亥"
+   },
+   "master_assertion": "但这个巳火绝对不能去，丁巳通根，制了人就短寿。",
+   "outcome": "1996年丙子得了白血病，1997年丁丑夏天死亡。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "理法例"
+  },
+  {
+   "case_id": "DS-038",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第三节五·例二（印刷p.109／PDF133）",
+   "input_side": {
+    "subject": "匿名乾造",
+    "gender": "男",
+    "pillars": [
+     "丁巳",
+     "庚戌",
+     "辛丑",
+     "己亥"
+    ],
+    "pillars_verbatim": "丁巳 庚戌 辛丑 己亥"
+   },
+   "master_assertion": "故此刑必伤及命主身体。",
+   "outcome": "果于丁卯年，被炸药炸伤左手。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "理法例"
+  },
+  {
+   "case_id": "DS-039",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第三节五·例三（印刷p.109／PDF133）",
+   "input_side": {
+    "subject": "匿名乾造",
+    "gender": "男",
+    "pillars": [
+     "壬寅",
+     "戊申",
+     "辛巳",
+     "戊戌"
+    ],
+    "pillars_verbatim": "壬寅 戊申 辛巳 戊戌"
+   },
+   "master_assertion": "连体之字不可制服，制之不好，会伤及性命。",
+   "outcome": "结果行辛亥运的壬申年，申金到位被局中官星火正克，被高压电击死。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "理法例"
+  },
+  {
+   "case_id": "DS-040",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第六章第四节一、合制·例一（印刷p.111／PDF135）",
+   "input_side": {
+    "subject": "匿名乾造",
+    "gender": "男",
+    "pillars": [
+     "戊申",
+     "甲寅",
+     "辛卯",
+     "癸巳"
+    ],
+    "pillars_verbatim": "戊申 甲寅 辛卯 癸巳"
+   },
+   "master_assertion": "表示一个管理财的权力机构；而日支之卯木所生巳火合申，申被巳制，意思是由我来控制那个管理财的权力机构，表示他本人掌握更大的权力。",
+   "outcome": "事实上，命主曾任国家财政部长。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主未具名（仅称曾任国家财政部长），按 low 登记；主持如按职位可识别性从严，可复核升档。",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "理法例"
+  },
+  {
+   "case_id": "DS-041",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第八章第一节一、巧断四柱巧断人（印刷pp.125-127／PDF149-151）",
+   "input_side": {
+    "subject": "北方人（乾造），2007年8月言明广州面授班后电话中测；测者言明（段建业弟子），本节作者",
+    "gender": "男",
+    "pillars": [
+     "壬子",
+     "戊申",
+     "丁亥",
+     "己酉"
+    ],
+    "pillars_verbatim": "壬子 戊申 丁亥 己酉"
+   },
+   "master_assertion": "1、你学历不高；2、你在辛运结婚；3、你是酉时生的吧，你头胎生女孩；4、你现在做生意，并且你这个行业与土杂、家庭用具和金属内有关。／你应该做过两种生意，不是一种。你这个生意，应该是做饮食方面的。／我看你2006年要因为别人惹是非而破财，而且麻烦不断。／我看你是惹官司了，恐怕破财不少吧？",
+   "outcome": "你说的基本是对的，我学历不高，初中毕业，我是在1998年结婚的，我头胎是女孩儿，我做的行业不是土杂，是做佛具用品及玉器生意的。／我虽然不开餐馆，但是我确实还做了与餐饮有关的生意，是做南方麻辣烫调料的。／我去年因为厂子里有个小工，去给别人送货，结果在路上给人家老头撞坏了，为此医药费就赔了好几万，然后那老人还不算完，最后把小工告到法院。因为小工没有钱赔偿，做为老板就要负连带责任，搞得我2006年生意是没有办法做，破财十来万。／（后续电话）说就是11月份也就是立冬后官司终于结束了。",
+   "anchor_status": "present",
+   "anchor_note": "四柱完整载于原文竖排命盘（时柱己酉）；作者自注时辰原不确定、经断事校对定为酉时，四柱以书中刊载为准",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "门人实断全程"
+  },
+  {
+   "case_id": "DS-042",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第八章第一节二、易断工作易断人（印刷pp.128-129／PDF152-153）",
+   "input_side": {
+    "subject": "匿名坤造，2007年底言明电话中测",
+    "gender": "女",
+    "pillars": [
+     "壬子",
+     "甲辰",
+     "甲申",
+     "庚午"
+    ],
+    "pillars_verbatim": "壬子 甲辰 甲申 庚午"
+   },
+   "master_assertion": "1、你是在国家单位工作且有官职；2、你在1999年与2000年，调动工作且动得很好；3、你25、26岁结婚；4、你命中生女孩。／我看你应该不是做会计就是统计方面的工作。",
+   "outcome": "我确实在国家政府单位工作，而且目前是科级干部。／是的，这两年我提升到副科。／我1996年谈的对象，1997年结婚。1998年生的女儿。／我原来是做会计的，后来做审计了。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "门人实断全程"
+  },
+  {
+   "case_id": "DS-043",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第八章第一节三、秘断四柱秘断事（印刷pp.129-131／PDF153-155）",
+   "input_side": {
+    "subject": "南方小伙子（乾造），2008年言明广州面测",
+    "gender": "男",
+    "pillars": [
+     "癸亥",
+     "乙丑",
+     "戊辰",
+     "癸丑"
+    ],
+    "pillars_verbatim": "癸亥 乙丑 戊辰 癸丑"
+   },
+   "master_assertion": "1、学历不高，20岁前就结束了学业；2、做贸易或业务工作，且与金属器材有联系，属于流动型的工作；3、你在2002年、2003年参加了工作；4、你应该在单位是主管或经理等中层领导。／你投资的公司，是人家股份大，你股份小，我看是人家掌控公司说了算吧，你是小股东。",
+   "outcome": "我确实学历不高，原本中专毕业，我刚好是2002、2003年从老家出来参加工作的，我开始是做业务的，后来换了工作就做了高管，而且我做的行业就是手机器材。／这真的是我的命啊！我前几天一直为这件事情和朋友在谈判，直到今天我来之前才刚签了协议。最终还是人家控股公司，因为人家投资多。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "门人实断全程"
+  },
+  {
+   "case_id": "DS-044",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第八章第一节四、双星闪烁耀杏坛（印刷pp.132-134／PDF156-158）",
+   "input_side": {
+    "subject": "匿名坤造，2007年段建业国外讲学回国前一天与言明同断；本卡取段建业断语",
+    "gender": "女",
+    "pillars": [
+     "甲辰",
+     "丁卯",
+     "辛未",
+     "丁酉"
+    ],
+    "pillars_verbatim": "甲辰 丁卯 辛未 丁酉"
+   },
+   "master_assertion": "（段建业断）你的命是个做老板的命，你做的生意应该是与木材有关。／我看你的婚姻不好，想离又离不了，你一生都为感情的事而苦恼，你想得到的东西一样都得不到，反而被男人牵制，你对男人付出再多，但最后男人也不会说你好。你为情所困，一生无法得到男人的真情。",
+   "outcome": "后来她告诉我们自己确实是做木材生意的。／她听完段老师所说的话，泪水一下涌了出来。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "婚姻「名存实亡」为同场言明断语、命主沉默未答，不计入本卡结局；本卡结局以木材生意确认与命主当场落泪为准。",
+   "composition_type": "现场实断"
+  },
+  {
+   "case_id": "DS-045",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第八章第一节四附例（印刷pp.134-136／PDF158-160）",
+   "input_side": {
+    "subject": "匿名坤造，言明电话中测",
+    "gender": "女",
+    "pillars": [
+     "乙巳",
+     "丁亥",
+     "丙戌",
+     "己丑"
+    ],
+    "pillars_verbatim": "乙巳 丁亥 丙戌 己丑"
+   },
+   "master_assertion": "你的命我看目前没有正式婚姻，你以前走的都是桃花运，而且你找的每个男人不是结了婚有家的男人，就是离了婚外面还有其他女人。／2000年或2001年这两年处男朋友了，而且这个男人也应该是结过婚的。／你现在处的这个男朋友，我看也是离婚的吧，而且我看此人还有其他女人吧？不是和你一个人好吧？你们不会有结果的，他根本不想结婚的。",
+   "outcome": "言老师，你说得太对了，我2000年处的第一个男朋友，他是离婚的／你说的太对了，我的男朋友他现在还有一个女朋友，他们住在一起呢。而且他早就和我说过，他根本不想再结婚了。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "门人实断全程"
+  },
+  {
+   "case_id": "DS-046",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第八章第一节五、巧断四柱巧断病（印刷pp.136-137／PDF160-161）",
+   "input_side": {
+    "subject": "上海朋友拿来的四柱（乾造），言明断",
+    "gender": "男",
+    "pillars": [
+     "丁酉",
+     "癸丑",
+     "壬辰",
+     "丙午"
+    ],
+    "pillars_verbatim": "丁酉 癸丑 壬辰 丙午"
+   },
+   "master_assertion": "我说此人是贪财吝啬之人，为人很势利，可以为了钱不择手段。／容易得糖尿病或者血液方面的病／所以我判断此人是个医生，并且医术还可以。",
+   "outcome": "反馈说，此人不仅有高血压、心脏病，而且糖尿病已经很严重了，眼底出血严重，只能靠胰岛素来维持生命了。／后来朋友告诉我，此人是做中医推拿的，自己开诊所，比较有钱。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "门人实断"
+  },
+  {
+   "case_id": "DS-047",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第八章第二节、盲派实战例选·例一（印刷pp.140-142／PDF164-166）",
+   "input_side": {
+    "subject": "阳江卧底公安（乾造）；四柱由论坛易友「海天」向段建业转供，段建业以聊天记录形式解读",
+    "gender": "男",
+    "pillars": [
+     "丁巳",
+     "壬寅",
+     "癸丑",
+     "丙辰"
+    ],
+    "pillars_verbatim": "丁巳 壬寅 癸丑 丙辰"
+   },
+   "master_assertion": "（段建业断）这个有点公门的意思了，但不全，是个假阳。／是个保安大队长？／阳不足，又不像黑社会，是个卧底公安？",
+   "outcome": "实际情况是：戊寅年成为公安，戊官虚透来合身，寅丑又合，寅为公门，代表“公安”这个职业开始了。／2005年判了个无期！",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "medium",
+   "contamination_note": "命主为阳江黑社会案中的卧底公安，该案为公开新闻事件，命主本人未具名、四柱系论坛转供；模型或可由新闻语料联想该案背景，故预判 medium（非 high：四柱与断语本身不在公开记载中）。",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "聊天解读实断"
+  },
+  {
+   "case_id": "DS-048",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第八章第二节·例二（印刷p.143／PDF167）",
+   "input_side": {
+    "subject": "王先生（乾造），2007年12月6日段建业广州「2008年运程」免费预测活动现场",
+    "gender": "男",
+    "pillars": [
+     "己酉",
+     "壬申",
+     "丙辰",
+     "戊戌"
+    ],
+    "pillars_verbatim": "己酉 壬申 丙辰 戊戌"
+   },
+   "master_assertion": "这个四柱现在很不好了，应是做穿的东西，开厂的。／是庚辰年，肯定是2000年破大财！／这个财破得很离奇，一下子就没了，所有的东西一下子就塌了。应有两种可能：其一，火灾；其二，房子倒塌。",
+   "outcome": "我就是开鞋厂的，我辰运不好，你们看看那年最不好？／是的，是的，那是一场火灾，烧完了所有货物，厂房最后倒了！损失2000多万……",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "现场实断"
+  },
+  {
+   "case_id": "DS-049",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第八章第二节·例三（印刷pp.144-145／PDF168-169）",
+   "input_side": {
+    "subject": "张先生（乾造）；出生原文载：1976年阴历八月初一巳时；广州免费预测活动现场段建业断",
+    "gender": "男",
+    "pillars": [
+     "丙辰",
+     "丁酉",
+     "己卯",
+     "己巳"
+    ],
+    "pillars_verbatim": "丙辰 丁酉 己卯 己巳"
+   },
+   "master_assertion": "（段建业断）此四柱有执法部门之象，但不是正规的国家执法单位。／是类似机构，但应是私人公司。／与父母缘分浅，如不送给别人，父亲得早死。／命该生女孩，是不是2002壬午年奉子成婚？／今年生父母有病灾，父可应病在肝。／2000庚辰，这一年怕有短暂牢狱之灾，且是受别人牵连，与女人有关。",
+   "outcome": "我是私人保镖，以前没人看出我的职业。／我生下就送人了，十几岁时养父也死了。／是的，怀上后才结婚，当年生孩子，是女孩。／生父住院，是肝癌，生母也住院。／是的，是因为打架，是受别人牵连，是我哥们的妻子引起的，被拘留一个月。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "现场实断全程"
+  },
+  {
+   "case_id": "DS-050",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第八章第二节·例四（印刷pp.146-148／PDF170-172）",
+   "input_side": {
+    "subject": "李先生（乾造），2007年12月8日广州免费预测活动，段建业断",
+    "gender": "男",
+    "pillars": [
+     "癸丑",
+     "庚申",
+     "庚辰",
+     "庚辰"
+    ],
+    "pillars_verbatim": "癸丑 庚申 庚辰 庚辰"
+   },
+   "master_assertion": "（段建业断）这应该是做投资生意的，通过将资产打包，转出去赚钱。／应是1999年己卯结婚。／（问生孩子）不是2002就是2003年。／是右脚。／会因财起祸，先好后坏。／肯定被财了！／你应是三个兄弟的命。／你的公司是合伙股份制，2004有人入股，2005又有另一个人入股。／有人要撤股。",
+   "outcome": "我就是做投资生意的，是中介。买东家，打包，再卖西家。／是1999年结的婚。／是2003年。／还是师父厉害，生日那天车祸／是一个很好的朋友，以买房为名，骗光了我身上所有的钱，15万！那年我只剩下200块钱／对！（兄弟数与两次入股均确认）／对，基本是转行了，搞了一个加油站的项目。／对，公司马上要解散了！",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "现场实断全程"
+  },
+  {
+   "case_id": "DS-051",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第八章第二节·例五（印刷pp.148-149／PDF172-173）",
+   "input_side": {
+    "subject": "李女士（坤造），12月7日段建业主断、言明辅断",
+    "gender": "女",
+    "pillars": [
+     "壬子",
+     "丁未",
+     "戊申",
+     "己未"
+    ],
+    "pillars_verbatim": "壬子 丁未 戊申 己未"
+   },
+   "master_assertion": "（段建业断）你的工作应在一家正规单位，你是用你的头脑做算计的工作。／（言明）是记账，是个做会计的！／（段建业断）你应在1995年谈恋爱，1997年同居，1999年拿证，生的男孩。／你老公是在国有单位工作，且有职权，应在执法部门，应该在2003年升职。／母亲应该不在了，应该在己卯年？",
+   "outcome": "我就是个会计呀！／对！对！我是1995年谈恋爱，1999年拿证，2001年生的儿子。／对！对！是政府部门管路桥公司的，先是副总2003年升正职了。／对呀！是1999年走的。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "现场实断全程"
+  },
+  {
+   "case_id": "DS-052",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·第八章第二节·例六（印刷pp.150-151／PDF174-175）",
+   "input_side": {
+    "subject": "匿名坤造，12月8日广州活动，言明初断、段建业复核",
+    "gender": "女",
+    "pillars": [
+     "己未",
+     "丙子",
+     "辛亥",
+     "甲午"
+    ],
+    "pillars_verbatim": "己未 丙子 辛亥 甲午"
+   },
+   "master_assertion": "你学历高，工作也非常不错。／那是搞计算机的！／你这薪水也不低呀。／如果是放在广州，那薪水不会低于6000元。／父母关系不好，母亲身体不好！／看母亲身体不好，血液或脾胃病。应该开过刀吧。／容易有妇科病，肾有点寒。",
+   "outcome": "对，我是本科学历。／你说得对，我就是搞计算机的，有点像管账。／（薪水）点头／嗯，我爸爸脾气好，母亲比较急，比较吵。／是开过一次，不，两次，结扎算不算？／对极了。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "现场实断全程"
+  },
+  {
+   "case_id": "DS-053",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·附录二十七、《通过盲师〈孽情〉谈盲派绝招》（印刷pp.209-210／PDF233-234）",
+   "input_side": {
+    "subject": "匿名坤造，段建业北京断",
+    "gender": "女",
+    "pillars": [
+     "癸巳",
+     "甲寅",
+     "甲辰",
+     "己巳"
+    ],
+    "pillars_verbatim": "癸巳 甲寅 甲辰 己巳"
+   },
+   "master_assertion": "从你命相看，属早婚，嫁的丈夫会是离过婚的，命中两男两女，两女是你亲生的，两男是丈夫带过来的。婚姻会在中途出问题。／婚姻不能白头，怕丈夫不在了。",
+   "outcome": "对方反馈说：“21岁结婚，是早婚，丈夫是离过婚，但没有孩子，我现在两个女儿，并无儿子。婚姻中途是有问题，看看什么问题？”／对方说：“时间不对，是2005年丈夫走了，癌症。”",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "dedup 特别提示：与《盲师断例轶例集·孽情》夏仲奇所断坤造（癸巳甲寅甲辰丁卯）仅时柱不同、同源近似，非同案；将来轶例集到货开采时须防同源混淆，本卡已标注。",
+   "composition_type": "作者亲断"
+  },
+  {
+   "case_id": "DS-054",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·附录二十八、《盲派的实用性》（印刷p.211／PDF235）",
+   "input_side": {
+    "subject": "美国女留学生（坤造），2008年9月段建业断",
+    "gender": "女",
+    "pillars": [
+     "乙丑",
+     "乙酉",
+     "辛亥",
+     "戊子"
+    ],
+    "pillars_verbatim": "乙丑 乙酉 辛亥 戊子"
+   },
+   "master_assertion": "我断到父母离异／于是我断：应随父而有继母。／将来会从事设计师的职业，或者当老师。",
+   "outcome": "果然如此。／她说，现在所学是哲学专业。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "滤二边缘通过：具体结局为父母离异、随父有继母（经「果然如此」确认）及本人现学哲学；职业一项为未验预测，不作结局。",
+   "composition_type": "作者亲断"
+  },
+  {
+   "case_id": "DS-055",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·附录二十六、《从盲派〈孽情〉谈八字的层次》（印刷pp.207-208／PDF231-232）",
+   "input_side": {
+    "subject": "《孽情》例女主角之女（坤造）；断语源出夏仲奇（《盲师断例轶例集》系统），本书转述，如实标 provenance",
+    "gender": "女",
+    "pillars": [
+     "壬子",
+     "癸卯",
+     "癸卯",
+     "甲寅"
+    ],
+    "pillars_verbatim": "壬子 癸卯 癸卯 甲寅"
+   },
+   "master_assertion": "（夏仲奇断，本书转述）夏师断她会克死一个女儿，应是二女儿。／夏师断，她会死于肾病，难过2001辛巳年。",
+   "outcome": "果因子宫癌死于2001年。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "同柱另有两人（戊寅年子宫癌手术、己卯年去世者与甲申年去世者）系同命多解讨论对象，非本卡命主，不并入结局。",
+   "composition_type": "转述盲师断例"
+  },
+  {
+   "case_id": "DS-056",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·附录三十、《未卜先知也寻常》·例一（印刷p.214／PDF238）",
+   "input_side": {
+    "subject": "2010年高考生（乾造），段建业高考前对其家长断",
+    "gender": "男",
+    "pillars": [
+     "壬申",
+     "壬寅",
+     "丙子",
+     "乙未"
+    ],
+    "pillars_verbatim": "壬申 壬寅 丙子 乙未"
+   },
+   "master_assertion": "注意他化学或生物会失分",
+   "outcome": "考下来的结果只有化学没发挥好，一道大题做错了，略低于预期。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "博客断例"
+  },
+  {
+   "case_id": "DS-057",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·附录三十·例五（印刷p.215／PDF239）",
+   "input_side": {
+    "subject": "匿名乾造（幼童）",
+    "gender": "男",
+    "pillars": [
+     "庚午",
+     "甲申",
+     "甲寅",
+     "丙寅"
+    ],
+    "pillars_verbatim": "庚午 甲申 甲寅 丙寅"
+   },
+   "master_assertion": "你孩子有艺术方面的天赋，他最适合搞音乐与创作，如果他学别的，都不会喜欢。",
+   "outcome": "结果孩子十岁的时候就要买比他人还高的吉他，唱歌的水平跟明星差不多。可因为父母的反对没有学成音乐。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "博客断例"
+  },
+  {
+   "case_id": "DS-058",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·附录三十一、《现场断诗人》·女诗人（印刷pp.215-216／PDF239-240）",
+   "input_side": {
+    "subject": "女诗人（坤造，未具名），段建业北京席间现场断",
+    "gender": "女",
+    "pillars": [
+     "己酉",
+     "丙寅",
+     "庚午",
+     "甲申"
+    ],
+    "pillars_verbatim": "己酉 丙寅 庚午 甲申"
+   },
+   "master_assertion": "你这个命第一次婚姻要离婚，大概1994或1995年结婚，到2001年关系就不好了，2004年婚姻就得结束！／第二次婚姻也不算好，名存实亡。但我看离不了婚，维持现状。／你有个女儿，不在你身边。",
+   "outcome": "反馈：居然所断一年不差，正是2004年离异。／她说，确是这样。／后来听知情人悄悄跟我讲，她第二次结婚，男方给她提出的条件就是，不能带她的女儿回家。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "现场实断"
+  },
+  {
+   "case_id": "DS-059",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·附录三十一·男诗人（印刷p.216／PDF240）",
+   "input_side": {
+    "subject": "男诗人（乾造，未具名），段建业同席断",
+    "gender": "男",
+    "pillars": [
+     "甲辰",
+     "庚午",
+     "庚戌",
+     "丁亥"
+    ],
+    "pillars_verbatim": "甲辰 庚午 庚戌 丁亥"
+   },
+   "master_assertion": "你这个命是中年离婚命，会在1999年或2000年离婚！／第二任妻子要找一个年岁小很多的，现在已经有了。",
+   "outcome": "确实，他是2000年离的婚。／确实如此。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "现场实断"
+  },
+  {
+   "case_id": "DS-060",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·附录三十二、断例几则·二（印刷pp.218-219／PDF242-243）",
+   "input_side": {
+    "subject": "匿名乾造，客人拿朋友八字来算（命主未到场），段建业与学生赵宇同断",
+    "gender": "男",
+    "pillars": [
+     "庚戌",
+     "己卯",
+     "己丑",
+     "壬申"
+    ],
+    "pillars_verbatim": "庚戌 己卯 己丑 壬申"
+   },
+   "master_assertion": "该是个公安局的官员，对方说不是。又断那一定当过兵，对方说是当过兵。我说，那他应该是银行的官员／这个命癸未运走坏了，反了局，2008戊子年一定遇到大麻烦，子卯相破，杀星被破，整个局反了。……应该有牢狱之灾！／癸水这个财透出，被劫了，癸水的数，六数，不是六百万就是六千万。贪污就是六百万，挪用公款就是六千万。",
+   "outcome": "这下对了。／果真，六千万的案，挪用公款。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "同断实断"
+  },
+  {
+   "case_id": "DS-061",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·附录三十二·三（印刷pp.219-220／PDF243-244）",
+   "input_side": {
+    "subject": "匿名乾造，2009年11月段建业与赵宇同断",
+    "gender": "男",
+    "pillars": [
+     "乙未",
+     "辛巳",
+     "壬申",
+     "庚子"
+    ],
+    "pillars_verbatim": "乙未 辛巳 壬申 庚子"
+   },
+   "master_assertion": "这个命年轻时当过兵，当兵后能分到企业，在国有企业工作。／企业能当个中层干部。／应该在纺织企业。／你的命中有儿有女，先（生）女后生儿，如果计划生育的话，只有一女儿。／估计父亲不在已经六七年了。／命中兄弟姐妹四个，你是老大。",
+   "outcome": "确实当过兵，不过时间很短，几个月就回来了，到了企业。／是。（中层干部确认）／（纺织企业）对方十分惊讶／反馈：对。是有一女儿。／反馈：太准了！／反馈：兄弟姐妹只有三个，确实是老大。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "同断实断"
+  },
+  {
+   "case_id": "DS-062",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·附录三十二·四·例一（印刷p.221／PDF245）",
+   "input_side": {
+    "subject": "匿名坤造，段建业2009年断",
+    "gender": "女",
+    "pillars": [
+     "癸亥",
+     "乙卯",
+     "戊申",
+     "丙辰"
+    ],
+    "pillars_verbatim": "癸亥 乙卯 戊申 丙辰"
+   },
+   "master_assertion": "对象应在2006年谈的，快的话明年能结婚，但你命中会又出现一个男人。／依我看这个男人是去年出现的，去年冬天。但这个男人不是你的，人家有别人，你们不可能结婚。",
+   "outcome": "什么都让你给看出来了，去年我爱上一个有家室的，我现在不知道怎么办。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "作者亲断"
+  },
+  {
+   "case_id": "DS-063",
+   "tradition": "bazi",
+   "source": "《段氏理象学》（段建业著，中国商业出版社2011年12月第1版，ISBN 978-7-5044-7457-5）·附录三十二·四·例二（印刷p.222／PDF246）",
+   "input_side": {
+    "subject": "匿名坤造",
+    "gender": "女",
+    "pillars": [
+     "壬戌",
+     "己酉",
+     "丁巳",
+     "丙午"
+    ],
+    "pillars_verbatim": "壬戌 己酉 丁巳 丙午"
+   },
+   "master_assertion": "适合在银行工作。婚姻2005年可成。／个人能力很强，命中不利母亲，母可能有病在身。／如果他有出轨一定是在2007年，那年七八月有外遇，到第二年五月份就彻底结束了。",
+   "outcome": "是在银行工作，2006年结的婚。／是，母亲有肾病。身体一直不好。／对，他本来很老实，被我发现后，他交待的时间跟你断的吻合。",
+   "anchor_status": "present",
+   "anchor_note": "四柱（年月日时干支）完整载于原文竖排命盘；出生年月日时原文未载（本书命例通例），锚点口径从派单：四柱完整载于原文即 present",
+   "contamination_pre": "low",
+   "contamination_note": "命主为匿名普通求测者/客户，无公开记载可检索；原书为盲派从业者自选案例集，自选「断准」性质属判级面事项、非污染面",
+   "separable": "pass",
+   "separable_note": "",
+   "transcription": {
+    "type": "visual",
+    "confidence": "high",
+    "note": "扫描图无文字层，视觉读图转录；四柱干支与相邻页文义互证"
+   },
+   "dedup": "净新（限对勘范围：四柱8字连写对勘 masters-dataset 全部12个jsonl〔含chinese-natal、data/dev、test_inputs、holdout/test_gold〕＋benchmark/pool-manifest.md＋phase3/data/*.json＋历轮 runs/*/digestion 与 runs/*/batches.json 共200余件，零命中；探针：已用蒋介石造在同语料命中3件、检索有效；judging/ 目录依卫生规未打开）",
+   "filters": {
+    "verbatim_transcribable": "pass（视觉转录，干支互证）",
+    "independent_outcome": "pass",
+    "separable": "pass",
+    "pollution_non_high": "pass"
+   },
+   "eligible_net": true,
+   "verdict_note": "",
+   "composition_type": "作者亲断"
+  }
+ ],
+ "count": {
+  "registered": 63,
+  "four_filter_pass_net": 63,
+  "anchor_present": 63,
+  "anchor_partial": 0,
+  "contamination_medium": 1,
+  "contamination_low": 62
+ },
+ "registered_only_summary": "未入池登记（详见同轮 DIGEST-duanshi-r76.md「开采登记」节）：①名人/公众人物例14造污染预判 high（和珅、岳飞×2处、蒋介石×2处、李嘉诚、乾隆、克林顿、阎锡山、袁世凯、曾国藩、林青霞、奥纳西斯、胡适、张之洞、帖木儿）及附录一至二十五名人篇整体，未逐例开采；②断语/结局融合或结局未独立成文者约25条（正向做功例、父母例、酒店女老板例、等级例七八九、合用例一四六、墓用例一、化用例一、生用例二五、制用例二、比劫制官诸小例、官杀制伤食诸小例、印尼命例、穿制/克制诸融合例、附录三十例二三四建议性断语等）；③言明第一节类同造（癸丑辛酉戊辰癸丑）仅事迹无断语，未入池。"
+}
