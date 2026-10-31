@@ -1,0 +1,427 @@
+{
+ "round": 79,
+ "seat": "W-monitor-42 (independent diagnosis)",
+ "source_negatives": "runs/round79/diagnosis/lr-negatives-dev79.json",
+ "n_liuren_total": 30,
+ "n_negative": 24,
+ "final_scores_segments_analysis_r79": {
+  "dev8": {
+   "n": 18,
+   "neg": 15,
+   "pair_diff": -1.986,
+   "SE": 0.5,
+   "ours_mean": 3.319,
+   "master_mean": 5.306
+  },
+  "LR3": {
+   "n": 12,
+   "neg": 9,
+   "pair_diff": -1.479,
+   "SE": 0.579,
+   "ours_mean": 2.562,
+   "master_mean": 4.042
+  },
+  "merged": {
+   "n": 30,
+   "neg": 24,
+   "pair_diff": -1.783,
+   "SE": 0.375,
+   "ours_mean": 3.017,
+   "master_mean": 4.8
+  }
+ },
+ "verification": {
+  "pair_diff_self_consistent": "24/24",
+  "ours_vs_final_scores_both_calibers": "24/24",
+  "master_vs_baseline_dev9": "24/24",
+  "dev8_baseline_infield_equal": "15/15 (dev8 negatives)"
+ },
+ "negative_subset": {
+  "dev8": {
+   "n": 15,
+   "sum": -38.0,
+   "mean": -2.533,
+   "median": -2.0
+  },
+  "LR3": {
+   "n": 9,
+   "sum": -21.0,
+   "mean": -2.333,
+   "median": -2.25
+  },
+  "ALL": {
+   "n": 24,
+   "sum": -59.0,
+   "mean": -2.458,
+   "median": -2.0
+  }
+ },
+ "label_distribution": {
+  "dev8": {
+   "A": 2,
+   "C": 1,
+   "D": 3,
+   "E": 5,
+   "W": 4
+  },
+  "LR3": {
+   "A": 2,
+   "C": 2,
+   "D": 1,
+   "E": 2,
+   "H": 1,
+   "W": 1
+  },
+  "ALL": {
+   "A": 4,
+   "C": 3,
+   "D": 4,
+   "E": 7,
+   "H": 1,
+   "W": 5
+  }
+ },
+ "W_double_report": {
+  "dev8": {
+   "interface_included_count": 4,
+   "interface_included_pct": 26.7,
+   "SE_pp": 11.4,
+   "hardcore_count": 0,
+   "hardcore_pct": 0.0,
+   "denominator": "negative n (no unlabelled case in this round's list)"
+  },
+  "LR3": {
+   "interface_included_count": 1,
+   "interface_included_pct": 11.1,
+   "SE_pp": 10.5,
+   "hardcore_count": 0,
+   "hardcore_pct": 0.0,
+   "denominator": "negative n (no unlabelled case in this round's list)"
+  },
+  "ALL": {
+   "interface_included_count": 5,
+   "interface_included_pct": 20.8,
+   "SE_pp": 8.3,
+   "hardcore_count": 0,
+   "hardcore_pct": 0.0,
+   "denominator": "negative n (no unlabelled case in this round's list)"
+  }
+ },
+ "W_subforms_merged": {
+  "W-face": [
+   "LR2-014",
+   "LR2-022",
+   "LR2-023",
+   "LR3-101"
+  ],
+  "W-name": [
+   "OC-027"
+  ],
+  "all_interface_ambiguous": true,
+  "hardcore": 0
+ },
+ "robust_interval": "INDETERMINATE (per R54-R78 precedent; no hardcore anchor, hard=0)",
+ "family_counts": {
+  "dev8": {
+   "guide": 15,
+   "non_guide": 0,
+   "pending": 0
+  },
+  "LR3": {
+   "guide": 9,
+   "non_guide": 0,
+   "pending": 0
+  },
+  "ALL": {
+   "guide": 24,
+   "non_guide": 0,
+   "pending": 0
+  }
+ },
+ "D_main_labels": {
+  "dev8": [
+   "LR2-013",
+   "LR2-016",
+   "LR2-018"
+  ],
+  "LR3": [
+   "LR3-008"
+  ],
+  "merged_n": 4
+ },
+ "timing_three_quantities_dev": "not coded on dev side (h16 s2.2); registered as uncoded, not filled",
+ "LR3-010": "not in this round's negative list; UNC label maintained, not coded, not counted",
+ "T1_T4": {
+  "T1": "not complete",
+  "T2": "not complete (W 20.8% < E 29.2% and A+C 29.2%)",
+  "T3": "not complete",
+  "T4": "not complete (zero candidates)",
+  "verdict": "not all four complete; freeze maintained by default"
+ },
+ "rows": [
+  {
+   "case_id": "LR2-013",
+   "seg": "dev8",
+   "pair_diff": -2.5,
+   "ours": 3.5,
+   "master": 6.0,
+   "label": "D",
+   "note": "",
+   "book": "《大六壬占验指南》·章奏门·沈云生被参劾占回奏吉凶",
+   "in_dev8_baseline": true
+  },
+  {
+   "case_id": "LR2-014",
+   "seg": "dev8",
+   "pair_diff": -1.5,
+   "ours": 4.0,
+   "master": 5.5,
+   "label": "W*",
+   "note": "W-face, interface; W<->C interface",
+   "book": "《大六壬占验指南》·公讼门·在京偶占一课",
+   "in_dev8_baseline": true
+  },
+  {
+   "case_id": "LR2-015",
+   "seg": "dev8",
+   "pair_diff": -6.0,
+   "ours": 0.0,
+   "master": 6.0,
+   "label": "E",
+   "note": "same-sign exclusion; W note only",
+   "book": "《大六壬占验指南》·公讼门·冯允升被逮占出狱",
+   "in_dev8_baseline": true
+  },
+  {
+   "case_id": "LR2-016",
+   "seg": "dev8",
+   "pair_diff": -0.5,
+   "ours": 4.5,
+   "master": 5.0,
+   "label": "D",
+   "note": "W<->magnitude interface note only",
+   "book": "《大六壬占验指南》·公讼门·陈秋桃为宗藩建言被逮占出狱",
+   "in_dev8_baseline": true
+  },
+  {
+   "case_id": "LR2-017",
+   "seg": "dev8",
+   "pair_diff": -6.0,
+   "ours": 0.0,
+   "master": 6.0,
+   "label": "E",
+   "note": "",
+   "book": "《大六壬占验指南》·公讼门·戚司宗失机定重辟八载占吉凶",
+   "in_dev8_baseline": true
+  },
+  {
+   "case_id": "LR2-018",
+   "seg": "dev8",
+   "pair_diff": -0.75,
+   "ours": 4.25,
+   "master": 5.0,
+   "label": "D",
+   "note": "",
+   "book": "《大六壬占验指南》·公讼门·吴振缨因贼焚凤陵被逮占",
+   "in_dev8_baseline": true
+  },
+  {
+   "case_id": "LR2-019",
+   "seg": "dev8",
+   "pair_diff": -1.75,
+   "ours": 4.0,
+   "master": 5.75,
+   "label": "E",
+   "note": "",
+   "book": "《大六壬占验指南》·兵斗门·田百原奉命勤王占吉凶",
+   "in_dev8_baseline": true
+  },
+  {
+   "case_id": "LR2-021",
+   "seg": "dev8",
+   "pair_diff": -1.75,
+   "ours": 4.0,
+   "master": 5.75,
+   "label": "A*",
+   "note": "MW/SEAT; A<->B interface",
+   "book": "《大六壬占验指南》·行人门·倪子玄占女何日到京",
+   "in_dev8_baseline": true
+  },
+  {
+   "case_id": "LR2-022",
+   "seg": "dev8",
+   "pair_diff": -0.75,
+   "ours": 5.25,
+   "master": 6.0,
+   "label": "W*",
+   "note": "W-face, interface; W<->A interface",
+   "book": "《大六壬占验指南》·疾病门·张奉初为弟观初占病",
+   "in_dev8_baseline": true
+  },
+  {
+   "case_id": "LR2-023",
+   "seg": "dev8",
+   "pair_diff": -3.75,
+   "ours": 2.25,
+   "master": 6.0,
+   "label": "W*",
+   "note": "W-face, interface; W<->D/E interface",
+   "book": "《大六壬占验指南》·疾病门·张澹宁占病",
+   "in_dev8_baseline": true
+  },
+  {
+   "case_id": "LR2-024",
+   "seg": "dev8",
+   "pair_diff": -5.0,
+   "ours": 0.5,
+   "master": 5.5,
+   "label": "C*",
+   "note": "",
+   "book": "《大六壬占验指南》·疾病门·卢承山占病",
+   "in_dev8_baseline": true
+  },
+  {
+   "case_id": "LR3-002",
+   "seg": "LR3",
+   "pair_diff": -3.5,
+   "ours": 1.0,
+   "master": 4.5,
+   "label": "E",
+   "note": "A secondary candidate GZ/SEAT",
+   "book": "《大六壬占验指南》·仕宦门·占总镇奉命出师",
+   "in_dev8_baseline": false
+  },
+  {
+   "case_id": "LR3-006",
+   "seg": "LR3",
+   "pair_diff": -3.0,
+   "ours": 1.75,
+   "master": 4.75,
+   "label": "C*",
+   "note": "",
+   "book": "《大六壬占验指南》·仕宦门·任台垣占仕途",
+   "in_dev8_baseline": false
+  },
+  {
+   "case_id": "LR3-008",
+   "seg": "LR3",
+   "pair_diff": -5.0,
+   "ours": 0.0,
+   "master": 5.0,
+   "label": "D",
+   "note": "",
+   "book": "《大六壬占验指南》·仕宦门·占功名",
+   "in_dev8_baseline": false
+  },
+  {
+   "case_id": "LR3-101",
+   "seg": "LR3",
+   "pair_diff": -2.25,
+   "ours": 2.75,
+   "master": 5.0,
+   "label": "W*",
+   "note": "W-face, interface; W<->A/C interface",
+   "book": "《大六壬占验指南》·会试门·阮实夫代刘若宜占会试",
+   "in_dev8_baseline": false
+  },
+  {
+   "case_id": "LR3-107",
+   "seg": "LR3",
+   "pair_diff": -0.75,
+   "ours": 3.25,
+   "master": 4.0,
+   "label": "A",
+   "note": "SF/SEAT",
+   "book": "《大六壬占验指南》·公讼门·寓中偶占一课",
+   "in_dev8_baseline": false
+  },
+  {
+   "case_id": "LR3-110",
+   "seg": "LR3",
+   "pair_diff": -0.5,
+   "ours": 4.25,
+   "master": 4.75,
+   "label": "E",
+   "note": "",
+   "book": "《大六壬占验指南》·走失门·王怀荫占失马",
+   "in_dev8_baseline": false
+  },
+  {
+   "case_id": "LR3-112",
+   "seg": "LR3",
+   "pair_diff": -1.25,
+   "ours": 1.0,
+   "master": 2.25,
+   "label": "H",
+   "note": "W not measurable",
+   "book": "《大六壬占验指南》·疾病门·刘一纯占病",
+   "in_dev8_baseline": false
+  },
+  {
+   "case_id": "LR3-114",
+   "seg": "LR3",
+   "pair_diff": -1.5,
+   "ours": 2.5,
+   "master": 4.0,
+   "label": "C*",
+   "note": "",
+   "book": "《大六壬占验指南》·应候门·僧敏若夜闻鸦鸣占",
+   "in_dev8_baseline": false
+  },
+  {
+   "case_id": "LR3-116",
+   "seg": "LR3",
+   "pair_diff": -3.25,
+   "ours": 0.75,
+   "master": 4.0,
+   "label": "A",
+   "note": "QX/SEAT",
+   "book": "《大六壬占验指南》·射覆门·范玄同袖帨射覆",
+   "in_dev8_baseline": false
+  },
+  {
+   "case_id": "OC-026",
+   "seg": "dev8",
+   "pair_diff": -3.0,
+   "ours": 3.0,
+   "master": 6.0,
+   "label": "E",
+   "note": "same-sign exclusion note",
+   "book": "《大六壬占验指南》第57课",
+   "in_dev8_baseline": true
+  },
+  {
+   "case_id": "OC-027",
+   "seg": "dev8",
+   "pair_diff": -2.0,
+   "ours": 2.75,
+   "master": 4.75,
+   "label": "W*",
+   "note": "W-name, interface; W<->C interface",
+   "book": "《大六壬占验指南》第58课",
+   "in_dev8_baseline": true
+  },
+  {
+   "case_id": "OC-029",
+   "seg": "dev8",
+   "pair_diff": -2.0,
+   "ours": 3.25,
+   "master": 5.25,
+   "label": "E",
+   "note": "A secondary candidate MW/MIX",
+   "book": "《大六壬占验指南》第60课",
+   "in_dev8_baseline": true
+  },
+  {
+   "case_id": "OC-030",
+   "seg": "dev8",
+   "pair_diff": -0.75,
+   "ours": 4.75,
+   "master": 5.5,
+   "label": "A",
+   "note": "SF/SEAT",
+   "book": "《大六壬占验指南》第64课",
+   "in_dev8_baseline": true
+  }
+ ]
+}

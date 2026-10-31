@@ -1,0 +1,738 @@
+
+================================================================================
+### LY-433  anon=P3-02c757c0  in_r78=YES
+FLAG: 1. Y1-3｜P3-02c757c0｜关键信息缺失（所问功名面无对应结局）｜「此子未年而死。」
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 此子未年而死。 夫應七月傷妻﹐卯木財爻絕於申也。
+CARRY[_r56_carryover_notes]: 附注断面类型：结局仅载死亡断面，所问其子将来功名面无对应记载。供评审提示沿用。结局原文照录不改。
+R78 disp=成立 rel=同旨续接（R73）
+R78 flag: X3：功名面无记载、结局仅载其子未年而死
+PRED exists: True
+
+================================================================================
+### LY-506  anon=P3-05d3965c  in_r78=YES
+FLAG: 2. Y1-10｜P3-05d3965c｜死亡归属未明｜「果死於卯日」（两占合载）
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 果於八月其子驚風﹐又來卜之。 果死於卯日。夫應於卯日者﹐乃實破之日也。
+CARRY[_r75_carryover_notes_addendum]: 同旨续接：自 R75 起承接 R73＋本 R74 标注；结局原文照录不改。
+CARRY[_r76_carryover_notes_addendum]: 同旨续接：自 R76 起承接 R74＋本 R75 标注；结局原文照录不改。
+R78 disp=部分成立 rel=同旨续接（R74）
+R78 flag: X1：两占合载，结局「果死于卯日」的死亡归属未明字（carry_note 历轮同旨）；Y1：结局「果死於卯日」之死亡归属（母／子）在结局原文中未明字（carry_note 历轮同此登记）
+PRED exists: True
+
+================================================================================
+### BQ-025  anon=P3-06e3095b  in_r78=YES
+FLAG: 3. Y1-11｜P3-06e3095b｜结局未载终局（止于即时记载）｜「未半日，群蜂满身攒聚，惊惶无措」
+CARD tradition: "六爻"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 「未半日，群蜂满身攒聚，惊惶无措」——占后不到半日，群蜂满身攒聚，占者惊惶无措。
+CARRY[_r75_carryover_notes_addendum]: 同旨续接：自 R75 起承接 R73＋本 R74 标注；结局原文照录不改。
+CARRY[_r76_carryover_notes_addendum]: 同旨续接：自 R76 起承接 R74＋本 R75 标注；结局原文照录不改。
+R78 disp=部分成立 rel=同旨续接（R74）
+R78 flag: X3：结局止于占后半日即时记载，养蜂终局未载
+PRED exists: True
+
+================================================================================
+### LR2-023  anon=P3-0f964703  in_r78=YES
+FLAG: 1. X1-24｜P3-0f964703｜结局文引用了 prediction_text 全文不存在的断语｜「後果然（兒婦妊性别如斷），澹宁壬午春死。」（prediction 只断张澹宁之病可愈，无儿妇妊性别断语）
+FLAG: 4. Y1-24｜P3-0f964703｜结局混载、与主问对应不清｜「果然（儿妇妊性别如断），澹宁壬午春死。」（与 X1-24 同例）
+CARD keys: id,subject,context,provenance,language
+OUTCOME: 后果然（儿妇妊性别如断），澹宁壬午春死。
+STRIPPED_TAIL: 当年脱险、儿妇生男生女、壬午春卒三项均见原文应验记载。
+CARRY[_r74_carryover_notes_addendum]: 同旨续接：自 R74 起承接 R72＋本 R73 标注；结局原文照录不改。
+CARRY[_r76_carryover_notes_addendum]: 同旨续接：自 R76 起承接 R73＋本 R75 标注；结局原文照录不改。
+R78 disp=部分成立 rel=同旨续接（R73）
+R78 flag: X4：outcome_record 混载儿妇妊性别与澹宁壬午春死，与 prediction 所占本人病断面不完全同面；Y4：结局以「后果然」总承本病断面，又载澹宁壬午春死，与本病愈迟断面的时距关系不明
+PRED exists: True
+
+================================================================================
+### LY-432  anon=P3-179f53ef  in_r78=YES
+FLAG: 5. Y1-37｜P3-179f53ef｜结局混载无关断面｜「五月高遷。 次日卽愈。」（「愈」与本问功名无关疑混载）
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 五月高遷。 次日卽愈。
+R78 disp=不成立 rel=同旨续接（R74）
+R78 flag: Y1：结局「五月高遷。次日卽愈。」似合载两事（高迁与愈），本例 prediction 仅及功名一面，只按功名面计分
+PRED exists: True
+
+================================================================================
+### BZ-037  anon=P3-1952cec7  in_r78=YES
+FLAG: 6. Y1-40｜P3-1952cec7｜结局自注史实/版本偏差｜「『未执政』一语与史实不合，疑指其执政不稳/未久安，或版本文字之异」
+CARD keys: id,subject,context,provenance,language
+OUTCOME: 史实：段祺瑞三任国务总理、1924-1926任临时执政（韦书成于1963年，「未执政」一语与史实不合，疑指其执政不稳/未久安，或版本文字之异——本数据集如实标为已知偏差点）；1918-1920确为其权势黄金期；1936年卒
+STRIPPED_TAIL: ，与韦断三年相合
+CARRY[_r75_carryover_notes_addendum]: 同旨续接：自 R75 起承接 R73＋本 R74 标注；结局原文照录不改。
+CARRY[_r77_carryover_notes_addendum]: 主持裁定续接：自 R77 起承接本 R76 标注：按「卡面无 tradition/system 字段、basis 首行虚称『卡面 tradition＝bazi』（R69 型）、方法实质八字、不作废不重测」登记；结局原文照录不改。
+R78 disp=部分成立 rel=主持裁定登记（R76，R69 型）
+R78 flag: 主持 tradition 复核（FREEZE-r76.md §二）：卡面无 tradition/system 字段、basis 首行称「卡面 tradition＝bazi」；方法实质八字，主持裁定部分成立、不作废不重测
+PRED exists: True
+
+================================================================================
+### LY-011  anon=P3-21286946  in_r78=NO
+FLAG: 7. Y1-56｜P3-21286946｜应验对象不一致（预测为母亲能来，结局来者为妹）｜「果於次年三月妹至」
+CARD system: "liuyao"
+CARD keys: id,system,master,era,subject,context,provenance,license_status,redistributable,language,notes
+OUTCOME: 果於次年三月妹至
+CARRY[_r74_carryover_notes_addendum]: 同旨续接：自 R74 起承接 R72＋本 R73 标注；结局原文照录不改。
+CARRY[_r75_carryover_notes_addendum]: 同旨续接：自 R75 起承接 R73＋本 R74 标注；结局原文照录不改。
+PRED exists: True
+
+================================================================================
+### LY-207  anon=P3-30ad2717  in_r78=YES
+FLAG: 2. X1-83｜P3-30ad2717｜carry_note 登记字段前后口径自相矛盾｜R65 条「prediction 为病向负断模板、与终身功名问面错位」与 R70 条并存；本轮 prediction_text 实为功名向正断
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 卯年占卦﹐巳年援例連連加納﹐官至府佐﹐未年出仕﹐戌年升任。黃堂古法以動而逢沖謂之散﹐此系未沖世爻之丑土﹐竟不見其散也。
+CARRY[_r74_carryover_notes_addendum]: 同旨续接：自 R74 起承接 R72＋本 R73 标注；结局原文照录不改。
+CARRY[_r76_carryover_notes_addendum]: 同旨续接：自 R76 起承接 R73＋本 R75 标注；结局原文照录不改。
+R78 disp=部分成立 rel=同旨续接（R73）
+R78 flag: Y2：carry_note 历轮旧旨对 prediction 方向/模板的描述与本轮 prediction_text 实际口径不合，carry_note 内部已自注此点
+PRED exists: True
+
+================================================================================
+### LY-104  anon=P3-3bcc7a19  in_r78=YES
+FLAG: 8. Y1-105｜P3-3bcc7a19｜关键结局缺失（仅载手术、愈否未载）｜「后于戌日接受手术」
+CARD tradition: "liuyao"
+CARD keys: uid,tradition,subject,context,provenance,notes
+OUTCOME: 实际：女占者胸部有肿瘤，因有后顾之忧而测，后于戌日接受手术（汇编转录的实际反馈）
+CARRY[_r75_carryover_notes_addendum]: 同旨续接：自 R75 起承接 R73＋本 R74 标注；结局原文照录不改。
+CARRY[_r76_carryover_notes_addendum]: 同旨续接：自 R76 起承接 R74＋本 R75 标注；结局原文照录不改。
+R78 disp=部分成立 rel=同旨续接（R74）
+R78 flag: X4：carry 注明病灶与手术有载、愈否终局未载；Y4：结局仅载病灶（胸部肿瘤）与戌日手术，愈否终局未载
+PRED exists: True
+
+================================================================================
+### LY-212  anon=P3-40dd4f2e  in_r78=YES
+FLAG: 9. Y1-113｜P3-40dd4f2e｜所问索债结果未明载｜「今早四隻大船橫渡，行至江心，忽起暴風，盡覆沒」
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 今早四隻大船橫渡﹐行至江心﹐忽起暴風﹐盡覆沒。此時屍滿長江﹐若不蒙君苦畱﹐已在江中矣。予曰﹕依數全無救星﹐定是兄之德行﹐我有何功﹐此非謂之避之則吉也﹖
+CARRY[_r56_carryover_notes]: 承接 R49＋R53＋R54 标注：趋避例——结局为所避之祸（江难）实况，索债本问在原书中本无结局记载，非错位。结局原文照录不改。
+R78 disp=成立 rel=同旨续接（R74）
+R78 flag: X3：索债本问在原书无结局、结局为所避江难实况；Y3：大师自标趋避例——结局对应所避江难实况，与 prediction 所问面（索债）不对位，所问面结局未载
+PRED exists: True
+
+================================================================================
+### BZ-304  anon=P3-4301d18a  in_r78=YES
+FLAG: 3. X1-117｜P3-4301d18a｜结局引述与本轮 prediction 全文不合（carry 已自注）｜「结局末句引述『5-6月恢复正常』不见于本轮 prediction 全文、其原始出处未载于原卡」
+CARD tradition: "fengshui"
+CARD keys: uid,tradition,subject,context,provenance
+OUTCOME: 新加坡于2020年4月7日至6月1日实施「阻断措施」（Circuit Breaker），客工宿舍暴发大规模感染，4-6月正是本地最严重阶段；全球疫情则在2020年下半年进一步恶化，与「5-6月恢复正常」相反
+CARRY[_r75_carryover_notes_addendum]: 同旨续接：自 R75 起承接 R73＋本 R74 标注；结局原文照录不改。
+CARRY[_r76_carryover_notes_addendum]: 同旨续接：自 R76 起承接 R74＋本 R75 标注；结局原文照录不改。
+R78 disp=部分成立 rel=同旨续接（R74）
+R78 flag: Y2：结局末句引述「5-6月恢复正常」不见于本轮 prediction_text 全文（carry 已标注原始出处未载）
+PRED exists: True
+
+================================================================================
+### YM-070  anon=P3-46dabb02  in_r78=YES
+FLAG: 1. X2-2｜P3-46dabb02｜结局措辞语义未明｜「后果同行都下。」
+FLAG: 1. Y2-2｜P3-46dabb02｜结局措辞语义未明｜「后果同行都下。」（与 X2-2 同例）
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 后果同行都下。
+CARRY[_r58_carryover_notes_addendum]: 自 R57 起承接 R51＋R55＋本 R56 标注：按「结局措辞待核（『都下』语义未明）」登记，与承接册卷末①「甲寅旬」待核并列；结局原文照录不改、不补字。
+CARRY[_r59_carryover_notes_addendum]: 同旨续接：自 R58 起承接 R51＋R55＋R56＋本 R57 标注：按「结局措辞待核（『都下』语义未明）」登记；结局原文照录不改、不补字。carry 注记截断问题另按特别核查①登记。
+R78 disp=未核 rel=待核维持（旗标触及、只登记不裁）
+R78 flag: X4：carry 注明结局『都下』语义未明，outcome_record「后果同行都下」只能确认「同行」二字，其余语义无法确核；Y4：结局「后果同行都下」中「都下」语义未明（carry 已登记待核），同行方向可读、余义不可核
+PRED exists: True
+
+================================================================================
+### LY-523  anon=P3-4773e5ce  in_r78=NO
+FLAG: 2. X2-3｜P3-4773e5ce｜结局以逗号收尾疑似截断｜「果於子時退災﹐次日起牀﹐」
+FLAG: 2. Y2-3｜P3-4773e5ce｜结局以逗号收尾疑似截断｜「果於子時退災﹐次日起牀﹐」（与 X2-3 同例）
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 果於子時退災﹐次日起牀﹐
+CARRY[_r73_carryover_notes_addendum]: 同旨续接：自 R73 起承接 R70＋本 R72 标注；结局原文照录不改。
+CARRY[_r74_carryover_notes_addendum]: 同旨续接：自 R74 起承接 R72＋本 R73 标注；结局原文照录不改。
+PRED exists: True
+
+================================================================================
+### LY-240  anon=P3-4c42f7d0  in_r78=YES
+FLAG: 3. X2-14｜P3-4c42f7d0｜结局仅总承＋时点、事件未分载｜「果於辰日。」
+FLAG: 3. Y2-14｜P3-4c42f7d0｜结局仅载时点、事件未分载｜「果於辰日。」（与 X2-14 同例）
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 果於辰日。
+CARRY[_r75_carryover_notes_addendum]: 同旨续接：自 R75 起承接 R73＋本 R74 标注；结局原文照录不改。
+CARRY[_r76_carryover_notes_addendum]: 同旨续接：自 R76 起承接 R74＋本 R75 标注；结局原文照录不改。
+R78 disp=部分成立 rel=同旨续接（R74）
+R78 flag: X3：总承式结局、断面未分载——结局仅「果於辰日」；Y3：总承式结局（「果於辰日」），事件断面未分载，claims 无法逐条满分核验
+PRED exists: True
+
+================================================================================
+### YY-023  anon=P3-4e7d412a  in_r78=YES
+FLAG: 4. Y2-22｜P3-4e7d412a｜结局为总承式、断面未分载｜「后果然。」
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 后果然。
+CARRY[_r75_carryover_notes_addendum]: 同旨续接：自 R75 起承接 R73＋本 R74 标注；结局原文照录不改。
+CARRY[_r76_carryover_notes_addendum]: 同旨续接：自 R76 起承接 R74＋本 R75 标注；结局原文照录不改。
+R78 disp=部分成立 rel=同旨续接（R74）
+R78 flag: X4：outcome_record 为总承式收束（「后果然」），逐条子断语与逐项时点无分项记载；Y4：结局仅「后果然」总承，断面未分载，claims 不得满分
+PRED exists: True
+
+================================================================================
+### LY-452  anon=P3-50922b82  in_r78=YES
+FLAG: 5. Y2-23｜P3-50922b82｜结局以逗号收尾疑似截断、本人安否未载｜「房屋稻穀盡成灰燼﹐」
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 後果從北來﹐放火燒村而去﹐房屋稻穀盡成灰燼﹐
+CARRY[_r75_carryover_notes_addendum]: 同旨续接：自 R75 起承接 R73＋本 R74 标注；结局原文照录不改。
+CARRY[_r76_carryover_notes_addendum]: 同旨续接：自 R76 起承接 R74＋本 R75 标注；结局原文照录不改。
+R78 disp=部分成立 rel=同旨续接（R74）
+R78 flag: X3：结局以逗号收尾疑似截断，北来焚村明载，但本人避往方位与安否未载；Y3：结局以逗号收尾疑似截断；北来焚村明载，但本人避往方位与安否未载
+PRED exists: True
+
+================================================================================
+### LY-538  anon=P3-517889cc  in_r78=NO
+FLAG: 4. X2-26｜P3-517889cc｜结局句意残缺含混疑转录残缺｜「后因裁他处缺上台，题留他处官顶此公位将，此将公赴京另补」
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language,notes
+OUTCOME: 后因裁他处缺上台，题留他处官顶此公位将，此将公赴京另补
+CARRY[_r73_carryover_notes_addendum]: 同旨续接：自 R73 起承接 R71＋本 R72 标注；结局原文照录不改。
+CARRY[_r74_carryover_notes_addendum]: 同旨续接：自 R74 起承接 R72＋本 R73 标注；结局原文照录不改。
+PRED exists: True
+
+================================================================================
+### OC-029  anon=P3-51b9e3fa  in_r78=YES
+FLAG: 6. Y2-27｜P3-51b9e3fa｜结局求官面未载、余诸事面有载｜「王米山迁居淮安新安镇，其母未度九十而终（89岁）」
+CARD keys: id,subject,context,provenance,language
+OUTCOME: 三客至、内有杨姓，果如言；王宅书房被盗，所盗为郎君之物，三日后贼复来尽盗父子衣物；冬月清兵入山东、攻城陷邑，一一如占；王米山迁居淮安新安镇，其母未度九十而终（89岁）。
+STRIPPED_TAIL: 各应验点均独立载于原文。
+CARRY[_r75_carryover_notes_addendum]: 同旨续接：自 R75 起承接 R73＋本 R74 标注；结局原文照录不改。
+CARRY[_r76_carryover_notes_addendum]: 同旨续接：自 R76 起承接 R74＋本 R75 标注；结局原文照录不改。
+R78 disp=部分成立 rel=同旨续接（R74）
+R78 flag: X4：carry 注明求官面未载、余诸事面有载；Y4：结局多断面混载，求官面未载（carry 附注已登记），预测主断面无从核验
+PRED exists: True
+
+================================================================================
+### LY-413  anon=P3-540e1d32  in_r78=NO
+FLAG: 7. Y2-35｜P3-540e1d32｜结局为总承式、分晓时点未载｜「果然如是。」
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 果然如是。
+CARRY[_r73_carryover_notes_addendum]: 同旨续接：自 R73 起承接 R71＋本 R72 标注；结局原文照录不改。
+CARRY[_r74_carryover_notes_addendum]: 同旨续接：自 R74 起承接 R72＋本 R73 标注；结局原文照录不改。
+PRED exists: True
+
+================================================================================
+### LY-023  anon=P3-5484e76d  in_r78=YES
+FLAG: 5. X2-37｜P3-5484e76d｜母病结局缺失、结局转记其子之事｜「果於八月其子驚風（其後復占子病，見 LY-024）」
+CARD tradition: "liuyao"
+CARD keys: uid,tradition,subject,context,provenance
+OUTCOME: 果於八月其子驚風（其後復占子病，見 LY-024）
+CARRY[_r56_carryover_notes]: 承接 R49＋R53＋R54 标注：大师自标迁移——结局子惊风对应迁移断面，母病结果源未另载，非错位。结局原文照录不改。
+CARRY[_r57_carryover_notes_addendum]: 自 R56 起承接 R49＋R53＋R54＋本 R55 标注；结局原文照录不改。
+R78 disp=成立 rel=同旨续接（R74）
+R78 flag: X3：所断母病、结局为其子惊风（断面迁移例，carry_note 已自注）；Y3：大师自标迁移例——结局对应其子惊风，与 prediction 所问面（母病）不对位，所问面结局未载
+PRED exists: True
+
+================================================================================
+### LY-441  anon=P3-55b3180d  in_r78=YES
+FLAG: 8. Y2-38｜P3-55b3180d｜结局晴否判定含混｜「果於戌時﹐星辰無光。」
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 果於戌時﹐星辰無光。
+CARRY[_r75_carryover_notes_addendum]: 同旨续接：自 R75 起承接 R73＋本 R74 标注；结局原文照录不改。
+CARRY[_r76_carryover_notes_addendum]: 同旨续接：自 R76 起承接 R74＋本 R75 标注；结局原文照录不改。
+R78 disp=部分成立 rel=同旨续接（R74）
+R78 flag: X2：outcome_record「星辰無光」晴否判定含混（carry_note 已登记）；Y2：outcome_record「果於戌時，星辰無光」晴否判定含混（carry_note 已标注）
+PRED exists: True
+
+================================================================================
+### LY-437  anon=P3-59130d16  in_r78=YES
+FLAG: 6. X2-44｜P3-59130d16｜结局与病占主题无对应（病愈结局缺失）｜「果於七月﹐被論革職﹐」
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 果於七月﹐被論革職﹐
+CARRY[_r56_carryover_notes]: 承接 R49＋R51＋R53＋R54 标注，附注迁移类型：占他应我（大师自标迁移）——所问小厮病，结局对应迁移后占者本人功名断面（革职），非问答配对错误。结局原文照录不改。
+CARRY[_r57_carryover_notes_addendum]: 自 R56 起承接 R49＋R51＋R53＋R54＋本 R55 标注，manifest 附注迁移类型；结局原文照录不改。
+R78 disp=成立 rel=同旨续接（R74）
+R78 flag: X3：所问小厮病、结局为占者本人革职（断面迁移例，carry_note 已自注）；Y3：大师自标迁移例——结局对应占者本人革职，与 prediction 所问面（小厮病）不对位，所问面结局未载
+PRED exists: True
+
+================================================================================
+### LY-508  anon=P3-6078cbec  in_r78=YES
+FLAG: 9. Y2-62｜P3-6078cbec｜所问财福面无独立记载、结局仅载死亡｜「後從當夫頭死於丑年。」
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 後從當夫頭死於丑年。
+CARRY[_r56_carryover_notes]: 承接 R49＋R53＋R54 标注：兼断寿夭断面；所问终身财福，结局仅载死亡，财福面无独立记载。结局原文照录不改。
+CARRY[_r57_carryover_notes_addendum]: 自 R56 起承接 R49＋R53＋R54＋本 R55 标注；结局原文照录不改。
+R78 disp=成立 rel=同旨续接（R74）
+R78 flag: X4：carry 注明所问终身财福、结局仅载丑年死亡、财福面无独立记载；Y4：所问终身财福，结局仅载丑年死亡，财福面无独立记载（carry 已登记）
+PRED exists: True
+
+================================================================================
+### LY-614  anon=P3-6d40022d  in_r78=YES
+FLAG: 10. Y2-85｜P3-6d40022d｜兄病终局未载、结局以反问语收束｜「其可謂之蛇動死，虎動主喪耶？」
+CARD tradition: "六爻"
+CARD keys: id,tradition,subject,context,provenance,language,notes
+OUTCOME: 至戊申日沈屙復起，其可謂之蛇動死，虎動主喪耶？
+CARRY[_r75_carryover_notes_addendum]: 同旨续接：自 R75 起承接 R73＋本 R74 标注；结局原文照录不改。
+CARRY[_r76_carryover_notes_addendum]: 同旨续接：自 R76 起承接 R74＋本 R75 标注；结局原文照录不改。
+R78 disp=部分成立 rel=同旨续接（R74）
+R78 flag: X4：carry 注明兄病终局未载，outcome_record 仅载「戊申日沈屙復起」并以反问收束；Y4：结局以反问语收束，仅载戊申日沉屙复起，兄病最终结局未载（carry 已登记）
+PRED exists: True
+
+================================================================================
+### LY-436  anon=P3-78959a78  in_r78=YES
+FLAG: 7. X2-108｜P3-78959a78｜结局与预测主题明显不对应（天气断 vs 死讯）｜「世辰年占卦﹐在午年子月而死。」
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 世辰年占卦﹐在午年子月而死。
+CARRY[_r56_carryover_notes]: 承接 R49＋R53＋R54 标注：占近应远（大师自标迁移）——本月月令问现寿元，结局为午年子月之死，非错位。结局原文照录不改。
+R78 disp=成立 rel=同旨续接（R73）
+R78 flag: X3：prediction 为天时晴燥断、结局为午年子月而死的人身寿元断面；Y3：结局只载午年子月有人死，与 prediction 所问面（本月天时晴雨）完全不对位，所问面结局未载
+PRED exists: True
+
+================================================================================
+### LY-537  anon=P3-78b37758  in_r78=YES
+FLAG: 8. X2-109｜P3-78b37758｜疑似转录多字｜「果于申予日归」（即 LY-537「申予日」，与待核维持件同例）
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language,notes
+OUTCOME: 果于申予日归
+R78 disp=未核 rel=待核维持（旗标触及、只登记不裁）
+R78 flag: 盲测席：卡面逐爻表 OCR 行序错乱、逐爻装卦未能可靠还原，提示行序风险（卡面已自注、逐爻表不录）
+PRED exists: True
+
+================================================================================
+### BQ-001  anon=P3-9d222f52  in_r78=YES
+FLAG: 1. X3-61｜P3-9d222f52｜结局关键终局未载于 outcome 本体、靠登记承接｜outcome「父忽惊寤自言『我死，有三尺人来迎，欲升天，闻哭声，遂坠地』」；carry_note「stripped_tail 所载后断『更三日，当永去』以『果如言』总承应验」
+FLAG: 1. Y3-61｜P3-9d222f52｜结局文仅载求测者当场自述、未载所占之父最终结局（与 X3-61 同例）
+CARD tradition: "筮占"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 求卜者当场自述：父卧疾三年，昨日鸡鸣时气尽、举家大哭，父忽惊寤自言「我死，有三尺人来迎，欲升天，闻哭声，遂坠地」。
+STRIPPED_TAIL: ，与占断「父已亡、当上天、闻哭声、忽复苏、而有言」全合；「更三日，当永去」一条，原文以「果如言」结
+CARRY[_r75_carryover_notes_addendum]: 同旨续接：自 R75 起承接 R73＋本 R74 标注；结局原文照录不改。
+CARRY[_r76_carryover_notes_addendum]: 同旨续接：自 R76 起承接 R74＋本 R75 标注；结局原文照录不改。
+R78 disp=部分成立 rel=同旨续接（R74）
+R78 flag: Y4：结局正文止于父气尽复苏自述，死亡时点须靠 carry 承接的 stripped_tail 后断才可核，正文自身不完整
+PRED exists: True
+
+================================================================================
+### YM-015  anon=P3-a0349e93  in_r78=NO
+FLAG: 2. X3-70｜P3-a0349e93｜结局文措辞自相矛盾疑转录错误｜「果于本日巳时还一半，乙酉日巳时还清一半者」
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 改丙戌而发乡科。
+PRED exists: True
+
+================================================================================
+### LR3-002  anon=P3-a69e9350  in_r78=NO
+FLAG: 3. X3-77｜P3-a69e9350｜结局关键信息缺失、「退位」主语未明（登记字段已自注）｜「仅撤回剿贼；庚辰太岁受克、退位。」
+FLAG: 2. Y3-77｜P3-a69e9350｜结局「退位」主语未明字（与 X3-77 同例）
+CARD keys: id,subject,context,provenance,language
+OUTCOME: 仅撤回剿贼；庚辰太岁受克、退位。
+STRIPPED_TAIL: 断尾自载应验：俱验撤回事与庚辰退位两项均以确指事件/时点表述，附于断语之末（同 LR2-024 短承口径）。
+CARRY[_r74_carryover_notes_addendum]: 同旨续接：自 R74 起承接 R71＋本 R73 标注；结局原文照录不改。
+CARRY[_r75_carryover_notes_addendum]: 同旨续接：自 R75 起承接 R73＋本 R74 标注；结局原文照录不改。
+PRED exists: True
+
+================================================================================
+### LY-623  anon=P3-ab48b0ed  in_r78=NO
+FLAG: 3. Y3-91｜P3-ab48b0ed｜结局以地方惊险侧载、本人安危未明字｜「後知苗獨作亂，地方不祥，驚險異常」
+CARD tradition: "六爻"
+CARD keys: id,tradition,subject,context,provenance,language,notes
+OUTCOME: 後知苗獨作亂，地方不祥，驚險異常，寅年占卦，辰年缺歸，午年又官者，
+CARRY[_r74_carryover_notes_addendum]: 同旨续接：自 R74 起承接 R72＋本 R73 标注；结局原文照录不改。
+CARRY[_r75_carryover_notes_addendum]: 同旨续接：自 R75 起承接 R73＋本 R74 标注；结局原文照录不改。
+PRED exists: True
+
+================================================================================
+### BQ-021  anon=P3-b04424af  in_r78=NO
+FLAG: 4. X3-97｜P3-b04424af｜结局关键终局缺失、禾稻收成未载（登记字段已自注）｜outcome「逾三四日，而天则亢旱难用矣」
+FLAG: 4. Y3-97｜P3-b04424af｜结局只载亢旱、禾稻收成终局未载（与 X3-97 同例）
+CARD tradition: "六爻"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 「后将插莳，果为阴人少财而去，逾三四日，而天则亢旱难用矣」——插莳之时果因（雇工/阴人）少财而去，逾三四日天大旱至于难用。
+CARRY[_r73_carryover_notes_addendum]: 同旨续接：自 R73 起承接 R71＋本 R72 标注；结局原文照录不改。
+CARRY[_r74_carryover_notes_addendum]: 同旨续接：自 R74 起承接 R72＋本 R73 标注；结局原文照录不改。
+PRED exists: True
+
+================================================================================
+### LY-458  anon=P3-b2b8d62f  in_r78=YES
+FLAG: 5. X3-104｜P3-b2b8d62f｜结局答非所问、主问（母来否）结果未载（登记字段已自注）｜「後果在外平安。」
+FLAG: 5. Y3-104｜P3-b2b8d62f｜结局仅载平安、未载所问「来否」结果（与 X3-104 同例）
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 後果在外平安。
+CARRY[_r56_carryover_notes]: 承接 R49＋R53＋R54 标注：结局仅载平安、未载来否结果（承 R49 定案 (乙)，结局记录答非所问一面，非整例串错）。结局原文照录不改。
+R78 disp=成立 rel=同旨续接（R74）
+R78 flag: Y3：结局仅载「在外平安」，所问母来否结果未载，归断无从印证
+PRED exists: True
+
+================================================================================
+### LY-220  anon=P3-b37783c7  in_r78=YES
+FLAG: 6. X3-106｜P3-b37783c7｜结局关键信息缺失、主问和好面未载（登记字段已自注）｜outcome「彼曰﹕果有金弟屬猴﹐克曾功一第﹐餘三人皆從別業」
+FLAG: 6. Y3-106｜P3-b37783c7｜结局所载与所问和好面无关、和好结果未载（与 X3-106 同例）
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 彼曰﹕果有金弟屬猴﹐克曾功一第﹐餘三人皆從別業﹐可見數之責驗如此﹐後一年又登申榜。
+CARRY[_r75_carryover_notes_addendum]: 同旨续接：自 R75 起承接 R73＋本 R74 标注；结局原文照录不改。
+CARRY[_r76_carryover_notes_addendum]: 同旨续接：自 R76 起承接 R74＋本 R75 标注；结局原文照录不改。
+R78 disp=部分成立 rel=同旨续接（R74）
+R78 flag: X3：结局为他人功名记载、和好面未载；Y3：结局只载兄弟功名等事，和好面未载，主断无从印证
+PRED exists: True
+
+================================================================================
+### LY-434  anon=P3-bc370774  in_r78=NO
+FLAG: 1. X4-1｜P3-bc370774｜结局疑似截断（逗号收尾）｜「果於申日文書實收俱到﹐」
+FLAG: 1. Y4-1｜P3-bc370774｜结局逗号收尾疑似截断（同 X4-1）
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 果於申日文書實收俱到﹐
+CARRY[_r74_carryover_notes_addendum]: 同旨续接：自 R74 起承接 R72＋本 R73 标注；结局原文照录不改。
+CARRY[_r75_carryover_notes_addendum]: 同旨续接：自 R75 起承接 R73＋本 R74 标注；结局原文照录不改。
+PRED exists: True
+
+================================================================================
+### BZ-104  anon=P3-bc4510ff  in_r78=NO
+FLAG: 2. X4-2｜P3-bc4510ff｜结局系口头反馈、无第三方记录｜「书内自述，求测方口头反馈，无第三方记录」
+CARD tradition: "bazi"
+CARD keys: uid,tradition,subject,context,provenance
+OUTCOME: 1991年元月邵再回老家，老友夫妇告知：其子1990年先患肝炎住院，后又骑摩托车撞伤（书内自述，求测方口头反馈，无第三方记录）
+STRIPPED_TAIL: ，病灾、伤灾均应验
+CARRY[_r72_carryover_notes_addendum]: 同旨续接：自 R72 起承接 R70＋本 R71 标注；结局原文照录不改。
+CARRY[_r74_carryover_notes_addendum]: 同旨续接：自 R74 起承接 R71＋本 R73 标注；结局原文照录不改。
+PRED exists: True
+
+================================================================================
+### LY-329  anon=P3-bf1806e6  in_r78=NO
+FLAG: 3. X4-9｜P3-bf1806e6｜结局语义含混、停业原因与盈亏未明载｜「果俗底伙计有事而止」
+FLAG: 2. Y4-9｜P3-bf1806e6｜结局仅十字、停业原因与盈亏未明（同 X4-9）
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language,notes
+OUTCOME: 果俗底伙计有事而止．
+CARRY[_r74_carryover_notes_addendum]: 同旨续接：自 R74 起承接 R72＋本 R73 标注；结局原文照录不改。
+CARRY[_r75_carryover_notes_addendum]: 同旨续接：自 R75 起承接 R73＋本 R74 标注；结局原文照录不改。
+PRED exists: True
+
+================================================================================
+### LY-322  anon=P3-c0bb7c54  in_r78=NO
+FLAG: 4. X4-13｜P3-c0bb7c54｜登记字段载卡面用神文字与盘面世应标记一处不合｜「卡面用神文字（应上巳火）与盘面世应标记（巳火临世）一处不合」
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language,notes
+OUTCOME: 果于丑日人事不知，寅日乃愈．
+CARRY[_r71_carryover_notes_addendum]: 同旨续接：自 R71 起承接 R69＋本 R70 标注；结局原文照录不改。
+CARRY[_r74_carryover_notes_addendum]: 同旨续接：自 R74 起承接 R70＋本 R73 标注；结局原文照录不改。
+PRED exists: True
+
+================================================================================
+### LY-525  anon=P3-c0f8d475  in_r78=NO
+FLAG: 5. X4-14｜P3-c0f8d475｜结局疑似截断｜「服之便醒﹐」
+FLAG: 3. Y4-14｜P3-c0f8d475｜结局逗号收尾疑似截断（同 X4-14）
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 服之便醒﹐
+CARRY[_r74_carryover_notes_addendum]: 同旨新立：自 R74 起承接本 R73 标注：按「结局以逗号收尾、疑似截断，服之便醒主结局明载」登记；结局原文照录不改。
+CARRY[_r75_carryover_notes_addendum]: 同旨续接：自 R75 起承接 R73＋本 R74 标注；结局原文照录不改。
+PRED exists: True
+
+================================================================================
+### LY-613  anon=P3-c11aa04f  in_r78=YES
+FLAG: 6. X4-15｜P3-c11aa04f｜登记字段载 prediction 爻位含占位字样｜「爻位处含「?」占位字样一处」
+CARD tradition: "六爻"
+CARD keys: id,tradition,subject,context,provenance,language,notes
+OUTCOME: 果於次日卯時生，母子平安，應卯時者，酉金與辰日相合。
+CARRY[_r75_carryover_notes_addendum]: 同旨续接：自 R75 起承接 R73＋本 R74 标注；结局原文照录不改。
+CARRY[_r76_carryover_notes_addendum]: 同旨续接：自 R76 起承接 R74＋本 R75 标注；结局原文照录不改。
+R78 disp=部分成立 rel=同旨续接（R74）
+R78 flag: X1：carry_note 指出 prediction 爻位处含「?」占位字样一处（主体断语完整可读），不影响核验
+PRED exists: True
+
+================================================================================
+### LR3-101  anon=P3-c1fdd9e4  in_r78=YES
+FLAG: 7. X4-18｜P3-c1fdd9e4｜结局关键信息未明载、中否仅间接对应｜「中否以补官间接对应、未明载」
+CARD keys: id,subject,context,provenance,language
+OUTCOME: 后补刑部主政，恬退不仕。同课旁载的代占会武中两名、占病死二人系一课多占的旁验，不属本例结局。
+STRIPPED_TAIL: 补刑部主政一节证其已中式入仕，与「必中」对应；「恬退不仕」与「居官未能远大」对应。
+CARRY[_r75_carryover_notes_addendum]: 同旨续接：自 R75 起承接 R73＋本 R74 标注；结局原文照录不改。
+CARRY[_r76_carryover_notes_addendum]: 同旨续接：自 R76 起承接 R74＋本 R75 标注；结局原文照录不改。
+R78 disp=部分成立 rel=同旨续接（R74）
+R78 flag: Y1：主问断面在结局中无独立记载——中否仅以补官间接对应
+PRED exists: True
+
+================================================================================
+### AS-209  anon=P3-c781d7e6  in_r78=NO
+FLAG: 8. X4-26｜P3-c781d7e6｜结局年份误印｜「14. of July 1443 [sic — misprint for 1643]」
+FLAG: 4. Y4-26｜P3-c781d7e6｜结局年份误印（同 X4-26）
+CARD tradition: "horary"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 'The truth is, he had Irish Forces came over, which much hardned the hearts of the English against him, but time cut them off... at the Siege of Nantwich, by valiant Fairfax'; 'The truth is, she met him about the 14. of July 1443 [sic — misprint for 1643] in Warwick-shire'; and at the April aspect, 'about Nottingham she lost some Forces'.
+CARRY[_r74_carryover_notes_addendum]: 同旨续接：自 R74 起承接 R72＋本 R73 标注；结局原文照录不改。
+CARRY[_r75_carryover_notes_addendum]: 同旨续接：自 R75 起承接 R73＋本 R74 标注；结局原文照录不改。
+PRED exists: True
+
+================================================================================
+### AS-215  anon=P3-c83473d4  in_r78=NO
+FLAG: 9. X4-30｜P3-c83473d4｜登记字段载结局引文句中途截断｜「结局引文句中途截断（主结局投降败局明载）」
+CARD tradition: "horary"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 'The issue is this (for I write to Posterity): he prospered in the beginning, and I was daily by men of good quality and of authority jeered at, and derided for my former prediction... But behold, the eighth of September following came sad news, that the second of September this worthy man had surrendered all his Ammunition to his Majesty, having onely Quarter for his Souldiers' — the Lostwithiel surrender, 2 September 1644.
+CARRY[_r74_carryover_notes_addendum]: 同旨续接：自 R74 起承接 R72＋本 R73 标注；结局原文照录不改。
+CARRY[_r75_carryover_notes_addendum]: 同旨续接：自 R75 起承接 R73＋本 R74 标注；结局原文照录不改。
+PRED exists: True
+
+================================================================================
+### AS-015  anon=P3-cb3c781a  in_r78=YES
+FLAG: 10. X4-35｜P3-cb3c781a｜结局关键断面缺失（夫存亡与归讯未载）｜「结局仅载问者本人死日，夫存亡与归讯未载」
+FLAG: 5. Y4-35｜P3-cb3c781a｜结局仅载问者本人死日、夫存亡与归讯未载（同 X4-35）
+CARD keys: id,source_id,subject,context,provenance,language
+OUTCOME: Confirmed in the text: 'in truth she died the eighth of October, upon which day Mars and [the other significator] were in the eighth degree...'.
+STRIPPED_TAIL:  — within days of the window Lilly had named
+CARRY[_r75_carryover_notes_addendum]: 同旨续接：自 R75 起承接 R73＋本 R74 标注；结局原文照录不改。
+CARRY[_r76_carryover_notes_addendum]: 同旨续接：自 R76 起承接 R74＋本 R75 标注；结局原文照录不改。
+R78 disp=部分成立 rel=同旨续接（R74）
+R78 flag: X3：结局仅载问者本人死日，夫存亡与归讯未载；Y3：同图兼断例，结局仅载问者本人死日，主断无从印证
+PRED exists: True
+
+================================================================================
+### LY-411  anon=P3-ce0448ee  in_r78=NO
+FLAG: 11. X4-41｜P3-ce0448ee｜结局疑似截断｜「後報升於巳月﹐」
+FLAG: 6. Y4-41｜P3-ce0448ee｜结局逗号收尾疑似截断（同 X4-41）
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 後報升於巳月﹐
+CARRY[_r74_carryover_notes_addendum]: 同旨续接：自 R74 起承接 R72＋本 R73 标注；结局原文照录不改。
+CARRY[_r75_carryover_notes_addendum]: 同旨续接：自 R75 起承接 R73＋本 R74 标注；结局原文照录不改。
+PRED exists: True
+
+================================================================================
+### LY-418  anon=P3-d4bb6c71  in_r78=YES
+FLAG: 12. X4-49｜P3-d4bb6c71｜结局疑似截断｜「卻得於辰土出空之日﹐」
+FLAG: 7. Y4-49｜P3-d4bb6c71｜结局逗号收尾疑似截断（同 X4-49）
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 卻得於辰土出空之日﹐
+CARRY[_r75_carryover_notes_addendum]: 同旨续接：自 R75 起承接 R73＋本 R74 标注；结局原文照录不改。
+CARRY[_r76_carryover_notes_addendum]: 同旨续接：自 R76 起承接 R74＋本 R75 标注；结局原文照录不改。
+R78 disp=部分成立 rel=同旨续接（R74）
+R78 flag: X3：结局疑似截断（以逗号收尾），carry_note 亦有同注
+PRED exists: True
+
+================================================================================
+### LY-514  anon=P3-d5f9c701  in_r78=NO
+FLAG: 13. X4-51｜P3-d5f9c701｜结局疑似截断｜「後此人屢次遇兵變﹐或避之﹐或有驚無險﹐」
+FLAG: 8. Y4-51｜P3-d5f9c701｜结局逗号收尾疑似截断（同 X4-51）
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 後此人屢次遇兵變﹐或避之﹐或有驚無險﹐
+CARRY[_r74_carryover_notes_addendum]: 同旨续接：自 R74 起承接 R71＋本 R73 标注；结局原文照录不改。
+CARRY[_r75_carryover_notes_addendum]: 同旨续接：自 R75 起承接 R73＋本 R74 标注；结局原文照录不改。
+PRED exists: True
+
+================================================================================
+### LY-516  anon=P3-d7138bc0  in_r78=YES
+FLAG: 14. X4-54｜P3-d7138bc0｜结局个案信息过薄、后半混入断法通则｜「果得眞定。又有以初爻爲內地」
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 果得眞定。又有以初爻爲內地﹐以五爻六爻爲邊缺。應初爻者﹐世與官星皆在初爻者是也。應五六爻者﹐或世在五爻﹐官在六爻﹔或世在六爻﹐官在五爻﹔戌土官星持世﹐同在五爻六爻是也。若在二三四爻以五行決之。
+CARRY[_r75_carryover_notes_addendum]: 同旨续接：自 R75 起承接 R73＋本 R74 标注；结局原文照录不改。
+CARRY[_r76_carryover_notes_addendum]: 同旨续接：自 R76 起承接 R74＋本 R75 标注；结局原文照录不改。
+R78 disp=部分成立 rel=同旨续接（R74）
+R78 flag: X4：合并登记结局尾句为应验解释层或断法通则混入之例（含 LY-516），只取个案事实层计分；Y4：一组结局后半混入断法通则或应验解释层之例（P3-db09fb3b），个案事实明载于前半
+PRED exists: True
+
+================================================================================
+### YM-030  anon=P3-d8c18ef5  in_r78=YES
+FLAG: 15. X4-56｜P3-d8c18ef5｜结局语义未明、胎终局判定存疑｜「败血三日后复完胎」
+FLAG: 9. Y4-56｜P3-d8c18ef5｜关键语义未明、胎终局判定存疑（同 X4-56）
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 败血三日后复完胎。
+CARRY[_r75_carryover_notes_addendum]: 同旨续接：自 R75 起承接 R73＋本 R74 标注；结局原文照录不改。
+CARRY[_r76_carryover_notes_addendum]: 同旨续接：自 R76 起承接 R74＋本 R75 标注；结局原文照录不改。
+R78 disp=部分成立 rel=同旨续接（R74）
+R78 flag: X4：carry 注明『复完胎』语义未明、胎终局判定存疑；Y4：结局「败血三日后复完胎」中「复完胎」语义未明，胎终局判定存疑（carry 已登记）
+PRED exists: True
+
+================================================================================
+### LY-408  anon=P3-d8e104f4  in_r78=NO
+FLAG: 16. X4-57｜P3-d8e104f4｜结局疑似截断｜「果卒於甲戌日﹐」
+FLAG: 10. Y4-57｜P3-d8e104f4｜结局逗号收尾疑似截断（同 X4-57）
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 果卒於甲戌日﹐
+CARRY[_r74_carryover_notes_addendum]: 同旨续接：自 R74 起承接 R72＋本 R73 标注；结局原文照录不改。
+CARRY[_r75_carryover_notes_addendum]: 同旨续接：自 R75 起承接 R73＋本 R74 标注；结局原文照录不改。
+PRED exists: True
+
+================================================================================
+### LY-504  anon=P3-d93dc6b2  in_r78=YES
+FLAG: 17. X4-58｜P3-d93dc6b2｜升迁结果未直接记载｜「升迁结果未直接记载、结局对应防刑狱断面」
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 及至三月將軍之侄因昔年因陳不前﹐都中有人報出行文拿問﹔
+CARRY[_r75_carryover_notes_addendum]: 同旨续接：自 R75 起承接 R73＋本 R74 标注；结局原文照录不改。
+CARRY[_r76_carryover_notes_addendum]: 同旨续接：自 R76 起承接 R74＋本 R75 标注；结局原文照录不改。
+R78 disp=部分成立 rel=同旨续接（R74）
+R78 flag: X1：outcome_record 记载对象为将军之侄被拿问，与 prediction 主问（本人升迁）断面错位，升迁结果未直接记载；Y1：结局对应防刑狱断面，主问断面无独立记载
+PRED exists: True
+
+================================================================================
+### YY-022  anon=P3-dba44652  in_r78=YES
+FLAG: 18. X4-62｜P3-dba44652｜总承式结局、断面未分载｜「后果然。」
+FLAG: 11. Y4-62｜P3-dba44652｜总承式结局、断面未分载（同 X4-62）
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 后果然。
+CARRY[_r74_carryover_notes_addendum]: 同旨续接：自 R74 起承接 R72＋本 R73 标注；结局原文照录不改。
+CARRY[_r76_carryover_notes_addendum]: 同旨续接：自 R76 起承接 R73＋本 R75 标注；结局原文照录不改。
+R78 disp=部分成立 rel=同旨续接（R73）
+R78 flag: X3：总承式结局、断面未分载——结局仅「后果然」；Y3：总承式结局（「后果然」），事件断面未分载
+PRED exists: True
+
+================================================================================
+### LY-440  anon=P3-dd379c37  in_r78=NO
+FLAG: 19. X4-64｜P3-dd379c37｜结局疑似截断｜「果於次日卯時﹐云開日出﹐」
+FLAG: 12. Y4-64｜P3-dd379c37｜结局逗号收尾疑似截断（同 X4-64）
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 果於次日卯時﹐云開日出﹐
+CARRY[_r74_carryover_notes_addendum]: 同旨新立：自 R74 起承接本 R73 标注：按「结局以逗号收尾、疑似截断，次日卯时云开日出主结局明载」登记；结局原文照录不改。
+CARRY[_r75_carryover_notes_addendum]: 同旨续接：自 R75 起承接 R73＋本 R74 标注；结局原文照录不改。
+PRED exists: True
+
+================================================================================
+### AS-304  anon=P3-df161887  in_r78=NO
+FLAG: 20. X4-66｜P3-df161887｜结局并载与本例关系未标的具名人物一节｜「Gopalakrishnan于选后公开承认错误并宣布暂停政治预测」
+CARD keys: id,subject,context,provenance,language
+OUTCOME: 特朗普以312张选举人票胜出，哈里斯得226票；Gopalakrishnan于选后公开承认错误并宣布暂停政治预测
+CARRY[_r74_carryover_notes_addendum]: 同旨续接：自 R74 起承接 R70＋本 R73 标注；结局原文照录不改。
+CARRY[_r75_carryover_notes_addendum]: 同旨续接：自 R75 起承接 R73＋本 R74 标注；结局原文照录不改。
+PRED exists: True
+
+================================================================================
+### LY-255  anon=P3-e1e00012  in_r78=NO
+FLAG: 21. X4-72｜P3-e1e00012｜结局断面缺失（修沟面未载）｜「升任有载、是否修沟与沟流宜否未载」
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 後於申年升任﹐應申年者﹐值官之年也。
+CARRY[_r72_carryover_notes_addendum]: 同旨续接：自 R72 起承接 R70＋本 R71 标注；结局原文照录不改。
+CARRY[_r74_carryover_notes_addendum]: 同旨续接：自 R74 起承接 R71＋本 R73 标注；结局原文照录不改。
+PRED exists: True
+
+================================================================================
+### LR2-016  anon=P3-e1efe67f  in_r78=NO
+FLAG: 22. X4-73｜P3-e1efe67f｜editor_note 载细项未逐字复核｜「原文未逐字复核「甲戌日巳时」的日时细节」
+FLAG: 13. Y4-73｜P3-e1efe67f｜editor_note 称细项未逐字复核（同 X4-73）
+CARD keys: id,subject,context,provenance,language
+OUTCOME: 众不然其说，三月冯大司寇上疏，旨意驳下，四月上疏，依拟脱离。
+STRIPPED_TAIL: 三月驳、四月脱离与断语对应；
+CARRY[_r74_carryover_notes_addendum]: 同旨续接：自 R74 起承接 R72＋本 R73 标注；结局原文照录不改。
+CARRY[_r75_carryover_notes_addendum]: 同旨续接：自 R75 起承接 R73＋本 R74 标注；结局原文照录不改。
+PRED exists: True
+
+================================================================================
+### AS-008  anon=P3-e2266e22  in_r78=YES
+FLAG: 23. X4-75｜P3-e2266e22｜结局年份史实与 OCR 歧异｜「1643 historically; OCR prints 1644」
+FLAG: 14. Y4-75｜P3-e2266e22｜年份 1643 与 OCR 1644 之歧（同 X4-75）
+CARD tradition: "horary"
+CARD keys: uid,tradition,subject,context,provenance
+OUTCOME: Confirmed in the text: 'The Town was delivered for the Parliament's use the 27th of April... three days after the time limited by me was expired; but the very Monday before, being eight days after the Figure set, they began to treat.' Lilly adds the King's relief was beaten back at Caversham Bridge, the Governor (Aston) was hurt in the head (as Saturn in Pisces(?) afflicted by Mars denoted), and they did not want ammunition, as Venus in the 5th signified. See the year flag in inputs (1643 historically; OCR prints 1644).
+CARRY[_r74_carryover_notes_addendum]: 同旨续接：自 R74 起承接 R71＋本 R73 标注；结局原文照录不改。
+CARRY[_r76_carryover_notes_addendum]: 同旨续接：自 R76 起承接 R73＋本 R75 标注；结局原文照录不改。
+R78 disp=部分成立 rel=同旨续接（R73）
+R78 flag: X3：结局自注年份歧（史实 1643 与 OCR 1644）
+PRED exists: True
+
+================================================================================
+### LY-428  anon=P3-e2fed49b  in_r78=NO
+FLAG: 24. X4-76｜P3-e2fed49b｜结局疑似截断｜「卽於壬寅日得差﹐次年三月死於中途﹐」
+FLAG: 15. Y4-76｜P3-e2fed49b｜结局逗号收尾疑似截断（同 X4-76）
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 卽於壬寅日得差﹐次年三月死於中途﹐
+CARRY[_r74_carryover_notes_addendum]: 同旨新立：自 R74 起承接本 R73 标注：按「结局以逗号收尾、疑似截断，得差与死于中途两段明载」登记；结局原文照录不改。
+CARRY[_r75_carryover_notes_addendum]: 同旨续接：自 R75 起承接 R73＋本 R74 标注；结局原文照录不改。
+PRED exists: True
+
+================================================================================
+### LY-620  anon=P3-e5a84cbd  in_r78=NO
+FLAG: 16. Y4-85｜P3-e5a84cbd｜结局与所问功名断面无直接对应、仅载削职后终｜「果於削職後七月而終。」
+CARD tradition: "六爻"
+CARD keys: id,tradition,subject,context,provenance,language,notes
+OUTCOME: 果於削職後七月而終。
+CARRY[_r73_carryover_notes_addendum]: 同例新旨：自 R73 起承接本 R72 标注：按「卡面未列逐爻装卦表、动爻为复原，残损已于卡面明载、prediction 自注降级」登记；结局原文照录不改。
+CARRY[_r74_carryover_notes_addendum]: 同旨续接：自 R74 起承接 R72＋本 R73 标注；结局原文照录不改。
+PRED exists: True
+
+================================================================================
+### LR3-112  anon=P3-ed10ed05  in_r78=YES
+FLAG: 25. X4-91｜P3-ed10ed05｜病面结局缺位、部分细项未逐项复核｜「病断（甲戌年不保）原文未载后续结局」
+FLAG: 17. Y4-91｜P3-ed10ed05｜病面结局缺位、结局仅载贼事（同 X4-91，别一面）
+CARD keys: id,subject,context,provenance,language
+OUTCOME: 果后三月一贼入室，刘复来言及。后贼果被获，及询其姓名，则陈忠也（年少、独行、告官三日获等细项原文未逐项复核）。病断（甲戌年不保）原文未载后续结局。
+CARRY[_r75_carryover_notes_addendum]: 同旨续接：自 R75 起承接 R73＋本 R74 标注；结局原文照录不改。
+CARRY[_r76_carryover_notes_addendum]: 同旨续接：自 R76 起承接 R74＋本 R75 标注；结局原文照录不改。
+R78 disp=部分成立 rel=同旨续接（R74）
+R78 flag: X2：prediction 只断刘一纯之病可愈，outcome_record 主体载贼入室被获（陈忠）等节，病面结局缺位（结局内已自注病断后续未载）；Y2：outcome_record 主载贼入室被获一节，所占病面结局缺位（原文自注病断后续未载）
+PRED exists: True
+
+================================================================================
+### LY-205  anon=P3-eeff0dc1  in_r78=YES
+FLAG: 26. X4-93｜P3-eeff0dc1｜断面缺失（财面未载）｜「禄面有载、财面未载」
+FLAG: 18. Y4-93｜P3-eeff0dc1｜禄面有载、财面未载（同 X4-93）
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 果於午年保舉﹐𨿽非科甲﹐身爲科裏之官﹐此豈可謂父母持身辛勤勞碌耶﹖
+CARRY[_r74_carryover_notes_addendum]: 同旨续接：自 R74 起承接 R72＋本 R73 标注；结局原文照录不改。
+CARRY[_r76_carryover_notes_addendum]: 同旨续接：自 R76 起承接 R73＋本 R75 标注；结局原文照录不改。
+R78 disp=部分成立 rel=同旨续接（R73）
+R78 flag: X4：carry 注明禄面有载、财面未载，prediction 为求财断、结局载午年保举得官，两面错位；Y4：结局禄面有载、财面未载，与预测断面错位
+PRED exists: True
+
+================================================================================
+### LY-628  anon=P3-f33f57be  in_r78=YES
+FLAG: 27. X4-101｜P3-f33f57be｜登记字段载结局受杖责主体未明字｜「结局受杖责主体未明字、胜负方向读法受影响」
+FLAG: 19. Y4-101｜P3-f33f57be｜受杖责主体未明字（同 X4-101）
+CARD tradition: "六爻"
+CARD keys: id,tradition,subject,context,provenance,language,notes
+OUTCOME: 果被杖責，此應日克月破故耳．
+CARRY[_r75_carryover_notes_addendum]: 同旨续接：自 R75 起承接 R73＋本 R74 标注；结局原文照录不改。
+CARRY[_r76_carryover_notes_addendum]: 同旨续接：自 R76 起承接 R74＋本 R75 标注；结局原文照录不改。
+R78 disp=部分成立 rel=同旨续接（R74）
+R78 flag: X4：carry（R73 新旨）注明结局受杖责主体未明字、胜负方向读法受影响；Y4：结局「果被杖责」受责主体未明字，胜负方向读法受影响（carry R73 新旨已登记）
+PRED exists: True
+
+================================================================================
+### LY-445  anon=P3-fb9becc6  in_r78=YES
+FLAG: 28. X4-112｜P3-fb9becc6｜结局信息缺失（亥日未载、机理子断无从核验）｜「结局仅一句干支日记录、亥日未载」
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 果於寅日云卯日大雨辰日大晴。
+CARRY[_r74_carryover_notes_addendum]: 同旨续接：自 R74 起承接 R72＋本 R73 标注；结局原文照录不改。
+CARRY[_r76_carryover_notes_addendum]: 同旨续接：自 R76 起承接 R73＋本 R75 标注；结局原文照录不改。
+R78 disp=部分成立 rel=同旨续接（R73）
+R78 flag: X3：结局仅干支日记录——亥日未载、机理类子断语无从逐条核验（carry_note 已注）
+PRED exists: True
+
+================================================================================
+### LY-513  anon=P3-fd648088  in_r78=YES
+FLAG: 29. X4-115｜P3-fd648088｜间接验证例、功名断语无对应结局事件｜「结局仅记病终，终身功名断语无对应结局事件」
+FLAG: 20. Y4-115｜P3-fd648088｜结局仅记病终、终身功名断语无对应事件（同 X4-115）
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 至子年得病﹐丑年得蠱病而終。
+CARRY[_r56_carryover_notes]: 承接 R49＋R53＋R54 标注，供建包／评审提示沿用：间接验证例——结局仅记病终，终身功名断语无对应结局事件。结局原文照录不改。
+R78 disp=成立 rel=同旨续接（R73）
+R78 flag: X1：间接验证例——结局仅记病终，prediction 的终身功名断语无对应结局事件可核；Y1：功名断语无对应结局事件，主问断面无独立记载
+PRED exists: True
+
+================================================================================
+### LY-206  anon=P3-fde11737  in_r78=YES
+FLAG: 30. X4-116｜P3-fde11737｜结局仅载死亡断面、所问财福面无对应记录｜「结局仅载死亡断面（防不测断面），所问终身财福面无对应记录」
+FLAG: 21. Y4-116｜P3-fde11737｜结局仅载死亡断面、所问终身财福面无对应记录（同 X4-116）
+CARD tradition: "liuyao"
+CARD keys: id,tradition,subject,context,provenance,language
+OUTCOME: 果至巳月而生惡瘡﹐卒於酉月。
+CARRY[_r56_carryover_notes]: 承接 R49＋R53＋R54 标注，附注断面类型：结局仅载死亡断面（防不测断面），所问终身财福面无对应记录；避免评审再以财福无对应重复立旗。结局原文照录不改。
+CARRY[_r57_carryover_notes_addendum]: 自 R56 起承接 R49＋R53＋R54＋本 R55 标注，manifest 附注断面类型（结局仅载死亡断面）；结局原文照录不改。
+R78 disp=成立 rel=同旨续接（R74）
+R78 flag: Y2：outcome_record 仅载死亡断面（巳月生疮、酉月卒），所问终身财福面无对应记录，carry_note 已多轮标注此断面缺位
+PRED exists: True

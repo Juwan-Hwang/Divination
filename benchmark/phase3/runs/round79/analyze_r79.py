@@ -22,7 +22,7 @@ Segment definitions verbatim from analyze_r39/r40 (host-meta
 traditions: 'bazi' = BZ 29, '八字' = natal 26, dev8 subsets via
 master-baseline-dev8; liuren family = traditions 'liuren' + '六壬').
 Side reads: bazi-all / bazi-natal timing sub-item means R79 vs R79
-(R77 baseline taken from runs/round79/final-scores.json side-read
+(R78 baseline taken from runs/round78/final-scores.json side-read
 values; no other-round judging/predictions opened), overlay-16 mean
 pair diff, trigger counts recomputed from runs/round79/predictions/,
 double-view |Delta| distribution, mengzhan chapter variable footprint
@@ -40,7 +40,7 @@ from pathlib import Path
 
 P3 = Path('benchmark/phase3')
 R79D = P3 / 'runs/round79'
-PREV_FINAL = P3 / 'runs/round79/final-scores.json'
+PREV_FINAL = P3 / 'runs/round78/final-scores.json'
 JD = R79D / 'judging'
 
 
@@ -231,9 +231,9 @@ lr_guard_fact = lr_merged['pair_diff'] < -2.550
 print('bazi all:', g_bazi['pair_diff'], '< -0.816 -> BZ-FY falsified:', bz_guard_fail)
 print('liuren merged:', lr_merged['pair_diff'], '< -2.550 -> liuren continued-deterioration fact:', lr_guard_fact)
 
-print('\n== 9. side reads: bazi timing movement R79 -> R79 ==')
+print('\n== 9. side reads: bazi timing movement R78 -> R79 ==')
 prev_final = json.load(open(PREV_FINAL))
-prev_timing = prev_final['analysis_r79']['appendix']['bazi_timing_side_read_vs_r77']
+prev_timing = prev_final['analysis_r78']['appendix']['bazi_timing_side_read_vs_r77']
 timing_reads = {}
 for label, ids in (('bazi-all(29)', by_trad('bazi')), ('bazi-natal(26)', by_trad('八字'))):
     t77 = sum(ours_sub[c]['timing'] for c in ids) / len(ids)

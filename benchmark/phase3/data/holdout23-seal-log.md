@@ -170,3 +170,7 @@
 ## §九 开封验封结论（R79，平台全立当轮开封）
 
 R79 平台三项全立（(a) −1.063／(b) 四护栏全立／(c) −1.634，熔断未触；全立计数 26），照 R79 PREREG §2 与本日志 §八.5 写死条件当轮开封。前置复验三项全过：① 金标 SHA-256 主持独立 sha256sum 复测＝b31afb4e59da75e89be5353d9405554cd3b449563a84b42e76b29ad4fbab60ad，与 §八.4 定版逐字全等；② 输入卡 27 张逐件在盘、构成与 §八.3 更新表一致；③ 主持第三道复扫（runs/round79/acceptance_rescan_h23_host_r79.py，标记集承 R42 PREREG §5）零命中（承 §四第三道留位）。开封执行记录见 runs/round79/acceptance/OPENING.md；验收结论另记 runs/round79/acceptance/REPORT.md 并于本日志续记标已用（未达标时）或收官（达标时）。
+
+## §十 已用标记（R79 验收未达标）
+
+R79 开封验收结论**未达标**（runs/round79/acceptance/judging/final-scores.json，主持 analyze 复算）：主口径（n＝27 全 low）我方均分 3.870、大师均分 4.741、配对差 −0.870（SE 0.498）、配对 W/T/L 8/1/18；三判据 (i)(ii)(iii) 全否；双视最大分差双侧各 2、无分歧无仲裁。分段：奇门 −2.700（n＝10，0/1/9）、六爻 GSZ −1.600（n＝5）、八字 DS −0.583（n＝6）、测字 ＋2.500（n＝6，6/0/0）。本集自此**标已用**（已用并集 1031→1058），不得再作留出验收。E3/E4/E5 诊断见 runs/round79/acceptance/DIAG-H23.md（只作聚合轨迹登记；本集快照锚定 R78-REV1 集成前，**不执行 R78-REV1 判读**，判读集为 holdout24）。验收全程记录见 runs/round79/acceptance/REPORT.md。链条续行 R80。
