@@ -40,7 +40,7 @@ from pathlib import Path
 
 P3 = Path('benchmark/phase3')
 R94D = P3 / 'runs/round94'
-PREV_FINAL = P3 / 'runs/round94/final-scores.json'
+PREV_FINAL = P3 / 'runs/round93/final-scores.json'
 JD = R94D / 'judging'
 
 
@@ -231,7 +231,7 @@ lr_guard_fact = lr_merged['pair_diff'] < -2.550
 print('bazi all:', g_bazi['pair_diff'], '< -0.816 -> BZ-FY falsified:', bz_guard_fail)
 print('liuren merged:', lr_merged['pair_diff'], '< -2.550 -> liuren continued-deterioration fact:', lr_guard_fact)
 
-print('\n== 9. side reads: bazi timing movement R94 -> R94 ==')
+print('\n== 9. side reads: bazi timing movement R93 -> R94 ==')
 prev_final = json.load(open(PREV_FINAL))
 prev_timing = prev_final['analysis_r93']['appendix']['bazi_timing_side_read_vs_r92']
 timing_reads = {}
@@ -240,7 +240,7 @@ for label, ids in (('bazi-all(29)', by_trad('bazi')), ('bazi-natal(26)', by_trad
     t76v = prev_timing[label]['timing_mean_r93']
     timing_reads[label] = {'timing_mean_r94': round(t77, 3), 'timing_mean_r93': round(t76v, 3),
                            'delta': round(t77 - t76v, 3), 'n': len(ids)}
-    print(f'{label}: timing mean R94 {t77:.3f} vs R94 {t76v:.3f} | delta {t77 - t76v:+.3f}')
+    print(f'{label}: timing mean R94 {t77:.3f} vs R93 {t76v:.3f} | delta {t77 - t76v:+.3f}')
 
 print('\n== 9b. side read: mengzhan chapter variable footprint (R49 s.9b mechanism) ==')
 mz_cases = []
