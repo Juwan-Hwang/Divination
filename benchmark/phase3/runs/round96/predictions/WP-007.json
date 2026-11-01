@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-007",
+ "prediction_text": "特朗普胜，决定因素是克林顿的电邮门丑闻：竞选尾声由电邮争议（连同基金会争议）给予克林顿决定性打击，特朗普险胜入主白宫。应期点在大选日2016年11月8日，决定性冲击落在竞选最后两周内。",
+ "basis": "tradition: No tradition/system field on the card; by genre (a tarot reader consulted in Union Square, August 2016) decided as western tarot (Waite tradition).\nsystems_used: tarot (Waite) — with a recorded input defect\nInput defect, stated plainly: the card records that cards were drawn but does not record which cards — no spread, positions or card identities are given. A Waite reading cannot be reconstructed from absent cards, and no card is invented here; confidence is therefore cut to the floor for a card-based case. What the card does fix as facts: Clinton leads most August polls; her email controversy and the Clinton Foundation are already public controversies, and the question itself asks 'what will decide it'. Reading only what is given: the deciding variable named by the question's own frame is the email controversy — a scandal-line that strikes the frontrunner late, which is the standard shape of an upset decided by revelation rather than by campaigning. Direction follows that line: Trump wins narrowly, decided by the email scandal's late impact. Object check: verdict lands on the winner and the deciding factor, the two objects asked.\n第八节功量核 — 功量清单：助成线（主特朗普险胜）①email controversy already public and framed by the question as the deciding variable (source: setting fact; object: outcome; direction: anti-frontrunner; state: live controversy at asking time); 压制线①Clinton leads most August polls (direction: suppressing; state: consistent lead); 压制线②the evidential base itself is defective — drawn cards unrecorded (direction: suppressing certainty, not direction; state: input defect). Band set at a narrow Trump win only, with confidence floored at 0.3 on the stated defect.\n主线认定：The email-scandal line is the working main line (the only case-specific factor the card supplies that acts directly on the outcome); it is a degraded main line, held at low confidence because the card evidence is missing.",
+ "confidence": 0.3,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

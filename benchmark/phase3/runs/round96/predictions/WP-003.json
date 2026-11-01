@@ -1,0 +1,12 @@
+{
+ "case_id": "WP-003",
+ "prediction_text": "奥巴马连任：现任总统奥巴马在2012年11月6日大选中击败罗姆尼，成功连任。选举日水星逆行开启，主计票迟滞与程序争议，但结果不翻盘、无须重计易主。",
+ "basis": "tradition: The card carries no tradition field; by genre (a May 2012 election forecast report) decided as western astrology.\nsystems_used: western astrology\nIndicator chain: The salient dated factor in the setting is Mercury retrograde beginning on Election Day, 6 November 2012 — a signature of procedural confusion, delayed counts and disputed paperwork, but Mercury retrograde disrupts process, not incumbency itself; no configuration in the given material displaces the sitting president. Obama is the incumbent with the structural advantage of office; Romney is only the presumptive challenger in a competitive race. Direction: incumbent retained; Mercury retrograde is read at process level (delays, recount talk) and explicitly not upgraded into a change of winner. Object: the election winner, as asked.\n第八节功量核 — 功量清单：助成线（主奥巴马连任）①incumbency structure — sitting president seeking re-election with no displacing configuration given (object: outcome; direction: pro-incumbent; state: structural); 压制线①Mercury retrograde from Election Day (direction: suppressing; state: dated and exact — but its action is on process, not on the winner's identity); 压制线②competitive polling (direction: suppressing; state: background fact). Suppression lines affect margin and smoothness only; band set at 'Obama wins, with counting delays/controversy', not at an upset.\n主线认定：The incumbency line is the working main line (directly on the outcome object); Mercury retrograde is a secondary line confined to process, with stated grounds for not letting it override the main line.",
+ "confidence": 0.55,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}
