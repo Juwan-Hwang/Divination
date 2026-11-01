@@ -1,0 +1,51 @@
+{
+ "want": 487,
+ "files": 487,
+ "missing": [],
+ "extra": [],
+ "bad": [],
+ "trigger_counts": {
+  "changed_main": 52,
+  "reserve_used": 69,
+  "disputed": 70
+ },
+ "trigger_reasons_nonempty": 307,
+ "tradition_flag_candidates": [
+  {
+   "case_id": "AS-301",
+   "kind": "card_has_field_but_first_line_unmarked",
+   "card_tradition": "astrology",
+   "card_system": null,
+   "first_line": "卡面 tradition 字段逐字照录：astrology；卡面未标注 system 字段，体系按卡面 tradition 自决为西洋世运占星（mundane astrology）。"
+  },
+  {
+   "case_id": "AS-307",
+   "kind": "card_has_field_but_first_line_unmarked",
+   "card_tradition": "astrology",
+   "card_system": null,
+   "first_line": "卡面 tradition 字段逐字照录：astrology；卡面未标注 system 字段，体系按卡面 tradition 自决为西洋选举/世运占星（electional-mundane astrology）。"
+  },
+  {
+   "case_id": "BZ-021",
+   "kind": "card_no_field_but_first_line_claims_card_value",
+   "card_tradition": null,
+   "card_system": null,
+   "first_line": "卡面未标注 tradition 字段，按题面体裁自决（八字）——丁亥 庚戌 己巳 庚午，大运序列照卡面所载起运标法逐段用"
+  },
+  {
+   "case_id": "LY-036",
+   "kind": "card_has_field_but_first_line_unmarked",
+   "card_tradition": null,
+   "card_system": "liuyao",
+   "first_line": "卡面未标注 tradition 字段，按题面体裁自决；卡面 system 字段逐字照录：liuyao。"
+  },
+  {
+   "case_id": "LY-221",
+   "kind": "card_has_field_but_first_line_unmarked",
+   "card_tradition": "liuyao",
+   "card_system": null,
+   "first_line": "卡面 tradition＝liuyao（逐字照录）。占夫妻偕老否，巳月丁未日（甲辰旬空寅卯）。卡面未载求测者性别，男占女占无从分判——用神并列两路：世爻四爻子孙午火（己方）、应爻初爻父母子水（对方），配偶之亲妻财三现（六爻戌土、三爻辰土、两动化未土）以化神未土为应验位；应验对象：世栏落求测者本人、应栏落配偶，分开写。世午火巳月旺、未日泄，动化未土：火生土泄气，午未六合，化神即配偶财土。应子水巳月囚、未日土克，动化未土：土克水为回头克——对方一栏受损。动化方向逐对核：午→未土：被生（本爻生化神，泄）；未土→子水：克（回头克），复核无误。裁决表：世应俱动化同神未土且午未合，合象在婚占按类别读法优先作情合读；应化回头克只压对方健康量级，不翻情合方向（反转条件：非源绝、非用神化绝，不成立）。四路合参：财（配偶象）土巳月相、未日临值扶＋／世应计（兼彼此之事）：应动化回头克−于对方量级、世应化合同神＋于情分→终局偕老向、对方体弱作量级注。第八节功量核标目：做功线——世午火动化未土合（助成情合，发动旺相）、应子水化未回头克（压制对方，动而囚弱）、财土临日值（助成配偶象）；主线认定：世应俱化未土相合一线居首；定带：偕老中上带、对方健康下带。应期三路：冲实（冲午者子，与对方受克路同向不取为偕老应舍）／填实（空寅卯无关舍）／逢值（未土化神逢值）取一舍二。对表无偕老门类（婚姻门为成期对位，与本问不合），明写「对表无此门类」。输入残损注记：卡面未载性别，配偶用神只能世应并列，置信下调。"
+  }
+ ],
+ "claim_group_candidates": []
+}
