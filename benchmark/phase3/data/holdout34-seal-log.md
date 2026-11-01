@@ -92,3 +92,10 @@
 - 本轮脚本均新写于 `runs/round93/` 内唯一名（precheck_h34_r93.py、fix_gold_h34_r93.py、seal_h34_r93.py、scan_h34_r93.py 及各建卡席脚本），grep 残留 h33/r89 字面量逐处查毕（仅注释中体例出处提及，无路径/构成残留）；页图只入 `runs/round93/` 内新目录（lr-pages-h34-seat、why-pages-h34-seat、xzs-pages-h34-seat、zj-pages-h34-seat）；未用 /tmp；未用通配删除；未读 `runs/round93/predictions` 与 judging 分数件；未做 git。
 - 构建报告：`runs/round93/holdout34-build-report-r93.json`。
 - 主持验封（R93 主持，2026-10-31）：盘上复算全合——inputs 29 卡 id 集与 PREREG-ADDENDUM-r93 构成逐 id 全等、字段白名单 29/29 键集与键序合；金标 29 行、字段序 29/29 合、pollution=low 29/29、redistributable=false 29/29；金标 SHA-256 主持直算 530ab1250dfd6b57931d4d9e07ca1b3cbf8d566edf98fa4cfd85f792a66d54b0，与封存脚本及构建报告双读一致；限度复算：T=29、紫微 41.4%、六壬 44.8%、六爻 13.8%、单源最大 DA 24.1%、非夷坚 29、非六爻 25，全合；快照与 runs/round93/kb-snapshot 主持 diff 零差异。WHY-112 结局年份从原书（二〇〇一年）之处置**主持追认**：金标以原书为准、台账转录误差登记入数据流水待核（见 R93 数据议程）。**holdout34 封存成立**，开封条件照 §8 与 PREREG-ADDENDUM-r93 §4（封存后首个平台全立轮、最早 R94）。
+
+## 十三、开封追记（R94 主持，2026-11-01）
+
+- 开封轮：R94（封存后首个平台全立轮：(a) −0.918、(b) 四护栏全过、(c) −1.547，全立计 40）。开封前置复验四项全过（金标 SHA 三读一致 530ab125…d54b0、inputs 29 id 与 §一逐 id 全等、快照 diff 零差异、输入卡白名单复扫违规 0），登记于 `runs/round94/acceptance/FREEZE-h34.md`。
+- 验收结果：**未达标**。我方均分 3.603 vs 大师 5.397，配对差 **−1.793**（SE 0.314），W/T/L 2/4/23；第二版三判据（R42 PREREG §8）①②③全不成立（主口径 low 29 全集与封存口径同值）。分段：紫微 −1.083、六壬 −2.538（DA −3.643／BY −1.250）、WHY −1.500。双视争议 0、无仲裁。明细在 `runs/round94/acceptance/judging/final-scores-h34.json` 与 R94 REPORT。
+- 附读：验收面第八节明引率 29/29＝100%（h33 验收面为 3.6%），执行缺口堵上而总差未实质收窄（历集口径：h31 −1.652、h32 −1.929、h33 −1.982、本集 −1.793，构成不同只作并列登记）。
+- 本集自此标已用，纳入已用并集（1333 不变——封存时已计入；开封不新增 id）。后续诊断 DIAG-H34 与修订裁定见 R94 REPORT/ADDENDUM。

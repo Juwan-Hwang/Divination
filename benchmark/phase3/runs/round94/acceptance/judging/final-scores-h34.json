@@ -1,0 +1,372 @@
+{
+ "ours": {
+  "BY-047": 1.0,
+  "BY-048": 5.0,
+  "BY-049": 4.0,
+  "BY-050": 5.0,
+  "BY-051": 4.5,
+  "BY-053": 3.0,
+  "DA-075": 3.0,
+  "DA-076": 1.5,
+  "DA-077": 1.0,
+  "DA-078": 5.0,
+  "DA-079": 1.0,
+  "DA-080": 0.0,
+  "DA-081": 4.5,
+  "WHY-111": 3.5,
+  "WHY-112": 4.0,
+  "WHY-114": 3.0,
+  "WHY-115": 5.0,
+  "ZW-017": 3.0,
+  "ZW-018": 5.0,
+  "ZW-019": 2.0,
+  "ZW-020": 5.0,
+  "ZW-021": 3.5,
+  "ZW-022": 4.0,
+  "ZW-023": 5.0,
+  "ZW-028": 4.0,
+  "ZW-029": 6.0,
+  "ZW-030": 3.0,
+  "ZW-031": 4.5,
+  "ZW-032": 5.5
+ },
+ "master": {
+  "BY-047": 4.5,
+  "BY-048": 6.0,
+  "BY-049": 6.0,
+  "BY-050": 5.0,
+  "BY-051": 4.0,
+  "BY-053": 4.5,
+  "DA-075": 6.0,
+  "DA-076": 6.0,
+  "DA-077": 6.0,
+  "DA-078": 6.0,
+  "DA-079": 6.0,
+  "DA-080": 6.0,
+  "DA-081": 5.5,
+  "WHY-111": 5.0,
+  "WHY-112": 5.5,
+  "WHY-114": 5.0,
+  "WHY-115": 6.0,
+  "ZW-017": 5.0,
+  "ZW-018": 6.0,
+  "ZW-019": 5.0,
+  "ZW-020": 6.0,
+  "ZW-021": 6.0,
+  "ZW-022": 5.0,
+  "ZW-023": 5.0,
+  "ZW-028": 3.5,
+  "ZW-029": 6.0,
+  "ZW-030": 4.5,
+  "ZW-031": 6.0,
+  "ZW-032": 5.5
+ },
+ "main_caliber_low29": {
+  "n": 29,
+  "ours_mean": 3.603,
+  "master_mean": 5.397,
+  "pair_diff": -1.793,
+  "SE": 0.314,
+  "W/T/L": "2/4/23",
+  "criteria": {
+   "(i) ours_mean > master_mean": false,
+   "(ii) paired W > L": false,
+   "(iii) diff > 0": false
+  },
+  "PASS": false
+ },
+ "sealed_caliber_full29": {
+  "n": 29,
+  "ours_mean": 3.603,
+  "master_mean": 5.397,
+  "pair_diff": -1.793,
+  "SE": 0.314,
+  "W/T/L": "2/4/23",
+  "criteria": {
+   "(i) ours_mean > master_mean": false,
+   "(ii) paired W > L": false,
+   "(iii) diff > 0": false
+  },
+  "PASS": false
+ },
+ "side_note_diff_over_SE_main": -5.71,
+ "side_note_h17_style_SE_gate_would_hold": false,
+ "segments": {
+  "ziwei_all": {
+   "n": 12,
+   "ours_mean": 4.208,
+   "master_mean": 5.292,
+   "pair_diff": -1.083,
+   "SE": 0.313,
+   "W/T/L": "1/3/8"
+  },
+  "liuren_DA": {
+   "n": 7,
+   "ours_mean": 2.286,
+   "master_mean": 5.929,
+   "pair_diff": -3.643,
+   "SE": 0.762,
+   "W/T/L": "0/0/7"
+  },
+  "liuren_BY": {
+   "n": 6,
+   "ours_mean": 3.75,
+   "master_mean": 5.0,
+   "pair_diff": -1.25,
+   "SE": 0.588,
+   "W/T/L": "1/1/4"
+  },
+  "liuren_all": {
+   "n": 13,
+   "ours_mean": 2.962,
+   "master_mean": 5.5,
+   "pair_diff": -2.538,
+   "SE": 0.584,
+   "W/T/L": "1/1/11"
+  },
+  "liuyao_WHY": {
+   "n": 4,
+   "ours_mean": 3.875,
+   "master_mean": 5.375,
+   "pair_diff": -1.5,
+   "SE": 0.204,
+   "W/T/L": "0/0/4"
+  },
+  "liuyao_all": {
+   "n": 4,
+   "ours_mean": 3.875,
+   "master_mean": 5.375,
+   "pair_diff": -1.5,
+   "SE": 0.204,
+   "W/T/L": "0/0/4"
+  },
+  "non_liuren": {
+   "n": 16,
+   "ours_mean": 4.125,
+   "master_mean": 5.312,
+   "pair_diff": -1.188,
+   "SE": 0.241,
+   "W/T/L": "1/3/12"
+  },
+  "non_liuyao": {
+   "n": 25,
+   "ours_mean": 3.56,
+   "master_mean": 5.4,
+   "pair_diff": -1.84,
+   "SE": 0.364,
+   "W/T/L": "2/4/19"
+  },
+  "non_ziwei": {
+   "n": 17,
+   "ours_mean": 3.176,
+   "master_mean": 5.471,
+   "pair_diff": -2.294,
+   "SE": 0.458,
+   "W/T/L": "1/1/15"
+  }
+ },
+ "per_tradition": {
+  "liuren": {
+   "n": 13,
+   "ours_mean": 2.962,
+   "master_mean": 5.5,
+   "pair_diff": -2.538,
+   "SE": 0.584,
+   "W/T/L": "1/1/11"
+  },
+  "liuyao": {
+   "n": 4,
+   "ours_mean": 3.875,
+   "master_mean": 5.375,
+   "pair_diff": -1.5,
+   "SE": 0.204,
+   "W/T/L": "0/0/4"
+  },
+  "ziwei": {
+   "n": 12,
+   "ours_mean": 4.208,
+   "master_mean": 5.292,
+   "pair_diff": -1.083,
+   "SE": 0.313,
+   "W/T/L": "1/3/8"
+  }
+ },
+ "qimen_direction_attached_read": {
+  "caliber": "not applicable: holdout34 contains no qimen cases",
+  "n_qimen": 0,
+  "count_direction_mean_below_1p75": 0,
+  "per_case_direction_mean": {}
+ },
+ "cz_qx_guardrail": {
+  "settled": false,
+  "note": "holdout34 contains no cezi cases (composition ziwei/liuren/WHY); CZ-QX same-tier count stays 16 (settled at R76)."
+ },
+ "low_pollution": {
+  "gold_file": "benchmark/phase3/holdout34/test_gold.jsonl",
+  "contamination_field": "pollution",
+  "sealed_contamination_counts": {
+   "low": 29
+  },
+  "grade_counts": {
+   "A-low": 25,
+   "A": 4
+  },
+  "host_mid_override": {},
+  "main_low_n": 29,
+  "sealed_low_n": 29,
+  "excluded_from_main": []
+ },
+ "max_abs_view_diff": {
+  "ours": 2,
+  "master": 1
+ },
+ "disputes_ours": [],
+ "disputes_master": [],
+ "per_case": {
+  "BY-047": {
+   "ours": 1.0,
+   "master": 4.5,
+   "diff": -3.5
+  },
+  "BY-048": {
+   "ours": 5.0,
+   "master": 6.0,
+   "diff": -1.0
+  },
+  "BY-049": {
+   "ours": 4.0,
+   "master": 6.0,
+   "diff": -2.0
+  },
+  "BY-050": {
+   "ours": 5.0,
+   "master": 5.0,
+   "diff": 0.0
+  },
+  "BY-051": {
+   "ours": 4.5,
+   "master": 4.0,
+   "diff": 0.5
+  },
+  "BY-053": {
+   "ours": 3.0,
+   "master": 4.5,
+   "diff": -1.5
+  },
+  "DA-075": {
+   "ours": 3.0,
+   "master": 6.0,
+   "diff": -3.0
+  },
+  "DA-076": {
+   "ours": 1.5,
+   "master": 6.0,
+   "diff": -4.5
+  },
+  "DA-077": {
+   "ours": 1.0,
+   "master": 6.0,
+   "diff": -5.0
+  },
+  "DA-078": {
+   "ours": 5.0,
+   "master": 6.0,
+   "diff": -1.0
+  },
+  "DA-079": {
+   "ours": 1.0,
+   "master": 6.0,
+   "diff": -5.0
+  },
+  "DA-080": {
+   "ours": 0.0,
+   "master": 6.0,
+   "diff": -6.0
+  },
+  "DA-081": {
+   "ours": 4.5,
+   "master": 5.5,
+   "diff": -1.0
+  },
+  "WHY-111": {
+   "ours": 3.5,
+   "master": 5.0,
+   "diff": -1.5
+  },
+  "WHY-112": {
+   "ours": 4.0,
+   "master": 5.5,
+   "diff": -1.5
+  },
+  "WHY-114": {
+   "ours": 3.0,
+   "master": 5.0,
+   "diff": -2.0
+  },
+  "WHY-115": {
+   "ours": 5.0,
+   "master": 6.0,
+   "diff": -1.0
+  },
+  "ZW-017": {
+   "ours": 3.0,
+   "master": 5.0,
+   "diff": -2.0
+  },
+  "ZW-018": {
+   "ours": 5.0,
+   "master": 6.0,
+   "diff": -1.0
+  },
+  "ZW-019": {
+   "ours": 2.0,
+   "master": 5.0,
+   "diff": -3.0
+  },
+  "ZW-020": {
+   "ours": 5.0,
+   "master": 6.0,
+   "diff": -1.0
+  },
+  "ZW-021": {
+   "ours": 3.5,
+   "master": 6.0,
+   "diff": -2.5
+  },
+  "ZW-022": {
+   "ours": 4.0,
+   "master": 5.0,
+   "diff": -1.0
+  },
+  "ZW-023": {
+   "ours": 5.0,
+   "master": 5.0,
+   "diff": 0.0
+  },
+  "ZW-028": {
+   "ours": 4.0,
+   "master": 3.5,
+   "diff": 0.5
+  },
+  "ZW-029": {
+   "ours": 6.0,
+   "master": 6.0,
+   "diff": 0.0
+  },
+  "ZW-030": {
+   "ours": 3.0,
+   "master": 4.5,
+   "diff": -1.5
+  },
+  "ZW-031": {
+   "ours": 4.5,
+   "master": 6.0,
+   "diff": -1.5
+  },
+  "ZW-032": {
+   "ours": 5.5,
+   "master": 5.5,
+   "diff": 0.0
+  }
+ }
+}
