@@ -1,0 +1,804 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<!--
+  严肃占卜 · Divination — launch film. One seekable timeline; every frame is a pure function of t.
+  120 BPM (bar = 2 s), 60 s, two cuts: comp.html?lang=en | ?lang=zh.  ?t=12.3 draws that moment, ?hud shows t.
+  The carry element is the brand mark's cinnabar dot (#B8361E). It is the only cinnabar thing in the film: it blinks on the
+  table in the 3D open, glows through the cash coin's square hole, becomes the typing caret (a red reading mark, 圈点),
+  the terminal cursor, the pen that strikes out what other AI fortune-telling does (朱批), the hop that turns each moving
+  line, the red circle a grader draws round a full mark, the bullet, the field the camera dives through, and the dot of
+  the logo again.
+  Data stays verbatim in both cuts: the real cast (session/cast.txt), the sealed exam case LY-103 with the Skill's blind
+  reading, Wang Huying's original reading and the judges' scores (benchmark/runs/round18), and the README's numbers.
+  Contract: __ready, __meta, __seek(t), __motion(t0,t1), __events(), __handoff(), __copy.
+-->
+<style>
+@font-face{font-family:"NSS";src:url("fonts/NotoSerifSC-Regular.otf");font-weight:400;font-display:block}
+@font-face{font-family:"NSS";src:url("fonts/NotoSerifSC-Medium.otf");font-weight:500;font-display:block}
+@font-face{font-family:"NSS";src:url("fonts/NotoSerifSC-SemiBold.otf");font-weight:600;font-display:block}
+@font-face{font-family:"NSS";src:url("fonts/NotoSerifSC-Bold.otf");font-weight:700;font-display:block}
+@font-face{font-family:"SS4";src:url("fonts/SourceSerif4-Regular.ttf");font-weight:400;font-display:block}
+@font-face{font-family:"SS4";src:url("fonts/SourceSerif4-Regular.ttf");font-weight:500;font-display:block}
+@font-face{font-family:"SS4";src:url("fonts/SourceSerif4-Semibold.ttf");font-weight:600;font-display:block}
+@font-face{font-family:"SS4";src:url("fonts/SourceSerif4-Bold.ttf");font-weight:700;font-display:block}
+@font-face{font-family:"NSM";src:url("fonts/NotoSansMonoCJKsc-Regular.otf");font-weight:400;font-display:block}
+@font-face{font-family:"NSM";src:url("fonts/NotoSansMonoCJKsc-Bold.otf");font-weight:700;font-display:block}
+html,body{margin:0;background:#000;overflow:hidden}
+#stage{position:relative;width:1920px;height:1080px;overflow:hidden;background:#1B1712;font-family:"SS4","NSS";color:#ECE5D3;font-kerning:normal}
+.abs{position:absolute;left:0;top:0}
+.mono{font-family:"NSM",monospace;font-variant-ligatures:none;font-feature-settings:"liga" 0,"calt" 0}
+.ln{position:absolute;left:0;top:0;white-space:pre;line-height:1}
+.ln span{display:inline-block;white-space:pre}
+#f3d{position:absolute;left:0;top:0;width:1920px;height:1080px}
+#rain{position:absolute;left:0;top:0}
+.cap{position:absolute;left:120px;white-space:nowrap;line-height:1}
+.capH{font-size:46px;font-weight:600;letter-spacing:-0.3px}
+.capS{font-size:26px;font-weight:400;color:#A39A86;letter-spacing:0.2px}
+html[lang=zh-Hans] .capH{letter-spacing:1px}
+html[lang=zh-Hans] .capS{letter-spacing:1.5px}
+.mask{position:absolute;left:0;overflow:hidden;width:1920px}
+#scrim{position:absolute;left:0;top:700px;width:1920px;height:380px;background:linear-gradient(180deg,rgba(27,23,18,0),rgba(27,23,18,0.9) 62%,rgba(27,23,18,0.96));opacity:0}
+#term{position:absolute;left:0;top:0;width:1920px;height:1080px;transform-origin:0 0}
+#twin{position:absolute;border-radius:14px;background:#221D17;box-shadow:0 0 0 1px rgba(236,229,211,0.08),0 40px 120px rgba(0,0,0,0.55)}
+#tbar{position:absolute;left:0;top:0;height:46px;width:100%;border-bottom:1px solid rgba(236,229,211,0.06)}
+#tbar i{position:absolute;top:17px;width:13px;height:13px;border-radius:7px;background:#3B342B}
+#ttitle{position:absolute;left:0;width:100%;top:14px;text-align:center;font-size:17px;color:#8A8170;line-height:1}
+.tr{position:absolute;left:0;top:0;font-size:26px;line-height:40px;height:40px;white-space:pre;color:#D8D0BC}
+.tr span{white-space:pre}
+.bar{position:absolute;left:0;top:0;background:#ECE5D3}
+.ring{position:absolute;left:0;top:0;border:3px solid #ECE5D3;border-radius:50%;box-sizing:border-box}
+.big{position:absolute;left:0;top:0;white-space:pre;line-height:1}
+.red{position:absolute;left:0;top:0;background:#B8361E;transform-origin:0 50%}
+#ringSvg{position:absolute;left:0;top:0}
+#dot{position:absolute;left:0;top:0;border-radius:50%;background:#B8361E;will-change:transform}
+#lock{position:absolute;left:0;top:0}
+#fade{position:absolute;left:0;top:0;width:1920px;height:1080px;background:#000;opacity:0}
+#hud{position:absolute;right:16px;top:12px;font:16px monospace;color:#0f0;z-index:9}
+</style>
+<script src="mspring.js"></script>
+</head><body>
+<div id="stage">
+  <img id="f3d" style="display:none">
+  <canvas id="rain" width="1920" height="1080" style="display:none"></canvas>
+  <div id="sT" class="abs"></div>
+  <div id="sTerm" class="abs" style="display:none;width:1920px;height:1080px">
+    <div id="term"><div id="twin"><div id="tbar"><i style="left:22px"></i><i style="left:44px"></i><i style="left:66px"></i><div id="ttitle" class="mono"></div></div></div><div id="trows" class="abs"></div></div>
+  </div>
+  <div id="sHex" class="abs" style="display:none;width:1920px;height:1080px"></div>
+  <div id="sVs" class="abs" style="display:none;width:1920px;height:1080px"></div>
+  <div id="sExam" class="abs" style="display:none;width:1920px;height:1080px"></div>
+  <div id="sList" class="abs" style="display:none;width:1920px;height:1080px"></div>
+  <div id="sStat" class="abs" style="display:none;width:1920px;height:1080px"></div>
+  <div id="sHon" class="abs" style="display:none;width:1920px;height:1080px"></div>
+  <div id="sLock" class="abs" style="display:none;width:1920px;height:1080px"></div>
+  <svg id="ringSvg" width="1920" height="1080" viewBox="0 0 1920 1080" style="display:none"><circle id="ringC" fill="none" stroke="#B8361E" stroke-width="6" stroke-linecap="round"/></svg>
+  <div id="dot"></div>
+  <div id="scrim"></div>
+  <div id="caps" class="abs"></div>
+  <div id="fade"></div>
+  <div id="hud"></div>
+</div>
+<script>
+'use strict';
+const Q = new URLSearchParams(location.search);
+const LANG = Q.get('lang') === 'zh' ? 'zh' : 'en';
+if (LANG === 'zh') document.documentElement.lang = 'zh-Hans';
+const ZH = LANG === 'zh';
+const FPS = 30, BPM = 120, BAR = 2, BEAT = 0.5, DUR = 60.0;
+const ACC = '#B8361E', PAPER = '#ECE5D3', GRAPH = '#8A8170', DIM = '#5E5649', INK = '#1B1712';
+
+// ───────────────────────── copy (one language per cut). Commands, terminal output, hexagram names, the exam case,
+// both readings and every number are DATA and stay verbatim in both cuts. ─────────────────────────
+const COPY = {
+  en: {
+    a1: 'Most AI fortune-tellers', a2: 'tell you what you want to hear.', a3: 'This one sits the masters’ exam.',
+    castH: 'A real cast. Three coins, six throws.', castS: 'Randomness from Python’s secrets module. The raw result, shown in full.',
+    hexH: 'Moving lines turn. The hexagram changes.', hexS: 'Read by the book: the rule, the chapter, or the master’s case it rests on.',
+    vsL: 'Most AI', vsR: 'Divination',
+    v1k: 'The cast', v1l: 'The model imagines one', v1r: 'Cryptographically random. A real cast.',
+    v2k: 'The chart', v2l: 'Pillars quoted from memory', v2r: 'Deterministic calendar, true solar time',
+    v3k: 'Every line', v3l: 'Stock phrases and comfort', v3r: 'Cites its rule or case, or says it’s a guess',
+    sealed: 'Answer sealed', examH: 'Then we made it sit the masters’ exam.', examS: '1,361 real cases. The master’s reading and the outcome, sealed away.',
+    blind: 'Divination · blind reading', orig: 'Wang Huying · original reading',
+    s1: 'Direction', s2: 'Assertions', s3: 'Outcome',
+    gradeH: 'Graded against the master: 6 out of 6.', gradeS: 'The rain stopped that evening. The concert went on.',
+    methods: ['Liuyao', 'Da Liu Ren', 'Meihua', 'I Ching', 'Bazi', 'Zi Wei Dou Shu', 'Qimen Dunjia', 'Character reading', 'Dream reading', 'Tarot', 'Astrology'],
+    rulesH: '1,400+ rules from the masters’ own books.', rulesS: 'Xu Lewu · Wang Huying · Duan Jianye · Xu Quanren · Cai Minghong',
+    n1: ['96', 'rounds of blind tests'], n2: ['5,419', 'AI seats'], n3: ['7.66B', 'tokens'], n4: ['1,361', 'real cases, outcomes known'],
+    pctL: 'agreement with the masters, 41 sealed cases', pctS: 'Two judges, 92.7% in agreement · κ = 0.827',
+    h1: 'It hasn’t beaten the masters yet.', hL: 'Divination', hR: 'The masters', hS: 'Low-contamination holdout, out of 6. We published it anyway.',
+    fin: 'The masters’ manual, for every AI.',
+    tag: 'Free. Open source. A cultural tradition, not a science.',
+  },
+  zh: {
+    a1: '大多数 AI 算命', a2: '只捡你爱听的说', a3: '这一个，拿大师原断当考卷',
+    castH: '真起卦：三钱六掷', castS: '随机只用 secrets 密码学随机，原始结果完整给你看',
+    hexH: '动爻一变，本卦化出变卦', hexS: '每条断语都有出处：规则章节，或大师成例编号',
+    vsL: '常见 AI 算命', vsR: '严肃占卜',
+    v1k: '卦从哪来', v1l: '模型自己「想」一个', v1r: 'secrets 密码学随机，真起卦',
+    v2k: '盘从哪来', v2l: '凭印象报干支', v2r: '确定性历法，真太阳时校正',
+    v3k: '断语依据', v3l: '口诀拼贴、心灵鸡汤', v3r: '每条标出处，对不上的标「推测」',
+    sealed: '答案封存', examH: '然后，让它考大师的卷', examS: '1,361 个历史案例，大师原断与真实结局一律封存',
+    blind: '严肃占卜 · 盲断', orig: '王虎应 · 原断',
+    s1: '方向', s2: '断语', s3: '应验',
+    gradeH: '对照大师原断：6 分满分', gradeS: '当晚雨停，音乐会如期举行',
+    methods: ['六爻纳甲', '大六壬', '梅花易数', '周易', '八字', '紫微斗数', '奇门遁甲', '测字', '梦占', '塔罗', '西洋占星'],
+    rulesH: '1,400 多条断法，出自大师原著', rulesS: '徐乐吾 · 王虎应 · 段建业 · 许铨仁 · 蔡明宏',
+    n1: ['96', '轮盲测迭代'], n2: ['5,419', '个 AI 席位'], n3: ['76.6 亿', 'token'], n4: ['1,361', '个结局已知的历史案例'],
+    pctL: '41 例封存考题，与大师原断一致', pctS: '双评审一致率 92.7% · κ = 0.827',
+    h1: '它还没赢过大师', hL: '严肃占卜', hR: '大师', hS: '低污染留出集，满分 6 分。这个结果，我们照实写进了报告',
+    fin: '把大师的手册，交给每一个 AI',
+    tag: '免费开源 · 占卜是文化传统，不是科学预测',
+  },
+}[LANG];
+window.__copy = COPY;
+// data (verbatim; see README "what is real")
+const CAST = { cmd: 'python3 skill/tools/cast_iching.py "这次的 offer 该不该接"' };
+const CASE = {
+  id: 'LY-103 · 六爻纳甲 · 王虎应《六爻预测自修宝典》测天气例一',
+  bg: '当晚要举办儿童音乐会，北京正在下雨',
+  q: '问当晚雨会不会停',
+  gua: '火山旅 之 天风姤 · 午月丙辰日',
+  seal: 'test_gold.jsonl  sha256 de6cbfd2…86a7d6',
+  blind: ['当晚雨停转晴：雨神父母伏弱，晴神子孙发动化财，', '申时前后停雨，音乐会可如期'],
+  orig: ['「……乃是雨停转晴之象；子孙未土旺相发动，也是天晴的信息。', '我立即告她，雨不久就会停止。」'],
+  score: ['2/2', '2/2', '2/2'], total: '6/6',
+};
+
+// ───────────────────────── helpers ─────────────────────────
+const $ = (id) => document.getElementById(id);
+const clamp = (x, a = 0, b = 1) => Math.min(b, Math.max(a, x));
+const seg = (t, a, b) => clamp((t - a) / (b - a));
+const lerp = (a, b, u) => a + (b - a) * u;
+const expoIn = (x) => (x <= 0 ? 0 : x >= 1 ? 1 : Math.pow(2, 10 * x - 10));
+const expoOut = (x) => (x >= 1 ? 1 : x <= 0 ? 0 : 1 - Math.pow(2, -10 * x));
+const { appleOut, appleInOut, whip } = MO;
+const easeInC = (x) => x * x * x;
+const SPC = {}; const sp = (vd, b) => (SPC[vd + ':' + b] ||= MO.spring(vd, b));
+const r2 = (v) => Math.round(v * 100) / 100;
+const pending = [];
+function setSrc(img, src) { if (img.getAttribute('src') !== src) { img.setAttribute('src', src); pending.push(img.decode().catch(() => {})); } }
+function show(el, on) { el.style.display = on ? '' : 'none'; }
+function op(el, v) { el.style.opacity = clamp(v).toFixed(3); }
+function mk(parent, cls, txt, css = {}) { const d = document.createElement('div'); if (cls) d.className = cls; if (txt != null) d.textContent = txt; Object.assign(d.style, css); parent.appendChild(d); return d; }
+function place(el, x, y, o = 1, s = 1) { el.style.transform = `translate(${Math.round(x)}px,${Math.round(y)}px)` + (s !== 1 ? ` scale(${s.toFixed(4)})` : ''); op(el, o); }
+const wOf = (el) => el.getBoundingClientRect().width;
+
+// ───────────────────────── the carry: the cinnabar dot, one owner per frame ─────────────────────────
+let CAR = null;
+function carry(x, y, d, o = 1, step = false) { CAR = { x, y, d, o, step }; }
+function drawCarry() {
+  const el = $('dot');
+  if (!CAR || CAR.o <= 0) { show(el, false); return; }
+  show(el, true);
+  el.style.width = el.style.height = '100px';
+  el.style.transform = `translate(${r2(CAR.x - 50)}px,${r2(CAR.y - 50)}px) scale(${(CAR.d / 100).toFixed(5)})`;
+  el.style.opacity = CAR.o;
+}
+const FIELD = { x: 960, y: 540, d: 2 * Math.hypot(960, 540) + 40 };
+function fieldZoom(u, p) {              // u 0 → full-frame disc, u 1 → the dot p; log-space size, the centre follows the size
+  const d = Math.exp(lerp(Math.log(FIELD.d), Math.log(p.d), u));
+  const k = (Math.log(FIELD.d) - Math.log(d)) / (Math.log(FIELD.d) - Math.log(p.d));
+  return { x: lerp(FIELD.x, p.x, k), y: lerp(FIELD.y, p.y, k), d };
+}
+function glide(a, b, u) { return { x: lerp(a.x, b.x, u), y: lerp(a.y, b.y, u), d: Math.exp(lerp(Math.log(a.d), Math.log(b.d), u)) }; }
+
+// ───────────────────────── captions ─────────────────────────
+const CAPS = [];
+function caption(id, t0, t1, head, sub) { CAPS.push({ id, t0, t1, head, sub }); }
+function buildCaps() {
+  const root = $('caps');
+  for (const c of CAPS) {
+    const mkc = (cls, txt, base, size) => {
+      const m = mk(root, 'mask'); m.style.top = (base - size * 1.1) + 'px'; m.style.height = (size * 1.5) + 'px';
+      const d = mk(m, 'cap ' + cls, txt); d.style.top = (size * 0.1) + 'px'; return { m, d };
+    };
+    c.h = mkc('capH', c.head, 952, 46); c.s = c.sub ? mkc('capS', c.sub, 1000, 26) : null;
+  }
+}
+function drawCaps(t) {
+  let scrim = 0;
+  for (const c of CAPS) {
+    const on = t >= c.t0 - 0.01 && t < c.t1 + 0.3;
+    show(c.h.m, on); if (c.s) show(c.s.m, on);
+    if (!on) continue;
+    scrim = Math.max(scrim, seg(t, c.t0 - 0.2, c.t0 + 0.1) * (1 - seg(t, c.t1, c.t1 + 0.3)));
+    [c.h, c.s].forEach((L, i) => {
+      if (!L) return;
+      const a = sp(0.5, 0)(t - c.t0 - i * 0.065), out = easeInC(seg(t, c.t1, c.t1 + 0.28));
+      L.d.style.transform = `translateY(${Math.round((1 - a) * 70 + out * 26)}px)`; op(L.d, 1 - out);
+    });
+  }
+  return scrim;
+}
+
+// ───────────────────────── typed lines ─────────────────────────
+const keyEvents = [];
+function typedLine(root, text, size, wght, t0, dur, track) {
+  const d = mk(root, 'ln'); d.style.fontSize = size + 'px'; d.style.fontWeight = wght; if (track != null) d.style.letterSpacing = track + 'px';
+  for (const ch of [...text]) { const s = document.createElement('span'); s.textContent = ch; d.appendChild(s); }
+  return { el: d, text: [...text], size, t0, dur, spans: [...d.children], right: [], x: 0, base: 0 };
+}
+function measureLine(L) { const r0 = L.el.getBoundingClientRect(); L.right = L.spans.map((s) => s.getBoundingClientRect().right - r0.left); L.width = L.right[L.right.length - 1]; }
+function nTyped(L, t) { return Math.floor(clamp((t - L.t0) / L.dur) * L.text.length + 1e-6); }
+function drawLine(L, t, dy = 0, o = 1, all = false) {
+  const n = all ? L.text.length : nTyped(L, t);
+  L.spans.forEach((s, i) => { s.style.opacity = i < n ? 1 : 0; });
+  L.el.style.transform = `translate(${Math.round(L.x)}px,${Math.round(L.base - L.size * 0.88 + dy)}px)`;
+  op(L.el, o); show(L.el, true);
+  return n;
+}
+function penAt(L, n, dy = 0) {   // the dot as a reading mark: 0.2 em, sitting just after the last glyph on the baseline
+  const s = L.size, d = Math.max(14, s * 0.2);
+  return { x: L.x + (n > 0 ? L.right[n - 1] : 0) + s * 0.08 + d / 2, y: L.base - d / 2 + dy, d };
+}
+function lineKeys(L) { const n = L.text.length, every = ZH ? 1 : 2; for (let i = 0; i < n; i++) if (L.text[i] !== ' ' && i % every === 0) keyEvents.push({ t: L.t0 + (i + 0.5) * L.dur / n, kind: 'key' }); }
+function strike(parent) { const r = mk(parent, 'red'); r.style.height = '6px'; r.style.width = '100px'; return r; }
+function drawStrike(r, x0, x1, y, u, o = 1) {   // a cinnabar stroke drawn by the dot from x0 toward x1
+  if (u <= 0) { show(r, false); return; } show(r, true);
+  const a = Math.min(x0, lerp(x0, x1, u)), w = Math.abs(lerp(x0, x1, u) - x0);
+  r.style.transform = `translate(${r2(a)}px,${Math.round(y - 3)}px) scaleX(${(w / 100).toFixed(4)})`; op(r, o);
+}
+
+// ───────────────────────── timeline (120 BPM; bars) ─────────────────────────
+//  0–6 3D open · 6–12 thesis · 12–16 the real cast · 16–20 the hexagram turns · 20–26 most AI vs this one
+//  26–38 the exam (LY-103) · 38–42 methods · 42–48 numbers · 48–52 the honest result · 52–54 finale · 54–56.5 3D · 56.5–60 lockup
+const TH = ZH ? 96 : 92;
+let a1, a2, a3, fin, h1, stA = [];
+function buildType() {
+  const tr = ZH ? 2 : -1.2, root = $('sT');
+  a1 = typedLine(root, COPY.a1, TH, 600, 6.55, 0.7, tr);
+  a2 = typedLine(root, COPY.a2, TH, 600, 7.45, 0.85, tr);
+  a3 = typedLine(root, COPY.a3, TH, 600, 10.0, 0.95, tr);
+  fin = typedLine(root, COPY.fin, TH, 600, 52.15, 0.95, tr);
+  h1 = typedLine(root, COPY.h1, 84, 600, 48.15, 0.9, tr);
+  stA = [strike(root), strike(root)];
+}
+function layoutType() {
+  [a1, a2, a3, fin, h1].forEach(measureLine);
+  const lh = ZH ? 1.36 : 1.2;
+  const mw = Math.max(a1.width, a2.width), x0 = Math.round((1920 - mw) / 2);
+  a1.x = x0; a2.x = x0; a1.base = Math.round(540 - TH * lh / 2 + TH * 0.36); a2.base = Math.round(a1.base + TH * lh);
+  a3.x = Math.round((1920 - a3.width) / 2); a3.base = Math.round(540 + TH * 0.36);
+  fin.x = Math.round((1920 - fin.width) / 2); fin.base = Math.round(540 + TH * 0.36);
+  h1.x = Math.round((1920 - h1.width) / 2); h1.base = 400;
+  [a1, a2, a3, fin, h1].forEach(lineKeys);
+}
+const STRIKE_T = [8.75, 9.25];
+function drawThesis(t) {
+  const on = t >= 6 && t < 12.05;
+  const any = on || (t >= 48 && t < 51.95) || (t >= 52 && t < 54.05);
+  show($('sT'), any);
+  [a1, a2, a3].forEach((L) => show(L.el, false)); stA.forEach((r) => show(r, false));
+  if (!on) return;
+  const outA = easeInC(seg(t, 9.55, 9.9));
+  const dimA = seg(t, 9.0, 9.4);
+  const colA = dimA > 0 ? `rgba(236,229,211,${(1 - 0.62 * dimA).toFixed(3)})` : PAPER;
+  if (t < 9.95) { a1.el.style.color = colA; a2.el.style.color = colA; drawLine(a1, t, -outA * 40, 1 - outA); drawLine(a2, t, -outA * 40, 1 - outA); }
+  if (t >= 9.95) { drawLine(a3, t, -easeInC(seg(t, 11.45, 11.8)) * 40, 1 - easeInC(seg(t, 11.45, 11.8))); }
+  // 朱批: the dot runs back along both lines, right to left, striking them out
+  const yS = (L) => L.base - L.size * 0.3;
+  const u = whip(seg(t, STRIKE_T[0], STRIKE_T[1]));
+  const xEnd = (L) => L.x + L.width + L.size * 0.1, xBeg = (L) => L.x - L.size * 0.1;
+  if (t >= STRIKE_T[0] && t < 9.95) { drawStrike(stA[1], xEnd(a2), xBeg(a2), yS(a2), u, 1 - outA); drawStrike(stA[0], xEnd(a1), xBeg(a1), yS(a1), seg(u, 0.12, 1), 1 - outA); }
+  let c;
+  if (t < 6.55) { carry(...Object.values(fieldZoom(expoOut(seg(t, 6.0, 6.5)), penAt(a1, 0)))); return; }
+  const n1 = nTyped(a1, t), n2 = nTyped(a2, t), n3 = nTyped(a3, t);
+  if (t < 7.22) c = { ...penAt(a1, n1), step: true };
+  else if (t < 7.45) c = glide(penAt(a1, a1.text.length), penAt(a2, 0), appleInOut(seg(t, 7.22, 7.44)));
+  else if (t < 8.6) c = { ...penAt(a2, n2), step: true };
+  else if (t < STRIKE_T[0]) { const p = penAt(a2, a2.text.length); c = glide(p, { x: xEnd(a2), y: yS(a2), d: p.d * 1.15 }, appleInOut(seg(t, 8.6, 8.75))); }
+  else if (t < STRIKE_T[1] + 0.05) { c = { x: lerp(xEnd(a2), xBeg(a2), u), y: yS(a2), d: penAt(a2, 0).d * 1.15 }; }
+  else if (t < 10.0) c = glide({ x: xBeg(a2), y: yS(a2), d: penAt(a2, 0).d * 1.15 }, penAt(a3, 0), appleInOut(seg(t, 9.55, 9.98)));
+  else c = { ...penAt(a3, n3), step: t < 11.45 };
+  if (t >= 11.45) { const p = termCaret(12.0); c = glide(penAt(a3, a3.text.length), p, whip(seg(t, 11.45, 12.0))); }
+  carry(c.x, c.y, c.d, 1, !!c.step);
+}
+
+// ───────────────────────── 12–20: the real cast in a terminal, then the hexagram lifts out ─────────────────────────
+const WIN = { x: 250, y: 120, w: 1420, h: 800 }, TBAR = 46, PADX = 40, PADY = 22, LH = 40, FS = 26;
+const CX0 = WIN.x + PADX, CY0 = WIN.y + TBAR + PADY;
+let ADV = 15.6, TERM_ROWS = [], CMD = null;
+const T_CMD = 12.35, D_CMD = 1.0, T_OUT = 13.5, D_ROW = 0.055;
+async function buildTerm() {
+  const txt = await (await fetch('data/cast.txt')).text();
+  const lines = txt.replace(/\n+$/, '').split('\n');
+  $('ttitle').textContent = 'Divination — zsh';
+  const tw = $('twin'); Object.assign(tw.style, { left: WIN.x + 'px', top: WIN.y + 'px', width: WIN.w + 'px', height: WIN.h + 'px' });
+  const root = $('trows');
+  lines.forEach((line, i) => {
+    const d = mk(root, 'tr mono');
+    if (i === 0) {
+      const pr = document.createElement('span'); pr.textContent = '$ '; pr.style.color = GRAPH; d.appendChild(pr);
+      const chars = [...line.slice(2)].map((ch) => { const s = document.createElement('span'); s.textContent = ch; d.appendChild(s); return s; });
+      CMD = { el: d, chars, t0: T_CMD, dur: D_CMD, end: T_CMD + D_CMD };
+    } else { d.textContent = line; if (/^-{10}/.test(line)) d.style.color = DIM; }
+    TERM_ROWS.push({ el: d, i, show: i === 0 ? 12.0 : T_OUT + (i - 1) * D_ROW, text: line });
+  });
+  TERM_ROWS.push({ el: mk(root, 'tr mono', '$ ', { color: GRAPH }), i: lines.length, show: T_OUT + (lines.length - 1) * D_ROW + 0.1, text: '$ ' });
+}
+// cell geometry of the terminal in "window space" (unzoomed screen px)
+const cellX = (col) => CX0 + col * ADV;
+const rowYc = (i) => CY0 + i * LH + LH / 2;
+const TC = [];
+function K(t, f, s, z, e) { TC.push({ t, f, s, z, e: e || ((u) => u) }); }
+function camAt(t) {
+  if (t <= TC[0].t) return TC[0];
+  for (let i = 1; i < TC.length; i++) { const a = TC[i - 1], b = TC[i]; if (t <= b.t) { const u = b.e(seg(t, a.t, b.t)); return { f: [lerp(a.f[0], b.f[0], u), lerp(a.f[1], b.f[1], u)], s: [lerp(a.s[0], b.s[0], u), lerp(a.s[1], b.s[1], u)], z: Math.exp(lerp(Math.log(a.z), Math.log(b.z), u)) }; } }
+  return TC[TC.length - 1];
+}
+const toS = (c, p) => [c.s[0] + (p[0] - c.f[0]) * c.z, c.s[1] + (p[1] - c.f[1]) * c.z];
+let YAO = [];   // the six line rows of the cast: rows 4..9 (上爻 → 初爻), the bar glyphs sit at cols 6..12
+function buildTermCam() {
+  const C = [960, 520];
+  K(12.0, [960, 520], C, 1);
+  K(14.45, [960, 520], C, 1);
+  const fy = (rowYc(4) + rowYc(9)) / 2, fx = cellX(6) + 3.5 * ADV + 120;
+  K(15.05, [fx, fy], [960, 470], 1.55, sp(0.55, 0.12));
+  K(16.0, [fx + 6, fy], [960, 470], 1.58);
+}
+function termCaretWin(t) {
+  if (t < CMD.end + 0.06) { const n = Math.floor(clamp((t - CMD.t0) / CMD.dur) * CMD.chars.length + 1e-6); return { col: 2 + (t < CMD.t0 ? 0 : n), row: 0 }; }
+  let last = 0; for (const R of TERM_ROWS) if (R.show <= t) last = R.i;
+  const R = TERM_ROWS[last];
+  return { col: R.i === TERM_ROWS.length - 1 ? 2 : [...R.text].reduce((a, ch) => a + (ch.charCodeAt(0) > 0x2e7f ? 2 : 1), 0), row: R.i, ride: true };
+}
+function termCaret(t) {
+  const g = termCaretWin(Math.max(t, 12.0)), c = camAt(clamp(t, 12, 16)), p = toS(c, [cellX(g.col) + ADV * 0.6, rowYc(g.row) + FS * 0.28]);
+  return { x: p[0], y: p[1], d: 15 * c.z };
+}
+function termOn(t) { return t >= 11.9 && t < 16.7; }
+function drawTerm(t) {
+  const on = termOn(t); show($('sTerm'), on); if (!on) return;
+  const c = camAt(clamp(t, 12, 16));
+  $('term').style.transform = `translate(${r2(c.s[0] - c.f[0] * c.z)}px,${r2(c.s[1] - c.f[1] * c.z)}px) scale(${c.z.toFixed(5)})`;
+  const inn = sp(0.42, 0.1)(t - 11.95), lift = seg(t, 16.0, 16.5);
+  $('twin').style.opacity = clamp(inn * (1 - lift)).toFixed(3);
+  $('twin').style.transform = `scale(${lerp(0.94, 1, clamp(inn, 0, 1.2)).toFixed(4)})`; $('twin').style.transformOrigin = '50% 50%';
+  for (const R of TERM_ROWS) {
+    const vis = R.show <= t; show(R.el, vis); if (!vis) continue;
+    R.el.style.transform = `translate(${cellX(0)}px,${CY0 + R.i * LH}px)`;
+    const yao = R.i >= 4 && R.i <= 9;
+    op(R.el, (yao && t >= 16.0 ? 0 : 1) * (1 - lift * (yao ? 1 : 1)));
+  }
+  if (CMD) CMD.chars.forEach((s, i) => { s.style.opacity = t >= CMD.t0 + (i + 0.5) * CMD.dur / CMD.chars.length - 0.5 * CMD.dur / CMD.chars.length ? 1 : 0; });
+  if (t >= 12.0 && t < 15.95) { const p = termCaret(t); const g = termCaretWin(t); carry(p.x, p.y, p.d, 1, !(t >= 14.45 && t < 15.1)); }
+}
+
+// the hexagram: six bars start exactly on the terminal's ━ glyphs and spring out to a large hexagram, then the three
+// moving lines (上、五、二) turn yang → yin one by one as the dot hops onto each: 中孚 之 复.
+const HX = { cx: 800, w: 560, h: 44, gap: 40, top: 220, flip: [17.0, 17.25, 17.5] };
+const YANG = [1, 1, 0, 0, 1, 1];          // 上 → 初 (rows 4..9): 上爻 9, 五爻 9, 四爻 8, 三爻 8, 二爻 9, 初爻 7
+const MOVE = [true, true, false, false, true, false];
+let HB = [], HNAME = {}, HRING = [];
+function buildHex() {
+  const root = $('sHex');
+  for (let k = 0; k < 6; k++) HB.push([mk(root, 'bar'), mk(root, 'bar')]);
+  for (let k = 0; k < 6; k++) HRING.push(MOVE[k] ? mk(root, 'ring') : null);
+  HNAME.a = mk(root, 'big', '中孚', { fontSize: '120px', fontWeight: 600, letterSpacing: '8px' });
+  HNAME.b = mk(root, 'big', '复', { fontSize: '120px', fontWeight: 600 });
+  HNAME.z = mk(root, 'big mono', '第61卦 中孚（上巽下兑）', { fontSize: '26px', color: GRAPH });
+  HNAME.y = mk(root, 'big mono', '第24卦 复（上坤下震）', { fontSize: '26px', color: GRAPH });
+}
+function hexRow(k) { return { x: HX.cx - HX.w / 2, y: HX.top + k * (HX.h + HX.gap), w: HX.w, h: HX.h }; }
+function termBar(k, t) {                    // the ━ glyph run of row 4+k on screen (cols 6..12, 7 cells)
+  const c = camAt(clamp(t, 12, 16)), a = toS(c, [cellX(6), rowYc(4 + k) - 3]), b = toS(c, [cellX(13), rowYc(4 + k) + 3]);
+  return { x: a[0], y: a[1], w: b[0] - a[0], h: Math.max(4, b[1] - a[1]) };
+}
+function flipU(k, t) { const i = [0, 1, 4].indexOf(k); return i < 0 ? 0 : sp(0.4, 0.1)(t - HX.flip[i]); }
+function drawHex(t) {
+  const on = t >= 16.0 && t < 20.05; show($('sHex'), on); if (!on) return;
+  const out = appleInOut(seg(t, 19.45, 19.95));
+  for (let k = 0; k < 6; k++) {
+    const u = sp(0.6, 0.1)(t - 16.0 - (5 - k) * 0.035), A = termBar(k, 16.0), B = hexRow(k);
+    const x = lerp(A.x, B.x, u), y = lerp(A.y, B.y, u) - out * 40, w = lerp(A.w, B.w, u), h = lerp(A.h, B.h, u);
+    const yin0 = YANG[k] ? 0 : 1, f = MOVE[k] ? flipU(k, t) : 0;
+    const gap = w * (0.16 * (yin0 ? 1 : clamp(f, 0, 1.15)) ) * (yin0 ? 1 : 1) + (yin0 ? 0 : 0);
+    const g = yin0 ? (A.w / 7) * (1 - u) + w * 0.16 * u : gap;     // a yin line's gap is the terminal's own space glyph, then 16 %
+    const half = (w - g) / 2;
+    HB[k][0].style.transform = `translate(${r2(x)}px,${r2(y)}px)`; HB[k][0].style.width = r2(half) + 'px'; HB[k][0].style.height = r2(h) + 'px';
+    HB[k][1].style.transform = `translate(${r2(x + half + g)}px,${r2(y)}px)`; HB[k][1].style.width = r2(half) + 'px'; HB[k][1].style.height = r2(h) + 'px';
+    op(HB[k][0], 1 - out); op(HB[k][1], 1 - out);
+    if (HRING[k]) {
+      const rr = 30, o = seg(t, 16.25, 16.5) * (1 - seg(clamp(f), 0, 0.6)) * (1 - out);
+      HRING[k].style.width = HRING[k].style.height = rr + 'px';
+      place(HRING[k], B.x + B.w + 44, B.y + B.h / 2 - rr / 2 - out * 40, o);
+    }
+  }
+  const nx = HX.cx + HX.w / 2 + 150, ny = HX.top + 2.5 * (HX.h + HX.gap) + HX.h / 2;
+  const swA = easeInC(seg(t, 17.5, 17.68)), swB = sp(0.5, 0)(t - 17.68);
+  const ia = sp(0.5, 0)(t - 16.35);
+  place(HNAME.a, nx, ny - 120 * 0.86 + (1 - ia) * 50 - swA * 30, ia * (1 - swA));
+  place(HNAME.z, nx + 4, ny + 54 + (1 - ia) * 50 - swA * 30, ia * (1 - swA));
+  place(HNAME.b, nx, ny - 120 * 0.86 + (1 - swB) * 50 - out * 40, (t >= 17.68) * (1 - out));
+  place(HNAME.y, nx + 4, ny + 54 + (1 - swB) * 50 - out * 40, (t >= 17.68) * (1 - out));
+  // the dot: from the terminal's cursor onto each moving line's ring, one hop per eighth note, then down to the next scene
+  const ringC = (k) => { const B = hexRow(k); return { x: B.x + B.w + 44 + 15, y: B.y + B.h / 2, d: 30 }; };
+  let c;
+  if (t < 16.75) { const p0 = termCaret(15.95); c = glide(p0, ringC(0), whip(seg(t, 16.3, 16.75))); }
+  else if (t < 17.25) c = glide(ringC(0), ringC(1), whip(seg(t, 17.0, 17.22)));
+  else if (t < 17.5) c = glide(ringC(1), ringC(4), whip(seg(t, 17.25, 17.47)));
+  else if (t < 19.45) c = ringC(4);
+  else c = glide(ringC(4), vsDot(0, 20.0), whip(seg(t, 19.45, 20.0)));
+  carry(c.x, c.y, c.d);
+}
+
+// ───────────────────────── 20–26: most AI vs this one (README table, one row per bar) ─────────────────────────
+const VS = { xk: 200, xl: 200, xr: 1010, y: [380, 600, 820], t: [20.0, 22.0, 24.0], hy: 210 };
+let VSR = [], VSH = [];
+function buildVs() {
+  const root = $('sVs');
+  VSH = [mk(root, 'big', COPY.vsL, { fontSize: '30px', color: GRAPH, letterSpacing: ZH ? '3px' : '0.5px' }), mk(root, 'big', COPY.vsR, { fontSize: '30px', color: PAPER, fontWeight: 600, letterSpacing: ZH ? '3px' : '0.5px' })];
+  [[COPY.v1k, COPY.v1l, COPY.v1r], [COPY.v2k, COPY.v2l, COPY.v2r], [COPY.v3k, COPY.v3l, COPY.v3r]].forEach(([k, l, r]) => {
+    VSR.push({ k: mk(root, 'big', k, { fontSize: '24px', color: GRAPH, letterSpacing: ZH ? '4px' : '1.5px' }),
+      l: mk(root, 'big', l, { fontSize: '46px', color: '#9A917E', letterSpacing: ZH ? '1px' : '-0.3px' }),
+      r: mk(root, 'big', r, { fontSize: '46px', color: PAPER, fontWeight: 600, letterSpacing: ZH ? '1px' : '-0.3px' }),
+      s: strike(root) });
+  });
+}
+function vsDot(i, t) {                      // where the pen waits on row i: at the right end of the struck text
+  const R = VSR[i]; return { x: VS.xl + R.lw + 26, y: VS.y[i] - 46 * 0.3, d: 16 };
+}
+function drawVs(t) {
+  const on = t >= 19.9 && t < 26.05; show($('sVs'), on); if (!on) return;
+  const out = appleInOut(seg(t, 25.4, 25.85));
+  const hi = sp(0.5, 0)(t - 20.0);
+  place(VSH[0], VS.xl, VS.hy + (1 - hi) * 40 - out * 40, hi * (1 - out)); place(VSH[1], VS.xr, VS.hy + (1 - hi) * 40 - out * 40, hi * (1 - out));
+  VSR.forEach((R, i) => {
+    const t0 = VS.t[i], a = sp(0.5, 0)(t - t0), b = sp(0.5, 0)(t - t0 - 0.06), c = sp(0.55, 0.06)(t - t0 - 0.95), vis = t >= t0;
+    const y = VS.y[i];
+    place(R.k, VS.xk, y - 96 + (1 - a) * 40 - out * 40, vis * a * (1 - out));
+    place(R.l, VS.xl, y - 46 * 0.88 + (1 - b) * 40 - out * 40, vis * (1 - out));
+    place(R.r, VS.xr, y - 46 * 0.88 + (1 - c) * 50 - out * 40, (t >= t0 + 0.95) * (1 - out));
+    R.l.style.color = t >= t0 + 0.85 ? DIM : '#9A917E';
+    const u = whip(seg(t, t0 + 0.45, t0 + 0.85));
+    drawStrike(R.s, VS.xl + R.lw + 26, VS.xl - 14, y - 46 * 0.3 - out * 40, u, 1 - out);
+  });
+  // the pen: arrives at row i's end, strikes right → left, then hops to the next row's end
+  let c = null;
+  for (let i = 0; i < 3; i++) {
+    const t0 = VS.t[i], R = VSR[i];
+    if (t < t0 - 0.0001) break;
+    const end = vsDot(i, t), beg = { x: VS.xl - 14, y: end.y, d: 16 };
+    if (t < t0 + 0.45) c = end;
+    else if (t < t0 + 0.85) c = { x: lerp(end.x, beg.x, whip(seg(t, t0 + 0.45, t0 + 0.85))), y: end.y, d: 16 };
+    else if (i < 2) c = glide(beg, vsDot(i + 1, VS.t[i + 1]), whip(seg(t, t0 + 1.55, VS.t[i + 1])));
+    else c = t < 25.4 ? beg : glide(beg, examDot0(), whip(seg(t, 25.4, 26.0)));
+  }
+  if (c) carry(c.x, c.y - (t >= 25.4 && c === null ? 0 : 0), c.d);
+}
+
+// ───────────────────────── 26–38: the exam. One sealed case from the 41-case test set, LY-103 ─────────────────────────
+const EX = { x: 220, w: 1480 };
+let E = {};
+function buildExam() {
+  const root = $('sExam');
+  E.id = mk(root, 'big mono', CASE.id, { fontSize: '24px', color: GRAPH });
+  E.seal = mk(root, 'big', COPY.sealed, { fontSize: '24px', color: GRAPH, letterSpacing: ZH ? '4px' : '1.5px', fontWeight: 600 });
+  E.sealH = mk(root, 'big mono', CASE.seal, { fontSize: '20px', color: DIM });
+  E.rule = mk(root, 'abs', null, { height: '1px', width: EX.w + 'px', background: 'rgba(236,229,211,0.14)' });
+  E.bg = mk(root, 'big', CASE.bg, { fontSize: '40px', color: '#B5AC98', letterSpacing: '2px' });
+  E.q = mk(root, 'big', CASE.q, { fontSize: '96px', fontWeight: 700, letterSpacing: '6px' });
+  E.gua = mk(root, 'big mono', CASE.gua, { fontSize: '28px', color: GRAPH });
+  E.bh = mk(root, 'big', COPY.blind, { fontSize: '26px', color: GRAPH, letterSpacing: ZH ? '4px' : '1.2px', fontWeight: 600 });
+  E.oh = mk(root, 'big', COPY.orig, { fontSize: '26px', color: GRAPH, letterSpacing: ZH ? '4px' : '1.2px', fontWeight: 600 });
+  E.b = CASE.blind.map((s, i) => typedLine(root, s, 44, 500, 30.2 + i * 0.75, 0.75, 1.5));
+  E.o = CASE.orig.map((s) => mk(root, 'big', s, { fontSize: '44px', fontWeight: 500, letterSpacing: '1.5px', color: '#CFC6B0' }));
+  E.sc = [COPY.s1, COPY.s2, COPY.s3].map((l, i) => ({ l: mk(root, 'big', l, { fontSize: '26px', color: GRAPH, letterSpacing: ZH ? '4px' : '1px' }), v: mk(root, 'big mono', CASE.score[i], { fontSize: '44px', color: PAPER }) }));
+  E.tot = mk(root, 'big', CASE.total, { fontSize: '150px', fontWeight: 700, letterSpacing: '-2px', fontVariantNumeric: 'tabular-nums' });
+}
+const EY = { id: 250, rule: 280, bg: 410, q: 560, gua: 650, top: 150, bh: 270, b0: 345, b1: 410, oh: 500, o0: 575, o1: 640, sc: 790 };
+function examDot0() { return { x: EX.x - 40, y: EY.id - 9, d: 16 }; }
+function drawExam(t) {
+  const on = t >= 25.9 && t < 38.05; show($('sExam'), on); if (!on) { show($('ringSvg'), false); return; }
+  const out = appleInOut(seg(t, 37.45, 37.9)), dy = -out * 40;
+  const inA = sp(0.5, 0)(t - 26.0), inQ = sp(0.55, 0.05)(t - 26.25), inG = sp(0.5, 0)(t - 26.5);
+  const up = appleInOut(seg(t, 29.4, 29.95));                           // the case card moves up to make room for the readings
+  const hdrY = lerp(EY.id, EY.top, up);
+  place(E.id, EX.x, hdrY - 24 * 0.86 + (1 - inA) * 30 + dy, inA * (1 - out));
+  place(E.rule, EX.x, lerp(EY.rule, EY.top + 30, up) + dy, inA * (1 - out));
+  const sealO = (1 - seg(t, 31.9, 32.15));
+  E.seal.style.color = GRAPH; place(E.seal, EX.x + EX.w - wOf(E.seal), hdrY - 24 * 0.86 + (1 - inA) * 30 + dy, inA * (1 - out) * sealO);
+  place(E.sealH, EX.x + EX.w - wOf(E.sealH), hdrY + 44 - 20 * 0.86 + (1 - inA) * 30 + dy, inA * (1 - out) * sealO * (1 - up));
+  const qk = 1 - up;                                                        // the question collapses to a one-line header
+  place(E.bg, EX.x, EY.bg - 40 * 0.86 + (1 - inA) * 40 - up * 60 + dy, inA * qk * (1 - out));
+  place(E.q, EX.x - 6, EY.q - 96 * 0.86 + (1 - inQ) * 60 - up * 80 + dy, inQ * qk * (1 - out));
+  place(E.gua, EX.x, EY.gua - 28 * 0.86 + (1 - inG) * 40 - up * 80 + dy, inG * qk * (1 - out));
+  // the Skill's blind reading, typed by the dot (30.0–31.7); the master's original, unsealed on bar 16 (32.0)
+  const bi = sp(0.5, 0)(t - 29.9);
+  place(E.bh, EX.x, EY.bh - 26 * 0.86 + (1 - bi) * 30 + dy, (t >= 29.9) * (1 - out));
+  E.b.forEach((L, i) => { L.x = EX.x; L.base = i ? EY.b1 : EY.b0; if (t >= L.t0 - 0.05) drawLine(L, t, dy, 1 - out); else show(L.el, false); });
+  const oi = sp(0.5, 0)(t - 32.0);
+  place(E.oh, EX.x, EY.oh - 26 * 0.86 + (1 - oi) * 30 + dy, (t >= 32.0) * oi * (1 - out));
+  E.o.forEach((el, i) => { const k = sp(0.55, 0.04)(t - 32.12 - i * 0.08); place(el, EX.x - (i === 0 ? 22 : 0), (i ? EY.o1 : EY.o0) - 44 * 0.88 + (1 - k) * 50 + dy, (t >= 32.12) * k * (1 - out)); });
+  // scores on beats from 34.0, then the total; the dot draws the grader's circle round it
+  E.sc.forEach((s, i) => {
+    const t0 = 34.0 + i * 0.25, k = sp(0.45, 0.05)(t - t0), x = EX.x + i * 300;
+    place(s.l, x, EY.sc - 70 + (1 - k) * 30 + dy, (t >= t0) * k * (1 - out));
+    place(s.v, x, EY.sc - 44 * 0.86 + (1 - k) * 30 + dy, (t >= t0) * k * (1 - out));
+  });
+  const tk = sp(0.5, 0.12)(t - 34.75), tw = wOf(E.tot), tx = EX.x + EX.w - tw - 60, ty = EY.sc - 150 * 0.8;
+  place(E.tot, tx, ty + (1 - tk) * 40 + dy, (t >= 34.75) * clamp(tk) * (1 - out));
+  const ring = $('ringSvg'), rc = $('ringC'), R0 = tw * 0.5 + 54, cx = tx + tw / 2, cy = ty + 150 * 0.39 + dy;
+  const ru = appleInOut(seg(t, 35.25, 35.85));
+  show(ring, t >= 35.25 && t < 37.95);
+  if (t >= 35.25) {
+    const ang0 = -Math.PI * 0.62, ang = ang0 + ru * Math.PI * 2 * 1.04;
+    rc.setAttribute('cx', cx); rc.setAttribute('cy', cy); rc.setAttribute('r', R0);
+    const L = 2 * Math.PI * R0; rc.setAttribute('stroke-dasharray', `${(L * ru * 1.04).toFixed(1)} ${L * 2}`);
+    rc.setAttribute('transform', `rotate(${(ang0 * 180 / Math.PI).toFixed(2)} ${cx} ${cy})`);
+    rc.setAttribute('opacity', (1 - out).toFixed(3));
+    RING = { cx, cy, R0, ang, ru };
+  }
+  // the carry
+  let c;
+  const bDot = () => { const L = E.b[1]; return penAt(L, L.text.length, dy); };
+  const ringP = (a) => ({ x: cx + R0 * Math.cos(a), y: cy + R0 * Math.sin(a), d: 18 });
+  if (t < 26.0) return;
+  if (t < 29.4) c = { ...examDot0(), y: hdrY - 9 + dy };
+  else if (t < 30.2) c = glide({ ...examDot0(), y: lerp(EY.id, EY.top, up) - 9 }, penAt(E.b[0], 0), appleInOut(seg(t, 29.6, 30.18)));
+  else if (t < 30.95) c = { ...penAt(E.b[0], nTyped(E.b[0], t), dy), step: true };
+  else if (t < 31.0) c = glide(penAt(E.b[0], E.b[0].text.length), penAt(E.b[1], 0), appleInOut(seg(t, 30.95, 31.0)));
+  else if (t < 35.0) c = { ...penAt(E.b[1], nTyped(E.b[1], t), dy), step: t < 31.75 };
+  else if (t < 35.25) c = glide(bDot(), ringP(-Math.PI * 0.62), whip(seg(t, 35.0, 35.25)));
+  else if (t < 37.45) c = ringP(-Math.PI * 0.62 + appleInOut(seg(t, 35.25, 35.85)) * Math.PI * 2 * 1.04);
+  else c = glide(ringP(-Math.PI * 0.62 + Math.PI * 2 * 1.04), listDot(38.0), whip(seg(t, 37.45, 38.0)));
+  carry(c.x, c.y, c.d, 1, !!c.step);
+}
+let RING = null;
+// rain over the case (26–34): seeded hairlines, a pure function of t; it stops on the verdict
+const RAIN = []; { let s = 20261102; const rnd = () => ((s = (s * 1664525 + 1013904223) >>> 0) / 4294967296); for (let i = 0; i < 170; i++) RAIN.push({ x: rnd() * 2100 - 90, y0: rnd() * 1400, v: 1500 + rnd() * 900, l: 50 + rnd() * 70, a: 0.05 + rnd() * 0.08 }); }
+function drawRain(t) {
+  const on = t >= 25.7 && t < 34.9; const cv = $('rain'); show(cv, on); if (!on) return;
+  const g = cv.getContext('2d'); g.clearRect(0, 0, 1920, 1080);
+  const k = seg(t, 25.7, 26.4) * (1 - seg(t, 34.0, 34.75)), slow = 1 - 0.5 * seg(t, 34.0, 34.75);
+  g.strokeStyle = PAPER; g.lineWidth = 1.4; g.lineCap = 'round';
+  for (const d of RAIN) {
+    const y = ((d.y0 + d.v * (t - 25.7) * slow) % 1400) - 160, x = d.x + (y + 160) * 0.07;
+    g.globalAlpha = d.a * k; g.beginPath(); g.moveTo(x, y); g.lineTo(x + d.l * 0.07, y + d.l); g.stroke();
+  }
+  g.globalAlpha = 1;
+}
+
+// ───────────────────────── 38–42: what it reads (eighth notes), then where the rules come from ─────────────────────────
+let LI = {};
+const LT0 = 38.0, LSTEP = 0.25;
+function buildList() {
+  const root = $('sList');
+  LI.w = COPY.methods.map((m) => mk(root, 'big', m, { fontSize: ZH ? '150px' : '136px', fontWeight: 600, letterSpacing: ZH ? '10px' : '-2px' }));
+  LI.h = mk(root, 'big', COPY.rulesH, { fontSize: ZH ? '72px' : '68px', fontWeight: 600, letterSpacing: ZH ? '2px' : '-1px' });
+  LI.s = mk(root, 'big', COPY.rulesS, { fontSize: '30px', color: GRAPH, letterSpacing: ZH ? '4px' : '0.5px' });
+}
+function listIdx(t) { return clamp(Math.floor((t - LT0) / LSTEP), 0, COPY.methods.length - 1); }
+function listDot(t) {
+  const i = listIdx(t), w = LI.ww[i]; return { x: (1920 - w) / 2 - 64, y: 540 - (ZH ? 150 : 136) * 0.3, d: 26 };
+}
+function drawList(t) {
+  const on = t >= 37.95 && t < 42.05; show($('sList'), on); if (!on) return;
+  const N = COPY.methods.length, tEnd = LT0 + N * LSTEP;           // 40.75
+  LI.w.forEach((el, i) => { const vis = t >= LT0 + i * LSTEP && (t < LT0 + (i + 1) * LSTEP || (i === N - 1 && t < tEnd + 0.1)); show(el, vis); if (vis) place(el, (1920 - LI.ww[i]) / 2, 540 - (ZH ? 150 : 136) * 0.86, 1); });
+  const hk = sp(0.5, 0)(t - (tEnd + 0.1)), sk = sp(0.5, 0)(t - (tEnd + 0.2)), out = appleInOut(seg(t, 41.45, 41.9));
+  place(LI.h, (1920 - LI.hw) / 2, 520 - 68 * 0.86 + (1 - hk) * 50 - out * 40, (t >= tEnd + 0.1) * (1 - out));
+  place(LI.s, (1920 - LI.sw) / 2, 600 + (1 - sk) * 50 - out * 40, (t >= tEnd + 0.2) * (1 - out));
+  if (t < LT0) return;
+  let c;
+  if (t < tEnd + 0.1) c = listDot(t);
+  else if (t < 41.45) c = glide(listDot(tEnd - 0.01), { x: (1920 - LI.hw) / 2 - 44, y: 520 - 68 * 0.3, d: 20 }, whip(seg(t, tEnd + 0.05, tEnd + 0.4)));
+  else c = glide({ x: (1920 - LI.hw) / 2 - 44, y: 520 - 68 * 0.3, d: 20 }, statDot(42.1), whip(seg(t, 41.45, 42.0)));
+  carry(c.x, c.y, c.d, 1, t < tEnd);
+}
+
+// ───────────────────────── 42–48: the numbers (README), then the sealed-test score ─────────────────────────
+const ST = { xr: 880, xl: 940, base: [330, 480, 630, 780], t: [42.1, 42.6, 43.1, 43.6] };
+let STATS = [], PCT = {};
+function buildStats() {
+  const root = $('sStat');
+  [COPY.n1, COPY.n2, COPY.n3, COPY.n4].forEach(([n, l]) => {
+    STATS.push({ a: mk(root, 'big', n, { fontSize: '120px', fontWeight: 700, letterSpacing: '-2px', fontVariantNumeric: 'tabular-nums' }), b: mk(root, 'big', l, { fontSize: '46px', color: '#CFC6B0', letterSpacing: ZH ? '2px' : '-0.3px' }) });
+  });
+  PCT.n = mk(root, 'big', '71.1%', { fontSize: '260px', fontWeight: 700, letterSpacing: '-6px', fontVariantNumeric: 'tabular-nums' });
+  PCT.l = mk(root, 'big', COPY.pctL, { fontSize: '50px', fontWeight: 600, letterSpacing: ZH ? '2px' : '-0.5px' });
+  PCT.s = mk(root, 'big', COPY.pctS, { fontSize: '30px', color: GRAPH, letterSpacing: ZH ? '3px' : '0.3px' });
+}
+function statDot(t) {
+  let i = 0; for (let k = 0; k < 4; k++) if (t >= ST.t[k] - 0.3) i = k;
+  const prev = Math.max(0, i - 1), v = i === 0 ? 1 : whip(seg(t, ST.t[i] - 0.3, ST.t[i] + 0.02));
+  const y = (k) => ST.base[k] - 120 * 0.36;
+  return { x: ST.xr - STATS.maxW - 56, y: lerp(y(prev), y(i), v), d: 22 };
+}
+const PT0 = 45.0;
+function drawStats(t) {
+  const on = t >= 41.95 && t < 48.05; show($('sStat'), on); if (!on) return;
+  const out = appleInOut(seg(t, 44.55, 44.95));
+  STATS.forEach((s, i) => {
+    const a = sp(0.5, 0)(t - ST.t[i]), b = sp(0.5, 0)(t - ST.t[i] - 0.07), vis = t >= ST.t[i] && t < 45.0;
+    place(s.a, ST.xr - s.w, ST.base[i] - 120 * 0.86 + (1 - a) * 120 - out * 40, vis * (1 - out));
+    place(s.b, ST.xl, ST.base[i] - 46 * 0.86 - 4 + (1 - b) * 120 - out * 40, vis * (1 - out));
+  });
+  // 71.1 %: counts up from 0 on the bar, then holds
+  const pin = t >= PT0, ko = appleOut(seg(t, PT0, PT0 + 0.9)), pout = appleInOut(seg(t, 47.45, 47.9));
+  const v = (71.1 * ko).toFixed(1) + '%'; if (PCT.n.textContent !== v) PCT.n.textContent = v;
+  const pw = PCT.w100, x0 = Math.round((1920 - pw) / 2);
+  const pk = sp(0.55, 0.06)(t - PT0), lk = sp(0.5, 0)(t - PT0 - 0.5), sk = sp(0.5, 0)(t - PT0 - 0.6);
+  place(PCT.n, x0 + (pw - wOf(PCT.n)), 520 - 260 * 0.86 + (1 - pk) * 60 - pout * 40, pin * (1 - pout));
+  place(PCT.l, (1920 - PCT.lw) / 2, 640 + (1 - lk) * 50 - pout * 40, (t >= PT0 + 0.5) * (1 - pout));
+  place(PCT.s, (1920 - PCT.sw) / 2, 730 + (1 - sk) * 50 - pout * 40, (t >= PT0 + 0.6) * (1 - pout));
+  if (t < 42.05) return;
+  let c;
+  const pd = { x: x0 + pw + 28, y: 520 - 22 / 2 - 4, d: 22 };      // the dot as the full stop after 71.1%
+  if (t < 44.55) c = statDot(t);
+  else if (t < PT0 + 0.9) c = glide(statDot(44.55), pd, whip(seg(t, 44.55, PT0 + 0.05)));
+  else if (t < 47.45) c = pd;
+  else c = glide(pd, penAt(h1, 0), whip(seg(t, 47.45, 48.1)));
+  carry(c.x, c.y, c.d);
+}
+
+// ───────────────────────── 48–52: the honest result (README, Phase 2 low-contamination holdout) ─────────────────────────
+let HO = {};
+function buildHon() {
+  const root = $('sHon');
+  HO.a = mk(root, 'big', '4.06', { fontSize: '180px', fontWeight: 700, letterSpacing: '-3px', fontVariantNumeric: 'tabular-nums' });
+  HO.b = mk(root, 'big', '5.35', { fontSize: '180px', fontWeight: 700, letterSpacing: '-3px', fontVariantNumeric: 'tabular-nums' });
+  HO.la = mk(root, 'big', COPY.hL, { fontSize: '32px', color: GRAPH, letterSpacing: ZH ? '4px' : '0.5px', fontWeight: 600 });
+  HO.lb = mk(root, 'big', COPY.hR, { fontSize: '32px', color: GRAPH, letterSpacing: ZH ? '4px' : '0.5px', fontWeight: 600 });
+  HO.s = mk(root, 'big', COPY.hS, { fontSize: '32px', color: '#B5AC98', letterSpacing: ZH ? '3px' : '0.2px' });
+}
+const HX0 = 960;
+function drawHon(t) {
+  const on = t >= 48.0 && t < 52.05; show($('sHon'), on);
+  if (on) {
+    const out = appleInOut(seg(t, 51.4, 51.85)), dy = -out * 40;
+    show(h1.el, true); drawLine(h1, t, dy, 1 - out);
+    const ka = sp(0.55, 0.06)(t - 49.5), kb = sp(0.55, 0.06)(t - 49.62), ks = sp(0.5, 0)(t - 50.0);
+    const wa = wOf(HO.a), wb = wOf(HO.b), gap = 180;
+    place(HO.a, HX0 - gap / 2 - wa, 720 - 180 * 0.86 + (1 - ka) * 60 + dy, (t >= 49.5) * (1 - out));
+    place(HO.b, HX0 + gap / 2, 720 - 180 * 0.86 + (1 - kb) * 60 + dy, (t >= 49.62) * (1 - out));
+    place(HO.la, HX0 - gap / 2 - wa, 780 + (1 - ka) * 60 + dy, (t >= 49.5) * (1 - out));
+    place(HO.lb, HX0 + gap / 2, 780 + (1 - kb) * 60 + dy, (t >= 49.62) * (1 - out));
+    place(HO.s, (1920 - HO.sw) / 2, 900 + (1 - ks) * 40 + dy, (t >= 50.0) * (1 - out));
+    let c;
+    const mid = { x: HX0, y: 720 - 180 * 0.36 + dy, d: 22 };
+    if (t < 48.15) c = penAt(h1, 0);
+    else if (t < 49.3) c = { ...penAt(h1, nTyped(h1, t), dy), step: true };
+    else if (t < 51.45) c = glide(penAt(h1, h1.text.length), mid, whip(seg(t, 49.3, 49.62)));
+    else c = glide(mid, penAt(fin, 0), whip(seg(t, 51.45, 52.15)));
+    carry(c.x, c.y, c.d, 1, t < 49.3);
+  } else show(h1.el, false);
+}
+
+// ───────────────────────── 52–54: finale, then the dot swells into the 3D end shot ─────────────────────────
+function drawFin(t) {
+  const on = t >= 52.0 && t < 54.05; if (!on) { show(fin.el, false); return; }
+  const n = drawLine(fin, t, 0, 1 - seg(t, 53.35, 53.6));
+  const p = penAt(fin, n);
+  if (t < 53.3) { carry(p.x, p.y, p.d, 1, true); return; }
+  const k = seg(t, 53.3, 54.0); const f = fieldZoom(1 - easeInC(k), p); carry(f.x, f.y, f.d);
+}
+
+// ───────────────────────── 3D frames + the lockup (the repo's own horizontal reverse lockup SVG) ─────────────────────────
+const LK = { w: 1080 };
+let LOCK = null;
+async function buildLock() {
+  const svgTxt = await (await fetch('brand/lockup-horizontal-reverse.svg')).text();
+  const root = $('sLock');
+  const host = mk(root, 'abs'); host.innerHTML = svgTxt; LOCK = host.querySelector('svg');
+  const vb = LOCK.getAttribute('viewBox').split(/\s+/).map(Number);           // -1.5 -1.5 376.32 123
+  LK.ppu = LK.w / vb[2]; LK.h = vb[3] * LK.ppu;
+  LK.x0 = Math.round((1920 - LK.w) / 2); LK.y0 = Math.round(470 - LK.h / 2);
+  LOCK.setAttribute('width', LK.w); LOCK.setAttribute('height', LK.h.toFixed(2));
+  host.style.transform = `translate(${LK.x0}px,${LK.y0}px)`;
+  LK.sx = LK.x0 + (90.4 - vb[0]) * LK.ppu; LK.sy = LK.y0 + (97.8 - vb[1]) * LK.ppu;  // the cinnabar dot's centre on screen
+  const paths = LOCK.querySelectorAll('path[fill="#ECE5D3"]');
+  LK.word = paths[0]; LK.latin = paths[1];
+  LK.tile = LOCK.querySelector('rect[mask]'); LK.dot = LOCK.querySelector('circle');
+  const ns = 'http://www.w3.org/2000/svg';
+  const defs = LOCK.querySelector('defs') || LOCK.insertBefore(document.createElementNS(ns, 'defs'), LOCK.firstChild);
+  const mkClip = (id) => { const cp = document.createElementNS(ns, 'clipPath'); cp.setAttribute('id', id); const r = document.createElementNS(ns, 'rect'); r.setAttribute('y', '-10'); r.setAttribute('height', '140'); cp.appendChild(r); defs.appendChild(cp); return r; };
+  LK.cw = mkClip('cw'); LK.cl = mkClip('cl'); LK.word.setAttribute('clip-path', 'url(#cw)'); LK.latin.setAttribute('clip-path', 'url(#cl)');
+  LK.url = mk(root, 'big mono', 'github.com/Juwan-Hwang/Divination', { fontSize: '30px', color: '#CFC6B0' });
+  LK.tag = mk(root, 'big', COPY.tag, { fontSize: '26px', color: GRAPH, letterSpacing: ZH ? '4px' : '0.4px' });
+}
+window.__handoff = () => ({ ppu: LK.ppu, sx: LK.sx, sy: LK.sy });
+const T3E = 54.0, D3E = 2.5;
+function draw3D(t) {
+  const img = $('f3d');
+  if (t < 6.0) { show(img, true); setSrc(img, `frames/open/${String(Math.min(179, Math.floor(t * FPS + 1e-6))).padStart(4, '0')}.jpg`); op(img, 1); return; }
+  if (t >= T3E && t < T3E + D3E + 1e-6) { show(img, true); setSrc(img, `frames/end/${String(Math.min(74, Math.floor((t - T3E) * FPS + 1e-6))).padStart(4, '0')}.jpg`); op(img, 1); return; }
+  show(img, false);
+}
+function drawLock(t) {
+  const on = t >= T3E + D3E - 0.25; show($('sLock'), on); if (!on) return;
+  op($('sLock').firstChild, seg(t, T3E + D3E - 0.25, T3E + D3E));
+  const vb = [-1.5, -1.5];
+  const wk = expoOut(seg(t, 56.65, 57.55)), lk = expoOut(seg(t, 57.0, 57.9));
+  // clip rects live in each path's own (transformed) user space: wordmark translate(146.167 62.111) scale(.55556), latin (147.214 104.732) scale(.17857)
+  LK.cw.setAttribute('x', -20); LK.cw.setAttribute('y', -220); LK.cw.setAttribute('height', 440); LK.cw.setAttribute('width', (lerp(0, 450, wk)).toFixed(2));
+  LK.cl.setAttribute('x', -40); LK.cl.setAttribute('y', -200); LK.cl.setAttribute('height', 400); LK.cl.setAttribute('width', (lerp(0, 1360, lk)).toFixed(2));
+  LK.word.style.opacity = clamp(wk * 1.4); LK.latin.style.opacity = clamp(lk * 1.4);
+  const uk = appleOut(seg(t, 57.55, 58.25)), gk = appleOut(seg(t, 57.75, 58.45));
+  const ux = (1920 - LK.uw) / 2, gx = (1920 - LK.gw) / 2;
+  place(LK.url, ux, LK.y0 + LK.h + 120 + 16 * (1 - uk), uk);
+  place(LK.tag, gx, LK.y0 + LK.h + 178 + 16 * (1 - gk), gk);
+}
+
+// ───────────────────────── seek ─────────────────────────
+window.__meta = { dur: DUR, fps: FPS, bpm: BPM };
+function drawAll(t) { CAR = null; drawThesis(t); drawTerm(t); drawHex(t); drawVs(t); drawExam(t); drawList(t); drawStats(t); drawHon(t); drawFin(t); }
+window.__seek = async (t) => {
+  draw3D(t); drawRain(t); drawAll(t); drawLock(t);
+  const scrim = drawCaps(t);
+  op($('scrim'), scrim * (termOn(t) || (t >= 16 && t < 20) ? 1 : 0));
+  drawCarry();
+  op($('fade'), seg(t, DUR - 0.7, DUR - 0.05));
+  if (Q.has('hud')) $('hud').textContent = t.toFixed(3);
+  const p = pending.splice(0); await Promise.all(p); return true;
+};
+function probePts(t) {
+  const pts = [];
+  if (CAR && !CAR.step) pts.push([CAR.x, CAR.y], [CAR.x + Math.min(CAR.d, 3000) / 2, CAR.y]);
+  if (termOn(t)) { const c = camAt(clamp(t, 12, 16)); pts.push(toS(c, [300, 200]), toS(c, [1600, 820])); }
+  if (t >= 16 && t < 16.8) for (let k = 0; k < 6; k += 5) { const u = sp(0.6, 0.1)(t - 16.0 - (5 - k) * 0.035), A = termBar(k, 16.0), B = hexRow(k); pts.push([lerp(A.x, B.x, u), lerp(A.y, B.y, u)], [lerp(A.x + A.w, B.x + B.w, u), lerp(A.y, B.y, u)]); }
+  return pts;
+}
+window.__motion = (t0, t1) => {
+  const S = [];
+  for (let k = 0; k <= 4; k++) { const t = lerp(t0, t1, k / 4); drawAll(t); S.push(probePts(t)); }
+  let m = 0;
+  for (let k = 1; k < S.length; k++) { const a = S[k - 1], b = S[k]; for (let i = 0; i < Math.min(a.length, b.length); i++) m = Math.max(m, Math.hypot(b[i][0] - a[i][0], b[i][1] - a[i][1])); }
+  return Math.min(4000, m * 4);
+};
+
+// ───────────────────────── events (score + SFX are placed from these) ─────────────────────────
+window.__events = () => {
+  const Ev = [];
+  const hit = (t, extra = {}) => Ev.push({ t, kind: 'hit', ...extra });
+  [2.0, 6.0, 12.0, 16.0, 20.0, 22.0, 24.0, 26.0, 30.0, 32.0, 34.0, 38.0, 42.0, 45.0, 48.0, 52.0].forEach((t) => hit(t));
+  hit(54.0, { big: true });
+  [0.25, 1.0, 1.75].forEach((t) => Ev.push({ t, kind: 'blink' }));
+  [2.86, 3.02, 3.16].forEach((t, i) => Ev.push({ t, kind: 'coin', k: i }));
+  Ev.push({ t: 6.0, kind: 'close' }, { t: 56.5, kind: 'land' }, { t: 56.65, kind: 'rise' });
+  [[11.45, 'carry'], [16.3, 'carry'], [19.45, 'carry'], [25.4, 'carry'], [37.45, 'carry'], [41.45, 'carry'], [44.55, 'carry'], [47.45, 'carry'], [51.45, 'carry'], [53.3, 'swell']].forEach(([t, k]) => Ev.push({ t, kind: k }));
+  Ev.push({ t: STRIKE_T[0], kind: 'strike' });
+  VS.t.forEach((t) => Ev.push({ t: t + 0.45, kind: 'strike' }, { t: t + 0.95, kind: 'enter_r' }));
+  Ev.push({ t: 14.45, kind: 'push' }, { t: 16.0, kind: 'lift' });
+  HX.flip.forEach((t, i) => Ev.push({ t, kind: 'flip', k: i }));
+  Ev.push(...keyEvents);
+  for (let i = 0; i < CMD.chars.length; i += 2) if (CMD.chars[i].textContent !== ' ') Ev.push({ t: CMD.t0 + (i + 0.5) * CMD.dur / CMD.chars.length, kind: 'tkey' });
+  Ev.push({ t: CMD.end + 0.06, kind: 'enter' });
+  for (const R of TERM_ROWS) if (R.i > 0 && R.text.trim() && R.text !== '$ ') Ev.push({ t: R.show, kind: 'out' });
+  E.b.forEach((L) => { for (let i = 0; i < L.text.length; i++) Ev.push({ t: L.t0 + (i + 0.5) * L.dur / L.text.length, kind: 'key' }); });
+  Ev.push({ t: 32.0, kind: 'unseal' }, { t: 35.25, kind: 'ring' }, { t: 34.0, kind: 'rainstop' }, { t: 25.7, kind: 'rain' });
+  [0, 1, 2].forEach((i) => Ev.push({ t: 34.0 + i * 0.25, kind: 'tap', k: i })); Ev.push({ t: 34.75, kind: 'tap', k: 3 });
+  COPY.methods.forEach((m, i) => Ev.push({ t: LT0 + i * LSTEP, kind: 'stamp', k: i }));
+  ST.t.forEach((t, i) => Ev.push({ t, kind: 'tap', k: i }));
+  for (let p = 10; p <= 70; p += 10) Ev.push({ t: PT0 + 0.9 * solveOut(p / 71.1), kind: 'blip', k: p / 10 });
+  Ev.push({ t: 49.5, kind: 'tap', k: 0 }, { t: 49.62, kind: 'tap', k: 1 });
+  return Ev.sort((a, b) => a.t - b.t);
+};
+function solveOut(v) { let lo = 0, hi = 1; for (let i = 0; i < 40; i++) { const m = (lo + hi) / 2; if (appleOut(m) < v) lo = m; else hi = m; } return hi; }
+
+// ───────────────────────── build + ready ─────────────────────────
+caption('cast', 14.7, 17.6, COPY.castH, COPY.castS);
+caption('hex', 17.9, 19.4, COPY.hexH, COPY.hexS);
+caption('exam', 26.7, 29.3, COPY.examH, COPY.examS);
+caption('grade', 35.9, 37.4, COPY.gradeH, COPY.gradeS);
+window.__ready = (async () => {
+  for (const w of [400, 500, 600, 700]) { await document.fonts.load(`${w} 40px "NSS"`, '大师'); await document.fonts.load(`${w} 40px "SS4"`, 'AI’s'); }
+  await document.fonts.load('400 26px "NSM"', '━ 爻'); await document.fonts.load('700 26px "NSM"');
+  buildType(); await buildTerm(); buildHex(); buildVs(); buildExam(); buildList(); buildStats(); buildHon(); await buildLock(); buildCaps();
+  await document.fonts.ready;
+  { const m = mk($('trows'), 'tr mono', 'M'.repeat(200)); show($('sTerm'), true); ADV = m.getBoundingClientRect().width / 200; m.remove(); show($('sTerm'), false); }
+  layoutType();
+  const meas = (sec, f) => { show($(sec), true); f(); show($(sec), false); };
+  meas('sVs', () => VSR.forEach((R) => { R.lw = wOf(R.l); }));
+  meas('sList', () => { LI.ww = LI.w.map(wOf); LI.hw = wOf(LI.h); LI.sw = wOf(LI.s); });
+  meas('sStat', () => { STATS.forEach((s) => { s.w = wOf(s.a); }); STATS.maxW = Math.max(...STATS.map((s) => s.w)); PCT.w100 = wOf(PCT.n); PCT.lw = wOf(PCT.l); PCT.sw = wOf(PCT.s); });
+  meas('sHon', () => { HO.sw = wOf(HO.s); });
+  meas('sLock', () => { LK.uw = wOf(LK.url); LK.gw = wOf(LK.tag); });
+  E.b.forEach(measureLine);
+  buildTermCam();
+  await window.__seek(+(Q.get('t') || 0));
+  return true;
+})();
+</script>
+</body></html>

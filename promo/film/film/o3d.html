@@ -1,0 +1,202 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<!--
+  严肃占卜 · Divination launch film — the two 3D shots (three.js r170), rendered OFFLINE as frames by r3d_seq.py.
+    o3d.html?shot=open  6.0 s  a cinnabar dot blinks three times on a dark table (0.25 / 1.0 / 1.75 s). On bar 1 (2.0 s) three
+                               bronze cash coins (乾隆通寶, square hole) fall into frame, tumbling, while the camera whips up
+                               from a low angle to top-down. They land and wobble down like real coins. Two land 字 (inscribed)
+                               side up and one 背 (plain) side up: 2 + 2 + 3 = 7, 少阳, the first line of the real cast the film
+                               shows (session/cast.txt). The middle coin lands over the dot, so the dot glows through its
+                               square hole. 4.55–5.85 the camera dives into the hole until the frame is solid cinnabar.
+    o3d.html?shot=end&ppu=&sx=&sy=  2.5 s  start inside the cinnabar dot → pull back → the brand mark (a paper tile with 卜
+                               cut through it, the dot at its foot) swings in around its own dot and lands pixel-matched on
+                               the comp's vector lockup (window.__handoff of comp.html: ppu = px per SVG unit, sx/sy = dot centre).
+  World units: coins — 1 unit = 1 mm × 4 (radius 100); tile — 1 unit = 1 SVG unit of the brand lockup. y up.
+-->
+<style>html,body{margin:0;background:#1B1712;overflow:hidden}canvas{display:block}</style>
+<script type="importmap">{"imports":{"three":"./node_modules/three/build/three.module.js","three/addons/":"./node_modules/three/examples/jsm/"}}</script>
+</head><body>
+<script type="module">
+import * as THREE from 'three';
+import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
+import { TTFLoader } from 'three/addons/loaders/TTFLoader.js';
+import { Font } from 'three/addons/loaders/FontLoader.js';
+
+const Q = new URLSearchParams(location.search);
+const W = 1920, H = 1080, SHOT = Q.get('shot') || 'open';
+const INK = '#1B1712', PAPER = '#ECE5D3', CINNABAR = '#B8361E';
+const FOV = 30, TANH = Math.tan((FOV / 2) * Math.PI / 180);
+
+const renderer = new THREE.WebGLRenderer({ antialias: true, preserveDrawingBuffer: true });
+renderer.setPixelRatio(1); renderer.setSize(W, H);
+renderer.toneMapping = THREE.ACESFilmicToneMapping; renderer.outputColorSpace = THREE.SRGBColorSpace;
+renderer.shadowMap.enabled = true; renderer.shadowMap.type = THREE.PCFSoftShadowMap;
+document.body.appendChild(renderer.domElement);
+const scene = new THREE.Scene(); scene.background = new THREE.Color(INK);
+const pmrem = new THREE.PMREMGenerator(renderer);
+scene.environment = pmrem.fromScene(new RoomEnvironment(), 0.04).texture;
+const camera = new THREE.PerspectiveCamera(FOV, W / H, 0.5, 100000);
+
+const clamp = (x, a = 0, b = 1) => Math.min(b, Math.max(a, x));
+const lerp = (a, b, t) => a + (b - a) * t;
+const seg = (t, a, b) => clamp((t - a) / (b - a));
+const expoIn = (x) => (x <= 0 ? 0 : Math.pow(2, 10 * x - 10));
+const expoOut = (x) => (x >= 1 ? 1 : 1 - Math.pow(2, -10 * x));
+const expoInOut = (x) => (x <= 0 ? 0 : x >= 1 ? 1 : x < 0.5 ? Math.pow(2, 20 * x - 10) / 2 : (2 - Math.pow(2, -20 * x + 10)) / 2);
+const sineInOut = (x) => -(Math.cos(Math.PI * x) - 1) / 2;
+const cubicOut = (x) => 1 - Math.pow(1 - x, 3);
+function spring(x, w = 9, z = 0.55) { if (x <= 0) return 0; const wd = w * Math.sqrt(1 - z * z); return 1 - Math.exp(-z * w * x) * (Math.cos(wd * x) + (z * w / wd) * Math.sin(wd * x)); }
+
+// ───────────────────────── OPEN: three cash coins ─────────────────────────
+const R = 100, HOLE = 21, TH = 11, RIM_W = 10, RIM_H = 1.6, SQ_W = 7;
+async function buildCoins() {
+  const ttf = new TTFLoader(); ttf.reversed = true; const font = new Font(ttf.parse(await (await fetch('fonts/coin.otf')).arrayBuffer()));
+  const bronze = new THREE.MeshPhysicalMaterial({ color: '#5A4428', metalness: 0.9, roughness: 0.58, envMapIntensity: 0.9 });
+  const polish = new THREE.MeshPhysicalMaterial({ color: '#A8844F', metalness: 1, roughness: 0.33, envMapIntensity: 2.2 });
+  const relief = new THREE.MeshPhysicalMaterial({ color: '#B08B55', metalness: 0.92, roughness: 0.36, envMapIntensity: 2.6, side: THREE.DoubleSide });
+  const sq = (h) => { const p = new THREE.Path(); p.moveTo(-h, -h); p.lineTo(-h, h); p.lineTo(h, h); p.lineTo(h, -h); p.closePath(); return p; };
+  const ring = (ro, ri) => { const s = new THREE.Shape(); s.absarc(0, 0, ro, 0, Math.PI * 2, false); const h = new THREE.Path(); h.absarc(0, 0, ri, 0, Math.PI * 2, true); s.holes.push(h); return s; };
+  const disk = new THREE.Shape(); disk.absarc(0, 0, R - 0.5, 0, Math.PI * 2, false); disk.holes.push(sq(HOLE));
+  const base = new THREE.ExtrudeGeometry(disk, { depth: TH - 2 * RIM_H, bevelEnabled: true, bevelThickness: 0.8, bevelSize: 0.8, bevelSegments: 2, curveSegments: 96 });
+  base.translate(0, 0, -(TH - 2 * RIM_H) / 2);
+  const rimG = new THREE.ExtrudeGeometry(ring(R, R - RIM_W), { depth: TH, bevelEnabled: true, bevelThickness: 0.7, bevelSize: 0.7, bevelSegments: 2, curveSegments: 96 }); rimG.translate(0, 0, -TH / 2);
+  const sqS = new THREE.Shape(); sqS.moveTo(-HOLE - SQ_W, -HOLE - SQ_W); sqS.lineTo(HOLE + SQ_W, -HOLE - SQ_W); sqS.lineTo(HOLE + SQ_W, HOLE + SQ_W); sqS.lineTo(-HOLE - SQ_W, HOLE + SQ_W); sqS.closePath();
+  const sqH = new THREE.Path(); sqH.moveTo(-HOLE, -HOLE); sqH.lineTo(-HOLE, HOLE); sqH.lineTo(HOLE, HOLE); sqH.lineTo(HOLE, -HOLE); sqH.closePath(); sqS.holes.push(sqH);
+  const sqG = new THREE.ExtrudeGeometry(sqS, { depth: TH, bevelEnabled: true, bevelThickness: 0.6, bevelSize: 0.6, bevelSegments: 2 }); sqG.translate(0, 0, -TH / 2);
+  // 乾隆通寶, read top-bottom-right-left (上下右左), raised relief on the 字 face only
+  const glyphs = [['乾', 0, 61], ['隆', 0, -61], ['通', 61, 0], ['寶', -61, 0]];
+  const glyphGeos = glyphs.map(([ch, x, y]) => {
+    const g = new THREE.ExtrudeGeometry(font.generateShapes(ch, 37), { depth: RIM_H + 0.4, bevelEnabled: true, bevelThickness: 0.35, bevelSize: 0.35, bevelSegments: 1, curveSegments: 6 });
+    g.computeBoundingBox(); const b = g.boundingBox; g.translate(x - (b.min.x + b.max.x) / 2, y - (b.min.y + b.max.y) / 2, (TH - 2 * RIM_H) / 2 - 0.4); return g;
+  });
+  const coins = [];
+  for (let i = 0; i < 3; i++) {
+    const g = new THREE.Group();
+    for (const [geo, mat] of [[base, bronze], [rimG, polish], [sqG, polish]]) { const m = new THREE.Mesh(geo, mat); m.castShadow = m.receiveShadow = true; g.add(m); }
+    for (const geo of glyphGeos) { const m = new THREE.Mesh(geo, relief); m.castShadow = m.receiveShadow = true; g.add(m); }
+    const holder = new THREE.Group(); g.rotation.x = -Math.PI / 2;     // the coin's +z face now points up (+y): that is the 字 face
+    holder.add(g); scene.add(holder); coins.push(holder);
+  }
+  return coins;
+}
+// ───────────────────────── END: the brand mark tile ─────────────────────────
+const MARK_D = 'M99 35.4L51.75 57.065L51.75 15L40.25 15L40.25 105L51.75 105L51.75 68.939Z';
+const DOT = { cx: 90.4, cy: 97.8, r: 7.6 }, TILE_DEPTH = 16, DOT_H = 1.2;
+const TILE_FRONT = TILE_DEPTH / 2;
+function buildTile() {
+  const P = (x, y) => new THREE.Vector2(x - DOT.cx, DOT.cy - y);       // SVG (y down) → world (y up), origin at the dot centre
+  const s = new THREE.Shape([P(0, 0), P(0, 120), P(120, 120), P(120, 0)]);
+  const nums = MARK_D.match(/-?\d+(\.\d+)?/g).map(Number), pts = []; for (let i = 0; i < nums.length; i += 2) pts.push(P(nums[i], nums[i + 1]));
+  s.holes.push(new THREE.Path(pts));
+  const geo = new THREE.ExtrudeGeometry(s, { depth: TILE_DEPTH, bevelEnabled: false }); geo.translate(0, 0, -TILE_DEPTH / 2);
+  const front = new THREE.MeshBasicMaterial({ color: PAPER, toneMapped: false });
+  const side = new THREE.MeshPhysicalMaterial({ color: '#B9AE94', roughness: 0.62, metalness: 0, sheen: 0.4 });
+  const tile = new THREE.Mesh(geo, [front, side]);
+  const dot = new THREE.Mesh(new THREE.CylinderGeometry(DOT.r, DOT.r, DOT_H, 96), new THREE.MeshBasicMaterial({ color: CINNABAR, toneMapped: false }));
+  dot.rotation.x = Math.PI / 2; dot.position.z = TILE_FRONT + DOT_H / 2;
+  const grp = new THREE.Group(); grp.add(tile); grp.add(dot); scene.add(grp);
+  return grp;
+}
+
+let COINS, TABLE, DOTM, DOTL, TILE;
+const key = new THREE.SpotLight('#ffe9cf', 0, 0, Math.PI / 7, 0.75, 0);
+key.castShadow = true; key.shadow.mapSize.set(2048, 2048); key.shadow.bias = -0.0004; key.shadow.camera.near = 500; key.shadow.camera.far = 6000;
+scene.add(key); scene.add(key.target);
+const rim = new THREE.DirectionalLight('#dfe6ff', 0); scene.add(rim);
+const sweep = new THREE.PointLight('#fff6ea', 0, 0, 0); scene.add(sweep);
+
+if (SHOT === 'open') {
+  COINS = await buildCoins();
+  TABLE = new THREE.Mesh(new THREE.PlaneGeometry(20000, 20000), new THREE.MeshStandardMaterial({ color: '#17130F', roughness: 0.92, metalness: 0 }));
+  TABLE.rotation.x = -Math.PI / 2; TABLE.receiveShadow = true; scene.add(TABLE); scene.fog = new THREE.Fog(INK, 1600, 5200);
+  DOTM = new THREE.Mesh(new THREE.CircleGeometry(30, 96), new THREE.MeshBasicMaterial({ color: CINNABAR, toneMapped: false }));
+  DOTM.rotation.x = -Math.PI / 2; DOTM.position.y = 0.6; scene.add(DOTM);
+  DOTL = new THREE.PointLight(CINNABAR, 0, 420, 1.6); DOTL.position.set(0, 9, 0); scene.add(DOTL);
+  key.position.set(-2400, 1500, 900); key.target.position.set(0, 0, 0);
+  rim.position.set(1800, 700, -1600);
+} else {
+  TILE = buildTile();
+  key.castShadow = false; key.position.set(-2600, 2100, 3700); rim.position.set(1500, 800, -2000);
+}
+
+// rest poses (x, z on the table; yaw; face: +1 = 字 up, −1 = 背 up), landing times, and the toss
+const REST = [
+  { x: -246, z: 52, yaw: 0.42, face: 1, tl: 2.86, tilt0: 0.42, spins: 3.5, from: [-330, 400, -120] },
+  { x: 0, z: 0, yaw: 0.0, face: 1, tl: 3.02, tilt0: 0.36, spins: 4.0, from: [70, 430, -150] },
+  { x: 238, z: -44, yaw: -0.3, face: -1, tl: 3.16, tilt0: 0.48, spins: 3.5, from: [380, 410, -60] },
+];
+const T_IN = 1.97;                            // the coins enter from above the frame just before bar 1
+function coinPose(c, P, t) {
+  const yawFix = new THREE.Quaternion().setFromAxisAngle(new THREE.Vector3(0, 1, 0), P.yaw);
+  const flip = P.face > 0 ? 0 : Math.PI;
+  if (t < P.tl) {                              // falling under gravity, tumbling about a horizontal axis
+    const u = seg(t, T_IN, P.tl), fall = 0.3 * u + 0.7 * u * u;
+    const yR = R * Math.sin(P.tilt0) + TH / 2;
+    c.position.set(lerp(P.from[0], P.x, cubicOut(u)), lerp(P.from[1], yR, fall), lerp(P.from[2], P.z, cubicOut(u)));
+    const ang = flip + P.tilt0 + (1 - u) * P.spins * Math.PI * 2 * (0.6 + 0.4 * (1 - u));
+    const q = new THREE.Quaternion().setFromAxisAngle(new THREE.Vector3(1, 0, 0.35).normalize(), ang);
+    c.quaternion.copy(yawFix).multiply(q);
+    return;
+  }
+  // landed: an Euler-disk wobble — the tilt decays while its azimuth precesses faster and faster, then it lies flat
+  const s = t - P.tl, tilt = P.tilt0 * Math.exp(-3.3 * s) * (1 - seg(s, 0.9, 1.35));
+  const phi = 0.0 + 2 * Math.PI * (2.2 * s + 1.6 * s * s);
+  const axis = new THREE.Vector3(Math.cos(phi), 0, Math.sin(phi));
+  const qt = new THREE.Quaternion().setFromAxisAngle(axis, tilt);
+  const qf = new THREE.Quaternion().setFromAxisAngle(new THREE.Vector3(1, 0, 0.35).normalize(), flip);
+  c.quaternion.copy(qt).multiply(yawFix).multiply(qf);
+  c.position.set(P.x, R * Math.sin(tilt) * 0.98 + (TH / 2) * Math.cos(tilt), P.z);
+}
+function lookFrom(pos, tgt, up = [0, 1, 0]) { camera.position.set(...pos); camera.near = Math.max(0.5, Math.hypot(pos[0] - tgt[0], pos[1] - tgt[1], pos[2] - tgt[2]) / 40); camera.up.set(...up); camera.lookAt(...tgt); camera.updateProjectionMatrix(); }
+
+// OPEN 6 s (120 BPM, bar = 2 s)
+const TOP_H = 760 / (2 * TANH * (W / H)) * 1.9 * 0.86;            // top-down height: the three coins across ~58 % of the frame
+function shotOpen(t) {
+  const on = (t >= 0.25 && t < 0.62) || (t >= 1.0 && t < 1.37) || t >= 1.75;
+  DOTM.visible = on; DOTL.intensity = on ? 900 * (0.6 + 0.4 * seg(t, 1.75, 2.2)) : 0;
+  COINS.forEach((c, i) => coinPose(c, REST[i], t));
+  // camera: low and close on the dot → whip up and round as the coins fall → top-down over the three → dive into the hole
+  const p1 = cubicOut(seg(t, 0, 2.0));
+  const lowAz = lerp(-0.25, -0.18, p1), lowEl = lerp(0.3, 0.34, p1), lowD = lerp(760, 640, p1);
+  const w = expoInOut(seg(t, 1.9, 3.7)), st = sineInOut(seg(t, 3.4, 4.4));
+  const az = lerp(lowAz, 0.55, w) * (1 - st);
+  let el = lerp(lowEl, 1.18, w); el = lerp(el, Math.PI / 2 - 0.0001, st);
+  let d = Math.exp(lerp(Math.log(lowD), Math.log(TOP_H * 1.08), w)); d = lerp(d, TOP_H, st);
+  const pu = expoIn(seg(t, 4.55, 5.85));
+  const yDive = Math.exp(lerp(Math.log(d), Math.log(4.5), pu));
+  const pos = [Math.sin(az) * Math.cos(el) * yDive, Math.sin(el) * yDive, Math.cos(az) * Math.cos(el) * yDive];
+  const up = st > 0.5 ? [0, 0, -1] : [0, 1, 0];
+  const air = Math.sin(Math.PI * seg(t, 1.7, 3.5)), ty = 150 * air;                   // look up into the air while the coins fall
+  pos[1] += ty; const k = 1 + 0.35 * air; pos[0] *= k; pos[2] *= k; pos[1] = ty + (pos[1] - ty) * k;
+  if (st >= 0.999) lookFrom([0, yDive, 0], [0, 0, 0], [0, 0, -1]);
+  else { lookFrom(pos, [0, ty, 0], [0, 1, 0]); if (st > 0) { camera.up.set(0, Math.cos(el), -Math.sin(el)); camera.lookAt(0, ty, 0); camera.updateProjectionMatrix(); } }
+  // light: the key comes up as the dot settles; a sweep crosses the coins on the landing bar
+  const li = 0.25 + 0.75 * cubicOut(seg(t, 1.6, 2.6));
+  key.intensity = 4.2 * li; rim.intensity = 0.9 * li; scene.environmentIntensity = 0.32 * li + 0.03;
+  const sw = seg(t, 3.0, 4.6);
+  sweep.position.set(lerp(-900, 900, sineInOut(sw)), 260, lerp(500, -300, sineInOut(sw)));
+  sweep.intensity = 2.2 * Math.sin(Math.PI * sw) * li;
+}
+// END 2.5 s: inside the dot → pull back → the tile swings in about its own dot → lands where the 2D lockup draws it
+const PPU = +(Q.get('ppu') || 4.4), SX = +(Q.get('sx') || 700), SY = +(Q.get('sy') || 600);
+function shotEnd(t) {
+  const f = spring(seg(t, 0.15, 2.4) * 2.2, 7.5, 0.62);
+  TILE.rotation.set(lerp(-0.35, 0, f), lerp(Math.PI * 0.46, 0, f), lerp(0.9, 0, f));
+  const dL = TILE_FRONT + DOT_H + H / (2 * TANH * PPU);
+  const txL = (960 - SX) / PPU, tyL = (SY - 540) / PPU;
+  const p = expoOut(seg(t, 0.05, 1.9));
+  const d0 = TILE_FRONT + DOT_H + 4;
+  const d = Math.exp(lerp(Math.log(d0), Math.log(dL), p));
+  const u = sineInOut(seg(t, 0.12, 1.9));
+  const set = seg(t, 1.5, 2.25), k = (1 - sineInOut(set)) * seg(t, 0, 0.6);
+  const tx = lerp(0, txL, u), ty = lerp(0, tyL, u), yaw = -0.12 * k, pitch = 0.05 * k;
+  camera.position.set(tx + Math.sin(yaw) * Math.cos(pitch) * d, ty + Math.sin(pitch) * d, Math.cos(yaw) * Math.cos(pitch) * d);
+  camera.up.set(0, 1, 0); camera.lookAt(tx, ty, 0); camera.updateProjectionMatrix();
+  key.intensity = 2.2; rim.intensity = 1.4; scene.environmentIntensity = 0.35;
+  const sw = seg(t, 0.3, 2.2);
+  sweep.position.set(lerp(-260, 260, sineInOut(sw)), lerp(120, -60, sineInOut(sw)), 160);
+  sweep.intensity = 1.6 * Math.sin(Math.PI * sw);
+}
+window.__seek = (t) => { (SHOT === 'open' ? shotOpen : shotEnd)(t); renderer.render(scene, camera); return true; };
+window.__ready = true;
+</script></body></html>

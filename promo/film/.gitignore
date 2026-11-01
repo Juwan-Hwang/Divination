@@ -1,0 +1,14 @@
+# rebuilt by setup.sh / reproduce.sh, never committed
+film/node_modules/
+film/fonts/
+film/brand/
+film/frames/
+film/out/
+audio/en/
+audio/zh/
+audio/*.wav
+repos/
+review/
+__pycache__/
+*.otf
+*.ttf
