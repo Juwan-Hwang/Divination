@@ -3,7 +3,7 @@
 本账为将来论文发表与商业闭源预留：所有资产按许可类别分开登记。与 MANIFEST.md（资产总清单）的许可栏互为印证；条目级许可（数据集逐例）以 masters-dataset 各条 license_status / redistributable 字段为准。
 
 ## 1. 我们原创的（可自由用于论文与闭源商业）
-- 知识库正文：divination/README.md、chinese-yijing.md、chinese-liuyao-meihua.md、chinese-bazi-ziwei.md、western-tarot.md、western-astro-numerology-runes.md、lifekline-method.md、calibration.md、MANIFEST.md
+- 知识库正文：docs/KNOWLEDGE-BASE.md（原 README）、chinese-yijing.md、chinese-liuyao-meihua.md、chinese-bazi-ziwei.md、western-tarot.md、western-astro-numerology-runes.md、lifekline-method.md、calibration.md、MANIFEST.md
 - 占卜 skill：~/workspace/custom-skills/divination/SKILL.md
 - 工具脚本：divination/tools/cast_iching.py、draw_tarot.py、draw_runes.py 及自建机器可读数据集（hexagrams-64 / tarot-78 / runes-24 / ganzhi-jieqi JSON，程序生成与校验）
 - 基准与评测：masters-dataset 的 SCHEMA.md / schema.json / DATASHEET.md / splits 设计、benchmark/PROTOCOL.md、benchmark/evaluation/evaluate.py、benchmark/iterations.md 与各轮 runs/ 证据包

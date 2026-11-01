@@ -13,4 +13,4 @@
 | lilly-introduction-to-astrology-1852.pdf（5,515,890 B） | Lilly《An Introduction to Astrology》(1852，Zadkiel 修订《Christian Astrology》1647） | Internet Archive 直链（调研报告验活） | PD | 卜卦占星集大成 |
 | cheiro-book-of-numbers-archive.txt（约 455 KB） | Cheiro《Cheiro's Book of Numbers》 | Internet Archive DLI 馆藏 djvu 全文（/download/ 路径取得正文；/stream/ 路径曾返回 HTML 页，已弃） | IA 标公开全文；原书版权页印 ALL RIGHTS RESERVED，作者卒于 1936 年——著录为「民俗史料，许可状态存疑从严」 | 数字命理史料，非规则依据；OCR 文本，讹字多，引用须核 |
 
-转录规矩：以上 OCR 文本引用关键数据时须交叉验证；扫描件中 OCR 不可读处（如 Lilly PDF 盘图）按视觉转录规矩处理并标注 transcription=visual（见 ../../README.md 资料处理规矩）。
+转录规矩：以上 OCR 文本引用关键数据时须交叉验证；扫描件中 OCR 不可读处（如 Lilly PDF 盘图）按视觉转录规矩处理并标注 transcription=visual（见 ../../docs/KNOWLEDGE-BASE.md 资料处理规矩）。

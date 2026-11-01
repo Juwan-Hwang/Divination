@@ -1,0 +1,7 @@
+name: divination
+title: "Serious Divination"
+description: "Serious Divination - an AI fortune-telling Skill that uses masters' original readings as its exam paper. Most AI fortune-telling just tells you what you want to hear; this one doesn't. We read dozens of masters' original works - Liuyao, Da Liu Ren, Bazi, Ziwei Doushu, Qimen Dunjia, Cezi, dream divination; Xu Lewu, Wang Huying, Duan Jianye, Xu Quanren, Cai Minghong - and distilled 1,400+ rules into an executable Skill: crypto-random casts, deterministic calendar charts, and school disputes decided by the reader in context, never pushed back onto you. Trained by 96 rounds of blind testing - 5,419 AI seats, 7.66 billion tokens - on 1,361 historical cases with master readings and real outcomes, with five roles (setting, answering, grading, revising, moderating) strictly separated, rules fixed before each exam, questions sealed. V1 scored 71.1% agreement with the masters on a 41-case sealed test. Free - it won't replace the masters, but every AI can now follow their manuals."
+category: "Work and knowledge"
+include_in_prompt: true
+availability:
+  confidential_vm: true
