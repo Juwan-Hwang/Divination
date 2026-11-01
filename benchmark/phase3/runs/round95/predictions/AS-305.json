@@ -1,0 +1,12 @@
+{
+ "case_id": "AS-305",
+ "prediction_text": "特朗普以极窄差距胜选（positive for Trump）：2024年美国总统选举终局由唐纳德·特朗普胜出，哈里斯惜败。此盘按卡面自承势均力敌、极难判断，胜负只在一线之间，靠选举人票结构分出高下，普选票层面甚至可互有胜负；断语等级只给窄胜，不给明显胜势。应期即结果坐标：2024年11月5日投票日（单点事件，无近远两段）。置信不足半：盘面既自承难判、卡面又无具体位置，已降置信。",
+ "basis": "卡面未标注 tradition 字段，按题面体裁自决\nsystems_used: mundane/election astrology（Astrology King选举日星盘与候选人行运体裁自决）\n功量清单：题面只载撰者自承盘面势均力敌之事实，无星盘位置可列作用源——功量清单无可指认盘面作用线可入账，属输入残损；势均力敌本身即功量接近之登记。\n主线认定：无盘面主线可认定，按终局单判主线定特朗普窄胜，等级带为一线窄胜级，任何大胜表述均出带、已撤销。\n输入完整性：卡面无 tradition 字段、无 chart/attachments，残损，已降置信。",
+ "confidence": 0.48,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": ""
+ }
+}

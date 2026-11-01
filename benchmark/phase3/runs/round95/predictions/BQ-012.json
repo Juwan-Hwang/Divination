@@ -1,0 +1,12 @@
+{
+ "case_id": "BQ-012",
+ "prediction_text": "倭寇不来（negative on invasion）：丙子日所卜倭寇来犯一事，终局为不来，本处无倭寇之犯，只是虚惊戒备。噬嗑虽有梗阻咬合之象，而官鬼爻衰而静——鬼为寇贼之用神，衰弱又安静不动，主贼势无力、不发动、不至境。应期单位为日（近事戒备尺度）：窗口为占后数日内，主坐标取约三至七日警讯自消、无寇至境。此问为单点来否，无近远两段，终局单判不来。",
+ "basis": "tradition: 六爻\nsystems_used: 六爻（纳甲，官鬼为寇贼用神）\n第八节功量核——功量清单：官鬼衰静（压制寇势线，强，用神衰弱且静而不动）；丙子日水气克火鬼所处之势（压制线，弱，日辰不助鬼）。助成寇至之线无可指认一条。\n主线认定：官鬼衰静为主线，寇不来。等级带：不来足级，非仅迟来——衰与静两项同见于用神本身。\n输入完整性：chart_complete=false，原文只记卦名与鬼爻衰静，无全盘，应期日档为量级估计，已降置信。",
+ "confidence": 0.7,
+ "trigger": {
+  "changed_main": false,
+  "reserve_used": false,
+  "disputed": false,
+  "reason": "静卦无动爻化神，changed_main=false；未取伏神，reserve_used=false；鬼衰静断不来为单义，disputed=false。"
+ }
+}
