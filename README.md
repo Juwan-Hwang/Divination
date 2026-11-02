@@ -15,6 +15,10 @@
   <a href="#边界">边界</a>
 </p>
 
+<p align="center">简体中文 · <a href="README.en.md">English</a></p>
+
+https://github.com/user-attachments/assets/a9989d3b-4e8b-444f-abba-8167e999e2e5
+
 ---
 
 市面上的 AI 算命，大多是背几句口诀，再顺着你的话往好听里说。
