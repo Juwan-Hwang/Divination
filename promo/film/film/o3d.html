@@ -64,9 +64,9 @@ async function buildCoins() {
   const sqH = new THREE.Path(); sqH.moveTo(-HOLE, -HOLE); sqH.lineTo(-HOLE, HOLE); sqH.lineTo(HOLE, HOLE); sqH.lineTo(HOLE, -HOLE); sqH.closePath(); sqS.holes.push(sqH);
   const sqG = new THREE.ExtrudeGeometry(sqS, { depth: TH, bevelEnabled: true, bevelThickness: 0.6, bevelSize: 0.6, bevelSegments: 2 }); sqG.translate(0, 0, -TH / 2);
   // 乾隆通寶, read top-bottom-right-left (上下右左), raised relief on the 字 face only
-  const glyphs = [['乾', 0, 61], ['隆', 0, -61], ['通', 61, 0], ['寶', -61, 0]];
-  const glyphGeos = glyphs.map(([ch, x, y]) => {
-    const g = new THREE.ExtrudeGeometry(font.generateShapes(ch, 37), { depth: RIM_H + 0.4, bevelEnabled: true, bevelThickness: 0.35, bevelSize: 0.35, bevelSegments: 1, curveSegments: 6 });
+  const glyphs = [['乾', 0, 60, 42], ['隆', 0, -60, 42], ['通', 60, 0, 42], ['寶', -60, 0, 45]];   // 寶 a touch larger so 貝's counters stay open
+  const glyphGeos = glyphs.map(([ch, x, y, sz]) => {
+    const g = new THREE.ExtrudeGeometry(font.generateShapes(ch, sz), { depth: RIM_H + 0.4, bevelEnabled: false, curveSegments: 16 });
     g.computeBoundingBox(); const b = g.boundingBox; g.translate(x - (b.min.x + b.max.x) / 2, y - (b.min.y + b.max.y) / 2, (TH - 2 * RIM_H) / 2 - 0.4); return g;
   });
   const coins = [];
